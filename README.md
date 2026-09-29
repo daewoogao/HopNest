@@ -69,6 +69,7 @@ python3 -m http.server 8000
 | `apple-touch-icon.png` | iOS home-screen icon (180×180) |
 | `design-document.md` | Living design doc: architecture, features, roadmap and a dated changelog |
 | `hotel-curation-pipeline-spec.md` | The rules for choosing which hotels appear, written for a future automated refresh script |
+| `launch-cost-plan.md` | What launching costs, and what triggers each cost (domain, hosting, data refresh, live search, Supabase, analytics) |
 
 ## How it's built
 

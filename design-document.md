@@ -264,8 +264,8 @@ capped at 3–5 hotels per area.
 - Private GitHub repo: `daewoogao/HopNest`, branch `main`.
 - Files: `hopnest.html`, `manifest.json`, `icon-192.png`, `icon-512.png`,
   `apple-touch-icon.png`, `README.md`, `hotel-curation-pipeline-spec.md`,
-  this design doc, and `.gitignore` (excludes `.DS_Store`).
-- `launch-cost-plan.md` (Changelog cont'd, 38) is not in the repo yet.
+  `launch-cost-plan.md`, this design doc, and `.gitignore` (excludes
+  `.DS_Store`).
 - Not deployed to a live URL yet (GitHub Pages on a private repo needs a
   paid plan; public repo would get free Pages hosting — undecided).
 
