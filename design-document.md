@@ -1,0 +1,1569 @@
+# HopNest — Design Document
+*Subway + Hotel + Sightseeing trip planner*
+
+This is a living document. Every time meaningful work is done on the app,
+a dated entry gets added to the Changelog at the bottom. Everything above
+the changelog reflects the *current* state of the app, not history — if
+something changes, the relevant section gets edited in place rather than
+left stale.
+
+---
+
+## How HopNest actually helps someone plan a trip
+
+Normally, "where should I stay" means juggling four separate tools — a
+subway map, a hotel booking site, a sightseeing guide, and eyeballing
+distances on a generic map to guess whether anything actually connects.
+HopNest puts all of that on one screen, so the question becomes
+answerable at a glance instead of a research project.
+
+**The actual flow, start to finish:**
+
+1. **Pick a city** — real subway colors, real geography, not placeholders.
+2. **See trustworthy hotels immediately, no research needed.** The
+   default view isn't "every hotel" — it's a pre-vetted shortlist per
+   busy area: real brand names, ≥4.0 rating with enough reviews to
+   actually trust it, spread across budget to luxury. Shortlist over
+   directory is the whole point — booking sites already give you 200
+   options; HopNest gives you the ones worth considering.
+3. **Click any station, airport, or rail hub → see exactly what's
+   walkable from there**, with a live-adjustable radius. This is the
+   single biggest thing a booking site can't do well — "is this hotel
+   actually convenient" answered visually, not by squinting at a tiny
+   map thumbnail.
+4. **Filter by star class** to match budget without wading through
+   irrelevant tiers.
+5. **See real, TripAdvisor-vetted sightseeing** layered on the same map
+   — hotels and what's worth visiting nearby in one glance, not two
+   separate apps cross-referenced by hand.
+6. **Real first/last train times** for the connections that actually
+   matter — airport and rail links — genuinely useful for a late flight
+   or an early Eurostar, not decorative info.
+7. **Search anything by name**, and if it's not in the curated list,
+   **live-search the real web for it** — so someone who already booked a
+   random hotel can still check "is this actually walkable" instead of
+   being stuck with only the pre-picked options.
+8. **Pin favorites** while comparing, so browsing doesn't mean losing
+   track of what was liked.
+
+**The honest summary of the value:** HopNest isn't trying to be Google
+Maps or a booking site — it's trying to answer one specific, recurring
+travel-planning question really well: *"given where I want to be, what's
+actually nearby and trustworthy?"* — with real data behind every answer,
+not guesses.
+
+---
+
+## 1. What this is
+
+A single-page interactive map that solves one specific problem: existing
+map apps don't let you see subway routes, hotel walkability, and
+sightseeing together. HopNest overlays all three, lets you toggle subway
+lines on/off, and highlights which hotels are actually walkable from a
+station/airport/railway stop you tap.
+
+## 2. Architecture
+
+- **One self-contained HTML file** (`hopnest.html`). No build step, no
+  server. Opens directly in any browser.
+- **Map engine:** Leaflet.js (via CDN) + OpenStreetMap tiles.
+- **Data model:** a single `CITIES` object at the top of the script.
+  Each city is one entry with this shape:
+  ```
+  cityId: {
+    name, country, flag, center:[lat,lng], zoom,
+    lines:    [{ id, name, jp?, color, code, stations:[[name,lat,lng],...] }],
+    hotels:   [{ name, lat, lng, area, rating, ratingCount?, stars,
+                 priceTier(1-4), phone?, curated, brandAnchor? }],
+    sights:   [{ name, lat, lng, note, hours?, rating?, phone? }],
+    railStations: [{ name, lat, lng, note }],
+    airports: [{ name, code, lat, lng, transitNote }]
+  }
+  ```
+  Adding a city = adding one entry in this shape. No rendering code needs
+  to change.
+- **No backend, no database.** Everything is static data baked into the
+  file at the time I edit it. Nothing persists between browser sessions
+  except live-fetched hotels and pins, which reset on reload.
+
+## 3. Features (current state)
+
+- **Subway lines**: real official colors, toggleable per line, station
+  dots clickable.
+- **City picker**: sidebar cards to switch cities. Cities without data
+  yet show as "coming soon"; a text box lets the user request a new one
+  (session-only placeholder).
+- **Hotel walkability**: slider (5–20 min, presets at 5/10/15) sizes the
+  walk-radius circle drawn when you tap a station/airport/rail icon.
+  Precise walkability is read from the circle (dark green = confirmed
+  within radius of that specific point) rather than a separate filter
+  toggle — a redundant "only show walkable" checkbox was removed on
+  2026-07-12 once we confirmed the circle already answers that question
+  more precisely.
+- **Click-to-reveal circles**: tapping a subway station, airport, or
+  railway icon draws its walk-radius circle. Tapping elsewhere on the map
+  clears all open circles. Tapping the same icon again also clears just
+  that one.
+- **Color logic**: default/curated hotels = light green diamond always.
+  Hotels revealed by a **subway** station's circle = dark green (spotlight).
+  Hotels revealed by an **airport/rail** circle = light green (treated as
+  "more default coverage," not a special highlight).
+- **Live search fallback**: if a clicked spot has no curated data, the
+  page calls Claude's API (web search enabled) to fetch real hotels on
+  the fly. Only works while viewing this as a live Claude artifact — it
+  cannot authenticate from a downloaded standalone file. See §5.
+- **Pinning**: any hotel can be pinned (📌); pinned hotels always show
+  regardless of filters/circles. Session-only, no persistence.
+- **Star class vs. guest rating**: `stars` (1–5, official/brand tier) is
+  tracked separately from `rating` (Google guest review average) — these
+  can and do diverge (see curation spec).
+- **Airports & railway stations**: their own marker layer/toggle, both
+  clickable like subway stations, both get curated default hotels.
+- **Custom sightseeing pins**: user can drop their own labeled pin
+  anywhere on the map.
+
+- **Star-tier filter**: multi-select ★ chips (1–5) in the sidebar let
+  users narrow hotels by official star class, independent of guest
+  rating. Empty selection = show all (default, no-op until touched).
+  Pinned hotels always bypass this filter, same as other filters.
+
+## 4. Data curation strategy
+
+Full logic lives in `hotel-curation-pipeline-spec.md` in the same repo.
+Summary: Tier 1 (airports + major rail hubs) always curated first; brand
+anchor (Hilton/Hyatt/IHG/etc.) weighted *above* raw rating for at least
+one hotel per area, since brand recognition reduces booking anxiety for
+Western travelers; ≥100-review volume floor; price-tier spread required;
+capped at 3–5 hotels per area.
+
+## 5. Known limitations (honest, not hidden)
+
+- Subway line paths are simplified/hand-placed, not schedule-grade or
+  pulled from a live transit feed (ODPT/GTFS would be the real fix).
+- Hotel price tiers are static estimates, not live bookable rates.
+- Live search only works inside Claude's artifact viewer, not a
+  downloaded file — it depends on that environment's authenticated fetch
+  to Claude's API. No API key is embedded, so it can't work standalone.
+- Nothing persists across sessions in the current file (no localStorage
+  allowed in Claude artifacts) — pins and live-fetched hotels reset on
+  reload.
+- Not every city/station has curated data yet — coverage grows city by
+  city, area by area (see Changelog for what's covered so far).
+
+## 6. Roadmap (not yet built)
+
+- Real backend (Node/Python) + Google Places API, replacing "live search
+  on click" with cheap, reliable, always-available curated data.
+  **Cost estimate, corrected and scaled to 150 cities** (superseding the
+  earlier $35–75/mo figure, which under-scoped both city count and field
+  richness):
+  - Assumptions: 10 curated areas/city, ~40 curated hotels/city, ~400
+    Places API calls/city/month at full monthly refresh (area discovery
+    + per-hotel detail lookups, including vetting candidates that don't
+    make the cut). 150 × 400 = **60,000 calls/month**.
+  - Rating/review/phone/hours together push each call into Google's
+    **Enterprise tier (~$35–40/1,000 calls)**, not the free/basic tier —
+    this was the error in the original estimate.
+  - **At full monthly refresh, every city, every hotel: ~$2,100–2,400/mo.**
+  - **Recommended mitigation — tiered refresh frequency, not flat
+    monthly for everything:**
+    - Top 10–20 highest-traffic cities: refresh monthly (ratings/hours
+      genuinely shift; users are actually there to notice)
+    - Long-tail cities: refresh quarterly instead — hotel ratings don't
+      meaningfully move week to week, and quarterly for the little-used
+      majority cuts total call volume 2–3x with minimal real accuracy
+      loss
+    - Cheap fields (address/coordinates) can refresh independently and
+      more often than expensive fields (rating/reviews), since only the
+      latter triggers Enterprise pricing
+    - **Realistic tiered estimate: roughly $700–1,200/mo** instead of
+      the full $2,100–2,400/mo flat-monthly figure, at the same 150-city
+      scale.
+  - Only city-provider-agnostic figures here — no hidden dependency; the
+    provider (Google Places vs. an alternative) is a separate decision
+    from the tiering strategy itself.
+- **Live search cost — this is separate from the batch-refresh cost
+  above, and adds to it, not replaces it.** Right now live search only
+  works inside Claude's own artifact preview (auto-authenticated, no
+  key needed, effectively free to the user). Once a real backend exists
+  with its own Anthropic API key, **every live search call costs real
+  money, billed directly to the site owner** — current rate (Anthropic's
+  own docs): $10 per 1,000 searches + token cost, roughly 1–2 cents per
+  lookup. Two triggers feed the *same* underlying cost, not separate
+  systems:
+  1. Clicking a station/airport/rail circle with no curated hotels
+     (existing behavior, live since the first build)
+  2. Searching a hotel name not in the curated list (proposed feature,
+     not yet built — see below)
+  This scales with **actual user traffic**, not city count — unlike the
+  batch-refresh cost above, which scales with how many cities/hotels
+  exist regardless of whether anyone visits them. At modest early
+  traffic (a few hundred fallback lookups/month across both triggers):
+  a few dollars/month. At real scale (tens of thousands of monthly
+  active users hitting uncurated spots regularly), this could become
+  the larger of the two cost lines, not the smaller — worth watching
+  via the event-logging item below once there's real traffic to measure.
+  **Combined realistic monthly total at 150-city scale, tiered refresh +
+  modest live-search traffic: roughly $750–1,300/mo.**
+- **Proposed feature, not yet built: "search any hotel by name."**
+  Layers on top of the existing curated-only search bar (Shanghai
+  pilot). If a searched name isn't in the curated list, offer to run it
+  through the same live-search mechanism above (by name instead of by
+  map location) and drop a pin with the result. Deliberately reuses
+  existing infrastructure rather than requiring a new paid Places API
+  integration — cost is covered by the live-search line item above, not
+  an additional system.
+- **Minimal, privacy-respecting event logging — build this in from day one
+  once the backend exists, not as an afterthought.** Rationale: right now
+  the app is a static file with zero telemetry, so questions like "how
+  often does a star filter return zero results" are genuinely
+  unanswerable — we're flying blind on real usage. The moment a backend
+  exists, add lightweight logging for exactly these edge cases (e.g.
+  "star filter set to [1,2], zero results shown, area: X, city: Y") so
+  future decisions (like whether the 1–2★ live-search-fallback button
+  discussed on 2026-07-13 is worth building) can be traced back to actual
+  user behavior instead of guessing.
+  - **China caveat, don't default past this:** Shanghai is one of two
+    cities in the app, and most Western analytics tools (Google Analytics
+    included) are blocked by the Great Firewall without a VPN — a naive
+    default would silently lose data from exactly the market with the
+    most curation investment. Prefer self-hosted, privacy-respecting
+    tools (Plausible/Umami on our own domain) over a blocked third-party
+    SDK, specifically because it stands a real chance of working for
+    mainland China visitors too.
+- Persistence for pins (would need the backend + a database, e.g.
+  Supabase, to survive across sessions/devices).
+- More cities beyond Tokyo/Shanghai.
+- Possibly: PWA install support once this moves off prototype stage.
+
+## 7. Repo / hosting
+
+- Private GitHub repo. Files: `hopnest.html`, `hotel-curation-pipeline-spec.md`,
+  this design doc.
+- Not deployed to a live URL yet (GitHub Pages on a private repo needs a
+  paid plan; public repo would get free Pages hosting — undecided).
+
+---
+
+## Changelog
+
+### 2026-07-13 (cont'd, 43) — PWA manifest added (item 2 of the launch checklist)
+- Second item from the launch checklist: makes "Add to Home Screen" turn
+  HopNest into something that looks and opens like a real installed app
+  (full-screen, own icon, own name) instead of a generic bookmark that
+  opens inside the browser chrome. Doesn't provide offline capability on
+  its own (that needs a separate service worker, not built here) — scope
+  was deliberately just the "feels like an app" piece.
+- **New files**: `manifest.json` (name, icons, `display:standalone`,
+  theme color, start URL), `icon-192.png`, `icon-512.png` (general PWA/
+  Android icons), `apple-touch-icon.png` (180×180, iOS-specific — iOS
+  Safari doesn't fully honor the web manifest's icon field, needs its
+  own dedicated tag).
+- **Generated the icon programmatically** (via PIL) rather than using a
+  placeholder — a location-pin mark in the exact gold accent color
+  (`#e0c34c`) already used throughout the app for pinned items, on the
+  same navy gradient background already established for hover tooltips
+  — so the install icon is visually consistent with the app's existing
+  identity rather than an arbitrary new design.
+- **Added the iOS-specific meta tags** required for standalone-mode
+  behavior on Safari specifically (`apple-mobile-web-app-capable`,
+  `apple-mobile-web-app-status-bar-style`, `apple-mobile-web-app-title`)
+  — Android/Chrome mostly infer this from the manifest alone, iOS needs
+  these declared explicitly.
+- **Caught and fixed a real, unrelated inconsistency while in the head
+  section anyway**: the `<title>` tag still said the old pre-rename
+  "Transit Trip Planner" name — never updated when the project was
+  renamed to HopNest. Fixed alongside this work since it was directly
+  adjacent and easy to miss otherwise.
+- Verified via the full-script execution test, direct inspection of the
+  resulting `<head>` tags, and validated `manifest.json` actually
+  parses as valid JSON before shipping.
+
+### 2026-07-13 (cont'd, 42) — Copy button hidden unless actually needed, plus a real edge case found while testing it
+- User pushed back further: even after merging Share+Copy into one
+  action last entry, the Copy button was still always visible — which
+  is exactly the redundant-button confusion originally flagged, just
+  not fully fixed. Fair catch.
+- **Fix**: Copy button now hidden by default, only revealed when
+  auto-copy genuinely fails (both the Clipboard API and the older
+  `execCommand` fallback). Verified via three explicit simulated
+  scenarios (clipboard works / clipboard missing but execCommand works
+  / both fail) — confirmed the button stays hidden in the first two and
+  only appears in the third.
+- **While building the test for this, found a real, separate bug**:
+  `navigator.clipboard?.writeText(...).then().catch()` — when
+  `navigator.clipboard` is entirely absent (not just present-but-
+  rejecting), JS optional chaining short-circuits the *whole* chain,
+  silently skipping `.then()` AND `.catch()` both. That meant in this
+  specific case the person would get zero feedback at all — no success
+  banner, no failure banner, and the Copy button would never appear,
+  leaving them stuck with no way to know what happened. Confirmed this
+  wasn't a mock artifact via a plain isolated Node test of the exact
+  optional-chaining behavior before treating it as real.
+- **Fixed properly**: added an explicit `if(!navigator.clipboard)`
+  branch that goes straight to the `execCommand` fallback, rather than
+  relying on optional chaining to handle a case it structurally can't
+  handle. This is a genuinely different failure mode than "clipboard
+  API exists but permission denied" and needed its own path.
+- Notable given this session's pattern: found by testing the *fix* for
+  a UX complaint, not by a user report — a case where writing the
+  verification test surfaced a bug the original code review missed.
+
+### 2026-07-13 (cont'd, 41) — fixed sight-pin visual feedback, share button, and confusing 2-button flow
+- User reported three connected issues in one message.
+- **1. Sight pinning appeared completely broken.** Real root cause found:
+  `_togglePin()`'s popup-refresh logic only searched `hotelMarkers` to
+  find which marker to re-open after pinning — never `sightMarkers`.
+  Sights actually pinned correctly underneath (added to `pinnedIds`,
+  persisted to storage) but the popup never visually refreshed to show
+  "📌 Pinned," so it looked entirely non-functional even though it
+  wasn't. Fixed by checking both marker arrays.
+- **2. "Share button doesn't work."** Tested the actual share logic in
+  isolation first — it worked correctly with no errors. Best diagnosis:
+  a likely downstream consequence of bug #1 — if pinning attempts looked
+  like they failed, there may have been nothing to actually share, and
+  clicking Share with zero pins shows only a small, easy-to-miss banner
+  rather than an obvious error state.
+- **3. "What is Copy for, is it a duplicate of Share?"** This exposed a
+  real UX problem worth fixing directly rather than just explaining:
+  yes, requiring two separate clicks (Share to generate, then a second
+  Copy click) was clunky. **Merged into one action** — Share now
+  generates the link AND immediately attempts to copy it in a single
+  tap. The visible link field remains as a fallback specifically for
+  when clipboard access fails (some browser contexts restrict it), not
+  as a mandatory first step every time.
+- **Verified with a genuine end-to-end simulation**, not separate
+  isolated checks: pinned a sight through the real `_togglePin` code
+  path, then called the real `generateShareLink`, and confirmed the
+  clipboard mock actually received the correct encoded URL — proving
+  the full real user flow works, not just each piece individually.
+- Also re-verified byte-level escaping correctness on the edited
+  strings (the recurring class of bug from earlier in this session) —
+  confirmed clean this time via direct numeric byte inspection before
+  and after the edit, not just visual inspection.
+
+### 2026-07-13 (cont'd, 40) — persistence added (item 1 of the launch checklist)
+- First item from the "finish the launch checklist before adding more
+  cities" decision. Pins and last-viewed city now survive a reload —
+  previously reset every time, which was specifically a *Claude-preview*
+  sandbox limitation (localStorage works fine on a real deployed site,
+  this constraint doesn't carry over to launch).
+- **Deliberately reused the exact same encoding logic already built and
+  tested for share links** rather than writing new persistence logic
+  from scratch — extracted the shared part into `collectPinItems()`,
+  used by both `generateShareLink()` and the new `savePinsToStorage()`.
+  Same curated-vs-live-search distinction applies: curated pins save as
+  just an ID, live-search pins save their full snapshot so they survive
+  without needing to be re-fetched.
+- **Shared links and local persistence now compose correctly**: opening
+  a shared link still takes priority for which city loads, but those
+  shared pins also get adopted into this browser's own saved state
+  afterward — so a shared trip doesn't just show once and vanish, it
+  becomes part of what's remembered going forward.
+- All localStorage access wrapped defensively (try/catch, silent
+  failure) — same category of thing as clipboard/other browser APIs
+  that can be restricted in some contexts; failing to persist should
+  never crash the app.
+- **Lost and rebuilt the test harness file twice during this session**
+  (environment resets wiped `/home/claude/run_full_script.js` between
+  turns) — rebuilt it from scratch each time with all previously
+  accumulated mock fixes (setRadius, setPopupContent, location,
+  btoa/atob, URLSearchParams, and now localStorage), rather than losing
+  the accumulated verification rigor each time the file disappeared.
+- Verified via the full-script execution test (confirmed `saveLastCity`
+  fires correctly on init) plus a direct round-trip test: saved a
+  realistic pin payload, simulated a completely fresh page load against
+  a separate copy of the data, confirmed the pins restore correctly.
+
+### 2026-07-13 (cont'd, 39) — searchable, alphabetized city picker
+- Forward-looking fix for scale: discussed how a scrolling grid of city
+  cards (fine at 5 cities) would become genuinely bad at hundreds — no
+  way to jump straight to a city without scrolling through an unsorted
+  list.
+- **Deliberately kept this as a separate search box from the existing
+  place-search bar**, not merged into it — they answer different
+  questions (which city to look at, vs. what to find inside the current
+  city) and merging them would make typing a city name while already
+  inside a different city ambiguous.
+- **Reused the exact same proven mechanism** rather than designing a new
+  one: the same `normalizeSearchText()` accent-insensitive matching
+  already built and tested for the in-city search bar, applied here to
+  filter city cards instead of places.
+- **Also alphabetized the city list as a free improvement** — previously
+  cities just appeared in whatever order they were built in code, which
+  was invisible at 5 cities but would be genuinely unhelpful at scale.
+  Verified real order: Barcelona, London, New York City, Paris,
+  Shanghai, Tokyo.
+- Implementation deliberately avoids rebuilding the DOM on every
+  keystroke — toggles `display:none` on existing, stable card elements
+  (same lesson already learned from the city-switching bug fixed
+  earlier: destroying/rebuilding elements during interaction is a real
+  risk, not just wasteful).
+- Verified via the full-script execution test (recreated after an
+  environment reset wiped the test harness file — rebuilt it with all
+  previously-accumulated mock fixes rather than starting the mock over)
+  plus a direct data-level test of the sort and filter logic against
+  real city data.
+
+### 2026-07-13 (cont'd, 38) — new file: launch-cost-plan.md
+- Consolidated every cost discussed across the entire project into one
+  standalone financial planning document, requested to support a real
+  launch decision rather than leaving cost info scattered across many
+  separate conversation turns.
+- Covers: one-time costs (domain, Apple/Google developer fees), hosting
+  (GitHub Pages vs Netlify/Vercel), the data-refresh pipeline (corrected
+  150-city figure + tiered strategy + a rough proportional 5-city
+  estimate, explicitly flagged as not independently re-derived), live
+  search (per-lookup cost, scales with traffic not city count), Supabase
+  trust-circle costs (free tier sufficient to start, $25/mo Pro trigger),
+  and analytics (not yet built, China/GA caveat carried over).
+- Central framing: almost every real cost is gated behind one decision —
+  building the backend — which simultaneously unlocks the data pipeline,
+  live search, trust circles, and analytics at once, rather than being
+  four separate cost decisions.
+- Every figure carries its own research date and an explicit note to
+  re-verify before committing money, since several of these prices (esp.
+  Supabase, Google Places tiers) have shifted more than once this year
+  per the sources checked during research.
+
+### 2026-07-13 (cont'd, 37) — trip-plan sharing, Version A (no backend)
+- Built the "Version A" share design scoped several sessions back:
+  no accounts, no server, one link encodes everything currently pinned.
+- **New "🔗 Share my pinned picks" button** in the sidebar. Gathers every
+  currently pinned hotel and sight (across the whole session — pins can
+  span multiple cities at once, not just the currently loaded one),
+  encodes them into a compact base64 URL parameter, and shows the link
+  in a copyable field (clipboard API first, `execCommand('copy')`
+  fallback, manual-select as the last resort — no single clipboard path
+  is reliable across every browser context).
+- **Correctly distinguishes curated vs. live-search pins** when
+  building the link — this was the trickiest real design decision.
+  Curated hotels/sights just reference their ID (recipient's static
+  data already has them). But live-search-found hotels don't persist
+  anywhere — so for those specifically, the *entire hotel snapshot*
+  (name/coordinates/rating/stars/price/phone) is embedded directly in
+  the link, letting the recipient's browser reconstruct the marker
+  without ever needing to re-run a search. Solves the "ephemeral live
+  search" limitation for exactly the items someone actually cared enough
+  about to pin — without needing a real backend.
+- **Opening a shared link**: parses the URL on page load, restores every
+  pin into `pinnedIds`, injects any embedded live-search snapshots into
+  the right city's hotel list, and loads whichever city the first pin
+  belongs to — with a banner confirming "📌 Showing a shared trip plan!"
+  so it's clear what just happened.
+- Fixed a real init-ordering bug while building this: `renderCityPicker()`
+  needs to run *after* the correct city is loaded (not before), or a
+  shared link pointing at a non-default city would show the wrong city
+  highlighted as "active" in the picker despite the map being correct.
+- **Verified with a full round-trip test against real data** (not just
+  each half in isolation): generated a share payload from a realistic
+  mixed set of pins — one curated Tokyo hotel, one Tokyo sight, one
+  cross-city Shanghai hotel, and one simulated live-search hotel — then
+  parsed it exactly as a fresh page load would, on a completely separate
+  fresh copy of the data. Confirmed every pin restored correctly,
+  including the live-search hotel's full snapshot reconstructing without
+  any re-fetch.
+- Also caught and fixed a real gap in the automated test harness itself
+  while verifying this: the mock had no `location`, `btoa`/`atob`, or
+  `URLSearchParams` globals (things every real browser provides
+  automatically) — added them so future features touching URL state can
+  be verified the same rigorous way.
+
+### 2026-07-13 (cont'd, 36) — resolved the 2 remaining Tokyo gaps
+- User asked me to actually double back and confirm rather than leave
+  Tokyo National Museum and Shinjuku Gyoen as an open gap. Did the
+  targeted searches — both resolved cleanly:
+  - **Tokyo National Museum**: official site (tnm.jp, confirmed via
+    Wikipedia infobox) itself links out to `tnm-museum.world/en/pay/` as
+    its advance-ticket portal — confirmed genuinely official, not a
+    reseller, since it's referenced directly from tnm.jp. Added with
+    `bookAhead:true` (recommended for smoother entry, not strictly
+    required — matches what multiple independent sources described).
+  - **Shinjuku Gyoen**: official is the Ministry of Environment's own
+    page, with advance booking at `shinjukugyoen.hp.peraichi.com/en`.
+    **Deliberately did NOT apply the generic `bookAhead` flag** — the
+    real requirement is far more specific than "books up in peak
+    season": reservations are only mandatory on a handful of named
+    weekend dates during cherry blossom season (10 AM–4 PM slots),
+    walk-up entry works fine every other day of the year. Applying the
+    generic flag would have overstated a real, well-documented nuance.
+    Instead wrote the precise seasonal detail directly into the sight's
+    own note field — a case where the flat boolean genuinely wasn't
+    honest enough on its own, exactly the kind of over-simplification
+    risk discussed when the flag was first designed.
+- **All 24 Tokyo/London/NYC/Barcelona sights with ticket needs are now
+  resolved** — no remaining unconfirmed gaps outside Shanghai (still
+  deliberately skipped per earlier direction).
+- Verified via the full-script execution test plus direct inspection
+  confirming Shinjuku Gyoen correctly has `bookAhead: undefined` (not
+  `true`), proving the deliberate omission landed as intended.
+
+### 2026-07-13 (cont'd, 35) — official ticket links + "books up" flag, 22 sights
+- Implemented both pieces discussed: real official ticket URLs, and a
+  qualitative "books up in advance" flag instead of a fake specific
+  day-count (rejected the precise-number idea since availability is
+  genuinely seasonal and we have no live-availability data source — a
+  wrong specific number would be worse than no number at all).
+- **22 sights got real, individually-verified official ticket links**:
+  Tokyo (3: Skytree, Tower, teamLab Planets), London (all 7), NYC (all
+  6), Barcelona (6: Sagrada Família, Casa Batlló, Park Güell, Palace of
+  Catalan Music, La Pedrera, Casa Vicens). Every single link was
+  confirmed as the genuine official domain, not a reseller — this
+  mattered in practice: nearly every search for these iconic sights was
+  dominated by Klook/Viator/GetYourGuide/Tiqets-style resale sites, and
+  several required a second, more targeted search specifically for the
+  known official domain to cut through the SEO noise.
+- **Shanghai deliberately skipped, at user's direction** mid-task, after
+  finding that Chinese attractions (Shanghai Tower, Oriental Pearl
+  Tower) don't have a clean single official English ticketing domain
+  the way Western/Japanese ones do — results were dominated by tour-
+  guide aggregator content, not a canonical official site. Left without
+  ticket links rather than guess.
+- **Real, unplanned finding along the way: Shanghai World Financial
+  Center's observation decks have been closed since 2023 for
+  renovation.** This wasn't a ticket-link question anymore — updated
+  the sight's note and hours field to reflect the closure directly,
+  since sending someone there for a closed observation deck would be
+  actively wrong, not just an incomplete feature.
+- Tokyo National Museum and Shinjuku Gyoen intentionally left without
+  ticket links — couldn't get a clean official-domain confirmation for
+  either in the time spent, and chose to leave an honest gap rather
+  than guess.
+- Added `bookAhead` boolean, displayed as "⚠️ Books up — reserve ahead,
+  especially in peak season" — applied uniformly to all 22 ticketed
+  sights rather than trying to rank which ones sell out faster (a
+  distinction not confidently verifiable without live data anyway).
+- Paced this as a multi-stage task with explicit check-ins rather than
+  silently grinding through ~29 sights in one continuous push — checked
+  in twice on scope/pace, and the user explicitly chose to skip further
+  Shanghai digging partway through rather than have that decision made
+  silently.
+- Verified via the full-script execution test, plus direct confirmation
+  that all 22 ticketUrl fields and the SWFC closure note landed
+  correctly with clean apostrophe encoding.
+
+### 2026-07-13 (cont'd, 34) — sightseeing pinning added (step 1 of trip-sharing)
+- First concrete step toward the trip-sharing feature discussed
+  earlier: pinning previously only existed for hotels — sights had no
+  pin capability at all, which would have made "share your favorite
+  hotels and sightseeing" only half-true.
+- Assigned each sight a stable `_id` (`cityId_s{idx}`), same pattern
+  hotels already use (`cityId_h{idx}`) — no collision risk between the
+  two ID namespaces, confirmed by checking every use of `pinnedIds`
+  before sharing the Set between them (it's only ever checked via
+  `.has(id)`, never iterated with hotel-only assumptions, so this was
+  safe).
+- **Deliberately used the same robust `popupopen` pattern already
+  established for hotels** (bind the popup once, rebuild its content
+  dynamically via Leaflet's native event) rather than the old static-
+  content approach sights previously used — avoids reintroducing the
+  exact "second click does nothing" class of bug already fixed once
+  today for hotels.
+- Added `buildSightPopupHTML(s)` as a pure content function (mirroring
+  `buildHotelPopupHTML`), including a pin button styled identically to
+  the hotel one.
+- **Also wired up ticket-link support now** (`s.ticketUrl`, shown only
+  when present, same conditional pattern as `phone`) — no sight data has
+  this field populated yet, but the code is ready for it. Decided ticket
+  links are worth adding: several sights (Sagrada Família, teamLab,
+  Tokyo Skytree, Statue of Liberty) require timed-entry booking and can
+  sell out — a direct official link avoids someone googling their way to
+  a markup-charging resale site instead. Scoped as a separate follow-up
+  data-population task, not bundled into this pinning change.
+- Verified via the full-script execution test plus a direct test of
+  `buildSightPopupHTML` against realistic data, confirming correct
+  output including the pin button.
+
+### 2026-07-13 (cont'd, 33) — fixed city switch sometimes showing a bare map on the first click
+- User reported: switching cities sometimes showed just the map tiles
+  with no subway lines/hotels on the first click, only appearing after
+  a second click.
+- **Diagnosis**: `map.setView()` was called without disabling animation,
+  so switching cities triggered an animated pan/zoom — and in the same
+  synchronous step immediately after, dozens of new layers (subway
+  polylines, station dots, hotel markers) were added to the map *while
+  that animation was still in flight*. This is a known category of
+  Leaflet issue: layers added mid-transition can have their screen
+  positions calculated against the map's old, not-yet-settled state,
+  so they don't visually paint correctly until something else forces a
+  fresh layout pass — like a second click or interaction.
+- **Fix**: `map.setView(data.center, data.zoom, {animate:false})` —
+  disables the animation for this specific transition, the standard
+  approach for this exact class of bug. Also added `map.invalidateSize()`
+  right before, as a cheap standard companion fix to ensure Leaflet's
+  internal size cache is correct in case any layout shift happened
+  between switches (e.g. the search bar's topbar-shifting behavior).
+- **Honest verification caveat**: the mock Leaflet used for the full-
+  script execution test doesn't simulate real animation timing, so this
+  couldn't be behaviorally confirmed through automated testing the way
+  the other fixes today were. Confidence here comes from `{animate:
+  false}` + `invalidateSize()` being a well-established, standard fix
+  pattern for this exact symptom, not from a passing test — flagging
+  this distinction honestly rather than implying the same level of
+  certainty as the fixes that were directly verified.
+
+### 2026-07-13 (cont'd, 32) — fixed Barcelona's airport line being disconnected from the rest of the network
+- User noticed L9 Sud (the airport line) didn't visually connect to any
+  other line. Verified: confirmed true — L9S shared zero station names
+  with L1–L5, making it a disconnected island on the map despite Metro
+  L9S genuinely being a one-seat ride discovery we'd highlighted earlier
+  as a differentiator.
+- **Root cause**: L9S's station list already correctly named its real
+  transfer points (Torrassa, Collblanc, Zona Universitària), but I never
+  added matching entries to the *other* lines those stations actually
+  connect to — so the names existed on one side of each transfer but
+  not the other, and nothing overlapped.
+- **Verified the real transfers via search before fixing** (per TMB's
+  own site): Torrassa↔L1, Collblanc↔L5, Zona Universitària↔L3 — all
+  three confirmed directly from Barcelona's transit authority.
+- Added the three transfer stations to their real corresponding lines,
+  reusing L9S's exact existing coordinates for each so the name-based
+  interchange dedup (fixed a few entries ago) treats them as proper
+  single connection points rather than near-but-not-quite matches.
+- Verified via the full-script execution test plus a direct connectivity
+  check confirming all three stations now appear on both their local
+  line and L9 Sud.
+
+### 2026-07-13 (cont'd, 31) — fixed click bug at multi-line interchange stations
+- User caught a real bug: clicking a station served by multiple lines
+  (an interchange) didn't show the walk circle, but hotel highlighting
+  still worked — meaning the underlying data logic ran, but the visible
+  circle didn't clearly appear.
+- **Root cause**: each line independently created its own fully-clickable
+  dot for every station, including shared ones. A station on 3 lines got
+  3 separate interactive circleMarkers stacked at nearly the same spot.
+  A single tap — especially on touch, where the tap target is larger
+  than the 5px dot — could land on more than one overlapping dot at
+  once, firing `toggleStationCircle` multiple times for one physical
+  tap. Multiple circles/popups got created and interfered with each
+  other (later popups auto-closing earlier ones), which produced exactly
+  the reported symptom.
+- **First fix attempt used exact-coordinate matching and was
+  insufficient** — verified this directly against real data before
+  shipping it: NYC's Times Sq-42 St has 3 *slightly different*
+  coordinates across its lines (up to ~250m apart, representing
+  different platform entrances), so an exact-match dedup missed it
+  entirely. Caught this by actually testing against real station data
+  rather than assuming the first fix worked.
+- **Correct fix: deduplicate by station name, not coordinates.** Subway
+  station names are effectively unique identifiers within a system by
+  strong real-world convention (precisely so people don't confuse two
+  different places) — confirmed this holds for all of our data before
+  relying on it. Only the first line's dot for a given station name is
+  now interactive; every other line's dot at that station becomes
+  visual-only (`interactive:false`), so a tap there can only ever fire
+  once, regardless of how many lines pass through.
+- **Also made subway line polylines non-interactive** — they had no
+  click behavior at all (confirmed via search before changing), but
+  were capturing clicks by Leaflet's default, and multiple lines'
+  5px-wide polylines also converge at the same interchange points,
+  giving them the same potential to intercept a tap meant for a dot.
+  Purely additive robustness fix, zero behavior lost.
+- Verified with the full-script execution test, plus a direct test of
+  the dedup logic against real NYC data — confirmed Union Square-14 St,
+  Grand Central-42 St, and Times Sq-42 St each now have exactly one
+  interactive dot instead of 2–3 competing ones (5 dots fixed in NYC
+  alone; likely more across Tokyo/London's own interchange stations,
+  not individually re-verified per city but the fix is general).
+
+### 2026-07-13 (cont'd, 30) — real fare information added, all 5 cities
+- First feature pursued from the "what should we build next" discussion,
+  chosen deliberately over the trip-sharing feature as the smaller,
+  standalone piece to ship first.
+- **Real fare structures researched and verified per city** — each
+  system genuinely works differently, worth knowing honestly rather than
+  assuming one model fits all:
+  - Tokyo: distance-based, ¥180–¥330 (Metro) / up to ¥430 (Toei)
+  - Shanghai: distance-based, ¥3 base (≤6km) + ~¥1 per additional 10km
+  - London: zone-based, £3.00 off-peak/£3.10 peak Zone 1, £8.90 daily cap
+  - New York: flat $3.00 regardless of distance, $35 weekly cap
+    (confirmed via official mta.info — some third-party sources still
+    quoted the pre-January-2026 $2.90 rate, used the current one)
+  - Barcelona: zone-based, €2.90 single / €13.00 for 10 trips
+- **Specific "gotcha" fares surfaced right where they matter**, not just
+  buried in a general note — added directly to the relevant airport's
+  info: Tokyo Monorail ¥519, Keisei Skyliner ¥2,465, NYC's JFK AirTrain
+  supplement ($8.50 on top of the $3 subway fare), and Barcelona's L9
+  Sud airport supplement (€5.90 — standard tickets/T-Casual explicitly
+  do NOT cover this line, confirmed as a common visitor trap across
+  multiple sources).
+- New `fareInfo` field per city, displayed in the sidebar right below
+  the operating-hours note, same UI pattern for consistency.
+- Verified via the full-script execution test plus direct spot-checks of
+  the exact fare text landing correctly on Haneda and El Prat.
+
+### 2026-07-13 (cont'd, 29) — fixed two real bugs: hotel popup not reopening, city switch needing 2 clicks
+- **Bug 1: clicking a hotel a second time showed nothing.** Root cause:
+  `openHotelPopup()` called `marker.bindPopup(...).openPopup()` on
+  *every* click. Leaflet's `bindPopup()` silently (re-)registers its own
+  internal click-to-toggle listener each time it's called — combined
+  with our separate custom click listener, this created two competing
+  click handlers on the same marker. On the second click: our handler
+  fired first and reopened the popup, then Leaflet's own toggle listener
+  fired immediately after (registered during the first click's bindPopup
+  call) and saw the popup as already-open, so it closed what our handler
+  had just opened — net effect looked like nothing happened.
+  **Fix**: refactored to bind the popup exactly once per marker (at
+  creation), with a `buildHotelPopupHTML()` pure content function and a
+  `wireHotelPopup()` helper that hooks Leaflet's native `popupopen` event
+  to refresh content dynamically. Leaflet's own toggle is now the only
+  thing controlling open/close — no more competing handlers. Applied at
+  all 3 marker-creation call sites (curated hotels, live-search results,
+  name-search results).
+- **Bug 2: switching cities needed two taps.** Root cause: the city-card
+  click handler called `renderCityPicker()`, which destroyed and rebuilt
+  *all* city cards — including the very card that was mid-click — via
+  `innerHTML=''`. Replacing an element during its own click event is a
+  known category of mobile bug that can make the very next tap at that
+  screen position silently misfire. It was also just wasteful: 6 DOM
+  elements + 6 listeners rebuilt on every single city switch, when only
+  one CSS class actually needed to change.
+  **Fix**: added `updateActiveCityCard()`, which toggles the `.active`
+  class on the existing, stable card elements instead of rebuilding
+  anything. `renderCityPicker()` now only runs once, at page load.
+- Verified both fixes via the full-script execution test (not just
+  parse-checking), plus confirmed zero leftover references to the old
+  buggy `openHotelPopup` function — all 3 call sites were caught and
+  migrated, none left stale.
+
+### 2026-07-13 (cont'd, 28) — full audit: airport/railway hotel coverage
+- User asked directly whether airports/railway stations were treated as
+  Tier 1 critical areas, having seen 0 hotels around some. Ran a full
+  exact-match audit across all 5 cities' airports and rail stations —
+  found the picture was more nuanced than "missing," two distinct
+  problems stacked together:
+  1. **Real bug (not a content gap): naming mismatches.** Several areas
+     *did* have curated hotels, just tagged with a shorthand area label
+     that didn't exactly match the airport/station's official name
+     string (e.g. hotels tagged `'JFK Airport'` vs. the real name `'John
+     F. Kennedy International Airport'`). This wasn't just an audit
+     inconvenience — it broke the app's own live-search-skip check
+     (exact string match), meaning clicking these airports would have
+     incorrectly triggered unnecessary live searches despite curated
+     hotels already existing right there. **Fixed**: renamed every
+     mismatched hotel `area` field to the exact official name (Shanghai
+     Pudong, Shanghai Hongqiao Railway Station, JFK, Grand Central
+     Terminal, El Prat — 15 hotels relabeled across 4 cities).
+  2. **Made the live-search-skip check spatial, not just name-based.**
+     Shanghai's Hongqiao airport and railway station physically share
+     one hub — hotels there are labeled with the station's name, so
+     exact-string matching would never recognize them as covering the
+     airport too. Rather than force a data hack, fixed the actual check
+     in `maybeFetchLiveHotels()`: now also considers a curated hotel
+     "already covering" a clicked point if it's within the current walk
+     radius, regardless of which exact area label it carries. This
+     generalizes to any future shared-hub case, not just Hongqiao.
+  3. **Real remaining gaps, filled with genuine researched hotels**:
+     Shanghai South Railway Station (Pullman Shanghai South — the only
+     nearby hotel that cleared both the rating and 100-review floor even
+     after a broader search; Radisson Blu and JOYA looked appealing but
+     had 14 and 29 reviews, too thin to trust), Newark Airport (Hilton
+     Newark Airport + Holiday Inn Express Newark Airport, both real
+     brand anchors at exactly 4.0), and Gatwick Airport (Sofitel London
+     Gatwick — literally walkway-connected to the terminal — + Holiday
+     Inn + Crowne Plaza, all real IHG/Accor brand anchors).
+- **Final state, verified**: every airport and railway station across
+  all 5 cities now has real curated coverage — either directly, or (for
+  Hongqiao specifically) correctly recognized via the new spatial check
+  even though the exact-string audit still shows 0 for that one case.
+- Verified via the full-script execution test plus a complete re-run of
+  the audit query before and after each fix, not just spot-checked.
+
+### 2026-07-13 (cont'd, 27) — fixed stale popup text (wrong color name + frozen minute value)
+- User quoted the exact stale text: "Showing 15-min walk radius. Hotels
+  inside are highlighted gold in the list." Two separate real bugs in
+  one sentence:
+  1. **Wrong color name** — hotels highlight dark green, not gold (gold
+     was accurate at an earlier point in the build, before the color
+     scheme changed; the popup text was never updated to match). Fixed.
+  2. **Frozen minute value** — same root cause as the circle-radius bug
+     fixed earlier: the popup's text was a static string baked in at
+     the moment the popup was first opened, so it kept showing whatever
+     the slider said *then*, not the current value.
+- **Fix**: extracted `buildStationPopupHTML(name, line, mins)` so the
+  popup content can be regenerated on demand, not just built once.
+  `setWalkMinutes()` now calls `markerKey.setPopupContent(...)` to
+  rebuild any currently-open station popup's text live, in addition to
+  resizing the circle — so dragging the slider while a popup is open
+  now updates both the circle size AND the displayed minute value in
+  real time, not just one of them.
+- Stored the full `line` object (not just its name string) on
+  `circle.meta.lineObj` specifically to make this regeneration possible
+  — the original code only kept `line.name`, which wasn't enough to
+  rebuild the full popup (needed `line.firstLast` too).
+- Verified via the full-script execution test with `setPopupContent`
+  added to the test's Leaflet mock, plus confirmed via direct string
+  search that "highlighted gold" no longer appears anywhere in the file.
+
+### 2026-07-13 (cont'd, 26) — fixed walk-distance slider not affecting open circles
+- User caught a real bug: changing the walk-distance slider while a
+  circle was already open showed identical hotels no matter how far the
+  slider moved. Root cause confirmed via code review: circle radius was
+  baked in at the moment of creation (`walkMinutes*WALK_SPEED_M_PER_MIN`
+  captured once into `circle.meta.radius`), and the slider's `input`
+  handler only updated the global `walkMinutes` variable — it never
+  touched any already-open circle's actual size or its stored radius
+  used for the hotel-in-circle calculation.
+- **Fix**: `setWalkMinutes()` now calls `circle.setRadius()` on every
+  currently-open circle (resizing the visible shape on the map) and
+  updates `circle.meta.radius` to match (so hotel highlighting
+  recalculates correctly), before triggering `render()`. Dragging the
+  slider with a circle open now visibly grows/shrinks it and live-
+  updates which hotels are highlighted, instead of doing nothing.
+- Verified via the full-script execution test (not just parse-checking)
+  with `setRadius` added to the test's Leaflet mock — confirmed the
+  script still initializes cleanly end to end with this change in place.
+
+### 2026-07-13 (cont'd, 25) — Lujiazui added as its own curated hotel area
+- User caught a real geographic error: Lujiazui had been implicitly
+  treated as covered by "The Bund" area's hotels, but they're on
+  **opposite sides of the Huangpu River with no walking bridge** — not
+  actually walkable between them, contrary to what the grouping implied.
+  Lujiazui previously existed only as a sightseeing landmark, with zero
+  hotels tagged to it.
+- Added Lujiazui as its own sixth curated hotel area: Novotel Shanghai
+  Atlantis (4.5★, 4★ class), Grand Hyatt Shanghai (4.3★, 5★, inside Jin
+  Mao Tower), Grand Kempinski Hotel Shanghai (4.5★, 5★), Pudong
+  Shangri-La (4.4★, 5★, 1,396 reviews).
+- **Honest gap, not forced**: Lujiazui's real hotel inventory skews
+  heavily luxury — searched specifically for a budget/mid option and
+  found only very low-volume candidates (Binjia Youth Hostel: 8 reviews;
+  iFamily Apart Hotel: 1 review; CitiGo: 3; JI Hotel: 2) — all far below
+  the 100-review floor. None forced in. This matches Lujiazui's actual
+  character as a financial/business skyline district rather than being
+  an oversight in the curation pass.
+- Also fixed the underlying assumption in the pipeline spec that
+  physically adjacent-looking areas are automatically walkable to each
+  other — river/highway/rail separations can break this even when two
+  places look close on a map. See spec update below.
+
+### 2026-07-13 (cont'd, 24) — live hotel name search
+- Built the feature scoped a few messages back: when a search returns 0
+  curated matches, the dropdown now offers **"Search the web for
+  '[query]'"** instead of just a dead-end "no matches" message.
+- Deliberately reuses existing infrastructure rather than adding a new
+  paid API integration: same `api.anthropic.com` + web-search-tool call
+  pattern as the existing station-triggered live search, same dedup
+  pattern (`liveFetchedKeys`/`liveFetchInFlight`), same hotel object
+  shape (`curated:false, live:true`), and — notably — **walk-distance-
+  to-nearest-station comes for free**, since `openHotelPopup()` already
+  computes and displays that for any hotel regardless of how it entered
+  `data.hotels`. No new walkability code was needed at all.
+- New `fetchHotelByName(query, key)`: asks Claude to find one specific
+  named hotel (not a list) via web search, returns `{found, name, lat,
+  lng, rating, stars, priceTier, phone, area}`. On success: adds the
+  hotel, pans the map to it, opens its popup (which shows the real walk
+  distance to the nearest station, or "no active subway line nearby" if
+  none is toggled on) — directly answering the original request: type a
+  hotel that isn't curated, see if it's actually walkable.
+- Same honest caveats as existing live search: best-effort, only works
+  inside Claude's own preview (no backend yet), costs real money once a
+  backend exists (~1–2¢/lookup, per the cost estimate already in this
+  doc).
+- **Hit and fixed the recurring backslash-escaping bug again** (this
+  time genuinely real — confirmed via raw byte values, not a repr
+  misread) in the system prompt string's `hotel's`. Fixed with a
+  byte-level Python script rather than string-literal replacement,
+  after two failed attempts where Python's own string-literal escaping
+  kept adding a layer of confusion on top of the original bug — the
+  numeric byte-value check (`list(bytes)`) was what finally gave an
+  unambiguous answer, and is now the most reliable verification method
+  found so far for this specific class of bug.
+- Thumbnails (Tokyo/Shanghai/London/NYC) intentionally deferred per
+  explicit user direction — this feature was prioritized first.
+
+### 2026-07-13 (cont'd, 23) — search deployed to all cities
+- Pilot succeeded (Shanghai-only). Removed the city-gating condition —
+  search now shows for every city, and since the underlying logic reads
+  `CITIES[currentCityId]` dynamically rather than hardcoding city names
+  anywhere, it automatically covers future cities (Rome, Paris, whatever
+  comes next) with zero additional code required.
+- Verified real item counts per city before shipping: Tokyo 171,
+  Shanghai 72, London 82, New York 71, Barcelona 64 searchable items.
+- Sightseeing thumbnails remain Barcelona-only for now — much larger
+  lift (14 individually-verified images just for one city) — being
+  worked through city by city separately, not a quick toggle like search
+  was.
+
+### 2026-07-13 (cont'd, 22) — corrected the 150-city cost estimate
+- User pressure-tested the earlier $35–75/mo figure by scaling it to 150
+  cities and asked directly whether that meant $2,000+/mo. Correct
+  answer: yes, roughly — and my prior "$35–75/mo at global scale" number
+  was wrong, reused from an earlier estimate without re-deriving it
+  properly.
+- **Real math**: 150 cities × 10 areas × 40 hotels ≈ 400 Places API
+  calls/city/month (area discovery + per-hotel detail lookups,
+  including candidates vetted but not kept) = 60,000 calls/month.
+  Rating+review+phone+hours together push each call into Google's
+  Enterprise tier (~$35–40/1,000), not the free/basic tier — this field-
+  mask detail was the specific error in the original estimate.
+  **Corrected flat-monthly figure: ~$2,100–2,400/mo.**
+- **Fix implemented, per user request: tiered refresh frequency**
+  instead of flat monthly for every city — top 10–20 cities monthly,
+  long tail quarterly, since hotel ratings don't meaningfully shift
+  week to week for most cities. Cuts the estimate to **~$700–1,200/mo**
+  at the same 150-city scale.
+- **Also per user request: combined live-search cost into the same
+  estimate**, since it's a real, separate, additive cost once a backend
+  exists — not folded into the batch-refresh number, and scales with
+  *user traffic* rather than city count, which is a structurally
+  different growth curve worth watching separately via the event-logging
+  item once real usage exists to measure.
+- **Combined realistic total at 150-city scale: ~$750–1,300/mo**,
+  documented in §6 with the reasoning shown, not just the number, so a
+  future re-derivation (when real usage data exists) can check it
+  against actual assumptions rather than trusting a bare figure.
+
+### 2026-07-13 (cont'd, 21) — fixed search returning 0 for category terms like "art museum"
+- User tried searching "art museum" in Shanghai and got zero results,
+  despite Shanghai Museum obviously existing. Root cause was two stacked
+  bugs, not one:
+  1. Search only indexed name + subtitle, never the description text —
+     so "art" was invisible to search even though Shanghai Museum's own
+     description literally says "major collection of Chinese art &
+     artifacts."
+  2. Even with descriptions included, the old matching required the
+     whole query as one contiguous substring — "art" living in the
+     description and "museum" living in the name are two different
+     fields, so a phrase match would still have failed.
+- **Fix**: added each item's description/note text to the search index
+  (`extra` field — sight notes, rail station notes, airport transit
+  notes), and switched matching from single-phrase to per-word AND logic
+  (every word in the query must appear somewhere in name+sub+extra
+  combined, but the words no longer need to be adjacent or in the same
+  field).
+- This fix generalizes well beyond the one reported case — verified
+  "museum", "temple", and "garden" all now correctly surface Shanghai
+  Museum, Jade Buddha Temple, and Yu Garden respectively, none of which
+  contain those exact words in their proper names alone.
+
+### 2026-07-13 (cont'd, 20) — fixed search bar overlapping the zoom-hint pill
+- User screenshot caught a real layout bug: the new search bar and the
+  existing "zoom in for labels" pill were both absolutely positioned at
+  nearly the same spot (top:10px vs top:14px), so they collided visually
+  on Shanghai specifically (the only city where the search bar shows).
+- **Fix**: added a `.search-active` class on `#topbar` that pushes it
+  down (top:74px) to clear the search bar, toggled in sync with the
+  search bar's own Shanghai-only visibility in `loadCity()` — so other
+  cities are completely unaffected, only Shanghai's layout changed.
+- Also bumped the search bar's z-index above the topbar's, so if the
+  results dropdown ever extends down far enough to reach where the pill
+  now sits, the dropdown correctly layers on top rather than the two
+  fighting for the same visual space.
+
+### 2026-07-13 (cont'd, 19) — place search, Shanghai pilot
+- Added a floating search bar over the map (Google Maps-style), pinned
+  at the top regardless of sidebar/sheet state. **Scoped to Shanghai
+  only for this pilot** — hidden for every other city — per the user's
+  explicit request to test on a city they know well before deciding
+  whether to roll it out everywhere.
+- Searches across everything in the current city: hotels, sights,
+  subway stations (deduplicated by name across lines), railway stations,
+  and airports — 72 searchable items for Shanghai currently.
+- Live-filters as you type (typeahead, not submit-and-search), up to 8
+  results shown with a type icon + subtitle (area for hotels, line name
+  for stations, etc).
+- **Accent-insensitive matching** built in from the start — normalizes
+  via Unicode NFD decomposition before comparing, so typing without
+  diacritics still matches. (Barcelona will need this even more once/if
+  the feature extends there — Güell, Milà, Família all have accents.)
+- Selecting a result pans/zooms the map to it and opens its popup.
+  **Handles the click-to-reveal hotel case correctly**: if the selected
+  hotel isn't currently visible (not curated, no circle active), it's
+  force-added to the map directly rather than just scrolling to an
+  invisible point — search always shows you what you searched for.
+- Verified the index-building logic against real Shanghai data before
+  shipping (not just eyeballed) — confirmed correct type counts and
+  tested a real accent-relevant case (Lujiazui correctly returns both
+  its sight and station entries).
+- Scoping mechanism: `#place-search-wrap` visibility is toggled in
+  `loadCity()` based on `cityId === 'shanghai'` — trivial to extend to
+  all cities later by removing that one condition, once the pilot
+  proves out.
+
+### 2026-07-13 (cont'd, 18) — sightseeing thumbnails added, Barcelona only (pilot)
+- User feedback: some Barcelona sight names are genuinely hard to
+  distinguish by text alone (Casa Batlló / Casa Milà / Casa Vicens are
+  all "Casa + name + Gaudí building"). Proposed adding a small photo to
+  each sight's popup — piloted on Barcelona only, per explicit request,
+  before deciding whether to extend to other cities.
+- **Source: Wikimedia Commons exclusively**, not generic image search —
+  chosen specifically for reliability (URLs don't hotlink-break the way
+  random web images do) and unambiguous licensing (everything on Commons
+  is confirmed freely reusable). Used `Special:FilePath`, Commons' own
+  stable-linking mechanism built for exactly this kind of external
+  embedding.
+- Manually verified all 14 images individually — confirmed each file
+  actually exists on Commons and is genuinely the right subject (not
+  just a plausible-sounding filename) before using it. This took
+  considerably longer than expected; a mid-task infrastructure outage
+  (tool failures, unrelated to the work itself) added further delay but
+  didn't affect the data — work resumed cleanly once tools recovered.
+- Implementation: added an `img` field to each Barcelona sight, a
+  `.sight-thumb` CSS class (rounded, cropped to a consistent 110px
+  height), and updated the popup builder to show the image at the top
+  when present. Scoped deliberately to the **popup only, not hover** —
+  hover was already trimmed down to short text/schedule info in an
+  earlier change, and this isn't reversing that.
+- Explicitly a pilot, per the user's own framing ("let's see how it
+  goes") — not yet extended to Tokyo/Shanghai/London/NYC. Revisit after
+  feedback on how Barcelona's version actually feels in use.
+
+### 2026-07-13 (cont'd, 17) — hover simplified to name + schedule only
+- User feedback (on desktop, testing this preview via mouse): hover and
+  click showed identical content, which read as duplicated/weird.
+  Discussed whether hover should be removed entirely, and whether
+  device-adaptive behavior (different UI for mouse vs. touch) made
+  sense.
+- **Decision: keep hover, but give it a distinct, narrower job instead
+  of removing it.** Reasoning: hover has no side effects (doesn't draw a
+  circle or trigger highlighting), so it's genuinely useful for
+  comparing multiple icons before committing to a click — removing it
+  would force every quick glance into a stateful map action.
+- **Rejected device-adaptive (mouse vs. touch) behavior on principle**:
+  this app is phone-first per repeated earlier direction; building a
+  separate desktop-only interaction path optimizes the secondary
+  platform at the cost of doubling future maintenance. A single
+  universal behavior that happens to degrade gracefully on touch
+  (hover mostly doesn't fire there anyway) was preferred over branching
+  logic by input type.
+- **Implementation**: hover now shows name + schedule only, dropping the
+  transit note. Click keeps full detail (name + note + schedule) plus
+  the walk-circle action, unchanged. For airports/stations with no real
+  schedule data (Gatwick, LaGuardia, Newark), hover falls back to a
+  short version of the transit note instead of showing nothing.
+- Clarified and confirmed the underlying data model in the process: the
+  "schedule" shown for an airport is always the *connecting subway
+  line's* first/last train (e.g. Haneda's hours come from the Tokyo
+  Monorail), never the airport's own hours — airports don't have a
+  fixed daily operating window the way trains do.
+- Verified all three render cases (connected airport, unconnected
+  airport, rail station) via direct evaluation before shipping.
+
+### 2026-07-13 (cont'd, 16) — Barcelona added
+- Built Barcelona as the fifth full city, same rigor throughout: real
+  fetched TripAdvisor ranking, confirmed real Metro colors, targeted
+  budget-tier searches, full data-evaluation verification before
+  shipping.
+- **6 Metro lines**, real TMB colors confirmed via search (not just
+  assumed): L1 (red), L2 (purple), L3 (green), L4 (yellow), L5 (blue),
+  L9 Sud (orange, airport). ~30 stations covering Gothic Quarter,
+  Eixample, Barceloneta, Sants, and the airport corridor.
+- **Genuine first for this project: El Prat Airport has a true one-seat
+  metro ride** (L9S, direct to both terminals) — every other city so far
+  has needed a transfer (JFK/AirTrain) or has no connection at all
+  (LaGuardia). Called this out explicitly in the airport's transit note
+  since it's a real differentiator worth knowing.
+- **20 curated hotels** across 5 areas (Gothic Quarter, Eixample,
+  Barceloneta, Barcelona Sants, El Prat Airport), all ≥4.0, full pipeline
+  applied — brand anchors (Radisson Blu, NH, Hilton, W, Eurostars, Hyatt
+  Regency, Meliá, Sheraton) and genuine budget options found via targeted
+  hostel searches (Ítaca Hostel 4.6★, Sun & Moon hostel 4.2★).
+- **14 sights**, cross-checked against the real fetched TripAdvisor
+  ranking. One deliberate exclusion: #10 on the real list is an
+  adult-themed museum, skipped as a judgment call for a general-purpose
+  trip planner — noted explicitly rather than silently dropped, same
+  transparency standard as every other decision in this project.
+- **1 railway station** (Barcelona Sants — AVE high-speed rail to Madrid
+  and France).
+- **Confirmed genuinely unique operating hours**: Barcelona's Metro runs
+  24 hours continuously from Saturday morning through Sunday night —
+  more generous than any other city on the map, verified via search
+  rather than assumed.
+- Verified the full build via direct data evaluation (not just parse-
+  checking) before shipping — confirmed all apostrophes render correctly
+  and Tokyo/Shanghai/London/NYC were untouched by the insertion.
+- City picker required no extra wiring — confirmed it dynamically
+  iterates `Object.entries(CITIES)`, so Barcelona appeared automatically.
+
+### 2026-07-13 (cont'd, 15) — smart popup auto-close
+- Follow-up to the hover/click discussion. Real annoyance identified:
+  not "doesn't close automatically" (Leaflet already closes on map-click
+  by default) but that the popup **lingers and blocks the view of the
+  exact hotels you just asked to see** by clicking.
+- **Smart rule implemented**: clicking a station/airport/rail icon opens
+  its info popup as before, but it now auto-closes itself after 4
+  seconds — enough time to read, then it gets out of the way. The
+  circle and highlighted hotels stay exactly as they were; only the
+  popup box closes, nothing else changes.
+- **Immediate close on toggle-off**: clicking the same icon again to
+  clear its circle now also closes the popup immediately (previously it
+  showed a separate "walk radius cleared" confirmation popup that itself
+  needed dismissing — removed as unnecessary noise, consistent with the
+  "click = action, not a wall of text" philosophy from this discussion).
+- Scoped deliberately to station/airport/rail popups only, not hotel
+  popups (which have an interactive pin button and should stay open
+  until the user is done with them, not auto-dismiss mid-decision).
+- Implementation: a small `scheduleAutoClose(marker, delay)` helper,
+  timer stored per-marker and cleared/reset on every open so repeated
+  clicks don't stack stale timers.
+
+### 2026-07-13 (cont'd, 14) — unified hover and click content, white card style
+- User feedback: hover and click showed different, overlapping info,
+  and the navy tooltip clashed with the rest of the app's light UI.
+  Clarified mental model: **click = toggle the walk circle + hotel
+  highlighting** (unchanged); **both hover and click should show the
+  same general + schedule info**, just via different UI (tooltip vs
+  popup).
+- Replaced the navy gradient tooltip with a **white card matching the
+  existing popup's visual language** exactly (same border-radius, same
+  text colors as `.popup-title`/`.popup-sub`) — so hover and click now
+  look like the same design system, not two different ones. Added a
+  thin colored left-accent stripe per marker type (airport blue, rail
+  brown) for a touch of visual distinction without a jarring dark box.
+- Replaced `formatHoverTooltip()` (which only ever showed the schedule
+  snippet) with `buildInfoHTML()`, which renders the exact same
+  title+note+hours structure as the click popup. Hover and click are
+  now genuinely the same information, not two different subsets of it.
+- Rail station tooltips now always show (previously only bound if
+  `r.hours` existed) since every station has at least a `note` — every
+  rail/airport marker now reliably shows something useful on hover.
+- Verified via direct evaluation of `buildInfoHTML()` against real data
+  before shipping.
+
+### 2026-07-13 (cont'd, 13) — tooltip visual redesign
+- User feedback: previous fix was technically correct but ugly — narrow,
+  flat black box, poor reading experience. Full redesign, not just a
+  tweak:
+  - Background: flat black → soft navy-to-charcoal diagonal gradient
+    (`#234e70 → #1b3a56 → #142a40`), reads as a "night sky/journey" feel
+    that fits a transit app better than a stark black tooltip.
+  - Width: 240px → 290px max, with a 180px minimum so short messages
+    don't look cramped either.
+  - Rounded corners bumped to 14px, softer/deeper drop shadow for a
+    genuine floating-label feel instead of a flat rectangle.
+  - Content now splits into a bold gold headline (e.g. "🕐 Departing
+    Hongqiao") + a lighter body line below, via a new `formatHoverTooltip()`
+    helper that splits the text at its first ": " if one exists early in
+    the string. Falls back gracefully to a single styled line for
+    railway-station texts that don't have a clean head/body split (none
+    of them use a colon in the current data).
+- Verified the formatting helper against real data directly (not just
+  eyeballed) before shipping — confirmed both the split and no-split
+  cases render correctly.
+
+### 2026-07-13 (cont'd, 12) — fixed tooltip text not wrapping
+- Different bug from the previous fix — that one was about *which* text
+  showed, this one was about *how* it rendered. User's screenshot showed
+  the hover tooltip as one long unbroken line, mostly spilling out past
+  the dark background box as plain unstyled white text.
+- **Root cause**: Leaflet's default `.leaflet-tooltip` CSS forces
+  `white-space: nowrap`, which silently overrode my `max-width` setting
+  — the text refused to wrap, so it just overflowed past the visible box
+  instead of staying contained.
+- **Fix**: added `white-space: normal !important` plus `word-wrap:
+  break-word` to the tooltip CSS class, forcing proper wrapping
+  regardless of Leaflet's own stylesheet. Also added border-radius and a
+  drop shadow so the box reads as a clean floating label rather than a
+  flat rectangle, and aligned both tooltip max-widths (rail + airport)
+  to the same 240px so text wraps consistently across both.
+
+### 2026-07-13 (cont'd, 11) — fixed confusing bidirectional airport tooltip
+- User caught a real bug via screenshot: hovering PVG (Pudong) showed
+  the *entire* Line 2 description, including "Toward Hongqiao end: last
+  train ~11:47 PM..." — irrelevant noise about the opposite end of the
+  line while looking at Pudong specifically. Root cause: airport tooltips
+  were dynamically pulling the connector line's single bidirectional
+  `firstLast` string (written to describe both ends of the line at
+  once) and dumping the whole thing onto whichever airport was hovered.
+- **Fix**: removed the `connectorLineId` line-lookup approach entirely.
+  Each airport now has its own self-contained `hours` field, phrased
+  from "departing this specific airport" — no other-endpoint information
+  bleeds in. E.g. PVG now reads "Departing Pudong Airport: first ~6:00
+  AM, last ~10:30 PM toward the city on Line 2" — nothing about Hongqiao.
+- Double-checked railway station hover tooltips for the same bug class —
+  confirmed clean. Those were always written per-station individually,
+  never derived from a shared line description, so no fix was needed
+  there. Mentioned this explicitly since the user's report named both
+  features.
+- Verified via full data evaluation that every connected airport (NRT,
+  HND, PVG, SHA, LHR, JFK) now shows correctly-scoped text, and that the
+  genuinely unconnected ones (Gatwick, LaGuardia, Newark) still fall back
+  to their transit note as intended.
+
+### 2026-07-13 (cont'd, 10)
+- **Airports now treated identically to railway stations**: hover shows
+  info with no click needed (subway first/last time if the airport
+  connects to a mapped line, otherwise the transit note), click still
+  toggles the walk circle + hotel highlighting as before. Added
+  `connectorLineId` to each airport entry, pointing at the specific line
+  whose `firstLast` data should surface:
+  - Tokyo: NRT→skyliner, HND→monorail
+  - Shanghai: both PVG and SHA→sh2 (explicit user request to confirm SHA
+    wasn't missed — it wasn't, both were already wired, now upgraded to
+    the hover treatment together)
+  - London: LHR→piccadilly. Gatwick deliberately left without a
+    connector — it has no Underground connection, so showing fabricated
+    subway hours would be dishonest; its tooltip falls back to the
+    National Rail transit note instead.
+  - NYC: JFK→blueace (A/C/E). LaGuardia and Newark deliberately left
+    without a connector for the same reason — neither has a direct
+    subway line, so their tooltips show the transit note (bus/AirTrain
+    info) rather than implying a train first/last time that doesn't
+    apply to them.
+- **Considered switching sightseeing pins to hover, decided against it.**
+  Two reasons: (1) hover doesn't work reliably on touch screens — the
+  first tap often just triggers the hover state, causing accidental
+  double-taps, and this is a phone-first app; sightseeing pins also
+  cluster much more tightly than rail/airport icons (e.g. Ueno Park's
+  museums), making hover collision worse exactly where it'd be used
+  most. (2) The existing zoom-level label system (labels appear ≥ zoom
+  13) already solves the "quick glance without clicking" need that
+  hover would address, while click-to-popup still does real work for
+  sightseeing specifically (hours/rating/phone — richer than a rail
+  station's hover text). Kept sightseeing on click; noted as an option
+  to revisit only if the zoom-label threshold itself feels too high.
+
+### 2026-07-13 (cont'd, 9) — exact schedule accuracy for airport/rail connectors
+- **Airport circles now also turn hotels dark green**, matching the rail
+  fix from earlier today. Simplified `hotelCircleStatus` — every circle
+  kind (subway/rail/airport) now behaves identically. The subway-vs-
+  airport light/dark distinction from the original design was removed at
+  the user's request; one consistent rule now, less code too.
+- **Real first/last train times added for the specific lines connecting
+  to airports and railway stations** — user explicitly prioritized
+  accuracy here over the general city-wide hours added yesterday.
+  Researched and confirmed per line (sources vary slightly by day —
+  presented as researched-but-verify, consistent with existing "not
+  schedule-grade" disclaimers elsewhere in the app):
+  - Tokyo Monorail (Haneda): first ~5:09 AM, last ~11:45 PM, same both
+    directions
+  - Keisei Skyliner (Narita): first ~6:00 AM (Ueno-bound) / ~7:25 AM
+    (Narita-bound), last ~9:20 PM / ~10:30 PM — only 1 train per 20–40
+    min, flagged as easy to miss
+  - Shanghai Line 2: Pudong Airport end first ~6:00 AM/last ~10:30 PM;
+    Hongqiao end last train ~11:47 PM Sun–Thu, ~12:57 AM Fri–Sat (later
+    weekends — genuinely different by day, confirming the user's
+    original question that yes, different routes/directions do vary)
+  - London Piccadilly (Heathrow): first ~5:00 AM, last ~11:30 PM–12:30 AM
+    Mon–Thu/Sun; genuine Night Tube Fri/Sat between Heathrow T2&3/T5 and
+    Cockfosters (no T4 overnight)
+  - NYC A/C/E (JFK) and N/Q/R/W (LaGuardia-adjacent via Astoria-Ditmars):
+    honestly noted as having **no first/last train at all** — 24/7 system,
+    just reduced frequency overnight
+- Displayed in two places: a subtitle under the line's name in the
+  sidebar (only for lines that have this data, so it doesn't clutter the
+  ~85% of lines without it), and in that line's station popup on click.
+- **Railway station hover tooltip added** (mouseover, not click) showing
+  operating-hours info — explicitly scoped to railStations only, not
+  airports, per the user's own read that airports don't need this.
+  Mainline/HSR terminals (Shanghai's 3, London's King's Cross/Paddington,
+  NYC's Penn/Grand Central) don't have a single "last train" the way
+  metro lines do — represented honestly as station concourse hours +
+  "trains depart all day on individual timetables" rather than
+  fabricating one system-wide number that doesn't reflect how mainline
+  rail actually works.
+- Verified all new data with the full-evaluation method (actually running
+  CITIES and checking real values) before shipping.
+
+### 2026-07-13 (cont'd, 8)
+- **Railway station circles now behave like subway circles**: hotels
+  inside a railway station's walk circle turn dark green (previously
+  only subway station circles did this; airport circles still stay light
+  green, unchanged, since that distinction wasn't asked to change).
+- **Added real subway/metro operating hours** per city, shown in the
+  sidebar above the line toggles. Verified current before adding, since
+  transit schedules do shift:
+  - Tokyo: ~5:00 AM–12:00/1:00 AM, no overnight service
+  - Shanghai: ~5:30/6:00 AM–10:30/11:00 PM, no overnight service
+  - London: ~5:00 AM–12:00 AM Mon–Sat, but genuine Night Tube (all-night)
+    Fri/Sat on Central, Jubilee, Northern & Piccadilly — all four are on
+    our map, so this is a real usable fact, not trivia
+  - New York: confirmed 24/7, every day — the only one of the four with
+    no overnight closure at all
+
+### 2026-07-13 (cont'd, 7) — New York City added
+- Built New York as the fourth full city.
+- **6 subway lines**, real official MTA colors: 4/5/6 (green), N/Q/R/W
+  (yellow), A/C/E (blue), 1/2/3 (red), L (grey), 7 (purple). ~30 stations
+  covering Manhattan core, Williamsburg (L), Queens/Flushing (7).
+- **23 curated hotels** across 8 areas (Times Square, Penn Station, Grand
+  Central, Financial District, Chelsea, Upper West Side, JFK, LaGuardia),
+  all ≥4.0 applying the full pipeline. Real brand anchors throughout
+  (Marriott Marquis, Hyatt, Westin, Hilton, Hotel Indigo). Genuine
+  Hostelling International find again: HI New York City Hostel (4.4★,
+  4,666 reviews) — same pattern as Shanghai's Blue Mountain Bund.
+- **15 sights — first city where the real TripAdvisor top-15 needed zero
+  local-flavor additions**, unlike Tokyo/Shanghai/London. All 15 ranked
+  entries fit cleanly: Central Park, Met Museum, 9/11 Memorial, Empire
+  State, Top of the Rock, High Line, Times Square, Statue of Liberty,
+  Grand Central, Brooklyn Bridge, AMNH, NY Public Library, Chelsea
+  Market, Staten Island Ferry, Rockefeller Center.
+- **2 railway stations**: Penn Station (Amtrak/NJ Transit/LIRR) and Grand
+  Central (Metro-North) — Grand Central deliberately appears as both a
+  sight AND a rail station, same dual-role pattern as London's King's
+  Cross.
+- **3 airports, handled with real honesty about NYC's messy airport
+  transit**: JFK connects via AirTrain transfer (not a one-seat ride —
+  noted explicitly). **LaGuardia has zero rail connection** — confirmed
+  via research that the AirTrain project was officially cancelled in
+  2023; it's the only major East Coast airport without rail access.
+  Represented this accurately: extended the N/W line to its real
+  terminus (Astoria-Ditmars Blvd) as the closest subway approach, with
+  the airport's transitNote explaining the bus transfer required, rather
+  than pretending a subway line reaches the airport. Newark included
+  too, clearly marked as requiring AirTrain + NJ Transit, not on the
+  subway map shown.
+- Caught and fixed a duplicate-closing-brace bug from my own edit mid-
+  build (the insertion anchor was positioned before London/Shanghai in
+  the file, so appending a full closing `};` after New York orphaned the
+  rest of the CITIES object) — verified via full data evaluation before
+  shipping, confirming London/Shanghai/Tokyo were untouched.
+
+### 2026-07-13 (cont'd, 6) — swapped unranked entries for real ranked ones
+- Full audit (previous entry) found ~6 unranked-but-real Tokyo entries and
+  2 in Shanghai. User chose to swap for genuinely higher-ranked
+  alternatives where a good swap existed, rather than just relabeling.
+- **Tokyo**: removed Godzilla Head and Tokyo Night & Light (weakest
+  justification — a novelty photo-op and a seasonal-only event). Added
+  **Akihabara** (real #9) and **Ginza** (real #11) — both genuine
+  TripAdvisor top-12 entries that were missing. Net: still 15 sights.
+  Kept Imperial Palace East Gardens, Tokyo Metropolitan Government
+  Building Observation Deck, Tsukiji Outer Market, and Omoide Yokocho —
+  all real Places-verified locations, just not in the main numbered
+  ranking; kept deliberately for variety (nature, free viewpoint, food
+  market, nightlife alley) a pure top-12 list wouldn't cover.
+- **Shanghai**: no swap made. Checked what would need to replace Jade
+  Buddha Temple (#19) or Shanghai Tower (real, dedicated heavily-reviewed
+  page, just not in the top-30 numbered list — likely filed under its own
+  "Observation Decks & Towers" subcategory) — the actual top-15 gaps are
+  a tailor shop (#2), Shanghai Disneyland 11mi outside the city (#8, same
+  reason Tokyo Disneyland was excluded), a hotel (#9, not an attraction),
+  and a 187-review new installation (#12). None improve on what's there,
+  so nothing was changed. Documented explicitly so this isn't mistaken
+  for an oversight later.
+
+### 2026-07-13 (cont'd, 5) — Tokyo & Shanghai audited against real TripAdvisor rankings
+- User asked directly whether Tokyo/Shanghai got the same TripAdvisor fix
+  as London. Honest answer at the time was no — audited both properly.
+- **Tokyo**: real ranking fetched directly. Found one meaningful error —
+  had added "teamLab Borderless" (Azabudai Hills) when TripAdvisor's
+  actual #3-ranked attraction is **teamLab Planets TOKYO** (Toyosu), a
+  different exhibit entirely. Swapped to the correct one. Also added
+  **Tokyo National Museum** (#12, missed originally). Tokyo now at 15
+  sights, all traceable to the real ranking or otherwise well-justified
+  (Omoide Yokocho, Godzilla Head, Tsukiji, Tokyo Night & Light are
+  deliberate local-flavor additions beyond the top-12, not miscounted as
+  ranked entries).
+- **Shanghai**: real ranking fetched directly. Added 4 confirmed misses:
+  Zhujiajiao Ancient Town (#5), Former French Concession (#7, anchored at
+  Wukang Road), Tianzifang (#10), Shanghai World Financial Center (#13).
+  Shanghai now at 13 sights.
+- Both edits verified using the upgraded evaluation method (actually
+  running the CITIES object and inspecting real field values), not just
+  the parse-only syntax check — confirmed apostrophes and data intact
+  before shipping.
+
+### 2026-07-13 (cont'd, 4)
+- **Process fix, prompted by user catching a real gap:** sightseeing was
+  being picked via generic web search, which returns scattered snippets
+  *about* TripAdvisor pages rather than the actual ranked list — this is
+  why London's original 10 sights missed 3 genuine TripAdvisor top-10
+  entries (Sky Garden #4, Natural History Museum #8, V&A #9) and why
+  British Museum shipped with a clearly-wrong 3.5/79-review Places rating
+  instead of its real 4.6/75,030. **Fix: directly `web_fetch` the actual
+  TripAdvisor city attractions URL going forward**, which returns the
+  real numbered ranking — confirmed working, now the standard method for
+  every future city's sightseeing list.
+- Added Sky Garden, Natural History Museum, V&A to London (13 sights
+  total now); corrected British Museum's rating to the real 4.6.
+- **Verification method upgraded.** While fixing this, chased what looked
+  like a recurring double-backslash apostrophe bug — turned out to be a
+  false alarm caused by misreading Python's byte-repr output (it always
+  displays one literal backslash as two characters on screen, which I
+  mistook for an actual double-backslash in the file). Real lesson from
+  the detour: the `new Function(code)` syntax check used throughout this
+  project only confirms code *parses* — it doesn't catch semantic bugs
+  where broken syntax happens to still be valid JS (e.g. "Walkie-Talkie"
+  silently parsing as a subtraction expression between two undefined
+  variables). **New standard for verifying data edits going forward:
+  actually evaluate the CITIES object and inspect real field values**
+  (e.g. `CITIES.london.sights.map(s=>s.name)`), not just parse-check.
+
+### 2026-07-13 (cont'd, 3) — London added
+- Built London as the third full city, same rigor as Tokyo/Shanghai.
+- **6 Underground lines**, real official TfL colors: Central (red),
+  Piccadilly (dark blue — direct to Heathrow), Circle (yellow), District
+  (green), Jubilee (grey), Northern (black). ~65 stations covering West
+  End, South Kensington, King's Cross, Paddington corridor, Canary Wharf,
+  Camden.
+- **16 curated hotels** across 5 areas (Covent Garden, South Kensington,
+  King's Cross St Pancras, Paddington, Heathrow Airport — 4 hotels
+  covering different terminals given Heathrow's size), all ≥4.0 rating
+  applying the full pipeline: brand anchors included (Hilton, Marriott/
+  Curio Collection, Radisson, Premier Inn, Holiday Inn Express), budget
+  tier present (The Z Hotel, hub by Premier Inn), price-tier spread
+  intact. Star range 2★–5★.
+- **10 sights**, cross-referenced against TripAdvisor's consensus list:
+  Tower of London, British Museum, Westminster Abbey, Tower Bridge,
+  London Eye, St Paul's Cathedral, Buckingham Palace, Houses of
+  Parliament & Big Ben, Camden Market, Borough Market.
+- **2 railway stations**: King's Cross St Pancras (Eurostar to Paris/
+  Brussels/Amsterdam + East Coast Main Line) and Paddington (Elizabeth
+  Line/Heathrow Express + Great Western main line) — London's two
+  highest-value rail hubs given the Eurostar connection specifically.
+- **2 airports**: Heathrow (direct via Piccadilly Line, shown on map) and
+  Gatwick (honestly noted as National Rail only, not reachable via the
+  Underground map shown).
+- **Honest gaps**: no ≥4.0 budget (1–2★) option found near King's Cross
+  or South Kensington in this pass — Premier Inn (3★) partially covers
+  the King's Cross budget need, South Kensington has a real gap. Also:
+  British Museum's Places rating came back as a clear data anomaly
+  (3.5/79 reviews — implausible for one of the world's most-visited
+  museums, likely matched a wrong sub-entity) — rating field left blank
+  rather than publish a number known to be wrong.
+- Caught and fixed the same apostrophe-escaping bug that hit Shanghai
+  (double-backslash instead of single before apostrophes in station/
+  hotel names) before it reached the user this time — now a known
+  failure mode to check for on every new-city edit.
+
+### 2026-07-13 (cont'd, 2)
+- Checked for Hostelling International (HI/YHA) — the largest global
+  nonprofit hostel network (2,500+ hostels, 60+ countries) — since named
+  global brands weren't part of yesterday's generic "hostel"/"capsule
+  hotel" search pass.
+  - Tokyo (HI Tokyo Central YH, Iidabashi): 3.9 rating on 324 reviews —
+    narrowly misses the 4.0 floor. Not added; the floor stays real.
+  - Shanghai (Blue Mountain Bund Youth Hostel, HI-affiliated): 4.2 on 499
+    reviews — clears the bar. Added to The Bund area (1★, tier 1).
+- Process note for future curation passes: search named global budget
+  brands (Hostelling International, Generator, A&O, Wombat's, St
+  Christopher's Inns) explicitly in addition to generic category terms —
+  generic searches surface local independent operators first and can
+  miss recognizable international brands entirely.
+
+### 2026-07-13 (cont'd)
+- Executed the budget-tier curation discussed earlier: searched
+  explicitly for hostels/capsule hotels/budget chains per area, held to
+  the same 4.0+ rating / ≥100-review bar as everything else. Added 12 new
+  real hotels: Sotetsu Fresa Inn Higashi-Shinjuku Ekimae (Shinjuku),
+  Hostel Wasabi Asakusa, Wise Owl Hostels Shibuya + The Millennials
+  Shibuya, Grids Tokyo Ueno Hotel & Hostel, VIA INN Higashi Ginza, Anshin
+  Oyado Tokyo Akihabara Denkigaiten, House Ikebukuro + Sakura Hotel
+  Ikebukuro, Apa Hotel & Resort Roppongi-Eki-Higashi, KEIKYU EX INN
+  Haneda, Shanghai Fish Inn Bund.
+- Star distribution is now real and usable: 4× 1★, 12× 2★, 31× 3★, 23×
+  4★, 7× 5★ (77 hotels total) — the star filter chips added yesterday now
+  have genuine budget options behind them, not an empty result.
+- **Honest gaps, left as gaps rather than forced:** no 1–2★ hotel cleared
+  the rating/volume floor in Hibiya, Shanghai People's Square, Shanghai
+  Railway Station, Hongqiao Hub, or Pudong Airport, despite explicit
+  searches. This is the `floorException` scenario the spec anticipated —
+  logged here rather than silently lowering the bar to fill a slot.
+- Updated `hotel-curation-pipeline-spec.md` Step 5 to explicitly require
+  *searching* for budget-tier options (hostel/capsule/budget-chain search
+  terms) rather than hoping they surface in a generic area search, which
+  in practice skews toward brand-anchor and mid/upper hotels.
+
+### 2026-07-13
+- Discussed the 1–2★ filter gap: curated hotels currently skew 3–5★
+  because curation passes have focused on brand anchors and well-reviewed
+  mid/upper options, not because budget hotels can't meet the 4.0 rating
+  floor (they can — Toyoko Inn Narita already proves it at 4.1/2★).
+- Decision: proactively curate real budget-tier (1–2★) hotels for
+  existing areas, same 4.0+/100-review bar as everything else. No
+  fallback/live-search button for the zero-result edge case — considered
+  and deliberately rejected as likely over-engineering for a rare
+  intersection (rare filter choice × uncurated area). Plain text empty
+  state stays, matching the pattern used everywhere else in the app.
+  Budget-tier curation itself is still pending (not yet executed).
+- Identified a real blind spot: the app has zero telemetry today, so
+  "how often would that fallback button actually get used" is
+  unanswerable from data — this is now logged as a concrete backend
+  requirement in §6 (event logging, with an explicit China/Great Firewall
+  caveat about analytics tool choice) so the decision can be revisited
+  with real evidence once a backend exists, instead of staying a guess.
+
+### 2026-07-12 (cont'd, 4)
+- Removed the "Only show walkable hotels" toggle. Reasoning: it was a
+  coarse, un-visualized duplicate of what the station/airport/rail
+  circles already show precisely (dark green = confirmed within walk
+  radius of that exact point). Kept the walk-time slider, since it still
+  sizes the circles — only the redundant checkbox and its filtering
+  logic were removed. One fewer control, no loss of real capability.
+
+### 2026-07-12 (cont'd, 3)
+- Added a multi-select star-tier filter (★1–★5 chips in the sidebar).
+  Users can pick, e.g., "4★ and 5★ only" to match their budget. Defaults
+  to no filter applied (all stars shown) so it's a pure opt-in, doesn't
+  change default behavior for anyone who ignores it. Pinned hotels always
+  bypass the filter, consistent with how pinning overrides other filters
+  elsewhere in the app.
+
+### 2026-07-12 (cont'd, 2)
+- Raised the hotel rating floor from 3.7 to **4.0** guest rating (still
+  requires ≥100 reviews). Re-audited all 69 hotels; 10 fell below the new
+  floor. Found real ≥4.0 replacements for every single one — no exceptions
+  needed anywhere:
+  - Ebisu: swapped Prince Smart Inn (3.9) → TOKYU STAY Shibuya Ebisu (4.9)
+  - Shanghai Railway Station: swapped Park Inn by Radisson (3.8, also
+    flagged earlier for a rude-staff review pattern) → Courtyard by
+    Marriott Shanghai Puxi (4.3) — also adds a brand anchor to this area
+  - Pudong Airport: swapped Ramada (3.8) → Holiday Inn Express Shanghai
+    Pudong Airport (4.0)
+  - Ueno: swapped 4 sub-4.0 hotels for 3 real ≥4.5 alternatives (MIMARU
+    Tokyo Ueno Okachimachi 4.9, MONday Apart Premium Ueno 4.6, hotel
+    MONday Premium Ueno Okachimachi 4.5)
+  - Ikebukuro/Shibuya/Shinjuku: simple removals (Centurion Hotel
+    Ikebukuro, APA Hotel Shibuya Dogenzakaue, Shinjuku Washington Hotel)
+    — each area already had 4+ solid ≥4.0 options.
+  - Net: 69 → 65 hotels (some areas lost a redundant low performer
+    without needing a replacement).
+- Updated `hotel-curation-pipeline-spec.md`: rating floor raised to 4.0,
+  added an explicit `floorException` exception clause for the rare case
+  where no ≥4.0 option exists in an area (must be flagged in data, not
+  silently included).
+
+### 2026-07-12 (cont'd)
+- Cross-referenced sightseeing lists against TripAdvisor's editorial "top
+  things to do" consensus (names/rankings only — descriptions rewritten,
+  no copyrighted text reproduced; each new entry backed by real Google
+  Places data for hours/rating/phone).
+- Added to Tokyo: teamLab Borderless (correctly placed at its current
+  Azabudai Hills location, not the old Odaiba site), Shibuya Crossing,
+  Tokyo Metropolitan Government Building Observation Deck (free, often
+  missed), Tsukiji Outer Market, Ueno Park.
+- Added to Shanghai: Nanjing Road Pedestrian Street, Xintiandi, Jade
+  Buddha Temple.
+- Tokyo now has 14 sightseeing entries, Shanghai has 9.
+
+### 2026-07-12
+- Renamed project from "tokyo-transit-planner" to **HopNest**.
+- Set up private GitHub repo; uploaded `hopnest.html` +
+  `hotel-curation-pipeline-spec.md`.
+- Created this design document.
+- Audited existing curated hotels against the new curation pipeline spec:
+  - Removed Lavande Hotel (Shanghai Railway Station) — 4.0 rating on only
+    4 reviews, failed new volume floor.
+  - Added brand anchors: Hilton Tokyo (Shinjuku), Hyatt Centric Ginza,
+    Hyatt House Tokyo Shibuya, Hilton Tokyo Narita Airport.
+- Added curated (always-visible) hotels around Narita and Haneda airports
+  — previously these relied on live search only.
+- Fixed: airport/rail icon clicks now behave like subway stations (draw
+  walk circle, trigger live search if uncurated); clicking elsewhere on
+  the map clears open circles; clicking the same icon again clears just
+  that circle.
+- Added Shanghai coverage: 5 metro lines (1, 2, 4, 8, 10) with real
+  official colors, Lujiazui as a named sightseeing landmark, 3 major
+  railway stations (Shanghai Railway Station, Shanghai South, Hongqiao)
+  as their own marker layer, curated hotels around both Shanghai airports
+  and all three rail hubs.
+- Extended Shanghai Line 2 to its real full route (Hongqiao Airport →
+  Hongqiao Railway Station → central Shanghai → Pudong Airport); extended
+  Line 1 to Shanghai South Railway Station.
+- Added Tokyo Monorail (Haneda access) and Keisei Skyliner (Narita
+  access) as real airport-connecting subway-style lines.
+- Added official star classification (`stars`, 1–5) to all 42 existing
+  Tokyo hotels + 10 Shanghai hotels, kept explicitly separate from Google
+  guest rating.
+- Wrote `hotel-curation-pipeline-spec.md`: the full hotel-selection logic
+  (area tiers, brand-anchor weighting, review volume floor, disqualifier
+  patterns, price-tier spread, refresh cadence) for a future automated
+  monthly-refresh pipeline.
+
+### Earlier work (pre-dating this document, reconstructed from conversation)
+- Built initial Tokyo prototype: Yamanote/Ginza/Marunouchi/Hibiya/Ōedo/
+  Chiyoda lines, 25 curated hotels across 5 neighborhoods, 9 sightseeing
+  spots, Narita/Haneda airport markers, city-picker architecture.
+- Added pinning, price tiers, click-to-toggle walk circles, live-search
+  fallback for uncurated stations, multi-city data schema.
