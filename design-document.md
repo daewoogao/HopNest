@@ -83,16 +83,31 @@ station/airport/railway stop you tap.
   Adding a city = adding one entry in this shape. No rendering code needs
   to change.
 - **No backend, no database.** Everything is static data baked into the
-  file at the time I edit it. Nothing persists between browser sessions
-  except live-fetched hotels and pins, which reset on reload.
+  file at the time I edit it. The only saved state is per-browser
+  `localStorage`: pinned hotels/sights and the last-viewed city survive a
+  reload (live-search pins are saved as full snapshots so they don't need
+  re-fetching). Nothing syncs across devices.
+- **Installable (PWA)**: `manifest.json` + `icon-192.png`, `icon-512.png`
+  and `apple-touch-icon.png`, plus iOS-specific meta tags, so "Add to Home
+  Screen" opens HopNest full-screen with its own icon. No service worker,
+  so no offline support.
 
 ## 3. Features (current state)
 
 - **Subway lines**: real official colors, toggleable per line, station
   dots clickable.
-- **City picker**: sidebar cards to switch cities. Cities without data
-  yet show as "coming soon"; a text box lets the user request a new one
-  (session-only placeholder).
+- **Cities**: Tokyo, Shanghai, New York City, London, Barcelona. Paris
+  is listed as "coming soon."
+- **City picker**: alphabetized sidebar cards with their own search box
+  (accent-insensitive), kept separate from the in-city place search.
+  Cities without data yet show as "coming soon"; a text box lets the user
+  request a new one (session-only placeholder).
+- **Place search**: typeahead search bar for curated hotels, sights,
+  subway/rail stations and airports in the current city (up to 8
+  results, accent-insensitive).
+- **Live hotel name search**: if a searched hotel isn't curated, it can
+  be looked up on the web by name and dropped on the map (same
+  live-search mechanism and caveats as below).
 - **Hotel walkability**: slider (5–20 min, presets at 5/10/15) sizes the
   walk-radius circle drawn when you tap a station/airport/rail icon.
   Precise walkability is read from the circle (dark green = confirmed
@@ -112,8 +127,21 @@ station/airport/railway stop you tap.
   page calls Claude's API (web search enabled) to fetch real hotels on
   the fly. Only works while viewing this as a live Claude artifact — it
   cannot authenticate from a downloaded standalone file. See §5.
-- **Pinning**: any hotel can be pinned (📌); pinned hotels always show
-  regardless of filters/circles. Session-only, no persistence.
+- **Pinning**: any hotel or sight can be pinned (📌); pinned items always
+  show regardless of filters/circles. Pins persist across reloads in the
+  same browser (`localStorage`).
+- **Trip sharing (no backend)**: "🔗 Share my pinned picks" encodes every
+  pin (across all cities) into one URL and copies it in a single tap; the
+  link field and Copy button only appear if auto-copy fails. Curated pins
+  are encoded as IDs, live-search pins as full snapshots. Opening a shared
+  link loads its city and merges its pins into the recipient's saved pins.
+- **Fares**: real fare structure per city in the sidebar, plus airport
+  supplements shown on the relevant airport (e.g. JFK AirTrain,
+  Barcelona L9 Sud).
+- **First/last train times** on airport and intercity rail connectors.
+- **Sight details**: TripAdvisor-vetted sights with hours, rating,
+  official ticket link and a "books up" flag where relevant; thumbnails
+  in Barcelona (pilot).
 - **Star class vs. guest rating**: `stars` (1–5, official/brand tier) is
   tracked separately from `rating` (Google guest review average) — these
   can and do diverge (see curation spec).
@@ -144,9 +172,11 @@ capped at 3–5 hotels per area.
 - Live search only works inside Claude's artifact viewer, not a
   downloaded file — it depends on that environment's authenticated fetch
   to Claude's API. No API key is embedded, so it can't work standalone.
-- Nothing persists across sessions in the current file (no localStorage
-  allowed in Claude artifacts) — pins and live-fetched hotels reset on
-  reload.
+- Pins persist only in the same browser (`localStorage`), not across
+  devices; clearing site data or a private window loses them. Inside the
+  Claude artifact preview, `localStorage` may be unavailable, so pins can
+  still reset there.
+- No offline support (no service worker).
 - Not every city/station has curated data yet — coverage grows city by
   city, area by area (see Changelog for what's covered so far).
 
@@ -193,8 +223,8 @@ capped at 3–5 hotels per area.
   systems:
   1. Clicking a station/airport/rail circle with no curated hotels
      (existing behavior, live since the first build)
-  2. Searching a hotel name not in the curated list (proposed feature,
-     not yet built — see below)
+  2. Searching a hotel name not in the curated list (built — see
+     Changelog 2026-07-13 cont'd, 24)
   This scales with **actual user traffic**, not city count — unlike the
   batch-refresh cost above, which scales with how many cities/hotels
   exist regardless of whether anyone visits them. At modest early
@@ -205,14 +235,6 @@ capped at 3–5 hotels per area.
   via the event-logging item below once there's real traffic to measure.
   **Combined realistic monthly total at 150-city scale, tiered refresh +
   modest live-search traffic: roughly $750–1,300/mo.**
-- **Proposed feature, not yet built: "search any hotel by name."**
-  Layers on top of the existing curated-only search bar (Shanghai
-  pilot). If a searched name isn't in the curated list, offer to run it
-  through the same live-search mechanism above (by name instead of by
-  map location) and drop a pin with the result. Deliberately reuses
-  existing infrastructure rather than requiring a new paid Places API
-  integration — cost is covered by the live-search line item above, not
-  an additional system.
 - **Minimal, privacy-respecting event logging — build this in from day one
   once the backend exists, not as an afterthought.** Rationale: right now
   the app is a static file with zero telemetry, so questions like "how
@@ -223,29 +245,47 @@ capped at 3–5 hotels per area.
   future decisions (like whether the 1–2★ live-search-fallback button
   discussed on 2026-07-13 is worth building) can be traced back to actual
   user behavior instead of guessing.
-  - **China caveat, don't default past this:** Shanghai is one of two
-    cities in the app, and most Western analytics tools (Google Analytics
+  - **China caveat, don't default past this:** Shanghai is one of the
+    five cities in the app, and most Western analytics tools (Google Analytics
     included) are blocked by the Great Firewall without a VPN — a naive
     default would silently lose data from exactly the market with the
     most curation investment. Prefer self-hosted, privacy-respecting
     tools (Plausible/Umami on our own domain) over a blocked third-party
     SDK, specifically because it stands a real chance of working for
     mainland China visitors too.
-- Persistence for pins (would need the backend + a database, e.g.
-  Supabase, to survive across sessions/devices).
-- More cities beyond Tokyo/Shanghai.
-- Possibly: PWA install support once this moves off prototype stage.
+- Cross-device pin sync (would need the backend + a database, e.g.
+  Supabase). Same-browser persistence is already built via
+  `localStorage`.
+- More cities — Paris is next (already listed as "coming soon").
+- Offline support via a service worker (PWA install itself is built).
 
 ## 7. Repo / hosting
 
-- Private GitHub repo. Files: `hopnest.html`, `hotel-curation-pipeline-spec.md`,
-  this design doc.
+- Private GitHub repo: `daewoogao/HopNest`, branch `main`.
+- Files: `hopnest.html`, `manifest.json`, `icon-192.png`, `icon-512.png`,
+  `apple-touch-icon.png`, `README.md`, `hotel-curation-pipeline-spec.md`,
+  this design doc, and `.gitignore` (excludes `.DS_Store`).
+- `launch-cost-plan.md` (Changelog cont'd, 38) is not in the repo yet.
 - Not deployed to a live URL yet (GitHub Pages on a private repo needs a
   paid plan; public repo would get free Pages hosting — undecided).
 
 ---
 
 ## Changelog
+
+### 2026-09-28 — repo set up, README added, design doc brought up to date
+- Put the project under git and pushed it to the existing private
+  GitHub repo `daewoogao/HopNest`, merging with the older copies
+  already there (local versions kept; GitHub's `README.md` kept).
+  Added `.gitignore` for `.DS_Store`.
+- Wrote a full `README.md` (features, cities, how to run, structure,
+  curation summary, limitations, roadmap).
+- Updated sections 2, 3, 5, 6 and 7 of this doc, which had fallen behind
+  the changelog: pins/last city now persist (cont'd, 40), PWA install is
+  built (cont'd, 43), live hotel name search is built (cont'd, 24), and
+  added the city picker search, place search, trip sharing, fares,
+  train times and sight details to the feature list. The app currently
+  has 5 cities, not 2.
 
 ### 2026-07-13 (cont'd, 43) — PWA manifest added (item 2 of the launch checklist)
 - Second item from the launch checklist: makes "Add to Home Screen" turn
