@@ -48,25 +48,29 @@ HopNest puts all of it on one screen to answer one question well:
 HopNest is a single HTML file with no build step and no server.
 
 ```bash
-open hopnest.html
+open site/hopnest.html
 ```
 
 To test **Add to Home Screen**, the files need to be served over HTTP rather
 than opened as a local file:
 
 ```bash
-python3 -m http.server 8000
+python3 -m http.server 8000 --directory site
 # then visit http://localhost:8000/hopnest.html
 ```
 
 ## Project structure
 
+Everything the website serves lives in `site/`. The docs at the top level
+are internal and must not be deployed. When hosting, set the publish
+directory to `site`.
+
 | File | What it is |
 |---|---|
-| `hopnest.html` | The whole app: map, data, UI and logic |
-| `manifest.json` | PWA manifest (app name, icons, theme color) |
-| `icon-192.png`, `icon-512.png` | Android and Chrome install icons |
-| `apple-touch-icon.png` | iOS home-screen icon (180×180) |
+| `site/hopnest.html` | The whole app: map, data, UI and logic |
+| `site/manifest.json` | PWA manifest (app name, icons, theme color) |
+| `site/icon-192.png`, `site/icon-512.png` | Android and Chrome install icons |
+| `site/apple-touch-icon.png` | iOS home-screen icon (180×180) |
 | `design-document.md` | Living design doc: architecture, features, roadmap and a dated changelog |
 | `hotel-curation-pipeline-spec.md` | The rules for choosing which hotels appear, written for a future automated refresh script |
 | `launch-cost-plan.md` | What launching costs, and what triggers each cost (domain, hosting, data refresh, live search, Supabase, analytics) |
@@ -75,7 +79,7 @@ python3 -m http.server 8000
 
 - **Map:** [Leaflet](https://leafletjs.com/) 1.9.4 with OpenStreetMap tiles,
   loaded from a CDN.
-- **Data:** a single `CITIES` object in `hopnest.html`. Each city holds its
+- **Data:** a single `CITIES` object in `site/hopnest.html`. Each city holds its
   subway lines, hotels, sights, rail stations and airports. Adding a city
   means adding one entry of the same shape; no rendering code changes:
 

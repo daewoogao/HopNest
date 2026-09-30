@@ -64,7 +64,7 @@ station/airport/railway stop you tap.
 
 ## 2. Architecture
 
-- **One self-contained HTML file** (`hopnest.html`). No build step, no
+- **One self-contained HTML file** (`site/hopnest.html`). No build step, no
   server. Opens directly in any browser.
 - **Map engine:** Leaflet.js (via CDN) + OpenStreetMap tiles.
 - **Data model:** a single `CITIES` object at the top of the script.
@@ -262,16 +262,27 @@ capped at 3–5 hotels per area.
 ## 7. Repo / hosting
 
 - Private GitHub repo: `daewoogao/HopNest`, branch `main`.
-- Files: `hopnest.html`, `manifest.json`, `icon-192.png`, `icon-512.png`,
-  `apple-touch-icon.png`, `README.md`, `hotel-curation-pipeline-spec.md`,
-  `launch-cost-plan.md`, this design doc, and `.gitignore` (excludes
-  `.DS_Store`).
+- `site/` holds everything the website serves: `hopnest.html`,
+  `manifest.json`, `icon-192.png`, `icon-512.png`, `apple-touch-icon.png`.
+  **When deploying, publish only `site/`** — everything the browser
+  downloads is readable by visitors, so internal docs must never be
+  served.
+- Top level (internal, never deployed): `README.md`,
+  `hotel-curation-pipeline-spec.md`, `launch-cost-plan.md`, this design
+  doc, and `.gitignore` (excludes `.DS_Store`).
 - Not deployed to a live URL yet (GitHub Pages on a private repo needs a
   paid plan; public repo would get free Pages hosting — undecided).
 
 ---
 
 ## Changelog
+
+### 2026-09-29 — website files moved into `site/`
+- Moved `hopnest.html`, `manifest.json` and the three icons into `site/`
+  so the host can publish just that folder. Deploying the whole repo
+  would have made `launch-cost-plan.md`, the curation spec and this doc
+  readable at public URLs. Relative paths inside the site are unchanged
+  (all files moved together), so nothing in the app needed editing.
 
 ### 2026-09-28 — repo set up, README added, design doc brought up to date
 - Put the project under git and pushed it to the existing private
