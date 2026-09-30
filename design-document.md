@@ -273,9 +273,73 @@ capped at 3–5 hotels per area.
 - Not deployed to a live URL yet (GitHub Pages on a private repo needs a
   paid plan; public repo would get free Pages hosting — undecided).
 
+## 8. Launch checklist
+
+Everything that has to change between "works in Claude's preview" and
+"public website anyone in the world can use." Check items off here as
+they're done.
+
+**Already done**
+- [x] Pins and last-viewed city persist across reloads (Changelog cont'd, 40)
+- [x] Installable as a home-screen app / PWA (Changelog cont'd, 43)
+- [x] Website files isolated in `site/` so internal docs can't be deployed
+  (Changelog 2026-09-29)
+
+**Must fix before launch**
+- [ ] **Decide live search.** It only works inside Claude's preview; on a
+  real site it fails, and the error banner mentions "the artifact viewer,"
+  which means nothing to a real user. Either:
+  - (a) disable it for launch and show a plain "not covered yet"
+    message — $0, simplest; or
+  - (b) build a small backend that holds the Anthropic API key and
+    proxies the call — ~1–2¢ per lookup (see `launch-cost-plan.md` §4).
+    The key must never be put in `hopnest.html`.
+- [ ] **Switch map tiles off OpenStreetMap's public tile server.** Its
+  usage policy isn't meant for production sites with real traffic and it
+  can block us. Move to a tile provider with a free tier (MapTiler,
+  Stadia Maps, Thunderforest — compare at decision time). Keep the
+  OpenStreetMap attribution.
+- [ ] **Hosting**: Netlify or Vercel, publish directory = `site`, private
+  repo, auto-deploy on push. Buy a domain.
+- [ ] **Rename `hopnest.html` → `index.html`** so the bare domain loads
+  the app; update `start_url` in `manifest.json` to match.
+- [ ] **Re-verify the curated data.** Everything was curated in July
+  2026: re-check hotel price tiers, sight hours, fares, first/last train
+  times, and drop anything that has closed.
+- [ ] **Real-device testing**: iPhone Safari, Android Chrome, slow mobile
+  data. Cover Add to Home Screen, share links, city picker, pins.
+
+**Should do at launch**
+- [ ] **Analytics**: Plausible or Umami (not Google Analytics — blocked in
+  mainland China). See Roadmap §6.
+- [ ] **Error tracking** (e.g. Sentry) so browser errors reach us instead
+  of relying on user reports.
+- [ ] **About / Privacy page**: what's stored (pins in the browser only),
+  where the data comes from, and "verify details before booking."
+- [ ] **Check terms for displaying ratings.** We show TripAdvisor/Google
+  ratings; confirm what their terms allow on a public site.
+- [ ] **More cities**: Paris first, then ~5–10 top destinations that
+  have a metro (target 10–20 at launch).
+
+**After launch (not blocking)**
+- Backend + Google Places automated data refresh (§6)
+- Trust circles / shared trips (Supabase)
+- Cross-device pin sync
+- Offline support (service worker)
+- App Store / Play Store versions
+
 ---
 
 ## Changelog
+
+### 2026-09-29 — launch checklist added (§8)
+- Wrote down the full gap between the current app and a public launch
+  as §8, grouped into must-fix / should-do / after-launch. New items not
+  previously tracked anywhere: map tiles must move off OpenStreetMap's
+  public server, the live-search error message is written for the
+  Claude preview rather than real users, `index.html` rename, re-verifying
+  July 2026 data, and checking terms for displaying ratings.
+- Added map tiles to `launch-cost-plan.md` (new §2b and summary row).
 
 ### 2026-09-29 — website files moved into `site/`
 - Moved `hopnest.html`, `manifest.json` and the three icons into `site/`

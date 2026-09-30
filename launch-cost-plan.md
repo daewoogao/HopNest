@@ -41,6 +41,28 @@ browsers work, not a GitHub-specific tradeoff).
 
 ---
 
+## 2b. Map tiles (the map images themselves)
+*Added 2026-09-29 — missing from the original plan.*
+
+The app currently loads map images from OpenStreetMap's own public tile
+server. That's fine for a prototype, but its usage policy isn't meant for
+a real public website with steady traffic, and it can block sites that
+lean on it. **Before launch, switch to a tile provider.**
+
+| Option | Cost | Notes |
+|---|---|---|
+| MapTiler / Stadia Maps / Thunderforest | Free tier to start | Each has a free tier sized for small sites, then paid plans by traffic. Exact limits and prices not researched here — compare at decision time. |
+
+The switch itself is a one-line change in `site/hopnest.html` (the tile
+URL) plus an API key. Unlike the Anthropic key, tile keys are designed to
+sit in browser code, and are locked to your domain in the provider's
+dashboard.
+
+**Cost today: $0.** Likely $0 at launch on a free tier; grows with traffic,
+like live search.
+
+---
+
 ## 3. Hotel/sightseeing data — what's free vs. what costs money
 
 **Everything curated so far (all 5 cities, ~150 hotels, ~70 sights) was
@@ -148,6 +170,7 @@ without losing historical data.
 |---|---|---|
 | Domain | $0 | Deciding to actually launch (Stage 1) |
 | Hosting | $0 forever | N/A — free tier is sufficient indefinitely at this scale |
+| Map tiles | $0 | Required switch before launch; free tier likely covers early traffic, paid tiers scale with traffic |
 | Data refresh pipeline | $0 | Building the backend + choosing to automate refresh |
 | Live search | $0 | Building the backend (same one, reused) |
 | Trust circles | $0 | Building the backend (same one, reused) — likely stays $0 on Supabase Free even after |
