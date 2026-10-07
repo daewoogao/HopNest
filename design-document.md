@@ -164,6 +164,42 @@ one hotel per area, since brand recognition reduces booking anxiety for
 Western travelers; ≥100-review volume floor; price-tier spread required;
 capped at 3–5 hotels per area.
 
+### Sightseeing selection
+
+Sights have no separate spec file; these are the rules, gathered from the
+changelog entries where each was decided.
+
+1. **Source: the real TripAdvisor ranking.** `web_fetch` the city's
+   actual TripAdvisor attractions page and work from its numbered list.
+   Generic web search is not used, because it returns snippets *about*
+   rankings and missed real top-10 entries in London (2026-07-13 cont'd, 4).
+2. **Core list: roughly the ranked top 12–15.** Every entry should be
+   traceable to the ranking (2026-07-13 cont'd, 5).
+3. **A few deliberate local-flavor additions** beyond the ranked list
+   (a food market, a free viewpoint, a park, a nightlife alley) for
+   variety a pure top-N list misses. Prefer swapping in a real ranked
+   entry over keeping a weak unranked one (2026-07-13 cont'd, 6).
+4. **Exclusions, always noted in the changelog, never silent:**
+   attractions far outside the city (e.g. Disneylands), entries that
+   aren't attractions (shops, hotels), very new low-review entries, and
+   judgment calls for a general-audience planner (e.g. Barcelona's
+   adult-themed museum) (2026-07-13 cont'd, 6 and 16).
+5. **Details from Google Places**: hours, rating, phone. Names and
+   rankings come from TripAdvisor; descriptions are rewritten, never
+   copied (2026-07-12 cont'd).
+6. **Ticket links: official domains only**, never resellers
+   (Klook/Viator/GetYourGuide/Tiqets). If no clean official site can be
+   confirmed, leave the link empty rather than guess. Ticketed sights get
+   the qualitative `bookAhead` flag, not a made-up day count
+   (2026-07-13 cont'd, 35).
+7. **Closures override the ranking**: a closed or renovating sight gets
+   its note and hours updated to say so rather than sending people
+   there (2026-07-13 cont'd, 35).
+8. **Refresh**: hours and ratings monthly (curation spec §3).
+9. **Verify by evaluating the data**, e.g.
+   `CITIES.london.sights.map(s=>s.name)`, not just a parse check
+   (2026-07-13 cont'd, 4).
+
 ## 5. Known limitations (honest, not hidden)
 
 - Subway line paths are simplified/hand-placed, not schedule-grade or
@@ -331,6 +367,14 @@ they're done.
 ---
 
 ## Changelog
+
+### 2026-10-07 — sightseeing selection rules written into §4
+- The hotel rules had a full spec, but the sightseeing rules only existed
+  scattered across changelog entries. Collected them into a new
+  "Sightseeing selection" subsection of §4 (TripAdvisor ranking as the
+  source, local-flavor additions, noted exclusions, Places details,
+  official-only ticket links, closures, refresh, verification). No rule
+  was changed; each one cites the entry where it was decided.
 
 ### 2026-09-29 — launch checklist added (§8)
 - Wrote down the full gap between the current app and a public launch
