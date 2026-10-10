@@ -1235,6 +1235,10 @@ function hotelCircleStatus(h, circles){
    viewer — the client-side call to api.anthropic.com is proxied/authenticated
    by that environment. It will fail if this file is opened standalone
    outside Claude.ai, since there's no session to authorize the request. ---------------- */
+// Off for launch: there's no backend to hold an API key yet, so the call
+// can't work on the public site (design doc §8). Flip to true once a
+// backend proxy exists and the fetches below point at it.
+const LIVE_SEARCH_ENABLED = false;
 let liveFetchedKeys = new Set();
 let liveFetchInFlight = new Set();
 
@@ -1258,6 +1262,10 @@ function maybeFetchLiveHotels(stationName, lat, lng){
   const nearbyMatch = data.hotels.some(h => h.curated!==false && haversineMeters(lat,lng,h.lat,h.lng) <= walkMinutes*WALK_SPEED_M_PER_MIN);
   const alreadyHandCurated = nameMatch || nearbyMatch;
   if(alreadyHandCurated || liveFetchedKeys.has(key) || liveFetchInFlight.has(key)) return;
+  if(!LIVE_SEARCH_ENABLED){
+    showSearchBanner(`We haven't curated hotels near ${stationName} yet.`, 3200);
+    return;
+  }
   fetchLiveHotels(stationName, lat, lng, data.name, key);
 }
 
@@ -1292,7 +1300,7 @@ async function fetchLiveHotels(stationName, lat, lng, cityName, key){
     showSearchBanner(added>0 ? `✓ Found ${added} hotel${added===1?'':'s'} near ${stationName}` : `No hotels found near ${stationName}`, 3200);
   } catch(e){
     console.error('Live hotel search failed:', e);
-    showSearchBanner(`Live search hit an error near ${stationName} — this feature is best-effort inside the artifact viewer. Try again, or stick to areas with default coverage.`, 5000);
+    showSearchBanner(`Live search hit an error near ${stationName}. Try again, or stick to areas with default coverage.`, 5000);
   } finally {
     liveFetchInFlight.delete(key);
   }
@@ -1375,7 +1383,7 @@ async function fetchHotelByName(query, key){
     if(foundMarker){ if(!map.hasLayer(foundMarker.marker)) foundMarker.marker.addTo(map); setTimeout(()=>foundMarker.marker.openPopup(), 300); }
   } catch(e){
     console.error('Hotel name search failed:', e);
-    showSearchBanner(`Search hit an error — this feature is best-effort inside the artifact viewer. Try again in a moment.`, 5000);
+    showSearchBanner(`Search hit an error. Try again in a moment.`, 5000);
   } finally {
     liveFetchInFlight.delete(key);
   }
@@ -1769,6 +1777,10 @@ function triggerNameSearch(query){
       return;
     }
   }
+  if(!LIVE_SEARCH_ENABLED){
+    showSearchBanner(`"${query}" isn't in our curated list for ${CITIES[currentCityId].name} yet.`, 4000);
+    return;
+  }
   fetchHotelByName(query, key);
 }
 
@@ -1866,7 +1878,7 @@ miniInput.addEventListener('keydown', e=>{ if(e.key==='Enter') document.getEleme
 map.on('zoomend', render);
 
 document.getElementById('footer-note').textContent =
-  'Subway paths are simplified for planning purposes, not schedule-grade. Hotel price tiers are static estimates, not live rates. Hotels in Shinjuku/Asakusa/Ginza/Shibuya/Ueno show by default; other neighborhoods reveal their hotels when you tap a nearby station. Pinned hotels are saved for this session only — they reset if you close the tab. Real venue names, ratings & hours via Google Places.';
+  'Subway paths are simplified for planning purposes, not schedule-grade. Hotel price tiers are static estimates, not live rates. Hotels in Shinjuku/Asakusa/Ginza/Shibuya/Ueno show by default; other neighborhoods reveal their hotels when you tap a nearby station. Pins are saved in this browser. Real venue names, ratings & hours via Google Places.';
 
 document.getElementById('city-request-btn').addEventListener('click', requestCity);
 document.getElementById('city-request-input').addEventListener('keydown', e=>{ if(e.key==='Enter') requestCity(); });

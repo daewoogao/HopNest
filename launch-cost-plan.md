@@ -32,7 +32,10 @@ real usage validates the idea via Stages 1–2.
 | GitHub Pages | Free | Requires a **public** repo — anyone can browse your commit history |
 | Netlify or Vercel | Free tier | Can deploy from a **private** repo — keeps history hidden, same free live URL |
 
-**Recommendation from our discussion:** Netlify/Vercel if repo privacy
+**Decided 2026-10-09: GitHub Pages** (repo made public; live at
+https://daewoogao.github.io/HopNest/, see design doc §7). This replaced
+the 2026-10-07 Cloudflare Pages plan. Earlier note:
+Netlify/Vercel if repo privacy
 matters to you; GitHub Pages if you're fine going public (repo privacy
 doesn't protect the *live site's* code either way — that's inherent to how
 browsers work, not a GitHub-specific tradeoff).
@@ -53,7 +56,7 @@ lean on it. **Before launch, switch to a tile provider.**
 |---|---|---|
 | MapTiler / Stadia Maps / Thunderforest | Free tier to start | Each has a free tier sized for small sites, then paid plans by traffic. Exact limits and prices not researched here — compare at decision time. |
 
-The switch itself is a one-line change in `site/hopnest.html` (the tile
+The switch itself is a one-line change in `site/index.html` (the tile
 URL) plus an API key. Unlike the Anthropic key, tile keys are designed to
 sit in browser code, and are locked to your domain in the provider's
 dashboard.

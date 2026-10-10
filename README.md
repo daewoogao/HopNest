@@ -35,8 +35,9 @@ HopNest puts all of it on one screen to answer one question well:
   ratings, official ticket links, and a flag for places that book up.
 - **First and last train times** for airport and intercity rail links.
 - **Real fare information** for all five cities.
-- **Search by name.** If a place isn't in the curated list, HopNest can
-  live-search the web for it (see [Limitations](#known-limitations)).
+- **Search by name** across curated hotels, sights and stations. Live web
+  search for uncurated places exists but is off until there's a backend
+  (see [Limitations](#known-limitations)).
 - **Pins and shareable trip links.** Pin hotels and sights while you compare.
   Pins survive a reload, and the **🔗 Share my pinned picks** button turns
   everything you've pinned into one link. No account needed.
@@ -48,7 +49,7 @@ HopNest puts all of it on one screen to answer one question well:
 HopNest is a single HTML file with no build step and no server.
 
 ```bash
-open site/hopnest.html
+open site/index.html
 ```
 
 To test **Add to Home Screen**, the files need to be served over HTTP rather
@@ -56,18 +57,20 @@ than opened as a local file:
 
 ```bash
 python3 -m http.server 8000 --directory site
-# then visit http://localhost:8000/hopnest.html
+# then visit http://localhost:8000/
 ```
 
 ## Project structure
 
 Everything the website serves lives in `site/`. The docs at the top level
-are internal and must not be deployed. When hosting, set the publish
-directory to `site`.
+are internal and must not be deployed. The site is live at
+https://daewoogao.github.io/HopNest/; `.github/workflows/pages.yml`
+publishes only `site/` on every push to `main`.
 
 | File | What it is |
 |---|---|
-| `site/hopnest.html` | The whole app: map, data, UI and logic |
+| `site/index.html` | The whole app: map, data, UI and logic |
+| `site/_redirects` | Sends old `/hopnest.html` links to `/` (Cloudflare Pages / Netlify only; GitHub Pages ignores it) |
 | `site/manifest.json` | PWA manifest (app name, icons, theme color) |
 | `site/icon-192.png`, `site/icon-512.png` | Android and Chrome install icons |
 | `site/apple-touch-icon.png` | iOS home-screen icon (180×180) |
@@ -79,7 +82,7 @@ directory to `site`.
 
 - **Map:** [Leaflet](https://leafletjs.com/) 1.9.4 with OpenStreetMap tiles,
   loaded from a CDN.
-- **Data:** a single `CITIES` object in `site/hopnest.html`. Each city holds its
+- **Data:** a single `CITIES` object in `site/index.html`. Each city holds its
   subway lines, hotels, sights, rail stations and airports. Adding a city
   means adding one entry of the same shape; no rendering code changes:
 
@@ -119,9 +122,9 @@ The shortlist logic is spelled out in
   transit feed (GTFS/ODPT).
 - **Hotel prices are estimates.** Price tiers are static, not live bookable
   rates.
-- **Live web search only works inside Claude's artifact viewer.** It relies on
-  that environment's authenticated API access. A standalone copy has no API
-  key, so live search won't work there.
+- **Live web search is turned off** (`LIVE_SEARCH_ENABLED` in
+  `site/index.html`). It only worked inside Claude's artifact viewer, which
+  supplied the API access; the public site needs a backend first.
 - **Coverage is still growing.** Not every station has curated hotels yet.
 
 ## Roadmap

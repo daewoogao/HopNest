@@ -2,7 +2,7 @@
   "name": "HopNest",
   "short_name": "HopNest",
   "description": "Subway + hotel + sightseeing trip planner",
-  "start_url": "./hopnest.html",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#0d141b",
   "theme_color": "#1b3a56",

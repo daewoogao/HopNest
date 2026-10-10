@@ -64,7 +64,7 @@ station/airport/railway stop you tap.
 
 ## 2. Architecture
 
-- **One self-contained HTML file** (`site/hopnest.html`). No build step, no
+- **One self-contained HTML file** (`site/index.html`). No build step, no
   server. Opens directly in any browser.
 - **Map engine:** Leaflet.js (via CDN) + OpenStreetMap tiles.
 - **Data model:** a single `CITIES` object at the top of the script.
@@ -107,7 +107,7 @@ station/airport/railway stop you tap.
   results, accent-insensitive).
 - **Live hotel name search**: if a searched hotel isn't curated, it can
   be looked up on the web by name and dropped on the map (same
-  live-search mechanism and caveats as below).
+  live-search mechanism and caveats as below). Off for launch.
 - **Hotel walkability**: slider (5–20 min, presets at 5/10/15) sizes the
   walk-radius circle drawn when you tap a station/airport/rail icon.
   Precise walkability is read from the circle (dark green = confirmed
@@ -127,6 +127,9 @@ station/airport/railway stop you tap.
   page calls Claude's API (web search enabled) to fetch real hotels on
   the fly. Only works while viewing this as a live Claude artifact — it
   cannot authenticate from a downloaded standalone file. See §5.
+  **Turned off for launch** (`LIVE_SEARCH_ENABLED = false`): uncurated
+  stations and hotel names show a plain "not curated yet" message
+  instead. Re-enable once a backend proxy holds the API key.
 - **Pinning**: any hotel or sight can be pinned (📌); pinned items always
   show regardless of filters/circles. Pins persist across reloads in the
   same browser (`localStorage`).
@@ -297,8 +300,10 @@ changelog entries where each was decided.
 
 ## 7. Repo / hosting
 
-- Private GitHub repo: `daewoogao/HopNest`, branch `main`.
-- `site/` holds everything the website serves: `hopnest.html`,
+- Public GitHub repo: `daewoogao/HopNest`, branch `main` (made public
+  2026-10-09; the top-level docs are readable on GitHub but never served).
+- `site/` holds everything the website serves: `index.html`,
+  `_redirects` (Cloudflare/Netlify only; GitHub Pages ignores it),
   `manifest.json`, `icon-192.png`, `icon-512.png`, `apple-touch-icon.png`.
   **When deploying, publish only `site/`** — everything the browser
   downloads is readable by visitors, so internal docs must never be
@@ -306,8 +311,11 @@ changelog entries where each was decided.
 - Top level (internal, never deployed): `README.md`,
   `hotel-curation-pipeline-spec.md`, `launch-cost-plan.md`, this design
   doc, and `.gitignore` (excludes `.DS_Store`).
-- Not deployed to a live URL yet (GitHub Pages on a private repo needs a
-  paid plan; public repo would get free Pages hosting — undecided).
+- **Live at https://daewoogao.github.io/HopNest/** on GitHub Pages
+  (free), chosen 2026-10-09 in place of the earlier Cloudflare Pages
+  plan. `.github/workflows/pages.yml` uploads only `site/` and deploys on
+  every push to `main`. Pages source is set to "GitHub Actions". A custom
+  domain can be added later in repo Settings → Pages.
 
 ## 8. Launch checklist
 
@@ -322,23 +330,30 @@ they're done.
   (Changelog 2026-09-29)
 
 **Must fix before launch**
-- [ ] **Decide live search.** It only works inside Claude's preview; on a
+- [x] **Decide live search.** Chose (a) on 2026-10-07: disabled behind
+  `LIVE_SEARCH_ENABLED`, error text no longer mentions the artifact
+  viewer. Original note: It only works inside Claude's preview; on a
   real site it fails, and the error banner mentions "the artifact viewer,"
   which means nothing to a real user. Either:
   - (a) disable it for launch and show a plain "not covered yet"
     message — $0, simplest; or
   - (b) build a small backend that holds the Anthropic API key and
     proxies the call — ~1–2¢ per lookup (see `launch-cost-plan.md` §4).
-    The key must never be put in `hopnest.html`.
+    The key must never be put in `index.html`.
 - [ ] **Switch map tiles off OpenStreetMap's public tile server.** Its
   usage policy isn't meant for production sites with real traffic and it
   can block us. Move to a tile provider with a free tier (MapTiler,
   Stadia Maps, Thunderforest — compare at decision time). Keep the
-  OpenStreetMap attribution.
-- [ ] **Hosting**: Netlify or Vercel, publish directory = `site`, private
-  repo, auto-deploy on push. Buy a domain.
-- [ ] **Rename `hopnest.html` → `index.html`** so the bare domain loads
-  the app; update `start_url` in `manifest.json` to match.
+  OpenStreetMap attribution. **Not decided yet.** Recommendation
+  (2026-10-07): OpenFreeMap, which is free, needs no account or key, and
+  allows commercial use. It serves vector tiles, so it needs MapLibre GL
+  plus the maplibre-gl-leaflet plugin. MapTiler and Stadia free tiers are
+  non-commercial only, which conflicts with affiliate links.
+- [x] **Hosting**: GitHub Pages (free), public repo, deploys `site/`
+  on push to `main` via `.github/workflows/pages.yml` (2026-10-09).
+  Replaced the Cloudflare Pages plan. Domain optional (~$10/yr).
+- [x] **Rename `hopnest.html` → `index.html`** so the bare domain loads
+  the app; `manifest.json` `start_url` is now `./` (2026-10-07).
 - [ ] **Re-verify the curated data.** Everything was curated in July
   2026: re-check hotel price tiers, sight hours, fares, first/last train
   times, and drop anything that has closed.
@@ -367,6 +382,32 @@ they're done.
 ---
 
 ## Changelog
+
+### 2026-10-09 — live on GitHub Pages
+- Hosting switched from the planned Cloudflare Pages to GitHub Pages
+  (Audrey's call): repo `daewoogao/HopNest` made public, site live at
+  https://daewoogao.github.io/HopNest/ (§7, §8).
+- Added `.github/workflows/pages.yml`: publishes only `site/` on each
+  push to `main`, so internal docs are still never served.
+- Scanned the repo and full git history for API keys and secrets before
+  going public; none found.
+- Still open before a wider launch: OpenStreetMap public tiles aren't
+  allowed for production traffic, and stored Google/TripAdvisor ratings
+  conflict with their terms (§8).
+
+### 2026-10-07 — launch prep for free hosting
+- Picked Cloudflare Pages free tier as the host (§7): free with a private
+  repo, no bandwidth cap. Replaces the earlier Netlify/Vercel default.
+- Renamed `site/hopnest.html` → `site/index.html` (Audrey's call) so the
+  bare domain loads the app; `manifest.json` `start_url` now `./`.
+  `site/_redirects` sends old `/hopnest.html` links to `/`.
+- Live search turned off for launch (checklist option (a), $0) via
+  `LIVE_SEARCH_ENABLED = false`. Uncurated stations and hotel names now
+  show a plain "not curated yet" banner, and error text no longer
+  mentions the artifact viewer.
+- Map tiles: OpenFreeMap recommended in §8, awaiting Audrey's decision.
+- Fixed the stale disclaimer that said pins reset when the tab closes;
+  they persist since cont'd 40.
 
 ### 2026-10-07 — sightseeing selection rules written into §4
 - The hotel rules had a full spec, but the sightseeing rules only existed
