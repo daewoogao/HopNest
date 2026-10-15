@@ -33,6 +33,11 @@ out body;`;
 const STOP_ROLES = new Set(['stop', 'stop_entry_only', 'stop_exit_only', 'platform', 'platform_entry_only', 'platform_exit_only']);
 const slug = s => s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^a-z0-9]+/g, '_').replace(/^_|_$/g, '');
 const round = n => Math.round(n * 1e4) / 1e4; // ~11 m, same precision as existing data
+const distM = (a, b, c, d) => {
+  const r = x => x * Math.PI / 180;
+  const h = Math.sin(r(c - a) / 2) ** 2 + Math.cos(r(a)) * Math.cos(r(c)) * Math.sin(r(d - b) / 2) ** 2;
+  return 12742000 * Math.asin(Math.sqrt(h));
+};
 
 (async () => {
   // Overpass is a free shared service: retry busy/timeout answers, then
@@ -108,14 +113,19 @@ const round = n => Math.round(n * 1e4) / 1e4; // ~11 m, same precision as existi
     // Branches (a Y-shaped line): a variant with 2+ stations that no kept
     // variant has becomes its own entry, same color and code, named after
     // its branch terminus. Reverse-direction duplicates add nothing new.
-    const kept = new Set(best.stations.map(s => s[0]));
+    // A stop counts as already drawn when a kept stop is within 400 m:
+    // the two directions of one line often use differently named nodes
+    // (accents, "Saint-Denis - Université" vs "Saint-Denis-Université",
+    // a missing name:en), so names alone over-report branches.
+    const kept = [...best.stations];
+    const isKept = s => kept.some(k => distM(k[1], k[2], s[1], s[2]) < 400);
     let b = 0;
     for (const v of variants.slice(1)) {
-      const extra = v.stations.filter(s => !kept.has(s[0]));
+      const extra = v.stations.filter(s => !isKept(s));
       if (extra.length < 2) continue;
-      const end = kept.has(v.stations[0][0]) ? v.stations[v.stations.length - 1][0] : v.stations[0][0];
+      const end = isKept(v.stations[0]) ? v.stations[v.stations.length - 1][0] : v.stations[0][0];
       lines.push({ id: `${id}_b${++b}`, ...base, name: `${name} (branch to ${end})`, stations: v.stations });
-      v.stations.forEach(s => kept.add(s[0]));
+      kept.push(...v.stations);
       notes.push(`${name}: added branch to ${end} as its own line; check it isn't a short-working or depot run`);
     }
   }
