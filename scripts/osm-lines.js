@@ -27,8 +27,7 @@ const query = `[out:json][timeout:120];
 .routes out body;
 node(r.routes);
 out body;
-.routes <;
-relation._["type"="route_master"];
+rel(br.routes)["type"="route_master"];
 out body;`;
 
 const STOP_ROLES = new Set(['stop', 'stop_entry_only', 'stop_exit_only', 'platform', 'platform_entry_only', 'platform_exit_only']);
@@ -36,12 +35,25 @@ const slug = s => s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').repla
 const round = n => Math.round(n * 1e4) / 1e4; // ~11 m, same precision as existing data
 
 (async () => {
-  const res = await fetch(ENDPOINT, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/x-www-form-urlencoded', 'User-Agent': 'HopNest data script (github.com/daewoogao/HopNest)' },
-    body: 'data=' + encodeURIComponent(query),
-  });
-  if (!res.ok) throw new Error(`Overpass ${res.status}: ${(await res.text()).slice(0, 300)}`);
+  // Overpass is a free shared service: retry busy/timeout answers, then
+  // try a second public instance.
+  const endpoints = [ENDPOINT, 'https://overpass.private.coffee/api/interpreter'];
+  let res, lastErr;
+  for (let attempt = 0; attempt < 6 && !res; attempt++) {
+    const url = endpoints[attempt % endpoints.length];
+    try {
+      const r = await fetch(url, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/x-www-form-urlencoded', 'User-Agent': 'HopNest data script (github.com/daewoogao/HopNest)' },
+        body: 'data=' + encodeURIComponent(query),
+      });
+      if (r.ok) { res = r; break; }
+      lastErr = `${url} answered ${r.status}: ${(await r.text()).slice(0, 200)}`;
+    } catch (e) { lastErr = `${url}: ${e.message}`; }
+    console.error(`  attempt ${attempt + 1} failed (${lastErr}), retrying`);
+    await new Promise(ok => setTimeout(ok, 5000 * (attempt + 1)));
+  }
+  if (!res) throw new Error('Overpass unavailable: ' + lastErr);
   const { elements } = await res.json();
   const nodes = new Map(elements.filter(e => e.type === 'node').map(e => [e.id, e]));
   const routes = elements.filter(e => e.type === 'relation' && e.tags.type === 'route');

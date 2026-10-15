@@ -65,11 +65,22 @@ station/airport/railway stop you tap.
 
 ## 2. Architecture
 
-- **One self-contained HTML file** (`site/index.html`). No build step, no
-  server. Opens directly in any browser.
+- **One HTML file for the app** (`site/index.html`) plus **one JSON file
+  per city** in `site/data/` (since 2026-10-15). No build step and no
+  backend, but the page fetches its data files, so it must be served over
+  HTTP (GitHub Pages, or `python3 -m http.server --directory site`
+  locally); opening `index.html` straight from disk no longer loads cities.
 - **Map engine:** Leaflet.js (via CDN) + OpenStreetMap tiles.
-- **Data model:** a single `CITIES` object at the top of the script.
-  Each city is one entry with this shape:
+- **Data model:** `site/data/cities.json` lists every city (`name`,
+  `country`, `flag`, `comingSoon?`), and each ready city has
+  `site/data/<cityId>.json`. On startup `loadAllCities()` fetches them all
+  into the in-page `CITIES` object, so the rest of the code is unchanged.
+  All cities load up front (~15 KB each), not on first open, because pins
+  and share links can point at any city. Hotel/sight IDs (`<city>_h<n>`,
+  `<city>_s<n>`) are assigned at load from their position in the file, so
+  **never reorder or delete hotels or sights in a city file**; append new
+  ones at the end, or saved pins and old share links will point at the
+  wrong place. Each city file has this shape:
   ```
   cityId: {
     name, country, flag, center:[lat,lng], zoom,
@@ -81,8 +92,9 @@ station/airport/railway stop you tap.
     airports: [{ name, code, lat, lng, transitNote }]
   }
   ```
-  Adding a city = adding one entry in this shape. No rendering code needs
-  to change.
+  Adding a city = one JSON file in this shape plus one line in
+  `cities.json` (see §4 "Adding a city"). No rendering code needs to
+  change.
 - **No backend, no database.** Everything is static data baked into the
   file at the time I edit it. The only saved state is per-browser
   `localStorage`: pinned hotels/sights and the last-viewed city survive a
@@ -221,6 +233,47 @@ changelog entries where each was decided.
    `CITIES.london.sights.map(s=>s.name)`, not just a parse check
    (2026-07-13 cont'd, 4).
 
+### Adding a city (decided 2026-10-15)
+
+Scaling from 5 to 25 cities. Audrey chose **Claude curates** hotels and
+sights by hand, following the curation spec and the sightseeing rules
+above ($0, about one thread run per city), over a paid Google Places
+pipeline. The JSON format is the same either way, so a Places pipeline
+can take over later.
+
+Steps per city:
+1. **Subway lines from OpenStreetMap.** Run the GitHub Action "Fetch
+   subway lines from OpenStreetMap" (Actions tab → Run workflow, with the
+   city id and a bounding box). It runs `scripts/osm-lines.js` on
+   GitHub's servers and saves `osm/<city>-lines.json` plus a notes file
+   on a side branch `osm/<city>`; it never touches `main`. The script
+   keeps the longest variant of each line and lists branches, missing
+   colors and empty lines in the notes to fix by hand. Lines come from
+   OSM's `colour` tags (Paris test: 16 lines, all with official colors).
+   The live app never calls OpenStreetMap. Re-run yearly or when a line
+   opens (curation spec §3). OSM data is ODbL: keep the "© OpenStreetMap
+   contributors" credit.
+2. **Airports and intercity rail hubs**, then **hotels** per the curation
+   spec (Tier 1 hubs first, then the top 3–5 interchanges/districts),
+   **sights** per the rules above, **fares** and **first/last trains**.
+3. **Validate**: `node scripts/validate-cities.js <city>` checks the
+   format, coordinates, the §7 coverage audit (every airport and rail
+   station has hotels) and that ticket links aren't resellers. Fix every
+   error; fix or document every warning in the changelog.
+4. **Ship in batches of 5 cities, one PR per batch**, previewed before
+   merge (merging to `main` = live).
+
+Batches (proposed 2026-10-15, Audrey can swap any):
+1. Paris, Seoul, Osaka, Hong Kong, Singapore
+2. Taipei, Bangkok, Beijing, Madrid, Rome
+3. Berlin, Amsterdam, Vienna, Prague, Istanbul
+4. Lisbon, Milan, Washington DC, Chicago, Mexico City
+
+Open before scaling: stored Google/TripAdvisor ratings break those
+services' terms (§8 "Check terms"), and 20 more cities multiply that.
+Recommendation: use ratings to *choose* hotels, but stop storing them in
+the data. Not decided yet.
+
 ## 5. Known limitations (honest, not hidden)
 
 - Subway line paths are simplified/hand-placed, not schedule-grade or
@@ -313,7 +366,7 @@ changelog entries where each was decided.
 - Cross-device pin sync (would need the backend + a database, e.g.
   Supabase). Same-browser persistence is already built via
   `localStorage`.
-- More cities — Paris is next (already listed as "coming soon").
+- More cities: 20 more in 4 batches, Paris first (§4 "Adding a city").
 - Offline support via a service worker (PWA install itself is built).
 
 ## 7. Repo / hosting
@@ -321,7 +374,7 @@ changelog entries where each was decided.
 - Public GitHub repo: `daewoogao/HopNest`, branch `main` (made public
   2026-10-09; the top-level docs are readable on GitHub but never served).
 - `site/` holds everything the website serves: `index.html`,
-  `_redirects` (Cloudflare/Netlify only; GitHub Pages ignores it),
+  `data/` (`cities.json` + one `<city>.json` per city), `_redirects` (Cloudflare/Netlify only; GitHub Pages ignores it),
   `manifest.json`, `icon-192.png`, `icon-512.png`, `apple-touch-icon.png`.
   **When deploying, publish only `site/`** — everything the browser
   downloads is readable by visitors, so internal docs must never be
@@ -329,6 +382,12 @@ changelog entries where each was decided.
 - Top level (internal, never deployed): `README.md`,
   `hotel-curation-pipeline-spec.md`, `launch-cost-plan.md`, this design
   doc, and `.gitignore` (excludes `.DS_Store`).
+- `scripts/` (never deployed): `osm-lines.js` (subway lines from
+  OpenStreetMap), `validate-cities.js` (format + coverage audit),
+  `format-json.js` (keeps one station/hotel/sight per line in the data
+  files so diffs stay readable).
+- `.github/workflows/osm-lines.yml`: manual-run Action that runs
+  `osm-lines.js` and saves its output to an `osm/<city>` branch.
 - **Live at https://daewoogao.github.io/HopNest/** on GitHub Pages
   (free), chosen 2026-10-09 in place of the earlier Cloudflare Pages
   plan. `.github/workflows/pages.yml` uploads only `site/` and deploys on
@@ -387,8 +446,8 @@ they're done.
   where the data comes from, and "verify details before booking."
 - [ ] **Check terms for displaying ratings.** We show TripAdvisor/Google
   ratings; confirm what their terms allow on a public site.
-- [ ] **More cities**: Paris first, then ~5–10 top destinations that
-  have a metro (target 10–20 at launch).
+- [ ] **More cities**: target 25 (decided 2026-10-15). Plan and batches
+  in §4 "Adding a city".
 
 **After launch (not blocking)**
 - Backend + Google Places automated data refresh (§6)
@@ -400,6 +459,31 @@ they're done.
 ---
 
 ## Changelog
+
+### 2026-10-15 — city data split into JSON files; tools for adding cities
+- Audrey asked how to go from 5 cities to 25. Plan decided: §4 "Adding a
+  city". Audrey chose Claude curating hotels and sights over a paid
+  Google Places pipeline.
+- City data moved out of `site/index.html` into `site/data/cities.json`
+  plus one file per city (tokyo, shanghai, newyork, london, barcelona;
+  Paris stays "coming soon"). Data is byte-for-byte the same (checked by
+  round-trip), and the app was tested side by side with the old version:
+  same markers, lines and sidebar for every city. `index.html` went from
+  143 KB to 79 KB.
+- The page now needs to be served over HTTP; opening the file from disk
+  no longer loads cities (§2, README).
+- Fixed: pins in cities you hadn't opened yet in this visit were
+  silently dropped the next time pins were saved (IDs were only assigned
+  when a city was opened). IDs are now assigned for all cities at load.
+- Fixed: switching city while zoomed in or out (or into/out of
+  Barcelona, zoom 13) threw an error mid-switch, because the zoom change
+  redrew the map before the new city's lines existed. Likely the cause
+  of the "bare map" reports; the redraw now skips lines not built yet.
+- Added `scripts/osm-lines.js`, the "Fetch subway lines from
+  OpenStreetMap" Action, and `scripts/validate-cities.js` (§7). The
+  validator passes on all 5 cities with 2 warnings: Shanghai Hongqiao
+  Airport's hotel is labeled under the shared rail hub (allowed by curation
+  spec §7), and NYC's simplified A-train jump to Howard Beach-JFK.
 
 ### 2026-10-15 — search bar fixes
 - Audrey asked what the top search bar does: it searches saved data
