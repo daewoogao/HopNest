@@ -1,3 +1,3 @@
-[out:csv(::type,::id,name,"name:en",::lat,::lon,tourism,stars,brand,operator,website;true;"\t")][timeout:300];
-nwr["tourism"~"^(hotel|hostel)$"](22.18,113.88,22.50,114.30);
+[out:csv(::type,::id,name,"name:en",::lat,::lon,tourism,stars,brand,operator,website;true;"\t")][timeout:240];
+(nwr["tourism"~"^(hotel|hostel)$"](around:3000,22.308,113.9185);nwr["tourism"~"^(hotel|hostel)$"](around:800,22.3044,114.1661);nwr["tourism"~"^(hotel|hostel)$"](around:800,22.303,114.1817);nwr["tourism"~"^(hotel|hostel)$"](around:800,22.2973,114.1722);nwr["tourism"~"^(hotel|hostel)$"](around:800,22.282,114.158);nwr["tourism"~"^(hotel|hostel)$"](around:800,22.2803,114.1838);nwr["tourism"~"^(hotel|hostel)$"](around:800,22.3193,114.1694);nwr["tourism"~"^(hotel|hostel)$"](around:800,22.2776,114.173););
 out center;

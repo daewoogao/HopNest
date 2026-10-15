@@ -28,14 +28,14 @@ jobs:
             [ -e "$q" ] || continue
             n=$(basename "$q" .overpassql)
             for i in 1 2 3 4; do
-              curl -sS -f --data-urlencode "data@$q" https://overpass-api.de/api/interpreter -o "curation/results/$n.out" && break
+              curl -sS -f --max-time 300 --data-urlencode "data@$q" https://overpass-api.de/api/interpreter -o "curation/results/$n.out" && break
               sleep $((i*10))
             done
           done
           for q in curation/queries/*.bbox; do
             [ -e "$q" ] || continue
             n=$(basename "$q" .bbox); read -r bbox types < "$q"
-            node scripts/osm-lines.js "$bbox" --types "${types:-subway}" --out "curation/results/$n-lines.json" 2> "curation/results/$n-lines-notes.txt" || true
+            timeout 600 node scripts/osm-lines.js "$bbox" --types "${types:-subway}" --out "curation/results/$n-lines.json" 2> "curation/results/$n-lines-notes.txt" || true
           done
           rm -f curation/queries/*
       - name: Commit results
