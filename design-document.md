@@ -40,7 +40,8 @@ answerable at a glance instead of a research project.
    matter — airport and rail links — genuinely useful for a late flight
    or an early Eurostar, not decorative info.
 7. **Search anything by name**, and if it's not in the curated list,
-   **live-search the real web for it** — so someone who already booked a
+   **live-search the real web for it** (off for launch; the public site
+   offers a Booking.com search instead) — so someone who already booked a
    random hotel can still check "is this actually walkable" instead of
    being stuck with only the pre-picked options.
 8. **Pin favorites** while comparing, so browsing doesn't mean losing
@@ -103,11 +104,17 @@ station/airport/railway stop you tap.
   Cities without data yet show as "coming soon"; a text box lets the user
   request a new one (session-only placeholder).
 - **Place search**: typeahead search bar for curated hotels, sights,
-  subway/rail stations and airports in the current city (up to 8
-  results, accent-insensitive).
+  subway/rail stations and airports in the current city (accent-
+  insensitive). It only searches saved data, never the web. Shows every
+  match in a scrollable list (no cap). Order: sights first, then
+  stations/rail/airports, then hotels; within each group, name matches
+  before area/description matches. (Before 2026-10-15 hotels came first
+  and the list capped at 8, so typing "Shibuya" showed only hotels.)
 - **Live hotel name search**: if a searched hotel isn't curated, it can
   be looked up on the web by name and dropped on the map (same
-  live-search mechanism and caveats as below). Off for launch.
+  live-search mechanism and caveats as below). Off for launch: with no
+  match, the dropdown shows "Search hotels for "<query>" on Booking.com"
+  (query + city, new tab) instead of the web-search button.
 - **Hotel walkability**: slider (5–20 min, presets at 5/10/15) sizes the
   walk-radius circle drawn when you tap a station/airport/rail icon.
   Precise walkability is read from the circle (dark green = confirmed
@@ -128,8 +135,7 @@ station/airport/railway stop you tap.
   the fly. Only works while viewing this as a live Claude artifact — it
   cannot authenticate from a downloaded standalone file. See §5.
   **Turned off for launch** (`LIVE_SEARCH_ENABLED = false`). Re-enable
-  once a backend proxy holds the API key. Uncurated hotel-name searches
-  show a plain "not curated yet" message.
+  once a backend proxy holds the API key.
 - **Nearest-hotels fallback (replaces the "not curated yet" banner for
   station/airport/rail clicks, decided 2026-10-10)**: when no stored hotel
   (curated or click-to-reveal) is within the walk radius of the clicked
@@ -394,6 +400,21 @@ they're done.
 ---
 
 ## Changelog
+
+### 2026-10-15 — search bar fixes
+- Audrey asked what the top search bar does: it searches saved data
+  only, not the web.
+- Fixed: typing "Shibuya" showed only hotels. Hotels were listed first
+  and the dropdown caps at 8, so Shibuya's 8 hotel matches hid the
+  station and Shibuya Crossing. Per Audrey: results are now ordered
+  sights, then stations/rail/airports, then hotels, and every match is
+  shown in a scrollable list with no cap (§3 "Place search").
+- With no match, the dropdown's "Search the web" button (dead while live
+  search is off) is replaced by a Booking.com search link for the query
+  in the current city. The web-search button returns automatically if
+  `LIVE_SEARCH_ENABLED` is turned back on.
+- Removed a duplicate Tokyo hotel entry (The Millennials Shibuya was
+  listed twice with different price tiers; kept the first, tier 2).
 
 ### 2026-10-10 — nearest-hotels fallback for uncurated stations
 - Audrey asked how to handle the live site's "We haven't curated hotels

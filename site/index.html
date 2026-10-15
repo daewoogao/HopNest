@@ -139,7 +139,7 @@
   #place-search-icon{font-size:14px;opacity:.6;}
   #place-search-input{flex:1;border:none;outline:none;font-size:14px;font-family:var(--font-ui);background:transparent;color:#1a1f27;}
   #place-search-clear{cursor:pointer;color:#999;font-size:13px;padding:2px 4px;}
-  #place-search-results{margin-top:6px;background:#fff;border-radius:12px;box-shadow:0 8px 24px rgba(20,30,45,.18);border:1px solid #e2e5ea;max-height:340px;overflow-y:auto;display:none;}
+  #place-search-results{margin-top:6px;background:#fff;border-radius:12px;box-shadow:0 8px 24px rgba(20,30,45,.18);border:1px solid #e2e5ea;max-height:min(340px,55vh);overflow-y:auto;overscroll-behavior:contain;display:none;}
   .psr-item{display:flex;align-items:center;gap:10px;padding:10px 14px;cursor:pointer;border-bottom:1px solid #f0f1f3;}
   .psr-item:last-child{border-bottom:none;}
   .psr-item:hover{background:#f7f8fa;}
@@ -389,7 +389,6 @@ const CITIES = {
       {name:'The Millennials Shibuya', lat:35.6622, lng:139.6997, area:'Shibuya', rating:4.4, stars:2, priceTier:2, phone:'+81 50-3164-0748'},
       {name:'Shibuya Excel Hotel Tokyu', lat:35.6586, lng:139.6998, area:'Shibuya', rating:4.3, priceTier:4, phone:'+81 3-5457-0109', stars:4},
       {name:'Shibuya Tokyu REI Hotel', lat:35.6602, lng:139.7020, area:'Shibuya', rating:4.0, priceTier:3, phone:'+81 3-3498-0109', stars:3},
-      {name:'The Millennials Shibuya', lat:35.6622, lng:139.6997, area:'Shibuya', rating:4.4, priceTier:1, phone:'+81 50-3164-0748', stars:2},
       {name:'All Day Place Shibuya', lat:35.6614, lng:139.7031, area:'Shibuya', rating:4.1, priceTier:3, phone:'+81 3-6452-6830', stars:3},
       {name:'Grids Tokyo Ueno Hotel & Hostel', lat:35.7153, lng:139.7793, area:'Ueno', rating:4.1, stars:1, priceTier:1, phone:'+81 3-5830-0030'},
       {name:'hotel MONday Premium Ueno Okachimachi', lat:35.7055, lng:139.7764, area:'Ueno', rating:4.5, stars:3, priceTier:2, phone:'+81 3-5816-8681'},
@@ -1788,12 +1787,15 @@ function renderSearchResults(matches, query){
   if(matches.length===0){
     searchResultsEl.innerHTML = `
       <div class="psr-empty">No matches for "${query}" in our curated list.</div>
-      <div class="psr-item psr-websearch" id="psr-web-search"><span class="psr-icon">🌐</span><span class="psr-text"><div class="psr-name">Search the web for "${query}"</div><div class="psr-sub">Not in our curated list — try a live lookup</div></span></div>`;
+      ${LIVE_SEARCH_ENABLED
+        ? `<div class="psr-item psr-websearch" id="psr-web-search"><span class="psr-icon">🌐</span><span class="psr-text"><div class="psr-name">Search the web for "${query}"</div><div class="psr-sub">Not in our curated list — try a live lookup</div></span></div>`
+        : `<a class="psr-item psr-websearch" style="text-decoration:none;" href="https://www.booking.com/searchresults.html?ss=${encodeURIComponent(`${query}, ${CITIES[currentCityId].name}`)}" target="_blank" rel="noopener"><span class="psr-icon">🏨</span><span class="psr-text"><div class="psr-name">Search hotels for "${query}" on Booking.com ↗</div><div class="psr-sub">Not in our list — opens in a new tab</div></span></a>`}`;
     searchResultsEl.style.display = 'block';
-    document.getElementById('psr-web-search').addEventListener('click', ()=> triggerNameSearch(query));
+    const webBtn = document.getElementById('psr-web-search');
+    if(webBtn) webBtn.addEventListener('click', ()=> triggerNameSearch(query));
     return;
   }
-  searchResultsEl.innerHTML = matches.slice(0,8).map((m,i)=>
+  searchResultsEl.innerHTML = matches.map((m,i)=>
     `<div class="psr-item" data-idx="${i}"><span class="psr-icon">${m.icon}</span><span class="psr-text"><div class="psr-name">${m.name}</div><div class="psr-sub">${m.sub}</div></span></div>`
   ).join('');
   searchResultsEl.style.display = 'block';
@@ -1856,10 +1858,19 @@ searchInput.addEventListener('input', ()=>{
   searchClearEl.style.display = q ? 'inline' : 'none';
   if(!q){ clearSearchResults(); return; }
   const words = normalizeSearchText(q).split(/\s+/).filter(Boolean);
+  // Sights first, then stations/rail/airports, then hotels (Audrey's call,
+  // 2026-10-15); within each group, name matches before area matches.
+  const TYPE_RANK = {sight:0, station:1, rail:1, airport:1, hotel:2};
+  const qNorm = normalizeSearchText(q);
   const matches = searchIndex.filter(item=>{
     const haystack = normalizeSearchText(`${item.name} ${item.sub} ${item.extra||''}`);
     return words.every(w=> haystack.includes(w));
-  });
+  }).map(item=>{
+    const name = normalizeSearchText(item.name);
+    const nameRank = name===qNorm ? 0 : name.startsWith(qNorm) ? 1 : words.every(w=> name.includes(w)) ? 2 : 3;
+    return {item, nameRank};
+  }).sort((a,b)=> TYPE_RANK[a.item.type]-TYPE_RANK[b.item.type] || a.nameRank-b.nameRank)
+    .map(x=>x.item);
   renderSearchResults(matches, q);
 });
 searchInput.addEventListener('focus', ()=>{ searchIndex = buildSearchIndex(); });
