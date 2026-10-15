@@ -1,7 +1,9 @@
 # Runs scripts/osm-lines.js on GitHub's servers (which can reach
-# OpenStreetMap) and attaches the result as a downloadable artifact.
+# OpenStreetMap) and saves the result on a side branch, osm/<city>, as
+# osm/<city>-lines.json plus a notes file of things to check by hand.
 # Start it from the Actions tab → "Fetch subway lines from OpenStreetMap"
-# → Run workflow. It changes nothing in the repo and deploys nothing.
+# → Run workflow. It never touches main and deploys nothing; the reviewed
+# lines get copied into site/data/<city>.json in a normal PR.
 name: Fetch subway lines from OpenStreetMap
 
 on:
@@ -21,7 +23,7 @@ on:
     paths: [.github/workflows/osm-lines.yml, scripts/osm-lines.js]
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   fetch:
@@ -37,7 +39,13 @@ jobs:
           node-version: 20
       - run: node scripts/osm-lines.js "$BBOX" --types "$TYPES" --out "$CITY-lines.json" 2> "$CITY-lines-notes.txt" || (cat "$CITY-lines-notes.txt"; exit 1)
       - run: cat "$CITY-lines-notes.txt"
-      - uses: actions/upload-artifact@v4
-        with:
-          name: ${{ env.CITY }}-lines
-          path: ${{ env.CITY }}-lines*
+      - name: Save to branch osm/${{ env.CITY }}
+        run: |
+          mkdir -p /tmp/out && mv "$CITY"-lines* /tmp/out/
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan "osm/$CITY"
+          git rm -rq --cached . && git clean -fdq
+          mkdir osm && mv /tmp/out/* osm/
+          git add osm && git commit -qm "OSM subway lines for $CITY ($BBOX, $TYPES)"
+          git push -f origin "osm/$CITY"
