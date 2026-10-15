@@ -96,17 +96,28 @@ const round = n => Math.round(n * 1e4) / 1e4; // ~11 m, same precision as existi
     const mName = master && (master.tags['name:en'] || master.tags.name || '').split(/\s*:\s*/)[0];
     const name = mName || (ref ? `Line ${ref}` : (t['name:en'] || t.name || 'Line'));
     const color = (t.colour || t.color || '').toUpperCase();
-    lines.push({
-      id: 'l' + (slug(ref || name) || lines.length),
+    const base = {
       name,
       ...(master && master.tags.name && master.tags['name:en'] && master.tags.name !== master.tags['name:en'] ? { jp: master.tags.name.split(/\s*:\s*/)[0] } : {}),
       color: /^#[0-9A-F]{6}$/.test(color) ? color : '#888888',
       code: ref,
-      stations: best.stations,
-    });
+    };
+    const id = 'l' + (slug(ref || name) || lines.length);
+    lines.push({ id, ...base, stations: best.stations });
     if (!/^#[0-9A-F]{6}$/.test(color)) notes.push(`${name}: no colour tag in OSM, set the official color by hand`);
-    const longer = variants.slice(1).filter(v => v.stations.some(s => !best.stations.some(b => b[0] === s[0])));
-    if (longer.length) notes.push(`${name}: ${longer.length} other variant(s) with stations not on the main one (branch?), check by hand`);
+    // Branches (a Y-shaped line): a variant with 2+ stations that no kept
+    // variant has becomes its own entry, same color and code, named after
+    // its branch terminus. Reverse-direction duplicates add nothing new.
+    const kept = new Set(best.stations.map(s => s[0]));
+    let b = 0;
+    for (const v of variants.slice(1)) {
+      const extra = v.stations.filter(s => !kept.has(s[0]));
+      if (extra.length < 2) continue;
+      const end = kept.has(v.stations[0][0]) ? v.stations[v.stations.length - 1][0] : v.stations[0][0];
+      lines.push({ id: `${id}_b${++b}`, ...base, name: `${name} (branch to ${end})`, stations: v.stations });
+      v.stations.forEach(s => kept.add(s[0]));
+      notes.push(`${name}: added branch to ${end} as its own line; check it isn't a short-working or depot run`);
+    }
   }
   lines.sort((a, b) => a.code.localeCompare(b.code, undefined, { numeric: true }));
 
