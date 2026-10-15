@@ -139,7 +139,7 @@
   #place-search-icon{font-size:14px;opacity:.6;}
   #place-search-input{flex:1;border:none;outline:none;font-size:14px;font-family:var(--font-ui);background:transparent;color:#1a1f27;}
   #place-search-clear{cursor:pointer;color:#999;font-size:13px;padding:2px 4px;}
-  #place-search-results{margin-top:6px;background:#fff;border-radius:12px;box-shadow:0 8px 24px rgba(20,30,45,.18);border:1px solid #e2e5ea;max-height:340px;overflow-y:auto;display:none;}
+  #place-search-results{margin-top:6px;background:#fff;border-radius:12px;box-shadow:0 8px 24px rgba(20,30,45,.18);border:1px solid #e2e5ea;max-height:min(340px,55vh);overflow-y:auto;overscroll-behavior:contain;display:none;}
   .psr-item{display:flex;align-items:center;gap:10px;padding:10px 14px;cursor:pointer;border-bottom:1px solid #f0f1f3;}
   .psr-item:last-child{border-bottom:none;}
   .psr-item:hover{background:#f7f8fa;}
@@ -1795,7 +1795,7 @@ function renderSearchResults(matches, query){
     if(webBtn) webBtn.addEventListener('click', ()=> triggerNameSearch(query));
     return;
   }
-  searchResultsEl.innerHTML = matches.slice(0,8).map((m,i)=>
+  searchResultsEl.innerHTML = matches.map((m,i)=>
     `<div class="psr-item" data-idx="${i}"><span class="psr-icon">${m.icon}</span><span class="psr-text"><div class="psr-name">${m.name}</div><div class="psr-sub">${m.sub}</div></span></div>`
   ).join('');
   searchResultsEl.style.display = 'block';
@@ -1858,10 +1858,9 @@ searchInput.addEventListener('input', ()=>{
   searchClearEl.style.display = q ? 'inline' : 'none';
   if(!q){ clearSearchResults(); return; }
   const words = normalizeSearchText(q).split(/\s+/).filter(Boolean);
-  // Places (stations, sights) before hotels, and name matches before
-  // area/description matches, so a busy area's hotels can't push its
-  // station and sights past the 8-result cap.
-  const TYPE_RANK = {station:0, rail:0, airport:0, sight:1, hotel:2};
+  // Sights first, then stations/rail/airports, then hotels (Audrey's call,
+  // 2026-10-15); within each group, name matches before area matches.
+  const TYPE_RANK = {sight:0, station:1, rail:1, airport:1, hotel:2};
   const qNorm = normalizeSearchText(q);
   const matches = searchIndex.filter(item=>{
     const haystack = normalizeSearchText(`${item.name} ${item.sub} ${item.extra||''}`);
@@ -1870,7 +1869,7 @@ searchInput.addEventListener('input', ()=>{
     const name = normalizeSearchText(item.name);
     const nameRank = name===qNorm ? 0 : name.startsWith(qNorm) ? 1 : words.every(w=> name.includes(w)) ? 2 : 3;
     return {item, nameRank};
-  }).sort((a,b)=> (a.nameRank>2)-(b.nameRank>2) || TYPE_RANK[a.item.type]-TYPE_RANK[b.item.type] || a.nameRank-b.nameRank)
+  }).sort((a,b)=> TYPE_RANK[a.item.type]-TYPE_RANK[b.item.type] || a.nameRank-b.nameRank)
     .map(x=>x.item);
   renderSearchResults(matches, q);
 });

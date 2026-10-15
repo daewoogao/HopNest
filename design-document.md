@@ -104,13 +104,12 @@ station/airport/railway stop you tap.
   Cities without data yet show as "coming soon"; a text box lets the user
   request a new one (session-only placeholder).
 - **Place search**: typeahead search bar for curated hotels, sights,
-  subway/rail stations and airports in the current city (up to 8
-  results, accent-insensitive). It only searches saved data, never the
-  web. Ordering: results whose *name* matches come before ones matching
-  only by area/description; within those, stations/airports first, then
-  sights, then hotels. (Before 2026-10-15 hotels came first, so typing
-  "Shibuya" filled all 8 slots with hotels and hid the station and
-  Shibuya Crossing.)
+  subway/rail stations and airports in the current city (accent-
+  insensitive). It only searches saved data, never the web. Shows every
+  match in a scrollable list (no cap). Order: sights first, then
+  stations/rail/airports, then hotels; within each group, name matches
+  before area/description matches. (Before 2026-10-15 hotels came first
+  and the list capped at 8, so typing "Shibuya" showed only hotels.)
 - **Live hotel name search**: if a searched hotel isn't curated, it can
   be looked up on the web by name and dropped on the map (same
   live-search mechanism and caveats as below). Off for launch: with no
@@ -407,8 +406,9 @@ they're done.
   only, not the web.
 - Fixed: typing "Shibuya" showed only hotels. Hotels were listed first
   and the dropdown caps at 8, so Shibuya's 8 hotel matches hid the
-  station and Shibuya Crossing. Results now put name matches first,
-  then stations/airports, sights, hotels (§3 "Place search").
+  station and Shibuya Crossing. Per Audrey: results are now ordered
+  sights, then stations/rail/airports, then hotels, and every match is
+  shown in a scrollable list with no cap (§3 "Place search").
 - With no match, the dropdown's "Search the web" button (dead while live
   search is off) is replaced by a Booking.com search link for the query
   in the current city. The web-search button returns automatically if
