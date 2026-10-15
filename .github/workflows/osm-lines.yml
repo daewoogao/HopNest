@@ -18,9 +18,6 @@ on:
       types:
         description: OSM route types to include
         default: subway
-  push:
-    branches: [scale-cities-json]
-    paths: [.github/workflows/osm-lines.yml, scripts/osm-lines.js]
 
 permissions:
   contents: write
@@ -29,14 +26,16 @@ jobs:
   fetch:
     runs-on: ubuntu-latest
     env:
-      CITY: ${{ inputs.city || 'paris' }}
-      BBOX: ${{ inputs.bbox || '48.80,2.22,48.92,2.47' }}
-      TYPES: ${{ inputs.types || 'subway' }}
+      CITY: ${{ inputs.city }}
+      BBOX: ${{ inputs.bbox }}
+      TYPES: ${{ inputs.types }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: 20
+      - name: Check city id
+        run: '[[ "$CITY" =~ ^[a-z0-9_-]+$ ]] || { echo "city must be lowercase letters, digits, - or _"; exit 1; }'
       - run: node scripts/osm-lines.js "$BBOX" --types "$TYPES" --out "$CITY-lines.json" 2> "$CITY-lines-notes.txt" || (cat "$CITY-lines-notes.txt"; exit 1)
       - run: cat "$CITY-lines-notes.txt"
       - name: Save to branch osm/${{ env.CITY }}

@@ -91,15 +91,15 @@ const round = n => Math.round(n * 1e4) / 1e4; // ~11 m, same precision as existi
     const t = { ...best.r.tags, ...(master ? master.tags : {}) };
     const ref = t.ref || '';
     if (best.stations.length < 2) { notes.push(`${t.name || ref}: fewer than 2 named stops (under construction?), skipped; OSM relation r${best.r.id}`); continue; }
-    // route names carry the direction ("Ligne 1 : A → B"); prefer the
-    // route_master's name, else "Line <ref>"
-    const mName = master && (master.tags['name:en'] || master.tags.name);
+    // names often carry the termini ("Ligne 1 : A ↔ B"); keep the part
+    // before the colon, from the route_master if there is one, else "Line <ref>"
+    const mName = master && (master.tags['name:en'] || master.tags.name || '').split(/\s*:\s*/)[0];
     const name = mName || (ref ? `Line ${ref}` : (t['name:en'] || t.name || 'Line'));
     const color = (t.colour || t.color || '').toUpperCase();
     lines.push({
       id: 'l' + (slug(ref || name) || lines.length),
       name,
-      ...(master && master.tags.name && master.tags['name:en'] && master.tags.name !== master.tags['name:en'] ? { jp: master.tags.name } : {}),
+      ...(master && master.tags.name && master.tags['name:en'] && master.tags.name !== master.tags['name:en'] ? { jp: master.tags.name.split(/\s*:\s*/)[0] } : {}),
       color: /^#[0-9A-F]{6}$/.test(color) ? color : '#888888',
       code: ref,
       stations: best.stations,
