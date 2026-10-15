@@ -127,9 +127,21 @@ station/airport/railway stop you tap.
   page calls Claude's API (web search enabled) to fetch real hotels on
   the fly. Only works while viewing this as a live Claude artifact — it
   cannot authenticate from a downloaded standalone file. See §5.
-  **Turned off for launch** (`LIVE_SEARCH_ENABLED = false`): uncurated
-  stations and hotel names show a plain "not curated yet" message
-  instead. Re-enable once a backend proxy holds the API key.
+  **Turned off for launch** (`LIVE_SEARCH_ENABLED = false`). Re-enable
+  once a backend proxy holds the API key. Uncurated hotel-name searches
+  show a plain "not curated yet" message.
+- **Nearest-hotels fallback (replaces the "not curated yet" banner for
+  station/airport/rail clicks, decided 2026-10-10)**: when no stored hotel
+  (curated or click-to-reveal) is within the walk radius of the clicked
+  point and live search is off, a card lists the **3 nearest always-
+  visible curated hotels** (stars, area, walk time up to 2 km, otherwise
+  km) — tapping one flies to it and opens its popup — plus a **"Search
+  all hotels near <station>"** button linking to a Booking.com search for
+  that station and city (new tab). $0, no backend; the link is where an
+  affiliate ID goes later. Closes with ×, a map tap, or the next
+  message. Coverage counts *any* stored hotel within radius, so a
+  station whose only nearby hotels are click-to-reveal ones no longer
+  shows the fallback while those hotels are on the map.
 - **Pinning**: any hotel or sight can be pinned (📌); pinned items always
   show regardless of filters/circles. Pins persist across reloads in the
   same browser (`localStorage`).
@@ -382,6 +394,21 @@ they're done.
 ---
 
 ## Changelog
+
+### 2026-10-10 — nearest-hotels fallback for uncurated stations
+- Audrey asked how to handle the live site's "We haven't curated hotels
+  near X" banner. Options weighed: better fallback ($0), curate more
+  areas (ongoing, never complete), live-search backend (~1–2¢ per click
+  plus an API key). Audrey chose the fallback.
+- Built it (§3 "Nearest-hotels fallback"): 3 nearest curated hotels with
+  walk time or distance, tap to open, plus a Booking.com search link for
+  the station.
+- Fixed: the coverage check only counted always-visible hotels, so a
+  station with only click-to-reveal (`curated:false`) hotels nearby showed
+  "not curated" while those hotels were on the map. It now counts any
+  stored hotel within the radius.
+- Curating more Tier 3 areas continues as the long-term fix; a live
+  search backend waits until traffic justifies its cost.
 
 ### 2026-10-09 — live on GitHub Pages
 - Hosting switched from the planned Cloudflare Pages to GitHub Pages

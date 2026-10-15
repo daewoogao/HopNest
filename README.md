@@ -125,7 +125,9 @@ The shortlist logic is spelled out in
 - **Live web search is turned off** (`LIVE_SEARCH_ENABLED` in
   `site/index.html`). It only worked inside Claude's artifact viewer, which
   supplied the API access; the public site needs a backend first.
-- **Coverage is still growing.** Not every station has curated hotels yet.
+- **Coverage is still growing.** Not every station has curated hotels yet;
+  clicking one shows the nearest recommended hotels and a Booking.com search
+  link instead.
 
 ## Roadmap
 

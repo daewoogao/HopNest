@@ -104,6 +104,15 @@
   #add-banner.show{display:block;}
   #search-banner{position:absolute;bottom:20px;left:50%;transform:translateX(-50%);z-index:1000;background:#12181f;color:#fff;padding:10px 18px;border-radius:10px;font-size:13px;font-weight:600;display:none;box-shadow:0 8px 20px rgba(0,0,0,.35);border:1px solid var(--line);}
   #search-banner.show{display:block;}
+  #search-banner.fallback{width:min(360px,calc(100vw - 32px));padding:12px 14px;font-weight:400;}
+  .fb-head{display:flex;justify-content:space-between;gap:10px;font-weight:700;font-size:13px;margin-bottom:2px;}
+  .fb-close{cursor:pointer;color:var(--text-dim);font-size:16px;line-height:1;}
+  .fb-sub{font-size:11.5px;color:var(--text-dim);margin-bottom:8px;}
+  .fb-row{padding:7px 8px;border-radius:8px;cursor:pointer;background:var(--panel-2);margin-bottom:5px;}
+  .fb-row:hover{outline:1px solid var(--accent);}
+  .fb-name{font-size:12.5px;font-weight:600;}
+  .fb-meta{font-size:11px;color:var(--text-dim);}
+  .fb-book{display:block;text-align:center;margin-top:8px;padding:8px;border-radius:8px;background:var(--accent);color:#fff;font-size:12.5px;font-weight:600;text-decoration:none;}
 
   .leaflet-popup-content-wrapper{border-radius:10px;font-family:var(--font-ui);}
   .popup-title{font-weight:700;font-size:13.5px;margin-bottom:2px;}
@@ -1244,11 +1253,43 @@ let liveFetchInFlight = new Set();
 
 function showSearchBanner(text, autoHideMs){
   const el = document.getElementById('search-banner');
+  el.classList.remove('fallback');
   el.textContent = text;
   el.classList.add('show');
   if(autoHideMs){ clearTimeout(el._t); el._t = setTimeout(()=> el.classList.remove('show'), autoHideMs); }
 }
 function hideSearchBanner(){ document.getElementById('search-banner').classList.remove('show'); }
+
+// Shown instead of a dead-end message when a clicked spot has no stored
+// hotels within the walk radius and live search is off: the nearest
+// always-visible hotels, plus a Booking.com search for that station.
+function showNearestHotelsFallback(stationName, lat, lng){
+  const data = CITIES[currentCityId];
+  const nearest = data.hotels
+    .filter(h => h.curated!==false)
+    .map(h => ({h, d:haversineMeters(lat,lng,h.lat,h.lng)}))
+    .sort((a,b)=> a.d-b.d)
+    .slice(0,3);
+  const distLabel = d => d <= 2000 ? `${Math.max(1,Math.round(d/WALK_SPEED_M_PER_MIN))} min walk` : `${(d/1000).toFixed(1)} km away`;
+  const place = /station|airport|terminal/i.test(stationName) ? stationName : `${stationName} Station`;
+  const bookingUrl = 'https://www.booking.com/searchresults.html?ss=' + encodeURIComponent(`${place}, ${data.name}`);
+  const el = document.getElementById('search-banner');
+  clearTimeout(el._t);
+  el.innerHTML = `
+    <div class="fb-head"><span>No picks within walking distance of ${stationName}</span><span class="fb-close" id="fb-close">×</span></div>
+    <div class="fb-sub">Nearest hotels we recommend:</div>
+    ${nearest.map((x,i)=>`<div class="fb-row" data-i="${i}"><div class="fb-name">${x.h.name}</div><div class="fb-meta">${x.h.stars?'★'.repeat(x.h.stars)+' · ':''}${x.h.area||''} · ${distLabel(x.d)}</div></div>`).join('')}
+    <a class="fb-book" href="${bookingUrl}" target="_blank" rel="noopener">Search all hotels near ${stationName} ↗</a>`;
+  el.classList.add('fallback','show');
+  el.querySelector('#fb-close').onclick = hideSearchBanner;
+  el.querySelectorAll('.fb-row').forEach(row=>{
+    row.onclick = ()=>{
+      const h = nearest[+row.dataset.i].h;
+      hideSearchBanner();
+      selectSearchResult({type:'hotel', ref:h, lat:h.lat, lng:h.lng, name:h.name});
+    };
+  });
+}
 
 function maybeFetchLiveHotels(stationName, lat, lng){
   const data = CITIES[currentCityId];
@@ -1259,11 +1300,11 @@ function maybeFetchLiveHotels(stationName, lat, lng){
   // even if its area label points at a different (but physically co-located)
   // landmark — e.g. Shanghai's Hongqiao airport and railway station share one
   // hub, and hotels there are labeled with the station's name, not the airport's.
-  const nearbyMatch = data.hotels.some(h => h.curated!==false && haversineMeters(lat,lng,h.lat,h.lng) <= walkMinutes*WALK_SPEED_M_PER_MIN);
+  const nearbyMatch = data.hotels.some(h => haversineMeters(lat,lng,h.lat,h.lng) <= walkMinutes*WALK_SPEED_M_PER_MIN);
   const alreadyHandCurated = nameMatch || nearbyMatch;
   if(alreadyHandCurated || liveFetchedKeys.has(key) || liveFetchInFlight.has(key)) return;
   if(!LIVE_SEARCH_ENABLED){
-    showSearchBanner(`We haven't curated hotels near ${stationName} yet.`, 3200);
+    showNearestHotelsFallback(stationName, lat, lng);
     return;
   }
   fetchLiveHotels(stationName, lat, lng, data.name, key);
@@ -1848,6 +1889,7 @@ addBtn.addEventListener('click', ()=>{
 });
 map.on('click', (e)=>{
   if(!addMode){
+    hideSearchBanner();
     if(stationCircles.size>0){
       stationCircles.forEach(c=>map.removeLayer(c));
       stationCircles.clear();
