@@ -22,24 +22,31 @@ jobs:
         with:
           node-version: 20
       - name: Run queries
+        timeout-minutes: 40
         run: |
           mkdir -p curation/results
+          EP=(https://overpass-api.de/api/interpreter https://overpass.private.coffee/api/interpreter https://maps.mail.ru/osm/tools/overpass/api/interpreter https://overpass.kumi.systems/api/interpreter)
+          log() { echo "$(date -u +%H:%M:%S) $*" | tee -a curation/results/log.txt; }
           for q in curation/queries/*.overpassql; do
             [ -e "$q" ] || continue
             n=$(basename "$q" .overpassql)
-            for i in 1 2 3 4; do
-              curl -sS -f --max-time 300 --data-urlencode "data@$q" https://overpass-api.de/api/interpreter -o "curation/results/$n.out" && break
-              sleep $((i*10))
+            for i in 0 1 2 3 4 5 6 7; do
+              ep=${EP[$((i % 4))]}
+              code=$(curl -sS --max-time 180 --data-urlencode "data@$q" "$ep" -o "curation/results/$n.out" -w '%{http_code}' || echo fail)
+              log "$n try $i $ep -> $code $(wc -c < curation/results/$n.out 2>/dev/null) bytes"
+              [ "$code" = 200 ] && break
+              rm -f "curation/results/$n.out"; sleep 5
             done
           done
           for q in curation/queries/*.bbox; do
             [ -e "$q" ] || continue
             n=$(basename "$q" .bbox); read -r bbox types < "$q"
-            timeout 600 node scripts/osm-lines.js "$bbox" --types "${types:-subway}" --out "curation/results/$n-lines.json" 2> "curation/results/$n-lines-notes.txt" || true
+            timeout 400 node scripts/osm-lines.js "$bbox" --types "${types:-subway}" --out "curation/results/$n-lines.json" 2> "curation/results/$n-lines-notes.txt"; log "$n lines exit $?"
           done
-          rm -f curation/queries/*
       - name: Commit results
+        if: always()
         run: |
+          rm -f curation/queries/*
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A curation
