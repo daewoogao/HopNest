@@ -1,6 +1,22 @@
-20 lines, 494 stations
+  attempt 1 failed (https://overpass-api.de/api/interpreter answered 504: <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:), retrying
+  attempt 2 failed (https://maps.mail.ru/osm/tools/overpass/api/interpreter answered 504: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+), retrying
+  attempt 3 failed (https://overpass.private.coffee/api/interpreter answered 500: <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html><head>
+<title>500 Internal Server Error</title>
+</head><body>
+<h1>Internal Server Error</h1>
+<p>The ser), retrying
+18 lines, 448 stations
   check: Ligne 7: added branch to Villejuif - Louis Aragon as its own line; check it isn't a short-working or depot run
-  check: Ligne 10: added branch to Boulogne - Pont de Saint-Cloud as its own line; check it isn't a short-working or depot run
-  check: Ligne 13: added branch to Saint-Denis-Université as its own line; check it isn't a short-working or depot run
   check: Ligne 13: added branch to Asnières-Gennevilliers–Les Courtilles as its own line; check it isn't a short-working or depot run
   check: Métro 15: fewer than 2 named stops (under construction?), skipped; OSM relation r3094380
