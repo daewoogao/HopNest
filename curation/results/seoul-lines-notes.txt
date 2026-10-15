@@ -1,0 +1,12 @@
+20 lines, 755 stations
+  check: Seoul Metropolitan Subway Line 3: added branch to Daehwa as its own line; check it isn't a short-working or depot run
+  check: Seoul Metropolitan Subway Line 2: added branch to City Hall as its own line; check it isn't a short-working or depot run
+  check: Seoul Metropolitan Subway Line 2: added branch to Sinseol-dong as its own line; check it isn't a short-working or depot run
+  check: Seoul Metropolitan Subway Line 2: added branch to Kkachisan as its own line; check it isn't a short-working or depot run
+  check: Seoul Metropolitan Subway Line 4: added branch to Buramsan as its own line; check it isn't a short-working or depot run
+  check: Seoul Metropolitan Subway Line 4: added branch to Jinjeop as its own line; check it isn't a short-working or depot run
+  check: Seoul Metropolitan Subway Line 5: added branch to Macheon as its own line; check it isn't a short-working or depot run
+  check: Seoul Metropolitan Subway Line 1: added branch to Sinchang as its own line; check it isn't a short-working or depot run
+  check: Seoul Metropolitan Subway Line 1: added branch to Seodongtan as its own line; check it isn't a short-working or depot run
+  check: Seoul Metropolitan Subway Line 1: added branch to Yongsan as its own line; check it isn't a short-working or depot run
+  check: 수도권 전철 1호선: 서울역 → 의정부: fewer than 2 named stops (under construction?), skipped; OSM relation r16712694

@@ -24,3 +24,7 @@
 06:16:38 singapore-hotels try 1 https://overpass.private.coffee/api/interpreter -> 500 646 bytes
 06:16:57 singapore-hotels try 2 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 25423 bytes
 06:17:02 hongkong lines exit 0
+06:21:23 osaka lines ok
+06:22:02 paris lines ok
+06:22:08 seoul lines ok
+06:22:35 singapore lines ok

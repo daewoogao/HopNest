@@ -1,0 +1,6 @@
+20 lines, 494 stations
+  check: Ligne 7: added branch to Villejuif - Louis Aragon as its own line; check it isn't a short-working or depot run
+  check: Ligne 10: added branch to Boulogne - Pont de Saint-Cloud as its own line; check it isn't a short-working or depot run
+  check: Ligne 13: added branch to Saint-Denis-Université as its own line; check it isn't a short-working or depot run
+  check: Ligne 13: added branch to Asnières-Gennevilliers–Les Courtilles as its own line; check it isn't a short-working or depot run
+  check: Métro 15: fewer than 2 named stops (under construction?), skipped; OSM relation r3094380

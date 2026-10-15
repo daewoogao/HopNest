@@ -1,0 +1,5 @@
+11 lines, 235 stations
+  check: MRT East-West Line: added branch to Changi Airport as its own line; check it isn't a short-working or depot run
+  check: MRT Circle Line: added branch to Bayfront as its own line; check it isn't a short-working or depot run
+  check: MRT Jurong Region Line: added branch to Jurong Pier as its own line; check it isn't a short-working or depot run
+  check: MRT Jurong Region Line: added branch to Pandan Reservoir as its own line; check it isn't a short-working or depot run
