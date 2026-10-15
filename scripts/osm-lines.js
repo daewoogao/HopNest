@@ -37,7 +37,7 @@ const round = n => Math.round(n * 1e4) / 1e4; // ~11 m, same precision as existi
 (async () => {
   // Overpass is a free shared service: retry busy/timeout answers, then
   // try a second public instance.
-  const endpoints = [ENDPOINT, 'https://overpass.private.coffee/api/interpreter'];
+  const endpoints = [ENDPOINT, 'https://maps.mail.ru/osm/tools/overpass/api/interpreter', 'https://overpass.private.coffee/api/interpreter'];
   let res, lastErr;
   for (let attempt = 0; attempt < 6 && !res; attempt++) {
     const url = endpoints[attempt % endpoints.length];
