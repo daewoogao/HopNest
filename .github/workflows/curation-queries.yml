@@ -1,0 +1,47 @@
+# Research helper for curating new cities (never merged to main). On push
+# to a curation/** branch it runs every OpenStreetMap query in
+# curation/queries/ on GitHub's servers and commits the answers to
+# curation/results/, because the Claude cloud session can't reach
+# OpenStreetMap directly.
+#   *.overpassql  → raw Overpass query, saved as results/<name>.csv/json
+#   *.bbox        → one line "south,west,north,east [types]", run through
+#                   scripts/osm-lines.js, saved as results/<name>-lines.json
+name: Curation queries
+on:
+  push:
+    branches: ['curation/**']
+    paths: ['curation/queries/**']
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Run queries
+        run: |
+          mkdir -p curation/results
+          for q in curation/queries/*.overpassql; do
+            [ -e "$q" ] || continue
+            n=$(basename "$q" .overpassql)
+            for i in 1 2 3 4; do
+              curl -sS -f --data-urlencode "data@$q" https://overpass-api.de/api/interpreter -o "curation/results/$n.out" && break
+              sleep $((i*10))
+            done
+          done
+          for q in curation/queries/*.bbox; do
+            [ -e "$q" ] || continue
+            n=$(basename "$q" .bbox); read -r bbox types < "$q"
+            node scripts/osm-lines.js "$bbox" --types "${types:-subway}" --out "curation/results/$n-lines.json" 2> "curation/results/$n-lines-notes.txt" || true
+          done
+          rm -f curation/queries/*
+      - name: Commit results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A curation
+          git commit -qm "Curation query results" || exit 0
+          git push
