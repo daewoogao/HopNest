@@ -109,8 +109,9 @@ station/airport/railway stop you tap.
 
 - **Subway lines**: real official colors, toggleable per line, station
   dots clickable.
-- **Cities**: Tokyo, Shanghai, New York City, London, Barcelona. Paris
-  is listed as "coming soon."
+- **Cities**: Tokyo, Shanghai, New York City, London, Barcelona, plus
+  batch 1 of the scale-up (2026-10-15): Paris, Seoul, Osaka, Hong Kong,
+  Singapore.
 - **City picker**: alphabetized sidebar cards with their own search box
   (accent-insensitive), kept separate from the in-city place search.
   Cities without data yet show as "coming soon"; a text box lets the user
@@ -459,6 +460,77 @@ they're done.
 ---
 
 ## Changelog
+
+### 2026-10-15 — batch 1 cities: Paris, Seoul, Osaka, Hong Kong, Singapore
+- Five new city files in `site/data/`, made by the §4 "Adding a city"
+  steps. Subway lines from OpenStreetMap (run on GitHub's servers, since
+  Overpass is blocked from Claude's machines), cleaned by hand. Hotels and
+  sights curated by Claude per the curation spec and §4 rules.
+- **Rating source for new cities is TripAdvisor** (bubble rating, plus a
+  new `ratingCount` field with the review count used for the ≥100 floor).
+  Google Places is unreachable from Claude's machines. Hotel coordinates
+  come from OpenStreetMap where the hotel is mapped. The open question in
+  §4 about storing ratings still stands; Claude is keeping them for now
+  (Audrey's call pending).
+- Hotel stars for Japan, Hong Kong and Singapore are class estimates (no
+  official star scheme). Sight hours are from Claude's knowledge, not a
+  live lookup; first monthly refresh should re-check them.
+- Validator: 0 errors. Warnings documented here: Seoul's Suseo (SRT) and
+  Singapore's Woodlands Train Checkpoint have **no hotel within 800 m**
+  (nearest qualifying ones are 1.3 km+ away; radius not stretched).
+- **Line fixes:** Paris line 15 skipped (not open); line 10's Auteuil
+  loop westbound stations not drawn (OSM pairs them within 400 m of the
+  eastbound ones). Seoul Line 1's Korail branch stops at Pyeongtaek
+  (it runs 80+ km out); Korean-only station names translated from OSM's
+  English tags; AREX added from a separate pull. Singapore's Jurong Region
+  Line left off (in OSM, opens 2027+); Circle Line Stage 6 (opened
+  12 Jul 2026) included. Osaka's airports aren't on the metro; their
+  popups explain the train links.
+- **Hotel gaps (left open, not filled with sub-floor options):**
+  - Paris: CDG has only citizenM (others under 4.0); Orly only Novotel
+    Coeur d'Orly; Gare de l'Est has no brand anchor at 4.0+ (NH 3.7);
+    Saint-Germain and Le Marais have no brand anchor; Opéra has no budget
+    option.
+  - Seoul: Gimpo has 1 (Lotte City Hotel; no global brand, no budget);
+    Gangnam has 2 (no brand anchor or budget; Novotel Gangnam is 812 m
+    out). The three Yongsan Accor hotels share one Dragon City pin.
+    Millennium Hilton (closed 2022) excluded.
+  - Osaka: Kansai Airport has 2 (Hotel Nikko, First Cabin; no brand
+    anchor; Rinku Town across the bridge excluded); Itami has 1 (Osaka
+    Airterminal Hotel); Shin-Osaka has no luxury option.
+  - Hong Kong: Airport has 3, no budget (Tung Chung town, ~3 km, excluded);
+    West Kowloon and Hung Hom have no budget option at 4.0+; Central has
+    no brand anchor within 800 m (Island Shangri-La ~830 m). Hung Hom is a
+    hotel area, not an intercity hub (through-trains ended 2020).
+  - Singapore: Changi has 1 (Crowne Plaza, landside; transit hotels are
+    under 4.0); Marina Bay has 2 luxury only (Pan Pacific, PARKROYAL,
+    Mandarin Oriental are 830–900 m out).
+- **Sights excluded from the TripAdvisor rankings:**
+  - Paris: Montmartre, Le Marais, Saint-Germain, Latin Quarter (districts;
+    Sacré-Cœur covers Montmartre), Galeries Lafayette (shop), The Seine and
+    Champs-Élysées (not single places), Parc des Princes (stadium),
+    Marmottan Monet, Père-Lachaise, Panthéon and below (cap). Marché des
+    Enfants Rouges added for local flavor.
+  - Seoul: Lotte World (theme park), COEX Mall and Lotte Department Store
+    (shopping), Namsan Park (same hill as N Seoul Tower), Hongdae street
+    (hotel area); Jogyesa, NANTA, Folk Museum, Leeum, Sea Life, Seoul
+    Forest, Trickeye cut for the cap.
+  - Osaka: Shinsaibashi-suji, Namba Parks, Osaka Station City, Universal
+    CityWalk, Denden Town (shopping); Osaka Castle Park (same as the
+    castle); Minami (district); Namba Grand Kagetsu (Japanese-language
+    comedy); Cool Japan Park (few reviews); Mint Museum, Bunraku Theater
+    (cap). USJ kept (#1; on JR, not the metro).
+  - Hong Kong: Skyline (not a place), Victoria Harbour (same as Star Ferry
+    and the Promenade), Lantau Island (whole island), Mong Kok and Tsim Sha
+    Tsui (districts), Ladies Market, Stanley Market, Harbour City
+    (shopping); Ten Thousand Buddhas, Hong Kong Park, Tai O, Lamma, Repulse
+    Bay cut for the cap. Disneyland and Ocean Park kept (both on the MTR).
+  - Singapore: Orchard Road, Shoppes at MBS (shopping), Chinatown
+    (district), Night Safari and Little India (3.8), Adventure Cove (water
+    park), Hell's Museum (niche), SensoryScape (walkway), Lau Pa Sat
+    (listing muddled). Cloud Forest, Flower Dome and the Orchid Garden are
+    folded into their parent gardens.
+
 
 ### 2026-10-15 — city data split into JSON files; tools for adding cities
 - Audrey asked how to go from 5 cities to 25. Plan decided: §4 "Adding a

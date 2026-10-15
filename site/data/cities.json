@@ -27,7 +27,26 @@
   "paris": {
     "name": "Paris",
     "country": "France",
-    "flag": "🇫🇷",
-    "comingSoon": true
+    "flag": "🇫🇷"
+  },
+  "seoul": {
+    "name": "Seoul",
+    "country": "South Korea",
+    "flag": "🇰🇷"
+  },
+  "osaka": {
+    "name": "Osaka",
+    "country": "Japan",
+    "flag": "🇯🇵"
+  },
+  "hongkong": {
+    "name": "Hong Kong",
+    "country": "Hong Kong",
+    "flag": "🇭🇰"
+  },
+  "singapore": {
+    "name": "Singapore",
+    "country": "Singapore",
+    "flag": "🇸🇬"
   }
 }
