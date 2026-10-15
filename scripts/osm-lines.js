@@ -78,12 +78,16 @@ const round = n => Math.round(n * 1e4) / 1e4; // ~11 m, same precision as existi
     const best = variants[0];
     const t = { ...best.r.tags, ...(master ? master.tags : {}) };
     const ref = t.ref || '';
-    const name = t['name:en'] || t.name || ref;
+    if (best.stations.length < 2) { notes.push(`${t.name || ref}: fewer than 2 named stops (under construction?), skipped; OSM relation r${best.r.id}`); continue; }
+    // route names carry the direction ("Ligne 1 : A → B"); prefer the
+    // route_master's name, else "Line <ref>"
+    const mName = master && (master.tags['name:en'] || master.tags.name);
+    const name = mName || (ref ? `Line ${ref}` : (t['name:en'] || t.name || 'Line'));
     const color = (t.colour || t.color || '').toUpperCase();
     lines.push({
-      id: slug(ref || name) || 'line' + lines.length,
-      name: ref && !/line|metro|linie|ligne|línea|线|線/i.test(name) ? `Line ${ref}` : name,
-      ...(t.name && t['name:en'] && t.name !== t['name:en'] ? { jp: t.name } : {}),
+      id: 'l' + (slug(ref || name) || lines.length),
+      name,
+      ...(master && master.tags.name && master.tags['name:en'] && master.tags.name !== master.tags['name:en'] ? { jp: master.tags.name } : {}),
       color: /^#[0-9A-F]{6}$/.test(color) ? color : '#888888',
       code: ref,
       stations: best.stations,
@@ -91,7 +95,6 @@ const round = n => Math.round(n * 1e4) / 1e4; // ~11 m, same precision as existi
     if (!/^#[0-9A-F]{6}$/.test(color)) notes.push(`${name}: no colour tag in OSM, set the official color by hand`);
     const longer = variants.slice(1).filter(v => v.stations.some(s => !best.stations.some(b => b[0] === s[0])));
     if (longer.length) notes.push(`${name}: ${longer.length} other variant(s) with stations not on the main one (branch?), check by hand`);
-    if (best.stations.length < 2) notes.push(`${name}: fewer than 2 named stops, check the OSM relation r${best.r.id}`);
   }
   lines.sort((a, b) => a.code.localeCompare(b.code, undefined, { numeric: true }));
 
