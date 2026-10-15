@@ -1,0 +1,278 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	683929708	ホテル グランヴィア 大阪	Hotel Granvia Osaka	34.7016138	135.4959249	hotel				https://www.granvia-osaka.jp/
+node	1662746689	ホテル日航関西空港	Hotel Nikko Kansai Airport	34.4370454	135.2431522	hotel				https://www.nikkokix.com/
+node	1734162679	新阪急ホテルアネックス		34.7068941	135.4972938	hotel				
+node	1737872938	グランパスinn大阪		34.6631864	135.4987406	hotel				
+node	1738303910	IP City Hotel Osaka		34.6757641	135.5037592	hotel				https://www.iphotel.co.jp/
+node	1742842908	ホテルナチュレ 大阪梅田	Hotel Nature Osaka Umeda Hotel	34.7078635	135.4963351	hotel			紀州鉄道グループ	kitetsu-hotel.jp
+node	1864023533	ホテルヒラリーズ	Hotel Hillarys	34.6615089	135.5061370	hotel				https://hillarys.jp/
+node	1976143877	セカンド・イン梅田	Second Inn Umeda	34.6975791	135.4919126	hotel				https://www.2nd-inn.com/
+node	2125723724	サンプレイン長堀		34.6748510	135.5049070	hotel				
+node	2246286033	フローラルイン難波		34.6673266	135.5040028	hotel				
+node	2326967162	ホテルA.P大阪空港前 (Hotel A.P)	Hotel A.P	34.7926610	135.4429786	hotel				
+node	2349203844	かねよし旅館		34.6692572	135.5054272	hotel				
+node	2450231413	チサンイン		34.6781680	135.5048310	hotel				
+node	2492271827	インターコンチネンタルホテル大阪	InterContinental Osaka	34.7065249	135.4945570	hotel				
+node	2794707537	ホテルトラスティ大阪阿倍野	Hotel Trusty Osaka Abeno	34.6461404	135.5122057	hotel				
+node	3600514493	Tennoji Guesthouse		34.6496500	135.5166210	hostel				
+node	3921510962	ホテルヴィアイン心斎橋長堀通		34.6756839	135.4972589	hotel				
+node	3921523958	ダイワロイネットホテル		34.6778280	135.4960190	hotel				
+node	3922986659	東横イン	Toyoko Inn	34.6746570	135.4955180	hotel		東横イン		
+node	4111864592	小蘋果大阪日租套房		34.6661666	135.5076495	hostel				
+node	4249860285	HostelQ		34.6692751	135.4986375	hostel				http://www.osaka-hostel.com/
+node	4259807091	Hana Hostel Osaka		34.6732253	135.4982762	hostel				https://osaka.hanahostel.com/
+node	4481013395			34.6613261	135.5005345	hostel				
+node	4584804997	スーパーホテル		34.6525100	135.5133660	hotel				
+node	4631860830	わが家	Wagaya	34.6644799	135.5053598	hotel				
+node	4768960521		Khaosan World Tennoji	34.6487717	135.5183222	hostel				
+node	4782664722	Lore Hostel Doutonbori	Lore Hostel Doutonbori	34.6679191	135.5038359	hostel				
+node	4789525535	大和屋本店		34.6692171	135.5064878	hotel			大和屋本店	
+node	4807613477	大阪マリオネット都ホテル	Osaka Marriott Miyako	34.6461111	135.5132439	hotel	5	Marriott	Marriott Hotels & Resorts	
+node	4832065136	Fuku Hostel		34.6673193	135.5064432	hostel				
+node	5040222986	ホテル味園		34.6656930	135.5050365	hotel				
+node	5047970224	レム新大阪		34.7338451	135.4997921	hotel				http://www.remm.jp/shinosaka/
+node	5125899322		Sunrise Residence	34.7033724	135.4889201	hotel				
+node	5132373023		Osaka airbnb	34.6613943	135.4950102	hotel				
+node	5643231554	コンフォートホテル大阪心斎橋	Comfort Hotel Osaka Sinsaibashi	34.6721369	135.5035552	hotel				
+node	5663824790	レッドルーフイン＆スイーツ	Red Roof Inn Suites	34.6633377	135.5057345	hotel				
+node	5738431672	AMZA		34.6665646	135.5033749	hostel				
+node	5759651818	DEL style大阪新梅田ANNEX		34.7006270	135.4888192	hotel				https://www.daiwaroynet.jp/shinumeda/
+node	5931893185	"浪速区元町 1-1-1, なんば, 大阪, 日本 556-0016"	HOTEL KANADE 大阪難波	34.6669345	135.4975422	hotel				
+node	6024811140	ザ・リッツカールトン大阪	The Ritz Carlton Osaka	34.6983885	135.4925555	hotel				
+node	6125974685	ヴィアイン		34.6472103	135.5116674	hotel				
+node	6147276249	HOME HOSTEL OSAKA		34.6512847	135.5067730	hotel				
+node	6215036883			34.7952440	135.4426942	hotel				
+node	6220394911	Hotel Alexander Namba		34.6665790	135.4989848	hotel				
+node	6417051056	The Flag Shinsaibashi		34.6742040	135.5030492	hotel				
+node	6728518279	スパワールド	Spa World	34.6496951	135.5056913	hotel				
+node	6790519585		Gracery	34.6655401	135.4975627	hotel				
+node	6868548385	スマイルホテルプレミアム大阪本町	Smile Hotel PREMIUM	34.6777670	135.5050806	hotel				https://smile-hotels.com/hotels/show/osakahommachi
+node	7331102444		Citadines Namba Osaka	34.6620597	135.5062589	hotel		Citadines		https://www.discoverasr.com/en/citadines/japan/citadines-namba-osaka
+node	7375548910	ホテル阪急 レスパイア大阪	Hotel Hankyu RESPIRE OSAKA	34.7045871	135.4960115	hotel				
+node	7465910931	新大阪ユースホステル		34.7321577	135.5038892	hostel				
+node	8113620715	EARTHMANS AMEMURA		34.6744699	135.4977620	hotel				https://www.earthmans.com/
+node	8590014833	NEBOU HOTEL		34.6811423	135.5026168	hotel				
+node	8851023541	R&Bホテル 新大阪北口		34.7362179	135.4989519	hotel				
+node	9060312952	ホテルモントレ大阪	Hotel Monterey Osaka	34.6994503	135.4917428	hotel				
+node	9060312954	ホテル阪急インターナショナル	Hotel Hankyu International	34.7086708	135.4984014	hotel				
+node	9599755651	ホテル エルシエント大阪	Hotel Elcient Osaka Umeda	34.6983511	135.5028552	hotel		Elcient		https://www.elcient.com/osaka
+node	9927065448	ホテルビースイーツ なんば黒門	HOTEL B Suites	34.6631301	135.5065707	hotel				
+node	10034254871	ホテル近鉄ユニバーサル・シティ	Hotel Kintetsu Universal City	34.6684653	135.4371821	hotel				
+node	11001711543	アルモニーアンブラッセ大阪		34.7075011	135.5002038	hotel				
+node	11027379083	旅の宿 葆光荘	Hokousou	34.6485954	135.5138372	hotel				
+node	11214307337		Tabist Hotel Asiato Namba	34.6636171	135.5068535	hotel				
+node	11217680137		Peace House Ubeno	34.6448141	135.5072513	hostel				
+node	11226604137		Peace House Suzunami	34.6493375	135.5122542	hostel				
+node	11241255837		Hotel VR Osaka	34.6990632	135.5033952	hotel				https://hotel-vr.jp/
+node	11394143747	ヴィラフォンテーヌグランド大阪梅田	Villa Fontaine Grand Osaka Umeda	34.7012751	135.5013531	hotel				https://www.hvf.jp/osaka-umeda/
+node	11522824069		Dotonbori Crystal Hotel IV	34.6721843	135.5083300	hotel				https://crystalhotel.jp/doutonbori4/
+node	11630243786	DEL style大阪新梅田		34.7006199	135.4890331	hotel				https://www.daiwaroynet.jp/shinumeda/
+node	11724558969	旅館くら本	Ryokan Kuramoto	34.6704449	135.5080219	hotel				
+node	11928495069			34.6694301	135.4984901	hotel				
+node	12095159229	大阪ステーションホテル	THE OSAKA STATION HOTEL	34.7003699	135.4937383	hotel				https://osakastation-hotel.jp/
+node	12106410701	Hotel Meander Osaka		34.6645727	135.4970465	hotel				
+node	12162726782	ウエスティンホテル大阪	The Westin Osaka	34.7048821	135.4895414	hotel				
+node	12163025099	きみといちご		34.6664887	135.5037257	hostel				https://guesthousejp.com/osaka/
+node	12167117545	Canopy by Hilton Osaka Umeda		34.7058495	135.4931617	hotel		Hilton	Hilton	https://www.hilton.com/ja/hotels/osapypy-canopy-osaka-umeda/
+node	12196177043	APA Hotel	APA Hotel	34.6983112	135.4895100	hotel		アパホテル		
+node	12227843602	道頓堀心斎橋ホテル	Dotombori Shinsaibashi Hotel	34.6692419	135.5068855	hotel				
+node	12245738439	ROOTS HOTEL		34.6791104	135.4953390	hotel				
+node	12283566001	Hostel OGK		34.7001684	135.4886056	hostel				
+node	12367220101	Imano		34.6729218	135.4950338	hostel				
+node	12398876301			34.6778079	135.5082660	hotel				
+node	12443461381	HOTEL the osaka-shinsekai		34.6514038	135.5070093	hotel				
+node	12535469441	ホテル阪急グランレスパイア大阪	Hotel Hankyu Gran Respire Osaka	34.7016577	135.4917780	hotel				https://www.hankyu-hotel.com/hotel/respire/granosaka
+node	12698900321	ウォルドーフ・アストリア大阪	Waldorf Astoria Osaka	34.7027768	135.4914914	hotel		Hilton	Hilton	https://www.hilton.com/ja/hotels/osawawa-waldorf-astoria-osaka/
+node	12732665501	住一心斎橋美國村店Amemura	Amemura	34.6696917	135.4973237	hotel				
+node	12770123490			34.6768826	135.5082288	hotel				
+node	12782454901	ホテルバリアンリゾートなんば心斎橋店	Hotel Balian Resort Namba Shinsaibashi	34.6696655	135.4992370	hotel				https://www.balian.jp/shop/namba-shinsaibashi/
+node	12808925874	ACRO Capsule Hotel		34.6686125	135.4996336	hostel				
+node	12821384239	APA Hotel Namba Shinsaibashi Higashi	APA Hotel	34.6729075	135.5050590	hotel		アパホテル		
+node	12862540904	大阪コロナホテル		34.7355148	135.5045175	hotel	3			
+node	13022441230	ファーストキャビン関西空港		34.4372805	135.2435226	hotel				
+node	13043938501		Takuto Hotel Shinsaibashi	34.6782581	135.5011344	hotel				
+node	13061288802	東横イン	Toyoko Inn	34.7288093	135.5012789	hotel		東横イン		
+node	13070198001	LDK GRAND HOSTEL Shinsaibashi		34.6734582	135.5077387	hostel				
+node	13081308811	Park Central Sakura Hotel		34.6785088	135.5077330	hotel				https://parkcentral-sakura.com/
+node	13114149301	Y's Cabin Osaka Namba		34.6681961	135.4996774	hotel				https://yscabin-namba.com/
+node	13133047601	Hotel Forza Osaka Namba Dotonbori		34.6685765	135.5033945	hotel				
+node	13255360301			34.6692226	135.4987718	hotel				
+node	13255363601	JOYTEL HOTEL NAMBA DOTONBORI	JOYTEL HOTEL NAMBA DOTONBORI	34.6692226	135.4987718	hotel				https://www.joytelhotels.com/namba-dotonbori/en/
+node	13298987201	エス トレーニングセンターホテル	S.Training Center Hotel	34.7017725	135.4892793	hotel				
+node	13316004801	Henn na Hotel		34.6711826	135.4984148	hotel				
+node	13362953276	Hotel atarayo Osaka		34.6790987	135.5029222	hotel				
+node	13375802569	Arashi		34.6723211	135.5032662	hotel				
+node	13416376373	hotel androoms		34.7324506	135.4935139	hotel				
+node	13420437689	ホテル ザ グランデ心斎橋なんば	Hotel The Grandee Shinsaibashi Namba	34.6725402	135.5048109	hotel				https://www.thegrandee.co.jp/
+node	13564227017	コンフォートホテル新大阪	Confort Hotel Shin-Osaka	34.7299834	135.5011868	hotel		コンフォートホテル	株式会社チョイスホテルズジャパン	
+node	13574820301		Miyako City Osaka Hommachi	34.6797218	135.5067722	hotel				https://www.miyakohotels.ne.jp/hommachi/
+node	13634431801	ザ パーク フロント ホテル アット ユニバーサル・スタジオ・ジャパン	The Park Front Hotel at Universal Studios Japan	34.6677597	135.4371973	hotel				
+node	13744115835	EXCEL HOTELTOKYU		34.6802355	135.5001314	hotel				
+node	13772912089	ホテル ドンルクール 大阪梅田		34.7018270	135.5011526	hotel				https://hotel-danslecoeur.jp/
+node	13774948024	ホテル エキチカ 長堀橋	Hotel Ekichika Nagahoribashi	34.6748416	135.5065667	hotel				https://hpdsp.jp/hotel-ekichika/
+node	13869866601	庆祝	karaksa hotel	34.6705796	135.4989429	hotel				https://karaksahotels.com/en/namba/
+node	13945889102	スマイルホテル新大阪	Smile Hotel Shin-Osaka	34.7284533	135.4974549	hotel				https://smile-hotels.com/hotels/show/shinosaka
+node	13970528620	THE GATE HOTEL 大阪 by HULIC		34.6755952	135.5008295	hotel			ヒューリックホテルマネジメント株式会社	
+node	13991879305	Minn		34.6606531	135.5047213	hotel				
+node	14016675001	Quintessa	Quintessa	34.6740500	135.5044990	hotel				https://quintessahotels.com/shinsaibashi/en/
+node	14027765501		Hotel Maria Theresia	34.6660427	135.4985847	hotel				
+node	14041139501	センタラグランドホテル大阪	Centara Grand Hotel	34.6600231	135.5022130	hotel				https://www.centarahotelsresorts.com/
+node	14067568831	ダイワロイネットホテル大阪心斎橋		34.6777765	135.5009889	hotel				
+node	14124507115	CANDEO HOTELS		34.6705092	135.5007524	hotel				
+node	14152668536	Lucky Namba		34.6644903	135.4919565	hotel				
+node	14257309501	Tabist 桜川リバーサイドホテル	Tabist Sakuragawa Riverside	34.6691957	135.4927710	hotel				https://tabist.co.jp/en/h/N28HSRH
+way	109949444	ホテル日航大阪	Hotel Nikko Osaka	34.6739129	135.4997577	hotel				https://www.hno.co.jp/
+way	109949445	ドーミーイン心斎橋	Dormy Inn Shinsaibashi	34.6709018	135.4974317	hotel			共立メンテナンス	
+way	111265818	ホテルつじ井		34.7935094	135.4502271	hotel				
+way	161835214	ホテルロイヤルクラシック大阪	Hotel Royal Classic Osaka Namba	34.6658976	135.4998758	hotel				
+way	161870806	ネストホテル大阪心斎橋		34.6756419	135.5057345	hotel				
+way	161875235	ハートンホテル心斎橋	Hearton Hotel Shinsaibashi	34.6725197	135.4995704	hotel				https://www.hearton.co.jp/hotel/shinsaibashi
+way	161875238	ハートンホテル心斎橋別館	Hearton Hotel Shinsaibashi Annex	34.6729091	135.4995765	hotel				https://www.hearton.co.jp/hotel/shinsaibashi
+way	161879622	クロスホテル	Cross Hotel Osaka	34.6697097	135.5007567	hotel				https://www.crosshotel.com/osaka/
+way	162158415	ハートンホテル西梅田	Hearton Hotel Nishiumeda	34.7001379	135.4928587	hotel				
+way	162184899	大阪東急REIホテル	Osaka Tokyu Rei Hotel	34.7025220	135.5037671	hotel		東急REIホテル		
+way	162185075	ホテル法華クラブ大阪	Hotel Hokke Club Osaka	34.7008276	135.5028262	hotel				
+way	162185344	ホテルマイステイズプレミア堂島	Hotel Mystays Premiere Dojima	34.6974146	135.4941780	hotel			Hotel Mystays	https://www.mystays.com/hotel-mystays-premier-dojima-osaka/
+way	164041055	ホテル ブイアール　オオサカ	Hotel VR Osaka	34.6990514	135.5033015	hotel				
+way	164041058	R&B ホテル 東大阪	R&B Hotel HigashiOsaka	34.6995120	135.5038842	hotel				
+way	170147862	Wayfarer Shinsaibashi		34.6709707	135.5075087	hotel				https://kabinhotel.xyz/
+way	170147912	ドーミーインPREMIUMなんば	Dormy Inn Premium Nanba	34.6709473	135.5064474	hotel		ドーミーイン	共立メンテナンス	
+way	172336207	アークホテル大阪心斎橋		34.6745291	135.5067744	hotel				
+way	172378783	スイスホテル南海大阪	Swissôtel Nankai Osaka	34.6641694	135.5013300	hotel				
+way	174643579	東横イン梅田中津	Toyoko Inn Umeda Nakatsu	34.7094504	135.4967587	hotel				
+way	178481590	HOTEL TRAD Replay		34.6666266	135.5053252	hotel				
+way	178481635	スーパーホテルなんば・日本橋	Super Hotel Namba Nippombashi	34.6656866	135.5057728	hotel		Super Hotel		
+way	178942577		HOTEL LANDMARK UMEDA	34.7052954	135.4955657	hotel				
+way	178958637	堂島ホテル	Dojima Hotel	34.6954847	135.4952797	hotel				
+way	178996353	ホテルエルセラーン大阪		34.6963441	135.4959125	hotel				
+way	178996358	ヴィアイン梅田	Via Inn Umeda	34.7024624	135.5014049	hotel				https://www.viainn.com/umeda/
+way	179076136	TONES OSAKA		34.7035835	135.5020485	hotel				
+way	180240848	ホテル 近畿	Hotel Kinki	34.7040435	135.5023433	hotel				
+way	180245012	ビジネスホテルニッセイ		34.6644479	135.5047199	hotel				
+way	180400842	ニュージャパン梅田店		34.7031544	135.5038166	hostel			ニュージャパン観光株式会社	https://www.umedasauna-newjapan.jp/
+way	180581972	ホテル喜多八		34.7036558	135.5022396	hotel				
+way	181048584	HOTEL CEEDS		34.7016693	135.5035079	hotel				
+way	181048633	丸一ホテル	Maruichi Hotel	34.7010523	135.5028374	hotel				
+way	181072245	ホテル関西	Kansai Hotel	34.7003923	135.5034667	hotel				https://www.hotel-kansai.co.jp/index.html
+way	181080899			34.6994610	135.5032456	hotel				
+way	218251335	東横イン	Toyoko Inn	34.7371018	135.5060555	hotel		東横イン		
+way	219616677	ホテルWBFなんば黒門	Hotel WBF Namba Kuromon	34.6656027	135.5057768	hotel				https://www.hotelwbf.com/namba-kuromon/en/
+way	219616710	ル ・ポテジュール		34.6662856	135.5046866	hotel				
+way	219904154	御堂筋ホテル		34.6661238	135.5008703	hotel				
+way	219913046	ホテルアルプス	Hotel Alps	34.6651899	135.5048261	hotel				
+way	219913077	ナンバプラザホテル	Namba Plaza Hotel	34.6652202	135.5052150	hotel				
+way	220482069	東横イン 大阪なんば	Toyoko Inn Osaka Nanba	34.6614841	135.4975769	hotel		東横イン	Toyoko Inn	https://www.toyoko-inn.com/
+way	220482076	アパホテル＆リゾート 大阪難波駅タワー	APA Hotel & Resort Osaka Namba Ekimae Tower	34.6661101	135.4959572	hotel		アパホテル		
+way	220550937	ビジネスホテル菊栄		34.6625543	135.5056687	hotel				
+way	220687500	Business Inn Sennichimae Hoteleed		34.6678232	135.5045665	hotel				
+way	222580126	相鉄グランドフレッサ大阪なんば	Sotetsu Grand Fresa Osaka Namba	34.6684332	135.5066011	hotel	3			https://fresa-inn.jp/namba/
+way	222634183	ホテル一栄	Hotel Ichiei	34.6647029	135.4992510	hostel				
+way	222634209	相鉄フレッサイン		34.6648190	135.4990891	hotel	3	Sotetsu Fresa Inn		https://sotetsu-hotels.com/fresa-inn/namba-ekimae/
+way	223292242	The OneFive Osaka Namba Dotonbori	The OneFive Osaka Namba Dotonbori	34.6696495	135.5048560	hotel	3		Onefivehotels	https://onefivehotels.co.jp/hotels/theonefiveosakanambadotonbori
+way	223355694	東急ステイメルキュール大阪なんば	Mercure Tokyu Stay Osaka Namba	34.6705878	135.4996842	hotel				http://mercure-tokyustay-osaka.com
+way	223355695	ホリデイ・イン大阪難波	Holiday Inn Osaka Namba	34.6697918	135.5036035	hotel	4	Holiday Inn	Holiday Inn	https://www.hiosakanamba.com/en-gb/
+way	223477574	グランドサウナ心斎橋		34.6698850	135.4986447	hostel				
+way	223477634	Bali An RESORT		34.6694428	135.4992497	hotel				
+way	223783804	ホテルアズガーデン		34.6696367	135.5058770	hotel				
+way	223889948	東横inn 大阪なんば	Toyoko Inn Osaka Namba	34.6675697	135.4988839	hotel		東横イン		
+way	223889989	道頓堀ホテル	DOTONBORI HOTEL	34.6683722	135.4986829	hotel				https://dotonbori-h.co.jp/
+way	223928620	Hotel 88 Shinsaibashi		34.6681647	135.4979303	hotel				https://www.hotel88.jp/
+way	224034973	Hotel Vista	Hotel Vista	34.6701268	135.5059075	hotel				https://osaka-namba.hotel-vista.jp
+way	224444016	Welina Hotel 道頓堀		34.6682230	135.5076899	hotel				
+way	225184034	ホテル エスプレッソ ノース	Hotel S-PRESSO North	34.6639311	135.4988146	hotel				https://book.hotel-spresso.com/
+way	225239208	大阪富士屋酒店	Osaka Fujiya Hotel	34.6708950	135.5059303	hotel	3			https://www.osakafujiya.jp/
+way	225782612	変なホテル	Henn Na Hotel	34.6757346	135.5022088	hotel				https://www.hennnahotel.com/shinsaibashi/
+way	234992589	Sarasa Hotel		34.6748462	135.5059015	hotel				
+way	235911645	ホテル ザ グランデ心斎橋なんば	Hotel The Grandee Shinsaibashi Namba	34.6725340	135.5048058	hotel				
+way	238838231	Hotel Atarayo Osaka		34.6789603	135.5029484	hotel				https://www.hotel-atarayo.jp/
+way	238843154	ベッセルイン心斎橋		34.6755202	135.5038218	hotel				
+way	238944135	ホテル心斎橋Cargo	Hotel Shinsaibashi Cargo	34.6781342	135.5035871	hotel				
+way	239050521	KOKO Hotel 心斎橋		34.6761869	135.5026840	hotel				https://koko-hotels.com/osaka_shinsaibashi
+way	239444242	Hotel Livemax		34.6760793	135.5061225	hotel				https://www.hotel-livemax.com
+way	239444288	スガタ ホテル 大阪心斎橋 シリーズ by マリオット	"Sugata Hotel Osaka Shinsaibashi, Series by Marriott"	34.6765246	135.5047864	hotel				https://www.marriott.com/ja/hotels/osass-sugata-hotel-osaka-shinsaibashi-series/overview/
+way	239444317			34.6757895	135.5055288	hotel				
+way	241873797	Takuto Hotel Osaka Shinsaibashi		34.6782406	135.5011418	hotel				
+way	242203448	APAホテル なんば心斎橋西	APA Hotel Namba-Shinsaibashi-Nishi	34.6695135	135.4976095	hotel				https://www.apahotel.com/hotel/kansai/osaka/nambashinsaibashi-nishi/
+way	242203537	アパホテル なんば心斎橋	APA Hotel Namba Shinsaibashi	34.6695110	135.4985094	hotel		アパホテル		
+way	242241472	大阪帝国ホテル		34.6698626	135.4982345	hotel				
+way	243010362	ヴィアイン心斎橋	Viainn Shinsaibashi	34.6737552	135.4987339	hotel				https://www.viainn.com/shinsaibashi/
+way	243010391	アパホテル	APA Hotel	34.6739193	135.4977217	hotel		アパホテル		
+way	243117035	カプセルホテル朝日プラザ	Capsule Hotel Asahi Plaza	34.6707431	135.4978804	hotel				https://asahiplaza.co.jp/
+way	243533486	Hotel Alten		34.6681934	135.5082145	hotel				
+way	243533592	東横INN大阪日本橋文楽劇場前		34.6664682	135.5087997	hotel				
+way	253917986	HOTEL WBF		34.6659040	135.4916972	hotel				
+way	255789188	アパホテル	APA Hotel Tennoji Ekimae	34.6471508	135.5119824	hotel		アパホテル		
+way	255791179	Hotel 3 O'Clock		34.6488778	135.5125404	hotel				
+way	256437866	Hotel Prime		34.6488944	135.5051954	hotel				https://hotelprime.jp/
+way	257216670	バリタワー	Bali Tower	34.6479674	135.5162772	hotel				
+way	257458123	ホテル ユニバーサル ポート	Hotel Universal Port	34.6661009	135.4378877	hotel				https://www.hoteluniversalport.jp/
+way	257458153	ホテル京阪ユニバーサル・タワー	Hotel Keihan Universal Tower	34.6678256	135.4379826	hotel			ホテル京阪	
+way	257862899	スーパーホテル		34.6524559	135.5132263	hotel				
+way	272221073	ホテルマイステイズ新大阪	HOTEL MYSTAYS Shin Osaka Conference Center	34.7294496	135.4978413	hotel				
+way	273734311	新大阪サンプラザホテル		34.7402274	135.5033509	hotel				
+way	273734313	ヴィアイン新大阪ウエスト		34.7351118	135.4964466	hotel				
+way	273734314	コートヤード・バイ・マリオット新大阪ステーション	Courtyard by Marriott Shin-Osaka Station	34.7343420	135.4991766	hotel				
+way	273734315	ホテル新大阪		34.7334938	135.5032701	hotel				
+way	273735205	ヴィアイン新大阪		34.7346929	135.5045962	hotel				
+way	273740683	ステップイン新大阪東口		34.7353569	135.5037740	hotel	3			
+way	277181551	新大阪サニーストンホテル		34.7271366	135.4956263	hotel				
+way	277943966	スーパーホテル		34.7325325	135.5039529	hotel				
+way	289397330	新大阪ステーションホテル treno	Shin-Osaka Station Hotel treno	34.7313853	135.5020235	hotel				
+way	289397369	LiVE MAX		34.7316413	135.5020120	hotel				
+way	289397413	新大阪ステーションホテル classico	Shin-Osaka Station Hotel classico	34.7317475	135.5023193	hotel				
+way	289397418	ニューオーサカホテル	New Osaka Hotel	34.7313579	135.4993914	hotel				
+way	290781451	東横イン	Toyoko Inn	34.7289662	135.5012408	hotel		東横イン		
+way	290781480	新大阪ステーションホテル fiore		34.7313496	135.5023298	hotel				
+way	292353954	ホテルヴィアイン心斎橋四ツ橋		34.6756949	135.4963671	hotel				
+way	292354060	東横イン 心斎橋西	Toyoko Inn Shinsaibashi-Nishi	34.6746411	135.4956449	hotel			東横イン	
+way	292354092	ハートンホテル		34.6757142	135.4961311	hotel				
+way	322784926	グリーンリッチホテル	Green Rich Hotel	34.7942452	135.4419387	hotel				
+way	322784978	東横イン	Toyoko Inn	34.7938227	135.4423686	hotel				
+way	388444581	ビジネスホテル 大洋	Business Hotel Taiyo	34.6483224	135.5047507	hotel				
+way	388791855			34.6479142	135.5046369	hotel				
+way	460927270	ヒルトン大阪	Hilton Osaka	34.6999454	135.4959683	hotel	5	Hilton	Hilton	
+way	486311344	HOTEL FINE AROMA		34.6692157	135.5066566	hotel				https://www.hotel-fine.co.jp/hotel/a-doutonbori/
+way	488467174	天王寺都ホテル	Tennoji Miyako Hotel	34.6455972	135.5157319	hotel		Miyako Hotels		
+way	494984450	モントレ グラスミア大阪	Hotel Monterey Glasmere Osaka	34.6667963	135.4961370	hotel				
+way	497899205	ラ・ジェント・ホテル大阪ベイ	La'gent Hotel Osaka Bay	34.6624254	135.4345784	hotel				
+way	567963070	ホテル ユニバーサル ポート ヴィータ	Hotel Universal Port Vita	34.6670833	135.4389397	hotel				https://www.u-vita.co.jp/
+way	587857404	カンデオホテルズ大阪なんば	CANDEO HOTELS OSAKA NAMBA	34.6707050	135.5057417	hotel		CANDEO HOTELS	CANDEO HOTELS OSAKA NAMBA	https://www.candeohotels.com/ja/osaka-namba/
+way	589102290	フレイザーレジデンス南海大阪	Fraser Residence Nankai	34.6632123	135.5005096	hotel				
+way	589549540	オリエンタルホテル ユニバーサル・シティ	Oriental Hotel Universal City	34.6687556	135.4379132	hotel				https://universalcity.oriental-hotels.com/
+way	591102143	グランドホテル大阪	Grand Hotel Osaka	34.6715526	135.5049898	hotel				
+way	635180784	EXE東心斋橋		34.6704459	135.5056483	hotel				
+way	655834136	東横INNあべの天王寺	Toyoko inn	34.6481473	135.5081578	hotel		東横イン		
+way	664083782	近鉄フレンドリーホステル大阪天王寺公園	Kintetsu Frindly Hostel	34.6486395	135.5121767	hostel				
+way	702106187	フォーシーズンズホテル大阪	Four Seasons Hotel Osaka	34.6958988	135.4935747	hotel				https://www.fourseasons.com/jp/osaka/
+way	716611435	ホテルリブマックス梅田堂山	Hotel Livemax Umeda Doyama	34.7036515	135.5027551	hotel				
+way	726021619	リーベルホテル大阪	LIBER HOTEL OSAKA	34.6612934	135.4327290	hotel			株式会社武蔵野	https://hotel-liber.jp/
+way	784716742	SARASA HOTEL なんば	Sarasa Hotel Namba	34.6624251	135.5056679	hotel				
+way	793802293	イビスバジェット大阪梅田	Ibis Budget Hotel	34.7053601	135.5038208	hotel				
+way	797615973	アパホテル	APA Hotel	34.7335896	135.5042302	hotel		アパホテル	アパホテル	
+way	798843723	からくさホテルグランデ新大阪タワー	karaksa hotel grande Shin-Osaka Tower	34.7330557	135.4950667	hotel				
+way	809967440	名鉄イン		34.7331751	135.5041131	hotel				
+way	955396351	フェアフィールド・バイ・マリオット大阪難波	Fairfield by Marriott Osaka Namba	34.6626363	135.4964466	hotel		Fairfield by Marriott		https://www.marriott.co.jp/hotels/travel/osafn-fairfield-osaka-namba
+way	956369142	東横INN	Toyoko Inn	34.7391183	135.4990384	hotel		東横イン		
+way	958843704	First Cabin		34.6970699	135.4896211	hotel				
+way	960078119	ホテル イビス 大阪 梅田	ibis Osaka Umeda Hotel	34.7022563	135.5010952	hotel	3	Ibis		https://all.accor.com/hotel/A5U8/index.ja.shtml
+way	968643529	アパホテル&リゾート 大阪梅田駅タワー	APA Hotel & Resort Osaka Umeda Eki Tower	34.7000034	135.5014764	hotel	3	APA hotels	APA	https://www.apahotel.com/resort/osaka-umeda-eki-tower/
+way	1024782159	WOsaka	W Osaka	34.6778857	135.4998811	hotel				https://www.marriott.co.jp/hotels/travel/osaow-w-osaka/
+way	1072655563	フォーポイント フレックス by シェラトン 大阪梅田		34.7075972	135.4973714	hotel				
+way	1077002113	The Bridge Hotel		34.6738079	135.4981666	hotel				
+way	1134841091	アパホテル	APA Hotel	34.7304518	135.4978628	hotel		アパホテル		
+way	1134841092	FOUR POINTS FLEX BY SHERATON		34.7318242	135.4979005	hotel		Four Points by Sheraton		
+way	1161243704	Hotel MINT		34.7989206	135.4411376	hotel				
+way	1191542256	APA HOTEL		34.7304431	135.4966804	hotel				
+way	1240372639	SARASA HOTEL SHINOSAKA		34.7301248	135.4972226	hotel				
+way	1245469390	ホテル京阪 なんば グランデ Hotel Keihan Namba Grande		34.6596758	135.5023549	hotel		ホテル京阪		https://namba.hotelkeihan.co.jp/
+way	1355681254	ホテルK6 大阪なんば店	Hotel K6	34.6684204	135.4977993	hotel				https://www.hotel-k6.jp/
+way	1369864013	Nest Hotel		34.7075521	135.5008740	hotel				
+way	1383420643	Welina Hotel Nagomi		34.6698109	135.5073702	hotel				
+way	1383669819	HIYORI HOTEL		34.6627315	135.5006421	hotel				
+way	1383669820	HIYORI HOTEL		34.6624591	135.5004715	hotel				
+way	1388577209	アパホテル	APA Hotel	34.7275972	135.4999995	hotel		アパホテル		
+way	1462759232	&Here OSAKA NAMBA		34.6636134	135.5044030	hotel				https://andherehotels-osakanamba.com/
+way	1512303899	ホテルモントレ ル・フレール大阪		34.6978728	135.4996176	hotel				
+relation	2904758	なんばオリエンタルホテル	Namba Oriental Hotel	34.6657721	135.5036530	hotel				
+relation	14324739	アパホテル〈なんば駅東〉	APA Hotel Namba-Ekihigashi	34.6644277	135.5045276	hotel				https://www.apahotel.com/hotel/kansai/namba_ekihigashi/
+relation	17062956	ホテルヴィスキオ大阪		34.7061954	135.4953531	hotel				

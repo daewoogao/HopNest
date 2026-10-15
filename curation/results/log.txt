@@ -1,0 +1,26 @@
+06:12:43 hongkong-hotels try 0 https://overpass-api.de/api/interpreter -> 406 371 bytes
+06:12:50 hongkong-hotels try 1 https://overpass.private.coffee/api/interpreter -> 500 646 bytes
+06:13:45 hongkong-hotels try 2 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 695 bytes
+06:13:52 hongkong-hotels try 3 https://overpass.kumi.systems/api/interpreter -> 500 646 bytes
+06:13:58 hongkong-hotels try 4 https://overpass-api.de/api/interpreter -> 406 163 bytes
+06:14:03 hongkong-hotels try 5 https://overpass.private.coffee/api/interpreter -> 500 646 bytes
+06:14:26 hongkong-hotels try 6 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 25233 bytes
+06:14:27 hubs try 0 https://overpass-api.de/api/interpreter -> 406 371 bytes
+06:14:32 hubs try 1 https://overpass.private.coffee/api/interpreter -> 500 646 bytes
+06:14:54 hubs try 2 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 2053 bytes
+06:14:55 osaka-hotels try 0 https://overpass-api.de/api/interpreter -> 406 371 bytes
+06:15:00 osaka-hotels try 1 https://overpass.private.coffee/api/interpreter -> 500 646 bytes
+06:15:29 osaka-hotels try 2 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 28103 bytes
+06:15:29 paris-hotels try 0 https://overpass-api.de/api/interpreter -> 406 163 bytes
+06:15:35 paris-hotels try 1 https://overpass.private.coffee/api/interpreter -> 500 646 bytes
+06:15:59 paris-hotels try 2 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 59669 bytes
+06:15:59 seoul-hotels try 0 https://overpass-api.de/api/interpreter -> 406 371 bytes
+06:16:05 seoul-hotels try 1 https://overpass.private.coffee/api/interpreter -> 500 646 bytes
+06:16:11 seoul-hotels try 2 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 160 bytes
+06:16:17 seoul-hotels try 3 https://overpass.kumi.systems/api/interpreter -> 500 646 bytes
+06:16:22 seoul-hotels try 4 https://overpass-api.de/api/interpreter -> 406 371 bytes
+06:16:32 seoul-hotels try 5 https://overpass.private.coffee/api/interpreter -> 200 21156 bytes
+06:16:32 singapore-hotels try 0 https://overpass-api.de/api/interpreter -> 406 163 bytes
+06:16:38 singapore-hotels try 1 https://overpass.private.coffee/api/interpreter -> 500 646 bytes
+06:16:57 singapore-hotels try 2 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 25423 bytes
+06:17:02 hongkong lines exit 0

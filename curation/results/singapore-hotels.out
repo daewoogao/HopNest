@@ -1,0 +1,262 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	3460857129	7 Wonders Hostel @ Boat Quay		1.2869797	103.8481667	hostel			7 Wonders Hostel	http://www.7wondershostel.com/roomsboat-quay/
+node	4302903880	Dorsett Singapore		1.2796267	103.8400076	hotel				https://www.dorsetthotels.com/singapore
+node	4302903882	Fairmont		1.2940043	103.8539661	hotel		Fairmont		https://www.fairmont.com/singapore
+node	4302903884	Checkers Hostel		1.3009356	103.8604278	hostel				www.fivestoneshostel.com
+node	4302903885	Footprints Hostel		1.3055130	103.8541084	hostel				www.footprintshostel.com.sg
+node	4302903888	Four Seasons Hotel		1.3052102	103.8286527	hotel		Four Seasons		https://www.fourseasons.com/singapore
+node	4302905381	Adamson Lodge		1.3045445	103.8529987	hotel				www.adamsonlodge.com
+node	4302905382	Adonis Hotel		1.2965141	103.8553424	hotel				www.hoteladonis.com
+node	4302905386	ST Signature Coliving Hostel		1.2967549	103.8558647	hotel				
+node	4302905812	Hotel Clover (The Arts)		1.2875417	103.8481413	hotel		Hotel Clover		https://www.hotelcloverthearts.com/
+node	4302905814	Hotel Conforto		1.2883473	103.8478558	hotel				
+node	4302905822	Hotel Kai		1.2965218	103.8554053	hotel				https://www.hotelkai.com
+node	4302905825	Hotel Nuve		1.3027514	103.8582753	hotel				https://www.hotelnuve.com/
+node	4302905831	"The Vagabond Club, Singapore, a Tribute Portfolio Hotel"		1.3070191	103.8583028	hotel				https://hotelvagabondsingapore.com/
+node	4302905834	Ibis (Bencoolen)		1.3009632	103.8524227	hotel		Ibis		https://all.accor.com/hotel/6657/index.en.shtml
+node	4302905844	Hotel 1888 Collection		1.2828972	103.8439597	hotel				http://www.hotel1888.com.sg/
+node	4302905848	Kawan Hostel		1.3046502	103.8540884	hostel				
+node	4302905849	Kerbau Hotel		1.3075463	103.8508256	hotel				
+node	4302905862	Naumi Liora		1.2806192	103.8415424	hotel				https://www.naumiliora.com
+node	4302905863	Naumi		1.2958125	103.8551441	hotel				www.naumihotel.com
+node	4302905867	New Majestic Hotel		1.2793051	103.8403624	hotel				https://www.newmajestichotel.com/
+node	4302905876	Orchard Hotel Singapore		1.3076686	103.8281644	hotel				https://www.millenniumhotels.com.sg/
+node	4302905877	Orchard RendezVous Hotel		1.3065524	103.8278105	hotel			Far East Hospitality	https://www.rendezvoushotels.com.sg/en
+node	4302905889	Amoy Hotel		1.2830004	103.8486454	hotel				https://www.stayfareast.com/
+node	4302905897	Arianna Hotel		1.3089820	103.8559161	hotel				www.ariannahotel.com.sg
+node	4302905901	Asia Star Hotel		1.3085031	103.8547255	hotel				www.asiastarhotel.com
+node	4302905903	Backpacker Cozy Corner Guesthouse		1.2984534	103.8557413	hotel				
+node	4302905904	Backpacker's (Inn Chinatown 2)		1.2834869	103.8455614	hotel		Backpacker's		https://richlodging.com/
+node	4302905905	Backpacker's (Inn Chinatown 3)		1.2837921	103.8454769	hotel		Backpacker's		https://richlodging.com/
+node	4302905906	Backpackers Inn Chinatown		1.2835599	103.8454074	hotel				https://richlodging.com/
+node	4302905910	Local		1.2984985	103.8503677	hotel				https://www.30bencoolen.com.sg
+node	4302905913	Beary Best! Hostel		1.2838456	103.8453809	hostel				www.abearygoodhostel.com
+node	4302905914	Beds and Dreams		1.2833091	103.8435952	hotel				www.bedsanddreamshostel.com
+node	4302905916	Hotel Lyf Bugis		1.3009164	103.8515065	hotel				
+node	4302905918	Bliss Hotel		1.2844578	103.8443042	hotel				https://www.blisshotel.com.sg/
+node	4302905919	Blissful Loft	Blissful Loft	1.2874770	103.8471387	hotel				www.blissfulloft.com
+node	4302905921	Broadway Hotel		1.3091791	103.8532245	hotel				https://www.broadwayhotelsingapore.com/
+node	4302905924	Bunc Hostel		1.3053658	103.8548406	hostel				https://www.bunchostel.com/
+node	4302905925	Bunc@Radius Hostel		1.2880824	103.8484991	hostel				https://www.bunchostel.com/
+node	4302905930	Carlton Hotel Singapore		1.2957589	103.8525377	hotel				https://www.carltonhotel.sg/
+node	4302905931	Central 65 Hostel & Cafe		1.3066863	103.8564010	hostel				www.central65hostel.com
+node	4302905935	Checkers Backpackers		1.3050473	103.8525890	hotel				www.checkers-backpackers.com
+node	4302905937	Soloha		1.2803281	103.8419212	hotel	4			https://solohahotels.com/
+node	4302905938	City Backpackers		1.2878203	103.8473063	hostel				www.citybackpackers.com.sg
+node	4302905941	7 Wonders Hostel		1.3063518	103.8523506	hostel				https://www.7wondershostel.com/
+node	4302905947	Crowne Plaza (Changi Airport)		1.3586803	103.9879472	hotel	5	Crowne Plaza		https://www.ihg.com/crowneplaza/hotels/us/en/singapore/sincp/hoteldetail
+node	4302905954	Hawaii Hostel		1.3015691	103.8522441	hostel				
+node	4302905955	Heritage Hostel		1.2813739	103.8449989	hostel				https://www.heritagehostel.net
+node	4302905960	Holiday Inn Express (Orchard Road)		1.3032280	103.8366804	hotel		Holiday Inn Express		
+node	4302905964	hotel 1929		1.2807922	103.8418123	hotel				https://www.hotel1929.com/
+node	4302905972	Hotel 81 (Cosy)		1.2796864	103.8418833	hotel		Hotel 81		https://www.hotel81.com.sg/
+node	4302905973	Hotel 81 (Dickson)		1.3049045	103.8542693	hotel		Hotel 81		https://www.hotel81.com.sg/
+node	4302905980	Lulu Hotel		1.2831615	103.8430060	hotel				www.lulu-hotel.com
+node	4302905983	MKS Backpackers' Hostel		1.3067968	103.8535244	hostel				
+node	4302905985	Hilton Singapore Orchard		1.3019079	103.8359161	hotel		Hilton		https://www.hilton.com/en/hotels/sinorhi-hilton-singapore-orchard/
+node	4302905987	Marina Bay Sands	Marina Bay Sands	1.2836965	103.8607226	hotel	5			https://www.marinabaysands.com/
+node	4302906011	G4 Station Backpackers Hostel		1.3043686	103.8499076	hostel				www.g4station.com
+node	4302906016	Golden Royal Hotel		1.3091421	103.8552509	hotel				www.goldenroyal-hotel.com
+node	4302906018	Goodwood Park Hotel		1.3082222	103.8341091	hotel				https://www.goodwoodparkhotel.com/
+node	4302906020	Grand Hyatt Singapore		1.3063453	103.8332833	hotel		Grand Hyatt		https://www.singapore.grand.hyatt.com/
+node	4302906023	Grand Park City Hall		1.2926289	103.8501239	hotel				https://www.parkhotelgroup.com/
+node	4302906026	Haising Hotel		1.3046208	103.8545807	hotel				www.haising.com.sg
+node	4302906027	Hangout @ Mt. Emily		1.3033663	103.8478466	hotel				https://www.hangouthotels.com/
+node	4302906037	Hotel 81 (Heritage)		1.3027161	103.8612999	hotel		Hotel 81		https://www.hotel81.com.sg/
+node	4302906055	Hotel Bencoolen (Bencoolen Street)		1.2991867	103.8501082	hotel		Hotel Bencoolen		https://www.hotelbencoolen.com/
+node	4302906056	Hotel Bencoolen (Hong Kong Street)		1.2870936	103.8476723	hotel	4	Hotel Bencoolen		https://www.hotelbencoolen.com/hongkongstreet
+node	4302906059	Hotel By Wassies		1.2874477	103.8478653	hotel				
+node	4302906061	Hotel Clover (North Bridge Road)		1.3036565	103.8596598	hotel		Hotel Clover		www.hotelclover.com.sg
+node	4302906064	Rendezvous Hotel Singapore		1.2985830	103.8493161	hotel				https://www.stayfareast.com/
+node	4302906066	River City Inn		1.2874505	103.8471867	hotel				https://www.rivercity.com/
+node	4302906069	Royal India Hotel		1.3092289	103.8556725	hotel				http://www.royalindiahotel.com
+node	4302906070	Royal Plaza		1.3068445	103.8323698	hotel				https://www.royalplaza.com.sg/
+node	4302906071	Bluewaters Pods 38 Hongkong St		1.2873663	103.8473548	hostel		Bluewaters Pods		
+node	4302906073	Rucksack Inn (Mackenzie)		1.3043783	103.8497987	hotel		Rucksack Inn		https://www.rucksackinn.com/
+node	4302906075	Sandpiper Hotel		1.3048093	103.8535958	hotel				https://www.sandpiperhotels.com/
+node	4302906076	Rest Bugis		1.3040528	103.8593488	hotel	3			https://www.rest-collection.com/
+node	4302906078	Santa Grand Hotel (Lai Chun Yuen)		1.2825676	103.8441751	hotel		Santa Grand Hotel		www.santagrandhotels.com
+node	4302906079	Santa Grand Hotel (Little India)		1.3078199	103.8530893	hotel		Santa Grand Hotel		www.santagrandhotels.com
+node	4302906085	Shophouse The Social Hostel		1.3007864	103.8596814	hostel				https://www.shophousehostel.com/
+node	4302906089	Singapore Marriott Tang Plaza Hotel		1.3051090	103.8328767	hotel		Marriott		www.singaporemarriott.com
+node	4302906090	Marrison @ Desker		1.3089965	103.8554997	hotel				www.marrisonhotel.com
+node	4302906091	the snooze hotel		1.2978909	103.8570875	hotel				www.marrisonhotel.com
+node	4302906092	Mayo Inn		1.3039628	103.8541768	hotel				www.mayoinn.com
+node	4302906096	Meriton Hotel		1.3047409	103.8546594	hotel				
+node	4302906101	RedDoorz @Little India		1.3050840	103.8540444	hotel		RedDoorz		https://www.moon.com.sg
+node	4302906103	Park 22 Hotel		1.2806216	103.8418196	hotel				www.park22hotel.com
+node	4302906114	Peninsula Excelsior Hotel		1.2919459	103.8498204	hotel				http://www.ytchotels.com.sg
+node	4302906115	Penta Hotel		1.3111926	103.8535979	hotel				https://www.pentahotel.com.sg/
+node	4302906116	Perak Hotel		1.3048379	103.8532465	hotel				www.peraklodge.net
+node	4302906117	Phil Inn		1.3053682	103.8537236	hotel				
+node	4302906118	Pillows & Toast Heritage		1.2841537	103.8448630	hotel				https://www.pillowsntoast.com/
+node	4302906119	Plush Pods		1.2980018	103.8569348	hotel				https://plush-pods.com/
+node	4302906120	Porcelain Hotel		1.2842398	103.8442855	hotel				www.porcelainhotel.com
+node	4302906123	Quarters		1.2876728	103.8489864	hotel				www.stayquarters.com
+node	4302906132	The Inn		1.2832066	103.8438685	hotel				www.theinn.com.sg
+node	4302906133	KINN Studios		1.2810391	103.8416402	hotel				https://staywithkinn.com/
+node	4302906138	The Pod		1.3010101	103.8605667	hotel				www.thepod.sg
+node	4302906139	The Quincy Hotel		1.3077515	103.8357483	hotel				https://www.quincy.com.sg/
+node	4302906141	"The Ritz-Carlton, Millenia Singapore"		1.2905344	103.8600739	hotel	5	The Ritz-Carlton		www.ritzcarlton.com/en/Properties/Singapore/Default.htm
+node	4302906142	The Scarlet Hotel		1.2807998	103.8453392	hotel				www.thescarlethotels.com
+node	4302906143	The Seacare Hotel		1.2876268	103.8399732	hotel	4			http://www.theseacarehotel.com.sg
+node	4302906339	Strand Hotel		1.2986535	103.8497382	hotel				https://www.strandhotel.com.sg/
+node	4302906349	HI Hotel Bugis		1.3042832	103.8597515	hotel	3			http://xyglobalhotel.com/
+node	4302906351	The Club		1.2807475	103.8457386	hotel				https://www.theclub.com.sg/
+node	4302906352	The Daulat		1.3048116	103.8528885	hotel				https://www.thedaulat.com/
+node	4302906353	The Duxton		1.2788774	103.8431722	hotel				https://garchahotels.com/
+node	4302906354	Vibe Hotel Singapore Orchard		1.3080241	103.8357123	hotel				https://www.stayfareast.com.sg/
+node	4302906605	V Hotel Bencoolen		1.2988846	103.8507128	hotel				https://www.vhotel.sg/
+node	4302906613	Victoria Hotel		1.2970161	103.8524140	hotel				https://nuvegroup.com.sg
+node	4302906619	Wanderlust Hotel		1.3051213	103.8546295	hotel				https://www.wanderlusthotel.com/
+node	4302906621	Wink Hostel		1.2839484	103.8441442	hostel				https://www.winkhostel.com/
+node	4302906622	Yes Chinatown Pt. Hotel		1.2830398	103.8431615	hotel				http://yeschinatownpoint.com
+node	4302906625	iStay.inn		1.2829824	103.8459241	hotel				
+node	4302906626	5footway.inn (Ann Siang)		1.2819252	103.8453233	hotel		5footway.inn		https://www.5footwayinn.com/
+node	4302906627	5footway.inn		1.2882021	103.8491959	hotel		5footway.inn		https://www.5footwayinn.com/
+node	4302906629	5footway.inn (Chinatown 1)		1.2834496	103.8439035	hotel		5footway.inn		https://www.5footwayinn.com/
+node	4302906630	Heritage Collection on Chinatown		1.2827456	103.8456968	hotel		5footway.inn		https://hericoll.com/
+node	4302906631	5footway.inn (Chinatown 3)		1.2836095	103.8442880	hotel		5footway.inn		https://www.5footwayinn.com/
+node	4302906632	5footway.inn (Chinatown 4)		1.2835635	103.8437083	hotel		5footway.inn		https://www.5footwayinn.com/
+node	4617501647	Rucksack Inn McKenzie		1.3043396	103.8497813	hostel				
+node	4724402975	Vanderloft Capsule Hotel		1.2873019	103.8483838	hostel				
+node	4732458836	Hovo		1.3012089	103.8550968	hotel				
+node	4732900336	MET A Space Pod		1.3010581	103.8596021	hostel				https://metaspacepod.com.sg
+node	4738763665	The Platinum		1.2843702	103.8446108	hotel				
+node	4745227721	Indie Hostel		1.3051997	103.8550539	hostel				
+node	5204481621			1.2793919	103.8439423	hotel				
+node	5402838706	ANdAZ Singapore		1.2991547	103.8578314	hotel	5	ANdAZ	Hyatt	https://singapore.andaz.hyatt.com/
+node	5646822821	Tree in Lodge		1.3027082	103.8584342	hostel			Tan	http://www.treeinlodge.com
+node	5682552406	The St. Regis Singapore		1.3057577	103.8260358	hotel	5			http://www.stregissingapore.com/
+node	5838717887			1.2826028	103.8601452	hotel				
+node	6033668367	Orchard Hotel Singapore		1.3079045	103.8282727	hotel				
+node	6081035785	Vintage Inn		1.2874706	103.8472056	hostel				
+node	6211090286	Galaxy Pods Capsule Hotel (Chinatown)		1.2834531	103.8455290	hostel			RICH BNB PTE LTD	https://galaxypods.com.sg/
+node	6323993346	Vintage Inn		1.3085040	103.8511239	hotel	2			
+node	6348180686	six senses duxton		1.2787354	103.8431699	hotel		Six Senses		
+node	6378160629	Hotel Telegraph		1.2800753	103.8498374	hotel				
+node	6565847357	Campbell Inn		1.3049880	103.8526577	hotel				https://www.campbellinn.net/
+node	6573061285	ServiceWorld Hostel		1.2870171	103.8416467	hostel				
+node	6884108670	Royal Lodge		1.2837009	103.8439541	hostel				
+node	7072190339	Park 22		1.3075825	103.8507402	hotel				
+node	8527132444	Hotel NuVe Urbane		1.3072405	103.8588731	hotel				https://www.hotelnuveurbane.com/
+node	9025155167	Mondrian Singapore		1.2785860	103.8421441	hotel				
+node	9404339484	"Hotel NuVe Elements, Clarke Quay"		1.2872132	103.8475514	hotel				
+node	9754627417	Mercure ICON Singapore City Centre		1.2829757	103.8466318	hotel		Mercure		
+node	9801185118	The Bohemian Chic Hostel		1.2838184	103.8449210	hostel				
+node	9858404604	Ibis Budget Bugis		1.2969412	103.8555530	hotel		Ibis Budget		
+node	9858441318	Hotel 81		1.2968416	103.8556963	hotel		Hotel 81		
+node	9885370567	Hotel Boss		1.3057392	103.8603111	hotel				https://www.hotelboss.sg/
+node	9887509282	JW Marriott Hotel Singapore South Beach		1.2942958	103.8560812	hotel		JW Marriott		http://www.jwmarriottsingapore.com/
+node	9893218548	Hotel VR		1.3061749	103.8538675	hotel				
+node	10258936591			1.2997847	103.8603591	hotel				
+node	10292305510			1.2837180	103.8437520	hostel				
+node	10771041152	Arena Esports Hotel		1.3006478	103.8555708	hotel				https://www.arenaesportshotel.com/
+node	11293429391	Cozy Place		1.3014793	103.8523090	hotel				
+node	11517501222	Raffles Hotel	Raffles Hotel	1.2946815	103.8546412	hotel	5	Raffles		https://raffles.com/singapore
+node	11569422069			1.2840624	103.8444658	hotel				
+node	11602274870	St Signature		1.2818499	103.8451906	hotel				
+node	11816822647	Wink Hotel		1.2967846	103.8557912	hotel				
+node	11886834461	Citadines Rochor		1.3051184	103.8514853	hotel			Citadines	
+node	11895352970	Hotel JJH Aliwal		1.3034476	103.8603121	hotel				
+node	11898833305	Hotel Clover 7		1.2875448	103.8477789	hotel				
+node	12244063103	Hotel 81 Chinatown		1.2845631	103.8441024	hotel				
+node	12395681905	Snooze Inn		1.3047302	103.8540017	hostel				
+node	12461578401	Beat Arts Hostel		1.2830713	103.8458801	hostel				https://www.beathostel.co/
+node	12597672401	KINN Capsule		1.2875122	103.8485612	hotel				
+node	12631752801	The Clan Hotel (NOT in the Manulife Tower)		1.2825770	103.8482116	hotel				
+node	12646509532	Jyu Capsule Hotel		1.2827081	103.8436123	hotel				
+node	13300970201	BEAT. Capsule Hostel		1.2869813	103.8493340	hostel				
+node	13386849801	POTATO BOUTIQUE HOSTEL		1.3084995	103.8510612	hostel				
+node	13470148571	BEAT. 1932 Hostel @ Chinatown		1.2826008	103.8456134	hostel				
+node	13470160620	Capsule@Hive Bugis		1.3027517	103.8583960	hostel				
+node	13577247201	CUBE - Social Boutique Capsule Hotel @ Boat Quay		1.2881702	103.8493117	hostel				
+node	13685200901		HipsterCity Hostel	1.2878069	103.8489594	hostel				
+node	13801458322	APT. Stamford Place		1.2942665	103.8501305	hotel		APT.		
+node	13888475301	Oakwood Premier Raffles Place		1.2839719	103.8501891	hotel				https://discoverasr.com
+node	14185396498	Wink @ McCallum Street		1.2797031	103.8474890	hostel				https://www.winkhostel.com/home/
+node	14221535501	Hotel Waterloo Singapore - Handwritten Collection		1.2993060	103.8515779	hotel				https://www.hotelwaterloo-singapore.com
+way	46595395	The Fullerton Hotel	The Fullerton Hotel	1.2862115	103.8530677	hotel	5			https://www.fullertonhotels.com/en/singapore/the-fullerton-hotel
+way	47134224	PARKROYAL on Beach Road		1.3002164	103.8605985	hotel		PARKROYAL		https://www.panpacific.com/en/hotels-and-resorts/pr-beach-road.html
+way	48045895	South East Asia Hotel	South East Asia Hotel	1.3011181	103.8531189	hotel				http://www.seahotel.com.sg/
+way	54139142	Travelodge Harbourfront Singapore		1.2663127	103.8238039	hotel		Travelodge		https://www.travelodgeharbourfront.com
+way	103110145	The Capitol Kempinski Hotel		1.2940466	103.8508595	hotel				
+way	103110146	Pullman Singapore HIll Street		1.2936813	103.8506128	hotel		Pullman		
+way	121874707	Hotel Mi Rochor		1.3039790	103.8514916	hotel				https://www.wwhotels.com/hotel-mi/hotel-mi-rochor/
+way	154096086	Yotel Singapore Orchard Road		1.3063178	103.8313774	hotel		YOTEL		
+way	154099754	Pan Pacific Orchard		1.3074059	103.8298908	hotel		Pan Pacific		https://www.panpacific.com/orchard.html
+way	164182081	Oxford Hotel		1.2980123	103.8518193	hotel				https://www.oxfordhotel.com.sg/
+way	172271707	"PARKROYAL COLLECTION Pickering, Singapore"		1.2856545	103.8462642	hotel	5	PARKROYAL		https://www.parkroyalhotels.com/
+way	172518490	voco Orchard Singapore		1.3058383	103.8292929	hotel	5	voco	IHG Hotels & Resorts	https://www.ihg.com/voco/hotels/us/en/singapore/sinor/hoteldetail
+way	172596704	Hotel Grand Pacific		1.2973971	103.8526305	hotel				https://www.hotelgrandpacific.com.sg/
+way	172596705	Summer View Hotel	Summer View Hotel	1.3016339	103.8523213	hotel				https://www.summerviewhotel.com.sg/
+way	172596721	Hotel Bencoolen		1.2991150	103.8501487	hotel				
+way	172596734	Hotel Mi		1.2989569	103.8500142	hotel				
+way	172775170	Galaxy Pods Capsule Hotel (Boat Quay)		1.2876884	103.8490145	hostel			RICH BNB PTE LTD	https://www.galaxypods.com.sg
+way	172775211	Jayleen Clarke Quay Hotel		1.2886897	103.8475481	hotel				https://jcqhotel.com/
+way	172775217	21 Carpenter		1.2885801	103.8474691	hotel		Design Hotels		https://www.21carpenter.com.sg/
+way	172781429	The Novelty House		1.2877577	103.8474460	hotel				
+way	172781435	ibis Budget Hotel Clarke Quay		1.2879190	103.8471830	hotel		Ibis Budget		https://all.accor.com/hotel/B6J9/index.en.shtml
+way	172781477	Habyt Clarke Quay		1.2871282	103.8470249	hotel				
+way	172781482	Jayleen 1918 Hotel		1.2878279	103.8479674	hotel				https://www.jayleen1918.com.sg/
+way	172815257	ST Signature Tanjong Pagar		1.2786730	103.8442868	hotel				https://stsignature.com/locations/tanjong-pagar/
+way	172892207	Maxwell Reserve		1.2792440	103.8444042	hotel		Autograph Collection		https://maxwellreserve.com/
+way	176326905	Hotel 81 (Rochor)		1.3037595	103.8540201	hotel		Hotel 81		https://www.hotel81.com.sg/
+way	178436699	Bunc@Radius Little India Hostel		1.3054026	103.8548823	hostel				
+way	184914358	Hilton Garden Inn Singapore Serangoon		1.3084361	103.8519840	hotel	4	Hilton Garden Inn	Hilton	https://www.hilton.com/en/hotels/singigi-hilton-garden-inn-singapore-serangoon/?WT.mc_id=zDA0SG1GI2DMH3LocalSearch4DGGeneric_Apr56SINGIGI7EN8i1
+way	190944908	ABC Hostel		1.3037122	103.8592721	hostel				http://www.abchostel.com.sg
+way	190944909	Aliwal Park Hotel		1.3033622	103.8602838	hotel				
+way	190944936	5footway.inn (Bugis)		1.3020724	103.8613986	hotel		5footway.inn		https://www.5footwayinn.com/
+way	190944984	5footway.inn (Bugis)		1.3021113	103.8613741	hotel		5footway.inn		https://www.5footwayinn.com/
+way	190945044	Weave Suites Midtown		1.3018573	103.8618705	hotel		Weave Suites Midtown		https://www.weave-living.com/en/sg
+way	190945054	Weave Suites Midtown		1.3018871	103.8618542	hotel		Weave Suites Midtown		https://www.weave-living.com/en/sg/contact
+way	190945069	Hotel Clover (Jalan Sultan)		1.3019166	103.8618378	hotel		Hotel Clover		https://www.hotelclover.com/
+way	190945078	Weave Suites Midtown		1.3019424	103.8618237	hotel		Weave Suites Midtown		https://www.weave-living.com/en/sg
+way	190945093	Hotel Clover (Jalan Sultan)		1.3019594	103.8617811	hotel		Hotel Clover		https://www.hotelclover.com/
+way	190945109	Weave Suites Midtown		1.3019946	103.8617613	hotel		Weave Suites Midtown		https://www.weave-living.com/en/sg
+way	190945125	Weave Suites Midtown		1.3020242	103.8617443	hotel		Weave Suites Midtown		https://www.weave-living.com/en/sg
+way	190945142	Weave Suites Midtown		1.3020530	103.8617278	hotel		Weave Suites Midtown		https://www.weave-living.com/en/sg
+way	190945175	Hotel Clover (Jalan Sultan)		1.3020827	103.8617104	hotel		Hotel Clover		https://www.hotelclover.com/
+way	190945206	Dream Chaser		1.3016337	103.8609097	hostel				
+way	190945224	Weave Suites Midtown		1.3021120	103.8616947	hotel		Weave Suites Midtown		https://www.weave-living.com/en/sg/contact
+way	190945279	Weave Suites Midtown		1.3021403	103.8616779	hotel		Weave Suites Midtown		https://www.weave-living.com/en/sg
+way	190945336	Hotel Clover (Jalan Sultan)		1.3021691	103.8616607	hotel		Hotel Clover		https://www.hotelclover.com/
+way	190945368	Weave Suites Midtown		1.3021924	103.8616459	hotel		Weave Suites Midtown		https://www.weave-living.com/en/sg
+way	190945390	Hotel Clover (Jalan Sultan)		1.3022163	103.8616315	hotel		Hotel Clover		https://www.hotelclover.com/
+way	190945409	Hotel Clover (Jalan Sultan)		1.3022486	103.8616126	hotel		Hotel Clover		https://www.hotelclover.com/
+way	190945418	Weave Suites Midtown		1.3022810	103.8615937	hotel		Weave Suites Midtown		https://www.weave-living.com/en/sg
+way	190945427	Hotel Clover (Jalan Sultan)		1.3023125	103.8615749	hotel		Hotel Clover		https://www.hotelclover.com/
+way	190945460	Cube Hotel		1.3016835	103.8593870	hotel				https://cubehotels.com.sg/
+way	190945670	5footway.inn (Bugis)		1.3020322	103.8614215	hotel		5footway.inn		https://www.5footwayinn.com/
+way	190945731	Village Hotel (Bugis)		1.3022290	103.8578421	hotel		Village Hotel		https://www.stayfareast.com/en/hotels/village-hotel-bugis.aspx
+way	190945745	The Sultan		1.3032634	103.8609774	hotel				https://thesultan.com.sg/
+way	191010250	Royal India Hotel		1.3092639	103.8556580	hotel				
+way	231927793	"Varel Singapore, a Tribute Portfolio Hotel"		1.3040943	103.8500456	hotel		Marriott		https://www.marriott.com/en-us/hotels/sintx-varel-singapore-a-tribute-portfolio-hotel
+way	231927856	Ibis Budget Selegie		1.3037815	103.8499901	hotel		Ibis Budget		
+way	231927862	Hotel 81 (Selegie)		1.3033165	103.8498872	hotel		Hotel 81	Worldwide Hotels	https://www.hotel81.com.sg/
+way	252077340	Holiday Inn Express		1.3032238	103.8366842	hotel		Holiday Inn Express		
+way	254815925	Park View Hotel		1.2972167	103.8564923	hotel				www.parkview.com.sg
+way	254815926	ST Signature		1.2973157	103.8565698	hotel				www.85bghotel.com
+way	256974240	COMO Metropolitan Singapore		1.3042381	103.8368061	hotel		COMO		
+way	320467194	Conrad Singapore Orchard		1.3046210	103.8248461	hotel		Conrad	Hilton Worldwide	https://www.hilton.com/en/hotels/sinodci-conrad-singapore-orchard/
+way	351305505	Mercure		1.2996229	103.8531142	hotel	4	Mercure	Mercure	http://www.mercure.com/gb/hotel-A0D7-mercure-singapore-bugis/index.shtml
+way	351537922	Ibis Styles	Ibis Styles	1.3035881	103.8511704	hotel		Ibis Styles		https://www.parcsovereign.com/
+way	372165962	Holiday Inn Express Singapore Clarke Quay		1.2890728	103.8420080	hotel		Holiday Inn Express		https://www.holidayinnexpress.com/
+way	396336438	The Serangoon House		1.3113518	103.8547526	hotel	4			https://serangoonhouse.com/
+way	459176084	Paradox Singapore Merchant Court at Clarke Quay		1.2884382	103.8456785	hotel		Paradox		https://www.paradoxhotels.com/singapore
+way	462560355	yo:HA Hostel @ Pearl's Hill		1.2848598	103.8410473	hostel				http://yoha.com.sg/hostel-detail.aspx?hid=7
+way	525062340	Ascott Orchard Singapore		1.3039554	103.8371661	hotel				
+way	576343591	Novotel Living Singapore Orchard		1.3076427	103.8319082	hotel	4	Novotel		https://all.accor.com/hotel/B9G6/index.en.shtml
+way	699163968	Park Regis		1.2880810	103.8445457	hotel				https://www.parkregissingapore.com/
+way	728027960	Pullman Singapore Orchard		1.3031632	103.8363537	hotel		Pullman		https://www.pullmansingaporeorchard.com/
+way	744513549	YotelAir Changi		1.3598679	103.9901708	hotel				https://www.yotel.com/en/hotels/yotelair-singapore-changi-airport
+way	938314559	The Robertson House by The Crest Collection		1.2913983	103.8423351	hotel		Ascott		https://www.discoverasr.com/en/the-crest-collection/singapore/the-robertson-house-by-the-crest-collection
+way	975274150	Mondrian Singapore Duxton		1.2785709	103.8421552	hotel				
+way	1101905279	Garden Pod		1.2782811	103.8617637	hotel		shippingcontainerhotel		https://shippingcontainerhotel.com/garden-pod
+way	1180351274	York Hotel		1.3072502	103.8352208	hotel				https://www.yorkhotel.com.sg/
+way	1220412314	Village Hotel Albert Court		1.3040881	103.8508604	hotel		Village Hotel		https://www.stayfareast.com/en/hotels/village-hotel-albert-court.aspx
+way	1294918000			1.2922239	103.8404140	hotel				
+way	1547718964	lyf Chinatown Singapore		1.2835270	103.8449323	hotel		lyf		
+relation	3447411	Robertson Quay Hotel		1.2911625	103.8420015	hotel				https://robertsonquayhotel.com.sg/
+relation	10293296	Areotel		1.3613836	103.9920738	hotel				
+relation	21057404	InterContinental Singapore		1.2983598	103.8549037	hotel		InterContinental		https://www.ihg.com/intercontinental/hotels/gb/en/singapore/sinhb/hoteldetail

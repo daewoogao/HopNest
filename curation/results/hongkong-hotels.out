@@ -1,0 +1,232 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	731978530	逸泰居 The Headland	The Headland	22.2972056	113.9338322	hotel			太古地産酒店管理有限公司 Swire Properties Hotel Management Limited	
+node	1336183853	Largos Hotel Hong Kong		22.3060236	114.1723148	hotel				
+node	1336183855	國恩賓館 Kwok Yan Hotel	Kwok Yan Hotel	22.3179910	114.1718510	hotel				
+node	1387112132	"香港尖沙咀凱悅酒店 Hyatt Regency Hong Kong, Tsim Sha Tsui"	"Hyatt Regency Hong Kong, Tsim Sha Tsui"	22.2975168	114.1738437	hotel		Hyatt Regency	凱悅酒店集團 Hyatt Hotels Corporation	https://hongkong.tsimshatsui.hyatt.com/hyatt/
+node	1571062082	"香港麗思卡爾頓酒店 The Ritz-Carlton, Hong Kong"	"The Ritz-Carlton, Hong Kong"	22.3033024	114.1601775	hotel		The Ritz-Carlton		
+node	1619220065	六國酒店 Luk Kwok Hotel	Luk Kwok Hotel	22.2789029	114.1722694	hotel				
+node	1986786259	Golden Crown Guesthouse		22.2979214	114.1724331	hostel				
+node	2106910287	W Hong Kong	W Hong Kong	22.3046362	114.1605933	hotel		W Hotels		
+node	2131731060	香港置地文華東方酒店 The Landmark Mandarin Oriental Hong Kong	The Landmark Mandarin Oriental Hong Kong	22.2808167	114.1577220	hotel		文華東方 Mandarin Oriental		https://www.mandarinoriental.com/en/hong-kong/the-landmark
+node	2203144731	The Bauhinia Hotel	The Bauhinia Hotel	22.2867800	114.1525000	hotel				https://www.thebauhinia.com.hk/eng/our-hotels/central/
+node	2560848705	9 Boutique Hotel		22.2782377	114.1840209	hostel				http://www.9boutiquehotel.com
+node	2935557572	Canadian Hostel		22.2962811	114.1730525	hostel				
+node	2935557576	Crystal Hostel		22.2962077	114.1730585	hotel				
+node	2935557580	Everest Hostel		22.2962460	114.1732501	hotel				
+node	2935557583	Hostel HK Group		22.2962187	114.1730572	hotel				
+node	2935557584	Hotel Skylark		22.2962116	114.1732532	hotel				
+node	2935557588	New Hoover Hostel		22.2963198	114.1730496	hostel				
+node	2935557592	Unique Hotel		22.2962624	114.1730539	hotel				
+node	2936536758	蘋果賓館 Apple Hostel	Apple hostel	22.2965533	114.1728816	hostel				
+node	2936536767	Dragon Inn Hotel		22.2965870	114.1728001	hotel				
+node	2936536791	United Co-operate Hotel (10/F)		22.2965649	114.1728819	hotel				
+node	2936536792	United Co-operate Hotel (5/F)		22.2965259	114.1728048	hotel				
+node	2937037467	Budget Hostel		22.2963113	114.1728546	hostel				
+node	2937037470	Days Hostel		22.2963026	114.1728552	hostel				
+node	2937037473	Euro Hostel		22.2961531	114.1728652	hostel				
+node	2937037474	European Hostel		22.2962315	114.1728600	hostel				
+node	2937037475	Everest Base Camp Hostel		22.2961706	114.1728641	hostel				
+node	2937037477	Everest Hostel		22.2962397	114.1728594	hostel				
+node	2937037487	Manila Hostel		22.2962940	114.1728558	hostel				
+node	2937037488	Marrigold Hostel		22.2962752	114.1728570	hostel				
+node	2937037494	New Tokyo Hostel		22.2961784	114.1728635	hostel				
+node	2937037499	Russian Hostel		22.2962138	114.1728612	hostel				
+node	2937171016	Apple Hostel		22.2965844	114.1732125	hostel				
+node	2937171022	Golden Ocean Hotel		22.2964649	114.1730993	hotel				
+node	2937171042	Safari Hotel (5/F)		22.2965566	114.1730961	hotel				
+node	2937171043	Safari Hotel (7/F)		22.2964849	114.1730986	hotel				
+node	2938367945	Delta HK Hotel		22.2965537	114.1725950	hostel			Ashoka Hotels	http://www.deltahotelhongkong.com/
+node	2938367965	Sandhu New UK Hostel		22.2963939	114.1726027	hostel				
+node	2938367972	Travellers Hostel		22.2965687	114.1725950	hostel				
+node	3293681361	奕居 The Upper House	The Upper House	22.2774946	114.1663908	hotel		The House Collective	Swire Hotels	
+node	3668151077	君俊商務酒店	JJ Hotel	22.2769861	114.1770789	hotel				
+node	3771430938	Lee Garden Guesthouse		22.2990853	114.1745423	hostel				http://www.starguesthouse.com.hk/
+node	4049311890	Pandora After 80s		22.2816825	114.1834359	hostel				
+node	4066472130	Pearl Harbour Guesthouse		22.2978884	114.1724386	hostel				
+node	4066472131	香港彩虹旅館 Rainbow Lodge Hong Kong	Rainbow Lodge Hong Kong	22.2979853	114.1719064	hostel				
+node	4082865125	蘋果旅館旺角店 Apple Inn Mong Kok	Apple Inn Mong Kok	22.3166514	114.1696047	hostel				http://appleinn.com.hk/
+node	4150762689	Dragon Hostel		22.3197224	114.1705993	hostel				
+node	4204295389	Apple Hotel		22.2781807	114.1841210	hotel				
+node	4221323099	蘋果旅館 Apple Inn Hostel	Apple Inn Hostel	22.2979419	114.1719093	hostel				
+node	4349096790	Heaven Inn GH		22.3061586	114.1703169	hotel				
+node	4375047986	休閑小窩 Urban Pack Hostel	Urban Pack Hostel	22.2980286	114.1719034	hostel				http://urban-pack.com/
+node	4382005293	卓軒旅舍 Check Inn HK	Check Inn HK	22.2781795	114.1769840	hostel				https://www.checkinnhk.com/
+node	4511514496	龍堡國際賓館 B.P. International House	B.P. International House	22.3028381	114.1694806	hotel				
+node	4709935864	柏寧酒店 The Park Lane Hotel	The Park Lane Hotel	22.2812255	114.1863914	hotel			Pullman Hotels	https://www.parklane.com.hk
+node	4727886174	漢口酒店 Hankow Hotel	Hankow Hotel	22.3192800	114.1725100	hotel				
+node	4758170322		Cameron Roa 19-21	22.2991336	114.1740697	hotel				
+node	4860247415	Black Swan Hotel		22.3198678	114.1712314	hotel				
+node	4862720949	Armenia Hotel		22.3179316	114.1713292	hotel				
+node	4969719821	加拿大酒店 Canada Hotel	Canada Hotel	22.2965189	114.1725965	hostel				
+node	5301835321		8 Days Boutiques Hotel	22.3219064	114.1686652	hotel				
+node	5306678521	Spanish Hotel	City Plus Hostel	22.3198822	114.1706491	hostel				
+node	5370133814			22.3082003	114.1710559	hotel				
+node	6176025485	New Euro Asia Guest House		22.2962811	114.1730658	hostel				
+node	6257572900	香港瑰麗酒店 Rosewood Hong Kong	Rosewood Hong Kong	22.2947013	114.1758053	hotel	5	Rosewood	Rosewood Hotels & Resorts	https://www.rosewoodhotels.com/en/hong-kong
+node	6401595986		Dragon Hostel	22.3197563	114.1706707	hostel				
+node	7972838688	海灣軒海景酒店 Harbourfront Horizon All-Suite	Harbourfront Horizon All-Suite	22.3002646	114.1849665	hotel				
+node	11372724169		Asia Travel House	22.3086620	114.1710202	hotel				
+node	11819629487	瑞生嘉威酒店 Soravit on Granville	Soravit on Granville	22.3001361	114.1740905	hotel				https://www.soravitgranville.com/
+node	11819629488	瑞生尖沙咀酒店 attitude on granville	attitude on granville	22.2997660	114.1737180	hotel				https://www.attitudegranville.com/
+node	11819629489	客舍 Hotel Hart	Hotel Hart	22.2979582	114.1746854	hotel				https://hotelhart.com/
+node	12082870574	Kew Green Hotel Wanchai		22.2778189	114.1705733	hotel	4			http://www.kewgreenwanchai.com/
+node	12719026403	Sleep HKG		22.2845403	114.1515048	hostel				https://sleeep.io/experience/hkg/gough
+node	13138066901	BnB Mongkok		22.3219326	114.1685164	hotel				
+node	13188860693	Hi Backpackers		22.2801154	114.1855112	hostel			Hong Kong Hostel Group	
+node	13620378401	木居酒店	Woody House	22.2736201	114.1744397	hotel				http://woodyhouse.hk
+node	13673603002	樂棧	Tempo Inn	22.3060980	114.1702526	hotel				https://tempoinn.com/
+node	13724513126	麗晶賓館		22.3176062	114.1707531	hotel				
+node	13895375001	Tung Nam Lou Art Hotel		22.3137524	114.1700055	hotel				
+node	14144884705			22.3199427	114.1707038	hotel				
+way	30658239	旺角維景酒店 Metropark Hotel Mongkok	Metropark Hotel Mongkok	22.3233792	114.1674900	hotel				
+way	41498759	香港港麗酒店 Conrad Hong Kong	Conrad Hong Kong	22.2768126	114.1652673	hotel	5	Hilton	Hilton	https://www.hilton.com/en/hotels/hkghcci-conrad-hong-kong/
+way	41499014	香港JW萬豪酒店 JW Marriott Hotel Hong Kong	JW Marriott Hotel Hong Kong	22.2775030	114.1663319	hotel	5			
+way	42293822	"香港文華東方酒店 Mandarin Oriental, Hong Kong"	"Mandarin Oriental, Hong Kong"	22.2819401	114.1594133	hotel				
+way	56754241	千禧新世界香港酒店 New World Millennium Hong Kong Hotel	New World Millennium Hong Kong Hotel	22.2994628	114.1796851	hotel				https://www.newworldmillenniumhotel.com/
+way	56754242	海景嘉福洲際酒店 InterContinental Grand Stanford Hong Kong	InterContinental Grand Stanford Hong Kong	22.2990576	114.1793485	hotel				https://www.hongkong.intercontinental.com/
+way	56754251	富豪九龍酒店 Regal Kowloon Hotel	Regal Kowloon Hotel	22.2989293	114.1779371	hotel	4		富豪酒店國際 Regal Hotels International	
+way	85320844	"美利尼依格羅酒店 The Murray, Hong Kong, A Niccolo Hotel"	"The Murray, Hong Kong, A Niccolo Hotel"	22.2780680	114.1601218	hotel	5		Marco Polo Hotels	https://www.marcopolohotels.com/ch/niccolo/hotels/hongkong/central/the_murray/index.html
+way	107497685	香港瑞吉酒店 The St. Regis Hong Kong	The St. Regis Hong Kong	22.2801606	114.1748750	hotel	5	St. Regis Hotel & Resort		https://www.marriott.com/en-us/hotels/hkgxr-the-st-regis-hong-kong/overview/
+way	107497699	香港君悅酒店 Grand Hyatt Hong Kong	Grand Hyatt Hong Kong	22.2812775	114.1722008	hotel	5			
+way	107497707	萬麗海景酒店 Renaissance Hong Kong Harbour View Hotel	Renaissance Hong Kong Harbour View Hotel	22.2813933	114.1736146	hotel	5			
+way	121554924	唯港薈 Hotel ICON	Hotel ICON	22.3008021	114.1796384	hotel				https://www.hotel-icon.com/
+way	124697425	香港喜來登酒店 Sheraton Hong Kong Hotel & Towers	Sheraton Hong Kong Hotel & Towers	22.2952374	114.1729701	hotel		Sheraton	Sheraton	
+way	148554935	四季酒店 Four Seasons Hotel	Four Seasons Hotel	22.2866239	114.1566313	hotel				
+way	151396679	紅磡維景酒店 Metropark Hotel Hung Hom	Metropark Hotel Hung Hom	22.3047694	114.1830259	hotel				
+way	152073859	"香港港威酒店 Gateway, Hong Kong"	"Gateway, Hong Kong"	22.2977570	114.1685222	hotel		馬哥孛羅酒店 Marco Polo Hotels		
+way	152073861	"香港太子酒店 Prince Hotel, Hong Kong"	"Prince Hotel, Hong Kong"	22.2990923	114.1682268	hotel		馬哥孛羅酒店 Marco Polo Hotels		
+way	152073872	港青酒店 The Salisbury	The Salisbury	22.2951102	114.1710068	hotel				
+way	159324344	香港朗廷酒店 The Langham Hong Kong	The Langham Hong Kong	22.2964968	114.1697855	hotel	5			
+way	184430871	香港嘉里酒店 Kerry Hotel Hong Kong	Kerry Hotel Hong Kong	22.3014283	114.1889025	hotel	5		Shangri-La Hotels and Resorts	
+way	184694956	香港麗晶酒店 Regent Hong Kong	Regent Hong Kong	22.2939043	114.1740264	hotel		麗晶 Regent	麗晶酒店及度假村 Regent Hotels & Resorts	
+way	184765714	都會海逸酒店 Harbour Plaza Metropolis	Harbour Plaza Metropolis	22.3014728	114.1834832	hotel				
+way	185564131	香港康得思酒店 Cordis Hong Kong	Cordis Hong Kong	22.3181223	114.1681175	hotel				
+way	198589969	富豪香港酒店 Regal Hong Kong Hotel	Regal Hong Kong Hotel	22.2791504	114.1868457	hotel				
+way	198589978	V Causeway Bay	V Causeway Bay	22.2798933	114.1860976	hostel				
+way	199802667	香港銅鑼灣皇冠假日酒店 Crowne Plaza Hong Kong Causeway Bay	Crowne Plaza Hong Kong Causeway Bay	22.2769348	114.1826603	hotel				https://www.cphongkong.com/
+way	201413475	港島英迪格酒店 Hotel Indigo Hong Kong Island	Hotel Indigo Hong Kong Island	22.2748341	114.1732576	hotel				
+way	217522633	宏基國際賓館 Bishop Lei International House	Bishop Lei International House	22.2786355	114.1533913	hotel				https://www.bishopleihtl.com.hk/
+way	223022896	銅鑼閣 Causeway Corner	Causeway Corner	22.2808386	114.1824801	hotel				
+way	232889711	皇家太平洋酒店 The Royal Pacific Hotel & Towers	The Royal Pacific Hotel & Towers	22.2998962	114.1676470	hotel				
+way	236051916	帝苑酒店 The Royal Garden Hotel	The Royal Garden	22.2984915	114.1776150	hotel				
+way	236062121	九龍香格里拉大酒店 Kowloon Shangri-La Hotel	Kowloon Shangri-La Hotel	22.2970294	114.1770233	hotel				
+way	239949424	香港金域假日酒店 Holiday Inn Golden Mile Hong Kong	Holiday Inn Golden Mile Hong Kong	22.2968170	114.1728089	hotel		Holiday Inn	洲際酒店集團公眾有限公司 InterContinental Hotels Group plc	https://www.ihg.com/holidayinn/hotels/us/en/hong-kong/hkgkl/hoteldetail
+way	241998996	灣仔皇悅酒店 Empire Hotel Hong Kong	Empire Hotel Wanchai	22.2779742	114.1700924	hotel				https://www.empirehotel.com.hk/en/hotel/empire-hotel-hong-kong-wan-chai/about
+way	242923951	Kew Green Hotel		22.2778378	114.1705530	hotel				
+way	243014043	Burlington Hotel		22.2778083	114.1707272	hotel				https://burlington-hk.com/
+way	243014045			22.2769103	114.1713776	hotel				
+way	250886403	香港諾富特世紀酒店 Novotel Century Hong Kong	Novotel Century Hong Kong	22.2788065	114.1763159	hotel	4			https://www.novotelhongkongcentury.com/
+way	250886405	芬名酒店 The Fleming	The Fleming	22.2789740	114.1748142	hotel	4			https://thefleming.com/
+way	251814881	麗駿酒店 Brighton Hotel	Brighton Hotel	22.2779680	114.1726139	hotel				
+way	252500151	香港明怡美憬閣精選酒店 AKI Hong Kong - MGallery	AKI Hong Kong - MGallery	22.2792389	114.1769448	hotel	5			https://www.aki-hongkong-mgallery.com/
+way	252500240	富豪薈酒店 Regal iClub Hotel	Regal iClub Hotel	22.2774904	114.1758687	hotel				
+way	252500259	V Wanchai	V Wanchai	22.2787516	114.1750038	hotel				
+way	252500260	V Wanchai2	V Wanchai2	22.2773999	114.1750342	hotel				
+way	252500444	218 Apartment	218 Apartment	22.2775881	114.1751005	hotel				
+way	254652547	尖沙咀一尚酒店 Dash Living on Prat	Dash Living on Prat	22.2985004	114.1749909	hotel				https://www.dash.co/zh-tw/hong-kong/dash-living-on-prat
+way	254652554	怡景酒店 Chelsea Hotel	Chelsea Hotel	22.2974884	114.1744781	hotel				
+way	254652573	粵海酒店 Guangdong Hotel	Guangdong Hotel	22.2987722	114.1746763	hotel				
+way	254652582	香港夢卓恩酒店 Mondrian Hong Kong	Mondrian Hong Kong	22.2976780	114.1748814	hotel				
+way	254652604	康境酒店 The OTTO Hotel	The OTTO Hotel	22.2986369	114.1729875	hotel				https://theotto.hk/
+way	254652609	帝國酒店 Imperial Hotel	Imperial Hotel	22.2961731	114.1725125	hotel				
+way	254652610	丹木町酒店 Tankityou Hotel	Tankityou Hotel	22.2969243	114.1739994	hotel				
+way	254652628	香港尖沙咀金普頓酒店 Kimpton Tsim Sha Tsui Hong Kong	Kimpton Tsim Sha Tsui Hong Kong	22.2959612	114.1739075	hotel		Kimpton		https://www.kimptonhongkong.com/
+way	254652639	維港灣酒店 Habour Bay Hotel	Habour Bay Hotel	22.2969077	114.1738352	hotel				
+way	254652667	憙酒店 Xi Hotel	Xi Hotel	22.2969420	114.1741675	hotel				https://www.xihotel.com.hk/
+way	261186029	紅茶館酒店 Bridal Tea House Hotel	Bridal Tea House Hotel	22.3201645	114.1644448	hotel				
+way	292229762	Hotel Pennington	Hotel Pennington	22.2786755	114.1859370	hotel				
+way	292331575	逸蘭精品酒店 Lanson Place Hotel	Lanson Place Hotel	22.2786867	114.1867767	hotel				https://www.hongkong.lansonplace.com/
+way	295102583	香港銅鑼灣智選假日酒店 Holiday Inn Express Causeway Bay Hong Kong	Holiday Inn Express Causeway Bay Hong Kong	22.2777373	114.1818895	hotel				
+way	295102607	問月酒店 Mira Moon	Mira Moon	22.2797685	114.1796032	hotel				https://www.miramoonhotel.com/
+way	295779322	華登酒店 Walden Hotel	Walden Hotel	22.2788540	114.1791659	hotel				
+way	295779324	星網酒店 Wifi Hotel	Wifi Hotel	22.2790940	114.1792776	hotel				www.wifihotel.com.hk
+way	312025142	珀麗酒店 Rosedale on the Park	Rosedale on the Park	22.2791931	114.1883258	hotel				
+way	312025186	銅鑼灣愛麗舍酒店 Elysion Place Hotel Causeway Bay	Elysion Place Hotel Causeway Bay	22.2790712	114.1891457	hotel				
+way	316843190	逸豪洒店 H1 Hotel	H1 Hotel	22.3185891	114.1676047	hotel				
+way	316843193	豪畔酒店 Harbour Hotel	Harbour Hotel	22.3166846	114.1677993	hotel				
+way	316843198	香港旺角智選假日酒店 Holiday Inn Express Hong Kong Mongkok	Holiday Inn Express Hong Kong Mongkok	22.3149694	114.1672380	hotel				
+way	316843202	MK酒店 Hotel MK	Hotel MK	22.3157963	114.1696634	hotel				
+way	316843349	新天地酒店 Sunny Day Hotel	Sunny Day Hotel	22.3184077	114.1676413	hotel				http://www.sunnydayhotel.cn
+way	316844291	香港旺角希爾頓花園酒店 Hilton Garden Inn Hong Kong Mongkok	Hilton Garden Inn Hong Kong Mongkok	22.3156899	114.1670295	hotel	4	Hilton Garden Inn	希爾頓全球控股有限公司 Hilton Worldwide Holdings Incorporated	https://www.hilton.com/en/hotels/hkgmsgi-hilton-garden-inn-hong-kong-mongkok/?SEO_id=OTHR-APAC-GI-HKGMSGI
+way	316844450	盛世酒店 Epoch Hotel	Epoch Hotel	22.3205529	114.1701329	hotel				
+way	325909428	南洋酒店 South Pacific	South Pacific	22.2774212	114.1803866	hotel				https://www.southpacifichotel.com.hk/
+way	407728660	迷你酒店 Mini Hotel	Mini Hotel	22.2804700	114.1563258	hotel				
+way	451699548	"香港旺角帝盛酒店 Dorsett Mongkok, Hong Kong"	"Dorsett Mongkok, Hong Kong"	22.3212544	114.1622225	hotel				
+way	493717640	簡悅酒店･銅鑼灣 Minimal Hotel･Urban	Minimal Hotel･Urban	22.2777729	114.1800949	hotel				
+way	494287194	東方泛達酒店 Oriental Lander Hotel	Oriental Lander Hotel	22.3242364	114.1652954	hotel				
+way	494290436	Hotel 36		22.3262713	114.1671238	hotel				
+way	509015533	峰景軒 Summit View Kowloon	Summit View Kowloon	22.3190633	114.1764060	hotel	4			
+way	510829923	奕凨 Ying'nFlo	Ying'nFlo	22.2774571	114.1688937	hotel				https://www.yingnflo.com/
+way	538131513	蘭桂坊酒店 Lan Kwai Fong Hotel @ Kau U Fong	Lan Kwai Fong Hotel @ Kau U Fong	22.2843198	114.1531058	hotel	4			https://www.dcollection.com
+way	538138408	Pottinger Hong Kong		22.2827562	114.1553822	hotel	5		sino	https://www.sino-hotels.com/en/hk/the-pottinger-hong-kong/
+way	539988495	晉逸精品酒店中環 Butterfly on Wellington	Butterfly on Wellington	22.2835618	114.1539524	hotel				https://www.butterflyhk.com/en/butterfly-on-wellington
+way	551032178	灣景國際 The Harbourview	The Harbourview	22.2801707	114.1711057	hotel				https://www.theharbourview.com.hk/
+way	628713115	富薈旺角酒店 iclub Mong Kok Hotel	iclub Mong Kok Hotel	22.3203044	114.1652550	hotel				
+way	684919403	碧薈 The Beacon	The Beacon	22.3193148	114.1719499	hotel				https://www.thebeaconhotel.com.hk/
+way	692603096	新樂酒店 Shamrock Hotel	Shamrock Hotel	22.3041420	114.1714719	hotel				
+way	692719666	聖地牙哥酒店 San Diego Hotel	San Diego Hotel	22.3038640	114.1700744	hotel				
+way	692796073	新天地酒店 Sunnyday Hotel	Sunnyday Hotel	22.3028964	114.1720543	hotel				
+way	692796083	山林舍 Hillwood House Hotel	Hillwood House Hotel	22.3028699	114.1730285	hotel				https://hwh.com.hk/
+way	692798456	華美達華麗酒店 Ramada Hong Kong Grand	Ramada Hong Kong Grand	22.3029658	114.1746756	hotel				
+way	692798461	樂仕酒店 Knutsford Hotel	Knutsford Hotel	22.3017002	114.1748510	hotel				
+way	692798465	寶軒酒店 Bauhinia Hotel	Bauhinia Hotel	22.3019007	114.1746983	hotel				
+way	692937804	晉緻酒店 Page148 Hotel	Page148 Hotel	22.3032449	114.1748328	hotel		晉逸酒店管理集團 Butterfly Hospitality Group		https://pagehotels.com
+way	692937823	Habyt Austin Avenue	Habyt Austin Avenue	22.3021855	114.1763338	hotel				
+way	692964646	紫珀酒店 The Perkin Hotel	The Perkin Hotel	22.3012851	114.1735835	hotel				
+way	692964652	仕德福山景酒店 Stanford Hillview Hotel	Stanford Hillview Hotel	22.3014456	114.1744661	hotel				
+way	692964659	帝樂文娜公館 The Luxe Manor	The Luxe Manor	22.3009848	114.1739558	hotel				
+way	692966582	君怡酒店 The Kimberley Hotel	The Kimberley Hotel	22.3005061	114.1738284	hotel				
+way	693050555	百樂酒店 Park Hotel	Park Hotel	22.2996755	114.1755336	hotel				
+way	693050572	最佳盛品酒店 Best Western Plus	Best Western Plus	22.3003071	114.1758830	hotel		Best Western Plus		
+way	693077264	The Mira Hong Kong		22.3001182	114.1724252	hotel				
+way	693480888	香港寶御酒店 Hotel Pravo	Hotel Pravo	22.2965416	114.1707330	hotel	4			
+way	693487441	Modena by Fraser Hong Kong	Modena by Fraser Hong Kong	22.2971562	114.1706751	hotel				
+way	693489169	K11 ARTUS 寓館 K11 ARTUS	K11 ARTUS	22.2941855	114.1748234	hotel				
+way	693926011	豪境酒店 Goodrich Hotel	Goodrich Hotel	22.3061448	114.1704985	hotel				https://goodrichhotel.com.hk/
+way	694292310	木的地酒店 Hotel Madera Hong Kong	Hotel Madera Hong Kong	22.3064448	114.1719855	hotel				
+way	694292316	朗逸酒店 Largos Hotel	Largos Hotel	22.3063145	114.1724653	hotel				
+way	694337074	彩鴻酒店 Travelodge	Travelodge	22.3069356	114.1723610	hotel		Travelodge		
+way	694337089	彌敦酒店 Nathan Hotel	Nathan Hotel	22.3076257	114.1716900	hotel				https://nathanhotel.com/
+way	694337095	逸林酒店 Noble Park Hotel	Noble Park Hotel	22.3075744	114.1719380	hotel				
+way	694337099	登臺 Hotel Stage	Hotel Stage	22.3076897	114.1723363	hotel				
+way	694337101	"香港逸東酒店 Eaton, Hong Kong"	"Eaton, Hong Kong"	22.3080454	114.1718702	hotel				
+way	694520716	Homy Residence		22.3105189	114.1697092	hotel	4			
+way	694530892	海景絲麗酒店 Silka Seaview Hotel	Silka Seaview Hotel	22.3103453	114.1700448	hotel				
+way	694534407	王子酒店 Kings Hotel	Kings Hotel	22.3104391	114.1705154	hotel				
+way	694539977	M1酒店 M1 Hotel	M1 Hotel	22.3124768	114.1703128	hotel				
+way	694722900	盛世酒店 Inn Hotel．Hong Kong	Inn Hotel．Hong Kong	22.3134580	114.1700796	hotel				
+way	695841961	城景國際 The Cityview	The Cityview	22.3138144	114.1717318	hotel			香港中華基督教青年會 Chinese YMCA of Hong Kong	https://thecityview.com.hk
+way	695849366	香港壹零捌館 Hotel 108	Hotel 108	22.3169301	114.1728014	hotel				
+way	704111810	Shama Midlevels Hong Kong		22.2755421	114.1675477	hotel				https://www.shama.com/midlevels-kennedy
+way	709674355	香港半島酒店 The Peninsula Hong Kong	The Peninsula Hong Kong	22.2951704	114.1717798	hotel				
+way	714715875	盛庭Living Shing Ting Living	Shing Ting Living	22.3083839	114.1835358	hotel	3			
+way	728815242	麗豪航天城酒店 Regala Skycity Hotel	Regala Skycity Hotel	22.3190935	113.9420653	hotel		麗豪 Regala		
+way	742070243	香港華麗銅鑼灣酒店 Best Western Hotel Causeway Bay	Best Western Hotel	22.2771797	114.1807113	hotel	3	Best Western	Best Western	
+way	742073267	英皇駿景酒店 The Emperor Hotel	The Emperor Hotel	22.2746507	114.1782178	hotel	4			
+way	742073268	麗悅酒店 Cosmo Hotel	Cosmo Hotel	22.2746819	114.1783954	hotel	4			
+way	742073269	香港灣仔帝盛酒店 Dorsett Wanchai Hong Kong Hotel	Dorsett Wanchai Hong Kong Hotel	22.2745511	114.1789575	hotel	4.5			
+way	742102525	創富酒店 China Rich Hotel	China Rich Hotel	22.2735636	114.1744286	hotel				
+way	742104716			22.2742676	114.1737801	hotel				
+way	746293631	旺角睿景酒店 Kew Green Mongkok	Kew Green Mongkok	22.3241647	114.1669109	hotel				
+way	746293667	立方國際青年公寓 M3 International Youth Apartment	M3 International Youth Apartment	22.3248217	114.1661108	hostel				
+way	746310426	儷凱酒店 Le Prabelle Hotel	Le Prabelle Hotel	22.3234720	114.1680300	hotel	4			
+way	746395122	旺角薈賢居 Lodgewood By L’hotel Mongkok	Lodgewood By L’hotel Mongkok	22.3212442	114.1665212	hotel	4		L’hotel	
+way	746880823	城木酒店 Urbanwood	Urbanwood	22.3081923	114.1851000	hotel				
+way	748936211	銅鑼灣利景酒店 The Charterhouse Causeway Bay	The Charterhouse Causeway Bay	22.2776887	114.1790991	hotel				http://hongkonghotel.charterhouse.com/sch/
+way	754248425	The Hari Hong Kong	The Hari Hong Kong	22.2788126	114.1783402	hotel	5	The Hari Hotels		https://www.thehari.com/hong-kong/
+way	863537430	帝京酒店 Royal Plaza Hotel	Royal Plaza Hotel	22.3240474	114.1731191	hotel				http://www.royalplaza.com.hk/
+way	888280089	九龍維景酒店 Metropark Hotel Kowloon	Metropark Hotel Kowloon	22.3195060	114.1757805	hotel				
+way	1019400958	AKVO Hotel	AKVO Hotel	22.2850388	114.1514093	hotel				https://www.akvo.com.hk/
+way	1167356285	香港銀樾美憬閣精選酒店 The Silveri Hong Kong-MGallery	The Silveri Hong Kong-MGallery	22.2902428	113.9400098	hotel		MGallery		https://thesilveri-hongkong.com
+way	1170462813	九龍酒店 The Kowloon Hotel	The Kowloon Hotel	22.2957851	114.1717271	hotel	4			
+way	1214217580	九龍皇悅酒店 The Empire Hotel Kowloon	The Empire Hotel Kowloon	22.3008709	114.1750780	hotel				
+way	1215615615	晉逸蘭桂坊精品酒店中環 Butterfly on LKF Central	Butterfly on LKF Central	22.2811240	114.1553387	hotel				www.butterflyhk.com/en/butterfly-on-lkf
+way	1215623408	Ovolo Central	Ovolo Central	22.2802814	114.1546117	hotel				https://ovolohotels.com/ovolo/central/location/
+way	1273577855	恆豐酒店 Prudential Hotel	Prudential Hotel	22.3043363	114.1719819	hotel				
+way	1278390490	仕德福酒店 Stanford Hotel	Stanford Hotel	22.3169956	114.1731780	hotel				
+way	1298802802	Hotel 1936		22.3240736	114.1703630	hotel				https://www.hotel1936.com/
+way	1323151628	富豪機場酒店 Regal Airport Hotel	Regal Airport Hotel	22.3188257	113.9342608	hotel	5			https://www.regalhotel.com/regal-airport-hotel
+way	1527214579	香港天際萬豪酒店 Hong Kong SkyCity Marriott Hotel	Hong Kong SkyCity Marriott Hotel	22.3191178	113.9435983	hotel		Marriott		https://www.myclubmarriott.com/hotel/hoteldetail/co/hong-kong-skycity-marriott-hotel_2
+relation	2460795	富衛1881公館 FWD House 1881	FWD House 1881	22.2955965	114.1699720	hotel				
+relation	12951526	華美粵海酒店 Wharney Guang Dong Hotel	Wharney Guang Dong Hotel	22.2784229	114.1710770	hotel				
+relation	19022419	合和酒店 Hopewell Hotel	Hopewell Hotel	22.2749803	114.1707057	hotel	5			https://www.hopewellhotel.com/

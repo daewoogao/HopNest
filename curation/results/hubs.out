@@ -1,0 +1,30 @@
+@type	@id	name	name:en	iata	@lat	@lon	railway	aeroway
+node	26824135	Gare de Lyon			48.8446832	2.3737743	station	
+node	65331500	Gare Montparnasse			48.8400624	2.3191085	station	
+node	264508548	Gare de l'Est			48.8762027	2.3579127	station	
+node	280487841	難波	Namba		34.6636625	135.5017751	station	
+node	346685291	大阪	Osaka		34.7022133	135.4955732	station	
+node	534123201	新大阪	Shin-Osaka		34.7328955	135.4985436	station	
+node	1308998006	Gare de Lyon			48.8435522	2.3743151	station	
+node	2014918590	Woodlands Train Checkpoint	Woodlands Train Checkpoint		1.4450308	103.7699930	station	
+node	2346858840	수서	Suseo		37.4874159	127.1018399	station	
+node	3626952971	新大阪	Shin-Ōsaka		34.7335385	135.5001888	station	
+node	3632179681	天王寺	Tennoji		34.6473432	135.5152413	station	
+node	5228032209	Gare de Lyon			48.8451709	2.3725553	station	
+node	5411372543	天王寺	Tennoji		34.6494303	135.5135372	station	
+node	5840686671	용산	Yongsan		37.5299526	126.9648271	station	
+node	6036160343	서울역	Seoul Station		37.5528527	126.9725721	station	
+node	6489055167	なんば	Namba		34.6663318	135.4975972	station	
+node	6641323161	新大阪	Shin-Ōsaka		34.7340782	135.5018726	station	
+node	7368810705	서울역	Seoul Station		37.5534363	126.9697994	station	
+node	7637880030	수서	Suseo		37.4850990	127.1046888	station	
+node	7811929024	なんば	Namba		34.6661565	135.5002710	station	
+node	7811945114	天王寺	Tennoji		34.6460778	135.5152685	station	
+node	7900305742	紅磡 Hung Hom	Hung Hom		22.3029008	114.1822480	station	
+node	7908597454	수서	Suseo		37.4876577	127.1011515	station	
+node	7919700008	香港西九龍 Hong Kong West Kowloon	Hong Kong West Kowloon		22.3036814	114.1649267	station	
+node	8574527311	서울역	Seoul Station		37.5554175	126.9725862	station	
+node	11697304775	수서	Suseo		37.4860164	127.1022789	station	
+node	12731312920	なんば	Namba		34.6672490	135.4997208	station	
+way	298087607	Woodlands	Woodlands		1.4359096	103.7874624	station	
+relation	16793911	香港 Hong Kong	Hong Kong		22.2847168	114.1580724	station	

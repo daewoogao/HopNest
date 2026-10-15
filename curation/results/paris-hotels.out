@@ -1,0 +1,658 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	224711659	Ibis		48.8403064	2.3155776	hotel		Ibis		
+node	247435275	Hôtel Montpensier		48.8643588	2.3362645	hotel	2			https://www.hotelmontpensierparis.com/
+node	247437972	Hôtel Costes		48.8662827	2.3280089	hotel				https://hotelcostes.com
+node	251127867	Hôtel du Loiret		48.8569202	2.3552931	hotel	3			https://www.hotelduloiret.fr
+node	251127869	Charles V		48.8534874	2.3618354	hotel				
+node	251130907	Hôtel de la Place des Vosges		48.8544261	2.3652418	hotel				
+node	251733871	L'Hôtel		48.8563424	2.3352399	hotel	5			https://www.l-hotel.com/
+node	251733872	Victoria Palace Hôtel		48.8457742	2.3243407	hotel	4			
+node	251758241	Le Petit Chomel		48.8519344	2.3253667	hotel	3			
+node	251758242	Signature		48.8521505	2.3260910	hotel	4			https://www.signature-saintgermain.com
+node	251851365	Matissia		48.8767170	2.3485948	hotel	4			
+node	251851395	Hôtel du Terrage		48.8774454	2.3624214	hotel				
+node	251851402	Hôtel Brady		48.8711954	2.3550205	hotel				
+node	252788280	Hôtel Parisianer		48.8456578	2.3753746	hotel				
+node	252793231	9 Hôtel Bastille-Lyon		48.8473827	2.3714639	hotel		9 HOTEL COLLECTION		
+node	252806985	Hôtel Palym		48.8462381	2.3733925	hotel				https://www.paris-hotel-palym.com/
+node	252809356	Novotel		48.8452783	2.3754729	hotel		Novotel		https://all.accor.com/hotel/1735/index.fr.shtml
+node	253987375	Hôtel Paris Opéra		48.8713219	2.3426051	hotel	3			http://www.solmelia.com
+node	259477205	Novotel Paris Gare Montparnasse		48.8384924	2.3151043	hotel		Novotel		https://all.accor.com/hotel/5060/index.fr.shtml
+node	268057549	Hôtel Le Littré		48.8454273	2.3241304	hotel				
+node	274261929	InterContinental Paris le Grand		48.8707271	2.3303365	hotel		InterContinental		https://parislegrand.intercontinental.com/fr/
+node	306024613	Hôtel États-Unis Opéra		48.8690342	2.3336525	hotel				
+node	306025542	Hôtel L'Horset Opéra		48.8690718	2.3338065	hotel				
+node	308530497	Hôtel Scribe		48.8706574	2.3296691	hotel	5			
+node	324191957	Mademoiselle		48.8772727	2.3543165	hotel	4			
+node	361128665	District République		48.8707814	2.3598503	hotel	2			https://www.hoteldistrictrepublique.com
+node	368330079	Relais du Pré		48.8780025	2.3475708	hotel	3			https://www.leshotelsdupre.com/fr/nos-hotels/relais-du-pre/hotel-et-services
+node	368330088	Hôtel du Pré		48.8775316	2.3471837	hotel	3			https://www.leshotelsdupre.com/fr/nos-hotels/hotel-du-pre/hotel-et-services
+node	368330093	Résidence du Pré		48.8784021	2.3475786	hotel	3			https://www.leshotelsdupre.com/fr/nos-hotels/residence-du-pre/hotel-et-services
+node	394566883	Au Manoir Saint-Germain des Prés		48.8537719	2.3323137	hotel	4			https://www.hotelaumanoir.com
+node	408961558	Kube Hotel		48.8866042	2.3588436	hotel	4			https://www.kubehotel-paris.com
+node	473827217	Novotel Paris Bercy		48.8388012	2.3804572	hotel		Novotel		https://all.accor.com/hotel/0935/index.fr.shtml
+node	492871739	Hôtel Altona		48.8824615	2.3498469	hotel	2			
+node	530272873	Terminus - Lyon		48.8458297	2.3717725	hotel	3			
+node	530272916	Viator		48.8468441	2.3725504	hotel	3			https://hotelviator.com
+node	530272917	Maison Traversière		48.8472258	2.3726440	hotel				
+node	530272919	Holiday Inn Paris - Gare de Lyon Bastille		48.8467471	2.3717077	hotel	4	Holiday Inn		https://www.ihg.com/holidayinn/hotels/fr/fr/paris/parba/hoteldetail
+node	530751113	Hôtel Le Saint-Hubert		48.8470278	2.3723255	hotel				
+node	530751143	Hôtel Camille		48.8462447	2.3719493	hotel		Tapestry Collection by Hilton	Hilton	https://www.hilton.com/fr/hotels/parhcup-hotel-camille-paris-gare-de-lyon/
+node	530751145	Mercure Paris Gare de Lyon Opéra		48.8468976	2.3728340	hotel	4	Mercure		https://all.accor.com/hotel/B6F9/index.fr.shtml
+node	530876703	Hôtel Mercure Paris Gare de Lyon TGV		48.8444405	2.3728366	hotel		Mercure		https://all.accor.com/hotel/2217/index.fr.shtml
+node	534906172	Prince Albert		48.8460864	2.3771827	hotel	3			https://www.hotelprincealbert.com/hotel-prince-albert-gare-de-lyon
+node	534908405	ibis Styles Paris Gare de Lyon TGV		48.8458926	2.3755308	hotel		Ibis Styles		https://all.accor.com/hotel/B6W6/index.fr.shtml
+node	535858170	Hôtel de Marseille		48.8474633	2.3712106	hotel				
+node	535860983	Riesner		48.8473704	2.3710629	hotel	4			
+node	535861513	Nièvre Hôtel		48.8472924	2.3712576	hotel				
+node	535864949	Modern’s		48.8470930	2.3706217	hotel				
+node	535866251	Bel Oranger		48.8470340	2.3705351	hotel				https://www.hotelbelorangerparis.com/
+node	535867137	Hôtel de l'Aveyron		48.8468671	2.3702623	hotel				
+node	535869178	TimHotel Gare de Lyon		48.8468041	2.3701620	hotel				https://www.timhotel.com/fr/timhotel-paris-gare-de-lyon-3_29
+node	563298391	Alcyon		48.8499435	2.3756832	hotel				
+node	591672596	Hôtel Pont Royal		48.8565619	2.3273421	hotel	5			https://www.hotel-pont-royal.com
+node	679398752	Hôtel Regina		48.8637204	2.3325149	hotel				https://www.leshotelsbaverez.com/en/home/regina
+node	681818221	Hôtel Louvre Piémont		48.8648474	2.3365286	hotel	4			https://hotel-louvre-piemont.com
+node	682215491	Hôtel Normandy		48.8640595	2.3341241	hotel				https://www.hotel-normandy.com
+node	682302357	Louvre Saint-Anne		48.8664704	2.3357313	hotel	3			https://paris-hotel-louvre.com
+node	682302360	Opéra Maintenon		48.8667958	2.3359208	hotel	2			https://hotel-opera-maintenon.com
+node	683094871	Londres Saint-Honoré		48.8650960	2.3319535	hotel	3			https://www.hotellondressthonore-paris.com/
+node	683260017	Hôtel Brighton		48.8648710	2.3290782	hotel				
+node	683328366	Meliã Vendôme		48.8667891	2.3258372	hotel	4	Meliá		
+node	683398601	Hôtel Opera Richepanse		48.8686996	2.3252245	hotel				
+node	686159843	Hôtel d'Aubusson		48.8547614	2.3395044	hotel	5			https://www.hoteldaubusson.com
+node	689142924	Hôtel France d'Antin		48.8692604	2.3339332	hotel	3			
+node	689178439	Hôtel France d'Antin		48.8692690	2.3340349	hotel				
+node	698985599	Folkestone Opéra		48.8722043	2.3250526	hotel	3	Best Western	Best Western	https://folkestone-paris-hotel.com/
+node	698985600	Sydney Opéra		48.8734124	2.3240936	hotel	3	Best Western	Best Western	http://www.hotelsydneyopera.com/
+node	703460922	Hôtel Jeanne d'Arc		48.8555439	2.3632131	hotel	3			https://www.hoteljeannedarc.com
+node	703461067	Hôtel Turenne		48.8550844	2.3634743	hotel	3			https://www.turennemarais.com
+node	705211298	Hôtel Saint-Louis Marais		48.8523982	2.3636825	hotel				https://www.saintlouismarais.com/
+node	727734322	Miramar		48.8422964	2.3202462	hotel	3			https://hotelmiramar75.com
+node	727779854	Timhotel Montparnasse		48.8430653	2.3214055	hotel				
+node	729868303	Printania		48.8644007	2.3662811	hotel				
+node	780319544	Hôtel Saint-Paul Rive Gauche		48.8496648	2.3402192	hotel	4			https://www.hotelsaintpaulparis.com/
+node	797978414	Holiday Inn : Gare de L'est		48.8758629	2.3589980	hotel	4	Holiday Inn	IHG	https://www.hotel-paris-gare-de-lest.com/
+node	806100029	Artus Hotel		48.8534652	2.3360798	hotel	4			https://www.artushotel.com
+node	815777441	Royal Madeleine		48.8729256	2.3237568	hotel			Mercure	
+node	815831251	Hôtel Opal		48.8722936	2.3258193	hotel				
+node	819175912	Grand Hôtel du Havre		48.8765921	2.3270551	hotel	3			
+node	819175919	Hôtel Phileas		48.8768790	2.3270689	hotel	4			
+node	819176251	Hôtel de Dieppe		48.8767937	2.3270652	hotel	2			
+node	879496873	Hôtel de l'Aqueduc		48.8813609	2.3620199	hotel				
+node	880598163	Hôtel Mercure Paris Gare du Nord La Fayette		48.8801030	2.3594914	hotel	3	Mercure	Accor Hotels	https://all.accor.com/hotel/8575/index.fr.shtml
+node	883277910	Hôtel Pierre Dupont		48.8788369	2.3643037	hotel				
+node	891069113	Hôtel Habituel		48.8797564	2.3574795	hotel	4			
+node	894150034	Excelsior Hôtel Varlin		48.8789631	2.3632414	hotel				
+node	918358637	Hôtel des Trois Gares		48.8489133	2.3684099	hotel	3			
+node	940712742	Color Design Hôtel		48.8494118	2.3809774	hotel				https://www.colordesign-hotel-paris.com
+node	946495328	Voco hôtel		48.8383119	2.3229285	hotel		voco		https://www.ihg.com/voco/hotels/us/en/paris/pargm/hoteldetail
+node	968924209	Hôtel Korner		48.8412408	2.3134332	hotel	3			https://montparnasse.hotelkorner.com
+node	990384066	Hôtel La Fayette		48.8810462	2.3642045	hotel	1			
+node	1044947691	Hôtel Merryl		48.8853780	2.3605121	hotel	2			
+node	1045045763	Hôtel de Bellevue Paris		48.8866633	2.3608930	hotel	2			
+node	1067589714	Hôtel Le Régent		48.8538117	2.3386948	hotel				
+node	1113454786	Hôtel E.S.T.É		48.8757470	2.3583351	hotel	4			
+node	1170488911	Orly Surperior		48.7157178	2.3691145	hotel				
+node	1242504249	Hôtel Ronceray		48.8720574	2.3420399	hotel	3	Best Western	Best Western	http://www.hotelroncerayopera.fr
+node	1273681829	Hôtel de Maubeuge		48.8803393	2.3513838	hotel	2			
+node	1296703177	Le Meurice		48.8652754	2.3282212	hotel				
+node	1298907948	Hôtel Saint-James & Albany		48.8642866	2.3308345	hotel				
+node	1305569699	l’Apostrophe		48.8417997	2.3317623	hotel	3			https://www.apostrophe-hotel.com
+node	1348554962	Ibis Paris Gare de l'Est TGV		48.8755387	2.3585201	hotel	3	Ibis	Accor	
+node	1350641894	Sleeping Belle		48.8466561	2.3698592	hotel	4			
+node	1430559114	Hôtel Montalembert		48.8566846	2.3278974	hotel	5			https://www.hotel-montalembert.fr
+node	1461394098	Hôtel Avalon Paris		48.8811174	2.3514426	hotel	3			
+node	1477656331	La Croix de Malte		48.8636313	2.3690033	hotel				
+node	1481765835	Hôtel London		48.8713271	2.3351551	hotel				
+node	1481765836	Hôtel 10 Opéra		48.8718954	2.3350541	hotel	3	HappyCulture		https://hotel-10-opera.com
+node	1483017718	Hôtel Langlois		48.8768039	2.3336297	hotel	2			
+node	1486314003	Le Milie Rose		48.8736786	2.3520572	hotel	4		Megdoud Ali	
+node	1490922327	Baudelaire		48.8679824	2.3362288	hotel	3			https://www.hotel-baudelaire.com
+node	1504098196	La Sanguine		48.8706452	2.3219942	hotel				
+node	1504098324	Hôtel de Sèze		48.8705622	2.3263811	hotel				
+node	1668603098	Luxor Bastille Hôtel		48.8502622	2.3730838	hotel	2			https://www.luxorbastillehotel.fr/
+node	1670300893	Hôtel Le 17		48.8704572	2.3610027	hotel				https://le-17-hotel.parishotelsfr.com/
+node	1679237543	Hôtel Westminster		48.8693831	2.3310566	hotel				
+node	1682768696	Mandarin Oriental		48.8670213	2.3272218	hotel	5	Mandarin Oriental		
+node	1686633920	Hôtel Banke		48.8736554	2.3360245	hotel				
+node	1821733156	Hôtel Mogador		48.8751482	2.3354544	hotel	2			
+node	1824509123	Hôtel Antin Trinité		48.8743615	2.3321163	hotel	2			https://paris-hotel-antin.com/
+node	1824509162	Opéra d'Antin		48.8742273	2.3320136	hotel	3	Best Western	Best Western	
+node	1827699346	Hôtel Impérial		48.8751153	2.3361132	hotel	3			
+node	1905543809	Le Rocroy		48.8797188	2.3507524	hotel	3		HipHop Hostels	
+node	1930891488	Renaissance Paris Vendôme Hotel		48.8654715	2.3296865	hotel		Renaissance		https://www.marriott.com/PARVD
+node	1982085164	Hôtel Le Magnifique		48.8397318	2.3233917	hotel	4			
+node	2043937418	Hôtel Terminus Montparnasse		48.8443530	2.3233390	hotel	3			
+node	2043993181	Mercure Gare Montparnasse		48.8400229	2.3235906	hotel		Mercure		https://all.accor.com/hotel/0905/index.fr.shtml
+node	2086399161	Hôtel Berkeley		48.8429410	2.3242099	hotel	3			https://hotelberkeleyparis.com/
+node	2153240035	Hôtel Londres & New-york		48.8753163	2.3262880	hotel				
+node	2179797347	Le Pavillon Bastille		48.8508057	2.3698822	hotel	3			
+node	2364082235	Lennon Hotel		48.8808975	2.3516143	hotel				
+node	2368786103	Le Petit Belloy		48.8502129	2.3421749	hotel	2			https://www.hotel-petit-belloy-saint-germain.com/
+node	2368786106	Hôtel Belloy Saint-Germain		48.8503717	2.3422419	hotel	4			https://www.hotel-paris-belloy.com/
+node	2390940168	Hôtel Pavillon de la reine		48.8564346	2.3661288	hotel	4			https://www.pavillon-de-la-reine.com
+node	2437040281	Grand hôtel amelot		48.8592591	2.3683806	hotel				
+node	2440497286	Louis II		48.8516052	2.3382057	hotel	4			https://www.hotel-louis2.com
+node	2459809107	Cordelia		48.8731572	2.3252446	hotel	3			https://www.cordelia-paris-hotel.com/
+node	2477689984	Hôtel marais bastille		48.8573297	2.3715214	hotel				https://www.maraisbastille.com/
+node	2608252619	Hôtel Chopin		48.8726389	2.3422288	hotel	2			http://www.hotelchopin.fr/
+node	2630383299	Hôtel Perreyve		48.8471320	2.3316957	hotel	3			https://saintlouisluxembourg.com
+node	2630385284	Bonsoir Madame		48.8469682	2.3316832	hotel	4			https://www.bonsoirmadame.paris/
+node	2634120983	Hôtel de France		48.8475670	2.3718879	hotel	3			https://www.hoteldefrance-paris.fr/
+node	2655943001	Hôtel Madeleine Plaza		48.8710803	2.3248004	hotel	4			https://hotel-madeleine-paris.fr/fr/
+node	2688693378	26 Faubourg		48.8471284	2.3776102	hotel	3			https://www.26faubourg.com/
+node	2700774174	Hôtel Royal Saint-Honoré		48.8656979	2.3299557	hotel				
+node	2826099801	Hôtel du Calvados		48.8767160	2.3270270	hotel	3			
+node	2826103301	Austin's Saint-Lazare		48.8769450	2.3270030	hotel	3			
+node	2847425096	Hôtel Kyriad		48.8766674	2.3587492	hotel		Kyriad		
+node	2852721503	Hôtel Michelet Odéon		48.8497393	2.3381789	hotel	3			https://www.hotelmicheletodeon.com
+node	2855034345	Trianon Rive gauche		48.8487972	2.3410105	hotel	4	Best Western	Best Western	
+node	2881072731	Résidence Orfea Paris Magenta		48.8804209	2.3574353	hotel		Orfea		
+node	2925750676	Hôtel Académie		48.8552220	2.3306960	hotel	4			https://www.academiehotel.com/
+node	2927980903	Hôtel du Triangle d'Or		48.8704582	2.3268384	hotel	3			https://www.hoteldutriangledor.com/
+node	2952176504	Hôtel Bel Ami		48.8548818	2.3332071	hotel	5			https://www.hotelbelami-paris.com/
+node	2952203555	Hôtel Edouard 7		48.8683547	2.3330189	hotel	4			
+node	3073090387	La Finca		48.8582177	2.3718944	hotel	3			
+node	3201567867	Saint-Sébastien		48.8615198	2.3709980	hotel				
+node	3213979161	Hôtel Marais de Launay		48.8585931	2.3685540	hotel	3			https://www.hotelmaraisdelaunayparis.com/
+node	3218265069	Hôtel de Venise		48.8453126	2.3836601	hotel				https://www.hoteldevenise.fr/
+node	3308069734	Hôtel Madrigal		48.8421286	2.3127395	hotel	3			https://www.hotel-madrigal.com
+node	3316967645	Howard		48.7133958	2.3707674	hotel				
+node	3352567807	Ibis Paris Tour Montparnasse		48.8434570	2.3202557	hotel	3	Ibis		
+node	3364141495	Villa Beaumarchais		48.8590485	2.3668105	hotel				https://www.villa-beaumarchais.com/en/
+node	3366657786	Hôtel Richmond		48.8795188	2.3562771	hotel				
+node	3366657789	Picardy Hotel		48.8794595	2.3567982	hotel				
+node	3366657790	Hôtel Flanelles		48.8794947	2.3565291	hotel				
+node	3391154019	Moxy Paris Bastille		48.8575819	2.3698609	hotel		Moxy		https://moxy-hotels.marriott.com/our-locations/
+node	3392185653	Mary's		48.8640800	2.3686697	hotel	2			
+node	3392187406	Alhambra		48.8639711	2.3687304	hotel	3			https://www.hotelalhambra.fr/
+node	3396587250	Hôtel de la Place du Louvre		48.8592411	2.3408997	hotel	4		Esprit de France	https://www.paris-hotel-place-du-louvre.com/
+node	3472995842	Hôtel Caron		48.8550826	2.3625198	hotel	3			https://www.hotelcaron.com
+node	3501719698	Art Hotel		48.8774454	2.3516293	hotel			Amar Albert	
+node	3523880930	Les Tournelles		48.8569801	2.3645643	hotel	3			
+node	3614120606	Masséna		48.8719098	2.3260854	hotel	3			
+node	3668101887	Hôtel Fougère		48.8550758	2.3337093	hotel				https://www.hotel-fougere.com
+node	3689296465	Le Méditerranéen		48.8480115	2.3767847	hotel				
+node	3770664767	Saint-Pétersbourg		48.8721186	2.3280405	hotel	3			
+node	3791145768	Marriott Opera Ambassador		48.8727104	2.3366864	hotel		Marriott		https://www.marriott.com/PAROA
+node	3823569677	Hôtel 1er Etage		48.8587181	2.3549404	hotel				https://1eretage.com/
+node	3974816593	Les Jardins du Marais		48.8605485	2.3680184	hotel	4			
+node	3980826544	Le Relais Saint-Honoré		48.8651985	2.3316002	hotel	4			https://www.hotel-relais-saint-honore.com
+node	3980828272	1 Place Vendôme		48.8668320	2.3285416	hotel				
+node	4006941007	Prince Albert Opéra		48.8741949	2.3310874	hotel				https://www.hotelprincealbert.com/
+node	4016900394	Hôtel Lorraine		48.8766211	2.3574597	hotel	1			
+node	4019279815	Hôtel Saint-André des Arts		48.8536284	2.3390015	hotel	4			https://www.saintandredesarts.com/
+node	4070085115	Hôtel du Dragon		48.8527990	2.3303323	hotel	2			https://www.hoteldudragon.com
+node	4110680890	Hôtel Suites Unic Renoir Saint-Germain		48.8420516	2.3254084	hotel	3			https://www.hotel-unic.com/
+node	4119084200	Aparthotel Adagio Paris Opera		48.8728329	2.3281715	hotel		Adagio		
+node	4126040796	La belle Juliette		48.8475455	2.3225306	hotel	4			https://www.labellejuliette.com
+node	4147009990	Hôtel Bedford		48.8721430	2.3236860	hotel				
+node	4157000491	Lenox Montparnasse		48.8415655	2.3278484	hotel	3			https://www.paris-hotel-lenox.com
+node	4180885042	Zazie Hôtel		48.8453571	2.3832807	hotel	2			https://www.zaziehotel.paris
+node	4180888294	Hôtel Chaligny		48.8454571	2.3833065	hotel				
+node	4194066289	Hôtel de Nesle		48.8551761	2.3389821	hotel				https://www.hoteldenesleparis.com
+node	4198872508	New Hotel Roblin		48.8713585	2.3239438	hotel	4			https://www.new-hotel.com/en/hotels-in-paris/roblin/
+node	4203604790	Liberty		48.8725734	2.3581305	hotel	1			
+node	4206112089	Hôtel Émile		48.8553688	2.3612718	hotel				https://hotelemile.com
+node	4225805790	Villa des Princes		48.8511641	2.3394821	hotel	2			https://www.villa-des-princes.com/
+node	4252364889	Odéon Hotel		48.8514477	2.3388098	hotel	3			https://odeonhotel.fr/
+node	4257560397	Soft		48.8733059	2.3599503	hotel	3			
+node	4261983789			48.8866143	2.3613321	hostel				
+node	4280390397	Atelier Vavin		48.8425947	2.3287639	hotel	3			https://www.hotel-atelier-vavin.com
+node	4349419679	Le Relais Médicis		48.8497536	2.3392540	hotel	4			https://www.relaismedicis.com/
+node	4356553693	The Westin Paris		48.8657785	2.3274056	hotel		Westin		http://www.thewestinparis.fr/
+node	4360374397	Prince de Conti		48.8556889	2.3384129	hotel	3			https://princedeconti.com
+node	4363308090	Maison Proust		48.8641172	2.3632367	hotel	5			https://www.maison-proust.com
+node	4380485990	Hôtel Arcadie		48.8389766	2.3225997	hotel	3			https://www.hotelarcadie.com
+node	4440260838	Hôtel Lautrec Opera		48.8711797	2.3385427	hotel	3			https://www.paris-hotel-lautrec.com/
+node	4448274792	Citadines Bastille Marais		48.8581315	2.3708336	hotel				http://www.citadines.com/en/france/paris/bastille_marais.html
+node	4448519362	Hôtel La Tour d'Auvergne		48.8789211	2.3448903	hotel				
+node	4464345994	Hôtel London	Hotel London	48.8714509	2.3353028	hotel				
+node	4518004189	Daunou Opéra		48.8693451	2.3322325	hotel				
+node	4519649589	BVJ Opéra Montmartre		48.8776389	2.3340807	hostel			BJV	https://www.bvjhostelparis.com/auberge/bvj-opera-montmartre-3/
+node	4536397848	Burgundy Paris		48.8679659	2.3258303	hotel	5			
+node	4536678249	Castille Paris		48.8682706	2.3268022	hotel	5		Starhotel	https://collezione.starhotels.com/en/our-hotels/castille-paris/
+node	4617139289	Hôtel La Louisiane		48.8535946	2.3368336	hotel				http://www.hotel-lalouisiane.com/
+node	4792350123	Welcome Hotel		48.8531417	2.3368887	hotel	2			
+node	4794130221	Prince Albert Lyon Bercy		48.8471977	2.3777523	hotel	3			https://www.hotelprincealbert.com/hotel-prince-albert-lyon-bercy
+node	4831650290	Libertel Gare-du-Nord Suède		48.8780059	2.3548072	hotel				
+node	4831650312	Hôtel Margot		48.8793279	2.3566260	hotel				
+node	4831650316	New Hotel		48.8795283	2.3561164	hotel	2			
+node	4835000937	Jacobs Inn Hostel		48.8840449	2.3503808	hostel				
+node	4838651398	Hôtel du Danube		48.8562947	2.3319575	hotel	3			https://www.hoteldanube.fr/
+node	4838651406	Hôtel de l'Université		48.8570330	2.3300206	hotel	3			https://www.universitehotel.com/
+node	4839182067	M Social Paris		48.8724886	2.3378636	hotel		Millennium		https://www.msocial.com/fr-fr/paris/m-social-hotel-paris/
+node	4866940107	Avalon Cosy		48.8808251	2.3514926	hotel	4			
+node	4906469725	Grand Hotel Magenta		48.8808187	2.3517253	hotel				
+node	4936558524	Victoire & Germain		48.8532883	2.3379463	hotel	4			https://www.victoireetgermainhotel.com
+node	4967539466	Adriatic		48.8471227	2.3720657	hotel	2			https://adriatic-paris-hotel.com/
+node	5001825471	Hôtel Bonaparte		48.8515509	2.3330460	hotel	3			https://www.hotelbonaparte.fr/
+node	5003426296	Quai Voltaire		48.8587676	2.3311495	hotel				
+node	5003426306	Hôtel des Marronniers		48.8549834	2.3344397	hotel				http://m.hotellesmarronniers.com
+node	5003429375	Hôtel de Lille		48.8585295	2.3299131	hotel	4			
+node	5003429377	Vinci Due		48.8582452	2.3309004	hotel	4			https://www.hotelvincidue.com
+node	5003429380	Verneuil		48.8573547	2.3314438	hotel	4			https://www.hotel-verneuil-saint-germain.com
+node	5003432649	Hôtel d'Angleterre		48.8558560	2.3332916	hotel	3			https://www.hotel-dangleterre.com
+node	5077321899	Le Clément		48.8525679	2.3361968	hotel	2			https://www.hotel-clement.com
+node	5094920523	CitizenM		48.8437090	2.3718170	hotel		citizenM		https://www.citizenm.com/destinations/paris/paris-gare-de-lyon-hotel
+node	5113762371	Hôtel Tubeuf		48.8667767	2.3385682	hotel				
+node	5220780046	Hôtel Left Bank Saint-Germain		48.8531911	2.3386874	hotel	3			https://www.hotelleftbank.com
+node	5281729321	Hôtel Récamier		48.8503989	2.3344118	hotel	4			https://www.hotelrecamier.com
+node	5286108824	Villa Madame		48.8488153	2.3315735	hotel				https://www.hotelvillamadameparis.com
+node	5286151322	Hôtel de Buci		48.8538440	2.3366799	hotel	4			https://www.buci-hotel.com
+node	5286157221	Madison Hotel		48.8532430	2.3344466	hotel	4			
+node	5286157222	Hôtel Da Vinci		48.8566095	2.3319873	hotel				
+node	5286162521	Hôtel Baume		48.8501710	2.3392336	hotel	4			http://www.hotelbaume.com
+node	5286168223	Hôtel Mercure Paris Opéra Louvre		48.8711324	2.3395204	hotel		Mercure		
+node	5286233127	Hôtel Mercure Paris Opéra Garnier		48.8748982	2.3260331	hotel		Mercure		https://all.accor.com/hotel/1913/index.fr.shtml
+node	5286239327	Hôtel Le Vignon		48.8717324	2.3262562	hotel	4			
+node	5286265126	Hôtel Mayfair Paris		48.8661342	2.3261101	hotel	4			
+node	5286265424	Le Pradey		48.8644697	2.3315349	hotel				https://www.lepradey.com
+node	5286293722	Hôtel Molière		48.8654462	2.3362193	hotel				
+node	5286318722	Hôtel Square Louvois		48.8684376	2.3368167	hotel	4			https://www.hotel-louvois-paris.com
+node	5286345823	Hôtel Monsieur		48.8735276	2.3216778	hotel				
+node	5368815921	ibis budget Paris Coeur d'Orly Airport		48.7315959	2.3719215	hotel		Ibis Budget		https://all.accor.com
+node	5381388495	Hôtel Saint-Marc		48.8708370	2.3383230	hotel	4			https://www.hotelsaintmarc.com/
+node	5513864042	Hôtel Montmartre Clignancourt		48.8839832	2.3472114	hotel				
+node	5564044409	Hôtel du Delta		48.8826548	2.3465991	hotel				
+node	5573421080	Riviera		48.8802671	2.3454615	hotel				
+node	5630045366	Grand Hotel de l'Europe		48.8756098	2.3582343	hotel	2			
+node	5661351129	Orion Paris Haussmann		48.8729890	2.3306457	hotel				
+node	5732745221	Hôtel de l'Abbaye		48.8500627	2.3305207	hotel	4			https://www.hotelabbayeparis.com
+node	5755624024	Le Ritz		48.8679688	2.3288445	hotel	5	The Ritz-Carlton		
+node	5774945359	Hôtel Île-de-France opéra		48.8689438	2.3347343	hotel	3			
+node	5860686110	Hôtel Trianon		48.8463622	2.3796051	hotel	3		Maranatha Hotels	https://www.trianongaredelyon.com/
+node	5975804060	Whistler		48.8793126	2.3559933	hotel	4			
+node	6010571924	Hôtel St Bernard		48.8873227	2.3552676	hotel				
+node	6010571931	FM Hôtel		48.8872388	2.3541317	hotel				
+node	6010571947	Hôtel de la Paix		48.8868416	2.3520073	hotel				
+node	6033396250	Hôtel Jarry		48.8739913	2.3562835	hotel				
+node	6085565286	Léna		48.8777655	2.3550120	hotel	3			
+node	6121785992	Tim hôtel Montparnasse		48.8428775	2.3211819	hotel	3			
+node	6474113650	Hôtel du parc		48.8868100	2.3536910	hotel				
+node	6533973685	Hôtel Duminy-Vendome	Hotel Duminy-Vendome	48.8653810	2.3294084	hotel				
+node	6535961840	Residhome Paris Gare de Lyon - Jacqueline De Romilly		48.8420810	2.3840054	hotel				https://www.residhome.com/residence-hoteliere-aparthotel-paris-294.html
+node	6579998388	Citadines		48.8392632	2.3225167	hotel				https://www.discoverasr.com/fr/citadines/france/citadines-montparnasse-paris
+node	6655680664	Cosmotel		48.8705089	2.3544658	hotel	3			
+node	6665359286	Trivion	home	48.8488057	2.3409796	hotel		@HOME		
+node	6765311604	Hôtel de Joséphine Bonaparte		48.8554740	2.3620997	hotel				https://www.hoteldejobo.paris/
+node	6949131040	Hôtel de Noailles		48.8696046	2.3345982	hotel	4			
+node	6987051323	Hôtel Chabrol Opéra		48.8772610	2.3511328	hotel	3			
+node	7249783463	Hôtel Brighton		48.8649157	2.3288755	hotel				
+node	7717421057	Grand Hôtel Malher		48.8557065	2.3610973	hotel				
+node	7799376282	La Maison Favart		48.8707802	2.3373207	hotel	4			https://www.lamaisonfavart.com/
+node	7812369948	Grand hôtel de Normandie		48.8759666	2.3269736	hotel	4			
+node	7885099232	Hôtel de Seine		48.8543841	2.3367714	hotel	3			https://www.hoteldeseine.com
+node	7948700804	Citadines		48.8555342	2.3409339	hotel	4			https://www.citadines.com
+node	8121110461	Hôtel Trendy Canettes		48.8519669	2.3337684	hotel	3			https://www.parishotelcanettes.com/
+node	8121124444	Hôtel La Perle		48.8521201	2.3336302	hotel	3			https://www.hotel-paris-laperle.com/
+node	8205219120	Hôtel Nord-Est		48.8775278	2.3541565	hotel				
+node	8205219149	Hôtel du Brabant		48.8775059	2.3537317	hotel	2			
+node	8260319127	Le Clos Notre-Dame		48.8536618	2.3429661	hotel				https://leclosnotredame.com
+node	8613557605	Paris La Belle		48.8816454	2.3655062	hotel				
+node	8630419808	Pavillon Louvre Rivoli		48.8652167	2.3362805	hotel				
+node	8674961612	À la Villa des Artistes		48.8422446	2.3308384	hotel	3			https://www.villa-artistes.com
+node	8932455814	Sinner		48.8630795	2.3582031	hotel	5			https://sinnerparis.com/
+node	8986379947	Le Grand Hôtel Cayré		48.8552711	2.3254502	hotel	4	Miiro Hotels		https://www.miirohotels.com/legrandhotelcayre
+node	9095395328	Hôtel Dress Code		48.8705332	2.3279176	hotel	4			https://www.hoteldresscode.com/
+node	9132781019	Hôtel de Paris		48.8787689	2.3460004	hotel	2			
+node	9224552597	Kimpton St Honoré Paris		48.8701690	2.3305893	hotel		Kimpton		https://kimptonsthonoreparis.com/en/
+node	9233551638			48.8630677	2.3645334	hotel				
+node	9470193842	Le Montparnasse		48.8449789	2.3212405	hotel	3	Best Western		https://www.hotel-le-montparnasse.com
+node	9502727507	Hôtel Victory Galou		48.8712198	2.3542267	hotel				
+node	9525684383	Villa Modigliani		48.8413003	2.3280614	hotel	4	Vacances Bleues		https://www.villa-modigliani.fr/
+node	9563792069	Le Chaplain		48.8427077	2.3303605	hotel				https://www.chaplainparishotel.com/
+node	9762289342	Le Grand Quartier		48.8720470	2.3583483	hotel				https://www.legrandquartier.com/
+node	9765241956	Castex Hotel		48.8526582	2.3660230	hotel	3			
+node	9765386729	Hôtel Luxembourg Parc		48.8492486	2.3347380	hotel	4			https://www.luxembourg-paris-hotel.com/
+node	9773853170	Aubépine		48.8556150	2.3368294	hotel				https://www.hotelaubepineparis.com
+node	9776709639	Crystal Hotel		48.8543781	2.3327167	hotel	3			
+node	9780227591	Hôtel Odéon Saint-Germain		48.8514373	2.3374986	hotel	4			https://www.hotelparisodeonsaintgermain.com
+node	9780227592	Le Relais Saint-Germain		48.8519189	2.3388739	hotel	4			https://www.camdeborde.com
+node	9780227593	Esprit Saint-Germain		48.8514639	2.3364533	hotel	5			https://www.hotel-esprit-saint-germain.com
+node	9784387777	Celtic		48.8421185	2.3246983	hotel				
+node	9788520433	Grand Hôtel de l'Univers		48.8534733	2.3378567	hotel	3			https://www.hotel-paris-univers.com
+node	9845335101	Timhotel		48.8402401	2.3241564	hotel	3			
+node	9847887796	Hôtel des Académies		48.8420852	2.3304310	hotel	4			https://hoteldesacademies.fr
+node	9848402502	Hôtel Jardin Le Bréa		48.8429193	2.3298263	hotel	3			https://www.hoteljardinlebrea.com
+node	9851839914	Hôtel Delavigne		48.8505456	2.3394156	hotel	3			https://www.hoteldelavigne.com
+node	9851849118	Fontaines du Luxembourg		48.8490149	2.3401356	hotel	3			https://www.fontainesduluxembourg.com
+node	9879856655	Jean-Bart		48.8476223	2.3311178	hotel	2			https://www.hoteljeanbart.com
+node	9887690188	Dauphine St. Germain		48.8544575	2.3390109	hotel	3			https://dauphine-st-germain.com
+node	9905753638	Eugénie		48.8532889	2.3420227	hotel	3			https://www.eugenie-paris-hotel.com
+node	9906749315	Le Six		48.8438150	2.3281047	hotel	4			https://www.hotel-le-six.com
+node	9916014831	Hôtel des 2 Continents		48.8552463	2.3344607	hotel	3			https://www.hoteldes2continents.com
+node	9916014832	Hôtel des Saints-Pères		48.8533602	2.3298707	hotel	4			http://www.espritdefrance.com
+node	9916014835	Millésime		48.8550828	2.3350249	hotel	4			https://www.millesimehotel.com
+node	9916014840	La Villa St Germain		48.8553755	2.3341124	hotel	4			https://www.villa-saintgermain.com
+node	9919063401	Atlantis		48.8514144	2.3325439	hotel	3			https://www.hotelatlantisparis.com
+node	9922296584	Mayet		48.8471510	2.3185584	hotel	3			https://www.mayet.com
+node	9936295959	Exe Panorama		48.8761971	2.3499922	hotel	3	Exe Hotels		
+node	9949650654	Résidence des Arts		48.8534602	2.3423355	hotel				https://www.hotelresidencedesartsparis.com/
+node	9949650655	Villa d'Estrées		48.8534942	2.3425027	hotel	4			https://www.villadestrees.com/
+node	9976678612	Choiseul Opéra		48.8690552	2.3325247	hotel				
+node	10004140329	Hôtel de Fleurie		48.8523702	2.3374993	hotel	3			https://www.hoteldefleurieparis.com
+node	10004140330	Le Petit Trianon		48.8535721	2.3382964	hotel				
+node	10033070463	Hôtel Indigo Paris - Opéra		48.8705138	2.3293169	hotel		Hotel Indigo		https://www.ihg.com/hotelindigo/hotels/gb/en/paris/parin/hoteldetail
+node	10047610740	Sainte-Beuve		48.8439206	2.3294960	hotel	4			https://www.hotelsaintebeuve.com
+node	10047610750	Hôtel des Bains		48.8413660	2.3262574	hotel				https://www.hotel-des-bains-montparnasse.com
+node	10047610755	Delambre		48.8413482	2.3260927	hotel	3			https://www.delambre-paris-hotel.com
+node	10047610756	Danemark		48.8434006	2.3299186	hotel	3			https://www.hoteldanemark.com
+node	10139356117	My Home in Paris		48.8636474	2.3689859	hotel				https://www.myhomeinparis.fr/
+node	10181311162	9Hotel République		48.8708269	2.3605075	hotel	4			
+node	10212698996	Rivoli		48.8567593	2.3551903	hotel				https://www.hotelrivoli.fr
+node	10220756521	Saint-Roch		48.8657497	2.3323796	hotel	2			http://www.hotelsaintroch-paris.com
+node	10220756523	Hôtel du Lion d'Or		48.8654372	2.3317664	hotel	3			https://www.hotelduliondor.com
+node	10587454807	Le Sénat		48.8490810	2.3397494	hotel	4			https://www.hotelsenat.com
+node	10698188122	Ibis Paris Gare de l'Est 10ème		48.8753758	2.3585456	hotel	3	Ibis	Accor	
+node	10746322395	Relais Christine		48.8543752	2.3400731	hotel	5			https://www.relais-christine.com
+node	10892032965	Maison Gaité		48.8394948	2.3228874	hotel	3			https://www.maison-gaite.com
+node	10929155838	La Folie des Prés		48.8523474	2.3307325	hotel	3			https://www.hotelfoliedespres.com/
+node	10967994825	Icône		48.8711029	2.3389925	hotel	3			https://www.hotelicone.com
+node	10998043763	Lyric Opéra		48.8689684	2.3368356	hotel	4			https://lyrichotelparis.com
+node	11025476286	Hôtel de France		48.8738883	2.3562560	hotel				
+node	11030093612	Pavillon		48.8564411	2.3303149	hotel	5			https://www.pavillon-faubourg-saint-germain.com
+node	11103518994	Le Roch		48.8661943	2.3328980	hotel	5			https://www.leroch-hotel.com
+node	11256413823	ibis Paris Cœur d'Orly Airport		48.7314289	2.3701052	hotel		Ibis		https://all.accor.com
+node	11266764596	ibis Styles Paris Cadet Lafayette		48.8782896	2.3474895	hotel		Ibis Styles		https://all.accor.com/hotel/7952/index.fr.shtml
+node	11287419256	Tonic Hôtel		48.8516846	2.3373978	hotel	3			https://www.tonichotelsaintgermain.com
+node	11762509105	Saint-Germain		48.8547407	2.3242155	hotel	4			https://www.hotel-saint-germain.fr
+node	11769826725	Hôtel Florida		48.8715351	2.3225024	hotel				
+node	11769831101	Hôtel de l'Arcade		48.8716349	2.3234958	hotel				
+node	11793868755	Relais Hôtel du Vieux Paris		48.8538947	2.3428878	hotel	4			https://www.vieuxparis.com
+node	12137512437	MIJE Fourcy		48.8547611	2.3591747	hostel				https://www.mije.com/auberge-jeunesse-paris/fourcy
+node	12140922322	Hôtel Angleterre		48.8841293	2.3487701	hotel				https://www.angleterre-hotel.com
+node	12197400612	Louvain		48.8762706	2.3276654	hotel				
+node	12214889616	ibis Montparnasse Catalogne		48.8369666	2.3199519	hotel		Ibis		https://all.accor.com/hotel/B2Q8/index.fr.shtml
+node	12398325701	Hôtel Helussi		48.8779021	2.3469721	hotel				https://www.helussi.fr/
+node	12603816065	Paris Louvre Opéra		48.8665727	2.3350729	hotel				
+node	12606394474	Mansart		48.8684181	2.3299086	hotel				
+node	12636183283	Hôtel du Printemps		48.8747414	2.3263334	hotel	3			https://www.hotelduprintemps.fr/
+node	12647823892	Ibis - Paris Gare du Nord La Fayette		48.8780023	2.3526763	hotel		Ibis		
+node	12710883030	Madame Drouot		48.8739057	2.3405668	hotel				
+node	12741347901	Hôtel du Continent		48.8663343	2.3268847	hotel				https://www.hotelcontinent.com/
+node	12852941922	Hana		48.8694234	2.3366051	hotel				https://hotelhana-paris.com/
+node	12945544787	Maison Albar - Le Vendome		48.8717636	2.3348191	hotel	5			https://www.maison-albar-hotels-le-vendome.com
+node	13001897155	Résidence Orfea Paris Charolais		48.8425884	2.3835275	hotel		Orfea		
+node	13030274674	Le Basile		48.8715859	2.3270530	hotel				
+node	13074392295	Àmoi		48.8698018	2.3610406	hotel	4			
+node	13081721763	Résidence Orfea Paris-Montparnasse		48.8377270	2.3152112	hotel		Orfea		
+node	13175015040	Hôtel Paris Lafayette		48.8763866	2.3490243	hotel				https://www.hotelparislafayette.com
+node	13190865342	Hôtel Paradis		48.8737710	2.3499414	hotel	3			
+node	13190886299	Hôtel du Temps		48.8765149	2.3474293	hotel				
+node	13190908801	9 Hotel Opéra Paris		48.8763662	2.3471296	hotel				
+node	13190908802	Hôtel Le Monthonlon		48.8765185	2.3470904	hotel	3			
+node	13277553485	Charing Cross		48.8748332	2.3237320	hotel	3			https://www.charingcrosshotel.com/
+node	13340259859	Alfred Sommier		48.8720414	2.3239152	hotel	5			
+node	13340259870	Vendôme Opéra Hotel		48.8718447	2.3235521	hotel				
+node	13692209008	Hôtel Gaillon Opéra		48.8684634	2.3340224	hotel	3			
+node	13734041940	Aparthotel Adagio access Paris Bastille		48.8495799	2.3722947	hotel		Adagio		https://www.adagio-city.com/fr/hotel-9104-aparthotel-adagio-access-paris-bastille/index.shtml
+node	13763989212	Hotel Albe Bastille		48.8493935	2.3744283	hotel				https://www.hotelalbebastille.com/
+node	13806266569	La Herse d'Or		48.8537595	2.3662275	hotel	3			
+node	13846803670	Sully Hôtel		48.8542739	2.3643265	hotel	1			https://www.sullyhotelparis.com/
+node	13850707953	Le Compostelle		48.8564931	2.3570746	hotel				https://www.lecompostelle.com/
+node	13890989419	Hôtel Littéraire Arthur Rimbaud		48.8709855	2.3557329	hotel				https://www.hotel-litteraire-arthur-rimbaud.com/
+node	13910065732	Une Autre Chambre		48.8650882	2.3566121	hotel	4			
+node	13910156382	Marais HÔme		48.8654448	2.3657348	hotel	3			
+node	13923089439	Goralska Residences		48.8482667	2.3658512	hotel	4			https://www.goralskaresidences.com/
+node	14008384537	Maison d'accueil Adèle PICOT		48.8449551	2.3292585	hotel			Association Mademoiselle Adèle PICOT	https://sites.google.com/a/adelepicot.com/a-picot-asso-bis/home
+node	14072896353	Le Montmartre Saint-Pierre		48.8843952	2.3472796	hotel	3			
+way	18592415	Pullman Paris Montparnasse		48.8383839	2.3209048	hotel	4	Pullman		https://all.accor.com/hotel/8189/index.fr.shtml
+way	31884123	Ibis		49.0107075	2.5605305	hotel		Ibis		
+way	31884127	Ibis		49.0102316	2.5606436	hotel		Ibis		
+way	31884151	Hilton Paris Charles de Gaulle Airport		49.0104437	2.5579175	hotel	4	Hilton	Hilton Hotels	https://www.hilton.com/en/hotels/cdghitw-hilton-paris-charles-de-gaulle-airport/?SEO_id=OTHR-EMEA-TW-CDGHITW
+way	49734611	La Herse d'Or		48.8537966	2.3662669	hotel				
+way	54058979	Hôtel Washington Opéra		48.8662424	2.3373468	hotel	4			https://www.hotelwashingtonopera.com
+way	54106139	Hôtel Thérèse		48.8658169	2.3360509	hotel	4			https://www.hoteltherese.com
+way	54108312	Louvre Richelieu		48.8665247	2.3370946	hotel	3			https://www.louvre-richelieu.com
+way	54117425	Lumen		48.8652553	2.3329885	hotel	4			https://hotel-lumenparis.com
+way	54118129	Louvre Montana		48.8644648	2.3318632	hotel	4			https://www.hotel-louvre-montana-paris.fr
+way	54177933	Cambon Hôtel		48.8664339	2.3251380	hotel	4			
+way	54381010	Korner Louvre		48.8681828	2.3345958	hotel	3			https://www.hotels-korner.com/hotels/hotel-korner-louvre
+way	54381059	Ascot Opéra		48.8682377	2.3353212	hotel	3			https://www.ascotparishotel.com
+way	54566955	Grand Hôtel de Malte Opéra - Astotel		48.8672054	2.3373463	hotel				
+way	54572723	Gramont		48.8705645	2.3370271	hotel	4			https://www.hotelgramontparis.com/
+way	54661744	Timhotel Palais Royal		48.8664295	2.3398955	hotel	3		Timhotel	
+way	54730665	Hôtel Volney Opéra		48.8698384	2.3301357	hotel				
+way	54730687	Hôtel Stendhal Paris Place Vendôme MGallery by Sofitel		48.8681514	2.3313426	hotel				
+way	54730701	Park Hyatt Paris-Vendôme		48.8690221	2.3304896	hotel	5	Park Hyatt	Hyatt Hotels Corporation	https://www.hyatt.com/en-US/hotel/france/park-hyatt-paris-vendome/parph
+way	55036580	Suzie Blue		48.8615308	2.3650091	hotel	4			https://hotelsuzieblue.com/
+way	55445444	Royal Saint-Michel		48.8528191	2.3441788	hotel	4		Best Western Premier	https://www.hotelroyalsaintmichel.com/
+way	55445446	Europe - St Séverin		48.8527189	2.3443853	hotel	3			
+way	55545735	Auberge Maubuisson		48.8553104	2.3553806	hostel			MIJE	https://www.mije.com/auberge-jeunesse-paris/maubuisson
+way	55760877	duO		48.8581162	2.3529048	hotel	4			https://www.duo-paris.com/
+way	55848928	Vieux Marais		48.8591529	2.3554512	hotel	3			https://www.vieuxmarais.com
+way	55940138	D'win		48.8586389	2.3537586	hotel	2			https://www.dwinhotel.com
+way	55980979			48.8585362	2.3561588	hotel				https://www.hotelparismaraisbretonnerie.com/
+way	55988174	9Confidentiel		48.8569378	2.3563184	hotel	4			http://www.9confidentiel.fr
+way	55996992	Hôtel de Nice		48.8566501	2.3558160	hotel	3			https://www.hoteldenice.com
+way	55997007	Roi de Sicile		48.8567362	2.3561093	hotel				https://www.roidesicile-rivoli.fr/
+way	55997020	Hôtel Caron de Beaumarchais		48.8564438	2.3568835	hotel				https://www.carondebeaumarchais.com/
+way	55997028	Hôtel France Louvre		48.8565663	2.3562130	hotel	3			http://www.francelouvre.com
+way	55997043	Le Compostelle		48.8564649	2.3570459	hotel	3			
+way	56043185	Hôtel Pratic		48.8552252	2.3624658	hotel				http://www.hotelpratic.com
+way	56046646	Hôtel Paris Rivoli		48.8559358	2.3573362	hotel	3			
+way	56159606	Le Temple de Jeanne		48.8550717	2.3601702	hotel				https://www.letempledejeanne.com/
+way	56203241	Hôtel de Neuve		48.8539603	2.3631895	hotel				
+way	56457514	Hôtel des Fontaines		48.8655143	2.3601969	hotel				https://www.booking.com/hotel/fr/des-fontaines.fr.html
+way	56472901	Une Autre Chambre		48.8650866	2.3566224	hotel	3			
+way	56475685	So'Marais		48.8642399	2.3579343	hotel				
+way	56651286	Hôtel du Haut Marais		48.8641558	2.3576834	hotel				https://www.hotelhautmarais.com/
+way	56659889	Hôtel Saint-Pierre		48.8506858	2.3420376	hotel				
+way	56670247	Jules et Jim		48.8635412	2.3573474	hotel				
+way	56700081	La chambre du Marais		48.8636134	2.3608348	hotel				https://lachambredumarais.com/
+way	57041201	Dame des Arts		48.8528434	2.3422015	hotel				https://www.damedesarts.com
+way	57380606	Hôtel du Vieux Saule		48.8633203	2.3623726	hotel				
+way	57390647	Moley		48.8634317	2.3609445	hotel				
+way	57395502	Maison Saintonge		48.8618039	2.3626977	hotel	4			https://www.monsieursaintonge.com/
+way	57399569	Meteore		48.8630568	2.3644745	hotel				
+way	57402648	Hôtel du Petit Moulin		48.8615769	2.3621093	hotel				https://www.hoteldupetitmoulin.com/
+way	59917499	Hôtel des Balcons		48.8503977	2.3393909	hotel	2			https://www.balcons.com
+way	62287141	Villa des Prés		48.8534974	2.3364842	hotel	5			https://www.villadespres.com
+way	62305621	Hôtel du Pas-de-Calais		48.8537165	2.3302613	hotel	4			https://www.hotelpasdecalais.com
+way	63195460	25 Hours Hotel Terminus Nord		48.8795662	2.3549993	hotel	4			
+way	63195508	Hôtel Canal Saint-Martin		48.8803757	2.3667593	hotel				
+way	63195543	Ibis - Paris Gare du Nord Chateau Landon		48.8810908	2.3628352	hotel		Ibis		https://www.accorhotels.com/
+way	63195715	East Side House Paris		48.8760170	2.3555878	hotel				https://www.radissonhotels.com/en-us/hotels/radisson-individuals-eastside-house-paris
+way	63195815	Hôtel de Milan		48.8781298	2.3553218	hotel	1			
+way	63195893	Hôtel Paris-Nord		48.8794164	2.3584056	hotel	2		Albouy Abel	
+way	63195932	ibis Styles Paris Gare de l'Est Château Landon		48.8790837	2.3620731	hotel	3	Ibis Styles		
+way	63196044	Hôtel d'Alsace		48.8757540	2.3573320	hotel	3			
+way	63196268	Timhotel		48.8795575	2.3556712	hotel	2			https://www.timhotel.com/fr/timhotel-paris-gare-du-nord_34
+way	63197385	Hôtel Les Deux Gares		48.8785087	2.3583317	hotel	2			
+way	63197482	Maison du Pré		48.8797775	2.3502316	hotel	2		Les Hôtels du Pré	https://www.leshotelsdupre.com/fr/nos-hotels/maison-du-pre/hotel-et-services
+way	63197774	Le Citizen Hotel		48.8731846	2.3643768	hotel	3			
+way	63197918	Libertel Gare de l'Est Français		48.8761740	2.3570792	hotel	3		Libertel	
+way	63198051	Sure Hotel		48.8832403	2.3594004	hotel		Sure Hotel		
+way	63198089	Hôtel Central		48.8724903	2.3556532	hotel	2		Attia Suzanne	
+way	63198136	Hôtel Bristol Nord		48.8793857	2.3585512	hotel	1		Ruelle Geneviève	
+way	63198280	ibis		48.8794597	2.3684813	hotel	3	Ibis	Accor	
+way	63198426	Le Robinet d'Or		48.8780603	2.3646626	hotel	3			
+way	63198495	Hôtel Ernest		48.8764282	2.3487086	hotel	3			
+way	63198724	Sure Hotel		48.8835947	2.3595644	hotel		Sure Hotel		
+way	63198746	Hôtel du Marché		48.8710187	2.3575203	hotel	1			
+way	63199173	Modern' Est		48.8760064	2.3574396	hotel	2			
+way	63199519	Lucien & Marinette		48.8764718	2.3548963	hotel	3			https://lmhotel.paris/
+way	63199620	Alane Hôtel		48.8754261	2.3571279	hotel	3			
+way	63200381	Hôtel Pacific		48.8725873	2.3553605	hotel	1		Gabouze Adlane	
+way	63201141	Hôtel Aida Marais		48.8699919	2.3601189	hotel				
+way	63201192	Generator Hostels		48.8782513	2.3694182	hostel				
+way	63201283	Hôtel Métropol		48.8801000	2.3515122	hotel	3			
+way	63201292	Hôtel Hauteville Opéra		48.8739599	2.3504213	hotel	3		Bessa Hider	
+way	63201324	Hôtel Palace		48.8701107	2.3571666	hotel				
+way	63201411	Le Marcel		48.8761384	2.3572974	hotel	4			
+way	63201418	Kabanel Hotel		48.8766113	2.3541633	hotel	3			
+way	63201542	Grand Hotel de Paris		48.8753458	2.3580587	hotel				
+way	63201789	Hôtel Appia		48.8783643	2.3569657	hotel	3			
+way	63201922	Hôtel Montana		48.8795273	2.3583383	hotel	2		Merabet Dalila	https://www.hotelmontanalafayette.com/
+way	63202200	Hôtel Ibis Paris Gare du Nord		48.8791403	2.3555531	hotel	3	Ibis		
+way	63202648	Hôtel Grand Amour	Grand Amour Hotel	48.8746369	2.3561936	hotel				
+way	63202755	Hôtel des Belges		48.8794108	2.3556295	hotel				
+way	63202789	Staycity		48.8736888	2.3590003	hotel		Staycity		https://www.staycity.com/paris/gare-de-lest
+way	63202826	Hôtel Belta		48.8740319	2.3624873	hotel	3	Hotusa Hotels		
+way	63202831	Hôtel d'Amiens		48.8782677	2.3572881	hotel	3			
+way	63202901	Hôtel Midnight		48.8773449	2.3560207	hotel	3			
+way	63203093	Mercure Paris Opera Grands Boulevards		48.8740739	2.3501524	hotel	3	Mercure	Roblin Fançoise Annie	
+way	63203139	Timhotel Paris Gare de l'Est		48.8748431	2.3601162	hotel	3			
+way	63203239	Belfort Hôtel		48.8729888	2.3542474	hotel			Ali Ayad	
+way	63203368	Hôtel de Bordeaux		48.8746698	2.3557687	hotel	2			
+way	63203415	Hôtel Liège Strasbourg		48.8738264	2.3564087	hotel	2			
+way	63203459	Little Regina		48.8759187	2.3574093	hotel	2			
+way	63203469	St Christopher's Inn		48.8791694	2.3579809	hostel		St Christopher's Inn		
+way	63203558	Little Hôtel		48.8705046	2.3601754	hotel				
+way	63203648	Hôtel Albert 1er		48.8794617	2.3581896	hotel	3			
+way	63454000	Hôtel Lutétia		48.8510976	2.3274782	hotel	5			https://www.hotellutetia.com
+way	63638362	l'Hôtel Ferney République		48.8656412	2.3664938	hotel				https://www.hvr-paris.com/
+way	63640315	Marais HÔme		48.8654588	2.3658434	hotel				
+way	63640530	Le Petit Oberkampf		48.8629041	2.3675964	hotel	3			https://www.hotelpetitoberkampfparis.com/
+way	63641010	Ibis		48.8576463	2.3728299	hotel	2	Ibis	Ibis	http://www.ibishotel.com/gb/hotel-1399-ibis-paris-bastille-opera-11eme/index.shtml
+way	63863043	Villa Luxembourg		48.8418738	2.3307271	hotel				
+way	64113932	Stanislas		48.8450418	2.3282011	hotel	2			
+way	64302349	Hôtel Royal Saint-Germain		48.8449245	2.3251767	hotel	3			https://hotelroyalsaintgermain.com/
+way	64306102	Aramis Saint-Germain		48.8467539	2.3263726	hotel	3	Best Western		
+way	64308687	Louison		48.8452958	2.3213452	hotel	4			
+way	64308718	Hôtel Edouard VI		48.8443174	2.3235205	hotel				
+way	64308728	La Parizienne		48.8451015	2.3209567	hotel	3			https://hotel-laparizienne.com
+way	64311936	Le Saint-Grégoire		48.8471802	2.3260419	hotel	4			https://saintgregoire.com
+way	67252309	Hôtel Marquis		48.8697395	2.3210583	hotel	5			https://www.marquisfaubourgsainthonore.com/
+way	67557306	Hyatt Paris Madeleine		48.8729431	2.3216901	hotel	5	Hyatt	Hyatt	https://www.hyatt.com/en-US/hotel/france/hyatt-paris-madeleine/madel
+way	67559032	Hôtel Le Mathurin		48.8731921	2.3239450	hotel	4			
+way	67559067	Hôtel Opéra Marigny		48.8717473	2.3234876	hotel			SAS MAJAREL	https://www.hoteloperamarignyparis.com/
+way	67559068	Émeraude Madeleine Haussmann		48.8717652	2.3233488	hotel	3			
+way	67559195	Hôtel Concortel		48.8725925	2.3232023	hotel	3			
+way	67560877	Hôtel Fauchon		48.8704161	2.3236125	hotel	5			https://www.hotel-fauchon-paris.fr/
+way	67561484	Hôtel de Pourtalès		48.8714595	2.3250727	hotel				https://www.hotelpourtales.com/
+way	67561493	Royal Opéra		48.8721572	2.3252094	hotel	3			https://www.paris-hotel-royalopera.com/
+way	67561793	Chavanel		48.8721694	2.3263232	hotel	4			
+way	67725920	Best Western Premier Opéra Diamond		48.8753480	2.3233901	hotel		Best Western Premier		
+way	68925737	Avenir Montmartre		48.8827638	2.3449143	hotel	2			
+way	69220145	The Chess Hotel		48.8716083	2.3350091	hotel				
+way	69220255	Monsieur Helder		48.8714702	2.3349433	hotel	3			https://monsieurhelder.com/
+way	69224139	George Sand		48.8732224	2.3273512	hotel	3			
+way	69226491	Hôtel Astra Opéra		48.8718146	2.3278777	hotel	4			
+way	69226757	Hôtel Caumartin Opéra		48.8717068	2.3278605	hotel	3	Astotel		
+way	69363803	Hôtel Hélios Opéra		48.8751206	2.3327830	hotel				
+way	69363886	Excelsior		48.8736020	2.3345619	hotel	3			
+way	69549207	Hôtel Chateaudun Opéra		48.8761997	2.3369223	hotel	3			
+way	69562973	Hôtel Touraine Opera		48.8763684	2.3352005	hotel	3			
+way	70235039	Kyriad Hôtel Orly Aéroport - Athis Mons		48.7154501	2.3694656	hotel		Kyriad		
+way	77859773	Hôtel Paris Bastille		48.8509282	2.3698830	hotel	3			https://www.hotelparisbastille.com/
+way	78006320			48.8844440	2.3490936	hostel				
+way	78145240	Le Relais de Lyon		48.8495763	2.3798752	hotel	4			https://www.hotelrelaisdelyonparis.com
+way	78145490	Ibis Gare de Lyon Diderot		48.8464004	2.3766541	hotel	3	Ibis		
+way	78148653	Ibis		48.8479896	2.3706330	hotel		Ibis		https://all.accor.com/hotel/1937/index.fr.shtml
+way	78148766	Hôtel des Alliés		48.8512359	2.3753975	hotel				
+way	78148829	Le Marceau Bastille		48.8490732	2.3697820	hotel				https://www.hotelmarceaubastille.com
+way	78148957	Ibis Styles		48.8481018	2.3720332	hotel	3	Ibis Styles		https://all.accor.com/hotel/B625/index.fr.shtml
+way	78149058	Hôtel Aurore		48.8458238	2.3705910	hotel				https://www.paris-hotel-aurore.com/
+way	78158774	Hôtel Claret		48.8398408	2.3815157	hotel	3			https://www.hotel-claret.com/
+way	78534890	Hôtel Mercure		48.8374661	2.3728523	hotel		Mercure	Mercure	https://all.accor.com/hotel/0934/index.en.shtml
+way	79616597	Raspail Hôtel		48.8414996	2.3301253	hotel	3			https://www.hotelraspailmontparnasse.com
+way	79616745	Hôtel Léopold		48.8401015	2.3306768	hotel	4			https://www.leopoldhotelparis.com
+way	79621192	Hôtel Montparnasse - Saint-Germain		48.8424126	2.3235503	hotel				http://hotelmsg.fr
+way	79621300	Les Artistes		48.8420098	2.3232266	hotel	4			https://lesartisteshotel.com
+way	79621387	L'Espérance		48.8387045	2.3230599	hotel	2			https://hotelesperanceparis.com
+way	79621430	Timhotel		48.8426479	2.3242197	hotel				https://www.timhotel.com/fr/timhotel-paris-gare-montparnasse-3_9
+way	79621507			48.8395391	2.3224073	hotel				
+way	79621579	Renoir		48.8426587	2.3263001	hotel	3			https://www.renoir-hotel.com
+way	79621695	Hôtel Edgar Quinet		48.8411338	2.3240458	hotel	2			
+way	79621733	Hôtel de Paris		48.8401876	2.3221698	hotel	3			https://www.hotel-montparnasse.fr/
+way	79621747	Hôtel de la Tour		48.8411416	2.3238861	hotel				
+way	79621765	Hôtel Odessa		48.8415437	2.3245904	hotel	2			
+way	79621772	Relais Moncey		48.8428397	2.3242351	hotel				https://www.fondationmg.fr/tourisme/type/un-sejour-a-paris/etablissement/relais-moncey
+way	79621799	Hôtel Central		48.8404623	2.3237726	hotel	3			https://www.central-hotel-paris.com/
+way	79621832	Hôtel Waldorf		48.8425142	2.3236617	hotel				https://www.hotelwaldorf.fr
+way	79621979	Hôtel du Parc		48.8408240	2.3240463	hotel	3			https://www.hotelduparcparis.com/
+way	79622106	Le Royal Rive Gauche		48.8409437	2.3295660	hotel	3			https://www.hotelleroyal.com
+way	79622112	Le Nouvel Hôtel du Théâtre		48.8395569	2.3225238	hotel	3			https://hoteldutheatre-montparnasse.com
+way	79633508	Tipi		48.8353886	2.3252822	hotel	2			https://www.tipi-hotel-paris.fr/
+way	79633690	Montparnasse Daguerre		48.8360622	2.3242193	hotel	3			
+way	79633756	Graphik Montparnasse		48.8348286	2.3243546	hotel	3			
+way	79633881	Hôtel Savoy		48.8358768	2.3249595	hotel	1			https://www.shouthotels.com/hotel-savoy/
+way	79633906	Télémaque		48.8351967	2.3266493	hotel				https://www.hoteltelemaque.com
+way	79634111	Denfert-Montparnasse		48.8354235	2.3260737	hotel				https://www.hotel-denfert.com/
+way	79634330	Mistral		48.8369102	2.3238768	hotel	3			https://www.hotel-mistral-paris.com
+way	79687024	Niepce Paris Hotel		48.8348547	2.3180517	hotel	4	Curio Collection		https://www.hilton.com/fr/hotels/parfrqq-niepce-paris-hotel
+way	79687155	Hôtel Apollon Montparnasse		48.8347428	2.3171194	hotel	3			
+way	79687415	Campanile		48.8344111	2.3237597	hotel	3	Campanile		https://paris-14-maine-montparnasse.campanile.com/
+way	79687487	Hôtel Bretagne Montparnasse		48.8354270	2.3211696	hotel		Best Western		https://bretagne-montparnasse.com
+way	79687542	Hôtel du Maine		48.8353004	2.3231703	hotel	2			https://www.hoteldumaine.fr
+way	79688145	Orchidée		48.8357710	2.3189087	hotel	3			https://www.hotel-orchidee.fr/
+way	79688704	Hôtel Mercure Paris Gare Montparnasse TGV		48.8378956	2.3183866	hotel	4	Ferré Hotels		https://all.accor.com/hotel/B8H6/index.fr.shtml
+way	79688857	La Perle Montparnasse		48.8359135	2.3222029	hotel	3			
+way	80266142	Villa M		48.8422922	2.3124608	hotel				https://www.hotelvillam-paris15.com/
+way	80291864	15 Montparnasse		48.8437076	2.3156085	hotel	4			https://www.hotel-15-montparnasse.fr/
+way	80292626	Avia Saphir Montparnasse		48.8429842	2.3132092	hotel	3	Avia		
+way	104935257	Hôtel Inn Paris Cdg Airport	Hotel Inn Paris Cdg Airport	49.0057425	2.5216450	hotel				
+way	104935380	Best Western Plus Paris Roissy - L'Esprit Libre		49.0042935	2.5202705	hotel		Best Western Plus		https://www.bestwestern.com/en_US/book/hotels-in-roissy-en-france/best-western-plus-paris-roissy/propertyCode.93933.html
+way	104935510	Hampton by Hilton Paris Charles de Gaulle Airport		49.0072155	2.5197925	hotel	4	Hampton		https://www.hilton.com/en/hotels/cdgwxhx-hampton-paris-charles-de-gaulle-airport/
+way	104935518	Novotel Paris Roissy CDG Convention		48.9990440	2.5174660	hotel		Novotel	Novotel	http://www.novotel.com/gb/hotel-5418-novotel-convention-wellness-roissy-cdg/index.shtml
+way	104935619	B&B HOTEL		49.0016159	2.5200286	hotel		B&B Hotels		https://www.hotel-bb.com/fr/hotel/paris-grand-roissy-cdg-aeroport
+way	104936083	Millennium Hotel Paris Charles De Gaulle		49.0054040	2.5204645	hotel		Millennium		https://www.millenniumhotels.com/en/paris/millennium-hotel-paris-charles-de-gaulle/
+way	104936156	Mercure Paris Roissy Charles de Gaulle Hotel		49.0041775	2.5212850	hotel		Mercure		https://all.accor.com/hotel/1245/index.fr.shtml
+way	104936214	Ibis Styles	ibis Styles Paris Roissy-CDG	49.0070785	2.5203670	hotel		Ibis Styles		https://all.accor.com/hotel/0815/index.fr.shtml
+way	104936609	Mercure Paris Charles de Gaulle Airport & Convention		49.0075966	2.5487134	hotel	4	Mercure	Mercure Paris Charles de Gaulle Airport & Convention	
+way	140912880	Novotel Paris Charles-de-Gaulle Airport		49.0092166	2.5607806	hotel		Novotel		https://all.accor.com/hotel/1014/index.fr.shtml
+way	143316928	Novotel Paris Coeur d'Orly Airport		48.7317954	2.3704158	hotel	2	Novotel	Novotel	https://all.accor.com/hotel/7327/index.fr.shtml
+way	167953195	Centre international d’accueil et d’échanges des Récollets		48.8753942	2.3603251	hostel				https://centre-les-recollets.com
+way	230302694	Courtyard		48.8450709	2.3711843	hotel		Courtyard		https://www.marriott.com/en-us/hotels/pargl-courtyard-paris-gare-de-lyon/overview/
+way	236431265	Clarion Paris CDG Airport		49.0005565	2.5187405	hotel				
+way	236431273	Standing Hotel Suites by Actisource.		49.0008010	2.5197035	hotel				
+way	245537484	Hôtel du Levant		48.8523125	2.3442674	hotel	3			https://hoteldulevant.com/
+way	336983049	Est Hôtel Paris	Est Hotel Paris	48.8729632	2.3586428	hotel	3			
+way	455890349	Ibis Paris CDG Airport		49.0105250	2.5606198	hotel		Ibis		https://all.accor.com/hotel/1404/index.fr.shtml
+way	456096829	ibis Styles Paris Charles de Gaulle Airport		49.0108999	2.5618375	hotel		Ibis Styles		https://all.accor.com/hotel/8231/index.fr.shtml
+way	456097958	Radisson Blu CDG Airport Terminal Hotel		49.0109711	2.5627128	hotel		Pullman		https://www.radissonhotels.com/fr-fr/hotels/radisson-blu-paris-roissy-CDG-airport
+way	510716283	citizenM hotel Paris Charles de Gaulle Airport		49.0094767	2.5563296	hotel			citizenM hotels	https://www.citizenm.com/destinations/paris/paris-charles-de-gaulle-hotel
+way	570738538	Off Paris Seine		48.8427503	2.3680657	hotel	4			https://offparisseine.com
+way	578778300	Holiday Inn Express Paris - CDG Airport		49.0088228	2.5476388	hotel		Holiday Inn Express	IHG Hotels	https://www.ihg.com/holidayinnexpress/hotels/us/en/roissy-en-france/pardg/hoteldetail
+way	625227462	Hôtel Citadines Bastille Gare de Lyon		48.8462679	2.3840588	hotel	3	Citadines		https://www.hotelaparis.com/hotel-charme-paris/gare-de-lyon/citadines-bastille-gare-lyon.html
+way	808530079	Holiday Inn		49.0087297	2.5144331	hotel		Holiday Inn		https://www.ihg.com/holidayinn/hotels/us/en/paris-cdg-airport/parap/hoteldetail
+way	867804400	Okko Hôtel		48.8790585	2.3591071	hotel	4	Okko		https://www.okkohotels.com/fr/page/paris-gare-de-lest/okko-hotels-paris-gare-de-lest-hotel-4-etoiles-paris-10.3097.html
+way	1001242631	1K		48.8638773	2.3657230	hotel	3			https://www.1k-paris.com/
+way	1020883004	Sheraton		49.0039949	2.5709853	hotel		Sheraton	Sheraton	https://www.marriott.fr/hotels/travel/parsi-sheraton-paris-airport-hotel-and-conference-centre/
+way	1042621963	Hôtel des Grands Voyageurs		48.8469665	2.3257600	hotel		Symphonie Hotels		https://www.hoteldesgrandsvoyageurs.com/
+way	1043797984	Moxy Paris Charles de Gaulle Airport		49.0076138	2.5473412	hotel		Moxy		https://www.marriott.com/PAROX
+way	1080515057	Residence Inn		49.0083800	2.5488593	hotel		Residence Inn		https://www.marriott.com/parri
+way	1080515058	Courtyard		49.0082595	2.5493805	hotel		Courtyard		https://www.marriott.com/parca
+way	1095328215	Hôtel Paris Louis Blanc		48.8810661	2.3655880	hotel	3			
+way	1175446811	Legend		48.8452868	2.3255980	hotel	4		Elegancia Hotels	https://legendhotelparis.com
+way	1213943137	Kyriad		48.8727961	2.3615181	hotel		Kyriad		https://paris-canal-saint-martin-republique.kyriad.com/fr-fr/
+way	1221423767	"Appart’city collection, Paris Gare de Lyon"		48.8423915	2.3847400	hotel	4	Appart'City		https://www.appartcity.com/fr/destinations/ile-de-france/paris-1/paris-gare-de-lyon.html
+way	1223718601	Albe Bastille		48.8493000	2.3743481	hotel				https://www.hotelalbebastille.com/
+way	1249478546	Suites & hôtel Montparnasse (Helzear)		48.8346814	2.3255394	hotel	4			https://www.helzear.com/hotel/montparnasse/
+way	1255737941	Bloom house		48.8814378	2.3625227	hotel				https://bloomhouse-hotel.com/
+way	1273950119	Le Petit Beaumarchais		48.8548084	2.3690568	hotel				https://hotelpetitbeaumarchaisparis.com/
+way	1310878546	Hôtel Garden Saint-Martin		48.8711882	2.3623492	hotel	2			
+way	1313346067	Drawing House		48.8370483	2.3201225	hotel				https://www.drawinghouse.com/
+way	1388323196	Le Grand Mazarin		48.8573108	2.3543971	hotel	5			https://www.legrandmazarin.com
+way	1423389760	Mercure Paris Montparnasse Raspail Hotel		48.8412122	2.3303420	hotel	4	Mercure		https://all.accor.com/hotel/0351/index.fr.shtml
+way	1424461575	Magenta 38		48.8721643	2.3602460	hotel	3			https://hotelmagenta38.com
+way	1424461576	Hôtel des 3 Nations		48.8698119	2.3605063	hotel	2			
+way	1436285355	Goralska résidence Paris Bastille		48.8482852	2.3657551	hotel				https://www.goralskaresidences.com/fr/pagex/hotel-paris-bastille
+way	1443081719	Ibis Styles Paris Gare de l'Est Magenta		48.8751308	2.3584147	hotel	3	Ibis Styles		
+way	1455332914	Hôtel Beaubourg		48.8600067	2.3533531	hotel	3			https://www.beaubourg-paris-hotel.com
+way	1528898271	Le Régent Montmartre		48.8827530	2.3450815	hostel	2			
+way	1528898272	Hôtel Gerando		48.8826098	2.3458116	hotel				
+way	1550894085	Hôtel Américain		48.8647335	2.3649689	hotel	2			http://www.paris-hotel-americain.com/
+relation	541438	Drawing Hotel		48.8644345	2.3359345	hotel	4			https://www.drawinghotel.com
+relation	555548	Hôtel Cluny Square		48.8515273	2.3435353	hotel	3			https://www.cluny-paris-hotel.com
+relation	570127	Hôtel Dupond Smith		48.8578846	2.3572337	hotel				https://www.hoteldupondsmith.com/
+relation	570245	Bourg Tibourg		48.8572405	2.3558913	hotel	4			https://bourgtibourg.com
+relation	571849	Hôtel Bastille Speria		48.8539824	2.3675485	hotel				https://www.hotel-bastille-speria.com/
+relation	659681	Hôtel du Lys		48.8521926	2.3420843	hotel	3			https://hoteldulys.com/
+relation	974814	Relais Saint-Sulpice		48.8510141	2.3359224	hotel	4			https://www.relais-saint-sulpice.com/
+relation	983690	Hôtel Aulivia Opéra		48.8730312	2.3540501	hotel	4			
+relation	983746	Hôtel Hor		48.8792645	2.3577254	hotel	4		Debecque Jacques	https://www.hotel-hor.com/
+relation	983994	Ibis Styles - Paris Gare de l'Est TGV		48.8758355	2.3573804	hotel		Ibis Styles	Accord	
+relation	1060804	Hôtel de Crillon		48.8676142	2.3213457	hotel	5			https://www.rosewoodhotels.com/en/hotel-de-crillon
+relation	1069737	Hilton Paris Opera		48.8757221	2.3254782	hotel	4	Hilton	Hilton	https://www.hilton.com/en/hotels/parophi-hilton-paris-opera/?WT.mc_id=zELWAKN0EMEA1HI2DMH3LocalSearch4DGGenericx6PAROPHI
+relation	1085292	Serotel Suites		48.8762610	2.3482416	hotel	4			https://www.serotelsuites.com/
+relation	1085386	Maison Athénée		48.8714237	2.3278025	hotel	4			
+relation	1198705	Agenor		48.8368706	2.3240469	hotel	3			https://www.agenor-paris-hotel.com/
+relation	1213058	Hôtel Apollinaire		48.8412334	2.3257995	hotel	3			https://www.hotel-apollinaire.com
+relation	1213103	Aiglon		48.8396664	2.3300727	hotel	4			https://www.paris-hotel-aiglon.com
+relation	1213109	Hôtel Clairefontaine		48.8359395	2.3254815	hotel	3			https://www.hotelclairefontaine.com
+relation	1485110	Paris Marriott Charles de Gaulle Airport Hotel		49.0026210	2.5205035	hotel		Marriott		https://www.marriott.com/fr/hotels/parmc-paris-marriott-charles-de-gaulle-airport-hotel/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0
+relation	2186389	Hôtel Sofia		48.8848089	2.3476161	hotel				

@@ -1,0 +1,241 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	368662784	풍림리조트	Pungnim Resort Hotel	37.4987060	127.0315040	hotel				
+node	368664052	렛츠고리조트	Let's go Resort Hotel	37.5558439	126.9228600	hotel				
+node	368882722	서울유스호스텔	Seoul Youth Hostel	37.5584172	126.9909827	hostel				
+node	368951009	시티파크호텔	City Park Hotel	37.5765490	126.9898180	hotel				
+node	368951091	호텔와이드	Hotel Waideu	37.5604550	127.0047730	hotel				
+node	368951116	크라운호텔	Crown Hotel	37.5739867	126.9881472	hotel				
+node	368951163	센추럴 관광호텔	Central Tourist Hotel	37.5687674	126.9928615	hotel				
+node	368951190	호텔비케이닷컴		37.5625858	126.9203940	hotel				
+node	368951212	투호텔	Tu Hotel	37.5718801	127.0042599	hotel				
+node	368951239	바티카호텔	Vatica Hotel	37.5701298	127.0155393	hotel				
+node	368951247	뉴천지 관광호텔	New Cheonji Tourist Hotel	37.5659030	127.0032630	hotel				
+node	368951250	뉴오리엔탈호텔	New Oriental Hotel	37.5603650	126.9836290	hotel				
+node	368951293	젤리호텔	Jelli Hotel	37.4999780	127.0317590	hotel				
+node	368951304	스타호텔	Star Hotel	37.4995300	127.0353548	hotel				
+node	368951314	호텔누누	Hotel Nunu	37.5709960	126.9895640	hotel				
+node	368951336	톰지호텔	Tomji Hotel	37.5722720	126.9892410	hotel				
+node	368951375	영빈호텔	Yeongbin Hotel	37.5630650	127.0054400	hotel				
+node	368951378	대성호텔	Daeseong Hotel	37.5718310	126.9892700	hotel				
+node	368951396	노블호텔	Noble Hotel	37.5767000	126.9895440	hotel				
+node	368951411	세화호텔	Sehwa Hotel	37.5719990	127.0069740	hotel				
+node	368951414	씨티호텔	City Hotel	37.5765390	126.9897840	hotel				
+node	368951426	우석호텔	Useok Hotel	37.5674430	126.9841100	hotel				
+node	368951431	호텔켓츠	Hotel Ketcheu	37.5730800	126.9888230	hotel				
+node	368951470	동대문호텔	Eastern Hotel	37.5708959	127.0103087	hotel				
+node	368951528	둘로스호텔	Dulloseu Hotel	37.5692020	126.9906190	hotel				
+node	368951579	Hotel Biz Jongno-Insadong	Hotel Biz Jongno-Insadong	37.5732840	126.9884800	hotel				
+node	368951695	유양관광호텔	Yuyang Tourist Hotel	37.5535990	126.9167700	hotel				
+node	368951727	남산힐호텔	Namsan Hill Hotel	37.5565690	126.9822990	hotel				https://namsanhill.modoo.at/
+node	368951847	뉴천지관광호텔	New Cheonji Tourist Hotel	37.5658760	127.0032290	hotel				
+node	368952136	호텔쿤타	Hotel Kunta	37.4958450	127.0298790	hotel				
+node	1967126064	Mercure		37.5012353	127.0354040	hotel		Mercure		
+node	2518647874	GS Hotel		37.5689427	126.9919694	hotel				
+node	2757949390	호텔 더 디자이너스 종로	Hotel The Designers	37.5693271	126.9890292	hotel	3			http://www.thedesignershotel.com/
+node	3105252069	Kimchee Dongdaemun2		37.5597994	127.0131042	hostel				
+node	3225937427	힐하우스호텔	Hill House Hotel	37.5567797	126.9820193	hotel				
+node	3343925284	LOOKHOME Myeongdong		37.5584082	126.9859867	hotel				http://lookhome.kr
+node	3792055879	Hotel Ri[an]		37.5692714	126.9909795	hotel				
+node	3792055880	Hotel Sheel		37.5693286	126.9898656	hotel				
+node	3792055881	Khaosan Story Mini hotel		37.5695058	126.9907945	hostel				
+node	3792055887	7 Street Hotel Seoul		37.5685175	126.9907066	hotel				
+node	3793800601		Hotel Prince	37.5607233	126.9861971	hotel				
+node	3793800602	솔라리아 니시테츠 호텔 서울 명동	Solaria Nishitetsu Hotel Seoul Myeongdong	37.5624384	126.9853541	hotel				
+node	3793800604	호텔스카이파크 센트럴 명동점	Hotel Skypark Central	37.5645876	126.9852156	hotel				
+node	3806615941	서울 53 호텔		37.5749970	126.9895361	hotel				
+node	3824379469	이비스 앰배서더 인사동	Ibis Ambassador Insadong	37.5742042	126.9884920	hotel		Ibis		
+node	4154646889	서머셋팰리스서울	Somerset Palace Hotel	37.5749673	126.9812106	hotel				
+node	4175454698	홍대프라자고시텔		37.5526241	126.9226752	hostel				
+node	4175454701	펌킨게스트하우스	pumpkin guesthouse	37.5527453	126.9232814	hostel				
+node	4177515364	Mr. Comma Guesthouse		37.5590373	126.9199239	hostel				
+node	4185390184	Seoulwise		37.5597944	126.9225546	hostel				
+node	4202206691	스타즈호텔 명동1호점	Staz Hotel Myeongdong 1	37.5670081	126.9913726	hotel				http://www.stazhotel.com/brand/
+node	4221573989	Incheon airport hotel car park		37.4391956	126.4607094	hotel				
+node	4242399989	호텔코지	Hotel Cozy	37.5607375	126.9794892	hotel				
+node	4252609697	Tmark Hotel Myeongdong		37.5625845	126.9927286	hotel	3			http://tmarkhotel.com/
+node	4257916190	보듬게스트하우스서울타워	"Bodeum Stay Guesthouse, Myeongdong"	37.5575180	126.9837593	hostel				http://www.bodeumstay.com/
+node	4259804589	Hotel Bene		37.5650332	126.9924939	hotel				
+node	4264095701	Kimchee Dongdaemun Guesthouse		37.5716407	127.0033589	hostel				https://kimcheeguesthouse.com/
+node	4282053491	Incheon Airport Egarak Residence		37.4388936	126.4629784	hotel				
+node	4293888989	르와지르 호텔 서울	LOISIR HOTEL SEOUL	37.5610311	126.9846860	hotel				
+node	4410739789			37.5694419	126.9907992	hotel				
+node	4412575189	7호텔	7 Hotel	37.5588832	126.9839811	hotel				
+node	4420520858	Royal Hotel Seoul		37.5641319	126.9855618	hotel				
+node	4565955296	호텔 문	MOON hotel&guesthouse	37.5623513	126.9783532	hotel				
+node	4603986090	Brownie guesthouse	Brownie guesthouse	37.5594344	126.9252161	hostel				
+node	4686187514		Air Hostel	37.5717169	127.0035661	hostel				
+node	4832773321			37.4936371	127.0282566	hotel				
+node	4945188823	레드게스트하우스	Red Guest House Hotel	37.5589456	126.9851732	hotel				
+node	4946726623			37.5672432	127.0010114	hostel				
+node	4946726722	Hotel Seul		37.5715432	127.0034145	hotel				
+node	4946726723			37.5714413	127.0073864	hotel				
+node	4946726821			37.5699369	127.0025038	hostel				
+node	5014141621	Seoul i guesthouse	Seoul i guesthouse	37.5594940	126.9258407	hostel				http://www.seouliguesthouse.com/
+node	5046507621	Stay ForU Hongdae	StayForU Hongdae	37.5595860	126.9278049	hostel				
+node	5215705623	Hotel Ri[an]		37.5692877	126.9911219	hotel				http://seoulhotel-rian.com
+node	5275314821		Vestin Boutique	37.5620328	126.9921205	hotel				
+node	5397228721	Lux Guesthouse		37.5548205	126.9303371	hostel				
+node	5499299760	밀레니엄고시원		37.5710652	127.0108971	hostel				
+node	5516872729	호텔 스카이파크 킹스타운 동대문	Hotel Skypark Kingstown Dongdaemun	37.5687926	127.0077601	hotel				
+node	5805939453	노보텔앰배서더서울	Novotel Ambassador Seoul	37.5664312	127.0045359	hotel				
+node	5898010485	ramada Suites		37.5601340	126.9713038	hotel				
+node	5948219085	우와게스트하우스	UWA GUESTHOUSE	37.5602740	126.9230392	hostel				http://uwa-guesthouse.com
+node	6277802286		Shire Inn hotel	37.5731967	126.9887130	hotel				
+node	6400294785		Travelodge Dongdaemun	37.5661969	127.0021505	hotel				
+node	6414252380	호텔더디자이너스		37.5637662	127.0057192	hotel				
+node	6414255590	Crown Park		37.5636853	126.9801549	hotel				
+node	6433308130	Transit Hotel		37.4504501	126.4546219	hotel				
+node	6499272985	서울게스트하우스	Seoul guesthouse foreigners only	37.5685773	126.9890942	hostel				
+node	6562049868	The-Ore		37.5555153	126.9203491	hotel				
+node	6593248703	HOTEL SEINE		37.5728182	126.9898709	hotel				
+node	6593254035		Hostel Korea - Ikseon	37.5737617	126.9909796	hostel				
+node	6594321345		Hostel Korea	37.5761002	126.9902775	hostel				
+node	6594474380	Tong Tong Hotel		37.5734864	126.9918513	hotel				
+node	6595409340	Hotel 2 Heaven		37.5723520	126.9897022	hotel				
+node	6619515085		1012 House Namsam	37.5576854	126.9840940	hotel				
+node	6669605887	스튜디오 41 서올 코리아	studio 41st	37.5614994	126.9214846	hostel				
+node	6673489246	Ekonomy Hotel		37.5613672	126.9845905	hotel				
+node	6698262065	K Pop Hotel		37.5547727	126.9741041	hotel				
+node	6866265186	강남 센트럴 푸르지오 시티	Gangnam Central Purugio City	37.4976572	127.0295785	hostel				
+node	7010670720	Dong do hotel		37.5595945	126.9848234	hotel				
+node	7297185346	L'ESCAPE HOTEL		37.5600276	126.9795778	hotel		L'ESCAPE		
+node	7848217132	파라다이스시티 호텔 & 리조트	Paradise City Hotel & Resort	37.4373033	126.4556711	hotel				https://www.p-city.com/front/hotel/overview
+node	7848397200	파라다이스시티 아트 파라디소	Paradise City Art Paradiso	37.4369933	126.4577810	hotel				
+node	7856176781	머큐어 앰버서더 호텔 홍대	Mecure Ambassader Hotel Hongdae	37.5553622	126.9223807	hotel		Mecure		
+node	8379841860	토마스호텔	Hotel Tomas	37.5631749	126.9782624	hotel				
+node	8410513904	Travelodge Myeongdong City Hall	Travelodge Myeongdong City Hall	37.5631227	126.9780479	hotel		Travelodge		https://www.travelodgehotels.asia/travelodge-myeongdong-city-hall/
+node	9301802491	아담여관		37.5578004	126.9301880	hostel				
+node	9315470105	야코리아호스텔 홍대점		37.5587786	126.9295105	hostel				
+node	9315470328	우산속풍경		37.5569593	126.9325528	hostel				
+node	9385063466	태양고시텔		37.5540477	126.9314006	hostel				
+node	9797716817		Staz hotel Myeongdong 2	37.5624729	126.9904435	hotel				
+node	10111095717		Hotel Nafore	37.5688486	126.9906281	hotel				
+node	10112440317		Ramada by Wyndham Dongdaemun	37.5658497	127.0025100	hotel				
+node	10244340211		Time Travelers Relax Hostel	37.5604473	126.9302123	hostel				
+node	10572187165	L7 명동	L7 Myeongdong	37.5612297	126.9868853	hotel				https://www.lottehotel.com/myeongdong-l7/
+node	10833606105	버즈네스트호스텔 홍대	Hongdae Birdsnest Hostel	37.5611701	126.9215105	hostel				
+node	10949981243	오요루프탑호스텔	OYO Rooftop Hostel	37.5582738	126.9865101	hostel				
+node	11049145205	Jin's paradise hostel	Jin's prarise hostel	37.5531081	126.9219297	hostel				
+node	11056458197	Four Points by Sheraton Josun		37.5655633	126.9894710	hotel		Four Points by Sheraton		https://www.marriott.com/en-us/hotels/selfd-four-points-josun-seoul-myeongdong/overview/
+node	11215320437			37.5662231	127.0016072	hotel				
+node	11464378955	메트로호텔	Metro Hotel Myeongdong	37.5651052	126.9836210	hotel				https://www.metrohotel.co.kr/
+node	11708698269			37.5714803	126.9897271	hotel				
+node	11741956569		Jongro Amare	37.5713205	126.9897383	hotel				
+node	11750680149			37.5609096	126.9274237	hostel				
+node	11765629272	디어스 명동	Dears Myeongdong	37.5608723	126.9913479	hotel				http://www.dearsmd.com/eng/index.php
+node	11806443469	Hotel Mido Myeongdong		37.5585617	126.9806127	hotel				
+node	11865106669		Royal Square Hotel	37.5608281	126.8103747	hotel				
+node	11879744412	Darakhyu Capsule Hotel		37.4691609	126.4343424	hotel				https://www.walkerhill.com/capsulehotel/en/t2/
+node	11930286188	호텔가온골든파크	Hotel Gaon Golden Park	37.5709168	127.0146473	hotel				
+node	11998243870	호텔28 명동	Hotel 28 Myeongdong	37.5643321	126.9840218	hotel				
+node	12050891969	Lemong Hotel		37.5688621	126.9884804	hotel				
+node	12064324331	Coups Hotel		37.5763524	126.9899489	hotel				
+node	12069268482	호텔미드시티명동	Hotel Midcity Myeong Dong	37.5675769	126.9808906	hotel				
+node	12069377346	엠지 호텔 종각		37.5689454	126.9847438	hotel				
+node	12070848925	케이팝 서울타워		37.5567846	126.9771693	hotel				
+node	12071044140	헤리티지31호텔		37.5693683	126.9863220	hotel				
+node	12071172012	종로 부티크k호텔		37.5692429	126.9882097	hotel				
+node	12088435970	Seoul Cube Meyongdong		37.5638254	126.9799359	hostel				
+node	12091739532	토요코인호텔	Toyoko INN	37.5646838	127.0089605	hotel		Toyoko Inn		https://www.toyoko-inn.com
+node	12150835801	glory inn		37.5651368	127.0022647	hotel				
+node	12176741230	Incheon Terminal 2 Transit Hot		37.4682706	126.4360740	hotel				
+node	12177128252	PIPE Hostel DDP		37.5611216	127.0055880	hostel				
+node	12192168080	강남 스테이(GANGNAM STAY)		37.4994112	127.0354726	hotel				
+node	12223518701	J.HillHouse		37.5762410	126.9889599	hotel				https://jhillhouse.com/
+node	12234742878	홀리데이인 익스프레스	Holiday Inn Express	37.5576721	126.9266770	hotel		Holiday Inn Express	IHG	https://www.ihg.com/holidayinnexpress/hotels/us/en/seoul/seohg/hoteldetail
+node	12365088701	Olive Hostel Myeongdong		37.5584301	126.9851425	hotel				
+node	12736261469	베이튼 서울 동대문 호텔	Baiton Seoul Dongdaemun Hotel	37.5651721	127.0026995	hotel				
+node	12767867901	Roi Guisthouse		37.5630683	126.9239955	hotel				
+node	13040382045	롯데시티호텔 김포공항	Lotte City Hotel Gimpo Airport	37.5638320	126.8027024	hotel				www.lottecityhotelgimpoairport.com
+node	13095936223	오라카이 인사동 스위츠	Orakai Insadong Suites	37.5729863	126.9873217	hotel				
+node	13108369820	Savoy		37.5615760	126.9847093	hotel				
+node	13108369821	Skyparki		37.5613163	126.9841466	hotel				
+node	13130279801	OYO Myeongdong 6 Hostel		37.5593093	126.9851687	hotel				
+node	13166304201		Ibis Ambassador Insadong	37.5743731	126.9894393	hotel				
+node	13185277901	Hotel Modak Namdaemun		37.5604866	126.9719348	hotel				
+node	13246866949	Nine Tree by Parnas		37.5745450	126.9832069	hotel				
+node	13362999601	Sleepbox Myeongdong		37.5619993	126.9854787	hostel				
+node	13439724501	Local Stitch Creator Town Seogyo		37.5562702	126.9167315	hotel				https://localstitch.town
+node	13465475294	Roaming TIger Hostel		37.5640140	127.0152803	hostel				https://www.instagram.com/roaming_tiger_hostel/
+node	13652437701	Zen Seoul Stay		37.5728767	126.9900365	hotel				
+node	13681929500	하이동대문호스텔		37.5674023	127.0074354	hostel				
+node	13704579354		Huayuan House	37.5601300	126.9215068	hotel				
+node	13955245254	SULLA STAY		37.5766823	126.9910579	hotel				
+node	13955745373	N285호텔		37.5723895	126.9874582	hotel				
+node	13957666323	호텔통안단테		37.5712607	126.9852507	hotel				
+node	13957768885	블랙호텔		37.5715618	127.0129157	hotel				
+node	13987145096	"Le Méridien Seoul, Myeongdong"		37.5615600	126.9827331	hotel		Le Méridien		https://www.marriott.com/en-us/hotels/selmm-le-meridien-seoul-myeongdong/
+node	13987176844	"Moxy Seoul, Myeongdong"		37.5617012	126.9826430	hotel		Moxy		https://www.marriott.com/en-us/hotels/selmx-moxy-seoul-myeongdong/
+node	13991238075			37.5012875	127.0354999	hotel		AC Hotel		
+node	13995187763	K그랜드호텔명동		37.5621145	126.9846905	hotel				
+way	117914845	롯데호텔서울	Lotte Hotel	37.5652460	126.9806329	hotel		Lotte Hotels & Resorts		http://www.lottehotelseoul.com/kr/
+way	233593619	더플라자호텔	The Plaza Hotel	37.5646476	126.9780607	hotel				
+way	233593635	뉴서울호텔		37.5679633	126.9780959	hotel				
+way	233593644	프레지던트호텔	President Hotel	37.5655616	126.9793625	hotel				
+way	270034511	세종호텔	Sejong Hotel	37.5614311	126.9879975	hotel				www.sejong.co.kr/
+way	273028085	퍼시픽호텔	Pacific Hotel	37.5597094	126.9854214	hotel				https://www.thepacifichotel.co.kr/
+way	298530902	라이즈	RYSE	37.5542926	126.9211663	hotel				
+way	299404486	베니키아프리미어 메리골드호텔		37.5532750	126.9197099	hotel				
+way	299406405	보보호텔	BOBO HOTEL	37.5523426	126.9181712	hotel				
+way	305453132			37.5553204	126.9755256	hotel	5	Hilton	Hilton	https://www.hilton.com/en/hotels/selhitw-millennium-hilton-seoul/
+way	315658898	뉴코리아호텔	New Korea Hotel	37.5581936	126.9796616	hotel				
+way	355592124	사보이호텔		37.5617449	126.9842474	hotel				
+way	355593262	미조호텔		37.5617157	126.9854289	hotel				
+way	355604709	소테츠 프레사 인 서울 명동	Sotetsu Fresa Inn Seoul Myeong-dong	37.5636859	126.9850098	hotel		Sotetsu Fresa Inn		https://sotetsu-hotels.com/fresa-inn/myeong-dong/
+way	358098017	JW 메리어트 동대문 스퀘어	JW Marriott Dongdaemun Square Seoul	37.5704203	127.0088158	hotel				
+way	358284634	ECONOMY HOTEL		37.5669566	127.0064097	hotel				
+way	358285905	에비뉴모텔	Avenue Motel	37.5651693	127.0062690	hotel				
+way	358292303	이비스버젯 앰배서더	Ambassador Seoul Dongdaemun	37.5641435	127.0088136	hotel				
+way	358300388	롯데시티호텔 명동	Lotte City Hotel Myeong-dong	37.5669379	126.9879997	hotel				
+way	358310015	헨나호텔 서울 명동	Henn na Hotel Seoul Myeongdong	37.5620296	126.9882690	hotel				https://seoul.myeongdong.hennnahotel.com/ko/our-hotel/
+way	358312127	더그랜드호텔	The Grand Hotel Myeongdong	37.5616558	126.9871285	hotel				
+way	372013280	렉스호텔	Rek Hotel	37.5586239	126.9809314	hotel				
+way	400821743	라마다호텔앤스위트 서울남대문	"Ramada Hotel and Suites, Seoul Namdaemun"	37.5604751	126.9718711	hotel				
+way	429005059	베스트 웨스턴  인천에어포트 호텔	Best Western Premier Incheon Airport Hotel	37.4383392	126.4597822	hotel				
+way	447703436	그랜드 하얏트 인천	Grand Hyatt Incheon	37.4405857	126.4575550	hotel		Grand Hyatt		
+way	492414694	The Prima Seoul Jongno	Hotel Aventree Jongno	37.5730571	126.9833072	hotel	3			http://www.aventreehotel.com
+way	512604958	신라스테이 광화문	Shilla Stay Gwanghwamun	37.5726177	126.9811361	hotel				www.shillastay.com/gwanghwamun
+way	555212415	썬비호텔	Hotel Sun Bee	37.5730224	126.9847333	hotel				https://www.hotelsunbee.com/
+way	555212416	세림호텔	Serim Hotel	37.5733661	126.9846630	hotel				
+way	555212520	Insa Hostel		37.5749214	126.9846512	hostel				
+way	559135477	Summit Hotel	Summit Hotel	37.5622700	127.0068149	hotel				http://www.summithotelseoul.com/
+way	565640745	Ibis Styles	ibis Styles Ambassador Seoul Myeongdong	37.5616620	126.9893327	hotel		Ibis Styles		
+way	612473483	롯데호텔 L7홍대	L7 Hongdae	37.5557367	126.9216279	hotel				
+way	619716472	아미드호텔 서울		37.5724684	126.9842188	hotel	3			https://tmarkhotels.com/
+way	626418051	도미인 Express 서울인사동	Dormy Inn EXPRESS SEOUL Insadong	37.5724055	126.9872031	hotel		ドーミーインEXPRESS	韓国共立メンテナンス	https://dormy-hotels.com/dormyinn/hotels/insadong/
+way	634096177	로얄호텔서울		37.5642769	126.9856152	hotel				
+way	634096181	호텔스카이파크 명동2호점		37.5648951	126.9850996	hotel				
+way	689461139	아만티호텔웨딩		37.5571437	126.9187256	hotel				
+way	702980171	서울YMCA관광호텔		37.5705819	126.9853259	hotel				
+way	708858343	알로프트 서울 명동	Aloft Seoul Myeongdong	37.5622228	126.9818818	hotel		Aloft Hotels	Starwood	https://www.marriott.com/hotels/travel/selmo-aloft-seoul-myeongdong/
+way	712292596	Hotel Manu		37.5571148	126.9748276	hotel				
+way	760457865	소테츠 호텔즈 더 스프라지르 서울 동대문	Sotetsu Hotel The Splaisir Seoul Dongdaemun	37.5648074	127.0079457	hotel		SOTETSU HOTELS		https://sotetsu-hotels.com/splaisir/dongdaemun/
+way	766904017	오리엔스호텔앤레지던스	Oriens Hotel & Residences	37.5600491	126.9911605	hotel				http://www.orienshotel.com/
+way	766904022	호텔더블에이	Hotel Double A	37.5608021	126.9912693	hotel				http://www.hoteldoublea.com/
+way	768393718			37.5649736	126.9805872	hotel				
+way	772402652			37.5631994	126.9793787	hotel				
+way	781587539	레스케이프 호텔	Lescape Hotel	37.5596750	126.9794413	hotel				
+way	793423954			37.5626203	126.9926460	hotel				
+way	842095635	Mercure Ambassador Seoul Hongdae		37.5553138	126.9223846	hotel				
+way	856393272	호텔 그레이스리 서울	Hotel Gracery Seoul	37.5616466	126.9768429	hotel				https://seoul.gracery.com/
+way	871868152	토요코인 서울강남	Toyoko Inn Seoul Gangnam	37.4919076	127.0300755	hotel				https://www.toyoko-inn.com/search/detail/00282
+way	905410318			37.5614022	126.8142913	hotel				
+way	955312946	티마크그랜드호텔 명동	Tmark grand hotel myeongdong	37.5584618	126.9785567	hotel	4	Tmark Hotels & Resorts		http://tmarkgrandhotel.com/
+way	976776690	Hotel U5		37.5674328	127.0018629	hotel		U5		http://www.hotelu5.com/kor/index.do
+way	1012924857	노보텔 앰배서더 서울 동대문		37.5663138	127.0043807	hotel		Novotel		
+way	1050612983	나인트리호텔 명동2	NINE TREE PREMIER HOTEL MYEONGDONG II	37.5643590	126.9908959	hotel				
+way	1100958885	강남아르누보씨티	Gangnam Artnouveau City	37.4934408	127.0281900	hotel				https://seanhotelgroup.com/hotels/artnouveau-city
+way	1128459169	Travelodge		37.5663781	127.0019119	hotel		Travelodge		
+way	1140702919	호텔다다인사		37.5746380	126.9894879	hotel				
+way	1140702981	호텔 아비숑		37.5764279	126.9895918	hotel				
+way	1140702984	노블호텔		37.5767030	126.9896298	hotel				
+way	1140705580	호텔 피터캣	Petercat Hotel Insadong	37.5750901	126.9896034	hotel				
+way	1165232436	Travelodge		37.5625473	126.9906344	hotel		Travelodge		
+way	1194929011	더가든호텔	The garden hotel	37.5751525	126.9894020	hotel				
+way	1198323711	Travelodge Myeongdong Euljiro		37.5666007	126.9893079	hotel		Travelodge		https://www.travelodgehotels.asia/travelodge-myeongdong-euljiro/
+way	1216135939			37.5607349	126.9794678	hotel				
+way	1216929693			37.5670273	126.9913113	hotel				
+way	1268842802	Ramada		37.5659364	127.0027835	hotel		Ramada		
+way	1277934106			37.5688437	126.9928382	hotel				
+way	1312681673	Hotel Ora		37.4541078	126.4178900	hotel				
+relation	8833641	노보텔 앰배서더 서울 강남	Novotel Ambassador Gangnam	37.5051336	127.0288910	hotel				https://www.accorhotels.com/

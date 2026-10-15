@@ -1,0 +1,2 @@
+11 lines, 132 stations
+  check: East Rail Line: added branch to Lo Wu as its own line; check it isn't a short-working or depot run
