@@ -1,0 +1,266 @@
+{
+  "name": "Barcelona",
+  "country": "Spain",
+  "flag": "🇪🇸",
+  "center": [41.3874,2.1686],
+  "zoom": 13,
+  "operatingHours": "Metro runs Mon–Thu & Sun 5:00 AM–12:00 AM, Fri 5:00 AM–2:00 AM, and runs 24 hours continuously from Saturday 5:00 AM through Sunday night — the most generous weekend hours of any city on this map.",
+  "fareInfo": "Barcelona Metro: €2.90 per single ride (Zone 1), or €13.00 for a T-Casual 10-trip card — better value past ~4 rides. Important: standard tickets and the T-Casual do NOT cover the airport line (L9 Sud) — that needs a separate €5.90 supplement, easy to miss until you're already at the gate.",
+  "lines": [
+    {
+      "id": "bl1",
+      "name": "L1",
+      "color": "#E4022B",
+      "code": "1",
+      "stations": [
+        ["Plaça Catalunya",41.387,2.1701],
+        ["Universitat",41.3849,2.1637],
+        ["Espanya",41.3748,2.1487],
+        ["Glòries",41.4034,2.1877],
+        ["Urquinaona",41.3874,2.1755],
+        ["Clot",41.4103,2.1848],
+        ["Torrassa",41.3629,2.1108]
+      ]
+    },
+    {
+      "id": "bl2",
+      "name": "L2",
+      "color": "#9D4C9E",
+      "code": "2",
+      "stations": [["Sagrada Família",41.4036,2.1744],["Passeig de Gràcia",41.3917,2.1649],["Universitat",41.3849,2.1637],["Paral·lel",41.3746,2.165],["Monumental",41.3976,2.1817]]
+    },
+    {
+      "id": "bl3",
+      "name": "L3",
+      "color": "#009845",
+      "code": "3",
+      "stations": [
+        ["Liceu",41.3806,2.1734],
+        ["Drassanes",41.3757,2.177],
+        ["Catalunya",41.387,2.1701],
+        ["Passeig de Gràcia",41.3917,2.1649],
+        ["Diagonal",41.3947,2.1616],
+        ["Vallcarca",41.4088,2.1443],
+        ["Espanya",41.3748,2.1487],
+        ["Poble Sec",41.3742,2.1611],
+        ["Zona Universitària",41.3844,2.1128]
+      ]
+    },
+    {
+      "id": "bl4",
+      "name": "L4",
+      "color": "#FFC30E",
+      "code": "4",
+      "stations": [["Jaume I",41.3838,2.177],["Barceloneta",41.3805,2.1878],["Ciutadella-Vila Olímpica",41.3878,2.1954],["Passeig de Gràcia",41.3917,2.1649],["Verdaguer",41.4004,2.1699],["Girona",41.3958,2.1685]]
+    },
+    {
+      "id": "bl5",
+      "name": "L5",
+      "color": "#0069B4",
+      "code": "5",
+      "stations": [["Sagrada Família",41.4036,2.1744],["Diagonal",41.3947,2.1616],["Verdaguer",41.4004,2.1699],["Sants Estació",41.3789,2.14],["Hospital Clínic",41.3897,2.1508],["Collblanc",41.3705,2.116]]
+    },
+    {
+      "id": "bl9s",
+      "name": "L9 Sud (Airport)",
+      "color": "#F5A623",
+      "code": "9S",
+      "stations": [["Aeroport T1",41.2974,2.0833],["Aeroport T2",41.3009,2.0721],["Torrassa",41.3629,2.1108],["Collblanc",41.3705,2.116],["Zona Universitària",41.3844,2.1128]]
+    }
+  ],
+  "hotels": [
+    {"name":"Hotel Arc La Rambla","lat":41.3782,"lng":2.1755,"area":"Gothic Quarter","rating":4.4,"stars":3,"priceTier":2,"phone":"+34 933 01 97 98"},
+    {"name":"Hotel Gòtic","lat":41.3834,"lng":2.1782,"area":"Gothic Quarter","rating":4.2,"stars":3,"priceTier":2,"phone":"+34 933 15 22 11"},
+    {"name":"Hotel Colonial Barcelona","lat":41.3823,"lng":2.1807,"area":"Gothic Quarter","rating":4.2,"stars":3,"priceTier":2,"phone":"+34 933 19 22 52"},
+    {"name":"Ítaca Hostel","lat":41.3853,"lng":2.1754,"area":"Gothic Quarter","rating":4.6,"stars":1,"priceTier":1,"phone":"+34 933 01 97 51"},
+    {"name":"Sun & Moon hostel","lat":41.381,"lng":2.1749,"area":"Gothic Quarter","rating":4.2,"stars":1,"priceTier":1,"phone":"+34 932 70 20 60"},
+    {"name":"Radisson Blu 1882 Hotel, Barcelona Sagrada Familia","lat":41.404,"lng":2.1696,"area":"Eixample","rating":4.5,"stars":4,"priceTier":3,"phone":"+34 933 47 84 86"},
+    {"name":"Hotel Boutique Hostemplo","lat":41.4013,"lng":2.1733,"area":"Eixample","rating":4.5,"stars":4,"priceTier":3,"phone":"+34 934 76 55 75"},
+    {"name":"Hotel NH Barcelona Eixample","lat":41.3858,"lng":2.1542,"area":"Eixample","rating":4.1,"stars":3,"priceTier":2,"phone":"+34 933 23 62 15"},
+    {"name":"Sercotel Rosselló","lat":41.4048,"lng":2.1727,"area":"Eixample","rating":4.2,"stars":3,"priceTier":2,"phone":"+34 936 00 92 00"},
+    {"name":"Hostal Live Barcelona","lat":41.3836,"lng":2.16,"area":"Eixample","rating":4.3,"stars":2,"priceTier":2,"phone":"+34 935 32 77 07"},
+    {"name":"W Barcelona","lat":41.3684,"lng":2.1902,"area":"Barceloneta","rating":4.4,"stars":5,"priceTier":4,"phone":"+34 932 95 28 00"},
+    {"name":"Eurostars Grand Marina","lat":41.3718,"lng":2.1809,"area":"Barceloneta","rating":4.2,"stars":4,"priceTier":3,"phone":"+34 936 03 90 00"},
+    {"name":"Hotel 54 Barcelona","lat":41.377,"lng":2.1889,"area":"Barceloneta","rating":4.3,"stars":3,"priceTier":2,"phone":"+34 932 25 00 54"},
+    {"name":"Hotel Barceló Sants","lat":41.3791,"lng":2.1396,"area":"Barcelona Sants","rating":4.3,"stars":4,"priceTier":3,"phone":"+34 935 03 53 00"},
+    {"name":"Hilton Barcelona","lat":41.3887,"lng":2.1314,"area":"Barcelona Sants","rating":4.3,"stars":4,"priceTier":3,"phone":"+34 934 95 77 77"},
+    {"name":"Hotel NH Sants Barcelona","lat":41.3845,"lng":2.1377,"area":"Barcelona Sants","rating":4.3,"stars":3,"priceTier":2,"phone":"+34 916 00 81 46"},
+    {"name":"abba Sants Hotel","lat":41.3826,"lng":2.14,"area":"Barcelona Sants","rating":4.2,"stars":3,"priceTier":2,"phone":"+34 936 00 31 00"},
+    {"name":"Hyatt Regency Barcelona Tower","lat":41.3462,"lng":2.1086,"area":"Josep Tarradellas Barcelona-El Prat Airport","rating":4.4,"stars":5,"priceTier":4,"phone":"+34 934 13 50 00"},
+    {"name":"INNSiDE by Meliá Barcelona Aeropuerto","lat":41.3126,"lng":2.0684,"area":"Josep Tarradellas Barcelona-El Prat Airport","rating":4,"stars":3,"priceTier":2,"phone":"+34 933 78 10 00"},
+    {"name":"Four Points by Sheraton Barcelona Airport","lat":41.3129,"lng":2.0307,"area":"Josep Tarradellas Barcelona-El Prat Airport","rating":4.1,"stars":3,"priceTier":2,"phone":"+34 930 36 88 99"}
+  ],
+  "sights": [
+    {
+      "name": "Basílica de la Sagrada Família",
+      "lat": 41.4036,
+      "lng": 2.1744,
+      "note": "Gaudí's unfinished masterpiece — under construction since 1882, book tickets well ahead.",
+      "hours": "9:00 AM–6:00/8:00 PM daily, seasonal",
+      "rating": 4.7,
+      "phone": "+34 932 08 04 14",
+      "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Sagrada_Familia_(Barcelona).JPG?width=400",
+      "ticketUrl": "https://sagradafamilia.org/en/tickets",
+      "bookAhead": true
+    },
+    {
+      "name": "Casa Batlló",
+      "lat": 41.3917,
+      "lng": 2.1649,
+      "note": "Gaudí's dragon-scaled, bone-like facade on Passeig de Gràcia.",
+      "hours": "9:00 AM–8:00 PM daily",
+      "rating": 4.6,
+      "phone": "+34 932 16 03 06",
+      "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Casa_Batll%C3%B3_01.jpg?width=400",
+      "ticketUrl": "https://www.casabatllo.es/en/online-tickets/",
+      "bookAhead": true
+    },
+    {
+      "name": "Park Güell",
+      "lat": 41.4145,
+      "lng": 2.1527,
+      "note": "Gaudí's whimsical mosaic park overlooking the city — book a timed entry.",
+      "hours": "9:30 AM–7:30 PM, seasonal",
+      "rating": 4.2,
+      "phone": "+34 934 09 18 31",
+      "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Park_G%C3%BCell_02.jpg?width=400",
+      "ticketUrl": "https://parkguell.barcelona/en/buy-tickets",
+      "bookAhead": true
+    },
+    {
+      "name": "Gothic Quarter (Barri Gòtic)",
+      "lat": 41.3833,
+      "lng": 2.1767,
+      "note": "Medieval old town — narrow lanes, Roman ruins, hidden squares.",
+      "hours": "Open 24 hours (district)",
+      "rating": 4.6,
+      "phone": null,
+      "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Barri_G%C3%B2tic_-_panoramio.jpg?width=400"
+    },
+    {
+      "name": "Mercat de la Boqueria",
+      "lat": 41.3818,
+      "lng": 2.1717,
+      "note": "Barcelona's most famous food market, just off Las Ramblas.",
+      "hours": "8:00 AM–8:30 PM, closed Sun",
+      "rating": 4.5,
+      "phone": "+34 933 18 25 84",
+      "img": "https://commons.wikimedia.org/wiki/Special:FilePath/La_Boqueria.JPG?width=400"
+    },
+    {
+      "name": "Palace of Catalan Music",
+      "lat": 41.3875,
+      "lng": 2.1752,
+      "note": "Domènech i Montaner's Art Nouveau concert hall — a UNESCO World Heritage site.",
+      "hours": "Guided tours, check official site",
+      "rating": 4.7,
+      "phone": "+34 932 95 72 00",
+      "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Palau_de_la_M%C3%BAsica_Catalana-Palace_of_Catalan_Music_(Image_2).jpg?width=400",
+      "ticketUrl": "https://www.palaumusica.cat/en/visits-and-tickets_1159168",
+      "bookAhead": true
+    },
+    {
+      "name": "La Pedrera - Casa Milà",
+      "lat": 41.3954,
+      "lng": 2.1619,
+      "note": "Gaudí's undulating stone facade, famous rooftop chimneys.",
+      "hours": "9:00 AM–8:30 PM daily",
+      "rating": 4.4,
+      "phone": "+34 902 20 21 38",
+      "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Spain.Barcelona.Casa.Mila.jpg?width=400",
+      "ticketUrl": "https://www.lapedrera.com/en/visits",
+      "bookAhead": true
+    },
+    {
+      "name": "The Magic Fountain",
+      "lat": 41.3712,
+      "lng": 2.152,
+      "note": "Water, light & music show at the foot of Montjuïc — check current schedule, has had temporary closures.",
+      "hours": "Evenings, seasonal — verify before visiting",
+      "rating": 4.5,
+      "phone": null,
+      "img": "https://commons.wikimedia.org/wiki/Special:FilePath/La_font_magica_de_montjuic.JPG?width=400"
+    },
+    {
+      "name": "Basílica de Santa Maria del Mar",
+      "lat": 41.3838,
+      "lng": 2.1817,
+      "note": "Barcelona's last standing Catalan Gothic church, in the El Born district.",
+      "hours": "10:00 AM–7:00 PM daily",
+      "rating": 4.6,
+      "phone": "+34 933 10 23 90",
+      "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Main_door_-_Basilica_de_Santa_Maria_del_Mar_-_Barcelona_2014.jpg?width=400"
+    },
+    {
+      "name": "Catedral de Barcelona",
+      "lat": 41.3839,
+      "lng": 2.1761,
+      "note": "Gothic cathedral with 500-year-old stained glass.",
+      "hours": "9:30 AM–6:30 PM daily, hours vary",
+      "rating": 4.4,
+      "phone": "+34 933 42 82 60",
+      "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Main_facade_of_Barcelona_Cathedral_-_2013.JPG?width=400"
+    },
+    {
+      "name": "Casa Vicens Gaudí",
+      "lat": 41.4038,
+      "lng": 2.1483,
+      "note": "Gaudí's first house, 1883–1885 — the seeds of his later style.",
+      "hours": "10:00 AM–7:00/8:00 PM, seasonal",
+      "rating": 4.6,
+      "phone": "+34 932 71 18 64",
+      "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Gaud%C3%AD_-_Casa_Vicens.JPG?width=400",
+      "ticketUrl": "https://casavicens.org/en/",
+      "bookAhead": true
+    },
+    {
+      "name": "Las Ramblas",
+      "lat": 41.3797,
+      "lng": 2.1735,
+      "note": "Iconic pedestrian boulevard from Plaça Catalunya to the harbor — lively but watch for pickpockets.",
+      "hours": "Open 24 hours",
+      "rating": 3.9,
+      "phone": null,
+      "img": "https://commons.wikimedia.org/wiki/Special:FilePath/La_Rambla_Barcelona.JPG?width=400"
+    },
+    {
+      "name": "Parc de la Ciutadella",
+      "lat": 41.3888,
+      "lng": 2.1873,
+      "note": "Barcelona's central park — a monumental fountain, a small lake, and the zoo.",
+      "hours": "8:00 AM–9:00/11:00 PM, seasonal",
+      "rating": 4.5,
+      "phone": null,
+      "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Parc_de_la_Ciutadella_-_Barques_a_l%27estany.JPG?width=400"
+    },
+    {
+      "name": "Parc de Montjuïc",
+      "lat": 41.3666,
+      "lng": 2.159,
+      "note": "Hilltop park — Montjuïc Castle, cable car, Olympic stadium, sweeping harbor views.",
+      "hours": "Open 24 hours (park)",
+      "rating": 4.4,
+      "phone": null,
+      "img": "https://commons.wikimedia.org/wiki/Special:FilePath/Castell_de_Montjuic._Barcelona.jpg?width=400"
+    }
+  ],
+  "railStations": [
+    {
+      "name": "Barcelona Sants",
+      "lat": 41.3789,
+      "lng": 2.14,
+      "note": "Barcelona's main rail hub — AVE high-speed trains to Madrid (~2h30) and France (Figueres/Perpignan), plus regional Rodalies lines.",
+      "hours": "Station open ~5:00 AM–12:30 AM. AVE and regional trains depart all day on individual timetables — no single last train. Check Renfe.com for your specific departure."
+    }
+  ],
+  "airports": [
+    {
+      "name": "Josep Tarradellas Barcelona-El Prat Airport",
+      "code": "BCN",
+      "lat": 41.2971,
+      "lng": 2.0785,
+      "transitNote": "~30 min to city center via Metro Line L9 Sud (shown on map) — direct to both terminals, no transfer needed, unlike most airports on this map",
+      "hours": "Departing El Prat: Line L9S runs the same hours as the rest of the metro (~5 AM–midnight, 2 AM Fri, 24h Sat) — a genuine one-seat ride into the city, no transfer required. Fare: €5.90 one-way — standard tickets and T-Casual cards do NOT cover this line, buy the airport supplement separately."
+    }
+  ]
+}

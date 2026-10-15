@@ -1,0 +1,43 @@
+# Runs scripts/osm-lines.js on GitHub's servers (which can reach
+# OpenStreetMap) and attaches the result as a downloadable artifact.
+# Start it from the Actions tab → "Fetch subway lines from OpenStreetMap"
+# → Run workflow. It changes nothing in the repo and deploys nothing.
+name: Fetch subway lines from OpenStreetMap
+
+on:
+  workflow_dispatch:
+    inputs:
+      city:
+        description: City id, e.g. paris (used for the file name)
+        required: true
+      bbox:
+        description: 'Bounding box "south,west,north,east", e.g. 48.80,2.22,48.92,2.47'
+        required: true
+      types:
+        description: OSM route types to include
+        default: subway
+  push:
+    branches: [scale-cities-json]
+    paths: [.github/workflows/osm-lines.yml, scripts/osm-lines.js]
+
+permissions:
+  contents: read
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    env:
+      CITY: ${{ inputs.city || 'paris' }}
+      BBOX: ${{ inputs.bbox || '48.80,2.22,48.92,2.47' }}
+      TYPES: ${{ inputs.types || 'subway' }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node scripts/osm-lines.js "$BBOX" --types "$TYPES" --out "$CITY-lines.json" 2> "$CITY-lines-notes.txt" || (cat "$CITY-lines-notes.txt"; exit 1)
+      - run: cat "$CITY-lines-notes.txt"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: ${{ env.CITY }}-lines
+          path: ${{ env.CITY }}-lines*

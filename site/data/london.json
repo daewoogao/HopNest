@@ -1,0 +1,323 @@
+{
+  "name": "London",
+  "country": "UK",
+  "flag": "🇬🇧",
+  "center": [51.5074,-0.1278],
+  "zoom": 12,
+  "operatingHours": "Tube runs ~5:00 AM–12:00 AM Mon–Sat (shorter hours Sun). Night Tube runs all night Fri & Sat on the Central, Jubilee, Northern & Piccadilly lines (shown on this map).",
+  "fareInfo": "Tube fares with Oyster/contactless: £3.00 off-peak / £3.10 peak for a single Zone 1 journey. Daily cap for Zones 1–2 is £8.90 — you'll never pay more than that in a day no matter how many rides you take.",
+  "lines": [
+    {
+      "id": "central",
+      "name": "Central",
+      "color": "#E32017",
+      "code": "C",
+      "stations": [
+        ["Notting Hill Gate",51.5094,-0.1967],
+        ["Queensway",51.5107,-0.1877],
+        ["Marble Arch",51.5136,-0.1586],
+        ["Bond Street",51.5142,-0.1494],
+        ["Oxford Circus",51.5152,-0.1418],
+        ["Tottenham Court Road",51.5165,-0.1308],
+        ["Holborn",51.5174,-0.12],
+        ["Chancery Lane",51.5185,-0.1112],
+        ["St Paul's",51.515,-0.0973],
+        ["Bank",51.5133,-0.0886],
+        ["Liverpool Street",51.5178,-0.0823],
+        ["Mile End",51.525,-0.0335]
+      ]
+    },
+    {
+      "id": "piccadilly",
+      "name": "Piccadilly",
+      "color": "#003688",
+      "code": "P",
+      "firstLast": "Heathrow⇄central London: first ~5:00 AM, last ~11:30 PM–12:30 AM Mon–Thu/Sun. Runs all night Fri & Sat (Night Tube) between Heathrow T2&3/T5 and Cockfosters — no Terminal 4 service overnight.",
+      "stations": [
+        ["Heathrow Terminals 2 & 3",51.4713,-0.4523],
+        ["Heathrow Terminal 5",51.4723,-0.4885],
+        ["Hammersmith",51.4927,-0.2239],
+        ["Earl's Court",51.4913,-0.1936],
+        ["South Kensington",51.4941,-0.1738],
+        ["Knightsbridge",51.5015,-0.1607],
+        ["Hyde Park Corner",51.5027,-0.1527],
+        ["Green Park",51.5067,-0.1428],
+        ["Piccadilly Circus",51.51,-0.1348],
+        ["Leicester Square",51.5113,-0.1281],
+        ["Covent Garden",51.5129,-0.1243],
+        ["Holborn",51.5174,-0.12],
+        ["Russell Square",51.523,-0.1244],
+        ["King's Cross St Pancras",51.5308,-0.1238]
+      ]
+    },
+    {
+      "id": "circle",
+      "name": "Circle",
+      "color": "#FFD300",
+      "code": "CI",
+      "stations": [
+        ["Paddington",51.5154,-0.1755],
+        ["Bayswater",51.5121,-0.1877],
+        ["Notting Hill Gate",51.5094,-0.1967],
+        ["South Kensington",51.4941,-0.1738],
+        ["Sloane Square",51.4924,-0.1565],
+        ["Victoria",51.4952,-0.1441],
+        ["Westminster",51.501,-0.1254],
+        ["Embankment",51.5074,-0.1223],
+        ["Blackfriars",51.512,-0.1035],
+        ["Cannon Street",51.5115,-0.0904],
+        ["Tower Hill",51.5098,-0.0766],
+        ["Liverpool Street",51.5178,-0.0823],
+        ["Farringdon",51.5202,-0.1053],
+        ["King's Cross St Pancras",51.5308,-0.1238],
+        ["Baker Street",51.5226,-0.1571],
+        ["Edgware Road",51.5199,-0.1679]
+      ]
+    },
+    {
+      "id": "district",
+      "name": "District",
+      "color": "#00782A",
+      "code": "D",
+      "stations": [
+        ["Earl's Court",51.4913,-0.1936],
+        ["South Kensington",51.4941,-0.1738],
+        ["Sloane Square",51.4924,-0.1565],
+        ["Victoria",51.4952,-0.1441],
+        ["Westminster",51.501,-0.1254],
+        ["Embankment",51.5074,-0.1223],
+        ["Blackfriars",51.512,-0.1035],
+        ["Cannon Street",51.5115,-0.0904],
+        ["Monument",51.5108,-0.0857],
+        ["Tower Hill",51.5098,-0.0766]
+      ]
+    },
+    {
+      "id": "jubilee",
+      "name": "Jubilee",
+      "color": "#A0A5A9",
+      "code": "J",
+      "stations": [
+        ["Baker Street",51.5226,-0.1571],
+        ["Bond Street",51.5142,-0.1494],
+        ["Green Park",51.5067,-0.1428],
+        ["Westminster",51.501,-0.1254],
+        ["Waterloo",51.5031,-0.1132],
+        ["London Bridge",51.5049,-0.0863],
+        ["Canada Water",51.4982,-0.05],
+        ["Canary Wharf",51.5051,-0.0209],
+        ["North Greenwich",51.5029,0.0033],
+        ["Stratford",51.5416,-0.0042]
+      ]
+    },
+    {
+      "id": "northern",
+      "name": "Northern",
+      "color": "#000000",
+      "code": "N",
+      "stations": [
+        ["Camden Town",51.5392,-0.1426],
+        ["Euston",51.5282,-0.1337],
+        ["King's Cross St Pancras",51.5308,-0.1238],
+        ["Angel",51.5322,-0.1058],
+        ["Bank",51.5133,-0.0886],
+        ["London Bridge",51.5049,-0.0863],
+        ["Elephant & Castle",51.4943,-0.1004],
+        ["Waterloo",51.5031,-0.1132],
+        ["Leicester Square",51.5113,-0.1281],
+        ["Tottenham Court Road",51.5165,-0.1308],
+        ["Warren Street",51.5247,-0.1384]
+      ]
+    }
+  ],
+  "hotels": [
+    {"name":"The Waldorf Hilton, London","lat":51.5125,"lng":-0.119,"area":"Covent Garden","rating":4.4,"stars":4,"priceTier":4,"phone":"+44 20 7836 2400"},
+    {"name":"Covent Garden Hotel","lat":51.5146,"lng":-0.1271,"area":"Covent Garden","rating":4.6,"stars":5,"priceTier":4,"phone":"+44 20 7806 1000"},
+    {"name":"Zedwell Piccadilly Circus","lat":51.5105,"lng":-0.1335,"area":"Covent Garden","rating":4,"stars":3,"priceTier":2,"phone":"+44 20 7096 5414"},
+    {"name":"The Z Hotel Covent Garden","lat":51.511,"lng":-0.1245,"area":"Covent Garden","rating":4.3,"stars":2,"priceTier":2,"phone":"+44 20 3837 6304"},
+    {"name":"The Kensington Hotel","lat":51.4925,"lng":-0.178,"area":"South Kensington","rating":4.6,"stars":5,"priceTier":4,"phone":"+44 20 7589 6300"},
+    {
+      "name": "100 Queen's Gate Hotel London Kensington, Curio Collection by Hilton",
+      "lat": 51.4924,
+      "lng": -0.1786,
+      "area": "South Kensington",
+      "rating": 4.2,
+      "stars": 4,
+      "priceTier": 3,
+      "phone": "+44 20 7373 7878"
+    },
+    {"name":"Radisson Blu Hotel, London South Kensington","lat":51.4954,"lng":-0.1819,"area":"South Kensington","rating":4,"stars":3,"priceTier":3,"phone":"+44 20 7761 9000"},
+    {"name":"St. Pancras London, Autograph Collection","lat":51.5297,"lng":-0.1259,"area":"King's Cross St Pancras","rating":4.4,"stars":5,"priceTier":4,"phone":"+44 20 7841 3540"},
+    {"name":"The Megaro Hotel","lat":51.5298,"lng":-0.1238,"area":"King's Cross St Pancras","rating":4.3,"stars":4,"priceTier":3,"phone":"+44 20 7843 2222"},
+    {"name":"Premier Inn London Kings Cross hotel","lat":51.5319,"lng":-0.1222,"area":"King's Cross St Pancras","rating":4.2,"stars":3,"priceTier":2,"phone":"+44 333 321 1272"},
+    {"name":"Hilton London Paddington","lat":51.5157,"lng":-0.1759,"area":"Paddington","rating":4,"stars":4,"priceTier":3,"phone":"+44 20 7850 0500"},
+    {"name":"hub by Premier Inn London Paddington hotel","lat":51.5158,"lng":-0.1778,"area":"Paddington","rating":4.4,"stars":2,"priceTier":2,"phone":"+44 20 3297 8925"},
+    {"name":"Premier Inn London Heathrow Airport Terminal 4 hotel","lat":51.4597,"lng":-0.4397,"area":"Heathrow Airport","rating":4.3,"stars":3,"priceTier":2,"phone":null},
+    {"name":"Courtyard by Marriott London Heathrow Airport","lat":51.4811,"lng":-0.4328,"area":"Heathrow Airport","rating":4.2,"stars":4,"priceTier":3,"phone":"+44 20 3988 5000"},
+    {"name":"Premier Inn London Heathrow Airport T2 & T3 (Bath Road) hotel","lat":51.4802,"lng":-0.4246,"area":"Heathrow Airport","rating":4.2,"stars":3,"priceTier":2,"phone":"+44 871 527 8508"},
+    {"name":"Holiday Inn Express, London Heathrow T5","lat":51.4891,"lng":-0.5363,"area":"Heathrow Airport","rating":4,"stars":3,"priceTier":2,"phone":"+44 1753 684001"},
+    {"name":"Sofitel London Gatwick","lat":51.1609,"lng":-0.174,"area":"Gatwick Airport","rating":4.4,"stars":5,"priceTier":4,"phone":"+44 1293 567070"},
+    {"name":"Holiday Inn London - Gatwick Airport","lat":51.1684,"lng":-0.1808,"area":"Gatwick Airport","rating":4.3,"stars":3,"priceTier":3,"phone":"+44 1293 907900"},
+    {"name":"Crowne Plaza London - Gatwick Airport","lat":51.1257,"lng":-0.1896,"area":"Gatwick Airport","rating":4,"stars":4,"priceTier":3,"phone":"+44 1293 608608"}
+  ],
+  "sights": [
+    {
+      "name": "Tower of London",
+      "lat": 51.5081,
+      "lng": -0.0759,
+      "note": "1,000-year-old castle guarding the Crown Jewels.",
+      "hours": "9:00 AM–5:30 PM (from 10 AM Sun/Mon)",
+      "rating": 4.7,
+      "phone": "+44 333 320 6000",
+      "ticketUrl": "https://www.hrp.org.uk/tower-of-london/visit/tickets-and-prices/",
+      "bookAhead": true
+    },
+    {
+      "name": "The British Museum",
+      "lat": 51.5194,
+      "lng": -0.127,
+      "note": "Free entry. Vast collection spanning world history, including the Rosetta Stone.",
+      "hours": "10:00 AM–5:00 PM daily, till 8:30 PM Fri",
+      "rating": 4.6,
+      "phone": "+44 20 7323 8000"
+    },
+    {
+      "name": "Sky Garden",
+      "lat": 51.5112,
+      "lng": -0.0835,
+      "note": "Free public garden and observation deck atop the 'Walkie-Talkie' tower — book a free slot online in advance.",
+      "hours": "8:00 AM–12:00 AM (1 AM Fri, 9 AM Sat/Sun)",
+      "rating": 4.6,
+      "phone": "+44 333 772 0020"
+    },
+    {
+      "name": "Natural History Museum",
+      "lat": 51.4967,
+      "lng": -0.1764,
+      "note": "Free entry. Dinosaur skeletons, the blue whale in Hintze Hall, gemstones.",
+      "hours": "10:00 AM–5:50 PM daily",
+      "rating": 4.6,
+      "phone": "+44 20 7942 5000"
+    },
+    {
+      "name": "Victoria and Albert Museum",
+      "lat": 51.4966,
+      "lng": -0.1722,
+      "note": "Free entry. The world's largest museum of decorative arts and design.",
+      "hours": "10:00 AM–5:45 PM daily, till 10 PM Fri",
+      "rating": 4.8,
+      "phone": "+44 20 7942 2000"
+    },
+    {
+      "name": "Westminster Abbey",
+      "lat": 51.4994,
+      "lng": -0.1273,
+      "note": "Gothic abbey church, site of British coronations for nearly 1,000 years.",
+      "hours": "Check official site — varies by day",
+      "rating": 4.6,
+      "phone": "+44 20 7222 5152",
+      "ticketUrl": "https://tickets.westminster-abbey.org/home/index",
+      "bookAhead": true
+    },
+    {
+      "name": "Tower Bridge",
+      "lat": 51.5055,
+      "lng": -0.0754,
+      "note": "Iconic Victorian bascule bridge with a glass-floor walkway.",
+      "hours": "9:30 AM–6:00 PM daily",
+      "rating": 4.8,
+      "phone": "+44 20 7407 9191",
+      "ticketUrl": "https://www.towerbridge.org.uk/",
+      "bookAhead": true
+    },
+    {
+      "name": "London Eye",
+      "lat": 51.5032,
+      "lng": -0.1195,
+      "note": "Europe's tallest cantilevered observation wheel, views across the Thames.",
+      "hours": "10:00 AM–8:30 PM daily",
+      "rating": 4.5,
+      "phone": "+44 20 7967 8021",
+      "ticketUrl": "https://www.londoneye.com/",
+      "bookAhead": true
+    },
+    {
+      "name": "St Paul's Cathedral",
+      "lat": 51.5138,
+      "lng": -0.0984,
+      "note": "Wren's masterpiece — climb to the Whispering Gallery and dome.",
+      "hours": "8:30 AM–4:30 PM (10 AM Wed), 8 AM–6 PM Sun",
+      "rating": 4.7,
+      "phone": "+44 20 7246 8350",
+      "ticketUrl": "https://www.stpauls.co.uk/",
+      "bookAhead": true
+    },
+    {
+      "name": "Buckingham Palace",
+      "lat": 51.5014,
+      "lng": -0.1419,
+      "note": "Working royal palace — check for Changing of the Guard times.",
+      "hours": "9:30 AM–7:30 PM daily",
+      "rating": 4.5,
+      "phone": "+44 303 123 7300",
+      "ticketUrl": "https://www.rct.uk/visit/buckingham-palace",
+      "bookAhead": true
+    },
+    {
+      "name": "Houses of Parliament & Big Ben",
+      "lat": 51.4995,
+      "lng": -0.1248,
+      "note": "Palace of Westminster and its iconic Elizabeth Tower clock.",
+      "hours": "Tours vary — check official site",
+      "rating": 4.7,
+      "phone": "+44 20 7219 3000",
+      "ticketUrl": "https://tickets.parliament.uk/content/ticket-options",
+      "bookAhead": true
+    },
+    {
+      "name": "Camden Market",
+      "lat": 51.5414,
+      "lng": -0.1465,
+      "note": "Sprawling market — alternative fashion, street food from around the world.",
+      "hours": "10:00 AM–7:00 PM daily",
+      "rating": 4.6,
+      "phone": "+44 20 3763 9900"
+    },
+    {
+      "name": "Borough Market",
+      "lat": 51.5056,
+      "lng": -0.0905,
+      "note": "One of London's oldest food markets — artisan produce, cheese, meat.",
+      "hours": "10:00 AM–5:00 PM Tue–Sun, closed Mon",
+      "rating": 4.6,
+      "phone": "+44 20 7407 1002"
+    }
+  ],
+  "railStations": [
+    {
+      "name": "King's Cross St Pancras",
+      "lat": 51.5308,
+      "lng": -0.1238,
+      "note": "Eurostar high-speed rail to Paris, Brussels & Amsterdam (St Pancras side); East Coast Main Line to Edinburgh, York, Leeds (King's Cross side).",
+      "hours": "Station open ~5:00 AM–12:30 AM. Mainline & Eurostar trains run on individual timetables — no single last train. Eurostar check-in closes 30–90 min before departure, verify directly with Eurostar."
+    },
+    {
+      "name": "Paddington",
+      "lat": 51.5154,
+      "lng": -0.1755,
+      "note": "Elizabeth Line & Heathrow Express to Heathrow Airport; Great Western main line to Bristol, Bath, Wales.",
+      "hours": "Station open ~5:00 AM–12:30 AM. Heathrow Express runs every 15 min, ~5:10 AM–11:25 PM. Great Western mainline trains run on individual timetables."
+    }
+  ],
+  "airports": [
+    {
+      "name": "Heathrow Airport",
+      "code": "LHR",
+      "lat": 51.47,
+      "lng": -0.4543,
+      "transitNote": "~45–60 min to central London via Piccadilly Line (shown on map, direct) or ~15 min via Elizabeth Line/Heathrow Express from Paddington",
+      "hours": "Departing Heathrow: first ~5:00 AM, last ~11:30 PM–12:30 AM most nights. Runs all night Fri & Sat (Night Tube)."
+    },
+    {"name":"Gatwick Airport","code":"LGW","lat":51.1537,"lng":-0.1821,"transitNote":"~30 min to central London via Gatwick Express train from Victoria (National Rail — not on the Underground map)"}
+  ]
+}

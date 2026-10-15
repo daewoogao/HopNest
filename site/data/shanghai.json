@@ -1,0 +1,263 @@
+{
+  "name": "Shanghai",
+  "country": "China",
+  "flag": "🇨🇳",
+  "center": [31.2304,121.4737],
+  "zoom": 12,
+  "operatingHours": "Metro runs ~5:30/6:00 AM–10:30/11:00 PM daily. No overnight service.",
+  "fareInfo": "Shanghai Metro fares are distance-based: ¥3 for trips up to 6 km, rising roughly ¥1 per additional 10 km. Most downtown rides cost ¥3–6.",
+  "lines": [
+    {
+      "id": "sh1",
+      "name": "Line 1",
+      "color": "#E4002B",
+      "code": "1",
+      "stations": [
+        ["Shanghai South Railway Station",31.1545,121.4302],
+        ["Caobao Road",31.1795,121.4232],
+        ["Shanghai Indoor Stadium",31.1897,121.4308],
+        ["Xujiahui",31.1946,121.4357],
+        ["Hengshan Road",31.2062,121.4359],
+        ["Changshu Road",31.214,121.4415],
+        ["South Shaanxi Road",31.2154,121.4487],
+        ["Hanzhong Road",31.2429,121.4589],
+        ["Shanghai Railway Station",31.2497,121.4562],
+        ["People's Square",31.2304,121.4737]
+      ]
+    },
+    {
+      "id": "sh2",
+      "name": "Line 2",
+      "color": "#8CC220",
+      "code": "2",
+      "firstLast": "Pudong Airport end: first ~6:00 AM, last ~10:30 PM. Toward Hongqiao end: last train ~11:47 PM Sun–Thu, ~12:57 AM Fri–Sat (later on weekends).",
+      "stations": [
+        ["Hongqiao Airport Terminal 2",31.1978,121.3336],
+        ["Hongqiao Railway Station",31.1944,121.3196],
+        ["Zhongshan Park",31.2199,121.4204],
+        ["Jing'an Temple",31.2249,121.4467],
+        ["West Nanjing Road",31.2262,121.4568],
+        ["People's Square",31.2312,121.4744],
+        ["East Nanjing Road",31.2394,121.4776],
+        ["Lujiazui",31.2359,121.4993],
+        ["Century Avenue",31.2306,121.5054],
+        ["Longyang Road",31.2183,121.5464],
+        ["Guanglan Road",31.1975,121.6533],
+        ["Pudong International Airport",31.1443,121.8083]
+      ]
+    },
+    {
+      "id": "sh4",
+      "name": "Line 4",
+      "color": "#6F2C91",
+      "code": "4",
+      "stations": [
+        ["Shanghai Railway Station",31.25,121.4568],
+        ["Zhongshan Park",31.2205,121.421],
+        ["Yishan Road",31.1878,121.4312],
+        ["Shanghai Stadium",31.1861,121.4386],
+        ["Century Avenue",31.231,121.5058],
+        ["Pudian Road",31.228,121.5089],
+        ["Lupu Bridge",31.1972,121.4715]
+      ]
+    },
+    {
+      "id": "sh8",
+      "name": "Line 8",
+      "color": "#0089D0",
+      "code": "8",
+      "stations": [
+        ["People's Square",31.2298,121.473],
+        ["Dashijie",31.228,121.482],
+        ["Laoximen",31.2202,121.4841],
+        ["Lujiabang Road",31.2077,121.4816],
+        ["Ninglu Road",31.1958,121.4855],
+        ["Shanghai Stadium",31.1866,121.438]
+      ]
+    },
+    {
+      "id": "sh10",
+      "name": "Line 10",
+      "color": "#BC87E6",
+      "code": "10",
+      "stations": [
+        ["Hongqiao Railway Station",31.1944,121.3196],
+        ["Jiaotong University",31.2043,121.434],
+        ["Shanghai Library",31.2107,121.4419],
+        ["South Shaanxi Road",31.2158,121.4491],
+        ["Xintiandi",31.2211,121.4739],
+        ["Yuyuan Garden",31.2265,121.4922],
+        ["Tiantong Road",31.2429,121.4838],
+        ["North Sichuan Road",31.2478,121.4839]
+      ]
+    }
+  ],
+  "hotels": [
+    {"name":"Park Hotel Shanghai","lat":31.2337,"lng":121.4716,"area":"People's Square","rating":4.3,"stars":4,"priceTier":3,"phone":"+86 21 6327 5225"},
+    {"name":"The Langham Yangtze Boutique Hotel","lat":31.2333,"lng":121.4765,"area":"People's Square","rating":4.5,"stars":5,"priceTier":4,"phone":"+86 21 6080 0800"},
+    {"name":"Meta Tree Hotel Shanghai People's Square","lat":31.2272,"lng":121.4682,"area":"People's Square","rating":4.6,"stars":3,"priceTier":2,"phone":"+86 21 5118 1222"},
+    {"name":"Ji Hotel Shanghai People's Square Beijing West Road","lat":31.2343,"lng":121.466,"area":"People's Square","rating":5,"stars":3,"priceTier":2,"phone":"+86 21 6266 7889"},
+    {"name":"Lin Yin Art Hotel Shanghai","lat":31.2304,"lng":121.4737,"area":"People's Square","rating":5,"stars":3,"priceTier":2,"phone":"+86 21 6878 8999"},
+    {"name":"Shanghai Fish Inn Bund","lat":31.241,"lng":121.4831,"area":"The Bund","rating":4.1,"stars":2,"priceTier":2,"phone":"+86 21 3330 1399"},
+    {"name":"Blue Mountain Bund Youth Hostel","lat":31.2396,"lng":121.4813,"area":"The Bund","rating":4.2,"stars":1,"priceTier":1,"phone":"+86 21 3366 1561"},
+    {"name":"Hyatt on the Bund Hotel","lat":31.2453,"lng":121.4931,"area":"The Bund","rating":4.1,"stars":5,"priceTier":4,"phone":"+86 21 6393 1234"},
+    {"name":"Atour Hotel Shanghai Bund Nanjing East Road","lat":31.2351,"lng":121.4883,"area":"The Bund","rating":4.6,"stars":4,"priceTier":3,"phone":"+86 21 6079 9099"},
+    {"name":"Hotel Chalet Shanghai","lat":31.2401,"lng":121.4863,"area":"The Bund","rating":4.6,"stars":4,"priceTier":3,"phone":"+86 21 6336 2288"},
+    {"name":"Holiday Inn Express Shanghai On The Bund","lat":31.2374,"lng":121.487,"area":"The Bund","rating":4.2,"stars":3,"priceTier":2,"phone":"+86 21 6360 5588"},
+    {"name":"Holiday Inn Express Shanghai Zhabei","lat":31.2523,"lng":121.453,"area":"Shanghai Railway Station","rating":4,"stars":3,"priceTier":2,"phone":"+86 21 3617 9999"},
+    {"name":"Courtyard by Marriott Shanghai Puxi","lat":31.243,"lng":121.4552,"area":"Shanghai Railway Station","rating":4.3,"stars":4,"priceTier":3,"phone":"+86 21 2215 3888"},
+    {"name":"Pullman Shanghai South","lat":31.1622,"lng":121.4234,"area":"Shanghai South Railway Station","rating":4.4,"stars":5,"priceTier":4,"phone":"+86 21 2426 8888"},
+    {"name":"Cordis Shanghai Hongqiao","lat":31.1951,"lng":121.3162,"area":"Shanghai Hongqiao Railway Station","rating":4.6,"stars":5,"priceTier":4,"phone":"+86 21 5263 9999"},
+    {"name":"Hilton Shanghai Hongqiao International Airport","lat":31.1952,"lng":121.3493,"area":"Shanghai Hongqiao Railway Station","rating":4.5,"stars":5,"priceTier":4,"phone":"+86 21 2235 8888"},
+    {"name":"Shanghai Hongqiao Airport Hotel","lat":31.1928,"lng":121.3319,"area":"Shanghai Hongqiao Railway Station","rating":4.2,"stars":4,"priceTier":3,"phone":"+86 21 2236 6666"},
+    {"name":"Mercure Shanghai Hongqiao Railway Station","lat":31.2016,"lng":121.3163,"area":"Shanghai Hongqiao Railway Station","rating":4,"stars":3,"priceTier":2,"phone":"+86 21 2420 2999"},
+    {"name":"Holiday Inn Shanghai Pudong Airport","lat":31.1468,"lng":121.8067,"area":"Shanghai Pudong International Airport","rating":4.6,"stars":4,"priceTier":3,"phone":"+86 21 6861 8888"},
+    {"name":"Holiday Inn Express Shanghai Pudong Airport","lat":31.1732,"lng":121.795,"area":"Shanghai Pudong International Airport","rating":4,"stars":3,"priceTier":2,"phone":"+86 21 6835 1800"},
+    {"name":"Novotel Shanghai Atlantis","lat":31.2395,"lng":121.5248,"area":"Lujiazui","rating":4.5,"stars":4,"priceTier":3,"phone":"+86 21 5036 6666"},
+    {"name":"Grand Hyatt Shanghai","lat":31.2353,"lng":121.5058,"area":"Lujiazui","rating":4.3,"stars":5,"priceTier":4,"phone":"+86 21 5049 1234"},
+    {"name":"Grand Kempinski Hotel Shanghai","lat":31.2425,"lng":121.5041,"area":"Lujiazui","rating":4.5,"stars":5,"priceTier":4,"phone":"+86 21 3867 8888"},
+    {"name":"Pudong Shangri-La","lat":31.2354,"lng":121.4991,"area":"Lujiazui","rating":4.4,"stars":5,"priceTier":4,"phone":"+86 21 6882 8888"}
+  ],
+  "sights": [
+    {"name":"The Bund","lat":31.2403,"lng":121.4906,"note":"Historic waterfront promenade facing the Pudong skyline.","hours":"Open 24 hours","rating":4.7,"phone":null},
+    {
+      "name": "Lujiazui",
+      "lat": 31.2397,
+      "lng": 121.4994,
+      "note": "Shanghai's financial district — the iconic skyline of Shanghai Tower, Jin Mao Tower & Oriental Pearl seen from across the river.",
+      "hours": "Open 24 hours (area, not a ticketed site)",
+      "phone": null
+    },
+    {
+      "name": "Shanghai Tower",
+      "lat": 31.2335,
+      "lng": 121.5056,
+      "note": "Tallest building in China, twisting design, observation deck.",
+      "hours": "8:30 AM–9:30 PM daily",
+      "rating": 4.6,
+      "phone": "+86 21 6199 9766"
+    },
+    {
+      "name": "Oriental Pearl TV Tower",
+      "lat": 31.2397,
+      "lng": 121.4998,
+      "note": "Iconic sci-fi tower with glass skywalk and observation decks.",
+      "hours": "Check official site — hours vary by season",
+      "rating": 4.6,
+      "phone": "+86 21 5879 1888"
+    },
+    {"name":"Yu Garden","lat":31.2272,"lng":121.4921,"note":"Classical Ming-dynasty Chinese garden in the Old City.","hours":"9:00 AM–4:30 PM, closed Mon","rating":4.5,"phone":"+86 21 6326 0830"},
+    {
+      "name": "Shanghai Museum",
+      "lat": 31.2283,
+      "lng": 121.4755,
+      "note": "Free admission, major collection of Chinese art & artifacts.",
+      "hours": "9:00 AM–5:00 PM daily",
+      "rating": 4.3,
+      "phone": "+86 21 6372 3500"
+    },
+    {
+      "name": "Nanjing Road Pedestrian Street",
+      "lat": 31.2347,
+      "lng": 121.4749,
+      "note": "Shanghai's iconic shopping street, stretching from The Bund to People's Square — best at night when it lights up.",
+      "hours": "Open 24 hours",
+      "rating": 4.6,
+      "phone": "+86 21 6352 6638"
+    },
+    {
+      "name": "Xintiandi",
+      "lat": 31.2165,
+      "lng": 121.4751,
+      "note": "Restored Shikumen (stone-gate) lane houses turned upscale dining, bars, and boutiques.",
+      "hours": "10:00 AM–10:00 PM daily",
+      "rating": 4.6,
+      "phone": "+86 21 5382 0666"
+    },
+    {
+      "name": "Jade Buddha Temple",
+      "lat": 31.2413,
+      "lng": 121.4451,
+      "note": "Active Buddhist monastery known for its white jade Buddha statues, free entry.",
+      "hours": "Varies — check locally",
+      "rating": 4.7,
+      "phone": "+86 21 6266 3668"
+    },
+    {
+      "name": "Zhujiajiao Ancient Town",
+      "lat": 31.1144,
+      "lng": 121.054,
+      "note": "Ancient canal water town ~1hr from central Shanghai — Ming/Qing bridges, boat rides.",
+      "hours": "Open 24 hours (attraction area)",
+      "rating": 4.4,
+      "phone": "+86 21 5924 0077"
+    },
+    {
+      "name": "Former French Concession (Wukang Road)",
+      "lat": 31.2039,
+      "lng": 121.4368,
+      "note": "Tree-lined former concession district — Art Deco buildings, cafes, the iconic Wukang Building.",
+      "hours": "Open 24 hours (area, not a ticketed site)",
+      "phone": null
+    },
+    {
+      "name": "Tianzifang",
+      "lat": 31.2088,
+      "lng": 121.4689,
+      "note": "Narrow lane-house alleys turned boutiques, cafes, and galleries — go early to beat crowds.",
+      "hours": "Open 24 hours (area, shop hours vary)",
+      "rating": 4.2,
+      "phone": null
+    },
+    {
+      "name": "Shanghai World Financial Center",
+      "lat": 31.2341,
+      "lng": 121.5072,
+      "note": "The 'bottle opener' tower — glass-floor observation deck on the 100th floor, once the world's highest. Observation decks have been closed since 2023 for renovation — verify current status before planning a visit.",
+      "hours": "Observation deck closed since 2023 (renovation) — check locally for reopening",
+      "rating": 4.6,
+      "phone": null
+    }
+  ],
+  "railStations": [
+    {
+      "name": "Shanghai Railway Station",
+      "lat": 31.2497,
+      "lng": 121.4562,
+      "note": "Conventional & high-speed rail to Nanjing, Suzhou, Hangzhou, Beijing and beyond.",
+      "hours": "Station open ~5:30 AM–11:30 PM. HSR trains depart all day on individual timetables — no single last train. Check 12306.cn or your ticket for your exact departure."
+    },
+    {
+      "name": "Shanghai South Railway Station",
+      "lat": 31.1545,
+      "lng": 121.4302,
+      "note": "High-speed rail, mainly southern routes toward Hangzhou and Zhejiang.",
+      "hours": "Station open ~5:30 AM–11:30 PM. HSR trains depart all day on individual timetables — no single last train. Check 12306.cn or your ticket for your exact departure."
+    },
+    {
+      "name": "Shanghai Hongqiao Railway Station",
+      "lat": 31.1944,
+      "lng": 121.3196,
+      "note": "China's busiest HSR hub — frequent bullet trains to Beijing, Nanjing, Hangzhou, Suzhou. Shares a complex with Hongqiao Airport.",
+      "hours": "Station open ~5:30 AM–11:30 PM. HSR trains depart all day on individual timetables, often every few minutes at peak — no single last train. Check 12306.cn or your ticket for your exact departure."
+    }
+  ],
+  "airports": [
+    {
+      "name": "Shanghai Pudong International Airport",
+      "code": "PVG",
+      "lat": 31.1443,
+      "lng": 121.8083,
+      "transitNote": "~60–75 min to city center via Metro Line 2 (shown on map, direct), or ~8 min via Maglev to Longyang Road then Line 2",
+      "hours": "Departing Pudong Airport: first ~6:00 AM, last ~10:30 PM toward the city on Line 2."
+    },
+    {
+      "name": "Shanghai Hongqiao International Airport",
+      "code": "SHA",
+      "lat": 31.1979,
+      "lng": 121.3363,
+      "transitNote": "~30–40 min to city center via Metro Line 2 (shown on map, direct). Shares a hub with Hongqiao Railway Station — Shanghai's main high-speed rail terminal, also on Line 2 and Line 10.",
+      "hours": "Departing Hongqiao: first ~6:00 AM, last train ~11:47 PM Sun–Thu, ~12:57 AM Fri–Sat (later on weekends) toward the city on Line 2."
+    }
+  ]
+}

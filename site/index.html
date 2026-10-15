@@ -284,517 +284,46 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.js"></script>
 <script>
 /* =================================================================
-   DATA SCHEMA — this is the whole extensibility story.
-   To add a new city, add one entry to CITIES with this exact shape:
+   DATA — one JSON file per city in site/data/, listed in
+   site/data/cities.json (name, country, flag, comingSoon?). Each city
+   file has this shape:
 
-   cityId: {
-     name, country, flag, center:[lat,lng], zoom,
+   { name, country, flag, center:[lat,lng], zoom, operatingHours?, fareInfo?,
      lines:   [{ id, name, jp(optional native name), color, code, stations:[[name,lat,lng], ...] }],
-     hotels:  [{ name, lat, lng, area, rating, priceTier(1-4), phone(optional) }],
-     sights:  [{ name, lat, lng, note, hours(optional), rating(optional), phone(optional) }],
-     airports:[{ name, code, lat, lng, transitNote }]
-   }
+     hotels:  [{ name, lat, lng, area, rating, ratingCount?, stars, priceTier(1-4), phone?, curated?, brandAnchor? }],
+     sights:  [{ name, lat, lng, note, hours?, rating?, phone?, ticketUrl?, bookAhead?, img? }],
+     railStations: [{ name, lat, lng, note, hours? }],
+     airports:[{ name, code, lat, lng, transitNote }] }
+
+   loadAllCities() fills CITIES from those files before the app starts.
    Everything below (rendering, filtering, popups, sidebar) reads from
-   this structure generically — no per-city code required.
+   this structure generically — no per-city code required. Adding a city
+   = adding its JSON file + one line in cities.json; run
+   `node scripts/validate-cities.js` before shipping.
 ================================================================= */
-const CITIES = {
+const CITIES = {};
 
-  tokyo: {
-    name:'Tokyo', country:'Japan', flag:'🇯🇵', center:[35.6895,139.7530], zoom:12,
-    operatingHours:'Trains run ~5:00 AM–12:00/1:00 AM daily. No overnight service — plan around the last train.',
-    fareInfo:'Tokyo Metro & Toei fares are distance-based: ¥180–¥330 (Metro) or up to ¥430 (Toei) per ride. Pay with a Suica/PASMO IC card for the exact fare — no need to calculate ahead.',
-    lines:[
-      { id:'yamanote', name:'Yamanote Line', jp:'山手線', color:'#8FC31F', code:'JY', stations:[
-        ['Tokyo',35.6812,139.7671],['Kanda',35.6918,139.7708],['Akihabara',35.6984,139.7731],
-        ['Okachimachi',35.7075,139.7746],['Ueno',35.7141,139.7774],['Uguisudani',35.7207,139.7787],
-        ['Nippori',35.7280,139.7709],['Nishi-Nippori',35.7322,139.7668],['Tabata',35.7381,139.7607],
-        ['Komagome',35.7365,139.7466],['Sugamo',35.7333,139.7392],['Otsuka',35.7314,139.7286],
-        ['Ikebukuro',35.7295,139.7109],['Mejiro',35.7213,139.7061],['Takadanobaba',35.7124,139.7038],
-        ['Shin-Okubo',35.7010,139.7000],['Shinjuku',35.6896,139.7006],['Yoyogi',35.6836,139.7020],
-        ['Harajuku',35.6702,139.7027],['Shibuya',35.6580,139.7016],['Ebisu',35.6465,139.7100],
-        ['Meguro',35.6339,139.7157],['Gotanda',35.6262,139.7233],['Osaki',35.6197,139.7285],
-        ['Shinagawa',35.6285,139.7387],['Tamachi',35.6457,139.7476],['Hamamatsucho',35.6553,139.7573],
-        ['Shimbashi',35.6665,139.7583],['Yurakucho',35.6749,139.7634],['Tokyo',35.6812,139.7671]
-      ]},
-      { id:'ginza', name:'Ginza Line', jp:'銀座線', color:'#F39700', code:'G', stations:[
-        ['Shibuya',35.6591,139.7020],['Omotesando',35.6654,139.7127],['Gaienmae',35.6697,139.7175],
-        ['Aoyama-itchome',35.6726,139.7238],['Akasaka-mitsuke',35.6779,139.7368],['Tameike-sanno',35.6733,139.7398],
-        ['Toranomon',35.6697,139.7497],['Shimbashi',35.6665,139.7583],['Ginza',35.6717,139.7650],
-        ['Kyobashi',35.6763,139.7706],['Nihombashi',35.6835,139.7737],['Mitsukoshimae',35.6863,139.7738],
-        ['Kanda',35.6918,139.7708],['Suehirocho',35.6996,139.7726],['Ueno-hirokoji',35.7079,139.7738],
-        ['Ueno',35.7141,139.7774],['Inaricho',35.7113,139.7838],['Tawaramachi',35.7113,139.7908],
-        ['Asakusa',35.7113,139.7967]
-      ]},
-      { id:'marunouchi', name:'Marunouchi Line', jp:'丸ノ内線', color:'#F62E36', code:'M', stations:[
-        ['Ikebukuro',35.7305,139.7135],['Myogadani',35.7207,139.7305],['Korakuen',35.7075,139.7513],
-        ['Hongo-sanchome',35.7078,139.7595],['Ochanomizu',35.6994,139.7644],['Awajicho',35.6957,139.7677],
-        ['Otemachi',35.6862,139.7649],['Tokyo',35.6812,139.7671],['Ginza',35.6717,139.7650],
-        ['Kasumigaseki',35.6749,139.7522],['Kokkai-gijidomae',35.6740,139.7460],['Akasaka-mitsuke',35.6779,139.7368],
-        ['Yotsuya',35.6857,139.7301],['Shinjuku-gyoenmae',35.6900,139.7180],['Shinjuku-sanchome',35.6913,139.7061],
-        ['Shinjuku',35.6905,139.6995]
-      ]},
-      { id:'hibiya', name:'Hibiya Line', jp:'日比谷線', color:'#B5B5AC', code:'H', stations:[
-        ['Naka-meguro',35.6438,139.6989],['Ebisu',35.6465,139.7100],['Hiroo',35.6501,139.7220],
-        ['Roppongi',35.6627,139.7318],['Kamiyacho',35.6633,139.7423],['Kasumigaseki',35.6749,139.7522],
-        ['Hibiya',35.6749,139.7597],['Ginza',35.6717,139.7650],['Higashi-ginza',35.6693,139.7671],
-        ['Tsukiji',35.6654,139.7707],['Hatchobori',35.6739,139.7783],['Kayabacho',35.6790,139.7822],
-        ['Ningyocho',35.6857,139.7822],['Kodemmacho',35.6884,139.7822],['Akihabara',35.6989,139.7745],
-        ['Naka-okachimachi',35.7075,139.7778],['Ueno',35.7141,139.7774],['Iriya',35.7217,139.7818],
-        ['Minowa',35.7267,139.7862],['Minami-senju',35.7327,139.8004]
-      ]},
-      { id:'oedo', name:'Toei Ōedo Line', jp:'大江戸線', color:'#B6007A', code:'E', stations:[
-        ['Shinjuku',35.6931,139.7003],['Yoyogi',35.6845,139.7025],['Kokuritsu-kyogijo',35.6784,139.7148],
-        ['Aoyama-itchome',35.6726,139.7238],['Roppongi',35.6636,139.7295],['Azabu-juban',35.6558,139.7364],
-        ['Akabanebashi',35.6570,139.7450],['Daimon',35.6570,139.7563],['Tsukishima',35.6653,139.7845],
-        ['Kachidoki',35.6604,139.7773],['Ryogoku',35.6960,139.7930],['Ueno-okachimachi',35.7075,139.7768]
-      ]},
-      { id:'chiyoda', name:'Chiyoda Line', jp:'千代田線', color:'#00A650', code:'C', stations:[
-        ['Yoyogi-uehara',35.6698,139.6845],['Meiji-jingumae',35.6706,139.7024],['Omotesando',35.6654,139.7127],
-        ['Nogizaka',35.6660,139.7263],['Akasaka',35.6737,139.7368],['Kokkai-gijidomae',35.6740,139.7460],
-        ['Kasumigaseki',35.6749,139.7522],['Hibiya',35.6749,139.7597],['Otemachi',35.6862,139.7649],
-        ['Shin-ochanomizu',35.6968,139.7660],['Yushima',35.7075,139.7695],['Nezu',35.7203,139.7614],
-        ['Sendagi',35.7266,139.7635],['Nishi-nippori',35.7322,139.7668]
-      ]},
-      { id:'monorail', name:'Tokyo Monorail (Haneda Access)', color:'#00A6D9', code:'MO', firstLast:'First ~5:09 AM, last ~11:45 PM (Haneda T3⇄Hamamatsucho, same both directions, no weekend difference). Trains every 3–5 min.', stations:[
-        ['Hamamatsucho',35.6553,139.7573],['Tennozu Isle',35.6234,139.7508],['Shin-seibijo',35.5798,139.7639],
-        ['Haneda Airport Terminal 3',35.5493,139.7838],['Haneda Airport Terminal 1·2',35.5494,139.7798]
-      ]},
-      { id:'skyliner', name:'Keisei Skyliner (Narita Access)', color:'#0033A0', code:'KS', firstLast:'Ueno→Narita: first ~6:00 AM, last ~9:20 PM. Narita→Ueno: first ~7:25 AM, last ~10:30 PM. Only 1 train per 20–40 min — easy to miss the last one, verify before you rely on it.', stations:[
-        ['Keisei Ueno',35.7141,139.7774],['Nippori',35.7280,139.7709],['Keisei Funabashi',35.7020,139.9853],
-        ['Narita Airport Terminal 1',35.7647,140.3864],['Narita Airport Terminal 2·3',35.7714,140.3928]
-      ]}
-    ],
-    hotels:[
-      {name:'Hilton Tokyo', lat:35.6926, lng:139.6912, area:'Shinjuku', rating:4.3, stars:5, priceTier:4, phone:'+81 3-3344-5111'},
-      {name:'Sotetsu Fresa Inn Higashi-Shinjuku Ekimae', lat:35.6986, lng:139.7079, area:'Shinjuku', rating:4.1, stars:2, priceTier:2, phone:'+81 3-6892-2032'},
-      {name:'JR Kyushu Hotel Blossom Shinjuku', lat:35.6878, lng:139.6985, area:'Shinjuku', rating:4.4, priceTier:2, phone:'+81 3-5333-8687', stars:3},
-      {name:'Hotel Gracery Shinjuku', lat:35.6954, lng:139.7020, area:'Shinjuku', rating:4.3, priceTier:3, phone:'+81 3-6833-1111', stars:4},
-      {name:'Shinjuku Granbell Hotel', lat:35.6964, lng:139.7057, area:'Shinjuku', rating:4.0, priceTier:2, phone:'+81 3-5155-2666', stars:3},
-      {name:'Hotel Sunroute Plaza Shinjuku', lat:35.6871, lng:139.6988, area:'Shinjuku', rating:4.2, priceTier:2, phone:'+81 3-3375-3211', stars:3},
-      {name:'Hostel Wasabi Asakusa', lat:35.7201, lng:139.7936, area:'Asakusa', rating:4.2, stars:1, priceTier:1, phone:'+81 3-6240-6258'},
-      {name:'THE GATE HOTEL Kaminarimon', lat:35.7109, lng:139.7953, area:'Asakusa', rating:4.4, priceTier:4, phone:'+81 3-5826-3877', stars:4},
-      {name:'Asakusa Tobu Hotel', lat:35.7114, lng:139.7974, area:'Asakusa', rating:4.5, priceTier:3, phone:'+81 3-3843-0111', stars:3},
-      {name:'MIMARU Tokyo Asakusa Station', lat:35.7103, lng:139.7976, area:'Asakusa', rating:4.9, priceTier:3, phone:'+81 3-6231-7183', stars:3},
-      {name:'Banrai Hotel Asakusa', lat:35.7097, lng:139.7966, area:'Asakusa', rating:4.7, priceTier:2, phone:'+81 3-6824-6328', stars:2},
-      {name:'APA Hotel Asakusa Kaminarimon', lat:35.7101, lng:139.7951, area:'Asakusa', rating:4.2, priceTier:2, phone:'+81 570-022-911', stars:2},
-      {name:'VIA INN Higashi Ginza', lat:35.6671, lng:139.7705, area:'Ginza', rating:4.1, stars:2, priceTier:2, phone:'+81 3-3545-5489'},
-      {name:'Hyatt Centric Ginza Tokyo', lat:35.6707, lng:139.7623, area:'Ginza', rating:4.5, stars:5, priceTier:4, phone:'+81 3-6837-1234'},
-      {name:'Quintessa Hotel Tokyo Ginza', lat:35.6701, lng:139.7685, area:'Ginza', rating:4.2, priceTier:3, phone:'+81 3-6264-1350', stars:4},
-      {name:'karaksa hotel premier Tokyo Ginza', lat:35.6671, lng:139.7616, area:'Ginza', rating:4.6, priceTier:3, phone:'+81 3-3573-6602', stars:3},
-      {name:'Agora Tokyo Ginza', lat:35.6685, lng:139.7671, area:'Ginza', rating:4.3, priceTier:2, phone:'+81 3-6809-2238', stars:3},
-      {name:'Tokyu Stay Ginza', lat:35.6703, lng:139.7673, area:'Ginza', rating:4.2, priceTier:3, phone:'+81 3-3541-0109', stars:3},
-      {name:'Mitsui Garden Hotel Ginza Premier', lat:35.6671, lng:139.7632, area:'Ginza', rating:4.3, priceTier:4, phone:'+81 3-3543-1131', stars:4},
-      {name:'Hyatt House Tokyo Shibuya', lat:35.6566, lng:139.7023, area:'Shibuya', rating:4.5, stars:4, priceTier:4, phone:'+81 3-5428-3898'},
-      {name:'Wise Owl Hostels Shibuya', lat:35.6537, lng:139.6898, area:'Shibuya', rating:4.2, stars:1, priceTier:1, phone:'+81 3-5738-0180'},
-      {name:'The Millennials Shibuya', lat:35.6622, lng:139.6997, area:'Shibuya', rating:4.4, stars:2, priceTier:2, phone:'+81 50-3164-0748'},
-      {name:'Shibuya Excel Hotel Tokyu', lat:35.6586, lng:139.6998, area:'Shibuya', rating:4.3, priceTier:4, phone:'+81 3-5457-0109', stars:4},
-      {name:'Shibuya Tokyu REI Hotel', lat:35.6602, lng:139.7020, area:'Shibuya', rating:4.0, priceTier:3, phone:'+81 3-3498-0109', stars:3},
-      {name:'All Day Place Shibuya', lat:35.6614, lng:139.7031, area:'Shibuya', rating:4.1, priceTier:3, phone:'+81 3-6452-6830', stars:3},
-      {name:'Grids Tokyo Ueno Hotel & Hostel', lat:35.7153, lng:139.7793, area:'Ueno', rating:4.1, stars:1, priceTier:1, phone:'+81 3-5830-0030'},
-      {name:'hotel MONday Premium Ueno Okachimachi', lat:35.7055, lng:139.7764, area:'Ueno', rating:4.5, stars:3, priceTier:2, phone:'+81 3-5816-8681'},
-      {name:'MIMARU Tokyo Ueno Okachimachi', lat:35.7065, lng:139.7716, area:'Ueno', rating:4.9, stars:3, priceTier:3, phone:'+81 3-5817-8335'},
-      {name:'MONday Apart Premium Ueno', lat:35.7168, lng:139.7818, area:'Ueno', rating:4.6, stars:3, priceTier:3, phone:'+81 3-5830-2571'},
-      {name:'Hotel Resol Ueno', lat:35.7133, lng:139.7779, area:'Ueno', rating:4.4, priceTier:2, phone:'+81 3-3844-9269', stars:3},
-      // --- Not shown by default; only appear when their station's walk circle is active (or when pinned) ---
-      {name:'Remm Roppongi', lat:35.6637, lng:139.7313, area:'Roppongi', rating:4.3, priceTier:3, phone:'+81 3-6863-0606', curated:false, stars:4},
-      {name:'Sotetsu Fresa Inn Tokyo Roppongi', lat:35.6635, lng:139.7336, area:'Roppongi', rating:4.0, priceTier:2, phone:'+81 3-5413-3486', curated:false, stars:3},
-      {name:'Apa Hotel & Resort Roppongi-Eki-Higashi Station East', lat:35.6617, lng:139.7375, area:'Roppongi', rating:4.1, stars:2, priceTier:2, phone:'+81 570-072-311'},
-      {name:'Candeo Hotels Tokyo Roppongi', lat:35.6620, lng:139.7326, area:'Roppongi', rating:4.1, priceTier:3, phone:'+81 3-5413-6950', curated:false, stars:4},
-      {name:'EBISUHOLIC HOTEL', lat:35.6444, lng:139.7095, area:'Ebisu', rating:4.0, priceTier:2, phone:'+81 3-5725-2666', curated:false, stars:3},
-      {name:'TOKYU STAY Shibuya Ebisu', lat:35.6470, lng:139.7083, area:'Ebisu', rating:4.9, stars:3, priceTier:3, phone:'+81 3-3463-0109', curated:false},
-      {name:'House Ikebukuro', lat:35.7326, lng:139.7058, area:'Ikebukuro', rating:4.4, stars:2, priceTier:2, phone:'+81 3-3984-3399'},
-      {name:'Sakura Hotel Ikebukuro', lat:35.7335, lng:139.7088, area:'Ikebukuro', rating:4.0, stars:2, priceTier:2, phone:'+81 3-3971-2237'},
-      {name:'Hotel Metropolitan Tokyo Ikebukuro', lat:35.7285, lng:139.7080, area:'Ikebukuro', rating:4.2, priceTier:3, phone:'+81 3-3980-1111', curated:false, stars:4},
-      {name:'MIMARU Tokyo Ikebukuro', lat:35.7346, lng:139.7100, area:'Ikebukuro', rating:4.8, priceTier:3, phone:'+81 3-5927-8877', curated:false, stars:3},
-      {name:'Anshin Oyado Tokyo Akihabara Denkigaiten', lat:35.6980, lng:139.7708, area:'Akihabara', rating:4.2, stars:1, priceTier:1, phone:'+81 3-3257-5531'},
-      {name:'remm Akihabara', lat:35.6978, lng:139.7737, area:'Akihabara', rating:4.3, priceTier:3, phone:'+81 3-3254-0606', curated:false, stars:4},
-      {name:'JR-EAST Hotel Mets Premier Akihabara', lat:35.6981, lng:139.7726, area:'Akihabara', rating:4.5, priceTier:3, phone:'+81 3-5294-1011', curated:false, stars:4},
-      {name:'Akihabara Washington Hotel', lat:35.6973, lng:139.7737, area:'Akihabara', rating:4.2, priceTier:2, phone:'+81 3-3255-3311', curated:false, stars:3},
-      {name:'Hotel Metropolitan Tokyo Marunouchi', lat:35.6839, lng:139.7686, area:'Tokyo Station', rating:4.3, priceTier:4, phone:'+81 3-3211-2233', curated:false, stars:4},
-      {name:'Keio Presso Inn Tokyo Station Yaesu', lat:35.6789, lng:139.7700, area:'Tokyo Station', rating:4.0, priceTier:2, phone:'+81 3-3279-0202', curated:false, stars:3},
-      {name:'karaksa hotel colors Tokyo Yaesu', lat:35.6791, lng:139.7726, area:'Tokyo Station', rating:4.5, priceTier:3, phone:'+81 3-6880-6602', curated:false, stars:3},
-      {name:'remm Hibiya', lat:35.6726, lng:139.7597, area:'Hibiya', rating:4.1, priceTier:3, phone:'+81 3-3507-0606', curated:false, stars:4},
-      {name:'Imperial Hotel Tokyo', lat:35.6725, lng:139.7579, area:'Hibiya', rating:4.5, priceTier:4, phone:'+81 3-3504-1111', curated:false, stars:5},
-      {name:'The Blossom Hibiya', lat:35.6690, lng:139.7565, area:'Hibiya', rating:4.5, priceTier:3, phone:'+81 3-3591-8702', curated:false, stars:3},
-      {name:'Hilton Tokyo Narita Airport', lat:35.7846, lng:140.3539, area:'Narita International Airport', rating:4.1, stars:4, priceTier:3, phone:'+81 476-33-1121'},
-      {name:'Hotel Nikko Narita', lat:35.7842, lng:140.3800, area:'Narita International Airport', rating:4.2, stars:4, priceTier:3, phone:'+81 476-32-0032'},
-      {name:'Narita Tobu Hotel Airport', lat:35.7800, lng:140.3809, area:'Narita International Airport', rating:4.0, stars:3, priceTier:2, phone:'+81 476-32-1234'},
-      {name:'Toyoko Inn Narita Airport Shinkan', lat:35.7816, lng:140.3840, area:'Narita International Airport', rating:4.1, stars:2, priceTier:1, phone:'+81 476-33-1045'},
-      {name:'KEIKYU EX INN HANEDA', lat:35.5505, lng:139.7524, area:'Haneda Airport', rating:4.2, stars:2, priceTier:2, phone:'+81 3-3742-3910'},
-      {name:'The Royal Park Hotel Tokyo Haneda', lat:35.5466, lng:139.7681, area:'Haneda Airport', rating:4.3, stars:4, priceTier:3, phone:'+81 3-6830-1111'},
-      {name:'Hotel Villa Fontaine Grand Haneda Airport', lat:35.5437, lng:139.7659, area:'Haneda Airport', rating:4.2, stars:4, priceTier:3, phone:'+81 3-6459-9770'},
-      {name:'Hotel JAL City Haneda Tokyo West Wing', lat:35.5518, lng:139.7470, area:'Haneda Airport', rating:4.3, stars:3, priceTier:2, phone:'+81 3-5735-2525'}
-    ],
-    sights:[
-      {name:'Senso-ji Temple', lat:35.7148, lng:139.7967, note:'Historic Buddhist temple & Nakamise shopping street.', hours:'Grounds open 24h; hours vary by building — check official site.', rating:4.6, phone:'+81 3-3842-0181'},
-      {name:'Tokyo Skytree', lat:35.7101, lng:139.8107, note:'Tallest structure in Japan, twin observation decks.', hours:'10:00 AM–9:00 PM (10:00 PM weekends)', rating:4.4, phone:'+81 570-550-634', ticketUrl:'https://en.tokyo-skytree.jp/ticket/', bookAhead:true},
-      {name:'Tokyo Tower', lat:35.6586, lng:139.7454, note:'Iconic red-and-white communications tower.', hours:'9:00 AM–11:00 PM daily', rating:4.5, phone:'+81 3-3433-5111', ticketUrl:'https://en.tokyotower.co.jp/ticket/', bookAhead:true},
-      {name:'Meiji Jingu', lat:35.6764, lng:139.6993, note:'Forested Shinto shrine near Harajuku.', hours:'Hours vary with sunrise/sunset — check official site.', rating:4.6, phone:'+81 3-3379-5511'},
-      {name:'Imperial Palace East Gardens', lat:35.6868, lng:139.7571, note:'Free public gardens on the old castle grounds.', hours:'9:00 AM–6:00 PM, closed Mon & Fri', rating:4.4, phone:'+81 3-3213-2050'},
-      {name:'Shinjuku Gyoen', lat:35.6852, lng:139.7101, note:'Large national garden, famous for cherry blossoms. Reservation only required on specific weekend dates during peak cherry blossom season (late Mar–early Apr, 10 AM–4 PM slots) — walk-up admission the rest of the year.', hours:'9:00 AM–7:00 PM, closed Mon', rating:4.6, phone:'+81 3-3350-0151', ticketUrl:'https://shinjukugyoen.hp.peraichi.com/en'},
-      {name:'Omoide Yokocho', lat:35.6927, lng:139.6996, note:'Narrow lantern-lit alley of yakitori bars.', hours:'Open 24 hours (individual bars vary)', rating:4.2},
-      {name:'teamLab Planets TOKYO', lat:35.6491, lng:139.7898, note:'Immersive digital art museum in Toyosu — walk through water, become one with projected flowers.', hours:'8:00 AM–10:00 PM daily', rating:4.5, phone:null, ticketUrl:'https://teamlabplanets.dmm.com/en', bookAhead:true},
-      {name:'Shibuya Crossing', lat:35.6595, lng:139.7006, note:'The world-famous scramble crossing — best viewed from the Starbucks or Shibuya Sky above.', hours:'Open 24 hours', rating:4.5, phone:null},
-      {name:'Tokyo Metropolitan Government Building Observation Deck', lat:35.6897, lng:139.6917, note:'Free skyline views from the 45th floor, Mt. Fuji visible on clear days. North deck closed Mondays.', hours:'9:30 AM–5:00 PM, closed Mon', rating:4.5, phone:'+81 3-5320-7890'},
-      {name:'Tsukiji Outer Market', lat:35.6648, lng:139.7703, note:'Food stalls and sushi breakfast spots — go early, most shops close by early afternoon.', hours:'Varies by shop, roughly morning–early afternoon', rating:4.2, phone:'+81 3-3541-9444'},
-      {name:'Ueno Park', lat:35.7148, lng:139.7734, note:'Large park with museums, a zoo, and Tokyo\'s biggest cherry blossom crowds in spring.', hours:'5:00 AM–11:00 PM daily', rating:4.4, phone:'+81 3-3828-5644'},
-      {name:'Tokyo National Museum', lat:35.7188, lng:139.7765, note:"Japan's oldest and largest museum — samurai armor, kimono, national treasures, inside Ueno Park.", hours:'9:30 AM–5:00 PM, till 8 PM Fri–Sun, closed Mon', rating:4.5, phone:'+81 50-5541-8600', ticketUrl:'https://tnm-museum.world/en/pay/', bookAhead:true},
-      {name:'Akihabara', lat:35.6996, lng:139.7714, note:'Neon-lit electronics and anime/manga district — arcades, figure shops, maid cafes.', hours:'Open 24 hours (district)', rating:4.2, phone:null},
-      {name:'Ginza', lat:35.6717, lng:139.7640, note:"Tokyo's upscale shopping district — flagship luxury stores, department stores, fine dining.", hours:'Open 24 hours (district)', rating:4.3, phone:null}
-    ],
-    airports:[
-      {name:'Narita International Airport', code:'NRT', lat:35.7720, lng:140.3929, transitNote:'~55–60 min to central Tokyo via Keisei Skyliner (shown on map) from Ueno/Nippori', hours:'Departing Narita: first ~7:25 AM, last ~10:30 PM toward Ueno. Only 1 train per 20–40 min — verify locally before relying on the last one. Fare: ¥2,465 one-way (IC card).'},
-      {name:'Haneda Airport', code:'HND', lat:35.5494, lng:139.7798, transitNote:'~25–30 min to central Tokyo via Tokyo Monorail (shown on map) from Hamamatsucho', hours:'Departing Haneda: first ~5:09 AM, last ~11:45 PM toward Hamamatsucho. Same both directions, trains every 3–5 min. Fare: ¥519 one-way (IC card).'}
-    ]
-  },
-
-  shanghai: {
-    name:'Shanghai', country:'China', flag:'🇨🇳', center:[31.2304,121.4737], zoom:12,
-    operatingHours:'Metro runs ~5:30/6:00 AM–10:30/11:00 PM daily. No overnight service.',
-    fareInfo:'Shanghai Metro fares are distance-based: ¥3 for trips up to 6 km, rising roughly ¥1 per additional 10 km. Most downtown rides cost ¥3–6.',
-    lines:[
-      { id:'sh1', name:'Line 1', color:'#E4002B', code:'1', stations:[
-        ['Shanghai South Railway Station',31.1545,121.4302],['Caobao Road',31.1795,121.4232],
-        ['Shanghai Indoor Stadium',31.1897,121.4308],['Xujiahui',31.1946,121.4357],
-        ['Hengshan Road',31.2062,121.4359],['Changshu Road',31.2140,121.4415],
-        ['South Shaanxi Road',31.2154,121.4487],['Hanzhong Road',31.2429,121.4589],
-        ['Shanghai Railway Station',31.2497,121.4562],['People\'s Square',31.2304,121.4737]
-      ]},
-      { id:'sh2', name:'Line 2', color:'#8CC220', code:'2', firstLast:'Pudong Airport end: first ~6:00 AM, last ~10:30 PM. Toward Hongqiao end: last train ~11:47 PM Sun–Thu, ~12:57 AM Fri–Sat (later on weekends).', stations:[
-        ['Hongqiao Airport Terminal 2',31.1978,121.3336],['Hongqiao Railway Station',31.1944,121.3196],
-        ['Zhongshan Park',31.2199,121.4204],['Jing\'an Temple',31.2249,121.4467],
-        ['West Nanjing Road',31.2262,121.4568],['People\'s Square',31.2312,121.4744],
-        ['East Nanjing Road',31.2394,121.4776],['Lujiazui',31.2359,121.4993],
-        ['Century Avenue',31.2306,121.5054],['Longyang Road',31.2183,121.5464],
-        ['Guanglan Road',31.1975,121.6533],['Pudong International Airport',31.1443,121.8083]
-      ]},
-      { id:'sh4', name:'Line 4', color:'#6F2C91', code:'4', stations:[
-        ['Shanghai Railway Station',31.2500,121.4568],['Zhongshan Park',31.2205,121.4210],
-        ['Yishan Road',31.1878,121.4312],['Shanghai Stadium',31.1861,121.4386],
-        ['Century Avenue',31.2310,121.5058],['Pudian Road',31.2280,121.5089],
-        ['Lupu Bridge',31.1972,121.4715]
-      ]},
-      { id:'sh8', name:'Line 8', color:'#0089D0', code:'8', stations:[
-        ['People\'s Square',31.2298,121.4730],['Dashijie',31.2280,121.4820],
-        ['Laoximen',31.2202,121.4841],['Lujiabang Road',31.2077,121.4816],
-        ['Ninglu Road',31.1958,121.4855],['Shanghai Stadium',31.1866,121.4380]
-      ]},
-      { id:'sh10', name:'Line 10', color:'#BC87E6', code:'10', stations:[
-        ['Hongqiao Railway Station',31.1944,121.3196],['Jiaotong University',31.2043,121.4340],
-        ['Shanghai Library',31.2107,121.4419],['South Shaanxi Road',31.2158,121.4491],
-        ['Xintiandi',31.2211,121.4739],['Yuyuan Garden',31.2265,121.4922],
-        ['Tiantong Road',31.2429,121.4838],['North Sichuan Road',31.2478,121.4839]
-      ]}
-    ],
-    hotels:[
-      {name:'Park Hotel Shanghai', lat:31.2337, lng:121.4716, area:'People\'s Square', rating:4.3, stars:4, priceTier:3, phone:'+86 21 6327 5225'},
-      {name:'The Langham Yangtze Boutique Hotel', lat:31.2333, lng:121.4765, area:'People\'s Square', rating:4.5, stars:5, priceTier:4, phone:'+86 21 6080 0800'},
-      {name:'Meta Tree Hotel Shanghai People\'s Square', lat:31.2272, lng:121.4682, area:'People\'s Square', rating:4.6, stars:3, priceTier:2, phone:'+86 21 5118 1222'},
-      {name:'Ji Hotel Shanghai People\'s Square Beijing West Road', lat:31.2343, lng:121.4660, area:'People\'s Square', rating:5.0, stars:3, priceTier:2, phone:'+86 21 6266 7889'},
-      {name:'Lin Yin Art Hotel Shanghai', lat:31.2304, lng:121.4737, area:'People\'s Square', rating:5.0, stars:3, priceTier:2, phone:'+86 21 6878 8999'},
-      {name:'Shanghai Fish Inn Bund', lat:31.2410, lng:121.4831, area:'The Bund', rating:4.1, stars:2, priceTier:2, phone:'+86 21 3330 1399'},
-      {name:'Blue Mountain Bund Youth Hostel', lat:31.2396, lng:121.4813, area:'The Bund', rating:4.2, stars:1, priceTier:1, phone:'+86 21 3366 1561'},
-      {name:'Hyatt on the Bund Hotel', lat:31.2453, lng:121.4931, area:'The Bund', rating:4.1, stars:5, priceTier:4, phone:'+86 21 6393 1234'},
-      {name:'Atour Hotel Shanghai Bund Nanjing East Road', lat:31.2351, lng:121.4883, area:'The Bund', rating:4.6, stars:4, priceTier:3, phone:'+86 21 6079 9099'},
-      {name:'Hotel Chalet Shanghai', lat:31.2401, lng:121.4863, area:'The Bund', rating:4.6, stars:4, priceTier:3, phone:'+86 21 6336 2288'},
-      {name:'Holiday Inn Express Shanghai On The Bund', lat:31.2374, lng:121.4870, area:'The Bund', rating:4.2, stars:3, priceTier:2, phone:'+86 21 6360 5588'},
-      {name:'Holiday Inn Express Shanghai Zhabei', lat:31.2523, lng:121.4530, area:'Shanghai Railway Station', rating:4.0, stars:3, priceTier:2, phone:'+86 21 3617 9999'},
-      {name:'Courtyard by Marriott Shanghai Puxi', lat:31.2430, lng:121.4552, area:'Shanghai Railway Station', rating:4.3, stars:4, priceTier:3, phone:'+86 21 2215 3888'},
-      {name:'Pullman Shanghai South', lat:31.1622, lng:121.4234, area:'Shanghai South Railway Station', rating:4.4, stars:5, priceTier:4, phone:'+86 21 2426 8888'},
-      {name:'Cordis Shanghai Hongqiao', lat:31.1951, lng:121.3162, area:'Shanghai Hongqiao Railway Station', rating:4.6, stars:5, priceTier:4, phone:'+86 21 5263 9999'},
-      {name:'Hilton Shanghai Hongqiao International Airport', lat:31.1952, lng:121.3493, area:'Shanghai Hongqiao Railway Station', rating:4.5, stars:5, priceTier:4, phone:'+86 21 2235 8888'},
-      {name:'Shanghai Hongqiao Airport Hotel', lat:31.1928, lng:121.3319, area:'Shanghai Hongqiao Railway Station', rating:4.2, stars:4, priceTier:3, phone:'+86 21 2236 6666'},
-      {name:'Mercure Shanghai Hongqiao Railway Station', lat:31.2016, lng:121.3163, area:'Shanghai Hongqiao Railway Station', rating:4.0, stars:3, priceTier:2, phone:'+86 21 2420 2999'},
-      {name:'Holiday Inn Shanghai Pudong Airport', lat:31.1468, lng:121.8067, area:'Shanghai Pudong International Airport', rating:4.6, stars:4, priceTier:3, phone:'+86 21 6861 8888'},
-      {name:'Holiday Inn Express Shanghai Pudong Airport', lat:31.1732, lng:121.7950, area:'Shanghai Pudong International Airport', rating:4.0, stars:3, priceTier:2, phone:'+86 21 6835 1800'},
-      {name:'Novotel Shanghai Atlantis', lat:31.2395, lng:121.5248, area:'Lujiazui', rating:4.5, stars:4, priceTier:3, phone:'+86 21 5036 6666'},
-      {name:'Grand Hyatt Shanghai', lat:31.2353, lng:121.5058, area:'Lujiazui', rating:4.3, stars:5, priceTier:4, phone:'+86 21 5049 1234'},
-      {name:'Grand Kempinski Hotel Shanghai', lat:31.2425, lng:121.5041, area:'Lujiazui', rating:4.5, stars:5, priceTier:4, phone:'+86 21 3867 8888'},
-      {name:'Pudong Shangri-La', lat:31.2354, lng:121.4991, area:'Lujiazui', rating:4.4, stars:5, priceTier:4, phone:'+86 21 6882 8888'},
-    ],
-    sights:[
-      {name:'The Bund', lat:31.2403, lng:121.4906, note:'Historic waterfront promenade facing the Pudong skyline.', hours:'Open 24 hours', rating:4.7, phone:null},
-      {name:'Lujiazui', lat:31.2397, lng:121.4994, note:'Shanghai\'s financial district — the iconic skyline of Shanghai Tower, Jin Mao Tower & Oriental Pearl seen from across the river.', hours:'Open 24 hours (area, not a ticketed site)', phone:null},
-      {name:'Shanghai Tower', lat:31.2335, lng:121.5056, note:'Tallest building in China, twisting design, observation deck.', hours:'8:30 AM–9:30 PM daily', rating:4.6, phone:'+86 21 6199 9766'},
-      {name:'Oriental Pearl TV Tower', lat:31.2397, lng:121.4998, note:'Iconic sci-fi tower with glass skywalk and observation decks.', hours:'Check official site — hours vary by season', rating:4.6, phone:'+86 21 5879 1888'},
-      {name:'Yu Garden', lat:31.2272, lng:121.4921, note:'Classical Ming-dynasty Chinese garden in the Old City.', hours:'9:00 AM–4:30 PM, closed Mon', rating:4.5, phone:'+86 21 6326 0830'},
-      {name:'Shanghai Museum', lat:31.2283, lng:121.4755, note:'Free admission, major collection of Chinese art & artifacts.', hours:'9:00 AM–5:00 PM daily', rating:4.3, phone:'+86 21 6372 3500'},
-      {name:'Nanjing Road Pedestrian Street', lat:31.2347, lng:121.4749, note:"Shanghai's iconic shopping street, stretching from The Bund to People's Square — best at night when it lights up.", hours:'Open 24 hours', rating:4.6, phone:'+86 21 6352 6638'},
-      {name:'Xintiandi', lat:31.2165, lng:121.4751, note:'Restored Shikumen (stone-gate) lane houses turned upscale dining, bars, and boutiques.', hours:'10:00 AM–10:00 PM daily', rating:4.6, phone:'+86 21 5382 0666'},
-      {name:'Jade Buddha Temple', lat:31.2413, lng:121.4451, note:'Active Buddhist monastery known for its white jade Buddha statues, free entry.', hours:'Varies — check locally', rating:4.7, phone:'+86 21 6266 3668'},
-      {name:'Zhujiajiao Ancient Town', lat:31.1144, lng:121.0540, note:'Ancient canal water town ~1hr from central Shanghai — Ming/Qing bridges, boat rides.', hours:'Open 24 hours (attraction area)', rating:4.4, phone:'+86 21 5924 0077'},
-      {name:'Former French Concession (Wukang Road)', lat:31.2039, lng:121.4368, note:'Tree-lined former concession district — Art Deco buildings, cafes, the iconic Wukang Building.', hours:'Open 24 hours (area, not a ticketed site)', phone:null},
-      {name:'Tianzifang', lat:31.2088, lng:121.4689, note:'Narrow lane-house alleys turned boutiques, cafes, and galleries — go early to beat crowds.', hours:'Open 24 hours (area, shop hours vary)', rating:4.2, phone:null},
-      {name:'Shanghai World Financial Center', lat:31.2341, lng:121.5072, note:'The \'bottle opener\' tower — glass-floor observation deck on the 100th floor, once the world\'s highest. Observation decks have been closed since 2023 for renovation — verify current status before planning a visit.', hours:'Observation deck closed since 2023 (renovation) — check locally for reopening', rating:4.6, phone:null}
-    ],
-    railStations:[
-      {name:'Shanghai Railway Station', lat:31.2497, lng:121.4562, note:'Conventional & high-speed rail to Nanjing, Suzhou, Hangzhou, Beijing and beyond.', hours:'Station open ~5:30 AM–11:30 PM. HSR trains depart all day on individual timetables — no single last train. Check 12306.cn or your ticket for your exact departure.'},
-      {name:'Shanghai South Railway Station', lat:31.1545, lng:121.4302, note:'High-speed rail, mainly southern routes toward Hangzhou and Zhejiang.', hours:'Station open ~5:30 AM–11:30 PM. HSR trains depart all day on individual timetables — no single last train. Check 12306.cn or your ticket for your exact departure.'},
-      {name:'Shanghai Hongqiao Railway Station', lat:31.1944, lng:121.3196, note:'China\'s busiest HSR hub — frequent bullet trains to Beijing, Nanjing, Hangzhou, Suzhou. Shares a complex with Hongqiao Airport.', hours:'Station open ~5:30 AM–11:30 PM. HSR trains depart all day on individual timetables, often every few minutes at peak — no single last train. Check 12306.cn or your ticket for your exact departure.'}
-    ],
-    airports:[
-      {name:'Shanghai Pudong International Airport', code:'PVG', lat:31.1443, lng:121.8083, transitNote:'~60–75 min to city center via Metro Line 2 (shown on map, direct), or ~8 min via Maglev to Longyang Road then Line 2', hours:'Departing Pudong Airport: first ~6:00 AM, last ~10:30 PM toward the city on Line 2.'},
-      {name:'Shanghai Hongqiao International Airport', code:'SHA', lat:31.1979, lng:121.3363, transitNote:'~30–40 min to city center via Metro Line 2 (shown on map, direct). Shares a hub with Hongqiao Railway Station — Shanghai\'s main high-speed rail terminal, also on Line 2 and Line 10.', hours:'Departing Hongqiao: first ~6:00 AM, last train ~11:47 PM Sun–Thu, ~12:57 AM Fri–Sat (later on weekends) toward the city on Line 2.'}
-    ]
-  },
-
-  newyork: {
-    name:'New York City', country:'USA', flag:'🇺🇸', center:[40.7580,-73.9855], zoom:12,
-    operatingHours:'Subway runs 24 hours a day, 7 days a week — the only system here with no overnight closure.',
-    fareInfo:'NYC Subway is a flat $3.00 per ride via OMNY contactless, regardless of distance — the same price for one stop or the length of the city. Weekly cap: $35, after which further rides that week are free.',
-    lines:[
-      { id:'grn456', name:'4/5/6', color:'#00933C', code:'456', stations:[
-        ['Bowling Green',40.7043,-74.0142],['Wall St',40.7074,-74.0113],['Brooklyn Bridge-City Hall',40.7128,-74.0060],
-        ['Union Square-14 St',40.7359,-73.9906],['Grand Central-42 St',40.7527,-73.9772],['86 St',40.7794,-73.9560],
-        ['125 St',40.8043,-73.9375]
-      ]},
-      { id:'ylwnqrw', name:'N/Q/R/W', color:'#FCCC0A', code:'NQRW', firstLast:'Runs 24/7 like the rest of the NYC subway — no first/last train. Overnight (~midnight–5 AM) trains come every 20–30 min instead of every 5–10.', stations:[
-        ['Whitehall St',40.7028,-74.0121],['Canal St',40.7188,-74.0000],['Union Square-14 St',40.7359,-73.9906],
-        ['Times Sq-42 St',40.7549,-73.9840],['5 Av/59 St',40.7643,-73.9730],['Astoria-Ditmars Blvd',40.7752,-73.9125]
-      ]},
-      { id:'blueace', name:'A/C/E', color:'#2850AD', code:'ACE', firstLast:'Runs 24/7 like the rest of the NYC subway — no first/last train. Overnight (~midnight–5 AM) trains come every 20–30 min instead of every 5–10.', stations:[
-        ['168 St',40.8402,-73.9397],['42 St-Port Authority',40.7570,-73.9903],['West 4 St',40.7318,-74.0000],
-        ['Fulton St',40.7102,-74.0092],['Howard Beach-JFK Airport',40.6602,-73.8306]
-      ]},
-      { id:'red123', name:'1/2/3', color:'#EE352E', code:'123', stations:[
-        ['96 St',40.7936,-73.9721],['Times Sq-42 St',40.7550,-73.9864],['34 St-Penn Station',40.7505,-73.9911],
-        ['Chambers St',40.7148,-74.0092],['South Ferry',40.7016,-74.0134]
-      ]},
-      { id:'greyl', name:'L', color:'#A7A9AC', code:'L', stations:[
-        ['8 Av',40.7397,-74.0026],['Union Square-14 St',40.7340,-73.9906],['Bedford Av',40.7174,-73.9569],
-        ['Myrtle-Wyckoff Avs',40.6997,-73.9111]
-      ]},
-      { id:'purple7', name:'7', color:'#B933AD', code:'7', stations:[
-        ['Times Sq-42 St',40.7556,-73.9868],['Grand Central-42 St',40.7517,-73.9779],['Court Sq',40.7473,-73.9455],
-        ['Queensboro Plaza',40.7508,-73.9401],['Willets Point',40.7549,-73.8455],['Flushing-Main St',40.7596,-73.8303]
-      ]}
-    ],
-    hotels:[
-      {name:'New York Marriott Marquis', lat:40.7586, lng:-73.9858, area:'Times Square', rating:4.4, stars:4, priceTier:4, phone:'+1 212-398-1900'},
-      {name:'Hyatt Centric Times Square New York', lat:40.7575, lng:-73.9841, area:'Times Square', rating:4.4, stars:4, priceTier:4, phone:'+1 646-364-1234'},
-      {name:'The Westin New York at Times Square', lat:40.7577, lng:-73.9891, area:'Times Square', rating:4.2, stars:4, priceTier:3, phone:'+1 212-201-2700'},
-      {name:'Hilton New York Times Square', lat:40.7566, lng:-73.9888, area:'Times Square', rating:4.1, stars:3, priceTier:3, phone:'+1 212-913-9488'},
-      {name:'SpringHill Suites by Marriott New York Manhattan Times Square', lat:40.7594, lng:-73.9863, area:'Times Square', rating:4.1, stars:3, priceTier:2, phone:'+1 212-373-5885'},
-      {name:'Courtyard by Marriott New York Manhattan/Chelsea', lat:40.7482, lng:-73.9912, area:'Penn Station', rating:4.3, stars:3, priceTier:3, phone:'+1 212-967-6000'},
-      {name:'Courtyard by Marriott New York Manhattan/Times Square West', lat:40.7544, lng:-73.9927, area:'Penn Station', rating:4.3, stars:3, priceTier:3, phone:'+1 212-912-0009'},
-      {name:'Fitzpatrick Grand Central', lat:40.7527, lng:-73.9744, area:'Grand Central Terminal', rating:4.3, stars:4, priceTier:3, phone:'+1 212-351-6800'},
-      {name:'Hampton Inn Manhattan Grand Central', lat:40.7509, lng:-73.9722, area:'Grand Central Terminal', rating:4.2, stars:3, priceTier:2, phone:'+1 212-897-3385'},
-      {name:'Hyatt Grand Central New York', lat:40.7521, lng:-73.9763, area:'Grand Central Terminal', rating:4.0, stars:4, priceTier:3, phone:'+1 212-883-1234'},
-      {name:'The Wall Street Hotel', lat:40.7056, lng:-74.0077, area:'Financial District', rating:4.8, stars:5, priceTier:4, phone:'+1 212-688-9255'},
-      {name:'Hotel Indigo NYC Financial District', lat:40.7077, lng:-74.0133, area:'Financial District', rating:4.4, stars:4, priceTier:3, phone:'+1 646-928-9388'},
-      {name:'Placemakr Wall Street', lat:40.7049, lng:-74.0064, area:'Financial District', rating:4.7, stars:3, priceTier:3, phone:'+1 646-389-0960'},
-      {name:'Artezen Hotel', lat:40.7096, lng:-74.0087, area:'Financial District', rating:4.7, stars:3, priceTier:2, phone:'+1 212-566-5511'},
-      {name:'The High Line Hotel', lat:40.7460, lng:-74.0050, area:'Chelsea', rating:4.2, stars:4, priceTier:3, phone:'+1 212-929-3888'},
-      {name:'Motto by Hilton New York City Chelsea', lat:40.7440, lng:-73.9930, area:'Chelsea', rating:4.3, stars:3, priceTier:2, phone:'+1 212-668-8624'},
-      {name:'HI New York City Hostel', lat:40.7987, lng:-73.9666, area:'Upper West Side', rating:4.4, stars:1, priceTier:1, phone:'+1 212-932-2300'},
-      {name:'TWA Hotel', lat:40.6458, lng:-73.7779, area:'John F. Kennedy International Airport', rating:4.2, stars:4, priceTier:3, phone:'+1 212-806-9000'},
-      {name:'DoubleTree by Hilton New York JFK Airport', lat:40.6673, lng:-73.7985, area:'John F. Kennedy International Airport', rating:4.1, stars:3, priceTier:3, phone:'+1 718-322-2300'},
-      {name:'Hyatt Regency JFK Airport at Resorts World New York', lat:40.6739, lng:-73.8337, area:'John F. Kennedy International Airport', rating:4.0, stars:3, priceTier:3, phone:'+1 833-671-1234'},
-      {name:'Holiday Inn Express & Suites Woodside LaGuardia Airport', lat:40.7407, lng:-73.9013, area:'LaGuardia Airport', rating:4.2, stars:3, priceTier:2, phone:'+1 718-898-9868'},
-      {name:'DoubleTree by Hilton New York LaGuardia Airport', lat:40.7670, lng:-73.8670, area:'LaGuardia Airport', rating:4.0, stars:3, priceTier:3, phone:'+1 718-457-6300'},
-      {name:'Hampton Inn New York - LaGuardia Airport', lat:40.7680, lng:-73.8678, area:'LaGuardia Airport', rating:4.0, stars:3, priceTier:2, phone:'+1 718-672-6600'},
-      {name:'Hilton Newark Airport', lat:40.6868, lng:-74.1939, area:'Newark Liberty International Airport', rating:4.0, stars:4, priceTier:3, phone:'+1 908-351-3900'},
-      {name:'Holiday Inn Express Newark Airport - Elizabeth', lat:40.6846, lng:-74.1940, area:'Newark Liberty International Airport', rating:4.0, stars:3, priceTier:2, phone:'+1 908-355-0500'}
-    ],
-    sights:[
-      {name:'Central Park', lat:40.7829, lng:-73.9654, note:'843 acres in the heart of Manhattan, managed by the Central Park Conservancy since 1980.', hours:'6:00 AM–1:00 AM daily', rating:4.7, phone:null},
-      {name:'The Metropolitan Museum of Art', lat:40.7794, lng:-73.9632, note:"NYC's most-visited museum — 5,000 years of art from around the world.", hours:'10:00 AM–5:00 PM, closed Mon', rating:4.8, phone:'+1 212-535-7710', ticketUrl:'https://www.metmuseum.org/plan-your-visit', bookAhead:true},
-      {name:'The National 9/11 Memorial & Museum', lat:40.7115, lng:-74.0134, note:'Twin reflecting pools and museum honoring the 2,983 lives lost.', hours:'9:00 AM–8:00 PM daily', rating:4.7, phone:'+1 212-312-8800', ticketUrl:'https://911memorial.org/visit', bookAhead:true},
-      {name:'Empire State Building', lat:40.7484, lng:-73.9857, note:'The 86th & 102nd floor observatories offer 360° views of Midtown.', hours:'10:00 AM–12:00 AM daily', rating:4.5, phone:'+1 212-736-3100', ticketUrl:'https://www.esbnyc.com/buy-tickets', bookAhead:true},
-      {name:'Top of the Rock', lat:40.7590, lng:-73.9787, note:'3-tiered observation deck on the 67th, 69th, and 70th floors of 30 Rockefeller Plaza.', hours:'9:00 AM–12:00 AM daily', rating:4.6, phone:'+1 212-698-2000', ticketUrl:'https://www.rockefellercenter.com/buy-tickets', bookAhead:true},
-      {name:'The High Line', lat:40.7480, lng:-74.0048, note:'1.5-mile elevated railway turned park, Hudson River & skyline views.', hours:'7:00 AM–10:00 PM daily', rating:4.5, phone:null},
-      {name:'Times Square', lat:40.7580, lng:-73.9855, note:'Neon billboards, Broadway theaters — the crossroads of the world.', hours:'Open 24 hours', rating:4.3, phone:null},
-      {name:'Statue of Liberty', lat:40.6892, lng:-74.0445, note:'Gift from France, 1886 — ferry required, book Ellis Island combo tickets ahead.', hours:'8:30 AM–4:00 PM daily', rating:4.5, phone:'+1 212-363-3200', ticketUrl:'https://www.statuecruises.com/', bookAhead:true},
-      {name:'Grand Central Terminal', lat:40.7527, lng:-73.9772, note:"Opened 1913 — the celestial ceiling in the Main Concourse is NYC's most extraordinary public space.", hours:'5:30 AM–2:00 AM daily', rating:4.6, phone:'+1 212-340-2583'},
-      {name:'Brooklyn Bridge', lat:40.7061, lng:-73.9969, note:'Opened 1883 — walk the pedestrian promenade between Manhattan and Brooklyn.', hours:'Open 24 hours', rating:4.7, phone:null},
-      {name:'American Museum of Natural History', lat:40.7813, lng:-73.9740, note:'Dinosaur skeletons, the Hayden Planetarium, blue whale model.', hours:'10:00 AM–5:30 PM daily', rating:4.3, phone:'+1 212-769-5100', ticketUrl:'https://www.amnh.org/plan-your-visit', bookAhead:true},
-      {name:'New York Public Library - Stephen A. Schwarzman Building', lat:40.7532, lng:-73.9822, note:'Beaux-Arts main branch — the Rose Main Reading Room is a free must-see.', hours:'10:00 AM–6:00 PM, till 8 PM Tue/Wed, closed Sun', rating:4.6, phone:'+1 917-275-6975'},
-      {name:'Chelsea Market', lat:40.7424, lng:-74.0061, note:'Food hall in the Meatpacking District — dozens of vendors under one roof.', hours:'7:00 AM–10:00 PM daily', rating:4.4, phone:'+1 212-652-2110'},
-      {name:'Staten Island Ferry', lat:40.7011, lng:-74.0134, note:'Free ferry with Statue of Liberty & skyline views — no ticket needed.', hours:'24 hours, ~every 30 min', rating:4.6, phone:'+1 311'},
-      {name:'Rockefeller Center', lat:40.7587, lng:-73.9787, note:'Historic complex — Top of the Rock, NBC Studios, the famous ice rink in winter.', hours:'Open 24 hours (plaza)', rating:4.5, phone:'+1 212-588-8601'}
-    ],
-    railStations:[
-      {name:'Penn Station', lat:40.7505, lng:-73.9934, note:"Amtrak, NJ Transit & LIRR hub beneath Madison Square Garden — also home to the newer Moynihan Train Hall.", hours:'Station open 24 hours. Amtrak/NJ Transit/LIRR trains run all day with reduced overnight frequency — no single last train, check your specific route.'},
-      {name:'Grand Central Terminal', lat:40.7527, lng:-73.9772, note:'Metro-North commuter rail hub to Westchester, Connecticut & the Hudson Valley.', hours:'Station open ~5:30 AM–2:00 AM. Metro-North trains run on individual branch timetables with a real overnight gap (~2–5 AM) — check MTA Metro-North for your line.'}
-    ],
-    airports:[
-      {name:'John F. Kennedy International Airport', code:'JFK', lat:40.6413, lng:-73.7781, transitNote:'~60 min to Manhattan via AirTrain JFK (shown on map, connects to A train at Howard Beach) — requires a transfer, not a one-seat ride', hours:'A train runs 24/7 — no first/last train. Overnight (~midnight–5 AM) trains every 20–30 min instead of every 5–10. Note: the AirTrain JFK connection itself costs a separate $8.50, on top of the $3.00 subway fare.'},
-      {name:'LaGuardia Airport', code:'LGA', lat:40.7769, lng:-73.8740, transitNote:"No rail connection exists — LGA is the only major East Coast airport without one (the AirTrain project was cancelled in 2023). Q70 bus to Astoria-Ditmars Blvd (N/W train, shown on map) or M60 bus to Manhattan."},
-      {name:'Newark Liberty International Airport', code:'EWR', lat:40.6895, lng:-74.1745, transitNote:'~30–45 min via AirTrain Newark to NJ Transit/Amtrak, then to Penn Station — not on the NYC Subway map shown'}
-    ]
-  },
-
-  london: {
-    name:'London', country:'UK', flag:'🇬🇧', center:[51.5074,-0.1278], zoom:12,
-    operatingHours:'Tube runs ~5:00 AM–12:00 AM Mon–Sat (shorter hours Sun). Night Tube runs all night Fri & Sat on the Central, Jubilee, Northern & Piccadilly lines (shown on this map).',
-    fareInfo:'Tube fares with Oyster/contactless: £3.00 off-peak / £3.10 peak for a single Zone 1 journey. Daily cap for Zones 1–2 is £8.90 — you\'ll never pay more than that in a day no matter how many rides you take.',
-    lines:[
-      { id:'central', name:'Central', color:'#E32017', code:'C', stations:[
-        ['Notting Hill Gate',51.5094,-0.1967],['Queensway',51.5107,-0.1877],['Marble Arch',51.5136,-0.1586],
-        ['Bond Street',51.5142,-0.1494],['Oxford Circus',51.5152,-0.1418],['Tottenham Court Road',51.5165,-0.1308],
-        ['Holborn',51.5174,-0.1200],['Chancery Lane',51.5185,-0.1112],["St Paul's",51.5150,-0.0973],
-        ['Bank',51.5133,-0.0886],['Liverpool Street',51.5178,-0.0823],['Mile End',51.5250,-0.0335]
-      ]},
-      { id:'piccadilly', name:'Piccadilly', color:'#003688', code:'P', firstLast:'Heathrow⇄central London: first ~5:00 AM, last ~11:30 PM–12:30 AM Mon–Thu/Sun. Runs all night Fri & Sat (Night Tube) between Heathrow T2&3/T5 and Cockfosters — no Terminal 4 service overnight.', stations:[
-        ['Heathrow Terminals 2 & 3',51.4713,-0.4523],['Heathrow Terminal 5',51.4723,-0.4885],
-        ['Hammersmith',51.4927,-0.2239],["Earl's Court",51.4913,-0.1936],['South Kensington',51.4941,-0.1738],
-        ['Knightsbridge',51.5015,-0.1607],['Hyde Park Corner',51.5027,-0.1527],['Green Park',51.5067,-0.1428],
-        ['Piccadilly Circus',51.5100,-0.1348],['Leicester Square',51.5113,-0.1281],['Covent Garden',51.5129,-0.1243],
-        ['Holborn',51.5174,-0.1200],['Russell Square',51.5230,-0.1244],["King's Cross St Pancras",51.5308,-0.1238]
-      ]},
-      { id:'circle', name:'Circle', color:'#FFD300', code:'CI', stations:[
-        ['Paddington',51.5154,-0.1755],['Bayswater',51.5121,-0.1877],['Notting Hill Gate',51.5094,-0.1967],
-        ['South Kensington',51.4941,-0.1738],['Sloane Square',51.4924,-0.1565],['Victoria',51.4952,-0.1441],
-        ['Westminster',51.5010,-0.1254],['Embankment',51.5074,-0.1223],['Blackfriars',51.5120,-0.1035],
-        ['Cannon Street',51.5115,-0.0904],['Tower Hill',51.5098,-0.0766],['Liverpool Street',51.5178,-0.0823],
-        ['Farringdon',51.5202,-0.1053],["King's Cross St Pancras",51.5308,-0.1238],['Baker Street',51.5226,-0.1571],
-        ['Edgware Road',51.5199,-0.1679]
-      ]},
-      { id:'district', name:'District', color:'#00782A', code:'D', stations:[
-        ["Earl's Court",51.4913,-0.1936],['South Kensington',51.4941,-0.1738],['Sloane Square',51.4924,-0.1565],
-        ['Victoria',51.4952,-0.1441],['Westminster',51.5010,-0.1254],['Embankment',51.5074,-0.1223],
-        ['Blackfriars',51.5120,-0.1035],['Cannon Street',51.5115,-0.0904],['Monument',51.5108,-0.0857],
-        ['Tower Hill',51.5098,-0.0766]
-      ]},
-      { id:'jubilee', name:'Jubilee', color:'#A0A5A9', code:'J', stations:[
-        ['Baker Street',51.5226,-0.1571],['Bond Street',51.5142,-0.1494],['Green Park',51.5067,-0.1428],
-        ['Westminster',51.5010,-0.1254],['Waterloo',51.5031,-0.1132],['London Bridge',51.5049,-0.0863],
-        ['Canada Water',51.4982,-0.0500],['Canary Wharf',51.5051,-0.0209],['North Greenwich',51.5029,0.0033],
-        ['Stratford',51.5416,-0.0042]
-      ]},
-      { id:'northern', name:'Northern', color:'#000000', code:'N', stations:[
-        ['Camden Town',51.5392,-0.1426],['Euston',51.5282,-0.1337],["King's Cross St Pancras",51.5308,-0.1238],
-        ['Angel',51.5322,-0.1058],['Bank',51.5133,-0.0886],['London Bridge',51.5049,-0.0863],
-        ['Elephant & Castle',51.4943,-0.1004],['Waterloo',51.5031,-0.1132],['Leicester Square',51.5113,-0.1281],
-        ['Tottenham Court Road',51.5165,-0.1308],['Warren Street',51.5247,-0.1384]
-      ]}
-    ],
-    hotels:[
-      {name:'The Waldorf Hilton, London', lat:51.5125, lng:-0.1190, area:'Covent Garden', rating:4.4, stars:4, priceTier:4, phone:'+44 20 7836 2400'},
-      {name:'Covent Garden Hotel', lat:51.5146, lng:-0.1271, area:'Covent Garden', rating:4.6, stars:5, priceTier:4, phone:'+44 20 7806 1000'},
-      {name:'Zedwell Piccadilly Circus', lat:51.5105, lng:-0.1335, area:'Covent Garden', rating:4.0, stars:3, priceTier:2, phone:'+44 20 7096 5414'},
-      {name:'The Z Hotel Covent Garden', lat:51.5110, lng:-0.1245, area:'Covent Garden', rating:4.3, stars:2, priceTier:2, phone:'+44 20 3837 6304'},
-      {name:'The Kensington Hotel', lat:51.4925, lng:-0.1780, area:'South Kensington', rating:4.6, stars:5, priceTier:4, phone:'+44 20 7589 6300'},
-      {name:'100 Queen\'s Gate Hotel London Kensington, Curio Collection by Hilton', lat:51.4924, lng:-0.1786, area:'South Kensington', rating:4.2, stars:4, priceTier:3, phone:'+44 20 7373 7878'},
-      {name:'Radisson Blu Hotel, London South Kensington', lat:51.4954, lng:-0.1819, area:'South Kensington', rating:4.0, stars:3, priceTier:3, phone:'+44 20 7761 9000'},
-      {name:'St. Pancras London, Autograph Collection', lat:51.5297, lng:-0.1259, area:"King's Cross St Pancras", rating:4.4, stars:5, priceTier:4, phone:'+44 20 7841 3540'},
-      {name:'The Megaro Hotel', lat:51.5298, lng:-0.1238, area:"King's Cross St Pancras", rating:4.3, stars:4, priceTier:3, phone:'+44 20 7843 2222'},
-      {name:'Premier Inn London Kings Cross hotel', lat:51.5319, lng:-0.1222, area:"King's Cross St Pancras", rating:4.2, stars:3, priceTier:2, phone:'+44 333 321 1272'},
-      {name:'Hilton London Paddington', lat:51.5157, lng:-0.1759, area:'Paddington', rating:4.0, stars:4, priceTier:3, phone:'+44 20 7850 0500'},
-      {name:'hub by Premier Inn London Paddington hotel', lat:51.5158, lng:-0.1778, area:'Paddington', rating:4.4, stars:2, priceTier:2, phone:'+44 20 3297 8925'},
-      {name:'Premier Inn London Heathrow Airport Terminal 4 hotel', lat:51.4597, lng:-0.4397, area:'Heathrow Airport', rating:4.3, stars:3, priceTier:2, phone:null},
-      {name:'Courtyard by Marriott London Heathrow Airport', lat:51.4811, lng:-0.4328, area:'Heathrow Airport', rating:4.2, stars:4, priceTier:3, phone:'+44 20 3988 5000'},
-      {name:'Premier Inn London Heathrow Airport T2 & T3 (Bath Road) hotel', lat:51.4802, lng:-0.4246, area:'Heathrow Airport', rating:4.2, stars:3, priceTier:2, phone:'+44 871 527 8508'},
-      {name:'Holiday Inn Express, London Heathrow T5', lat:51.4891, lng:-0.5363, area:'Heathrow Airport', rating:4.0, stars:3, priceTier:2, phone:'+44 1753 684001'},
-      {name:'Sofitel London Gatwick', lat:51.1609, lng:-0.1740, area:'Gatwick Airport', rating:4.4, stars:5, priceTier:4, phone:'+44 1293 567070'},
-      {name:'Holiday Inn London - Gatwick Airport', lat:51.1684, lng:-0.1808, area:'Gatwick Airport', rating:4.3, stars:3, priceTier:3, phone:'+44 1293 907900'},
-      {name:'Crowne Plaza London - Gatwick Airport', lat:51.1257, lng:-0.1896, area:'Gatwick Airport', rating:4.0, stars:4, priceTier:3, phone:'+44 1293 608608'}
-    ],
-    sights:[
-      {name:'Tower of London', lat:51.5081, lng:-0.0759, note:'1,000-year-old castle guarding the Crown Jewels.', hours:'9:00 AM–5:30 PM (from 10 AM Sun/Mon)', rating:4.7, phone:'+44 333 320 6000', ticketUrl:'https://www.hrp.org.uk/tower-of-london/visit/tickets-and-prices/', bookAhead:true},
-      {name:'The British Museum', lat:51.5194, lng:-0.1270, note:'Free entry. Vast collection spanning world history, including the Rosetta Stone.', hours:'10:00 AM–5:00 PM daily, till 8:30 PM Fri', rating:4.6, phone:'+44 20 7323 8000'},
-      {name:'Sky Garden', lat:51.5112, lng:-0.0835, note:'Free public garden and observation deck atop the \'Walkie-Talkie\' tower — book a free slot online in advance.', hours:'8:00 AM–12:00 AM (1 AM Fri, 9 AM Sat/Sun)', rating:4.6, phone:'+44 333 772 0020'},
-      {name:'Natural History Museum', lat:51.4967, lng:-0.1764, note:'Free entry. Dinosaur skeletons, the blue whale in Hintze Hall, gemstones.', hours:'10:00 AM–5:50 PM daily', rating:4.6, phone:'+44 20 7942 5000'},
-      {name:'Victoria and Albert Museum', lat:51.4966, lng:-0.1722, note:'Free entry. The world\'s largest museum of decorative arts and design.', hours:'10:00 AM–5:45 PM daily, till 10 PM Fri', rating:4.8, phone:'+44 20 7942 2000'},
-      {name:'Westminster Abbey', lat:51.4994, lng:-0.1273, note:'Gothic abbey church, site of British coronations for nearly 1,000 years.', hours:'Check official site — varies by day', rating:4.6, phone:'+44 20 7222 5152', ticketUrl:'https://tickets.westminster-abbey.org/home/index', bookAhead:true},
-      {name:'Tower Bridge', lat:51.5055, lng:-0.0754, note:'Iconic Victorian bascule bridge with a glass-floor walkway.', hours:'9:30 AM–6:00 PM daily', rating:4.8, phone:'+44 20 7407 9191', ticketUrl:'https://www.towerbridge.org.uk/', bookAhead:true},
-      {name:'London Eye', lat:51.5032, lng:-0.1195, note:"Europe's tallest cantilevered observation wheel, views across the Thames.", hours:'10:00 AM–8:30 PM daily', rating:4.5, phone:'+44 20 7967 8021', ticketUrl:'https://www.londoneye.com/', bookAhead:true},
-      {name:"St Paul's Cathedral", lat:51.5138, lng:-0.0984, note:"Wren's masterpiece — climb to the Whispering Gallery and dome.", hours:'8:30 AM–4:30 PM (10 AM Wed), 8 AM–6 PM Sun', rating:4.7, phone:'+44 20 7246 8350', ticketUrl:'https://www.stpauls.co.uk/', bookAhead:true},
-      {name:'Buckingham Palace', lat:51.5014, lng:-0.1419, note:'Working royal palace — check for Changing of the Guard times.', hours:'9:30 AM–7:30 PM daily', rating:4.5, phone:'+44 303 123 7300', ticketUrl:'https://www.rct.uk/visit/buckingham-palace', bookAhead:true},
-      {name:'Houses of Parliament & Big Ben', lat:51.4995, lng:-0.1248, note:'Palace of Westminster and its iconic Elizabeth Tower clock.', hours:'Tours vary — check official site', rating:4.7, phone:'+44 20 7219 3000', ticketUrl:'https://tickets.parliament.uk/content/ticket-options', bookAhead:true},
-      {name:'Camden Market', lat:51.5414, lng:-0.1465, note:'Sprawling market — alternative fashion, street food from around the world.', hours:'10:00 AM–7:00 PM daily', rating:4.6, phone:'+44 20 3763 9900'},
-      {name:'Borough Market', lat:51.5056, lng:-0.0905, note:"One of London's oldest food markets — artisan produce, cheese, meat.", hours:'10:00 AM–5:00 PM Tue–Sun, closed Mon', rating:4.6, phone:'+44 20 7407 1002'}
-    ],
-    railStations:[
-      {name:"King's Cross St Pancras", lat:51.5308, lng:-0.1238, note:'Eurostar high-speed rail to Paris, Brussels & Amsterdam (St Pancras side); East Coast Main Line to Edinburgh, York, Leeds (King\'s Cross side).', hours:'Station open ~5:00 AM–12:30 AM. Mainline & Eurostar trains run on individual timetables — no single last train. Eurostar check-in closes 30–90 min before departure, verify directly with Eurostar.'},
-      {name:'Paddington', lat:51.5154, lng:-0.1755, note:'Elizabeth Line & Heathrow Express to Heathrow Airport; Great Western main line to Bristol, Bath, Wales.', hours:'Station open ~5:00 AM–12:30 AM. Heathrow Express runs every 15 min, ~5:10 AM–11:25 PM. Great Western mainline trains run on individual timetables.'}
-    ],
-    airports:[
-      {name:'Heathrow Airport', code:'LHR', lat:51.4700, lng:-0.4543, transitNote:'~45–60 min to central London via Piccadilly Line (shown on map, direct) or ~15 min via Elizabeth Line/Heathrow Express from Paddington', hours:'Departing Heathrow: first ~5:00 AM, last ~11:30 PM–12:30 AM most nights. Runs all night Fri & Sat (Night Tube).'},
-      {name:'Gatwick Airport', code:'LGW', lat:51.1537, lng:-0.1821, transitNote:'~30 min to central London via Gatwick Express train from Victoria (National Rail — not on the Underground map)'}
-    ]
-  },
-
-  barcelona: {
-    name:'Barcelona', country:'Spain', flag:'🇪🇸', center:[41.3874,2.1686], zoom:13,
-    operatingHours:'Metro runs Mon–Thu & Sun 5:00 AM–12:00 AM, Fri 5:00 AM–2:00 AM, and runs 24 hours continuously from Saturday 5:00 AM through Sunday night — the most generous weekend hours of any city on this map.',
-    fareInfo:'Barcelona Metro: €2.90 per single ride (Zone 1), or €13.00 for a T-Casual 10-trip card — better value past ~4 rides. Important: standard tickets and the T-Casual do NOT cover the airport line (L9 Sud) — that needs a separate €5.90 supplement, easy to miss until you\'re already at the gate.',
-    lines:[
-      { id:'bl1', name:'L1', color:'#E4022B', code:'1', stations:[
-        ['Plaça Catalunya',41.3870,2.1701],['Universitat',41.3849,2.1637],['Espanya',41.3748,2.1487],
-        ['Glòries',41.4034,2.1877],['Urquinaona',41.3874,2.1755],['Clot',41.4103,2.1848],
-        ['Torrassa',41.3629,2.1108]
-      ]},
-      { id:'bl2', name:'L2', color:'#9D4C9E', code:'2', stations:[
-        ['Sagrada Família',41.4036,2.1744],['Passeig de Gràcia',41.3917,2.1649],['Universitat',41.3849,2.1637],
-        ['Paral·lel',41.3746,2.1650],['Monumental',41.3976,2.1817]
-      ]},
-      { id:'bl3', name:'L3', color:'#009845', code:'3', stations:[
-        ['Liceu',41.3806,2.1734],['Drassanes',41.3757,2.1770],['Catalunya',41.3870,2.1701],
-        ['Passeig de Gràcia',41.3917,2.1649],['Diagonal',41.3947,2.1616],['Vallcarca',41.4088,2.1443],
-        ['Espanya',41.3748,2.1487],['Poble Sec',41.3742,2.1611],['Zona Universitària',41.3844,2.1128]
-      ]},
-      { id:'bl4', name:'L4', color:'#FFC30E', code:'4', stations:[
-        ['Jaume I',41.3838,2.1770],['Barceloneta',41.3805,2.1878],['Ciutadella-Vila Olímpica',41.3878,2.1954],
-        ['Passeig de Gràcia',41.3917,2.1649],['Verdaguer',41.4004,2.1699],['Girona',41.3958,2.1685]
-      ]},
-      { id:'bl5', name:'L5', color:'#0069B4', code:'5', stations:[
-        ['Sagrada Família',41.4036,2.1744],['Diagonal',41.3947,2.1616],['Verdaguer',41.4004,2.1699],
-        ['Sants Estació',41.3789,2.1400],['Hospital Clínic',41.3897,2.1508],['Collblanc',41.3705,2.1160]
-      ]},
-      { id:'bl9s', name:'L9 Sud (Airport)', color:'#F5A623', code:'9S', stations:[
-        ['Aeroport T1',41.2974,2.0833],['Aeroport T2',41.3009,2.0721],['Torrassa',41.3629,2.1108],
-        ['Collblanc',41.3705,2.1160],['Zona Universitària',41.3844,2.1128]
-      ]}
-    ],
-    hotels:[
-      {name:'Hotel Arc La Rambla', lat:41.3782, lng:2.1755, area:'Gothic Quarter', rating:4.4, stars:3, priceTier:2, phone:'+34 933 01 97 98'},
-      {name:'Hotel Gòtic', lat:41.3834, lng:2.1782, area:'Gothic Quarter', rating:4.2, stars:3, priceTier:2, phone:'+34 933 15 22 11'},
-      {name:'Hotel Colonial Barcelona', lat:41.3823, lng:2.1807, area:'Gothic Quarter', rating:4.2, stars:3, priceTier:2, phone:'+34 933 19 22 52'},
-      {name:'Ítaca Hostel', lat:41.3853, lng:2.1754, area:'Gothic Quarter', rating:4.6, stars:1, priceTier:1, phone:'+34 933 01 97 51'},
-      {name:'Sun & Moon hostel', lat:41.3810, lng:2.1749, area:'Gothic Quarter', rating:4.2, stars:1, priceTier:1, phone:'+34 932 70 20 60'},
-      {name:'Radisson Blu 1882 Hotel, Barcelona Sagrada Familia', lat:41.4040, lng:2.1696, area:'Eixample', rating:4.5, stars:4, priceTier:3, phone:'+34 933 47 84 86'},
-      {name:'Hotel Boutique Hostemplo', lat:41.4013, lng:2.1733, area:'Eixample', rating:4.5, stars:4, priceTier:3, phone:'+34 934 76 55 75'},
-      {name:'Hotel NH Barcelona Eixample', lat:41.3858, lng:2.1542, area:'Eixample', rating:4.1, stars:3, priceTier:2, phone:'+34 933 23 62 15'},
-      {name:'Sercotel Rosselló', lat:41.4048, lng:2.1727, area:'Eixample', rating:4.2, stars:3, priceTier:2, phone:'+34 936 00 92 00'},
-      {name:'Hostal Live Barcelona', lat:41.3836, lng:2.1600, area:'Eixample', rating:4.3, stars:2, priceTier:2, phone:'+34 935 32 77 07'},
-      {name:'W Barcelona', lat:41.3684, lng:2.1902, area:'Barceloneta', rating:4.4, stars:5, priceTier:4, phone:'+34 932 95 28 00'},
-      {name:'Eurostars Grand Marina', lat:41.3718, lng:2.1809, area:'Barceloneta', rating:4.2, stars:4, priceTier:3, phone:'+34 936 03 90 00'},
-      {name:'Hotel 54 Barcelona', lat:41.3770, lng:2.1889, area:'Barceloneta', rating:4.3, stars:3, priceTier:2, phone:'+34 932 25 00 54'},
-      {name:'Hotel Barceló Sants', lat:41.3791, lng:2.1396, area:'Barcelona Sants', rating:4.3, stars:4, priceTier:3, phone:'+34 935 03 53 00'},
-      {name:'Hilton Barcelona', lat:41.3887, lng:2.1314, area:'Barcelona Sants', rating:4.3, stars:4, priceTier:3, phone:'+34 934 95 77 77'},
-      {name:'Hotel NH Sants Barcelona', lat:41.3845, lng:2.1377, area:'Barcelona Sants', rating:4.3, stars:3, priceTier:2, phone:'+34 916 00 81 46'},
-      {name:'abba Sants Hotel', lat:41.3826, lng:2.1400, area:'Barcelona Sants', rating:4.2, stars:3, priceTier:2, phone:'+34 936 00 31 00'},
-      {name:'Hyatt Regency Barcelona Tower', lat:41.3462, lng:2.1086, area:'Josep Tarradellas Barcelona-El Prat Airport', rating:4.4, stars:5, priceTier:4, phone:'+34 934 13 50 00'},
-      {name:'INNSiDE by Meliá Barcelona Aeropuerto', lat:41.3126, lng:2.0684, area:'Josep Tarradellas Barcelona-El Prat Airport', rating:4.0, stars:3, priceTier:2, phone:'+34 933 78 10 00'},
-      {name:'Four Points by Sheraton Barcelona Airport', lat:41.3129, lng:2.0307, area:'Josep Tarradellas Barcelona-El Prat Airport', rating:4.1, stars:3, priceTier:2, phone:'+34 930 36 88 99'}
-    ],
-    sights:[
-      {name:'Basílica de la Sagrada Família', lat:41.4036, lng:2.1744, note:"Gaudí's unfinished masterpiece — under construction since 1882, book tickets well ahead.", hours:'9:00 AM–6:00/8:00 PM daily, seasonal', rating:4.7, phone:'+34 932 08 04 14', img:'https://commons.wikimedia.org/wiki/Special:FilePath/Sagrada_Familia_(Barcelona).JPG?width=400', ticketUrl:'https://sagradafamilia.org/en/tickets', bookAhead:true},
-      {name:'Casa Batlló', lat:41.3917, lng:2.1649, note:'Gaudí\'s dragon-scaled, bone-like facade on Passeig de Gràcia.', hours:'9:00 AM–8:00 PM daily', rating:4.6, phone:'+34 932 16 03 06', img:'https://commons.wikimedia.org/wiki/Special:FilePath/Casa_Batll%C3%B3_01.jpg?width=400', ticketUrl:'https://www.casabatllo.es/en/online-tickets/', bookAhead:true},
-      {name:'Park Güell', lat:41.4145, lng:2.1527, note:'Gaudí\'s whimsical mosaic park overlooking the city — book a timed entry.', hours:'9:30 AM–7:30 PM, seasonal', rating:4.2, phone:'+34 934 09 18 31', img:'https://commons.wikimedia.org/wiki/Special:FilePath/Park_G%C3%BCell_02.jpg?width=400', ticketUrl:'https://parkguell.barcelona/en/buy-tickets', bookAhead:true},
-      {name:'Gothic Quarter (Barri Gòtic)', lat:41.3833, lng:2.1767, note:'Medieval old town — narrow lanes, Roman ruins, hidden squares.', hours:'Open 24 hours (district)', rating:4.6, phone:null, img:'https://commons.wikimedia.org/wiki/Special:FilePath/Barri_G%C3%B2tic_-_panoramio.jpg?width=400'},
-      {name:'Mercat de la Boqueria', lat:41.3818, lng:2.1717, note:'Barcelona\'s most famous food market, just off Las Ramblas.', hours:'8:00 AM–8:30 PM, closed Sun', rating:4.5, phone:'+34 933 18 25 84', img:'https://commons.wikimedia.org/wiki/Special:FilePath/La_Boqueria.JPG?width=400'},
-      {name:'Palace of Catalan Music', lat:41.3875, lng:2.1752, note:'Domènech i Montaner\'s Art Nouveau concert hall — a UNESCO World Heritage site.', hours:'Guided tours, check official site', rating:4.7, phone:'+34 932 95 72 00', img:'https://commons.wikimedia.org/wiki/Special:FilePath/Palau_de_la_M%C3%BAsica_Catalana-Palace_of_Catalan_Music_(Image_2).jpg?width=400', ticketUrl:'https://www.palaumusica.cat/en/visits-and-tickets_1159168', bookAhead:true},
-      {name:'La Pedrera - Casa Milà', lat:41.3954, lng:2.1619, note:'Gaudí\'s undulating stone facade, famous rooftop chimneys.', hours:'9:00 AM–8:30 PM daily', rating:4.4, phone:'+34 902 20 21 38', img:'https://commons.wikimedia.org/wiki/Special:FilePath/Spain.Barcelona.Casa.Mila.jpg?width=400', ticketUrl:'https://www.lapedrera.com/en/visits', bookAhead:true},
-      {name:'The Magic Fountain', lat:41.3712, lng:2.1520, note:'Water, light & music show at the foot of Montjuïc — check current schedule, has had temporary closures.', hours:'Evenings, seasonal — verify before visiting', rating:4.5, phone:null, img:'https://commons.wikimedia.org/wiki/Special:FilePath/La_font_magica_de_montjuic.JPG?width=400'},
-      {name:'Basílica de Santa Maria del Mar', lat:41.3838, lng:2.1817, note:'Barcelona\'s last standing Catalan Gothic church, in the El Born district.', hours:'10:00 AM–7:00 PM daily', rating:4.6, phone:'+34 933 10 23 90', img:'https://commons.wikimedia.org/wiki/Special:FilePath/Main_door_-_Basilica_de_Santa_Maria_del_Mar_-_Barcelona_2014.jpg?width=400'},
-      {name:'Catedral de Barcelona', lat:41.3839, lng:2.1761, note:'Gothic cathedral with 500-year-old stained glass.', hours:'9:30 AM–6:30 PM daily, hours vary', rating:4.4, phone:'+34 933 42 82 60', img:'https://commons.wikimedia.org/wiki/Special:FilePath/Main_facade_of_Barcelona_Cathedral_-_2013.JPG?width=400'},
-      {name:'Casa Vicens Gaudí', lat:41.4038, lng:2.1483, note:'Gaudí\'s first house, 1883–1885 — the seeds of his later style.', hours:'10:00 AM–7:00/8:00 PM, seasonal', rating:4.6, phone:'+34 932 71 18 64', img:'https://commons.wikimedia.org/wiki/Special:FilePath/Gaud%C3%AD_-_Casa_Vicens.JPG?width=400', ticketUrl:'https://casavicens.org/en/', bookAhead:true},
-      {name:'Las Ramblas', lat:41.3797, lng:2.1735, note:'Iconic pedestrian boulevard from Plaça Catalunya to the harbor — lively but watch for pickpockets.', hours:'Open 24 hours', rating:3.9, phone:null, img:'https://commons.wikimedia.org/wiki/Special:FilePath/La_Rambla_Barcelona.JPG?width=400'},
-      {name:'Parc de la Ciutadella', lat:41.3888, lng:2.1873, note:'Barcelona\'s central park — a monumental fountain, a small lake, and the zoo.', hours:'8:00 AM–9:00/11:00 PM, seasonal', rating:4.5, phone:null, img:'https://commons.wikimedia.org/wiki/Special:FilePath/Parc_de_la_Ciutadella_-_Barques_a_l%27estany.JPG?width=400'},
-      {name:'Parc de Montjuïc', lat:41.3666, lng:2.1590, note:'Hilltop park — Montjuïc Castle, cable car, Olympic stadium, sweeping harbor views.', hours:'Open 24 hours (park)', rating:4.4, phone:null, img:'https://commons.wikimedia.org/wiki/Special:FilePath/Castell_de_Montjuic._Barcelona.jpg?width=400'}
-    ],
-    railStations:[
-      {name:'Barcelona Sants', lat:41.3789, lng:2.1400, note:'Barcelona\'s main rail hub — AVE high-speed trains to Madrid (~2h30) and France (Figueres/Perpignan), plus regional Rodalies lines.', hours:'Station open ~5:00 AM–12:30 AM. AVE and regional trains depart all day on individual timetables — no single last train. Check Renfe.com for your specific departure.'}
-    ],
-    airports:[
-      {name:'Josep Tarradellas Barcelona-El Prat Airport', code:'BCN', lat:41.2971, lng:2.0785, transitNote:'~30 min to city center via Metro Line L9 Sud (shown on map) — direct to both terminals, no transfer needed, unlike most airports on this map', hours:'Departing El Prat: Line L9S runs the same hours as the rest of the metro (~5 AM–midnight, 2 AM Fri, 24h Sat) — a genuine one-seat ride into the city, no transfer required. Fare: €5.90 one-way — standard tickets and T-Casual cards do NOT cover this line, buy the airport supplement separately.'}
-    ]
-  },
-
-  paris:  { name:'Paris', country:'France', flag:'🇫🇷', comingSoon:true }
-};
+async function loadAllCities(){
+  const index = await fetch('data/cities.json').then(r=>{ if(!r.ok) throw new Error('cities.json '+r.status); return r.json(); });
+  // Every ready city loads up front, not on first click: pins and shared
+  // links can reference hotels in any city, and an unloaded city's pins
+  // would be dropped the next time pins are saved. ~15 KB per city.
+  await Promise.all(Object.entries(index).map(async ([id, meta])=>{
+    if(meta.comingSoon){ CITIES[id] = meta; return; }
+    const r = await fetch(`data/${id}.json`);
+    if(!r.ok) throw new Error(`${id}.json ${r.status}`);
+    const city = await r.json();
+    // IDs are assigned here, for every city at once, so pins in cities not
+    // yet opened this visit still resolve (same id scheme as before, so
+    // saved pins and old share links keep working).
+    (city.hotels||[]).forEach((h,idx)=>{ if(!h._id) h._id = id+'_h'+idx; });
+    (city.sights||[]).forEach((s,idx)=>{ if(!s._id) s._id = id+'_s'+idx; });
+    CITIES[id] = city;
+  }));
+  // Keep cities.json order (Object insertion order drives nothing visible:
+  // the picker sorts by name), but make sure every entry exists.
+  for(const [id, meta] of Object.entries(index)) if(!CITIES[id]) CITIES[id] = meta;
+}
 
 /* =================================================================
    MAP + STATE
@@ -1479,6 +1008,9 @@ function render(){
   const data = CITIES[currentCityId];
   data.lines.forEach(line=>{
     const layer = lineLayers[line.id];
+    // map.setView() in loadCity() fires zoomend (so render) before the new
+    // city's layers exist whenever the zoom level changes; skip until built.
+    if(!layer) return;
     const on = activeLines.has(line.id);
     layer.poly.setStyle({opacity:on?.9:0});
     layer.stationMarkers.forEach(m=> m.setStyle({opacity:on?1:0, fillOpacity:on?1:0}));
@@ -1538,6 +1070,7 @@ function updateStationLabelVisibility(){
   const zoom = map.getZoom();
   data.lines.forEach(line=>{
     const layer = lineLayers[line.id];
+    if(!layer) return; // layers not built yet (see render())
     const on = activeLines.has(line.id);
     layer.stationLabels.forEach(l=>{
       const show = on && zoom>=13;
@@ -1948,13 +1481,19 @@ function requestCity(){
   renderCityPicker();
 }
 
-restorePinsFromStorage();
-const sharedCity = loadSharedPinsFromUrl();
-if(sharedCity) savePinsToStorage(); // adopt a shared trip's pins into this browser's own saved state too
-loadCity(sharedCity || getLastCity() || 'tokyo');
-renderCityPicker();
-renderLineToggles();
-if(sharedCity) showSearchBanner('📌 Showing a shared trip plan!', 4200);
+loadAllCities().then(()=>{
+  restorePinsFromStorage();
+  const sharedCity = loadSharedPinsFromUrl();
+  if(sharedCity) savePinsToStorage(); // adopt a shared trip's pins into this browser's own saved state too
+  const lastCity = getLastCity();
+  loadCity(sharedCity || (CITIES[lastCity] && !CITIES[lastCity].comingSoon ? lastCity : 'tokyo'));
+  renderCityPicker();
+  renderLineToggles();
+  if(sharedCity) showSearchBanner('📌 Showing a shared trip plan!', 4200);
+}).catch(e=>{
+  console.error('Could not load city data:', e);
+  showSearchBanner('Couldn\'t load city data. Check your connection and reload the page.');
+});
 </script>
 </body>
 </html>

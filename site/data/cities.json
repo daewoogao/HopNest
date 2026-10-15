@@ -1,0 +1,33 @@
+{
+  "tokyo": {
+    "name": "Tokyo",
+    "country": "Japan",
+    "flag": "🇯🇵"
+  },
+  "shanghai": {
+    "name": "Shanghai",
+    "country": "China",
+    "flag": "🇨🇳"
+  },
+  "newyork": {
+    "name": "New York City",
+    "country": "USA",
+    "flag": "🇺🇸"
+  },
+  "london": {
+    "name": "London",
+    "country": "UK",
+    "flag": "🇬🇧"
+  },
+  "barcelona": {
+    "name": "Barcelona",
+    "country": "Spain",
+    "flag": "🇪🇸"
+  },
+  "paris": {
+    "name": "Paris",
+    "country": "France",
+    "flag": "🇫🇷",
+    "comingSoon": true
+  }
+}
