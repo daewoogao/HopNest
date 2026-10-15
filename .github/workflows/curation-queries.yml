@@ -10,7 +10,7 @@ name: Curation queries
 on:
   push:
     branches: ['curation/**']
-    paths: ['curation/queries/**']
+    paths: ['curation/queries/**', '.github/workflows/curation-queries.yml']
 permissions:
   contents: write
 jobs:
