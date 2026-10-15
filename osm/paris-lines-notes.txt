@@ -1,0 +1,7 @@
+16 lines, 391 stations
+  check: Ligne 7: La Courneuve ↔ Villejuif - Louis Aragon / Mairie d’Ivry: 2 other variant(s) with stations not on the main one (branch?), check by hand
+  check: Ligne 14 : Saint-Denis – Pleyel ↔ Aéroport d’Orly: 1 other variant(s) with stations not on the main one (branch?), check by hand
+  check: Ligne 10 : Pont de Saint-Cloud ↔ Gare d’Austerlitz: 1 other variant(s) with stations not on the main one (branch?), check by hand
+  check: Ligne 13 : Les Courtilles / Saint-Denis - Université ↔ Châtillon - Montrouge: 3 other variant(s) with stations not on the main one (branch?), check by hand
+  check: Ligne 7 bis : Louis Blanc ↔ Pré Saint-Gervais: 1 other variant(s) with stations not on the main one (branch?), check by hand
+  check: Métro 15: fewer than 2 named stops (under construction?), skipped; OSM relation r3094380
