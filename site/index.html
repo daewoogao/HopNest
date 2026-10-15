@@ -389,7 +389,6 @@ const CITIES = {
       {name:'The Millennials Shibuya', lat:35.6622, lng:139.6997, area:'Shibuya', rating:4.4, stars:2, priceTier:2, phone:'+81 50-3164-0748'},
       {name:'Shibuya Excel Hotel Tokyu', lat:35.6586, lng:139.6998, area:'Shibuya', rating:4.3, priceTier:4, phone:'+81 3-5457-0109', stars:4},
       {name:'Shibuya Tokyu REI Hotel', lat:35.6602, lng:139.7020, area:'Shibuya', rating:4.0, priceTier:3, phone:'+81 3-3498-0109', stars:3},
-      {name:'The Millennials Shibuya', lat:35.6622, lng:139.6997, area:'Shibuya', rating:4.4, priceTier:1, phone:'+81 50-3164-0748', stars:2},
       {name:'All Day Place Shibuya', lat:35.6614, lng:139.7031, area:'Shibuya', rating:4.1, priceTier:3, phone:'+81 3-6452-6830', stars:3},
       {name:'Grids Tokyo Ueno Hotel & Hostel', lat:35.7153, lng:139.7793, area:'Ueno', rating:4.1, stars:1, priceTier:1, phone:'+81 3-5830-0030'},
       {name:'hotel MONday Premium Ueno Okachimachi', lat:35.7055, lng:139.7764, area:'Ueno', rating:4.5, stars:3, priceTier:2, phone:'+81 3-5816-8681'},
@@ -1788,9 +1787,12 @@ function renderSearchResults(matches, query){
   if(matches.length===0){
     searchResultsEl.innerHTML = `
       <div class="psr-empty">No matches for "${query}" in our curated list.</div>
-      <div class="psr-item psr-websearch" id="psr-web-search"><span class="psr-icon">🌐</span><span class="psr-text"><div class="psr-name">Search the web for "${query}"</div><div class="psr-sub">Not in our curated list — try a live lookup</div></span></div>`;
+      ${LIVE_SEARCH_ENABLED
+        ? `<div class="psr-item psr-websearch" id="psr-web-search"><span class="psr-icon">🌐</span><span class="psr-text"><div class="psr-name">Search the web for "${query}"</div><div class="psr-sub">Not in our curated list — try a live lookup</div></span></div>`
+        : `<a class="psr-item psr-websearch" style="text-decoration:none;" href="https://www.booking.com/searchresults.html?ss=${encodeURIComponent(`${query}, ${CITIES[currentCityId].name}`)}" target="_blank" rel="noopener"><span class="psr-icon">🏨</span><span class="psr-text"><div class="psr-name">Search hotels for "${query}" on Booking.com ↗</div><div class="psr-sub">Not in our list — opens in a new tab</div></span></a>`}`;
     searchResultsEl.style.display = 'block';
-    document.getElementById('psr-web-search').addEventListener('click', ()=> triggerNameSearch(query));
+    const webBtn = document.getElementById('psr-web-search');
+    if(webBtn) webBtn.addEventListener('click', ()=> triggerNameSearch(query));
     return;
   }
   searchResultsEl.innerHTML = matches.slice(0,8).map((m,i)=>
@@ -1856,10 +1858,20 @@ searchInput.addEventListener('input', ()=>{
   searchClearEl.style.display = q ? 'inline' : 'none';
   if(!q){ clearSearchResults(); return; }
   const words = normalizeSearchText(q).split(/\s+/).filter(Boolean);
+  // Places (stations, sights) before hotels, and name matches before
+  // area/description matches, so a busy area's hotels can't push its
+  // station and sights past the 8-result cap.
+  const TYPE_RANK = {station:0, rail:0, airport:0, sight:1, hotel:2};
+  const qNorm = normalizeSearchText(q);
   const matches = searchIndex.filter(item=>{
     const haystack = normalizeSearchText(`${item.name} ${item.sub} ${item.extra||''}`);
     return words.every(w=> haystack.includes(w));
-  });
+  }).map(item=>{
+    const name = normalizeSearchText(item.name);
+    const nameRank = name===qNorm ? 0 : name.startsWith(qNorm) ? 1 : words.every(w=> name.includes(w)) ? 2 : 3;
+    return {item, nameRank};
+  }).sort((a,b)=> (a.nameRank>2)-(b.nameRank>2) || TYPE_RANK[a.item.type]-TYPE_RANK[b.item.type] || a.nameRank-b.nameRank)
+    .map(x=>x.item);
   renderSearchResults(matches, q);
 });
 searchInput.addEventListener('focus', ()=>{ searchIndex = buildSearchIndex(); });
