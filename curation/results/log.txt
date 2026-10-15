@@ -33,3 +33,5 @@
 06:32:40 seoul-arex lines FAILED
 06:32:47 seoul lines ok
 06:33:08 singapore lines ok
+06:35:14 seoul-stations try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 164260 bytes
+06:35:33 seoul-arex lines ok

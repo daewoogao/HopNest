@@ -1,0 +1,2090 @@
+@type	@id	name	name:en	name:ko-Latn	official_name:en	@lat	@lon	railway	public_transport
+node	287321417	성신여대입구	Sungshin Women's Univ.			37.5926650	127.0164111	stop	stop_position
+node	287525731	삼성	Samseong(World Trade Center Seoul)			37.5091066	127.0642476	stop	stop_position
+node	287600947	한성대입구	Hansung University			37.5885141	127.0059624	station	station
+node	353186868	길음	Gireum			37.6024214	127.0244140	stop	stop_position
+node	353186877	마포				37.5396405	126.9459579	stop	stop_position
+node	353186903	명학	Myeonghak			37.3843939	126.9356089	station	station
+node	355172683	영등포	Yeongdeungpo			37.5163103	126.9085913	stop	stop_position
+node	355172689	가산디지털단지				37.4801015	126.8816142	stop	stop_position
+node	355172696	관악	Gwanak			37.4187236	126.9091539	station	station
+node	355172701	군포	Gunpo	Gunpo		37.3535747	126.9484606	station	station
+node	355172707	성균관대	Sungkyunkwan Univ.			37.3002852	126.9711778	station	station
+node	355172742	종로5가	Jongno 5(o)-ga			37.5709298	127.0011763	stop	stop_position
+node	355172758	제기동	Jegi-dong			37.5783784	127.0344672	station	station
+node	355172765	신이문	Sinimun			37.6016378	127.0672904	station	station
+node	355172769	회기	Hoegi			37.5894974	127.0576239	station	station
+node	355172771	월계	Wolgye			37.6330633	127.0588653	station	station
+node	355172773	녹천	Nokcheon			37.6446274	127.0513984	station	station
+node	355172774	석계				37.6148757	127.0657680	stop	stop_position
+node	355172776	광운대	Kwangwoon University			37.6236987	127.0618193	station	station
+node	355172782	창동	Chang-Dong			37.6525981	127.0479780	station	station
+node	355172784	방학	Banghak			37.6676904	127.0443033	station	station
+node	355172786	가능	Ganeung			37.7483211	127.0443627	station	station
+node	355172790	회룡	Hoeryong	Hoeryong		37.7249474	127.0473751	station	station
+node	355172791	망월사	Mangwolsa			37.7102529	127.0473968	station	station
+node	355172797	양주	Yangju	yangju		37.7742000	127.0447560	station	station
+node	355172799	녹양	Nogyang			37.7594418	127.0423364	station	station
+node	355172808	오류동	Oryu-dong			37.4943466	126.8445367	station	station
+node	355172810	개봉	Gaebong			37.4945934	126.8587536	station	station
+node	355172812	구일	Guil			37.4962071	126.8697062	station	station
+node	355172816	중동	Jung-dong			37.4867775	126.7639671	station	station
+node	355172817	송내	Songnae			37.4877038	126.7528847	station	station
+node	355172821	부평	Bupyeong			37.4894540	126.7245591	station	station
+node	355172823	온수	Onsu			37.4920833	126.8228696	stop	stop_position
+node	355172827	소사	Sosa			37.4827657	126.7955903	station	station
+node	355172828	부천	Bucheon			37.4841098	126.7827347	station	station
+node	355172830	도화	Dohwa			37.4661244	126.6682641	station	station
+node	355172832	제물포	Jemulpo			37.4668149	126.6569848	station	station
+node	355172834	도원	Dowon			37.4688261	126.6424009	station	station
+node	355172837	백운	Baegun			37.4831229	126.7071115	station	station
+node	355172839	동암	Dongam			37.4710457	126.7028769	station	station
+node	355172843	주안	Juan			37.4650814	126.6806313	station	station
+node	355172855	아현	Ahyeon			37.5574487	126.9561344	stop	stop_position
+node	355172911	종합운동장	Sports Complex			37.5112839	127.0753203	stop	stop_position
+node	355172924	용두				37.5738711	127.0387020	stop	stop_position
+node	355172962	을지로입구	Euljiro 1(il)-ga (Industrial Bank of Korea)			37.5659777	126.9826070	stop	stop_position
+node	355172983	상왕십리	Sangwangsimni			37.5644254	127.0292120	stop	stop_position
+node	355173018	홍제	Hongje (Seoul Culture Arts Univ.)			37.5886740	126.9441990	stop	stop_position
+node	355173021	녹번	Nokbeon			37.6009430	126.9357156	stop	stop_position
+node	355173026	무악재	Muakjae			37.5823147	126.9503083	stop	stop_position
+node	355173030	지축	Jichuk			37.6479341	126.9149061	stop	stop_position
+node	355173031	삼송	Samsong			37.6531033	126.8954689	stop	stop_position
+node	355173034	백석	Baekseok			37.6430565	126.7879533	stop	stop_position
+node	355173038	정발산	Jeongbalsan			37.6597112	126.7732179	stop	stop_position
+node	355173039	마두	Madu			37.6520005	126.7777178	stop	stop_position
+node	355173041	대화	Daehwa			37.6761485	126.7474578	stop	stop_position
+node	355173042	주엽	Juyeop			37.6701110	126.7612341	stop	stop_position
+node	355173044	동대입구	Dongguk Univ.			37.5590197	127.0057659	stop	stop_position
+node	355173059	경복궁	Gyeongbokgung (Government Complex Seoul)			37.5757585	126.9735668	stop	stop_position
+node	355173067	금호	Geumho			37.5480153	127.0158595	stop	stop_position
+node	355173080	정부과천청사	Ansan Line			37.4264692	126.9897017	stop	stop_position
+node	355173082	과천	Gwacheon			37.4330744	126.9969576	station	station
+node	355173088	경마공원	Seoul Racecourse Park			37.4437648	127.0078955	station	station
+node	355173092	일원	Ilwon			37.4836919	127.0843766	station	station
+node	355173100	학여울	Hangnyeoul			37.4964802	127.0699125	stop	stop_position
+node	355173102	대치	Daechi			37.4944502	127.0632186	stop	stop_position
+node	355173105	신용산	Sinyongsan			37.5291568	126.9678072	stop	stop_position
+node	355173107	삼각지	Samgakji	Samgakji		37.5355911	126.9738989	stop	stop_position
+node	355173114	상록수	Sangnoksu			37.3028126	126.8667779	station	station
+node	355173115	한대앞	Hanyang University at Ansan			37.3103831	126.8527773	stop	stop_position
+node	355173121	초지	Choji			37.3198213	126.8080122	stop	stop_position
+node	355173124	범계	Beomgye			37.3899271	126.9509018	stop	stop_position
+node	355173126	금정	Geumjeong			37.3723075	126.9433970	station	station
+node	355173127	인덕원	Indeogwon			37.4013725	126.9769079	stop	stop_position
+node	355173129	평촌	Pyeongchon			37.3942880	126.9638795	station	station
+node	355173131	대야미	Daeyami			37.3272174	126.9162856	stop	stop_position
+node	355173135	산본	Sanbon			37.3580735	126.9330964	station	station
+node	355173138	수유(강북구청)	Suyu (Gangbuk-gu Office)			37.6379893	127.0256914	stop	stop_position
+node	355173148	쌍문	Ssangmun			37.6484204	127.0345485	stop	stop_position
+node	355173195	명동	Myeong-dong			37.5609174	126.9862899	stop	stop_position
+node	355173201	혜화(서울대학교병원)	Hyehwa			37.5821434	127.0019312	stop	stop_position
+node	355173208	동대문역사문화공원	Dongdaemun History & Culture Park Station (DDP)			37.5652027	127.0080476	stop	stop_position
+node	355173252	둔촌동				37.5278104	127.1362083	stop	stop_position
+node	355173259	올림픽공원				37.5161602	127.1308993	stop	stop_position
+node	355173284	개롱				37.4980427	127.1348103	stop	stop_position
+node	355173312	굽은다리				37.5456603	127.1429306	stop	stop_position
+node	355173323	길동				37.5383553	127.1401590	stop	stop_position
+node	355173329	마천	Macheon			37.4949558	127.1527865	stop	stop_position
+node	355173339	상계	Sanggye			37.6599912	127.0726737	stop	stop_position
+node	355173346	불암산	Buramsan			37.6695753	127.0784401	stop	stop_position
+node	355173360	서대문				37.5658085	126.9666095	stop	stop_position
+node	355173364	신금호				37.5544558	127.0202666	stop	stop_position
+node	355173365	행당				37.5576032	127.0299451	stop	stop_position
+node	355173368	마장				37.5661188	127.0428899	stop	stop_position
+node	355173370	답십리				37.5668495	127.0527067	stop	stop_position
+node	355173372	장한평				37.5615078	127.0645955	stop	stop_position
+node	355173375	아차산				37.5517023	127.0898223	stop	stop_position
+node	355173377	광나루				37.5453332	127.1035169	stop	stop_position
+node	355173381	증산				37.5841289	126.9098598	stop	stop_position
+node	355173383	역촌				37.6060541	126.9228008	stop	stop_position
+node	355173384	구산				37.6110401	126.9170995	stop	stop_position
+node	355173386	방화				37.5773845	126.8127722	stop	stop_position
+node	355173390	마곡	Magok			37.5602708	126.8247446	stop	stop_position
+node	355173397	화곡	Hwagok			37.5417123	126.8404024	stop	stop_position
+node	355173398	오목교	Omokgyo			37.5245758	126.8751578	stop	stop_position
+node	355173399	목동	Mok-dong			37.5261412	126.8645130	stop	stop_position
+node	355173400	안암				37.5862818	127.0293290	stop	stop_position
+node	355173402	창신				37.5797860	127.0152730	stop	stop_position
+node	355173404	돌곶이				37.6105343	127.0564905	stop	stop_position
+node	355173405	상월곡				37.6062070	127.0482569	stop	stop_position
+node	355173406	월곡				37.6019240	127.0414890	stop	stop_position
+node	355173408	고려대	Korea Univ.			37.5897500	127.0359359	stop	stop_position
+node	355173411	봉화산	Bonghwasan			37.6173928	127.0910747	stop	stop_position
+node	355173413	화랑대				37.6197559	127.0837172	stop	stop_position
+node	355173424	마포구청				37.5635156	126.9033737	stop	stop_position
+node	355173426	망원				37.5559808	126.9101224	stop	stop_position
+node	355173429	월드컵경기장				37.5701609	126.8992939	stop	stop_position
+node	355173431	광흥창				37.5474490	126.9320010	stop	stop_position
+node	355173433	대흥				37.5476895	126.9423171	stop	stop_position
+node	355173436	상수				37.5477391	126.9229225	stop	stop_position
+node	355173438	녹사평				37.5347329	126.9864975	stop	stop_position
+node	355173440	이태원				37.5344810	126.9943860	stop	stop_position
+node	355173443	효창공원앞				37.5393117	126.9613534	stop	stop_position
+node	355173445	청구				37.5602991	127.0137109	stop	stop_position
+node	355173448	한강진				37.5398199	127.0017633	stop	stop_position
+node	355173451	버티고개				37.5482256	127.0066769	stop	stop_position
+node	355173473	암사	Amsa			37.5490025	127.1270746	stop	stop_position
+node	355173569	산성	Sanseong			37.4568481	127.1499078	stop	stop_position
+node	355173577	문정	Munjeong			37.4858500	127.1224840	stop	stop_position
+node	355173579	석촌	Seokchon	Seokchon		37.5053042	127.1070931	stop	stop_position
+node	355173581	송파	Songpa			37.4996207	127.1122514	stop	stop_position
+node	355173583	대모산입구	Daemosan			37.4913743	127.0727648	stop	stop_position
+node	355173590	수진	Sujin			37.4374574	127.1406647	stop	stop_position
+node	355173593	단대오거리	Dandaeogeori			37.4450934	127.1567551	stop	stop_position
+node	355173595	신흥	Sinheung			37.4410138	127.1476254	stop	stop_position
+node	355173597	갈산	Galsan			37.5167011	126.7215481	stop	stop_position
+node	355173601	부평시장	Bupyeong Market			37.4983757	126.7223422	stop	stop_position
+node	355173608	경인교대입구	Gyeongin Nat'l Univ. of Education			37.5384258	126.7226536	stop	stop_position
+node	355173613	예술회관	Arts Center			37.4500411	126.7010891	stop	stop_position
+node	355173615	신연수	Sinyeonsu			37.4179744	126.6938914	stop	stop_position
+node	355173617	선학	Seonhak			37.4271567	126.6990793	stop	stop_position
+node	355173618	부평삼거리	Bupyeongsamgeori			37.4778688	126.7102992	stop	stop_position
+node	355173620	동수	Dongsu			37.4854320	126.7184693	stop	stop_position
+node	355173624	간석오거리	Ganseogogeori			37.4673120	126.7079669	stop	stop_position
+node	355173626	양원	Yangwon			37.6065818	127.1079346	station	station
+node	355173646	구리	Guri			37.6032517	127.1433747	station	station
+node	355173656	한남	Hannam			37.5294452	127.0092424	station	station
+node	355173710	동막	Dongmak			37.3983217	126.6739517	stop	stop_position
+node	355173711	동춘	Dongchun			37.4045662	126.6806620	stop	stop_position
+node	368636257	일산	Ilsan			37.6822186	126.7694980	station	station
+node	368636260	수색	Susaek			37.5807582	126.8955531	station	station
+node	368637985	일영	Iryeong	Iryeong		37.7005712	126.9289695	station	station
+node	368638013	월롱	Wollong			37.7962510	126.7925749	station	station
+node	414683380	새절	Saejeol			37.5910867	126.9134797	stop	stop_position
+node	414684303	일원	Irwon			37.4837678	127.0841812	stop	stop_position
+node	414684814	몽촌토성	Mongchontoseong			37.5175496	127.1126502	stop	stop_position
+node	414684925	여의나루				37.5268661	126.9325101	stop	stop_position
+node	414685028	강동구청	Gangdong-gu Office			37.5306815	127.1205980	stop	stop_position
+node	414685965	안국	Anguk			37.5768286	126.9862272	stop	stop_position
+node	436832405	학동				37.5139701	127.0307332	stop	stop_position
+node	444708846	성균관대	Sungkyunkwan Univ			37.3001998	126.9721099	stop	stop_position
+node	452388446	망포	Mangpo			37.2457650	127.0569012	station	station
+node	582881515	일영	Ilyeong			37.7006452	126.9290401	stop	stop_position
+node	595746654	논현				37.5111305	127.0214771	stop	stop_position
+node	619039778	정왕	Jeongwang			37.3520536	126.7419901	stop	stop_position
+node	660843668	옥수	Oksu			37.5408763	127.0178475	stop	stop_position
+node	660871450	종각	Jonggak			37.5701195	126.9821118	stop	stop_position
+node	660878435	신도림	Sindorim			37.5089506	126.8911913	stop	stop_position
+node	798558661	동작	Dongjak			37.5021191	126.9808291	stop	stop_position
+node	1105622676	인천대입구	Incheon National University			37.3860039	126.6394959	stop	stop_position
+node	1407854171	테크노파크	Technopark			37.3819920	126.6559828	stop	stop_position
+node	1458109500	중랑	Jungnang			37.5949759	127.0763112	station	station
+node	1684912049	당정	Dangjeong			37.3434316	126.9483607	station	station
+node	1700849959	과천	Gwacheon			37.4331028	126.9968213	stop	stop_position
+node	1700849987	경마공원	Seoul Racecourse park			37.4437930	127.0078697	stop	stop_position
+node	1725220163	기흥	Giheung			37.2755066	127.1159856	stop	stop_position
+node	1789755424	망우	Mangu			37.5996345	127.0918581	station	station
+node	1790506663	발산	Balsan			37.5584571	126.8375125	stop	stop_position
+node	1790519133	송정	Songjeong			37.5612892	126.8119992	stop	stop_position
+node	1790531156	김포공항	Gimpo Int'l Airport			37.5621288	126.8013538	stop	stop_position
+node	1793029734	경기도청북부청사	Gyeonggi Provincial Government Northern Office			37.7507210	127.0716196	station	station
+node	1793029789	흥선	Heungseon			37.7432923	127.0371979	station	station
+node	1793029795	경전철의정부	LRT Uijeongbu			37.7372743	127.0433026	station	station
+node	1793029802	의정부중앙	Uijeongbu Jung-ang			37.7436853	127.0497559	station	station
+node	1793029822	동오	Dong-o			37.7452352	127.0569971	station	station
+node	1793029857	발곡	Balgok			37.7270070	127.0529537	station	station
+node	1793029862	곤제	Gonje			37.7505280	127.0838261	station	station
+node	1793029885	범골	Beomgol			37.7287726	127.0436814	station	station
+node	1793029898	새말	Sae-mal			37.7488539	127.0637819	station	station
+node	1793029926	탑석	Tapseok			37.7335261	127.0889406	station	station
+node	1793029966	어룡	Eoryong			37.7426841	127.0852152	station	station
+node	1794667157	소래포구	Soraepogu			37.4005380	126.7341736	stop	stop_position
+node	1797562528	시청	City Hall			37.5630913	126.9739637	stop	stop_position
+node	1797587546	신당	Sindang			37.5656525	127.0198141	stop	stop_position
+node	1849176201	국회의사당	National Assembly			37.5280157	126.9179639	station	station
+node	1906282219	도림천	Dorimcheon			37.5144700	126.8826149	stop	stop_position
+node	1906282307	양천구청	Yangcheon-gu Office			37.5122680	126.8659297	stop	stop_position
+node	1906684759	구룡	Guryong			37.4869099	127.0594550	stop	stop_position
+node	1906756403	청계산입구	Cheonggyesan			37.4483921	127.0545673	stop	stop_position
+node	1906756417	양재시민의숲	Yangjae Citizen's Forest			37.4701433	127.0383592	stop	stop_position
+node	1914136597	태평	Taepyeong			37.4397071	127.1277192	stop	stop_position
+node	1914136725	가천대	Gachon Univ.			37.4486968	127.1266971	stop	stop_position
+node	1914727295	구성	Guseong			37.2990090	127.1057537	station	station
+node	1914727373	보정	Bojeong			37.3123522	127.1082976	stop	stop_position
+node	1915043090	서현	Seohyeon			37.3849257	127.1233156	stop	stop_position
+node	1915043091	야탑	Yatap			37.4112829	127.1286881	stop	stop_position
+node	1915043092	정자	Jeongja			37.3673677	127.1084329	stop	stop_position
+node	1915043094	신갈	Singal			37.2861537	127.1113752	station	station
+node	1915043095	수내	Sunae			37.3784199	127.1142279	stop	stop_position
+node	1918413725	신촌	Sinchon			37.5551787	126.9369091	stop	stop_position
+node	1939100051	남부터미널(예술의전당)	Nambu Bus Terminal (Seoul Arts Center)			37.4849718	127.0162904	stop	stop_position
+node	1994677371	공항시장	Airport Market			37.5634156	126.8104215	stop	stop_position
+node	1994678935	양천향교	Yangcheon Hyanggyo			37.5684782	126.8412018	stop	stop_position
+node	1994679616	가양	Gayang			37.5611258	126.8550615	stop	stop_position
+node	1994679915	증미	Jeungmi			37.5574220	126.8619300	stop	stop_position
+node	1994680293	등촌	Deungchon			37.5511895	126.8645708	stop	stop_position
+node	1994680392	염창	Yeomchang			37.5470051	126.8754428	stop	stop_position
+node	1994680522	신목동	Sinmokdong			37.5442270	126.8831853	stop	stop_position
+node	1994702339	노들	Nodeul			37.5129744	126.9535497	station	station
+node	1994702763	흑석	Heukseok			37.5083660	126.9639299	stop	stop_position
+node	1994703274	구반포	Gubanpo			37.5012703	126.9867889	stop	stop_position
+node	1994703290	신반포	Sinbanpo			37.5035801	126.9964259	stop	stop_position
+node	1996406534	마곡나루				37.5666674	126.8277135	stop	stop_position
+node	1996430636	노량진	Noryangjin			37.5136072	126.9418701	stop	stop_position
+node	1996430673	노들	Nodeul			37.5129494	126.9535788	stop	stop_position
+node	1996442195	동작	Dongjak			37.5026030	126.9788678	stop	stop_position
+node	2028051082	신설동	Sinseol-dong			37.5760544	127.0246657	station	station
+node	2028067305	압구정	Apgujeong			37.5261356	127.0284705	stop	stop_position
+node	2066387615	신길온천	Singiloncheon			37.3380983	126.7661867	stop	stop_position
+node	2066596170	오이도	Oido			37.3623497	126.7386441	stop	stop_position
+node	2090733287	한국항공대	Korea Aerospace University			37.6027807	126.8683965	station	station
+node	2090733291	대곡	Daegok			37.6318362	126.8096784	stop	stop_position
+node	2090733292	곡산	Goksan			37.6457460	126.8018102	station	station
+node	2090733293	백마	Baengma			37.6583299	126.7944750	station	station
+node	2102704507	대청	Daecheong			37.4936540	127.0795056	stop	stop_position
+node	2111825348	중계				37.6455228	127.0638548	stop	stop_position
+node	2111924741	청담				37.5188573	127.0500373	stop	stop_position
+node	2111940162	장암	Jangam			37.7001801	127.0530750	stop	stop_position
+node	2240495169	풍산	Pungsan			37.6723483	126.7862433	station	station
+node	2244637619	신사	Sinsa			37.5161705	127.0196309	stop	stop_position
+node	2246104056	용답	Yongdap			37.5620900	127.0508609	station	station
+node	2279487866	반포				37.5081855	127.0116190	stop	stop_position
+node	2346858819	광화문	Gwanghwamun			37.5716332	126.9769142	stop	stop_position
+node	2346858827	매봉	Maebong			37.4870435	127.0469913	stop	stop_position
+node	2346858838	신촌	Sinchon			37.5597815	126.9423581	station	station
+node	2346858840	수서	Suseo	Suseo		37.4874159	127.1018399	station	station
+node	2360116990	부평구청	Bupyeong-gu Office			37.5080784	126.7206376	stop	stop_position
+node	2360117049	굴포천				37.5070361	126.7313177	stop	stop_position
+node	2372179694	작전	Jakjeon			37.5303004	126.7225937	stop	stop_position
+node	2385324651	삼각지	Samgakji	Samgakji		37.5344579	126.9729031	stop	stop_position
+node	2444013647	지식정보단지	BIT Zone			37.3780049	126.6455001	stop	stop_position
+node	2444013648	국제업무지구	International Business District			37.3997869	126.6304116	station	station
+node	2533971240	이촌	Ichon			37.5226181	126.9736117	stop	stop_position
+node	2803508740	신길	Singil	Singil		37.5175712	126.9165959	stop	stop_position
+node	2847440772	광명	Gwangmyeong			37.4163800	126.8846978	station	station
+node	2859438901	사릉	Sareung			37.6510986	127.1768961	station	station
+node	2875732332	동암	Dongam			37.4699087	126.7029777	stop	stop_position
+node	3087681529	양재	Yangjae	Yangjae		37.4838155	127.0346881	stop	stop_position
+node	3144731468	서울역	Seoul Station			37.5530964	126.9715320	stop	stop_position
+node	3152004114	박촌	Bakchon			37.5536206	126.7450735	stop	stop_position
+node	3152004115	캠퍼스타운	Campus Town			37.3878438	126.6616832	stop	stop_position
+node	3152004116	계산	Gyesan			37.5432872	126.7278961	stop	stop_position
+node	3152004117	계양	Gyeyang			37.5715012	126.7358582	station	station
+node	3152004118	계양	Gyeyang			37.5717670	126.7363110	station	station
+node	3152004119	귤현	Gyulhyeon			37.5663544	126.7426554	station	station
+node	3152004120	임학	Imhak			37.5451262	126.7387700	stop	stop_position
+node	3152004121	인천터미널	Incheon Bus Terminal			37.4418961	126.6997770	stop	stop_position
+node	3152004122	문학경기장	Munhak Sports Complex			37.4348761	126.6978836	stop	stop_position
+node	3153793711	금천구청	Geumcheon-gu Office			37.4563959	126.8934833	stop	stop_position
+node	3174423882	온수	Onsu			37.4927108	126.8249531	stop	stop_position
+node	3174423898	온수	Onsu			37.4928248	126.8249056	stop	stop_position
+node	3174423993	오류동	Oryu-dong			37.4939856	126.8434437	stop	stop_position
+node	3174424017	오류동				37.4940722	126.8434077	stop	stop_position
+node	3210975141	금천구청	Geumcheon-gu Office			37.4564313	126.8936209	stop	stop_position
+node	3212614721	신도림	Sindorim			37.5085044	126.8907906	stop	stop_position
+node	3212614728	신도림	Sindorim			37.5086444	126.8906940	stop	stop_position
+node	3212614903	영등포	Yeongdeungpo			37.5154485	126.9072862	stop	stop_position
+node	3213703900	신길	Singil			37.5163227	126.9195782	stop	stop_position
+node	3213703909	신길	Singil			37.5164582	126.9196723	stop	stop_position
+node	3214007433	대방	Daebang			37.5132858	126.9254042	stop	stop_position
+node	3214007453	대방	Daebang			37.5134068	126.9254113	stop	stop_position
+node	3214011596	노량진	Noryangjin			37.5138482	126.9403630	stop	stop_position
+node	3214011598	노량진	Noryangjin			37.5140330	126.9401896	stop	stop_position
+node	3214011605	노량진	Noryangjin			37.5141470	126.9425836	stop	stop_position
+node	3215386387	노량진	Noryangjin			37.5143347	126.9426606	stop	stop_position
+node	3216255723	도화	Dohwa			37.4660994	126.6674091	stop	stop_position
+node	3216256063	동인천	Dongincheon			37.4751286	126.6330567	station	station
+node	3218977267	간석	Ganseok			37.4647335	126.6935306	station	station
+node	3233869354	부개	Bugae			37.4884914	126.7406058	station	station
+node	3276816593	달월	Darwol			37.3799789	126.7453575	station	station
+node	3278844040	김포공항	Gimpo Int'l Airport			37.5619723	126.8015364	stop	stop_position
+node	3278844041	용산	Yongsan			37.5285081	126.9636297	stop	stop_position
+node	3278844059	공덕				37.5436694	126.9507850	stop	stop_position
+node	3278844465	애오개				37.5534470	126.9566713	stop	stop_position
+node	3278844468	충정로	Chungjeongno		Chungjeongno (Kyonggi Univ.)	37.5593715	126.9629108	station	station
+node	3279010867	충정로	Chungjeongno			37.5594952	126.9621160	stop	stop_position
+node	3279010892	신당				37.5664040	127.0162221	stop	stop_position
+node	3279010922	동묘앞				37.5714130	127.0158026	stop	stop_position
+node	3355067054	교대	Seoul Nat'l Univ. of Education (Court & Public Prosecutors' Office)			37.4939376	127.0145997	stop	stop_position
+node	3370211065	수서	Suseo			37.4839181	127.1052278	stop	stop_position
+node	3387004655	센트럴파크	Central Park			37.3933820	126.6345132	stop	stop_position
+node	3396415902	개화	Gaehwa			37.5783101	126.7969014	stop	stop_position
+node	3401205505	상동	Sang-dong			37.5058355	126.7531743	station	station
+node	3405090091	금정	Geumjeong			37.3715602	126.9438270	stop	stop_position
+node	3406378782	서강대	Sogang Univ.			37.5523530	126.9351841	station	station
+node	3408262075	상봉				37.5969254	127.0851233	stop	stop_position
+node	3408263979	청라국제도시	Cheongna Int'l City			37.5564451	126.6246922	station	station
+node	3408392942	송산	Songsan			37.7372627	127.0872510	station	station
+node	3418807256	경찰병원	Nat'l Police Hospital			37.4953088	127.1238319	stop	stop_position
+node	3426272937	강동				37.5358152	127.1326147	stop	stop_position
+node	3426723651	가산디지털단지	Gasan Digital Complex			37.4823798	126.8821636	stop	stop_position
+node	3426723652	관악	Gwanak			37.4203335	126.9076861	stop	stop_position
+node	3426723655	구로	Guro			37.5043142	126.8830722	stop	stop_position
+node	3426723656	군포	Gunpo			37.3534284	126.9485985	stop	stop_position
+node	3426723659	남영	Namyeong			37.5415349	126.9712559	stop	stop_position
+node	3426723663	당정	Dangjeong			37.3424456	126.9484387	stop	stop_position
+node	3426723670	독산	Doksan			37.4668796	126.8890361	stop	stop_position
+node	3426723675	명학	Myeonghak			37.3837522	126.9360100	stop	stop_position
+node	3426723680	석수	Seoksu			37.4362453	126.9019423	stop	stop_position
+node	3426723681	성균관대	Sungkyunkwan Univ			37.3003127	126.9721230	stop	stop_position
+node	3426724594	의왕	Uiwang			37.3193973	126.9482854	stop	stop_position
+node	3426724597	종로3가	Jongno 3(sam)-ga			37.5703357	126.9908321	stop	stop_position
+node	3426724598	종로5가	Jongno 5(o)-ga			37.5709867	127.0020222	station	station
+node	3429566621	합정				37.5492052	126.9134584	stop	stop_position
+node	3431313912	고속터미널	Express Bus Terminal			37.5050371	127.0049222	station	station
+node	3436803670	청량리	Cheongnyangni			37.5805961	127.0482573	station	station
+node	3438345419	동대문역사문화공원	Dongdaemun History & Culture Park Station (DDP)			37.5642629	127.0072900	stop	stop_position
+node	3439039804	선유도	Seonyudo			37.5378557	126.8938639	stop	stop_position
+node	3454026413	언주	Eonju			37.5073701	127.0341153	stop	stop_position
+node	3492346917	상현	Sanghyeon			37.2974137	127.0693373	stop	stop_position
+node	3541201420	삼동	Samdong	Samdongyeok		37.4086667	127.2033703	stop	stop_position
+node	3605365336	남위례	Namwirye			37.4624724	127.1397967	stop	stop_position
+node	3642451903	광교중앙	Gwanggyo Jungang			37.2885470	127.0514993	stop	stop_position
+node	3740158509	광교	Gwanggyo			37.3024813	127.0435221	stop	stop_position
+node	3818491433	숙대입구	Sookmyung Women's Univ.			37.5451375	126.9719211	stop	stop_position
+node	3823777524	용마산				37.5738974	127.0864879	stop	stop_position
+node	3824606372	봉은사	Bongeunsa			37.5141958	127.0601640	stop	stop_position
+node	3824606373	봉은사	Bongeunsa			37.5141869	127.0602411	station	station
+node	3824606374	봉은사	Bongeunsa			37.5141546	127.0601774	stop	stop_position
+node	3824606375	언주	Eonju			37.5072719	127.0336340	stop	stop_position
+node	3824606376	언주	Eonju			37.5073210	127.0338746	station	station
+node	3824606377	고속터미널	Express Bus Terminal			37.5050376	127.0049022	stop	stop_position
+node	3824606378	고속터미널	Express Bus Terminal			37.5059327	127.0041164	stop	stop_position
+node	3824606379	고속터미널	Express Bus Terminal			37.5060746	127.0047415	stop	stop_position
+node	3824606380	삼성중앙	Samseong Jungang			37.5130743	127.0537122	stop	stop_position
+node	3824606381	삼성중앙	Samseong Jungang			37.5130876	127.0531255	stop	stop_position
+node	3824606382	삼성중앙	Samseong Jungang			37.5130955	127.0534747	station	station
+node	3824606383	사평	Sapyeong	Sapyeong		37.5041050	127.0153773	stop	stop_position
+node	3824606384	사평	Sapyeong	Sapyeong		37.5042952	127.0151398	station	station
+node	3824606385	사평	Sapyeong	Sapyeong		37.5044854	127.0149023	stop	stop_position
+node	3824606386	선정릉	Seonjeongneung			37.5101567	127.0434174	stop	stop_position
+node	3824606387	선정릉	Seonjeongneung			37.5102530	127.0438586	station	station
+node	3824606388	선정릉	Seonjeongneung			37.5103535	127.0442542	stop	stop_position
+node	3824606389	신논현	Sinnonhyeon			37.5043792	127.0241617	stop	stop_position
+node	3824606390	신논현	Sinnonhyeon			37.5043224	127.0245306	station	station
+node	3824606391	신논현	Sinnonhyeon			37.5046143	127.0244580	stop	stop_position
+node	3824606392	신논현	Sinnonhyeon			37.5045465	127.0248738	stop	stop_position
+node	3824606393	종합운동장	Sports Complex			37.5111232	127.0767504	stop	stop_position
+node	3824606396	종합운동장	Sports Complex			37.5115875	127.0758807	stop	stop_position
+node	3831105360	외대앞	Hankuk Univ. of Foreign Studies			37.5963062	127.0637429	station	station
+node	3832931179	회현(남대문시장)	Hoehyeon (Namdaemun Market)			37.5587614	126.9784360	stop	stop_position
+node	3833429765	동대문	Dongdaemun			37.5707564	127.0093746	stop	stop_position
+node	3833429767	종로3가	Jongno 3(sam)-ga			37.5720185	126.9916922	stop	stop_position
+node	3833429768	종로3가	Jongno 3(sam)-ga			37.5725772	126.9908002	stop	stop_position
+node	3833429777	충무로	Chungmuro			37.5606488	126.9948063	stop	stop_position
+node	3833429779	충무로	Chungmuro			37.5610655	126.9926025	stop	stop_position
+node	3833429822	종각	Jonggak			37.5702032	126.9842395	stop	stop_position
+node	3833430060	동대문	Dongdaemun			37.5715049	127.0099593	stop	stop_position
+node	3833430063	동대문	Dongdaemun			37.5720439	127.0121562	stop	stop_position
+node	3833430101	시청	City Hall			37.5663105	126.9771350	stop	stop_position
+node	3833430103	종로3가	Jongno 3(sam)-ga			37.5704988	126.9933319	stop	stop_position
+node	3833430104	종로5가	Jongno 5(o)-ga			37.5710332	127.0030709	stop	stop_position
+node	3834065866	서울	Seoul			37.5537729	126.9711570	stop	stop_position
+node	3834732259	동작	Dongjak			37.5032235	126.9777278	stop	stop_position
+node	3834732261	구반포	Gubanpo			37.5012899	126.9867849	station	station
+node	3834732262	구반포	Gubanpo			37.5013134	126.9867762	stop	stop_position
+node	3834732263	흑석	Heukseok			37.5083823	126.9639489	station	station
+node	3834732264	흑석	Heukseok			37.5083985	126.9639679	stop	stop_position
+node	3834732265	노들	Nodeul			37.5129934	126.9535720	stop	stop_position
+node	3834732266	노량진	Noryangjin			37.5136514	126.9418661	stop	stop_position
+node	3834732267	신반포	Sinbanpo			37.5036014	126.9964180	station	station
+node	3834732268	신반포	Sinbanpo			37.5036226	126.9964101	stop	stop_position
+node	3834816087	용산	Yongsan			37.5307567	126.9660440	stop	stop_position
+node	3835922764	미아사거리	Miasageori			37.6131644	127.0300744	stop	stop_position
+node	3846532985	약수				37.5541596	127.0103961	stop	stop_position
+node	3870730016	선바위	Seonbawi			37.4523997	127.0011547	stop	stop_position
+node	3990991809	망우	Mangu			37.6001579	127.0920944	stop	stop_position
+node	4045715667	금릉				37.7518897	126.7650266	stop	stop_position
+node	4045715670	금릉				37.7506152	126.7657991	stop	stop_position
+node	4045716616	야당	Yadang			37.7121076	126.7613347	stop	stop_position
+node	4063596085	양정				37.6046783	127.1941174	stop	stop_position
+node	4068264402	망우	Mangu			37.5996557	127.0931647	stop	stop_position
+node	4076814733	응봉				37.5505539	127.0349018	stop	stop_position
+node	4076837554	한남	Hannam			37.5297070	127.0099115	stop	stop_position
+node	4076875642	이촌	Ichon			37.5225915	126.9727866	stop	stop_position
+node	4079478419					37.5573063	126.9271637	stop	stop_position
+node	4151467314	디지털미디어시티	Digital Media City			37.5772440	126.9008911	stop	stop_position
+node	4151479522	수색	Susaek			37.5809734	126.8950228	stop	stop_position
+node	4151479533	수색				37.5808928	126.8949211	stop	stop_position
+node	4246459937	신이문	Sinimun (Korea National University of Arts)			37.6009310	127.0669802	stop	stop_position
+node	4246459981	신이문	Sinimun (Korea National University of Arts)			37.6026659	127.0676199	stop	stop_position
+node	4247043883	광운대	Kwangwoon University			37.6237444	127.0617173	stop	stop_position
+node	4247043884	광운대	Kwangwoon University			37.6247622	127.0612195	stop	stop_position
+node	4247043891	광운대	Kwangwoon University			37.6235022	127.0620500	stop	stop_position
+node	4340428311	인천시청	Incheon City Hall			37.4579298	126.7022364	stop	stop_position
+node	4520040946	망월사	Mangwolsa (Shinhan University)			37.7094036	127.0475940	stop	stop_position
+node	4520041007	회룡	Hoeryong	Hoeryong		37.7247301	127.0472868	stop	stop_position
+node	4520130246	도봉산	Dobongsan			37.6901846	127.0463258	stop	stop_position
+node	4520130252	도봉산	Dobongsan			37.6888071	127.0467403	stop	stop_position
+node	4604102197	신방화	Sinbanghwa			37.5674056	126.8178288	stop	stop_position
+node	4643555327	야당	Yadang			37.7129672	126.7615226	station	station
+node	4699450803	운정	Unjeong			37.7253290	126.7670452	station	station
+node	4704699775		Hongik Univ.			37.5580516	126.9260242	stop	stop_position
+node	4704699992	서강대	Sogang Univ.			37.5529911	126.9342700	stop	stop_position
+node	4706526694	중화				37.6016296	127.0794500	stop	stop_position
+node	4733039958	복정	Bokjeong			37.4716385	127.1266838	stop	stop_position
+node	4809472051	남한산성입구	Namhansanseong			37.4515840	127.1598040	stop	stop_position
+node	4820118359	동천	Dongcheon			37.3378769	127.1028482	stop	stop_position
+node	4860929585	의왕	Uiwang			37.3209981	126.9480341	station	station
+node	4860929592	화서	Hwaseo			37.2839144	126.9896135	station	station
+node	4860959660	수원	Suwon			37.2658097	126.9999102	station	station
+node	4874383463	세류	Seryu			37.2441147	127.0137222	station	station
+node	4954074024	병점	Byeongjeom			37.2068340	127.0331291	station	station
+node	4954074025	병점	Byeongjeom			37.2058900	127.0337092	stop	stop_position
+node	4954074030	병점	Byeongjeom			37.2074755	127.0326991	stop	stop_position
+node	4954074037	병점	Byeongjeom			37.2074285	127.0325778	stop	stop_position
+node	4954074038	병점	Byeongjeom			37.2065157	127.0335067	stop	stop_position
+node	4963715631	서울숲	Seoul-forest			37.5436201	127.0447177	stop	stop_position
+node	4974511635	대야미	Daeyami			37.3279256	126.9168618	station	station
+node	4974511636	반월	Banwol			37.3132003	126.9044748	stop	stop_position
+node	4974511637	반월	Banwol			37.3116652	126.9032326	stop	stop_position
+node	4974511651	대야미	Daeyami			37.3287298	126.9175123	stop	stop_position
+node	4988033142	금천구청	Geumcheon-gu Office			37.4547275	126.8945482	stop	stop_position
+node	4989258140	부평	Bupyeong			37.4899777	126.7237760	stop	stop_position
+node	5050088099	양주	Yangju			37.7749585	127.0447925	stop	stop_position
+node	5050088100	양주	Yangju			37.7733153	127.0447041	stop	stop_position
+node	5050088101	녹양	Nogyang			37.7602968	127.0423398	stop	stop_position
+node	5050088102	녹양	Nogyang			37.7585010	127.0423230	stop	stop_position
+node	5050088114	가능	Ganeung			37.7491005	127.0441098	stop	stop_position
+node	5050088115	가능	Ganeung			37.7476557	127.0447039	stop	stop_position
+node	5197246994	천호	Cheonho			37.5386145	127.1234281	stop	stop_position
+node	5204025129	계양	Gyeyang			37.5715213	126.7366990	stop	stop_position
+node	5204025130	계양	Gyeyang			37.5714804	126.7345673	stop	stop_position
+node	5204025131	계양	Gyeyang			37.5717523	126.7363501	stop	stop_position
+node	5204025132	계양	Gyeyang			37.5717906	126.7363487	stop	stop_position
+node	5204050235	원인재	Woninjae			37.4127785	126.6871967	stop	stop_position
+node	5204050236	원인재	Woninjae			37.4124962	126.6880891	stop	stop_position
+node	5204562065	인천	Incheon			37.4774612	126.6170663	stop	stop_position
+node	5204676259	귤현	Gyulhyeon			37.5674066	126.7422024	stop	stop_position
+node	5208486247	온수	Onsu			37.4922986	126.8235340	station	station
+node	5225259404	양재	Yangjae			37.4845433	127.0343170	stop	stop_position
+node	5225259408	정자	Jeongja			37.3653889	127.1080933	stop	stop_position
+node	5225311374	왕십리	Wangsimni			37.5614861	127.0385786	station	station
+node	5225311375	도곡	Dogok			37.4908838	127.0554872	stop	stop_position
+node	5271460818	시흥대야	Siheung Daeya			37.4501052	126.7930513	stop	stop_position
+node	5273293497	응봉	Eungbong			37.5502759	127.0347279	station	station
+node	5273298572	도봉	Dobong			37.6792077	127.0455468	station	station
+node	5273307894	서빙고	Seobinggo			37.5195744	126.9883182	station	station
+node	5281680295	구파발	Gupabal			37.6368537	126.9187721	stop	stop_position
+node	5312586459	귤현	Gyulhyeon			37.5659095	126.7427462	stop	stop_position
+node	5320511383	월곶	Wolgot			37.3917938	126.7427001	station	station
+node	5325300810	개화	Gaehwa			37.5784343	126.7968238	stop	stop_position
+node	5338792759	신길온천	Singiloncheon			37.3371406	126.7680747	stop	stop_position
+node	5338792760	신길온천	Singiloncheon			37.3375382	126.7673001	station	station
+node	5340678901	구래	Gurae			37.6453484	126.6287215	station	station
+node	5347779074	오이도	Oido			37.3611078	126.7381640	stop	stop_position
+node	5347790595	정왕	Jeongwang			37.3515156	126.7440131	stop	stop_position
+node	5347790596	정왕	Jeongwang			37.3518096	126.7429544	station	station
+node	5347802253	수리산	Surisan			37.3512681	126.9258100	stop	stop_position
+node	5347802254	수리산	Surisan			37.3498152	126.9253962	stop	stop_position
+node	5347811349	산본	Sanbon			37.3579623	126.9331613	stop	stop_position
+node	5347811350	산본	Sanbon	Sanbon		37.3581555	126.9329995	stop	stop_position
+node	5347811351	산본	Sanbon	Sanbon		37.3584509	126.9337612	stop	stop_position
+node	5347811352	산본	Sanbon			37.3575433	126.9321639	stop	stop_position
+node	5349724970	을지로4가	Euljiro 4(sa)-ga			37.5666655	126.9979998	stop	stop_position
+node	5349743238	중앙	Jungang			37.3160302	126.8385294	station	station
+node	5349743239	중앙	Jungang			37.3160633	126.8374647	stop	stop_position
+node	5349743240	중앙	Jungang			37.3159924	126.8395205	stop	stop_position
+node	5350784134	회룡	Hoeryong	Hoeryong		37.7230757	127.0472403	stop	stop_position
+node	5350784135	회룡	Hoeryong	Hoeryong		37.7244100	127.0473504	station	station
+node	5351229954	양재	Yangjae		Yangjae(Seocho-gu Office)	37.4844005	127.0341455	station	station
+node	5351281122	이촌	Ichon			37.5224397	126.9733635	station	station
+node	5351281123	이촌(국립중앙박물관)	Ichon (National Museum of Korea)	Ichon		37.5222635	126.9739881	stop	stop_position
+node	5351330359	디지털미디어시티	Digital Media City			37.5779410	126.8997880	stop	stop_position
+node	5351330360	디지털미디어시티	Digital Media City			37.5778365	126.8996661	stop	stop_position
+node	5351330361	디지털미디어시티	Digital Media City			37.5770829	126.9008550	stop	stop_position
+node	5351374378	전대·에버랜드	Jeondae·Everland			37.2853497	127.2195513	station	station
+node	5353401725	고속터미널	Express Bus Terminal			37.5038331	127.0053083	stop	stop_position
+node	5400270994	하남풍산	Hanam Pungsan			37.5519584	127.2036311	station	station
+node	5400271007	하남시청	Hanam City Hall			37.5417742	127.2067037	station	station
+node	5400271021	하남검단산	Hanam Geomdansan			37.5397035	127.2235329	station	station
+node	5408273776	복정	Bokjeong			37.4701567	127.1266101	stop	stop_position
+node	5408273777	복정	Bokjeong			37.4705773	127.1267127	station	station
+node	5426080900	운연	Unyeon			37.4396565	126.7596323	station	station
+node	5438824808	오리	Ori			37.3406386	127.1088934	stop	stop_position
+node	5442165368	금촌	Geumchon	Geumchonyeok		37.7662332	126.7745788	station	station
+node	5442183525	탄현	Tanhyeon			37.6941052	126.7610261	station	station
+node	5442185227	행신	Haengsin			37.6120350	126.8340580	station	station
+node	5444366645	석수	Seoksu			37.4351332	126.9023059	station	station
+node	5444369664	독산	Doksan			37.4660736	126.8894844	station	station
+node	5444507509	안양	Anyang			37.4016302	126.9228826	station	station
+node	5446010327	도농	Donong			37.6087826	127.1611870	station	station
+node	5446013304	양정	Yangjeong			37.6040198	127.1946137	station	station
+node	5446020616	덕소	Deokso			37.5869047	127.2088206	station	station
+node	5447330375	도심	Dosim			37.5796342	127.2226763	station	station
+node	5447332140	팔당	Paldang			37.5474851	127.2438060	station	station
+node	5447336160	신내	Sinnae			37.6126476	127.1032423	station	station
+node	5448524543	금천구청	Geumcheon-gu Office			37.4558132	126.8939002	station	station
+node	5448526340	강매	Gangmae			37.6122869	126.8445278	station	station
+node	5448527919	능곡	Neunggok			37.6189396	126.8205157	station	station
+node	5448542683	미사	Misa			37.5630584	127.1927747	stop	stop_position
+node	5451488269	암사역사공원	Amsa History Park			37.5570469	127.1374318	station	station
+node	5511790788	고색	Gosaek			37.2496910	126.9804598	station	station
+node	5511790789	오목천	Omokcheon			37.2433128	126.9637423	station	station
+node	5511790790	어천	Eocheon			37.2501199	126.9089151	station	station
+node	5511790791	야목	Yamok			37.2612175	126.8840219	station	station
+node	5511790792	사리	Sari			37.2908651	126.8571963	station	station
+node	5519310088	도농	Donong			37.6087773	127.1612194	stop	stop_position
+node	5519310089	도농	Donong			37.6088094	127.1611904	stop	stop_position
+node	5528524288	선부	Seonbu			37.3343857	126.8099592	stop	stop_position
+node	5528524289	달미				37.3489976	126.8091335	stop	stop_position
+node	5535381367	동탄	Dongtan			37.2003594	127.0955764	station	station
+node	5571709416	망우	Mangu			37.5989729	127.0915707	stop	stop_position
+node	5571709417	망우	Mangu			37.5997459	127.0931090	stop	stop_position
+node	5571709418	망우	Mangu			37.6002600	127.0920596	stop	stop_position
+node	5571709419	망우	Mangu			37.5995235	127.0908451	stop	stop_position
+node	5571709420	망우	Mangu			37.5996230	127.0907715	stop	stop_position
+node	5585685808	부평	Bupyeong			37.4895895	126.7245724	stop	stop_position
+node	5585685809	부평	Bupyeong			37.4893315	126.7245079	stop	stop_position
+node	5585685810	부평	Bupyeong			37.4895143	126.7234169	stop	stop_position
+node	5585685811	부평	Bupyeong			37.4894082	126.7257457	stop	stop_position
+node	5624997112	판교	Pangyo			37.3943639	127.1111873	stop	stop_position
+node	5624997842	삼동				37.4086408	127.2034043	stop	stop_position
+node	5641915706	서울역	Seoul Station			37.5541059	126.9698126	stop	stop_position
+node	5641915798	서울역	Seoul Station			37.5540952	126.9699195	stop	stop_position
+node	5692879222	소새울	Sosaeul			37.4687000	126.7972489	stop	stop_position
+node	5694832466	신답				37.5692823	127.0474214	stop	stop_position
+node	5694839797	용답				37.5625182	127.0506927	stop	stop_position
+node	5723047769	초지 (신안산대학교)	Choji			37.3211622	126.8049024	stop	stop_position
+node	5727672637	오이도	Oido	Oido		37.3619245	126.7384943	station	station
+node	5747397250	보문	Bomun			37.5852743	127.0193736	station	station
+node	5747397251	보문	Bomun			37.5852622	127.0193326	stop	stop_position
+node	5750035656	방이				37.5086454	127.1260110	stop	stop_position
+node	5754800072	효자	Hyoja			37.7539420	127.0772696	station	station
+node	5770979639	동작	Dongjak			37.5029705	126.9782030	station	station
+node	5772099311	서울	Seoul			37.5545547	126.9707793	station	station
+node	5772493739	도곡	Dogok			37.4909056	127.0554679	station	station
+node	5772493740	도곡	Dogok			37.4906211	127.0554444	stop	stop_position
+node	5772497241	김포공항	Gimpo Int'l Airport			37.5619247	126.8013934	station	station
+node	5772552255	동대문역사문화공원	Dongdaemun History & Culture Park Station (DDP)			37.5652615	127.0081233	station	station
+node	5773411573	광명	Gwangmyeong			37.4147858	126.8839853	stop	stop_position
+node	5773411574	광명	Gwangmyeong			37.4157604	126.8847865	stop	stop_position
+node	5773411575	광명	Gwangmyeong			37.4147358	126.8841831	stop	stop_position
+node	5773411576	광명	Gwangmyeong			37.4175854	126.8852968	stop	stop_position
+node	5773411577	광명	Gwangmyeong			37.4176572	126.8851052	stop	stop_position
+node	5773411578	광명	Gwangmyeong			37.4169851	126.8846994	stop	stop_position
+node	5774282517	구로	Guro			37.5034468	126.8825086	station	station
+node	5774833137	북한산보국문	Bukhansan Bogungmun			37.6121803	127.0081741	station	station
+node	5774838153	의정부시청	Uijeongbu City Hall			37.7392632	127.0348874	station	station
+node	5782503942	안국	Anguk			37.5768279	126.9861709	station	station
+node	5786977878	도화	Dohwa			37.4661036	126.6698261	stop	stop_position
+node	5786977879	도화	Dohwa			37.4660023	126.6698027	stop	stop_position
+node	5786977880	도화	Dohwa			37.4661838	126.6674916	stop	stop_position
+node	5799979340	강일	Gangil			37.5574822	127.1757633	station	station
+node	5801302006	천호	Cheonho			37.5380736	127.1232037	stop	stop_position
+node	5801302007	왕십리	Wangsimni			37.5618494	127.0369158	stop	stop_position
+node	5801302008	영등포구청				37.5240478	126.8964169	stop	stop_position
+node	5801559318	건대입구	Konkuk University			37.5407875	127.0681712	stop	stop_position
+node	5801559319	왕십리	Wangsimni			37.5612222	127.0371358	stop	stop_position
+node	5801572034	천호	Cheonho			37.5385225	127.1234021	station	station
+node	5803833316	금릉	Geumneung			37.7513781	126.7653430	station	station
+node	5807729379	원인재	Woninjae			37.4126256	126.6881558	station	station
+node	5809225533	인천시청	Incheon City Hall			37.4572915	126.7020849	station	station
+node	5811114444	서원	Seowon			37.4782105	126.9330119	station	station
+node	5812010548	역삼	Yeoksam			37.5007895	127.0369159	stop	stop_position
+node	5812233465	동대문	Dongdaemun			37.5718616	127.0114887	station	station
+node	5812233466	창동	Chang-dong			37.6529636	127.0466586	stop	stop_position
+node	5812740055	삼각지	Samgakji	Samgakji		37.5354780	126.9738885	station	station
+node	5814312742	도봉산	Dobongsan			37.6898359	127.0460783	station	station
+node	5814312743	도봉산	Dobongsan			37.6891881	127.0465716	station	station
+node	5814312744	온수	Onsu			37.4919928	126.8229565	stop	stop_position
+node	5817783181	강남	Gangnam	Gangnam		37.4971249	127.0279931	stop	stop_position
+node	5821684795	장지	Jangji			37.4788927	127.1260371	stop	stop_position
+node	5826529388	창동	Chang-Dong			37.6522193	127.0481898	stop	stop_position
+node	5826529389	창동	Chang-Dong			37.6541235	127.0472657	stop	stop_position
+node	5826564342	충정로	Chungjeongno(Kyonggi University)			37.5593594	126.9636659	stop	stop_position
+node	5835544502	영등포	Yeongdeungpo			37.5153630	126.9069345	station	station
+node	5835544503	남영	Namyeong			37.5395691	126.9714083	stop	stop_position
+node	5840686670	노량진	Noryangjin			37.5142381	126.9420400	station	station
+node	5840686671	용산	Yongsan			37.5299526	126.9648271	station	station
+node	5855371072	초지	Choji			37.3202582	126.8069421	stop	stop_position
+node	5856128334	용답				37.5617246	127.0510125	stop	stop_position
+node	5863335699	종각	Jonggak			37.5701745	126.9831831	station	station
+node	5863378574	잠실				37.5143195	127.1034964	stop	stop_position
+node	5863378580	건대입구	Konkuk Univ.			37.5404436	127.0708644	station	station
+node	5864568509	성수	Seongsu			37.5441766	127.0571125	stop	stop_position
+node	5864568510	성수	Seongsu			37.5449695	127.0550919	stop	stop_position
+node	5878492789	영통	Yeongtong			37.2513466	127.0712790	station	station
+node	5878492812	청명	Cheongmyeong			37.2599557	127.0795065	station	station
+node	5878492833	상갈	Sanggal			37.2616918	127.1088952	station	station
+node	5880311185	매탄권선	MaetanGwonseon			37.2530134	127.0403832	station	station
+node	5880311186	수원시청	Suwon City Hall			37.2616466	127.0318618	station	station
+node	5880311190	매교	Maegyo			37.2654788	127.0156874	station	station
+node	5881397260	미금	Migeum			37.3499776	127.1088905	station	station
+node	5881397263	미금	Migeum			37.3499880	127.1089145	stop	stop_position
+node	5881397264	미금	Migeum			37.3499981	127.1089702	stop	stop_position
+node	5881432712	정자	Jeongja			37.3666515	127.1084366	station	station
+node	5881815128	금곡	Geumgok			37.6372870	127.2074445	station	station
+node	5881815129	금곡				37.6372817	127.2074125	stop	stop_position
+node	5881815130	금곡				37.6373387	127.2074212	stop	stop_position
+node	5881815131	평내호평				37.6531264	127.2444982	stop	stop_position
+node	5881815132	평내호평				37.6532045	127.2445019	stop	stop_position
+node	5881815133	평내호평				37.6532437	127.2444979	stop	stop_position
+node	5881815134	평내호평				37.6533513	127.2444729	stop	stop_position
+node	5881815147	평내호평	PyeongnaeHopyeong			37.6532144	127.2444899	station	station
+node	5881815148	천마산				37.6592045	127.2850371	stop	stop_position
+node	5881815149	천마산				37.6592290	127.2850612	stop	stop_position
+node	5881815171	천마산	Cheonmasan			37.6592164	127.2850496	station	station
+node	5882162364	이매	Imae			37.3946400	127.1284003	station	station
+node	5882162368	이매	Imae			37.3952494	127.1282124	stop	stop_position
+node	5882162369	이매	Imae			37.3946908	127.1276046	stop	stop_position
+node	5882162370	이매	Imae			37.3946034	127.1275993	stop	stop_position
+node	5884250491	신내				37.6126391	127.1032665	stop	stop_position
+node	5884250492	신내				37.6126451	127.1032226	stop	stop_position
+node	5884250497	갈매				37.6339297	127.1147331	stop	stop_position
+node	5884250498	갈매				37.6339552	127.1147005	stop	stop_position
+node	5884250499	갈매	Galmae			37.6339464	127.1147293	station	station
+node	5884250512	별내				37.6419912	127.1268425	stop	stop_position
+node	5884250513	별내				37.6426852	127.1283724	stop	stop_position
+node	5884250514	별내	Byeollae			37.6423330	127.1276086	station	station
+node	5884250527	퇴계원				37.6481551	127.1435789	stop	stop_position
+node	5884250528	퇴계원				37.6483627	127.1434768	stop	stop_position
+node	5884250529	퇴계원				37.6482374	127.1435398	stop	stop_position
+node	5884250530	퇴계원				37.6482702	127.1435237	stop	stop_position
+node	5884250531	퇴계원	Toegyewon			37.6482557	127.1435322	station	station
+node	5884250544	사릉				37.6511877	127.1769831	stop	stop_position
+node	5884250545	사릉				37.6511137	127.1769097	stop	stop_position
+node	5884250546	사릉				37.6510856	127.1768819	stop	stop_position
+node	5884250547	사릉				37.6510100	127.1768069	stop	stop_position
+node	5887905550	회기				37.5891676	127.0572961	stop	stop_position
+node	5887905551	회기				37.5898882	127.0583976	stop	stop_position
+node	5887905554	상봉				37.5975308	127.0865782	stop	stop_position
+node	5887905555	광운대	Kwangwoon University			37.6235166	127.0621851	stop	stop_position
+node	5887972151	모란	Moran			37.4321771	127.1290618	stop	stop_position
+node	5887972152	모란	Moran			37.4340338	127.1303157	stop	stop_position
+node	5890164129	팔당				37.5480556	127.2428652	stop	stop_position
+node	5890164130	팔당				37.5481215	127.2429811	stop	stop_position
+node	5890164131	팔당				37.5470415	127.2446958	stop	stop_position
+node	5890164132	팔당				37.5469642	127.2446171	stop	stop_position
+node	5890636978	응봉				37.5495480	127.0342619	stop	stop_position
+node	5890636979	왕십리				37.5613457	127.0384326	stop	stop_position
+node	5890636980	왕십리				37.5613326	127.0385807	stop	stop_position
+node	5890637409	중랑				37.5946995	127.0753534	stop	stop_position
+node	5890637410	중랑				37.5952240	127.0771185	stop	stop_position
+node	5890637419	상봉				37.5965559	127.0843139	stop	stop_position
+node	5890637420	상봉				37.5970179	127.0860245	stop	stop_position
+node	5890637421	상봉				37.5971215	127.0859854	stop	stop_position
+node	5890637453	양원				37.6064164	127.1072307	stop	stop_position
+node	5890637454	양원				37.6068926	127.1089835	stop	stop_position
+node	5890637458	구리				37.6029798	127.1424323	stop	stop_position
+node	5890637459	구리				37.6035577	127.1443580	stop	stop_position
+node	5890637473	양정				37.6035431	127.1949837	stop	stop_position
+node	5890637491	덕소				37.5874355	127.2075954	stop	stop_position
+node	5890637492	덕소				37.5875186	127.2076604	stop	stop_position
+node	5890637493	덕소				37.5862296	127.2101005	stop	stop_position
+node	5890637494	덕소				37.5863048	127.2101600	stop	stop_position
+node	5890637513	도심				37.5798815	127.2217583	stop	stop_position
+node	5890637514	도심				37.5793764	127.2236437	stop	stop_position
+node	5890815211	금촌				37.7658340	126.7737312	stop	stop_position
+node	5890815212	금촌				37.7665998	126.7753589	stop	stop_position
+node	5890815219	월롱				37.7955006	126.7922970	stop	stop_position
+node	5890815220	월롱				37.7974275	126.7930258	stop	stop_position
+node	5891334845	한국항공대	Korea Aerospace University			37.6032316	126.8677587	stop	stop_position
+node	5891334846	한국항공대	Korea Aerospace University			37.6022601	126.8689497	stop	stop_position
+node	5891334847	한국항공대	Korea Aerospace University			37.6033292	126.8678911	stop	stop_position
+node	5891334848	한국항공대	Korea Aerospace University			37.6023531	126.8690867	stop	stop_position
+node	5891334867	강매				37.6122519	126.8442808	stop	stop_position
+node	5891334868	강매				37.6123127	126.8447142	stop	stop_position
+node	5891336700	능곡				37.6185073	126.8213369	stop	stop_position
+node	5891336916	대곡				37.6325651	126.8094591	construction	stop_position
+node	5891336917	대곡				37.6312822	126.8102660	stop	stop_position
+node	5891336948	곡산	Goksan			37.6463771	126.8014149	stop	stop_position
+node	5891336949	곡산	Goksan			37.6451532	126.8021797	stop	stop_position
+node	5891336974	백마	Baengma			37.6575978	126.7949216	stop	stop_position
+node	5891337012	풍산	Pungsan			37.6728688	126.7859221	stop	stop_position
+node	5891337013	풍산	Pungsan			37.6716106	126.7867036	stop	stop_position
+node	5891337061	일산	Ilsan			37.6820140	126.7698544	stop	stop_position
+node	5891337062	일산	Ilsan			37.6821094	126.7699182	stop	stop_position
+node	5891337069	탄현				37.6946855	126.7610130	stop	stop_position
+node	5891337070	탄현				37.6931171	126.7610484	stop	stop_position
+node	5891337071	야당	Yadang			37.7132647	126.7616058	stop	stop_position
+node	5893030190	옥수				37.5399339	127.0178962	stop	stop_position
+node	5893030191	옥수				37.5410818	127.0196130	stop	stop_position
+node	5893030216	한남	Hannam			37.5291501	127.0085345	stop	stop_position
+node	5893030217	서빙고				37.5195173	126.9872817	stop	stop_position
+node	5893030218	서빙고				37.5196341	126.9892394	stop	stop_position
+node	5893030219	용산	Yongsan			37.5305621	126.9663678	stop	stop_position
+node	5893030232	효창공원앞	Hyochang Park			37.5388034	126.9615001	stop	stop_position
+node	5893030233	효창공원앞	Hyochang Park			37.5383603	126.9635452	stop	stop_position
+node	5893030234	공덕	Gongdeok			37.5430032	126.9510707	stop	stop_position
+node	5893030235	공덕	Gongdeok			37.5419764	126.9533741	stop	stop_position
+node	5893030236	서강대	Sogang Univ.			37.5519834	126.9357580	stop	stop_position
+node	5893030239	신촌				37.5596926	126.9411150	stop	stop_position
+node	5893030240	신촌				37.5598654	126.9429003	stop	stop_position
+node	5893030243	가좌				37.5688469	126.9141529	stop	stop_position
+node	5893030244	가좌				37.5690048	126.9142607	stop	stop_position
+node	5893030245					37.5682788	126.9155556	stop	stop_position
+node	5893030246	가좌				37.5684487	126.9156838	stop	stop_position
+node	5893030249	가좌	Gajwa			37.5686792	126.9150630	station	station
+node	5893030261	수색	Susaek			37.5801350	126.8963173	stop	stop_position
+node	5893030262	수색				37.5802159	126.8964006	stop	stop_position
+node	5893030263	수색				37.5813669	126.8948966	stop	stop_position
+node	5893030264	수색	Susaek			37.5803507	126.8964821	stop	stop_position
+node	5893288217	강매				37.6124295	126.8446915	stop	stop_position
+node	5893288218	강매				37.6121383	126.8442848	stop	stop_position
+node	5893288219	서울역	Seoul Station			37.5572572	126.9712392	stop	stop_position
+node	5896399335	금정	Geumjeong			37.3723477	126.9437155	stop	stop_position
+node	5896399336	금정	Geumjeong			37.3730683	126.9428052	stop	stop_position
+node	5896399337	금정	Geumjeong			37.3731144	126.9429352	stop	stop_position
+node	5896399339	군포	Gunpo			37.3549528	126.9483442	stop	stop_position
+node	5896399340	군포	Gunpo			37.3549529	126.9484788	stop	stop_position
+node	5896399341	군포	Gunpo			37.3534284	126.9484785	stop	stop_position
+node	5896399342	당정	Dangjeong			37.3442425	126.9482740		stop_position
+node	5896399343	의왕	Uiwang			37.3213626	126.9478604	stop	stop_position
+node	5896399344	의왕	Uiwang			37.3213590	126.9479919	stop	stop_position
+node	5896399345	의왕	Uiwang			37.3193851	126.9481490	stop	stop_position
+node	5896399346	성균관대	Sungkyunkwan Univ			37.3004424	126.9698072	stop	stop_position
+node	5896399347	성균관대	Sungkyunkwan University			37.3003187	126.9697911	stop	stop_position
+node	5896399352	화서	Hwaseo			37.2847778	126.9890176	stop	stop_position
+node	5896399353	화서	Hwaseo			37.2833438	126.9900975	stop	stop_position
+node	5896399354	수원	Suwon			37.2653656	127.0005981	stop	stop_position
+node	5896399355	수원	Suwon			37.2668858	126.9989080	stop	stop_position
+node	5896399356	수원	Suwon			37.2669234	126.9990151	stop	stop_position
+node	5896399357	수원	Suwon			37.2653153	127.0004385	stop	stop_position
+node	5896399382	세류	Seryu			37.2449907	127.0131852	stop	stop_position
+node	5896399383	세류	Seryu			37.2433133	127.0142390	stop	stop_position
+node	5896638398	구로	Guro			37.5024092	126.8817840	stop	stop_position
+node	5896638399	구로	Guro			37.5024592	126.8816650	stop	stop_position
+node	5896638401	구로	Guro			37.5040121	126.8831912	stop	stop_position
+node	5896638402	구로	Guro			37.5033463	126.8823678	stop	stop_position
+node	5896638403	구로	Guro			37.5026738	126.8814500	stop	stop_position
+node	5896638404	구로	Guro			37.5027049	126.8814170	stop	stop_position
+node	5896638405	구로	Guro			37.5042968	126.8831312	stop	stop_position
+node	5896638406	가산디지털단지	Gasan Digital Complex			37.4809053	126.8830209	stop	stop_position
+node	5896638407	독산	Doksan			37.4651733	126.8899789	stop	stop_position
+node	5896638408	석수	Seoksu			37.4345411	126.9025637	stop	stop_position
+node	5896638413	관악	Gwanak			37.4191207	126.9090056	stop	stop_position
+node	5896638418	안양	Anyang			37.4022309	126.9222618	stop	stop_position
+node	5896638419	안양	Anyang			37.4022742	126.9223454	stop	stop_position
+node	5896638420	안양	Anyang			37.4006162	126.9237327	stop	stop_position
+node	5896638421	안양	Anyang			37.4006749	126.9238319	stop	stop_position
+node	5896638438	명학	Myeonghak			37.3848588	126.9352913	stop	stop_position
+node	5898870259	망월사	Mangwolsa (Shinhan University)			37.7112244	127.0471874	stop	stop_position
+node	5898870263	의정부	Uijeongbu			37.7388391	127.0459428	stop	stop_position
+node	5898870264	의정부	Uijeongbu			37.7375100	127.0461515	stop	stop_position
+node	5899116510	녹천	Nokcheon			37.6439844	127.0516865	stop	stop_position
+node	5899116511	녹천	Nokcheon			37.6452290	127.0511100	stop	stop_position
+node	5899116539	방학	Banghak (Dobong-gu Office)			37.6665340	127.0444265	stop	stop_position
+node	5899116540	방학	Banghak (Dobong-gu Office)			37.6684386	127.0442140	stop	stop_position
+node	5899116544	도봉	Dobong			37.6781766	127.0453853	stop	stop_position
+node	5899116545	도봉	Dobong			37.6798554	127.0456374	stop	stop_position
+node	5899116546	도봉산	Dobongsan			37.6887860	127.0461858	stop	stop_position
+node	5899116547	도봉산	Dobongsan			37.6904708	127.0459968	stop	stop_position
+node	5899214138	석계	Seokgye			37.6141815	127.0661482	stop	stop_position
+node	5899214139	석계	Seokgye			37.6157914	127.0653115	stop	stop_position
+node	5899214142	광운대	Kwangwoon University			37.6232033	127.0620693	stop	stop_position
+node	5899214148	월계	Wolgye (Induk University)			37.6323154	127.0588626	stop	stop_position
+node	5899214149	월계	Wolgye (Induk University)			37.6336686	127.0588687	stop	stop_position
+node	5899527450	용산	Yongsan			37.5286044	126.9634558	stop	stop_position
+node	5899527451	용산	Yongsan			37.5297373	126.9649245	stop	stop_position
+node	5899527452	용산	Yongsan			37.5287311	126.9633509	stop	stop_position
+node	5899527454	남영	Namyeong			37.5405380	126.9713213	station	station
+node	5899527464	신설동	Sinseol-dong			37.5763336	127.0255121	stop	stop_position
+node	5899527477	회기	Hoegi			37.5890895	127.0567985	stop	stop_position
+node	5899527478	회기	Hoegi			37.5900098	127.0582600	stop	stop_position
+node	5899527479	외대앞	Hankuk University of Foreign Studies			37.5956329	127.0633740	stop	stop_position
+node	5899527480	외대앞	Hankuk University of Foreign Studies			37.5969903	127.0642032	stop	stop_position
+node	5900362222	신도림	Sindorim			37.5098683	126.8936168	stop	stop_position
+node	5900362223	신도림	Sindorim			37.5092853	126.8918151	stop	stop_position
+node	5900362228	영등포	Yeongdeungpo			37.5152129	126.9059999	stop	stop_position
+node	5900362229	영등포	Yeongdeungpo			37.5150706	126.9061076	stop	stop_position
+node	5900362230	영등포	Yeongdeungpo			37.5151586	126.9067074	stop	stop_position
+node	5900362231	영등포	Yeongdeungpo			37.5149578	126.9066358	stop	stop_position
+node	5900362232	영등포	Yeongdeungpo			37.5150310	126.9071033	stop	stop_position
+node	5900362233	영등포	Yeongdeungpo			37.5149052	126.9063842	stop	stop_position
+node	5900362234	영등포	Yeongdeungpo			37.5162016	126.9087325	stop	stop_position
+node	5900362264	신길	Singil			37.5170439	126.9178368	stop	stop_position
+node	5900362265	신길	Singil			37.5168944	126.9177987	stop	stop_position
+node	5900362272	대방	Daebang	Daebang		37.5133577	126.9264784	station	station
+node	5900362273	대방				37.5133478	126.9274886	stop	stop_position
+node	5900362274	대방	Daebang			37.5134709	126.9274803	stop	stop_position
+node	5900500302	부천	Bucheon			37.4841939	126.7813237	stop	stop_position
+node	5900500303	부천	Bucheon			37.4842977	126.7813416	stop	stop_position
+node	5900500304	부천	Bucheon			37.4839282	126.7841090	stop	stop_position
+node	5900500305	부천	Bucheon			37.4840248	126.7841339	stop	stop_position
+node	5900500318	소사	Sosa			37.4826204	126.7946398	stop	stop_position
+node	5900500321	소사	Sosa			37.4829320	126.7967280	stop	stop_position
+node	5900500322	소사	Sosa			37.4824192	126.7951956	stop	stop_position
+node	5900500328	역곡	Yeokgok			37.4848544	126.8111076	stop	stop_position
+node	5900500329	역곡	Yeokgok			37.4849552	126.8110574	stop	stop_position
+node	5900500330	역곡	Yeokgok			37.4856038	126.8129467	stop	stop_position
+node	5900500331	역곡	Yeokgok			37.4857181	126.8128862	stop	stop_position
+node	5900500343	오류동				37.4946257	126.8457134	stop	stop_position
+node	5900500344	오류동	Oryu-dong			37.4947436	126.8457681	stop	stop_position
+node	5900500349	개봉	Gaebong			37.4945762	126.8581644	stop	stop_position
+node	5900500350	개봉	Gaebong			37.4946790	126.8582388	stop	stop_position
+node	5900500351	개봉				37.4942856	126.8604172	stop	stop_position
+node	5900500352	개봉	Gaebong			37.4943984	126.8604487	stop	stop_position
+node	5900500358	구일	Guil			37.4957217	126.8689185	stop	stop_position
+node	5900500360	구일	Guil			37.4966020	126.8703843	stop	stop_position
+node	5902085992	인천	Incheon			37.4766821	126.6168874	station	station
+node	5902085994	인천	Incheon			37.4764165	126.6170183	stop	stop_position
+node	5902085995	인천	Incheon			37.4759601	126.6167760	stop	stop_position
+node	5902086016	동인천	Dongincheon			37.4756163	126.6323100	stop	stop_position
+node	5902086017	동인천	Dongincheon			37.4756805	126.6324115	stop	stop_position
+node	5902086018	동인천	Dongincheon			37.4745176	126.6337466	stop	stop_position
+node	5902086019	동인천	Dongincheon			37.4745770	126.6338412	stop	stop_position
+node	5902086026	도원	Dowon			37.4690620	126.6416049	stop	stop_position
+node	5902086027	도원				37.4691562	126.6416881	stop	stop_position
+node	5902086028	도원				37.4683795	126.6433520	stop	stop_position
+node	5902086029	도원	Dowon			37.4684780	126.6434280	stop	stop_position
+node	5902086034	제물포	Jemulpo			37.4666952	126.6565865	stop	stop_position
+node	5902086035	제물포	Jemulpo			37.4668021	126.6565865	stop	stop_position
+node	5902086036	제물포	Jemulpo			37.4668275	126.6587343	stop	stop_position
+node	5902086037	제물포	Jemulpo			37.4669352	126.6587343	stop	stop_position
+node	5902086048	주안	Juan			37.4650755	126.6784288	stop	stop_position
+node	5902086049	주안	Juan			37.4651952	126.6784492	stop	stop_position
+node	5902086050	주안				37.4650781	126.6801621	stop	stop_position
+node	5902086051	주안	Juan			37.4651958	126.6801833	stop	stop_position
+node	5902086056	간석	Ganseok			37.4645678	126.6924772	stop	stop_position
+node	5902086057	간석	Ganseok			37.4648970	126.6943160	stop	stop_position
+node	5902086063	동암	Dongam			37.4699140	126.7028464	stop	stop_position
+node	5902086064	동암	Dongam			37.4715384	126.7028712	stop	stop_position
+node	5902086065	동암	Dongam			37.4715434	126.7027427	stop	stop_position
+node	5902086070	백운	Baegun			37.4824022	126.7063864	stop	stop_position
+node	5902086071	백운	Baegun			37.4824751	126.7063026	stop	stop_position
+node	5902086072	백운	Baegun			37.4835384	126.7076221	stop	stop_position
+node	5902086073	백운	Baegun			37.4836190	126.7075249	stop	stop_position
+node	5902086886	부개	Bugae			37.4884186	126.7398397	stop	stop_position
+node	5902086887	부개				37.4885169	126.7398541	stop	stop_position
+node	5902086888	부개				37.4884395	126.7416703	stop	stop_position
+node	5902086889	부개	Bugae			37.4885420	126.7416798	stop	stop_position
+node	5902086894	송내	Songnae			37.4876022	126.7516291	stop	stop_position
+node	5902086895	송내	Songnae			37.4877220	126.7516421	stop	stop_position
+node	5902086896	송내				37.4876311	126.7537146	stop	stop_position
+node	5902086897	송내	Songnae			37.4877554	126.7537240	stop	stop_position
+node	5902125882	동묘앞	Dongmyo			37.5731348	127.0161458	stop	stop_position
+node	5902127686	동묘앞	Dongmyo			37.5737548	127.0181300	stop	stop_position
+node	5902127698	신설동	Sinseol-dong			37.5756470	127.0234914	stop	stop_position
+node	5904751236	중동	Jung-dong			37.4867408	126.7630781	stop	stop_position
+node	5904751239	중동	Jung-dong			37.4866629	126.7652071	stop	stop_position
+node	5904751245	양주	Yangju			37.7742063	127.0449030	stop	stop_position
+node	5907762740	강남	Gangnam			37.4979002	127.0276077	stop	stop_position
+node	5907762741	대림(구로구청)	Daerim(Guro-gu Office)			37.4932804	126.8949584	stop	stop_position
+node	5907964902	남동인더스파크	Namdong Induspark			37.4077519	126.6952345	station	station
+node	5907964905	남동인더스파크	Namdong Induspark			37.4082483	126.6943986	stop	stop_position
+node	5907964979	남동인더스파크	Namdong Induspark			37.4072300	126.6961459	stop	stop_position
+node	5907964981	호구포	Hogupo			37.4012777	126.7095236	stop	stop_position
+node	5907964982	호구포	Hogupo			37.4020968	126.7077547	stop	stop_position
+node	5907964998	호구포	Hogupo			37.4016902	126.7086388	station	station
+node	5907965000	인천논현				37.4008782	126.7235615	stop	stop_position
+node	5907965001	인천논현				37.4004832	126.7215322	stop	stop_position
+node	5907965015	인천논현	Incheon Nonhyeon			37.4006866	126.7225648	station	station
+node	5907965052	소래포구	Soraepogu			37.4009170	126.7335250	station	station
+node	5907965062	소래포구	Soraepogu			37.4013038	126.7325487	stop	stop_position
+node	5907965078	월곶	Wolgot			37.3914319	126.7430665	stop	stop_position
+node	5907965080	월곶	Wolgot			37.3921604	126.7423159	stop	stop_position
+node	5907965096	달월				37.3807129	126.7458836	stop	stop_position
+node	5907965097	달월				37.3792703	126.7448610	stop	stop_position
+node	5907965098	오이도	Oido			37.3628018	126.7387180	stop	stop_position
+node	5907965099	오이도	Oido			37.3610941	126.7382839	stop	stop_position
+node	5909960761	기흥	Giheung			37.2755132	127.1160129	station	station
+node	5909995037	수서	Suseo			37.4874270	127.1019706	stop	stop_position
+node	5909995038	수서	Suseo			37.4870767	127.1018511	stop	stop_position
+node	5910050514	수원	Suwon			37.2666590	127.0013487	stop	stop_position
+node	5910775256	송도	Songdo			37.4303043	126.6538721	stop	stop_position
+node	5910775257	송도	Songdo			37.4296059	126.6555063	stop	stop_position
+node	5910775258	인천	Incheon			37.4769719	126.6173267	stop	stop_position
+node	5910775260	신포	Sinpo			37.4689305	126.6236807	stop	stop_position
+node	5910775261	신포	Sinpo			37.4679870	126.6253144	stop	stop_position
+node	5910775262	숭의	Sungui			37.4612390	126.6370849	stop	stop_position
+node	5910775263	숭의	Sungui			37.4605823	126.6387981	stop	stop_position
+node	5910775264	숭의	Sungui			37.4607927	126.6382349	station	station
+node	5910775265	신포	Sinpo			37.4682643	126.6248171	station	station
+node	5910775268	인하대	Inha University			37.4476431	126.6500767	stop	stop_position
+node	5910775269	인하대	Inha Univ.			37.4482473	126.6497844	station	station
+node	5910775615	인하대	Inha University			37.4489904	126.6493767	stop	stop_position
+node	5910775653	송도	Songdo			37.4299382	126.6547155	station	station
+node	5910775683	연수	Yeonsu			37.4174204	126.6796273	stop	stop_position
+node	5910775684	연수	Yeonsu			37.4183698	126.6779472	stop	stop_position
+node	5910775694	연수	Yeonsu			37.4177947	126.6789669	station	station
+node	5910775695	원인재	Woninjae			37.4136809	126.6856687	stop	stop_position
+node	5911861548	상록수	Sangnoksu			37.3027833	126.8656529	stop	stop_position
+node	5911861549	상록수	Sangnoksu			37.3028721	126.8656673	stop	stop_position
+node	5911861550	상록수	Sangnoksu			37.3027720	126.8675535	stop	stop_position
+node	5911861551	상록수	Sangnoksu			37.3028552	126.8675660	stop	stop_position
+node	5911861568	한대앞	Hanyang University at Ansan			37.3104519	126.8528880	stop	stop_position
+node	5911861569	한대앞	Hanyang University at Ansan			37.3090005	126.8543612	stop	stop_position
+node	5911861688	고잔	Gojan			37.3168290	126.8239299	stop	stop_position
+node	5911861689	고잔	Gojan			37.3169005	126.8220934	stop	stop_position
+node	5911861706	안산	Ansan			37.3270474	126.7887966	station	station
+node	5911861707	안산	Ansan			37.3273152	126.7878885	stop	stop_position
+node	5911861708	안산	Ansan			37.3274089	126.7879605	stop	stop_position
+node	5911861709	안산	Ansan			37.3266027	126.7898197	stop	stop_position
+node	5911861710	안산	Ansan			37.3270275	126.7891330	stop	stop_position
+node	5914759508	노원	Nowon			37.6561244	127.0623632	stop	stop_position
+node	5914829686	한성대입구(삼선교)	Hansung Univ. (Samseongyo)			37.5882010	127.0053156	stop	stop_position
+node	5914829687	평촌	Pyeongchon			37.3943077	126.9638630	stop	stop_position
+node	5915757374	상일동	Sangil-dong			37.5566609	127.1650911	stop	stop_position
+node	5915757375	고덕	Godeok			37.5550028	127.1537873	stop	stop_position
+node	5915757377	명일				37.5519248	127.1440529	stop	stop_position
+node	5916874385	응암				37.5984384	126.9154726	stop	stop_position
+node	5916874386	응암				37.5987740	126.9157018	stop	stop_position
+node	5916874387	응암	Eungam			37.5984296	126.9155283	station	station
+node	5916874391	합정	Hapjeong	Hapjeong		37.5493558	126.9136561	station	station
+node	5916874392	합정	Hapjeong			37.5500781	126.9146378	stop	stop_position
+node	5916874393	공덕				37.5436396	126.9515209	stop	stop_position
+node	5916874394	동묘앞	Dongmyo			37.5735084	127.0174344	station	station
+node	5916874395	고려대	Korea Univ.		Korea University Station	37.5903784	127.0360133	station	station
+node	5917210895	여의도				37.5217071	126.9241053	stop	stop_position
+node	5919544685	홍대입구	Hongik Univ.	Hongdaeibgu		37.5573487	126.9269080	station	station
+node	5919544686	홍대입구	Hongik University			37.5566763	126.9234645	stop	stop_position
+node	5919544687	디지털미디어시티	Digital Media City			37.5776729	126.9000771	station	station
+node	5919544688	디지털미디어시티				37.5762160	126.9014392	stop	stop_position
+node	5919544689	공덕	Gongdeok			37.5424161	126.9522541	stop	stop_position
+node	5919544690	공덕	Gongdeok			37.5423886	126.9522303	stop	stop_position
+node	5919544691		Hongik Univ.			37.5576415	126.9264484	stop	stop_position
+node	5919544692		Hongik Univ.			37.5576245	126.9264290	stop	stop_position
+node	5919544693					37.5774116	126.8980383	stop	stop_position
+node	5919544694					37.5774330	126.8980613	stop	stop_position
+node	5919544711	김포공항	Gimpo Int'l Airport			37.5617264	126.8015439	stop	stop_position
+node	5919544712	김포공항	Gimpo Int'l Airport			37.5617908	126.8015492	stop	stop_position
+node	5919544721	검암	Geomam			37.5691799	126.6737138	station	station
+node	5919544722	검암				37.5691322	126.6736773	stop	stop_position
+node	5919544723	검암				37.5691612	126.6736778	stop	stop_position
+node	5919544740	청라국제도시				37.5565025	126.6246726	stop	stop_position
+node	5919544741	청라국제도시				37.5563805	126.6247028	stop	stop_position
+node	5921531565	원시	Wonsi			37.3025413	126.7868312	stop	stop_position
+node	5921531566	원시	Wonsi			37.3025681	126.7867381	stop	stop_position
+node	5921531567	원시	Wonsi			37.3025572	126.7867849	station	station
+node	5921531568	시우	Siu			37.3130971	126.7957458	stop	stop_position
+node	5921531569	시우	Siu			37.3131714	126.7957118	stop	stop_position
+node	5921531570	시우	Siu			37.3131143	126.7956376	station	station
+node	5921531579	초지	Choji			37.3198402	126.8078802	station	station
+node	5921531580	선부	Seonbu			37.3344566	126.8098989	station	station
+node	5921531686	달미	Dalmi			37.3491043	126.8090701	station	station
+node	5921531687	시흥능곡				37.3702321	126.8087631	stop	stop_position
+node	5921531688	시흥능곡				37.3702397	126.8088237	stop	stop_position
+node	5921531689	시흥능곡	Siheung Neunggok			37.3700847	126.8087509	station	station
+node	5921531691	시흥시청	Siheung City Hall			37.3820785	126.8057464	station	station
+node	5921531692	시흥시청	Siheung City Hall			37.3820064	126.8057135	stop	stop_position
+node	5921531693	시흥시청	Siheung City Hall			37.3820236	126.8058094	stop	stop_position
+node	5921531694	신현	Sinhyeon			37.4095842	126.7878699	station	station
+node	5921531695	신현	Sinhyeon			37.4096885	126.7878042	stop	stop_position
+node	5921531696	신현	Sinhyeon			37.4096889	126.7878815	stop	stop_position
+node	5921531701	신천	Sincheon			37.4393371	126.7868733	stop	stop_position
+node	5921531702	신천	Sincheon			37.4393612	126.7867824	stop	stop_position
+node	5921531703	신천	Sincheon			37.4393096	126.7867997	station	station
+node	5921531706	시흥대야	Siheung Daeya			37.4503447	126.7931217	station	station
+node	5921531709	소새울	Sosaeul			37.4688742	126.7970994	station	station
+node	5921531712	소사	Sosa			37.4836961	126.7947747	stop	stop_position
+node	5921531732	초지	Choji			37.3198508	126.8079168	stop	stop_position
+node	5921531736	선부	Seonbu			37.3343798	126.8098238	stop	stop_position
+node	5921531740	달미				37.3489785	126.8090272	stop	stop_position
+node	5921531759	소새울	Sosaeul			37.4686780	126.7971549	stop	stop_position
+node	5921531780	시흥대야	Siheung Daeya			37.4501360	126.7929661	stop	stop_position
+node	5924268023	선릉	Seolleung			37.5056244	127.0484684	stop	stop_position
+node	5924268024	선릉	Seolleung			37.5044746	127.0489508	station	station
+node	5924284356	선릉	Seolleung			37.5044396	127.0489087	stop	stop_position
+node	5924431379	죽전	Jukjeon			37.3245669	127.1074072	station	station
+node	5924431380	죽전	Jukjeon			37.3245639	127.1073844	stop	stop_position
+node	5924431381	죽전	Jukjeon			37.3245618	127.1074384	stop	stop_position
+node	5925861750	강남구청	Gangnam-gu Office			37.5171958	127.0413029	stop	stop_position
+node	5925861751	강남구청	Gangnam-gu Office			37.5171756	127.0412865	station	station
+node	5925991074	왕십리	Wangsimni			37.5607527	127.0389074	stop	stop_position
+node	5927397045	모란	Moran			37.4337388	127.1291547	station	station
+node	5927446185	미금	Migeum			37.3494279	127.1091598	station	station
+node	5927529147	강남	Gangnam			37.4979497	127.0275574	station	station
+node	5927786378	삼동	Samdong			37.4086552	127.2033897	station	station
+node	5927786493	판교	Pangyo			37.3943732	127.1111517	station	station
+node	5927786494	판교	Pangyo			37.3946974	127.1115671	stop	stop_position
+node	5927786495	판교	Pangyo			37.3947577	127.1115664	stop	stop_position
+node	5927814398	초월	Chowol			37.3735490	127.2994545	stop	stop_position
+node	5927814406	경기광주		Gyeonggigwangju		37.3988837	127.2532707	stop	stop_position
+node	5927814407	경기광주		Gyeonggigwangju		37.3989152	127.2532951	stop	stop_position
+node	5927814417	경기광주	Gyeonggi Gwangju	Gyeonggigwangju		37.3989035	127.2532824	station	station
+node	5930287078	가락시장	Garak Market			37.4922475	127.1177039	stop	stop_position
+node	5930287079	가락시장	Garak Market			37.4931855	127.1181478	stop	stop_position
+node	5930287081	가락시장	Garak Market			37.4925324	127.1186382	station	station
+node	5930698985	을지로3가	Euljiro 3(sam)-ga			37.5663363	126.9925305	station	station
+node	5930698986	을지로3가	Euljiro 3(sam)-ga			37.5663629	126.9925882	stop	stop_position
+node	5930698987	을지로3가	Euljiro 3(sam)-ga			37.5663066	126.9911973	stop	stop_position
+node	5930698988	독립문	Dongnimmun			37.5745130	126.9578197	stop	stop_position
+node	5930698992	불광	Bulgwang			37.6098806	126.9303980	stop	stop_position
+node	5930698993	불광				37.6107380	126.9292223	stop	stop_position
+node	5930698996	불광	Bulgwang			37.6108807	126.9296307	station	station
+node	5933687039	구의	Guui		Guui (Gwangjin-gu Office)	37.5371676	127.0862214	station	station
+node	5933687056	강변	Gangbyeon		Gangbyeon (Dongseoul Bus Terminal)	37.5351109	127.0947415	station	station
+node	5933687057	잠실나루	Jamsillaru			37.5206910	127.1038301	station	station
+node	5933687058	강변	Gangbyeon(Dongseoul Bus Terminal)			37.5343289	127.0952593	stop	stop_position
+node	5933687059	강변(동서울터미널)	Gangbyeon(Dongseoul Bus Terminal)			37.5359606	127.0941802	stop	stop_position
+node	5933687060	잠실나루	Jamsillaru			37.5214578	127.1033751	stop	stop_position
+node	5933687061	잠실나루	Jamsillaru			37.5198837	127.1043045	stop	stop_position
+node	5933687293	구의(광진구청)	Guui(Gwangjin-gu Office)			37.5374052	127.0872498	stop	stop_position
+node	5933687294	구의	Guui(Gwangjin-gu Office)			37.5368976	127.0851030	stop	stop_position
+node	5933687362	건대입구	Konkuk University			37.5400566	127.0702592	stop	stop_position
+node	5933896994	옥수	Oksu			37.5402640	127.0183585	station	station
+node	5933896995	충무로	Chungmuro			37.5612019	126.9941091	station	station
+node	5933896998	약수	Yaksu			37.5547501	127.0106230	station	station
+node	5933896999	약수	Yaksu			37.5548296	127.0105499	stop	stop_position
+node	5933947005	교대(법원·검찰청)	Seoul Nat'l Univ. of Education (Court & Public Prosecutors' Office)			37.4928812	127.0138064	stop	stop_position
+node	5933947006	교대	Seoul Nat'l Univ. of Education			37.4936592	127.0137025	station	station
+node	5934012011	오금	Ogeum			37.5021960	127.1278011	stop	stop_position
+node	5934012012	오금	Ogeum			37.5021419	127.1283544	stop	stop_position
+node	5934012013	오금	Ogeum			37.5019815	127.1281525	station	station
+node	5935554434	한양대	Hanyang University			37.5557274	127.0436837	stop	stop_position
+node	5935554435	한양대	Hanyang University			37.5557232	127.0436441	stop	stop_position
+node	5935554444	한양대	Hanyang Univ.			37.5557271	127.0436642	station	station
+node	5935554448	뚝섬	Ttukseom			37.5468842	127.0483995	stop	stop_position
+node	5935554449	뚝섬	Ttukseom			37.5475873	127.0463967	stop	stop_position
+node	5935554450	성수	Seongsu			37.5445688	127.0561016	station	station
+node	5935554451	성수	Seongsu			37.5442407	127.0571443	stop	stop_position
+node	5935554452	성수	Seongsu			37.5448976	127.0550553	stop	stop_position
+node	5935738062	시청	City Hall			37.5638828	126.9762818	stop	stop_position
+node	5935738063	시청	City Hall			37.5654798	126.9771140	station	station
+node	5935738064	을지로입구	Euljiro 1(il)-ga			37.5659494	126.9826171	station	station
+node	5935738065	을지로4가				37.5669360	126.9981326	stop	stop_position
+node	5935738066	을지로4가	Euljiro 4(sa)-ga			37.5665958	126.9980036	stop	stop_position
+node	5935738067	을지로4가	Euljiro 4(sa)-ga			37.5666425	126.9981685	station	station
+node	5935738069	동대문역사문화공원	Dongdaemun History & Culture Park Station			37.5658484	127.0081378	stop	stop_position
+node	5935738070	동대문역사문화공원	Dongdaemun History & Culture Park Station (DDP)			37.5659047	127.0081762	stop	stop_position
+node	5935738081	을지로입구	Euljiro 1(il)-ga (Industrial Bank of Korea)			37.5659239	126.9826037	stop	stop_position
+node	5935738082	을지로3가	Euljiro 3(sam)-ga			37.5662577	126.9911975	stop	stop_position
+node	5935738288	신당	Sindang			37.5653839	127.0162520	station	station
+node	5935738290	상왕십리	Sangwangsimni			37.5643910	127.0292513	station	station
+node	5935738291	왕십리(성동구청)	Wangsimni(Seongdong-Gu Office)			37.5611960	127.0371344	stop	stop_position
+node	5935738300	신당	Sindang			37.5656114	127.0198113	stop	stop_position
+node	5935738307	상왕십리	Sangwangsimni			37.5643931	127.0291990	stop	stop_position
+node	5937884687	합정	Hapjeong			37.5500430	126.9146820	stop	stop_position
+node	5937884688	홍대입구	Hongik University			37.5566261	126.9235144	stop	stop_position
+node	5937884691	신촌	Sinchon			37.5551517	126.9369084	station	station
+node	5937884696	이대	Ewha Womans Univ.			37.5567733	126.9458346	station	station
+node	5937884697	이대	Ewha Womans University			37.5567916	126.9458415	stop	stop_position
+node	5937884698	아현	Ahyeon			37.5574309	126.9561209	station	station
+node	5937884701	충정로(경기대입구)	Chungjeongno(Kyonggi University)			37.5593252	126.9636980	stop	stop_position
+node	5937884722	신촌(지하)	Sinchon			37.5551312	126.9369069	stop	stop_position
+node	5937884728	이대	Ewha Womans University			37.5567403	126.9458406	stop	stop_position
+node	5937884729	아현(추계예술대)	Ahyeon			37.5574022	126.9561329	stop	stop_position
+node	5937907109	지축	Jichuk			37.6481183	126.9139297	station	station
+node	5937907114	원흥	Wonheung			37.6505121	126.8736684	station	station
+node	5937907115	원당	Wondang			37.6530498	126.8428981	station	station
+node	5937907124	화정	Hwajeong			37.6346457	126.8325770	station	station
+node	5937907125	대곡	Daegok			37.6317813	126.8102838	station	station
+node	5937907134	마두	Madu			37.6520039	126.7777596	station	station
+node	5937907135	정발산	Jeongbalsan			37.6597110	126.7732651	station	station
+node	5937907137	대화	Daehwa			37.6761753	126.7474634	station	station
+node	5941651083	삼송	Samsong			37.6531194	126.8954796	station	station
+node	5968926272	마곡나루	Magongnaru			37.5662179	126.8279170	station	station
+node	5968926273	마곡나루				37.5656586	126.8276189	stop	stop_position
+node	5968926274	마곡나루				37.5656968	126.8275999	stop	stop_position
+node	5991942704	대곡	Daegok			37.6315474	126.8123204	stop	stop_position
+node	5991942705	원당	Wondang			37.6523882	126.8424326	stop	stop_position
+node	5991942711	주엽	Juyeop			37.6701755	126.7612457	stop	stop_position
+node	5991942714	마두	Madu			37.6520193	126.7777954	stop	stop_position
+node	5991942716	대화	Daehwa			37.6762005	126.7474785	stop	stop_position
+node	5991942740	정발산	Jeongbalsan			37.6597472	126.7732921	stop	stop_position
+node	5991942749	백석	Baekseok			37.6431163	126.7879718	stop	stop_position
+node	5991943794	화정	Hwajeong			37.6346539	126.8326337	stop	stop_position
+node	5991943795	화정	Hwajeong			37.6345957	126.8326234	stop	stop_position
+node	5991943823	원당	Wondang			37.6538264	126.8433973	stop	stop_position
+node	5991943836	원흥	Wonheung			37.6505228	126.8737642	stop	stop_position
+node	5991943839	삼송	Samsong			37.6531512	126.8954802	stop	stop_position
+node	5991943866	원흥	Wonheung			37.6504946	126.8737376	stop	stop_position
+node	5991943873	지축	Jichuk			37.6483526	126.9125778	stop	stop_position
+node	6033312681	당산	Dangsan			37.5356155	126.9033013	stop	stop_position
+node	6033312682	당산	Dangsan			37.5341270	126.9020714	stop	stop_position
+node	6033312683	당산	Dangsan	Dangsan		37.5345964	126.9024780	station	station
+node	6033314401	영등포구청	Yeongdeungpo-gu Office			37.5253085	126.8965943	stop	stop_position
+node	6033314402	영등포구청	Yeongdeungpo-gu Office			37.5253151	126.8965366	stop	stop_position
+node	6033314412	문래	Mullae			37.5183839	126.8948726	station	station
+node	6033314413	문래	Mullae			37.5184080	126.8948387	stop	stop_position
+node	6033314424	신도림	Sindorim			37.5089707	126.8912335	stop	stop_position
+node	6033314425	신도림	Sindorim			37.5089397	126.8912262	station	station
+node	6033314426	대림(구로구청)	Daerim(Guro-gu Office)			37.4932926	126.8950143	stop	stop_position
+node	6033314427	구로디지털단지	Guro Digital Complex			37.4850332	126.9025904	stop	stop_position
+node	6033314428	구로디지털단지	Guro Digital Complex			37.4856107	126.9007426	stop	stop_position
+node	6033314429	구로디지털단지	Guro Digital Complex			37.4852761	126.9015916	station	station
+node	6033314467	신대방	Sindaebang			37.4876303	126.9133921	stop	stop_position
+node	6033314468	신대방	Sindaebang			37.4875967	126.9134300	stop	stop_position
+node	6033314471	신대방	Sindaebang			37.4875949	126.9133919	station	station
+node	6033314481	신림	Sillim			37.4842316	126.9296803	station	station
+node	6033314482	신림	Sillim			37.4842228	126.9296985	stop	stop_position
+node	6033314701	봉천	Bongcheon			37.4823889	126.9419387	station	station
+node	6033314702	봉천	Bongcheon			37.4823536	126.9419846	stop	stop_position
+node	6033314711	서울대입구	Seoul Nat'l Univ.			37.4812230	126.9527151	station	station
+node	6033314712	서울대입구	Seoul Nat'l University (Gwanak-gu Office)			37.4811907	126.9527472	stop	stop_position
+node	6033314724	낙성대	Nakseongdae			37.4770623	126.9634876	station	station
+node	6033314725	낙성대	Nakseongdae			37.4770291	126.9635445	stop	stop_position
+node	6033314750	신림	Sillim			37.4842476	126.9296955	stop	stop_position
+node	6033314757	사당	Sadang			37.4764777	126.9825455	stop	stop_position
+node	6033314782	방배	Bangbae			37.4814662	126.9977072	station	station
+node	6033314783	방배	Bangbae			37.4814426	126.9976822	stop	stop_position
+node	6033314992	서초	Seocho			37.4918403	127.0076242	stop	stop_position
+node	6033314993	서초	Seocho			37.4917747	127.0076810	station	station
+node	6033314994	서초	Seocho			37.4918070	127.0076422	stop	stop_position
+node	6033314995	역삼	Yeoksam			37.5008221	127.0369600	station	station
+node	6033315003	삼성	Samseong		Samseong (World Trade Center Seoul)	37.5088402	127.0631430	station	station
+node	6033315007	종합운동장	Sports Complex			37.5110581	127.0737204	station	station
+node	6033315010	잠실새내	Jamsilsaenae			37.5115881	127.0855710	station	station
+node	6033315012	잠실새내	Jamsilsaenae			37.5115479	127.0864332	stop	stop_position
+node	6033315017	잠실	Jamsil		Jamsil (Songpa-gu Office)	37.5132169	127.1001365	station	station
+node	6033315024	잠실(송파구청)	Jamsil(Songpa-gu Office)			37.5129192	127.0989099	stop	stop_position
+node	6033315028	잠실새내	Jamsilsaenae			37.5116445	127.0845585	stop	stop_position
+node	6033315031	종합운동장	Sports Complex			37.5108878	127.0724844	stop	stop_position
+node	6033315033	삼성(무역센터)	Samseong(World Trade Center Seoul)			37.5085899	127.0620610	stop	stop_position
+node	6033315041	선릉	Seolleung			37.5044882	127.0489012	stop	stop_position
+node	6033315044	역삼	Yeoksam			37.5008232	127.0368969	stop	stop_position
+node	6033315045	강남	Gangnam			37.4979494	127.0275971	stop	stop_position
+node	6033315053	교대(법원·검찰청)	Seoul Nat'l Univ. of Education (Court & Public Prosecutors' Office)			37.4939731	127.0146051	stop	stop_position
+node	6033315083	방배 (백석예술대)	Bangbae			37.4814811	126.9976616	stop	stop_position
+node	6033315314	사당	Sadang			37.4766647	126.9801667	stop	stop_position
+node	6033315344	낙성대	Nakseongdae			37.4770655	126.9635600	stop	stop_position
+node	6033315353	서울대입구(관악구청)	Seoul Nat'l University (Gwanak-gu Office)			37.4812236	126.9527534	stop	stop_position
+node	6033315362	봉천	Bongcheon			37.4823868	126.9419950	stop	stop_position
+node	6033315602	문래	Mullae			37.5183977	126.8949008	stop	stop_position
+node	6033364438	신도림	Sindorim			37.5089290	126.8911471	stop	stop_position
+node	6033364439	신도림	Sindorim			37.5089871	126.8912840	stop	stop_position
+node	6033364440	양천구청	Yangcheon-gu Office			37.5122950	126.8659450	station	station
+node	6033364443	까치산	Kkachisan			37.5313676	126.8466980	stop	stop_position
+node	6033364446	신정네거리	Sinjeongnegeori			37.5200245	126.8530570	stop	stop_position
+node	6033364448	신정네거리	Sinjeongnegeori			37.5199831	126.8530463	station	station
+node	6033364449	신정네거리	Sinjeongnegeori			37.5200173	126.8530053	stop	stop_position
+node	6033364507	양천구청	Yangcheon-gu Office			37.5123003	126.8659115	stop	stop_position
+node	6033364545	도림천	Dorimcheon			37.5144539	126.8826840	station	station
+node	6033364547	도림천	Dorimcheon			37.5144991	126.8826324	stop	stop_position
+node	6033544224	오금	Ogeum			37.5021753	127.1283131	stop	stop_position
+node	6033544227	경찰병원	National Police Hospital			37.4954010	127.1239038	station	station
+node	6033544228	경찰병원				37.4953510	127.1237831	stop	stop_position
+node	6033544236	수서	Suseo			37.4874933	127.1019573	stop	stop_position
+node	6033544261	일원	Irwon			37.4838137	127.0842356	stop	stop_position
+node	6033544263	대청	Daecheong			37.4936283	127.0795515	station	station
+node	6033544264	학여울	Hangnyeoul			37.4964975	127.0698841	station	station
+node	6033544266	대치	Daechi			37.4944743	127.0631933	station	station
+node	6033544267	매봉	Maebong			37.4870692	127.0469780	station	station
+node	6033544268	매봉				37.4870818	127.0469569	stop	stop_position
+node	6033544273	양재	Yangjae			37.4845746	127.0343079	stop	stop_position
+node	6033544275	남부터미널	Nambu Bus Terminal			37.4849430	127.0163445	station	station
+node	6033544282	고속터미널	Express Bus Terminal			37.5050496	127.0049410	stop	stop_position
+node	6033544391	잠원	Jamwon			37.5127513	127.0111504	station	station
+node	6033544392	잠원	Jamwon			37.5127216	127.0111081	stop	stop_position
+node	6033544393	잠원	Jamwon			37.5127485	127.0110886	stop	stop_position
+node	6033544395	신사	Sinsa			37.5161089	127.0195159	station	station
+node	6033544404	압구정				37.5261326	127.0285102	stop	stop_position
+node	6033544405	압구정	Apgujeong			37.5261847	127.0284989	station	station
+node	6033544408	옥수	Oksu			37.5425021	127.0170475	stop	stop_position
+node	6033544411	금호				37.5480416	127.0159300	stop	stop_position
+node	6033544412	금호	Geumho			37.5479735	127.0159247	station	station
+node	6033544415	약수				37.5548888	127.0106059	stop	stop_position
+node	6033544418	동대입구				37.5590786	127.0057565	stop	stop_position
+node	6033544419	동대입구	Dongguk Univ.			37.5590607	127.0057270	station	station
+node	6033544425	안국	Anguk			37.5768752	126.9861950	stop	stop_position
+node	6033544429	경복궁	Gyeongbokgung			37.5757873	126.9735260	station	station
+node	6033544430	경복궁				37.5758200	126.9735780	stop	stop_position
+node	6033544433	독립문				37.5745552	126.9578751	stop	stop_position
+node	6033544434	독립문	Dongnimmun			37.5745584	126.9578361	station	station
+node	6033544440	무악재	Muakjae			37.5823172	126.9503501	station	station
+node	6033544441	무악재				37.5823342	126.9503622	stop	stop_position
+node	6033544444	홍제	Hongje			37.5886894	126.9442528	station	station
+node	6033544459	녹번	Nokbeon			37.6009733	126.9357307	station	station
+node	6033544469	불광				37.6099213	126.9304732	stop	stop_position
+node	6033544483	연신내	Yeonsinnae			37.6194491	126.9208580	stop	stop_position
+node	6033544501	구파발	Gupabal			37.6368919	126.9188046	station	station
+node	6033544511	가락시장	Garak Market			37.4922717	127.1176636	stop	stop_position
+node	6033544526	대청				37.4936730	127.0795709	stop	stop_position
+node	6033544537	학여울				37.4965268	127.0698874	stop	stop_position
+node	6033544538	대치				37.4945030	127.0631799	stop	stop_position
+node	6033544539	도곡	Dogok			37.4909330	127.0554551	stop	stop_position
+node	6033544550	남부터미널(예술의전당)	Nambu Bus Terminal (Seoul Arts Center)			37.4849855	127.0163271	stop	stop_position
+node	6033544552	교대(법원·검찰청)	Seoul Nat'l Univ. of Education (Court & Public Prosecutors' Office)			37.4928792	127.0138755	stop	stop_position
+node	6033544573	신사	Sinsa			37.5161405	127.0196416	stop	stop_position
+node	6033544618	을지로3가				37.5663661	126.9926834	stop	stop_position
+node	6033544620	종로3가	Jongno 3(sam)-ga			37.5720180	126.9918063	stop	stop_position
+node	6033544670	홍제				37.5887266	126.9442481	stop	stop_position
+node	6033544681	녹번				37.6009659	126.9357817	stop	stop_position
+node	6033544692	연신내				37.6194877	126.9209102	stop	stop_position
+node	6033544706	구파발				37.6368601	126.9188368	stop	stop_position
+node	6035746705	범계	Beomgye			37.3899129	126.9509100	station	station
+node	6035746706	범계	Beomgye			37.3898873	126.9509188	stop	stop_position
+node	6035746707	인덕원	Indeogwon			37.4016323	126.9769656	station	station
+node	6035746708	정부과천청사	Government Complex Gwacheon			37.4264709	126.9897504	station	station
+node	6035746709	정부과천청사	Ansan Line			37.4264288	126.9897471	stop	stop_position
+node	6035746710	대공원 (서울랜드)	Seoul Grand park			37.4350880	127.0061773	stop	stop_position
+node	6035746711	대공원	Seoul Grand Park			37.4358034	127.0066085	station	station
+node	6035746718	선바위	Seonbawi			37.4518055	127.0021114	station	station
+node	6035746724	선바위	Seonbawi			37.4507449	127.0030560	stop	stop_position
+node	6035746726	경마공원	Seoul Racecourse park			37.4438286	127.0079130	stop	stop_position
+node	6035746736	과천	Gwacheon			37.4330278	126.9968428	stop	stop_position
+node	6035746755	인덕원	Indeogwon			37.4013614	126.9769874	stop	stop_position
+node	6035746765	평촌	Pyeongchon			37.3942706	126.9638926	stop	stop_position
+node	6036154649	불암산	Buramsan			37.6700980	127.0789245	station	station
+node	6036160301	쌍문	Ssangmun			37.6484028	127.0345788	station	station
+node	6036160306	수유	Suyu			37.6379932	127.0257229	station	station
+node	6036160315	미아	Mia			37.6264941	127.0261091	station	station
+node	6036160316	미아사거리	Miasageori			37.6131850	127.0300915	station	station
+node	6036160319	길음	Gireum			37.6031599	127.0248525	station	station
+node	6036160325	혜화	Hyehwa			37.5821381	127.0019525	station	station
+node	6036160329	동대문	Dongdaemun			37.5707737	127.0094174	stop	stop_position
+node	6036160332	동대문역사문화공원	Dongdaemun History & Culture Park Station (DDP)			37.5651755	127.0080864	stop	stop_position
+node	6036160335	충무로	Chungmuro			37.5616050	126.9958089	stop	stop_position
+node	6036160340	명동	Myeong-dong			37.5608738	126.9862943	stop	stop_position
+node	6036160341	명동	Myeongdong			37.5608977	126.9863762	station	station
+node	6036160342	회현	Hoehyeon			37.5586981	126.9784167	station	station
+node	6036160343	서울역	Seoul Station	Seoulyeok		37.5528527	126.9725721	station	station
+node	6036160346	숙대입구	Sookmyung Women's Univ.			37.5451337	126.9719573	station	station
+node	6036160347	신용산	Sinyongsan	Sinyongsan		37.5291744	126.9678569	station	station
+node	6036160364	총신대입구 (이수)	Chongsin Univ. (Isu)			37.4870260	126.9822046	stop	stop_position
+node	6036160365	총신대입구 (이수)	Chongsin Univ. (Isu)			37.4870241	126.9822551	stop	stop_position
+node	6036160367	사당	Sadang			37.4765828	126.9816682	station	station
+node	6036160370	남태령	Namtaeryeong			37.4646556	126.9886975	station	station
+node	6036160373	불암산	Buramsan			37.6709164	127.0797159	stop	stop_position
+node	6036160786	상계	Sanggye			37.6614057	127.0741681	stop	stop_position
+node	6036160804	노원	Nowon			37.6565903	127.0645195	stop	stop_position
+node	6036160816	창동	Changdong			37.6534371	127.0488204	stop	stop_position
+node	6036160827	쌍문	Ssangmun			37.6484107	127.0346010	stop	stop_position
+node	6036160831	수유	Suyu (Gangbuk-gu Office)			37.6379688	127.0257363	stop	stop_position
+node	6036160836	미아	Mia			37.6276441	127.0257291	stop	stop_position
+node	6036160839	미아사거리	Miasageori			37.6131733	127.0301244	stop	stop_position
+node	6036160849	길음	Gireum			37.6041981	127.0254678	stop	stop_position
+node	6036160858	성신여대입구	Sungshin Women's University			37.5926330	127.0164183	stop	stop_position
+node	6036160873	혜화	Hyehwa			37.5821461	127.0019799	stop	stop_position
+node	6036161314	회현	Hoehyeon (Namdaemun Market)			37.5587396	126.9784798	stop	stop_position
+node	6036161326	서울역	Seoul Station			37.5538898	126.9728194	stop	stop_position
+node	6036161328	숙대입구	Sookmyung Women's Univ.			37.5451422	126.9719735	stop	stop_position
+node	6036161332	삼각지	Samgakji	Samgakji		37.5344388	126.9729504	stop	stop_position
+node	6036161336	신용산	Sinyongsan			37.5291319	126.9678596	stop	stop_position
+node	6036161342	이촌	Ichon			37.5226609	126.9736344	stop	stop_position
+node	6036161355	동작	Dongjak			37.5038118	126.9802188	stop	stop_position
+node	6036161689	사당	Sadang			37.4784105	126.9818250	stop	stop_position
+node	6039313042	마천	Macheon			37.4949531	127.1527241	station	station
+node	6039313045	거여	Geoyeo			37.4933453	127.1437709	station	station
+node	6039313046	거여				37.4933801	127.1437715	stop	stop_position
+node	6039313047	거여				37.4933304	127.1437262	stop	stop_position
+node	6039313048	개롱	Gaerong			37.4980749	127.1348432	station	station
+node	6039313049	개롱				37.4981053	127.1348455	stop	stop_position
+node	6039313051	오금	Ogeum			37.5022328	127.1278419	stop	stop_position
+node	6039313052	방이	Bangi			37.5086429	127.1260388	station	station
+node	6039313053	방이				37.5086178	127.1260719	stop	stop_position
+node	6039313054	올림픽공원	Olympic Park	Ollimpikgongwon		37.5161479	127.1309298	station	station
+node	6039313055	올림픽공원				37.5161317	127.1309640	stop	stop_position
+node	6039313056	둔촌동	Dunchon-dong			37.5278024	127.1362433	station	station
+node	6039313057	마천	Macheon			37.4949893	127.1527509	stop	stop_position
+node	6039313073	둔촌동				37.5277875	127.1362849	stop	stop_position
+node	6039313082	강동				37.5358634	127.1326384	stop	stop_position
+node	6039313589	상일동	Sangil-dong			37.5567762	127.1667789	station	station
+node	6039313592	상일동	Sangil-dong			37.5568602	127.1680427	stop	stop_position
+node	6039313593	고덕	Godeok	Godeok		37.5553414	127.1563831	station	station
+node	6039313594	고덕	Godeok			37.5549570	127.1537952	stop	stop_position
+node	6039313596	명일	Myeongil			37.5519533	127.1440847	station	station
+node	6039313597	명일				37.5519222	127.1441072	stop	stop_position
+node	6039313600	굽은다리	Gubeundari			37.5456375	127.1429622	station	station
+node	6039313601	굽은다리				37.5456477	127.1429834	stop	stop_position
+node	6039313602	길동	Gil-dong			37.5383683	127.1402049	station	station
+node	6039313603	길동				37.5383373	127.1402269	stop	stop_position
+node	6039313604	강동	Gangdong			37.5357969	127.1325955	station	station
+node	6039313607	천호	Cheonho			37.5385722	127.1234109	stop	stop_position
+node	6039313609	광나루	Gwangnaru			37.5453014	127.1035270	station	station
+node	6039313612	아차산	Achasan			37.5516981	127.0897955	station	station
+node	6039313614	군자				37.5571693	127.0795654	stop	stop_position
+node	6039313615	군자				37.5572237	127.0795184	stop	stop_position
+node	6039313616	장한평	Janghanpyeong			37.5614909	127.0645666	station	station
+node	6039313619	답십리	Dapsipri			37.5668136	127.0526992	station	station
+node	6039313620	답십리				37.5667984	127.0526477	stop	stop_position
+node	6039313633	마장	Majang			37.5660982	127.0428810	station	station
+node	6039313636	왕십리	Wangsimni			37.5618095	127.0369505	stop	stop_position
+node	6039313637	행당	Haengdang			37.5576063	127.0299929	station	station
+node	6039313638	신금호	Singeumho			37.5544290	127.0202485	station	station
+node	6039313639	신금호				37.5544039	127.0202557	stop	stop_position
+node	6039313640	청구				37.5602864	127.0138544	stop	stop_position
+node	6039313641	을지로4가				37.5669307	126.9980713	stop	stop_position
+node	6039313643	종로3가	Jongno 3(sam)-ga			37.5725275	126.9908072	stop	stop_position
+node	6039313647	광화문	Gwanghwamun			37.5716162	126.9769026	station	station
+node	6039313648	광화문	Gwanghwamun			37.5715921	126.9769127	stop	stop_position
+node	6039313652	서대문	Seodaemun			37.5657953	126.9666351	station	station
+node	6039313655	충정로	Chungjeongno			37.5594482	126.9621729	stop	stop_position
+node	6039313658	애오개	Aeogae			37.5534280	126.9566976	station	station
+node	6039313661	공덕	Gongdeok			37.5436538	126.9508061	station	station
+node	6039313662	마포	Mapo			37.5396369	126.9459929	station	station
+node	6039313663	여의나루	Yeouinaru	Yeouinaru		37.5268526	126.9325288	station	station
+node	6039313668	여의도				37.5212683	126.9235169	stop	stop_position
+node	6039313669	여의도				37.5219444	126.9248093	stop	stop_position
+node	6039313670	여의도	Yeouido			37.5216685	126.9243018	station	station
+node	6039313671	신길	Singil			37.5166485	126.9187443	station	station
+node	6039313679	영등포시장	Yeongdeungpo Market	Yeongdeungposijangyeok		37.5226934	126.9051415	station	station
+node	6039313680	영등포시장				37.5226792	126.9051244	stop	stop_position
+node	6039313681	영등포시장				37.5227195	126.9051311	stop	stop_position
+node	6039313682	영등포구청	Yeongdeungpo-gu Office			37.5240181	126.8963369	station	station
+node	6039313683	양평	Yangpyeong			37.5256329	126.8861176	station	station
+node	6039313684	양평	Yangpyeong			37.5256184	126.8861154	stop	stop_position
+node	6039313985	양평	Yangpyeong			37.5256540	126.8861250	stop	stop_position
+node	6039313988	오목교	Omokgyo			37.5245648	126.8751222	station	station
+node	6039313989	오목교	Omokgyo			37.5245316	126.8751484	stop	stop_position
+node	6039313992	목동	Mok-dong			37.5261241	126.8645174	station	station
+node	6039313993	목동	Mok-dong			37.5261036	126.8645084	stop	stop_position
+node	6039313994	신정	Sinjeong			37.5250413	126.8559699	station	station
+node	6039313995	신정	Sinjeong			37.5250652	126.8559381	stop	stop_position
+node	6039313997	까치산	Kkachisan			37.5321119	126.8465265	station	station
+node	6039313998	까치산	Kkachisan			37.5321071	126.8465453	stop	stop_position
+node	6039313999	까치산	Kkachisan			37.5320943	126.8464982	stop	stop_position
+node	6039314002	화곡	Hwagok			37.5416728	126.8403970	station	station
+node	6039314003	화곡	Hwagok			37.5416946	126.8403637	stop	stop_position
+node	6039314018	우장산	Ujangsan			37.5488943	126.8363227	station	station
+node	6039314019	우장산	Ujangsan			37.5488674	126.8363427	stop	stop_position
+node	6039314025	발산	Balsan			37.5584951	126.8374653	station	station
+node	6039314026	발산	Balsan			37.5584330	126.8374583	stop	stop_position
+node	6039314027	마곡	Magok			37.5602492	126.8247463	station	station
+node	6039314028	송정	Songjeong			37.5612772	126.8119428	station	station
+node	6039314030	개화산	Gaehwasan			37.5728758	126.8082601	station	station
+node	6039314031	개화산	Gaehwasan			37.5728374	126.8081660	stop	stop_position
+node	6039314032	개화산	Gaehwasan			37.5728725	126.8081607	stop	stop_position
+node	6039314033	방화	Banghwa			37.5774043	126.8127320	station	station
+node	6039314035	강동				37.5357680	127.1325963	stop	stop_position
+node	6039314039	영등포구청				37.5240118	126.8964077	stop	stop_position
+node	6039314040	방화				37.5773986	126.8126915	stop	stop_position
+node	6039314079	광나루				37.5452672	127.1035050	stop	stop_position
+node	6039314285	아차산				37.5516758	127.0897660	stop	stop_position
+node	6039314290	군자				37.5571224	127.0795354	stop	stop_position
+node	6039314293	장한평				37.5614569	127.0645907	stop	stop_position
+node	6039314301	마장				37.5660844	127.0429225	stop	stop_position
+node	6039314304	행당				37.5575595	127.0299795	stop	stop_position
+node	6039314320	청구				37.5602418	127.0136945	stop	stop_position
+node	6039314328	동대문역사문화공원	Dongdaemun History & Culture Park Station (DDP)			37.5642040	127.0072575	stop	stop_position
+node	6039314359	서대문				37.5657783	126.9666700	stop	stop_position
+node	6039314365	애오개				37.5534301	126.9567324	stop	stop_position
+node	6039314368	공덕				37.5436373	126.9508356	stop	stop_position
+node	6039314371	마포				37.5396061	126.9459969	stop	stop_position
+node	6039314378	여의나루				37.5268372	126.9325490	stop	stop_position
+node	6039314384	신길	Singil	Singil		37.5174957	126.9166068	stop	stop_position
+node	6039314518	신정	Sinjeong			37.5250243	126.8559551	stop	stop_position
+node	6039314551	우장산	Ujangsan			37.5488667	126.8362945	stop	stop_position
+node	6039314685	마곡	Magok			37.5602258	126.8247396	stop	stop_position
+node	6039314688	송정	Songjeong			37.5612507	126.8119964	stop	stop_position
+node	6039314705	김포공항	Gimpo Int'l Airport			37.5621160	126.8013024	stop	stop_position
+node	6041673022	봉화산	Bonghwasan			37.6174165	127.0910968	station	station
+node	6041673023	화랑대	Hwarangdae			37.6197841	127.0837122	station	station
+node	6041673024	태릉입구				37.6172655	127.0745049	stop	stop_position
+node	6041673025	태릉입구				37.6172248	127.0745285	stop	stop_position
+node	6041673026	석계	Seokgye			37.6148083	127.0658393	station	station
+node	6041673029	돌곶이	Dolgoji			37.6105663	127.0564932	station	station
+node	6041673030	상월곡	Sangwolgok			37.6062379	127.0482722	station	station
+node	6041673033	월곡	Wolgok			37.6019200	127.0414554	station	station
+node	6041673044	안암	Anam			37.5862688	127.0292777	station	station
+node	6041673049	창신	Changsin			37.5798042	127.0152468	station	station
+node	6041673050	청구	Cheonggu			37.5602311	127.0137776	station	station
+node	6041673057	약수				37.5542201	127.0102763	stop	stop_position
+node	6041673060	버티고개	Beotigogae			37.5482323	127.0065879	station	station
+node	6041673074	한강진	Hangangjin			37.5397964	127.0017506	station	station
+node	6041673081	이태원	Itaewon	Itaewon		37.5345026	126.9943705	station	station
+node	6041673082	녹사평	Noksapyeong			37.5349200	126.9865773	station	station
+node	6041674894	효창공원앞	Hyochang Park			37.5393413	126.9613324	station	station
+node	6041674899	대흥	Daeheung			37.5476992	126.9423451	station	station
+node	6041674901	광흥창	Gwangheungchang	Gwangheungchang		37.5474717	126.9319609	station	station
+node	6041674902	상수	Sangsu	Sangsu		37.5477577	126.9228923	station	station
+node	6041674905	합정				37.5491550	126.9135746	stop	stop_position
+node	6041674907	망원	Mangwon			37.5560254	126.9101277	station	station
+node	6041674908	망원				37.5560071	126.9101778	stop	stop_position
+node	6041674909	마포구청	Mapo-gu Office			37.5635586	126.9033645	station	station
+node	6041674912	월드컵경기장	World Cup Stadium			37.5701918	126.8993179	station	station
+node	6041674915	증산	Jeungsan			37.5841441	126.9099118	station	station
+node	6041674916	새절	Saejeol			37.5916491	126.9137922	station	station
+node	6041674917	구산	Gusan			37.6112496	126.9172191	station	station
+node	6041674920	연신내	Yeonsinnae			37.6189247	126.9211838	station	station
+node	6041674922	연신내	Yeonsinnae			37.6186289	126.9205315	stop	stop_position
+node	6041674927	독바위	Dokbawi			37.6183371	126.9330214	station	station
+node	6041674928	독바위				37.6184519	126.9330576	stop	stop_position
+node	6041674939	역촌	Yeokchon			37.6060733	126.9227556	station	station
+node	6041674940	봉화산	Bonghwasan			37.6174410	127.0911066	stop	stop_position
+node	6041674945	화랑대				37.6198074	127.0837042	stop	stop_position
+node	6041674953	석계				37.6149177	127.0657575	stop	stop_position
+node	6041674958	돌곶이				37.6105705	127.0564610	stop	stop_position
+node	6041674959	상월곡				37.6062390	127.0482320	stop	stop_position
+node	6041674963	월곡				37.6019498	127.0414460	stop	stop_position
+node	6041674970	고려대	Korea Univ.			37.5909320	127.0360684	stop	stop_position
+node	6041674976	안암				37.5863164	127.0293358	stop	stop_position
+node	6041674984	보문	Bomun			37.5853009	127.0193144	stop	stop_position
+node	6041674992	창신				37.5797824	127.0152213	stop	stop_position
+node	6041674998	동묘앞				37.5733624	127.0155605	stop	stop_position
+node	6041675002	신당				37.5664054	127.0161688	stop	stop_position
+node	6041675006	청구				37.5603045	127.0138085	stop	stop_position
+node	6041675013	버티고개				37.5483064	127.0065965	stop	stop_position
+node	6041675023	한강진				37.5398251	127.0017117	stop	stop_position
+node	6041675034	이태원				37.5345260	126.9943732	stop	stop_position
+node	6041675038	녹사평				37.5347706	126.9865251	stop	stop_position
+node	6041675042	삼각지	Samgakji	Samgakji		37.5356256	126.9739401	stop	stop_position
+node	6041675046	효창공원앞				37.5393370	126.9614008	stop	stop_position
+node	6041675047	공덕				37.5436862	126.9515464	stop	stop_position
+node	6041675048	대흥				37.5477226	126.9423585	stop	stop_position
+node	6041675068	광흥창				37.5474866	126.9319904	stop	stop_position
+node	6041675069	상수				37.5477790	126.9229245	stop	stop_position
+node	6041675075	마포구청				37.5635299	126.9034141	stop	stop_position
+node	6041675080	월드컵경기장				37.5701483	126.8993318	stop	stop_position
+node	6041675084	디지털미디어시티				37.5761889	126.9014789	stop	stop_position
+node	6041675085	증산				37.5840984	126.9098930	stop	stop_position
+node	6041675090	새절	Saejeol			37.5922562	126.9139935	stop	stop_position
+node	6046633857	장암	Jangam			37.6999741	127.0529079	station	station
+node	6046633858	어린이대공원	Children's Grand Park			37.5475998	127.0743915	station	station
+node	6046633859	어린이대공원				37.5476281	127.0743859	stop	stop_position
+node	6046633860	어린이대공원				37.5476127	127.0744206	stop	stop_position
+node	6046633861	군자	Gunja			37.5572448	127.0795575	station	station
+node	6046633862	중곡	Junggok			37.5663055	127.0845155	station	station
+node	6046633863	용마산	Yongmasan			37.5739930	127.0865798	station	station
+node	6046633864	사가정	Sagajeong			37.5806971	127.0884106	station	station
+node	6046633865	면목	Myeonmok			37.5884004	127.0876041	station	station
+node	6046633866	상봉				37.5958368	127.0856306	stop	stop_position
+node	6046633867	상봉				37.5958471	127.0856809	stop	stop_position
+node	6046633868	상봉	Sangbong			37.5960832	127.0855918	station	station
+node	6046633869	중화	Junghwa			37.6016267	127.0795172	station	station
+node	6046633870	먹골	Meokgol			37.6114417	127.0776518	station	station
+node	6046633871	태릉입구	Taereung			37.6176924	127.0756723	station	station
+node	6046633872	태릉입구				37.6190359	127.0752112	stop	stop_position
+node	6046633873	태릉입구				37.6181175	127.0754565	stop	stop_position
+node	6046633874	공릉	Gongneung			37.6256358	127.0730437	station	station
+node	6046633875	하계	Hagye			37.6360179	127.0682520	station	station
+node	6046633876	중계	Junggye			37.6455373	127.0638733	station	station
+node	6046633877	노원	Nowon			37.6545911	127.0604932	station	station
+node	6046633878	노원				37.6535163	127.0607422	stop	stop_position
+node	6046633879	노원				37.6552991	127.0603526	stop	stop_position
+node	6046633880	마들	Madeul			37.6650380	127.0577205	station	station
+node	6046633881	수락산	Suraksan			37.6778345	127.0553345	station	station
+node	6046634585	건대입구	Konkuk Univ.			37.5418468	127.0715391	stop	stop_position
+node	6046634591	군자				37.5572135	127.0795532	stop	stop_position
+node	6046634592	중곡				37.5662833	127.0845264	stop	stop_position
+node	6046634606	용마산				37.5738707	127.0865278	stop	stop_position
+node	6046634612	사가정				37.5807213	127.0884395	stop	stop_position
+node	6046634639	면목				37.5883865	127.0875844	stop	stop_position
+node	6046634651	중화				37.6016344	127.0794892	stop	stop_position
+node	6046634652	먹골				37.6114415	127.0776257	stop	stop_position
+node	6046634656	공릉				37.6256159	127.0730247	stop	stop_position
+node	6046634660	하계				37.6359857	127.0682442	stop	stop_position
+node	6046634663	중계				37.6455340	127.0638919	stop	stop_position
+node	6046634670	마들				37.6663020	127.0574927	stop	stop_position
+node	6046634676	수락산				37.6787276	127.0553897	stop	stop_position
+node	6046634697	수락산				37.6770108	127.0552672	stop	stop_position
+node	6046634703	마들				37.6647424	127.0577568	stop	stop_position
+node	6046634707	하계				37.6359753	127.0682067	stop	stop_position
+node	6046634708	공릉				37.6256062	127.0729869	stop	stop_position
+node	6046634710	먹골				37.6114362	127.0775866	stop	stop_position
+node	6046634712	면목				37.5883794	127.0875458	stop	stop_position
+node	6046634739	사가정				37.5807153	127.0883912	stop	stop_position
+node	6046634750	중곡				37.5662958	127.0844900	stop	stop_position
+node	6046634756	건대입구	Konkuk Univ.			37.5401446	127.0707105	stop	stop_position
+node	6048953566	광명사거리	Gwangmyeongsageori			37.4794207	126.8544598	station	station
+node	6048953567	철산	Cheolsan			37.4760012	126.8675973	station	station
+node	6048953568	가산디지털단지	Gasan Digital Complex			37.4815947	126.8826166	station	station
+node	6048953569	남구로	Namguro			37.4853612	126.8866651	station	station
+node	6048953570	남구로				37.4853833	126.8867104	stop	stop_position
+node	6048953571	남구로				37.4854040	126.8866733	stop	stop_position
+node	6048953572	대림	Daerim			37.4934375	126.8949325	station	station
+node	6048953573	대림				37.4924891	126.8962822	stop	stop_position
+node	6048953574	대림				37.4925164	126.8962526	stop	stop_position
+node	6048953575	신풍	Sinpung			37.5001667	126.9088751	station	station
+node	6048953576	보라매	Boramae			37.4999284	126.9203764	station	station
+node	6048953577	신대방삼거리	Sindaebangsamgeori			37.4997060	126.9282246	station	station
+node	6048953578	장승배기	Jangseungbaegi			37.5050172	126.9392793	station	station
+node	6048953579	상도	Sangdo			37.5032160	126.9476726	station	station
+node	6048953580	숭실대입구	Soongsil Univ.			37.4956862	126.9541334	station	station
+node	6048953581	남성	Namseong			37.4843545	126.9718936	station	station
+node	6048953582	이수	Isu			37.4854491	126.9821095	station	station
+node	6048953583	내방	Naebang			37.4876455	126.9935544	station	station
+node	6048953584	반포	Banpo			37.5081748	127.0116346	station	station
+node	6048954785	논현	Nonhyeon			37.5109791	127.0213641	station	station
+node	6048954786	학동	Hak-dong			37.5139566	127.0307500	station	station
+node	6048954787	청담	Cheongdam			37.5190912	127.0516784	station	station
+node	6048954789	광명사거리				37.4792904	126.8548268	stop	stop_position
+node	6048954804	가산디지털단지				37.4807354	126.8839268	stop	stop_position
+node	6048954840	신풍				37.5001017	126.9089341	stop	stop_position
+node	6048954841	보라매				37.4998592	126.9207969	stop	stop_position
+node	6048954842	신대방삼거리				37.4996841	126.9282073	stop	stop_position
+node	6048954854	장승배기				37.5049630	126.9392209	stop	stop_position
+node	6048954880	상도				37.5031943	126.9476521	stop	stop_position
+node	6048954881	숭실대입구				37.4956356	126.9541013	stop	stop_position
+node	6048954899	남성				37.4843475	126.9718579	stop	stop_position
+node	6048954924	이수	Isu			37.4853029	126.9819680	stop	stop_position
+node	6048954933	내방	Naebang			37.4878519	126.9942642	stop	stop_position
+node	6048954955	고속터미널	Express Bus Terminal			37.5037859	127.0053256	stop	stop_position
+node	6048954968	반포				37.5081519	127.0116352	stop	stop_position
+node	6048954970	논현				37.5110966	127.0214889	stop	stop_position
+node	6048954971	학동				37.5139366	127.0307496	stop	stop_position
+node	6048954974	강남구청	Gangnam-gu Office			37.5171613	127.0413157	stop	stop_position
+node	6048954976	청담				37.5191392	127.0522962	stop	stop_position
+node	6048955086	광명사거리				37.4796210	126.8538115	stop	stop_position
+node	6048955110	신풍				37.5001548	126.9089367	stop	stop_position
+node	6048955111	보라매				37.4999833	126.9197810	stop	stop_position
+node	6048955112	신대방삼거리				37.4997200	126.9282087	stop	stop_position
+node	6048955124	장승배기				37.5049927	126.9391954	stop	stop_position
+node	6048955147	상도				37.5032145	126.9476896	stop	stop_position
+node	6048955148	숭실대입구				37.4956558	126.9541388	stop	stop_position
+node	6048955158	남성				37.4843794	126.9718787	stop	stop_position
+node	6048955183	이수	Isu			37.4853378	126.9819566	stop	stop_position
+node	6048955191	내방	Naebang			37.4872377	126.9921169	stop	stop_position
+node	6048955198	자양	Jayang			37.5315323	127.0667418	station	station
+node	6048955206	자양	Jayang			37.5322128	127.0670766	stop	stop_position
+node	6048955208	자양	Jayang			37.5308705	127.0664071	stop	stop_position
+node	6049150842	용두	Yongdu			37.5740737	127.0380657	station	station
+node	6049150843	신답	Sindap			37.5697194	127.0471268	station	station
+node	6049150853	용두				37.5740952	127.0376748	stop	stop_position
+node	6049150862	신답				37.5702008	127.0467385	stop	stop_position
+node	6050654942	상동				37.5058102	126.7531662	stop	stop_position
+node	6050654943	상동				37.5058462	126.7531662	stop	stop_position
+node	6050654944	부천시청				37.5047476	126.7631733	stop	stop_position
+node	6050654945	부천시청				37.5047828	126.7631827	stop	stop_position
+node	6050654946	굴포천	Gulpocheon			37.5070226	126.7313370	station	station
+node	6050654947	삼산체육관	Samsan Gymnasium			37.5064960	126.7423475	station	station
+node	6050654948	삼산체육관				37.5065175	126.7423065	stop	stop_position
+node	6050654949	신중동	Sinjung-dong			37.5030388	126.7762325	station	station
+node	6050654950	춘의	Chunui			37.5037314	126.7872014	station	station
+node	6050654951	부천종합운동장	Bucheon Stadium			37.5054566	126.7972885	station	station
+node	6050654952	까치울	Kkachiul			37.5062407	126.8113842	station	station
+node	6050654953	천왕	Cheonwang			37.4863668	126.8389218	station	station
+node	6050654954	굴포천				37.5070002	126.7313148	stop	stop_position
+node	6050654957	삼산체육관				37.5064731	126.7423027	stop	stop_position
+node	6050654971	신중동				37.5030240	126.7762111	stop	stop_position
+node	6050654977	춘의				37.5037087	126.7871873	stop	stop_position
+node	6050654978	부천종합운동장				37.5054304	126.7972636	stop	stop_position
+node	6050655790	까치울				37.5062206	126.8113698	stop	stop_position
+node	6050655811	온수	Onsu			37.4918163	126.8242977	stop	stop_position
+node	6050655826	천왕				37.4863375	126.8389106	stop	stop_position
+node	6050655840	부평구청	Bupyeong-gu Office			37.5075712	126.7198593	stop	stop_position
+node	6050655845	신중동				37.5030595	126.7762185	stop	stop_position
+node	6050655850	춘의				37.5037437	126.7871771	stop	stop_position
+node	6050655851	부천종합운동장				37.5054654	126.7972534	stop	stop_position
+node	6050655863	까치울				37.5062561	126.8113774	stop	stop_position
+node	6050655875	천왕				37.4863535	126.8389512	stop	stop_position
+node	6094326921	수진	Sujin			37.4374429	127.1406857	station	station
+node	6094326922	신흥	Sinheung			37.4410027	127.1476641	station	station
+node	6094326923	단대오거리	Dandaeogeori			37.4450845	127.1567783	station	station
+node	6094326924	남한산성입구	Namhansanseong			37.4515531	127.1598132	station	station
+node	6094326925	산성	Sanseong			37.4568677	127.1499333	station	station
+node	6094326926	남위례	Namwirye		Namwirye station	37.4627715	127.1392162	station	station
+node	6094326927	장지	Jangji			37.4788881	127.1260670	station	station
+node	6094326930	문정	Munjeong			37.4858358	127.1225184	station	station
+node	6094326939	송파	Songpa			37.4997247	127.1121822	station	station
+node	6094326940	석촌	Seokchon	Seokchon		37.5052954	127.1071105	station	station
+node	6094326941	몽촌토성	Mongchontoseong			37.5175329	127.1126700	station	station
+node	6094326942	강동구청	Gangdong-gu Office			37.5306942	127.1206234	station	station
+node	6094326943	암사	Amsa			37.5501059	127.1275385	station	station
+node	6094326966	산성	Sanseong			37.4568885	127.1499110	stop	stop_position
+node	6094326983	남한산성입구	Namhansanseong			37.4515707	127.1598521	stop	stop_position
+node	6094327288	단대오거리	Dandaeogeori			37.4450695	127.1567970	stop	stop_position
+node	6094327297	신흥	Sinheung			37.4409769	127.1476464	stop	stop_position
+node	6094327302	수진	Sujin			37.4374245	127.1406943	stop	stop_position
+node	6094327310	모란	Moran			37.4339945	127.1303279	stop	stop_position
+node	6094327315	남위례	Namwirye			37.4630565	127.1386686	stop	stop_position
+node	6094327328	복정	Bokjeong			37.4716458	127.1268484	stop	stop_position
+node	6094327337	장지	Jangji			37.4789084	127.1260841	stop	stop_position
+node	6094327338	문정	Munjeong			37.4858648	127.1225314	stop	stop_position
+node	6094327346	가락시장	Garak Market			37.4932082	127.1181900	stop	stop_position
+node	6094327349	송파	Songpa			37.4996444	127.1122928	stop	stop_position
+node	6094327350	석촌	Seokchon	Seokchon		37.5053278	127.1071344	stop	stop_position
+node	6094327359	잠실				37.5142761	127.1035451	stop	stop_position
+node	6094327361	몽촌토성	Mongchontoseong			37.5174716	127.1126879	stop	stop_position
+node	6094327368	강동구청	Gangdong-gu Office			37.5306708	127.1206472	stop	stop_position
+node	6094327372	천호	Cheonho			37.5380626	127.1232527	stop	stop_position
+node	6094327384	암사	Amsa			37.5506720	127.1278000	stop	stop_position
+node	6102706366	중앙보훈병원	VHS Medical Center			37.5282834	127.1482352	stop	stop_position
+node	6102706367	중앙보훈병원	VHS Medical Center			37.5282699	127.1482860	stop	stop_position
+node	6102706368	중앙보훈병원	VHS Medical Center			37.5282799	127.1482582	station	station
+node	6102706369	둔촌오륜				37.5198527	127.1383293	stop	stop_position
+node	6102706370	둔촌오륜				37.5198893	127.1383510	stop	stop_position
+node	6102706373	둔촌오륜	Dunchon Oryun			37.5198411	127.1384179	station	station
+node	6102706374	올림픽공원				37.5160799	127.1303019	stop	stop_position
+node	6102706375	올림픽공원				37.5161009	127.1302583	stop	stop_position
+node	6102706380	한성백제	Hanseong Baekje			37.5166702	127.1162125	station	station
+node	6102706785	송파나루	Songpanaru			37.5112450	127.1127954	station	station
+node	6102706788	석촌	Seokchon	Seokchon		37.5050452	127.1068567	stop	stop_position
+node	6102706789	석촌	Seokchon	Seokchon		37.5050813	127.1068336	stop	stop_position
+node	6102706795	석촌고분	Seokchon Gobun			37.5024441	127.0966143	station	station
+node	6102706802	삼전	Samjeon			37.5045347	127.0872078	station	station
+node	6102706816	석촌고분				37.5024170	127.0965651	stop	stop_position
+node	6102706837	한성백제				37.5167113	127.1162809	stop	stop_position
+node	6102706910	한성백제				37.5167383	127.1162420	stop	stop_position
+node	6102706931	석촌고분				37.5024574	127.0965654	stop	stop_position
+node	6117347089	송파나루				37.5112303	127.1128828	stop	stop_position
+node	6117347090	송파나루				37.5113023	127.1127297	stop	stop_position
+node	6117347091	중앙보훈병원	VHS Medical Center			37.5282982	127.1481886	stop	stop_position
+node	6117347092	삼전				37.5044780	127.0871856	stop	stop_position
+node	6117347093	삼전				37.5045876	127.0872330	stop	stop_position
+node	6122528127	부평구청	Bupyeong-gu Office			37.5074652	126.7211040	station	station
+node	6125828716	백석	Baekseok			37.6430359	126.7880378	station	station
+node	6152750623	성복	Seongbok			37.3134135	127.0803106	stop	stop_position
+node	6185441876	산곡	Sangok			37.5086974	126.7036926	station	station
+node	6185441877	산곡	Sangok			37.5085533	126.7036769	stop	stop_position
+node	6185441878	산곡	Sangok			37.5086158	126.7036796	stop	stop_position
+node	6264104129	광교중앙	Gwanggyo Jungang			37.2885618	127.0515194	station	station
+node	6269598428	상현	Sanghyeon			37.2975826	127.0693020	station	station
+node	6269662492	성복	Seongbok			37.3134999	127.0803769	station	station
+node	6269743766	수지구청	Suji-gu Office			37.3225368	127.0947549	station	station
+node	6269743768	수지구청	Suji-gu Office			37.3224903	127.0947567	stop	stop_position
+node	6271625486	역곡	Yeokgok			37.4852186	126.8118113	station	station
+node	6271638115	광교	Gwanggyo			37.3021094	127.0442808	station	station
+node	6271708692	동천	Dongcheon			37.3380980	127.1028283	station	station
+node	6312484223	오리	Ori			37.3399397	127.1089098	station	station
+node	6312484224	수내	Sunae			37.3784062	127.1142451	station	station
+node	6312484225	서현	Seohyeon			37.3849098	127.1233331	station	station
+node	6312484226	야탑	Yatap			37.4112976	127.1287143	station	station
+node	6312484227	태평	Taepyeong			37.4397089	127.1277447	station	station
+node	6312484228	가천대	Gachon Univ.			37.4486992	127.1267248	station	station
+node	6312484229	대모산입구	Daemosan			37.4913890	127.0727494	station	station
+node	6312484230	개포동	Gaepo-dong			37.4891009	127.0660428	station	station
+node	6312484231	구룡	Guryong			37.4869265	127.0594609	station	station
+node	6312484232	한티	Hanti			37.4962709	127.0528661	station	station
+node	6312484233	압구정로데오	Apgujeong Rodeo			37.5278128	127.0407094	station	station
+node	6312484234	서울숲	Seoul-forest			37.5435916	127.0447397	station	station
+node	6312484243	미금	Migeum			37.3499987	127.1090211	stop	stop_position
+node	6312484248	오리	Ori			37.3395228	127.1089708	stop	stop_position
+node	6312484284	압구정로데오	Apgujungrodeo			37.5278095	127.0407302	stop	stop_position
+node	6312484691	강남구청	Gangnam-gu Office			37.5167874	127.0414625	stop	stop_position
+node	6312484692	선정릉	Seonjeongneung			37.5106840	127.0437422	stop	stop_position
+node	6312484705	선릉	Seolleung			37.5045872	127.0490134	stop	stop_position
+node	6312484707	한티	Hanti			37.4962880	127.0528888	stop	stop_position
+node	6312484708	도곡	Dogok			37.4906191	127.0555009	stop	stop_position
+node	6312484721	구룡	Guryong			37.4869490	127.0594678	stop	stop_position
+node	6312484730	개포동	Gaepo-dong			37.4891184	127.0660366	stop	stop_position
+node	6312484735	대모산입구	Daemosan			37.4914098	127.0727398	stop	stop_position
+node	6312484760	복정	Bokjeong			37.4701492	127.1267445	stop	stop_position
+node	6312484768	가천대	Gachon Univ.			37.4486985	127.1267480	stop	stop_position
+node	6312484770	태평	Taepyeong			37.4397127	127.1277696	stop	stop_position
+node	6312484772	모란	Moran			37.4321817	127.1291124	stop	stop_position
+node	6312484888	야탑	Yatap			37.4112825	127.1287390	stop	stop_position
+node	6312484908	이매	Imae			37.3952555	127.1282725	stop	stop_position
+node	6312484921	서현	Seohyeon			37.3848959	127.1233499	stop	stop_position
+node	6312484922	수내	Sunae			37.3783898	127.1142619	stop	stop_position
+node	6312484934	정자	Jeongja			37.3661802	127.1081423	stop	stop_position
+node	6312484935	개포동	Gaepo-dong			37.4890796	127.0660515	stop	stop_position
+node	6312484936	한티	Hanti			37.4962740	127.0528411	stop	stop_position
+node	6312484938	강남구청	Gangnam-gu Office			37.5167764	127.0414135	stop	stop_position
+node	6312484944	압구정로데오	Apgujungrodeo			37.5278201	127.0406811	stop	stop_position
+node	6312484954	서울숲	Seoul-forest			37.5436119	127.0447677	stop	stop_position
+node	6586939086	한대앞	Hanyang University at Ansan			37.3097347	126.8536143	station	station
+node	6641198799	보정	Bojeong			37.3125962	127.1083440	station	station
+node	6641198807	양재시민의숲	Yangjae Citizen's Forest			37.4697097	127.0384772	station	station
+node	6641198808	청계산입구	Cheonggyesan			37.4483106	127.0546427	station	station
+node	6734894972	성신여대입구	Sungshin Women's University	Seongsinyeodaeipguyeok		37.5926755	127.0164764	station	station
+node	6742527213	서울역	Seoul Station			37.5541027	126.9698533	stop	stop_position
+node	6923835563	고잔	Gojan			37.3168514	126.8231007	station	station
+node	7106108484	미아	Mia			37.6254296	127.0264909	stop	stop_position
+node	7121505500	의정부	Uijeongbu			37.7366367	127.0464268	stop	stop_position
+node	7171445626	충무로				37.5619720	126.9935474	stop	stop_position
+node	7176735174	청량리	Cheongnyangni		Cheongnyangni station	37.5799754	127.0446284	station	station
+node	7185807400	신내	Sinnae			37.6124026	127.1046462	stop	stop_position
+node	7186344001	신내	Sinnae			37.6125508	127.1040904	station	station
+node	7192331280	금천구청	Geumcheon-gu Office			37.4546971	126.8944204	stop	stop_position
+node	7207442616	종로3가	Jongno 3(sam)-ga			37.5704405	126.9923242	station	station
+node	7221579202	구로	Guro			37.5032555	126.8824805	stop	stop_position
+node	7221602784	신설동	Sinseol-dong			37.5759931	127.0231865	station	station
+node	7227044235	주안	Juan			37.4651527	126.6790276	station	station
+node	7238452667	성신여대입구	Sungshin Women's University	Seongsinyeodaeipguyeok		37.5924189	127.0165294	station	station
+node	7238508817	이촌	Ichon			37.5227123	126.9733678	station	station
+node	7249447663	송추	Songchu			37.7207922	126.9794074	station	station
+node	7252470162	초지	Choji			37.3206177	126.8061208	station	station
+node	7265480502	진접	Jinjeop			37.7200538	127.2032505	station	station
+node	7265480503	오남	Onam			37.7052338	127.1911664	station	station
+node	7265480504	별내별가람	Byeollaebyeolgaram			37.6678242	127.1162693	station	station
+node	7271361461	청량리				37.5808603	127.0479196	stop	stop_position
+node	7271361462	죽전	Jukjeon			37.3245643	127.1075635	stop	stop_position
+node	7287842392	논현	Nonhyeon			37.5099469	127.0218958	stop	stop_position
+node	7287965104	보정	Bojeong			37.3123537	127.1083504	stop	stop_position
+node	7287965130	구성				37.2990209	127.1057172	stop	stop_position
+node	7287965131	구성				37.2990235	127.1057833	stop	stop_position
+node	7287965143	신갈				37.2861160	127.1113353	stop	stop_position
+node	7287965144	신갈				37.2861829	127.1114081	stop	stop_position
+node	7287965160	기흥	Giheung			37.2755112	127.1160397	stop	stop_position
+node	7287965173	상갈				37.2616481	127.1089132	stop	stop_position
+node	7287965175	상갈				37.2617522	127.1088684	stop	stop_position
+node	7287966289	청명				37.2599984	127.0794894	stop	stop_position
+node	7287966290	청명				37.2599671	127.0795655	stop	stop_position
+node	7287966294	영통				37.2513378	127.0713229	stop	stop_position
+node	7287966296	영통				37.2513838	127.0712437	stop	stop_position
+node	7287966302	망포				37.2456440	127.0570027	stop	stop_position
+node	7287966303	망포				37.2455829	127.0570030	stop	stop_position
+node	7287966313	매탄권선				37.2530511	127.0404781	stop	stop_position
+node	7287966314	매탄권선				37.2530129	127.0404191	stop	stop_position
+node	7287966323	수원시청	Suwon City Hall			37.2617563	127.0319033	stop	stop_position
+node	7287966324	수원시청				37.2617204	127.0318902	stop	stop_position
+node	7287966330	매교				37.2655001	127.0157079	stop	stop_position
+node	7287966331	매교				37.2654534	127.0157180	stop	stop_position
+node	7287966347	수원	Suwon			37.2662775	127.0004098	station	station
+node	7287966349	수원	Suwon			37.2658117	126.9993051	stop	stop_position
+node	7308844560	청량리	Cheongnyangni (University of Seoul)			37.5806105	127.0461638	stop	stop_position
+node	7308844561	청량리	Cheongnyangni (University of Seoul)			37.5795811	127.0436230	stop	stop_position
+node	7311094051	양주	Yangju			37.7749565	127.0446725	stop	stop_position
+node	7366159431	한성대입구	Hansung Univ. (Samseongyo)			37.5889938	127.0074197	stop	stop_position
+node	7366159452	서울역	Seoul Station			37.5525760	126.9724492	stop	stop_position
+node	7366159470	대공원	Seoul Grand park			37.4363689	127.0069281	stop	stop_position
+node	7368810705	서울역	Seoul Station	Seoulyeok		37.5534363	126.9697994	station	station
+node	7394341197	장흥	Jangheung			37.7186862	126.9416098	station	station
+node	7394341200	원릉	Wolleung			37.6626396	126.8399564	station	station
+node	7611776393	제기동	Jegidong			37.5783087	127.0335456	stop	stop_position
+node	7611776411	제기동	Jegidong			37.5782630	127.0359108	stop	stop_position
+node	7625848017	수원	Suwon			37.2660976	126.9997770	stop	stop_position
+node	7632207771	동탄	Dongtan			37.2022854	127.0952596	stop	stop_position
+node	7637880029	수서	Suseo			37.4839014	127.1051760	stop	stop_position
+node	7637880030	수서	Suseo	Suseo	SR Suseo	37.4850990	127.1046888	station	station
+node	7684673162	용산	Yongsan			37.5298447	126.9641833	stop	stop_position
+node	7746266267	왕십리	Wangsimni			37.5619631	127.0385151	stop	stop_position
+node	7746266277	수서	Suseo			37.4871034	127.1018995	stop	stop_position
+node	7777463060	의정부	Uijeongbu			37.7377035	127.0460501	station	station
+node	7783726043	한대앞	Hanyang University at Ansan			37.3090697	126.8544664	stop	stop_position
+node	7797861988	미사				37.5629465	127.1928227	stop	stop_position
+node	7797861989	미사	Misa			37.5630546	127.1928220	station	station
+node	7798230510	하남풍산				37.5528048	127.2043263	stop	stop_position
+node	7798230511	하남풍산				37.5528169	127.2043013	stop	stop_position
+node	7836784986	의왕레일파크 정차장				37.3099455	126.9444513	stop	stop_position
+node	7836785565	의왕레일파크 탑승장	Uiwang Rail Park RailBike Platform			37.3087490	126.9507791	stop	stop_position
+node	7856245647	건대입구	Konkuk Univ.			37.5403626	127.0693840	station	station
+node	7863473544	야목	Yamok			37.2616308	126.8833633	stop	stop_position
+node	7863473571	사리	Sari			37.2901965	126.8570268	stop	stop_position
+node	7864301049	오목천	Omokcheon			37.2431034	126.9634832	stop	stop_position
+node	7872218729	사리	Sari			37.2915384	126.8573725	stop	stop_position
+node	7872218757	야목	Yamok			37.2607597	126.8847704	stop	stop_position
+node	7872218776	어천	Eocheon			37.2503749	126.9081819	stop	stop_position
+node	7872218777	어천	Eocheon			37.2498152	126.9098225	stop	stop_position
+node	7872228248	오목천	Omokcheon			37.2438280	126.9645434	stop	stop_position
+node	7872228249	고색	Gosaek			37.2500046	126.9812687	stop	stop_position
+node	7872228250	고색	Gosaek			37.2494292	126.9796874	stop	stop_position
+node	7872228251	고색	Gosaek			37.2498322	126.9803937	stop	stop_position
+node	7872228252	고색	Gosaek			37.2495660	126.9804883	stop	stop_position
+node	7880645334	과천정보타운	Gwacheon Information Town			37.4124047	126.9795528	construction	stop_position
+node	7880645335	과천정보타운	Gwacheon Information Town			37.4123960	126.9796074	construction	stop_position
+node	7902422674	원인재	Woninjae			37.4131241	126.6865914	station	station
+node	7902428189	인천	Incheon			37.4765694	126.6173655	station	station
+node	7902543836	인천	Incheon			37.4758745	126.6173982	stop	stop_position
+node	7902605714	죽전	Jukjeon			37.3245703	127.1072639	stop	stop_position
+node	7908597444	선정릉	Seonjeongneung			37.5106680	127.0436952	stop	stop_position
+node	7908597445	선정릉	Seonjeongneung			37.5107312	127.0436945	station	station
+node	7908597447	선릉	Seolleung			37.5051756	127.0487082	station	station
+node	7908597448	강남구청	Gangnam-gu Office			37.5168120	127.0414244	station	station
+node	7908597451	도곡	Dogok			37.4906350	127.0554730	station	station
+node	7908597454	수서	Suseo	Suseo		37.4876577	127.1011515	station	station
+node	7908597456	복정	Bokjeong			37.4709160	127.1267307	station	station
+node	7908597457	모란	Moran			37.4322241	127.1290831	station	station
+node	7908597459	이매	Imae			37.3953023	127.1282395	station	station
+node	7908597461	정자	Jeongja			37.3662340	127.1081139	station	station
+node	7908597462	미금	Migeum			37.3500225	127.1089985	station	station
+node	7916699664	왕십리	Wangsimni		Wangsimni (Seongdong-gu Office)	37.5612078	127.0371526	station	station
+node	7916699665	왕십리	Wangsimni		Wangsimni (Seongdong-gu Office)	37.5618270	127.0369249	station	station
+node	7928028369	신길온천	Singiloncheon			37.3373656	126.7673266		stop_position
+node	7928028370	신길온천	Singiloncheon			37.3375506	126.7675139		stop_position
+node	7933863142	학익	Hagik			37.4397554	126.6488869	construction	stop_position
+node	7933863143	학익	Hagik			37.4379005	126.6483599	construction	stop_position
+node	8043775076	신설동	Sinseol-dong			37.5749896	127.0244312	stop	stop_position
+node	8043801405	신설동	Sinseol-dong			37.5745192	127.0254473	station	station
+node	8049297383	신설동	Sinseol-dong			37.5740982	127.0263347	stop	stop_position
+node	8095249961	가정	Gajeong			37.5247194	126.6753212	station	station
+node	8111056262	창동	Chang-Dong			37.6531817	127.0476987	station	station
+node	8145379643	동작	Dongjak			37.5031081	126.9803481	station	station
+node	8154378596	온수	Onsu			37.4925674	126.8221638	stop	stop_position
+node	8232932947	개화	Gaehwa			37.5785381	126.7976654	station	station
+node	8233698788	상봉	Sangbong			37.5970314	127.0856555	station	station
+node	8236203295	국제업무지구	International Business District			37.3997664	126.6305042	stop	stop_position
+node	8236203298	송도달빛축제공원	Songdo Moonlight Festival Park			37.4067870	126.6260503	stop	stop_position
+node	8236203299	송도달빛축제공원	Songdo Moonlight Festival Park			37.4068054	126.6261064	station	station
+node	8239410961	소사	Sosa			37.4829985	126.7950167	station	station
+node	8239424020	부천종합운동장				37.5055909	126.7974602	stop	stop_position
+node	8298678455	석남	Seongnam(Geobuk Market)			37.5072835	126.6762126	station	station
+node	8298678456	석남	Seongnam			37.5062862	126.6746369	station	station
+node	8308318738	판교	Pangyo			37.3947237	127.1115312	station	station
+node	8334213085	행신				37.6119930	126.8341887	stop	stop_position
+node	8334213086	행신				37.6122614	126.8341932	stop	stop_position
+node	8334213088	행신				37.6121004	126.8341835	stop	stop_position
+node	8334213090	행신				37.6121468	126.8341827	stop	stop_position
+node	8334213103	능곡				37.6193550	126.8197461	stop	stop_position
+node	8334213104	능곡				37.6194736	126.8198187	stop	stop_position
+node	8334213106	능곡				37.6184109	126.8211962	stop	stop_position
+node	8334234978	주엽	Juyeop			37.6701524	126.7612377	station	station
+node	8337914284	잠실	Jamsil(Songpa-gu Office)			37.5136906	127.1016671	stop	stop_position
+node	8366825549	서울	Seoul			37.5519218	126.9703010	stop	stop_position
+node	8390030398	센트럴파크	Central Park			37.3935066	126.6345613	station	station
+node	8390030399	인천대입구	Incheon National University			37.3861160	126.6394474	station	station
+node	8390030400	지식정보단지	BIT Zone			37.3774709	126.6459230	station	station
+node	8390030401	테크노파크	Technopark			37.3823022	126.6562543	station	station
+node	8390030402	캠퍼스타운	Campus Town			37.3881737	126.6618928	station	station
+node	8390030403	동막	Dongmak			37.3986231	126.6735412	station	station
+node	8390030404	동춘	Dongchun			37.4048204	126.6802706	station	station
+node	8390030405	신연수	Sinyeonsu			37.4180647	126.6939309	station	station
+node	8390030408	선학	Seonhak			37.4272405	126.6989894	station	station
+node	8390030409	문학경기장	Munhak Sports Complex			37.4351045	126.6977955	station	station
+node	8390030410	인천터미널	Incheon Bus Terminal			37.4419457	126.6997157	station	station
+node	8390030411	예술회관	Arts Center			37.4495060	126.7009761	station	station
+node	8390030413	간석오거리	Ganseogogeori			37.4671553	126.7079494	station	station
+node	8390030414	부평삼거리	Bupyeongsamgeori			37.4779093	126.7103571	station	station
+node	8390030415	동수	Dongsu			37.4854218	126.7185419	station	station
+node	8390030416	부평	Bupyeong			37.4899854	126.7237346	station	station
+node	8390080117	부평시장	Bupyeong Market	Bupyeongsijang		37.4983678	126.7222890	station	station
+node	8390080118	부평구청	Bupyeong-gu Office			37.5082283	126.7205539	station	station
+node	8390080120	갈산	Galsan			37.5168126	126.7215178	station	station
+node	8390080121	작전	Jakjeon			37.5303129	126.7225307	station	station
+node	8390080122	경인교대입구	Gyeongin Nat'l Univ. of Education	Gyeongingyodaeipgu		37.5384076	126.7226027	station	station
+node	8390080123	계산	Gyesan			37.5433360	126.7278571	station	station
+node	8390160495	청량리				37.5807488	127.0480007	stop	stop_position
+node	8390160499	청량리				37.5806416	127.0482186	stop	stop_position
+node	8390160500	청량리				37.5806700	127.0481704	stop	stop_position
+node	8401534566	관악산	Gwanaksan			37.4687357	126.9453280	station	station
+node	8401534568	서울대벤처타운	Seoul Nat'l Univ. Venture Town			37.4720025	126.9337059	station	station
+node	8401534570	신림	Sillim			37.4846585	126.9296105	station	station
+node	8401534571	당곡	Danggok			37.4896958	126.9278008	station	station
+node	8401534572	보라매병원	Boramae Medical Center			37.4929641	126.9242732	station	station
+node	8401534573	보라매공원	Boramae Park			37.4952932	126.9181903	station	station
+node	8401534574	보라매	Boramae			37.5002811	126.9204736	station	station
+node	8401534575	서울지방병무청	Seoul Regional Office of Military Manpower			37.5059628	126.9227236	station	station
+node	8401534576	대방	Daebang	Daebang		37.5125806	126.9251737	station	station
+node	8401534578	샛강	Saetgang			37.5173620	126.9282820	station	station
+node	8401534582	샛강	Saetgang			37.5173674	126.9294177	station	station
+node	8414031473	시청	City Hall			37.5647767	126.9771453	stop	stop_position
+node	8414031491	서울역	Seoul Station			37.5548238	126.9722165	stop	stop_position
+node	8445537827	암사역사공원	Amsa History Park			37.5568968	127.1365133	stop	stop_position
+node	8445537832	암사역사공원	Amsa History Park			37.5572151	127.1381076	stop	stop_position
+node	8445537864	장자호수공원	Jangja Lake Park			37.5879813	127.1379713	stop	stop_position
+node	8445537865	장자호수공원	Jangja Lake Park			37.5864905	127.1378478	stop	stop_position
+node	8445537897	구리	Guri			37.6031091	127.1405543	stop	stop_position
+node	8445537910	동구릉	Donggureung			37.6117617	127.1380265	stop	stop_position
+node	8445537951	다산	Dasan			37.6248928	127.1499292	stop	stop_position
+node	8566458080	강일	Gangil			37.5574904	127.1761414	stop	stop_position
+node	8566458081	강일	Gangil			37.5575854	127.1760948	stop	stop_position
+node	8566458089	하남시청	Hanam City Hall (Deokpung·Sinjang)			37.5416948	127.2070277	stop	stop_position
+node	8566458090	하남시청	Hanam City Hall (Deokpung·Sinjang)			37.5416107	127.2069843	stop	stop_position
+node	8566458091	하남검단산	Hanam Geomdansan			37.5397123	127.2237049	stop	stop_position
+node	8566458092	하남검단산	Hanam Geomdansan			37.5396413	127.2236752	stop	stop_position
+node	8566518413	상일동	Sangil-dong			37.5567583	127.1665095	stop	stop_position
+node	8574527311	서울역	Seoul Station			37.5554175	126.9725862	station	station
+node	8675959918	서울역	Seoul Station			37.5572483	126.9726683	stop	stop_position
+node	8724752444	디지털미디어시티	Digital Media City			37.5773957	126.8980769	station	station
+node	8724752445	디지털미디어시티	Digital Media City			37.5761895	126.9014558	station	station
+node	8754538368	석남	Seongnam			37.5063954	126.6731764	stop	stop_position
+node	8754538369	석남	Seongnam			37.5062433	126.6753982	stop	stop_position
+node	8761155422	철산	Cheolsan			37.4760589	126.8677626	stop	stop_position
+node	8761155423	철산	Cheolsan			37.4760231	126.8677708	stop	stop_position
+node	8778625272	부평구청	Bupyeong-gu Office			37.5074060	126.7220549	stop	stop_position
+node	8778625274	노원	Nowon			37.6563651	127.0634799	station	station
+node	8793714494	양재	Yangjae		Yangjae(Seocho-gu Office)	37.4837051	127.0348488	station	station
+node	8793714495	강남	Gangnam			37.4964624	127.0282667	station	station
+node	8808822187	강남	Gangnam	Gangnam		37.4971120	127.0279352	stop	stop_position
+node	8808822195	신사	Sinsa			37.5157279	127.0195885	stop	stop_position
+node	8808844423	광교	Gwanggyo			37.3018722	127.0447584	stop	stop_position
+node	8808844447	광교중앙	Gwanggyo Jungang			37.2885736	127.0515353	stop	stop_position
+node	8808844470	상현	Sanghyeon			37.2974440	127.0692388	stop	stop_position
+node	8808844487	성복	Seongbok			37.3134512	127.0802535	stop	stop_position
+node	8808844497	수지구청	Suji-gu Office			37.3225412	127.0946848	stop	stop_position
+node	8808844505	동천	Dongcheon			37.3378779	127.1027711	stop	stop_position
+node	8808844528	미금	Migeum			37.3499864	127.1088739	stop	stop_position
+node	8808844566	판교	Pangyo			37.3943545	127.1111220	stop	stop_position
+node	8808844594	청계산입구	Cheonggyesan			37.4483389	127.0545160	stop	stop_position
+node	8808844611	양재시민의숲	Yangjae Citizen's Forest			37.4701280	127.0382719	stop	stop_position
+node	8808844621	양재	Yangjae	Yangjae		37.4837582	127.0346389	stop	stop_position
+node	8808844625	정자	Jeongja			37.3673697	127.1084068	stop	stop_position
+node	8822741689	당산	Dangsan	Dangsan		37.5335310	126.9026845	station	station
+node	8822741690	당산	Dangsan			37.5329103	126.9037755	stop	stop_position
+node	8829280690	서울역	Seoul (Station)	Seoulyeok		37.5560719	126.9723599	station	station
+node	8829295765	신길	Singil			37.5175077	126.9163515	station	station
+node	8829295766	가산디지털단지	Gasan Digital Complex			37.4804538	126.8828796	station	station
+node	8938271010	구일	Guil			37.4965661	126.8704059	stop	stop_position
+node	9113069823	행신				37.6115788	126.8363769	stop	stop_position
+node	9113069824	행신				37.6114880	126.8363663	stop	stop_position
+node	9165988119	상계	Sanggye			37.6607649	127.0734390	station	station
+node	9181579787	국회의사당	National Assembly			37.5274368	126.9184254	stop	stop_position
+node	9181579788	선유도	Seonyudo			37.5378593	126.8939823	station	station
+node	9181579789	신목동	Sinmokdong			37.5442110	126.8831758	station	station
+node	9181579790	염창	Yeomchang			37.5470335	126.8753972	station	station
+node	9181579791	등촌	Deungchon			37.5511518	126.8645740	station	station
+node	9181579792	증미	Jeungmi			37.5575102	126.8618185	station	station
+node	9181579793	가양	Gayang			37.5611423	126.8550997	station	station
+node	9181579794	양천향교	Yangcheon Hyanggyo			37.5684524	126.8412958	station	station
+node	9181579795	신방화	Sinbanghwa			37.5674973	126.8165921	station	station
+node	9181579796	공항시장	Airport Market			37.5636577	126.8106016	station	station
+node	9289420441	대곡				37.6325405	126.8093249	stop	stop_position
+node	9289420442	대곡				37.6313327	126.8103746	stop	stop_position
+node	9329285724	수락산				37.6777050	127.0554694	stop	stop_position
+node	9339990631	온수	Onsu			37.4921983	126.8232005	stop	stop_position
+node	9357694433	사당	Sadang			37.4762635	126.9815846	stop	stop_position
+node	9357694467	남태령	Namtaeryeong			37.4661126	126.9881194	stop	stop_position
+node	9357694474	남태령	Namtaeryeong			37.4639720	126.9889176	stop	stop_position
+node	9417728884	부천종합운동장	Bucheon Stadium			37.5058364	126.7974606	station	station
+node	9417728897	원종	Wonjong			37.5238457	126.8048614	station	station
+node	9420130583	총신대입구(이수)	Chongshin Univ. (Isu)			37.4867800	126.9822371	station	station
+node	9432422061	구일	Guil			37.4956171	126.8685704	stop	stop_position
+node	9432422062	용산	Yongsan			37.5300605	126.9641245	stop	stop_position
+node	9432422063	용산	Yongsan			37.5300937	126.9639028	stop	stop_position
+node	9454775466	동묘앞	Dongmyo			37.5723419	127.0156590	station	station
+node	9454775467	동대문	Dongdaemun			37.5704964	127.0095288	station	station
+node	9454775468	종로3가	Jongno 3(sam)-ga			37.5725401	126.9902702	station	station
+node	9454775469	종로3가	Jongno 3(sam)-ga			37.5714989	126.9919062	station	station
+node	9459739598	정릉	Jeongneung			37.6028286	127.0133551	station	station
+node	9459739609	솔샘	Solsaem			37.6201661	127.0138408	station	station
+node	9459739612	삼양사거리	Samyang Sageori			37.6211991	127.0204924	station	station
+node	9459739614	삼양	Samyang			37.6269234	127.0181757	station	station
+node	9459739616	화계	Hwagye			37.6340274	127.0174887	station	station
+node	9459739618	가오리	Gaori			37.6419736	127.0165705	station	station
+node	9459739623	4.19민주묘지	April 19th National Cemetery			37.6493408	127.0136861	station	station
+node	9459739626	솔밭공원	Solbat Park			37.6560698	127.0132485	station	station
+node	9459739627	북한산우이	Bukhansan Ui			37.6633242	127.0124123	station	station
+node	9459739654	보문	Bomun			37.5850289	127.0195135	station	station
+node	9461950029	강남대	Kangnam Univ.			37.2701593	127.1261278	station	station
+node	9461950032	지석	Jiseok	Jiseokyeok		37.2697513	127.1366332	station	station
+node	9461950034	어정	Eojeong	Eojeongyeok		37.2749325	127.1437238	station	station
+node	9461950036	동백	Dongback	Dongbackyeok		37.2690162	127.1527693	station	station
+node	9461950038	초당	Chodang	Chodangyeok		37.2607995	127.1595469	station	station
+node	9461950040	삼가	Samga	Samgayeok		37.2421427	127.1682829	station	station
+node	9461950042	시청.용인대	City hall.Yongin Univ.	Samgayeok		37.2393269	127.1788598	station	station
+node	9461950044	명지대	Myongji University			37.2379656	127.1903475	station	station
+node	9461950047	김량장	Gimnyangjang	Gimnyangjangyeok		37.2372470	127.1986414	station	station
+node	9461950049	용인중앙시장	Stadium Complex·Songdam College			37.2377940	127.2090771	station	station
+node	9461950051	고진	Gojin	Gojinyeok		37.2445235	127.2142066	station	station
+node	9461950053	보평	Bopyeong	Bopyeongyeok		37.2588835	127.2185139	station	station
+node	9461950055	둔전	Dunjeon	Dunjeonyeok		37.2671872	127.2136858	station	station
+node	9467463479	시청	City Hall			37.5633295	126.9747869	station	station
+node	9482998435	기흥	Giheung			37.2754448	127.1167510	station	station
+node	9482998436	샛강	Saetgang			37.5172824	126.9283959	stop	stop_position
+node	9485597747	노량진	Noryangjin			37.5136137	126.9415727	station	station
+node	9488586381	수원	Suwon			37.2660705	126.9997262	stop	stop_position
+node	9494878237	서울	Seoul			37.5534627	126.9708802	stop	stop_position
+node	9494878238	서울	Seoul			37.5530992	126.9714381	stop	stop_position
+node	9495056122	용산	Yongsan			37.5298179	126.9642080	stop	stop_position
+node	9502465164	안양	Anyang			37.4014706	126.9230421	stop	stop_position
+node	9502465165	안양	Anyang			37.4026513	126.9220393	stop	stop_position
+node	9528946050	월미공원	Wolmi Park			37.4763533	126.6061084	station	station
+node	9589229142	별내별가람	Byeollaebyeolgaram			37.6674983	127.1154226	stop	stop_position
+node	9589229143	별내별가람	Byeollaebyeolgaram			37.6680941	127.1169523	stop	stop_position
+node	9589229144	오남	Onam			37.7046812	127.1898159	stop	stop_position
+node	9589229145	오남	Onam			37.7057341	127.1923455	stop	stop_position
+node	9589229146	진접	Jinjeop			37.7212032	127.2031634	stop	stop_position
+node	9589229147	진접	Jinjeop			37.7188676	127.2033137	stop	stop_position
+node	9680035107	박촌	Bakchon			37.5536398	126.7450242	stop	stop_position
+node	9680054222	임학	Imhak			37.5451731	126.7386823	stop	stop_position
+node	9680054235	계산	Gyesan			37.5433868	126.7278899	stop	stop_position
+node	9680054245	경인교대입구	Gyeongin Nat'l Univ. of Education			37.5384255	126.7225345	stop	stop_position
+node	9680054253	작전	Jakjeon			37.5303134	126.7224693	stop	stop_position
+node	9680054260	갈산	Galsan			37.5167129	126.7214337	stop	stop_position
+node	9680054269	부평구청	Bupyeong-gu Office			37.5081013	126.7204968	stop	stop_position
+node	9680054273	부평시장	Bupyeong Market			37.4983690	126.7222192	stop	stop_position
+node	9680054292	부평	Bupyeong			37.4899649	126.7237000	stop	stop_position
+node	9680054295	동수	Dongsu			37.4854963	126.7184187	stop	stop_position
+node	9680054313	부평삼거리	Bupyeongsamgeori			37.4778965	126.7102052	stop	stop_position
+node	9680054325	간석오거리	Ganseogogeori			37.4673373	126.7078370	stop	stop_position
+node	9680054353	인천시청	Incheon City Hall			37.4579344	126.7021275	stop	stop_position
+node	9680054364	예술회관	Arts Center			37.4500621	126.7010310	stop	stop_position
+node	9680054373	인천터미널	Incheon Bus Terminal			37.4419055	126.6996538	stop	stop_position
+node	9680054385	문학경기장	Munhak Sports Complex			37.4348643	126.6977716	stop	stop_position
+node	9680054396	선학	Seonhak			37.4271460	126.6989001	stop	stop_position
+node	9680054399	신연수	Sinyeonsu			37.4180230	126.6938361	stop	stop_position
+node	9680054406	원인재	Woninjae			37.4125366	126.6880382	stop	stop_position
+node	9680054412	동춘	Dongchun			37.4046129	126.6805762	stop	stop_position
+node	9680054413	동막	Dongmak			37.3983933	126.6738092	stop	stop_position
+node	9680054421	캠퍼스타운	Campus Town			37.3879193	126.6615323	stop	stop_position
+node	9680054430	테크노파크	Technopark			37.3820801	126.6558454	stop	stop_position
+node	9680054443	지식정보단지	BIT Zone			37.3780649	126.6456102	stop	stop_position
+node	9680054447	인천대입구	Incheon National University			37.3860781	126.6396820	stop	stop_position
+node	9680054451	센트럴파크	Central Park			37.3934462	126.6347144	stop	stop_position
+node	9680054453	국제업무지구	International Business District			37.3998563	126.6306247	stop	stop_position
+node	9680054460	송도달빛축제공원	Songdo Moonlight Festival Park			37.4068352	126.6261470	stop	stop_position
+node	9687706173	검단오류	Geomdan Oryu			37.5949865	126.6279299	station	station
+node	9687706211	왕길	Wanggil			37.5951775	126.6423769	station	station
+node	9687738050	검단사거리	Geomdan Sageori			37.6018213	126.6567336	station	station
+node	9687738066	마전	Majeon			37.5975663	126.6672467	station	station
+node	9687738079	완정	Wanjeong			37.5928725	126.6728745	station	station
+node	9687738091	독정	Dokjeong			37.5848634	126.6759581	station	station
+node	9687738113	검암	Geomam			37.5687490	126.6755711	station	station
+node	9687738126	검바위	Geombawi			37.5612482	126.6775102	station	station
+node	9687738136	아시아드경기장	Asiad Stadium			37.5515881	126.6771005	station	station
+node	9687738138	서해구청	Seohae-gu Office			37.5439777	126.6768161	station	station
+node	9687738164	가정중앙시장	Gajeong Jungang Market			37.5174983	126.6767904	station	station
+node	9687738181	서부여성회관	West Woman's Community Center			37.4999808	126.6758231	station	station
+node	9687738197	인천가좌	Incheon Gajwa			37.4904588	126.6752387	station	station
+node	9687738218	가재울	Gajaeul			37.4839499	126.6839791	station	station
+node	9687738224	주안국가산단	Juan National Industrial Complex			37.4739903	126.6811593	station	station
+node	9687738258	시민공원	Citizens Park (Culture Creation Zone)			37.4584104	126.6808299	station	station
+node	9687738266	석바위시장	Seokbawi Market			37.4576813	126.6922113	station	station
+node	9687738274	인천시청	Incheon City Hall			37.4568120	126.7024350	station	station
+node	9687738281	석천사거리	Seokcheon Sageori			37.4567338	126.7107789	station	station
+node	9687738286	모래내시장	Moraenae Market			37.4558580	126.7194799	station	station
+node	9687738321	만수	Mansu			37.4549681	126.7318593	station	station
+node	9687738323	남동구청	Namdong-gu Office			37.4481646	126.7368118	station	station
+node	9687738344	인천대공원	Incheon Grand Park			37.4485494	126.7528149	station	station
+node	9776192970	신논현	Sinnonhyeon			37.5035711	127.0249157	stop	stop_position
+node	9776192971	신논현	Sinnonhyeon			37.5035631	127.0248903	stop	stop_position
+node	9776192972	논현	Nonhyeon			37.5099274	127.0218148	stop	stop_position
+node	9776192973	신사	Sinsa			37.5157525	127.0196599	stop	stop_position
+node	9863858581	대곡	Daegok			37.6312709	126.8121166	station	station
+node	9924568342	대곡	Daegok			37.6324164	126.8111837	station	station
+node	9931812354	서화성	Seohwaseong			37.2487819	126.7868664	station	station
+node	10682249086	증미	Jeungmi			37.5574220	126.8619300	stop	stop_position
+node	10743068854	운정	Unjeong			37.7245774	126.7667245	stop	stop_position
+node	10743068855	운정	Unjeong			37.7262417	126.7674433	stop	stop_position
+node	10787176950	성남	Seongnam			37.3936894	127.1205842	station	station
+node	10787176951	성남	Seongnam			37.3946908	127.1194122	station	station
+node	10787176952	구성	Guseong			37.2990413	127.1039242	station	station
+node	10795263940	금정	Geumjeong			37.3715851	126.9439463	stop	stop_position
+node	10796961027	상봉				37.5978360	127.0879361	stop	stop_position
+node	10814302774	샛강	Saetgang			37.5173088	126.9284475	stop	stop_position
+node	10814302780	여의도				37.5217964	126.9241547	stop	stop_position
+node	10814302787	국회의사당	National Assembly			37.5284686	126.9176370	stop	stop_position
+node	10814302804	당산	Dangsan			37.5341240	126.9015680	stop	stop_position
+node	10814323613	선유도	Seonyudo			37.5379426	126.8939366	stop	stop_position
+node	10814323624	신목동	Sinmokdong			37.5442465	126.8832503	stop	stop_position
+node	10814323641	염창	Yeomchang			37.5470657	126.8754336	stop	stop_position
+node	10814323663	등촌	Deungchon			37.5512383	126.8646259	stop	stop_position
+node	10814323678	증미	Jeungmi			37.5574531	126.8619738	stop	stop_position
+node	10814323690	가양	Gayang			37.5611990	126.8550925	stop	stop_position
+node	10814323715	양천향교	Yangcheon Hyanggyo			37.5685513	126.8412226	stop	stop_position
+node	10814323731	마곡나루				37.5667609	126.8277329	stop	stop_position
+node	10814323759	신방화	Sinbanghwa			37.5675685	126.8161962	stop	stop_position
+node	10814323779	공항시장	Airport Market			37.5635207	126.8103459	stop	stop_position
+node	10814323785	김포공항	Gimpo Int'l Airport			37.5619114	126.8015280	stop	stop_position
+node	10814378022	양촌	Yangchon			37.6416413	126.6147983	station	station
+node	10814394645	마산	Masan			37.6405997	126.6442376	station	station
+node	10814394648	장기	Janggi			37.6440265	126.6690138	station	station
+node	10814394650	운양	Unyang			37.6538088	126.6839380	station	station
+node	10814394652	걸포북변	Geolpo Bukbyeon			37.6317148	126.7056466	station	station
+node	10814394654	사우	Sau			37.6202004	126.7197650	station	station
+node	10814394656	풍무	Pungmu			37.6123740	126.7324628	station	station
+node	10814394658	고촌	Gochon			37.6012627	126.7702118	station	station
+node	10814394660	김포공항	Gimpo Int'l Airport			37.5623275	126.8019608	station	station
+node	10814394661	김포공항	Gimpo Int'l Airport			37.5619877	126.8015843	station	station
+node	10814394662	김포공항	Gimpo Int'l Airport			37.5617450	126.8015857	station	station
+node	10814394663	김포공항	Gimpo Int'l Airport			37.5617187	126.8040606	station	station
+node	10864515562	도봉산	Dobongsan			37.6904570	127.0458772	stop	stop_position
+node	11015720655	부천종합운동장				37.5067350	126.7975235	stop	stop_position
+node	11015720679	원종	Wonjong			37.5221625	126.8049364	stop	stop_position
+node	11015720682	원종	Wonjong			37.5259322	126.8048053	stop	stop_position
+node	11015793555	김포공항	Gimpo Int'l Airport			37.5624098	126.8037684	stop	stop_position
+node	11015793561	김포공항	Gimpo Int'l Airport			37.5605190	126.8044964	stop	stop_position
+node	11164853360	옥수	Oksu			37.5413731	127.0175496	station	station
+node	11202085916	신검단중앙				37.6026985	126.6985035	stop	stop_position
+node	11202085920	아라				37.5921919	126.7133760	stop	stop_position
+node	11202094644	아라				37.5921850	126.7133151	stop	stop_position
+node	11202094654	신검단중앙				37.6026243	126.6985169	stop	stop_position
+node	11237829305	신도림	Sindorim			37.5091331	126.8916649	station	station
+node	11697304775	수서	Suseo	Suseo		37.4860164	127.1022789	station	station
+node	11731222372	구성	Guseong			37.2984784	127.1041963	stop	stop_position
+node	11731222400	동탄	Dongtan			37.2019878	127.0950729	stop	stop_position
+node	11778011712	수서	Suseo			37.4870203	127.1013215	stop	stop_position
+node	11778011713	수서	Suseo			37.4869083	127.1009984	stop	stop_position
+node	11778014345	성남	Seongnam			37.3946643	127.1186808	stop	stop_position
+node	11778014346	성남	Seongnam			37.3947450	127.1206192	stop	stop_position
+node	11942201168	장자호수공원	Jangja Lake Park			37.5874060	127.1379117	station	station
+node	11942201669	구리	Guri			37.6022712	127.1408384	station	station
+node	11942201670	동구릉	Donggureung			37.6105143	127.1381088	station	station
+node	11942201671	다산	Dasan			37.6243286	127.1497626	station	station
+node	11942201672	별내	Byeollae			37.6420348	127.1278172	station	station
+node	12018216118	구성	Guseong			37.2984883	127.1036421	stop	stop_position
+node	12119884929	별내	Byeollae			37.6418028	127.1280243	stop	stop_position
+node	12119884930	별내	Byeollae			37.6430038	127.1266983	stop	stop_position
+node	12119884931	다산	Dasan			37.6237479	127.1496187	stop	stop_position
+node	12119884932	동구릉	Donggureung			37.6101744	127.1381349	stop	stop_position
+node	12119884933	구리	Guri			37.6016366	127.1410186	stop	stop_position
+node	12237749725	운정중앙	Unjeongjungang		Unjeongjungang Station	37.7161461	126.7282857	station	station
+node	12441461843	원릉	Wolleung			37.6627007	126.8400195	stop	stop_position
+node	12455789580	킨텍스	Kintex			37.6652142	126.7483258	station	station
+node	12455789581	킨텍스	Kintex			37.6652905	126.7483791	stop	stop_position
+node	12455789582	킨텍스	Kintex			37.6651542	126.7482630	stop	stop_position
+node	12455789583	운정중앙	Unjeongjungang			37.7161385	126.7283593	stop	stop_position
+node	12455789584	운정중앙	Unjeongjungang			37.7161256	126.7281994	stop	stop_position
+node	12455789587	대곡	Daegok			37.6324588	126.8107331	stop	stop_position
+node	12455789588	대곡	Daegok			37.6323858	126.8107331	stop	stop_position
+node	12455789590	연신내	Yeonsinnae			37.6189297	126.9203978	station	station
+node	12455789591	연신내	Yeonsinnae			37.6190151	126.9204747	stop	stop_position
+node	12455789592	연신내	Yeonsinnae			37.6188155	126.9203104	stop	stop_position
+node	12455789593	서울역	Seoul Station			37.5553613	126.9726267	stop	stop_position
+node	12455789594	서울역	Seoul Station			37.5553864	126.9725012	stop	stop_position
+node	12518370669	대곡	Daegok			37.6314040	126.8122133	stop	stop_position
+node	12518370670	의정부	Uijeongbu			37.7384163	127.0457074	stop	stop_position
+node	12518370671	의정부	Uijeongbu			37.7384262	127.0458077	stop	stop_position
+node	12518370672	송추	Songchu			37.7207271	126.9795052	stop	stop_position
+node	12522871363	장흥	Jangheung			37.7187110	126.9415675	stop	stop_position
+node	12522871364	일영	Ilyeong			37.7006700	126.9290009	stop	stop_position
+node	12961370706	아라	Ara			37.5922592	126.7133006	station	station
+node	12961370707	신검단중앙	Singeomdanjungang			37.6026764	126.6985265	station	station
+node	12961370708	검단호수공원	Geomdan Lake Park			37.6024395	126.6885664	station	station
+node	12969391184	뚝섬	Ttukseom			37.5472351	127.0474100	station	station
+node	13045404511	동대문역사문화공원	Dongdaemun History & Culture Park Station (DDP)			37.5642774	127.0071354	station	station
+node	13045404512	동대문역사문화공원	Dongdaemun History & Culture Park Station (DDP)			37.5658762	127.0081569	station	station
+node	13048340092	검단호수공원				37.6024640	126.6885315	stop	stop_position
+node	13048340093	검단호수공원				37.6024184	126.6885383	stop	stop_position
+node	13051385207	종합운동장	Sports Complex			37.5114060	127.0762089	station	station
+node	13051848203	백마	Baengma			37.6587694	126.7941829	stop	stop_position
+node	13055976391	홍대입구	Hongik Univ.	Hongdaeibgu		37.5566261	126.9234474	station	station
+node	13376015080	김포공항	Gimpo Int'l Airport			37.5620343	126.8015437	stop	stop_position
+node	13376015126					37.5774861	126.8981278	stop	stop_position
+node	13376015127					37.5773626	126.8979713	stop	stop_position
+node	13442193042	도농	Donong			37.6086920	127.1612805	stop	stop_position
+node	13442193043	도농	Donong			37.6089034	127.1611254	stop	stop_position
+node	13589111847	초월	Chowol			37.3733642	127.2999492	station	station
