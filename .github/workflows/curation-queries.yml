@@ -41,7 +41,7 @@ jobs:
           for q in curation/queries/*.bbox; do
             [ -e "$q" ] || continue
             n=$(basename "$q" .bbox); read -r bbox types < "$q"
-            timeout 400 node scripts/osm-lines.js "$bbox" --types "${types:-subway}" --out "curation/results/$n-lines.json" 2> "curation/results/$n-lines-notes.txt" && log "$n lines ok" || log "$n lines FAILED"
+            OVERPASS_URL=https://maps.mail.ru/osm/tools/overpass/api/interpreter timeout 400 node scripts/osm-lines.js "$bbox" --types "${types:-subway}" --out "curation/results/$n-lines.json" 2> "curation/results/$n-lines-notes.txt" && log "$n lines ok" || log "$n lines FAILED"
           done
       - name: Commit results
         if: always()
