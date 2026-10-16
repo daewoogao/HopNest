@@ -1,52 +1,12 @@
 {
-  "tokyo": {
-    "name": "Tokyo",
-    "country": "Japan",
-    "flag": "🇯🇵"
-  },
-  "shanghai": {
-    "name": "Shanghai",
-    "country": "China",
-    "flag": "🇨🇳"
-  },
-  "newyork": {
-    "name": "New York City",
-    "country": "USA",
-    "flag": "🇺🇸"
-  },
-  "london": {
-    "name": "London",
-    "country": "UK",
-    "flag": "🇬🇧"
-  },
-  "barcelona": {
-    "name": "Barcelona",
-    "country": "Spain",
-    "flag": "🇪🇸"
-  },
-  "paris": {
-    "name": "Paris",
-    "country": "France",
-    "flag": "🇫🇷"
-  },
-  "seoul": {
-    "name": "Seoul",
-    "country": "South Korea",
-    "flag": "🇰🇷"
-  },
-  "osaka": {
-    "name": "Osaka",
-    "country": "Japan",
-    "flag": "🇯🇵"
-  },
-  "hongkong": {
-    "name": "Hong Kong",
-    "country": "Hong Kong",
-    "flag": "🇭🇰"
-  },
-  "singapore": {
-    "name": "Singapore",
-    "country": "Singapore",
-    "flag": "🇸🇬"
-  }
+  "tokyo": {"name":"Tokyo","country":"Japan","flag":"🇯🇵","region":"Asia","aliases":["東京","Tokyo-to","Edo"]},
+  "shanghai": {"name":"Shanghai","country":"China","flag":"🇨🇳","region":"Asia","aliases":["上海","Shanghai Shi"]},
+  "newyork": {"name":"New York City","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["NYC","New York","Manhattan","Brooklyn","Big Apple"]},
+  "london": {"name":"London","country":"UK","flag":"🇬🇧","region":"Europe","aliases":["Londres","Londra"]},
+  "barcelona": {"name":"Barcelona","country":"Spain","flag":"🇪🇸","region":"Europe","aliases":["BCN","Barna"]},
+  "paris": {"name":"Paris","country":"France","flag":"🇫🇷","region":"Europe","aliases":["Parigi","Paname"]},
+  "seoul": {"name":"Seoul","country":"South Korea","flag":"🇰🇷","region":"Asia","aliases":["서울","Soul"]},
+  "osaka": {"name":"Osaka","country":"Japan","flag":"🇯🇵","region":"Asia","aliases":["大阪","Ōsaka","Kansai"]},
+  "hongkong": {"name":"Hong Kong","country":"Hong Kong","flag":"🇭🇰","region":"Asia","aliases":["香港","HK","HKG","Kowloon"]},
+  "singapore": {"name":"Singapore","country":"Singapore","flag":"🇸🇬","region":"Asia","aliases":["新加坡","Singapura","SG","Changi"]}
 }

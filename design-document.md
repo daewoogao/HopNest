@@ -112,8 +112,13 @@ station/airport/railway stop you tap.
 - **Cities**: Tokyo, Shanghai, New York City, London, Barcelona, plus
   batch 1 of the scale-up (2026-10-15): Paris, Seoul, Osaka, Hong Kong,
   Singapore.
-- **City picker**: alphabetized sidebar cards with their own search box
-  (accent-insensitive), kept separate from the in-city place search.
+- **City picker** (search redesigned 2026-10-16): a search box that
+  matches city name, country, other names (`aliases` in `cities.json`:
+  local script, nicknames like NYC) and airport codes (CDG, KIX), with
+  one-typo tolerance; results are ranked and Enter opens the best one.
+  With no search, recently opened cities come first, then cities grouped
+  by `region` (Asia, Europe, Americas), alphabetized; the list scrolls.
+  Kept separate from the in-city place search.
   Cities without data yet show as "coming soon"; a text box lets the user
   request a new one (session-only placeholder).
 - **Place search**: typeahead search bar for curated hotels, sights,
@@ -460,6 +465,14 @@ they're done.
 ---
 
 ## Changelog
+
+### 2026-10-16 — smarter city search
+- Audrey asked for a smart way to find a city as the list grows to 25.
+  Decided (Claude's default, open to change): search matches name,
+  country, aliases and airport codes, ranked, with one-typo tolerance and
+  Enter-to-open; empty search shows Recent (last 4 opened, stored in
+  `hopnest_recent_cities_v1`) then region groups. `cities.json` entries
+  gain `region` and `aliases`; every new city must set both.
 
 ### 2026-10-15 — batch 1 cities: Paris, Seoul, Osaka, Hong Kong, Singapore
 - Five new city files in `site/data/`, made by the §4 "Adding a city"
