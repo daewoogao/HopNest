@@ -1,0 +1,373 @@
+{
+  "name": "Vienna",
+  "country": "Austria",
+  "flag": "🇦🇹",
+  "center": [48.205,16.37],
+  "zoom": 12,
+  "operatingHours": "U-Bahn runs ~5:00 AM–~12:30 AM daily, every 2–8 min by day. On Friday and Saturday nights and the night before public holidays all five lines run through the night every ~15 min; other nights NightLine buses take over.",
+  "fareInfo": "A single ticket is €3.20 at machines (€3.00 in the WienMobil app, 2026) and covers any trip within Vienna with unlimited transfers in one direction. 24-hour pass €10.20 (€9.70 digital), 7-day pass €28.90 (€25.20 digital); 48- and 72-hour passes were withdrawn in 2026. No gates, but tickets are checked: validate paper tickets before boarding. City tickets don't cover the airport: ÖBB trains cost €5.50 into Vienna, the CAT express €14.90.",
+  "lines": [
+    {
+      "id": "lu1",
+      "name": "U1",
+      "color": "#E3000F",
+      "code": "U1",
+      "stations": [
+        ["Oberlaa",48.1424,16.3999],
+        ["Neulaa",48.1458,16.3856],
+        ["Alaudagasse",48.1538,16.3824],
+        ["Altes Landgut",48.1623,16.3834],
+        ["Troststraße",48.169,16.3805],
+        ["Reumannplatz",48.175,16.378],
+        ["Keplerplatz",48.1794,16.3762],
+        ["Südtiroler Platz-Hauptbahnhof",48.1871,16.3736],
+        ["Taubstummengasse",48.1937,16.3705],
+        ["Karlsplatz",48.2015,16.3692],
+        ["Stephansplatz",48.2084,16.3721],
+        ["Schwedenplatz",48.2117,16.3777],
+        ["Nestroyplatz",48.2152,16.3855],
+        ["Praterstern",48.2197,16.393],
+        ["Vorgartenstraße",48.2236,16.4011],
+        ["Donauinsel",48.2292,16.4114],
+        ["Kaisermühlen-VIC",48.2328,16.4165],
+        ["Alte Donau",48.2383,16.4248],
+        ["Kagran",48.2429,16.433],
+        ["Kagraner Platz",48.2502,16.4434],
+        ["Rennbahnweg",48.2576,16.4497],
+        ["Aderklaaer Straße",48.2634,16.4517],
+        ["Großfeldsiedlung",48.2711,16.4479],
+        ["Leopoldau",48.2775,16.4521]
+      ]
+    },
+    {
+      "id": "lu2",
+      "name": "U2",
+      "color": "#A862A4",
+      "code": "U2",
+      "stations": [
+        ["Karlsplatz",48.201,16.3691],
+        ["Museumsquartier",48.2028,16.3611],
+        ["Volkstheater",48.2052,16.358],
+        ["Rathaus",48.2098,16.3554],
+        ["Schottentor",48.2151,16.3631],
+        ["Schottenring",48.2173,16.3727],
+        ["Taborstraße",48.2191,16.3814],
+        ["Praterstern",48.2185,16.3938],
+        ["Messe-Prater",48.2177,16.4049],
+        ["Krieau",48.2147,16.4137],
+        ["Stadion",48.2104,16.4204],
+        ["Donaumarina",48.2064,16.4315],
+        ["Donaustadtbrücke",48.2118,16.4402],
+        ["Stadlau",48.2197,16.4496],
+        ["Hardeggasse",48.2208,16.4577],
+        ["Donauspital",48.2194,16.4666],
+        ["Aspernstraße",48.2225,16.475],
+        ["Lina-Loos-Platz",48.2284,16.4786],
+        ["Hausfeldstraße",48.2334,16.4858],
+        ["Aspern Nord",48.2344,16.5045],
+        ["Seestadt",48.2263,16.5083]
+      ]
+    },
+    {
+      "id": "lu3",
+      "name": "U3",
+      "color": "#EF7C00",
+      "code": "U3",
+      "stations": [
+        ["Ottakring",48.211,16.3113],
+        ["Kendlerstraße",48.2046,16.3091],
+        ["Hütteldorfer Straße",48.2,16.311],
+        ["Johnstraße",48.1976,16.3202],
+        ["Schweglerstraße",48.1975,16.3287],
+        ["Westbahnhof",48.1958,16.3384],
+        ["Zieglergasse",48.1971,16.3463],
+        ["Neubaugasse",48.1992,16.3526],
+        ["Volkstheater",48.2056,16.3592],
+        ["Herrengasse",48.2092,16.3651],
+        ["Stephansplatz",48.208,16.3716],
+        ["Stubentor",48.2069,16.3792],
+        ["Landstraße",48.2057,16.3856],
+        ["Rochusgasse",48.2021,16.3922],
+        ["Kardinal-Nagl-Platz",48.1976,16.3998],
+        ["Schlachthausgasse",48.1944,16.4066],
+        ["Erdberg",48.1914,16.4141],
+        ["Gasometer",48.1849,16.4172],
+        ["Zippererstraße",48.1803,16.4117],
+        ["Enkplatz",48.1746,16.4146],
+        ["Simmering",48.1697,16.4205]
+      ]
+    },
+    {
+      "id": "lu4",
+      "name": "U4",
+      "color": "#319F49",
+      "code": "U4",
+      "stations": [
+        ["Hütteldorf",48.1969,16.2608],
+        ["Ober St. Veit",48.1922,16.2762],
+        ["Unter St. Veit",48.1911,16.286],
+        ["Braunschweiggasse",48.1894,16.2958],
+        ["Hietzing",48.1876,16.3046],
+        ["Schönbrunn",48.186,16.3189],
+        ["Meidling Hauptstraße",48.1836,16.3279],
+        ["Längenfeldgasse",48.1849,16.335],
+        ["Margaretengürtel",48.1885,16.343],
+        ["Pilgramgasse",48.1921,16.3543],
+        ["Kettenbrückengasse",48.1966,16.3581],
+        ["Karlsplatz",48.2003,16.3696],
+        ["Stadtpark",48.2029,16.3797],
+        ["Landstraße",48.2069,16.3849],
+        ["Schwedenplatz",48.2118,16.3787],
+        ["Schottenring",48.2166,16.3721],
+        ["Roßauer Lände",48.2223,16.3676],
+        ["Friedensbrücke",48.2279,16.3641],
+        ["Spittelau",48.2348,16.3587],
+        ["Heiligenstadt",48.2481,16.3656]
+      ]
+    },
+    {
+      "id": "lu6",
+      "name": "U6",
+      "color": "#9D6830",
+      "code": "U6",
+      "stations": [
+        ["Siebenhirten",48.1305,16.3099],
+        ["Perfektastraße",48.1366,16.3133],
+        ["Erlaaer Straße",48.142,16.3166],
+        ["Alterlaa",48.1505,16.3169],
+        ["Am Schöpfwerk",48.1607,16.3242],
+        ["Tscherttegasse",48.165,16.3278],
+        ["Bahnhof Meidling",48.1735,16.3315],
+        ["Niederhofstraße",48.1808,16.3312],
+        ["Längenfeldgasse",48.1848,16.3351],
+        ["Gumpendorfer Straße",48.1907,16.3376],
+        ["Westbahnhof",48.1968,16.3393],
+        ["Burggasse-Stadthalle",48.2033,16.3372],
+        ["Thaliastraße",48.2078,16.338],
+        ["Josefstädter Straße",48.2115,16.3392],
+        ["Alser Straße",48.2168,16.3419],
+        ["Michelbeuern-AKH",48.2212,16.3443],
+        ["Währinger Straße-Volksoper",48.2256,16.3495],
+        ["Nußdorfer Straße",48.2313,16.3525],
+        ["Spittelau",48.2356,16.3581],
+        ["Jägerstraße",48.2352,16.3687],
+        ["Dresdner Straße",48.2372,16.3802],
+        ["Handelskai",48.2418,16.3857],
+        ["Neue Donau",48.2463,16.3947],
+        ["Floridsdorf",48.2562,16.4006]
+      ]
+    }
+  ],
+  "hotels": [
+    {"name":"Novotel Wien Hauptbahnhof","lat":48.1857,"lng":16.3792,"area":"Wien Hauptbahnhof","rating":4.3,"ratingCount":1071,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hyatt Regency Vienna (formerly Andaz Am Belvedere)","lat":48.1849,"lng":16.383,"area":"Wien Hauptbahnhof","rating":4.6,"ratingCount":1386,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"ibis Wien Hauptbahnhof","lat":48.1857,"lng":16.3787,"area":"Wien Hauptbahnhof","rating":4.3,"ratingCount":1024,"stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Motel One Wien-Hauptbahnhof","lat":48.1837,"lng":16.3783,"area":"Wien Hauptbahnhof","rating":4.3,"ratingCount":1165,"stars":3,"priceTier":2},
+    {"name":"Zeitgeist Vienna Hotel + Lokal","lat":48.1824,"lng":16.3781,"area":"Wien Hauptbahnhof","rating":4.5,"ratingCount":3492,"stars":4,"priceTier":3},
+    {"name":"Park Hyatt Vienna","lat":48.2105,"lng":16.3684,"area":"Innere Stadt","rating":4.8,"ratingCount":2289,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Hotel Mercure Vienna First","lat":48.2114,"lng":16.374,"area":"Innere Stadt","rating":4.4,"ratingCount":918,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Boutique Hotel Am Stephansplatz","lat":48.2088,"lng":16.372,"area":"Innere Stadt","rating":4.8,"ratingCount":4325,"stars":4,"priceTier":3},
+    {"name":"Hotel Austria","lat":48.2102,"lng":16.3773,"area":"Innere Stadt","rating":4.6,"ratingCount":1991,"stars":3,"priceTier":2},
+    {"name":"Pension City","lat":48.2099,"lng":16.3727,"area":"Innere Stadt","rating":4.4,"ratingCount":305,"stars":3,"priceTier":2},
+    {"name":"Hotel Imperial, a Luxury Collection Hotel, Vienna","lat":48.2011,"lng":16.3731,"area":"Opera","rating":4.7,"ratingCount":2053,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Hotel Kaiserhof Wien","lat":48.1976,"lng":16.3686,"area":"Opera","rating":4.8,"ratingCount":3850,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hotel Sacher Wien","lat":48.2041,"lng":16.3698,"area":"Opera","rating":4.7,"ratingCount":2670,"stars":5,"priceTier":4},
+    {"name":"The Cloud One Hotel Wien-Staatsoper","lat":48.2016,"lng":16.3681,"area":"Opera","rating":4.3,"ratingCount":1670,"stars":3,"priceTier":2},
+    {"name":"Wombat's City Hostel Vienna Naschmarkt","lat":48.1969,"lng":16.3608,"area":"Opera","rating":4.3,"ratingCount":2693,"stars":1,"priceTier":1},
+    {"name":"25hours Hotel at MuseumsQuartier","lat":48.2065,"lng":16.3545,"area":"Neubau","rating":4.4,"ratingCount":3177,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hotel Sans Souci Wien","lat":48.2046,"lng":16.3565,"area":"Neubau","rating":4.9,"ratingCount":3131,"stars":5,"priceTier":4},
+    {"name":"Hotel Altstadt Vienna","lat":48.2048,"lng":16.3513,"area":"Neubau","rating":4.8,"ratingCount":4369,"stars":4,"priceTier":3},
+    {"name":"Boutiquehotel Das Tyrol","lat":48.2009,"lng":16.3593,"area":"Neubau","rating":4.8,"ratingCount":2059,"stars":4,"priceTier":3},
+    {"name":"Hotel-Pension Wild","lat":48.2074,"lng":16.3529,"area":"Neubau","rating":4.3,"ratingCount":404,"stars":2,"priceTier":2},
+    {"name":"ibis Styles Wien Messe Prater","lat":48.2143,"lng":16.3911,"area":"Leopoldstadt","rating":4.1,"ratingCount":276,"stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Austria Classic Hotel Wien","lat":48.2171,"lng":16.3895,"area":"Leopoldstadt","rating":4.6,"ratingCount":2438,"stars":4,"priceTier":3},
+    {"name":"Der Wilhelmshof","lat":48.2186,"lng":16.3882,"area":"Leopoldstadt","rating":4.6,"ratingCount":2488,"stars":4,"priceTier":3},
+    {"name":"Henriette Stadthotel Vienna","lat":48.2154,"lng":16.3862,"area":"Leopoldstadt","rating":4.7,"ratingCount":2792,"stars":4,"priceTier":3},
+    {"name":"The Social Hub Vienna","lat":48.223,"lng":16.3901,"area":"Leopoldstadt","rating":4.3,"ratingCount":960,"stars":3,"priceTier":2},
+    {"name":"Hilton Vienna Park","lat":48.206,"lng":16.3833,"area":"Landstraße","rating":4.3,"ratingCount":1004,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"InterContinental Vienna by IHG","lat":48.2018,"lng":16.379,"area":"Landstraße","rating":4.2,"ratingCount":2748,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Grand Mercure Hotel Biedermeier","lat":48.2034,"lng":16.3878,"area":"Landstraße","rating":4.1,"ratingCount":1843,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Ruby Sofie Hotel Vienna by IHG","lat":48.2067,"lng":16.3913,"area":"Landstraße","rating":4.3,"ratingCount":1443,"stars":4,"priceTier":2,"brandAnchor":true}
+  ],
+  "sights": [
+    {
+      "name": "Schönbrunn Palace",
+      "lat": 48.1845,
+      "lng": 16.3122,
+      "note": "The Habsburgs' Baroque summer palace with 40 state rooms open to visitors and vast formal gardens climbing to the Gloriette.",
+      "hours": "State rooms ~8:30 AM–5:30 PM daily (to 5:00 PM Nov–Mar, 6:30 PM Jul–Aug); gardens from 6:30 AM, free",
+      "rating": 4.6,
+      "ticketUrl": "https://www.schoenbrunn.at/en/",
+      "bookAhead": true
+    },
+    {
+      "name": "Kunsthistorisches Museum Vienna",
+      "lat": 48.2038,
+      "lng": 16.3617,
+      "note": "The imperial art collection under a grand cupola: Bruegel, Vermeer, Raphael, Titian and an Egyptian wing. Time-slot tickets only from September 2026.",
+      "hours": "10:00 AM–6:00 PM daily, till 9:00 PM Thu",
+      "rating": 4.7,
+      "ticketUrl": "https://www.khm.at/en/",
+      "bookAhead": true
+    },
+    {
+      "name": "Belvedere Museum",
+      "lat": 48.1915,
+      "lng": 16.3809,
+      "note": "Two Baroque palaces linked by terraced gardens; the Upper Belvedere holds Klimt's The Kiss and other Austrian masterpieces.",
+      "hours": "Upper Belvedere 9:00 AM–6:00 PM daily; Lower Belvedere 10:00 AM–6:00 PM",
+      "rating": 4.5,
+      "ticketUrl": "https://www.belvedere.at/en"
+    },
+    {
+      "name": "St. Stephen's Cathedral",
+      "lat": 48.2085,
+      "lng": 16.3731,
+      "note": "Vienna's Gothic landmark with a patterned tile roof; climb the 343-step south tower or tour the catacombs.",
+      "hours": "~6:00 AM–10:00 PM (Sun from 7:00 AM); tourist visits limited during services",
+      "rating": 4.4,
+      "ticketUrl": "https://www.stephanskirche.at/"
+    },
+    {
+      "name": "The Hofburg",
+      "lat": 48.2066,
+      "lng": 16.3655,
+      "note": "The sprawling imperial palace: the Imperial Apartments, Silver Collection and Sisi Museum, which reopens redesigned on 19 November 2026.",
+      "hours": "10:00 AM–4:30 PM daily until 18 Nov 2026 (Sisi Museum closed); longer hours after reopening",
+      "rating": 4.5,
+      "ticketUrl": "https://www.sisimuseum-hofburg.at/en/"
+    },
+    {
+      "name": "Austrian National Library (State Hall)",
+      "lat": 48.2063,
+      "lng": 16.3672,
+      "note": "A soaring Baroque library hall of frescoes, marble and 200,000 old volumes off Josefsplatz.",
+      "hours": "9:00 AM–6:00 PM, till 9:00 PM Thu; closed Mon Oct–May",
+      "rating": 4.6,
+      "ticketUrl": "https://www.onb.ac.at/en/"
+    },
+    {
+      "name": "Tiergarten Schönbrunn (Vienna Zoo)",
+      "lat": 48.1823,
+      "lng": 16.3029,
+      "note": "The world's oldest zoo, founded in 1752 in the Schönbrunn grounds, now home to giant pandas and a rainforest house.",
+      "hours": "9:00 AM–4:30 PM Nov–Jan, to 6:30 PM Apr–Sep (varies by month)",
+      "rating": 4.6,
+      "ticketUrl": "https://www.zoovienna.at/en/"
+    },
+    {
+      "name": "Albertina",
+      "lat": 48.2047,
+      "lng": 16.3681,
+      "note": "A Habsburg palace on the old city bastion with lavish state rooms and a modern collection from Monet to Picasso.",
+      "hours": "10:00 AM–6:00 PM daily, till 9:00 PM Wed & Fri",
+      "rating": 4.5,
+      "ticketUrl": "https://www.albertina.at/en/"
+    },
+    {
+      "name": "Wiener Staatsoper",
+      "lat": 48.203,
+      "lng": 16.369,
+      "note": "The Vienna State Opera on the Ring: book a performance, grab a cheap standing ticket, or take a backstage guided tour.",
+      "hours": "Guided tours most days; performances evenings Sep–Jun",
+      "rating": 4.5,
+      "ticketUrl": "https://www.wiener-staatsoper.at/en/",
+      "bookAhead": true
+    },
+    {
+      "name": "Prater & Giant Ferris Wheel",
+      "lat": 48.2166,
+      "lng": 16.3958,
+      "note": "A huge public park with an old-school funfair at its edge, crowned by the 1897 Riesenrad Ferris wheel.",
+      "hours": "Park always open; Ferris wheel ~10:00 AM–9:45 PM (shorter in winter)",
+      "rating": 4,
+      "ticketUrl": "https://wienerriesenrad.com/en/"
+    },
+    {
+      "name": "Naturhistorisches Museum Wien",
+      "lat": 48.2052,
+      "lng": 16.36,
+      "note": "The natural history twin of the art museum across the square: dinosaurs, meteorites and the 29,500-year-old Venus of Willendorf.",
+      "hours": "9:00 AM–6:00 PM, till 8:00 PM Wed, closed Tue",
+      "rating": 4.6,
+      "ticketUrl": "https://www.nhm.at/en"
+    },
+    {
+      "name": "Leopold Museum",
+      "lat": 48.2027,
+      "lng": 16.3593,
+      "note": "The world's largest Egon Schiele collection plus Klimt and Viennese Secession design, inside the MuseumsQuartier.",
+      "hours": "10:00 AM–6:00 PM, closed Tue",
+      "rating": 4.5,
+      "ticketUrl": "https://www.leopoldmuseum.org/en"
+    },
+    {
+      "name": "Peterskirche",
+      "lat": 48.2094,
+      "lng": 16.3701,
+      "note": "A jewel-box Baroque church just off the Graben with a green oval dome and frequent free organ recitals.",
+      "hours": "Mon–Fri 7:00 AM–8:00 PM, Sat–Sun 9:00 AM–9:00 PM",
+      "rating": 4.6
+    },
+    {
+      "name": "Hundertwasserhaus",
+      "lat": 48.2071,
+      "lng": 16.3942,
+      "note": "A wavy, multicoloured council housing block with trees on its roofs, designed by artist Friedensreich Hundertwasser.",
+      "hours": "Exterior viewable any time (residential, no entry)",
+      "rating": 4.2
+    },
+    {
+      "name": "Vienna City Hall (Rathaus)",
+      "lat": 48.2108,
+      "lng": 16.3573,
+      "note": "A neo-Gothic city hall whose square hosts the Christmas market, an ice rink and summer film festivals.",
+      "hours": "Free guided tours Mon, Wed & Fri at 1:00 PM (except during sessions); square always open",
+      "rating": 4.6
+    },
+    {
+      "name": "Imperial Crypt (Kapuzinergruft)",
+      "lat": 48.2057,
+      "lng": 16.3698,
+      "note": "The burial vault of the Habsburgs beneath the Capuchin church, with ornate tombs of Maria Theresa, Franz Joseph and Sisi.",
+      "hours": "10:00 AM–6:00 PM daily (Thu from 9:00 AM)",
+      "rating": 4.3,
+      "ticketUrl": "https://www.kapuzinergruft.com/"
+    },
+    {
+      "name": "Naschmarkt",
+      "lat": 48.1985,
+      "lng": 16.3632,
+      "note": "Vienna's long open-air food market along the Wienzeile, with produce stalls, deli counters and cafés; a flea market joins on Saturdays.",
+      "hours": "Mon–Fri 6:00 AM–7:30 PM, Sat 6:00 AM–5:00 PM, closed Sun",
+      "rating": 3.7
+    },
+    {
+      "name": "Kahlenberg",
+      "lat": 48.2763,
+      "lng": 16.3367,
+      "note": "A wooded hilltop in the Vienna Woods with a free terrace view over the city, the Danube and the vineyards below; bus 38A from Grinzing.",
+      "hours": "Viewpoint always open",
+      "rating": 4.5
+    }
+  ],
+  "railStations": [
+    {
+      "name": "Wien Hauptbahnhof",
+      "lat": 48.1851,
+      "lng": 16.3757,
+      "note": "Vienna's main station: Railjets to Salzburg, Innsbruck, Munich, Zurich, Graz, Budapest, Prague and Venice, Nightjet sleepers, and fast trains to the airport (~15 min). U1 to Stephansplatz in 4 min.",
+      "hours": "Station open 24 h. Mainline trains run to individual timetables."
+    }
+  ],
+  "airports": [
+    {
+      "name": "Vienna International Airport",
+      "code": "VIE",
+      "lat": 48.1206,
+      "lng": 16.5625,
+      "transitNote": "ÖBB Railjet/REX7 to Wien Hauptbahnhof in ~15–20 min (€5.50). The CAT express runs non-stop to Wien Mitte in ~16 min (€14.90). The S7 currently ends at St. Marx because of trunk-line works until ~Oct 2027. None of these are on the U-Bahn map.",
+      "hours": "CAT from airport: first 6:10 AM, last 11:37 PM. ÖBB trains run ~5:00 AM–~midnight."
+    }
+  ]
+}

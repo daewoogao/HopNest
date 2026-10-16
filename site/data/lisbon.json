@@ -1,0 +1,308 @@
+{
+  "name": "Lisbon",
+  "country": "Portugal",
+  "flag": "🇵🇹",
+  "center": [38.7223,-9.1393],
+  "zoom": 12,
+  "operatingHours": "Metro runs ~6:30 AM–1:00 AM daily, every ~4–12 min. No all-night metro; Carris night buses fill the gap.",
+  "fareInfo": "A single Carris/Metro ticket is €1.90 (2026), loaded on a €0.50 reusable navegante occasional card; topping the card up with Zapping credit cuts a metro ride to €1.72, and tapping a contactless bank card at the gates costs €1.92. A 24-hour Carris/Metro ticket (metro, buses, trams, funiculars and Santa Justa lift) is €7.25, or €11.40 including CP suburban trains to Sintra and Cascais. The airport is on the metro at the normal fare.",
+  "lines": [
+    {
+      "id": "lamarela",
+      "name": "Yellow Line",
+      "jp": "Linha Amarela",
+      "color": "#F4BC18",
+      "code": "Amarela",
+      "stations": [
+        ["Rato",38.7201,-9.1548],
+        ["Marquês de Pombal",38.7247,-9.1503],
+        ["Picoas",38.7304,-9.147],
+        ["Saldanha",38.7348,-9.1453],
+        ["Campo Pequeno",38.7411,-9.1468],
+        ["Entrecampos",38.747,-9.1482],
+        ["Cidade Universitária",38.7515,-9.1591],
+        ["Campo Grande",38.7603,-9.1579],
+        ["Quinta das Conchas",38.7673,-9.1556],
+        ["Lumiar",38.7734,-9.1594],
+        ["Ameixoeira",38.7793,-9.1597],
+        ["Senhor Roubado",38.7856,-9.1718],
+        ["Odivelas",38.7933,-9.173]
+      ]
+    },
+    {
+      "id": "lazul",
+      "name": "Blue Line",
+      "jp": "Linha Azul",
+      "color": "#4E84C4",
+      "code": "Azul",
+      "stations": [
+        ["Santa Apolónia",38.7137,-9.1224],
+        ["Terreiro do Paço",38.707,-9.1344],
+        ["Baixa-Chiado",38.7104,-9.14],
+        ["Restauradores",38.716,-9.1423],
+        ["Avenida",38.719,-9.1448],
+        ["Marquês de Pombal",38.7242,-9.1492],
+        ["Parque",38.7295,-9.1503],
+        ["São Sebastião",38.7339,-9.1536],
+        ["Praça de Espanha",38.7377,-9.1592],
+        ["Jardim Zoológico",38.7421,-9.1689],
+        ["Laranjeiras",38.7482,-9.173],
+        ["Alto dos Moinhos",38.7499,-9.1798],
+        ["Colégio Militar/Luz",38.7534,-9.1893],
+        ["Carnide",38.7592,-9.1927],
+        ["Pontinha",38.7622,-9.1968],
+        ["Alfornelos",38.7603,-9.2046],
+        ["Amadora Este",38.7584,-9.2183],
+        ["Reboleira",38.7522,-9.2241]
+      ]
+    },
+    {
+      "id": "lverde",
+      "name": "Green Line",
+      "jp": "Linha Verde",
+      "color": "#00AAA6",
+      "code": "Verde",
+      "stations": [
+        ["Cais do Sodré",38.7061,-9.1468],
+        ["Baixa-Chiado",38.7104,-9.1403],
+        ["Rossio",38.714,-9.1379],
+        ["Martim Moniz",38.7176,-9.1358],
+        ["Intendente",38.7232,-9.1353],
+        ["Anjos",38.727,-9.1349],
+        ["Arroios",38.7327,-9.1343],
+        ["Alameda",38.737,-9.1339],
+        ["Areeiro",38.7423,-9.1335],
+        ["Roma",38.748,-9.1412],
+        ["Alvalade",38.7531,-9.144],
+        ["Campo Grande",38.7601,-9.1578],
+        ["Telheiras",38.7599,-9.1664]
+      ]
+    },
+    {
+      "id": "lvermelha",
+      "name": "Red Line",
+      "jp": "Linha Vermelha",
+      "color": "#DF096F",
+      "code": "Vermelha",
+      "stations": [
+        ["São Sebastião",38.7346,-9.153],
+        ["Saldanha",38.7352,-9.1443],
+        ["Alameda",38.737,-9.1325],
+        ["Olaias",38.7395,-9.1239],
+        ["Bela Vista",38.7475,-9.1177],
+        ["Chelas",38.7548,-9.1139],
+        ["Olivais",38.7606,-9.112],
+        ["Cabo Ruivo",38.763,-9.1041],
+        ["Oriente",38.7679,-9.0997],
+        ["Moscavide",38.7749,-9.103],
+        ["Encarnação",38.7751,-9.1155],
+        ["Aeroporto",38.7684,-9.1283]
+      ],
+      "firstLast": "Aeroporto → city: first ~6:30 AM, last ~1:00 AM; change at Alameda or São Sebastião. ~20 min to the centre."
+    }
+  ],
+  "hotels": [
+    {"name":"The Editory Riverside Santa Apolónia Hotel","lat":38.7136,"lng":-9.1229,"area":"Lisboa Santa Apolónia","rating":4,"ratingCount":163,"stars":5,"priceTier":4},
+    {"name":"Vincci Alfama","lat":38.7134,"lng":-9.1277,"area":"Lisboa Santa Apolónia","rating":4.9,"ratingCount":467,"stars":4,"priceTier":3},
+    {"name":"Hotel Convento do Salvador","lat":38.7128,"lng":-9.1298,"area":"Lisboa Santa Apolónia","rating":4.6,"ratingCount":951,"stars":3,"priceTier":3},
+    {"name":"Memmo Alfama Hotel","lat":38.7103,"lng":-9.1305,"area":"Lisboa Santa Apolónia","rating":4.7,"ratingCount":1979,"stars":4,"priceTier":3},
+    {"name":"Johnies Place Lisbon Hostel & Suites","lat":38.7157,"lng":-9.1311,"area":"Lisboa Santa Apolónia","rating":4.4,"ratingCount":160,"stars":1,"priceTier":1},
+    {"name":"ibis Lisboa Parque das Nações","lat":38.7712,"lng":-9.0969,"area":"Lisboa Oriente","rating":4.1,"ratingCount":1321,"stars":2,"priceTier":2,"brandAnchor":true},
+    {"name":"Tivoli Oriente Lisboa Hotel","lat":38.7665,"lng":-9.0984,"area":"Lisboa Oriente","rating":4.1,"ratingCount":5137,"stars":4,"priceTier":3},
+    {"name":"Meliá Lisboa Oriente","lat":38.7693,"lng":-9.0981,"area":"Lisboa Oriente","rating":4,"ratingCount":1728,"stars":4,"priceTier":3},
+    {"name":"Olissippo Oriente","lat":38.7649,"lng":-9.0975,"area":"Lisboa Oriente","rating":4.2,"ratingCount":1192,"stars":4,"priceTier":3},
+    {"name":"Martinhal Lisbon Oriente","lat":38.7612,"lng":-9.0981,"area":"Lisboa Oriente","rating":4.8,"ratingCount":190,"stars":4,"priceTier":4},
+    {"name":"Meliá Lisboa Aeroporto","lat":38.7703,"lng":-9.1251,"area":"Lisbon Humberto Delgado Airport","rating":4.3,"ratingCount":2979,"stars":4,"priceTier":3},
+    {"name":"Star Inn Lisbon","lat":38.7707,"lng":-9.1252,"area":"Lisbon Humberto Delgado Airport","rating":4.1,"ratingCount":843,"stars":3,"priceTier":2},
+    {"name":"The Ivens, Autograph Collection","lat":38.7096,"lng":-9.1404,"area":"Baixa-Chiado","rating":4.8,"ratingCount":474,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Convent Square Lisbon, Vignette Collection by IHG","lat":38.7144,"lng":-9.1384,"area":"Baixa-Chiado","rating":4.7,"ratingCount":381,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Hotel do Chiado","lat":38.7107,"lng":-9.1395,"area":"Baixa-Chiado","rating":4.4,"ratingCount":877,"stars":4,"priceTier":3},
+    {"name":"Hotel Santa Justa","lat":38.7127,"lng":-9.138,"area":"Baixa-Chiado","rating":4.7,"ratingCount":2789,"stars":4,"priceTier":3},
+    {"name":"Living Lounge Hostel","lat":38.7111,"lng":-9.1391,"area":"Baixa-Chiado","rating":4.8,"ratingCount":452,"stars":1,"priceTier":1},
+    {"name":"DUO Hotel Lisbon, Curio Collection by Hilton","lat":38.7083,"lng":-9.1494,"area":"Cais do Sodré","rating":4.8,"ratingCount":441,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"LX Boutique Hotel","lat":38.707,"lng":-9.1433,"area":"Cais do Sodré","rating":4.5,"ratingCount":2261,"stars":4,"priceTier":3},
+    {"name":"Sunset Destination Hostel","lat":38.7058,"lng":-9.1442,"area":"Cais do Sodré","rating":4.6,"ratingCount":698,"stars":1,"priceTier":1},
+    {"name":"Lost Inn Lisbon Hostel","lat":38.7083,"lng":-9.1441,"area":"Cais do Sodré","rating":4.8,"ratingCount":487,"stars":1,"priceTier":1},
+    {"name":"Sofitel Lisbon Liberdade","lat":38.7186,"lng":-9.1449,"area":"Avenida da Liberdade","rating":4.5,"ratingCount":5108,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Hotel Lisboa Plaza","lat":38.7187,"lng":-9.1456,"area":"Avenida da Liberdade","rating":4.5,"ratingCount":2259,"stars":4,"priceTier":3},
+    {"name":"Heritage Avenida Liberdade","lat":38.7177,"lng":-9.1426,"area":"Avenida da Liberdade","rating":4.8,"ratingCount":2254,"stars":4,"priceTier":3},
+    {"name":"Hotel Alegria","lat":38.7175,"lng":-9.1449,"area":"Avenida da Liberdade","rating":4.7,"ratingCount":347,"stars":2,"priceTier":2},
+    {"name":"Goodmorning Solo Traveller Hostel","lat":38.7158,"lng":-9.141,"area":"Avenida da Liberdade","rating":4.8,"ratingCount":584,"stars":1,"priceTier":1},
+    {"name":"InterContinental Lisbon","lat":38.7266,"lng":-9.1556,"area":"Marquês de Pombal","rating":4.4,"ratingCount":382,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Holiday Inn Express Lisbon - Av. Liberdade","lat":38.7225,"lng":-9.1505,"area":"Marquês de Pombal","rating":4.2,"ratingCount":1201,"stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"PortoBay Marquês","lat":38.7239,"lng":-9.15,"area":"Marquês de Pombal","rating":4.7,"ratingCount":1255,"stars":4,"priceTier":3},
+    {"name":"H10 Duque de Loulé","lat":38.7264,"lng":-9.1471,"area":"Marquês de Pombal","rating":4.6,"ratingCount":1915,"stars":4,"priceTier":3},
+    {"name":"Lisboa Central Hostel","lat":38.7245,"lng":-9.1476,"area":"Marquês de Pombal","rating":4.9,"ratingCount":964,"stars":1,"priceTier":1}
+  ],
+  "sights": [
+    {
+      "name": "Alfama",
+      "lat": 38.7116,
+      "lng": -9.1301,
+      "note": "Lisbon's oldest quarter: a hillside maze of steep alleys, laundry-strung lanes and fado houses that survived the 1755 earthquake.",
+      "hours": "Open-air neighbourhood, always open; fado houses from ~8:00 PM",
+      "rating": 4.5
+    },
+    {
+      "name": "Oceanário de Lisboa",
+      "lat": 38.7635,
+      "lng": -9.0937,
+      "note": "One of Europe's largest aquariums, built around a vast central tank with sharks, rays and sunfish, in Parque das Nações.",
+      "hours": "10:00 AM–8:00 PM daily (last entry 7:00 PM)",
+      "rating": 4.5,
+      "ticketUrl": "https://www.oceanario.pt"
+    },
+    {
+      "name": "Jerónimos Monastery",
+      "lat": 38.6979,
+      "lng": -9.2068,
+      "note": "A UNESCO-listed Manueline monastery in Belém, with a lace-like stone cloister and Vasco da Gama's tomb in the church.",
+      "hours": "9:30 AM–5:30 PM (last entry 5:00 PM), closed Mon; the church is free",
+      "rating": 4.5
+    },
+    {
+      "name": "Castelo de São Jorge",
+      "lat": 38.7139,
+      "lng": -9.1335,
+      "note": "Moorish hilltop castle with walkable ramparts, peacocks and the widest view over the Baixa and the Tagus.",
+      "hours": "9:00 AM–9:00 PM Mar–Oct, 9:00 AM–6:00 PM Nov–Feb (last entry 30 min before)",
+      "rating": 4.2,
+      "ticketUrl": "https://castelodesaojorge.pt/en/"
+    },
+    {
+      "name": "Praça do Comércio",
+      "lat": 38.7076,
+      "lng": -9.1365,
+      "note": "The grand riverside square of the rebuilt Baixa, framed by yellow arcades and the Rua Augusta Arch, whose top is a paid viewpoint.",
+      "hours": "Square open 24 hours; Rua Augusta Arch viewpoint ~10:00 AM–7:00 PM",
+      "rating": 4.4
+    },
+    {
+      "name": "Torre de Belém",
+      "lat": 38.6916,
+      "lng": -9.216,
+      "note": "The 16th-century fortified tower that guarded the Tagus, reopened on 27 May 2026 after a year-long restoration; entry is now in timed half-hour slots with a daily cap.",
+      "hours": "~9:30 AM–5:30 PM, closed Mon; timed entry slots",
+      "rating": 4.2,
+      "bookAhead": true
+    },
+    {
+      "name": "Bairro Alto",
+      "lat": 38.7128,
+      "lng": -9.1448,
+      "note": "A grid of narrow streets that is quiet by day and turns into Lisbon's busiest open-air bar scene at night.",
+      "hours": "Streets always open; bars busiest ~10:00 PM–2:00 AM",
+      "rating": 4.4
+    },
+    {
+      "name": "Calouste Gulbenkian Museum",
+      "lat": 38.7373,
+      "lng": -9.1541,
+      "note": "An oil magnate's collection from Egyptian antiquities to Lalique jewellery, plus the CAM modern-art centre, set in a calm garden; the Founder's Collection reopened on 18 July 2026 after renovation.",
+      "hours": "10:00 AM–6:00 PM, closed Tue; gardens free daily",
+      "rating": 4.6,
+      "ticketUrl": "https://gulbenkian.pt/museu/en/"
+    },
+    {
+      "name": "National Tile Museum",
+      "lat": 38.7247,
+      "lng": -9.1137,
+      "note": "Five centuries of Portuguese azulejos inside the Madre de Deus convent, including a 23-metre tiled panorama of pre-earthquake Lisbon.",
+      "hours": "10:00 AM–6:00 PM, closed Mon",
+      "rating": 4.5
+    },
+    {
+      "name": "LX Factory",
+      "lat": 38.7034,
+      "lng": -9.1785,
+      "note": "A former textile works under the 25 de Abril Bridge turned into a creative quarter of bookshops, street art, cafés and Sunday markets.",
+      "hours": "Open daily; shops ~10:00 AM–8:00 PM, restaurants and bars later",
+      "rating": 4.3
+    },
+    {
+      "name": "Miradouro da Senhora do Monte",
+      "lat": 38.7192,
+      "lng": -9.1328,
+      "note": "The highest viewpoint in the old town, a free terrace with a sweeping panorama of the castle, the Baixa and the river; best at sunset.",
+      "hours": "Open 24 hours, free",
+      "rating": 4.7
+    },
+    {
+      "name": "Padrão dos Descobrimentos",
+      "lat": 38.6936,
+      "lng": -9.2056,
+      "note": "A 52-metre riverside monument to Portugal's age of exploration; a lift goes up to a rooftop view over Belém.",
+      "hours": "10:00 AM–7:00 PM Mar–Sep; 10:00 AM–6:00 PM Oct–Feb, closed Mon",
+      "rating": 4.2,
+      "ticketUrl": "https://padraodosdescobrimentos.pt/en/"
+    },
+    {
+      "name": "Quake - Lisbon Earthquake Museum",
+      "lat": 38.6964,
+      "lng": -9.1968,
+      "note": "An immersive museum that recreates the 1755 earthquake, tsunami and fire with a shaking simulator and themed rooms; visits run in timed sessions of ~90 min.",
+      "hours": "10:00 AM–6:00 PM daily (last session)",
+      "rating": 4.7,
+      "ticketUrl": "https://lisbonquake.com/en-GB",
+      "bookAhead": true
+    },
+    {
+      "name": "Tram 28",
+      "lat": 38.7159,
+      "lng": -9.1365,
+      "note": "The vintage yellow tram that rattles from Martim Moniz up through Graça and Alfama to Estrela; ride early to beat the queues and pickpockets.",
+      "hours": "~6:00 AM–11:00 PM, every ~10–15 min; queues at Martim Moniz from late morning",
+      "rating": 3.9
+    },
+    {
+      "name": "Igreja de São Roque",
+      "lat": 38.7134,
+      "lng": -9.1434,
+      "note": "A plain-fronted Jesuit church hiding one of Europe's most lavish interiors, with a gilded chapel shipped piece by piece from Rome.",
+      "hours": "Church ~10:00 AM–6:00 PM (from 2:00 PM Mon), free; museum next door paid",
+      "rating": 4.6
+    },
+    {
+      "name": "Time Out Market Lisboa",
+      "lat": 38.7069,
+      "lng": -9.1459,
+      "note": "The 1892 Ribeira market hall, now a food hall with stalls from well-known Lisbon chefs alongside the old fish and produce market.",
+      "hours": "10:00 AM–midnight daily",
+      "rating": 4.3
+    },
+    {
+      "name": "Miradouro de São Pedro de Alcântara",
+      "lat": 38.7154,
+      "lng": -9.1441,
+      "note": "A free two-level garden terrace at the top of the Glória funicular, looking across to the castle; a kiosk serves drinks into the evening.",
+      "hours": "Open 24 hours, free",
+      "rating": 4.5
+    }
+  ],
+  "railStations": [
+    {
+      "name": "Lisboa Santa Apolónia",
+      "lat": 38.7136,
+      "lng": -9.1225,
+      "note": "The riverside city terminus at the edge of Alfama: Alfa Pendular and Intercidades to Porto (~3h) and Coimbra, plus the blue Metro line.",
+      "hours": "Station open ~5:00 AM–1:00 AM. Mainline trains run to individual timetables."
+    },
+    {
+      "name": "Lisboa Oriente",
+      "lat": 38.7678,
+      "lng": -9.099,
+      "note": "Calatrava-designed hub in Parque das Nações: every Porto and Coimbra train calls here, plus trains to the Algarve (Faro), long-distance buses and the red Metro line, one stop from the airport.",
+      "hours": "Station open ~5:00 AM–1:30 AM. Mainline trains run to individual timetables."
+    }
+  ],
+  "airports": [
+    {
+      "name": "Lisbon Humberto Delgado Airport",
+      "code": "LIS",
+      "lat": 38.77,
+      "lng": -9.1281,
+      "transitNote": "Metro red line (shown on map) from Aeroporto station at Terminal 1: ~20 min to Saldanha, ~25 min to Baixa-Chiado changing at Alameda (green line) or São Sebastião (blue). Normal metro fare. Terminal 2 (low-cost) is linked by a free shuttle bus.",
+      "hours": "Red line: first ~6:30 AM, last ~1:00 AM. Late arrivals: taxi/ride-hail (~15–20 min to the centre)."
+    }
+  ]
+}

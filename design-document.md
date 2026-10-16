@@ -110,8 +110,10 @@ station/airport/railway stop you tap.
 - **Subway lines**: real official colors, toggleable per line, station
   dots clickable.
 - **Cities**: Tokyo, Shanghai, New York City, London, Barcelona, plus
-  batch 1 of the scale-up (2026-10-15): Paris, Seoul, Osaka, Hong Kong,
-  Singapore.
+  the scale-up (2026-10-15/16): Paris, Seoul, Osaka, Hong Kong,
+  Singapore, Taipei, Bangkok, Beijing, Madrid, Rome, Berlin, Amsterdam,
+  Vienna, Prague, Istanbul, Lisbon, Milan, Washington DC, Chicago,
+  Mexico City (25 cities).
 - **City picker** (search redesigned 2026-10-16): a search box that
   matches city name, country, other names (`aliases` in `cities.json`:
   local script, nicknames like NYC) and airport codes (CDG, KIX), with
@@ -267,7 +269,8 @@ Steps per city:
    station has hotels) and that ticket links aren't resellers. Fix every
    error; fix or document every warning in the changelog.
 4. **Ship in batches of 5 cities, one PR per batch**, previewed before
-   merge (merging to `main` = live).
+   merge (merging to `main` = live). Batches 2–4 shipped together in one
+   PR (2026-10-16) to finish all 20 the same day.
 
 Batches (proposed 2026-10-15, Audrey can swap any):
 1. Paris, Seoul, Osaka, Hong Kong, Singapore
@@ -465,6 +468,48 @@ they're done.
 ---
 
 ## Changelog
+
+### 2026-10-16 — batches 2–4: 15 more cities (25 total)
+- Taipei, Bangkok, Beijing, Madrid, Rome, Berlin, Amsterdam, Vienna,
+  Prague, Istanbul, Lisbon, Milan, Washington DC, Chicago and Mexico City,
+  made by the §4 "Adding a city" steps, same as batch 1: lines from
+  OpenStreetMap (run on GitHub's servers), hotels and sights curated by
+  Claude, TripAdvisor ratings and `ratingCount` (storing them is still
+  Audrey's open call). Shipped as one PR instead of three.
+- Sight hours, fares and closures come from Claude's knowledge plus a
+  limited number of web checks; some are approximate ("~") and the first
+  monthly refresh should re-check them.
+- **Airport radius exception:** where no hotel on airport grounds reaches
+  4.0/100, free-shuttle hotels farther out are listed and say so: DCA,
+  IAD, O'Hare (Rosemont), Midway, Madrid Barajas.
+- **Line fixes:** non-Latin station names translated (Beijing, Taipei,
+  Bangkok); local line names kept as the second label (Línea, Linea,
+  Linka, Metro Hattı); airport lines carry first/last train notes. Bangkok
+  BTS Silom Line rebuilt from OSM station nodes (its route relation lists
+  6 of 14 stations); Airport Rail Link added. Beijing's Batong and Daxing
+  stubs folded into lines 1 and 4. Taipei's Airport MRT drawn once
+  (express stops are a subset). Istanbul adds Marmaray and the T1 and T5 trams
+  (Sultanahmet has no metro). Not drawn: suburban/airport trains that
+  aren't metro (Vienna CAT/S-Bahn, Rome Leonardo Express, Milan Malpensa
+  Express, Metra, MARC); airport popups explain them. Rome Metro C's
+  unopened stretch skipped.
+- Validator: 0 errors. Every warning is a hotel gap listed below.
+- **Hotel gaps and sights excluded, per city:**
+  - Berlin: BER has 2 (Steigenberger, IntercityHotel at T1; no brand anchor or budget; Holiday Inn/B&B 3.8, Moxy 3.5). Friedrichshain chosen over Kreuzberg (no brand, thin inventory). Sights: Pergamonmuseum and German Historical Museum excluded (closed/renovating), Reichstag dome closed 19–30 Oct 2026 noted; KaDeWe (shop), Neues Museum (part of Museum Island), Alexanderplatz (3.9, hotel area), others cap.
+  - Amsterdam: Schiphol 3 (Hilton, Sheraton, citizenM; on grounds; no budget—YOTELAIR 3.9); Zuidas 3, no budget or luxury (Element 851 m). Sights: Red Light District (adult/district), Centraal Station (rail hub), Molen van Sloten (outskirts), adult museums excluded.
+  - Washington DC: Union Station has no budget at 4.0+ (YOTEL 3.6, hostel 3.8); no hostel anywhere reaches 4.0/100. Reagan National: no hotel on airport grounds — 5 Crystal City/National Landing hotels 1.2–1.4 km out with free shuttles and one Metro stop. Dulles: on-grounds Marriott 3.7 — 5 shuttle hotels 1.8–4 km out (geocoded addresses). Sights: White House (tours by congressional request only), Georgetown (neighbourhood), Smithsonian umbrella listing, others cap. Air and Space partly renovating.
+  - Lisbon: Airport has 2 (Meliá Aeroporto, Star Inn; no brand anchor; ibis Styles 66 reviews, Holiday Inn Express 3.5, Radisson Blu 3.7); Santa Apolónia no brand anchor; Cais do Sodré 4, no luxury. Sights: Chiado (hotel area), Centro Colombo (mall), Parque das Nações (district), Arco do Triunfo (part of Praça do Comércio). Torre de Belém reopened 27 May 2026 (timed slots); Gulbenkian reopened 18 Jul 2026. Tram 28 kept at 3.9.
+  - Taipei: Taoyuan Airport has 1 (Hyatt Regency, on airport grounds); Songshan Airport 0 (Fullerton North 897 m, Mandarin Oriental 966 m); Ximending no brand anchor; Xinyi no budget; East District 4. Hotel Resonance 806 m excluded. Sights: Taipei 101 Observatory, Beitou Thermal Valley, Maokong merged into parent entries.
+  - Prague: Airport has 1 (Courtyard by Marriott; Holiday Inn Airport 3.8). Sights: Lesser Town (district), Museum of Senses and Illusion Art Museum (gimmicks), Sex Machines Museum (adult), Klementinum (3.7), Palladium (mall), others cap. Petřín funicular reopened 22 Sep 2026.
+  - Bangkok: Krung Thep Aphiwat 0 (nearest 878 m); Hua Lamphong 4, no brand anchor (kept as a hub: Eastern Line and ordinary trains); Suvarnabhumi 1 (Hyatt Regency, tunnel; Boxtel 3.9); Don Mueang 1 (Amari, footbridge; no brand/budget); Riverside 4, no budget; Chinatown no brand anchor. Khao San not an area (no metro). Sights: Siam Paragon, MBK, Terminal 21, ICONSIAM, CentralWorld, Platinum, Pratunam, Asiatique (shopping), Emerald Buddha (in Grand Palace), Sukhumvit (district), Playmondo (kids' play), Safari World and Train Night Market (far), Soi Cowboy (3.6), Chao Phraya River (not one place). Khaosan Road kept at 3.8. BTS Silom Line rebuilt from station nodes (OSM route incomplete).
+  - Vienna: Airport 0 (NH Airport 3.9, Moxy 3.8 on grounds; no floor exception used); Leopoldstadt no luxury; Landstraße 4. S7 ends at St. Marx until ~Oct 2027 (REX7 to Hauptbahnhof). Sights: Historic Center (district), Stephansplatz/Rathausplatz (duplicates), Schönbrunn Gardens and Sisi Museum (merged), Musikverein (concert venue), MuseumsQuartier (overlaps Leopold), Graben (shopping), others cap. Sisi Museum closed until 19 Nov 2026; KHM timed tickets.
+  - Chicago: O'Hare's only on-grounds hotel (Hilton O'Hare) is 3.6, so 4 Rosemont free-shuttle hotels 2.8–3.7 km out (one Blue Line stop) are listed instead; Midway 2 (Marriott, Holiday Inn Express, ~1.5 km on Cicero Ave, free shuttle; DoubleTree Midway not in OSM); West Loop 3, no brand anchor or budget (Hotel Chicago West Loop 3.9). Sights: Magnificent Mile (shopping/hotel area), Cloud Gate (in Millennium Park), Medieval Torture Museum (judgment), Route 66 sign, United Center (arena), Chicago River (dup of Riverwalk), Union Station (hub), Skyline (not a place), Macy's (shop), others cap.
+  - Milan: Malpensa 1 (Moxy at T2; Sheraton 3.9, others <4.0); Linate 1 (Moxy ~660 m; NH 3.8, Novotel 3.7); Porta Garibaldi no budget (3.9s); Brera 3, no brand anchor or budget; Navigli no brand anchor or budget (Mercure 3.9, nhow 816 m). Airport pins are terminal estimates (±300 m). Sights: Brera District (hotel area), Arco della Pace (in Parco Sempione), Milano Centrale (station), Museum of Senses (gimmick), Duomo Museum (dup), Mercato Centrale (closed by health authority Mar 2026). Piazza del Duomo, Terrazze and Santa Maria delle Grazie merged.
+  - Istanbul: Söğütlüçeşme 1 (Holiday Inn Kadıköy); Istanbul Airport 1 (YOTEL landside; Hilton Airport opened Aug 2026, too few reviews/no pin); Sabiha Gökçen 1 (Kepler Club, airside, international departures only; ISG Airport Hotel had no pin). Halkalı not included. Sights: Sultanahmet District (hotel area), Bosphorus (water), Historic Areas (umbrella), Vialand (theme park), İstinye Park and Cevahir (malls), Sultanahmet Square (dup), Çamlıca Mosque (low reviews), Taksim Square (3.7), Emirgan Park and Rumeli Fortress (cap). Spice Bazaar not in TA top 60.
+  - Rome: Fiumicino 0 (Hilton Rome Airport 3.5, Hilton Garden Inn 3.8); Ciampino 0 (Casa Lollobrigida, 4.7, not in OSM; nothing else ≥4.0 within 2.5 km); Tiburtina 2, no brand anchor or upper (BW Blu 980 m, 3.7); Spanish Steps no budget; Prati no luxury. Trastevere not an area (no metro). Sights: St. Peter's added (TripAdvisor files it under Vatican City); Centro Storico (district) and an unclear "Welcome To Rome" entry skipped; Trevi €2 basin ticket since Feb 2026.
+  - Madrid: Chamartín 2 (Barceló Imagine, Eurostars Madrid Tower; no brand or budget); Barajas: nothing on grounds qualifies, so Hilton Madrid Airport (2.1 km) and Marriott Auditorium (2.4 km), both with free airport shuttles; Salamanca no budget. Malasaña's ibis Styles passes on the new-brand rule (31 reviews). Sights: Museo Sorolla house closed for works (extension open); Barrio de Salamanca and La Latina (districts), Palacio de Cristal (in Retiro), Palacio de Cibeles (in Plaza de Cibeles), Primark (shop), Atocha (hub), Mementorium (show), others cap.
+  - Mexico City: Airport 2 (Courtyard, NH Collection T2; no budget; Hilton 3.8, Camino Real 3.6); Polanco 4, all luxury (Habita 3.5; Pug Seal, Royal Colonial not in OSM); Condesa 2 (Villa Condesa, María Condesa; Andaz and Mondrian missing from OSM; anchored on Parque México, no central metro). No rail hub (El Insurgente is a Toluca commuter link); Felipe Ángeles airport left out. Sights: Ballet Folklórico (in Bellas Artes), Polanco/Historic Center/La Condesa (hotel areas), Chapultepec Forest (overlaps castle and museum), Bazaar Sábado (shopping), Gran Hotel (hotel), others cap. Xochimilco not in the ranking.
+  - Beijing (thinnest city: OpenStreetMap lacks many Beijing hotels): Beijing South 0 and Beijing West 0 (nothing in 800 m reaches 4.0/100; Magnolia not mapped); Beijing Railway Station 1 (Pudi); Capital Airport 2 (Cordis, Hilton; no budget); Daxing Airport 1 (Mumian, covered walkway); Nanluoguxiang 3, no brand; Sanlitun 4. Qianmen dropped as an area (Mandarin Oriental Qianmen, The Emperor, 365 Inn unmapped). Chaoyang station left out. Sights: Wangfujing Street, Hongqiao Market, Qianmen Street, Taikoo Li (shopping), Gubei Water Town (120 km), Happy Valley and Universal Beijing (theme parks), Juyong Pass/Simatai/Huanghuacheng (other Great Wall sections), Tian'anmen gate and Long Corridor (duplicates), Water Cube and Bird's Nest (merged into Olympic Park). Mutianyu and Badaling kept with transport notes.
 
 ### 2026-10-16 — smarter city search
 - Audrey asked for a smart way to find a city as the list grows to 25.
