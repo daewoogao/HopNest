@@ -1,0 +1,101 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	60930917	Madison Manor		43.6680960	-79.4033862	hotel				http://madisonmanorboutiquehotel.com/location/
+node	241785165	Courtyard Marriott;Courtyard by Marriot		43.6624169	-79.3831028	hotel				
+node	273320289	Marriott City Centre		43.6423430	-79.3899493	hotel		Marriott	Marriott International	https://www.marriott.com/en-us/hotels/yyzcc-toronto-marriott-city-centre-hotel/
+node	276476252	Hotel Victoria		43.6481903	-79.3776696	hotel				https://www.hotelvictoria-toronto.com
+node	281361693	Ramada Plaza		43.6613807	-79.3767156	hotel		Ramada	Ramada	
+node	281660372	The Rex		43.6505690	-79.3884730	hotel				
+node	281662928	Cambridge Suites Hotel		43.6516903	-79.3778983	hotel				http://www.cambridgesuitestoronto.com/En#gref
+node	380027427	Isabella Hotel and Suites		43.6700224	-79.3761260	hotel				http://isabella-hotel-and-suites.hotelstorontoontario.com/en
+node	412348536	Holiday Inn Express Toronto Downtown		43.6519998	-79.3728736	hotel		Holiday Inn Express		https://www.ihg.com/holidayinnexpress/hotels/us/en/toronto/yyzls/hoteldetail
+node	572859632	Union Hotel		43.6463137	-79.3830867	hotel				https://www.thestrathconahotel.com/
+node	837128817	Inglewood Arms		43.6588218	-79.3748529	hotel				
+node	937221999	Park Hyatt Toronto		43.6691956	-79.3946177	hotel		Park Hyatt	Hyatt	https://toronto.park.hyatt.com/en/hotel/home.html
+node	1258863641	The McCaul		43.6558520	-79.3922450	hotel				
+node	2271819307	Urban Living Suites		43.6518836	-79.4074578	hotel				https://www.urbanlivingsuites.com/
+node	2806099833	Junjun Hotel		43.6572003	-79.4049068	hotel				
+node	3245937204	One King West Hotel & Residence		43.6488612	-79.3780334	hotel				https://www.onekingwest.com/
+node	3791777257	"The Beverley Hotel Queen West, Sonder"		43.6495359	-79.3920992	hotel		Sonder		https://www.marriott.com/en-gb/hotels/yyzhb-the-beverley-hotel-queen-west-sonder/overview/
+node	4036609207	ME by Meliá		43.6700140	-79.3882220	hotel		ME by Meliá		
+node	4387011191			43.6948975	-79.3028931	hostel				
+node	5056455125	Grange Hotel		43.6508615	-79.4013588	hotel				
+node	5056826321	Windsor Arms Hotel		43.6687835	-79.3911449	hotel				https://windsorarmshotel.com/
+node	5056850825	Anndore Hotel		43.6685701	-79.3853782	hotel				https://www.choicehotels.com/ontario/toronto/comfort-inn-hotels/cn228
+node	5058475621	The Ivey At Verity		43.6533611	-79.3743382	hotel				https://www.theivyatverity.com/
+node	5058550322	Victoria's Mansion		43.6674676	-79.3822102	hotel				
+node	5064133521	Residence Inn Downtown Toronto		43.6447324	-79.3905978	hotel		Residence Inn		https://www.marriott.com/hotels/travel/yyztd-residence-inn-toronto-downtown-entertainment-district/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2
+node	5064137025	W Hotels		43.6710690	-79.3851908	hotel		W Hotels		
+node	5064671521	The Yorkville Royal Sonesta Hotel Toronto		43.6686260	-79.3962785	hotel	4	Sonesta		https://www.sonesta.com/royal-sonesta/on/toronto/yorkville-royal-sonesta-hotel-toronto
+node	6016738424	Saint James Hotel		43.6594780	-79.3809805	hotel				
+node	6205041885	The Clarence Park		43.6447254	-79.3939270	hostel				
+node	6927688986	Höstel Toronto		43.6646059	-79.3670977	hostel				
+node	7083942572	All Days Hostel		43.6710185	-79.3777978	hostel				
+node	7879340827	Royal Oak Inn		43.6590500	-79.3684296	hotel				
+node	10224698079	Nu Hotel		43.6933439	-79.6278341	hotel				https://nuhoteltoronto.com/
+node	10920717718	Ace Hotel Toronto		43.6467832	-79.3981605	hotel				https://acehotel.com/toronto/
+node	11359432294	Jarvis house		43.6629362	-79.3771380	hotel				
+node	11389894540	The Sutton Place Hotel Toronto		43.6459456	-79.3919637	hotel				https://www.suttonplace.com/toronto
+node	11847572074	Neill-Wycik Hotel		43.6603466	-79.3773218	hotel				https://www.neillwycikhotel.ca/
+node	12184117300	Check Inn CA		43.6414229	-79.4313492	hostel				
+node	12863386069	Element		43.6901809	-79.6220081	hotel		Element		
+node	13011543819	The Only Backpacker's Inn		43.6805085	-79.3378878	hostel				
+node	13276607590	Le Germain Hotel Toronto		43.6428613	-79.3808576	hotel				
+node	13971482554	Toronto Travellers Home		43.6524791	-79.4007468	hostel				https://www.hosteltorontotravellershome.net
+node	14077049219	The Annex Hotel		43.6654332	-79.4079249	hotel				https://theannex.com/
+node	14077873815	Hotel Riu Plaza Toronto		43.6473588	-79.3916430	hotel	4	RIU	RIU Hotels & Resorts	https://www.riu.com/en/hotel/canada/toronto/hotel-riu-plaza-toronto
+node	14151276326	Canopy by Hilton		43.6720557	-79.3774231	hotel		Canopy	Hilton	
+way	25108216	The St. Regis		43.6497682	-79.3803216	hotel	5	St. Regis	Marriott International	https://www.marriott.com/hotels/travel/yyzxr-the-st-regis-toronto/
+way	25491342	Shangri-La		43.6491621	-79.3862941	hotel				https://www.shangri-la.com/toronto/shangrila/
+way	27767640	Hilton Toronto		43.6499386	-79.3853804	hotel		Hilton		https://www.hilton.com/en/hotels/torhihh-hilton-toronto/
+way	27778414	"Chelsea Hotel, Toronto"		43.6584257	-79.3831179	hotel	4	Independent		https://www.chelseatoronto.com/en/
+way	27778689	Double Tree by Hilton Hotel		43.6546848	-79.3861150	hotel		DoubleTree		https://doubletree3.hilton.com/en/hotels/ontario/doubletree-by-hilton-hotel-toronto-downtown-YTOCSDT/index.html
+way	31728160	Fairmont Royal York Hotel		43.6459071	-79.3815116	hotel		Fairmont	Fairmont	https://www.fairmont.com/royal-york-toronto/
+way	32742026	SoHo Hotel Toronto		43.6449518	-79.3925979	hotel				https://www.sohohoteltoronto.com/
+way	33893041	Kimpton Saint George Hotel		43.6676627	-79.4009532	hotel		Kimpton		https://www.kimptonsaintgeorge.com/
+way	34545829	Marriott		43.6548014	-79.3823043	hotel	4	Marriott		https://www.marriott.com/en-us/hotels/yyzec-marriott-downtown-at-cf-toronto-eaton-centre/overview/
+way	34749592	Quality Inn		43.6915034	-79.6248262	hotel		Quality Inn		
+way	34749685	Fairfield Inn & Suites by Marriott Toronto Airport		43.6895281	-79.6072002	hotel		Fairfield Inn & Suites		
+way	34749688	Hampton Inn & Suites by Hilton Toronto Airport		43.6890703	-79.6077784	hotel		Hampton		
+way	34749721	Holiday Inn Toronto Airport		43.6875624	-79.6003486	hotel		Holiday Inn	Holiday Inn	https://www.ihg.com/holidayinn/hotels/us/en/toronto/yyzia/hoteldetail
+way	34749723	The Westin Toronto Airport		43.6873006	-79.5987555	hotel	4	Westin	Starwood Hotels & Resorts	https://www.marriott.com/en-us/hotels/yyzbw-the-westin-toronto-airport/overview/
+way	34749730	Embassy Suites		43.6877794	-79.5964039	hotel		Embassy Suites		https://www.choicehotels.com/ontario/toronto/quality-inn-hotels/cn309
+way	34749843	Toronto Airport Marriott		43.6859264	-79.5938137	hotel		Marriott	Marriott	https://www.marriott.com/en-us/hotels/yyzot-toronto-airport-marriott-hotel/overview/
+way	34749848	DoubleTree by Hilton Toronto Airport		43.6862265	-79.5962604	hotel		DoubleTree		https://www.hilton.com/en/hotels/ytoapdt-doubletree-toronto-airport/
+way	34749850	Courtyard by Marriott Toronto Airport		43.6849938	-79.5939611	hotel	3	Courtyard		https://www.marriott.com/en-us/hotels/yyzap-courtyard-toronto-airport/overview/
+way	34749851	Spark by Hilton Toronto Airport		43.6847661	-79.5931358	hotel		Spark by Hilton		https://www.hilton.com/en/hotels/yyzaepe-spark-toronto-airport/
+way	35155100	TOOR Hotel - JDV by Hyatt		43.6556673	-79.3735933	hotel				https://toorhotel.com/
+way	35893795	Radisson Blu Hotel Toronto - Harbour Front		43.6385539	-79.3858929	hotel		Radisson Blu		https://www.radissonhotels.com/en-us/hotels/radisson-toronto-harbourfront-admiral
+way	44076451	The Ritz-Carlton Hotel		43.6453404	-79.3870873	hotel		The Ritz-Carlton		
+way	55031045	Holiday Inn		43.6617386	-79.3810790	hotel		Holiday Inn		https://www.ihg.com/holidayinn/hotels/us/en/toronto/yyzct/hoteldetail
+way	55036397	Comfort Hotel	"The Anndore House, part of JDV by Hyatt"	43.6685334	-79.3853361	hotel				https://theanndorehouse.com/
+way	55896876	Town Inn Suites		43.6689660	-79.3826732	hotel				https://www.towninn.com/
+way	61014137	Bond Place Hotel homeless shelter		43.6559949	-79.3784787	hotel				
+way	61429677	Hyatt Regency Toronto		43.6464499	-79.3918121	hotel		Hyatt Regency	Hyatt	https://toronto.regency.hyatt.com/
+way	61511473	Hotel Le Germain		43.6457968	-79.3909687	hotel				
+way	62058559	The Omni King Edward Hotel		43.6491889	-79.3760625	hotel			Omni Hotels & Resorts	https://www.omnihotels.com/hotels/toronto-king-edward
+way	62256154	Hotel Ocho		43.6499759	-79.3964244	hotel				https://www.hotelocho.com/
+way	96773158	Sheraton Gateway Hotel in Toronto International Airport		43.6864453	-79.6197256	hotel		Sheraton		http://www.sheratongatewaytorontoairport.com/
+way	146419070	The Hazelton Hotel		43.6708961	-79.3936567	hotel	5			https://www.thehazeltonhotel.com/
+way	148646768	Four Seasons		43.6718731	-79.3899024	hotel		Four Seasons		
+way	150506087	Parkside Student Residence		43.6621242	-79.3770345	hotel				http://www.live-parkside.com/
+way	168876332	Westin Harbour Castle		43.6409376	-79.3756144	hotel	4	Westin	Westin	http://www.westinharbourcastletoronto.com/?SWAQ=958P
+way	179297875	InterContinental Toronto Centre Hotel		43.6441807	-79.3852526	hotel		InterContinental	Intercontinental	https://www.torontocentre.intercontinental.com/
+way	184344340	Dominion Hotel		43.6570101	-79.3591794	hotel				
+way	195846408	The Planet Traveler		43.6570006	-79.4036012	hostel				https://theplanettraveler.com/
+way	195846567	College Backpackers Inn		43.6568390	-79.4033338	hostel				https://www.collegebackpackers.ca/
+way	229916364	Hilton Toronto Airport Hotel & Suites		43.6870304	-79.6039071	hotel		Hilton		https://www.hilton.com/en/hotels/yyzhihh-hilton-toronto-airport-hotel-and-suites/
+way	231284913	Southcore Financial Centre Delta Hotel		43.6430839	-79.3838770	hotel		Delta Hotels		https://www.marriott.com/hotels/travel/yyzdl-delta-hotels-toronto/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2
+way	231773826			43.6490679	-79.3861578	hotel				
+way	239616642	Four Seasons		43.6721511	-79.3893386	hotel		Four Seasons		
+way	241020327	"Revery Toronto Downtown, Curio Collection by Hilton"		43.6469699	-79.3931022	hotel		Curio Collection	Hilton	https://www.hilton.com/en/hotels/yyzdtqq-revery-toronto-downtown/
+way	246346589	Gladstone House		43.6428020	-79.4269379	hotel	3.5			https://www.gladstonehouse.ca/
+way	288106846	Alt Hotel		43.6897429	-79.6147533	hotel				
+way	291464606	The Broadview Hotel		43.6590758	-79.3501367	hotel	4			https://www.thebroadviewhotel.ca
+way	367536575	Hotel X Toronto		43.6331875	-79.4121895	hotel				https://hotelxtoronto.com/
+way	367653677	Sheraton Centre Toronto Hotel		43.6510711	-79.3834742	hotel	4	Sheraton	Sheraton	http://www.sheratontoronto.com
+way	416989000	Bisha Hotel & Residences		43.6453152	-79.3924348	hotel				
+way	535658026	The Drake Hotel		43.6432801	-79.4245350	hotel	3			http://thedrakehotel.ca
+way	737886649	Four Points		43.6903386	-79.6216936	hotel		Four Points by Sheraton		
+way	804639074	The Alexandra hotel		43.6500834	-79.4025435	hotel				
+way	810800505	Best Western Premier Toronto		43.6789590	-79.5912047	hotel		Best Western Premier		
+way	1561400018	Hilton Garden Inn Toronto Airport		43.6900311	-79.6067402	hotel		Hilton Garden Inn		
