@@ -1,0 +1,38 @@
+  attempt 1 failed (https://maps.mail.ru/osm/tools/overpass/api/interpreter answered 504: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+), retrying
+  attempt 2 failed (https://maps.mail.ru/osm/tools/overpass/api/interpreter answered 504: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+), retrying
+  attempt 3 failed (https://overpass.private.coffee/api/interpreter answered 500: <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html><head>
+<title>500 Internal Server Error</title>
+</head><body>
+<h1>Internal Server Error</h1>
+<p>The ser), retrying
+4 lines, 67 stations
+  check: Ankara Ekspresi: fewer than 2 named stops (under construction?), skipped; OSM relation r1323070
+  check: Line INT 12503: no colour tag in OSM, set the official color by hand
+  check: Konya - İstanbul YHT Hattı: fewer than 2 named stops (under construction?), skipped; OSM relation r18639068
+  check: Karaman - İstanbul YHT Hattı: fewer than 2 named stops (under construction?), skipped; OSM relation r18639069
+  check: Eskişehir - İstanbul YHT Hattı: fewer than 2 named stops (under construction?), skipped; OSM relation r18639070
+  check: Sivas - İstanbul YHT Hattı: fewer than 2 named stops (under construction?), skipped; OSM relation r18642677
+  check: Ankara - İstanbul YHT Hattı: fewer than 2 named stops (under construction?), skipped; OSM relation r18650922
+  check: İstanbul - Ankara YHT Hattı: fewer than 2 named stops (under construction?), skipped; OSM relation r18652772
+  check: İstanbul - Karaman YHT Hattı: fewer than 2 named stops (under construction?), skipped; OSM relation r18652773
+  check: İstanbul - Eskişehir YHT Hattı: fewer than 2 named stops (under construction?), skipped; OSM relation r18652774
+  check: İstanbul - Konya YHT Hattı: fewer than 2 named stops (under construction?), skipped; OSM relation r18652775
+  check: İstanbul - Sivas YHT Hattı: fewer than 2 named stops (under construction?), skipped; OSM relation r18652776
+  check: M İncirli - Söğütlüçeşme Metro Hattı: fewer than 2 named stops (under construction?), skipped; OSM relation r19230796
+  check: T Esenler-Davutpaşa Tramvay Hattı: fewer than 2 named stops (under construction?), skipped; OSM relation r19235274
+  check: İstanbul - Uzunköprü Bölgesel Treni: fewer than 2 named stops (under construction?), skipped; OSM relation r21606026
