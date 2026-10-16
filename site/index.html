@@ -45,6 +45,11 @@
   .city-country{font-size:10.5px;color:var(--text-dim);}
   .city-group-label{grid-column:1 / -1;font-size:10px;letter-spacing:.08em;text-transform:uppercase;color:var(--text-dim);margin:6px 0 -2px;}
   .city-group-label:first-child{margin-top:0;}
+  .city-group-toggle{display:flex;align-items:center;gap:6px;width:100%;background:none;border:0;padding:4px 0;margin:6px 0 -2px;font:inherit;font-size:10px;letter-spacing:.08em;text-transform:uppercase;color:var(--text-dim);cursor:pointer;text-align:left;}
+  .city-group-toggle:hover{color:#fff;}
+  .city-group-toggle .chev{display:inline-block;width:10px;transition:transform .15s;}
+  .city-group-toggle[aria-expanded="false"] .chev{transform:rotate(-90deg);}
+  .city-group-toggle .count{opacity:.7;letter-spacing:0;}
   .city-tag{position:absolute;top:6px;right:8px;font-size:8.5px;color:var(--accent);letter-spacing:.06em;text-transform:uppercase;}
 
   .section{padding:15px 20px;border-bottom:1px solid var(--line);}
@@ -519,6 +524,16 @@ function restorePinsFromStorage(){
 }
 
 const RECENT_CITIES_STORAGE_KEY = 'hopnest_recent_cities_v1';
+// Which continent groups in the city list are open. Unset = only the
+// group holding the current city starts open.
+const OPEN_REGIONS_STORAGE_KEY = 'hopnest_open_regions_v1';
+function getOpenRegions(){
+  try { const v = JSON.parse(localStorage.getItem(OPEN_REGIONS_STORAGE_KEY)); return Array.isArray(v) ? v : null; }
+  catch(e){ return null; }
+}
+function setOpenRegions(list){
+  try { localStorage.setItem(OPEN_REGIONS_STORAGE_KEY, JSON.stringify(list)); } catch(e){}
+}
 function saveLastCity(cityId){
   try {
     localStorage.setItem(LAST_CITY_STORAGE_KEY, cityId);
@@ -1238,6 +1253,32 @@ function cityGroupLabel(text){
   return el;
 }
 
+// Continent heading that opens/closes its group of city cards.
+function cityGroupToggle(name, count, open){
+  const btn = document.createElement('button');
+  btn.type = 'button';
+  btn.className = 'city-group-label city-group-toggle';
+  btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+  btn.innerHTML = `<span class="chev">▾</span><span></span><span class="count"></span>`;
+  btn.children[1].textContent = name;
+  btn.children[2].textContent = `(${count})`;
+  btn.addEventListener('click', ()=>{
+    const openNow = currentOpenRegions().filter(g=>g!==name);
+    if(!open) openNow.push(name);
+    setOpenRegions(openNow);
+    renderCityPicker();
+  });
+  return btn;
+}
+
+const regionOfCity = c => REGION_ORDER.includes(c.region) ? c.region : (c.comingSoon ? 'Requested' : 'Other');
+function currentOpenRegions(){
+  const saved = getOpenRegions();
+  if(saved) return saved;
+  const cur = CITIES[currentCityId];
+  return cur ? [regionOfCity(cur)] : [REGION_ORDER[0]];
+}
+
 function renderCityPicker(){
   const query = document.getElementById('city-search-input').value;
   const nq = normalizeSearchText(query.trim());
@@ -1269,13 +1310,14 @@ function renderCityPicker(){
     cityGrid.appendChild(cityGroupLabel('Recent'));
     recent.forEach(id=>cityGrid.appendChild(makeCityCard(id, CITIES[id])));
   }
-  const regionOf = c => REGION_ORDER.includes(c.region) ? c.region : (c.comingSoon ? 'Requested' : 'Other');
   const groups = [...REGION_ORDER, 'Other', 'Requested'];
+  const open = currentOpenRegions();
   groups.forEach(g=>{
-    const inGroup = entries.filter(([,c])=>regionOf(c)===g).sort((a,b)=> a[1].name.localeCompare(b[1].name));
+    const inGroup = entries.filter(([,c])=>regionOfCity(c)===g).sort((a,b)=> a[1].name.localeCompare(b[1].name));
     if(!inGroup.length) return;
-    cityGrid.appendChild(cityGroupLabel(g));
-    inGroup.forEach(([id,c])=>cityGrid.appendChild(makeCityCard(id, c)));
+    const isOpen = open.includes(g);
+    cityGrid.appendChild(cityGroupToggle(g, inGroup.length, isOpen));
+    if(isOpen) inGroup.forEach(([id,c])=>cityGrid.appendChild(makeCityCard(id, c)));
   });
 }
 

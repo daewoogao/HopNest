@@ -120,6 +120,10 @@ station/airport/railway stop you tap.
   one-typo tolerance; results are ranked and Enter opens the best one.
   With no search, recently opened cities come first, then cities grouped
   by `region` (Asia, Europe, Americas), alphabetized; the list scrolls.
+  Each continent heading opens/closes its group (shows the city count);
+  only the current city's continent starts open, and the open/closed
+  choice is remembered in the browser. Searching ignores it and lists
+  every match.
   Kept separate from the in-city place search.
   Cities without data yet show as "coming soon"; a text box lets the user
   request a new one (session-only placeholder).
@@ -468,6 +472,14 @@ they're done.
 ---
 
 ## Changelog
+
+### 2026-10-16 — continent groups open and close
+- Audrey asked for an expand/collapse on each continent in the city list,
+  since each will hold many cities. Each heading (Asia, Europe, Americas,
+  plus Other/Requested) is now a button with ▾ and a city count.
+- First visit: only the current city's continent is open. After that the
+  open/closed set is saved in the browser (`hopnest_open_regions_v1`).
+  The Recent group always shows; search results ignore collapsing.
 
 ### 2026-10-16 — batches 2–4: 15 more cities (25 total)
 - Taipei, Bangkok, Beijing, Madrid, Rome, Berlin, Amsterdam, Vienna,
