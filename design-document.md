@@ -65,11 +65,22 @@ station/airport/railway stop you tap.
 
 ## 2. Architecture
 
-- **One self-contained HTML file** (`site/index.html`). No build step, no
-  server. Opens directly in any browser.
+- **One HTML file for the app** (`site/index.html`) plus **one JSON file
+  per city** in `site/data/` (since 2026-10-15). No build step and no
+  backend, but the page fetches its data files, so it must be served over
+  HTTP (GitHub Pages, or `python3 -m http.server --directory site`
+  locally); opening `index.html` straight from disk no longer loads cities.
 - **Map engine:** Leaflet.js (via CDN) + OpenStreetMap tiles.
-- **Data model:** a single `CITIES` object at the top of the script.
-  Each city is one entry with this shape:
+- **Data model:** `site/data/cities.json` lists every city (`name`,
+  `country`, `flag`, `comingSoon?`), and each ready city has
+  `site/data/<cityId>.json`. On startup `loadAllCities()` fetches them all
+  into the in-page `CITIES` object, so the rest of the code is unchanged.
+  All cities load up front (~15 KB each), not on first open, because pins
+  and share links can point at any city. Hotel/sight IDs (`<city>_h<n>`,
+  `<city>_s<n>`) are assigned at load from their position in the file, so
+  **never reorder or delete hotels or sights in a city file**; append new
+  ones at the end, or saved pins and old share links will point at the
+  wrong place. Each city file has this shape:
   ```
   cityId: {
     name, country, flag, center:[lat,lng], zoom,
@@ -81,8 +92,9 @@ station/airport/railway stop you tap.
     airports: [{ name, code, lat, lng, transitNote }]
   }
   ```
-  Adding a city = adding one entry in this shape. No rendering code needs
-  to change.
+  Adding a city = one JSON file in this shape plus one line in
+  `cities.json` (see §4 "Adding a city"). No rendering code needs to
+  change.
 - **No backend, no database.** Everything is static data baked into the
   file at the time I edit it. The only saved state is per-browser
   `localStorage`: pinned hotels/sights and the last-viewed city survive a
@@ -97,10 +109,18 @@ station/airport/railway stop you tap.
 
 - **Subway lines**: real official colors, toggleable per line, station
   dots clickable.
-- **Cities**: Tokyo, Shanghai, New York City, London, Barcelona. Paris
-  is listed as "coming soon."
-- **City picker**: alphabetized sidebar cards with their own search box
-  (accent-insensitive), kept separate from the in-city place search.
+- **Cities**: Tokyo, Shanghai, New York City, London, Barcelona, plus
+  the scale-up (2026-10-15/16): Paris, Seoul, Osaka, Hong Kong,
+  Singapore, Taipei, Bangkok, Beijing, Madrid, Rome, Berlin, Amsterdam,
+  Vienna, Prague, Istanbul, Lisbon, Milan, Washington DC, Chicago,
+  Mexico City (25 cities).
+- **City picker** (search redesigned 2026-10-16): a search box that
+  matches city name, country, other names (`aliases` in `cities.json`:
+  local script, nicknames like NYC) and airport codes (CDG, KIX), with
+  one-typo tolerance; results are ranked and Enter opens the best one.
+  With no search, recently opened cities come first, then cities grouped
+  by `region` (Asia, Europe, Americas), alphabetized; the list scrolls.
+  Kept separate from the in-city place search.
   Cities without data yet show as "coming soon"; a text box lets the user
   request a new one (session-only placeholder).
 - **Place search**: typeahead search bar for curated hotels, sights,
@@ -221,6 +241,48 @@ changelog entries where each was decided.
    `CITIES.london.sights.map(s=>s.name)`, not just a parse check
    (2026-07-13 cont'd, 4).
 
+### Adding a city (decided 2026-10-15)
+
+Scaling from 5 to 25 cities. Audrey chose **Claude curates** hotels and
+sights by hand, following the curation spec and the sightseeing rules
+above ($0, about one thread run per city), over a paid Google Places
+pipeline. The JSON format is the same either way, so a Places pipeline
+can take over later.
+
+Steps per city:
+1. **Subway lines from OpenStreetMap.** Run the GitHub Action "Fetch
+   subway lines from OpenStreetMap" (Actions tab → Run workflow, with the
+   city id and a bounding box). It runs `scripts/osm-lines.js` on
+   GitHub's servers and saves `osm/<city>-lines.json` plus a notes file
+   on a side branch `osm/<city>`; it never touches `main`. The script
+   keeps the longest variant of each line and lists branches, missing
+   colors and empty lines in the notes to fix by hand. Lines come from
+   OSM's `colour` tags (Paris test: 16 lines, all with official colors).
+   The live app never calls OpenStreetMap. Re-run yearly or when a line
+   opens (curation spec §3). OSM data is ODbL: keep the "© OpenStreetMap
+   contributors" credit.
+2. **Airports and intercity rail hubs**, then **hotels** per the curation
+   spec (Tier 1 hubs first, then the top 3–5 interchanges/districts),
+   **sights** per the rules above, **fares** and **first/last trains**.
+3. **Validate**: `node scripts/validate-cities.js <city>` checks the
+   format, coordinates, the §7 coverage audit (every airport and rail
+   station has hotels) and that ticket links aren't resellers. Fix every
+   error; fix or document every warning in the changelog.
+4. **Ship in batches of 5 cities, one PR per batch**, previewed before
+   merge (merging to `main` = live). Batches 2–4 shipped together in one
+   PR (2026-10-16) to finish all 20 the same day.
+
+Batches (proposed 2026-10-15, Audrey can swap any):
+1. Paris, Seoul, Osaka, Hong Kong, Singapore
+2. Taipei, Bangkok, Beijing, Madrid, Rome
+3. Berlin, Amsterdam, Vienna, Prague, Istanbul
+4. Lisbon, Milan, Washington DC, Chicago, Mexico City
+
+Open before scaling: stored Google/TripAdvisor ratings break those
+services' terms (§8 "Check terms"), and 20 more cities multiply that.
+Recommendation: use ratings to *choose* hotels, but stop storing them in
+the data. Not decided yet.
+
 ## 5. Known limitations (honest, not hidden)
 
 - Subway line paths are simplified/hand-placed, not schedule-grade or
@@ -313,7 +375,7 @@ changelog entries where each was decided.
 - Cross-device pin sync (would need the backend + a database, e.g.
   Supabase). Same-browser persistence is already built via
   `localStorage`.
-- More cities — Paris is next (already listed as "coming soon").
+- More cities: 20 more in 4 batches, Paris first (§4 "Adding a city").
 - Offline support via a service worker (PWA install itself is built).
 
 ## 7. Repo / hosting
@@ -321,7 +383,7 @@ changelog entries where each was decided.
 - Public GitHub repo: `daewoogao/HopNest`, branch `main` (made public
   2026-10-09; the top-level docs are readable on GitHub but never served).
 - `site/` holds everything the website serves: `index.html`,
-  `_redirects` (Cloudflare/Netlify only; GitHub Pages ignores it),
+  `data/` (`cities.json` + one `<city>.json` per city), `_redirects` (Cloudflare/Netlify only; GitHub Pages ignores it),
   `manifest.json`, `icon-192.png`, `icon-512.png`, `apple-touch-icon.png`.
   **When deploying, publish only `site/`** — everything the browser
   downloads is readable by visitors, so internal docs must never be
@@ -329,6 +391,12 @@ changelog entries where each was decided.
 - Top level (internal, never deployed): `README.md`,
   `hotel-curation-pipeline-spec.md`, `launch-cost-plan.md`, this design
   doc, and `.gitignore` (excludes `.DS_Store`).
+- `scripts/` (never deployed): `osm-lines.js` (subway lines from
+  OpenStreetMap), `validate-cities.js` (format + coverage audit),
+  `format-json.js` (keeps one station/hotel/sight per line in the data
+  files so diffs stay readable).
+- `.github/workflows/osm-lines.yml`: manual-run Action that runs
+  `osm-lines.js` and saves its output to an `osm/<city>` branch.
 - **Live at https://daewoogao.github.io/HopNest/** on GitHub Pages
   (free), chosen 2026-10-09 in place of the earlier Cloudflare Pages
   plan. `.github/workflows/pages.yml` uploads only `site/` and deploys on
@@ -387,8 +455,8 @@ they're done.
   where the data comes from, and "verify details before booking."
 - [ ] **Check terms for displaying ratings.** We show TripAdvisor/Google
   ratings; confirm what their terms allow on a public site.
-- [ ] **More cities**: Paris first, then ~5–10 top destinations that
-  have a metro (target 10–20 at launch).
+- [ ] **More cities**: target 25 (decided 2026-10-15). Plan and batches
+  in §4 "Adding a city".
 
 **After launch (not blocking)**
 - Backend + Google Places automated data refresh (§6)
@@ -400,6 +468,152 @@ they're done.
 ---
 
 ## Changelog
+
+### 2026-10-16 — batches 2–4: 15 more cities (25 total)
+- Taipei, Bangkok, Beijing, Madrid, Rome, Berlin, Amsterdam, Vienna,
+  Prague, Istanbul, Lisbon, Milan, Washington DC, Chicago and Mexico City,
+  made by the §4 "Adding a city" steps, same as batch 1: lines from
+  OpenStreetMap (run on GitHub's servers), hotels and sights curated by
+  Claude, TripAdvisor ratings and `ratingCount` (storing them is still
+  Audrey's open call). Shipped as one PR instead of three.
+- Sight hours, fares and closures come from Claude's knowledge plus a
+  limited number of web checks; some are approximate ("~") and the first
+  monthly refresh should re-check them.
+- **Airport radius exception:** where no hotel on airport grounds reaches
+  4.0/100, free-shuttle hotels farther out are listed and say so: DCA,
+  IAD, O'Hare (Rosemont), Midway, Madrid Barajas.
+- **Line fixes:** non-Latin station names translated (Beijing, Taipei,
+  Bangkok); local line names kept as the second label (Línea, Linea,
+  Linka, Metro Hattı); airport lines carry first/last train notes. Bangkok
+  BTS Silom Line rebuilt from OSM station nodes (its route relation lists
+  6 of 14 stations); Airport Rail Link added. Beijing's Batong and Daxing
+  stubs folded into lines 1 and 4. Taipei's Airport MRT drawn once
+  (express stops are a subset). Istanbul adds Marmaray and the T1 and T5 trams
+  (Sultanahmet has no metro). Not drawn: suburban/airport trains that
+  aren't metro (Vienna CAT/S-Bahn, Rome Leonardo Express, Milan Malpensa
+  Express, Metra, MARC); airport popups explain them. Rome Metro C's
+  unopened stretch skipped.
+- Validator: 0 errors. Every warning is a hotel gap listed below.
+- **Hotel gaps and sights excluded, per city:**
+  - Berlin: BER has 2 (Steigenberger, IntercityHotel at T1; no brand anchor or budget; Holiday Inn/B&B 3.8, Moxy 3.5). Friedrichshain chosen over Kreuzberg (no brand, thin inventory). Sights: Pergamonmuseum and German Historical Museum excluded (closed/renovating), Reichstag dome closed 19–30 Oct 2026 noted; KaDeWe (shop), Neues Museum (part of Museum Island), Alexanderplatz (3.9, hotel area), others cap.
+  - Amsterdam: Schiphol 3 (Hilton, Sheraton, citizenM; on grounds; no budget—YOTELAIR 3.9); Zuidas 3, no budget or luxury (Element 851 m). Sights: Red Light District (adult/district), Centraal Station (rail hub), Molen van Sloten (outskirts), adult museums excluded.
+  - Washington DC: Union Station has no budget at 4.0+ (YOTEL 3.6, hostel 3.8); no hostel anywhere reaches 4.0/100. Reagan National: no hotel on airport grounds — 5 Crystal City/National Landing hotels 1.2–1.4 km out with free shuttles and one Metro stop. Dulles: on-grounds Marriott 3.7 — 5 shuttle hotels 1.8–4 km out (geocoded addresses). Sights: White House (tours by congressional request only), Georgetown (neighbourhood), Smithsonian umbrella listing, others cap. Air and Space partly renovating.
+  - Lisbon: Airport has 2 (Meliá Aeroporto, Star Inn; no brand anchor; ibis Styles 66 reviews, Holiday Inn Express 3.5, Radisson Blu 3.7); Santa Apolónia no brand anchor; Cais do Sodré 4, no luxury. Sights: Chiado (hotel area), Centro Colombo (mall), Parque das Nações (district), Arco do Triunfo (part of Praça do Comércio). Torre de Belém reopened 27 May 2026 (timed slots); Gulbenkian reopened 18 Jul 2026. Tram 28 kept at 3.9.
+  - Taipei: Taoyuan Airport has 1 (Hyatt Regency, on airport grounds); Songshan Airport 0 (Fullerton North 897 m, Mandarin Oriental 966 m); Ximending no brand anchor; Xinyi no budget; East District 4. Hotel Resonance 806 m excluded. Sights: Taipei 101 Observatory, Beitou Thermal Valley, Maokong merged into parent entries.
+  - Prague: Airport has 1 (Courtyard by Marriott; Holiday Inn Airport 3.8). Sights: Lesser Town (district), Museum of Senses and Illusion Art Museum (gimmicks), Sex Machines Museum (adult), Klementinum (3.7), Palladium (mall), others cap. Petřín funicular reopened 22 Sep 2026.
+  - Bangkok: Krung Thep Aphiwat 0 (nearest 878 m); Hua Lamphong 4, no brand anchor (kept as a hub: Eastern Line and ordinary trains); Suvarnabhumi 1 (Hyatt Regency, tunnel; Boxtel 3.9); Don Mueang 1 (Amari, footbridge; no brand/budget); Riverside 4, no budget; Chinatown no brand anchor. Khao San not an area (no metro). Sights: Siam Paragon, MBK, Terminal 21, ICONSIAM, CentralWorld, Platinum, Pratunam, Asiatique (shopping), Emerald Buddha (in Grand Palace), Sukhumvit (district), Playmondo (kids' play), Safari World and Train Night Market (far), Soi Cowboy (3.6), Chao Phraya River (not one place). Khaosan Road kept at 3.8. BTS Silom Line rebuilt from station nodes (OSM route incomplete).
+  - Vienna: Airport 0 (NH Airport 3.9, Moxy 3.8 on grounds; no floor exception used); Leopoldstadt no luxury; Landstraße 4. S7 ends at St. Marx until ~Oct 2027 (REX7 to Hauptbahnhof). Sights: Historic Center (district), Stephansplatz/Rathausplatz (duplicates), Schönbrunn Gardens and Sisi Museum (merged), Musikverein (concert venue), MuseumsQuartier (overlaps Leopold), Graben (shopping), others cap. Sisi Museum closed until 19 Nov 2026; KHM timed tickets.
+  - Chicago: O'Hare's only on-grounds hotel (Hilton O'Hare) is 3.6, so 4 Rosemont free-shuttle hotels 2.8–3.7 km out (one Blue Line stop) are listed instead; Midway 2 (Marriott, Holiday Inn Express, ~1.5 km on Cicero Ave, free shuttle; DoubleTree Midway not in OSM); West Loop 3, no brand anchor or budget (Hotel Chicago West Loop 3.9). Sights: Magnificent Mile (shopping/hotel area), Cloud Gate (in Millennium Park), Medieval Torture Museum (judgment), Route 66 sign, United Center (arena), Chicago River (dup of Riverwalk), Union Station (hub), Skyline (not a place), Macy's (shop), others cap.
+  - Milan: Malpensa 1 (Moxy at T2; Sheraton 3.9, others <4.0); Linate 1 (Moxy ~660 m; NH 3.8, Novotel 3.7); Porta Garibaldi no budget (3.9s); Brera 3, no brand anchor or budget; Navigli no brand anchor or budget (Mercure 3.9, nhow 816 m). Airport pins are terminal estimates (±300 m). Sights: Brera District (hotel area), Arco della Pace (in Parco Sempione), Milano Centrale (station), Museum of Senses (gimmick), Duomo Museum (dup), Mercato Centrale (closed by health authority Mar 2026). Piazza del Duomo, Terrazze and Santa Maria delle Grazie merged.
+  - Istanbul: Söğütlüçeşme 1 (Holiday Inn Kadıköy); Istanbul Airport 1 (YOTEL landside; Hilton Airport opened Aug 2026, too few reviews/no pin); Sabiha Gökçen 1 (Kepler Club, airside, international departures only; ISG Airport Hotel had no pin). Halkalı not included. Sights: Sultanahmet District (hotel area), Bosphorus (water), Historic Areas (umbrella), Vialand (theme park), İstinye Park and Cevahir (malls), Sultanahmet Square (dup), Çamlıca Mosque (low reviews), Taksim Square (3.7), Emirgan Park and Rumeli Fortress (cap). Spice Bazaar not in TA top 60.
+  - Rome: Fiumicino 0 (Hilton Rome Airport 3.5, Hilton Garden Inn 3.8); Ciampino 0 (Casa Lollobrigida, 4.7, not in OSM; nothing else ≥4.0 within 2.5 km); Tiburtina 2, no brand anchor or upper (BW Blu 980 m, 3.7); Spanish Steps no budget; Prati no luxury. Trastevere not an area (no metro). Sights: St. Peter's added (TripAdvisor files it under Vatican City); Centro Storico (district) and an unclear "Welcome To Rome" entry skipped; Trevi €2 basin ticket since Feb 2026.
+  - Madrid: Chamartín 2 (Barceló Imagine, Eurostars Madrid Tower; no brand or budget); Barajas: nothing on grounds qualifies, so Hilton Madrid Airport (2.1 km) and Marriott Auditorium (2.4 km), both with free airport shuttles; Salamanca no budget. Malasaña's ibis Styles passes on the new-brand rule (31 reviews). Sights: Museo Sorolla house closed for works (extension open); Barrio de Salamanca and La Latina (districts), Palacio de Cristal (in Retiro), Palacio de Cibeles (in Plaza de Cibeles), Primark (shop), Atocha (hub), Mementorium (show), others cap.
+  - Mexico City: Airport 2 (Courtyard, NH Collection T2; no budget; Hilton 3.8, Camino Real 3.6); Polanco 4, all luxury (Habita 3.5; Pug Seal, Royal Colonial not in OSM); Condesa 2 (Villa Condesa, María Condesa; Andaz and Mondrian missing from OSM; anchored on Parque México, no central metro). No rail hub (El Insurgente is a Toluca commuter link); Felipe Ángeles airport left out. Sights: Ballet Folklórico (in Bellas Artes), Polanco/Historic Center/La Condesa (hotel areas), Chapultepec Forest (overlaps castle and museum), Bazaar Sábado (shopping), Gran Hotel (hotel), others cap. Xochimilco not in the ranking.
+  - Beijing (thinnest city: OpenStreetMap lacks many Beijing hotels): Beijing South 0 and Beijing West 0 (nothing in 800 m reaches 4.0/100; Magnolia not mapped); Beijing Railway Station 1 (Pudi); Capital Airport 2 (Cordis, Hilton; no budget); Daxing Airport 1 (Mumian, covered walkway); Nanluoguxiang 3, no brand; Sanlitun 4. Qianmen dropped as an area (Mandarin Oriental Qianmen, The Emperor, 365 Inn unmapped). Chaoyang station left out. Sights: Wangfujing Street, Hongqiao Market, Qianmen Street, Taikoo Li (shopping), Gubei Water Town (120 km), Happy Valley and Universal Beijing (theme parks), Juyong Pass/Simatai/Huanghuacheng (other Great Wall sections), Tian'anmen gate and Long Corridor (duplicates), Water Cube and Bird's Nest (merged into Olympic Park). Mutianyu and Badaling kept with transport notes.
+
+### 2026-10-16 — smarter city search
+- Audrey asked for a smart way to find a city as the list grows to 25.
+  Decided (Claude's default, open to change): search matches name,
+  country, aliases and airport codes, ranked, with one-typo tolerance and
+  Enter-to-open; empty search shows Recent (last 4 opened, stored in
+  `hopnest_recent_cities_v1`) then region groups. `cities.json` entries
+  gain `region` and `aliases`; every new city must set both.
+
+### 2026-10-15 — batch 1 cities: Paris, Seoul, Osaka, Hong Kong, Singapore
+- Five new city files in `site/data/`, made by the §4 "Adding a city"
+  steps. Subway lines from OpenStreetMap (run on GitHub's servers, since
+  Overpass is blocked from Claude's machines), cleaned by hand. Hotels and
+  sights curated by Claude per the curation spec and §4 rules.
+- **Rating source for new cities is TripAdvisor** (bubble rating, plus a
+  new `ratingCount` field with the review count used for the ≥100 floor).
+  Google Places is unreachable from Claude's machines. Hotel coordinates
+  come from OpenStreetMap where the hotel is mapped. The open question in
+  §4 about storing ratings still stands; Claude is keeping them for now
+  (Audrey's call pending).
+- Hotel stars for Japan, Hong Kong and Singapore are class estimates (no
+  official star scheme). Sight hours are from Claude's knowledge, not a
+  live lookup; first monthly refresh should re-check them.
+- Validator: 0 errors. Warnings documented here: Seoul's Suseo (SRT) and
+  Singapore's Woodlands Train Checkpoint have **no hotel within 800 m**
+  (nearest qualifying ones are 1.3 km+ away; radius not stretched).
+- **Line fixes:** Paris line 15 skipped (not open); line 10's Auteuil
+  loop westbound stations not drawn (OSM pairs them within 400 m of the
+  eastbound ones). Seoul Line 1's Korail branch stops at Pyeongtaek
+  (it runs 80+ km out); Korean-only station names translated from OSM's
+  English tags; AREX added from a separate pull. Singapore's Jurong Region
+  Line left off (in OSM, opens 2027+); Circle Line Stage 6 (opened
+  12 Jul 2026) included. Osaka's airports aren't on the metro; their
+  popups explain the train links.
+- **Hotel gaps (left open, not filled with sub-floor options):**
+  - Paris: CDG has only citizenM (others under 4.0); Orly only Novotel
+    Coeur d'Orly; Gare de l'Est has no brand anchor at 4.0+ (NH 3.7);
+    Saint-Germain and Le Marais have no brand anchor; Opéra has no budget
+    option.
+  - Seoul: Gimpo has 1 (Lotte City Hotel; no global brand, no budget);
+    Gangnam has 2 (no brand anchor or budget; Novotel Gangnam is 812 m
+    out). The three Yongsan Accor hotels share one Dragon City pin.
+    Millennium Hilton (closed 2022) excluded.
+  - Osaka: Kansai Airport has 2 (Hotel Nikko, First Cabin; no brand
+    anchor; Rinku Town across the bridge excluded); Itami has 1 (Osaka
+    Airterminal Hotel); Shin-Osaka has no luxury option.
+  - Hong Kong: Airport has 3, no budget (Tung Chung town, ~3 km, excluded);
+    West Kowloon and Hung Hom have no budget option at 4.0+; Central has
+    no brand anchor within 800 m (Island Shangri-La ~830 m). Hung Hom is a
+    hotel area, not an intercity hub (through-trains ended 2020).
+  - Singapore: Changi has 1 (Crowne Plaza, landside; transit hotels are
+    under 4.0); Marina Bay has 2 luxury only (Pan Pacific, PARKROYAL,
+    Mandarin Oriental are 830–900 m out).
+- **Sights excluded from the TripAdvisor rankings:**
+  - Paris: Montmartre, Le Marais, Saint-Germain, Latin Quarter (districts;
+    Sacré-Cœur covers Montmartre), Galeries Lafayette (shop), The Seine and
+    Champs-Élysées (not single places), Parc des Princes (stadium),
+    Marmottan Monet, Père-Lachaise, Panthéon and below (cap). Marché des
+    Enfants Rouges added for local flavor.
+  - Seoul: Lotte World (theme park), COEX Mall and Lotte Department Store
+    (shopping), Namsan Park (same hill as N Seoul Tower), Hongdae street
+    (hotel area); Jogyesa, NANTA, Folk Museum, Leeum, Sea Life, Seoul
+    Forest, Trickeye cut for the cap.
+  - Osaka: Shinsaibashi-suji, Namba Parks, Osaka Station City, Universal
+    CityWalk, Denden Town (shopping); Osaka Castle Park (same as the
+    castle); Minami (district); Namba Grand Kagetsu (Japanese-language
+    comedy); Cool Japan Park (few reviews); Mint Museum, Bunraku Theater
+    (cap). USJ kept (#1; on JR, not the metro).
+  - Hong Kong: Skyline (not a place), Victoria Harbour (same as Star Ferry
+    and the Promenade), Lantau Island (whole island), Mong Kok and Tsim Sha
+    Tsui (districts), Ladies Market, Stanley Market, Harbour City
+    (shopping); Ten Thousand Buddhas, Hong Kong Park, Tai O, Lamma, Repulse
+    Bay cut for the cap. Disneyland and Ocean Park kept (both on the MTR).
+  - Singapore: Orchard Road, Shoppes at MBS (shopping), Chinatown
+    (district), Night Safari and Little India (3.8), Adventure Cove (water
+    park), Hell's Museum (niche), SensoryScape (walkway), Lau Pa Sat
+    (listing muddled). Cloud Forest, Flower Dome and the Orchid Garden are
+    folded into their parent gardens.
+
+
+### 2026-10-15 — city data split into JSON files; tools for adding cities
+- Audrey asked how to go from 5 cities to 25. Plan decided: §4 "Adding a
+  city". Audrey chose Claude curating hotels and sights over a paid
+  Google Places pipeline.
+- City data moved out of `site/index.html` into `site/data/cities.json`
+  plus one file per city (tokyo, shanghai, newyork, london, barcelona;
+  Paris stays "coming soon"). Data is byte-for-byte the same (checked by
+  round-trip), and the app was tested side by side with the old version:
+  same markers, lines and sidebar for every city. `index.html` went from
+  143 KB to 79 KB.
+- The page now needs to be served over HTTP; opening the file from disk
+  no longer loads cities (§2, README).
+- Fixed: pins in cities you hadn't opened yet in this visit were
+  silently dropped the next time pins were saved (IDs were only assigned
+  when a city was opened). IDs are now assigned for all cities at load.
+- Fixed: switching city while zoomed in or out (or into/out of
+  Barcelona, zoom 13) threw an error mid-switch, because the zoom change
+  redrew the map before the new city's lines existed. Likely the cause
+  of the "bare map" reports; the redraw now skips lines not built yet.
+- Added `scripts/osm-lines.js`, the "Fetch subway lines from
+  OpenStreetMap" Action, and `scripts/validate-cities.js` (§7). The
+  validator passes on all 5 cities with 2 warnings: Shanghai Hongqiao
+  Airport's hotel is labeled under the shared rail hub (allowed by curation
+  spec §7), and NYC's simplified A-train jump to Howard Beach-JFK.
 
 ### 2026-10-15 — search bar fixes
 - Audrey asked what the top search bar does: it searches saved data

@@ -1,0 +1,50 @@
+# Runs scripts/osm-lines.js on GitHub's servers (which can reach
+# OpenStreetMap) and saves the result on a side branch, osm/<city>, as
+# osm/<city>-lines.json plus a notes file of things to check by hand.
+# Start it from the Actions tab → "Fetch subway lines from OpenStreetMap"
+# → Run workflow. It never touches main and deploys nothing; the reviewed
+# lines get copied into site/data/<city>.json in a normal PR.
+name: Fetch subway lines from OpenStreetMap
+
+on:
+  workflow_dispatch:
+    inputs:
+      city:
+        description: City id, e.g. paris (used for the file name)
+        required: true
+      bbox:
+        description: 'Bounding box "south,west,north,east", e.g. 48.80,2.22,48.92,2.47'
+        required: true
+      types:
+        description: OSM route types to include
+        default: subway
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    env:
+      CITY: ${{ inputs.city }}
+      BBOX: ${{ inputs.bbox }}
+      TYPES: ${{ inputs.types }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Check city id
+        run: '[[ "$CITY" =~ ^[a-z0-9_-]+$ ]] || { echo "city must be lowercase letters, digits, - or _"; exit 1; }'
+      - run: node scripts/osm-lines.js "$BBOX" --types "$TYPES" --out "$CITY-lines.json" 2> "$CITY-lines-notes.txt" || (cat "$CITY-lines-notes.txt"; exit 1)
+      - run: cat "$CITY-lines-notes.txt"
+      - name: Save to branch osm/${{ env.CITY }}
+        run: |
+          mkdir -p /tmp/out && mv "$CITY"-lines* /tmp/out/
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan "osm/$CITY"
+          git rm -rq --cached . && git clean -fdq
+          mkdir osm && mv /tmp/out/* osm/
+          git add osm && git commit -qm "OSM subway lines for $CITY ($BBOX, $TYPES)"
+          git push -f origin "osm/$CITY"

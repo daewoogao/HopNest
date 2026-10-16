@@ -1,0 +1,296 @@
+{
+  "name": "Prague",
+  "country": "Czechia",
+  "flag": "🇨🇿",
+  "center": [50.085,14.42],
+  "zoom": 12,
+  "operatingHours": "Metro (lines A, B, C) runs ~4:45 AM–midnight daily, every 2–4 min at peak and 4–10 min otherwise. No all-night metro; night trams and buses run every ~20–30 min from midnight to ~4:30 AM.",
+  "fareInfo": "One PID ticket covers metro, trams, buses and city ferries with unlimited transfers within its time: 30 min 39 CZK, 90 min 50 CZK (36/46 CZK in the PID Lítačka app; 2026 prices). Day passes: 24 h 150 CZK, 72 h 350 CZK (140/340 in the app). Validate paper tickets on first boarding. The airport trolleybus 59 uses the normal 90-min ticket; the AE Airport Express needs its own ticket.",
+  "lines": [
+    {
+      "id": "la",
+      "name": "Line A",
+      "color": "#00A562",
+      "code": "A",
+      "stations": [
+        ["Nemocnice Motol",50.0755,14.3419],
+        ["Petřiny",50.0872,14.3448],
+        ["Nádraží Veleslavín",50.0961,14.3491],
+        ["Bořislavka",50.0984,14.3636],
+        ["Dejvická",50.1004,14.3938],
+        ["Hradčanská",50.0972,14.4038],
+        ["Malostranská",50.0911,14.4094],
+        ["Staroměstská",50.088,14.4181],
+        ["Můstek",50.0832,14.4248],
+        ["Muzeum",50.0791,14.4319],
+        ["Náměstí Míru",50.0752,14.4399],
+        ["Jiřího z Poděbrad",50.0778,14.4515],
+        ["Želivského",50.078,14.4763],
+        ["Strašnická",50.0728,14.4909],
+        ["Skalka",50.0684,14.5086],
+        ["Depo Hostivař",50.0746,14.515]
+      ],
+      "jp": "Linka A"
+    },
+    {
+      "id": "lb",
+      "name": "Line B",
+      "color": "#FCC400",
+      "code": "B",
+      "stations": [
+        ["Černý Most",50.1088,14.576],
+        ["Rajská zahrada",50.1068,14.5598],
+        ["Hloubětín",50.1068,14.5359],
+        ["Kolbenova",50.1105,14.5157],
+        ["Vysočanská",50.11,14.5005],
+        ["Palmovka",50.1037,14.4738],
+        ["Invalidovna",50.0967,14.4627],
+        ["Křižíkova",50.0924,14.4506],
+        ["Florenc",50.0905,14.4369],
+        ["Náměstí Republiky",50.0887,14.4299],
+        ["Můstek",50.0832,14.4228],
+        ["Národní třída",50.0795,14.4201],
+        ["Karlovo náměstí",50.0744,14.4163],
+        ["Anděl",50.0695,14.4036],
+        ["Smíchovské nádraží",50.0607,14.4091],
+        ["Radlická",50.0583,14.3872],
+        ["Jinonice",50.0541,14.3691],
+        ["Nové Butovice",50.0508,14.3514],
+        ["Hůrka",50.05,14.3422],
+        ["Lužiny",50.0445,14.3298],
+        ["Luka",50.046,14.3209],
+        ["Stodůlky",50.0467,14.3054],
+        ["Zličín",50.0537,14.2908]
+      ],
+      "jp": "Linka B"
+    },
+    {
+      "id": "lc",
+      "name": "Line C",
+      "color": "#CF003D",
+      "code": "C",
+      "stations": [
+        ["Letňany",50.1242,14.5161],
+        ["Prosek",50.1192,14.4987],
+        ["Střížkov",50.1265,14.4891],
+        ["Ládví",50.1266,14.4687],
+        ["Kobylisy",50.124,14.4534],
+        ["Nádraží Holešovice",50.1086,14.4404],
+        ["Vltavská",50.0998,14.4384],
+        ["Florenc",50.0896,14.4389],
+        ["Main Station",50.0832,14.4339],
+        ["Muzeum",50.0799,14.4306],
+        ["I. P. Pavlova",50.0739,14.4303],
+        ["Vyšehrad",50.0627,14.4305],
+        ["Pražského povstání",50.0565,14.4338],
+        ["Pankrác",50.0506,14.4399],
+        ["Budějovická",50.044,14.4492],
+        ["Kačerov",50.0417,14.4599],
+        ["Roztyly",50.0373,14.4776],
+        ["Chodov",50.0313,14.4916],
+        ["Opatov",50.0279,14.5098],
+        ["Háje",50.0309,14.528]
+      ],
+      "jp": "Linka C"
+    }
+  ],
+  "hotels": [
+    {"name":"Andaz Prague, by Hyatt","lat":50.0855,"lng":14.4307,"area":"Praha hlavní nádraží","rating":4.7,"ratingCount":553,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Hilton Prague Old Town","lat":50.0888,"lng":14.4318,"area":"Praha hlavní nádraží","rating":4.4,"ratingCount":4745,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Grandium Hotel Prague","lat":50.0823,"lng":14.4299,"area":"Praha hlavní nádraží","rating":4.4,"ratingCount":3425,"stars":4,"priceTier":3},
+    {"name":"Miss Sophie's Downtown","lat":50.0847,"lng":14.4332,"area":"Praha hlavní nádraží","rating":4.6,"ratingCount":148,"stars":3,"priceTier":2},
+    {"name":"Onefam Home Hostel Prague","lat":50.0871,"lng":14.4336,"area":"Praha hlavní nádraží","rating":4.8,"ratingCount":411,"stars":1,"priceTier":1},
+    {"name":"Courtyard by Marriott Prague Airport","lat":50.1065,"lng":14.2696,"area":"Václav Havel Airport Prague","rating":4.2,"ratingCount":1098,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Fairmont Golden Prague","lat":50.0919,"lng":14.4189,"area":"Old Town","rating":4.8,"ratingCount":116,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"The Dominican","lat":50.0856,"lng":14.4186,"area":"Old Town","rating":4.7,"ratingCount":3324,"stars":4,"priceTier":3},
+    {"name":"Hotel Rott","lat":50.0868,"lng":14.4192,"area":"Old Town","rating":4.5,"ratingCount":2165,"stars":4,"priceTier":3},
+    {"name":"Hotel Lippert","lat":50.0876,"lng":14.4197,"area":"Old Town","rating":4.3,"ratingCount":574,"stars":4,"priceTier":3},
+    {"name":"Pension Green Garland","lat":50.0854,"lng":14.4175,"area":"Old Town","rating":4.5,"ratingCount":356,"stars":2,"priceTier":2},
+    {"name":"Augustine, a Luxury Collection Hotel, Prague","lat":50.0891,"lng":14.4067,"area":"Malá Strana","rating":4.7,"ratingCount":1267,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Hotel Pod Věží","lat":50.0874,"lng":14.4067,"area":"Malá Strana","rating":4.9,"ratingCount":4759,"stars":4,"priceTier":3},
+    {"name":"Hotel Three Storks","lat":50.0897,"lng":14.4051,"area":"Malá Strana","rating":4.7,"ratingCount":1011,"stars":4,"priceTier":3},
+    {"name":"Hotel Bishop's House","lat":50.0878,"lng":14.4067,"area":"Malá Strana","rating":4.8,"ratingCount":1376,"stars":3,"priceTier":2},
+    {"name":"Little Quarter Hostel","lat":50.0884,"lng":14.3994,"area":"Malá Strana","rating":4.4,"ratingCount":468,"stars":1,"priceTier":1},
+    {"name":"Radisson Blu Hotel, Prague","lat":50.0773,"lng":14.4224,"area":"New Town","rating":4.5,"ratingCount":481,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Almanac X Alcron Prague","lat":50.0801,"lng":14.4264,"area":"New Town","rating":4.7,"ratingCount":4378,"stars":5,"priceTier":4},
+    {"name":"Pytloun Boutique Hotel Prague","lat":50.0831,"lng":14.4246,"area":"New Town","rating":4.6,"ratingCount":779,"stars":4,"priceTier":3},
+    {"name":"The Icon Hotel & Lounge","lat":50.0801,"lng":14.4247,"area":"New Town","rating":4.6,"ratingCount":1677,"stars":4,"priceTier":3},
+    {"name":"Hostel Orange Prague","lat":50.0829,"lng":14.4249,"area":"New Town","rating":4,"ratingCount":283,"stars":1,"priceTier":1},
+    {"name":"Novotel Praha Wenceslas Square","lat":50.075,"lng":14.4281,"area":"Vinohrady","rating":4,"ratingCount":2388,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Mamaison Residence Belgická Prague","lat":50.0719,"lng":14.4366,"area":"Vinohrady","rating":4.5,"ratingCount":484,"stars":4,"priceTier":3},
+    {"name":"Clarion Hotel Prague City","lat":50.0747,"lng":14.4319,"area":"Vinohrady","rating":4.4,"ratingCount":818,"stars":4,"priceTier":3},
+    {"name":"Hotel Anna","lat":50.0747,"lng":14.4418,"area":"Vinohrady","rating":4.4,"ratingCount":1055,"stars":3,"priceTier":2},
+    {"name":"Post Hostel Prague","lat":50.0746,"lng":14.4428,"area":"Vinohrady","rating":4.7,"ratingCount":238,"stars":1,"priceTier":1}
+  ],
+  "sights": [
+    {
+      "name": "Old Town Square",
+      "lat": 50.0875,
+      "lng": 14.4213,
+      "note": "Prague's medieval main square, framed by Gothic, Baroque and Rococo facades, with the Jan Hus memorial at its centre and Christmas and Easter markets in season.",
+      "hours": "Open 24 hours",
+      "rating": 4.7
+    },
+    {
+      "name": "Old Town Hall & Astronomical Clock",
+      "lat": 50.087,
+      "lng": 14.4207,
+      "note": "The 1410 astronomical clock puts on its parade of apostles on the hour; climb or ride the lift up the hall's tower for the best view over the square.",
+      "hours": "Clock show on the hour ~9 AM–11 PM; tower ~9 AM–9 PM (Mon from ~11 AM)",
+      "rating": 4.4,
+      "ticketUrl": "https://prague.eu/en/old-town-hall/"
+    },
+    {
+      "name": "Charles Bridge",
+      "lat": 50.0865,
+      "lng": 14.4114,
+      "note": "The 14th-century stone bridge over the Vltava, lined with 30 Baroque statues and Gothic towers at both ends; go at dawn to beat the crowds.",
+      "hours": "Open 24 hours",
+      "rating": 4.6
+    },
+    {
+      "name": "Prague Castle",
+      "lat": 50.0906,
+      "lng": 14.4013,
+      "note": "One of the largest castle complexes in the world, home to Czech kings and presidents for over a thousand years; the courtyards are free, the historic interiors need a ticket.",
+      "hours": "Grounds 6 AM–10 PM; historic buildings 9 AM–5 PM (Nov–Mar to 4 PM)",
+      "rating": 4.4,
+      "ticketUrl": "https://www.hrad.cz/en"
+    },
+    {
+      "name": "St. Vitus Cathedral",
+      "lat": 50.0909,
+      "lng": 14.4005,
+      "note": "The Gothic cathedral at the heart of Prague Castle, with a Mucha stained-glass window and the tomb of St. Wenceslas; entry is on the castle ticket.",
+      "hours": "Mon–Sat 9 AM–5 PM, Sun 12–5 PM (Nov–Mar to 4 PM)",
+      "rating": 4.7,
+      "ticketUrl": "https://www.hrad.cz/en"
+    },
+    {
+      "name": "Lobkowicz Palace",
+      "lat": 50.0917,
+      "lng": 14.4048,
+      "note": "The only privately owned palace inside Prague Castle, showing the Lobkowicz family's art, original Beethoven scores and a café terrace over the city.",
+      "hours": "10 AM–6 PM daily",
+      "rating": 4.6,
+      "ticketUrl": "https://www.lobkowicz.cz/en"
+    },
+    {
+      "name": "St. Nicholas Church (Malá Strana)",
+      "lat": 50.088,
+      "lng": 14.4034,
+      "note": "A showpiece of High Baroque with a vast painted dome; the bell tower next door gives a close-up view over Lesser Town's rooftops.",
+      "hours": "~9 AM–5 PM daily (Nov–Feb to ~4 PM)",
+      "rating": 4.5,
+      "ticketUrl": "https://www.stnicholas.cz/en"
+    },
+    {
+      "name": "Wallenstein Garden",
+      "lat": 50.0898,
+      "lng": 14.4067,
+      "note": "A free walled Baroque garden behind the Czech Senate, with a giant arcaded loggia, a dripstone wall and resident peacocks.",
+      "hours": "Apr–Oct ~7:30 AM–6 PM (weekends from 10 AM, to 7 PM in summer); closed Nov–Mar",
+      "rating": 4.5
+    },
+    {
+      "name": "Petřín Hill & Lookout Tower",
+      "lat": 50.0835,
+      "lng": 14.3951,
+      "note": "A wooded hill with orchards, a rose garden and a mini Eiffel Tower from 1891; the funicular from Újezd reopened in September 2026.",
+      "hours": "Hill open 24h; tower ~10 AM–8 PM (shorter in winter); funicular 7 AM–10:15 PM",
+      "rating": 4.3
+    },
+    {
+      "name": "Jewish Museum (Spanish Synagogue)",
+      "lat": 50.0901,
+      "lng": 14.4196,
+      "note": "One ticket covers Josefov's historic synagogues and the Old Jewish Cemetery; the Moorish-style Spanish Synagogue has a stunning gilded interior.",
+      "hours": "Sun–Fri 9 AM–6 PM (Nov–Mar to 4:30 PM); closed Sat and Jewish holidays",
+      "rating": 4.5,
+      "ticketUrl": "https://www.jewishmuseum.cz/en"
+    },
+    {
+      "name": "Church of Our Lady before Týn",
+      "lat": 50.0877,
+      "lng": 14.4224,
+      "note": "The twin black-spired Gothic church that dominates the Old Town Square skyline; astronomer Tycho Brahe is buried inside.",
+      "hours": "Tue–Sat 10 AM–1 PM & 3–5 PM, Sun 10 AM–12 PM; closed Mon",
+      "rating": 4.5
+    },
+    {
+      "name": "Municipal House",
+      "lat": 50.0878,
+      "lng": 14.428,
+      "note": "Prague's Art Nouveau masterpiece next to the Powder Tower, with Mucha-decorated halls, a concert hall and a grand café downstairs.",
+      "hours": "Building ~10 AM–8 PM; interiors by guided tour only",
+      "rating": 4.5,
+      "ticketUrl": "https://www.obecnidum.cz/en"
+    },
+    {
+      "name": "Head of Franz Kafka",
+      "lat": 50.0819,
+      "lng": 14.4196,
+      "note": "David Černý's 11-metre steel head of Kafka outside the Quadrio centre, built from 42 rotating layers that keep breaking apart and realigning.",
+      "hours": "Outdoors, visible 24h; rotates at intervals through the day",
+      "rating": 4.4
+    },
+    {
+      "name": "Letná Park",
+      "lat": 50.0957,
+      "lng": 14.418,
+      "note": "A plateau above the river with the giant metronome, the classic postcard view of the Vltava's bridges and a popular summer beer garden.",
+      "hours": "Open 24 hours",
+      "rating": 4.5
+    },
+    {
+      "name": "Vyšehrad",
+      "lat": 50.0645,
+      "lng": 14.4185,
+      "note": "A clifftop fortress south of the centre with the neo-Gothic Basilica of Sts. Peter and Paul, the cemetery where Dvořák and Mucha are buried, and quiet river views.",
+      "hours": "Grounds open 24h; casemates and basilica ~10 AM–6 PM (shorter in winter)",
+      "rating": 4.6
+    },
+    {
+      "name": "Prague Zoo",
+      "lat": 50.1167,
+      "lng": 14.4062,
+      "note": "A large hillside zoo in Troja, rated among the world's best, with a gorilla pavilion, an Indonesian jungle hall and a chairlift; bus 112 from Nádraží Holešovice (metro C).",
+      "hours": "9 AM–~4 PM in winter, to ~7 PM in summer",
+      "rating": 4.7,
+      "ticketUrl": "https://www.zoopraha.cz/en"
+    },
+    {
+      "name": "Náplavka Farmers' Market",
+      "lat": 50.0717,
+      "lng": 14.4142,
+      "note": "A Saturday-morning riverside market on the Vltava embankment with Czech farm produce, street food, local craft beer and wine.",
+      "hours": "Saturdays ~8 AM–2 PM"
+    },
+    {
+      "name": "Riegrovy sady",
+      "lat": 50.0793,
+      "lng": 14.4415,
+      "note": "A hillside park in Vinohrady where locals gather at sunset with a beer from the garden pub, looking across to Prague Castle.",
+      "hours": "Park open 24h; beer garden ~noon–late in the warmer months"
+    }
+  ],
+  "railStations": [
+    {
+      "name": "Praha hlavní nádraží",
+      "lat": 50.0831,
+      "lng": 14.4353,
+      "note": "Prague Main Station: EuroCity and railjet trains to Berlin, Dresden, Vienna, Bratislava, Budapest and Kraków, plus national trains to Brno and Ostrava. Metro C stop Hlavní nádraží is underneath; the AE Airport Express bus starts here.",
+      "hours": "Station open ~3:15 AM–~12:45 AM. Mainline trains run to individual timetables; metro C ~4:45 AM–midnight."
+    }
+  ],
+  "airports": [
+    {
+      "name": "Václav Havel Airport Prague",
+      "code": "PRG",
+      "lat": 50.1063,
+      "lng": 14.2697,
+      "transitNote": "Trolleybus 59 (~17 min) to Nádraží Veleslavín on metro A (shown on map), then ~10 min to Staroměstská/Můstek; an ordinary 90-min PID ticket (46 CZK in app) covers the whole trip. The AE Airport Express bus runs direct to Praha hlavní nádraží in ~35–45 min on a separate fare (~200 CZK). Neither link is rail; the airport is not on the metro map.",
+      "hours": "Trolleybus 59: first ~4:30 AM, last ~11:30 PM. AE: ~5:30 AM–~10 PM, every 30 min. Late arrivals: night buses 907/910 every ~30 min (0:00–4:30) or a taxi."
+    }
+  ]
+}

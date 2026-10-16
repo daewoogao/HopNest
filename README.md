@@ -34,7 +34,7 @@ HopNest puts all of it on one screen to answer one question well:
 - **TripAdvisor-vetted sightseeing.** Shown on the same map, with opening hours,
   ratings, official ticket links, and a flag for places that book up.
 - **First and last train times** for airport and intercity rail links.
-- **Real fare information** for all five cities.
+- **Real fare information** for every city.
 - **Search by name** across curated hotels, sights and stations. Live web
   search for uncurated places exists but is off until there's a backend
   (see [Limitations](#known-limitations)).
@@ -46,18 +46,20 @@ HopNest puts all of it on one screen to answer one question well:
 
 ## Running it
 
-HopNest is a single HTML file with no build step and no server.
-
-```bash
-open site/index.html
-```
-
-To test **Add to Home Screen**, the files need to be served over HTTP rather
-than opened as a local file:
+HopNest has no build step and no backend, but the page loads its city data
+from `site/data/`, so serve the folder over HTTP (opening `index.html` straight
+from disk won't load any cities):
 
 ```bash
 python3 -m http.server 8000 --directory site
 # then visit http://localhost:8000/
+```
+
+Before shipping data changes, run the validator (Node 18+):
+
+```bash
+node scripts/validate-cities.js          # all cities
+node scripts/validate-cities.js paris    # one city
 ```
 
 ## Project structure
@@ -69,25 +71,33 @@ publishes only `site/` on every push to `main`.
 
 | File | What it is |
 |---|---|
-| `site/index.html` | The whole app: map, data, UI and logic |
+| `site/index.html` | The app: map, UI and logic |
+| `site/data/cities.json` | The city list (name, country, flag, coming soon or not) |
+| `site/data/<city>.json` | One city's subway lines, hotels, sights, rail stations and airports |
 | `site/_redirects` | Sends old `/hopnest.html` links to `/` (Cloudflare Pages / Netlify only; GitHub Pages ignores it) |
 | `site/manifest.json` | PWA manifest (app name, icons, theme color) |
 | `site/icon-192.png`, `site/icon-512.png` | Android and Chrome install icons |
 | `site/apple-touch-icon.png` | iOS home-screen icon (180×180) |
 | `design-document.md` | Living design doc: architecture, features, roadmap and a dated changelog |
 | `hotel-curation-pipeline-spec.md` | The rules for choosing which hotels appear, written for a future automated refresh script |
+| `scripts/osm-lines.js` | Pulls a city's subway lines from OpenStreetMap into the data format (run via the "Fetch subway lines from OpenStreetMap" GitHub Action) |
+| `scripts/validate-cities.js` | Checks every city file: format, coordinates, hotel coverage at airports and rail stations, ticket links |
 | `launch-cost-plan.md` | What launching costs, and what triggers each cost (domain, hosting, data refresh, live search, Supabase, analytics) |
 
 ## How it's built
 
 - **Map:** [Leaflet](https://leafletjs.com/) 1.9.4 with OpenStreetMap tiles,
   loaded from a CDN.
-- **Data:** a single `CITIES` object in `site/index.html`. Each city holds its
-  subway lines, hotels, sights, rail stations and airports. Adding a city
-  means adding one entry of the same shape; no rendering code changes:
+- **Data:** one JSON file per city in `site/data/`, listed in
+  `site/data/cities.json`. Each city holds its subway lines, hotels, sights,
+  rail stations and airports. Adding a city means adding one file of the same
+  shape plus a line in `cities.json`; no rendering code changes (steps in
+  `design-document.md` §4 "Adding a city"). Never reorder or delete hotels
+  or sights in a city file: their position is their ID, which saved pins and
+  share links use.
 
   ```js
-  cityId: {
+  {
     name, country, flag, center: [lat, lng], zoom,
     lines:        [{ id, name, color, code, stations: [[name, lat, lng], ...] }],
     hotels:       [{ name, lat, lng, area, rating, stars, priceTier, curated, ... }],

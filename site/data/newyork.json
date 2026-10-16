@@ -1,0 +1,278 @@
+{
+  "name": "New York City",
+  "country": "USA",
+  "flag": "🇺🇸",
+  "center": [40.758,-73.9855],
+  "zoom": 12,
+  "operatingHours": "Subway runs 24 hours a day, 7 days a week — the only system here with no overnight closure.",
+  "fareInfo": "NYC Subway is a flat $3.00 per ride via OMNY contactless, regardless of distance — the same price for one stop or the length of the city. Weekly cap: $35, after which further rides that week are free.",
+  "lines": [
+    {
+      "id": "grn456",
+      "name": "4/5/6",
+      "color": "#00933C",
+      "code": "456",
+      "stations": [
+        ["Bowling Green",40.7043,-74.0142],
+        ["Wall St",40.7074,-74.0113],
+        ["Brooklyn Bridge-City Hall",40.7128,-74.006],
+        ["Union Square-14 St",40.7359,-73.9906],
+        ["Grand Central-42 St",40.7527,-73.9772],
+        ["86 St",40.7794,-73.956],
+        ["125 St",40.8043,-73.9375]
+      ]
+    },
+    {
+      "id": "ylwnqrw",
+      "name": "N/Q/R/W",
+      "color": "#FCCC0A",
+      "code": "NQRW",
+      "firstLast": "Runs 24/7 like the rest of the NYC subway — no first/last train. Overnight (~midnight–5 AM) trains come every 20–30 min instead of every 5–10.",
+      "stations": [
+        ["Whitehall St",40.7028,-74.0121],
+        ["Canal St",40.7188,-74],
+        ["Union Square-14 St",40.7359,-73.9906],
+        ["Times Sq-42 St",40.7549,-73.984],
+        ["5 Av/59 St",40.7643,-73.973],
+        ["Astoria-Ditmars Blvd",40.7752,-73.9125]
+      ]
+    },
+    {
+      "id": "blueace",
+      "name": "A/C/E",
+      "color": "#2850AD",
+      "code": "ACE",
+      "firstLast": "Runs 24/7 like the rest of the NYC subway — no first/last train. Overnight (~midnight–5 AM) trains come every 20–30 min instead of every 5–10.",
+      "stations": [["168 St",40.8402,-73.9397],["42 St-Port Authority",40.757,-73.9903],["West 4 St",40.7318,-74],["Fulton St",40.7102,-74.0092],["Howard Beach-JFK Airport",40.6602,-73.8306]]
+    },
+    {
+      "id": "red123",
+      "name": "1/2/3",
+      "color": "#EE352E",
+      "code": "123",
+      "stations": [["96 St",40.7936,-73.9721],["Times Sq-42 St",40.755,-73.9864],["34 St-Penn Station",40.7505,-73.9911],["Chambers St",40.7148,-74.0092],["South Ferry",40.7016,-74.0134]]
+    },
+    {
+      "id": "greyl",
+      "name": "L",
+      "color": "#A7A9AC",
+      "code": "L",
+      "stations": [["8 Av",40.7397,-74.0026],["Union Square-14 St",40.734,-73.9906],["Bedford Av",40.7174,-73.9569],["Myrtle-Wyckoff Avs",40.6997,-73.9111]]
+    },
+    {
+      "id": "purple7",
+      "name": "7",
+      "color": "#B933AD",
+      "code": "7",
+      "stations": [
+        ["Times Sq-42 St",40.7556,-73.9868],
+        ["Grand Central-42 St",40.7517,-73.9779],
+        ["Court Sq",40.7473,-73.9455],
+        ["Queensboro Plaza",40.7508,-73.9401],
+        ["Willets Point",40.7549,-73.8455],
+        ["Flushing-Main St",40.7596,-73.8303]
+      ]
+    }
+  ],
+  "hotels": [
+    {"name":"New York Marriott Marquis","lat":40.7586,"lng":-73.9858,"area":"Times Square","rating":4.4,"stars":4,"priceTier":4,"phone":"+1 212-398-1900"},
+    {"name":"Hyatt Centric Times Square New York","lat":40.7575,"lng":-73.9841,"area":"Times Square","rating":4.4,"stars":4,"priceTier":4,"phone":"+1 646-364-1234"},
+    {"name":"The Westin New York at Times Square","lat":40.7577,"lng":-73.9891,"area":"Times Square","rating":4.2,"stars":4,"priceTier":3,"phone":"+1 212-201-2700"},
+    {"name":"Hilton New York Times Square","lat":40.7566,"lng":-73.9888,"area":"Times Square","rating":4.1,"stars":3,"priceTier":3,"phone":"+1 212-913-9488"},
+    {"name":"SpringHill Suites by Marriott New York Manhattan Times Square","lat":40.7594,"lng":-73.9863,"area":"Times Square","rating":4.1,"stars":3,"priceTier":2,"phone":"+1 212-373-5885"},
+    {"name":"Courtyard by Marriott New York Manhattan/Chelsea","lat":40.7482,"lng":-73.9912,"area":"Penn Station","rating":4.3,"stars":3,"priceTier":3,"phone":"+1 212-967-6000"},
+    {"name":"Courtyard by Marriott New York Manhattan/Times Square West","lat":40.7544,"lng":-73.9927,"area":"Penn Station","rating":4.3,"stars":3,"priceTier":3,"phone":"+1 212-912-0009"},
+    {"name":"Fitzpatrick Grand Central","lat":40.7527,"lng":-73.9744,"area":"Grand Central Terminal","rating":4.3,"stars":4,"priceTier":3,"phone":"+1 212-351-6800"},
+    {"name":"Hampton Inn Manhattan Grand Central","lat":40.7509,"lng":-73.9722,"area":"Grand Central Terminal","rating":4.2,"stars":3,"priceTier":2,"phone":"+1 212-897-3385"},
+    {"name":"Hyatt Grand Central New York","lat":40.7521,"lng":-73.9763,"area":"Grand Central Terminal","rating":4,"stars":4,"priceTier":3,"phone":"+1 212-883-1234"},
+    {"name":"The Wall Street Hotel","lat":40.7056,"lng":-74.0077,"area":"Financial District","rating":4.8,"stars":5,"priceTier":4,"phone":"+1 212-688-9255"},
+    {"name":"Hotel Indigo NYC Financial District","lat":40.7077,"lng":-74.0133,"area":"Financial District","rating":4.4,"stars":4,"priceTier":3,"phone":"+1 646-928-9388"},
+    {"name":"Placemakr Wall Street","lat":40.7049,"lng":-74.0064,"area":"Financial District","rating":4.7,"stars":3,"priceTier":3,"phone":"+1 646-389-0960"},
+    {"name":"Artezen Hotel","lat":40.7096,"lng":-74.0087,"area":"Financial District","rating":4.7,"stars":3,"priceTier":2,"phone":"+1 212-566-5511"},
+    {"name":"The High Line Hotel","lat":40.746,"lng":-74.005,"area":"Chelsea","rating":4.2,"stars":4,"priceTier":3,"phone":"+1 212-929-3888"},
+    {"name":"Motto by Hilton New York City Chelsea","lat":40.744,"lng":-73.993,"area":"Chelsea","rating":4.3,"stars":3,"priceTier":2,"phone":"+1 212-668-8624"},
+    {"name":"HI New York City Hostel","lat":40.7987,"lng":-73.9666,"area":"Upper West Side","rating":4.4,"stars":1,"priceTier":1,"phone":"+1 212-932-2300"},
+    {"name":"TWA Hotel","lat":40.6458,"lng":-73.7779,"area":"John F. Kennedy International Airport","rating":4.2,"stars":4,"priceTier":3,"phone":"+1 212-806-9000"},
+    {"name":"DoubleTree by Hilton New York JFK Airport","lat":40.6673,"lng":-73.7985,"area":"John F. Kennedy International Airport","rating":4.1,"stars":3,"priceTier":3,"phone":"+1 718-322-2300"},
+    {
+      "name": "Hyatt Regency JFK Airport at Resorts World New York",
+      "lat": 40.6739,
+      "lng": -73.8337,
+      "area": "John F. Kennedy International Airport",
+      "rating": 4,
+      "stars": 3,
+      "priceTier": 3,
+      "phone": "+1 833-671-1234"
+    },
+    {"name":"Holiday Inn Express & Suites Woodside LaGuardia Airport","lat":40.7407,"lng":-73.9013,"area":"LaGuardia Airport","rating":4.2,"stars":3,"priceTier":2,"phone":"+1 718-898-9868"},
+    {"name":"DoubleTree by Hilton New York LaGuardia Airport","lat":40.767,"lng":-73.867,"area":"LaGuardia Airport","rating":4,"stars":3,"priceTier":3,"phone":"+1 718-457-6300"},
+    {"name":"Hampton Inn New York - LaGuardia Airport","lat":40.768,"lng":-73.8678,"area":"LaGuardia Airport","rating":4,"stars":3,"priceTier":2,"phone":"+1 718-672-6600"},
+    {"name":"Hilton Newark Airport","lat":40.6868,"lng":-74.1939,"area":"Newark Liberty International Airport","rating":4,"stars":4,"priceTier":3,"phone":"+1 908-351-3900"},
+    {"name":"Holiday Inn Express Newark Airport - Elizabeth","lat":40.6846,"lng":-74.194,"area":"Newark Liberty International Airport","rating":4,"stars":3,"priceTier":2,"phone":"+1 908-355-0500"}
+  ],
+  "sights": [
+    {
+      "name": "Central Park",
+      "lat": 40.7829,
+      "lng": -73.9654,
+      "note": "843 acres in the heart of Manhattan, managed by the Central Park Conservancy since 1980.",
+      "hours": "6:00 AM–1:00 AM daily",
+      "rating": 4.7,
+      "phone": null
+    },
+    {
+      "name": "The Metropolitan Museum of Art",
+      "lat": 40.7794,
+      "lng": -73.9632,
+      "note": "NYC's most-visited museum — 5,000 years of art from around the world.",
+      "hours": "10:00 AM–5:00 PM, closed Mon",
+      "rating": 4.8,
+      "phone": "+1 212-535-7710",
+      "ticketUrl": "https://www.metmuseum.org/plan-your-visit",
+      "bookAhead": true
+    },
+    {
+      "name": "The National 9/11 Memorial & Museum",
+      "lat": 40.7115,
+      "lng": -74.0134,
+      "note": "Twin reflecting pools and museum honoring the 2,983 lives lost.",
+      "hours": "9:00 AM–8:00 PM daily",
+      "rating": 4.7,
+      "phone": "+1 212-312-8800",
+      "ticketUrl": "https://911memorial.org/visit",
+      "bookAhead": true
+    },
+    {
+      "name": "Empire State Building",
+      "lat": 40.7484,
+      "lng": -73.9857,
+      "note": "The 86th & 102nd floor observatories offer 360° views of Midtown.",
+      "hours": "10:00 AM–12:00 AM daily",
+      "rating": 4.5,
+      "phone": "+1 212-736-3100",
+      "ticketUrl": "https://www.esbnyc.com/buy-tickets",
+      "bookAhead": true
+    },
+    {
+      "name": "Top of the Rock",
+      "lat": 40.759,
+      "lng": -73.9787,
+      "note": "3-tiered observation deck on the 67th, 69th, and 70th floors of 30 Rockefeller Plaza.",
+      "hours": "9:00 AM–12:00 AM daily",
+      "rating": 4.6,
+      "phone": "+1 212-698-2000",
+      "ticketUrl": "https://www.rockefellercenter.com/buy-tickets",
+      "bookAhead": true
+    },
+    {"name":"The High Line","lat":40.748,"lng":-74.0048,"note":"1.5-mile elevated railway turned park, Hudson River & skyline views.","hours":"7:00 AM–10:00 PM daily","rating":4.5,"phone":null},
+    {"name":"Times Square","lat":40.758,"lng":-73.9855,"note":"Neon billboards, Broadway theaters — the crossroads of the world.","hours":"Open 24 hours","rating":4.3,"phone":null},
+    {
+      "name": "Statue of Liberty",
+      "lat": 40.6892,
+      "lng": -74.0445,
+      "note": "Gift from France, 1886 — ferry required, book Ellis Island combo tickets ahead.",
+      "hours": "8:30 AM–4:00 PM daily",
+      "rating": 4.5,
+      "phone": "+1 212-363-3200",
+      "ticketUrl": "https://www.statuecruises.com/",
+      "bookAhead": true
+    },
+    {
+      "name": "Grand Central Terminal",
+      "lat": 40.7527,
+      "lng": -73.9772,
+      "note": "Opened 1913 — the celestial ceiling in the Main Concourse is NYC's most extraordinary public space.",
+      "hours": "5:30 AM–2:00 AM daily",
+      "rating": 4.6,
+      "phone": "+1 212-340-2583"
+    },
+    {"name":"Brooklyn Bridge","lat":40.7061,"lng":-73.9969,"note":"Opened 1883 — walk the pedestrian promenade between Manhattan and Brooklyn.","hours":"Open 24 hours","rating":4.7,"phone":null},
+    {
+      "name": "American Museum of Natural History",
+      "lat": 40.7813,
+      "lng": -73.974,
+      "note": "Dinosaur skeletons, the Hayden Planetarium, blue whale model.",
+      "hours": "10:00 AM–5:30 PM daily",
+      "rating": 4.3,
+      "phone": "+1 212-769-5100",
+      "ticketUrl": "https://www.amnh.org/plan-your-visit",
+      "bookAhead": true
+    },
+    {
+      "name": "New York Public Library - Stephen A. Schwarzman Building",
+      "lat": 40.7532,
+      "lng": -73.9822,
+      "note": "Beaux-Arts main branch — the Rose Main Reading Room is a free must-see.",
+      "hours": "10:00 AM–6:00 PM, till 8 PM Tue/Wed, closed Sun",
+      "rating": 4.6,
+      "phone": "+1 917-275-6975"
+    },
+    {
+      "name": "Chelsea Market",
+      "lat": 40.7424,
+      "lng": -74.0061,
+      "note": "Food hall in the Meatpacking District — dozens of vendors under one roof.",
+      "hours": "7:00 AM–10:00 PM daily",
+      "rating": 4.4,
+      "phone": "+1 212-652-2110"
+    },
+    {
+      "name": "Staten Island Ferry",
+      "lat": 40.7011,
+      "lng": -74.0134,
+      "note": "Free ferry with Statue of Liberty & skyline views — no ticket needed.",
+      "hours": "24 hours, ~every 30 min",
+      "rating": 4.6,
+      "phone": "+1 311"
+    },
+    {
+      "name": "Rockefeller Center",
+      "lat": 40.7587,
+      "lng": -73.9787,
+      "note": "Historic complex — Top of the Rock, NBC Studios, the famous ice rink in winter.",
+      "hours": "Open 24 hours (plaza)",
+      "rating": 4.5,
+      "phone": "+1 212-588-8601"
+    }
+  ],
+  "railStations": [
+    {
+      "name": "Penn Station",
+      "lat": 40.7505,
+      "lng": -73.9934,
+      "note": "Amtrak, NJ Transit & LIRR hub beneath Madison Square Garden — also home to the newer Moynihan Train Hall.",
+      "hours": "Station open 24 hours. Amtrak/NJ Transit/LIRR trains run all day with reduced overnight frequency — no single last train, check your specific route."
+    },
+    {
+      "name": "Grand Central Terminal",
+      "lat": 40.7527,
+      "lng": -73.9772,
+      "note": "Metro-North commuter rail hub to Westchester, Connecticut & the Hudson Valley.",
+      "hours": "Station open ~5:30 AM–2:00 AM. Metro-North trains run on individual branch timetables with a real overnight gap (~2–5 AM) — check MTA Metro-North for your line."
+    }
+  ],
+  "airports": [
+    {
+      "name": "John F. Kennedy International Airport",
+      "code": "JFK",
+      "lat": 40.6413,
+      "lng": -73.7781,
+      "transitNote": "~60 min to Manhattan via AirTrain JFK (shown on map, connects to A train at Howard Beach) — requires a transfer, not a one-seat ride",
+      "hours": "A train runs 24/7 — no first/last train. Overnight (~midnight–5 AM) trains every 20–30 min instead of every 5–10. Note: the AirTrain JFK connection itself costs a separate $8.50, on top of the $3.00 subway fare."
+    },
+    {
+      "name": "LaGuardia Airport",
+      "code": "LGA",
+      "lat": 40.7769,
+      "lng": -73.874,
+      "transitNote": "No rail connection exists — LGA is the only major East Coast airport without one (the AirTrain project was cancelled in 2023). Q70 bus to Astoria-Ditmars Blvd (N/W train, shown on map) or M60 bus to Manhattan."
+    },
+    {
+      "name": "Newark Liberty International Airport",
+      "code": "EWR",
+      "lat": 40.6895,
+      "lng": -74.1745,
+      "transitNote": "~30–45 min via AirTrain Newark to NJ Transit/Amtrak, then to Penn Station — not on the NYC Subway map shown"
+    }
+  ]
+}

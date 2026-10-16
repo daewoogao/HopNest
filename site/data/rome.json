@@ -1,0 +1,379 @@
+{
+  "name": "Rome",
+  "country": "Italy",
+  "flag": "🇮🇹",
+  "center": [41.899,12.49],
+  "zoom": 12,
+  "operatingHours": "Metro lines A, B/B1 and C run ~5:30 AM–11:30 PM, until ~1:30 AM on Friday and Saturday nights. No all-night metro; night buses (N lines) cover the gap. Strikes (usually announced Fridays) can shut lines for part of the day.",
+  "fareInfo": "A BIT ticket costs €1.50 (2026) and is valid 100 minutes: one metro ride plus unlimited buses and trams. Tap a contactless bank card or phone at the gates to pay the same fare, capped at €8.50 a day. Passes: 24 h €8.50, 48 h €15, 72 h €22. City tickets do not cover the Leonardo Express (€14) to Fiumicino.",
+  "lines": [
+    {
+      "id": "la",
+      "name": "Line A",
+      "color": "#F68B1F",
+      "code": "A",
+      "stations": [
+        ["Battistini",41.9062,12.4152],
+        ["Cornelia",41.9006,12.4265],
+        ["Baldo degli Ubaldi",41.8991,12.4336],
+        ["Valle Aurelia",41.9029,12.4414],
+        ["Cipro",41.9074,12.4477],
+        ["Ottaviano",41.9095,12.4584],
+        ["Lepanto",41.9114,12.4661],
+        ["Flaminio",41.9126,12.4778],
+        ["Spagna",41.9068,12.4846],
+        ["Barberini",41.9039,12.4887],
+        ["Repubblica",41.9029,12.4961],
+        ["Termini",41.9017,12.5008],
+        ["Vittorio Emanuele",41.8946,12.5046],
+        ["Manzoni",41.8902,12.5069],
+        ["San Giovanni",41.8853,12.51],
+        ["Re di Roma",41.8819,12.5141],
+        ["Ponte Lungo",41.8779,12.519],
+        ["Furio Camillo",41.8748,12.5231],
+        ["Colli Albani",41.8695,12.5299],
+        ["Arco di Travertino",41.8661,12.5358],
+        ["Porta Furba/Quadraro",41.8639,12.5482],
+        ["Numidio Quadrato",41.8622,12.5527],
+        ["Lucio Sestio",41.8598,12.5572],
+        ["Giulio Agricola",41.8567,12.5627],
+        ["Subaugusta",41.8539,12.5677],
+        ["Cinecittà",41.8493,12.5744],
+        ["Anagnina",41.8428,12.5861]
+      ],
+      "jp": "Linea A"
+    },
+    {
+      "id": "lb",
+      "name": "Line B",
+      "color": "#3783C6",
+      "code": "B",
+      "stations": [
+        ["Rebibbia",41.9257,12.5728],
+        ["Ponte Mammolo",41.9208,12.5651],
+        ["Santa Maria del Soccorso",41.9155,12.5606],
+        ["Pietralata",41.9147,12.5552],
+        ["Monti Tiburtini",41.9157,12.5479],
+        ["Quintiliani",41.9158,12.5384],
+        ["Tiburtina FS",41.9108,12.5304],
+        ["Bologna",41.9135,12.5206],
+        ["Policlinico",41.9088,12.5121],
+        ["Castro Pretorio",41.9065,12.5069],
+        ["Termini",41.9014,12.5005],
+        ["Cavour",41.895,12.4935],
+        ["Colosseo",41.8917,12.4917],
+        ["Circo Massimo",41.8834,12.4881],
+        ["Piramide",41.8749,12.4825],
+        ["Garbatella",41.8663,12.4831],
+        ["Basilica San Paolo",41.8559,12.4783],
+        ["Marconi",41.8494,12.4757],
+        ["EUR Magliana",41.8395,12.4634],
+        ["EUR Palasport",41.83,12.4667],
+        ["EUR Fermi",41.8289,12.4709],
+        ["Laurentina",41.8271,12.4813]
+      ],
+      "jp": "Linea B"
+    },
+    {
+      "id": "lb_b1",
+      "name": "Line B1",
+      "color": "#3783C6",
+      "code": "B",
+      "stations": [
+        ["Jonio",41.9469,12.5276],
+        ["Conca d'Oro",41.9398,12.5282],
+        ["Libia",41.9318,12.5193],
+        ["Sant'Agnese/Annibaliano",41.9239,12.516],
+        ["Bologna",41.9135,12.5206],
+        ["Policlinico",41.9088,12.5121],
+        ["Castro Pretorio",41.9065,12.5069],
+        ["Termini",41.9014,12.5005],
+        ["Cavour",41.895,12.4935],
+        ["Colosseo",41.8917,12.4917],
+        ["Circo Massimo",41.8834,12.4881],
+        ["Piramide",41.8749,12.4825],
+        ["Garbatella",41.8663,12.4831],
+        ["Basilica San Paolo",41.8559,12.4783],
+        ["Marconi",41.8494,12.4757],
+        ["EUR Magliana",41.8395,12.4634],
+        ["EUR Palasport",41.83,12.4667],
+        ["EUR Fermi",41.8289,12.4709],
+        ["Laurentina",41.8271,12.4813]
+      ],
+      "jp": "Linea B1"
+    },
+    {
+      "id": "lc",
+      "name": "Line C",
+      "color": "#008751",
+      "code": "C",
+      "stations": [
+        ["Monte Compatri - Pantano",41.8657,12.7077],
+        ["Graniti",41.8657,12.6982],
+        ["Finocchio",41.8655,12.6878],
+        ["Bolognetta",41.8651,12.6807],
+        ["Borghesiana",41.8647,12.6671],
+        ["Due Leoni - Fontana Candida",41.8649,12.6583],
+        ["Grotte Celoni",41.8629,12.6465],
+        ["Torre Gaia",41.8642,12.6356],
+        ["Torre Angela",41.8644,12.6257],
+        ["Torrenova",41.8633,12.6169],
+        ["Giardinetti",41.8644,12.61],
+        ["Torre Maura",41.8667,12.5972],
+        ["Torre Spaccata",41.8688,12.5871],
+        ["Alessandrino",41.8716,12.5785],
+        ["Parco di Centocelle",41.8748,12.5682],
+        ["Mirti",41.8812,12.5667],
+        ["Gardenie",41.8863,12.5622],
+        ["Teano",41.8891,12.5515],
+        ["Malatesta",41.8874,12.5405],
+        ["Pigneto",41.8885,12.5282],
+        ["Lodi",41.8869,12.5184],
+        ["San Giovanni",41.8856,12.5103],
+        ["Porta Metronia",41.8829,12.5027],
+        ["Colosseo – Fori Imperiali",41.8917,12.4903]
+      ],
+      "jp": "Linea C"
+    },
+    {
+      "id": "lmetromare",
+      "name": "Metromare (Rome–Lido)",
+      "color": "#7EB9E6",
+      "code": "Metromare",
+      "stations": [
+        ["Porta San Paolo",41.8753,12.4818],
+        ["Basilica San Paolo",41.8559,12.4781],
+        ["EUR Magliana",41.8396,12.4632],
+        ["Tor di Valle",41.8195,12.4368],
+        ["Vitinia",41.7953,12.4039],
+        ["Casal Bernocchi-Centro Giano",41.7894,12.3775],
+        ["Acilia",41.7835,12.3608],
+        ["Acilia Sud - Dragona",41.776,12.3421],
+        ["Ostia Antica",41.7563,12.3022],
+        ["Lido Nord",41.7403,12.2845],
+        ["Lido Centro",41.7333,12.2842],
+        ["Stella Polare",41.7272,12.2953],
+        ["Castel Fusano",41.7205,12.3089],
+        ["Cristoforo Colombo",41.7145,12.3221]
+      ],
+      "jp": "Metromare"
+    }
+  ],
+  "hotels": [
+    {"name":"Best Western Premier Hotel Royal Santina","lat":41.9031,"lng":12.5016,"area":"Roma Termini","rating":4.3,"ratingCount":1806,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"NH Collection Roma Palazzo Cinquecento","lat":41.9026,"lng":12.5016,"area":"Roma Termini","rating":4.6,"ratingCount":2360,"stars":5,"priceTier":4},
+    {"name":"The Independent Hotel","lat":41.9039,"lng":12.5006,"area":"Roma Termini","rating":4.7,"ratingCount":2133,"stars":4,"priceTier":3},
+    {"name":"Yes Hotel - Boutique Hotel Rome","lat":41.9033,"lng":12.5026,"area":"Roma Termini","rating":4.4,"ratingCount":2369,"stars":3,"priceTier":2},
+    {"name":"The Beehive (hostel)","lat":41.9031,"lng":12.5044,"area":"Roma Termini","rating":4.6,"ratingCount":1076,"stars":1,"priceTier":1},
+    {"name":"Adesso Hotel","lat":41.9102,"lng":12.5293,"area":"Roma Tiburtina","rating":4.5,"ratingCount":133,"stars":3,"priceTier":2},
+    {"name":"Roma Scout Center (hostel)","lat":41.9099,"lng":12.5224,"area":"Roma Tiburtina","rating":4.2,"ratingCount":447,"stars":1,"priceTier":1},
+    {"name":"Sofitel Roma Villa Borghese","lat":41.9076,"lng":12.4866,"area":"Spanish Steps","rating":4.5,"ratingCount":2821,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"The Inn at the Spanish Steps","lat":41.9056,"lng":12.4815,"area":"Spanish Steps","rating":4.6,"ratingCount":1456,"stars":4,"priceTier":4},
+    {"name":"Hotel Modigliani","lat":41.905,"lng":12.4869,"area":"Spanish Steps","rating":4.4,"ratingCount":1659,"stars":4,"priceTier":3},
+    {"name":"Hotel Condotti","lat":41.9062,"lng":12.4807,"area":"Spanish Steps","rating":4.3,"ratingCount":1641,"stars":3,"priceTier":3},
+    {"name":"Hotel Scalinata di Spagna","lat":41.9057,"lng":12.4835,"area":"Spanish Steps","rating":4.5,"ratingCount":995,"stars":3,"priceTier":3},
+    {"name":"Hotel Raffaello - Sure Hotel Collection by Best Western","lat":41.8978,"lng":12.4955,"area":"Monti","rating":4.5,"ratingCount":3152,"stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"FH55 Grand Hotel Palatino","lat":41.8945,"lng":12.4923,"area":"Monti","rating":4.1,"ratingCount":3203,"stars":4,"priceTier":3},
+    {"name":"Monti Palace Hotel","lat":41.8954,"lng":12.4938,"area":"Monti","rating":4.5,"ratingCount":1149,"stars":4,"priceTier":3},
+    {"name":"Hotel Palazzo Manfredi","lat":41.8901,"lng":12.4956,"area":"Monti","rating":4.5,"ratingCount":775,"stars":5,"priceTier":4},
+    {"name":"Hotel Colosseum","lat":41.8962,"lng":12.4961,"area":"Monti","rating":4.6,"ratingCount":2661,"stars":3,"priceTier":2},
+    {"name":"The Spring House Hotel Rome Vatican, Tapestry Collection by Hilton","lat":41.9073,"lng":12.4516,"area":"Prati","rating":4.3,"ratingCount":1893,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hotel dei Consoli","lat":41.9064,"lng":12.4601,"area":"Prati","rating":4.1,"ratingCount":949,"stars":4,"priceTier":3},
+    {"name":"Eccelso Hotel","lat":41.9067,"lng":12.4591,"area":"Prati","rating":4.7,"ratingCount":135,"stars":4,"priceTier":3},
+    {"name":"Hotel Sant'Anna","lat":41.9039,"lng":12.4592,"area":"Prati","rating":4.7,"ratingCount":425,"stars":3,"priceTier":2},
+    {"name":"Bed & Best","lat":41.9073,"lng":12.4633,"area":"Prati","rating":4.8,"ratingCount":135,"stars":2,"priceTier":2}
+  ],
+  "sights": [
+    {
+      "name": "Colosseum",
+      "lat": 41.8902,
+      "lng": 12.4922,
+      "note": "The 1st-century amphitheatre of Flavian Rome, once holding some 50,000 spectators for gladiator games; timed entry, with a separate ticket for the arena floor and underground.",
+      "hours": "8:30 AM–6:30 PM until late Oct, 8:30 AM–4:30 PM in winter; last entry 1 h before close",
+      "rating": 4.6,
+      "ticketUrl": "https://colosseo.it/en/",
+      "bookAhead": true
+    },
+    {
+      "name": "Pantheon",
+      "lat": 41.8986,
+      "lng": 12.4769,
+      "note": "Hadrian's 2,000-year-old temple, still crowned by the world's largest unreinforced concrete dome and its open oculus; now a church and Raphael's tomb.",
+      "hours": "9:00 AM–7:00 PM daily (last entry 6:30 PM); €7 ticket",
+      "rating": 4.7,
+      "ticketUrl": "https://www.museiitaliani.it/"
+    },
+    {
+      "name": "Trevi Fountain",
+      "lat": 41.9009,
+      "lng": 12.4833,
+      "note": "Rome's grandest Baroque fountain, where a coin tossed over the shoulder promises a return trip; since Feb 2026 a €2 ticket is needed to step down to the basin edge.",
+      "hours": "Basin access 9:00 AM–10:00 PM (from 11:30 AM Mon & Fri), last entry 9:00 PM; piazza always open and free",
+      "rating": 4.4
+    },
+    {
+      "name": "Trastevere",
+      "lat": 41.8894,
+      "lng": 12.4703,
+      "note": "Cobbled riverside quarter of ivy-draped lanes, trattorias and evening crowds, centred on Piazza di Santa Maria in Trastevere and its mosaic-fronted basilica.",
+      "hours": "Open 24 hours (liveliest evenings)",
+      "rating": 4.6
+    },
+    {
+      "name": "Vatican Museums",
+      "lat": 41.9065,
+      "lng": 12.4536,
+      "note": "The papal collections, from classical sculpture to the Raphael Rooms, ending in Michelangelo's Sistine Chapel ceiling and Last Judgment.",
+      "hours": "Mon–Sat 8:00 AM–8:00 PM (last entry 6:00 PM); closed Sun except last Sun of month 9:00 AM–2:00 PM (free)",
+      "rating": 4.3,
+      "ticketUrl": "https://tickets.museivaticani.va/",
+      "bookAhead": true
+    },
+    {
+      "name": "Galleria Borghese",
+      "lat": 41.9142,
+      "lng": 12.4921,
+      "note": "A cardinal's villa packed with Bernini's marble sculptures and paintings by Caravaggio, Raphael and Titian, visited in strict two-hour slots.",
+      "hours": "Tue–Sun 9:00 AM–7:00 PM, entry on the hour; closed Mon; booking required",
+      "rating": 4.6,
+      "ticketUrl": "https://galleriaborghese.beniculturali.it/en/",
+      "bookAhead": true
+    },
+    {
+      "name": "Piazza Navona",
+      "lat": 41.8992,
+      "lng": 12.4731,
+      "note": "Long oval square on the footprint of Domitian's stadium, with Bernini's Fountain of the Four Rivers at its centre and street artists all around.",
+      "hours": "Open 24 hours",
+      "rating": 4.5
+    },
+    {
+      "name": "Basilica di Santa Maria Maggiore",
+      "lat": 41.8976,
+      "lng": 12.4984,
+      "note": "One of Rome's four major papal basilicas, with 5th-century mosaics, a gilded coffered ceiling and the tomb of Pope Francis; a short walk from Termini.",
+      "hours": "~7:00 AM–7:00 PM daily; free",
+      "rating": 4.7
+    },
+    {
+      "name": "Castel Sant'Angelo",
+      "lat": 41.9031,
+      "lng": 12.4663,
+      "note": "Hadrian's mausoleum turned papal fortress, linked to the Vatican by a walled passage, with a rooftop terrace looking straight down to St Peter's.",
+      "hours": "9:00 AM–7:30 PM daily (last entry 6:30 PM)",
+      "rating": 4.5
+    },
+    {
+      "name": "Palatine Hill",
+      "lat": 41.8892,
+      "lng": 12.487,
+      "note": "The hill where Rome's emperors built their palaces, now gardens and ruins with views over the Forum and the Circus Maximus; same ticket as the Colosseum.",
+      "hours": "9:00 AM–6:30 PM until late Oct, 9:00 AM–4:30 PM in winter; last entry 1 h before close",
+      "rating": 4.6,
+      "ticketUrl": "https://colosseo.it/en/",
+      "bookAhead": true
+    },
+    {
+      "name": "Villa Borghese",
+      "lat": 41.9137,
+      "lng": 12.4823,
+      "note": "Rome's central park of pines, a boating lake and the Pincio terrace overlooking Piazza del Popolo; rent a bike or rowing boat.",
+      "hours": "Park open 24 hours; Pincio and attractions daylight hours",
+      "rating": 4.5
+    },
+    {
+      "name": "Roman Forum",
+      "lat": 41.8925,
+      "lng": 12.4853,
+      "note": "The heart of ancient Rome: temples, triumphal arches and the Senate house strung along the Via Sacra between the Capitoline and Palatine hills.",
+      "hours": "9:00 AM–6:30 PM until late Oct, 9:00 AM–4:30 PM in winter; last entry 1 h before close",
+      "rating": 4.6,
+      "ticketUrl": "https://colosseo.it/en/",
+      "bookAhead": true
+    },
+    {
+      "name": "Monumento a Vittorio Emanuele II",
+      "lat": 41.8946,
+      "lng": 12.4831,
+      "note": "The vast white marble 'Vittoriano' on Piazza Venezia, honouring Italy's first king; its terraces and paid glass lift give a 360° view of the city.",
+      "hours": "9:30 AM–7:30 PM daily; panoramic lift extra",
+      "rating": 4.5
+    },
+    {
+      "name": "Palazzo Colonna",
+      "lat": 41.8982,
+      "lng": 12.4846,
+      "note": "A princely family palace still in private hands, whose Great Hall of mirrors and frescoes rivals Versailles; opens to the public only a few mornings a week.",
+      "hours": "Sat 9:15 AM–1:15 PM; Fri mornings guided tours only (book); other days private tours",
+      "rating": 4.8,
+      "ticketUrl": "https://www.galleriacolonna.it/en/visits",
+      "bookAhead": true
+    },
+    {
+      "name": "Spanish Steps",
+      "lat": 41.906,
+      "lng": 12.4828,
+      "note": "The 135-step Baroque stairway from Piazza di Spagna up to the Trinità dei Monti church; sitting on the steps is banned and fined.",
+      "hours": "Open 24 hours",
+      "rating": 3.9
+    },
+    {
+      "name": "Chiesa di Sant'Ignazio di Loyola",
+      "lat": 41.899,
+      "lng": 12.4797,
+      "note": "Jesuit church famous for Andrea Pozzo's illusionist ceiling and painted 'fake dome'; stand on the floor marker to see the trick work.",
+      "hours": "~9:00 AM–8:00 PM daily; free",
+      "rating": 4.7
+    },
+    {
+      "name": "St. Peter's Basilica",
+      "lat": 41.9022,
+      "lng": 12.4539,
+      "note": "The world's largest church, home to Michelangelo's Pietà and Bernini's bronze canopy; climb the dome for the classic view over St Peter's Square.",
+      "hours": "~7:00 AM–8:00 PM daily (dome closes earlier); free with a security queue; may close during papal ceremonies",
+      "rating": 4.8
+    },
+    {
+      "name": "Mercato di Testaccio",
+      "lat": 41.8768,
+      "lng": 12.4752,
+      "note": "A modern covered neighbourhood market with fruit stalls and much-loved street-food counters serving trapizzini and Roman sandwiches.",
+      "hours": "Mon–Sat ~7:00 AM–3:00 PM; closed Sun",
+      "rating": 4.3
+    }
+  ],
+  "railStations": [
+    {
+      "name": "Roma Termini",
+      "lat": 41.901,
+      "lng": 12.5016,
+      "note": "Rome's main station and the only stop shared by metro lines A and B. Frecciarossa and Italo high-speed trains to Naples (~1h10), Florence (~1h30), Milan (~3h) and Venice (~4h); the Leonardo Express to Fiumicino Airport; airport buses to Ciampino.",
+      "hours": "Station open ~4:30 AM–~1:30 AM. Mainline trains run to individual timetables."
+    },
+    {
+      "name": "Roma Tiburtina",
+      "lat": 41.9106,
+      "lng": 12.5306,
+      "note": "Rome's second high-speed station (Frecciarossa and Italo, many northbound trains stop here instead of Termini), on metro line B. FL1 regional trains to Fiumicino Airport; the long-distance coach terminal is next door.",
+      "hours": "Station open ~4:30 AM–~1:00 AM. Mainline trains run to individual timetables."
+    }
+  ],
+  "airports": [
+    {
+      "name": "Rome Fiumicino Airport",
+      "code": "FCO",
+      "lat": 41.7954,
+      "lng": 12.2523,
+      "transitNote": "Leonardo Express non-stop to Roma Termini in ~32 min (€14; airport rail, not on this metro map). FL1 regional trains (€8) reach Trastevere and Tiburtina in ~30–50 min; coach buses to Termini ~50–70 min. Taxi fixed fare €55 to the historic centre.",
+      "hours": "Leonardo Express: first ~6:00 AM, last ~11:30 PM from the airport. Late arrivals: night buses or a taxi."
+    },
+    {
+      "name": "Rome Ciampino Airport",
+      "code": "CIA",
+      "lat": 41.7994,
+      "lng": 12.5949,
+      "transitNote": "No rail link: shuttle buses run to Roma Termini in ~40 min (~€6–7), or take a local bus to Ciampino station and a regional train to Termini (~15 min). The metro A stop Anagnina is a bus ride away. Taxi fixed fare €40 to the historic centre.",
+      "hours": "Airport shuttle buses: first ~4:30 AM, last ~midnight, timed to flights; check operator timetables."
+    }
+  ]
+}
