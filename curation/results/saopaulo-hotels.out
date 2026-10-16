@@ -1,0 +1,453 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	664063912	Hotel Brooklin		-23.6245507	-46.6815037	hotel				
+node	666486066	Gran Estanplaza Berrini		-23.6102192	-46.6956818	hotel				
+node	840700164	Park's		-23.6013159	-46.6447029	hotel				
+node	855340574	Hotel Mercure		-23.5659651	-46.6491070	hotel			Accor Hotels	http://www.mercure.com/pt/hotel-5176-mercure-sao-paulo-paulista/index.shtml
+node	892104234	Mercure Apartments São Paulo Excellence		-23.5572474	-46.6757033	hotel		Mercure		
+node	1258936618	Ô de Casa Hostel		-23.5605800	-46.6903252	hostel				
+node	1770545679	Nóbrega Hotel		-23.6242378	-46.6619092	hotel		OYO		
+node	1770545683	Ibis		-23.6247946	-46.6622169	hotel		Ibis		
+node	1791819406	Comfort Nova Paulista		-23.5857159	-46.6360633	hotel			Atlantica	
+node	1801306004	Trianon Paulista		-23.5645031	-46.6581635	hotel				
+node	1801306041	Le Premier		-23.5715183	-46.6598164	hotel				
+node	1964258174	Wyndham São Paulo Ibirapuera Convention Plaza Hotel		-23.6088781	-46.6664189	hotel	4	Wyndham		
+node	1974956000	Transamerica La Residence		-23.5811367	-46.6825307	hotel				
+node	1975555695	Innside by Melia		-23.5850117	-46.6816399	hotel		INNSiDE by Meliá		
+node	1975555696	Hotel TRYP Itaim		-23.5833179	-46.6793429	hotel		Tryp		
+node	1975555697	Hotel TRYP Jesuíno Arruda		-23.5829574	-46.6784808	hotel		Tryp		
+node	1977061215	Ibis Sao Paulo Jardins		-23.5707865	-46.6624367	hotel		Ibis		
+node	2222870498	Hotel Intercity Berrini		-23.6033719	-46.6935680	hotel			Intercity Hotels	
+node	2299038651	Ceaser Park		-23.5955807	-46.6840328	hotel				
+node	2355070880			-23.5037290	-46.6273792	hotel				
+node	2424531877	Hotel Zafira		-23.5798889	-46.6082902	hotel		OYO		
+node	2532734955	Hotel Bosque da Saúde		-23.6068214	-46.6274538	hotel				
+node	2558634030	Gran Villagio		-23.5496129	-46.6454047	hotel				
+node	2581666571	Albergue Municipal		-23.5254300	-46.6247228	hotel				
+node	2615130569			-23.5337645	-46.6027130	hotel				
+node	2729343547	Alugo Marcos		-23.5708727	-46.7077483	hostel				
+node	2795194427	Hostel Aquarela		-23.5805708	-46.6458233	hostel				
+node	2808913089	Hotel Veleiros		-23.5004945	-46.5714154	hotel				
+node	2816005618	Hostel Da Vila		-23.5886875	-46.6456016	hostel				
+node	2826764635	Hotel Central do Nordeste		-23.5166684	-46.6254172	hotel				
+node	2852774285	Barão Plaza		-23.5352969	-46.6191678	hotel				
+node	2860553190	Global Hostel		-23.5797865	-46.6462982	hostel				
+node	2869109097	Hotel Stela		-23.5775483	-46.6417659	hotel				https://www.hotelstela.com.br/
+node	2892485234	San Juan Business		-23.5426512	-46.6442164	hotel			San Juan Hotéis	
+node	2892485235	Republica Park Hotel		-23.5422869	-46.6431374	hotel				
+node	2892485238	San Raphael Hotel		-23.5400338	-46.6448779	hotel				https://www.sanraphael.com.br
+node	2892485239	San Michel Hotel		-23.5398295	-46.6451356	hotel				
+node	2962780409	Hotel Transamérica Berrini		-23.6015526	-46.6942469	hotel				
+node	3368927990	Uvaia Hostel		-23.5861853	-46.6444885	hostel				
+node	3559671013			-23.5799351	-46.6167806	hotel				
+node	3755213896	Nômade Arte e Hostel		-23.5793360	-46.6448582	hostel				
+node	3913571056	Hotel Ipanema		-23.5467894	-46.6502607	hotel				
+node	4063348186			-23.5381282	-46.6021374	hotel				
+node	4103973189	São Paulo Inn		-23.5416435	-46.6364220	hotel				
+node	4108361886			-23.5553722	-46.6033120	hotel				
+node	4124463092	Nacional Inn Jaraguá Conventions		-23.5483890	-46.6429249	hotel		Nacional Inn		https://www.nacionalinn.com.br/hoteis/hotel-nacionalinn-jaragua-sao-paulo
+node	4209961293	Cinelândia Hotel		-23.5427845	-46.6392015	hotel				
+node	4216597490	Namoa Hostel		-23.5492884	-46.6883605	hostel				
+node	4224873041	Estanplaza Funchal Faria Lima		-23.5934506	-46.6890369	hotel				http://estanplaza.com.br/hoteis/pt-br/estanplaza-funchal-faria-lima/#12
+node	4234340089	Estação Hostel	Estação Hostel (basement)	-23.5359859	-46.6357122	hostel				https://estacaohostel.com.br
+node	4352725518	Ibis Hotel		-23.5188502	-46.6548557	hotel				http://www.ibis.com/pt-br/hotel-2211--ibis-sao-paulo-expo/index.shtml
+node	4363091689	Hotel Center		-23.5409319	-46.6361316	hotel				
+node	4367802591			-23.6193135	-46.6986272	hotel				
+node	4375904423	L'Opera Hotel		-23.5669807	-46.6893356	hotel				https://www.loperahotel.com.br/
+node	4390877496	Hotel Mega Polo		-23.5359719	-46.6189118	hotel	3			
+node	4392378591	Hotel Banri		-23.5574532	-46.6349220	hotel				
+node	4436453270	Hotel Vintage		-23.5144474	-46.6512846	hotel				
+node	4447984201			-23.5005772	-46.6111747	hostel				
+node	4484677290	Mama Brasil		-23.5579031	-46.6504620	hostel				
+node	4524594704	Hotel Amália		-23.5474749	-46.6406133	hotel				
+node	4524651745	The Place Hotel		-23.5479741	-46.6486426	hotel				
+node	4526343992			-23.5828400	-46.6362993	hotel				
+node	4526413360	Hotel São Sebastião		-23.5448018	-46.6420266	hotel				
+node	4526541589	Demais aconchego	Yellow House Hostel	-23.5798533	-46.6378097	hostel				
+node	4530657813	Normandie Design Hotel		-23.5402530	-46.6377438	hotel				
+node	4530657815	Hotel Delplaza Marabá São Paulo		-23.5427035	-46.6410040	hotel				
+node	4644509379	Hotel Paris		-23.5479358	-46.6401420	hotel				
+node	4676442642	Hotel Oriente		-23.5350296	-46.6245536	hotel				
+node	4680455400	Hotel Rivoli		-23.5451068	-46.6414773	hotel				
+node	4686945584	Plaza		-23.5436430	-46.6382887	hotel				
+node	4688936047	Hotel Moraes		-23.5426379	-46.6377332	hotel				
+node	4695634316	Hotel Plaza Apolo		-23.5413874	-46.6403994	hotel				
+node	4695634317	Hotel London		-23.5415431	-46.6405980	hotel				
+node	4703607720	Hotel Savena		-23.5436305	-46.6464972	hotel				
+node	4709850092	Massimo Vila Madalena		-23.5544362	-46.6922517	hostel				
+node	4712090600	Golden Vilage		-23.5159932	-46.5876307	hotel				
+node	4713996367	Hotel Family		-23.5398824	-46.6197262	hotel				
+node	4725934052	Hotel Ouro Fino		-23.5391614	-46.6084893	hotel				
+node	4725956393			-23.5392246	-46.6094706	hotel				
+node	4728198885			-23.5431679	-46.6172158	hotel				
+node	4771750721	Nobile Paulista Prime	Nobile Paulista Prime	-23.5662330	-46.6536050	hotel				
+node	4783942140	Alvorada do Sol		-23.5260334	-46.6136813	hostel				http://alvoradadosol.com.br/
+node	4818133493	Hotel Okada		-23.5425941	-46.6464409	hotel				
+node	4831718251	Hotel Império		-23.5403926	-46.6440605	hotel				
+node	4832870529			-23.5447758	-46.6471059	hotel				
+node	4884205526	Gloria Plaza Hotel		-23.5572732	-46.6342452	hotel				
+node	4884205527	Hotel Isei		-23.5557709	-46.6343428	hotel				
+node	4893953647	Ocupação Penha Pietra		-23.5563790	-46.6635553	hotel			INCLUSA (FLM)	
+node	4906181975	Hotel Chilli		-23.5415391	-46.6480272	hotel				https://hotelchilli.com.br/
+node	4910825162	Hotel Rojas		-23.5390001	-46.6465512	hotel				
+node	4912963748	Ibis Budget		-23.5548991	-46.6616718	hotel		Ibis Budget		
+node	4991311521	Hotel Marajá		-23.5517598	-46.6473593	hotel				
+node	4992752399	Destak Hotel		-23.5543732	-46.6579765	hotel				
+node	4992940096	Hotel Itamar		-23.5537462	-46.6581787	hotel				
+node	5020407079	OYO Hotel		-23.5499130	-46.6331274	hotel		OYO		
+node	5020815551			-23.5503611	-46.6360836	hotel				
+node	5022327352	Pallion Center Hotel		-23.5495695	-46.6309672	hotel				
+node	5058261752	WZ Hotel		-23.5600037	-46.6708089	hotel				
+node	5064643666			-23.5510070	-46.6353463	hotel				
+node	5065358604	MF Premium Flats Brooklin		-23.6079861	-46.6880632	hotel	4			https://airbtc.online/properties/mf-flats-sao-paulo/
+node	5073938545	Hotel Cruz de Malta		-23.5492367	-46.6379187	hotel				
+node	5080376220	Marriot Executive Apartments São Paulo		-23.5879924	-46.6711101	hotel		Marriott		
+node	5086122030	Hotel Amarelinho		-23.5490425	-46.6302373	hotel				
+node	5117644677	Hotel Melbourne		-23.5237764	-46.7041880	hotel				
+node	5120399454	B&B Hotels São Paulo Luz - Centro		-23.5373839	-46.6329334	hotel		B&B Hotels		
+node	5124683285	Hotel Palermo		-23.5400942	-46.6329252	hotel				
+node	5129855318	Hotel Gira Sol		-23.5411128	-46.6298920	hotel				
+node	5137795707	Hotel Florêncio		-23.5362586	-46.6331442	hotel				
+node	5173051402	Hotel 25 de Março		-23.5392305	-46.6322986	hotel				
+node	5186087795	Hotel Arcobello		-23.5681998	-46.6948830	hotel				
+node	5220249170	Hotel Cristal		-23.5398338	-46.6345681	hotel				
+node	5244279304	Hotel Ville		-23.5450501	-46.6519634	hotel				
+node	5264046117	Top Hotel		-23.5383193	-46.6005960	hotel				
+node	5286255008	Hotel Moncloa		-23.5518472	-46.6521785	hotel				
+node	5286255020	Hotel Lumus		-23.5516911	-46.6516845	hotel				
+node	5296331828		Espaco 946 Hostel Bar	-23.5372410	-46.6716310	hostel				
+node	5306608640	B Plaza Hotel		-23.5377542	-46.5973603	hotel				
+node	5376101089	São Paulo Hostel		-23.5350852	-46.6483680	hostel				
+node	5380800134	Hotel Shack		-23.5517913	-46.6515348	hotel				
+node	5604504693			-23.5484492	-46.6474867	hotel				
+node	5628634046	Heritage Confort inn		-23.5540722	-46.6575510	hotel				
+node	5628927835	Hotel Augusta Bulevard		-23.5528016	-46.6539413	hotel				
+node	5629222084	Hotel Alteza		-23.5542364	-46.6555559	hotel				
+node	5797054300	Hotel Fasano		-23.5644500	-46.6695253	hotel	5			
+node	5993569900	Filadélfia		-23.5647999	-46.6922286	hotel				
+node	6305869272	Ez Aclimaçao Hotel		-23.5774469	-46.6367962	hotel		Ez Hotéis		
+node	6309204366	Radisson São Paulo Vila Olimpia		-23.5952374	-46.6876765	hotel		Radisson		https://www.radissonhotels.com/en-us/hotels/radisson-sao-paulo-vila-olimpia
+node	6321617425	Radisson Blu São Paulo		-23.5826420	-46.6852366	hotel		Radisson Blu		https://www.radissonhotels.com/en-us/hotels/radisson-blu-sao-paulo
+node	6354707556	Transamerica Classic Ópera		-23.5623689	-46.6674829	hotel				https://www.transamerica.com.br
+node	6355233071	San Michel		-23.5398625	-46.6452610	hotel				
+node	6357420314	Kyoto		-23.5552747	-46.6352124	hotel				
+node	6439744257	Hotel Gomide		-23.5553458	-46.6554930	hotel				
+node	6463204285	Filho da Amazônia		-23.6109195	-46.5697955	hotel				
+node	6463706687	Hotel Fasano		-23.5640622	-46.6692743	hotel				http://fasano.co.br
+node	6463717518	Santa Alice Hotelaria		-23.5655187	-46.6701684	hotel				
+node	6507247920	Sleep Inn Guarulhos		-23.4371048	-46.4962447	hotel				sleepinnguarulhos.com.br
+node	6548078940	Ouro Hotel		-23.5665939	-46.6953444	hotel				
+node	6549575926			-23.5659003	-46.6967239	hotel				
+node	6567876977	Hotel Soneca Plaza;Disensa Centro		-23.5414111	-46.6406399	hotel				https://www.sonecaplaza.com.br/
+node	6610710998	Hotel Bale		-23.5605912	-46.6881982	hotel				
+node	6662843265	Hotel Ype		-23.5604237	-46.6864555	hotel				
+node	6693477944	Nikkey Palace Hotel		-23.5594793	-46.6347353	hotel				https://www.nikkeyhotel.com.br
+node	6702993077	Novotel São Paulo Berrini		-23.6268692	-46.6982004	hotel		Novotel		
+node	6960238977	New Point		-23.5564709	-46.6496982	hotel				
+node	7041160063	Hotel Panamby São Paulo		-23.5191538	-46.6676814	hotel				https://hotelpanambysaopaulo.com.br/
+node	7042963088	Korean Guest House		-23.5397197	-46.5914878	hostel				
+node	7127868188	Hotel Pullman São Paulo Ibirapuera		-23.5824187	-46.6501817	hotel	5	Pullman		
+node	7230478485		WE Hostel	-23.5871956	-46.6471359	hostel				
+node	7731531787	MEGA POLO		-23.5358537	-46.6189140	hotel	3			
+node	8006858396	eSuítes Congonhas		-23.6282189	-46.6640128	hotel		Atlantica		https://www.reserveatlantica.com.br/hotel/esuites-congonhas-by-atlantica
+node	8065495229	Park Inn by Radisson Berrini		-23.6022705	-46.6926891	hotel		Park Inn		https://www.radissonhotels.com/en-us/hotels/park-inn-berrini
+node	8071286419	Hotel de Trânsito dos Oficiais - Exército		-23.5774283	-46.6513856	hotel				
+node	8176453523			-23.5165777	-46.6255946	hotel				
+node	9002715457	Grand Mercure SP Itaim Bibi		-23.5851053	-46.6725857	hotel	5	Grand Mercure		https://all.accor.com/hotel/B288/index.pt-br.shtml
+node	9468809209	Las Minas		-23.5010806	-46.6226039	hotel				
+node	9863885110	Hotel Ca’d’Oro		-23.5506811	-46.6474833	hotel				
+node	9968128491	FastSleep		-23.4262353	-46.4822692	hotel	2	Slaviero Hotéis		https://www.slavierohoteis.com.br/hoteis/fast-sleep-by-slaviero-hoteis/
+node	9968193125	Tryp		-23.4244699	-46.4756928	hotel	4	TRYP	Wyndham	https://www.wyndhamhotels.com/pt-br/tryp/guarulhos-brazil/tryp-by-wyndham-sao-paulo-guarulhos-airport/overview?CID=LC:TY::GGL:RIO:National:48311
+node	10029650117		Balcony Hostel & Hotel	-23.5353594	-46.6368462	hostel				
+node	10181174680	Mercure Sp Vila Olimpia		-23.5945469	-46.6750101	hotel		Mercure	Mercure	
+node	10200469018	Hotel Mercure Vila Olímpia	Hotel Mercure Vila Olímpia	-23.5945444	-46.6749440	hotel		Mercure		
+node	10207996110	Tivoli Mofarrej		-23.5639303	-46.6558179	hotel	5			
+node	10220006417		Sao Paolo Hostel Club	-23.5522195	-46.6577637	hostel				
+node	10242380060	Hotel Gold		-23.5103923	-46.6260570	hotel				
+node	10795651907	Joy Hotel Bom Retiro		-23.5193761	-46.6522483	hotel				
+node	10865891623	Transamerica Prime Paradise Garden		-23.5746243	-46.6478931	hotel				
+node	10888275632	Laghetto Stilo		-23.5765848	-46.6457540	hotel	5			
+node	10994907772	Hotel Estação Paraíso		-23.5760200	-46.6405266	hotel				
+node	11043068635	Pensão do Pedro		-23.5132690	-46.6245978	hostel				
+node	11079535078	Hotel Columbia		-23.5413225	-46.6405623	hotel			Buenas Hoteis	https://www.hotelcolumbia.com.br/
+node	11079535079	Real Castilha Hotel		-23.5412418	-46.6404515	hotel			Buenas Hoteis	
+node	11181861437	Golden Tower Express Berrini		-23.6149113	-46.6927170	hotel				https://fenixhoteis.com.br
+node	11817576080	Sheraton São Paulo WTC Hotel		-23.6089102	-46.6959810	hotel	5	Sheraton		
+node	11817577248	Meliá Jardim Europa		-23.5810049	-46.6784435	hotel	5	Meliá		
+node	11817577249	Hotel Fasano São Paulo Itaim		-23.5814351	-46.6773760	hotel	5			
+node	11834415282	Fujima Hostel		-23.5539201	-46.6354175	hostel				
+node	11834415846	Hotel Atlantis		-23.5533140	-46.6351130	hotel				
+node	11895901969	Hostel Liberdade		-23.5536713	-46.6355040	hostel				
+node	11901713032	AKKUI HOSTEL		-23.4991095	-46.6202176	hostel				https://www.instagram.com/akkuihostel/
+node	11986237574	Hotel Águia		-23.6213791	-46.6538396	hotel				
+node	12100600160			-23.5550759	-46.6624667	hotel				
+node	12207957901	Hostelaria SP Boutique		-23.5643210	-46.6347128	hostel				
+node	12222277501	Pinheiros Hostel & Food		-23.5654153	-46.6861390	hostel				
+node	12229918781	Kaleidoscopio		-23.5418663	-46.6966601	hotel				
+node	12238633901	Center Hostel		-23.4992590	-46.6265976	hostel				
+node	12290554912			-23.5550087	-46.6554632	hotel				
+node	12484329365	Calandre		-23.5026195	-46.6536982	hotel				
+node	12537633583	Viva Benx Vila Olímpia		-23.5968413	-46.6896707	hotel				https://elluspalace.com.br/
+node	12581624604	Casa de Amor de Thays e Manu		-23.6177510	-46.6776055	hotel			Thays & Manu	
+node	12603935601	Morada City Hostel		-23.5547108	-46.6927681	hostel				
+node	12677504701	Lamparina Hostel		-23.5526252	-46.6778105	hostel				
+node	12732339601	unity		-23.5820324	-46.6501305	hotel				
+node	13235148410	Expo hostel		-23.5009633	-46.6195073	hostel				
+node	13235148502	Hotel vitrina		-23.5080073	-46.6258180	hotel				
+node	13267572166	Blue Tree Premium Faria Lima Hotel		-23.5911021	-46.6808921	hotel				
+node	13288972801	Red Monkey		-23.5312141	-46.6619599	hostel				
+node	13288972901	Red Monkey		-23.5312141	-46.6619599	hostel				
+node	13340444003			-23.5002835	-46.6343197	hotel				
+node	13356541661	Own Vila Madalena		-23.5568199	-46.6878388	hotel				
+node	13359181404	Oh! Madalena Hostel		-23.5587365	-46.6872710	hostel				
+node	13384248901	Anoitecer		-23.5090335	-46.6261070	hotel				
+node	13398708496	Uniclass		-23.5651747	-46.6906194	hotel				
+node	13465130887			-23.5722705	-46.7253495	hotel				
+node	13510392501	Hobi Hostel		-23.5607752	-46.6450997	hostel				https://hobihostel.com/
+node	13534731701			-23.5357056	-46.6367937	hotel				
+node	13534731803			-23.5422117	-46.6414458	hotel				
+node	13540532703	La Casa Hostel		-23.4970208	-46.6179375	hostel				
+node	13631154617	Hotel Congonhas		-23.6248961	-46.6627772	hotel				
+node	13631154618	Hotel Aeroporto		-23.6247155	-46.6627967	hotel				
+node	13741391301	Comfort Hotel Guarulhos Aeroporto		-23.4376890	-46.4961789	hotel				
+node	13758426301	Comfort Hotel		-23.4375971	-46.4962458	hotel				
+node	13764924601	Hampton by Hilton Guarulhos Airport		-23.4380435	-46.4966128	hotel				
+node	13907098245	Hotel Flor Paulista		-23.5808650	-46.6371227	hotel				
+node	14077933430	Hotel Dublin		-23.5338498	-46.6597798	hotel				
+node	14246134101			-23.5606811	-46.6904513	hotel				
+way	49670802			-23.5164366	-46.6392562	hotel				
+way	118311437	Ibis Ibirapuera		-23.5963886	-46.6730901	hotel		Ibis		
+way	126052328	Flat Riema Contemporâneo		-23.5925820	-46.6719737	hotel				
+way	174393902	Hotel Mercure Alameda		-23.5602335	-46.6609108	hotel	4			
+way	181750298	Hotel Dan Inn Planato		-23.5404838	-46.6367678	hotel				
+way	181750309	Hotel Nobilis		-23.5409813	-46.6372114	hotel				
+way	181750322	Lory Studio/Hotel		-23.5407079	-46.6377221	hotel				
+way	183853701	Hotel Unique		-23.5816870	-46.6669028	hotel	5			
+way	202502647	Hilton São Paulo Morumbi		-23.6110282	-46.6966674	hotel	5	Hilton		
+way	291710254	Hotel Brigadeiro		-23.5694696	-46.6511457	hotel				https://www.hotelbrigadeiro.com.br/home.html
+way	301727673	Radisson Hotel Paulista Sao Paulo		-23.5717237	-46.6463951	hotel		Radisson	Golden Tulip	https://www.radissonhotels.com/en-us/hotels/radisson-sao-paulo-paulista
+way	304078978	Hotel Dan Inn Express		-23.5476131	-46.6491558	hotel				
+way	314131041	Blue Tree Towers		-23.6227480	-46.6963836	hotel				https://www.bluetree.com.br/hotel/blue-tree-premium-morumbi/
+way	315747058	Massoterapeuta e Depilação Masculina		-23.5596701	-46.6626596	hotel				https://massagemavenidapaulista.com.br/
+way	318725005	Golden Tower Express Anhembi		-23.5157817	-46.6257331	hotel	2	Fênix Hotéis		https://www.fenixhoteis.com.br/room/golden-tower-express-anhembi
+way	321742691	Okupe Hostel		-23.5599999	-46.6717105	hostel				
+way	334731374	Comfort Suites		-23.5552875	-46.6752056	hotel		Comfort Suites		
+way	335844945			-23.6465534	-46.6430554	hostel				
+way	335844946			-23.6462724	-46.6443503	hotel				
+way	335844947			-23.6449840	-46.6451523	hotel				
+way	335844948			-23.6445574	-46.6451123	hostel				
+way	351525255	Hotel Salomão		-23.5428293	-46.6372250	hotel				
+way	351525259	Hotel Urbis		-23.5428029	-46.6367451	hotel				
+way	351525266	Hotel Baguari		-23.5420959	-46.6367403	hotel				
+way	362856404	Mercure Jardins		-23.5607404	-46.6633238	hotel		Mercure	Mercure	www.mercure.com
+way	363639773	Blue Tree Premium Paulista		-23.5602597	-46.6559905	hotel			Blue Tree	
+way	379620532	Massis Five Stars		-23.5571718	-46.6582399	hotel				http://www.massisfivestars.com.br
+way	387887320	Ibis Budget		-23.5550276	-46.6615472	hotel		Ibis Budget	Accor Hotels	
+way	405781368	Hotel Belas Artes SP Paulista		-23.5574743	-46.6572020	hotel		Managed by AccorHotels		https://all.accor.com/hotel/B289/index.en.shtml
+way	405786412	Hotel Intercity Paulista		-23.5557452	-46.6597172	hotel		Intercity Hotels		https://www.intercityhoteis.com.br/hotel-sao-paulo/hotel-intercity-paulista/108/
+way	405790176	Paulista Wall Street		-23.5610995	-46.6540731	hotel			Travell Inn	https://www.travelinn.com.br/hotel/paulista
+way	405790501	Rosewood São Paulo		-23.5598796	-46.6526114	hotel	5	Rosewood		
+way	405820981	L'Hotel Porto Bay		-23.5641955	-46.6519419	hotel	5			
+way	406888713	Meliã Paulista		-23.5580789	-46.6608985	hotel	5	Meliá		
+way	406888740	Ibis		-23.5571567	-46.6620951	hotel		Ibis		
+way	409182259	Capcana Hotel São Paulo Jardins		-23.5691926	-46.6488439	hotel				
+way	412788105	Estanplaza Paulista		-23.5666722	-46.6546209	hotel		Estanplaza		https://estanplaza.com.br/hoteis/estanplaza-paulista
+way	412788189	Transamérica Prime International Plaza		-23.5666090	-46.6529329	hotel				http://www.transamericagroup.com.br/nossos-hoteis/transamerica-prime-international-plaza
+way	412788229	Intercontinental São Paulo		-23.5660933	-46.6543588	hotel	5	InterContinental		
+way	412788238	InterContinental		-23.5656133	-46.6538414	hotel		InterContinental		
+way	412852579	La Residence Paulista		-23.5591687	-46.6621026	hotel				
+way	412852604	Edifício Flat Service Augusta		-23.5601855	-46.6612584	hotel				
+way	414737495	Radisson Oscar Freire		-23.5629178	-46.6700975	hotel	5	Radisson		
+way	414739174	Hotel Emiliano		-23.5660350	-46.6652554	hotel	5			
+way	416294627	Hampton Park		-23.5705529	-46.6582204	hotel		Hampton		
+way	416294741	Quality Hotel		-23.5711764	-46.6577214	hotel				
+way	416294976	Mercure Sao Paulo Pamplona		-23.5685639	-46.6581647	hotel		Mercure		
+way	416295312	Hotel The Plaza		-23.5723419	-46.6544558	hotel				
+way	416295459	Edifcio 21St Century Flat		-23.5708015	-46.6589825	hotel				
+way	416295765	Hotel Intercity Interative Jardins		-23.5687258	-46.6576898	hotel			Intercity Hotels	
+way	416295867	Edifício Canopy by Hilton		-23.5714045	-46.6533328	hotel	5	Hilton		
+way	416295989	Novotel SP Jardins		-23.5724371	-46.6593258	hotel	4	Novotel		https://all.accor.com/hotel/B8P3/index.pt-br.shtml
+way	420064531	Bela Cintra Flat Service		-23.5517351	-46.6548612	hotel				
+way	420429356	Hotel Pergamon São Paulo Frei Caneca		-23.5513278	-46.6485153	hotel			BHG	http://www.bhghoteis.com.br/hotel-pergamon-sao-paulo-frei-caneca/
+way	420429560	Savoy Palace Hotel		-23.5549767	-46.6572263	hotel				
+way	420429603	Bella Augusta Palace Hotel		-23.5552233	-46.6567204	hotel				
+way	420429626	Stela Novo Hotel		-23.5539353	-46.6553534	hotel				
+way	421137008	Hotel Artemis		-23.5398398	-46.6430303	hotel				
+way	421137014	Lugus Hotel		-23.5402034	-46.6402762	hotel				
+way	421137067	São Paulo Hostel Downtown		-23.5393984	-46.6446712	hostel				https://www.hostelsp.com.br/
+way	421137156	Reinales Plaza Hotel		-23.5393355	-46.6439442	hotel				
+way	421137168	Hotel America do Sul		-23.5403923	-46.6425822	hotel				
+way	421137380	Hotel Aurora		-23.5403704	-46.6405948	hotel				
+way	421137487	Hotel Manchete		-23.5399903	-46.6440893	hotel				
+way	421137488	Hotel Grand Barão		-23.5395166	-46.6437358	hotel				
+way	421137515	Domus Hotel		-23.5401459	-46.6402010	hotel				
+way	421146280	Hotel Caravellas		-23.5417317	-46.6418810	hotel				
+way	421146375	Hotel Itamarati		-23.5414654	-46.6438482	hotel				https://www.hotelitamarati.com.br/
+way	421146436	Bourbon São Paulo		-23.5420912	-46.6438151	hotel				
+way	421148386	Hotel Arouche		-23.5419733	-46.6472942	hotel				
+way	421207633	San Francisco Plaza		-23.5440304	-46.6469440	hotel				
+way	421207639	Hotel Jardim		-23.5449221	-46.6469041	hotel				
+way	421207749	Kalipha Hotel		-23.5451903	-46.6464205	hotel				http://www.kaliphahotel.com.br/
+way	421207755	Hotel Fox		-23.5452146	-46.6474383	hotel				
+way	421209202	Calstar Hotel		-23.5461474	-46.6459250	hotel	2S			https://www.hotelcalstar.com.br/
+way	421223089	Hotel Gran Corona		-23.5453085	-46.6425969	hotel	4			https://www.grancorona.com.br/
+way	421294174	Paramount Hotel		-23.5394883	-46.6375989	hotel				
+way	421297158	Hotel Continental		-23.5380392	-46.6387143	hotel				
+way	421298597	Hotel Piratininga		-23.5356082	-46.6385732	hotel				
+way	421301257	Hotel Michel		-23.5380384	-46.6364296	hotel				
+way	421301366	Mediterrâneo Hotel		-23.5368141	-46.6359996	hotel				
+way	421301408	Hotel Monteneve		-23.5357790	-46.6367008	hotel				
+way	421301528	Hotel Cruz de Aviz		-23.5368725	-46.6354513	hotel				
+way	421301580	Casper Hotel		-23.5362215	-46.6359207	hotel				
+way	421301581	Hotel Tropicália		-23.5377624	-46.6361431	hotel				
+way	421301582	Hotel Manaus		-23.5362682	-46.6359360	hotel				
+way	421302957	Hotel Nacional Inn		-23.5403056	-46.6366834	hotel				
+way	421306204	Hotel Neon		-23.5428609	-46.6373211	hotel				
+way	421306282	Hotel Paissandu		-23.5426871	-46.6366329	hotel				
+way	421319060	Hotel Delplaza Excelsior São Paulo		-23.5428708	-46.6405048	hotel				
+way	421344266	Edifício Studio Urban Bela Vista		-23.5549220	-46.6399497	hotel				
+way	421344461	São Paulo Suite Service		-23.5513687	-46.6431007	hotel				
+way	421485780	Hotel Mauá Palace		-23.5351184	-46.6524734	hotel				
+way	421496437	Nova Angélica Hotel		-23.5339770	-46.6537088	hotel				
+way	421498023	Hotel Memorial		-23.5277719	-46.6595339	hotel				
+way	421574602	Hotel Metrópolis		-23.5380981	-46.6490567	hotel				
+way	423038994	Luver Hotel		-23.5555863	-46.6558493	hotel				http://www.luverhotel.com.br
+way	423245192	Makuxis Hotel		-23.5621310	-46.6437251	hotel				
+way	423509451	Residencial Bella Vista Suites		-23.5579252	-46.6388053	hotel				http://www.bellavistasuites.com.br/
+way	423736530	Intercity The Universe		-23.5594261	-46.6514123	hotel				
+way	425942575	Hotel Pestana São Paulo		-23.5722664	-46.6531303	hotel			Pestana	https://www.pestana.com/pt/pestana-sao-paulo-hotel/pages/home.aspx
+way	427244545	Hotel Residenza		-23.5740980	-46.6431736	hotel				www.hotelresidenza.com.br
+way	427402823	ibis budget São Paulo Paraíso		-23.5761909	-46.6402306	hotel	2	Ibis Budget	Accorhotels	
+way	428746271	Grand Mercure São Paulo Ibirapuera		-23.5927524	-46.6493469	hotel	5			
+way	431428620			-23.5708587	-46.6369968	hostel				
+way	431428684			-23.5709132	-46.6371026	hotel				
+way	432814450	Hotel Romantic		-23.6021224	-46.6129999	hotel				
+way	435707256	San Gabriel		-23.5555912	-46.6565222	hotel				
+way	438638456	Brás Palace Hotel		-23.5401960	-46.6125679	hotel				
+way	438640549	Brás Hotel		-23.5428923	-46.6168950	hotel				
+way	438643118	Uny Hotéis		-23.5373163	-46.6206657	hotel				
+way	439290681	Hotel Vilamar		-23.6114325	-46.6349005	hotel				
+way	439291002	Hotel Praça da Árvore		-23.6114819	-46.6346953	hotel				
+way	439298630	Pigalle Hotel		-23.6282489	-46.6399925	hotel				
+way	439303536	Hotel Estrela do Sul		-23.6117729	-46.6354987	hotel				
+way	439765245	Casa de Acolhida Arsenal da Esperança		-23.5500969	-46.6121615	hotel				
+way	439931310	Novotel São Paulo Morumbi		-23.6128938	-46.7038933	hotel	4	Novotel		https://accorhotels.com/
+way	450159935	Golden Tower São Paulo Hotel		-23.5633543	-46.6900428	hotel				https://www.goldentowerhotel.com.br/
+way	450165465	George V Flat		-23.5589799	-46.6987516	hotel				https://georgev.com.br/
+way	450169223	Ibis Styles		-23.5704807	-46.6916907	hotel		Ibis Styles		
+way	453407801	Hotel Village		-23.5259416	-46.6345022	hotel				
+way	453408363	Hotel Amanhecer		-23.5364470	-46.6279407	hotel				
+way	453408836	Hotel Positana		-23.5337556	-46.6313873	hotel				
+way	453408851	Hotel Carinhoso		-23.5342872	-46.6262090	hotel				
+way	453409388	Hotel Castelinho		-23.5347517	-46.6287307	hotel				
+way	453409535	Teodoro Palace		-23.5331779	-46.6303724	hotel				
+way	455294186	UP Whiteblack hostel		-23.5452581	-46.6741135	hostel				
+way	456656118	Grand Hyatt São Paulo		-23.6165497	-46.6979503	hotel	5	Grand Hyatt		
+way	464242458	Hotel Brás		-23.5303168	-46.6233840	hotel				
+way	464245432	L M Hotel		-23.5315747	-46.6162456	hotel				
+way	464247488	Hotel Flor do Pari		-23.5291606	-46.6220481	hotel				
+way	464247601	Hotel Canindé		-23.5290125	-46.6219349	hotel				http://www.hotelcaninde.com.br/
+way	464392799	Kingite Hotel		-23.5447048	-46.5885702	hotel				https://www.kingitehotel.com.br/index
+way	464402475	F&J		-23.5440081	-46.5897676	hotel				
+way	464406718	Hotel Belem		-23.5408866	-46.5932724	hotel				
+way	469692439	Hotel Pullman São Paulo Guarulhos Airport		-23.4503628	-46.4885489	hotel	5	Pullman		
+way	519789681	Hotel Allianz Parque		-23.5282214	-46.6802347	hotel				
+way	520678661			-23.5216840	-46.6994247	hotel				
+way	520831902	BE Hotel		-23.5312287	-46.6654862	hotel				
+way	521398748	Estanplaza Ibirapuera		-23.6085279	-46.6602089	hotel				
+way	521399675	Wyndham Ibirapuera		-23.6063649	-46.6643385	hotel		Wyndham		
+way	521401743	Mercure Hotel		-23.6052933	-46.6615862	hotel		Mercure		
+way	521401747	Adagio ApartHotel		-23.6054232	-46.6619804	hotel		Adagio		
+way	521403586	Meliá Ibirapuera		-23.6056250	-46.6646733	hotel		Meliá		
+way	521408377	Comfort Ibirapuera		-23.6028827	-46.6620508	hotel				https://www.letsatlantica.com.br/hotel/comfort-ibirapuera
+way	618151136	Hotel Flert		-23.5107016	-46.6264674	hotel				
+way	618152795	Brasília Santana Gold Flat		-23.5001628	-46.6240334	hotel				
+way	618179258	Hotel Lumi		-23.4988389	-46.6240272	hotel				
+way	677906142			-23.5738433	-46.6499127	hostel				
+way	689962248	Hotel JW Marriott São Paulo		-23.6253230	-46.7065149	hotel	5	Marriott		
+way	714037559			-23.5015702	-46.6145113	hotel				
+way	714044504	Hotel Flor		-23.4970383	-46.6110331	hotel				
+way	714640247	Ville Mariah		-23.5226247	-46.5935506	hotel				
+way	714642820	Best Guest		-23.5208131	-46.5911957	hotel				
+way	714644691	Hotel Vila Maria		-23.5216585	-46.5918457	hotel				
+way	714658624	Merengue Hotel		-23.4952190	-46.5816812	hotel				
+way	735290366	Hotel Ca'd'oro		-23.5505640	-46.6472392	hotel				https://www.cadoro.com.br/
+way	737106623	FH Floresta		-23.5053824	-46.6034519	hotel				
+way	751081094	Ibis Budget		-23.5398234	-46.6441983	hotel		Ibis Budget		
+way	756949913	Pullman São Paulo Vila Olímpia		-23.5959283	-46.6843485	hotel	5	Pullman		
+way	819072963	Hotel Intercity Adress Faria Lima		-23.5828613	-46.6846994	hotel			Intercity Hotels	
+way	852737529	São Paulo Nações Unidas Affiliated by Meliá		-23.6296239	-46.7062617	hotel		Meliá		
+way	881299005	Hotel MK		-23.5060231	-46.6235233	hotel				
+way	909284901	Transamerica Fit Villa Lobos		-23.5478492	-46.7360426	hotel				https://www.letsatlantica.com.br/hotel/transamerica-fit-villa-lobos
+way	946149848	Hotel Total Bras		-23.5354064	-46.6213217	hotel				
+way	1027045228	Metrô Hostel SP		-23.5011798	-46.6188800	hostel				http://metrohostelsp.com.br/
+way	1057217643	Extase Hotel		-23.5246614	-46.6918188	hotel				
+way	1063641363	Days In Perdizes		-23.5296152	-46.6780827	hotel				
+way	1070414288	Hotel Três Podere		-23.5589816	-46.5955022	hotel				
+way	1071278830	Hotel Rio Branco		-23.5405693	-46.6390111	hotel				
+way	1071289962			-23.5414515	-46.6371042	hotel				
+way	1076645369	Villa Rock Hostel		-23.5507925	-46.6754902	hostel				https://vila-rock-hostel.hotelsaopaulo.org/pt/
+way	1080789226	Yes Hotel		-23.5262893	-46.6282476	hotel				
+way	1084458727	Hotel Paraiso		-23.5719388	-46.6449608	hotel				
+way	1085732294	Hotel Turiassu		-23.5333798	-46.6662461	hotel				
+way	1091939290	Hotel Paes de Barros		-23.5605800	-46.5989391	hotel				
+way	1109981212	Quality Moema		-23.6006552	-46.6733618	hotel			Atlantica Hotels	
+way	1116105537	Mercure		-23.6009597	-46.6661245	hotel		Mercure		
+way	1116688410	Travel Inn Ritz		-23.6020974	-46.6733731	hotel				
+way	1117619089	Transamérica Executive (The Special)		-23.5978723	-46.6671605	hotel				
+way	1126050537	Tryp Hygienopolis		-23.5453563	-46.6563563	hotel		TRYP		
+way	1127919939	Ibis Styles São Paulo Centro		-23.5395977	-46.6343358	hotel		Ibis Styles		
+way	1164985740	Lux Hotel		-23.5408015	-46.6422361	hotel				
+way	1167663921	Hotel Gonzaga		-23.5437795	-46.6145958	hotel				
+way	1167663922	Hotel Centro Bras		-23.5435126	-46.6160286	hotel				
+way	1168350402	Soul Hostel		-23.5637727	-46.6517516	hostel				
+way	1170962707	Paulicéia Hostel		-23.5554533	-46.6539535	hostel				
+way	1171639715	Paulista Flat		-23.5633581	-46.6505127	hotel				
+way	1181862546	HLN Hotel		-23.5146158	-46.6229628	hotel				
+way	1185278968	Music And Sporty		-23.5361344	-46.6520718	hostel				
+way	1186655833	TRYP		-23.5746107	-46.6437127	hotel		TRYP		
+way	1189251862	Hotel Topázio		-23.5130985	-46.6247054	hotel				
+way	1189251866	Hotel Paulistana Oyo		-23.5132381	-46.6242290	hotel				
+way	1204235543	Mix Hotel		-23.5032444	-46.6251622	hotel				
+way	1209820508	Hotel Polo		-23.5061525	-46.6252396	hotel				
+way	1213087694	Higienópolis Hotel & Suites		-23.5355947	-46.6542619	hotel				
+way	1214534906	Royal Jardim Boutique Hotel		-23.5651880	-46.6561382	hotel				https://www.royalhoteis.com.br/royaljardins
+way	1216641706	Transamérica Executive Chácara Santo Antônio		-23.6289040	-46.7068829	hotel		Transamerica		
+way	1217654157	Ibis Budget		-23.5544584	-46.6551778	hotel		Ibis Budget		
+way	1217778550	Mercure		-23.5719214	-46.6466936	hotel		Mercure		
+way	1223370516	Tendas		-23.5532752	-46.6379898	hotel				
+way	1243326899			-23.5023528	-46.6233860	hotel				
+way	1245062938	Brasília Park Hotel		-23.5018641	-46.6875875	hotel				https://www.booking.com/hotel/br/brasilia-parque.pt-br.html?aid=356937&label=metagha-link-MRBR-hotel-3630474_dev-desktop_los-1_bw-7_dow-Tuesday_defdate-1_room-0_gstadt-2_rateid-public_aud-0_gacid-6623578791_mcid-10_ppa-0_clrid-0_ad-1_gstkid-0_checkin-2023
+way	1249567869	Hotel Intercity Anhembi		-23.5114331	-46.6544700	hotel		Intercity Hotels		https://www.intercityhoteis.com.br/hotel-sao-paulo/hotel-intercity-anhembi/109/
+way	1249946485	Rio Hotel		-23.5231793	-46.6604778	hotel				
+way	1271252823	Carrilon Plaza Hotel		-23.5534739	-46.6587989	hotel				
+way	1271252824	Riema Paulista Classic Flat		-23.5535550	-46.6589561	hotel				
+way	1292957518	Quality Suites Long Stay Bela Cintra		-23.5537304	-46.6570196	hotel				
+way	1304074041	JM Hospedaria		-23.5416485	-46.6485159	hotel				
+way	1324731301	Radisson		-23.5598222	-46.6765336	hotel		Radisson		
+way	1348476949	Hotel City Sacoman		-23.6005595	-46.5988244	hotel				
+way	1370988007	Cardim Plaza		-23.5653833	-46.6417712	hotel	3			
+way	1370988008	Rio Minho		-23.5654248	-46.6419111	hotel				
+way	1376174641	Hotel Bienal Ibirapuera		-23.5931573	-46.6476816	hotel				
+way	1376177071	Bat N' Breakfast		-23.5571652	-46.6860429	hostel				
+way	1377089634	Hospedaria Ipiranga		-23.5853970	-46.6056542	hostel				
+way	1392369730	Estanplaza International Hotel		-23.6299352	-46.7066860	hotel				
+way	1393042946	Hotel Intercity Nações Unidas		-23.6295624	-46.7072738	hotel			Intercity Hotels	
+way	1435093703	Garoa Hostel		-23.5660025	-46.6962418	hostel				
+way	1441910454	Renaissance São Paulo Hotel		-23.5589669	-46.6622866	hotel	5	Renaissance	Marriott	https://www.marriott.com.br/hotels/fact-sheet/travel/saobr-renaissance-sao-paulo-hotel
+way	1447126902			-23.5550021	-46.6535648	hostel				
+way	1472945278	Vila Maria		-23.4988169	-46.5881664	hotel				
+relation	4220283	Hotel Ibis		-23.6221761	-46.6962712	hotel		Ibis		
+relation	6258637	Nébias Palace		-23.5417077	-46.6407150	hotel				
+relation	6260838	New Comercial Palace Hotel		-23.5358794	-46.6366995	hotel				
+relation	6260858	Hotel Internacional São Paulo		-23.5405599	-46.6374328	hotel				
+relation	6260884	Hotel São Jorge		-23.5419040	-46.6380274	hotel				
+relation	6260914	Hotel Pueblo		-23.5422844	-46.6367207	hotel				
+relation	6261087	Hotel Joamar		-23.5440138	-46.6405058	hotel				
+relation	6261586	Hotel Ourinhos		-23.5358039	-46.6424244	hotel				
+relation	12296925	Wyndham Garden Hotel		-23.4985251	-46.6122840	hotel		Wyndham Garden		
+relation	14918056	mercure		-23.6043132	-46.6653868	hotel		Mercure		
+relation	14946443	Fenix Hotel Moema		-23.6007741	-46.6672034	hotel				
+relation	15717120	Novo Hotel Center Norte		-23.5121488	-46.6199424	hotel		Novotel	Novotel	https://www.centernorte.com.br/novotel/
+relation	17793104	Holiday Inn Parque Anhembi		-23.5165894	-46.6391409	hotel	4	Holiday Inn		
+relation	18007942	Hotel Ponte Aerea		-23.6238883	-46.6629127	hotel				
+relation	19964023	Hotel Real		-23.5307449	-46.6499632	hotel				

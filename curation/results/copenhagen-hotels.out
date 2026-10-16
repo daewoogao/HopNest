@@ -1,0 +1,159 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	25498524	Cabinn City		55.6705905	12.5708002	hotel				https://www.cabinn.com/
+node	277055805	Cab-Inn		55.6795619	12.5503985	hotel				
+node	277055819	Cab-Inn Scandinavia	Cab Inn Scandinavia	55.6808153	12.5555225	hotel				https://www.cabinn.com/
+node	279567568	Scandic Front		55.6813212	12.5932950	hotel	4	Scandic Hotels		
+node	279691844	The Square		55.6761571	12.5669727	hotel	4			https://www.thesquare.dk
+node	279692554	Copenhagen Strand		55.6772300	12.5901520	hotel	4			https://www.copenhagenstrand.dk/
+node	279711047	Copenhagen Island		55.6633682	12.5632675	hotel			Arp Hansen Group	https://www.copenhagenisland.com/
+node	280103179	Park Lane Copenhagen		55.7374203	12.5752591	hotel				https://parklanecph.com/en/
+node	280530672	Comfort Hotel Vesterbro		55.6728626	12.5591356	hotel		Comfort Hotel	Comfort Hotels	
+node	281062214	Ibsens Hotel		55.6846523	12.5662660	hotel				https://www.arthurhotels.dk/ibsens-hotel/
+node	281254296	DGI-byens Hotel		55.6689142	12.5640943	hotel				
+node	281254689	Savoy		55.6725796	12.5563501	hotel				https://www.savoyhotel.dk/
+node	282272245	Hotel Sankt Annæ		55.6812356	12.5917532	hotel	4			https://hotelsktannae.dk/
+node	282272266	Phoenix Copenhagen		55.6829397	12.5889295	hotel	4			https://www.phoenixcopenhagen.dk/
+node	282272639	Petra		55.6845384	12.5834327	hotel				https://hotel-petra.com/
+node	286302883	Rossini		55.6641351	12.5185785	hotel				
+node	297309578	Best Western Plus Airport Hotel Copenhagen		55.6371074	12.6420358	hotel	3	Best Western Plus	Core Hospitality	https://www.bestwestern.dk/booking-path/hotel-details/best-western-plus-airport-hotel-copenhagen-kastrup-96098
+node	298795705	Ansgar		55.6708191	12.5637437	hotel				http://www.ansgarhotel.dk/en/
+node	298795715	Løven		55.6726976	12.5569343	hotel				https://www.loevenhotel.dk/
+node	298795733	Tiffany		55.6708934	12.5631637	hotel				
+node	298795772	Go Hotel Saga		55.6715774	12.5624497	hotel	2		Go Hotel Copenhagen	https://go-hotel.com/hoteller/go-hotel-saga
+node	298796069	Hotel Du Nord		55.6720731	12.5619597	hotel	3			https://hoteldunord.dk/
+node	298796142	Hebron		55.6726211	12.5607845	hotel		Best Western	Best Western	https://www.hebron.dk/
+node	298796151	City Hotel Nebo		55.6723046	12.5627761	hotel				http://www.nebo.dk/
+node	298796162	Comfort Hotel Excelsior		55.6726087	12.5616921	hotel				
+node	298796166	Andersen Hotel		55.6718769	12.5611130	hotel			Absalon Hotel Group	https://andersen-hotel.dk/
+node	298796189	Mercur Hotel		55.6765536	12.5617950	hotel		ProfilHotels	Ligula Hospitality Group AB	https://ligula.se/profilhotels/mercur-hotel/
+node	298796192	Richmond Hotel		55.6786130	12.5625860	hotel		ProfilHotels	Ligula Hospitality Group AB	https://ligula.se/profilhotels/richmond-hotel/
+node	299629927	Kong Arthur		55.6847597	12.5649941	hotel				https://www.arthurhotels.dk/dk/hotel-kong-arthur/
+node	300633929	Comfort Hotel Esplanaden		55.6873256	12.5932342	hotel				
+node	317824160	Sleep in Heaven		55.6867883	12.5505333	hostel				https://www.sleepinheaven.com/
+node	340033653	Adina Hotel Copenhagen		55.6979906	12.5934474	hotel		Adina Hotels		https://www.adinahotels.com/de/apartments/copenhagen/
+node	388246510	Hotel SP34		55.6787261	12.5664620	hotel				https://www.brochner-hotels.dk/hotel-sp34/
+node	415895215	Copenhagen Downtown Hostel		55.6759488	12.5742396	hostel			Danhostel	http://www.copenhagendowntown.com/
+node	658907244	City Public Hostel		55.6717017	12.5532398	hostel				https://www.vesterbro-ungdomsgaard.dk/
+node	724360005	Hotel West		55.6718007	12.5523627	hotel				
+node	735030035	Central Hotel & Cafe		55.6739396	12.5515186	hotel				http://www.centralhotelogcafe.dk/
+node	783281649	Hotel Bethel		55.6794098	12.5909843	hotel				https://www.hotel-bethel.dk/
+node	783317700	Hotel Maritime		55.6775061	12.5894719	hotel	3			https://hotel-maritime.dk/
+node	783317723	Hotel City		55.6773527	12.5889809	hotel	4			https://www.hotelcity.dk/
+node	899219773	Hotel Amager		55.6657036	12.5994450	hotel				
+node	943878935	CPH Living		55.6701818	12.5800651	hotel				https://www.cphliving.com/
+node	1015232873	Scandic Sydhavnen		55.6544660	12.5416392	hotel		Scandic Hotels		https://www.scandichotels.dk/Hotels/Danmark/Kobenhavn/Scandic-Sydhavnen/
+node	1611136066	Rent a Room		55.6678939	12.5967924	hotel				
+node	1683620829	Generator Copenhagen		55.6829255	12.5826069	hostel			Generator	https://generatorhostels.com/destinations/copenhagen
+node	2098286932	Charlottehaven Hotellejligheder		55.7053695	12.5885243	hotel				
+node	2363337466	Scandic Palace Hotel		55.6762339	12.5703021	hotel		Scandic Hotels	Scandic Hotels	https://www.scandichotels.dk/Hotels/Danmark/Kobenhavn/Palace-Hotel/
+node	2428941435	Rye115		55.6977279	12.5763723	hotel				https://rye115.com/
+node	2476436768	Carlton Guldsmeden		55.6729760	12.5525497	hotel				https://www.hotelguldsmeden.com/carlton/
+node	2555513787	Cottage Farm		55.6019866	12.6469895	hotel				http://cottagefarm.dk/
+node	2845077943	Livjæger Hotel Pension		55.6971357	12.5875014	hotel				http://www.livjaegerhotel.dk/
+node	3011967880	Hotel Euroglobe		55.6784566	12.5497563	hotel				https://www.hoteleuroglobe.dk/en
+node	3513411225	Meiniger Hotel Copenhagen (former Urban House Copenhagen)		55.6722103	12.5623271	hostel				https://www.meininger-hotels.com/en/hotels/copenhagen/hotel-copenhagen-urban-house/
+node	3887005209	Church of Scientology Hotel		55.6730773	12.5584646	hotel				
+node	4001191954	Babette Guldsmeden Hotel		55.6874714	12.5931312	hotel	3			https://guldsmedenhotels.com
+node	4011664516	Manon les Suites		55.6803806	12.5612532	hotel				https://guldsmedenhotels.com/manon-les-suites/
+node	4011871188	Hotellet		55.6709110	12.5499670	hotel			Københavns Kommune	https://hotellet-vesterbro.kk.dk/
+node	4011872490	Sanct Thomas		55.6728480	12.5482970	hotel				https://www.hotelsctthomas.dk/
+node	4013660820	Imperial		55.6756448	12.5616263	hotel	4			https://www.imperial-hotel-copenhagen.com
+node	4237841696	Globalhagen Hostel		55.6886922	12.5619414	hostel				https://www.globalhagen.dk
+node	4333065202	Guldsmeden København		55.6727216	12.5524159	hotel				
+node	4334850949	Absalon Hotel		55.6716638	12.5615970	hotel			Absalon Hotel Group	https://www.absalon-hotel.dk/
+node	4358819391	YMCA Interpoint Hostel		55.6709188	12.5487885	hostel				http://www.ymca-interpoint.dk
+node	4402358765	Four Points Flex by Sheraton Copenhagen City		55.6715632	12.5612214	hotel		Four Points Flex by Sheraton	Core Hospitality	https://www.marriott.com/en-us/hotels/cphcf-four-points-flex-copenhagen-city/
+node	4427645074	Nyhavn63		55.6799751	12.5927888	hostel				https://www.nyhavn63.com/
+node	4427702497	Woodah Boutique Hostel		55.6719237	12.5579467	hostel				https://www.capsulehotel.ch/locations/copenhagen/
+node	4427721576			55.6728398	12.5625637	hostel				http://wheretosleep.dk/
+node	4460697542	Ascot Hotel		55.6768700	12.5653800	hotel				https://www.ascot-hotel.dk/
+node	4460697679	Hotel Alexandra		55.6770100	12.5660700	hotel				https://hotelalexandra.dk/
+node	4509704364	MS Mary		55.6792814	12.5929566	hotel				http://ms-mary-nyhavn.copenhagen-hotel.net/
+node	4881558363	STAY Seaport		55.7082465	12.5985867	hotel				https://stayapartments.dk/nordhavn/
+node	4933387994	Hotel 9 små hjem		55.6972305	12.5844639	hotel				https://www.9smaahjem.dk/
+node	4947191207	Axel Guldsmeden		55.6720873	12.5620262	hotel				
+node	5039784175	Steel House		55.6762570	12.5600960	hostel				https://www.steelhousecopenhagen.com/
+node	5109935200	A&O Hostel Nørrebro		55.7055243	12.5430722	hostel		A&O		https://www.aohostels.com/de/kopenhagen/
+node	5304900474	Hotel Sanders		55.6784296	12.5875614	hotel	5			https://hotelsanders.com/
+node	6420422289	Hotel Ottilia		55.6668782	12.5330838	hotel				https://www.brochner-hotels.dk/hotel-ottilia/
+node	6699489668	CitizenM Rådhuspladsen		55.6766010	12.5663960	hotel		citizenM		https://www.citizenm.com/destinations/copenhagen/copenhagen-radhuspladsen-hotel
+node	6699489670	Good Morning City Copenhagen Star		55.6719041	12.5625434	hotel				https://ligula.se/da/goodmorninghotels/copenhagen-star/
+node	6754266536	Wakeup Bernstorffsgade		55.6690550	12.5716910	hotel				
+node	6761760998	Turist Hotellet		55.6716956	12.5634589	hotel				
+node	6792000812	Annex Copenhagen		55.6713478	12.5617494	hotel			Absalon Hotel Group	https://annexcopenhagen.dk/
+node	7003057092	Coco Hotel		55.6723901	12.5565930	hotel				
+node	7088196485	Urban Camper		55.7021709	12.5377668	hostel				https://www.urbancamper.dk/
+node	7179104554	Villa Copenhagen		55.6714034	12.5677356	hotel	5			https://villacopenhagen.com/
+node	7277910917	Bryggen Guldesmeden Hotel		55.6624151	12.5791082	hotel			Øvrige engros-kæder	https://guldsmedenhotels.com/bryggen-guldsmeden/
+node	7289754640	Kanalhuset		55.6745200	12.5950330	hotel				https://kanalhusetcph.com/
+node	7711964792	Go Hotel City		55.6641671	12.6246944	hotel				https://www.go-hotel.com/
+node	8089020102	Four Points Flex by Sheraton Copenhagen Arena		55.6255860	12.5772030	hotel		Four Points by Sheraton	Core Hospitality	https://www.marriott.com/en-us/hotels/cphnf-four-points-flex-copenhagen-arena/
+node	8119069627	Eric Vökel Boutique Apartments		55.6709396	12.5636125	hotel				https://ericvokel.com/en/hotel/eric-vokel-copenhagen-suites
+node	8119069632	A-Hotels City		55.6723846	12.5572740	hotel				https://www.a-hotel.com/da/danmark/14696-kobenhavn/331167-1-a-hotels-city/
+node	8119069634	CityHub		55.6716560	12.5466260	hostel				https://cityhub.com/copenhagen/
+node	8371104024	Scandic Webers Hotel		55.6731180	12.5608649	hotel		Scandic Hotels		
+node	8378434763	Zoku Copenhagen		55.6566126	12.5918803	hotel				https://livezoku.com/copenhagen
+node	8637456980	Hotel Valby		55.6642104	12.5185585	hotel	3			
+node	9044612586	Scandic CPH Strandpark		55.6353820	12.6549120	hotel		Scandic Hotels	Scandic Hotels	https://www.scandichotels.dk/hoteller/danmark/kobenhavn/scandic-cph-strandpark
+node	9178585145	a&o Kobenhavn-Sydhavn	a&o Copenhagen Sydhavn	55.6528502	12.5408236	hostel		A&O	a&o Hostels	https://www.aohostels.com/en/copenhagen/kobenhavn-sydhavn/
+node	9661473425	Scandic Nørreport		55.6838015	12.5717839	hotel		Scandic Hotels		https://www.scandichotels.com
+node	9895486153	25Hours		55.6816539	12.5771263	hotel		Accor		https://www.25hours-hotels.com/dansk/hotels/kobenhavn/indre-by
+node	10055230050	Next House		55.6696312	12.5709088	hostel			Arp Hansen	https://www.nexthousecopenhagen.com
+node	10238925583	Apēron Apartment Hotel		55.6823105	12.5754536	hotel				https://nordcollection.dk/en/hotels/aperon-apartment-hotel/
+node	10833912065	Ibis Styles Copenhagen Ørestad		55.6371284	12.5831317	hotel		Ibis Styles		https://all.accor.com/hotel/B5E3/index.en.shtml
+node	11036809338	CPH Hotel		55.6689146	12.5640893	hotel				
+node	11803499791	Residence Inn - Fairfield Nordhavn Copenhagen		55.7071872	12.6006040	hotel		Residence Inn		https://www.marriott.com/en-us/hotels/cphri-residence-inn-copenhagen-nordhavn/overview/
+node	11813571331	Brik Apartment Hotel		55.6646556	12.6194108	hotel				https://nordcollection.dk/en/hotels/brik-hotel/
+node	11880797233	Hotel Bethel		55.6794823	12.5907444	hotel				
+node	12097446278	Hotel Bella Grande		55.6775123	12.5676777	hotel				https://hotelbellagrande.com/
+node	12331139528	25hours Hotel Paper Island		55.6793152	12.5996598	hotel		25hours		https://25hours-hotels.com/copenhagen/paper-island/
+node	12468469423	Bob W		55.7074866	12.5587930	hotel				http://bobw.co
+node	12505501612	STAY Nordhavn		55.7098785	12.5948175	hotel				https://stayapartments.dk/nordhavn/
+node	12831796281	Crowne Plaza Copenhagen Towers		55.6269452	12.5771785	hotel		Crowne Plaza		https://www.cpcopenhagen.dk/
+node	12902659837	Boutique Hotel Herman K		55.6789094	12.5827018	hotel				https://hermank.dk/
+node	13473940352	Hotel Hans		55.6847889	12.5525697	hotel				https://www.brochner-hotels.dk/vores-locations/hotel-hans/
+node	14095321647	Canvas Student Nordhavn		55.7082347	12.5970712	hostel				
+node	14141747801	Henrik's Hotel		55.6769207	12.5655166	hotel				
+way	14310073	Copenhagen Marriott Hotel		55.6685574	12.5737511	hotel	5	Marriott		https://www.marriott.com/hotels/travel/cphdk-copenhagen-marriott-hotel/
+way	25478355	Scandic Falkoner		55.6797582	12.5328459	hotel		Scandic Hotels		https://www.scandichotels.dk/hoteller/danmark/kobenhavn/scandic-falkoner
+way	25478627	Radisson Blu		55.6671214	12.5862404	hotel		Radisson Blu		https://www.radissonblu.com/scandinaviahotel-copenhagen
+way	25520641	Scandic Copenhagen		55.6749964	12.5596357	hotel		Scandic Hotels	Scandic	https://www.scandichotels.com/Hotels/Denmark/Copenhagen/Scandic-Copenhagen/
+way	25524623	Admiral		55.6819022	12.5938049	hotel	4			https://admiralhotel.dk/
+way	25657228	Astoria		55.6734251	12.5631089	hotel			Zleep Hotels	
+way	25658909	NH Collection Copenhagen		55.6737765	12.5879999	hotel	5	NH Collection Hotels		https://www.nh-collection.com/en/hotel/nh-collection-copenhagen
+way	25705845	Danhostel Copenhagen City		55.6709636	12.5765245	hostel		Danhostel	Danhostel	https://danhostelcopenhagencity.dk/
+way	25706010	Clarion Hotel Copenhagen Airport		55.6305427	12.6509248	hotel		Clarion	Clarion Hotels	
+way	26396146	Scandic Sluseholmen		55.6435036	12.5448388	hotel		Scandic Hotels		https://www.scandichotels.com/hotels/denmark/copenhagen/scandic-sluseholmen
+way	27169240	Nimb Hotel		55.6735259	12.5664399	hotel				http://www.nimb.dk/
+way	67528468	Wakeup Copenhagen		55.6669898	12.5665957	hotel				https://www.wakeupcopenhagen.dk
+way	67528478	Tivoli Hotel og Konferencecenter	Tivoli Hotel and Conference Center	55.6659801	12.5666083	hotel				https://www.tivolihotel.dk/
+way	88288287	Cabinn Metro		55.6310828	12.5729061	hotel		CabInn	CABINN A/S	https://www.cabinn.com/en/hotels/cabinn-metro/
+way	89694233	Copenhagen Plaza		55.6738613	12.5646287	hotel		ProfilHotels	Ligula Hospitality Group AB	https://ligula.se/profilhotels/copenhagen-plaza/
+way	111489993	Hotel Copenhagen		55.6652460	12.5807473	hotel				http://www.hotelcopenhagen.dk/
+way	113974100	Go Hotel Østerport		55.6912543	12.5860894	hotel	3			https://go-hotel.com/en/hotels/go-hotel-oesterport
+way	114181303	1 Hotel Copenhagen		55.6808491	12.5720614	hotel		1 Hotels		https://www.1hotels.com/copenhagen
+way	115732703	Hotel Mayfair		55.6727461	12.5611509	hotel			Clarion Collection Hotel	https://www.hotelmayfair.dk/
+way	115733470	Grand Hotel		55.6735499	12.5624651	hotel				
+way	132682874	Nobis Hotel Copenhagen		55.6723955	12.5734895	hotel				https://nobishotel.dk/
+way	133041560	Hotel Danmark		55.6747227	12.5730368	hotel				
+way	133041576	Motel One Copenhagen		55.6752804	12.5727071	hotel		Motel One		https://www.motel-one.com/en/hotels/copenhagen/hotel-copenhagen/
+way	133045890	Hotel d’Angleterre		55.6805531	12.5840798	hotel				http://www.dangleterre.dk/
+way	145555230	Four Points Flex by Sheraton Copenhagen Airport		55.6226190	12.6157128	hotel		Four Points Flex by Sheraton	Core Hospitality	https://www.marriott.com/en-us/hotels/cphaf-four-points-flex-copenhagen-airport/
+way	151216513	Hotel & Restaurant Josty		55.6737829	12.5298827	hotel				https://www.foodstudio.dk/venues/josty
+way	157274940	Hotel Nora		55.6881862	12.5606040	hotel				
+way	178572487	AC Hotel Bella Sky Copenhagen		55.6395597	12.5782474	hotel	4	AC Hotel		https://www.marriott.com/hotels/travel/cphac-ac-hotel-bella-sky-copenhagen
+way	229215455	Radisson SAS Royal		55.6750673	12.5634225	hotel		Radisson	Radisson	https://www.radissonblu.com/royalhotel-copenhagen
+way	316607710	Go Hotel Copenhagen		55.6284821	12.6047465	hotel			Go Hotel Copenhagen	https://go-hotel.com/hoteller/go-hotel-copenhagen
+way	350076482	CPH Studio Hotel		55.6587118	12.6316689	hotel				
+way	350088169	Best Western Plus		55.6451185	12.6373416	hotel		Best Western Plus		
+way	374751571	Wakeup Borgergade		55.6829851	12.5841218	hotel	2			
+way	389968922	Patienthotellet		55.6969474	12.5635731	hotel				https://www.rigshospitalet.dk/praktisk-information/dit-ophold/patienthotellet/Sider/default.aspx
+way	542226857	Cabinn Apartments		55.6308612	12.5738037	hotel		Cabinn		https://www.cabinn.com/hotel/cabinn-apartments
+way	630489177	Moxy Copenhagen		55.6525328	12.5400969	hotel		Moxy		
+way	764647195	Copenhagen Portside		55.7128876	12.5936049	hotel			Comwell	https://comwell.com/en/hoteller/copenhagen-portside
+way	828818103	71 Nyhavn Hotel		55.6794329	12.5937018	hotel				https://www.71nyhavnhotel.dk/
+way	844511703	Comfort Hotel Copenhagen Airport		55.6306778	12.6524358	hotel				
+way	1230000985	THEKRANE		55.7138298	12.5916096	hotel				https://thekrane.dk/
+relation	8820557	Cabinn Hotel		55.6653369	12.5645061	hotel			Cabinn	https://www.cabinn.com/hoteller-danmark/cabinn-copenhagen/
+relation	9082096	Scandic Kødbyen		55.6669089	12.5576887	hotel		Scandic Hotels		https://www.scandichotels.com/hotels/denmark/copenhagen/scandic-kodbyen
+relation	13624757	Scandic Spectrum Hotel		55.6695652	12.5735775	hotel		Scandic Hotels		

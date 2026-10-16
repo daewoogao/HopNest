@@ -1,0 +1,574 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	482898720	Sheraton Imperial Kuala Lumpur Hotel	Sheraton Imperial Kuala Lumpur Hotel	3.1588083	101.7000583	hotel	5	Sheraton		
+node	534648572	Citin Masjid Jamek		3.1512638	101.6961245	hotel				
+node	560716701	Sama-Sama Express KLIA Terminal 1		2.7464707	101.7117538	hotel				
+node	921975071	Ibis Styles Kuala Lumpur Bukit Bintang	Ibis Styles Kuala Lumpur Bukit Bintang	3.1451796	101.7076369	hotel		Ibis Styles		
+node	945162649	MyHotel	MyHotel	3.1333068	101.6890339	hotel	3	MyHotel		
+node	995503922	Hilton Kuala Lumpur		3.1352656	101.6857595	hotel	5	Hilton	Hilton	https://www.hilton.com/en/hotels/kulhihi-hilton-kuala-lumpur/
+node	1231715034	Renaissance Kuala Lumpur Hotel	Renaissance Kuala Lumpur Hotel	3.1572150	101.7053840	hotel	5	Renaissance		https://www.marriott.com/en-us/hotels/kulrn-renaissance-kuala-lumpur-hotel-and-convention-centre/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0
+node	1277982331	De Dragon Hotel	De Dragon Hotel	3.2018550	101.6190878	hotel				
+node	1326944906	Pullman		3.1502588	101.7144661	hotel	5	Pullman		https://www.princehotelkl.com/
+node	1444606414	Floresta Hotel @ Chinatown	Floresta Hotel @ Chinatown	3.1436954	101.6985575	hotel				
+node	1524694394	PJ De Inn		3.0998838	101.6410050	hotel				
+node	1534141175	Hotel Sri Sutra		3.0987834	101.6465705	hotel				
+node	1543756698	Hotel Sempurna	Hotel Sempurna	3.1453392	101.7148947	hotel		Hotel Sempurna		
+node	1543767734	PARKROYAL COLLECTION Kuala Lumpur	PARKROYAL COLLECTION Kuala Lumpur	3.1443335	101.7121987	hotel		PARKROYAL		
+node	1548385513	Crystal Crown Hotel Petaling Jaya	Crystal Crown Hotel Petaling Jaya	3.1092442	101.6432883	hotel	4			https://www.crystalcrownpj.com/
+node	1559454999	Hotel Singgahsana	Hotel Singgahsana	3.1029684	101.6434177	hotel		Hotel Singgahsana		
+node	1568686703	Hotel Royal	Hotel Royal	3.1453091	101.7123324	hotel		Hotel Royal		
+node	1568696148	Bintang Fairlane Residences		3.1450332	101.7126797	hotel				
+node	1635661887	Le Méridien Kuala Lumpur	Le Méridien Kuala Lumpur	3.1356280	101.6864422	hotel		Le Méridien		
+node	1658676264	Oakwood	Oakwood	3.1609525	101.7289049	hotel				
+node	1694209888	Seko Suites		3.1667822	101.6994651	hotel				
+node	1721367477	Five Senses Experience Suite		3.1360618	101.6927975	hotel				
+node	1746291484	City Hotel	City Hotel	3.0907694	101.6816424	hotel		City Hotel		
+node	1753356320	Flamingo hotel by the lake		3.1626298	101.7510741	hotel	3			https://www.flamingo.com.my/
+node	1770397776	Royale Chulan Kuala Lumpur	Royale Chulan Kuala Lumpur	3.1496976	101.7169644	hotel	5		Boustead Hotels and Resorts Sdn. Bhd.	https://www.royalechulan-kualalumpur.com
+node	1812003915	Hotel Zamburger		3.1660321	101.6948363	hotel				
+node	1812003919	Sani Hotel		3.1668816	101.6955146	hotel				https://www.sanihotel.com.my/
+node	1819670406	O'Wen Hotel		3.1505778	101.7480436	hotel				
+node	1989257074	Hotel Wilayah		3.1636386	101.6954209	hotel				
+node	2014877976	Berjaya Times Square Hotel		3.1423368	101.7097651	hotel				
+node	2021291518	Shangri-La Hotel	Shangri-La Hotel	3.1541698	101.7064587	hotel	5	Shangri-La Hotels and Resorts		
+node	2046950978	Duta Hotel & Residence		3.1759203	101.6851462	hotel				http://www.dutahotel.com/
+node	2074080756	Chill Inn	Chill Inn	3.1468910	101.6972064	hotel				
+node	2358090879	Valenza Hotel & Cafe	Valenza Hotel & Cafe	3.1130667	101.6783081	hotel				https://valenza.com.my/
+node	2358171918	Pearl Point International Hotel	Pearl Point International Hotel	3.0849425	101.6734404	hotel		Pearl Point International Hotel		
+node	2367989182	Dynasty Hotel	Dynasty Hotel	3.1719129	101.6916874	hotel				
+node	2639528005	A-one Hotel	A-one Hotel	3.1474077	101.6961130	hotel		A-one Hotel		
+node	2824319713			3.1271600	101.7299929	hotel				
+node	2824319757	D'Or Hotel	D'Or	3.1457760	101.7070954	hotel				
+node	2897453544	Birdnest Collective	Birdnest Collective	3.1427638	101.6967977	hostel				https://www.birdnestghouse.com/
+node	2941484436	Silka Maytower Hotel & Serviced Residences		3.1541429	101.6983990	hotel				
+node	2941844786	The Chow Kit	The Chow Kit	3.1602797	101.6968765	hotel				
+node	2953929983	Damas Suites & Residences		3.1622240	101.6564517	hotel				https://www.damas-suites.com/
+node	2959148094	Summer View	Summer View	3.1327028	101.6899520	hotel	3			https://www.hotelsummerview.com/
+node	2965668538	Strawberry Fields Hotel		3.0989977	101.6438985	hotel				
+node	3014018963	Aditya Hotel		3.0847254	101.6720255	hotel				
+node	3056041840	ibis Styles Kuala Lumpur Fraser Business Park	ibis Styles Kuala Lumpur Fraser Business Park	3.1289794	101.7148990	hotel		Ibis Styles		
+node	3076201450	WOLO Bukit Bintang	WOLO Bukit Bintang	3.1470748	101.7114291	hotel		WOLO		https://www.thewolo.com/
+node	3084425946	Indigo	Indigo	3.1950905	101.6301146	hotel				
+node	3092075895	Hotel Taiuba Inn	Hotel Taiuba Inn	3.1384684	101.7097425	hotel				
+node	3092075897	Orkid Hills Hotel	Orkid Hills Hotel	3.1391793	101.7099536	hotel				
+node	3110901892	MiCasa All Suite Hotel		3.1568759	101.7228580	hotel				https://www.micasahotel.com/
+node	3118284179	The 5 Elements	The 5 Elements	3.1438532	101.6987360	hotel				
+node	3291844040	Katel Kuala Lumpur		3.1547458	101.6962278	hotel				
+node	3291844981	Swiss Hotel	Swiss Hotel	3.1515005	101.6952746	hotel				
+node	3307418506	My Hotel @ KL Sentral	My Hotel @ KL Sentral	3.1318484	101.6876323	hotel				http://www.kl-sentral.myhotels.com.my/
+node	3340727305	Pacific Regency Hotel Apartments	Pacific Regency Hotel Apartments	3.1528999	101.7053566	hotel				pacific-regency.com
+node	3729072551	Le Apple Boutique	Le Apple Boutique	3.1480341	101.7115344	hotel				http://www.leapplehotel.com.my/
+node	3905728703	The Explorers Guesthouse		3.1455731	101.6967050	hostel				http://www.theexplorersguesthouse.com/
+node	3941157301	Central City Hotel Chinatown		3.1460451	101.7012421	hotel				https://centralcityhotel.com.my
+node	4058148340	12Fly Hotel	12Fly Hotel	3.1452502	101.7069285	hotel				
+node	4058187840	Emerald	Emerald	3.1436494	101.7075253	hotel				
+node	4058230505	Metro	Metro	3.1425762	101.7081355	hotel		Metro		
+node	4058230530	Daffodils Park	Daffodils Park	3.1432529	101.7078787	hotel	2			http://daffodils-park-kl.kualalumpurhoteltour.com/
+node	4058236474	Sky	Sky	3.1436253	101.7081094	hotel		Sky		
+node	4058243967	Alibaba	Alibaba	3.1434620	101.7075276	hotel				
+node	4058243968	Golden Palace	Golden Palace	3.1433890	101.7075746	hotel				
+node	4109322290	de King Boutique Hotel KLCC	Le Apple Boutique Hotel KLCC	3.1596547	101.7146181	hotel				www.leapple-klcc.com.my
+node	4154574889	Verdant Hill		3.1492565	101.7063706	hotel	4			https://www.verdanthillhotel.com/
+node	4176068299	RevoPackers		3.1411600	101.7092381	hostel				
+node	4183861307	WP Hotel	WP Hotel	3.1621526	101.6976127	hotel	4			
+node	4186748681	Nu Hotel	Nu Hotel	3.1321910	101.6880081	hotel				https://nusentralhotel.com
+node	4186767146	Lotus Hotel		3.1294907	101.6844187	hotel				http://www.lotusgroup.com.my/business_hotels.html
+node	4187557189	Sunshine Bedz	Sunshine Bedz	3.1470539	101.7109338	hostel				
+node	4193380189	Dorms KL		3.1456707	101.7069286	hostel				http://www.dormskl.com/
+node	4199825289	24 Seven Guesthouse		3.1462072	101.7088191	hostel				
+node	4208315091			3.1582275	101.7479068	hotel				
+node	4211714691	DoubleTree by Hilton Hotel Kuala Lumpur		3.1617227	101.7198280	hotel	5	DoubleTree	Hilton	https://www.hilton.com/en/hotels/kuldtdi-doubletree-kuala-lumpur/
+node	4213951989	Swing and Pillows		3.1260775	101.7097208	hotel	2			https://www.swingandpillows.com/
+node	4215289289	AC Hotel Kuala Lumpur		3.1716829	101.6957368	hotel		AC Hotel		
+node	4220766193	Hotel Maison Boutique		3.1390792	101.7103099	hostel				
+node	4226589896	Melange Boutique Hotel		3.1464917	101.7088363	hotel				
+node	4229103790	Mizie Hotel	Caspo	3.1668467	101.6942077	hotel				
+node	4233033391	Swimg & Pillows Co-Living		3.1475936	101.6979877	hotel				
+node	4238799691	Travelodge City Centre	Travelodge City Centre	3.1440108	101.6956120	hotel	3	Travelodge		http://www.travelodgecitycentre.com
+node	4255810589	Aira Hotel	Aira Hotel	3.1629127	101.6961175	hotel		Aira Hotel		
+node	4268200850	City Hotel	City Hotel	3.1419710	101.6980176	hotel		City Hotel		
+node	4269242889	Crystal Crown Hotel Kuala Lumpur	Crystal Crown Hotel Kuala Lumpur	3.2041115	101.6683226	hotel		Crystal Crown		https://www.crystalcrownkl.com/
+node	4279912731	Sakura Elite		3.1458730	101.7019937	hotel				
+node	4279915234	Casa Villa	Casa Villa	3.1466840	101.7012567	hotel				http://www.casavilla2u.com/
+node	4279991368	Denai - The Backpackers Residence	Denai - The Backpackers Residence	3.1432436	101.6985701	hostel				
+node	4279991386	Hotel Nan Yeang	Hotel Nan Yeang	3.1441401	101.6987132	hotel				
+node	4280013143	Soho Town	Soho Town	3.1450282	101.6987100	hotel				https://sohotownhotel.com
+node	4280013149	Enclave Business Hotel		3.1452382	101.6979737	hotel				
+node	4281623093	PODs The Backpackers Home & Cafe	PODs The Backpackers Home & Cafe	3.1317956	101.6878915	hostel				http://podsbackpacker.com/
+node	4285960491	D'Majestic Place	D'Majestic Place	3.1366553	101.7117031	hotel				
+node	4286639512	Surya		3.1526895	101.6971419	hotel				
+node	4286639513	Palace		3.1525861	101.6970905	hotel				
+node	4286639514	MK Inn Hotel		3.1530049	101.6972105	hotel				https://macktzcomfortinn.com/hotel/hotel-mackt-comfort-inn/
+node	4286650813	Metrostar		3.1540090	101.6974313	hotel				
+node	4306876489	Simms Boutique Hotel	Simms Boutique Hotel	3.1432712	101.7076460	hotel		Simms Boutique Hotel		www.simmshotel.com.my
+node	4308698492	Silka Hotel	Silka Hotel	3.0788237	101.7442048	hotel		Silka Hotel		
+node	4313906610	The Grand Campbell		3.1561496	101.6969515	hotel				
+node	4317625789	Hotel Sentral Pudu	Hotel Sentral Pudu	3.1388487	101.7100021	hotel				
+node	4331553892	1000 Miles		3.1490815	101.6980107	hotel				http://1000mileskl.com/
+node	4340128013	Yellow House KL		3.1327702	101.7692918	hostel				https://www.yellowhousekl.com/
+node	4342588423	Submarine Guest House		3.1428525	101.6966462	hostel				http://www.submarinehotels.com
+node	4352721890	City Comfort	City Comfort	3.1395604	101.7129214	hotel				
+node	4354950190	The Travel Hub	The Travel Hub	3.1414174	101.6972754	hostel				http://travelhubkl.com/
+node	4361117789	Bryqs Hotel		3.1353561	101.6911441	hotel				
+node	4400794167	Lodge Paradize Hotel		3.1505990	101.7098386	hotel				
+node	4414874905	Ambassador	Ambassador	3.1475002	101.7111994	hotel	2	Ambassador		
+node	4430346190	Sama-Sama Express KLIA Terminal 2	Sama-Sama Express KLIA Terminal 2	2.7396329	101.6889724	hotel				https://www.samasamaexpress.com/klia2
+node	4461481792	Mingle Chinatown Hostel	Mingle Chinatown Hostel	3.1429320	101.6988241	hostel				
+node	4462026493	Hotel 81	Hotel 81	3.1283973	101.7139150	hotel		Hotel 81		
+node	4493573601	Raizzy's Guesthouse	Raizzy's Guesthouse	3.1432257	101.6964662	hostel				https://raizzy.com/
+node	4572056092	D'Lima House		3.1465102	101.7087226	hostel				
+node	4583453792	Metro Hotel @ KL Sentral	Metro Hotel @ KL Sentral	3.1329976	101.6888783	hotel		Metro Hotel		https://www.metrohotels.com.my/MetroHotelKlSentral
+node	4584783797	Rain Forest	Rain Forest	3.1418967	101.6980571	hostel				http://www.rainforest.com.my
+node	4614065979	Peninsula Residences	Peninsula Residences	3.1506077	101.6699730	hotel				
+node	4618290062	Hotel 99	Hotel 99	3.1459394	101.7017168	hotel				
+node	4618290063	Hotel Transit	Transit Hotel	3.1460315	101.7014301	hotel				
+node	4618539270	Hotel City Inn		3.1424139	101.6972302	hotel				
+node	4618620987	Hotel New Winner	Hotel New Winner	3.1328595	101.6886894	hotel		Hotel New Winner		
+node	4618620988	Hotel Sentral		3.1320949	101.6882079	hotel	3	Hotel Sentral		https://hotelsentral.com.my/
+node	4619829502	Aloft Kuala Lumpur Sentral	Aloft Kuala Lumpur Sentral	3.1329651	101.6860698	hotel	4	Aloft		http://www.aloftkualalumpursentral.com/
+node	4619851015	The St. Regis Kuala Lumpur	The St. Regis Kuala Lumpur	3.1366351	101.6887576	hotel	5			http://www.stregiskualalumpur.com/
+node	4619870926	Star Sentral		3.1329003	101.6878820	hotel				
+node	4621576364	Signature Hotel		3.1314996	101.6872183	hotel	2			https://www.mysignaturehotel.com.my/
+node	4623708808	Ascott Sentral	Ascott Sentral	3.1311009	101.6849956	hotel				https://www.the-ascott.com/malaysia/kuala-lumpur/ascott-sentral-kuala-lumpur/
+node	4625321673	John Shun	John Shun	3.1332940	101.6149399	hotel		John Shun		
+node	4625396045	Hotel Maya	Maya Hotel	3.1586497	101.7080652	hotel	5	Maya		https://www.hotelmaya.com.my/
+node	4629611814	Reggae Mansion Hostel		3.1480038	101.6971161	hostel				https://www.reggaehostelsmalaysia.com/
+node	4629689965	Hollywood Inn	Hollywood Inn	3.1481039	101.6974265	hotel	1	Hollywood Inn		
+node	4629689966	YY48	YY48	3.1485500	101.6973736	hotel		YY48		http://www.yy48hotel.com.my/
+node	4629725711	Drop Inn Logde		3.1494094	101.6982781	hotel				
+node	4629762809	1915	1915	3.1488086	101.6972422	hotel	2	1915	Mutiara Meriah Sdn Bhd	
+node	4629762811	Hotel Al-Amin		3.1488268	101.6967840	hotel		Hotel Al-Amin		
+node	4661131060	The Westin Kuala Lumpur	The Westin Kuala Lumpur	3.1479165	101.7145666	hotel	5	Westin	Marriott International	http://www.thewestinkualalumpur.com
+node	4661345461	Victory Street	Victory Street	3.1450500	101.7176327	hotel	2	Victory Street		
+node	4661368509	Estana Golden	Estana Golden	3.1445503	101.7143588	hotel				
+node	4661609470	My Hotel @ Bukit Bintang	My Hotel @ Bukit Bintang	3.1446042	101.7059532	hotel				
+node	4661609471	Kingston Hotel		3.1449395	101.7065646	hotel				
+node	4663074586	Town View	Town View	3.1462279	101.7097252	hotel	1			
+node	4663074587	Alor Boutique		3.1465583	101.7094822	hotel	3			http://www.alorboutiquehotel.com/
+node	4663074588	Hotel City Bukit Bintang		3.1466433	101.7093575	hotel	3			http://aurabukitbintang.com/
+node	4663074989	Day Cocoon		3.1467202	101.7091943	hotel	2			http://www.daycocoonhotels.com/
+node	4663075016	Ramada Suites KLCC		3.1484854	101.7076336	hotel		Ramada		https://www.ramadaklcc.com/
+node	4663075025	Izumi		3.1471652	101.7101240	hotel	3			http://bukitbintang.izumihotel.com/
+node	4663075027	LaComme Inn		3.1482532	101.7089727	hotel	3			http://lacommeinn.com.my/
+node	4663155585	Raissa Boutique Hotel		3.1479407	101.7097371	hotel				
+node	4663155704	Vivids		3.1481111	101.7079254	hotel	3			http://www.vividshotel.com/
+node	4663155705	Starus		3.1471664	101.7083015	hotel	3			https://staywithbintang.com/
+node	4663264951	D'View Inn		3.1482530	101.7095972	hotel				https://dviewinnhotel.blogspot.ch/
+node	4663277094	The KL Journal	The KL Journal	3.1481868	101.7104301	hotel	3			https://www.kljournalhotel.com/
+node	4663277154	YY38		3.1464226	101.7076663	hotel	2			http://yy38hotel.com.my/
+node	4663336690	Comfort Inn		3.1467826	101.7091009	hotel				
+node	4663419847	Star Mew's Hotel		3.1473114	101.7080949	hotel				
+node	4663492922	Starion Hotel		3.1454448	101.7097606	hotel				
+node	4663492923	SS Grey Hotel		3.1456839	101.7097184	hotel				
+node	4663492924	Taiichi	Taiichi	3.1458155	101.7098674	hotel		Taiichi		
+node	4663492927	Bintang Collections		3.1456074	101.7096456	hotel				
+node	4663492928	Cardogan	Cardogan	3.1454821	101.7094612	hotel				
+node	4664238560	The Mesui Hotel		3.1487718	101.7082010	hotel	3			https://themesuihotel.com/
+node	4664238567	i Villa Inn		3.1485699	101.7086059	hotel				https://www.rainforestbnbhotel.com/
+node	4665034029	IDEAS Kuala Lumpur		3.1587981	101.6943774	hotel				
+node	4676387227	EQ	EQ	3.1529815	101.7097204	hotel	5	EQ		https://www.eqkualalumpur.com/
+node	4688178208	Lotus Family		3.1587388	101.6965687	hotel				
+node	4705755184	Time Hotel	Time Hotel	3.0914285	101.6884100	hotel		Time Hotel		
+node	4705915717	1st Centro Hotel		3.0846820	101.6719516	hotel				
+node	4705915730	TAD Boutique Hotel	TAD Boutique Hotel	3.0861361	101.6721526	hotel				
+node	4706489147	Signature Hotel	Signature Hotel	3.1161554	101.6692829	hotel		Signature Hotel		
+node	4706489159	Koptown Hotel	Koptown Hotel	3.1166153	101.6690107	hotel				
+node	4706870247	Sekeping Tenggiri		3.1215699	101.6695822	hotel				https://sekeping.com/tenggiri/home.html
+node	4714241091	Bintang Garden	Bintang Garden	3.1447396	101.7085745	hotel				
+node	4725305793	Hotel Sunrise		3.1009957	101.6410965	hotel				
+node	4725305797	J Hostel		3.1003913	101.6409778	hostel				
+node	4729030094	Signature Hotel	Signature Hotel	3.1276398	101.6811052	hotel	1	Signature Hotel		http://littleindia.mysignaturehotel.com.my/
+node	4730415660	"The Majestic Hotel Kuala Lumpur, Autograph Collection"		3.1385629	101.6920636	hotel	5			https://www.majestickl.com/
+node	4734662529	Hotel i-Boutique		3.0788433	101.6254324	hotel				
+node	4734662542	Hotel Desaria		3.0783153	101.6256405	hotel				
+node	4736766842	Leo Leisure	Leo Leisure	3.1465099	101.6959878	hotel				http://www.leoleisure.com.my/
+node	4740267223	OYO Comfort Hotel	OYO Comfort Hotel	3.1730365	101.6917658	hotel	1	OYO	OYO	
+node	4754575790	Alamis City		3.1646887	101.6963320	hotel	3			
+node	4763198523	Grocer's Inn	Grocer's Inn	3.1441320	101.6985612	hotel				https://www.grocersinn.com.my/
+node	4766245924	Dreamville Hostel	Dreamville Hostel	3.1768545	101.7373137	hostel				
+node	4769200896	Brickfields Park Hotel		3.1291567	101.6842863	hotel				
+node	4769200897	Hotel Mjoy		3.1286629	101.6836738	hotel				
+node	4797975622	Sky		3.1406880	101.7100105	hotel	2			
+node	4809858733	Joy Inn	Joy Inn	3.1324060	101.6885038	hotel	1			
+node	4809881590	My Hotel @ Brickfields		3.1335081	101.6902189	hotel	1			http://www.brickfields.myhotels.com.my/
+node	4829212288	Lavana	Lavana	3.1435081	101.6957975	hotel		Lavana		https://lavanahotel.com
+node	4831252921	Dreamville Hostel		3.1767732	101.7372344	hostel				
+node	4832005729	Cozy Hotel		3.1325417	101.6883154	hotel				
+node	4875092923	Goldbrick	Goldbrick	3.1455414	101.7098832	hotel				
+node	4891402121	Ufo capsule hotel	Ufo capsule hotel	3.1412169	101.7098948	hotel				
+node	4909545078	ZEN Rooms Icon City		3.0910638	101.6147027	hotel				https://www.zenrooms.com/hotel/27/zen-rooms-icon-city-kuala-lumpur-7217
+node	4927731778	Hotel LSN	Hotel LSN	3.0808880	101.7328754	hotel				
+node	4927731779	1 Hotel	1 Hotel	3.0808320	101.7329931	hotel				
+node	4945167801	Arenaa Star		3.1487909	101.6987694	hotel				
+node	4964906090	Top Living Hotel	Top Living Hotel	3.2030473	101.7359080	hotel		Top Living Hotel		
+node	4964906091	Hotel Smile	Hotel Smile	3.2033237	101.7362955	hotel		Hotel Smile		
+node	4964906093	Hotel Smart	Hotel Smart	3.2040935	101.7367463	hotel		Hotel Smart		
+node	4969167275	Ancasa Express @ Pudu	Ancasa Express @ Pudu	3.1456009	101.7009338	hotel				http://www.ancasahotels.com
+node	4970181763	Holiday Place KL		3.1597940	101.7265273	hotel	3			
+node	4995240821	Signature International @ Pudu	Signature International @ Pudu	3.1466915	101.7008713	hotel	2			http://www.pudu.my/
+node	5013315822	New Eastern	New Eastern	3.1671121	101.6961975	hotel				
+node	5042521366	Hotel Olympic Malaysia	Olympic Sports	3.1427884	101.7024742	hotel		Olympic Sports		
+node	5045712424	EuroLife		3.1315798	101.6873336	hotel				
+node	5048023723	i-Heritage		3.1410934	101.7109202	hotel				
+node	5103888105	"Hotel Stripes Kuala Lumpur, Autograph Collection"		3.1572422	101.7005463	hotel	4		YTL Hotels	https://www.marriott.com/en-us/hotels/kulsp-hotel-stripes-kuala-lumpur-autograph-collection/overview/
+node	5106607621	One18 Boutique Hotel		3.1444903	101.6968277	hotel				
+node	5114666021	KLCC Dorm Hostel	KLCC Dorm Hostel	3.1628389	101.7192724	hostel			Yiwa	
+node	5119073124	Klbackpacker.com	Klbackpacker.com	3.1456928	101.7128544	hostel			Adi	https://www.klbackpacker.com/
+node	5121237121	Sha La La		3.1456282	101.7030201	hostel				http://ev-world-puduraya.allkualalumpurhotels.com/
+node	5125958148	Somerset		3.1600206	101.7230115	hotel	4			
+node	5249970724	Easyhotel.com.my	Easyhotel.com.my	3.1326783	101.6876985	hotel		easyHotel		
+node	5270451762	TM Hotel		3.2090224	101.7504638	hotel				
+node	5274279173	Novotel	Novotel	3.1510774	101.7124807	hotel		Novotel		
+node	5283518179	Kepong Hotel	Kepong Hotel	3.2081409	101.6529577	hotel		Kepong Hotel		
+node	5423741821	Ibis Metromall	Ibis Metromall	3.1286067	101.7150637	hotel		Ibis		
+node	5502927505	Capitol		3.1447591	101.7099105	hotel	3			https://www.fhihotels.com/capitol
+node	5540236421	Richmoore Hotel Pudu	Richmoore Hotel Pudu	3.1332941	101.7156588	hotel		Richmoore Hotel		
+node	5591267528	Pavilion Hotel	Pavilion Hotel	3.1485719	101.7150487	hotel	5	Banyan Tree		https://www.banyantree.com/en/malaysia/pavilion-hotel
+node	5610574021	Double M		3.1326454	101.6896131	hotel	2	Double M Hotel		https://www.booking.com/Share-IsCjgB
+node	5628067221	Leo Leisure Hotel		3.1464309	101.6964476	hotel				
+node	5649722822	OYO 321 Hotel D'Elegant	OYO 321 Hotel D'Elegant	3.1459620	101.7092457	hotel		OYO		
+node	5735228421	Myracle Spaceship Capsule KLCC #2	Myracle Spaceship Capsule KLCC #2	3.1588794	101.7047538	hostel				
+node	5776814105	Westree	Westree	3.1320270	101.6869916	hotel				
+node	5783643258	One Year Summer	One Year Summer	3.1460220	101.7088748	hostel				
+node	5785176663	i-Hotel	i-Hotel	3.1365888	101.7026402	hotel		i-Hotel		
+node	5785176689	Mirama	Mirama	3.1369378	101.7014361	hotel		Mirama		
+node	5792437253	Mandarin Oriental Kuala Lumpur	Mandarin Oriental Kuala Lumpur	3.1559992	101.7116181	hotel	5			https://www.mandarinoriental.de/kuala-lumpur/petrona-towers/luxury-hotel
+node	5792897372	Element by Westin	Element by Westin	3.1586202	101.7188598	hotel	4	Element	Marriott	elementkualalumpur.com
+node	5793878830	Manhattan Business Hotel TTDI		3.1345419	101.6299587	hotel				
+node	5794153649	Hotel Seeds		3.1461610	101.7090418	hotel				
+node	5835903986	Cosmo Hotel	Cosmo Hotel	3.1480672	101.6966013	hotel		Cosmo Hotel		
+node	5850705758	W Kuala Lumpur	W Kuala Lumpur	3.1585832	101.7093619	hotel	5	W Hotels	W Hotels	
+node	5886068585	easyHotel		3.1590879	101.7515368	hotel		easyHotel		
+node	6022677431	Mah Lanu	Mah Lanu	3.1655643	101.6981845	hotel	2	Mah Lanu		
+node	6174784915	Orion Design Hotel	Orion Design Hotel	3.1202229	101.6796950	hotel		Orion Design Hotel		http://www.oriondesignhotel.com
+node	6174785991	Banyan Tree Hotel	Banyan Tree Hotel	3.1502310	101.7138394	hotel	5	Banyan Tree		https://www.banyantree.com/en/malaysia/kuala-lumpur
+node	6203490769	Hibiscus City	Hibiscus City	3.1456062	101.7031011	hotel				
+node	6205978913	Bintang		3.1362232	101.7120969	hotel				https://hoteltiarainn.blogspot.com/
+node	6206039552	YY318 Hotel	YY318 Hotel	3.1385669	101.7100440	hotel				
+node	6213035592	Indigo		3.1527109	101.7058668	hotel	4			https://www.ihg.com/hotelindigo/hotels/us/en/kuala-lumpur/kulpk/hoteldetail
+node	6218322585			3.1594721	101.7027659	hotel				
+node	6301795228	Cape Town		3.1492468	101.6981276	hotel				
+node	6310807045	PJ Luxe Boutique Hotel		3.0997206	101.6414295	hotel				
+node	6325591748	Tribeca Hotel & Serviced Suites	Tribeca Hotel & Serviced Suites	3.1463654	101.7157120	hotel	5	Tribeca		
+node	6349471485	ZigZag Travellers Home	Zig Zag Hostel	3.1453360	101.6958835	hostel				
+node	6368668385	Oyo Hotel KL Centre Point	Oyo 552 KL Central	3.1440014	101.6958544	hotel		OYO		
+node	6425220298	Sunway Putra Hotel	Sunway Putra Hotel	3.1664078	101.6926998	hotel				
+node	6466176587	Mingle Hostel Highstreet		3.1489391	101.6981368	hostel				
+node	6698685574	City Central Hotel		3.1333345	101.6883820	hotel			Ezy Gold Sdn Bhd	
+node	6776241283	Hotel Grand Maria		3.1674307	101.6962657	hotel				
+node	6776264871	OYO Dynamic Hotel	OYO Dynamic Hotel	3.1690077	101.6964814	hotel		OYO	OYO	
+node	6776264874	OYO Lahore	OYO Lahore	3.1695885	101.6950379	hotel		OYO	OYO	
+node	6776271196	De Moccis Boutique Hotel		3.1742926	101.6901655	hotel				
+node	6867302115	The Regency Scholar's Hotel	The Regency Scholar's Hotel	3.1722469	101.7222710	hotel	3			
+node	7051884491	D’OR Hotel Butik Bintang		3.1446418	101.7084448	hotel				
+node	7081372194	Akar Hotel Kuala Lumpur	Akar Hotel Kuala Lumpur	3.1620775	101.6980490	hotel		Akar Hotel Kuala Lumpur		https://www.akarhotels.com.my
+node	7127823385	suite 192		3.1311903	101.6860554	hostel				
+node	7136745985	Momo's Kuala Lumpur	Momo's Kuala Lumpur	3.1604066	101.6969458	hotel		Momo's Kuala Lumpur		
+node	7147397015	Prescott Hotel Bukit Bintang - Beltif		3.1405645	101.7112748	hotel	3			https://teg-hotels.com/
+node	7147397030	Ceria		3.1407996	101.7096014	hotel				
+node	7170704314	Leo Palace Hotel @ PWTC	Leo Palace Hotel @ PWTC	3.1698206	101.6937884	hotel				
+node	7170841243	SCC City Center	SCC City Center	3.1776993	101.6863114	hotel				
+node	7177318761	Classic Inn KL		3.1411719	101.7102770	hotel				
+node	7177318762	Sindbad		3.1412661	101.7097719	hotel				
+node	7185737760	Imperial	Imperial	3.1463539	101.7099376	hotel		Imperial		https://www.hotelimperial.com.my/
+node	7202620786	Citi Hotel	Citi Hotel	3.1319212	101.6880106	hotel		Citi Hotel		
+node	7207936401	The Royal Widad Residence @ Residensi UTMKL	The Royal Widad Residence @ Residensi UTMKL	3.1715899	101.7216054	hotel	3			
+node	7209658160	ANSA Hotel Kuala Lumpur	ANSA Hotel Kuala Lumpur	3.1470720	101.7120690	hotel		ANSA Hotel		
+node	7215468751	Fumah		3.1999501	101.6709009	hotel				https://www.booking.com/hotel/my/de-ideal.html?
+node	7223813699	Dahisha		3.1655732	101.6997148	hotel				
+node	7231887477	Adya		3.1516591	101.6957509	hotel				
+node	7281487736	Dorsett		3.1626773	101.6556945	hotel				
+node	7281507924	Oyo	Oyo	3.0905812	101.6814188	hotel		OYO		
+node	7308426062	Midtown Villa	Midtown Villa	3.1760778	101.6847146	hotel		Midtown Villa		
+node	7416109916	HYATT House	HYATT House	3.1676477	101.6522617	hotel	4	Hyatt House		
+node	7425340377	Twenty 8B		3.1482015	101.7083968	hotel	3			
+node	7425652903	MSP Hotel		3.1472484	101.7094285	hotel				
+node	7425652909	Ulfah Fresh Vegetables		3.1472859	101.7093673	hotel				
+node	7425791298	Hexa		3.1479477	101.7082762	hotel				https://hexahotel.com/
+node	7454385448	BJ Hotel		3.1460854	101.7078741	hotel				
+node	7454385465	Rae		3.1464902	101.7079308	hotel				
+node	7454385468	Comfort Lodge		3.1467421	101.7082027	hotel				
+node	7469390879	Canary		3.1554479	101.6963758	hotel	2			https://www.canaryhotelkl.com/
+node	7489735659	OYO 486 Victory 2 Boutique Hotel	OYO 486 Victory 2 Boutique Hotel	3.1452346	101.7142600	hotel		OYO		
+node	7489922205	Eighty-Eight Inn		3.1407834	101.7122410	hotel				
+node	7503236192	Tian Jing	Tian Jing	3.1438615	101.6985670	hotel				https://tianjinghitel.com
+node	7596648643	Grand Pacific	Grand Pacific	3.1714841	101.6921000	hotel				
+node	7602084572	Marvellous D28	Marvellous D28	3.1448769	101.6647945	hotel				
+node	7620617871	Tang City	Tang City	3.1445145	101.6987030	hotel				
+node	7653640473	OYO My Home Hotel		3.0888957	101.6889592	hotel		OYO		
+node	7714286528	OYO My Home Hotel		3.0813861	101.7343831	hotel		OYO		
+node	8145949731	Hotel Lemon Tree		3.2125567	101.6481605	hotel				
+node	8145949732	Hwa Loong Two Hotel	Hwa Loong Two Hotel	3.2125158	101.6483304	hotel		Hwa Loong Two Hotel		
+node	8525992292	Howard Johnson Kuala Lumpur 118	Howard Johnson Kuala Lumpur 118	3.1388779	101.6971580	hotel	3	Howard Johnson		
+node	8534399383	Hotel Seri Pacific		3.1671671	101.6920029	hotel	4			https://www.seripacifichotel.com/
+node	8539300807	KLoé	KLoé	3.1469491	101.7177413	hotel				https://kloehotel.com/
+node	8567891785	Kok Ping	Kok Ping	3.1664930	101.7012852	hotel		Kok Ping		
+node	8567891787	28 Hotel	28 Hotel	3.1665105	101.7010558	hotel		28 Hotel		
+node	8567891798	King's Hotel		3.1669656	101.7007523	hotel				
+node	8567895819	Adamson		3.1669056	101.7019569	hotel				
+node	8567895820	Kuala Lumpur International Hotel		3.1669303	101.7017078	hotel				
+node	8567965337	Adamson Park	Adamson Park	3.1672152	101.7006885	hotel				
+node	8567985949	Kok Bin	Kok Bin	3.1672421	101.7008502	hotel		Kok Bin		
+node	8567985950	Hing Loong	Hing Loong	3.1672351	101.7009004	hotel		Hing Loong		
+node	8567985951	Hankyu	Hankyu	3.1672352	101.7009818	hotel		Hankyu		
+node	8567985952	Merdeka		3.1672270	101.7010885	hotel		Merdeka		
+node	8567985958	Sima	Sima	3.1672796	101.7013332	hotel		Sima		
+node	8937439641	Worldview Grand Hotel		3.1973196	101.7207435	hotel				
+node	9409161137	Bunk & Bilik Hotel Jalan Ipoh	Bunk & Bilik Hotel Ipoh Road	3.1953031	101.6793697	hotel		Bunk & Bilik		https://www.facebook.com/bunkbilikhotel/
+node	9587525685	Avante Hotel	Avante Hotel	3.1449643	101.6179402	hotel		Avante Hotel		https://www.avantehotel.com.my/
+node	9593246299	AMI Suites		3.1759043	101.6649205	hotel				https://www.amisuites.com/
+node	9664677042	Hotel Mezzo	Hotel Mezzo	3.1204037	101.7286749	hotel		Hotel Mezzo		
+node	9738866180	Lazdana Hotel Kuala Lumpur		3.1668538	101.6957997	hotel		Lazdana Hotels & Resorts		https://www.lazdanakualalumpur.com/
+node	9760722917	Aces Hotel Kuala Lumpur	Aces Hotel Kuala Lumpur	3.1456767	101.6978057	hotel				https://www.aceshotels.com
+node	9903396584	MPalace Hotel		3.1531653	101.6966915	hotel				
+node	9906740813	Santa Grand Classic Central Market	Santa Grand Classic Central Market	3.1458187	101.6958961	hotel				
+node	9916202760	Hotel Fujisan	Hotel Fujisan	3.1672590	101.6940553	hotel		Hotel Fujisan		
+node	9930719924	Hotel JRL		3.1665163	101.6961083	hotel				
+node	9939890219	Imperial Regency Suites & Hotel Bangsar	Imperial Regency Suites & Hotel	3.1152656	101.6681073	hotel				https://www.imperialregencysuites.com
+node	9946288714	Pan Pacific Serviced Suites Kuala Lumpur	Pan Pacific Serviced Suites Kuala Lumpur	3.1446137	101.7121165	hotel		Pan Pacific		
+node	9949606017	Residensi UTM Kampung Baru		3.1633721	101.7053828	hostel				
+node	10012964624	Else Kuala Lumpur	Else Kuala Lumpur	3.1442182	101.6963590	hotel	5			https://elseretreats.com/
+node	10164486711	The Y Boutique Hotel	The Y Boutique Hotel	3.1428904	101.7018964	hostel				https://www.ywcakl.org.my/copy-of-co-living-hostel
+node	10176062893	Hotel Raja Bot		3.1656651	101.7015541	hotel				
+node	10199666716	citizenM	citizenM	3.1444378	101.7062231	hotel		citizenM		https://www.citizenm.com/hotels/asia/kuala-lumpur/kuala-lumpur-bukit-bintang-hotel?utm_source=Google&utm_medium=organic&y_source=1_NDkyNzM5MzctNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
+node	10201060494	Lloyd's Inn Kuala Lumpur (Lloyd's Inn KL)	Lloyd's Inn Kuala Lumpur (Lloyd's Inn KL)	3.1449036	101.7182937	hotel		Lloyd's Inn		https://www.lloydsinn.com/
+node	10212261378	NZ Hotel		3.1691739	101.6962759	hotel				
+node	10232124365	Smile		3.1661854	101.6978127	hotel				https://www.smilehotel.com.my/
+node	10264639624	Aman	Aman	3.1445574	101.7154174	hotel	2			
+node	10277199948	Zi Hotel		3.1689862	101.6959593	hotel				
+node	10290612479	Hotel GDS	Hotel GDS	3.1705726	101.6952432	hotel		Hotel GDS		
+node	10536154088	Hotel Sri Sultra		3.0972037	101.6316354	hotel				
+node	10588065113	Wellvest Youth Hostel	Wellvest Youth Hostel	3.1613431	101.6935304	hostel				https://www.kaizenmarketing.com.my/wellvestyouthhostel.html
+node	10675523441	T-Hotel		3.1545990	101.6965421	hotel				
+node	10675591219	28 Rapid Hotel	Hotel Run Star	3.1669518	101.6981294	hotel				
+node	10692433398	Lotus Hotel	Lotus Hotel	3.1503591	101.6962878	hotel		Lotus Hotel		
+node	10701993372	St. Giles The Gardens		3.1193904	101.6757017	hotel				
+node	10704177539	Hotel Selesa		3.1589542	101.6966698	hotel		Hotel Selesa		
+node	10704177540	Premiera Hotel	Premiera Hotel	3.1582780	101.6958998	hotel		Premiera Hotel		
+node	10709203039	Hotel Travel Inn		3.1664109	101.6966600	hotel				
+node	10721503599	T-Signature Hotel KL	T-Signature Hotel KL	3.1599216	101.6977093	hotel		T-Signature Hotel KL		
+node	10721507405	Hotel Destino	Hotel Destino	3.1603792	101.6973054	hotel		Hotel Destino		
+node	10739639449	V Hotel	V Hotel	3.1710970	101.6957339	hotel		V Hotel		
+node	10742972410	MS City Hotel		3.1663357	101.6965063	hotel				
+node	10777181315	Wyndham Grand Bangsar Kuala Lumpur	Wyndham Grand Bangsar Kuala Lumpur	3.1161186	101.6636600	hotel	5	Wyndham Grand		https://www.wyndhamhotels.com/wyndham-grand/kuala-lumpur-malaysia/wyndham-grand-bangsar-kuala-lumpur/overview
+node	10790344329	Hotel Kim Kok		3.1643226	101.6975716	hotel				
+node	10791687393	Hotel Pak Fook		3.1645567	101.6980640	hotel				
+node	10791687397	Hotel Seeds		3.1648144	101.6984427	hotel				
+node	10807023513	Santa Grand Signature Kuala Lumpur	Santa Grand Signature Kuala Lumpur	3.1536744	101.7007575	hotel	4	Santa Grand Signature Kuala Lumpur		https://www.santagrandhotels.com.my/
+node	10821167250	Le Ruiz		3.1719857	101.6973579	hotel				
+node	10861872305	OYO 90780 J Hotel Bukit Bintang		3.1451376	101.7128345	hotel		OYO		
+node	10867090275	MS Boutique Hotel		3.1528087	101.6977187	hotel				
+node	10867090276	Hotel De’Grand Orchad		3.1528199	101.6979332	hotel				
+node	10867090280	Hotel De’Grand Orchad		3.1528167	101.6978813	hotel				
+node	10867841605	OYO 90780 J Hotel Bukit Bintang	OYO 90780 J Hotel Bukit Bintang	3.1453734	101.7138730	hotel		OYO		
+node	10883802092	KK Hotel	KK Hotel	3.1725257	101.6987591	hotel		KK Hotel		
+node	10889048354	Hotel Grand Orchard		3.1534525	101.6976414	hotel				
+node	10941968863	Maha Empire	Maha Empire	3.1508636	101.6979254	hotel				
+node	10959371549	Hotle 3winz	Hotle 3winz	3.1678302	101.7013469	hotel		Hotle 3winz		
+node	10967868321	Bangau De Capsule Hotel	Bangau De Capsule Hotel	2.7682407	101.6972131	hotel				
+node	10968603960	M Hotel		3.1584122	101.6965693	hotel				
+node	11029805661	Prescott Hotel		3.1590211	101.6972752	hotel				
+node	11063320645	Ascott Star KLCC	Ascott Star KLCC	3.1610013	101.7125631	hotel				
+node	11063370535	Scarletz Suites @ KL City Centre		3.1633937	101.7135109	hotel				
+node	11063370536	Mana Mana Hospitality		3.1633653	101.7135860	hotel				
+node	11063370537	Hugoz Suites		3.1634363	101.7134337	hotel				
+node	11118811815	Living At Dsulaiman	Living At Dsulaiman	3.1615802	101.6986528	hotel				
+node	11145780512	Hotel InnB Park	Hotel InnB Park	3.1449603	101.7138668	hotel				
+node	11156751529	JHostels	JHostels	3.1516234	101.6981206	hostel			JHostels	
+node	11193760194	Four Points by Sheraton	Four Points by Sheraton	3.1573020	101.7056171	hotel		Four Points by Sheraton		
+node	11264079111	Akar Hotel Jalan Raja Uda		3.1652498	101.7063501	hotel				
+node	11265951293	Stays		3.1712935	101.6985064	hotel				
+node	11292481062	M&M Hotel		3.1324480	101.6885523	hotel	2			
+node	11332998051	Hotel Ahyu		3.1494550	101.6976746	hotel				
+node	11354763261	Hawa Inn		3.1646002	101.7006454	hotel				
+node	11365625053	De Sentral Hotel		3.1323145	101.6872886	hotel				
+node	11366043931	Adamson Inn		3.1661290	101.7019527	hotel				
+node	11405196654	Cross Roads Hotel	Cross Roads Hotel	3.1671059	101.6993507	hotel		Cross Roads Hotel		
+node	11418514975	33 Star	33 Star	3.1478780	101.7116943	hotel				
+node	11428617385	VIP BukitTuKL	VIP BukitTuKL	3.1672164	101.7007673	hotel		VIP BukitTuKL		
+node	11445422669	Kawana Tourist Inn	Kameleoon Travellers Lodge	3.1458045	101.7022036	hotel				
+node	11506037950	Hotel Seri Putra		3.1665427	101.6958670	hotel				
+node	11506037952	Hotel Redstone Boutique		3.1640789	101.7047253	hotel				
+node	11535074641	Suwara		3.2076969	101.6580884	hotel				https://www.suwarakepong.com.my/
+node	11578628381	ECO Hotel @ Bukit Bintang		3.1388712	101.7096863	hotel				
+node	11581359149	The Manor by Mingle	The Manor by Mingle	3.1464893	101.7011491	hostel				
+node	11583800572	Pacific Express Hotel Chinatown		3.1455370	101.6975855	hotel				
+node	11583910285	My Hotel		3.1320108	101.6877002	hotel				
+node	11584361945	PARKROYAL Serviced Suites Kuala Lumpur		3.1490862	101.7088775	hotel		PARKROYAL		
+node	11586192517	RHV Bukit Bintang	RHV Bukit Bintang	3.1469496	101.7109716	hostel				
+node	11586758741	Asrama Puteri SMA Majlis Agama Islam		3.1644652	101.7063882	hostel				
+node	11591163437	Check-in		3.1324568	101.6874617	hotel				
+node	11591293081	Hotel Alia	Hotel Alia	3.1289586	101.6841976	hotel				
+node	11624480246	Hotel Cojoy	Hotel Cojoy	3.1458506	101.6968788	hotel				
+node	11670883641	China Town 2		3.1434895	101.6978800	hotel				
+node	11681502737	Big M Hotel		3.1490624	101.6969595	hotel				
+node	11697059969	Hotel Excel Inn	Hotel Excel Inn	3.1431985	101.6976145	hotel	2			
+node	11730573569	Business Hotel Hartamas		3.1625218	101.6494365	hotel				
+node	11747690169	SCC Gateway Chinatown Hotel		3.1451389	101.6975951	hotel				
+node	11775184019	Hotel New Cloud	Hotel New Cloud	3.1778435	101.6861120	hotel				
+node	11807068388	Sakura Hotel	Sakura Hotel	3.1326789	101.7177270	hotel				
+node	11820478395	Oyo Hotel		3.1509155	101.7476976	hotel				
+node	11821042572	OA The Factory at Bukit Bintang	OA The Factory at Bukit Bintang	3.1433413	101.7083291	hotel				
+node	11889257008	Manhattan Business Hotel		3.1644336	101.6118876	hotel				
+node	11890514769	The Freedom Club Hostel KL	The Freedom Club Hostel KL	3.1440807	101.7138245	hotel				
+node	11898444379	Premium Hostel		3.1364261	101.6309484	hostel				
+node	11928501469	Space Hotel @ China Town Kuala Lumpur		3.1457680	101.6969412	hotel				
+node	11966036770	SCC Chinatown	SCC Chinatown	3.1433893	101.6978695	hotel				
+node	12037033086	One-Stop Residence Hotel & Office	One-Stop Residence Hotel & Office	3.1297780	101.7151115	hotel				
+node	12066488467	CapsuleTransit		2.7454776	101.6851943	hotel	2			https://www.capsuletransit.com/
+node	12086915912	Sleeping Lion Suites		3.1460703	101.7143520	hotel	3			https://www.sleepinglionsuites.com/
+node	12102017015	One Enigma Hotel		3.1724163	101.6911554	hotel				
+node	12116439673	Park Hyatt Kuala Lumpur		3.1419163	101.7008270	hotel	5	Park Hyatt		https://www.hyatt.com/park-hyatt/en-US/kulph-park-hyatt-kuala-lumpur
+node	12116672660	OYO 89652 Bjorn Boutique Hotel		3.0989627	101.6870451	hotel	2	OYO		https://www.oyorooms.com/89900/
+node	12139782385	Sand Hotel		3.1424116	101.6972878	hotel				
+node	12196890464	Hotel Amari		3.1176527	101.6733143	hotel	5			https://www.amari.com/kuala-lumpur
+node	12237564897	Everest Hotel		3.1475104	101.6961020	hotel				
+node	12247856946	Villa Samadhi Kuala Lumpur		3.1560731	101.7261317	hotel	5			https://www.samadhiretreats.com/villa-samadhi-kuala-lumpur?catagoryId=16
+node	12260537799	Chill Suites		3.1426235	101.7051172	hotel				https://chillglobalhotel.com/chill-suites-kuala-lumpur/
+node	12276866981	Ramada Encore		3.1465278	101.7005292	hotel		Ramada	Wyndham	https://www.wyndhamhotels.com/ramada/kuala-lumpur/ramada-encore-chinatown-kuala-lumpur/rooms-rates
+node	12276866984	HSK		3.1462204	101.7004997	hotel				
+node	12276866985	OYO 90160 Kl City Lodge		3.1461962	101.7005903	hotel		OYO		
+node	12299515802	NN Hotel KLCC		3.1592713	101.7045224	hotel				
+node	12381254071	Kingston	Kingston	3.1443305	101.7064299	hotel				
+node	12434755801			3.1320980	101.7090116	hotel				
+node	12465037833	Hotel Grand Village		3.1189916	101.7604030	hotel				
+node	12485172250	Wakaka Hostel	Wakaka Hostel	3.1298487	101.7151807	hostel				
+node	12530516649	Bright Star Inn	Bright Star Inn	3.1485675	101.6983141	hostel				
+node	12550819398	Moxy	Moxy	3.1473551	101.6975557	hotel		Moxy		
+node	12603735380	Yoon Thye		3.1661546	101.6979917	hotel				yoonthye@hotmail.com
+node	12603874234	Hotel Classic Inn		3.1358473	101.6915180	hotel				
+node	12645428524	Prime	Prime	3.1452804	101.7152630	hotel	3			
+node	12728227777	Hwa Loong		3.2121801	101.6479508	hotel				
+node	12736375404	Hotel Indigo by IHG		3.1527748	101.7059243	hotel				
+node	12736386501	Holiday Inn Kuala Lumpur		3.1269150	101.6759093	hotel		Holiday Inn		
+node	12755510415	Kepler		2.7472377	101.7143073	hotel				https://www.keplerclub.com/kuala-lumpur-airport-hotel
+node	12858952750	The Maple Suite		3.1498461	101.7051581	hotel				https://www.themaplesuite.com/
+node	12859138441	Suasana Suites		3.1484676	101.7030734	hotel				
+node	12859319202	Ceylonz Suites @ Bukit Ceylon	Ceylonz Suites @ Bukit Ceylon	3.1484877	101.7020488	hotel				
+node	12860073252	Kitez Hotel & Bunks		3.1447734	101.6974228	hostel				
+node	12901933881	Lantern Hotel	Lantern Hotel	3.1445965	101.6977112	hotel				
+node	12922735245	Hotel Pollodium	Hotel Pollodium	3.1445077	101.6984771	hotel				
+node	12958943649	Perdana Kuala Lumpur City Centre	Perdana Kuala Lumpur City Centre	3.1581070	101.7185789	hotel	4			https://perdana.attanahotels.com/perdana-klcc
+node	12961370419	"The Ritz-Carlton, Kuala Lumpur"		3.1469728	101.7153426	hotel	5	The Ritz-Carlton		
+node	12965648237	No One Lodge		3.1376738	101.7095019	hotel				
+node	13012915182	B Hotel		3.1431463	101.6979224	hotel				https://bhotel.com.my/
+node	13012957182	Hotel Chinatown Inn		3.1439811	101.6978086	hotel				
+node	13012957188	Floresta Hotel @ Chinatown		3.1436151	101.6978776	hotel				
+node	13041737302	Upper Hotel Suites Kl Sentral		3.1303516	101.6899595	hotel				
+node	13049434293	JW Marriott Hotel Kuala Lumpur	JW Marriott Hotel Kuala Lumpur	3.1479713	101.7138511	hotel	4	JW Marriott		https://www.marriott.com/hotels/travel/kuldt-jw-marriott-hotel-kuala-lumpur/
+node	13056381558	Holiday Inn		3.1266086	101.6757331	hotel	4	Holiday Inn		https://www.ihg.com/holidayinn/hotels/us/en/kuala-lumpur/kulba/hoteldetail
+node	13075304400	Asia Like Boutique Hotel		3.1428828	101.7081910	hotel				
+node	13099974432	Grand Hyatt	Grand Hyatt	3.1536113	101.7121373	hotel	5	Grand Hyatt		https://www.hyatt.com/grand-hyatt/en-US/kuagh-grand-hyatt-kuala-lumpur
+node	13140203000	Swings & Pillows		3.1428129	101.7079227	hotel				
+node	13147586649	ARK Staycation Home		3.1126941	101.7155161	hostel				
+node	13152175458	YMCA of Kuala Lumpur Hostel	YMCA of Kuala Lumpur Hostel	3.1335203	101.6897410	hostel				https://ymcakl.com/our-facilities/hostel/
+node	13152719626	Hotel Uptown	Hotel Uptown	3.1437500	101.6985576	hotel				
+node	13157641037	M Design Hotel		3.1135314	101.7293399	hotel				
+node	13302903032	The Boulevard St. Giles Premier Hotel		3.1191723	101.6774351	hotel				
+node	13339741447	Sungold Inn Hotel	Sungold Inn Hotel	3.1433947	101.7086761	hotel				
+node	13341597146	Sun Inns International		3.1351955	101.6912737	hotel				
+node	13357135278	Hotel 99		3.2089983	101.6580519	hotel				
+node	13359829601			3.1447418	101.6974303	hostel				
+node	13403758945	Hotel 33		3.0879241	101.7423258	hotel				
+node	13511296596	Hotel Smile		3.1759943	101.6977229	hotel				
+node	13525381700	Hotel Grand Palace		3.1509894	101.7484371	hotel				
+node	13525508946	1One Ampang Hotel		3.1509764	101.7481518	hotel				
+node	13539920434	Traders Hotel	Traders Hotel	3.1541033	101.7150455	hotel	4	Shangri-La		https://www.shangri-la.com/kualalumpur/traders/
+node	13630005337	Anggun Boutique Hotel	Anggun Boutique Hotel	3.1455251	101.7071479	hotel				http://www.anggunkl.com/
+node	13638887614	Scott		3.1362547	101.6909665	hotel	3			https://www.scotthotel.com.my/
+node	13644834552	A Star Hotel		3.1451685	101.7090826	hotel				
+node	13644834554	T-Hotel		3.1451030	101.7089947	hotel				
+node	13660529801	Veone Hotel Kuala Lumpur		3.1598805	101.6994332	hotel				
+node	13732044226	Kingston		3.1398063	101.7137549	hotel				
+node	13788607160	Kingston		3.1457036	101.7097826	hotel				
+node	13788679766	Bitz Bintang		3.1451273	101.7093514	hotel				
+node	13788679771	Ras Hotel		3.1454464	101.7098314	hotel				
+node	13869860596	Hotel D'Lima Inn		3.1466235	101.7080758	hotel				
+node	13946929911	The Green Hotel		3.1462895	101.7693839	hotel		OYO		
+node	13949336195	Hotel Seeds		3.1269248	101.7310908	hotel				
+node	13949768661	Bergamo Swings & Pillows		3.1759073	101.6977164	hotel				
+node	13959988588	Hotel Seeds		3.1663213	101.6994032	hotel				
+node	13971770057	A&R Boutique Hotel		3.1008662	101.7366034	hotel				
+node	13972191760	Lighthouse Hotel & Shortstay		3.1374755	101.6230438	hotel				
+node	14023381857	New Health Homestay		3.1461625	101.7087452	hostel				
+node	14023418104	Red Velvet Inn Hotel		3.1464464	101.7084365	hotel				
+way	23034610	InterContinental Kuala Lumpur	InterContinental Kuala Lumpur	3.1594602	101.7179516	hotel	5	InterContinental		
+way	24585842	Check In Hotel		3.1465551	101.7001841	hotel				
+way	24668258	Sama-Sama		2.7579439	101.7040324	hotel	5			https://www.samasamahotels.com/
+way	28215296	Hotel Mandarin Pacific	Hotel Mandarin Pacific	3.1427856	101.6969908	hotel				
+way	28215337	D Loft Hotel		3.1426409	101.6975839	hotel				
+way	28224160	Pacific Express Hotel Central Market	Pacific Express Hotel Central Market	3.1467205	101.6957801	hotel		Pacific Express Hotel Central Market		
+way	28234537			3.1546335	101.6966585	hotel				
+way	28271266	Dorsett Kuala Lumpur Hotel	Dorsett Kuala Lumpur Hotel	3.1473448	101.7156525	hotel	4	Dorsett		
+way	28271279	The Federal Kuala Lumpur		3.1443261	101.7088579	hotel				https://www.fhihotels.com/index.php/federal-contact-us
+way	28271289	Hotel Royal Signature	Hotel Royal Signature	3.1440238	101.7084972	hotel		Hotel Royal Signature		
+way	28287719	Hotel Caliber	Hotel Caliber	3.1007214	101.7397884	hotel		Hotel Caliber		
+way	122300607	Grand Millenium	Grand Millenium	3.1479959	101.7121961	hotel				
+way	144479311	Hilton Petaling Jaya	Hilton Petaling Jaya	3.1025358	101.6410061	hotel	5	Hilton	Hilton Worldwide	https://www.hilton.com/en/hotels/pethitw-hilton-petaling-jaya/
+way	154354137	Cititel Hotel	Cititel Hotel	3.1178717	101.6783429	hotel		Cititel Hotel		
+way	244500316	Crown Regency Serviced Suites	Crown Regency Serviced Suites	3.1549582	101.7081988	hotel	3	Holiday Villa Group		
+way	253594619	Furama Bukit Bintang	Furama Bukit Bintang	3.1401171	101.7103973	hotel		Furama Bukit Bintang		https://www.furama.com/bukitbintang
+way	290642285	Hyatt Centric City Centre Kuala Lumpur		3.1530940	101.7081146	hotel		Hyatt Centric		https://www.hyatt.com/hyatt-centric/kulct-hyatt-centric-city-centre-kuala-lumpur
+way	296774047	Tune KLIA Aeropolis	Tune KLIA Aeropolis	2.7347777	101.7221563	hotel	2			https://www.tunehotels.com/
+way	310242457	De Palma Hotel		3.1571270	101.7524437	hotel				http://www.depalmahotelonline.com
+way	315848381	Wedgewood Residences	Wedgewood Residences	3.1748979	101.6575402	hotel	4			http://www.wedgewoodresidences.com/
+way	323293140	Holiday Inn Express		3.1507995	101.7086589	hotel		Holiday Inn Express		
+way	446145551	Frenz Hotel		3.1540843	101.6967355	hotel				http://www.frenzhotelkualalumpur.com/
+way	472561893	Ve* Hotel & Residence	Ve* Hotel & Residence	3.1105463	101.6653783	hotel				https://www.vehotel.com/
+way	484132586	Concorde Inn KLIA	Concorde Inn KLIA	2.7663419	101.6935632	hotel				
+way	494571480	Cairnhill	Cairnhill	3.1826624	101.6804164	hotel	3	Cairnhill		
+way	524812840	Four Seasons Place Kuala Lumpur	Four Seasons Place Kuala Lumpur	3.1580789	101.7138657	hotel	5	Four Seasons		https://www.fourseasons.com/kualalumpur/
+way	562992598	Sofitel Kuala Lumpur Damansara	Sofitel Kuala Lumpur Damansara	3.1470392	101.6612598	hotel		Sofitel	Sofitel	
+way	605117575	Flora By Crossroads Hotel	Flora By Crossroads Hotel	3.1549043	101.7012951	hotel				https://www.crossroads-hotel.com/flora/
+way	612798733	Qliq Hotel		3.1658071	101.6119763	hotel				
+way	663775277	Grand Mercure Hotel	Grand Mercure Hotel	3.1442261	101.7055600	hotel	4	Grand Mercure		
+way	681828692	Mandarin Court	Mandarin Court	3.1372722	101.7006228	hotel		Mandarin Court		
+way	688233928	OYO 466 Home Studio Expressionz	OYO 466 Home Studio Expressionz	3.1717553	101.7123598	hotel		OYO		https://www.oyorooms.com/43709-premium-oyo-home-466-expressionz-suites-studio-kuala-lumpur?rooms_config=1%2C0%2C0
+way	708742098	MOV Hotel		3.1475544	101.7088110	hotel	4			
+way	709204614	"Four Points by Sheraton Kuala Lumpur, Chinatown"	"Four Points by Sheraton Kuala Lumpur, Chinatown"	3.1408644	101.6978053	hotel		Four Points by Sheraton		https://www.marriott.com/hotels/travel/kulfc-four-points-kuala-lumpur-chinatown/
+way	718099418	TAMU Hotel & Suites		3.1633389	101.7024884	hotel				https://tamuhotel.com
+way	721658065	Fairfield By Marriott	Fairfield By Marriott	3.1689771	101.6979990	hotel		Fairfield Inn		
+way	765753829	Komune Living	Komune Living	3.1142726	101.6653141	hotel				https://komuneliving.com/
+way	773684751	Ibis Kuala Lumpur City Centre		3.1632827	101.7145311	hotel	4	Ibis		https://all.accor.com/hotel/8732/index.en.shtml
+way	773902884	Brisdale	Hotel Brisdale	3.1659879	101.6996903	hotel		Brisdale		
+way	800917285	Grand Continental Kuala Lumpur	Grand Continental Kuala Lumpur	3.1617767	101.6963437	hotel		Grand Continental Kuala Lumpur		
+way	800917286	Trigo Hotel		3.1619037	101.6958632	hotel		Wyndham		
+way	800917289	Club Dolphin Hotel	Club Dolphin Hotel	3.1627788	101.6952787	hotel		Club Dolphin Hotel		
+way	800917291	Steg Hotel		3.1633407	101.6954338	hotel				
+way	828536841	M Resort & Hotel	M Resort & Hotel	3.1291827	101.6447946	hotel		M Resort & Hotel		
+way	868421989	The RuMa Hotel & Residences	The RuMa Hotel & Residences	3.1524154	101.7143737	hotel	5			https://theruma.com/
+way	919104607	Kimpton Naluria Kuala Lumpur	Kimpton Hotel Kuala Lumpur	3.1423637	101.7192182	hotel		Kimpton		https://www.ihg.com/kimptonhotels/hotels/us/en/kuala-lumpur/kulte/hoteldetail
+way	919510542	J-Hotel by Dorsett	J-Hotel by Dorsett	3.1468086	101.7171785	hotel				
+way	919590951	Capri by Fraser	Capri by Fraser	3.1465348	101.7151889	hotel	4			http://www.frasershospitality.com/en/malaysia/kualalumpur/capri-by-fraser-bukit-bintang/
+way	929637991	Hotel Grand Mutiara		3.1656746	101.6960797	hotel				
+way	966102786	Hotel Festival		3.2064880	101.7212144	hotel				
+way	1009670593	Hotel Armada Petaling Jaya	Hotel Armada Petaling Jaya	3.1042411	101.6406967	hotel		Hotel Armada		
+way	1009670596	Sheraton Petaling Jaya Hotel		3.1038454	101.6399351	hotel	5	Sheraton		
+way	1009689769	Royale Chulan The Curve		3.1570960	101.6113850	hotel				
+way	1018447960	One World Hotel	One World Hotel	3.1477162	101.6172119	hotel	5			https://www.oneworldhotel.com.my/
+way	1112280771	Swiss Meadow Hotel		3.1630208	101.6983456	hotel				
+way	1112304715	Hotel Putra Muda		3.1673329	101.6996142	hotel				
+way	1148185914	Crowne Plaza Kuala Lumpur City Centre		3.1632595	101.7140401	hotel		Crowne Plaza		
+way	1148283494	Hotel Maluri		3.1285190	101.7297188	hotel				
+way	1159437995	Hotel First Business Inn	Hotel First Business Inn	3.1699646	101.6959744	hotel		Hotel First Business Inn		
+way	1172932165	INNSiDE by Meliá	Tower N	3.0942190	101.7381061	hotel		INNSiDE by Meliá		https://www.melia.com/en/hotels/malaysia/kuala-lumpur/innside-kuala-lumpur-cheras
+way	1176138672			3.1632837	101.7054780	hostel				
+way	1231912566	The Graph Hotel		3.0944447	101.7398595	hotel				
+way	1237772916	Imperial Lexis Kuala Lumpur	Imperial Lexis Kuala Lumpur	3.1524975	101.7162180	hotel	5			https://www.imperiallexiskl.com/
+way	1239801237	Hyatt Regency	Hyatt Regency	3.1814701	101.6693831	hotel	5	Hyatt Regency		https://www.hyatt.com/hyatt-regency/en-US/kulrk-hyatt-regency-kuala-lumpur-at-kl-midtown
+way	1247608640	Hotel Avenue J Central Market	Hotel Avenue J Central Market	3.1467997	101.6954044	hotel		Hotel Avenue J Central Market		http://www.avenuejhotels.com/
+way	1250972203	Hotel East Riverine		3.1631788	101.6977982	hotel				
+way	1273851798	lyf Chinatown Kuala Lumpur	lyf Chinatown Kuala Lumpur	3.1482144	101.6991594	hotel	5	lyf		https://www.discoverasr.com/en/lyf/malaysia/lyf-chinatown-kuala-lumpur
+way	1311565837	Yu Hotel Chinatown (YuYan Café & Hotel)	Yu Hotel Chinatown (YuYan Café & Hotel)	3.1417732	101.6981938	hotel	2			https://leveragehotel.com/
+way	1339065834	Zecon Hotel	Zecon Hotel	3.1025427	101.7262292	hotel				https://www.zeconhotel.com
+way	1389165515	Indie Hotel		3.1483397	101.7047626	hotel				
+way	1391099099	Ancasa Hotel KL	Ancasa Hotel KL	3.1451172	101.6992707	hotel				http://www.ancasahotels.com/my
+way	1391470939	Très Hotel		3.1225105	101.6821138	hotel				
+way	1410115759	Impiana KLCC	Impiana KLCC	3.1534136	101.7114409	hotel				
+way	1462289985	Concorde Hotel	Concorde Hotel	3.1556936	101.7062431	hotel	4			https://kualalumpur.concordehotelsresorts.com/
+way	1485356658	Hotel Melia	Hotel Melia	3.1433783	101.7099403	hotel		Hotel Melia		
+relation	7288126	Tune KLIA2	Tune KLIA2	2.7449369	101.6826304	hotel	3			https://www.tunehotels.com/
+relation	7739783	Shah's Village Hotel		3.1022189	101.6461613	hotel				
+relation	13936201	Hotel Pudu Plaza		3.1375501	101.7137595	hotel				
+relation	14968560	Hilton Garden Inn Kuala Lumpur		3.1642242	101.6984710	hotel	4	Hilton Garden Inn	Hilton	https://www.hilton.com/en/hotels/kulumgi-hilton-garden-inn-kuala-lumpur-jalan-tuanku-abdul-rahman-north/?WT.mc_id=zDA0MY1GI2DMH3LocalSearch4DGGeneric_Jan56KULUMGIEN8i1
+relation	17082032	Eastin Hotel		3.1264600	101.6448042	hotel				
+relation	17090292	UKIYO Hotel	UKIYO Hotel	3.1179045	101.6297705	hotel				

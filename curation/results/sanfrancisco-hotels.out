@@ -1,0 +1,318 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	529780287	Coast Hotel		37.7858845	-122.4133559	hotel				
+node	769361407	Hotel Abri		37.7851927	-122.4083668	hotel				https://hotelabrisf.com/
+node	924624361	Hotel Union Square		37.7857990	-122.4077410	hotel				
+node	944758375	The Andrews Hotel		37.7879207	-122.4122630	hotel				https://www.andrewshotel.com/
+node	973620751	Herbert Hotel		37.7862332	-122.4081436	hotel				
+node	992609578	Edward II Inn		37.7989968	-122.4411247	hotel				
+node	1101748130	Hi Hostel Downtown		37.7864902	-122.4095565	hostel		Hostelling International	Hostelling International USA	
+node	1205027802	Backpackers Hostel Union Square		37.7873609	-122.4110390	hostel				
+node	1205027816	Pacific Tradewinds Hostel		37.7937537	-122.4041740	hostel			"Pacific Tradewinds Hostel, LLC"	https://www.san-francisco-hostel.com/
+node	1229745496	Sunnyside Hotel		37.7805600	-122.4079850	hotel				
+node	1232832490	Courtyard		37.7854586	-122.4210781	hotel		Courtyard		https://www.marriott.com/sfovn
+node	1680933521	The Fitzgerald Hotel		37.7879379	-122.4121210	hotel				http://www.fitzgeraldhotel.com/
+node	1680933523	Dakota Hotel		37.7879591	-122.4119802	hostel				https://www.hostelworld.com/hosteldetails.php/DakotaHostel-SanFrancisco-15459
+node	2391836468	Mayflower Hotel		37.7894823	-122.4132914	hotel				
+node	2399466606	Metro Hotel		37.7724581	-122.4374608	hotel				https://www.metrohotelsf.com/
+node	2499498547	Handlery Union Square Hotel		37.7871536	-122.4090794	hotel				https://sf.handlery.com/
+node	2823843059	Hotel North Beach		37.7966767	-122.4054169	hotel				https://www.hotelnorthbeach.com/
+node	2898443201	Inn at Market		37.7763133	-122.4181543	hotel				https://innatmarket.com
+node	2986678150	Staypineapple An Elegant Hotel		37.7868795	-122.4129683	hotel				https://www.staypineapple.com/union-square-san-francisco
+node	3396652935	Hotel Zelos San Francisco		37.7852861	-122.4055000	hotel				http://hotelzelos.com/
+node	3399173220	Pontiac Hotel		37.7803615	-122.4083487	hotel				
+node	3432794493	Amsterdam Hostel		37.7893995	-122.4121529	hostel				Hostelsf.com
+node	3455075367	The St. Regis San Francisco		37.7860572	-122.4013810	hotel		St. Regis		https://www.marriott.com/en-us/hotels/sfoxr-the-st-regis-san-francisco/overview/
+node	3648686272	Hotel Shahil		37.7839462	-122.4175274	hotel				
+node	3986887653	Susie Hotel		37.7973765	-122.4062224	hotel				
+node	4037744279	Edwardian Hotel		37.7734105	-122.4218029	hotel				https://www.edwardiansf.com/
+node	4117790312	Krishna Hotel		37.7644245	-122.4197880	hotel				
+node	4263379712	Hotel 1550		37.6120095	-122.4026960	hotel				https://www.hotel1550.com
+node	4335055691	Dana & Dennis		37.7454298	-122.4847111	hostel				
+node	4406141192	Da Vinci Hotel		37.7992810	-122.4235872	hotel				
+node	4419897091			37.7828169	-122.4279085	hostel				
+node	4616011736	Tang Fat Hotel		37.7981377	-122.4084544	hotel				
+node	4625148825	Hotel Epik		37.7834542	-122.4190700	hotel				
+node	4625185532	The Regency Inn		37.7832049	-122.4169890	hotel				
+node	4628353541	Hotel Astoria		37.7906389	-122.4058674	hotel				
+node	4631831949	Franklin Bay Inn		37.8006013	-122.4262516	hotel				
+node	4637572303	The Crosby on O' Farrell		37.7859693	-122.4131826	hotel				
+node	4924822399	The Broadmoor		37.7870991	-122.4247299	hotel				
+node	5023374623	Htl 587 Ascend Hotel Collection	HTL 587-Ascend Hotel	37.7832230	-122.4172880	hotel				
+node	5455625123	European Hostel		37.7761534	-122.4135528	hostel				
+node	5824682292	Union Hotel		37.7644910	-122.4197987	hotel				
+node	6419070269	Orange Village Hostel		37.7858648	-122.4116600	hostel				https://www.orangevillagehostel.com/
+node	6637871158	Ram’s Hotel		37.7762632	-122.4149931	hotel				
+node	7667062138	Hotel Embassy		37.7823887	-122.4189109	hotel				
+node	8689769402	Yale Hotel		37.7838469	-122.4177943	hotel				
+node	8689797756	Eddy Hotel		37.7833300	-122.4182737	hotel				
+node	8702463226	Balmoral Hotel North # 3		37.7946766	-122.4037786	hotel				
+node	8979460275	Seneca Hotel		37.7815694	-122.4097494	hotel				
+node	9779676063	Washington Square Inn		37.8012647	-122.4092124	hotel				
+node	10241108388	Luma Hotel San Francisco		37.7748054	-122.3902313	hotel		Luma Hotels		https://www.lumahotels.com/san-francisco
+node	11198865808	Chase Hotel		37.7779612	-122.4161342	hotel				
+node	11342844428	YOTEL San Francisco		37.7804458	-122.4121718	hotel		YOTEL		https://www.yotel.com/en/hotels/yotel-san-francisco
+node	11695620403	The Line		37.7830487	-122.4098875	hotel				
+node	11701941352	Hotel 964		37.7806477	-122.4063071	hotel				
+node	11705906477	Holiday Inn Express		37.7861752	-122.4086673	hotel		Holiday Inn Express		https://www.ihg.com/holidayinnexpress/hotels/us/en/san-francisco/sfofs/hoteldetail
+node	11777394281	CW Hotel		37.7797699	-122.4036180	hotel				
+node	11806415040	El Capitan Hotel		37.7592189	-122.4188146	hotel				
+node	11817396090	Minna Hotel		37.7803019	-122.4081390	hotel				
+node	11817396094	Raman Hotel		37.7792894	-122.4073513	hotel				
+node	11823675769			37.7880863	-122.4111733	hotel				
+node	11823675869			37.7875855	-122.4111459	hotel				
+node	11958860401	Nob Hill Hotel		37.7886391	-122.4170672	hotel				
+node	11977464170	The Urban Hotel		37.7904286	-122.4058513	hostel				
+node	12031444507	Inn at Gough		37.7746389	-122.4226863	hotel				https://www.innatgough.com/
+node	13035678573	Hotel Castro		37.7609019	-122.4367033	hotel				
+node	13055672443	The Pickwick Hotel		37.7830549	-122.4066689	hotel				https://www.pickwickhotel.com/
+node	13171206601	"Timbri Hotel San Francisco, Curio Collection by Hilton"		37.7832350	-122.4096460	hotel		Curio Collection		https://www.hilton.com/en/hotels/sfotlqq-timbri-hotel-san-francisco/
+node	13700173429	Crystal Hotel		37.7528040	-122.4186597	hotel				
+node	13765490808	Hotel Madrid		37.7822389	-122.3935569	hotel				
+node	13840871794	Hotel Sunrise		37.7658236	-122.4218194	hotel				http://www.hotelsunrisesfca.com/
+node	13841356417	Hotel Tropica		37.7622871	-122.4214857	hotel				https://hoteltropica.com/
+node	13956126701	PodShare		37.7993377	-122.4415369	hostel				https://airbnb.com/
+way	24334773	The Westin San Francisco Airport		37.6034686	-122.3760325	hotel		Westin		https://www.marriott.com/hotels/travel/sfowi-the-westin-san-francisco-airport/
+way	24334778	San Francisco Airport Marriott		37.6021004	-122.3701690	hotel		Marriott		https://www.marriott.com/en-us/hotels/sfobg-san-francisco-airport-marriott-waterfront/overview/
+way	25372348	Argonaut Hotel		37.8071875	-122.4202487	hotel				https://www.argonauthotel.com/
+way	28319370	Hyatt Regency San Francisco		37.7942899	-122.3957361	hotel		Hyatt Regency	Hyatt Hotels Corporation	https://sanfrancisco.regency.hyatt.com/
+way	30404260	Hampton Inn and Suites		37.6018027	-122.3716343	hotel		Hampton Inn & Suites		https://www.hilton.com/en/hotels/sfohshx-hampton-suites-san-francisco-burlingame-airport-south/
+way	30408144	Aloft San Francisco Airport		37.6027473	-122.3777013	hotel		Aloft		https://www.marriott.com/hotels/travel/sfoal-aloft-san-francisco-airport/
+way	30408481	Bay Landing Hotel		37.5986147	-122.3662259	hotel				https://baylandinghotel.com/
+way	32611765	Hotel Boheme		37.7991904	-122.4083195	hotel				
+way	32863429	Beacon Grand		37.7889804	-122.4082657	hotel				
+way	32863494	Grand Hyatt San Francisco		37.7891243	-122.4072404	hotel		Grand Hyatt	Hyatt	https://sanfrancisco.grand.hyatt.com/en/hotel/home.html
+way	32864623	Best Western Americana Hotel		37.7788870	-122.4098302	hotel		Best Western		
+way	32864990	San Francisco Proper Hotel		37.7808871	-122.4124903	hotel				https://www.properhotel.com/san-francisco/
+way	32946774	San Francisco Marriott Union Square		37.7894629	-122.4083149	hotel		Marriott	Marriott	https://www.marriott.com/hotels/travel/sfous-san-francisco-marriott-union-square/
+way	33808671	Comfort Inn By the Bay		37.8009222	-122.4249385	hotel		Comfort Inn		https://www.choicehotels.com/california/vallejo/country-inn-suites-hotels
+way	33808712	Heritage Marina Hotel		37.7992732	-122.4236169	hotel				
+way	34286044	The Monarch Hotel		37.7855945	-122.4200611	hotel				https://www.themonarchhotel.com/
+way	35024321	Hotel Adagio		37.7870858	-122.4125399	hotel		Autograph Collection		https://www.marriott.com/en-us/hotels/sfoak-hotel-adagio-autograph-collection/
+way	35024322	Gaylord Suites		37.7871815	-122.4129166	hotel		Gaylord		
+way	35024332	Worth Hotel		37.7875860	-122.4123652	hotel				
+way	35024337	Emperor Norton Inn		37.7876721	-122.4118880	hotel				www.emperornortoninn.com
+way	35024342	The Adelaide Hostel		37.7874268	-122.4121341	hostel				https://www.adelaidehostelsanfrancisco.com/
+way	35024369	Hotel Zeppelin San Francisco		37.7877247	-122.4107104	hotel		Independent		https://www.zhotelssf.com/zeppelin/
+way	35024370	The Donatello		37.7878325	-122.4103864	hotel				
+way	35024376	Hotel Diva		37.7873442	-122.4106526	hotel				
+way	35024377	Union Square Plaza Hotel		37.7872766	-122.4103960	hotel				https://www.usphotel.com/
+way	35024381	"The Barnes San Francisco, Tapestry Collection by Hilton"		37.7866806	-122.4084520	hotel		Tapestry Collection		https://www.hilton.com/en/hotels/sfoonup-the-barnes-san-francisco/
+way	35024383	The Bartlett Hotel and Guesthouse		37.7866194	-122.4087755	hotel				
+way	35174694	Hotel Stratford		37.7869958	-122.4079011	hotel				https://www.hotelstratford.com/
+way	35174698	St. Moritz Hotel		37.7866678	-122.4077762	hotel				
+way	35174699	The Mosser		37.7848765	-122.4051370	hotel				https://www.themosser.com/
+way	35176131	BEI Hotel San Francisco		37.7776081	-122.4142344	hotel		Independent		https://beihotelsf.com/
+way	35176496	Donnelly Hotel		37.7781173	-122.4160737	hotel				
+way	35182441	"The Jay, Autograph Collection"		37.7946819	-122.4008922	hotel		Autograph Collection		https://www.marriott.com/en-us/hotels/sfokd-the-jay-autograph-collection/overview/
+way	35536860	Taj Campton Place Hotel		37.7891649	-122.4065795	hotel		Taj		
+way	35537021	JW Marriott		37.7883160	-122.4104842	hotel		JW Marriott		
+way	48995277	Beresford Hotel		37.7886702	-122.4108779	hotel				
+way	48995278	Marines' Memorial Club & Hotel		37.7887092	-122.4104936	hotel				
+way	50832129	Hotel Nikko San Francisco		37.7858007	-122.4092663	hotel				https://www.hotelnikkosf.com/
+way	70077928	Green Tortoise Hostel		37.7982714	-122.4053066	hostel				https://www.greentortoisesf.com/
+way	71208645	Luz Hotel		37.7861846	-122.4153066	hotel				https://www.luzhotelsf.com/
+way	71209433	Hotel Layne		37.7863903	-122.4133364	hotel				
+way	71359571	Nazareth Hotel		37.7865793	-122.4129890	hotel				
+way	71504437	Gateway Inn		37.7861015	-122.4121114	hotel				
+way	71504442	The Clift Royal Sonesta San Francisco		37.7867160	-122.4111343	hotel				https://www.sonesta.com/royal-sonesta/ca/san-francisco/clift-royal-sonesta-hotel/
+way	71504453	The Marker Union Square San Francisco		37.7866239	-122.4118321	hotel		Independent		http://themarkersanfrancisco.com/
+way	71504455	Warwick San Francisco		37.7871515	-122.4113690	hotel				https://warwickhotels.com/san-francisco/
+way	71504456	Hotel Spero		37.7861449	-122.4116962	hotel				https://www.hotelspero.com/
+way	71504459	The Touchstone Hotel		37.7871837	-122.4111261	hotel				https://www.thetouchstone.com/
+way	71515254	Club Wyndham Canterbury		37.7889893	-122.4127910	hotel		Club Wyndham		
+way	71739083	Krupa Hotel		37.7878734	-122.4132237	hotel				
+way	79375211	Kensington Park Hotel		37.7884661	-122.4093917	hotel				
+way	79375215	Chancellor Hotel		37.7886605	-122.4087763	hotel				https://www.chancellorhotel.com/
+way	80296747	W San Francisco		37.7854683	-122.4004503	hotel		W Hotels		https://www.marriott.com/hotels/travel/sfowh-w-san-francisco
+way	93422615	Hotel Riu Plaza Fisherman´s Wharf		37.8071475	-122.4130624	hotel		RIU Hotels & Resorts	RIU Hotels & Resorts	https://www.riu.com/en/hotel/usa/san-francisco/hotel-riu-plaza-fishermans-wharf/
+way	103339440	Courtyard San Francisco Fisherman's Wharf		37.8073839	-122.4185240	hotel		Courtyard	Marriott	https://www.marriott.com/hotels/travel/sfocf-courtyard-san-francisco-fishermans-wharf/
+way	112774492	"The Clancy, Autograph Collection"		37.7860189	-122.3967370	hotel		Autograph Collection	Marriott	https://www.marriott.com/hotels/travel/sfoaw-the-clancy-autograph-collection/
+way	115433820	Perramont Hotel		37.7668544	-122.4303908	hotel				
+way	115433826	Twin Peaks Hotel		37.7669345	-122.4303506	hotel				
+way	118480404	Hyatt Regency San Francisco Downtown SOMA		37.7865615	-122.4030903	hotel		Hyatt Regency	Hyatt Hotels Corporation	https://www.hyatt.com/en-US/hotel/california/hyatt-regency-san-francisco-downtown-soma/sford
+way	123646088	Hotel Carlton		37.7877499	-122.4179635	hotel			Joie de Vivre	https://www.jdvhotels.com/hotels/california/san-francisco-hotels/hotel-carlton/
+way	124658783	Fairfield Inn & Suites		37.6015440	-122.3901719	hotel		Fairfield Inn & Suites		https://www.marriott.com/sfome
+way	125069311	The Dylan at SFO		37.5979172	-122.3860174	hotel				https://www.dylansfo.com/
+way	132125160	Galleria Park Hotel		37.7896054	-122.4035142	hotel				
+way	135174116	Hotel Triton		37.7903408	-122.4053392	hotel			Kimpton Hotel	https://www.hoteltriton.com/
+way	135232161	Hotel 32one		37.7899862	-122.4057291	hotel				https://www.hotel32one.com/
+way	135620221	White Swan Inn		37.7896183	-122.4112397	hotel				https://www.whiteswaninnsf.com/
+way	135620225	Petite Auberge		37.7895651	-122.4114310	hotel				https://www.petiteaubergesf.com/
+way	147689070	Hotel Fusion		37.7857197	-122.4085295	hotel				
+way	147808248	Aldrich		37.7853801	-122.4131465	hotel				
+way	147808255	Vantaggio Suites		37.7855639	-122.4131650	hotel				
+way	148427243	Cable Car Hotel		37.7912580	-122.4172172	hotel				
+way	148547438	Hotel VIA		37.7793416	-122.3909400	hotel				
+way	149332498	Four Seasons		37.7862212	-122.4042473	hotel		Four Seasons	Four Seasons	https://www.fourseasons.com/sanfrancisco/
+way	151184973	King George Hotel		37.7867659	-122.4094446	hotel				
+way	151184978	The Handlery Union Square Hotel		37.7865574	-122.4089968	hotel				
+way	151316281	The Huntington Hotel		37.7913824	-122.4120837	hotel				https://www.thehuntingtonhotel.com/
+way	165846558	Abigail Hotel		37.7808907	-122.4161414	hotel				
+way	167489679	Inn on Folsom		37.7754186	-122.4099856	hotel				https://www.innonfolsom.com/
+way	172250594	City Center Inn & Suites		37.7771825	-122.4089433	hotel				https://www.sfcitycenterinnandsuites.com/
+way	172250618	Hotel Ikon		37.7893114	-122.4058551	hotel				
+way	179746882	Mithila Hotel		37.7885404	-122.4163519	hotel				
+way	179746883	Hotel Julian		37.7885735	-122.4159602	hotel				https://www.hoteljuliansf.com/
+way	182809328	Travelodge by Fishermans Wharf		37.8053016	-122.4178931	hotel		Travelodge		https://www.wyndhamhotels.com/travelodge/san-francisco-california/travelodge-by-fishermans-wharf/overview
+way	182919005	Suites at Fisherman's Wharf		37.8055042	-122.4205982	hotel			Shell Vacations Club	
+way	182919854	San Remo Hotel		37.8042784	-122.4136154	hotel				
+way	193054133	Hotel Griffon		37.7928777	-122.3922144	hotel				https://www.hotelgriffon.com/
+way	193054134	1 Hotel San Francisco		37.7936871	-122.3932917	hotel				https://www.1hotels.com/san-francisco
+way	193054138	Harbor Court Hotel		37.7926772	-122.3921483	hotel				https://www.harborcourthotel.com/
+way	197167036	Castro Hotel		37.7983511	-122.4092527	hotel				
+way	197354894	Beresford Arms Hotel		37.7873765	-122.4135667	hotel				
+way	197462674	Holiday Inn San Francisco Golden Gateway		37.7898461	-122.4217580	hotel		Holiday Inn		
+way	206629805	Tang Fat Enterprises Company		37.7982565	-122.4084123	hotel				
+way	216220328	The Utah Inn		37.7793054	-122.3981588	hotel				https://theutahinn.com/
+way	219416155	The Herb Inn		37.7704899	-122.4472863	hostel				
+way	222244880	Phoenix Hotel		37.7829494	-122.4181797	hotel				
+way	225599508	Found		37.7848901	-122.4091666	hostel				https://www.foundhotels.com/cities/san-francisco/
+way	243356609	Canopy by Hilton San Francisco SoMa		37.7823641	-122.4021254	hotel		Canopy		https://www.hilton.com/en/hotels/sfopypy-canopy-san-francisco-soma/
+way	243464448	Carriage Inn		37.7785023	-122.4104942	hotel				
+way	243464463	San Francisco Inn		37.7729417	-122.4101562	hotel			independent	
+way	243510966	Francisco Bay Inn		37.8007576	-122.4265247	hotel				
+way	243512088	Lombard Motor Inn		37.8009122	-122.4258602	hotel				
+way	255960478	Budget Inn		37.7795416	-122.4130287	hotel				
+way	256029743	Intercontinental San Francisco		37.7820704	-122.4047589	hotel		InterContinental		https://www.intercontinentalsanfrancisco.com/
+way	256029745	The Rose		37.7808395	-122.4081087	hotel				
+way	256030639	Alkain Hotel		37.7820031	-122.4078569	hotel				
+way	256035273	Aida Hotel		37.7805418	-122.4117947	hotel				
+way	256037015	Axiom Hotel		37.7848983	-122.4081659	hotel				
+way	256047640	Hotel Mentone		37.7846962	-122.4125580	hotel				
+way	256047641	Helen Hotel		37.7833753	-122.4118532	hotel				
+way	256047644	Cats Coronado Hotel		37.7846641	-122.4122985	hotel				
+way	256047648	Bel Air Hotel		37.7845114	-122.4124827	hotel				
+way	256058404	Adante Hotel San Francisco		37.7869512	-122.4136447	hotel				https://www.adantehotel.com/
+way	256058407	Courtyard San Francisco Union Square		37.7872742	-122.4142650	hotel		Courtyard		https://www.marriott.com/sfocn
+way	256058408	Ansonia Hotel		37.7873362	-122.4138005	hostel				
+way	256060022	Merit		37.7866378	-122.4201099	hotel				
+way	256072723	"Club Quarters Hotel, San Francisco, Embarcadero"		37.7952194	-122.4007499	hotel				http://clubquarters.com/san-francisco
+way	256499427	Orchard Hotel		37.7900334	-122.4083404	hotel				https://www.theorchardhotel.com/
+way	256499440	Mystic Hotel		37.7898023	-122.4074205	hotel				
+way	256733818	Cornell Hotel de France		37.7898876	-122.4091159	hotel				https://www.cornellhotel.com/
+way	256733822	Golden Gate Hotel		37.7898183	-122.4099530	hotel				
+way	256733824	Hotel Cartwright		37.7894402	-122.4092001	hotel				
+way	256733831	The Grant Hotel		37.7897939	-122.4095809	hotel				
+way	256733832	Hotel Emblem San Francisco		37.7893634	-122.4098163	hotel		Viceroy Hotels & Resorts	Viceroy Hotel Group	https://www.viceroyhotelsandresorts.com/en/emblem
+way	257138838	The Stanley Hotel		37.7909326	-122.4198279	hotel				
+way	257934707	Hotel Majestic		37.7872456	-122.4254328	hotel				https://www.thehotelmajestic.com/
+way	257974877	Kimpton Buchanan Hotel		37.7867602	-122.4303202	hotel		Kimpton		
+way	258124323	Inn at the Opera		37.7786151	-122.4222162	hotel				
+way	258142152	Hayes Valley Inn		37.7770804	-122.4231993	hotel				https://www.hayesvalleyinn.com/
+way	258857550	Taylor Hotel San Francisco		37.7880561	-122.4119747	hotel				http://www.sanfranciscocheaphotel.com/
+way	259920932	Courtyard On Nob Hill		37.7910548	-122.4150185	hotel		Courtyard		
+way	259924356	Nob Hill Inn		37.7908457	-122.4124755	hotel				https://nobhillinn.com/
+way	259974365	Essex		37.7844542	-122.4175413	hotel				
+way	259977218	Hotel Western		37.7841389	-122.4145819	hotel				
+way	259977221	Hotel Verona		37.7839221	-122.4144652	hotel				
+way	259978990	Artmar Hotel		37.7845418	-122.4132474	hotel				
+way	259994056	Hamlin Hotel		37.7835745	-122.4138815	hotel				
+way	259995711	HI San Francisco City Center		37.7840764	-122.4173819	hostel				https://www.sfhostels.org/city-center
+way	260126016	Riviera Hotel		37.7851086	-122.4126667	hotel				
+way	260126018	The Winton Hotel		37.7856651	-122.4119778	hotel				
+way	260126026	Columbia Hotel		37.7857915	-122.4115408	hotel				
+way	260127279	Dahlia Hotel		37.7835267	-122.4103097	hotel				
+way	260127280	West Hotel		37.7839989	-122.4099607	hotel				
+way	260127281	Dalt Hotel		37.7836186	-122.4099011	hotel				
+way	260129393	The Lyric Hotel		37.7826503	-122.4121107	hotel				
+way	260133496	Hotel Le Nain		37.7832977	-122.4197390	hotel				
+way	260133500	Elk Hotel		37.7834154	-122.4188445	hotel				
+way	260140487	Page Hotel		37.7825668	-122.4142043	hotel				
+way	260142627	Hotel Hurley		37.7829845	-122.4142867	hotel				
+way	260142662	Allen Hotel		37.7835640	-122.4144988	hotel				
+way	260162808	Hotel Bijou San Francisco		37.7844906	-122.4096053	hotel				https://www.hotelbijou.com/
+way	260175869	Executive Hotel Vintage Court		37.7904724	-122.4081032	hotel				https://www.reservations.com/hotel/executive-hotel-vintage-court
+way	260177870	Prita Hotel		37.7604757	-122.4195266	hotel				
+way	260183842	WorldMark San Francisco		37.7905935	-122.4069526	hotel		Wyndham	Wyndham	
+way	260183844	Grant Plaza		37.7912836	-122.4059070	hotel				
+way	260183845	Grant Plaza		37.7913027	-122.4059053	hotel				
+way	260185655	San Francisco Suites		37.7912922	-122.4088388	hotel				
+way	260279404	Orchard Garden Hotel		37.7908959	-122.4052455	hotel				https://www.theorchardgardenhotel.com/
+way	260340955	Star Hotel		37.7621448	-122.4196903	hotel				
+way	260345915	Kean Hotel		37.7807070	-122.4094673	hotel				
+way	260353691	Union Hotel		37.7645030	-122.4199497	hotel				
+way	260353700	Frances Hotel		37.7637568	-122.4198787	hotel				
+way	260354448	Signature Hotel S.F.		37.7773692	-122.4082370	hotel				https://www.signaturehotelsf.com/
+way	260922316	Hilton San Francisco Financial District		37.7951542	-122.4042920	hotel		Hilton	Hilton	https://www3.hilton.com/en/hotels/california/hilton-san-francisco-financial-district-SFOFDHF/index.html
+way	260924232	Clayton		37.7944010	-122.4041122	hotel				
+way	261125160	Palo Alto Hotel		37.7914264	-122.4201938	hotel				
+way	261247494	24 Henry		37.7669270	-122.4320420	hotel				http://24henry.com
+way	261292112	Chateau Tivoli Bed and Breakfeast	Chateau Tivoli Bed and Breakfeast	37.7791158	-122.4337497	hotel				https://chateautivoli.com/
+way	261422847	Casa Loma Hotel		37.7751009	-122.4308306	hotel				
+way	262761211	Redwood Inn		37.8013439	-122.4268579	hotel				
+way	263254424	Buena Vista Motor Inn		37.8007333	-122.4274582	hotel				
+way	263265347	Town House		37.8011154	-122.4287347	hotel				
+way	263265360	Marina Inn		37.8009672	-122.4293469	hotel				
+way	263343088	SureStay		37.8004696	-122.4335028	hotel		SureStay		
+way	263718190	The Laurel Inn		37.7875975	-122.4466015	hotel				
+way	288340256	Inn at the Presidio		37.7970441	-122.4578517	hotel				https://presidiolodging.com/inn-at-the-presidio/
+way	288340263	Lodge at the Presidio		37.8018404	-122.4583507	hotel			The Presidio Trust	https://presidiolodging.com/lodge-at-the-presidio/
+way	288387353	HI San Francisco Fisherman's Wharf		37.8071032	-122.4285179	hostel			American Youth Hostels	https://www.sfhostels.org/fishermans-wharf
+way	288487238	Il Triangolo Hotel		37.7998626	-122.4093271	hotel				
+way	288495316	Castle Inn		37.7955566	-122.4226295	hotel				
+way	288495333	Nob Hill Motor Inn		37.7951971	-122.4222257	hotel				
+way	288512967	Parc 55 San Francisco - a Hilton Hotel		37.7848862	-122.4090118	hotel				http://www.parc55hotel.com/
+way	288721098	Hotel Alder		37.7802203	-122.4073945	hotel				
+way	291685601	Cavallo Point - the Lodge at the Golden Gate		37.8376902	-122.4793917	hotel				https://www.cavallopoint.com/
+way	332375981	Hotel G		37.7873682	-122.4096541	hotel				https://www.hotelgsanfrancisco.com/
+way	332378158	The Westin St. Francis		37.7877575	-122.4089761	hotel		Westin	Starwood	https://www.marriott.com/hotels/travel/sfouw-the-westin-st-francis-san-francisco-on-union-square
+way	332627661	Hotel Zetta San Francisco		37.7835144	-122.4068714	hotel				https://www.zhotelssf.com/zetta
+way	385956478	Aluxor SFO		37.6233895	-122.4124482	hotel		Sapphire Boutique Collection		https://hotelaluxorsfo.com/
+way	388621314	Gateway Inn & Suites San Francisco (SFO) Airport		37.6239958	-122.4130276	hotel				https://www.wyndhamhotels.com/ramada/san-bruno-california/ramada-limited-san-francisco-airport-west-san-bruno/overview
+way	389758757	The Atrium Hotel		37.6311105	-122.4073995	hotel				
+way	474341709	Hotel Des Arts		37.7904064	-122.4048325	hotel				
+way	494800309	Travelodge		37.7982679	-122.4467652	hotel		Travelodge		https://www.wyndhamhotels.com/travelodge/san-francisco-california/travelodge-at-the-presidio-san-francisco/overview
+way	550434153	Millwood Inn & Suites		37.6096065	-122.4014344	hotel				https://www.millwoodinn.com/
+way	573287814	Hyatt Place San Francisco/Downtown		37.7788184	-122.3922863	hotel		Hyatt Place		https://www.hyatt.com/hyatt-place/en-US/sfozs-hyatt-place-san-francisco-downtown
+way	628105463	Grand Hyatt at SFO		37.6128632	-122.3939567	hotel		Grand Hyatt		https://www.hyatt.com/en-US/hotel/california/grand-hyatt-at-sfo/sfogh
+way	693883741	The Basque Hotel		37.7982379	-122.4064629	hotel				
+way	700791868	Hilton San Francisco Union Square	Hilton San Francisco Union Square	37.7856554	-122.4104200	hotel		Hilton		https://www3.hilton.com/en/hotels/california/hilton-san-francisco-union-square-SFOFHHH/index.html
+way	924057687	Golden Eagle Hotel		37.7985034	-122.4041203	hotel				
+way	924131189	Sunset Hotel		37.7803909	-122.4076073	hotel				
+way	924360762	Queen Anne Hotel		37.7872441	-122.4265511	hotel				https://www.queenanne.com/
+way	925095639	The Grove Inn		37.7769995	-122.4312300	hotel		CA 94117		
+way	925116909	Oasis Inn		37.7829674	-122.4222403	hotel				
+way	929538709	Hampton Inn San Francisco Downtown/Convention Center		37.7821474	-122.4077947	hotel		Hampton		https://www.hilton.com/en/hotels/sfocchx-hampton-san-francisco-downtown-convention-center/
+way	929589610	The Inn at Union Square San Francisco		37.7884929	-122.4091191	hotel				
+way	939539793	"Fairmont Heritage Place, Ghirardelli Square"		37.8055657	-122.4232571	hotel		Fairmont	Fairmont	
+way	941560578	CitizenM Union Square		37.7858018	-122.4074624	hotel		citizenM		https://www.citizenm.com/hotels/united-states/san-francisco/san-francisco-union-square
+way	942674801	Bay Hotel		37.7825313	-122.4120856	hotel				
+way	1041758861	Residence Inn San Francisco Airport Millbrae Station		37.6012154	-122.3842765	hotel		Residence Inn		https://www.marriott.com/en-us/hotels/sfomi-residence-inn-san-francisco-airport-millbrae-station/overview/
+way	1160773277	Hotel Kabuki		37.7853976	-122.4284853	hotel			JDV	https://www.jdvhotels.com/hotels/california/san-francisco/hotel-kabuki
+way	1261935105	COVA Hotel		37.7840409	-122.4171182	hotel				https://www.covahotel.com/
+way	1261984861	Post Hotel		37.7877114	-122.4114043	hotel				
+way	1279459281	Omni San Francisco Hotel		37.7931216	-122.4031981	hotel			Omni Hotels	https://www.omnihotels.com/hotels/san-francisco
+way	1361492525	InterContinental Mark Hopkins		37.7914726	-122.4102174	hotel		InterContinental		https://www.ihg.com/intercontinental/hotels/us/en/san-francisco/sfoha/hoteldetail
+relation	1358120	Hotel Zephyr San Francisco		37.8080579	-122.4132535	hotel		Independent		https://www.hotelzephyrsf.com
+relation	1707568	La Quinta Inn & Suites		37.6102145	-122.4007377	hotel		La Quinta Inn & Suites		
+relation	2433918	Marriott Vacation Club		37.8057333	-122.4164303	hotel		Marriott Vacation Club		https://www.marriott.com/en-us/hotels/sfovm-marriott-vacation-club-san-francisco/overview/
+relation	2433963	Hyatt Centric Fisherman's Wharf San Francisco		37.8058717	-122.4160566	hotel		Hyatt Centric		https://www.hyatt.com/en-US/hotel/california/hyatt-centric-fishermans-wharf-san-francisco/sfofw
+relation	3462028	Kenmore Residence Club		37.7871518	-122.4262595	hotel				
+relation	3489265	Music City		37.7885359	-122.4195603	hotel				https://musiccitysf.org/
+relation	3490693	Hotel Warfield		37.7834809	-122.4105446	hotel				
+relation	3490921	Inn on Broadway		37.7959407	-122.4239731	hotel				
+relation	3492933	Palace Hotel		37.7879687	-122.4019446	hotel				
+relation	3493471	Best Western Americana Hotel		37.7788870	-122.4098302	hotel		Best Western		
+relation	3493472	Hotel Isabel		37.7792150	-122.4105320	hotel				
+relation	3510222	SW Hotel		37.7975000	-122.4072517	hotel				
+relation	3635348	Hotel Del Sol		37.7994633	-122.4339278	hotel			Joie de Vivre	https://www.jdvhotels.com/hotels/california/san-francisco-hotels/hotel-del-sol/
+relation	3635967	Days Inn by Wyndham San Francisco - Lombard		37.7996123	-122.4404829	hotel		Days Inn		
+relation	3635968	"Infinity Hotel Sf, Ascend Hotel Collection"		37.7996840	-122.4398691	hotel				
+relation	3826400	Hotel Caza Fisherman's Wharf		37.8065218	-122.4179966	hotel		Independent		https://www.hotelcaza.com/
+relation	3827695	San Francisco Marriott Fisherman's Wharf	San Francisco Marriott Fisherman's Wharf	37.8056595	-122.4175495	hotel		Marriott	Marriott	https://www.marriott.com/hotels/travel/sfofw-san-francisco-marriott-fishermans-wharf/
+relation	3827700	Entella Hotel		37.8029133	-122.4142830	hotel				
+relation	5381749	Stanyan Park Hotel		37.7680984	-122.4530133	hotel				http://www.stanyanpark.com/
+relation	6480430	Stanford Court San Francisco Hotel		37.7915007	-122.4095508	hotel				https://www.stanfordcourt.com/
+relation	6483285	San Francisco Marriott Marquis		37.7853815	-122.4044219	hotel		Marriott	Marriott	https://www.marriott.com/hotels/travel/sfodt-san-francisco-marriott-marquis/
+relation	6589245	Good Hotel		37.7787821	-122.4109337	hotel			Haiyi Hotels	
+relation	6747673	Hotel Zoe	Hotel Zoe	37.8061662	-122.4140972	hotel				
+relation	6747681	Holiday Inn Express Hotel & Suites San Francisco Fisherman's Wharf		37.8067199	-122.4163308	hotel		Holiday Inn Express	Holiday Inn	
+relation	6902602	Vincent Hotel		37.7822170	-122.4165189	hotel				
+relation	9092253	Travelodge		37.7720238	-122.4221153	hotel		Travelodge		
+relation	9737061	Hilton		37.7856554	-122.4104200	hotel		Hilton		https://www3.hilton.com/en/hotels/california/hilton-san-francisco-union-square-SFOFHHH/index.html
+relation	12657661	Europa Hotel		37.7981838	-122.4068291	hotel				
+relation	12657685	Poter Hotel		37.7765662	-122.4147033	hotel				
+relation	13997987	Travelodge San Francisco Bay		37.8015784	-122.4255131	hotel		Travelodge		
+relation	14543549	The Ritz-Carlton		37.7918637	-122.4068171	hotel		The Ritz-Carlton		http://www.ritzcarlton.com/en/Properties/SanFrancisco/
+relation	16217497	The Fairmont San Francisco Hotel		37.7924486	-122.4100435	hotel		Fairmont	Fairmont	https://www.fairmont.com/san-francisco/
+relation	19750576	"El Rancho Inn, SureStay Collection by Best Western"		37.6077066	-122.3972513	hotel		Best Western	Best Western	https://www.elranchoinn.com/

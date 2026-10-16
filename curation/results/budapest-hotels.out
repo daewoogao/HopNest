@@ -1,0 +1,393 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	262861756	Ikonik Parlament		47.5068414	19.0532009	hotel	4	Ikonik Hotels	Zipar Hungary Kft.	
+node	272507328	City Hotel Pilvax		47.4942056	19.0553623	hotel			Belvárosi Szállodák Kft.	
+node	272856451	Leo Boutique Rooms		47.4934421	19.0556681	hotel				https://leoboutiquerooms.com
+node	415959268	BoHo		47.4901606	19.0665973	hotel				
+node	417031682	Queen's Court Hotel & Residence		47.5014989	19.0667521	hotel	5			
+node	418029710	Leonardo Hotel Budapest		47.4816915	19.0728214	hotel				
+node	418029724	Hotel Swing		47.4826188	19.0689993	hotel	3			
+node	419017258	Soho Boutique Hotel		47.4982219	19.0691663	hotel	4			
+node	443886731	Wombat's City Hostel		47.4991383	19.0580138	hotel		Wombat		https://www.wombats-hostels.com/budapest/
+node	523303590	Hotel Fortuna		47.5187688	19.0493656	hotel				
+node	533628924	Hotel Mirage		47.5132520	19.0779446	hotel				http://www.miragehotelbudapest.com/
+node	560940458	Equity point		47.4984314	19.0642870	hostel				
+node	674469043	Broadway Apartments and Hostel		47.5041509	19.0579592	hotel				
+node	692973204	Star Inn		47.5064577	19.0586065	hotel	3			
+node	703392672	Hotel Ferihegy		47.4231403	19.2335910	hotel				https://www.hotelferihegy.hu/
+node	713696012	Mövenpick Hotel Budapest Centre		47.4973576	19.0722013	hotel	4			
+node	735824477	Flandria hotel		47.5285500	19.0827420	hotel				
+node	736671942	Bi & Bi Panzió		47.5080750	19.0241490	hotel				https://www.bibipanzio.hu/
+node	891426581	Hotel Carlton		47.4994363	19.0392880	hotel	4			
+node	1158949104	Kimpton BEM Budapest		47.5121016	19.0379353	hotel		Kimpton		
+node	1342735465	Budapest Hostel		47.4812562	19.1024342	hostel				
+node	1365400286	Hotel Metro		47.5118976	19.0551678	hotel	3			http://hotelmetrobudapest.hu
+node	1408928971	Bo18 Hotel Superior		47.4877923	19.0738943	hotel				
+node	1467711380	Maverick Downtown		47.4924963	19.0551327	hostel			Maverick Lodges	
+node	1512525404	Császár Hotel		47.5197303	19.0367031	hotel				https://www.csaszarhotel.hu/
+node	1521285220	Actor Hotel		47.4793023	19.0743185	hotel	4			
+node	1578704940	Retro		47.5615837	19.0515197	hotel				
+node	1593535627	Airport Hotel Budapest		47.4141279	19.2443400	hotel			"Airport Hotel Budapest**** Kft.; M.Son Hungary Kft., 1074 Budapest, Hársfa utca 51. fszt. 2."	https://www.airporthotel.hu
+node	1648766627	Verno House		47.5026274	19.0504451	hotel				
+node	1648766654	Hotel President		47.5037963	19.0529266	hotel	4		President Management Kft.	
+node	1754519038	Crowne Plaza		47.5129815	19.0581735	hotel	4	Crowne Plaza	IHG	
+node	1796378489	Mamaison Residence Izabella		47.5083267	19.0666934	hotel				https://www.mamaisonizabella.com/hu/
+node	1847515209	Silk Road Hotel		47.5042084	19.1161400	hotel				
+node	1886479599	Opera Garden Hotel & Apartments		47.5044271	19.0567647	hotel	4			https://www.operagardenhotel.hu/
+node	1908151600	Medosz Hotel		47.5053596	19.0612149	hotel				
+node	1919623370	Leonardo Boutique Hotel Budapest M-SQUARE		47.4973181	19.0572653	hotel		Leonardo Boutique		
+node	1974465548	Hostel GoodMo		47.4900893	19.0657883	hostel				http://hostelgoodmo.com/
+node	2058949549	Central Hotel 21		47.4918089	19.0691681	hotel	3			
+node	2312908424	Live Hostel		47.4955791	19.0664171	hostel				
+node	2315294618	Deák Hostel		47.4980283	19.0552386	hostel				http://www.deakhostel.hu
+node	2330619217	Duna Garden		47.4334057	19.0903856	hotel				https://www.dunagarden.hu/
+node	2385679968	Corinthia Grand Hotel Royal		47.5026716	19.0667929	hotel	5			
+node	2385679974	Hotel Casati		47.5012263	19.0590057	hotel				
+node	2418313529	Budapest Panorama Central		47.4950011	19.0591630	hotel	3			https://budapestpanoramacentral.com/
+node	2435122733	Hotel Zenit Budapest Palace		47.4948395	19.0501147	hotel			Apáczai Ház Kft.	
+node	2443733658	Golden Park Hotel		47.4993203	19.0822740	hotel	4			
+node	2452317438	HoBar		47.4875645	19.0636793	hostel				
+node	2452317442	BPArt		47.4883102	19.0642146	hostel				http://bparthostel.com/
+node	2506438453	Age Budapest Youth Centre		47.4876140	19.0633246	hostel				http://www.agebudapest.hostel.com/
+node	2533334383	Villa Korda Hotel		47.5318673	19.0134603	hotel	3			
+node	2611344714	Arpad Bridge Apartments		47.5322347	19.0697888	hotel			Arpad Bridge Apartments	https://www.arpadbridgeapartments.com/
+node	2624405937	Onefam Budapest Hostel		47.4970660	19.0595375	hostel			Onefam Hostels	https://onefamhostels.com/budapest-onefam-hostel-budapest/
+node	2671483344	Jimi Hendrix Guesthouse		47.4897608	19.0670110	hostel				
+node	2746165324	Groove Hostel		47.5120547	19.0518574	hostel				
+node	2947494338	Hostel Bánki		47.5077666	19.0560578	hostel				http://www.hostels.hu
+node	2968184421	Andante Hostel		47.5017220	19.0657367	hostel				http://wp.andantehostel.com/
+node	2969225837	Williams Guesthouse		47.5019514	19.0668351	hotel				
+node	2969225839	Carpe Noctem Vitae		47.5023434	19.0663405	hostel				
+node	2971230022	Mustache Hostel		47.4904463	19.0688584	hostel				https://mustachehostel.com/
+node	2985233077	Barceló Budapest		47.4988969	19.0576110	hotel				https://www.parkresidence.eu/
+node	2992594051	Casa de la Musica		47.4933600	19.0669697	hostel				http://www.casadelamusicahostel.com/
+node	3017855933	Flórián turistaszálló		47.4818185	19.0998500	hostel				
+node	3095340433	Richter Hotel Pansio		47.5130957	19.1017887	hotel				
+node	3105438946	Zsofi's House		47.5116371	19.0515639	hostel			Zsofi	
+node	3156384072	Manzard panzió - hotel		47.4815060	19.0988061	hotel				
+node	3156384866	Hotel Glória		47.4809985	19.0980363	hotel				
+node	3230655488	Gaia Hostel		47.4938770	19.0590100	hostel				
+node	3252506122	Fortuna		47.4764689	19.0911581	hotel				
+node	3496958962	Factory Hostel Budapest		47.4463385	19.0938082	hostel				http://factoryhostelbudapest.com/
+node	3518739227	Maverick Budapest Soho		47.4978015	19.0628067	hostel			Maverick Lodges	https://mavericklodges.com/en/city-lodge-budapest-hostel
+node	3556759217	Florin Apart Hotel		47.4966380	19.0579515	hotel	3		CDH Property Management Kft.	
+node	3588514311	City Hotel Mátyás		47.4914182	19.0526574	hotel			Belvárosi Szállodák Kft.	
+node	3615677843	HBC Hostel		47.5065773	19.0558970	hostel				
+node	3632222159	Activity Hostel		47.4995709	19.0551920	hostel				
+node	3662431389	Carmen		47.5137946	19.1037355	hotel				
+node	3780733778	a&o Budapest City		47.5029645	19.0697361	hostel		A&O		
+node	3801157299	Nemzeti Budapest - Mgallery		47.4967219	19.0710831	hotel				
+node	3846522588	Hapimag Resort Budapest	Hapimag Budapest	47.5040767	19.0306429	hotel				https://www.hapimag.com/nl/waar/hongarije/boedapest.html
+node	3929430535	ibis Budapest City		47.4973002	19.0695303	hotel		Ibis		
+node	3976919459	Baltazár		47.5046255	19.0290377	hotel				
+node	3988399111	Full Moon		47.5120874	19.0501831	hostel			Full Moon Hostel Kft.	
+node	4022222462	Park Inn By Radisson		47.5534039	19.0784814	hotel		Park Inn	Radisson	
+node	4113454090	Friends Hostel & Apartments		47.5036393	19.0648624	hostel				https://friendshostel.hu/
+node	4120659389	West Side Hostel		47.5091071	19.0573163	hostel				
+node	4127805723	City Hotel Budapest (társasház)		47.5027617	19.0681393	hotel				
+node	4131920889	Basilica Friends Apartment		47.4976003	19.0557139	hotel				
+node	4149847393	Pal's Hostel		47.5001752	19.0530449	hostel				
+node	4156289990	Esprit Hotel		47.4974087	19.0731365	hotel				https://www.esprithotel.hu/
+node	4160170292	Njoy Budapest Hostel		47.4946411	19.0623188	hostel				
+node	4166123033	Zen House		47.5266864	19.0329228	hotel				
+node	4186741613	Ida Panzió		47.4786677	19.0197444	hotel				
+node	4198932996	Amazing Hostel		47.4956179	19.0630818	hostel				
+node	4203662889	Lavender Circus Hostel		47.4907299	19.0613207	hostel				
+node	4227207693	Easy Star Hotel		47.5081231	19.0705348	hotel	3			
+node	4230280389	Carpe Noctem Original		47.5088548	19.0595418	hostel				
+node	4232255102	Goat Hostel		47.4969284	19.0688781	hostel				
+node	4250169189	Meander Hostel		47.5048946	19.0593455	hostel				
+node	4251471094	Karla Hotel		47.5023402	19.0804767	hotel				
+node	4277799589	Baroque hostel		47.5099688	19.0817217	hostel				
+node	4285862201	Visit Kollégium		47.4762961	19.0465111	hostel				https://visitkollegium.hu/
+node	4348357691	Udvarrom		47.4984313	19.0662759	hostel				
+node	4358618889	Z		47.5036717	19.0642466	hostel				
+node	4382291389	BMSzKI Gyáli úti átmeneti szálló és munkásszálló		47.4618914	19.1063672	hotel				
+node	4393107889	Deep Guest House		47.5075867	19.0641182	hostel				
+node	4396044890	Tiger Tims Place		47.5092736	19.0570357	hostel				
+node	4423297090	Inner City hostel		47.5006598	19.0589798	hostel				
+node	4426721528	Anabelle B&B		47.5047583	19.0464149	hotel				
+node	4491503789	Adagio		47.5055494	19.0643600	hostel				
+node	4525451498	Flow Hostel		47.4871955	19.0599545	hostel				
+node	4536003557	Fifteen Boutique Hostel Budapest		47.5076328	19.0216697	hostel				
+node	4609648098	Park Residence Budapest		47.4989174	19.0556286	hotel				https://www.parkresidence.eu/
+node	4612599289	Allesandro Air Bnk		47.4858395	19.0622192	hostel				
+node	4630192432	Aria Hotel Budapest		47.4998527	19.0535890	hotel			IK-Hotels Vendéglátó Kft.	
+node	4715598382	Hotel di Verdi		47.4822985	19.0782782	hotel				
+node	4726315931	Atlantic Hotel		47.4937094	19.0810508	hotel	3			
+node	4933346122	Meat Heaven		47.5043026	19.0630511	hotel				https://meatheaven.hu/en/home/
+node	4950541521	East Hostel		47.4992711	19.0798204	hotel			East station hostel	
+node	5037647021	Rastel Hostel		47.4889387	19.0733036	hostel				https://rastel.insta-hostel.com/
+node	5045279827	Hotel Bobbio		47.5097967	18.9797199	hotel				
+node	5047018727	HomePluse Cube Hostel		47.5119132	19.0476990	hostel				
+node	5108194621			47.4889555	19.0929118	hotel				
+node	5181132624	Art Hostel Gallery		47.4933040	19.0438167	hostel				
+node	5196197222	Fifth Hostel		47.4968384	19.0684798	hostel				
+node	5211367324	Boutiq hotel		47.5016656	19.0829656	hotel				
+node	5418619386	Goodmo House		47.4908760	19.0729992	hostel				https://goodmohouse.com/
+node	5418619406	Art Photography Hostel		47.4923671	19.0726847	hostel				
+node	5463170727	Walking Bed Budapest Hostel		47.4871718	19.0601831	hostel				https://www.walkingbedbudapest.com/
+node	5577367421	Dominik Panzió		47.5062148	19.0902809	hotel	1			
+node	5592419484	Silver Hotel Budapest City Center		47.5063771	19.0672609	hotel				http://www.silverhotelbudapest.hu/
+node	5624597083	Viola kollégium		47.4803334	19.0754145	hostel				
+node	5667361092	Cotton House Budapest		47.5077799	19.0582664	hotel				
+node	5745102886	Óbudai Diák Hotel		47.5515407	19.0343027	hostel				https://odh.hu/
+node	5873075722	Hotel Rum		47.4904145	19.0591373	hotel			Hotel Rum Kft.	
+node	5902862611	Kerekes Pension		47.5262229	19.0835413	hotel				
+node	5932127785	Das Nest Budapest		47.4979521	19.0682038	hostel				
+node	5998712948	Sun Resort		47.4860391	19.0771084	hotel				
+node	5998737918	Petite Maison		47.5040957	19.0297700	hotel			Maison Bistro & Hotel	
+node	6012528449	Klebelsberg Kastély		47.5663068	18.9615920	hotel	4			https://klebelsbergkastelybudapest.hu/
+node	6181347797	Getaway		47.4855501	19.0652194	hostel				
+node	6340679985	Budapest Bubble		47.4920409	19.0617194	hostel				
+node	6429895814	Enjoy Budapest Aparthotel		47.4869727	19.0714717	hotel				http://corvinext.com/
+node	6445088784	Opera Hostel		47.5031278	19.0566529	hostel				https://www.operahostelbudapest.hu
+node	6578800385	Connection Guesthouse		47.5012917	19.0617880	hotel				
+node	6594501919	Season Hostel 2		47.5090865	19.0288380	hostel				
+node	6680015185	Budapest Calling Hostel		47.5084708	19.0592643	hostel				
+node	6774516763	pop-up hostels Citadella		47.4828438	19.0399195	hostel				
+node	6910554742	Interflat Youth Hostel		47.5090326	19.0586860	hostel			Interflat Kft.	
+node	6935794503	Centrooms Budapest		47.4972180	19.0699592	hotel				
+node	7104255491	Hotel Veritas		47.5035041	19.1089180	hotel				http://www.hotelveritas.hu/
+node	7151528057	Hotel California		47.4960291	19.0649511	hostel				
+node	7151547935	Otthon Szálló	Home Hotel	47.5273861	19.1198963	hotel				
+node	7216725185	Maverick Student Lodge		47.4842178	19.0628710	hostel				
+node	7299579305	Diákszálló		47.5592547	19.0530078	hotel				
+node	7628817319	Grand Park Hotel		47.5041597	19.1160375	hotel				
+node	7889717311	Boutique Hotel Victoria Budapest ****		47.5015472	19.0397720	hotel	4			
+node	7903344749	The Magazine Hotel & Apartments		47.5003468	19.0527958	hotel				
+node	8574735517	Danubius Hotel 4*		47.5006576	19.1041220	hotel				
+node	8863518899	"Matild Palace, a Luxury Collection Hotel, Budapest"		47.4923593	19.0540551	hotel	5	Marriott	Marriott	
+node	9110812417	Vitae Hostel		47.5022525	19.0664555	hostel				
+node	9154053362	Center Hostel		47.4991883	19.0712040	hostel				
+node	9163421324	Hotel Mika Downtown		47.4993854	19.0609476	hotel				https://hotelmika.com/
+node	9177121717	Central Market Hall Zen Hostel		47.4875450	19.0589288	hostel				
+node	9214872097	2B Hostel & Rooms		47.4959029	19.0521209	hostel			B2 Hostel Kft.	
+node	9214872099	The Loft Budapest		47.4957815	19.0519754	hotel	3			
+node	9292829109	Ramada by Wyndham Budapest City Center		47.4943445	19.0534613	hotel		Ramada		https://www.wyndhamhotels.com/ramada/budapest-hungary/ramada-budapest-hu/overview
+node	9301357990	City Hotel Unio		47.5023513	19.0684676	hotel				
+node	9312815500	Hostel Marco Polo		47.4969372	19.0662602	hostel	2			
+node	9329023817	NETIZEN Budapest Centre		47.4976969	19.0717267	hostel				
+node	9505965517	Avenue Hostel		47.5057037	19.0635283	hostel				
+node	9508146616	Adagio 2.0 Basilica		47.5001635	19.0553036	hostel				
+node	9690313378	Gerlóczy Boutique Hotel		47.4950151	19.0561328	hotel				
+node	9967155617	Trafic	Traffic Hostel	47.4950125	19.0616724	hostel				https://www.airbnb.co.uk/rooms/666707634204100169
+node	10045175567	B3 Hostel		47.4984074	19.0551591	hostel				
+node	10073696236	Promenade City Hotel		47.4939447	19.0527722	hotel			MMG Hotels Kft.	
+node	10075619515	Millennium Court		47.4932729	19.0521994	hotel		Millennium	Duna Csillaga Kft.	
+node	10077784206	11th Hour Cinema Hostel		47.4929353	19.0597877	hostel				
+node	10102580723	Ibis Budapest Castle Hill		47.4986436	19.0273096	hotel	3	Ibis		
+node	10600964625	Hotel Memories Budapest		47.4966315	19.0603781	hotel				
+node	10652378886	7x24 Central Hostel		47.4988185	19.0572996	hostel				
+node	10871707405			47.4889148	19.0718487	hotel				
+node	10873276493	The Three Corners Hotel & Resort		47.5015027	19.0506824	hotel				
+node	10924482571	Salesianum Kollégium		47.5390503	19.0318046	hostel				
+node	11046414832	T62 Hotel		47.5095704	19.0568786	hotel		Accent Hotels		https://t62hotel.com
+node	11101924707	Marbles Residence		47.4864863	19.0704775	hotel				
+node	11227901435	Milford Suites Budapest		47.5032224	19.0359934	hotel				
+node	11285811169	Hotel Anna Superior		47.4939205	19.0678284	hotel	3		The Three Corners Hotels & Resorts	https://threecorners.com/budapest/hotel-anna/
+node	11573191300	Mercure Budapest Castle Hill		47.4987031	19.0272273	hotel	4	Mercure		
+node	11657938169	Carat Boutique Hotel		47.4982800	19.0563127	hotel	4			
+node	11677474312	ibis Budapest Stadium		47.4733534	19.0955735	hotel	3	Ibis		
+node	11677474313	TRIBE Budapest Stadium		47.4732683	19.0958631	hotel	4	TRIBE		
+node	11759172570			47.4972943	19.0649381	hotel				
+node	11763522697	Westend Hostel		47.5154291	19.0590883	hostel				
+node	11799235769	CorvinLux Aparthotel		47.4862564	19.0781246	hotel				
+node	11964168569	Gartner Hotel		47.5010126	19.0661338	hotel				
+node	12118211412	Big Fish Hostel		47.5013370	19.0682249	hostel				
+node	12167815838	Noble Hotel		47.4937368	19.0566015	hotel				
+node	12167815839	Budapest Holidays Harmony		47.4935628	19.0561549	hotel				
+node	12193906597	Mera		47.5044095	19.0552169	hotel				
+node	12258308544	Four Points by Sheraton Budapest Danube		47.5221956	19.0542814	hotel				
+node	12374402016	Róna Hotel		47.5199473	19.1038985	hostel			Only Rent Kft.	
+node	12528861904	Infinity Budapest Hotel		47.4752299	19.0691341	hotel				
+node	12529946680	Mariposa Boutique Apartments		47.5040499	19.1158650	hotel				
+node	12596218496	Hotel Oktogon Haggenmacher		47.5059602	19.0638891	hotel			Continental Group	https://hoteloktogon.hu
+node	12609752552	Three Corners Avenue		47.5031388	19.0614463	hotel				
+node	12609810989	Pullman		47.5044072	19.0582580	hotel		Pullman		
+node	12735385804	Boutique Residence		47.5017765	19.0530169	hotel				https://www.hotelsone.com/budapest-hotels-hu/boutique-residence-budapest.html
+node	12778671540	Maison Bistro & Hotel		47.5036283	19.0303231	hotel				
+node	12792183219	Szőnyi Garden Hotel		47.5284832	19.0965517	hotel				
+node	12976287810	K4 Apartments		47.4936646	19.0566483	hotel				
+node	13038212520	Alice Hotel		47.5128887	19.0739133	hotel				https://alicehotel.hu/
+node	13163049077	Boomerang Hostel		47.5033374	19.0537114	hostel				https://boomeranghostel.com
+node	13208772583	Treestyle Hostel Budapest		47.4988463	19.0658672	hostel				
+node	13255669901	Fashion City Hotel		47.5103182	19.0548231	hotel				https://fashioncityhotel.com/
+node	13277358485	The Loft Hostel		47.4898682	19.0568282	hostel				
+node	13630707035	Absolut City Hostel		47.4970583	19.0569747	hostel				
+node	14019383059	St. Regis		47.4928478	19.0538660	hotel		St. Regis		https://www.marriott.com/en-us/hotels/budxr-the-st-regis-budapest/overview/
+node	14074344768	K46 Residence Budapest		47.5013368	19.0615350	hotel				https://www.k46residence.com/
+node	14081930221	East West Boutique Hotel		47.4871453	19.0737311	hotel	3			https://eastwestbudapest.com
+node	14086445446	Urban Nest Private Hostel		47.4904814	19.0770406	hostel				
+node	14142774132	Island Hostel Budapest		47.5203001	19.0467431	hostel				
+node	14166854903	AMISTAT Hub Hostel Budapest		47.5018326	19.0828146	hostel				
+node	14247045343	Hotel Collect		47.4927413	19.0596477	hotel	4			https://hotelcollect.hu/
+node	14280904455	AnVa		47.4997876	19.0604419	hotel				https://anva-house.budapesthotelsandrates.com/
+way	24038133	Four Seasons Gresham Palace		47.4998029	19.0480404	hotel		Four Seasons	Sas Magyarország Vagyonkezelő Kft.	
+way	24050409	InterContinental		47.4973022	19.0478741	hotel		InterContinental		
+way	24051069	"Al Habtoor Palace, Budapest"		47.4972975	19.0532922	hotel			Al Habtoor Group	
+way	24051070	Kempinski Hotel Corvinus Budapest		47.4970472	19.0523428	hotel		Kempinski	Kempinski Hotel Bp. Zrt.	
+way	24052086	Mamaison Hotel Chain Bridge Budapest		47.4996765	19.0488625	hotel	4			
+way	24157739	Radisson Collection Hotel		47.5015057	19.0535968	hotel		Radisson Collection		
+way	24324025	Párizsi udvar	Parisian Court Hotel Budapest	47.4933738	19.0547799	hotel	5	Hyatt		
+way	24350598	BasiliQ Hotel		47.5008751	19.0516905	hotel				
+way	25074294	Mercure Korona Hotel		47.4899528	19.0611239	hotel		Mercure	Accor-Pannonia Hotels Zrt.	
+way	25216286	W Budapest		47.5019512	19.0593265	hotel		W Hotels	Marriott	
+way	25401171	Hotel Benczúr		47.5111364	19.0763419	hotel	3			
+way	32548774	Hotel Rubin		47.4720897	19.0200695	hotel				
+way	47425748	Thermal Margaret Island		47.5336806	19.0523981	hotel	4	Ensana		
+way	48656415	Star City Hotel		47.5048114	19.0810983	hotel				http://www.starhotel.hu/
+way	87443003	Holiday Inn		47.4515788	18.9613733	hotel		Holiday Inn		
+way	104205092	Hotel Ventura		47.4540898	19.0387921	hostel	3	Gerand Hotels		http://www.gerandhotels.hu/index.php?oldal=ventura
+way	105935020	Baross Hotel		47.5007110	19.0811656	hotel	3			
+way	120935846	Staff House		47.5652449	19.0970132	hostel			STAFF HOUSE Zrt.	
+way	129087060	Hotel Mediterran		47.4860471	19.0253124	hotel				
+way	131234505	Hotel Memories Oldtown		47.4895991	19.0605898	hotel				
+way	132975792	NH Budapest City		47.5129674	19.0521163	hotel	4			https://www.nh-hotels.com/hotel/nh-budapest-city
+way	135038940	Hotel Omnibusz		47.4724498	19.1079715	hotel	3			
+way	141299329	Vitta Hotel Superior Budapest		47.5663856	19.0798908	hotel	3			
+way	145114533	Radisson Blu Béke Hotel		47.5084283	19.0598606	hotel	4	Radisson Blu	Danubius Hotels	
+way	147186099	Adler		47.4612135	18.9653440	hotel				
+way	151721400	Berlin		47.4477450	19.0468176	hotel				
+way	163868898	Grand Slam Panzió		47.4454842	19.0073330	hostel				
+way	170168546	Novotel		47.4884873	19.0233793	hotel		Novotel	Accor Hotels	
+way	184353798	Danubius Hotel Arena		47.5007345	19.1040837	hotel				
+way	186633028	Mystery Hotel Budapest		47.5107790	19.0618013	hotel				
+way	187633080	Six Inn Hotel		47.5099466	19.0662129	hotel	3			
+way	191243451	Marriott	Marriott Hotel	47.4948615	19.0494709	hotel	5	Marriott		
+way	192355320	Expo Tower		47.4934687	19.1218159	hotel	4	Mellow Mood Hotels		
+way	196947632	Grand Margaret Island		47.5324182	19.0526963	hotel	4	Ensana		
+way	199755856	Cortile Hotel		47.5051314	19.0564224	hotel				https://cortilebudapesthotel.com/hu/
+way	207507463	Green Hotel		47.5007554	19.1105426	hotel	4			
+way	208134097	Munkásszálló		47.5518576	19.0352968	hostel				
+way	227211897	Mercure Budapest City Center		47.4942050	19.0529839	hotel		Mercure	Accor-Pannonia Hotels Zrt.	
+way	231411558	Ibis Budapest Citysouth Hotel		47.4643677	19.1259545	hotel	3	Ibis	Ibis	https://all.accor.com/hotel/1682/index.en.shtml
+way	234715495	ibis Budapest Centrum		47.4886798	19.0624357	hotel		Ibis	ibis Hotels	http://www.ibis.com/gb/hotel-2078-ibis-budapest-centrum/index.shtml
+way	234727985	Danubius Hotel Hélia		47.5255825	19.0556646	hotel				https://www.danubiushotels.com/hu/szallodak-budapest/danubius-hotel-helia
+way	238804350	Kálvin House		47.4879458	19.0604362	hotel			Continental Group	
+way	238896339	Prestige Hotel		47.5008978	19.0484755	hotel			Avantgarde Hotel Kft.	
+way	243102047	Hotel Ottofiori		47.4896047	19.0602224	hotel				
+way	246683025	Triplem Hotel		47.4891473	19.0820091	hotel	4			http://triplemhotel.hu/
+way	247674203	Estilo Fashion Hotel		47.4880043	19.0570710	hotel	4			http://estilohotelbudapest.com/
+way	247674224	Residence Baron		47.4880411	19.0577886	hotel	4			http://residencebaron.hu/
+way	247674238	Boutique Hotel Budapest		47.4881982	19.0578357	hotel	4		Araz Kereskedelmi es Szolgáltató Kft.	
+way	247674281	Peregrinus Hotel		47.4890032	19.0572682	hotel	3		ELTE	http://www.peregrinushotel.hu/
+way	248706993	The Three Corners Hotel Art		47.4897992	19.0595979	hotel	3		Királyi Art Kft.	
+way	249497550	Hotel Castle Garden		47.5057283	19.0287675	hotel	4			
+way	249666308	Hotel Regnum Residence		47.5107569	19.0372385	hotel	4		"Hotel Regnum Kft. (székhelye: 1027 Budapest, Ganz utca 8.)"	
+way	249666835	Novotel Budapest Danube		47.5083871	19.0387174	hotel	4	Novotel		https://www.accorhotels.com/
+way	250065359	Park Plaza Budapest		47.5028098	19.0394296	hotel		Park Plaza		
+way	250070591	Buda Castle Fashion Hotel		47.5020518	19.0311841	hotel				
+way	250074529	Lánchíd 19 Design Hotel		47.4964482	19.0414698	hotel				
+way	250255593	Hotel Charles		47.4887815	19.0314591	hotel	3			
+way	250597901	B&B Hotel Budapest City		47.4803086	19.0684289	hotel		B&B Hotels	B&B Hotels	
+way	250597928	Ibis Styles Budapest City		47.4791113	19.0685281	hotel	3	Ibis Styles		
+way	250889347	Diamond Hill		47.5084127	19.0096485	hotel				
+way	252010348	Gold Hotel Buda		47.4887716	19.0344687	hotel				
+way	252115269	Hotel Kristal		47.4872809	19.0272837	hotel				
+way	254091899	Escala Hotel & Suites		47.4846925	19.0756719	hotel	4			
+way	254154926	Dean's Home		47.4815554	19.0784681	hotel				
+way	254457430	Hunguest Hotel Platánus		47.4788868	19.1004751	hotel	3			
+way	254495328	Tulip Inn		47.4774222	19.0945729	hotel	3			http://www.tulipinnbudapestmillennium.com/
+way	255974874	Meininger Budapest Great Market Hall		47.4859166	19.0601824	hotel		Meininger	Meininger	
+way	256942982	Híd Szálló		47.5046695	19.1041238	hotel				
+way	257209464	Lion’s Garden Hotel		47.5057557	19.0903404	hotel	4			http://www.lions-garden.com/
+way	257909949	Mamaison Hotel Andrássy		47.5119845	19.0745577	hotel				
+way	258056744	RES City Residence Budapest		47.5078085	19.0711565	hotel	3			
+way	258056748	Smart Hotel Budapest		47.5076342	19.0718723	hotel	4			
+way	258500044	Bo33 Hotel Family & Suites****	Bo33 Hotel Family & Suites****	47.5015785	19.0732488	hotel	4			https://www.bo33hotelbudapest.com/
+way	258717369	Up Hotel		47.5051526	19.0674614	hotel				
+way	259010950	D52		47.4975937	19.0680180	hotel				
+way	259165329	Wonder		47.5005515	19.0601578	hotel				
+way	260558439	Hotel Bristol Budapest		47.4985281	19.0774423	hotel			Accent Hotels	
+way	260566437	EST Grand Hotel Savoy Budapest		47.4949268	19.0715262	hotel	4		EST Hotels and Residences	
+way	261185907	Hotel City Inn		47.4849544	19.0742062	hotel	4			
+way	261301357	Bliss Hotel & Wellness		47.5052888	19.0600674	hotel				https://blisshotelbudapest.com/
+way	261301465	Hilton Garden Inn Budapest City Centre		47.5023798	19.0566509	hotel	4	Hilton Garden Inn	Hilton	https://www.hilton.com/en/hotels/budccgi-hilton-garden-inn-budapest-city-centre/
+way	261301503	Hampton by Hilton Budapest City Centre		47.5041346	19.0560129	hotel	3	Hampton	Hilton	
+way	261301584	Hotel Moments Budapest		47.5010643	19.0564476	hotel	4		Continental Group	
+way	261352609	Corvin		47.4831664	19.0704075	hotel	3			
+way	261352612	Hotel Thomas		47.4825871	19.0713028	hotel	3	Novum Hotels		
+way	261352616	Sissi		47.4832928	19.0705091	hotel	3			
+way	261707396	Ferenc Hotel		47.4918815	19.1094376	hotel				
+way	261801165	Courtyard Budapest City Center		47.4958967	19.0701622	hotel	4	Courtyard		
+way	261802926	You Hotel		47.4940117	19.0652458	hotel				
+way	261911722	Marmara Hotel		47.5105925	19.0533062	hotel				
+way	264564798	H2 Hotel Budapest		47.5020582	19.0514345	hotel				
+way	264897707	Bohem Art Hotel		47.4885249	19.0554435	hotel	4		Bohem Art Hotel Kft.	
+way	268153659	Hotel Tiliana		47.5212828	18.9734008	hotel	4			
+way	268347271	Hotel Rose City		47.5137363	19.0308155	hotel				
+way	271007256	Hotel Belvedere Budapest		47.5088540	19.0191948	hotel				
+way	285853324	Mogyoródi Hostel		47.5045981	19.1119057	hotel				
+way	292626390	Roombach Hotel		47.4977402	19.0581327	hotel				
+way	293068529	Hotel Clark		47.4986057	19.0400191	hotel	5			
+way	313401651	Jagello Hotel		47.4897632	19.0171681	hotel	3			
+way	314335688	Danubius Hotel Astoria		47.4937724	19.0595899	hotel	4		Danubius Hotels Group	
+way	316027464	Danubius Hotel Erzsébet		47.4917298	19.0572443	hotel	3		Danubius Zrt.	
+way	318787440	Sas Club Hotel		47.4780743	18.9889439	hotel				http://sasclubhotel.hu/
+way	321411116	"Hotel Molnár ""A"" épület"		47.4879199	18.9918160	hotel				
+way	321411133	"Hotel Molnár ""B"" épület"		47.4880969	18.9924425	hotel				
+way	328814847	ibis Styles Budapest Citywest Hotel		47.4672609	19.0184033	hotel	3	Ibis Styles	Accor Hotels	
+way	332339014	Kocsis Szálló		47.4658345	19.0392255	hostel			Budapesti Módszertani Szociális Központ	
+way	341376485	Hotel Pest inn		47.4715908	19.1132465	hotel	3			
+way	343982865	Pázmány Péter Kollégium		47.4743193	19.1160418	hostel			Pázmány Péter Katolikus Egyetem	
+way	365613169	Premium APTS		47.5311052	19.0830119	hotel				https://premiumapts.hu/
+way	378357984	Canada Hotel Budapest		47.4566753	19.0859005	hotel	3			
+way	401027880	Shantee House		47.4737676	19.0305349	hostel				
+way	404544198	Hotel Zugló		47.5215334	19.1036962	hotel				http://zuglohotel.hu/
+way	417649075	Olympos Panzio		47.4639754	18.9802752	hotel				
+way	449169719	Sarokház Panzió		47.4214055	19.2388532	hotel				https://www.sarokhazpanzio.hu/
+way	464610640	Hotel Luna ***		47.4435955	19.0424579	hotel	3			https://www.hotelluna.hu/
+way	470202873	Musztáng Vendéglő és Panzió		47.4487764	18.9732210	hotel			Musztáng 2000 Bt.	
+way	485496716	Ecostel Dolgozói Szállások		47.4431963	18.9782491	hostel				
+way	492211317	ibis Styles - Budapest Airport Hotel		47.4302402	19.2623826	hotel	3	Ibis Styles	Accor Hotels	
+way	503355771	Hotel Anna		47.4711540	19.0235677	hotel				
+way	527246118	Garden Inn Budapest		47.5249350	19.1131945	hotel				
+way	555788052	Orion Hotel		47.4923906	19.0442083	hotel	3			
+way	626751286	Grand Jules Boat Hotel		47.5136349	19.0405210	hotel				https://www.grandjules.com
+way	654213206	Uhu Villa		47.5351335	18.9864707	hotel	4			https://budapest.cylex.hu/ceg-info/uhu-villa---budapest-16734.html
+way	686815032	La Prima Fashion Hotel		47.4935060	19.0522513	hotel			MMG Hotels Kft.	
+way	697856934	Hotel Griff Junior		47.4689245	19.0266714	hotel	1		Gerand	
+way	718342852	Panna Panzió		47.4388560	19.1270416	hotel				
+way	732642182	The Three Corners Lifestyle Hotel		47.4850486	19.0672159	hotel				https://threecorners.com/hotels/lifestyle-hotel/
+way	760821032			47.4712746	19.0233662	hotel				
+way	763736063	Eurostars Danube Budapest		47.4972994	19.0579405	hotel	4	Eurostars Hotel Company	Eurostars Hotel Company SL	https://www.eurostarsdanubebudapest.com/
+way	767598273	Classic Hotel		47.4797224	19.0250373	hotel	3			
+way	779713124	Szentmihályi Apartman		47.5585642	19.1230056	hotel				
+way	779966978	Mini Panzió		47.5608193	19.1235340	hotel				
+way	816875614	Hotel Palota City		47.5629624	19.1249732	hotel	3			
+way	834951571	Color Panzió		47.5379292	19.1216701	hotel				http://colorpanzio.hu
+way	1067190868	A Villa		47.4380677	19.0172456	hotel				https://www.rentvillabudapest.com/
+way	1205397890	Radisson Hotel Budapest BudaPart		47.4684209	19.0551433	hotel		Radisson		
+way	1214011264			47.4906675	19.0424097	hotel				
+way	1224942935	Hotel Foldana		47.5237919	19.0841619	hotel	4			
+way	1267688599	Anantara New York Palace Budapest		47.4986033	19.0708134	hotel	5	The Dedica Anthology		
+way	1268256299	Alta Moda Hotel		47.4885738	19.0565651	hotel	4		MMG Hotels Kft.	
+way	1268256306	Hotel Vision Budapest		47.4902981	19.0531067	hotel	4			
+way	1285215308	"Dorothea Hotel, Budapest, Autograph Collection"		47.4967006	19.0492460	hotel	5	Marriott	Marriott	
+way	1300117324	Eurostars Palazzo Zichy		47.4901440	19.0689388	hotel	4	Eurostars Hotel Company	Eurostars Hotels	
+way	1317453263	Áurea Ana Palace Hotel		47.5038184	19.0465108	hotel	5			
+way	1335586339	NH Collection Budapest City Center		47.4981409	19.0715200	hotel				
+way	1350758784	Hotel Bara Budapest		47.4878526	19.0297805	hotel				
+way	1351798578	Adina Apartment Hotel Budapest		47.5193649	19.0566131	hotel		Adina Hotels		
+way	1353334586	The Amberlyn Suite Hotel		47.4922309	19.0702147	hotel				
+way	1369881944	JO&JOE		47.4971045	19.0680752	hotel		JO&JOE		
+way	1393881523	TRIBE Budapest Airport Hotel		47.4306802	19.2626334	hotel	4	TRIBE	Accor Hotels	
+way	1413096767	Hotel Museum Budapest		47.4937522	19.0633423	hotel	4			
+relation	13067	Hotel Central Basilica		47.4999864	19.0529721	hotel				http://www.centralbasilicahotelbudapest.com/
+relation	20082	Continental Hotel Budapest		47.4971101	19.0669640	hotel	4		Zara	https://continentalhotelbudapest.com/
+relation	937002	D8 Hotel		47.4976843	19.0488570	hotel				
+relation	1667500	Verdi Budapest Aquincum		47.5376859	19.0461120	hotel	5			
+relation	2194942	easyHotel Budapest Oktogon		47.5074409	19.0630509	hotel		easyHotel		https://www.easyhotel.com/
+relation	3306962	Exe Budapest Center		47.4935163	19.0583261	hotel	4	Exe Hotels	Hunnia Hotels Kft.	
+relation	3361249	St. George Residence		47.5032927	19.0317649	hotel				
+relation	3468919	Hungaria City Center		47.4997092	19.0787463	hotel	4		Danubius Hotels	
+relation	3474931	ibis Styles Budapest Center		47.4980668	19.0724485	hotel		Ibis Styles	Mercure	https://all.accor.com/hotel/2997/index.en.shtml
+relation	3508327	K+K Opera Hotel		47.5023863	19.0575550	hotel				https://www.kkhotels.com/en/home/budapest/
+relation	3508346	12 Revay Hotel		47.5016267	19.0563557	hotel	3			http://12revay.com/
+relation	4863584	Hotel Oswaldo		47.4329528	19.1060370	hotel				https://www.hoteloswaldo.hu/
+relation	5647453	Hilton Budapest		47.5027587	19.0337097	hotel	5	Hilton	Hilton Hotels	
+relation	7108327	Heroes' Square Hotel		47.5158589	19.0747055	hotel		Ibis		https://all.accor.com/hotel/6564/index.en.shtml
+relation	10215926	Monastery Boutique Hotel Budapest		47.5018477	19.0384412	hotel	4		Accent hotels	
+relation	13845306	Óbudai Diák Hotel		47.5518131	19.0345647	hostel				https://odh.hu/
+relation	18224460	Kozmo Hotel Suites & Spa		47.4902790	19.0744856	hotel				
+relation	18357055	IntercityHotel Budapest		47.4992000	19.0815268	hotel		Intercity Hotel		

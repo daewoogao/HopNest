@@ -1,0 +1,87 @@
+[
+  {
+    "id": "lm1",
+    "name": "Millennium Underground Railway",
+    "jp": "Millenniumi Földalatti Vasút",
+    "color": "#FFD800",
+    "code": "M1",
+    "stations": [
+      ["Vörösmarty tér",47.4967,19.0505],
+      ["Deák Ferenc tér",47.4978,19.054],
+      ["Bajcsy-Zsilinszky út",47.5,19.0555],
+      ["Opera",47.5024,19.0591],
+      ["Oktogon",47.505,19.0631],
+      ["Vörösmarty utca",47.5073,19.0664],
+      ["Kodály körönd",47.5093,19.0695],
+      ["Bajza utca",47.5115,19.0727],
+      ["Hősök tere",47.5143,19.0769],
+      ["Széchenyi fürdő",47.5175,19.0815],
+      ["Mexikói út",47.5196,19.0909]
+    ]
+  },
+  {
+    "id": "lm2",
+    "name": "M2",
+    "color": "#E41F18",
+    "code": "M2",
+    "stations": [
+      ["Déli pályaudvar",47.5012,19.0246],
+      ["Széll Kálmán tér",47.508,19.0269],
+      ["Batthyány tér",47.5066,19.0384],
+      ["Kossuth Lajos tér",47.5056,19.0457],
+      ["Deák Ferenc tér",47.4979,19.0536],
+      ["Astoria",47.4948,19.0627],
+      ["Blaha Lujza tér",47.4969,19.0704],
+      ["Keleti pályaudvar",47.4997,19.0831],
+      ["Puskás Ferenc Stadion",47.5002,19.1065],
+      ["Pillangó utca",47.5012,19.1205],
+      ["Örs vezér tere",47.5028,19.1353]
+    ]
+  },
+  {
+    "id": "lm3",
+    "name": "M3",
+    "color": "#005CA5",
+    "code": "M3",
+    "stations": [
+      ["Kőbánya-Kispest",47.464,19.1474],
+      ["Határ út",47.4661,19.1252],
+      ["Pöttyös utca",47.4685,19.1174],
+      ["Ecseri út",47.4711,19.1101],
+      ["Népliget",47.4755,19.0993],
+      ["Nagyvárad tér",47.4791,19.0899],
+      ["Semmelweis Klinikák",47.4836,19.0771],
+      ["Corvin-negyed",47.4856,19.071],
+      ["Kálvin tér",47.4903,19.0607],
+      ["Ferenciek tere",47.493,19.0562],
+      ["Deák Ferenc tér",47.4987,19.0545],
+      ["Arany János utca",47.5046,19.0547],
+      ["Nyugati pályaudvar",47.5117,19.057],
+      ["Lehel tér",47.5188,19.0609],
+      ["Dózsa György út",47.5254,19.0637],
+      ["Göncz Árpád városközpont",47.5333,19.0671],
+      ["Forgách utca",47.5397,19.0698],
+      ["Gyöngyösi utca",47.5496,19.0736],
+      ["Újpest-városkapu",47.5595,19.081],
+      ["Újpest-központ",47.5602,19.0914]
+    ]
+  },
+  {
+    "id": "lm4",
+    "name": "M4",
+    "color": "#4CA22F",
+    "code": "M4",
+    "stations": [
+      ["Kelenföld vasútállomás",47.4642,19.0206],
+      ["Bikás park",47.4651,19.0334],
+      ["Újbuda-központ",47.4735,19.0464],
+      ["Móricz Zsigmond körtér",47.4772,19.0476],
+      ["Szent Gellért tér – Műegyetem",47.4831,19.055],
+      ["Fővám tér",47.4863,19.0578],
+      ["Kálvin tér",47.4892,19.062],
+      ["Rákóczi tér",47.4928,19.0725],
+      ["II. János Pál pápa tér",47.4961,19.0778],
+      ["Keleti pályaudvar",47.5004,19.0817]
+    ]
+  }
+]

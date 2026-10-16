@@ -1,0 +1,139 @@
+[
+  {
+    "id": "la",
+    "name": "Línea A",
+    "color": "#1CA4CB",
+    "code": "A",
+    "stations": [
+      ["Plaza de Mayo",-34.6089,-58.3709],
+      ["Perú",-34.6086,-58.3745],
+      ["Piedras",-34.6089,-58.3785],
+      ["Lima",-34.6091,-58.3827],
+      ["Sáenz Peña",-34.6094,-58.3868],
+      ["Congreso",-34.6092,-58.3926],
+      ["Alberti",-34.6099,-58.4009],
+      ["Plaza Miserere",-34.6099,-58.4064],
+      ["Loria",-34.6108,-58.4155],
+      ["Castro Barros",-34.6117,-58.4215],
+      ["Río de Janeiro",-34.6153,-58.4295],
+      ["Acoyte",-34.6181,-58.436],
+      ["Primera Junta",-34.6206,-58.4414],
+      ["Puán",-34.6236,-58.4486],
+      ["Carabobo",-34.6265,-58.4561],
+      ["San José de Flores",-34.6291,-58.4635],
+      ["San Pedrito",-34.6311,-58.4708]
+    ]
+  },
+  {
+    "id": "lb",
+    "name": "Línea B",
+    "color": "#C20924",
+    "code": "B",
+    "stations": [
+      ["Leandro N. Alem",-34.603,-58.3694],
+      ["Florida",-34.6034,-58.3746],
+      ["Carlos Pellegrini",-34.6037,-58.3813],
+      ["Uruguay",-34.6041,-58.3871],
+      ["Callao",-34.6045,-58.3927],
+      ["Pasteur - AMIA",-34.6047,-58.3994],
+      ["Pueyrredón",-34.6046,-58.4055],
+      ["Carlos Gardel",-34.6041,-58.4113],
+      ["Medrano - Almagro",-34.6032,-58.4208],
+      ["Ángel Gallardo",-34.6022,-58.4311],
+      ["Malabia - Osvaldo Pugliese",-34.599,-58.4397],
+      ["Dorrego",-34.5918,-58.4475],
+      ["Federico Lacroze",-34.5872,-58.4552],
+      ["Tronador - Villa Ortúzar",-34.5841,-58.4664],
+      ["Los Incas - Parque Chas",-34.5812,-58.4744],
+      ["Echeverría",-34.578,-58.4808],
+      ["Juan Manuel de Rosas",-34.574,-58.4868]
+    ]
+  },
+  {
+    "id": "lc",
+    "name": "Línea C",
+    "color": "#003EA1",
+    "code": "C",
+    "stations": [
+      ["Retiro",-34.5914,-58.3742],
+      ["General San Martín",-34.595,-58.3779],
+      ["Lavalle",-34.6017,-58.3781],
+      ["Diagonal Norte",-34.6048,-58.3793],
+      ["Avenida de Mayo",-34.609,-58.3806],
+      ["Moreno",-34.6124,-58.3805],
+      ["Independencia",-34.6181,-58.3801],
+      ["San Juan",-34.6225,-58.3799],
+      ["Constitución",-34.6277,-58.3811]
+    ]
+  },
+  {
+    "id": "ld",
+    "name": "Línea D",
+    "color": "#217861",
+    "code": "D",
+    "stations": [
+      ["Catedral",-34.6077,-58.374],
+      ["9 de Julio",-34.6044,-58.3803],
+      ["Tribunales - Teatro Colón",-34.6015,-58.3849],
+      ["Callao - Raquel Liberman",-34.5997,-58.3927],
+      ["Facultad de Medicina",-34.5998,-58.3977],
+      ["Pueyrredón",-34.5949,-58.4032],
+      ["Agüero",-34.5917,-58.4071],
+      ["Bulnes",-34.5882,-58.4113],
+      ["Scalabrini Ortiz",-34.5852,-58.4159],
+      ["Plaza Italia",-34.5815,-58.4211],
+      ["Palermo",-34.5785,-58.4257],
+      ["Ministro Carranza",-34.5752,-58.4347],
+      ["Olleros",-34.5703,-58.4444],
+      ["José Hernández",-34.5663,-58.452],
+      ["Juramento",-34.5625,-58.4564],
+      ["Congreso de Tucumán",-34.5558,-58.4623]
+    ]
+  },
+  {
+    "id": "le",
+    "name": "Línea E",
+    "color": "#6B297E",
+    "code": "E",
+    "stations": [
+      ["Plaza de los Virreyes - Eva Perón",-34.6429,-58.4617],
+      ["Varela",-34.6398,-58.458],
+      ["Medalla Milagrosa",-34.6363,-58.4502],
+      ["Emilio Mitre",-34.6315,-58.4424],
+      ["José María Moreno",-34.628,-58.4339],
+      ["Avenida La Plata",-34.6269,-58.4264],
+      ["Boedo",-34.6254,-58.4161],
+      ["General Urquiza",-34.6247,-58.4098],
+      ["Jujuy",-34.6238,-58.4028],
+      ["Pichincha",-34.6232,-58.3976],
+      ["Entre Ríos - Rodolfo Walsh",-34.6227,-58.3915],
+      ["San José",-34.6223,-58.3852],
+      ["Independencia - Santa Mama Antula",-34.6181,-58.3815],
+      ["Belgrano",-34.613,-58.3777],
+      ["Bolívar",-34.6097,-58.3741],
+      ["Correo Central",-34.6037,-58.3703],
+      ["Catalinas",-34.5965,-58.3722],
+      ["Retiro",-34.592,-58.3766]
+    ]
+  },
+  {
+    "id": "lh",
+    "name": "Línea H",
+    "color": "#F4CC21",
+    "code": "H",
+    "stations": [
+      ["Facultad de Derecho - Julieta Lanteri",-34.5831,-58.391],
+      ["Las Heras",-34.5875,-58.3972],
+      ["Santa Fe - Carlos Jáuregui",-34.5947,-58.4024],
+      ["Córdoba",-34.5992,-58.4039],
+      ["Corrientes",-34.6041,-58.4053],
+      ["Once - 30 de Diciembre",-34.6092,-58.406],
+      ["Venezuela",-34.6152,-58.4047],
+      ["Humberto I",-34.6231,-58.4023],
+      ["Inclán-Mezquita Al Ahmad",-34.6293,-58.401],
+      ["Caseros",-34.6354,-58.399],
+      ["Parque Patricios",-34.6385,-58.4063],
+      ["Hospitales",-34.6417,-58.4126]
+    ]
+  }
+]

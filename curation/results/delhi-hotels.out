@@ -1,0 +1,368 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	308894056	The Ambassador		28.6017391	77.2288460	hotel			Vivanta by Taj	https://www.vivantabytaj.com/Ambassador-New-Delhi/Overview.html
+node	438040050	"Radisson Blu Plaza Hotel,Delhi Airport"		28.5431492	77.1195279	hotel		Radisson Blu	Radisson	
+node	655305904	Parkland Hotel		28.5672888	77.2281718	hotel				
+node	821201866	Vishal Residency Hotel		28.5426758	77.1190259	hotel				
+node	928488601	Yatri Guesthouse		28.6422845	77.2053386	hotel				
+node	928550280	Hotel Metropolis		28.6407045	77.2105994	hotel				
+node	956194764	Hotel Tara Palace		28.6534876	77.2345124	hotel				
+node	974363115	Star Paradise		28.6410897	77.2156719	hotel				
+node	1184434816	Vivek		28.6410436	77.2126750	hotel				
+node	1376268076	Vishal		28.6409016	77.2118997	hotel				
+node	1376268077	Hare Krishna Guest House		28.6409675	77.2121571	hotel				http://www.hotelharekrishna.com/
+node	1376268079	Anoop		28.6409297	77.2121018	hotel				
+node	1483256400	Radisson Blu Marina Hotel		28.6339659	77.2171659	hotel	4	Radisson	Radisson Hotels	https://www.radissonblu.com/en/marinahotel-newdelhi?s_cid=os.apac-IN-blu-INDNEDL-gmb
+node	1534482776	Hotel Florence		28.6518872	77.1919180	hotel				
+node	1556466157	Imperial Hotel		28.6252830	77.2183628	hotel				
+node	1669850556	Hotel Krishna		28.6459152	77.2146894	hotel				
+node	1717723757	Fraser Suites		28.5940973	77.2990180	hotel				
+node	1794027306	Imperial Villa		28.5658144	77.2481626	hotel				
+node	1940318530	Gushi International		28.6416237	77.2133024	hotel				
+node	1940318563	Rak International		28.6416783	77.2133717	hotel				
+node	1940318566	Sapna		28.6406194	77.2110410	hotel				
+node	2235501039	Ajanta		28.6457798	77.2158487	hotel				https://www.ajantahotel.com/
+node	2327524028	Wingflow Mansion		28.6323972	77.2172136	hotel				
+node	2416119464	IRCTC-Ginger Rail Yatri Niwas		28.6444996	77.2226902	hotel				
+node	2489452021	Skyview Hostel		28.6408933	77.2151633	hostel				
+node	2503495534	Uppal International		28.6464415	77.2133390	hotel				
+node	2566844433	sunstar heights		28.6452390	77.1834003	hotel				
+node	2569702112	Cottage Yes Please		28.6410109	77.2104394	hotel				
+node	2654011317	Sri Vinayak		28.6459004	77.2177066	hotel				
+node	2654012113	Airport City		28.5466864	77.1264606	hotel				
+node	2749398249	Good Times		28.6464716	77.1936868	hotel				
+node	2803462741	b nineteen		28.5911807	77.2521566	hotel				https://bnineteen.com/
+node	2916265014	Hotel Namaskar		28.6418664	77.2147421	hotel				
+node	2959083272	Hotel Arina Inn		28.6414568	77.2414435	hotel				
+node	3239523394	New Delhi City Centre		28.6456061	77.2158483	hotel				
+node	3269379682	Raj's Cozy Inn		28.6421194	77.2149507	hotel				
+node	3269399261	Sterling Inn		28.6421683	77.2150151	hotel				
+node	3269399262	Glow Inn		28.6421818	77.2149252	hotel				
+node	3269401361	Rajmahal Inn		28.6422130	77.2147442	hotel				
+node	3269439134	Gold Regency		28.6415698	77.2169879	hotel				
+node	3269441161	Satyam		28.6405822	77.2108389	hotel				
+node	3269450788	Aman International		28.6414356	77.2160960	hotel				
+node	3269452718	Guruvas Inn		28.6415074	77.2161202	hotel				
+node	3304173416	Hotel Durga International Dx		28.6445778	77.2152819	hotel			Hotel Durga International Dx	http://www.hoteldurgainternational.co.in
+node	3558172051	Hotel Krishna Deluxe		28.6458875	77.2150552	hotel				
+node	3698521844	Stops Hostel Delhi		28.6409405	77.2387325	hostel				http://www.stopshostels.com/
+node	3813669622	Select Hotel		28.6308041	77.2244524	hotel				
+node	3813671359	Hotel Alka Annexe		28.6320965	77.2225885	hotel				
+node	3813673635	Holiday Inn Hotels and Resorts		28.6312552	77.2209768	hotel		Holiday Inn		
+node	3912109223	Hotel Lal's Haveli		28.6459700	77.2112119	hotel				http://hotellalhaveli.com
+node	3947736174			28.6490936	77.2170457	hotel				
+node	4018089689	Hotel Grand Park Inn		28.6469530	77.1958002	hotel				
+node	4061081497	Hotel City Star		28.6447365	77.2149230	hotel				https://www.hotel-citystar.com/
+node	4076663723	White House		28.6467605	77.2130323	hotel				
+node	4076670006	Shell Deluxe		28.6467940	77.2128902	hotel				
+node	4101512398	Amax Inn		28.6467628	77.2135529	hotel				http://www.hotelamax.com/
+node	4109950994	Hotel S&b East Inn		28.6444725	77.1763258	hotel				
+node	4117019216	Bloomrooms		28.6455153	77.2177757	hotel				http://bloomrooms.com/hotels-railwayst.php
+node	4208743593	Maharaja Residency 		28.6369570	77.2850794	hotel				https://www.maharajaresidency.com/
+node	4211994090	Hotel City Heights		28.6410598	77.2143437	hotel				
+node	4260460991	the spot		28.6418257	77.2147026	hostel				
+node	4296847910	Jugaad Hostel		28.5653955	77.1856936	hostel				https://www.jugaadhostels.com/
+node	4297587289	RS.PG		28.7019873	77.2054678	hostel				
+node	4300840035	Smyle Inn		28.6416911	77.2147016	hotel	1			https://www.smyleinn.com
+node	4303021583	Shangri-La's Eros Hotel		28.6210244	77.2178611	hotel				https://www.shangri-la.com/newdelhi/erosshangrila/
+node	4305400489	the spot		28.6417585	77.2152429	hotel				www.hotelthespot.in
+node	4338104611	HOTEL PALACE HEIGHTS		28.6335783	77.2212231	hotel	3			
+node	4364332487	Backpacker Panda Delhi		28.6403218	77.2102182	hostel			Backpacker Panda	https://backpackerpanda.com
+node	4384729790	Hotel Sunstar Grand	Hotel Sunstar Grand	28.6462138	77.1841285	hotel				
+node	4421142389	Ranjit Nagar		28.6449745	77.1633883	hostel				
+node	4435650390	Metropolis Guest House	Metropolis Guest House	28.6399645	77.2100934	hotel				
+node	4505472993	Hotel Arch	Hotel Arch	28.5492941	77.1285424	hotel	3			https://www.hotelarch.co.in/
+node	4508717494	Kiran Hotel		28.6414626	77.2164508	hotel				
+node	4559353989	ricky Dx	ricky Dx	28.6424915	77.2126401	hostel				
+node	4570798689	Hridey Inn	Hridey Inn	28.6407431	77.2123118	hotel				
+node	4588959990	Livasa Inn	Livasa Inn	28.6459000	77.1832113	hotel				
+node	4641398181	Holiday Inn		28.5904686	77.2983998	hotel				
+node	4641398182	क्राउन प्लाज़ा	Crowne Plaza New Delhi Mayur Vihar Noida	28.5900918	77.2979063	hotel		Crowne Plaza by IHG		https://www.ihg.com/crowneplaza/hotels/us/en/new-delhi/deldd/hoteldetail
+node	4690513890	hotel Anupam palace	hotel Anupam palace	28.5472586	77.1261787	hotel				
+node	4704650306	cosmo	cosmo	28.6458511	77.1832931	hotel				
+node	4711593889	You and Me	You and Me	28.6414075	77.2165842	hotel				
+node	4720084490	Sapphire Inn Dx 379	Sapphire Inn Dx 379	28.6419316	77.2171017	hotel				
+node	4721475589	Usmanpur home	Usmanpur home	28.6838546	77.2560051	hostel				
+node	4759508059	The Lalit New Delhi	The Lalit New Delhi	28.6314643	77.2271911	hotel				
+node	4793870823	Zostel	Zostel	28.6456505	77.2174040	hostel		Zostel		https://www.zostel.com/zostel/delhi/delhi-dlhh524
+node	4849657023	Hotel SP	Hotel SP	28.6521278	77.1943584	hotel				
+node	4858070723	Devna Bed & breakfast	Devna Bed & breakfast	28.6050274	77.2412834	hotel				
+node	4859388622	Shorout villa	Shorout villa	28.5647596	77.1914303	hotel				
+node	4893145421	Parth Palace	Parth Palace	28.6409796	77.2151659	hotel				
+node	4972011521	Hotel Singh Sons	Hotel Singh Sons	28.6467365	77.1835662	hotel				
+node	5076890226	Cottage yes please	Cottage yes please	28.6410158	77.2102394	hostel				
+node	5076890324	Cottage yes please	Cottage yes please	28.6410349	77.2102500	hostel				
+node	5121928121			28.5755230	77.2621515	hotel				
+node	5232339851	Aaradhna - Senior Citizen's Home for Women		28.6235853	77.2369440	hostel				
+node	5235659422	OYO 7684 Hotel Repose Villa		28.6434615	77.2115005	hotel		OYO		
+node	5253278723	hindustan by backpackers		28.6422691	77.2116590	hostel				
+node	5277013023	Hotel Moon Palace dx		28.6417169	77.2132653	hotel				
+node	5306242322	Shanti Palace		28.5491086	77.1275599	hotel				
+node	5345531686	The Janpath Hotel		28.6217589	77.2184932	hotel				
+node	5346652925	Hotel		28.6539573	77.1913384	hostel				
+node	5348555758	Hotel Vintage Inn		28.6418295	77.2144552	hotel				
+node	5351323421	International Inn		28.5499040	77.1284921	hotel				
+node	5389380921	Tashi		28.6419034	77.2103116	hotel				
+node	5395035823	Hotel Delhi 37		28.5501016	77.1289221	hotel				
+node	5420250021	Hotel India International Sitare - correct location!!		28.6439885	77.2102049	hotel				
+node	5425860622	Hotel ramraj deluxe		28.6463198	77.2141943	hotel				
+node	5429996021	Hotel Clark International		28.6492374	77.1882461	hotel				
+node	5450135022			28.6403366	77.2094376	hotel				
+node	5455135888	Jodhpur Officers' Hostel		28.6093551	77.2233609	hostel				
+node	5488627654	Backpackers Heaven New King		28.6407337	77.2130890	hostel				
+node	5521986655	"76, Friends Colony"		28.5700827	77.2571343	hotel				
+node	5521986656	The Manor		28.5704573	77.2568500	hotel				
+node	5630851424	Yes Please Guest House		28.6405886	77.2126900	hotel				
+node	5634525781	Jaypee Siddharth		28.6424826	77.1755884	hotel				
+node	5648625021			28.6450395	77.2138161	hotel				
+node	5699933523	Hotel asian		28.5484213	77.1277850	hostel				
+node	5706235123	Hotel Perfect		28.6456337	77.1876083	hotel				https://www.hotelperfect.co.in/
+node	5739266822			28.6435611	77.2113187	hotel				
+node	5747185621	Hotel Bella Vista	Hotel Bella Vista	28.6405914	77.2086727	hotel				
+node	5783654364	J's Inn		28.5651374	77.1607594	hotel				
+node	5834157600	Golden Grand		28.6475007	77.1657962	hotel				
+node	5834159387	Regent Grand		28.6431542	77.1731025	hotel				
+node	5839453489	Uttarakhand Sadan		28.5833866	77.1903464	hotel				http://rc.uk.gov.in/sadan-niwas.php
+node	5839456786	अरुणाचल हाउस	Arunachal House	28.5838774	77.1888337	hotel				
+node	5841373585	The Royal Plaza		28.6216848	77.2170271	hotel				https://www.hoteltheroyalplaza.com/
+node	5867063885			28.6410969	77.2094428	hotel				
+node	5885157385	Hotel Ashoka Palace		28.6461431	77.2136027	hotel				
+node	5978006155	Hotel Sun International		28.6459101	77.2158549	hotel	3			
+node	5986070085	ridge maidens		28.6461835	77.1970234	hostel				
+node	6047921385	Prínce Palace Deluxe		28.6403897	77.2113664	hotel				
+node	6124477820	OYO Townhouse		28.5640530	77.2498752	hotel		OYO		
+node	6153840585	Moustache Delhi	Moustache Delhi	28.5659366	77.2709541	hostel				https://moustachescapes.com/stay/backpacking-hostels/moustache-delhi/
+node	6174099514	Hotel Taj Princess		28.6457601	77.1885161	hotel				https://tajprincess.com/
+node	6178447989	Himalayan Hostel	Himalayan Hostel	28.6405712	77.2095172	hostel				
+node	6192037410	Wood Castle Hotel		28.6444688	77.1833317	hotel				https://www.woodcastledelhi.com/
+node	6225479690	Hotel La Suite		28.6423412	77.1745546	hotel				
+node	6258175363	Picasso		28.6264679	77.1352243	hotel				
+node	6261321485	Hotel CityLite 2019		28.5491998	77.1289083	hotel				
+node	6277297296	Hotel Merry Gold		28.6409145	77.2105408	hotel				
+node	6311069095	Metropolitan Express		28.5476869	77.1258178	hotel				
+node	6324610190	Airport Hotell Metropolitan Express	Metropolitan Express	28.5476848	77.1256073	hotel				
+node	6344043877	Hotel Raj Villa		28.6408602	77.2094999	hotel				
+node	6403601649	Hotel Rosette		28.6446872	77.2153832	hotel				
+node	6447831886	Mohit Guest House		28.6413569	77.2133521	hotel				
+node	6566959761	The Corus Hotel		28.6340937	77.2186621	hotel				https://www.hotelcorus.com/
+node	6705210685	Hôtel viva palace		28.5448901	77.1232405	hotel				
+node	6741707086	Hindustan Hostel By Backpackers Heaven - actual location	Hindustan Hostel By Backpackers Heaven Actual Location	28.6424676	77.2115982	hostel				
+node	6771782355	Hotel Ambica Palace		28.5686340	77.1990798	hotel	3	Ambica Palace		https://www.booking.com/hotel/in/ambica-palace-aiims-delhi-local-id-allow.en-gb.html
+node	6784497485	karon Hotel	Karon Hotel	28.5656138	77.2416422	hotel				
+node	6796490085	North Avenue Hotel	Hotel North Avenue - by Spree	28.6826945	77.2058207	hotel			Spree Hotels	https://www.spreehotels.com/
+node	6817191932	Tirupati Balaji Girls Hostel		28.6333197	77.2803943	hostel				
+node	6859420398	The Hosteller New Dehli		28.5708985	77.2599031	hostel				
+node	6901871085	Hotel Delhi Aerocity (Purple Orchid)		28.5397285	77.1173562	hotel				
+node	6908459480	Karon Hotels		28.5652763	77.2416682	hotel				
+node	6964176786	Continental Plaza or Daya Continental		28.5470823	77.1259791	hotel				
+node	6994219485	The Singh Empire		28.6445402	77.2154838	hotel				
+node	7023194885	Aromatic @ city center		28.6383447	77.2105450	hotel				
+node	7035472385	Ritz hotel		28.6453238	77.2167463	hotel				
+node	7038111685	City Backpacker Hostel		28.6398511	77.2143288	hostel				
+node	7040095087	Hotel Shandon		28.6385449	77.2102363	hotel	4		Aromatic	https://hotelshandon.com
+node	7040250686	OYO 14710 - Hotel Pallvi Palace		28.6456241	77.2174292	hotel		OYO		
+node	7108733249	Royal Residence		28.6471629	77.1877460	hotel				
+node	7193086021	Hotel Richa Palace		28.5749328	77.2390762	hotel				
+node	7389622179	"Lemon Tree Premier, Delhi Airport"		28.5516096	77.1207961	hotel				https://www.lemontreehotels.com/
+node	8615192752	Hotel The Cube Stay		28.5534224	77.0737637	hotel		THE CUBE STAY		
+node	8987572726	Oyo Flagship 77674		28.6804016	77.1967036	hotel				
+node	9209513163	Solitaire Hotel		28.6319620	77.2802101	hotel				
+node	9860208317	Major's Den		28.6410628	77.2117303	hotel				
+node	9931024817		Hotel Metropolitan	28.6458810	77.1866315	hotel				
+node	10039761917	The Grace House		28.6422478	77.2104551	hotel				
+node	10156127117	Colonel‘s Retreat 2		28.5738162	77.2359199	hotel				
+node	10231346991	Connaught Royale		28.6322817	77.2276687	hotel				
+node	10231353662	Emarald		28.6325535	77.2272428	hotel				
+node	10238057909	Silver Shine		28.6435769	77.2126052	hotel				
+node	10239774701	The Prime Balaji Deluxe		28.6452304	77.2175467	hotel	3			
+node	10569661609	Hotel Sky Rich International		28.6454752	77.1894097	hotel				
+node	10574879943	Hotel Elegant		28.6467057	77.1904595	hotel				
+node	10574897642	Hotel Paras		28.6473569	77.1892494	hotel				
+node	10576139541	Swisston Palace		28.6454247	77.1895733	hotel				
+node	10686456044	Kaushal Palace		28.6415500	77.2126352	hotel				
+node	10686468964	Le Roi Express		28.6414534	77.2135566	hotel				
+node	10731115035	Fabhotel f9		28.7003247	77.1844043	hotel				
+node	10738354605	Blue Pearl Hotel		28.6452768	77.2158468	hotel				
+node	10770594512	Comfort Lodge		28.5895183	77.2524679	hotel				
+node	10984726905			28.6419247	77.2117123	hotel				
+node	11215970326	Ambitious PG		28.6293935	77.2729733	hostel				
+node	11236741764	Joey's Hostel		28.6290980	77.2745485	hostel				
+node	11236764625	Toppers Girl's Hostel		28.6295294	77.2732740	hostel				
+node	11238427467	Solitaire Hotel and Restaurant		28.6320246	77.2800687	hotel				
+node	11244974937	Jyoti Mahal A Royal Heritage Hotel		28.6419168	77.2117830	hotel				
+node	11256638237	Hotel The Oak Plaza New Delhi		28.6455507	77.2114121	hotel				
+node	11262433605	"New Boys Hostel, JMI"		28.5657851	77.2812620	hostel				
+node	11394411631	Hotel Siddharth		28.6402270	77.2138774	hotel				
+node	11420427169	Maddonna		28.6400083	77.1827795	hotel				
+node	11592327470	Pahadganju		28.6450483	77.2133617	hostel				
+node	11696895329	HOTEL DEV PALACE		28.6886196	77.2921889	hotel				
+node	11696974281	GOVINDAM HOTEL		28.6860774	77.2976723	hotel				
+node	11755533259	Mona Grand Hotel and Banquet		28.6297079	77.2862104	hotel				
+node	11755533264	Mona International Hotel and Banquet		28.6291815	77.2862025	hotel		Fab Hotels		
+node	11795928646	Amar		28.6406162	77.2100622	hotel				
+node	11795938567	Namoh		28.6406164	77.2101574	hotel				
+node	11799184122	Hotel Bright		28.6328161	77.2227195	hotel				
+node	11818526095			28.5874109	77.1693877	hostel				
+node	11818526096			28.5874342	77.1694267	hostel				
+node	11818526097			28.5875215	77.1693876	hostel				
+node	11818538438	Prustel Living		28.5876372	77.1696319	hostel				
+node	11818538439			28.5876142	77.1695972	hostel				
+node	11818541446	South Embassy		28.5878827	77.1699773	hostel				
+node	11819120744			28.5871325	77.1705606	hostel				
+node	11824868660	Best Western		28.5751842	77.2632525	hotel				
+node	11876276881	Moydom		28.5631545	77.2689553	hotel				
+node	11882034340	Hotel Portview		28.5463554	77.1239908	hotel				
+node	11914919424	East Inn		28.6365898	77.2876065	hotel				
+node	11916123069	Emporio Hotel (formerly Excellency)		28.6441753	77.2148680	hotel				
+node	11952061880	Deventure Hotel		28.6498922	77.1617425	hotel				https://www.deventurehotel.com/
+node	11982517581	Hotel Bright		28.6328893	77.2227144	hotel				
+node	11985412775	Verandah Moonshine		28.6436747	77.2985232	hotel				
+node	12011177845	The Ashok Hotel		28.5970312	77.1957008	hotel				
+node	12052454982	Arpit Palace		28.6449876	77.1898486	hotel				
+node	12135517796	Swaran Palace		28.6462638	77.1889635	hotel				
+node	12135560003	Citi Continental		28.6467726	77.1872938	hotel				
+node	12135560005	Hotel Lucky INN		28.6465986	77.1876316	hotel				
+node	12135560007	Hotel Magic Tree		28.6465659	77.1878716	hotel				
+node	12135560705	Hotel Kashish Plaza		28.6465567	77.1875329	hotel				
+node	12135560706	Golden DX		28.6465057	77.1876219	hotel				
+node	12135560707	Goddess Acccmonodation		28.6464564	77.1876697	hotel				
+node	12135560709	Star Palace		28.6463905	77.1878717	hotel				
+node	12135560710	Nand Kartar Orchid Suites		28.6463800	77.1878917	hotel				
+node	12135564802	Grand President		28.6453682	77.1891857	hotel				
+node	12320159311	Royal Comfort		28.6460413	77.1907977	hotel				
+node	12440467190	Five Star Guest House		28.6447128	77.2401573	hotel				
+node	12440977090	Rang Mahal Hotel		28.6472128	77.2400088	hotel				
+node	12441100098	Hotel Oasis		28.6475497	77.2398592	hotel				
+node	12441100411	Wall Street		28.6460456	77.2400966	hotel				
+node	12441100412	Royal Afghan		28.6459521	77.2401008	hotel				
+node	12495429011	Happy Living Girl's PG		28.6980169	77.2059683	hostel				
+node	12574674001	Hostel S B Inn Paharganj		28.6418560	77.2148777	hostel				
+node	12595995301	होटल ग्रान्ड रिजेन्सी (महिपालपुर)	Hotel Grand Regency (Mahipalpur)	28.5371949	77.1156343	hotel				
+node	12625466404	mahesh inn near new delhi railway station		28.6423423	77.2171563	hotel				
+node	12653017516	Hotel kabli		28.5796022	77.2495693	hotel				
+node	12753521532	Dharamshala Rai Sahab Lala Lakshmi Narayan		28.6583727	77.2234784	hotel				
+node	12791943401	Bloomrooms Hotel		28.5814867	77.2395873	hotel				https://staybloom.com/
+node	12802402501	Novotel New Delhi City Centre		28.6468928	77.2064440	hotel				https://all.accor.com/hotel/6972/index.en.shtml
+node	12862174322	Baljeet Lodge		28.5666773	77.1895706	hotel				
+node	12862174325	Hotel Corporate Point		28.5675682	77.1896659	hotel				
+node	13002028016	PG For Girls		28.5635985	77.2366287	hostel				
+node	13110027605	Five Elements Hotel		28.6827472	77.2058174	hotel				
+node	13141207904	Homestay AC Dormitory		28.6668907	77.2307013	hostel				
+node	13141910149	Guruji Sweet Home Dormitory		28.6668786	77.2306336	hostel				
+node	13165169272	Dream World		28.5474511	77.1268211	hotel				
+node	13290316405	The Lodhi		28.5915262	77.2381250	hotel				https://www.thelodhi.com/
+node	13322042902	Ero by Family Hotels		28.6418866	77.2150316	hotel				
+node	13335518201	Leo		28.6433768	77.2146255	hotel				
+node	13351034606	Emblem Hotel		28.5745907	77.2638311	hotel				
+node	13358572984	Parkway Deluxe		28.6454154	77.2178155	hotel				
+node	13358572994	Church view		28.6451947	77.2165472	hotel				
+node	13358614007	Rachna Tourist Lodge		28.6456468	77.2166244	hotel				
+node	13358614012	Chanchal Continental		28.6456504	77.2169385	hotel				
+node	13366216201	Gold The Royal		28.6410327	77.2166358	hotel				
+node	13459559379	Shiv Dev		28.6456484	77.2167941	hotel				
+node	13459559395	Legend		28.6456237	77.2170566	hotel				
+node	13509898471	Chanchal Deluxe		28.6453783	77.2171698	hotel				
+node	13568852462	Shivaay Boy's PG		28.6826606	77.2011270	hostel				
+node	13573029803	Hotel Golden Key Inn		28.6831601	77.2017121	hotel				
+node	13584479268	Ashray Living		28.6838917	77.2034835	hostel				
+node	13594891201	J Residency	J Residency	28.5812684	77.2532764	hotel				
+node	13599263901	Stay Villa		28.5466870	77.1267686	hotel				
+node	13622550901			28.6450839	77.2158217	hotel				
+node	13640918856	RTS HOTEL & SPA		28.5492296	77.1277563	hotel				
+node	13645264754	Nivedita Niwas		28.6809714	77.2074027	hostel				
+node	13645264794	Prime Home Stays		28.6807495	77.2074929	hostel				
+node	13645270910	Nandini Girls		28.6816144	77.2065274	hostel				
+node	13668518401	Anila Hôtel		28.6265847	77.1355799	hotel				
+node	13713826788	Caviar Stays Girl's		28.6822893	77.2018376	hostel				
+node	13744672701	Hotel Delhi Pride		28.6474164	77.1872049	hotel				
+node	13744672702	Hotel Asko International		28.6474565	77.1871293	hotel				
+node	13744676701	Hotel Vista Inn		28.6473832	77.1872726	hotel				
+node	13744677701	Hotel The Daanish Residency		28.6472247	77.1872363	hotel				
+node	13754187601	Hotel Armani Suite		28.5475538	77.1264398	hotel				
+node	13784537176	Bungalow 99		28.5747604	77.2335593	hotel				
+node	13789734701	Hotel Velocity		28.5491055	77.1289551	hotel				https://www.hotelvelocity.in/
+node	13807513901	Sohi hotel		28.6460853	77.1928570	hotel				
+node	13854780990	The Park Inn		28.6190038	77.2861846	hotel				
+node	13904238291	Delhi Diaries Hostel		28.6819191	77.2035542	hostel				
+node	13969467541	Prabhatara Hostel for Women		28.5641076	77.1857315	hostel				
+node	13969467576	Indira Niketan Working Girls Hostel		28.5792837	77.2020819	hostel				
+node	13979485977	Preet Palace		28.5828557	77.2526980	hotel				
+node	14057544101	Jeniffer inn		28.6467318	77.1831084	hotel				
+node	14063151812	Shakti Bhawan		28.6942058	77.2115398	hostel			Central Institute of Education	
+node	14063151813	Shree Bhawan		28.6942832	77.2113407	hostel			Central Institute of Education	
+node	14072681253	Venizia Sarovar Portico		28.6949376	77.1950624	hotel		Sarovar Portico		https://www.sarovarhotels.com/
+node	14074040216	The Lohmod Premier		28.5505710	77.1297025	hotel				https://www.thelohmod.com/
+node	14100954479	Swastika PG		28.5693498	77.2228178	hostel				
+node	14101601587	The Grand Hostel Girls' PG		28.6793220	77.2077818	hostel				
+node	14101601588	Parwati Niwas Girls' PG		28.6789518	77.2075124	hostel				
+node	14101601589	19th Avenue Girls' PG		28.6794068	77.2077960	hostel				
+node	14104593194	Konnect Inn Pod Hotel		28.6420360	77.2242037	hotel				
+node	14107314055	Lakshmi Girls PG		28.6940607	77.2046855	hostel				
+node	14137995701	JRD Pride		28.5823539	77.2513139	hotel		JRD		https://www.jrdhotels.com/jrd-pride-new-delhi/
+node	14144409293	JRD Exotica		28.5669229	77.1993116	hotel		JRD		https://www.jrdhotels.com/jrd-exotica-new-delhi/
+node	14181041983	Nivedita Kunj		28.6806885	77.2073033	hostel				
+node	14191003801	The Western Grand		28.6421948	77.2144779	hotel				
+node	14239314742	Mohan Niwas		28.6810962	77.2069255	hostel				
+node	14283578302	J60 Suites		28.6875042	77.1722695	hotel				https://j60suites.com
+way	111698134	Gol Hostel		28.6304736	77.2487201	hostel				
+way	128409506	Taj Palace Hotel		28.5954687	77.1706039	hotel		Taj	Taj	
+way	129485514			28.5615420	77.2697348	hotel				
+way	139442357	Scholl of Planning and Architecture Hostel and Residential Complex		28.5726250	77.2713859	hostel				
+way	168874776	The Taj Mahal Hotel		28.6047652	77.2234847	hotel		Taj		
+way	190345949	DeeMarks		28.5356384	77.1136735	hotel				https://www.deemarks.com/
+way	192704213	Girls Hostel		28.6289550	77.2455270	hostel				
+way	203600636	MGM		28.5535221	77.1252819	hotel				
+way	265771341	The Leela Palace Kempinski		28.5801445	77.1893113	hotel	5	The Leela		https://www.theleela.com/the-leela-palace-new-delhi
+way	279038732	ITC Maurya		28.5971305	77.1736438	hotel			ITC	http://www.itcwelcomgroup.in/Hotels/itcmaurya.aspx
+way	284169202	The Metropolitan Hotel		28.6315990	77.2078825	hotel				
+way	294522177	Rail Yatri Niwas		28.6444801	77.2226462	hotel				
+way	313541232	Novotel - Pullman		28.5538720	77.1236867	hotel		Novotel		
+way	313541233	Pride Plaza		28.5525139	77.1229495	hotel				
+way	313544660	ibis New Delhi Aerocity		28.5514130	77.1232779	hotel		Ibis		
+way	317310823	The Park		28.6289121	77.2161522	hotel				https://www.theparkhotels.com/new-delhi/
+way	348167517	Ahuja Residency		28.6050512	77.2407688	hotel				http://www.ahujaresidency.com/sunder-nagar-guest-house/
+way	350006432	Hotel Alaska		28.6462865	77.1970860	hotel				
+way	350042821	Hotel Venus International		28.6431411	77.2103768	hotel				
+way	350514023	Airport Hotel		28.5653412	77.1228213	hotel				https://airporthoteldelhi.com/
+way	351149739	Hotel Elvilla		28.5665257	77.1896192	hotel			Dev Palace	
+way	351163606	Mantra Amaltas		28.5672822	77.2613765	hotel				
+way	351163887	Rose Mallow Hotel		28.5635077	77.2654641	hotel				https://rosemallowhotel.com
+way	351411426	Post Graduate Men's Hostel		28.6899049	77.2163262	hostel			University of Delhi	
+way	352253822	The Leela		28.6621858	77.3020279	hotel		The Leela		
+way	354825218	Fortune Park East Delhi		28.6653987	77.3039749	hotel				
+way	354825470	Ginger Hotel - East Delhi		28.6657027	77.3039825	hotel				
+way	360259497	Le Méridien		28.6188050	77.2177001	hotel	5	Le Méridien		
+way	369637830	Shangri-La Hotel		28.6215031	77.2238516	hotel	5			
+way	400541137	Hari Piorko		28.6409609	77.2141421	hotel				
+way	488537409	Rams inn		28.6314801	77.2142618	hotel				
+way	505667468	Holiday Inn New Delhi Int'l Airport		28.5502204	77.1228191	hotel		Holiday Inn		
+way	632886917	"The Oberoi, New Delhi"		28.5967207	77.2396346	hotel		Oberoi	Oberoi	
+way	673905190	Le Seasons		28.5474555	77.1256565	hotel				
+way	722512299	Amby Inn		28.5688226	77.2479508	hotel				
+way	778473831	Park Inn		28.5639439	77.2347957	hotel		Park Inn		
+way	782378316	Hyatt Regency		28.5689952	77.1851106	hotel		Hyatt Regency		
+way	1186488779	Boys Hostel		28.6637957	77.2994604	hostel			GGSIPU East Delhi Campus	
+way	1211582154	Four Points by Sheraton		28.5283356	77.0988651	hotel		Four Points by Sheraton		https://www.marriott.com/en-us/hotels/delfn-four-points-new-delhi-airport-highway/overview/
+way	1237416218	The Connaught		28.6327049	77.2131620	hotel	5		IHCL	
+way	1362333174	The Roseate Hotel New Delhi		28.5319029	77.1034619	hotel				https://www.roseatehotels.com/newdelhi/theroseate/
+way	1370474881	Daulat Singh Kothari Hostel		28.6904287	77.2177734	hostel			University of Delhi	
+way	1370480156	Vijayendra Kasturi Ranga Varadaraja Rao Hostel		28.6908557	77.2171844	hostel			University of Delhi	
+way	1370508727	Jubilee Hall		28.6920066	77.2188217	hostel			University of Delhi	
+way	1376915974	Army College of Medical Sciences Hostel Complex		28.6059388	77.1360220	hostel			Army College of Medical Sciences	
+way	1377992111	University Hostel for Women		28.6926613	77.2120939	hostel			Delhi University	
+way	1377992124	Meghdoot Hostel		28.6923459	77.2125634	hostel			Delhi University	
+way	1389870733	Diplomate of National Board Hostel		28.6799891	77.3039505	hostel				
+way	1389997889	Hotel Diplomat		28.5653561	77.2408838	hotel				
+way	1393761657	The Claridges		28.6006481	77.2163218	hotel			Claridges Hotels Private Limited	https://www.claridges.com/index.asp
+way	1476349077	Palm Spring Hotel		28.6326307	77.1375957	hotel				
+way	1476768272	Maidens Hotel		28.6744858	77.2266771	hotel				https://www.maidenshotel.com/
+way	1498980224	Round D Clock		28.5482946	77.1047590	hotel				
+way	1551657005	Kaveri Hostel		28.6655875	77.2326174	hostel				
+way	1551657006	Krishna Hostel		28.6651511	77.2318010	hostel				
+relation	4208293	Aloft New Delhi Aerocity		28.5524258	77.1235368	hotel		Aloft		
+relation	4208294	ANdaZ Delhi - a concept by Hyatt		28.5542398	77.1220283	hotel	5	ANdAZ		
+relation	4208445	Roseate House		28.5507261	77.1205750	hotel	5			https://www.roseatehotels.com/newdelhi/roseatehouse//hotel/
+relation	4208446	JW Marriott Hotel New Delhi Aerocity		28.5527985	77.1215512	hotel		JW Marriott		
+relation	4208447	"Lemon Tree Premier, Delhi Airport"		28.5519234	77.1208841	hotel				
+relation	5247140	Haveli Dharampura		28.6532399	77.2322984	hotel		WelcomeHeritage		
+relation	18881743	Gwyer Hall		28.6902470	77.2167161	hostel			University of Delhi	
+relation	20445719	Centaur Hotel		28.5489923	77.1023057	hotel				

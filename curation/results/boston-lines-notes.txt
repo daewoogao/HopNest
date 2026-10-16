@@ -1,0 +1,2 @@
+9 lines, 163 stations
+  check: MBTA Red Line: added branch to Braintree as its own line; check it isn't a short-working or depot run

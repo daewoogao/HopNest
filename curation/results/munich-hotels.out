@@ -1,0 +1,396 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	40172600	elaya hotel munich schwabing		48.1833728	11.5939383	hotel	4			
+node	100237913	Hotel Kölbl		48.0718397	11.6057829	hotel				
+node	144696692	Neubiberger Hof		48.0763572	11.6606322	hotel			Kreuzer GbR	https://www.neubibergerhof.de/
+node	199346503	Mercure Hotel München Neuperlach Süd		48.0920788	11.6442332	hotel	4	Mercure		https://all.accor.com/hotel/0792/index.de.shtml
+node	250768339	Suite Novotel		48.1798572	11.5933990	hotel				https://all.accor.com/hotel/5229/index.de.shtml
+node	250768340	Ibis München Parkstadt Schwabing		48.1796533	11.5931791	hotel		Ibis		https://all.accor.com/hotel/5239/index.de.shtml
+node	258643176	Hotel am Hachinger Bach		48.0820457	11.6255344	hotel	3			
+node	259760505	Novotel München City		48.1293774	11.5893060	hotel	4	Novotel		https://all.accor.com/hotel/3280/index.de.shtml
+node	259760534	Hilton Munich City		48.1298108	11.5927247	hotel	4	Hilton	Hilton	
+node	260111642	Hotel Perlach Allee		48.0875856	11.6410459	hotel		Blattl	Hotel Altperlach Betriebs GmbH	https://www.blattl.de/hotel-perlach-allee.html
+node	263828985	MOMA1890		48.1288644	11.6043322	hotel			MOMA1890 GmbH & Co. KG	https://www.moma1890.com/
+node	264348601	Living Hotel am Deutschen Museum		48.1276214	11.5893640	hotel				
+node	271097002	Arthotel ANA Munich Messe		48.0985706	11.6618948	hotel			Gorgeous Smiling Hotels GmbH	https://ana-hotels.com/standorte/muenchen/
+node	271666566	B&B-Hotel München Nord		48.1871379	11.6063923	hotel		B&B Hotels		https://www.hotel-bb.com/hotel/muenchen-city-nord
+node	275064988	Carmen		48.1184908	11.5333722	hotel			Hotel Carmen GmbH	
+node	275450878	k+k Hotel		48.1170307	11.5384169	hotel				
+node	275450879	Hotel Ambassador		48.1090172	11.5393834	hotel	3			
+node	277538721	Living Hotel Prinzessin Elisabeth		48.1228283	11.5649152	hotel				
+node	286031253	fab Hotel		48.0996301	11.6305940	hotel			fab Hotel GmbH & Co. KG	https://www.fab-hotel.de/
+node	291103874	Unsöld's Factory Hotel		48.1419700	11.5865766	hotel				
+node	291642220	Hotel Domus		48.1409681	11.5861993	hotel				https://www.hotel-domus.de/
+node	296468222	Hotel Mercure München Altstadt		48.1370541	11.5709815	hotel	3S	Accorhotels	MÜNCHEN ALTSTADT HOTELBETRIEBS GMBH	https://all.accor.com/hotel/3709/index.de.shtml
+node	305258402	Brecherspitze		48.1171221	11.5907296	hotel				https://www.brecherspitze.com/
+node	305506461	Mariandl		48.1333491	11.5588882	hotel				
+node	305529647	Hotel Isartor		48.1334536	11.5812578	hotel	3			https://www.hotel-isartor.de/
+node	305609481	Hotel Vier Jahreszeiten Kempinski München		48.1391684	11.5819647	hotel	5S	Kempinski	Hotel Vier Jahreszeiten GmbH	https://www.kempinski.com/de/hotel-vier-jahreszeiten
+node	306198770	Fleming's Hotel München Schwabing		48.1676995	11.5867221	hotel				
+node	306224760	Hotel Leopold		48.1678776	11.5856822	hotel			Hotel Leopold GmbH	https://www.hotel-leopold.de/
+node	307757375	Landhaus Ambiente		48.1915549	11.5485984	hotel				https://www.hotel-landhausambiente.de/
+node	312378088	Freisinger Hof		48.1745647	11.6294659	hotel	4			https://www.freisinger-hof.de/
+node	315271013	Hotel Seibel		48.1352508	11.5469806	hotel				
+node	315935265	Hotel Erzgießerei Europe		48.1502901	11.5534284	hotel	4		EUROPE HOTELS INTERNATIONAL GMBH & CO.KG	https://www.europe-hotels-international.de/erzgiesserei-europe/hotel
+node	320227379	Bob W.		48.1623253	11.5720465	hotel				
+node	331363695	Central Hotel-Apart		48.1264353	11.6299970	hotel				https://www.centralhotelapart.de/
+node	333218891	Biederstein		48.1624274	11.5946422	hotel				https://www.hotel-biederstein.de/
+node	334313090	Feringa-Park Hotel		48.1789041	11.6321899	hotel				
+node	335745956	Büro Suite Hotel		48.1784536	11.6333290	hotel				
+node	339824210	Euro Youth Hostel Munich		48.1384813	11.5603125	hostel				
+node	339824236	Jägers Hotel - Hostel Mc Bed		48.1386693	11.5603232	hostel				
+node	339824259	Wombat's City Hostel Munich Hauptbahnhof		48.1389289	11.5603286	hostel				https://www.wombats-hostels.com/munich/hauptbahnhof/
+node	340088703	Torbräu		48.1355010	11.5815897	hotel	4		Hotel Torbräu GmbH & Co. KG	
+node	343727143	Hotel Blauer Bock		48.1344130	11.5738490	hotel				https://hotelblauerbock.de/
+node	343742232	Bob W.		48.1334277	11.5818248	hotel				https://booking.bobw.co/?city=Munich&property=munich-baa1
+node	344491871	Jams		48.1323966	11.5914362	hotel			Jams Hospitality GmbH	https://www.jams-hotel.com/
+node	345843644	Hotel Pullman		48.1724388	11.5944778	hotel	4			https://www.pullman-hotel-muenchen.de/
+node	345843662	Marriott München		48.1745444	11.5926656	hotel	4	Marriott		https://www.marriott.com/de/hotels/mucno-munich-marriott-hotel/overview/
+node	345843688	Innside Premium Hotel		48.1770716	11.5931251	hotel	4			
+node	345849094	Mercure München-Schwabing		48.1665580	11.5865483	hotel	3S	Mercure		https://mercure.accor.com/de.html
+node	347631511	Park Hotel Laim		48.1348691	11.5117833	hotel				
+node	354445702	Moosbichl		48.1812631	11.5039781	hotel				
+node	368038578	Premier Inn München City Ost		48.1371026	11.6488217	hotel		Premier Inn		https://www.premierinn.com/de/de/hotels/deutschland/bayern/muenchen/munchen-city-ost.html
+node	372504755	Hotel Cocoon		48.1309127	11.5617837	hotel	3			https://cocoon-hotels.com/
+node	372886822	Arthotel ANA im Olympiapark		48.1818393	11.5529922	hotel	4			https://ana-hotels.com/olympiapark-muenchen
+node	377097075	Hotel Waltram garni		48.1065464	11.5801096	hotel				http://www.hotel-waltram.de
+node	377097086	Ibis Budget München City Süd		48.1070975	11.5797641	hotel		Ibis Budget		
+node	403754770	Hotel Occam		48.1619172	11.5894108	hotel				
+node	409497590	Hotel Olympic		48.1303319	11.5699103	hotel				https://www.hotel-olympic.de/
+node	417004538	Ambiente		48.1381220	11.5608751	hotel	3			
+node	417672179	Bob W.		48.1595081	11.5835814	hotel				
+node	417672180	Schwabinger Wahrheit		48.1593645	11.5841212	hotel			Geisel	
+node	425665479	Hotel Prinz		48.1244325	11.5860797	hotel	4		BSB Gastro GmbH	https://www.hotel-prinz.de/
+node	430234732	Ritzi		48.1366330	11.5967799	hotel				https://hotelmuenchen-ritzi.de/
+node	431397148	Motel One Sendlinger Tor		48.1346666	11.5668197	hotel		Motel One	Motel One	
+node	445505403	Leonardo Hotel & Residenz München		48.1138427	11.5837839	hotel	4	Leonardo Boutique		https://www.leonardo-hotels.com/munich/leonardo-hotel-and-residenz-munchen/
+node	454571071	La Maison		48.1629407	11.5904719	hotel				https://www.hotel-la-maison.com/
+node	458228442	Hotel Schweiz		48.1361682	11.5583762	hotel				
+node	482656130	Hotel Kraft		48.1345327	11.5609673	hotel				https://www.hotel-kraft.com/
+node	533752057	B&B Hotel		48.1750177	11.5986505	hotel		B&B Hotels		
+node	573763495	Hotel Wetterstein		48.1079509	11.5729269	hotel				
+node	583897535	Alpen Hotel		48.1382301	11.5621902	hotel	4			
+node	599314019	Hotel Lux		48.1372427	11.5789964	hotel				https://www.hotel-lux-muenchen.de/
+node	617141644	Hotel Uhland		48.1341297	11.5550294	hotel				
+node	618873502	mk Hotel		48.1354532	11.6004567	hotel	2			https://www.mkhotels.de/home/muenchen-max-weber-platz/de
+node	627850960	Hotel Amenity München		48.1139569	11.5334716	hotel	3			https://www.hotel-amenity.de/
+node	648540111	Germania		48.1377470	11.5601833	hotel				
+node	648540120	Italia		48.1370815	11.5611543	hotel				
+node	651500989	Hotel Admiral München		48.1317301	11.5813400	hotel	4		Kevin Voigt-Masermann	https://hotel-admiral.de/
+node	655397069	Hotel am Nockherberg		48.1200975	11.5794403	hotel			Hotel am Nockherberg Hotelbetriebs-GmbH	https://www.nockherberg.de/
+node	655406777	Das Schreder		48.2013889	11.4950497	hotel				https://hotelschreder.de/
+node	656248275	Marias Platzl		48.1262752	11.5847706	hotel				
+node	656252902	Louis		48.1359668	11.5757971	hotel				https://www.louis-hotel.com/
+node	656252907	Hotel am Markt		48.1354530	11.5771091	hotel				
+node	659039798	King's Hotel First Class		48.1432787	11.5598662	hotel	4			
+node	670101048	budget & business Munich Hotel Tessin		48.1425671	11.5042504	hotel				https://www.hotel-tessin.eu/
+node	672682634	Hotel Präsident		48.1375729	11.5615109	hotel				
+node	678046307	Mercure München am Olympiapark garni		48.1585273	11.5451574	hotel	3S	Mercure		
+node	700030627	Hotel Schlicker		48.1359242	11.5783193	hotel				https://hotel-schlicker.de/
+node	709090265	Montree		48.1511606	11.5572660	hotel				
+node	736358450	Leonardo Hotel Munich City Olympiapark		48.1608590	11.5451480	hotel	3	Leonardo Boutique		https://www.leonardo-hotels.de/munich/leonardo-hotel-munich-city-olympiapark
+node	741558339	Leonardo Hotel		48.1804017	11.5121525	hotel	4	Leonardo Hotels	Leonardo Hotels	
+node	746746515	Am Sendlinger Tor		48.1334800	11.5685811	hotel				https://www.hotel-am-sendlinger-tor.de/
+node	767548302	Hotel Munich City		48.1378537	11.5481368	hotel				https://www.hotelmunichcity.de/
+node	783935973	Hotel marc		48.1380374	11.5598914	hotel				https://www.hotel-marc.de/
+node	864657832	Holiday Inn Munich - Leuchtenbergring		48.1355713	11.6147850	hotel	4	Holiday Inn	IHG	https://www.ihg.com/holidayinn/hotels/us/en/munich/muclb/hoteldetail?qCiMy=112022
+node	880226398	Mercure München City Center		48.1380351	11.5602709	hotel	4	Mercure		
+node	900474277	Vi vadi		48.1431942	11.5589540	hotel	3			https://www.vivadihotels.com/
+node	900474305	King's Hotel Center		48.1430310	11.5583578	hotel	3S			
+node	903652694	Hotel Pegasus		48.0725837	11.5203059	hotel			Solveig Schulze	
+node	915249959	Kriemhild Garni		48.1520683	11.5115084	hotel	3			https://www.kriemhild.de/
+node	939517992	Homaris Appartements München Laim		48.1311881	11.5018091	hotel				https://www.homaris.com/locations/munich/
+node	976966586	Leonardo Boutique Hotel		48.1474531	11.5763701	hotel	4	Leonardo Boutique		
+node	995476055	Atrium		48.1362674	11.5574194	hotel	4	Best Western	Best Western	
+node	995481976	Maritim Hotels		48.1384654	11.5593347	hotel	4			https://www.maritim.com/en/hotels/germany/hotel-munich/hotel-overview
+node	995485479	Leonardo Hotel München City Center		48.1387635	11.5599996	hotel	4	Leonardo Boutique		
+node	1000989594	Hotel Daniel		48.1382940	11.5657277	hotel	3			https://www.hotel-daniel.de/
+node	1003901554	Hotel Gästehaus Englischer Garten		48.1616130	11.5941040	hotel			Roselinde Zankl	https://www.hotelenglischergarten.de/
+node	1021099588	Citadines Arnulfpark		48.1447927	11.5419891	hotel	4		The Ascott Limited	
+node	1077024242	Hahn		48.1399344	11.5323800	hotel	3			
+node	1091830642	Hotel Gio		48.1282337	11.5585695	hotel				https://www.hotel-gio.de/
+node	1121771656	Hotel Antares		48.1468563	11.5763819	hotel				
+node	1134251826	Hotel Münchner Kindl		48.1365530	11.5683902	hotel				
+node	1138722193	myMinga 4		48.1322576	11.5653286	hotel			MyMINGA Hotel & serviced Apartments	https://www.my-minga.com/
+node	1138722201	myMinga 13		48.1321254	11.5643642	hotel			MyMINGA Hotel & serviced Apartments	https://www.my-minga.com/
+node	1142544876	CVJM		48.1362228	11.5626719	hotel			CVJM	
+node	1195271917	Doria Am Leopoldpark		48.1565340	11.5788319	hotel				https://www.goyellow.de/home/hotel-doria-am-leopoldpark-muenchen--bwvbc.html
+node	1253174176	Hotel Goethe		48.1370134	11.5584079	hotel				
+node	1282516732	Nom		48.1360675	11.5607357	hotel				
+node	1290708743	Hotel Mirabell München		48.1365017	11.5587690	hotel	3S			https://www.hotelmirabell.de
+node	1329882484	Residence Inn		48.1374519	11.5475617	hotel	4	Residence Inn	Marriott	https://www.marriott.com/en-us/hotels/muczr-residence-inn-munich-central/overview/
+node	1350628062	Hotel Pension Christl		48.1271967	11.5966358	hotel				https://hotel-pension-christl.de/
+node	1354382552	Hotel München Palace		48.1400488	11.6012596	hotel	5			https://www.hotel-muenchen-palace.de/
+node	1355984560	Pension Central		48.1390637	11.5557311	hotel				
+node	1400932883	Hotel Mons		48.1290252	11.5586393	hotel	2		Johann Schmid	https://www.hotel-am-goetheplatz.de/
+node	1478901289	Living Hotel		48.1344161	11.5759387	hotel				
+node	1478901296	Hotel am Viktualienmarkt		48.1336023	11.5759766	hotel				
+node	1600192362	Motel One München-Campus		48.1093117	11.5794383	hotel		Motel One		https://www.motel-one.com/de/hotels/muenchen/hotel-muenchen-campus/
+node	1612032154	Max		48.1462174	11.5760283	hotel				
+node	1644953768	Buddy		48.1382069	11.5646109	hotel				
+node	1644987320	Hotel Cocoon Stachus		48.1380393	11.5618120	hotel				
+node	1644987325	Hotel Wallis		48.1376222	11.5633645	hotel				
+node	1644987365	Hotel Royal		48.1377461	11.5612638	hotel				
+node	1645015664	Maison Schiller		48.1372053	11.5608409	hotel				
+node	1645015666	AWA Hotel		48.1382957	11.5609123	hotel	4			
+node	1645015671	Rilano 24/7		48.1372772	11.5612021	hotel				
+node	1645036862	Hotel Astor München		48.1369288	11.5608069	hotel	3	smp-astorhotels		https://astorhotelmunich.com
+node	1645040523	Courtyard Marriott		48.1372700	11.5595820	hotel	4	Courtyard		https://www.marriott.com/de/hotels/muccy-courtyard-munich-city-center/overview/
+node	1654016150	Hotel Laimer Hof		48.1534412	11.5045926	hotel	3			https://www.hotellaimerhof.de/
+node	1654971067	Le Méridien		48.1390138	11.5580028	hotel	5	Le Méridien		
+node	1713286080	Koos		48.1362128	11.5644516	hotel	3			
+node	1714857900	Säntis		48.1124637	11.5038957	hotel				https://www.hotel-saentis.com/
+node	1722866429	Wichernhaus		48.1359597	11.5630971	hotel		Wichernhaus		
+node	1722866433	Hotel Deutsches Theater Stadtmitte		48.1372312	11.5624654	hotel				https://www.hotel-deutsches-theater.com/
+node	1734976731	Hotel Sollner Hof		48.0758747	11.5143327	hotel				https://www.sollnerhof.de/
+node	1734976742	Hotel Heigl		48.0756560	11.5139679	hotel	3			https://www.hotelheigl.de/
+node	1781508712	Ibis München City Süd		48.1112637	11.5777277	hotel		Ibis	IBIS	
+node	1800164291	Villa Solln		48.0716177	11.5144659	hotel				https://www.villasolln.de/
+node	1813635103	Hotel Mariahilf		48.1268259	11.5840157	hotel				https://hotel-mariahilf.de/
+node	1813652123	Centro Hotel Mondial		48.1340420	11.5651910	hotel	3	Centro Hotels		https://www.centro-hotels.de/de/standorte/muenchen/Centro_Hotel_Mondial/Mondial.html
+node	1836194346	Hotel Metropol		48.1381607	11.5575665	hotel	3S			
+node	2145590001	Hotel Eder		48.1386630	11.5622350	hotel				https://www.hotel-eder.de/
+node	2175543697	Holiday Inn München - Westpark		48.1165922	11.5312832	hotel	4	Holiday Inn	InterContinental Hotels Group PLC	
+node	2181646544	GS Hotel		48.1027457	11.5305829	hotel				
+node	2261765025	Ars Vivendi		48.1325958	11.5380403	hotel				https://www.hotel-ars-vivendi.de/
+node	2344185924	Hotel 5		48.1385313	11.5613292	hotel				
+node	2360123172	Litty's Hotel		48.1364284	11.5598671	hotel				
+node	2399613286	Rivoli		48.1170550	11.5350788	hotel	3		Edgar Sakkal e.K.	
+node	2400218651	Nyx Hotel		48.1023059	11.5297462	hotel		Nyx		
+node	2456211699	Hotel Condor		48.1387578	11.5622730	hotel				
+node	2477062872	Eurostars Book Hotel		48.1375847	11.5575048	hotel	4	Eurostars Hotel Company		
+node	2494510950	A1 Apartments Moosach		48.1862580	11.5256023	hostel				
+node	2502905396	Munich Rooms		48.1626310	11.5778003	hotel			Selcuk Gürler	https://www.mucrooms.de/
+node	2522233994	Augusten Hotel		48.1442706	11.5599493	hotel				https://www.augustenhotel.de/
+node	2611167530	Hotel du train		48.1355839	11.5671749	hotel	3		Herzog-Wilhelm-Restaurant-Tannenbaum GmbH	
+node	2638863115	Hotel Carlton Astoria		48.1471863	11.5773458	hotel			Carlton Astoria Hotel GmbH	
+node	2765520009	Pension Fleischmann		48.1827537	11.5645709	hotel			Helena Weber	https://www.pension-fleischmann.de/
+node	2875770923	Hotel Brunnenhof		48.1357818	11.5606561	hotel				https://brunnenhof.de/
+node	2905594993	Hotel Krone		48.1354801	11.5471701	hotel			Claudia Mittendorfer	
+node	2945470841	Kerschensteiner Kolleg		48.1311730	11.5848875	hostel			Deutsches Museum München	https://www.deutsches-museum.de/museumsinsel/programm/bildungsprogramme/fortbildungen/kerschensteiner-kolleg
+node	3070295703	Belle Blue		48.1368860	11.5611404	hotel				https://www.hotel-belleblue.com/de
+node	3097625429	Hotel CREO MUNICH City		48.1142262	11.5319822	hotel	3			https://www.creo-hotels.de/creo-munich/kontakt/
+node	3272774742	Hotel im Hof		48.1535635	11.5630025	hotel				https://hotel-im-hof.com/
+node	3279368086	Yours Truly		48.1394581	11.5636207	hotel				
+node	3287733364	Hotel Hauser		48.1496664	11.5775876	hotel				
+node	3374403149	Premier Inn München City (Zentrum)		48.1353659	11.5658336	hotel		Premier Inn	Premier Inn GmbH	
+node	3513566693	Andra		48.1353820	11.5583211	hotel				
+node	3517152055	Hotel Südstern		48.0813477	11.5297978	hotel				https://www.hotel-suedstern.de/
+node	3545136523	Stachus		48.1391388	11.5632745	hotel				
+node	3545136524	Bayer's		48.1391853	11.5626656	hotel				
+node	3609643541	Meininger München Zentrum		48.1393766	11.5450735	hostel			Meininger	https://www.meininger-hotels.com/en/hotels/munich/hotel-munich-city-center/
+node	3706153717	A&O		48.1441346	11.4949744	hostel		A&O	a&o hostel and hotel München GmbH	https://www.aohostels.com/de/muenchen/muenchen-laim/
+node	3813774857	ibis München City Arnulfpark		48.1452846	11.5399087	hotel	2	Ibis		https://all.accor.com/hotel/8865/index.de.shtml
+node	3916681672	Hotel Altmünchen		48.1332035	11.5686929	hotel				https://www.blattl.de/hotel-altmuenchen.html
+node	3998202006	Daniel		48.1381802	11.5657315	hotel				
+node	4068384070	Novotel München City Arnulfpark		48.1455422	11.5389105	hotel	4	Novotel		https://novotel.accor.com/a/de/deutschland.html
+node	4108145375	Hotel Lechnerhof		48.1941451	11.6409423	hotel	4		Hotel Lechnerhof UG & Co. KG	https://www.hotel-lechnerhof.de/
+node	4178309739	Hotel Excelsior		48.1398471	11.5620781	hotel	4			
+node	4258155797	Pension Locarno		48.1415195	11.5608670	hotel				https://www.pensionlocarno.com/
+node	4266426738	B&B Hotel München City-West		48.1332132	11.5246831	hotel		B&B Hotels		
+node	4281219905	SMARTments business		48.1785926	11.5946700	hotel			SMARTments business Betriebsgesellschaft mbH	https://smartments.com/de/serviced-apartments-munchen/parkstadt-schwabing/
+node	4331330941	Maximilian		48.1372442	11.5819983	hotel				https://www.maximilian-munich.com/
+node	4331368046	Batu Apart Hotel		48.1417135	11.5607306	hotel				https://www.batu-aparthotel.de/
+node	4535177035	Atlas		48.1362858	11.5566162	hotel	4			
+node	4535177050	Alpina		48.1362747	11.5581711	hotel				
+node	4535177086	Atlas Residence		48.1373341	11.5561751	hotel				
+node	4724516196	Ruby Lilly		48.1461889	11.5589507	hotel			Ruby	
+node	4810055846	VIP Wing		48.3489532	11.7848406	hotel				https://www.munich-airport.de/vip
+node	4957143956	gambino hotel CINCINNATI		48.0933529	11.6052183	hotel			Gambino Holding GmbH	https://gambinohotels.com/de/
+node	5032398734	Grafinger Hof		48.1251086	11.5544606	hotel				https://www.grafinger-hof.de/
+node	5135464614	Mona Lisa		48.1397981	11.5894170	hotel				
+node	5141182216	Steigenberger Hotel München		48.1746395	11.5903938	hotel	4		Steigenberger Hotels AG	https://hrewards.com/de/steigenberger-hotel-muenchen
+node	5239125765	Frederics München City Olympiapark		48.1680932	11.5271856	hotel				
+node	5343872822	Holiday Inn München City Ost		48.1322502	11.6281235	hotel		Holiday Inn		
+node	5380851721	Smart Stay Hotel Station		48.1396984	11.5627298	hotel			Consaria Hotel GmbH	
+node	5739472409	Das kleine Hotel		48.1488576	11.5560632	hotel				https://www.das-hotel-in-muenchen.de/de/das-kleine-hotel/
+node	5741217471	Hilton Garden Inn Munich City West		48.1408230	11.5357238	hotel	4	Hilton	Hilton Hotels & Resorts	https://www.hilton.com/en/hotels/mucgigi-hilton-garden-inn-munich-city-west/
+node	5741367250	Hampton by Hilton Munich City West		48.1408687	11.5352284	hotel	3	Hilton	Hilton Hotels & Resorts	https://www.hilton.com/en/hotels/muchxhx-hampton-munich-city-west/
+node	5866089560	Alter Wirt		48.1005042	11.5451049	hotel				https://www.alter-wirt-thalkirchen.de/
+node	6015868330	elaya hotel munich city		48.1470894	11.5548418	hotel		elaya		https://www.elaya-hotels.com/munich-city/
+node	6080469405	Numa Blend		48.1375759	11.5604276	hotel				
+node	6148366511	Holiday Inn Express München City Ost		48.1315889	11.6281728	hotel		Holiday Inn Express		
+node	6377446344	H2 Hotel München Olympiapark		48.1866972	11.5457740	hotel		H2	H-Hotels	https://www.h-hotels.com/de/h2/hotels/h2-hotel-muenchen-messe
+node	6391813750	das Hotel		48.1495523	11.5752293	hotel				
+node	6413897463	Beyond by Geisel		48.1368481	11.5753783	hotel				
+node	6423844455	the niu Brass		48.1863209	11.5594598	hotel		the niu		https://the.niu.de/
+node	6471891551	H.ome Serviced Apartments		48.1872055	11.5458036	hotel				
+node	6518641732	Life Style		48.1032402	11.5308877	hotel				
+node	6533641883	Gambino Hotel		48.1253542	11.6065979	hotel		gambino hotels	Gambino Hotel Werksviertel GmbH	https://gambinohotelwerksviertel.com/
+node	6589848108	Hotel Augustin		48.1322086	11.5456979	hotel				https://augustin-hotel.com/
+node	6651581069	Hotel Mio by Amano		48.1347033	11.5687679	hotel				
+node	6697982848	Numa Stays		48.1206346	11.6069967	hotel			numa Group GmbH	https://numastays.com/
+node	6838264417	Residence Inn München Ostbahnhof		48.1250378	11.6110012	hotel		Residence Inn		https://www.marriott.com/de/hotels/mucmr-residence-inn-munich-ostbahnhof/overview/
+node	6841948501	Motel One München-Haidhausen		48.1249764	11.5995143	hotel		Motel One		https://www.motel-one.com/de/hotels/muenchen/hotel-muenchen-haidhausen/
+node	6960857103	K1 - my second home		48.1117424	11.6173431	hotel			Kollinger GmbH & Co. KG	https://k1-mysecondhome.de/
+node	7079481742	Premier Inn München City Schwabing		48.1876820	11.5920464	hotel		Premier Inn		https://www.premierinn.com/gb/en/hotels/germany/bavaria/munich/munich-city-schwabing.html
+node	7079481747	Super 8 Munich City North		48.1884945	11.5914998	hotel				https://www.wyndhamhotels.com/super-8/munich-germany/super-8-munich-city-north/overview
+node	7083550817	Mühle Attaching		48.3712694	11.7735863	hotel			Josef Angermair	https://monteurzimmer-freising.de/
+node	7095165678	Timehouse München		48.1747816	11.5859837	hotel			TIMEHOUSE BETREIBER GmbH & Co. KG	https://www.timehouse.de/
+node	7165721817	Moxy Munich Ostbahnhof		48.1250503	11.6114816	hotel		Moxy		https://www.marriott.com/en-us/hotels/mucoe-moxy-munich-ostbahnhof/overview/
+node	7234289357	25hours hotel		48.1398545	11.5613590	hotel				https://25hours-hotels.com/de/munich/the-royal-bavarian/
+node	7273521719	Star G Premium		48.1846602	11.5881520	hotel		Star G		
+node	7791390452	Sofitel Munich Bayerpost		48.1395141	11.5567932	hotel	5	Sofitel	AccorHotels Germany GmbH	https://www.sofitel-munich.com/
+node	7796719375	Hyperion		48.1368968	11.6224180	hotel		H-Hotels		
+node	8392065060	BonApartHotel		48.1811079	11.5129713	hotel				https://www.bonaparthotel.de/
+node	8394913270	Holiday Inn Express		48.1863709	11.5379941	hotel		Holiday Inn Express		
+node	8531490724	Adina Hotel Munich		48.1243152	11.6067500	hotel		Adina Hotels		https://www.adinahotels.com/en/apartments/munich/
+node	9004824085	Hampton by Hilton Munich City Center East		48.1334355	11.6315347	hotel		Hampton	Hilton	https://www.hilton.com/en/hotels/mucjrhx-hampton-munich-city-centre-east/
+node	9193187783	Wombat’s City Hostel Munich “Werksviertel”		48.1242461	11.6064862	hostel			Wombats München Ost GmbH	https://www.wombats-hostels.com/munich/werksviertel
+node	9343763949	Meininger Hotel München Olympiapark		48.1647760	11.5384181	hotel		Meininger		https://www.meininger-hotels.com/de/hotels/muenchen/hotel-muenchen-olympiapark/
+node	9371035200	Advastay by KING's		48.1429081	11.5603349	hotel				
+node	9609512532	Hampton by Hilton Munich City North		48.1898025	11.5853070	hotel		Hampton	Primestar Hospitality GmbH	https://www.hilton.com/de/hotels/mucishx-hampton-munich-city-north/
+node	9609512533	Holiday Inn Express		48.1900859	11.5851407	hotel		Holiday Inn Express	Primestar Hospitality GmbH	
+node	9733417808	Scandic München Macherei		48.1298802	11.6245203	hotel		Scandic Hotels		https://www.scandichotels.com/de/hotels/scandic-muenchen-macherei
+node	9920540915	Hotel Demas City		48.1362100	11.5620679	hotel				
+node	9930237759	Hotel zur Post		48.1940775	11.6414584	hotel	3		Gasthof zur Post Lechner GmbH & Co. KG	https://gasthof-zur-post-ufg.de/www/hotel.html
+node	9964080756	Creo Munich Süd Hotel		48.0895513	11.5063636	hotel				
+node	9972004211	Novitel Boardinghouse		48.1586139	11.5493377	hotel				
+node	10054297521	Campanile München Sendling		48.1050573	11.5378083	hotel		Campanile		https://munchen-sendling.campanile.com/
+node	10115165376	Ibis Styles		48.1004251	11.6462932	hotel		Ibis Styles		https://all.accor.com/hotel/B547/index.de.shtml
+node	10121812181	Hotel Atlanta		48.1344775	11.5682641	hotel	2			https://www.hotel-atlanta.de/
+node	10249361740	Star G Business		48.1851789	11.5878733	hotel		Star G		
+node	10259701283	Hotel Staffelseestraße		48.0924055	11.5081066	hotel				
+node	10542614379	Cocoon Hauptbahnhof		48.1379736	11.5575668	hotel				
+node	10594171737	Four Points by Sheraton Munich Arabellapark		48.1511774	11.6183763	hotel		Four Points by Sheraton		
+node	10744703455	mk		48.1367084	11.5611588	hotel				https://www.mkhotels.de/home/muenchen-city/de
+node	10769224748	myMinga 14		48.1318476	11.5644166	hotel			MyMINGA Hotel & serviced Apartments	https://www.my-minga.com/
+node	10836537417	PM Room		48.1396263	11.5194782	hostel				https://www.rent-a-room-munich.de/
+node	10861062013	Styles Hotel München Messe		48.1379302	11.6482678	hotel			Place Value GmbH	https://www.styles-hotel-muenchen-messe.de/
+node	10870193002	Munich Deluxe Hotel		48.1378645	11.5478103	hotel				https://www.hotelmunichdeluxe.de/
+node	10912550100	Revo		48.0876200	11.6455472	hotel				
+node	10984679853	Haus Im Tal		48.1357470	11.5795987	hotel				
+node	11015999887	Ruby Rosi		48.1391928	11.5617135	hotel		Ruby hotels		
+node	11047650583	Best Western Arabellapark München		48.1504521	11.6200862	hotel		Best Western		
+node	11063241543	Hotel Bauer		48.1190026	11.5418392	hotel	3			
+node	11066686250	Koenigshof		48.1396486	11.5645371	hotel		Marriott	"Marriott International, Inc."	
+node	11080443007	Helvetia Hotel		48.1386896	11.5609533	hotel				https://www.helvetia-hotel.com/
+node	11084677742	Hotel-Pension am Siegestor		48.1522899	11.5807535	hotel				
+node	11104780580	Bavaria Boutique Hotel		48.1356195	11.5459957	hotel	3			https://www.bavaria-boutique-hotel-muenchen.de/
+node	11111280447	Leonardo - München City West		48.1118887	11.5474399	hotel	4			
+node	11119840203	München Marriott Hotel City West		48.1409125	11.5259233	hotel		Marriott		https://www.marriott.com/de/hotels/mucwe-munich-marriott-hotel-city-west/overview/
+node	11251473362	Rosewood		48.1411146	11.5744216	hotel		Rosewood		
+node	11270546826	Sure		48.1418737	11.5584391	hotel	3			
+node	11270546827	Eden Hotel Wolff		48.1417375	11.5591953	hotel				
+node	11270576883	Hotel Amba		48.1420287	11.5577803	hotel				
+node	11353598600	Hotel Drei Löwen		48.1385290	11.5609351	hotel	4			
+node	11361355789	Alpami Glockenbach		48.1288360	11.5746654	hotel				https://www.alpami.de/munich
+node	11652685874	Kreis Residenz München		48.1347520	11.6585715	hotel				https://kreisresidenz.de/de/kreis-residenz-hotel-de/
+node	11741483879	Ameron		48.1963475	11.6061943	hotel				
+node	11748769349	The Flag Meiller Gärten		48.1802486	11.5009691	hotel				https://hotel.the-flag.de/muenchen/meiller-gaerten
+node	11920392844	Pension Isabella		48.1590360	11.5721893	hotel				http://pensionisabella.de/Website/Pension_Isabella.html
+node	12021276845	Arthotel Munich		48.1380532	11.5556764	hotel				
+node	12059517963	Hotel München City Center		48.1361657	11.5554752	hotel			Melia	
+node	12059517964	Hotel Senator		48.1380288	11.5500479	hotel	3			
+node	12086216996	Leonardo City South		48.1023095	11.5301219	hotel	3S	Leonardo Boutique		
+node	12093579236	DO & CO Hotel		48.1383412	11.5748590	hotel				
+node	12101220247	Holiday Inn Express		48.1447159	11.5195067	hotel		Holiday Inn Express		
+node	12259256992	The Base		48.1944970	11.5645012	hotel				
+node	12527576316	the niu Loco		48.1856467	11.6068478	hotel		the niu	NOVUM Management GmbH	https://the.niu.de/hotels/deutschland/muenchen/the-niu-loco
+node	12567039978	Cocoon Theresienwiese		48.1275871	11.5443335	hotel				
+node	12647608884	Numa München Obersendling		48.0927871	11.5397182	hotel				
+node	13096980377	Schwan Locke		48.1362854	11.5548562	hotel		Locke		
+node	13202883635	The Flag München M.		48.1787022	11.5333354	hotel		The Flag	THE FLAG Service München GmbH	https://hotel.the-flag.de/muenchen/muenchen-m
+node	13253795634	Bayer's Hotel		48.1373169	11.5584999	hotel				
+node	13317746717	Ibis München City		48.1440434	11.5595940	hotel		Ibis		
+node	13846423441	BOB W.		48.1373231	11.5565642	hotel				
+node	14026833836	Fidelio		48.1376387	11.5527817	hotel				
+node	14063780301	Sunnyside Apartments		48.1425378	11.4922116	hostel				
+node	14113204101	Sunnyside Apartments		48.1425378	11.4922116	hotel				
+node	14174199207	Hotel Deutsches Theater Landwehrstraße		48.1364268	11.5624955	hotel				
+node	14273292736	Gutshotel Menterschwaige		48.0814443	11.5452618	hotel				https://augustinermenterschwaige.de
+node	14277218967	"The Dean Munich, Autograph Collection"		48.1398624	11.5405756	hotel		Autograph Collection		https://www.marriott.com/en-us/hotels/mucak-the-dean-munich-autograph-collection/overview/
+way	4447196	Hilton Munich Airport		48.3556274	11.7887236	hotel	5	Hilton	Hilton Worldwide	
+way	25672791	Jugendherberge München-Park	Youth hostel Munich Park	48.0992263	11.5433499	hostel			Deutsche Jugendherberge - Landesverband Bayern	
+way	25954987	Hotel am Moosfeld		48.1327718	11.6616700	hotel	4			https://www.hotel-am-moosfeld.de/
+way	25954990	NH Messe		48.1395880	11.6429192	hotel	4	NH Hotels		https://www.nh-hotels.com/de/hotel/nh-muenchen-messe
+way	26484413	The Tent		48.1681382	11.5023055	hostel				
+way	27568819	Eurostars Grand Central		48.1437418	11.5461872	hotel	4	Eurostars Hotel Company	Hotusa Group	https://www.eurostarshotels.de/eurostars-grand-central.html
+way	27931242	Hotel Opéra		48.1388282	11.5870446	hotel				https://hotel-opera.de/
+way	28261161	Motel One München-Deutsches Museum		48.1277580	11.5884650	hotel		Motel One		https://www.motel-one.com/
+way	28737404	The Westin Grand München		48.1520823	11.6168303	hotel		Westin		https://www.marriott.com/en-us/hotels/mucwi-the-westin-grand-munich/overview/
+way	30179685	Regent Hotel		48.1422775	11.5568552	hotel				
+way	30424531	Leonardo Hotel Munich Arabellapark		48.1599980	11.6200692	hotel	4	Leonardo Boutique		
+way	33713534	Hotel Arena Stadt München		48.2040774	11.6109224	hotel			Munalptours Hotel und Reiseagentur GmbH	https://arenastadtmuenchen.de/
+way	34102840	Hotel Bayerischer Hof		48.1404716	11.5729289	hotel	5S			https://www.bayerischerhof.de/
+way	35143344	Tulip Inn München Messe		48.1383922	11.6473137	hotel				https://tulip-inn-muenchen-messe.goldentulip.com/
+way	43723269	Living Hotel am Olympiapark		48.1653935	11.5339579	hotel	3		Derag Livinghotels AG + Co. KG	https://www.living-hotels.com/standorte/muenchen/living-hotel-am-olympiapark
+way	55064103	ACHAT Premium Hotel München-Süd		48.0958512	11.5125298	hotel	4		ACHAT Hotel- und Immobilienbetriebsgesellschaft mbH	https://achat-hotels.com/hotels/muenchen
+way	77649062	Hotel Adria		48.1410657	11.5880639	hotel	3S			https://www.adria-muenchen.de/
+way	79619582	The 4You		48.1423820	11.5579379	hostel			Gemeinnützige Paritätische Jugendgästehaus GmbH	https://the4you.de
+way	79817186	Hotel an der Oper		48.1385281	11.5800946	hotel				
+way	79817192	Mandarin Oriental		48.1372914	11.5807396	hotel	5S			https://www.mandarinoriental.com/de/munich/altstadt
+way	79817232	Falkenturm Boutique Hotel		48.1387443	11.5799555	hotel				
+way	79817249	Platzl Hotel		48.1379842	11.5790032	hotel	4S			https://www.platzl.de/
+way	81190191	Cortiina		48.1368025	11.5794244	hotel				
+way	93134056	Hotel Rothof		48.1477917	11.6244537	hotel	4		Rothof Hotelbetriebs GmbH	https://www.hotel-rothof.de/
+way	93331644	Europäischer Hof		48.1390155	11.5599087	hotel				https://www.heh.de
+way	93331646	aloft		48.1389312	11.5590331	hotel		Aloft	"Arabella Hospitality SE, Englschalkinger Straße 12, 81925 München"	https://www.marriott.com/en-us/hotels/mucal-aloft-munich/overview/
+way	93336957	relexa hotel		48.1376853	11.5556279	hotel				https://www.relexa-hotel-muenchen.de/
+way	98748417	Motel One München-East Side		48.1319843	11.6091212	hotel		Motel One		https://www.motel-one.com/
+way	99876859	Deutsche Eiche		48.1327415	11.5763595	hotel	3S		Josef Sattler GmbH	
+way	100651194	Leonardo Royal		48.1869975	11.5429386	hotel	4		Fattal Hotels	
+way	103281169	ibis Hotel Muenchen City Ost		48.1296492	11.6270529	hotel	2	Ibis		
+way	107303234	B&B Hotel München-Olympiapark		48.1815670	11.5356358	hotel		B&B Hotels		https://www.hotel-bb.com/de/hotel/muenchen-olympiapark
+way	108744200	Marriott Residence Inn		48.1310257	11.6075586	hotel		Marriott		https://www.marriott.com/en-us/hotels/mucri-residence-inn-munich-city-east/overview/
+way	108744207	Marriott Courtyard		48.1314975	11.6082844	hotel		Courtyard		https://www.marriott.com/en-us/hotels/mucor-courtyard-munich-city-east/overview/
+way	111220538	Hotel Galleria		48.1017887	11.5406922	hotel				
+way	114682352	Fleming’s Hotel München-City		48.1388961	11.5571147	hotel				https://www.flemings-hotels.com/muenchen-city-hotel/
+way	116642290	H+Hotel		48.1366706	11.5605901	hotel			H-Hotels AG	https://www.h-hotels.com
+way	117992327	Hotel Nymphenburg		48.1512926	11.5377500	hotel	3			https://www.hotel-nymphenburg.de/
+way	117992336	Hotel New Orly		48.1492447	11.5388153	hotel	3		Hotel Orly Betriebs GmbH	https://www.hotelneworly.de/
+way	119936619	Hotel Aurbacher Hof		48.1231810	11.5904643	hotel	3		Hotel Aurbacher Hof GmbH & Co. KG	https://www.hotel-aurbacher-hof.de/
+way	124710898	Hotel Königstein		48.1873097	11.5735796	hotel				https://www.hotel-koenigstein-muenchen.de/
+way	128215923	Hotel Brack		48.1258004	11.5513903	hotel				https://hotel-brack.de/
+way	140118483	Motel One München-Westend		48.1396857	11.5370306	hotel	3	Motel One		https://www.motel-one.com/de/hotels/muenchen/hotel-muenchen-westend/
+way	142041969	Jugendherberge München-City		48.1526165	11.5285292	hostel			DJH	https://www.jugendherberge.de/jugendherbergen/muenchen-city/
+way	144055404	Splendid-Dollmann		48.1389573	11.5884510	hotel				https://www.hotel-splendid.de/
+way	148331756	Hotel Amalienburg		48.1641946	11.4879289	hotel				https://hotel-amalienburg.de/
+way	163080562	B&B Hotel München-Moosach		48.1801356	11.5066629	hotel		B&B Hotels	B&B	https://www.letomotel.com/
+way	163507286	Mercure Hotel München Süd Messe		48.1023515	11.6598739	hotel	4S	Mercure		https://www.eventhotels.com/Hotels/mercure-hotel-muenchen-sued-messe/
+way	173514176	Ibis München City West		48.1346638	11.5236557	hotel		Ibis		https://all.accor.com/hotel/6903/index.en.shtml
+way	173514207	Westend Hotel		48.1377866	11.5451892	hotel				
+way	183873324	Bayernland		48.1388826	11.5533689	hotel				
+way	192529402	Prähofer Hotel Garni		48.0943033	11.5160288	hotel				
+way	192529403	Prähofer Appartementhaus Hotel Garni		48.0943265	11.5157751	hotel				
+way	208906087	Grand Hotel Palladium		48.0956089	11.5102196	hotel			Grand Hotel Palladium Hotelbetreibergesellschaft mbH & Co KG	https://www.palladium-munich.com
+way	225569477	Munich Inn Design Hotel		48.1370540	11.5588413	hotel				
+way	230954643	A&O Hostel		48.1456711	11.5410280	hostel	2	A&O		https://www.aohostels.com/de/muenchen/
+way	236405346	Vienna House Easy by Wyndham Munchen		48.1519102	11.5376824	hotel				
+way	237039573	Bold		48.1263931	11.5515542	hotel				https://bold-hotels.com/de/hotels/bold-muenchen-zentrum/
+way	239140651	BOLD Hotel		48.1063534	11.5996332	hotel				https://bold-hotels.com/de/hotels/bold-muenchen-giesing/
+way	239241456	B&B Hotel München-Hbf		48.1361136	11.5545290	hotel		B&B Hotels		
+way	240524606	Parkhotel Obermenzing		48.1684654	11.4851111	hotel				https://www.parkhotel-obermenzing.de/
+way	243666793			48.1590277	11.5840190	hotel				
+way	252112818	Hapimag		48.1362045	11.5617934	hotel			Hapimag AG	
+way	253827861	B&B Hotel		48.1221558	11.6613505	hotel		B&B Hotels		https://www.hotel-bb.com/de/hotel/muenchen-trudering
+way	256715414	Hotel Rotkreuzplatz		48.1524927	11.5334257	hotel	3		Hotel Rotkreuzplatz GmbH & Co. KG	https://www.hotel-rotkreuzplatz.de/de
+way	264305937	NH Collection München Bavaria		48.1415834	11.5602054	hotel	4		"NH Hoteles, S. A."	https://www.nh-hotels.com/de/hotel/nh-collection-muenchen-bavaria
+way	267199402	The Charles Hotel		48.1428937	11.5624604	hotel	5S		Rocco Forte Hotels	https://www.roccofortehotels.com/hotels-and-resorts/the-charles-hotel/
+way	280341108	Creatif Hotel Elephant		48.1422752	11.5589198	hotel				https://www.creatif-hotel-elephant.de/
+way	304006102	Hotel Ludiwg		48.1809651	11.5035042	hotel				https://www.hotel-ludwig.de/
+way	310022336	Rioca Munich - Posto 3		48.0947970	11.5309252	hotel		iLive		https://www.rioca.eu
+way	322015269	Hotel Europa		48.1519830	11.5562451	hotel	4		Hotel Europa GmbH	https://hotel-europa.de/
+way	339526222	Holiday Inn Munich - City Centre		48.1306588	11.5899852	hotel		Holiday Inn		https://www.ihg.com/hotels/de/de/reservation
+way	340609770	Ibis Budget München City Olympiapark		48.1885862	11.5426822	hotel		Ibis Budget		
+way	340609771	Adagio Access Hotel		48.1885781	11.5431281	hotel		Adagio		
+way	351679916	Premier Inn München City West		48.1430598	11.5073275	hotel		Premier Inn		https://www.premierinn.com/de/de/hotels/deutschland/bayern/muenchen/munchen-city-west.html
+way	360621029	Jedermann		48.1388659	11.5510016	hotel			Hotel garni Jedermann Jenke GmbH & Co. KG	
+way	361035571	Motel One München-Olympia Gate		48.1620305	11.5572407	hotel	3	Motel One		https://www.motel-one.com/de/hotels/muenchen/hotel-muenchen-olympia-gate/
+way	364024992	A&O München Hauptbahnhof		48.1389418	11.5535562	hostel		A&O		https://www.aohostels.com/de/muenchen
+way	364024993	vi vadi hotel bayer 89		48.1388666	11.5519565	hotel	3S	vi vadi		
+way	369270035	Andaz Munich Schwabinger Tor		48.1720753	11.5864339	hotel	5	ANdAZ	Hyatt	https://www.hyatt.com/andaz/en-US/mucaz-andaz-munich-schwabinger-tor
+way	424087084	The K		48.1852595	11.6509406	hotel			Best Western Hotels Central Europe GmbH	https://www.bestwestern.de/hotels/Muenchen-Unterfoehring/BEST-WESTERN-Hotel-The-K-Munich-Unterfoehring/hotel
+way	431813030	Leonardo Hotel Munich City East		48.0866331	11.6463979	hotel		Leonardo Boutique		https://www.leonardo-hotels.de/munich/leonardo-hotel-munich-city-east
+way	679878586	Harry's Home		48.1792166	11.5057098	hotel				https://harrys-home.com/standorte/
+way	683063216	FirstSleep Boardinghouse		48.1365182	11.6475968	hotel		FirstSleep		http://firstsleep-group.com/properties/9/firstsleep-griesfeldstrasse
+way	876609753	Hotel Giesing		48.1012556	11.6059882	hotel				
+way	942240780	Motel One München Hauptbahnhof		48.1387763	11.5616121	hotel		Motel One		https://www.motel-one.com/de/hotels/muenchen/hotel-muenchen-hauptbahnhof/
+way	1015240718	M120 Hotel		48.1973939	11.6474755	hotel			M120 KG	https://m120-unterfoehring.de/
+way	1027294976	Hotel Alfa		48.1425585	11.5576026	hotel			Hotel Alfa GmbH	https://www.hotel-alfa.de/hotel/
+way	1115938047	Holiday Inn München Süd	Holiday Inn Munich South	48.0950451	11.5156678	hotel	4	Holiday Inn	Holiday Inn	https://www.ihg.com/holidayinn/hotels/us/en/munich/mucso/hoteldetail?qCoMy=112022
+way	1300934949	Ibis Styles München Airport		48.3540579	11.7591063	hotel		Ibis Styles	Accor Group	https://all.accor.com/hotel/B1M9/index.de.shtml
+way	1336471780	DEIN APART		48.1799371	11.6321271	hotel				https://www.dein-apart.de/
+relation	3251110	Novotel München Airport	Novotel Munich Airport	48.3546592	11.7589926	hotel	3.5	Novotel	Novotel (Accor)	https://all.accor.com/hotel/6711/index.de.shtml
+relation	8381074	Motel One München-Parkstadt Schwabing		48.1781967	11.5920612	hotel		Motel One		https://www.motel-one.com/en/hotels/munich/hotel-munich-parkstadt-schwabing/
+relation	13731875	Wyndham Garden Munich Messe		48.1328870	11.6634221	hotel				
+relation	18594682	PLAZA Premium München		48.1859775	11.6070830	hotel		PLAZA Premium	PLAZA Hotelgroup	

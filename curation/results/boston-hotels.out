@@ -1,0 +1,163 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	367780024	Hampshire House		42.3560419	-71.0712398	hotel				
+node	436166487	The Westin Boston Seaport District		42.3461860	-71.0427382	hotel		Westin	Westin	https://www.marriott.com/en-us/hotels/bosow-the-westin-boston-seaport-district/overview/
+node	542929848	Le Meridien Cambridge-MIT		42.3620538	-71.0999395	hotel		Le Méridien		
+node	940796827	Hyatt Place Boston/Medford		42.4170903	-71.1050818	hotel		Hyatt Place		https://www.hyatt.com/en-US/hotel/massachusetts/hyatt-place-boston-medford/boszm
+node	1325873780	Boston Harbor Hotel		42.3566602	-71.0503163	hotel				https://www.bostonharborhotel.com/
+node	1422964756	Revere Hotel Boston Common		42.3504434	-71.0670870	hotel			Pyramid Hotel Group	https://www.reverehotel.com/
+node	1667360408	The Colonnade Hotel		42.3457259	-71.0809307	hotel		Preferred™ Hotels & Resorts	Preferred Hotel Group™	https://www.colonnadehotel.com/
+node	1905364881	DoubleTree by Hilton Hotel Boston - Downtown		42.3488946	-71.0642452	hotel		DoubleTree		https://doubletree3.hilton.com/en/hotels/massachusetts/doubletree-by-hilton-hotel-boston-downtown-BOSCODT/index.html
+node	2299050787	HI Boston		42.3511012	-71.0633625	hostel		Hostelling International	Hosteling International	
+node	2350330785	The Eliot Hotel		42.3486873	-71.0887471	hotel		Preferred™ Hotels & Resorts	Preferred Hotel Group™	https://www.eliothotel.com/
+node	2350393265	Hotel Commonwealth		42.3485930	-71.0953263	hotel				https://www.hotelcommonwealth.com/
+node	2375714088	Inn at Longwood Medical		42.3382100	-71.1063752	hotel				
+node	2425716948	Hyatt Regency Boston		42.3534041	-71.0607712	hotel		Hyatt Regency	Hyatt	https://www.hyatt.com/en-US/hotel/massachusetts/hyatt-regency-boston/bosto
+node	2480156956	The Westin Copley Place		42.3485752	-71.0772032	hotel		Westin	The Westin Hotels and Resorts	https://www.marriott.com/hotels/travel/boswi-the-westin-copley-place-boston
+node	2634101716	Mary Prentiss Inn		42.3843027	-71.1188254	hotel				
+node	2690315568	Found Hotel Boston Common		42.3499628	-71.0663948	hotel				https://www.foundhotels.com/found-boston-common
+node	2818304792	The Revolution Hotel		42.3460570	-71.0708438	hotel				https://therevolutionhotel.com/
+node	3000733513	Hotel AKA Boston Common		42.3573301	-71.0606926	hotel				https://www.stayaka.com/hotel-aka-boston-common
+node	3000813985	"The Ritz-Carlton, Boston"		42.3531653	-71.0636868	hotel		The Ritz-Carlton	Ritz-Carlton	http://www.ritzcarlton.com/en/Properties/BostonCommon/Default.htm
+node	3046507038	Omni Parker House		42.3578372	-71.0602361	hotel			Omni Hotels & Resorts	https://www.omnihotels.com/hotels/boston-parker-house
+node	3046515723	Harborside Inn		42.3592716	-71.0528316	hotel				
+node	3866797857	Copley Square Hotel		42.3483514	-71.0787289	hotel			Saunders Family	https://www.copleysquarehotel.com/
+node	4127958289	The Godfrey Hotel Boston		42.3547320	-71.0614884	hotel				https://www.godfreyhotelboston.com/
+node	4130242612	XV Beacon		42.3583866	-71.0619489	hotel				https://xvbeacon.com/
+node	4130242613	Churchill at Boston View		42.3586425	-71.0623931	hotel				
+node	4130242614	Oakwood At Exeter Towers Hotel		42.3501599	-71.0794848	hotel				http://oakwood-at-exeter-towers.choosebostonhotel.com/
+node	4130242615	The Bostonian Boston		42.3610615	-71.0559058	hotel				
+node	4130242616	Oakwood at Downtown Boston		42.3591655	-71.0541539	hotel				
+node	4130242617	Marriott Vacation Club Pulse® at Custom House		42.3590801	-71.0536495	hotel		Marriott Vacation Club		https://www.marriott.com/hotels/travel/bosch-marriott-vacation-club-pulse-at-custom-house-boston/
+node	4130242618	Churchill At The Radian		42.3522131	-71.0590854	hotel				
+node	4130242621	Copley Inn		42.3458947	-71.0798440	hotel				
+node	4267278520	The Charles Hotel		42.3724623	-71.1230942	hotel				
+node	4424640489			42.3575483	-71.0697214	hotel				
+node	4446802129	Quarters on Dots		42.3357669	-71.0448637	hotel				
+node	4859558524	Holiday Inn Express Hotel & Suites	Holiday Inn Express Hotel & Suites	42.3732791	-71.0816117	hotel		Holiday Inn Express		https://www.ihg.com/holidayinnexpress/hotels/us/en/cambridge/boscb/hoteldetail
+node	4880733322	Backpackers Hostel and Bar		42.4033614	-71.0604324	hostel				
+node	6148575534	Residence Inn		42.3504330	-71.0476885	hotel		Residence Inn	Marriott International	https://www.marriott.com/hotels/travel/bosfp-residence-inn-boston-downtown-seaport/
+node	6501032286	TownePlace Suite Logan Airport		42.3875904	-71.0240645	hotel		Marriott	Marriott	https://www.marriott.com/boscl
+node	6912571385	DoubleTree by Hilton Boston Logan Airport Chelsea		42.3978683	-71.0399461	hotel		DoubleTree	Hilton	https://doubletree3.hilton.com/en/hotels/massachusetts/doubletree-by-hilton-boston-logan-airport-chelsea-BOSACDT/index.html
+node	7499693358	Charlesmark Hotel		42.3499981	-71.0785679	hotel				https://www.charlesmarkhotel.com/
+node	7533863113	The Newbury Boston		42.3529327	-71.0714884	hotel		Highgate	"Highgate Hotels, L.P."	https://www.thenewburyboston.com/
+node	7539230624	Courtyard		42.3485942	-71.0788563	hotel		Courtyard	"Marriott International, Inc."	https://www.marriott.com/hotels/travel/bosdt-courtyard-boston-copley-square/
+node	7623643467	Hyatt Centric Faneuil		42.3582474	-71.0571837	hotel		Hyatt Centric		https://www.hyatt.com/en-US/hotel/massachusetts/hyatt-centric-faneuil-hall-boston/bosct
+node	7646536035	The Whitney Hotel		42.3606355	-71.0710730	hotel			Hersha Hospitality Trust (NYSE: HT)	https://www.whitneyhotelboston.com/
+node	7686391352	Staypineapple		42.3469832	-71.0705055	hotel				https://www.staypineapple.com/south-end-boston
+node	7785682406	Newbury Guest House		42.3496572	-71.0832743	hotel				https://www.newburyguesthouse.com/
+node	7866671395	Mandarin Oriental		42.3486874	-71.0815996	hotel		Mandarin Oriental Hotel	Mandarin Oriental Hotel Group	https://www.mandarinoriental.com/boston/back-bay/luxury-hotel
+node	8765004988	Lark Hotels 907 Main Hotel		42.3635515	-71.0996244	hotel		Lark Hotels		https://www.larkhotels.com/massachusetts/cambridge/lark-hotels-907-main
+node	9413871104	Club Quarters Hotel		42.3563563	-71.0574951	hotel				https://clubquartershotels.com/boston/faneuil-hall
+node	9951889407	Fairfield Boston Medford		42.4027162	-71.0817889	hotel		Fairfield Inn		https://www.marriott.com/en-us/hotels/bosfo-fairfield-boston-medford
+node	9951889408	TownePlace Suites Boston Medford		42.4027161	-71.0817876	hotel		TownePlace Suites		https://www.marriott.com/en-us/hotels/bosto-towneplace-suites-boston-medford
+node	10756603187	Hotel 1868		42.3878905	-71.1195767	hotel				https://www.hotel1868.com/
+node	11745347620	Hotel Veritas		42.3710414	-71.1138836	hotel				
+node	11753230361	Hyatt Regency Boston / Cambridge		42.3540964	-71.1054261	hotel		Hyatt Regency		https://www.hyatt.com/en-US/hotel/massachusetts/hyatt-regency-boston-cambridge/bosrc
+node	11772604150	Courtyard Marriott Boston Cambridge		42.3587663	-71.1149464	hotel		Courtyard		https://www.marriott.com/hotels/travel/boscy-courtyard-boston-cambridge/
+node	11865880310	Courtyard		42.3658970	-71.0596290	hotel		Courtyard		https://www.marriott.com/bosne
+node	12032252690	The Row Hotel at Assembly Row		42.3933027	-71.0794206	hotel				
+node	12565789760	Hotel Aka		42.3492011	-71.0723940	hotel				
+node	13051134701	The Winthrop Arms		42.3868348	-70.9718197	hotel				https://winthroparms.com/
+node	13686846216	J. Miller Flats		42.3585176	-71.0708820	hotel				https://www.jmillerflats.com/
+way	29514371	Scholars House		42.3938173	-71.1266904	hotel				
+way	29518176	Hilton Boston Logan Airport		42.3673906	-71.0230624	hotel		Hilton		https://www3.hilton.com/en/hotels/massachusetts/hilton-boston-logan-airport-BOSLHHH/index.html
+way	29518365	Renaissance Boston Seaport District		42.3480871	-71.0392190	hotel		Renaissance		https://www.marriott.com/en-us/hotels/boswf-renaissance-boston-seaport-district/overview/
+way	29519461	Residence Inn / Fairfield Inn		42.3983640	-71.0391189	hotel		Residence Inn		https://www.marriott.com/bosfl
+way	29519640	Hampton Inn Boston Logan Airport Chelsea		42.3943096	-71.0445052	hotel		Hampton		https://www.hilton.com/en/hotels/boshthx-hampton-boston-logan-airport-chelsea/
+way	29537823	Holiday Inn		42.3813302	-71.0820308	hotel		Holiday Inn		
+way	29588383	Freepoint Hotel		42.3886109	-71.1421979	hotel			Independent Collection	https://www.freepointhotel.com/
+way	29615691	The Langham Boston		42.3565369	-71.0546109	hotel				https://www.langhamhotels.com/en/the-langham/boston
+way	29620676	The Kendall Hotel		42.3622337	-71.0872547	hotel				
+way	29621309	Eurostars The Boxer		42.3638945	-71.0624148	hotel		Eurostars Hotel Company		https://www.eurostarshotels.us/eurostars-the-boxer.html
+way	29624503	Hampton		42.4013189	-71.0062732	hotel		Hampton		https://www.hilton.com/en/hotels/boslahx-hampton-boston-logan-airport/
+way	29625335	Boston Marriott Long Wharf		42.3601835	-71.0508524	hotel		Marriott Hotels & Resorts		https://www.marriott.com/hotels/travel/boslw-boston-marriott-long-wharf/
+way	29627124	The Liberty Hotel		42.3620640	-71.0702514	hotel				http://www.libertyhotel.com/
+way	29628154	Raffles		42.3484279	-71.0750144	hotel		Raffles	Trinity Stuart LLC	http://www.bostonplans.org/projects/development-projects/40-trinity-place
+way	29638133	Homewood Suites		42.4019304	-71.1360741	hotel		Homewood Suites	Hilton	
+way	29642840	Constitution Inn		42.3763818	-71.0534012	hotel				https://www.constitutioninn.org/
+way	29650585	The Royal Sonesta Boston		42.3665619	-71.0751691	hotel		Sonesta	Sonesta	https://www.sonesta.com/royal-sonesta/ma/cambridge/royal-sonesta-boston?utm_source=google-local&utm_medium=organic&utm_campaign=gmb
+way	29650630	Residence Inn Cambridge		42.3638906	-71.0881057	hotel		Residence Inn	Marriot	https://www.marriott.com/hotels/travel/boscm-residence-inn-boston-cambridge/
+way	29710935	Comfort Inn and Suites		42.4117769	-71.0012596	hotel		Comfort Inn & Suites		https://www.choicehotels.com/massachusetts/woburn/comfort-inn-hotels
+way	29716183	The Verb Hotel		42.3453419	-71.0969246	hotel				https://www.theverbhotel.com/?utm_source=local-directories&utm_medium=organic&utm_campaign=travelclick-localconnect
+way	29716653	Best Western Plus		42.3317622	-71.0714689	hotel		Best Western Plus		https://www.bestwestern.com/en_US/book/hotels-in-boston/best-western-plus-boston-hotel/propertyCode.22046.html
+way	29787774	Courtyard Brookline		42.3409709	-71.1229506	hotel		Courtyard		https://www.marriott.com/bosbl
+way	29788023	DoubleTree		42.3603057	-71.1181648	hotel		DoubleTree		https://www.hilton.com/en/hotels/bossbdt-doubletree-suites-boston-cambridge/
+way	29788775	Sheraton Commander Hotel		42.3772703	-71.1232971	hotel		Sheraton		https://www.marriott.com/hotels/travel/boscs-sheraton-commander-hotel/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2
+way	29795910	Arcadian Hotel		42.3440493	-71.1159496	hotel				https://www.arcadianhotel.com/
+way	29803411	The Lenox Hotel Boston		42.3491509	-71.0796191	hotel			Saunders Hotel Group	https://www.lenoxhotel.com/
+way	29821980	La Quinta		42.3943234	-71.0847465	hotel		La Quinta Inn	Wyndham Hotels and Resorts	https://www.wyndhamhotels.com/laquinta/somerville-massachusetts/la-quinta-boston-somerville/overview
+way	29834415	Courtyard Boston Logan Airport		42.3873844	-71.0163118	hotel		Courtyard		https://www.marriott.com/hotels/travel/bosla-courtyard-boston-logan-airport
+way	29835103	Cambria Hotel		42.3715476	-71.0340242	hotel		Cambria Hotel		
+way	29847645	DoubleTree by Hilton Boston Bayside		42.3202865	-71.0479720	hotel		DoubleTree		https://www.hilton.com/en/hotels/boschdt-doubletree-boston-bayside/
+way	29847888	Hyatt Regency Boston Harbor		42.3591877	-71.0271787	hotel		Hyatt Regency		https://www.hyatt.com/en-US/hotel/massachusetts/hyatt-regency-boston-harbor/bosha
+way	29848477	Envision Hotel		42.4019660	-71.0481789	hotel			Ascend Hotels	https://envisionhotels.com/envision-hotels-destinations/everett-ma-hotel/
+way	29862747	Holiday Inn Express Boston		42.3272395	-71.0595750	hotel		Holiday Inn Express		https://www.ihg.com/holidayinnexpress/hotels/us/en/boston/boshj/hoteldetail
+way	29867722	Friend Street Hostel		42.3643271	-71.0611480	hostel				https://www.friendstreethostel.com/
+way	29888807	Farrington Inn		42.3542602	-71.1308890	hotel				https://farringtoninn.com/
+way	29931872	Residence Inn Boston Back Bay/Fenway		42.3458863	-71.1005840	hotel		Residence Inn	Marriott International	https://www.marriott.com/hotels/travel/bosfn-residence-inn-boston-back-bay-fenway/
+way	29933777	Hotel Boston		42.3417570	-71.1436408	hotel				
+way	29935533	Hampton Inn Boston/Cambridge		42.3722892	-71.0786278	hotel		Hampton	Hilton	https://hamptoninn3.hilton.com/en/hotels/massachusetts/hampton-inn-boston-cambridge-BOSCBHX/index.html
+way	29935565	The Amory Guest House		42.3708830	-71.1009504	hotel				https://theamoryhouse.com/
+way	29942404	Wyndham Boston Beacon Hill		42.3616783	-71.0666031	hotel		Wyndham		https://www.wyndhamhotels.com/wyndham/boston-massachusetts/wyndham-boston-beacon-hill/overview
+way	29964506	Seaport Hotel® Boston		42.3492217	-71.0415780	hotel				https://www.seaportboston.com/
+way	94482771	InterContinental Boston		42.3538128	-71.0520762	hotel		InterContinental	Intercontinental	https://www.intercontinentalboston.com/
+way	99366212	Battery Wharf Hotel (Sea Cloud Building)		42.3673657	-71.0503467	hotel				https://www.batterywharfhotelboston.com/
+way	99366214	Battery Wharf Hotel (Great Admiral Building)		42.3669786	-71.0500532	hotel				https://www.batterywharfhotelboston.com/
+way	104205249	W Boston		42.3508292	-71.0655661	hotel		W Hotels		https://www.marriott.com/hotels/travel/boswh-w-boston
+way	104207596	Hampton Inn		42.3325674	-71.0730425	hotel		Hampton		https://www.hilton.com/en/hotels/boshshx-hampton-suites-boston-crosstown-center/
+way	112759875	Courtyard South Boston		42.3264049	-71.0604047	hotel		Courtyard		
+way	132600546	Boston Marriott Cambridge		42.3632811	-71.0864999	hotel		Marriott	Marriott	
+way	212124033	Residence Inn by Marriott Boston Harbor on Tudor Wharf		42.3706346	-71.0605025	hotel		Residence Inn	Residence Inn Hotels	https://www.marriott.com/en-us/hotels/bostw-residence-inn-boston-harbor-on-tudor-wharf/overview/
+way	217796687	Best Western University Hotel		42.3415789	-71.1433193	hotel		Best Western		
+way	240501783	Boston Marriott Copley Place		42.3472371	-71.0777364	hotel		Marriott		https://www.marriott.com/hotels/travel/bosco-boston-marriott-copley-place
+way	241971727	140 Clarendon		42.3485927	-71.0744782	hotel				
+way	286531247	Boston Hotel Buckminster		42.3483534	-71.0977051	hotel				
+way	292811260	The Envoy Hotel		42.3536535	-71.0483516	hotel				https://www.marriott.com/hotels/travel/bosak-the-envoy-hotel-autograph-collection/
+way	405404576	The Inn At St Botolph		42.3450467	-71.0808485	hotel				
+way	405404584	Copley House		42.3445279	-71.0801666	hotel				
+way	405405467	Holiday Inn Express Hotel & Suites Boston Garden		42.3648285	-71.0617196	hotel		Holiday Inn Express		
+way	405683632	Courtyard Boston Downtown		42.3499983	-71.0656281	hotel		Courtyard		https://www.marriott.com/bosdm
+way	405911515	Beacon Hill Hotel and Bistro		42.3569144	-71.0696536	hotel				
+way	406123607	AC Hotel by Marriott Boston Downtown		42.3449988	-71.0619311	hotel		AC Hotel	Marriott	
+way	427525587	Harvard Square Hotel		42.3726932	-71.1220631	hotel				
+way	469334590	Porter Square Hotel		42.3891957	-71.1204818	hotel				https://www.theportersquarehotel.com/
+way	485019328	Onyx Hotel		42.3642031	-71.0613475	hotel				
+way	513450367	Fairfield Inn and Suites		42.3728794	-71.0798151	hotel		Fairfield Inn & Suites		https://www.marriott.com/bosbg
+way	518124238	AC Hotel Boston North		42.4022983	-71.0817597	hotel		AC Hotel		https://www.marriott.com/en-us/hotels/bosac-ac-hotel-boston-north
+way	536410297	YOTEL Boston		42.3523116	-71.0472321	hotel		YOTEL		
+way	560607697	Homewood Suites		42.3992784	-71.0393332	hotel		Homewood Suites		
+way	560607698	Holiday Inn Boston Logan Airport - Chelsea		42.4032402	-71.0191154	hotel		Holiday Inn		
+way	562583180	AC Hotel		42.3348271	-71.1503109	hotel		AC Hotel		
+way	564441562	Hilton Garden Inn Boston Logan Airport		42.3897618	-71.0122320	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/boslogi-hilton-garden-inn-boston-logan-airport/
+way	660623149	citizenM		42.3655871	-71.0618195	hotel		citizenM	GIC Private Limited	https://www.citizenm.com/hotels/united-states/boston/boston-north-station-hotel
+way	687795567	Encore Boston Harbor Hotel		42.3950324	-71.0694558	hotel				
+way	735206607	Embassy Suites by Hilton Boston at Logan Airport		42.3701798	-71.0318535	hotel		Embassy Suites		https://www.hilton.com/en/hotels/bosapes-embassy-suites-boston-at-logan-airport/
+way	737153942	The Row Hotel at Assembly Row		42.3936769	-71.0794116	hotel				
+way	743542819	Moxy Boston Downtown		42.3508836	-71.0645897	hotel		Moxy		https://www.marriott.com/en-us/hotels/bosox-moxy-boston-downtown/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0
+way	761543185	Hyatt Place Boston Seaport District		42.3473738	-71.0368471	hotel		Hyatt Place		https://www.hyatt.com/hyatt-place/en-us/boszs-hyatt-place-boston-seaport-district
+way	803428518	Cambria Hotel		42.3431858	-71.0569512	hotel		Cambria Hotel		https://choicehotels.com
+way	812981267	Aloft Boston Seaport District		42.3435933	-71.0447183	hotel		Aloft		https://www.marriott.com/en-us/hotels/bosal-aloft-boston-seaport-district/overview/
+way	812981271	Element Boston Seaport District		42.3429414	-71.0453771	hotel		Element		https://www.marriott.com/en-us/hotels/bosel-element-boston-seaport-district/overview/
+way	813965225	Residence Inn		42.3337571	-71.0815372	hotel		Residence Inn		https://www.marriott.com/bosro
+way	816316533	The Dagny		42.3573315	-71.0532276	hotel		Hilton		https://www3.hilton.com/en/hotels/massachusetts/hilton-boston-downtown-faneuil-hall-BOSFDHF/index.html
+way	816347916	The Fairmont Copley Plaza Hotel		42.3490609	-71.0761826	hotel		Accor Hotels	Accor Live Limitless (ALL)	https://www.fairmont.com/copley-plaza-boston/
+way	816690586	Home2 Suites		42.3260050	-71.0608199	hotel		Home2 Suites		https://www.hilton.com/en/hotels/bosbyht-home2-suites-boston-south-bay/
+way	816920601	John Jeffries House		42.3606180	-71.0713791	hotel				
+way	823957165	Hilton Garden Inn Boston Brookline		42.3321461	-71.1141194	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/bosbbgi-garden-inn-boston-brookline/
+way	856055563	Hampton Inn & Homewood Suites		42.3442251	-71.0380473	hotel		Hampton		https://www.hilton.com/en/hotels/bossyhw-homewood-suites-boston-seaport-district/
+way	856093881	Omni Boston at the Seaport		42.3469918	-71.0426863	hotel		Omni		https://www.omnihotels.com/hotels/boston-seaport
+way	892110463	SpringHill Suites		42.4131637	-70.9910584	hotel		SpringHill Suites		https://www.marriott.com/bossr
+way	935636062	Canopy by Hilton Boston Downtown		42.3616496	-71.0559941	hotel		Canopy		
+way	1144429556	Cambria Boston Somerville		42.3833586	-71.1057232	hotel		Cambria Hotel	Saunders Hotel Group	https://cambriasomerville.com/
+way	1163395023	Courtyard South Boston		42.3267649	-71.0602828	hotel		Courtyard		https://www.marriott.com/bosso
+way	1338781016	The Atlas Hotel		42.3636215	-71.1216769	hotel		Independent		https://www.theatlashotel.com/
+relation	63916	Four Seasons Hotel Boston		42.3520527	-71.0683352	hotel		Four Seasons		https://www.fourseasons.com/boston/
+relation	64093	Ramada Inn		42.2950069	-71.0466990	hotel		Ramada		
+relation	64919	Hilton Boston Park Plaza		42.3509740	-71.0693336	hotel		Hilton		https://www.hilton.com/en/hotels/bossrhh-hilton-boston-park-plaza/
+relation	65357	Studio Allston Hotel		42.3637156	-71.1363915	hotel				
+relation	2416083	The Midtown Hotel		42.3435270	-71.0834736	hotel				
+relation	3252402	Hilton Boston Back Bay		42.3463574	-71.0851509	hotel		Hilton		https://www3.hilton.com/en/hotels/massachusetts/hilton-boston-back-bay-BOSBHHH/index.html
+relation	3640314	Sheraton Boston Hotel		42.3465250	-71.0838516	hotel		Sheraton		https://www.marriott.com/hotels/travel/bosbo-sheraton-boston-hotel
+relation	11207403	Four Seasons Hotel One Dalton		42.3456929	-71.0839284	hotel		Four Seasons		https://onedalton.com/
+relation	17575546	citizenM Boston Back Bay hotel		42.3479345	-71.0887403	hotel		citizenM		https://www.citizenm.com/hotels/united-states/boston/boston-back-bay-hotel
+relation	17705207	Kimpton Marlowe Hotel		42.3679528	-71.0750896	hotel		Kimpton		https://www.hotelmarlowe.com/

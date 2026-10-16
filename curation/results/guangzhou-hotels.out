@@ -1,0 +1,265 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	335938409	中国大酒店	China Hotel Marriott	23.1425439	113.2544102	hotel	5	Marriott	Marriott	https://www.marriott.com/hotels/travel/canmc-china-hotel-a-marriott-hotel-guangzhou/
+node	393740621	广州海航威斯汀酒店	The Westin Guangzhou	23.1458312	113.3207985	hotel	5			
+node	892269822	天河宾馆		23.1409888	113.3156242	hotel				
+node	2098443316	海员宾馆	Seamen hotel	23.0976152	113.2691765	hotel				
+node	2098455384	广州嘻哈酒店公寓		23.0925010	113.2712664	hotel				
+node	2390697801	佳园酒店	Garden Inn	23.1287284	113.2701626	hotel				
+node	2468524848	7天便捷酒店	7 Days Hotel	23.1026443	113.2591731	hostel				
+node	2695708505	广州四季酒店	Four Seasons Hotel Guangzhou	23.1204288	113.3179702	hotel			Four Seasons Hotels & Resorts	https://www.fourseasons.com/guangzhou/
+node	3009776834	汉庭酒店	Hanting Hotel	23.1248978	113.2861802	hotel		汉庭酒店		
+node	3019472533	7天酒店	7 Days Inn	23.1365891	113.2823974	hotel		7天酒店		
+node	3019612274	7天		23.0961759	113.2717902	hostel				
+node	3023762333	7天酒店	7 Days Inn	23.1247448	113.2800297	hostel				
+node	3039181126	假日酒店	Holiday Inn	23.1156498	113.2398364	hotel		Holiday Inn		
+node	3041451487			23.1210230	113.2769217	hotel				
+node	3045407636	执信宾馆		23.1306054	113.2871385	hotel				
+node	3050204546	花城招待所		23.1404965	113.2694687	hotel				
+node	3053386933	7天		23.1463271	113.2822276	hostel				
+node	3248806968	东城宾馆		23.1166567	113.2783679	hotel				
+node	3262678061	奥克伍德豪景酒店		23.1322307	113.3232028	hotel				
+node	3292168114			23.1681231	113.2479459	hotel				
+node	3646916193	粤海喜来登酒店	Sheraton	23.1355201	113.3167255	hotel		喜来登		https://www.marriott.com.cn/hotels/cansi-sheraton-guangzhou-hotel/overview/
+node	3675755938	维也纳酒店	Vienna Hotels	23.1230100	113.2499614	hotel		维也纳酒店		
+node	3896658742	锦江都城酒店		23.1744268	113.2594842	hotel				
+node	3982987445	汉庭酒店	Hanting Hotel	23.1596571	113.2497389	hotel		汉庭酒店		
+node	4054766758	倾城酒店		23.1386096	113.2553182	hotel				
+node	4107553889	广州大信国际酒店		23.1711510	113.2621200	hotel				
+node	4242434950	白宫酒店	White House Hotel	23.1119229	113.2485735	hotel				http://baigong-hotel.cn/
+node	4308752389			23.1238870	113.3254868	hotel				
+node	4328161690	合晋帝苑酒店	The Royal Garden	23.0969817	113.3218377	hotel				http://www.theroyalgarden.com.cn
+node	4373172890	全季酒店	Ji Hotel	23.1512021	113.3204577	hotel		全季酒店		
+node	4481614414	广州天河希尔顿酒店	Hilton Guangzhou Tianhe	23.1488451	113.3152830	hotel	5	Hilton	Hilton Worldwide	https://www3.hilton.com/en/hotels/china/hilton-guangzhou-tianhe-CANGTHI/index.html
+node	4493549308	歌尔爵斯酒店	Gorgeous Hotel (Actual Location)	23.1550091	113.3124834	hotel				
+node	4557159101	金汇大厦		23.1190662	113.1997366	hotel				
+node	4607459093	维也纳酒店	Vienna Hotels	23.1484494	113.3005227	hotel		维也纳酒店		
+node	4737381797	7天连锁酒店		23.1233314	113.2733053	hostel				
+node	4751948821	和美宾馆	Hemei Hoel	23.1066626	113.2467571	hotel				
+node	4757142221	一碗半青年公寓	A bowl and a half Youth Hostel	23.1218855	113.2369858	hostel				
+node	4772198321	松涛别院		23.1925906	113.3017293	hotel				
+node	4799988521		баня Guangdong osotto recreation hotel	23.1072057	113.2453243	hotel				
+node	4838186023	皇冠假日酒店	Crowne Plaza	23.1407381	113.2775364	hotel	5	Crowne Plaza		https://www.ihg.com/crowneplaza/hotels/cn/zh/guangzhou/guhhr/hoteldetail
+node	4905284921	广州春田家家青年旅舍	Lazy Gaga Hostel	23.1257997	113.2516317	hostel				
+node	4907621921	广州辉盛阁国际公寓	Fraser Suites Guangzhou	23.1351700	113.3257649	hotel				
+node	4962135275	爱群大酒店	Oi Kwan Hotel	23.1122632	113.2519361	hotel				
+node	4982134224	元生态休闲酒店（南美店）		23.1757587	113.2519652	hotel				
+node	5066804030	国门酒店		23.1214261	113.3132716	hotel				
+node	5137594664	全季酒店	Ji Hotel	23.1285120	113.2910920	hotel		全季酒店		
+node	5137619841	华威达酒店		23.1292268	113.3374164	hotel				
+node	5138756979	东山宾馆		23.1326463	113.2939670	hotel				
+node	5148679762	和颐酒店		23.1000568	113.3316676	hotel				
+node	5148679766	速8酒店	Super 8	23.1004620	113.3320717	hotel		速8酒店		
+node	5194318623	速8酒店	Super 8 Hotel	23.1281380	113.2433626	hotel		速8酒店		
+node	5230055730	盛源宾馆		23.1272149	113.2856558	hotel				
+node	5230059191	家豪宾馆		23.1278716	113.2860420	hotel			家豪賓館	
+node	5230059192	凯瑞酒店		23.1278315	113.2862002	hotel			凱瑞酒店	
+node	5257147316	嘉冠希尔顿欢朋酒店		23.1293101	113.3370026	hotel				
+node	5262151191	大华酒店		23.1383161	113.3348583	hotel				
+node	5262151635	石牌酒店		23.1366196	113.3290917	hotel				
+node	5266078720	礼顿酒店	Leeden Hotel Guangzhou	23.1234468	113.3121718	hotel	4			
+node	5273238791	地中海国际酒店		23.1351527	113.3315523	hotel				
+node	5416241010	金莎大酒店		23.1876141	113.2516727	hotel				
+node	5419356793	如家酒店	Home Inn	23.0894265	113.2570147	hotel		如家酒店		
+node	5448672723	广州龙江酒店	Guangzhou Long Jiang Hotel	23.1215286	113.2477450	hotel				
+node	5448673024	拉合尔酒店	Lahore Hotel	23.1219998	113.2474711	hotel				
+node	5536777637	山水时尚酒店（广州东站店）	Shanshui Trends Hotel	23.1522347	113.3194109	hotel	3			
+node	5713790037	天一酒店		23.1085843	113.2641049	hotel				
+node	5969271217	CD创意园(广州南田路店)		23.1008981	113.2527869	hostel				
+node	6043569133	22栋4栋宿舍楼		23.1492640	113.3304035	hostel				
+node	6043569135	5栋宿舍		23.1483483	113.3295957	hostel				
+node	6043569137	培训楼宿舍		23.1483218	113.3304378	hostel				
+node	6044130291	鳴虹酒店		23.1316943	113.2868949	hotel				
+node	6247057917	锦江之星	Jinjiang Inn	23.1779556	113.2442257	hotel		锦江之星		
+node	6342990544	7天酒店	7 Days Inn	23.1224374	113.2587942	hotel		7天酒店		
+node	6343004422	金鹏宾馆		23.1265272	113.2351029	hotel				
+node	6343004458			23.1232688	113.2477354	hotel				
+node	6343005745	一德酒店		23.1164281	113.2564561	hotel				
+node	6351696011	丰宁		23.1237728	113.2481687	hotel				
+node	6351696092			23.1243862	113.2483377	hotel				
+node	6351696296		BYOU	23.1100098	113.2461760	hotel				
+node	6380401619	喜舍		23.1224254	113.2322872	hostel				
+node	6389100101	桃花江豪生酒店		23.1179126	113.2661794	hotel				
+node	6447375471	双溪旅舍		23.1781057	113.2988851	hotel				
+node	6447390215	山庄旅舍		23.1821590	113.2983096	hotel				
+node	6578357967	洛芙特酒店		23.0980372	113.2379206	hotel				
+node	6579930104	中共广东省委组织部招待所(广东东园宾馆)		23.1200644	113.2871547	hotel				
+node	6580017325	华山宾馆		23.1368102	113.2903869	hotel				
+node	6580964266	易尚国泰大酒店		23.1380963	113.2832374	hotel				
+node	6580998394	金燕酒店		23.1391657	113.2844371	hotel				
+node	6602686233	莱克酒店	Lucky Hotel Abel Guangzhou	23.1413625	113.2744148	hotel				
+node	6605169156	桔子水晶酒店		23.1385966	113.2848365	hotel				
+node	6726312680	一树花开青年旅舍	One tree and flower hostel	23.1203192	113.2337379	hostel				
+node	7008465022	维也纳酒店	Vienna Hotels	23.0671268	113.3012722	hotel		维也纳酒店		
+node	7080163043	丽枫酒店		23.1219217	113.2596227	hotel				
+node	7098393235	嘉鸿宾馆		23.1278303	113.2868976	hotel				
+node	7480500313	广州雅致酒店	Elegant Hotel	23.1166868	113.3275207	hotel				
+node	7822523725	安途生艺术酒店	Andersen Art Hotel	23.1127444	113.2588868	hotel				
+node	7967814457	美成酒店		23.1205146	113.3133255	hotel				
+node	8511320841	三寓宾馆		23.1311511	113.2958371	hotel				
+node	8568510018	新登峰宾馆	New Don Franc Hotel	23.1432280	113.2699731	hotel				
+node	8626998231	丽思卡尔顿酒店	Ritz-Carlton Hotel	23.1190423	113.3218208	hotel				
+node	8647016152	富豪酒店		23.1296768	113.2667769	hotel				
+node	9103156068			23.1705234	113.3382331	hotel				
+node	9115828835	竹园宾馆	Zhuyuan Hotel	23.1577463	113.3509057	hotel				
+node	9136845583	银海酒店		23.1182705	113.2693575	hotel				
+node	9247381418	广州文华东方酒店	"Mandarin Oriental, Guangzhou"	23.1371863	113.3277143	hotel		文华东方酒店集团		https://www.mandarinoriental.com/guangzhou/tianhe/luxury-hotel
+node	9255239299	广州越秀宾馆	Yuexiu Hotel Guangzhou	23.1381556	113.2669162	hotel		Curio Collection	希尔顿	
+node	9255239305	逸米酒店		23.1439433	113.2650710	hotel				
+node	9890085481	威力斯酒店		23.1130069	113.2523980	hotel				
+node	10969294221	全季酒店（花地湾店）	Ji Hotel	23.0983187	113.2228968	hotel		全季酒店		
+node	11023172705			23.1537869	113.2356032	hotel				
+node	11061931834	沙面宾馆		23.1090219	113.2386377	hotel				
+node	11072655992	大塘宾馆		23.0832991	113.3201804	hotel				
+node	11153574983	漫豪思酒店		23.1182762	113.2713377	hotel				
+node	11291968570	威珀斯酒店	Vaperse Hotel	23.1272004	113.3125866	hotel				
+node	11591844053	艾安酒店		23.1375054	113.2939547	hotel				
+node	11776546969		CityNote Hotel	23.1287656	113.2634056	hotel				
+node	11776548169	维也纳酒店	Vienna Hotel	23.1289118	113.2632702	hotel		维也纳酒店		
+node	11776564670	美居酒店	Mercure Hotel	23.1233852	113.2642634	hotel		美居酒店		
+node	12104667822	粤桂宾馆		23.1320615	113.2474728	hotel				
+node	12104667823	金川宾馆		23.1319917	113.2476678	hotel				
+node	12109681267	逸扉酒店	UrCove Hotel	23.1005559	113.3373682	hotel		UrCove		https://www.urcove-hotels.com
+node	12142372329		F Hotel	23.1298676	113.2667469	hotel				
+node	12161627027	Cally度假别墅		23.1175074	113.2324602	hotel				
+node	12186407683	希岸酒店		23.0950952	113.3217308	hotel				
+node	12211867739	嘉逸豪庭酒店		23.1483488	113.3215693	hotel				
+node	12284691501		Life Hotel	23.1376041	113.3377427	hotel				
+node	12295398201		Yue City Youth Apartment	23.1185137	113.2489630	hotel				
+node	12326900026	全季酒店	Ji Hotel	23.1029727	113.3431521	hotel		全季酒店		
+node	12486028764	柏高·雅酒店	Paco Hotel BeiJingLu	23.1200630	113.2642390	hotel				
+node	12619984945	半岛游艇会酒店		23.1058373	113.2920601	hotel				
+node	12677057101		Lavande Hotel	23.1321796	113.3157855	hotel				
+node	12703630324	龙湖冠寓		23.0874702	113.3060434	hotel				
+node	12709408046		Yifang Hotel	23.1256558	113.2365929	hotel				
+node	12717268018	广州盛捷海珠中心服务公寓	Somerset Haizhu Centre Guangzhou	23.0871061	113.3084599	hotel		Somerset		https://www.discoverasr.com/en/somerset-serviced-residence/china/somerset-haizhu-centre-guangzhou
+node	12916526051	丽致酒店		23.0952267	113.3276261	hotel				
+node	12997163101		Springtime Hotel	23.1638247	113.3229348	hotel				
+node	13036419109	宜致酒店		23.1350074	113.2400052	hotel				
+node	13036419110	全季酒店	Ji Hotel	23.1349608	113.2395230	hotel		全季酒店		
+node	13036499378	汉庭酒店	Hanting Hotel	23.1341616	113.2394138	hotel		汉庭酒店		
+node	13049619501		Novotel Guangzhou Baiyun Airport	23.3912230	113.2981345	hotel				https://all.accor.com/ssr/app/novotel/rates/B321/index.en.shtml?destination=guangzhou-guangdong-province-china&compositions=1&dateIn=2025-08-05&dateOut=2025-08-06&nights=1&hideWDR=false&accessibleRoom=false
+node	13049630601	柏高酒店(广州体育西路地铁站店)	Paco Hotel Tiyuxilu Metro Guangzhou	23.1330477	113.3145795	hotel				http://www.pacohotels.com/
+node	13164983901		Dongshan Gaga Hostel	23.1278606	113.3029525	hostel				
+node	13176403201		From K Huan Kai Hotel	23.1307264	113.3163539	hotel				
+node	13366937002	全季酒店	Ji Hotel	23.1180947	113.2673747	hotel		全季酒店		
+node	13437839401		Desti youth hostel	23.1368245	113.2370370	hostel				
+node	13445144001		Test	23.1299038	113.2590470	hotel				
+node	13446053701		"Yi-Zhi (Beijing Road Pedestrian Street, Gongyuanqian Metro Station, Guangzhou)"	23.1278457	113.2585744	hotel				
+node	13536098660	丽枫酒店		23.0753867	113.2832876	hotel				
+node	13591984262	广州樱花小筑酒店		23.0675316	113.3396471	hotel				
+node	13609285502	Baiyunport AOC		23.3753407	113.2948084	hotel				
+node	13609285802	Airport Apartment		23.3716108	113.2868561	hotel				
+node	13624216451	宜必思酒店	Ibis	23.0814052	113.3426284	hotel		宜必思酒店		
+node	13664025868	亚朵酒店	Atour Hotel	23.0834752	113.2961869	hotel		亚朵酒店		
+node	13666230371	希尔顿欢朋酒店		23.0709483	113.2848062	hotel				
+node	13704653702		Days Inn Gaungzhou	23.1843535	113.2575855	hotel				
+node	13819939930	全季酒店	Ji Hotel	23.1624954	113.2587515	hotel		全季酒店		
+node	13819939931	全季酒店	Ji Hotel	23.1623407	113.2529909	hotel		全季酒店		
+node	13819939933	全季酒店	Ji Hotel	23.1758614	113.2542279	hotel		全季酒店		
+node	13819939946	全季酒店	Ji Hotel	23.1829753	113.2454837	hotel		全季酒店		
+node	13820547157	全季酒店	Ji Hotel	23.1652025	113.2289743	hotel		全季酒店		
+node	13820547160	全季酒店	Ji Hotel	23.1809416	113.2203136	hotel		全季酒店		
+node	13887780001	My Home		23.0878019	113.3080176	hotel				
+node	13887807701			23.0886057	113.3076134	hotel				
+node	13899174583	星都国际青旅		23.0897715	113.3534790	hostel				
+node	13937422325	站前逸居(广州白云火车站三元里大道店)		23.1860049	113.2453298	hotel				
+node	13937961850	趣住精品公寓(芳村西塱地铁站店)-		23.0702747	113.2278898	hotel				
+node	13937961851	希悦客酒店公寓（嘉洲广场店）		23.1148030	113.1858423	hotel				
+node	13937961852	华悦公寓(广州北京路步行街店)		23.1238316	113.2641561	hotel				
+node	13937961853	亚特兰城市公寓（佛山盐步公园店）		23.0902335	113.1785039	hotel				
+node	13938079224	非繁城品酒店（佛山广佛路店）		23.1158783	113.1917286	hotel				
+node	13938079225	友谊楼民宿（万达广场店）		23.1403954	113.1940431	hotel				
+node	14112298501	君悦公寓		23.1152204	113.2483627	hostel				
+node	14112317801	如家公寓 (广州越秀店) (流花雅轩A座1303室)		23.1447058	113.2471933	hotel				
+node	14138697982	中大凯丰酒店	Sun Yat Sen Kaifeng Hotel	23.1049389	113.2937314	hotel			中山大学	
+node	14140382471	广州珠江太古仓亚朵S酒店	Atour S Hotel Zhujiang Taigucang Guangzhou	23.0825756	113.2612029	hotel		亚朵		
+node	14157098701		Dami Qingju · TAMI HOUSE (Guangzhou Beijing Road Pedestrian Street Jiniantang Subway Station)	23.1379124	113.2562025	hotel				
+node	14257606922	迎商酒店	Yingshang Hotel	23.1309824	113.2503409	hotel		迎商酒店		https://yingshanghotels.com
+way	29117856	广东亚洲国际大酒店		23.1408522	113.2747790	hotel				
+way	167195005	华师粤海酒店	Yuehai hotel	23.1387619	113.3445955	hotel	4			http://www.suiyohotel.com/zg/View.asp?hotelid=20111121192622
+way	220237789	铂尔曼酒店		23.3915495	113.2982198	hotel				
+way	297001257			23.1415431	113.2726049	hotel				
+way	297001260	东悦酒店	Dongyue Hotel	23.1452247	113.2728999	hotel				
+way	298026895	富港酒店		23.1456790	113.2730485	hotel				
+way	298469945	水善坊酒店		23.1227392	113.2813030	hotel				
+way	298794139	广州希尔顿逸林酒店	DoubleTree by Hilton Hotel Guangzhou	23.1342368	113.2656669	hotel	5		HIlton Hotels	https://doubletree3.hilton.com/en/hotels/china/doubletree-by-hilton-hotel-guangzhou-CANSCDI/index.html?WT.mc_id=zELWAKN0APAC1DT2DMH3LocalSearch4DGGenericx6CANSCDI
+way	299661788	广东大厦	Guangdong Hotel	23.1346151	113.2622253	hotel				
+way	299812753	富力君悦大酒店	Grand Hyatt	23.1248079	113.3180462	hotel		Grand Hyatt		https://guangzhou.grand.hyatt.com/zh-Hans/hotel/home.html
+way	300458391	迎商酒店		23.1276847	113.2864708	hotel				
+way	300917760	喜尔宾酒店	Hilbin Hotel	23.1249399	113.2727138	hotel				
+way	303255382	云来斯堡酒店	Vanburgh Hotel	23.1281173	113.3364464	hotel				
+way	303719965	远洋酒店		23.1392754	113.3365157	hotel				
+way	315014884	广州万富希尔顿酒店	Hilton Guangzhou Baiyun	23.1781170	113.2628803	hotel	5			
+way	321232746	华海大厦	Huahai Hotel	23.0965457	113.2696454	hotel				
+way	322009627	亚朵酒店	Atour Hotel	23.1743863	113.2465773	hotel		亚朵酒店		
+way	322629051			23.1360398	113.3141512	hostel				
+way	328114581	东风大酒店		23.1331975	113.2772312	hotel				
+way	330026911	广东省经贸委招待所		23.1433520	113.2798160	hostel				
+way	330026912			23.1435532	113.2796666	hostel				
+way	330026920			23.1423343	113.2811802	hotel				
+way	331619290	广视宾馆		23.1438935	113.2765332	hotel				
+way	331619304	白云宾馆	Baiyun Hotel	23.1407002	113.2806747	hotel	5		白云宾馆集团	https://www.baiyun-hotel.com/
+way	332492066			23.1177212	113.2761924	hostel				
+way	337169460	广州莱宾斯基国际大酒店		23.1820886	113.2505991	hotel				
+way	338030942	流花宾馆		23.1490973	113.2509604	hotel				
+way	352610262	广东悦海宾馆	Guangdong Yuehai Hotel	23.1094045	113.2411596	hotel				
+way	352610264	广东侨胞宾馆	Guangdong Oversea Chinese Hotel	23.1094527	113.2414376	hotel				
+way	362349424	广东迎宾馆	Guangdong Yingbin Hotel	23.1311026	113.2558151	hotel				http://yingbinhotel.cn/index.html
+way	389899906	广州宾馆	Guangzhou Hotel	23.1186419	113.2604063	hotel				
+way	394843504	珠海特区大酒店	Zhuhai Special Economic Zone Hotel	23.1284279	113.2520060	hotel				
+way	394844779	新世界大酒店	New World Hotel	23.1311712	113.2498202	hotel				
+way	406768509	紫荆园		23.0956470	113.2934863	hotel				
+way	427363437	继续教育住宿部		23.1404303	113.3471142	hotel				
+way	436181819	东方宾馆		23.1419625	113.2530560	hotel	5	岭南酒店	广州岭南国际酒店管理有限公司	https://www.lnhotels.com/brand_df/hotels/index/hotel_id/5.html
+way	442144785	迎宾楼		23.1455135	113.2493220	hostel				
+way	442144788	总医院流花招待所		23.1452508	113.2496666	hostel				
+way	471508185	鸣泉居		23.1891222	113.2822673	hotel				http://www.mqjgz.cn/
+way	494859611	金城宾馆		23.1257138	113.2881314	hotel				
+way	509637905	Ramada		23.1537583	113.3234142	hotel	5	Ramada		
+way	509637906		Guang Zhou Mao Hotel	23.1543501	113.3223206	hotel	3			
+way	513793179	正佳万豪酒店	Guangzhou Marriott Hotel Tianhe	23.1352884	113.3208039	hotel	5	Marriott		https://www.marriott.com.cn/hotels/canti-guangzhou-marriott-hotel-tianhe/overview/
+way	530126415	长铁酒店		23.1583353	113.2441129	hotel				
+way	540602676	招待所		23.1323636	113.3450347	hostel			暨南大學	
+way	540991444	广州星都大酒店		23.0907348	113.2689091	hotel				
+way	541844704	锦泰酒店	Jintai Hotel	23.1118528	113.2502779	hotel				
+way	547065944	W酒店	W Hotels	23.1244653	113.3232102	hotel		W Hotels		https://www.marriott.com/en-us/hotels/canwg-w-guangzhou/
+way	582734796	泓德国际酒店		23.1518924	113.3291673	hotel				
+way	582746718	赛宝酒店		23.1598089	113.3323678	hotel				
+way	583071213	金万丽商务酒店		23.1508538	113.3310423	hotel				
+way	584130646	嘉逸国际酒店		23.1434718	113.3294225	hotel				
+way	584130647			23.1437231	113.3291838	hotel				
+way	629642605	华泰宾馆		23.1361665	113.2847037	hotel				
+way	638309067	南航明珠大酒店	Southern Airlines Pearl Hotel	23.3746940	113.2911127	hotel				
+way	691318442	仲恺招待所		23.1123008	113.2744367	hotel				
+way	699238369	广州滨江东路广州塔亚朵酒店		23.1054326	113.3033353	hotel				
+way	700305104	广州远洋宾馆		23.1371883	113.2863655	hotel				
+way	700313898	臻颐度假酒店(未开业)		23.0959060	113.2400009	hotel				
+way	778051937	城市便捷酒店 (City Comfort Inn)		23.1648731	113.2738343	hotel				
+way	791257923	白天鹅宾馆	White Swan Hotel	23.1084411	113.2373609	hotel				https://www.whiteswanhotel.com
+way	799836633	广州琥珀东方酒店		23.1271335	113.3088955	hotel				
+way	860377672	C+公寓		23.1272365	113.2219342	hostel				
+way	861095751	丽枫酒店		23.0906071	113.3487755	hotel		丽枫		
+way	925786243	汇泉酒店		23.0784833	113.2240058	hotel				
+way	927715197	东漖商务酒店		23.0840166	113.2202268	hostel				
+way	928121261	华厦大酒店	Hotel Landmark Canton	23.1175415	113.2626130	hotel				https://www.hotel-landmark.com.cn/
+way	934814410	流花宾馆		23.1487639	113.2507054	hotel				
+way	941674361	希尔顿欢朋酒店		23.1439003	113.3104277	hotel				
+way	942147730			23.1089993	113.2382266	hotel				
+way	942947462	云来斯堡酒店	Vanburgh Hotel	23.1280972	113.3364540	hotel				
+way	945829972			23.1127895	113.2522014	hotel				
+way	945829974			23.1125392	113.2518712	hotel				
+way	948215904	希尔顿花园酒店	Hilton Garden Inn	23.1576590	113.3091714	hotel		Hilton Garden Inn		
+way	982458082	漫豪思酒店	Manhao Hotel	23.1103943	113.2406503	hotel				
+way	985751711	帅府宾馆		23.1216953	113.2964482	hotel				
+way	986109451			23.1575038	113.3509220	hotel				
+way	1060086932	丽呈铂锐酒店(广州塔琶洲会展店)		23.0917600	113.3270418	hotel				
+way	1287276329	丽枫酒店		23.0963787	113.3223508	hotel				
+way	1416296934	广州白云国际机场云智酒店	Guangzhou Baiyun Airport Yunzhi Hotel	23.3714953	113.2874778	hotel				
+way	1416296935	全季酒店	Ji Hotel	23.3719779	113.2876167	hotel		全季酒店		
+way	1416296937	广州空港万豪万枫		23.3716039	113.2881826	hotel		Fairfield Inn		
+way	1430608476	梅花园林酒店		23.1819010	113.3156702	hotel				
+way	1471518646	全季酒店	Ji Hotel	23.1964126	113.2625458	hotel		全季酒店		
+way	1518044190	广东胜利宾馆	Guangdong Victory Hotel	23.1104606	113.2401048	hotel				
+way	1524496836	广州高斯酒店		23.1005111	113.3402258	hotel				
+way	1564805957	卡西尔花园酒店		23.1448921	113.2008636	hotel				
+relation	15543701	中国大酒店		23.1423702	113.2551430	hotel				

@@ -1,0 +1,229 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	2164946761	HollywoodHostels		34.1013232	-118.3392963	hostel				http://www.ushostel.com/
+node	2165069060	Hollywood Highland Hotel & Hostel		34.1013461	-118.3428997	hostel			http://www.yelp.com/user_details?userid=mHYJTqtJnryCwiFtQopJ_g	https://www.yelp.com/biz/hollywood-highland-hotel-and-hostel-los-angeles
+node	4113561298	Koryu		34.0768537	-118.2918843	hotel				
+node	4123733978	Ray W. Suites		34.1017759	-118.3366311	hotel				
+node	4433581966	Banana Bungalow West Hollywood		34.0818329	-118.3616791	hostel				
+node	4937969023	2TwentyOne	2TwentyOne	33.9185862	-118.4185768	hostel				
+node	4966403216	The PodShare - Downtown Los Angeles Location		34.0481633	-118.2337515	hostel				
+node	4966403217	The PodShare - Hollywood Location		34.1007535	-118.3289558	hostel				
+node	5289046521	ROOM AND BOARDING		34.0813415	-118.2866372	hostel				http://roomboarding.web.fc2.com
+node	5759834822	H California Hostel		34.1025657	-118.3230506	hostel				
+node	6486232371	Freehand Los Angeles		34.0448734	-118.2567592	hotel				
+node	6486255301	"Hotel Per La, Autograph Collection"		34.0468470	-118.2555170	hotel				https://www.hotelperla.com/
+node	6486380556	Courtyard		34.0457869	-118.2657870	hotel		Courtyard		
+node	6486385982	JW Marriott Los Angeles L.A. Live		34.0452979	-118.2664820	hotel		JW Marriott		
+node	6486400675	Tuck Hotel		34.0425115	-118.2539737	hotel				
+node	8369844542	Residence Inn		34.0459839	-118.2656590	hotel		Residence Inn		https://www.marriott.com/laxri
+node	8455522676			34.0955931	-118.2877084	hostel				
+node	9155856908	The Shay		34.0280250	-118.3873910	hotel				https://www.hyatt.com/en-US/hotel/california/the-shay/laxdi
+node	9370691870	Sheraton Grand Los Angeles		34.0477069	-118.2583016	hotel		Sheraton	Sheraton Hotels	https://www.marriott.com/en-us/hotels/laxgr-sheraton-grand-los-angeles/overview/
+node	9774638781	Homewood Suites by Hilton Los Angeles International Airport		33.9460537	-118.3928950	hotel		Homewood Suites		https://www.hilton.com/en/hotels/laxswhw
+node	9774638782	"H Hotel Los Angeles, Curio Collection by Hilton"		33.9460530	-118.3927180	hotel		Curio Collection		https://www.hilton.com/en/hotels/laxcaqq
+node	9956137767	InterContinental Los Angeles Downtown	InterContinental Los Angeles Downtown	34.0500222	-118.2600358	hotel		InterContinental		
+node	9986845079	Los Angeles Athletic Club		34.0465524	-118.2551300	hotel				https://laac.com/
+node	9998789017	Trylon hotel		34.1054170	-118.3314767	hotel				
+node	10116298417	Bethel House		34.0410152	-118.2875605	hostel				
+node	10129049746	Conrad Los Angeles Hotel		34.0551379	-118.2485056	hotel		Conrad		https://www.hilton.com/en/hotels/laxavci-conrad-los-angeles/
+node	10713118605	LA Modern Hostel		34.0370218	-118.3461019	hostel				
+node	10754560405	Hollywood Stay		34.0419850	-118.2850377	hostel				
+node	10757362805	The Rumi		34.0570413	-118.3075295	hostel				
+node	12092024169	Tuscan Garden Inn		34.0519059	-118.2814959	hotel				
+node	12108713271	Moxy		34.0406639	-118.2674897	hotel		Moxy		
+node	12108713272	AC Hotel		34.0409131	-118.2672406	hotel		AC Hotel		
+node	12215206992	Hotel Covell		34.0998804	-118.2901832	hotel				https://www.hotelcovell.com/
+node	12897377401	The Delphi Hotel Downtown LA		34.0502292	-118.2570911	hotel				https://www.thedelphihotel.com
+node	13253155317	Samesun Hostel		34.1013896	-118.3393354	hostel				
+node	13694101009	STILE Downtown Los Angeles by Kasa		34.0418310	-118.2570180	hotel				https://kasa.com/properties/stile-downtown-los-angeles-by-kasa
+node	13954855566	Kins Hotel		34.0633838	-118.2963581	hotel				https://www.thekinshotel.com/
+node	13955712029	Libra Hotel		34.0636422	-118.3082591	hotel				https://www.librahotella.com/
+way	33528271	Westin Bonaventure		34.0527577	-118.2558530	hotel		Westin		
+way	97790954	Hotel Beverly Terrace		34.0802745	-118.3901085	hotel				
+way	138203847	Montrose at Beverly Hills		34.0877916	-118.3874025	hotel		Springboard Hospitality		https://www.montrosewesthollywood.com/
+way	206510497	"Dream Hollywood, by Hyatt"		34.1001720	-118.3301925	hotel		Hyatt		https://www.hyatt.com/en-US/hotel/california/dream-hollywood/laxdz
+way	304720518	Renaissance Hotel		33.9488969	-118.3848609	hotel		Renaissance	Marriott	
+way	326496445	Renaissance Hotel		33.9488804	-118.3854161	hotel		Renaissance	Marriott	
+way	376153288	Rotex Hotel		34.0528860	-118.3124934	hotel				https://www.hotelkoxie.com/
+way	377399594	Comfort Inn		34.0983833	-118.3432292	hotel		Comfort Inn		
+way	390897791	The Carlyle Inn		34.0564848	-118.3840017	hotel				
+way	390999505	Ramada Plaza West Hollywood Hotel & Suites		34.0886458	-118.3786936	hotel		Ramada		https://www.ramadaweho.com/
+way	391068175			34.0757809	-118.3702938	hotel				
+way	391198162	Palihouse West Hollywood		34.0727131	-118.3728268	hotel				http://www.palihousewesthollywood.com/
+way	391212062	The London West Hollywood		34.0896999	-118.3850199	hotel				https://www.thelondonwesthollywood.com/
+way	391227829	Chamberlain West Hollywood		34.0898308	-118.3788929	hotel				https://www.chamberlainwesthollywood.com/
+way	391383681	Sofitel Los Angeles at Beverly Hills	Sofitel Los Angeles at Beverly Hills	34.0763516	-118.3775707	hotel		Sofitel		
+way	391383710			34.0771118	-118.3812194	hotel				
+way	401904732	Oxford Palace		34.0581513	-118.3082348	hotel				https://www.oxfordhotel.com/
+way	401907371			34.0575611	-118.2979671	hotel				
+way	401907373	Hometel Suites		34.0575081	-118.2967936	hotel				https://www.hometelsuites.com/
+way	402237193			34.0572343	-118.2950407	hotel				
+way	406923924	University of Southern California Hotel		34.0192910	-118.2810852	hotel				https://uschotel.usc.edu/
+way	407364775	Americas Best Value Inn & Suites Los Angeles Downtown SW		34.0079967	-118.3085826	hotel				
+way	409006591			33.9986613	-118.2787293	hotel				
+way	413226210	Sonesta Los Angeles Airport LAX		33.9463548	-118.3890564	hotel		Sonesta		https://www.sonesta.com/sonesta-hotels-resorts/ca/los-angeles/sonesta-los-angeles-airport-lax/
+way	413226213	Embassy Suites by Hilton Los Angeles International Airport North		33.9469661	-118.3865531	hotel		Embassy Suites		https://www.hilton.com/en/hotels/laxabes-embassy-suites-los-angeles-international-airport-north/
+way	413226238	Sheraton Gateway Los Angeles Hotel		33.9466336	-118.3908277	hotel		Sheraton		https://www.marriott.com/hotels/travel/laxsi-sheraton-gateway-los-angeles-hotel/
+way	413226259	Hyatt Regency Los Angeles International Airport		33.9460765	-118.3951661	hotel		Hyatt Regency	Hyatt	https://losangelesairport.regency.hyatt.com/en/hotel/home.html
+way	413227404	Hyatt Place LAX / Century Blvd		33.9463023	-118.3882391	hotel		Hyatt Place		https://www.hyatt.com/en-US/hotel/california/hyatt-place-lax-century-blvd/laxzl
+way	413227693	Courtyard Los Angeles LAX/Century Boulevard		33.9468182	-118.3936511	hotel		Courtyard		https://www.marriott.com/laxcy
+way	413227964	Residence Inn Los Angeles LAX/Century Boulevard		33.9461400	-118.3873829	hotel		Residence Inn		https://www.marriott.com/laxax
+way	415373945	Holiday Inn Express		33.9590625	-118.3849316	hotel		Holiday Inn Express		https://www.ihg.com/holidayinnexpress/hotels/us/en/los-angeles/laxat/hoteldetail
+way	419823551	"Avenue Hotel, Ascend Hotel Collection"		34.0771535	-118.2922159	hotel				
+way	419910818	Silver Lake Hotel		34.0758478	-118.2851377	hotel				
+way	419946775	Comfort Inn Los Angeles Near Hollywood		34.0810887	-118.2704071	hotel		Comfort Inn		https://www.choicehotels.com/california/walnut/quality-inn-hotels
+way	419974973	Holiday Inn Express		34.0587035	-118.2742329	hotel		Holiday Inn Express		https://www.ihg.com/holidayinnexpress/hotels/us/en/los-angeles/laxwd/hoteldetail
+way	420146162	Economy Inn		34.0977448	-118.3060409	hotel				
+way	420147164	Hollywood Stars Inn		34.0984186	-118.3083377	hotel				
+way	420148155	Silver Lake Pool & Inn		34.0918523	-118.2828186	hotel				
+way	420442967	Chateau Celeste Hollywood Hotel		34.0929510	-118.2921195	hotel				
+way	420458200	Travelodge Hollywood-Vermont/Sunset		34.0968926	-118.2923529	hotel		Travelodge		http://www.travelodgehollywood.com
+way	420674106	Four Points by Sheraton Los Angeles International Airport		33.9479013	-118.3850020	hotel		Four Points by Sheraton		https://www.marriott.com/hotels/travel/laxfp-four-points-los-angeles-international-airport/
+way	420679572	Hotel June		33.9587576	-118.4187319	hotel				
+way	420985974	Embassy Suites by Hilton Los Angeles International Airport South		33.9305916	-118.4007382	hotel		Embassy Suites		https://www.hilton.com/en/hotels/laxeses-embassy-suites-los-angeles-international-airport-south/
+way	421670277	Hollywood Historic Hotel		34.0833443	-118.3130427	hotel				https://hollywoodhistorichotel.com/
+way	421682252	Dunes Inn		34.0984595	-118.3124183	hotel				
+way	422141132	Hollywood Night Suites		34.1033585	-118.3236694	hotel				
+way	422142251	Hollywood Panorama Suites		34.0985509	-118.3192581	hotel				
+way	422145255	Le Bon Hotel		34.1002077	-118.3249442	hotel				
+way	422145336	Villa Delle Stelle		34.0990920	-118.3217809	hotel				
+way	423021318	ReTan		34.1026203	-118.3330270	hotel				
+way	423021347	The Aster		34.1023896	-118.3271429	hotel		Independent		https://www.theasterla.com/
+way	423021364	The Hotel Hollywood		34.1037192	-118.3288125	hotel				
+way	423253949	USA Hostels		34.1005828	-118.3321007	hostel				https://www.usahostels.com/directions.html?h=1
+way	423253965	Mama Shelter (Los Angeles)		34.0996228	-118.3313756	hotel		Mama Shelter		
+way	424105901	Orange Drive Hostel		34.1035173	-118.3413068	hotel				https://www.orangedrivehostel.com/
+way	424105981	Hollywood Orchid Suites		34.1031213	-118.3406265	hotel				
+way	424106008	Fenix Hotel		34.1038374	-118.3444208	hotel				
+way	424106039	Loews Hollywood Hotel		34.1032660	-118.3395973	hotel				
+way	424106043	Hollywood Celebrity Hotel		34.1037404	-118.3406067	hotel				https://www.hotelcelebrity.com/
+way	424945821	DoubleTree by Hilton Hotel LAX - El Segundo		33.9197665	-118.3918123	hotel		DoubleTree		https://www.hilton.com/en/hotels/laxegdt-doubletree-lax-el-segundo/
+way	424946253	Hilton Garden Inn LAX/El Segundo		33.9230325	-118.3883644	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/laxaggi-hilton-garden-inn-lax-el-segundo/
+way	425656079	The MOMENT Hotel		34.0976859	-118.3514522	hotel				
+way	425737804	Palihotel Melrose Avenue		34.0835351	-118.3629401	hotel				
+way	426209870	Hollywood Inn Express South		34.0677973	-118.2700320	hotel				
+way	426254711	Central Lake Hotel		34.0615821	-118.2707972	hotel				
+way	426255093	Cameo Hotel		34.0590281	-118.2716681	hotel				
+way	426709281	Hotel Solaire		34.0541558	-118.2728617	hotel				
+way	426709640	The Mayfair Hotel		34.0518233	-118.2678533	hotel				https://themayfair.thelosangeleshotels.com/en/
+way	426712359	Staples Centre Inn	Staples Centre Inn	34.0510191	-118.2770892	hotel				
+way	426712547	The Live Hotel		34.0513184	-118.2776586	hotel				
+way	427272087	Best Western Plus La Mid-Town Hotel		34.0633447	-118.2932640	hotel		Best Western Plus		https://www.bestwestern.com/en_US/book/hotels-in-los-angeles/best-western-plus-la-mid-town-hotel/propertyCode.05724.html
+way	427274619	Hotel Normandie		34.0633392	-118.3007305	hotel				https://www.hotelnormandiela.com/
+way	427274623	The Line		34.0621846	-118.3009835	hotel			Sydell Group	https://www.thelinehotel.com/
+way	427526450	Hilton Garden Inn		34.1066408	-118.3377971	hotel		Hilton Garden Inn	Hilton	https://www.hilton.com/en/hotels/laxhogi-hilton-garden-inn-los-angeles-hollywood/
+way	427526918	Hotel Lexen		34.1072214	-118.3371007	hotel				
+way	427527055	BLVD		34.1070017	-118.3368672	hotel				
+way	427532193	The L.A. Grand Hotel Downtown		34.0547008	-118.2555829	hotel				
+way	427532195	Omni Los Angeles Hotel		34.0525759	-118.2504345	hotel				https://www.omnihotels.com/hotels/los-angeles-california-plaza
+way	427533181	Park Plaza Hotel		34.0609139	-118.2791158	hotel		Park Plaza		
+way	427741648	The Adler		34.1054099	-118.3236883	hotel				
+way	427817498	Miyako Hotel	Miyako Hotel	34.0496671	-118.2402793	hotel				https://www.miyakola.com/
+way	427817535	New Daimaru Hotel	New Daimaru Hotel	34.0497796	-118.2396425	hotel				
+way	427817542	Little Tokyo Hotel	Little Tokyo Hotel	34.0500922	-118.2400116	hotel				https://www.littletokyohotel.top/
+way	427817624			34.0457573	-118.2423875	hotel				
+way	427817639	DoubleTree by Hilton Hotel Los Angeles Downtown	DoubleTree by Hilton Hotel Los Angeles Downtown	34.0505303	-118.2426654	hotel		DoubleTree		https://www.hilton.com/en/hotels/laxdtdt-doubletree-los-angeles-downtown/
+way	427824167			34.0605593	-118.2848876	hotel				
+way	427938800	La Jolla Hotel		34.0410473	-118.2428074	hotel				
+way	427938918	Regal Hotel		34.0406834	-118.2422218	hotel				
+way	427938922	Rossmore Hotel		34.0399307	-118.2410088	hotel				
+way	427939193	Ellis Hotel		34.0404580	-118.2428443	hotel				
+way	427942886	Kawada Hotel		34.0527431	-118.2477049	hotel				
+way	427942941	Senator Hotel		34.0436343	-118.2525717	hotel				
+way	428015098	St. George Hotel		34.0491736	-118.2453191	hotel				
+way	428015167			34.0472545	-118.2466527	hotel				
+way	428015195	King Edward Hotel		34.0464145	-118.2477450	hotel				
+way	428017455	Rosslyn		34.0467657	-118.2489822	hotel				
+way	428017457	Stay on Main		34.0442020	-118.2505789	hotel				https://stayonmain.com/
+way	428017466	Sanborn Hotel		34.0458290	-118.2488893	hotel				
+way	428017484	Baltimore Hotel		34.0460195	-118.2480595	hotel				
+way	428021724	"Hotel Figueroa, Unbound Collection by Hyatt"		34.0455419	-118.2640734	hotel		The Unbound Collection by Hyatt		https://www.hotelfigueroa.com/
+way	428021727	Hilton Checkers		34.0496123	-118.2549848	hotel		Hilton		
+way	428021756	Hotel Lindy		34.0450288	-118.2562079	hotel				
+way	428021760	Stillwell	Stillwell	34.0447385	-118.2584771	hotel				
+way	428021804	The Wayfarer		34.0471253	-118.2607257	hotel				
+way	428021889	O Hotel		34.0470169	-118.2608398	hotel				
+way	428024326	Luxe Hotel		34.0442534	-118.2641780	hotel				
+way	428128060	The Hoxton		34.0397244	-118.2585542	hotel		The Hoxton		
+way	428128177	Proper Hotel		34.0393010	-118.2588875	hotel				
+way	428398426			34.1189958	-118.2593356	hotel				
+way	428482647	Lulz		34.0305619	-118.3493559	hotel				
+way	428512680			34.0280056	-118.3547429	hotel				
+way	428518639			34.0303619	-118.3567512	hotel				
+way	428524931			34.0244228	-118.3412370	hotel				
+way	428526645			34.0389137	-118.3074926	hotel				
+way	428539094			34.0421690	-118.2918710	hotel				
+way	428573759			34.0438772	-118.3064634	hotel				
+way	428598373			34.0268636	-118.3198623	hotel				
+way	428628101	Kimpton Hotel Wilshire		34.0638977	-118.3659957	hotel		Kimpton		
+way	428628132	AC Hotel Beverly Hills		34.0641269	-118.3680393	hotel		AC Hotel		https://www.marriott.com/en-us/hotels/laxab-ac-hotel-beverly-hills/overview/
+way	428628493	Wilshire Crest Hotel		34.0647306	-118.3653541	hotel				https://www.wilshirecresthotel.com/
+way	428637633	Garden Suite Hotel		34.0604236	-118.3095434	hotel				https://gardensuitehotel.com/
+way	428642095			34.0692928	-118.3616718	hotel				
+way	428854288	Chateau Marmont		34.0982574	-118.3684772	hotel				https://chateaumarmont.com/
+way	429121780			34.1044804	-118.2133913	hotel				
+way	429313700	"The Standard, Hollywood"		34.0959024	-118.3709894	hotel				https://www.standardhotels.com/la/properties/hollywood
+way	429313736	Andaz West Hollywood		34.0954013	-118.3731817	hotel		ANdAZ	Hyatt	https://westhollywood.andaz.hyatt.com/en/hotel/home.html
+way	429313741	Hotel Ziggy on Sunset		34.0943701	-118.3749242	hotel		Springboard Hospitality		https://www.hotelziggy.com/
+way	429313754	Sunset Tower Hotel		34.0950577	-118.3721164	hotel				https://www.sunsettowerhotel.com
+way	429313755	"The Valorian West Hollywood, Curio Collection by Hilton"		34.0944778	-118.3743655	hotel		Curio Collection		https://www.hilton.com/en/hotels/laxmoqq-the-valorian-west-hollywood/
+way	429320344	Best Western Plus Dragon Gate Inn		34.0631637	-118.2389534	hotel		Best Western Plus	Best Western	https://www.bestwestern.com/en_US/book/hotels-in-los-angeles/best-western-plus-dragon-gate-inn/propertyCode.05341.html
+way	429339637			34.0838907	-118.3700612	hotel				
+way	439158202			34.0028929	-118.3334550	hotel				
+way	439748145	Aloft El Segundo - Los Angeles Airport		33.9220859	-118.3968345	hotel		Aloft		
+way	439748695			33.9222587	-118.3965919	hotel				
+way	440269340	Petit Ermitage		34.0871075	-118.3839379	hotel				https://www.petitermitage.com/home
+way	446913225	Hyatt Place LAX El Segundo		33.9262566	-118.3869488	hotel		Hyatt Place		https://www.hyatt.com/en-us/hotel/california/hyatt-place-los-angeles-lax-el-segundo/laxze
+way	455765505			33.9833602	-118.2284795	hotel				
+way	455765547			33.9833833	-118.2285957	hotel				
+way	455765581			33.9833885	-118.2287926	hotel				
+way	455765602			33.9832710	-118.2287070	hotel				
+way	455775985			33.9899650	-118.2276325	hotel				
+way	491696557	The Ritz-Carlton		34.0453028	-118.2669640	hotel		The Ritz-Carlton		
+way	496247684	Hotel Indigo		34.0473293	-118.2645229	hotel		Hotel Indigo		
+way	532357379	The Jeremy Hotel		34.0940839	-118.3757590	hotel				https://www.jeremyhotel.com
+way	769735781	Hampton Inn & Suites LAX El Segundo		33.9282264	-118.3955564	hotel		Hampton Inn & Suites		https://www.hilton.com/en/hotels/laxelhx-hampton-suites-lax-el-segundo/
+way	907828119	The Kimpton Everly Hotel - Hollywood		34.1039495	-118.3248464	hotel		Everly	Everly	https://www.everlyhotelhollywood.com/
+way	907828123	The Godfrey Hotel Hollywood		34.0964585	-118.3291653	hotel				
+way	912201105	Highland Gardens Hotel		34.1046689	-118.3431937	hotel				
+way	912890039	The West Hollywood Edition		34.0900310	-118.3891842	hotel				
+way	937473001	W Hotel		34.1009924	-118.3259226	hotel		W Hotels		https://www.marriott.com/en-us/hotels/laxwh-w-hollywood/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0
+way	955153350	Hollywood Hotel		34.0929493	-118.2909983	hotel				
+way	984575329	Hampton Inn & Suites		34.0917911	-118.3272214	hotel		Hampton Inn & Suites		https://www.hilton.com/en/hotels/laxhxhx-hampton-suites-los-angeles-hollywood/
+way	1052359112	citizenM Los Angeles Downtown		34.0491869	-118.2484290	hotel		citizenM		https://www.citizenm.com/hotels/united-states/los-angeles/los-angeles-downtown-hotel
+way	1058433610	AC Hotel by Marriott Los Angeles South Bay		33.9265667	-118.3864522	hotel		AC Hotel		https://www.marriott.com/hotels/travel/laxae-ac-hotel-los-angeles-el-segundo/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2
+way	1106879310	Hollywood Hills Hotel		34.1057912	-118.3415327	hotel				https://www.hollywoodhillshotel.com/
+way	1253693314	"Hollywood Volume, a Tribute Portfolio Hotel"		34.0995001	-118.3318752	hotel				
+way	1253693315	Thompson		34.0989445	-118.3313640	hotel		Hyatt		https://www.hyatt.com/thompson-hotels/laxth-thompson-hollywood
+way	1253795792	The Sun Rose West Hollywood		34.0948208	-118.3734987	hotel		Preferred Hotels & Resorts		https://www.thesunrosehotel.com/
+way	1254951018	Hollywood Walk of Fame Hotel		34.1045104	-118.3262659	hotel				
+way	1416573434	Ramada Los Angeles/Koreatown West		34.0611604	-118.3115890	hotel		Ramada		https://www.wyndhamhotels.com/ramada/los-angeles-california/ramada-wilshire-center/overview
+way	1514065035			34.0863740	-118.3846884	hotel				
+way	1514065037	San Vicente Bungalows		34.0860039	-118.3851573	hotel				
+way	1526501956	Best Western Plus Sunset Plaza Hotel		34.0949482	-118.3726075	hotel		Best Western Plus		https://www.bestwestern.com/content/best-western/en_US/booking-path/hotel-details.05377.html?propertyCode=05377
+relation	5852383	SLS Beverly Hills		34.0700781	-118.3769143	hotel				
+relation	5856793	Elan Hotel Los Angeles		34.0763355	-118.3745190	hotel				
+relation	6246210	Value Inn		34.0984575	-118.3048890	hotel				
+relation	6252303	Shelter Hotel		34.0655815	-118.2995788	hotel				
+relation	6252392	Los Angeles Airport Marriott		33.9466437	-118.3848268	hotel		Marriott		
+relation	6275575	Banana Bungalow Hollywood		34.1012988	-118.3189013	hotel				https://www.bananabungalows.com/HollywoodHostelLosAngeles.html
+relation	6302565	Palihotel Hollywood		34.0983685	-118.3422827	hotel		Days Inn		https://www.palisociety.com/hotels/hollywood
+relation	6302566	The Hollywood Roosevelt		34.1009297	-118.3421889	hotel				https://www.thehollywoodroosevelt.com/
+relation	6302575	Quality Inn Hollywood		34.0988723	-118.3441256	hotel		Quality Inn		
+relation	6315114	Sonesta Select Los Angeles LAX El Segundo		33.9230052	-118.3914266	hotel		Sonesta Select		https://www.sonesta.com/us/california/el-segundo/sonesta-select-los-angeles-lax-el-segundo
+relation	6316342	Four Seasons Hotel Los Angeles At Beverly Hills		34.0729469	-118.3892142	hotel		Four Seasons		
+relation	6333462	Beverly Laurel Motor Hotel		34.0758180	-118.3644728	hotel				
+relation	6360440	Holiday Inn Express & Suites		34.1059331	-118.3381009	hotel		Holiday Inn Express & Suites	Holiday Inn	
+relation	6360443	Magic Castle Hotel		34.1045010	-118.3425458	hotel				https://www.magiccastlehotel.com/
+relation	6360446	Best Western Hollywood Plaza Inn		34.1071959	-118.3379135	hotel		Best Western	Best Western	https://www.bestwestern.com/es_ES/book/hotels-in-hollywood/best-western-hollywood-plaza-inn/propertyCode.05491.html
+relation	6365207	Norbo Hotel		34.0416186	-118.2447027	hotel				
+relation	6366079	Barclay Hotel		34.0484996	-118.2473193	hotel				
+relation	6366155	Millennium Biltmore Hotel		34.0493003	-118.2538189	hotel		Millennium	Millennium & Copthorne Hotels	https://www.millenniumhotels.com/en/los-angeles/millennium-biltmore-hotel-los-angeles/
+relation	6371615	New seoul hotel		34.0521139	-118.2902425	hotel				
+relation	6372273	Dunes Inn		34.0614600	-118.3219524	hotel				
+relation	6387124			34.0449371	-118.2118675	hotel				
+relation	6387395	Metro Plaza Hotel	Metro Plaza Hotel	34.0587370	-118.2378903	hotel				
+relation	6388346	Le Parc at Melrose		34.0842312	-118.3778696	hotel				https://www.leparcsuites.com/
+relation	6542154	Fairfield Inn & Suites Los Angeles LAX/El Segundo		33.9229135	-118.3968503	hotel		Fairfield Inn & Suites		https://www.marriott.com/laxxl
+relation	7671843	Hilton Los Angeles Airport	Hilton	33.9461936	-118.3816525	hotel		Hilton		
+relation	14188624	Travelodge LAX South		33.9275186	-118.3968692	hotel		Travelodge		
+relation	14188625	Extended Stay America - Los Angeles - LAX Airport - El Segundo		33.9225971	-118.3949590	hotel		Extended Stay America		https://www.extendedstayamerica.com/hotels/ca/los-angeles/lax-airport-el-segundo

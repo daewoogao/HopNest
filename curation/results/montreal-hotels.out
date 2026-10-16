@@ -1,0 +1,174 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	229503924	Ritz Carlton		45.5000856	-73.5779239	hotel		The Ritz-Carlton		
+node	237568065	Auberge Saintlo Montréal	Auberge Saintlo Montréal	45.4939916	-73.5729480	hostel				https://www.hihostels.ca/montreal
+node	420041490	Le Centre Sheraton		45.4980338	-73.5715359	hotel				
+node	441233073	Hotel Casa Bella		45.5091271	-73.5706736	hotel				http://www.hotelcasabella.com/
+node	458939585	Auberge du Plateau		45.5145848	-73.5687784	hotel				
+node	458939637	Armor Manoir Sherbrooke		45.5141985	-73.5688395	hotel				www.armormanoir.com
+node	460957530	Hyatt Place Montréal – Downtown		45.5156845	-73.5591132	hotel		Hyatt Place		https://www.hyatt.com/fr-FR/hotel/canada/hyatt-place-montreal-downtown/yulzm
+node	461840002	Tru by Hilton Montreal Centre-Ville		45.5164055	-73.5603245	hotel				
+node	462248811	Westin		45.5034568	-73.5598687	hotel		Westin		http://lewestinmontreal.com/
+node	462248813	Intercontinental		45.5029698	-73.5602769	hotel		InterContinental		
+node	462248815	St-James		45.5026402	-73.5596163	hotel				
+node	462248823	W Montreal		45.5020454	-73.5619621	hotel		W Hotels	W Hotels	http://www.wmontrealhotel.com/
+node	462355176	Hôtel le Coach		45.5170519	-73.5592779	hotel				
+node	462355209	Hôtel Arena Palace		45.5171962	-73.5596127	hotel				
+node	468969728	Embassy Suites		45.5043080	-73.5591120	hotel		Embassy Suites		
+node	652873425	Hôtel Ruby Foo's		45.4971871	-73.6554445	hotel				https://www.hotelrubyfoos.com/
+node	864716954	Auberge du Vieux-Port		45.5064341	-73.5528462	hotel				
+node	926984527	Hilton Garden Inn		45.5075242	-73.5713837	hotel		Hilton Garden Inn		
+node	932455434	Hôtel de l'Institut		45.5179008	-73.5685768	hotel	4			http://www.lthq.qc.ca/hotel
+node	932474471	Hôtel Nelligan		45.5040610	-73.5544559	hotel	4			https://www.hotelnelligan.com/
+node	936010350	Hôtel Chrome		45.5109530	-73.5601316	hotel				https://www.hotelchrome.com/
+node	936010437	Hôtel Saint-Laurent Montréal		45.5106610	-73.5604508	hotel				
+node	936010453	Hôtel Faubourg Montréal		45.5104108	-73.5606789	hotel				https://www.ihg.com/holidayinnexpress/hotels/us/en/montreal/yulrl/hoteldetail
+node	936010460	Holiday Inn Select		45.5066522	-73.5598838	hotel		Holiday Inn		
+node	936979460	Le Saint-Sulpice		45.5043266	-73.5550574	hotel	4			https://www.lesaintsulpice.com/
+node	940480081	Hôtel Bonaventure		45.4989265	-73.5655907	hotel				https://www.hotelbonaventure.com/
+node	941971913	Samesun Backpacker Hostels Montreal	Samesun Backpacker Hostels Montreal	45.5163330	-73.5613075	hostel			Samesun	https://samesun.com/backpackers-hostels/montreal-hostel/
+node	962453693	Novotel Montréal Centre		45.4969275	-73.5733994	hotel		Novotel		
+node	1178670185	Hôtel Place d'Armes		45.5054978	-73.5573724	hotel				https://www.hotelplacedarmes.com/
+node	1207379268			45.5005365	-73.5591857	hostel				
+node	1212689974	Hôtel Le Cantlie		45.5014045	-73.5765911	hotel				https://www.hotelcantlie.com/
+node	1297984181	Auberge Le jardin d'Antoine		45.5159800	-73.5657777	hotel				
+node	1307395180	Hotel Bonaparte		45.5033341	-73.5561210	hotel				https://www.bonaparte.com/
+node	1418829153	Sofitel		45.5014305	-73.5773417	hotel		Sofitel		
+node	1429426225	Le Relais Lyonnais		45.5148359	-73.5625808	hotel				https://lerelaislyonnais.com/
+node	1474452702	Hôtel Manoir de La Terrasse		45.5158830	-73.5655461	hotel				https://www.hotelmanoir.ca/
+node	1604286793	Auberge Maeva Montréal		45.5223296	-73.5741561	hostel				http://www.aubergemaeva.com
+node	1797226105	Hôtel Kutuma		45.5184343	-73.5712143	hotel				https://www.kutuma.com/
+node	2377771614	Hotel Y		45.4962501	-73.5732481	hotel				
+node	2501252952	Hôtel Marriott		45.4559819	-73.7518834	hotel		Marriott		https://www.marriott.com/yulma
+node	2502357486	Days Inn & Conference Centre		45.4874985	-73.7172176	hotel		Days Inn		https://www.daysinn.com
+node	2502357491	Novotel Montreal Aeroport		45.4878944	-73.7618391	hotel		Novotel		https://all.accor.com/hotel/6011/index.en.shtml
+node	2503033173	Aloft Aéroport de Montreal	Aloft Montreal Airport	45.4528093	-73.7406446	hotel		Aloft		https://www.starwoodhotels.com/
+node	2503033174	Beauséjour Appartements - Hotel Dorval		45.4469701	-73.7489950	hotel				https://www.hoteldorval.com/
+node	2503033176	Comfort Inn Aéroport		45.4547881	-73.7327540	hotel		Comfort Inn		https://www.choicehotels.ca/
+node	2503033177	Marriott Fairfield Inn	Fairfield Inn & Suites Montreal Airport	45.4496914	-73.7397959	hotel		Marriott		http://www.marriott.com
+node	2503326555	Hotel Plateau Royale		45.5173880	-73.5903130	hotel				www.hotelplateauroyale.com
+node	2503326563	Hôtel Park Avenue		45.5170339	-73.5903976	hotel				https://www.hotelparkave.com/
+node	2503326571	La Cité Apartments		45.5100431	-73.5757100	hotel				www.lacite.ca
+node	2503326580	Parc Suites Hotel		45.5090738	-73.5724587	hotel				
+node	2503343432	Hôtel Carré St-Louis		45.5173193	-73.5686736	hotel				https://www.aubergecarrestlouis.com/
+node	2503376990	Auberge de La Fontaine		45.5276500	-73.5725820	hotel				https://www.aubergedelafontaine.com/
+node	2503376995	Hôtel Le Plateau		45.5242529	-73.5823458	hotel				www.hotelstaymontroyal.ca
+node	2512282055	hotel apartment		45.4920855	-73.5839648	hotel				
+node	2519344588	hôtel Le Saint-Malo		45.4925435	-73.5823854	hotel				
+node	2936108315	OM Hotel		45.5194122	-73.5660367	hotel				
+node	2978023721	Hôtel le Dauphin		45.5041739	-73.5623098	hotel				http://www.hotelsdauphin.ca/montreal/
+node	3046735142	Hôtel ALT Montréal/Griffintown		45.4930477	-73.5572582	hotel			ALT hotel	
+node	3475463527	Petit Hôtel		45.5030862	-73.5550021	hotel				https://www.petithotelmontreal.com/
+node	3476654892	The Lincoln		45.4946983	-73.5822855	hotel				
+node	3476654893	SENS Hotel Montreal		45.4954010	-73.5823726	hotel	4			
+node	3750083858	Auberge 259		45.5124406	-73.5618138	hostel				https://auberge259.com
+node	3929510057	Travelodge Montreal Centre		45.5081402	-73.5618022	hotel		Travelodge		
+node	4117465589	Celebrities hotel		45.5126230	-73.5576758	hotel				
+node	4153872289	Alaric		45.5250627	-73.5863383	hotel				
+node	4352229555	DoubleTree		45.5072816	-73.5654303	hotel		DoubleTree		https://doubletree3.hilton.com/en/hotels/quebec/doubletree-by-hilton-montreal-YMQDTDT/index.html
+node	4357573093	LHOTEL		45.5031355	-73.5587585	hotel				
+node	4371273830	M Montreal		45.5160291	-73.5570698	hostel				https://m-montreal.com/
+node	4421361239	Maison Brunet		45.5138029	-73.5549184	hotel				
+node	4421361240	La conciergerie		45.5136139	-73.5545672	hotel				
+node	4520122590	L'Apéro		45.4962609	-73.5775192	hostel				http://www.aubergeapero.com
+node	4587126691	hemma	hemma	45.5154033	-73.5779490	hotel				
+node	4695083383	Le Centre Sheraton		45.4978644	-73.5713919	hotel				
+node	4711849934	Vogue		45.4984040	-73.5756823	hotel				
+node	4711866405	Le Crystal		45.4965870	-73.5726685	hotel				
+node	4711884749	Ogilvy Hotel		45.4980610	-73.5757346	hotel				
+node	4714124794	Maritime Plaza		45.4941565	-73.5754530	hotel				
+node	4723306588	Loft Hotel		45.5159488	-73.5668577	hotel				
+node	4746195425			45.5175647	-73.5161327	hostel				
+node	4908203888	Courtyard Marriott Downtown Montreal		45.5052895	-73.5640756	hotel	4	Courtyard	Marriott	https://www.marriott.com/hotels/travel/yuldt-courtyard-montreal-downtown/
+node	4931990323	lelux hotel		45.5164205	-73.5614705	hotel				
+node	4951060522	Andréanne		45.5277881	-73.6227474	hostel				
+node	5085970921			45.5324539	-73.5172168	hotel				
+node	5507865541	Château Versailles Hôtel		45.4957087	-73.5828840	hotel				
+node	5556927822	Boxotel		45.5134023	-73.5662265	hotel				https://www.boxotel.com/
+node	6026247714	Hotel Chez Swann		45.4991323	-73.5757369	hotel				
+node	6468320288	6923 St-Denis		45.5370321	-73.6113778	hostel				
+node	6476859331	Zéro1		45.5092128	-73.5616688	hotel				http://zero1-mtl.com
+node	6917202096	Château de l'Argoat Hôtel		45.5184351	-73.5664982	hotel				
+node	7362880667	Le Square Phillips		45.5037393	-73.5673526	hotel				https://www.squarephillips.com/
+node	7362880668	AC Hotel		45.5057443	-73.5637197	hotel		AC Hotel		
+node	7368955270	Quality Inn & Suites		45.4473911	-73.7480249	hotel		Quality Inn & Suites		
+node	7411151424	DoubleTree - Hôtel Mtl Express Aéroport de Montréal		45.4501825	-73.7404789	hotel		DoubleTree		
+node	8196599350	Hôtel Brossard		45.4628357	-73.4921745	hotel				https://www.hotelbrossard.com/
+node	8751402645	Hôtel Sheraton	Sheraton Montreal Airport Hotel	45.4535358	-73.7414335	hotel		Sheraton		http://www.sheratonmontrealairport.com
+node	8954837560	Hôtel Quartier Latin		45.5158671	-73.5648176	hotel				http://www.hotel-quartierlatin.com
+node	9149962217	Humaniti Hotel Montreal		45.5039845	-73.5627637	hotel				
+node	10000633917	Hotel Victor		45.5173049	-73.5626733	hotel				
+node	10783340320	Hilton Garden Inn/Hilton Homewood Suites		45.4931212	-73.6490612	hotel		Hilton Garden Inn		
+node	10858020127	Le Saint-André		45.5162348	-73.5576309	hotel				https://www.hotelstandre.com/
+node	10971697883	Courtyard by Marriott Montreal Midtown		45.4921492	-73.6468660	hotel		Courtyard		
+node	10971697884	Residence Inn by Marriott Montreal Midtown		45.4920958	-73.6467538	hotel		Residence Inn		
+node	11108894676	Hotel Sainte-Catherine		45.5221367	-73.5525683	hotel				
+node	11124738788	Habitation du Vieux Montreal		45.5058179	-73.5540495	hotel				
+node	11201218638	Sandman		45.5249034	-73.5231139	hotel				https://www.sandmanhotels.com/montreal-longueuil
+node	11207229620	Hôtel Le Dauphin		45.5244782	-73.5143908	hotel				http://www.hoteldauphin.ca/
+node	11224797377	Holiday Inn		45.5514918	-73.4982475	hotel		Holiday Inn		https://www.ihg.com/
+node	11247271864	Saint-Francois Hotel		45.5032557	-73.5563404	hotel				
+node	11250075120	Club Haus		45.4830628	-73.5615247	hotel				
+node	11265148024	Hotel Casa Bella		45.5090089	-73.5706475	hotel				
+node	11280263338	Hotel Larbi		45.5097923	-73.5641298	hotel				
+node	11339509169	Sonder Penny Lane		45.5016903	-73.5599063	hotel				https://www.sonder.com/destinations/montreal/penny-lane/
+node	11415601036	HoMa Homestay Hotel		45.5520212	-73.5399427	hotel		ShareMyCasa		https://sharemycasa.com/
+node	12194539528	L'Hotel Particulier Griffintown		45.4927010	-73.5602501	hotel				
+node	12194843601	Hôtel William Gray		45.5074440	-73.5532782	hotel				
+node	12194843603	Maison Sainte-Thérèse		45.5070316	-73.5534621	hotel				
+node	12194843604	Maison Saint-Vincent		45.5075120	-73.5539482	hotel				
+node	12194965408	Residence Inn Montreal Downtown		45.5014371	-73.5753584	hotel		Residence Inn		
+node	12195201438	Hotel Rasco		45.5083622	-73.5522743	hotel				
+node	12195217447	Hôtel St-Denis		45.5132204	-73.5598397	hotel				
+node	12675430214	L'Auberge de l'Aéroport		45.4519186	-73.7369189	hotel				
+node	12946668598	Moxy		45.4977865	-73.5632772	hotel		Moxy		
+node	12959555701	Lift Hotel		45.5116741	-73.5529089	hotel				https://www.lifthotel.ca/
+node	13069310004	Hôtel Quartier des Spectacles		45.5096589	-73.5641741	hotel				https://www.hotelquartierdesspectacles.com/
+node	13333864972	Hôtel du Parc Lafontaine		45.5222529	-73.5694317	hotel				https://www.hoteldulacduparclafontaine.com/
+node	13614659938	Auberge Chez Jean		45.5202994	-73.5783501	hostel				https://www.aubergechezjean.com/
+node	13650949072	Le Petit Hôtel - Notre Dame		45.5056651	-73.5562399	hotel		Le Petit Hôtel		https://le-petit-hotel.com
+node	13813317001	Capsule Residence		45.4972959	-73.5774760	hostel				https://www.capsulehotel.ca/en/our-hotels/capsule-residence/
+node	13879050478	Holiday Inn		45.4883998	-73.7185593	hotel		Holiday Inn		
+node	13879050479	Staybridge Suites		45.4882990	-73.7171462	hotel		Staybridge Suites		
+node	14019215001	Auberge Le Treehouse		45.4951793	-73.5762138	hostel				
+way	21260475	Fairmont Le Reine Elizabeth	Fairmont The Queen Elizabeth	45.5002045	-73.5682436	hotel		Fairmont		
+way	21335844	Marriott Château Champlain		45.4975700	-73.5673796	hotel		Marriott	Marriott	https://www.marriott.com/hotels/travel/yulcc-montreal-marriott-chateau-champlain/
+way	35927928	Le St Martin		45.5016942	-73.5735731	hotel				
+way	40325359	Nouvel Hotel & Spa		45.4923068	-73.5760328	hotel				https://www.lenouvelhotel.com/
+way	41552342	Hotel Des Arts		45.5121942	-73.5676996	hotel				https://www.hoteldesarts.ca/
+way	46844521	Hôtel Universel Montréal		45.5655755	-73.5529303	hotel	4			https://www.hoteluniverselmontreal.com/
+way	77449305	Hôtel Espresso		45.4935437	-73.5735133	hotel				
+way	85228996	Hôtel St. Paul		45.5002951	-73.5567343	hotel				
+way	104219355	Loews Hôtel Vogue		45.4984690	-73.5756312	hotel				
+way	107766927	Best Western Plus Hôtel Europa		45.4980537	-73.5737163	hotel		Best Western Plus		
+way	112977924	Best Western Ville Marie		45.5021964	-73.5767514	hotel		Best Western	Best Western	
+way	123213516	Hotel Le Germain Montréal		45.5024277	-73.5744191	hotel				
+way	126012205	Hôtel De Paris		45.5201141	-73.5664003	hotel				https://hoteldeparis.ca/
+way	128540886	Renaissance Montreal Downtown Hotel		45.5027175	-73.5693906	hotel		Renaissance		
+way	130660352	Hotel 10		45.5120397	-73.5691010	hotel				https://www.hotel10montreal.com/
+way	161216227	Auberge-Hotel Manoirville-Marie		45.5380780	-73.5415943	hotel				https://www.manoirvillemarie.com/
+way	188982946	Hampton		45.5079309	-73.5588155	hotel		Hampton		https://www.hilton.com/en/hotels/yulmohx-hampton-montreal-downtown/
+way	241099490	Hotel Les Suites Labelle		45.5145443	-73.5579449	hotel				http://lessuiteslabellehotelmontreal.com
+way	242897787	Hotel Terrasse Royale		45.4959372	-73.6206915	hotel	3			http://www.terrasse-royale.com
+way	332190792	Holiday Inn Express & Suites		45.4610962	-73.7233352	hotel		Holiday Inn Express & Suites		www.holidayinnexpressdorval.com
+way	339704012	Sonder Apollon		45.5020077	-73.5569312	hotel		Sonder		https://sonder.com
+way	339860959	Auberge Alternative du Vieux-Montréal		45.5009917	-73.5559770	hostel				http://www.auberge-alternative.qc.ca
+way	339871601	Uville Hotel Montreal		45.5022553	-73.5543601	hotel				https://uvillehotelmontreal.com/
+way	339876528	EPIK Hotel Montreal		45.5031173	-73.5552651	hotel				https://www.epikmontreal.com/
+way	339879303	Hotel Place Royal		45.5035957	-73.5541611	hotel				
+way	340038474	Hôtel Omni Mont-Royal		45.5019193	-73.5759451	hotel			Omni Hotels & Resorts	https://www.omnihotels.com/hotels/montreal-mont-royal
+way	340045970	Delta Hotels by Marriott Montreal		45.5064476	-73.5713129	hotel		Delta Hotels		https://www.marriott.com/hotels/travel/yuldb-delta-hotels-montreal/
+way	340894969	Best Western Plus		45.5115485	-73.5626753	hotel		Best Western Plus		
+way	341125155	Fairfield Inn by Marriott Montreal Downtown		45.5141295	-73.5579151	hotel		Fairfield Inn		
+way	341125395	Hôtel Le Roberval		45.5139394	-73.5574738	hotel				
+way	341495151	L'Appartement Hôtel		45.5070071	-73.5725158	hotel				https://www.appartementhotel.com/
+way	341850388	Hôtel Mini		45.5198392	-73.5516816	hotel	1			
+way	341850992	Hôtel Mini		45.5199133	-73.5518378	hotel	1			
+way	438218721	Ramada Plaza by Wyndham		45.4910572	-73.6446838	hotel		Ramada		
+way	484176988	Holiday Inn Centre-ville Ouest		45.4953632	-73.5729170	hotel		Holiday Inn		https://www.ihg.com/holidayinn/hotels/us/en/montreal/yulcc/hoteldetail
+way	592172258	Hôtel Griffintown		45.4912744	-73.5584910	hotel				
+way	610570818	AC Hotel by Marriott Old Montreal		45.5063175	-73.5545847	hotel		AC Hotel		https://www.marriott.com/en-us/hotels/yulom-ac-hotel-old-montreal/overview/
+way	904471008	Le Chablis Hotel & Suites Cadillac		45.5746850	-73.5473673	hotel				https://www.chabliscadillac.com/
+way	944752736	Fairfield Inn & Suites		45.4495883	-73.7396207	hotel				
+way	1244238348	Auberge Alt Hostel		45.5092892	-73.5518734	hostel				
+way	1444298122	Hyatt Place		45.4501073	-73.7393673	hotel				
+way	1515427842			45.5164854	-73.5603257	hotel				

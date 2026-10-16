@@ -1,0 +1,131 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	368663205	대백갤럭시리조트	Daebaekgaelleoksi Resort Hotel	35.1093008	129.0369656	hotel				
+node	368664029	허브리조트	Herb Resort Hotel	35.1500860	129.0071180	hotel				
+node	368664193	태영리조트	Taeyeong Resort Hotel	35.1570380	128.9828350	hotel				
+node	368952147	부산롯데호텔	Busan Lotte Hotel	35.1569065	129.0555145	hotel				
+node	368952167	오아시스호텔	Oasis Hotel	35.1352420	129.0909840	hotel				
+node	368952172	동방관광호텔	Dongbang Tourist Hotel	35.2181340	129.0798230	hotel				
+node	368952173	천일온천호텔	Cheonil Hot Spring Hotel	35.2211240	129.0814022	hotel				
+node	368952179	현대온천호텔	Hyeondae Hot Spring Hotel	35.2211270	129.0817740	hotel				
+node	368952180	실버관광호텔	Silver Tourist Hotel	35.1681500	129.1133360	hotel				
+node	368952191	리오관광호텔	Rio Tourist Hotel	35.1344036	129.0862254	hotel				
+node	368952194	(주)신라호텔	Silla Hotel	35.1134904	129.0395704	hotel				
+node	368952208	다이야몬드관광호텔	Diamond Tourist Hotel	35.1875690	129.0794070	hotel				
+node	368952211	다이야모든관광호텔	Daiyamodeun Tourist Hotel	35.1875637	129.0794639	hotel				
+node	368952215	호텔현대부산사무소	Hotel Hyeondaebusan Office	35.1411464	129.0590224	hotel				
+node	368952224	(주)뉴크라운관광호텔 (New Crown Tourist Hotel)	New Crown Tourist Hotel	35.1073890	129.0373630	hotel				
+node	900136420	토요코인 부산서면 (Toyoko Inn Busan Seomyeon)	Toyoko Inn Busan Seomyeon	35.1580781	129.0639748	hotel				
+node	1736945148	토요코인 부산중앙역 (Toyoko Inn Busan Jungang Station)	Toyoko Inn Busan Jungang Station	35.1090003	129.0366978	hotel				
+node	1763825144			35.1678873	129.1329165	hotel				
+node	3785217644	Gumran Hotel		35.1587761	129.0560206	hotel				
+node	3859184257		Terra Guest House	35.0966644	129.0305744	hostel				
+node	4111482992	킴스하우스 부산 2호점	Kim's House Busan 2nd	35.1338812	129.0926105	hostel				
+node	4124950521	하운드호텔	HOUND HOTEL	35.1548402	129.0560424	hotel			김소연	
+node	4151041533	Uniqstay Bed&Breakfast		35.1553348	129.0547788	hotel				https://www.uniqstay.co.kr/
+node	4213484018	Bnb Guesthouse		35.1479071	129.0565193	hostel				
+node	4226178392	Plus Motel		35.1183317	129.0413580	hotel				
+node	4553404184	크로바호텔		35.0963720	128.9939536	hotel				
+node	4574628490	아르피나 유스호스텔 피트니스센터		35.1650832	129.1376513	hostel				
+node	4698833240		Busan Tourist Hotel	35.1005921	129.0348174	hotel				
+node	4758302159	녹천온천호텔	Nokcheon Hotel	35.2204763	129.0808948	hotel				
+node	4833838927	베스트인시티호텔 부산	Best In City Hotel Busan	35.1202914	129.0415295	hotel				
+node	4927904279	AVA Hotel		35.1525864	129.0572800	hotel				
+node	5002826221		Goodstay Dongrae Ocheon Hostel	35.2134681	129.0781516	hotel				
+node	5031349821		Hotel Almond	35.1136107	129.0407978	hotel				
+node	5045403422			35.1026642	129.0367150	hotel				
+node	5309805727	Lion hotel		35.1549732	129.0559960	hotel				
+node	5427086081	호텔 모모		35.0967396	129.0354410	hotel				https://hotelmomo.modoo.at/
+node	5434429321	Barak		35.1461349	129.0089566	hotel				
+node	5477499521		Central Park Hotel	35.1003316	129.0363108	hotel				
+node	5503328921		nongshim	35.2216617	129.0818035	hotel				
+node	5570691521		Aryan hotel	35.1874266	129.0834484	hotel				
+node	5607479424			35.1538738	129.0618380	hotel				
+node	5613108471	블루백패커스호스텔 (Blue Backpackers Hostel)	Blue Backpackers Hostel	35.1522037	129.0552547	hostel				
+node	5618753623		ANGEL HOTEL	35.1540896	129.0618850	hotel				
+node	5695675721		MMH Tokoyo inn	35.1579275	129.0641321	hotel				
+node	5753904222	crown harbor hotel	crown harbor hotel	35.1076293	129.0367028	hotel				
+node	6297136328	세리인 게스트하우스	SERiinn Guest House	35.1593948	129.0558812	hostel				
+node	6389757185		No. 25	35.1593725	129.0594392	hotel				
+node	6780273883	Mint paradise		35.1131821	129.0372383	hostel				https://www.mintparadisebusan.com/
+node	6905772444	Elysee Hotel		35.1009490	129.0338912	hotel				
+node	6905772449	Hotel Foxy		35.1010226	129.0338533	hotel				
+node	6905772453	Aria Hotel		35.1008404	129.0339561	hotel				
+node	7008116514	EZSTAY Nampo Hotel		35.0998572	129.0315183	hotel				
+node	7452745566	OneWay Guesthouse		35.1141682	129.0401166	hostel				
+node	7630494892			35.0998018	129.0575759	hotel				
+node	8155978317	2헤븐		35.1014283	129.0244037	hotel				
+node	8821158649	웁스호텔		35.1668529	129.1156541	hotel				
+node	8821158650	호텔스미스		35.1666867	129.1157148	hotel				
+node	8821158669	유토피아호텔		35.1674689	129.1170633	hotel				
+node	10251810809		Sam won jung	35.0978967	129.0302224	hotel				
+node	11152440005		gwangalli Grey 193	35.1538020	129.1244407	hotel				
+node	11378003177		Busan Station Business Hotel	35.1121922	129.0398285	hotel				
+node	11765647086	코티스 더 그라운드	Cotice the Ground	35.0980669	129.0265858	hotel				http://www.cotice.co.kr/brd/lists/notice
+node	11981169397	그리핀베이호텔	Griffin bay hotel	35.0978820	129.0309075	hotel	3			
+node	11982706703	남포하운드프리미어호텔	Nampo Hound Premier Hotel	35.0991175	129.0253231	hotel	3			
+node	12163193963	아몬드 호텔	Almond Hotel	35.0972189	129.0313745	hotel				
+node	12198579620	IB Hotel		35.1522068	129.0573050	hotel				
+node	12198593171	TRT Hotel		35.1530590	129.0560573	hotel				
+node	12198593456	Pop Corn Hotel		35.1127132	129.0393871	hotel				
+node	12198593459	하운드호텔 부산역	Hound Hotel Busan Station	35.1177278	129.0427024	hotel				
+node	12198593460	센텀호텔		35.1184020	129.0425369	hotel				
+node	12198805673	Hotel Chicago		35.1533802	129.0559014	hotel				
+node	12199139073	Queens Hotel		35.1551114	129.0551594	hotel				
+node	12199139074	Hotel Cho Won		35.1546565	129.0552069	hotel				
+node	12201074824	H7L		35.1505162	129.1159025	hotel				
+node	12201080434	The Point Hotel		35.1541263	129.1243318	hotel				
+node	12201098188	Hotel 1		35.1524809	129.1173966	hotel				
+node	12201823594	H Avenue Hotel		35.1529353	129.0564959	hotel				
+node	12309434502	SWITZEN KCC ocean view		35.1538296	129.1262023	hotel				
+node	12498002701	Travelodge Suites Busan Centum		35.1659645	129.1329836	hotel		Travelodge		https://travelodgesuitesbusan.com
+node	12690523946	커넥트부산호텔		35.1004812	129.0373624	hotel				
+node	12759210153	아바니 센트럴 부산		35.1487827	129.0653415	hotel				
+node	12783536601	Hotel Airport		35.1655504	128.9544660	hotel				
+node	12783627201	Air Sky Hotel		35.1669210	128.9544805	hotel				
+node	13375397901	Travel Light Hostel		35.1546810	129.0583134	hostel				
+node	13439054802	Kovenue House		35.1191499	129.0415781	hotel		Kovenue House		https://www.instagram.com/kovenuehouse_official
+node	13716342273	Hotel Ground27		35.0988486	129.0347933	hotel				http://hotelground27.com/
+node	13886804662	시티호텔	City Hotel	35.1227523	129.0442187	hotel				
+node	13998820301	Hotel Marine View		35.1537306	129.1244575	hotel				
+node	14108038301	호텔 아벤트리 부산	Aventree Hotel Busan	35.0994996	129.0269941	hotel				
+node	14108046501	호텔 아벤트리 부산	Aventree Hotel Busan	35.0994996	129.0269941	hotel				http://www.aventreehotelbusan.com/
+node	14141483776	소호스텔	SOHOSTEL	35.1170786	129.0416914	hostel				
+node	14143466674	더웨이호텔	The Way Hotel	35.1162693	129.0393259	hotel				
+node	14143484408	호텔26	Hotel 26	35.1166942	129.0397844	hotel				
+node	14143495267	라마다 앙코르 부산역 호텔	Ramada Encore Busan Station	35.1142308	129.0403034	hotel		Ramada		http://www.ramadaencorebusanstation.com
+node	14148057917	호텔포레 더 스파	Hotel Foret the Spa	35.1225752	129.0445882	hotel				
+node	14148057918	호텔그레이	Hotel Gray	35.1221047	129.0443402	hotel				
+node	14175339755	Hotel TOV		35.1015625	129.0346832	hotel				https://www.tovhotels.com
+node	14188510245	맥시멈호텔		35.1159080	129.0393669	hotel				
+node	14188510246	이루다호텔		35.1158399	129.0391867	hotel				
+node	14245034523	The Bayment		35.0983947	129.0264136	hotel				
+way	220995073	Ibis	ibis Busan City Centre	35.1618274	129.0618897	hotel		Ibis		
+way	243766432			35.0972660	129.0607243	hotel				
+way	499035604	토요코인 부산역 I	Toyoko Inn Busan Station I	35.1141656	129.0407894	hotel				
+way	504131725	부산호텔		35.1004365	129.0345910	hotel				
+way	505267670	코모도호텔 부산	Commodore hotel Busan	35.1092647	129.0353187	hotel				
+way	777910756	아바니센트럴부산		35.1479665	129.0658902	hotel				
+way	779854658	호텔호메르스	Hotel Homereuseu	35.1534342	129.1179788	hotel				
+way	779892129	아쿠아펠리스호텔	Aqua Palace Hotel	35.1540728	129.1188631	hotel				
+way	780056737	베스트루이스헤밀턴호텔		35.1556233	129.1239987	hotel				
+way	785364700	농심호텔	Nongshim Hotel	35.2202527	129.0822135	hotel				
+way	1056370714	아르반시티호텔		35.1869359	129.0833462	hotel				
+way	1226982084		BANDAL HOTEL	35.1059572	129.0352261	hotel				
+way	1232421634			35.1327554	129.0923131	hotel				
+way	1235216618	뮤트호텔	Mute Hotel	35.1346191	129.0907763	hotel				
+way	1235216632	호텔온나	Hotel Onna	35.1344025	129.0914778	hotel				
+way	1235491956			35.1576501	129.1287245	hostel				
+way	1235491973			35.1540155	129.1255712	hostel				
+way	1235491983	하운드호텔	Hound Hotel	35.1488571	129.1145121	hotel				
+way	1235491986	브릿지호텔	Bridge Hotel	35.1486801	129.1145439	hotel				
+way	1235938916	갤러리 호텔	Gallery Hotel	35.1459991	129.1105372	hotel				
+way	1235956187			35.1498067	129.1148075	hotel				
+way	1235956196	투헤이븐 호텔	2Héaven Hotel	35.1495054	129.1145854	hotel				
+way	1235956198	미라주 호텔	Mirage Hotel	35.1491904	129.1143354	hotel				
+way	1237480925	호텔얌	Hotel Yam	35.1554351	129.1253400	hotel				
+way	1243483137			35.1570116	129.1255458	hotel				
+way	1277654607	웰킨호텔	Welkin Hotel	35.1345752	129.0901937	hotel				
+way	1296681141	그랜드모먼트 유스호스텔		35.1454166	129.1004927	hostel				https://www.grandmoment.co.kr/
+way	1383246701	Wood Lounge (Wood House Hotel)		35.1571767	129.1195559	hotel				
+way	1491152400	Airport Guest House		35.1806261	128.9555417	hotel				
+way	1496963235	So Yu Hotel		35.1008442	129.0343942	hotel				

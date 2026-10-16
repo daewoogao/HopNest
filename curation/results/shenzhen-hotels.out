@@ -1,0 +1,184 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	349914972	俊园酒店	Junyuan Hotel	22.5538994	114.1255293	hotel	4			
+node	349915011	如家酒店	Home Inn	22.5556866	114.1235113	hotel	3	如家酒店		
+node	349915012	名都酒店	Mingdu Hotel	22.5550738	114.1240955	hotel	4			
+node	418074992	深圳维景酒店	Metropark Hotel Shenzhen	22.5515702	114.1178676	hotel				http://www.metroparkhotels.com/hotel/chi/index.php?hotel=shenzhen
+node	644244267			22.5486825	114.0349285	hotel				
+node	644427266		Shenzhen Jingtian Hotel	22.5554982	114.0393823	hotel				
+node	1703726995			22.5517011	114.0649566	hotel				
+node	2043203323			22.5499025	114.0811679	hotel				
+node	2149865583	新新地酒店		22.5740771	114.1219159	hotel				
+node	2997626469	青海大酒店		22.5605873	114.0281213	hotel				
+node	3176643465	仙之湖酒店		22.5500654	114.1424925	hotel				
+node	3311146602	7天酒店	7 Days Inn	22.5500579	114.0883692	hotel		7天酒店		
+node	3313334046	可域酒店		22.6042727	114.1173770	hotel				
+node	3313336559	百合酒店		22.6012693	114.1157265	hotel				
+node	3399132887	深港休闲中心		22.5314461	114.1108770	hotel				
+node	3399132889	华侨酒店		22.5315002	114.1111389	hotel				
+node	3399132892	深圳月湾商务酒店	Yuewan Business Hotel	22.5305390	114.1113644	hotel				
+node	3399133993	深圳罗湖火车站港逸豪庭短租公寓		22.5308358	114.1113066	hotel				
+node	3687668838	警元酒店		22.5604685	114.0267086	hotel				
+node	3687668840	实华酒店		22.5614672	114.0324979	hotel				
+node	3687766912	香梅酒店		22.5580240	114.0310746	hotel				
+node	3724774689	哎呦不错	Just Like Home	22.5494881	114.1002788	hostel				
+node	3724774693	深圳荔园酒店	Shenzhen Liyuan hotel	22.5492312	114.0997692	hotel				
+node	3775417868	皇庭V酒店	Wongtee V Hotel	22.5340367	114.0588939	hotel				
+node	3796385406		GDH Inn	22.5404520	114.0786532	hotel				
+node	3923052713	深圳星河丽思卡尔顿酒店	"The Ritz-Carlton, Shenzhen"	22.5362402	114.0564400	hotel	5	The Ritz-Carlton		https://www.ritzcarlton.com/en/hotels/china/shenzhen
+node	4226761189		Hi Inn	22.5530017	114.1044999	hotel				
+node	4332469220	深圳好日子皇冠假日酒店	Crowne Plaza Shenzhen Futian	22.5399504	114.0482946	hotel		Crowne Plaza	IHG	https://www.ihg.com/crowneplaza/hotels/us/en/shenzhen/szxsf/hoteldetail
+node	4375519291	阳光酒店	Sunshine Hotel	22.5425910	114.1177351	hotel				
+node	4571622643	上水酒店 Sheung Shui Hotel	Sheung Shui Hotel	22.5036900	114.1273900	hotel				
+node	4792969221			22.5346194	114.0192742	hotel				
+node	4819041823		Ease Garden Hotel	22.5623873	114.0600298	hotel				
+node	4868068222		Soho	22.5606879	114.0966721	hotel				
+node	4957378621			22.5462428	114.1137249	hotel				
+node	4976198975		Shenzhen International Elite Hotel	22.5473800	114.0658500	hotel				
+node	5140366476	深圳大中华喜来登酒店	Sheraton Shenzhen Futian Hotel	22.5381996	114.0569251	hotel	5	喜来登		
+node	5162777200	深圳东洋宾馆		22.5436184	114.1115634	hotel				
+node	5169911908	深圳侨城旅友国际青年旅舍	Shenzhen LOFT Youth Hostel	22.5410941	113.9880328	hostel				
+node	5206628827	美豪酒店 (大剧场店)		22.5461654	114.1064059	hotel				
+node	5269756309	深航国际酒店	Shenzhen Air International Hotel	22.5370806	114.0142412	hotel	4			https://www.szahotel.com/
+node	5305141129	蓝汐精品酒店	Bay Breeze Boutique Hotel	22.5277047	113.9875356	hotel				
+node	5367136822	Fraser Suites		22.5465594	114.0771003	hotel				
+node	5502259225	The Westin Shenzhen Nanshan		22.5403087	113.9713119	hotel		Westin		
+node	5601013579	深圳温德姆至尊酒店	Wyndham Grand Shenzhen	22.5362373	114.0624492	hotel		Wyndham Grand		https://www.wyndhamhotels.com/wyndham-grand/shenzhen-china/wyndham-grand-shenzhen/overview
+node	5768010001	智选假日酒店	Holiday Inn Express Shenzhen Luohu	22.5523337	114.1058967	hotel		Holiday Inn Express		
+node	5874433411	爱华宾馆	Shenzhen Oneway Hotel	22.5438331	114.0860202	hotel				
+node	6154963852	如家快捷酒店	Home Inn	22.5859137	114.1133171	hotel		如家酒店		
+node	6155306043	惠州酒店	Huizhou Hotel	22.5412026	114.1235246	hotel				
+node	6437242185		HNA Cabin Crew Hotel	22.6459794	113.8200293	hotel				
+node	6437242186		HNA Pilot's Hotel	22.6576087	113.8210203	hotel				
+node	6485117114	四川宾馆		22.5513825	114.0900587	hotel				
+node	6953608485	栖游青年旅舍	Qiyou Capsule Youth Hostel	22.5489285	114.0771117	hostel				
+node	7068586990	京基晶都酒店	Kinkey Oriental Regent Hotel	22.5418704	114.1005542	hotel		晶都酒店		
+node	7107083085		Shangjian Space Capsule Inn Shenzhen Huaqiangbei	22.5494629	114.0823451	hostel				
+node	7118504979	深圳星语太空舱酒店		22.5389943	114.0670674	hotel				
+node	7128801963		Capsule hotel	22.5386825	114.0897854	hotel				
+node	7143115485	维也纳酒店	Vienna Hotel	22.5660864	114.0943265	hotel		维也纳酒店		
+node	7237506976	深圳瑞吉酒店	The St. Regis Shenzhen	22.5455293	114.1015763	hotel		St. Regis		https://www.marriott.com/hotels/travel/szxxr-the-st-regis-shenzhen
+node	7241991863	深圳投资大厦宾馆		22.5414572	114.0484614	hotel				
+node	7243051038	深圳柏悦酒店	Park Hyatt Shenzhen	22.5345784	114.0506139	hotel	5	Park Hyatt		https://www.hyatt.com/en-US/hotel/china/park-hyatt-shenzhen/szxph
+node	7273823106	雅枫国际酒店		22.5540062	114.0400984	hotel				
+node	7287829072	深圳机场凯悦嘉寓酒店	Hyatt House Shenzhen Airport	22.6263538	113.8105183	hotel	4	Hyatt House	Hyatt Corporation	https://www.hyatt.com/en-US/hotel/china/hyatt-house-shenzhen-airport/szxxa
+node	7287829073	深圳机场凯悦嘉轩酒店	Hyatt Place Shenzhen Airport	22.6263517	113.8109351	hotel	4	Hyatt Place	Hyatt Corporation	https://www.hyatt.com/en-US/hotel/china/hyatt-place-shenzhen-airport/szxza
+node	7293659247	花园格兰云天大酒店	Grand Skylight Garden Hotel	22.5438191	114.0711436	hotel	4	格兰云天		
+node	7682802434	深圳彭年万丽酒店	Renaissance Shenzhen Luohu	22.5438297	114.1173197	hotel		Renaissance		
+node	8087204012	维也纳酒店	Vienna Hotel	22.5398583	114.0755239	hotel		维也纳酒店		
+node	8261187657	智选假日酒店	Holiday INN	22.5994660	114.0388910	hotel		Holiday Inn		
+node	8483293285	全季酒店	Ji Hotel	22.5263991	114.0585309	hotel		全季酒店		
+node	9170017874	朋悦花园酒店	Penyue Garden Hotel	22.5689322	114.0593705	hotel				
+node	9311642417	U-HOME遇家酒店(深圳皇岗店)	U-Home	22.5306402	114.0724666	hotel				
+node	10611789629	希岸酒店		22.5379748	114.0637405	hotel				
+node	10828717305	山水时尚酒店	Shanshui Trends Hotel	22.5467367	114.0838454	hotel				
+node	11581481148	福深达公寓		22.5256150	114.0575169	hotel				
+node	11581555770	悦南国酒店	Yuenanguo Hotel	22.5269847	114.0598612	hotel				
+node	11581555771	True Go Hotel Shenzhen - 秋果酒店	True Go Hotel	22.5269706	114.0599354	hotel		秋果酒店		
+node	11581824193	希尔顿欢朋酒店	Hampton	22.5456242	114.1184796	hotel		Hampton		
+node	11581824194	柏槿酒店		22.5463929	114.1200026	hotel				
+node	12092206283	亚朵X酒店	Atour X Hotel	22.5321468	114.0166407	hotel		亚朵		
+node	12247944001	深圳福田中洲湾城际酒店	InterCity Hotel Futian Zhongzhou Bay	22.5307756	114.0233032	hotel				
+node	12451314628	全季酒店	Ji Hotel	22.6081122	114.0295673	hotel		全季酒店		
+node	12518315451	兰欧酒店		22.5417794	114.1214080	hotel				
+node	12736932701		Colour Inn	22.5510786	114.1150028	hotel				
+node	12751797101		Bakatun Boutique Hotel	22.5510951	114.1149477	hotel				
+node	12761651666	万世昌公寓	Wanshi Chang Anshun Express Apartment	22.6098968	114.0409489	hotel				
+node	13062616591	亚朵酒店	Atour Hotel	22.5775130	114.1193130	hotel		亚朵酒店		
+node	13103520601	UrCove By Hyatt Shenzhen Luohu		22.5651579	114.1023643	hotel				https://www.hyatt.com/en-US/hotel/china/urcove-shenzhen-luohu/uc035
+node	13103520701	深圳东门凯悦嘉轩酒店		22.5470862	114.1107054	hotel		Hyatt Place		https://www.hyatt.com/hyatt-place/en-US/szxzs-hyatt-place-shenzhen-dongmen
+node	13147162530		Paco Hotel Shenzhen Luohu	22.5353947	114.1113426	hotel				
+node	13265323841		Baobab backpacker hostel	22.5479708	114.1000426	hostel				
+node	13277560154	深圳文华东方酒店	"Mandarin Oriental, Shenzhen"	22.5602154	114.0667411	hotel		文华东方酒店集团		https://www.mandarinoriental.com/zh-cn/shenzhen/futian/stay
+node	13340082644	壹航酒店	Flightone Hotel	22.6330910	113.8301236	hotel				http://www.flightone.cn/
+node	13340082651	维也纳酒店	Vienna Hotel (Shenzhen Gushu Metro Station)	22.6321493	113.8307182	hotel		维也纳酒店		
+node	13644454901	深圳会展中心岗厦地铁站亚朵X酒店	Atour X Hotel	22.5322537	114.0655094	hotel				
+node	13758075701	KaiXin Express Hotel		22.5364643	114.0735170	hotel				
+node	13758859501	Manhao Hotel		22.5940613	113.9886440	hotel				
+way	96293663	华侨城洲际大酒店	InterContinental Shenzhen	22.5351967	113.9795615	hotel	5	InterContinental	IHG	https://www.ihg.com/intercontinental/hotels/cn/zh/shenzhen/szxha/hoteldetail
+way	135961007	深圳福朋喜来登酒店	Four Points by Sheraton Shenzhen	22.5141328	114.0571952	hotel		Four Points by Sheraton		https://www.marriott.com.cn/hotels/szxfp-four-points-shenzhen/overview/
+way	227699538	万豪行政公寓	"The OCT Harbour, Shenzhen - Marriott Executive Apartments"	22.5283042	113.9832071	hotel	5	Marriott		
+way	237818416	深圳四季酒店	Four Seasons Hotel Shenzhen	22.5359699	114.0528587	hotel	5	Four Seasons		
+way	243511445	深圳君悦酒店	Grand Hyatt Shenzhen	22.5399328	114.1061391	hotel		Grand Hyatt		
+way	269974974	深圳福田香格里拉大酒店	"Futian Shangri-La, Shenzhen"	22.5389120	114.0523878	hotel	5	Shangri-La		
+way	271562064	深圳香格里拉大酒店	Shangri-La Hotel Shenzhen	22.5362758	114.1131106	hotel		Shangri-La Hotel		https://www.shangri-la.com/cn/shenzhen/shangrila/
+way	271562073	新都酒店	Century Plaza Hotel/ Velaye Hotel	22.5384960	114.1127772	hotel				
+way	330656400	深圳富临大酒店	Best Western Shenzhen Felicity Hotel	22.5339287	114.1105460	hotel				
+way	334287437	天健华里酒店		22.6082630	114.0388314	hotel				
+way	345409513	深圳大中华希尔顿酒店	Hilton Shenzhen Futian	22.5418673	114.0648757	hotel	5	Hilton		https://www3.hilton.com/en/hotels/china/hilton-shenzhen-futian-SZXSFHI/index.html
+way	351753049	旅馆	Pleasant Hotel	22.5468700	114.0830231	hotel				
+way	351753107	深圳回酒店	Hui Hotel Shenzhen	22.5511970	114.0769305	hotel				
+way	351753164	格兰云天大酒店		22.5438589	114.0774597	hotel		格兰云天		
+way	380367771	京湖时尚酒店		22.5376473	114.1142323	hotel				
+way	392480285	维也纳国际酒店	Vienna International Hotel	22.6094237	114.0229519	hotel		维也纳酒店		
+way	412692843	深圳东方银座美爵酒店	Grand Mercure Shenzhen Oriental Ginza	22.5379367	114.0076718	hotel		Oriental Ginza		
+way	430119031	全季酒店	Ji Hotel	22.5534617	114.0823371	hotel	4	全季酒店		
+way	476035685	如家和颐酒店	Home Inn	22.5427981	114.0828955	hotel		如家酒店	如家	
+way	476035688		Maker Hotel	22.5424995	114.0825378	hotel				
+way	479727178	深圳机场凯悦酒店	Hyatt Regency Shenzhen Airport	22.6249682	113.8072529	hotel	5	Hyatt Regency	Hyatt Corporation	https://www.hyatt.com/en-US/hotel/china/hyatt-regency-shenzhen-airport/szxra
+way	488896097	华强广场酒店	Huaqiang Plaza Hotel	22.5465885	114.0808653	hotel				
+way	527641715	兴华宾馆		22.5439731	114.0871333	hotel				
+way	531378275	海燕大酒店		22.5426207	114.1124166	hotel				
+way	531933756	华旺商务宾馆		22.5452264	114.1144733	hotel				
+way	532810287	玺程设计酒店	XW Hotel	22.5434420	113.9889597	hotel				
+way	532810324	华里酒店		22.5393231	113.9909966	hotel				
+way	545225936	东海朗廷酒店	"The Langham, Shenzhen"	22.5390891	114.0155634	hotel		Langham		
+way	549193923	蓝楹湾度假酒店	Bay Breeze Resort	22.5240595	113.9806516	hotel				
+way	565253607	深圳威尼斯睿途酒店	Venice Raytour Mansion	22.5396547	113.9723978	hotel		Raytour		https://www.raytourhotels.com/
+way	593374495	联城酒店		22.5440728	114.1271998	hotel				
+way	614172717	深铁塘朗城君璞酒店	Genpla Hotel Shenzhen NanShan	22.5912839	113.9940902	hotel		君璞酒店		
+way	616351239	上海宾馆	Shanghai Hotel	22.5438697	114.0768347	hotel			格兰云天	
+way	654101107	城市客栈酒店		22.5371529	113.9816886	hotel		城市客栈		
+way	670691914	水都酒店		22.5206905	114.0591333	hotel				
+way	683493448	贝岭居宾馆		22.5594817	114.1366019	hotel				
+way	684494956		MUJI HOTEL SHENZHEN	22.5598606	114.0632854	hotel		MUJI HOTEL		https://hotel.muji.com/shenzhen/
+way	685053533	国宾大酒店	Ambassador Hotel	22.5475551	114.1276712	hotel				
+way	685053534	长安大酒店	Chang An Hotel	22.5474600	114.1269073	hotel				
+way	691162623	城际酒店	IntercityHotel	22.5524778	114.0827659	hotel	5	IntercityHotel		
+way	705695753	维也纳三好酒店		22.6088547	114.0402222	hotel				
+way	741503089	燕晗山酒店	Yanhanshan Hotel	22.5431622	113.9808998	hotel				
+way	765565843	深圳海景嘉途酒店	Seaview O'City Hotel	22.5375733	113.9812889	hotel				http://www.ocityhotel.cn/
+way	774640917	五洲宾馆	Wuzhou Guest House	22.5403741	114.0424117	hotel		五洲宾馆		http://www.wuzhouguesthouse.com/
+way	792358963	求水山酒店		22.6029633	114.1389826	hotel				
+way	887873493	中泰来大酒店	Zhongtailai Hotel	22.5471796	114.1117404	hotel	4			
+way	925221218	深圳博林圣海伦酒店	St.Helen Shenzhen Bauhinia Hotel	22.5390959	113.9933190	hotel				
+way	976868169	麒麟山庄	Kylin Villa	22.6061902	113.9678423	hotel				
+way	976883444	麒麟苑	Kylin Garden	22.6139731	113.9774256	hotel			深圳麒麟山庄	http://www.kylinvilla.cn/cn/villass/detail.aspx?id=193
+way	980552813	银泉酒店	Yinquan Hotel	22.5602077	114.0985414	hotel				
+way	993789637	银湖会议中心酒店		22.5849747	114.0708512	hotel				
+way	1054118590	深圳福田口岸亚朵S酒店（新洲三街店）	Atour S Hotel Shenzhen Futian Port (Xinzhou 3rd Street Branch)	22.5244389	114.0384976	hotel		亚朵		
+way	1063188603	深圳绿景锦江酒店		22.5238687	114.0425981	hotel				
+way	1063188604			22.5238690	114.0425970	hotel				
+way	1180263144	维也纳国际酒店	Vienna Hotel	22.5579003	114.1048837	hotel		维也纳酒店		
+way	1239024777	河东宾馆		22.5435721	114.1084780	hotel				
+way	1241339644	明阳酒店		22.5672850	114.1223265	hotel				
+way	1253641256	深圳富苑皇冠假日套房酒店		22.5449759	114.1156298	hotel				
+way	1253641266	粤海酒店		22.5458504	114.1155294	hotel				
+way	1262090514	华安国际大酒店	Huaan International Hotel	22.5466106	114.1054108	hotel				http://www.huaruihotel.cn/
+way	1262090529	禧程酒店	Xicheng Hotel	22.5467915	114.1007852	hotel				
+way	1262090531	天天酒店	Tiantian Hotel	22.5471156	114.1007845	hotel				
+way	1262090535	寰宇大酒店	Universal Hotel	22.5469171	114.1001778	hotel				
+way	1267038543	深圳海曙凯丰酒店		22.5744957	114.0564136	hotel				
+way	1267038606	HALO HOME公寓		22.5745010	114.0590309	hotel				
+way	1269310462	深圳福田皇岗城际酒店	Intercity Shenzhen Futian Huanggang	22.5262275	114.0556724	hotel		IntercityHotel		
+way	1270819246	维也纳酒店	Vienna Hotels	22.5706296	114.0536652	hotel		维也纳酒店		
+way	1271100691	八号季公寓		22.5629060	114.1161430	hotel				
+way	1271678351	世纪华源商务酒店		22.5593442	114.0942413	hotel				
+way	1305353919	金茂深圳JW万豪酒店	JW Marriott Hotel Shenzhen	22.5391477	114.0272598	hotel		JW Marriott		https://www.marriott.com/en-us/hotels/szxjw-jw-marriott-hotel-shenzhen/overview/
+way	1349477177	安伴环保酒店		22.5592084	113.9692883	hotel				
+way	1377353593	亚朵酒店	Atour Hotel	22.5684500	114.0916599	hotel		亚朵酒店		
+way	1378793354	维也纳酒店	Vienna Hotels	22.5671826	114.0942164	hotel		维也纳酒店		
+way	1409755483	深圳西湖酒店		22.5566502	114.1048758	hotel				
+way	1410489786	蔡屋围大酒店		22.5450567	114.1031651	hotel				
+way	1413953944	长城大酒店		22.5528115	114.1017491	hotel				
+way	1429670579	欢阁酒店	CitiGO Hotel	22.5667818	114.0340704	hotel				
+way	1430129474	加来·酒店	calais	22.5226896	114.0540742	hotel				
+way	1430431778	福青龙华天假日酒店	Fuqinglong HT Holiday Hotel	22.5350145	114.0636246	hotel				
+way	1432455768	梅林酒店	Meilin Hotel	22.5662671	114.0368817	hotel				
+way	1436842253	泰福商务公寓酒店	Taifu Business Apartment Hotel	22.6409491	113.8322682	hotel				
+way	1450784098	城市酒店（深圳北站店）	City Hotel (Shenzhen North Station Branch)	22.6049661	114.0523679	hotel				
+way	1450789280	鑫茂花园酒店（深圳北站店）	Xinmao Garden Hotel (Shenzhen North Station)	22.6113554	114.0361409	hotel				
+way	1454325862	世纪皇廷酒店	Century Royal Hotel	22.6123656	114.1185338	hotel				
+way	1464369583	深圳机场大酒店		22.6506015	113.8193257	hotel				
+way	1464369585	深圳双溪威大酒店		22.6537940	113.8168457	hotel				
+way	1465314994	深圳兴围怡丰酒店		22.6442443	113.8292663	hotel			深圳市怡丰商务酒店有限公司	
+relation	10327217	深圳博林圣海伦酒店	St.Helen Shenzhen Bauhinia Hotel	22.5390959	113.9933190	hotel				

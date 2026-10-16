@@ -1,0 +1,202 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	29703192	Nordic Light Hotel		59.3325806	18.0571438	hotel			Choice Hotels	
+node	29808948	Hotel C Stockholm		59.3321323	18.0568394	hotel				https://hotelcstockholm.com
+node	29808950	Freys Hotel		59.3328266	18.0584124	hotel				
+node	29813781	Elite Hotel Adlon		59.3333624	18.0571915	hotel			Elite	https://www.elite.se/en/hotels/stockholm/elite-hotel-adlon-stockholm/
+node	29834768	City Backpackers		59.3359019	18.0552614	hostel				
+node	29834771	Scandic Klara		59.3338761	18.0623949	hotel		Scandic Hotels	Scandic	
+node	29834884	Hotel Bentleys		59.3375930	18.0575656	hotel			Best Western	https://www.bentleys.se/
+node	29835251	Lilla Rådmannen		59.3391875	18.0546312	hotel	3		Freys Hotels	
+node	29835254	Unique Hotel		59.3370249	18.0536673	hotel				
+node	29835539	Central Hotel		59.3329767	18.0575564	hotel		Ligula Hospitality Group AB	Profil Hotels	
+node	29835543	Radisson Blu Royal Viking		59.3313779	18.0580445	hotel		Radisson Blu	Radisson Blu	https://www.radissonblu.com/en/royalvikinghotel-stockholm
+node	29835546	Thon Hotel Vasa		59.3306504	18.0596278	hotel				
+node	29856190	Sheraton Hotel		59.3288904	18.0618296	hotel		Sheraton		
+node	29898128	Strand		59.3309043	18.0769820	hotel			Radison	https://www.radissonblu.com/en/strandhotel-stockholm
+node	158692114	Villa Källhagen		59.3329836	18.1113401	hotel				https://www.villakallhagen.se
+node	248846432	Hilton Stockholm Slussen		59.3204755	18.0692448	hotel	4	Hilton	Hilton	
+node	248913943	Stallmästaregården		59.3518365	18.0433779	hotel				
+node	249241210	Clarion Hotel Sign		59.3346948	18.0533268	hotel		Clarion	Choice Hotels	
+node	253352150	Hotel Ariston		59.3675026	18.1504754	hotel				
+node	277148333	Scandic Malmen		59.3145650	18.0736646	hotel		Scandic Hotels	Scandic	
+node	299430534	Hotel Foresta		59.3600925	18.1205659	hotel			Scandic	https://www.scandichotels.se/
+node	299720137	Lidingö Arena Hotell		59.3649188	18.1271176	hotel				
+node	300261971	Grand Hôtel		59.3296107	18.0754902	hotel			Intercontinental Hotels & Resorts	
+node	312626313	Amaranten		59.3313346	18.0451911	hotel		Clarion	Clarion	https://www.strawberry.se/hotell/sverige/stockholm/clarion-hotel-amaranten/
+node	318562190	Mornington		59.3379068	18.0796379	hotel				
+node	320540632	"Scandic Go, Sankt Eriksgatan 20"		59.3313500	18.0310944	hotel		Best Western		https://www.scandichotels.com/sv/hotell/scandic-go-sankt-eriksgatan-20
+node	369971305	Hotel Diplomat		59.3319653	18.0805298	hotel				
+node	369971884	Hotel Esplanade		59.3322185	18.0801530	hotel				
+node	373371230	Home Hotel Tapto		59.3436011	18.0864392	hotel		Home Hotel	Strawberry	
+node	373785100	Hasselbacken		59.3252064	18.0989394	hotel				https://hasselbacken.com/sv/rum/#om-hotellet?utm_medium=cpc&utm_source=google&utm_campaign=hotell&utm_content=tas
+node	410559672	Crystal Plaza		59.3382126	18.0685788	hotel				https://crystalplazahotel.se/
+node	410565506	Elite Stockholm Plaza		59.3374721	18.0697935	hotel				https://www.elite.se/sv/hotell/stockholm/plaza
+node	410578696	Kung Carl		59.3364433	18.0713869	hotel	4	Best Western	Best Western	http://www.hotellkungcarl.se/
+node	410641247	Mälardrottningen		59.3239086	18.0628764	hotel				
+node	415981779	Comfort Hotel Xpress Stockholm Central		59.3331016	18.0545885	hotel			Nordic Choice	https://www.nordicchoicehotels.se/Comfort/Comfort-Hotel-Stockholm/
+node	418223672	Victory		59.3243597	18.0679361	hotel				
+node	418243352	Lady Hamilton Hotel		59.3257152	18.0693072	hotel				
+node	469866403	City Lodge		59.3330745	18.0590756	hostel				
+node	470495623	Haymarket		59.3346725	18.0615011	hotel	4	Scandic Hotels	Scandic	
+node	475149315	Kom Hotel		59.3394880	18.0625944	hotel	3	Best Western	Best Western	
+node	480987679	Crafoord Place Hostel		59.3373495	18.0462204	hostel				https://www.crafoordplace.se/
+node	492838631	Time Hotel		59.3476487	18.0491638	hotel		Best Western	Best Western	
+node	497171119	Downtown Camper by Scandic		59.3312579	18.0655598	hotel		Scandic Hotels	Scandic	https://www.scandichotels.se/hotell/sverige/stockholm/downtown-camper-by-scandic
+node	503503210	Ibis Styles Stockholm Odenplan		59.3423835	18.0467435	hotel		Ibis Styles	Ibis	
+node	503503234	Svea Hostel		59.3422118	18.0578370	hostel				https://sveahostel.com/
+node	510605892	Nomadcave		59.3292815	18.0417916	hostel				https://nomadcave.se/
+node	536526128	Hostel Dalagatan		59.3400417	18.0474755	hostel				
+node	540398560	Reimersholme Hotel		59.3182960	18.0251784	hotel				
+node	638423934	City Hostel		59.3327325	18.0449179	hostel				https://www.cityhostel.se/
+node	661187358	Hotel Fridhem		59.3340297	18.0326099	hotel				
+node	662932778	Radisson Blu SkyCity		59.6494326	17.9298548	hotel		Radisson Blu		http://www.radissonblu.se/skycityhotell-arlanda
+node	681691821	Elite Palace Hotel		59.3467329	18.0397808	hotel		Elite	Elite	
+node	714200435	Maudes hotel		59.2778337	18.0702211	hotel				
+node	717590169	Good Morning Hotels Arlanda		59.6468117	17.9687281	hotel				http://gmorninghotels.se/arlanda/
+node	727578345	Park Inn Hammarby Sjöstad		59.3015247	18.1053502	hotel		Park Inn	Park Inn	https://www.parkinn.com/hotel-stockholm-hammarby/gallery
+node	734235339	Marriott Courtyard		59.3313659	18.0214150	hotel		Marriott	Marriott	
+node	735442528	Brunnby Hotell		59.2949645	18.0326978	hotel				
+node	762643727	Wasa Park		59.3389051	18.0390877	hotel				
+node	764582294	Långholmen		59.3212991	18.0253960	hotel				
+node	769286704	Lilla brunn		59.3450519	18.0557021	hostel				https://lillabrunn.se/
+node	798553173	Clarion Hotel Stockholm		59.3073234	18.0749144	hotel		Clarion		
+node	798553654	Scandic Norra Bantorget		59.3367705	18.0564634	hotel		Scandic Hotels	Scandic	
+node	806864906	Kungsbron		59.3320788	18.0529716	hotel				https://www.thonhotels.com/hotels/sweden/stockholm/thon-hotel-kungsbron/
+node	842293233	ProfilHotels Nacka		59.3069737	18.1182570	hotel		ProfilHotels		https://ligula.se/profilhotels/hotel-nacka/
+node	842869218	Sure Hotel by Best Western		59.2808290	18.0135116	hotel		Sure Hotel		https://www.bestwestern.se/hotell/sure-hotel-by-best-western-stockholm-alvsjo-56047
+node	867361548	Bema		59.3375888	18.0533655	hotel				http://www.hotelbema.se
+node	885657620	Liljeholmens Stadshotell		59.3092346	18.0160709	hotel				https://www.liljeholmensstadshotell.se/
+node	1007902207	Hotell Gamla Stan		59.3246621	18.0753489	hotel				https://www.hotelgamlastan.se/
+node	1046739587	Birger Jarl		59.3423348	18.0624407	hotel				
+node	1131279946	STF Stockholm/Gärdet Vandrarhem		59.3413505	18.1113945	hostel		STF		https://www.svenskaturistforeningen.se/
+node	1154914763	Waterfront Hotel		59.3299289	18.0559409	hotel			Radison Blu	https://www.radissonblu.com/en/waterfronthotel-stockholm
+node	1211022427	Hornsgatan		59.3185828	18.0592171	hotel				
+node	1211022506	Guldgränd		59.3202778	18.0694455	hotel				
+node	1246189002	Anno 1647		59.3192432	18.0715139	hotel				https://www.anno1647.se/
+node	1256871243	Skanstulls vandrarhem		59.3085337	18.0801900	hostel				
+node	1258006329	Sjöfartshotellet		59.3186882	18.0760567	hotel		Scandic Hotels	Scandic	https://www.scandichotels.com/hotels/sweden/stockholm/scandic-sjofartshotellet
+node	1259515456	Mosebacke		59.3171059	18.0759528	hostel				
+node	1313029527	Hotel Metro Stockholm AB		59.2994582	18.0173078	hotel				http://www.metrohotel.se/
+node	1334695742	Eight Rooms		59.3158165	18.0838880	hotel				
+node	1354120898	Nofo Hotel		59.3155915	18.0788669	hotel		Best Western	Best Western	
+node	1354120921	Hotel Söder		59.3152226	18.0771843	hotel				
+node	1382112691	Nobis		59.3334572	18.0738859	hotel				https://www.nobishotel.se/
+node	1383446156	Hotel Riddargatan - ProfilHotels		59.3343827	18.0766187	hotel		ProfilHotels	Lilgula Hospitality Group	
+node	1393925970	Anglais		59.3370599	18.0728385	hotel		Scandic Hotels	Scandic	
+node	1425549937	Skeppsholmen		59.3247487	18.0875948	hotel				http://www.hotelskeppsholmen.com
+node	1429311519	Queen's Hotel		59.3358401	18.0593197	hotel				
+node	1433722473	Birka Hotel		59.3371159	18.0637715	hostel				
+node	1433722480	Hotel Hellsten		59.3414585	18.0597009	hotel				
+node	1433722541	Rex		59.3413478	18.0594812	hotel				
+node	1439606371	Hotel Expo		59.2787465	18.0079536	hotel				https://hotelexpo.se/
+node	1451163424	Scandic Grand Central		59.3337451	18.0555916	hotel		Scandic Hotels	Scandic	https://www.scandichotels.se/Hotels/Countries/Sverige/Stockholm/Hotels/Grand-Central/
+node	1477543914	Hotel Sven Vintappare		59.3248058	18.0687837	hotel				
+node	1488998568	Lydmar		59.3289891	18.0770973	hotel				
+node	1511437174	Scandic Södra Kajen		59.3488774	18.1135223	hotel			Scandic	https://www.scandichotels.com/hotels/sweden/stockholm/scandic-ariadne
+node	1550839744	Rival		59.3182338	18.0637690	hotel				
+node	1595429808	Clas på hörnet		59.3465040	18.0611424	hotel				https://www.claspahornet.com
+node	1595429836	Hotel Ruth		59.3453463	18.0568480	hotel				
+node	1617791540	Berns		59.3322770	18.0733569	hotel				https://www.berns.se/hotell
+node	1660607871	Årstaberg		59.2999075	18.0316903	hotel				https://www.hotellarstaberg.se/
+node	1680541216	Home Hotel Wellington		59.3351714	18.0824030	hotel		@HOME	Strawberry	
+node	1687539641	LogInn19		59.3213716	18.0567392	hotel				https://www.loginn.se/
+node	1687539660	Rygerfjord		59.3214165	18.0592459	hotel				
+node	1706342263	Marina Tower		59.3147189	18.1093495	hotel			Elite	https://www.elite.se/sv/hotell/stockholm/marinatower
+node	1734187020	Scandic Park		59.3409510	18.0755070	hotel		Scandic Hotels	Scandic	
+node	1741554634	Örlogshotellet		59.3303049	18.0773611	hotel				https://www.orlogshemmet.com/
+node	1751496239	Karlaplan		59.3403879	18.0884082	hotel		Best Western	Best Western	
+node	1754241927	Scandic Gamla Stan		59.3230648	18.0700061	hotel		Scandic Hotels	Scandic	
+node	1779515442	Lord Nelson		59.3253003	18.0689702	hotel				
+node	1782675341	Dockside		59.3229268	18.0747100	hostel				
+node	1844157697	BizApartment Gärdet		59.3414737	18.1124273	hotel				https://bizapartmenthotel.se/gardet/
+node	1873229167	Arcadia		59.3486109	18.0641410	hotel			Elite	
+node	2138126267	Stockholm Inn		59.3354867	18.0596622	hotel				
+node	2212900018	Old Town Lodge		59.3237915	18.0734005	hostel				https://oldtownlodge.se/
+node	2302175428	RestAndFly		59.6481423	17.9286273	hostel				https://www.restandfly.com/
+node	2391655745	Gyllene Geten		59.3251707	18.0701500	hotel				https://goldengoat.se/
+node	2423442705	STF Stockholm Skeppsholmen Vandrarhem		59.3251826	18.0812714	hostel		STF		https://www.svenskaturistforeningen.se/boende/stf-stockholm-skeppsholmen-vandrarhem/
+node	2483671165	Eden Park		59.3384371	18.0749593	hotel			Elite	
+node	2493835532	Backstage Hotel		59.3248939	18.0969509	hotel				https://melody.se/
+node	2569866476	Pärlan		59.3344932	18.0831580	hotel				http://www.parlanhotell.com
+node	2627336423	Solna Park & Hotel		59.3804499	18.0073239	hotel				https://solnapark.se-hotel.com
+node	2640316823	Sky Hotel Apartments		59.3341458	18.0164151	hotel				https://www.skyhotelapartments.se/stockholm/
+node	2764950216	Miss Clara		59.3375994	18.0620924	hotel				
+node	2815016756	Motel L - Hammarby Sjöstad		59.3028153	18.0877020	hotel		Motel L	Ligula Hospitality Group	https://ligula.se/motel-l/hammarby-sjostad
+node	2874947561	Scandic no.53	Scandic No. 53	59.3343105	18.0591334	hotel		Scandic Hotels	Scandic	https://www.scandichotels.com/hotels/sweden/stockholm/scandic-no-53
+node	2888592297	Apartments by Ligula		59.3029801	18.0882960	hotel		Apartments by Ligula	Ligula Hospitality Group	https://ligula.se/en/apartments-by-ligula
+node	3075818342	Ett Hem		59.3454456	18.0677652	hotel				https://www.slh.com/hotels/ett-hem/
+node	3269166761	Hellstens malmgård		59.3177267	18.0466675	hotel				https://www.hellstensmalmgard.se
+node	3449056344	Kungsträdgården		59.3312158	18.0697877	hotel				https://www.hotelkungstradgarden.se/
+node	3455914603	Acco Hostel Stockholm		59.3170160	18.0460870	hostel				
+node	3564299653	Best Western Plus Park City Solna		59.3598923	18.0002590	hotel		Best Western Plus		https://www.bestwestern.se/hotell/best-western-plus-park-city-solna-88272
+node	3583936510	Sofo Hotel		59.3087211	18.0791657	hotel				
+node	3639599595	Hotel Point		59.3107671	18.0785806	hotel				
+node	3664767497	Tre små rum		59.3153108	18.0633038	hostel				
+node	3836021162	Castanea Old Town Hostel		59.3247393	18.0727208	hostel				
+node	3958530343	&hotel	Best Western and hotel	59.3362913	18.0639544	hotel	3			
+node	3958530344	Hotel with Urban Deli		59.3369479	18.0626565	hotel	4			https://hotelwith.se/
+node	4100034049	Scandic Continental		59.3310250	18.0594166	hotel		Scandic Hotels	Scandic	
+node	4139293190	Stockholm Hostel		59.3356294	18.0309241	hostel				https://www.stockholmhostel.se/
+node	4163663816	Aiden by Best Western Stockholm City		59.3360741	18.0286617	hotel		Aiden		https://www.aidenhotels.com/aiden-stockholm-city
+node	4252689705	Castle House Inn		59.3250843	18.0744785	hotel				http://castlehouse.se
+node	4307792288	Generator Stockholm		59.3358575	18.0507213	hostel			Generator Hostels	https://generatorhostels.com/en/destinations/stockholm/
+node	4587668399	Hellstens glashus		59.3166409	18.0623869	hotel				
+node	4691067101	RAMILTON Old Town Hostel		59.3244746	18.0686441	hostel				
+node	4836280929	Scandic Go Upplandsgatan		59.3364016	18.0550415	hotel		Scandic Hotels	Scandic	
+node	4863554783	Asplund Hotel Apartments		59.3533102	18.0088234	hotel				https://secondhomeapartments.se/asplund/
+node	4966783259	Skeppsbron		59.3242346	18.0750571	hotel				
+node	5073724779	Hobo		59.3310321	18.0670047	hotel				
+node	5073724780	At Six		59.3313646	18.0669698	hotel				
+node	5166412919	Hötorget Hotel		59.3364826	18.0608642	hotel				
+node	5443214965	Forenom		59.3496841	17.9866911	hotel				https://www.forenom.com
+node	5744885230	Stockholm Classic Hotell		59.3184635	18.0480458	hotel				
+node	5834017602	Gustaf af Klint		59.3213473	18.0512900	hotel				https://www.gustafafklint.com/
+node	7063108295	Niro Apart Hotel		59.3335005	18.0251576	hotel				http://www.niroapart.se/
+node	7168770010	Crêperie & logi		59.3450380	18.0565274	hotel				
+node	7486209507	Frantz		59.3194076	18.0714709	hotel				https://www.hotelfrantz.se/
+node	7488716812	at 108 hotel		59.3433608	18.0565391	hotel		Best Western	Best Western	
+node	7873319507	Hotel Giò		59.3630436	18.0231893	hotel		Best Western		https://www.hotelgio.se/
+node	8875469934	Bank		59.3313940	18.0746346	hotel				
+node	11195016578	Hotel City Living		59.2642493	18.1328808	hostel				
+node	11293052732	The Sparrow Hotel		59.3369358	18.0715504	hotel	4			
+node	11314902648	Aiden		59.3597012	17.9826944	hotel		Aiden		https://www.aidenhotels.com/aiden-solna
+node	11387401404	Blique by Nobis		59.3459810	18.0361247	hotel				
+node	11571005370		Forenom Hotel Arlanda	59.6405093	17.9426397	hotel				https://www.forenom.com
+node	12009122532	Quality Office		59.2718121	18.0071515	hotel				
+node	12104114623	2Home Hotel Solna		59.3634914	17.9791780	hotel				https://solna.2homehotels.se/
+node	12150307994	Nomad Gärdet		59.3418746	18.1114328	hostel				
+node	12447181571	Citybox Stockholm		59.3194487	18.0740640	hotel				
+node	13114144401	Nomad City Hostel		59.3308223	18.0483964	hostel			Nomad Hostel Group	
+node	13143137343	Nomad Gärdet		59.3421183	18.1111804	hostel				https://nomadgardet.se/
+node	13201364896	Story Hotel Riddargatan		59.3346624	18.0751811	hotel	4	Hyatt	Hyatt Hotels Corporation	
+node	13354485881	Hotel Villa Dahlia		59.3387888	18.0547252	hotel				
+node	13356441885	Hotel Villa Dagmar		59.3355413	18.0779255	hotel				
+node	13414118333	Älvsjö Stadshotell		59.2922355	18.0306353	hotel				https://alvsjostadshotell.se
+way	5348234	Scandic Järva Krog		59.3796207	18.0098966	hotel		Scandic Hotels		
+way	23999385	"Hagastrand, Autograph Collection"		59.3692132	18.0312759	hotel	4	Radisson Blu		https://www.marriott.com/en-us/hotels/storp-hagastrand-autograph-collection
+way	24478500	Radisson Blu Arlandia Hotell		59.6395725	17.9416025	hotel		Radisson Blu		http://www.radissonblu.se/arlandiahotell-arlanda
+way	29424635	The Nooq Alvik		59.3342239	17.9785277	hotel				https://thenooq.se/sv/hotels/alvik
+way	31891861	Best Western Royal Star Hotel		59.2765966	18.0109712	hotel		Best Western	Best Western	https://www.bestwestern.se/
+way	31977260	Quality Hotel Globe		59.2927300	18.0839291	hotel		Nordic Choice		https://www.nordicchoicehotels.com/hotels/sweden/stockholm/quality-hotel-globe/
+way	40398852	Best Western Hotel Solna		59.3541165	17.9982893	hotel		First Hotels		
+way	40407555	The Lab Hotel		59.3526033	18.0094000	hotel				
+way	40595370	Capital Hotel		59.2956612	18.0332412	hotel			Best Western	
+way	118490407	2home Stockholm South		59.2908658	18.0237257	hotel				https://sthlmsouth.2homehotels.se/
+way	118695184	Scandic Alvik		59.3314453	17.9821674	hotel	4	Scandic Hotels		
+way	120358577	Scandic Talk Hotel		59.2769427	18.0158538	hotel		Scandic Hotels		
+way	156514464	Den Röda Båten	The Red Boat	59.3213827	18.0614082	hotel				
+way	180373066	Avanti Hotel		59.3028718	18.0016820	hotel				https://www.avantihotel.se/
+way	194699561	Quality Hotel Strawberry Arena		59.3720883	18.0029847	hotel			Strawberry	https://www.strawberry.se/hotell/sverige/solna/quality-hotel-friends/
+way	208865568	Clarion Hotel Arlanda Airport		59.6489629	17.9314416	hotel		Clarion		https://www.clarionarlanda.se/
+way	287507560	Njuta Spa & Klinik		59.3171285	18.1551645	hotel				
+way	352835803	The Winery Hotel		59.3774446	18.0124553	hotel				https://www.thewineryhotel.se/
+way	401767667	Elite Hotel Carolina Tower		59.3482358	18.0319537	hotel		Elite		https://elite.se/en/hotels/stockholm/hotel-carolina-tower/
+way	466593319	Motel L Älvsjö		59.2805176	18.0140732	hotel		Motel L by Ligula	Ligula	https://ligula.se/motel-l/alvsjo
+way	484323917	AC Hotel Stockholm Ulriksdal		59.3808861	18.0010354	hotel		AC Hotel	Marriott	
+way	619890786	Biz Apartment Hammarby Sjostad		59.3017803	18.0985851	hotel				
+way	654021326			59.3462418	18.1546039	hotel		Boo Boo Living		https://boobooliving.se/
+way	727506247	Comfort Hotel Arlanda Airport		59.6482336	17.9337741	hotel				https://www.strawberryhotels.com/hotels/sweden/stockholm-arlanda-airport/comfort-hotel-arlanda-airport/
+way	889249573	Comfort Hotel Solna		59.3733383	17.9976227	hotel		Comfort		https://www.strawberry.se/hotell/sverige/solna/comfort-hotel-solna/
+way	981310459	Home Hotel Tapetfabriken		59.3041837	18.1205045	hotel			Strawberry	
+way	1097511245	Hôtel Reisen		59.3254290	18.0749424	hotel	5	Unbound Collection	Hyatt	
+relation	60822	Zinkensdamm		59.3148473	18.0446114	hotel				https://www.zinkensdamm.com/

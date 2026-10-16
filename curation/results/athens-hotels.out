@@ -1,0 +1,433 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	568375762	Stanley		37.9859903	23.7209742	hotel	3			
+node	1231348251	Casual Kubic Athens Hotel by Casual Hoteles		37.9849485	23.7245815	hotel		Best Western		
+node	1231406510	Arion Hotel		37.9794861	23.7257344	hotel	3			https://www.arionhotel.gr/
+node	1445375802	Diethnes Hotel		37.9936932	23.7220850	hotel				
+node	1668113864			38.0489138	23.7976621	hotel				
+node	1668113866	Civitel Attik Rooms & Apartments		38.0479675	23.7981851	hotel				https://www.civitelattik.gr/
+node	1814574432	O&B Athens Boutique Hotel		37.9775680	23.7219308	hotel	4			https://oandbhotel.com
+node	2055920331	Phidias Hotel		37.9750910	23.7195040	hotel				
+node	2062507365	Airotel Stratos Vassilikos		37.9812423	23.7591525	hotel				
+node	2080217924	Acropolis Hill		37.9669114	23.7233233	hotel				https://www.acropolishill.gr/
+node	2165698550	Athens Atrium		37.9544953	23.7177851	hotel				https://www.athensatrium.gr/
+node	2191490604	Evripides Hotel		37.9803449	23.7235657	hotel				https://www.evripideshotel.gr/
+node	2207243413	Piraeus Dream Hotel		37.9421561	23.6444089	hotel				http://piraeusdream.gr
+node	2331153817			37.9809718	23.7382583	hotel				
+node	2333222484	Athens Cypria Hotel		37.9764103	23.7316872	hotel				
+node	2386604991	The Marblous Athens		37.9754184	23.7323570	hotel				https://themarblous.com/
+node	2386604992	Athens Diamond Plus		37.9754369	23.7325305	hotel				
+node	2433638377	Hotel Rio Athens		37.9853861	23.7198667	hotel	3			https://hotel-rio.gr/
+node	2467970101	Katerina		37.9860982	23.7223010	hotel				
+node	2467970102	Minoa Hotel		37.9860296	23.7229119	hotel				
+node	2467970103	Novus City Hotel		37.9857149	23.7227364	hotel				https://www.novushotel.gr/
+node	2475212242	Metropolis Hotel		37.9754973	23.7306596	hotel				
+node	2609742633	Amazon Hotel		37.9751747	23.7318635	hotel		Best Western	Best Western	
+node	2625140224	Radisson Blu Park		37.9912755	23.7332956	hotel		Radisson Blu		https://www.radissonblu.com
+node	2625146898	Frida		37.9887221	23.7421189	hotel				
+node	2644209982	Praxitelous Luxury Suites		37.9783845	23.7305683	hotel				https://praxitelousluxurysuites.com
+node	2680662070	Φίλιππος		37.9674765	23.7271269	hotel				
+node	2731034965	Apollo		37.9851639	23.7199791	hotel				
+node	2746563912	GLS Boutique Πρίαμος		37.9442550	23.6801601	hotel				
+node	2748165156	Bora Bora		38.0460778	23.7381009	hotel				https://www.boraborahotel.gr/
+node	2751048231	Athens International Youth Hostel		37.9863675	23.7237423	hostel				http://www.athens-international.com
+node	2778806819	Central Athens Hotel		37.9746372	23.7311391	hotel	3			https://www.centralhotel.gr/
+node	2791293463	Marina Hotel		37.9835077	23.7241026	hotel				https://www.marina.com.gr/
+node	2878494114	Sparta Team Hotel		37.9817126	23.7245319	hotel	1			https://www.spartahotel.gr/
+node	2878494125	SOHO Hotel		37.9819766	23.7246220	hotel				
+node	2878494126	Chic		37.9826400	23.7250907	hotel				
+node	2879723206	Athens Way		37.9837238	23.7379061	hotel				https://athenswayhotel.gr
+node	2897985368	Airotel Alexandros Hotel		37.9834922	23.7572172	hotel				https://www.airotel.gr/hotel/alexandros
+node	2991961559	Hotel Solomou		37.9873642	23.7283053	hotel				
+node	3002091926	Electra Hotel		37.9756392	23.7330117	hotel				
+node	3005439484	Elikon		37.9848099	23.7288358	hotel				
+node	3005439486	Hotel Alma		37.9850636	23.7289001	hotel				
+node	3005439487	Polis Grand Hotel		37.9855075	23.7295063	hotel	4			
+node	3057598370	Αχιλλέας	Achilleas	37.9769689	23.7318105	hotel				
+node	3269493683	Student and Travellers Inn		37.9721889	23.7314341	hostel				http://www.studenttravellersinn.com/
+node	3321987264	Athens Center Square Hotel		37.9803037	23.7262938	hotel				https://athenscentersquarehotel.gr
+node	3377733044	Breeze Boutique		37.9863513	23.7276663	hotel				
+node	3388666055	Electra		37.9465435	23.6435212	hotel				https://www.hotel-electra.gr/
+node	3397422670	Σπάρτη	Sparti	37.9470682	23.6438418	hotel				
+node	3423101154	Athens Quinta Hostel		37.9848585	23.7388905	hostel				https://athenshostel.gr/
+node	3452776174	Ερεχθείον	Erechtheion	37.9739944	23.7194578	hotel				
+node	3452940988	Αρετούσα	Arethusa	37.9753125	23.7330644	hotel				https://www.arethusahotel.gr/
+node	3452962943	Pan	Pan	37.9751719	23.7325934	hotel				https://www.panhotel.gr/
+node	3504876410	Athens market portrait boutique hotel		37.9800243	23.7264275	hotel				
+node	3523190673	Delta Hotels		37.9869841	23.7192258	hotel		Delta Hotels		
+node	3659065020	Best Western Plus Embassy Hotel		37.9653906	23.7332475	hotel		Best Western Plus		
+node	3684652542	Best Western Plus Embassy Hotel		37.9839037	23.7559878	hotel		Best Western Plus		
+node	3686492309	Hotel Division		37.9519022	23.6893856	hotel				
+node	3695874057	Coral Hotel Athens		37.9249086	23.6920317	hotel				https://www.coralhotel.gr
+node	3695951868	Poseidon Hotel		37.9188373	23.7011474	hotel				
+node	3744448975	Hotel Astor		37.9765932	23.7324181	hotel				https://astorhotel.gr/
+node	3784600828	Faros		37.9392989	23.6427647	hotel				
+node	3793368947	Park		37.9400979	23.6435044	hotel				
+node	3803529939	Phidias		37.9395759	23.6471429	hotel				http://www.hotelphidias.gr/
+node	3803531171	Adrian		37.9747256	23.7277788	hotel				
+node	3803531458	Noufara		37.9416976	23.6461203	hotel				
+node	3881834237	San Remo		37.9887168	23.7204109	hostel				http://www.hostelsanremoathens.com/
+node	3901275176	Athens Studios		37.9672926	23.7287193	hostel				https://www.athensstudios.gr/
+node	3967824825	The Athenian Callirhoe		37.9656642	23.7294045	hotel				
+node	3968035321	Hera Hotel		37.9669959	23.7290667	hotel				
+node	4016951295	Cecil		37.9792725	23.7265660	hotel				
+node	4018068072	Athens 21		37.9778730	23.7262315	hotel				
+node	4051730564	Arcade		37.9799939	23.7291204	hotel				
+node	4065951393	Ανεμώνη	Anemoni	37.9447795	23.6493396	hotel				https://www.anemoni.gr/
+node	4193756001	Diros Hotel		37.9843808	23.7257975	hotel				
+node	4202700293	Exarchion Hotel		37.9861992	23.7343484	hotel				https://exarchion.com/
+node	4218379697	Athens La Strada		37.9756573	23.7307356	hotel				
+node	4220829996	St George Lycabettus Boutique Hotel		37.9794224	23.7424800	hotel				
+node	4222179792	Acropolis Select Hotel		37.9657693	23.7274144	hotel				
+node	4228647014	Hotel Marousi		38.0482880	23.7972370	hotel				
+node	4231996092	Pella Inn		37.9771471	23.7236831	hostel				
+node	4252398189	Cosmos		37.9866520	23.7223733	hotel				https://www.hotelcosmos.gr
+node	4253872189	Dorian Inn		37.9828685	23.7256438	hotel				
+node	4254080090	Ariston		37.9907450	23.7206779	hotel				
+node	4261370792	Επίδαυρος	Epidavros	37.9839119	23.7247226	hotel				https://www.epidavroshotel.eu/
+node	4261408516	Piraeus Port Hotel		37.9468473	23.6486583	hotel				https://www.piraeusporthotel.com/
+node	4266662124	Athens house		37.9865331	23.7274632	hostel				
+node	4306964827	Φοίβος Hotel	Feevos Hotel	37.9477995	23.6737675	hotel				
+node	4327167898	Attiki Evans Hotel		37.9866182	23.7410226	hotel				https://www.attikihotel.gr/
+node	4370574789		Ben's Place	38.0071793	23.7115978	hostel				
+node	4374179296	Omiros		37.9746548	23.7317181	hotel	3			http://www.omiros-hotel.com
+node	4382619838	Νίκη		37.9470969	23.6475988	hotel				
+node	4384304261	Delice Family Apartments		37.9745177	23.7508356	hotel				
+node	4384306537	Electra Metropolis Hotel		37.9751863	23.7321504	hotel				
+node	4399086195	Balasca Hotel		37.9905997	23.7237610	hotel				
+node	4399816204	Diethnes		37.9936887	23.7219502	hotel				
+node	4529947589		Aristotelian	37.9882180	23.7265361	hotel				
+node	4664964011	The House		37.9797721	23.7135552	hotel				https://thehouseathens.com/
+node	4667154790	Athens Lotus Hotel		37.9875778	23.7230839	hotel				https://athenslotushotel.gr/
+node	4682144745	Enattica Syntagma Living		37.9744265	23.7332048	hotel	3			https://syntagmaliving.enattica.com
+node	4682144748	Malliott Apartment		37.9745368	23.7330061	hotel				
+node	4843071925	Λωζάνη	Lozanni	37.9870202	23.7270556	hostel				
+node	4922733223	Mary Plaza		37.9446578	23.6776892	hotel				
+node	4971258221	hoteli		37.9790703	23.7212374	hotel				
+node	5126379076	Acropolis Stay		37.9667469	23.7290490	hotel				
+node	5127925261	Mansion Hotel		37.9853441	23.7266428	hostel				
+node	5130269728	18 Micon str	18 Micon Street	37.9780702	23.7238182	hotel				https://www.18miconstr.com/
+node	5140821239	Fix		37.9652083	23.7272420	hotel				
+node	5339685542			37.9818734	23.7199734	hostel				
+node	5423342201	360 degrees hotel		37.9771303	23.7255787	hotel				
+node	5483686665	Plaka		37.9757767	23.7282964	hotel	3			https://www.plakahotel.gr/
+node	5483687199	Γαλήνη		37.9428237	23.6612108	hotel				
+node	5589810331	Soho		37.9831838	23.7279240	hotel				
+node	5614741822		Antonio	37.9556561	23.7284590	hostel				
+node	5859224000	Hotel Nefeli		37.9098136	23.7147881	hotel				
+node	5891594333	Acropolis View hotel		37.9688149	23.7239369	hotel				
+node	5994696143	Alter Athens		37.9869736	23.7403110	hotel				https://www.alterathens.gr
+node	6065224365	Sweet home		37.9749136	23.7312248	hotel				
+node	6113639787	Kimon Athens Hotel		37.9745699	23.7303478	hotel				https://kimonhotelathens.com/
+node	6158623660	Filon		37.9393109	23.6416937	hotel				
+node	6159546327	Emirates		37.9604226	23.7207645	hotel				
+node	6172463995	Lotus Center		37.9767855	23.7247764	hotel				
+node	6189002153	Elia Ermou		37.9758706	23.7318334	hotel				https://eliaermouhotel.com/
+node	6428349586	Mansion		38.0139227	23.6471521	hotel				
+node	6433872886	Athens Hawks		37.9818437	23.7245779	hostel				
+node	6434664146	Lotus Inn		37.9770534	23.7248939	hotel				
+node	6442174527	Syngrou Fix		37.9636144	23.7250811	hotel				https://www.hotelsyngroufix.gr/
+node	6514443185			37.9671068	23.7276764	hotel				
+node	6640397976	AS City Hostel		37.9569959	23.7373817	hostel				
+node	6640764585	Athens SmArt Shared Home		37.9893980	23.7210727	hotel		Athens SmArt Stay	Athens SmArt Stay	https://www.athens-smartstay.com/athens-smart-shared-home
+node	6758802218	14 reasons why		37.9780318	23.7251140	hotel				
+node	6758812230	Pame		37.9780413	23.7251125	hotel				
+node	6780280044	Crafoord Place		37.9725208	23.7340645	hostel				
+node	6799366585	Ξενώνας Νεότητας Παγκρατίου	Pagrati Youth Hostel	37.9654846	23.7485698	hostel				http://athensyhostel.com/
+node	6860937256	Nubian Hostel		37.9843263	23.7371792	hostel				https://www.nubianhostel.gr
+node	6907018190	Cosmopolit		37.9852431	23.7277032	hotel	2			
+node	6967361885			37.9780448	23.7041513	hotel			Kika	
+node	6968341806	Niche		37.9670943	23.7303426	hotel				
+node	7040121504	Art Gallery Hotel		37.9662186	23.7253060	hotel				http://artgalleryhotel.gr
+node	7181735671	Tins		37.9869430	23.7275435	hotel				
+node	7181735672	Art Suites Korai		37.9876277	23.7277278	hotel				https://www.artsuiteskorai.gr/
+node	7248904557	Pallada Athens		37.9784074	23.7256448	hotel				
+node	7626001182	Αρτεμίσιον		37.9856063	23.7287097	hotel				
+node	7843997485	Downtown lofts		37.9783436	23.7226213	hotel				
+node	7977088136	Brown Acropol		37.9836154	23.7273098	hotel				
+node	8569895952	Central stay		37.9780113	23.7230656	hostel				
+node	8569908175	Live in Athens		37.9784264	23.7245811	hostel				
+node	9089518217	Play Hotel		37.9806332	23.7255450	hotel				
+node	9144064305	The Gem Society Boutique Hotel & Spa		37.9798455	23.7297111	hotel				https://www.thegemsocietyhotel.com/
+node	9146995902	Blend		37.9788051	23.7280053	hotel				
+node	9221220155	Perianth Hotel		37.9774713	23.7284206	hotel		Design Hotels		
+node	9246794702	The Convo 336		37.9434867	23.6849089	hotel				https://convohotels.com/athens/the-convo-336/
+node	9376468801	NLH Monastiraki - Neighborhood Lifestyle Hotel		37.9789179	23.7265690	hotel				
+node	9492898414	Exis		38.0026720	23.7332557	hotel	2			https://exishotel.gr/
+node	9620744776	Victory Inn Hotel		37.9960973	23.7342383	hotel				https://www.victory-inn.gr
+node	9718203170	When in Athens		37.9838729	23.7369940	hostel				
+node	9722864812	ΙNOH		38.0037924	23.7327205	hotel				
+node	9795624117	44 Athens		37.9830098	23.7600049	hotel				http://www.44athens.gr/
+node	9843128317		The Duke Boutique Suites	37.9810387	23.7400663	hotel				https://www.thedukeboutiquesuites.com/
+node	9917082369	Acropolis Ami Boutique Hotel		37.9645070	23.7304523	hotel				https://www.acropolisamihotel.com/
+node	9938832124	Hotel Nefeli		37.9729825	23.7313831	hotel				https://www.hotel-nefeli.com
+node	9981469658	City Circus Athens		37.9795707	23.7232972	hostel				
+node	10079138317		Eden hotel	37.9839490	23.7243485	hotel				
+node	10080082818			37.9839883	23.7243637	hotel				
+node	10082593717	Wyndham Grand Athens Residence & Suites		37.9855123	23.7209488	hotel		Wyndham Grand		https://www.wyndhamathensresidence.com/
+node	10093247245	Athens Prime Hotel Classic		37.9780171	23.7304356	hotel				https://athensprimehotels.com/
+node	10098329293	Pure Athens prime hotels		37.9780480	23.7286191	hotel				https://purehotelathens.gr/
+node	10156854980	Christiana		37.9855538	23.7272164	hotel				
+node	10156855254	The Alassia		37.9849870	23.7270647	hotel				
+node	10282199231	Belle Epoque Suites		37.9780042	23.7307230	hotel				https://belleepoquesuites.gr
+node	10602673505	Cityzoe Athens Suites		37.9707605	23.7306670	hotel				
+node	10654382156	Bedway Hostel Athens		37.9583448	23.7301312	hostel				https://bedway.gr/
+node	10723747412	Athens signature hotel		37.9655244	23.7310282	hotel				
+node	10736056339	Vergina		37.9863058	23.7250849	hotel				
+node	10736067515	Golden City		37.9864496	23.7252967	hotel				https://www.athensgoldencity.com/el/
+node	10741570971	Urban Frame Hotel		37.9657406	23.7300449	hotel				
+node	10827039306			37.9824553	23.7282942	hotel				
+node	10891715499	Athenaeum		37.9587481	23.7186169	hotel				https://athenaeumgrand.com
+node	10902362512	AboV Athens		37.9757663	23.7303824	hotel				https://hotels.cloudbeds.com/reservation/KaWb6N
+node	11034314805		Baloo Hostel	37.9866985	23.7253640	hostel				https://www.baloohostel.com/
+node	11050359605	athensdot		37.9798087	23.7243168	hotel				https://athensdot.com/
+node	11148262226	Acropolis City Life Boutique Hotel		37.9772276	23.7246068	hotel				https://www.acropoliscitylifehotel.eu/
+node	11187662271	Athens Hub Hostel		37.9780212	23.7258814	hostel				https://athenshubhostel.com/
+node	11191423204	The Artisan Suites		37.9777314	23.7252817	hotel				
+node	11216143776	Athensotel		37.9778634	23.7259152	hotel				https://athensotel.com
+node	11216143779	MET34		37.9755320	23.7314351	hotel				
+node	11405555186	The Fountain Athens		37.9781983	23.7256648	hotel				https://thefountainathens.com/
+node	11463961669		Philia Boutique Hotel	37.9795686	23.7258347	hotel				
+node	11603003896	Dynasta Central Suites		37.9783470	23.7302252	hotel				https://www.dynastacentralsuites.com
+node	11607796818	Psiri		37.9813896	23.7263668	hotel				https://www.athenspsirihotel.com/
+node	11607796819	Hotel Economy		37.9815909	23.7266241	hotel				
+node	11630425452	Old Town Hall Suites and Apartments		37.9821009	23.7266265	hotel				https://www.oldtownhallsuites.gr
+node	11769237978	Neapolis 1897		37.9851293	23.7390804	hotel				
+node	11834904570		Clyde	37.9780556	23.7240156	hotel				https://book.stay-u-nique.com/
+node	11834906369		Bonnie	37.9781906	23.7241563	hotel				
+node	11895865097	Philosofia Athens Suites	Philosofia Athens Suites	37.9807204	23.7306287	hotel				
+node	11948492869	Mosaikon		37.9777318	23.7284494	hostel				https://mosaikon.gr
+node	12074719769	Apollo Palm		37.9793533	23.7224276	hotel				
+node	12074719869	The Foundry Suites		37.9785993	23.7218383	hotel				
+node	12074719969	Loom		37.9820744	23.7146852	hotel				
+node	12074720069	Mona		37.9776393	23.7260542	hotel				
+node	12101235613	La Divina		37.9768339	23.7215607	hotel				
+node	12134427806	Newel Metaxourgeio		37.9878029	23.7224414	hotel				
+node	12138800714	Iconic Athens Hostel		37.9798574	23.7120111	hostel				https://iconicathenshostel.com/
+node	12163313501	Plexi Space		37.9799870	23.7132003	hotel				https://plexispace.com
+node	12176124968	Athens Mosaico		37.9875688	23.7208611	hotel				
+node	12202240905	Mona Hôtel		37.9768639	23.7279048	hotel				
+node	12234823222	The Frogs Guesthouse		37.9787875	23.7249222	hotel				https://thefrogsguesthouse.com/
+node	12246172764	"Anise Aluma Athens, Tapestry Collection by Hilton"		37.9805745	23.7237217	hotel	4	Tapestry Collection by Hilton		https://www.hilton.com/en/hotels/athaaup-anise-aluma-athens
+node	12346822656	ibis Styles Athens Routes		37.9593385	23.7343217	hotel		Ibis Styles		https://all.accor.com
+node	12407558794	Acropolis House		37.9733785	23.7320714	hotel				https://acropolishouse.gr/
+node	12441130313	Esse Athens		37.9744188	23.7293244	hotel				
+node	12492530018	Retroverse Hostel		37.9850787	23.7304722	hostel				https://retroverse.gr/
+node	12555092725	Heritage Hill Hotel		37.9624556	23.7243181	hotel				https://hhhotel.gr/
+node	12641573489	Achillion		37.9429279	23.6453552	hotel				
+node	12659977518	Priamos		37.9302861	23.7439768	hotel				
+node	12798521001	BE MY GUEST ATHENS		37.9749940	23.7166581	hotel				http://bemyguestathens.gr
+node	12829859002	NLH Kerameikos		37.9799544	23.7206534	hotel				https://www.nlh.gr/hotels/athens-kerameikos/
+node	12864003701		The Artist Athens	37.9793910	23.7261671	hotel				https://www.theartistathens.com/
+node	12869988966	Trendy hotel		37.9853939	23.7321242	hotel				
+node	12918831001	Marble House Hotel & apartments		37.9639403	23.7241541	hotel				https://marblehouse.gr/
+node	12926011397	Meni		37.9861166	23.7220031	hotel				
+node	12951247502	Evita Asty		37.9863813	23.7278074	hotel				
+node	12967353401	Neoma		37.9666408	23.7229358	hotel				https://neomahotel.com/
+node	12971340207		Bedbox	37.9790544	23.7274827	hostel				https://bedbox.gr/
+node	12996955102	Bedway hostel		37.9580222	23.7291570	hostel				
+node	13032086778	Evia		37.9856018	23.7287870	hotel				https://www.hotelevia.gr/
+node	13073861602	Ξενοδοχείο Άρεως	Areos Hotel	37.9909377	23.7339288	hotel				https://athensareoshotel.gr
+node	13094911101	Athens Ivy Suites		37.9754889	23.7313645	hotel				https://athensivy.gr/
+node	13118883401	Carolina		37.9778097	23.7291147	hotel				https://www.hotelcarolina.gr/
+node	13140520885	Athens Manor		37.9768501	23.7294513	hotel				
+node	13263930155	L'Avventura Athens		37.9775480	23.7231612	hotel				
+node	13265262412	The Residence		37.9779041	23.7232987	hotel				
+node	13274348893	Athens Hawks Urban		38.0043945	23.7148632	hostel				https://athenshawksurban.com/
+node	13283241944	Ορφεύς		37.9865636	23.7263053	hotel				
+node	13288698195	The Dorians		37.9667053	23.7335777	hotel				
+node	13288732968	Athenaeum		37.9669523	23.7331739	hotel				
+node	13316712163	Athens Tower		37.9767947	23.7263616	hotel				https://athenstowerhotel.com/
+node	13346720609	Achillion		37.9849376	23.7243083	hotel				
+node	13371876851	Great Athens		37.9855454	23.7293692	hotel				
+node	13397139253	Elaia Athens Boutique Hotel		37.9793671	23.7207603	hotel				https://elaia-athens.com/
+node	13415775484	Diamona Suites		37.9990304	23.7335606	hotel				
+node	13431333064	Still Athens		37.9784154	23.7273543	hotel				https://www.stillathens.com/
+node	13476385908	The One Acropolis		37.9676740	23.7359157	hotel				
+node	13513482119	Ancient Agora Plaka		37.9760093	23.7240408	hotel				https://www.ancientagoraplaka.gr/
+node	13674208042	Athens SmArt Stay Apartment		37.9908949	23.7216917	hotel		Athens SmArt Stay		https://www.athens-smartstay.com/
+node	13674484865	Athens Smart Apartments		37.9782229	23.7283527	hotel		Athens Smart Apartments		https://book.octorate.com/octobook/site/reservation/description.xhtml?codice=209617
+node	13686684501	Gatsby Athen		37.9769404	23.7320033	hotel				
+node	13761572701	Athens Eleven Apartments		37.9774211	23.7320667	hostel				
+node	13857718701	YellowSquare Athens		37.9808803	23.7251539	hostel				
+node	13874544568	Yellowsquare		37.9809343	23.7251726	hotel				https://yellowsquare.com/athens/
+node	13910214901	Rooster Suites		37.9778682	23.7283621	hotel				
+node	14022993501	Kefi Hub		37.9885444	23.7474646	hostel				
+node	14057805201	Kefi Hub		37.9883782	23.7467969	hostel				
+node	14061882501	Koniama Akropolis Hotel		37.9636967	23.7280205	hotel				https://www.koniamaacropolis.com/
+node	14070249116	Safestay Athens Monastiraki		37.9773236	23.7249967	hostel				https://www.safestay.com/venue/safestay-athens-monastiraki/
+node	14096622601		Dunlin Hotel	37.9840624	23.7246258	hotel				https://www.hoteldunlin.com/
+node	14096957001		Figleaf Kypseli	37.9959748	23.7344379	hotel				https://www.figleafhotels.com/
+node	14155386201		Great Stay-Melpomeni Muses Suite-Pedion Areos Park	37.9962247	23.7336185	hotel				
+node	14189543301	Athens Retro		37.9785284	23.7275140	hotel				
+node	14204588001	Athens Residence Apartments		37.9662614	23.7233865	hotel				
+node	14204602901	Altar Suites		37.9768116	23.7225494	hotel				
+node	14211497734	Aphrodite's House		37.9946146	23.7248703	hostel				
+way	23183765	Μεγάλη Βρεταννία		37.9765752	23.7352599	hotel		The Luxury Collection		https://hotelgrandebretagne.gr/
+way	23183770	"King George, a Luxury Collection Hotel, Athens"		37.9763874	23.7349527	hotel		The Luxury Collection		https://marriott.com/en-us/hotels/athgl-king-george-a-luxury-collection-hotel-athens/
+way	27086166	Wyndham Grand		37.9849204	23.7210328	hotel		Wyndham Grand		https://www.wyndhamgrandathens.com/
+way	51417394	Herodion Hotel		37.9684397	23.7271359	hotel				
+way	132030844	Athens Plaza		37.9765087	23.7347120	hotel				
+way	160756628	Divani Caravel		37.9730141	23.7513757	hotel	5		Divani Collection Hotels	
+way	170981101	Moxy Athens City		37.9833611	23.7284152	hotel		Moxy		
+way	174886450	Sofitel Athens Airport		37.9369310	23.9457222	hotel	5	Sofitel	Sofitel luxury hotels	
+way	193956396	Hotel Phaedra		37.9710971	23.7305120	hotel				https://www.hotelphaedra.com/
+way	193971427	Hotel Dioskouros		37.9712860	23.7323587	hotel				
+way	195162347	"New Hotel, Athens"		37.9733760	23.7335085	hotel		Design Hotels		https://www.marriott.com/hotels/travel/athnd-new-hotel-athens-a-member-of-design-hotels/
+way	195162378	Home and Poetry		37.9706583	23.7308509	hotel	4	@HOME		https://www.homeandpoetry.com/en
+way	195162397	Ava Hotel		37.9706800	23.7311827	hotel				https://www.avahotel.gr
+way	195209762	Hapimag Stadtresidenz Athen		37.9722339	23.7324225	hotel				https://www.hapimag.com/en/resorts/greece/athens.html
+way	195209765	Alice Inn		37.9721023	23.7326916	hotel				
+way	195209766	Helita Travel		37.9721305	23.7329711	hotel				
+way	195214937	Αμαλία	Amalia	37.9739568	23.7349207	hotel	4		Όμιλος Ξενοδοχείων Αμαλία	http://www.amaliahotelathens.gr/
+way	195215621	Niki		37.9737602	23.7330658	hotel	3			https://nikiathenshotel.com
+way	195415740	Plaka Arch Suites		37.9707058	23.7305947	hotel				https://plakaarchsuites.com/
+way	195422828	Hermes Hotel		37.9745750	23.7312842	hotel	3			https://www.hermeshotel.gr/
+way	200026736	Intercontinental Atheneaum Hotel		37.9594143	23.7215778	hotel		InterContinental		
+way	203630963	Elements hotel		38.0277089	23.7914119	hotel				
+way	207613917			37.9748507	23.7311618	hotel				https://athoshotel.gr/
+way	208279364			37.9730125	23.7263329	hotel				
+way	218616174	Candia		37.9891641	23.7204064	hotel				https://candia-hotel.gr/
+way	220623561	Delice		37.9746814	23.7508598	hotel				https://delice.gr/el/
+way	220623727	The Modernist Athens		37.9774119	23.7493634	hotel				
+way	221666908	Hotel Dryades		37.9875827	23.7378300	hotel				https://www.orion-dryades.com/
+way	221666909	Hotel Orion		37.9873780	23.7380078	hotel				https://www.orion-dryades.com/
+way	222360242	Athens Capital		37.9768162	23.7362652	hotel				
+way	223320521	The Lekka Hotel & Spa		37.9773569	23.7312589	hotel				
+way	223875921	NYX Esperia Palace		37.9790185	23.7328855	hotel				
+way	224780580	Hotel Zeus		37.9810727	23.7266234	hotel				
+way	224780603	Grecotel Pallas Athena		37.9826475	23.7272174	hotel				
+way	226860451	Athens Marriott Hotel		37.9406799	23.6971318	hotel		Marriott	Chandris hotels & resorts	
+way	227212910	Nin & Bau		37.9800578	23.7241004	hotel				https://ninbau-sarri-2.atticahotels.net
+way	228315884	Pame wild Athens		37.9911688	23.7325708	hotel				https://pamewild.com/
+way	228722163	Welcommon		37.9862610	23.7321228	hostel				https://welcommon.gr/
+way	228723911	Meliã		37.9860663	23.7302672	hotel		Meliá		
+way	228723914	Zeus Essence		37.9860085	23.7306381	hotel				
+way	228891348	DAVE Red Athens		37.9855726	23.7277401	hotel				
+way	228904778	Luwian		37.9834292	23.7262006	hotel				
+way	233181434	Acropolian Spirit		37.9677448	23.7311706	hotel				
+way	233182021	Royal Olympic		37.9674107	23.7324612	hotel				
+way	233898769	Grand Hyatt Athens		37.9574200	23.7183949	hotel	5	Grand Hyatt	Hyatt	https://www.hyatt.com/grand-hyatt/en-US/athgh-grand-hyatt-athens
+way	234149626	Leochares Lifestyle Apartments		37.9779640	23.7300362	hotel				https://leochares.com
+way	234329581	Hotel Parnon		37.9859779	23.7288149	hotel	3			https://www.parnon-hotel.gr/
+way	247056776	Galaxy	Galaxy	37.9110819	23.7114952	hotel	3			https://www.galaxy-hotel.gr/
+way	251787098	A for Athens		37.9769017	23.7258627	hotel				https://aforathens.com/
+way	262193917	Anthology of Athens		37.9694012	23.7313932	hotel				https://www.anthologyofathens.com/
+way	262193920	Athens backpackers		37.9686193	23.7305032	hotel				
+way	262195773	Parthenon Hotel		37.9690393	23.7304355	hotel				
+way	262195783	The Athens Gate Hotel		37.9687988	23.7313548	hotel				
+way	262353512	Gallery Port Hotel		37.9453089	23.6444192	hotel				
+way	262353524	Triton Hotel Piraeus		37.9454416	23.6445407	hotel				
+way	263512147	Byron		37.9700999	23.7302360	hotel				https://hotel-byron.gr/
+way	265563697	Άδωνις	Adonis	37.9408759	23.6426496	hotel				
+way	267072346	Piraeus Theoxenia Hotel		37.9456195	23.6472488	hotel				https://theoxeniapalace.com/piraeus-theoxenia/
+way	267072351	Ατλαντίς	Atlantis	37.9388972	23.6416099	hotel				
+way	267072402	Faros		37.9387875	23.6415139	hotel				
+way	267072409	Ideal		37.9387061	23.6414581	hotel				
+way	267072410	Ποσειδώνιο	Poseidonio	37.9386509	23.6411405	hotel				
+way	267269672	Argo Anita		37.9455985	23.6476570	hotel				https://hotelargoanita.com
+way	269118514	Savoy Hotel		37.9367973	23.6420574	hotel	3			https://savoyhotel.gr/
+way	269118622			37.9383485	23.6410639	hotel				
+way	269118665	TWINN Downtown Piraeus		37.9446648	23.6482827	hotel		Santikos Collection		https://santikoscollection.com/hotels/twinn/
+way	269479915	Gallery central		37.9473423	23.6446695	hotel				https://www.hotelbrain.com/hotels-in-attica-piraeus/gallery-central
+way	269479966	Gallery Suites		37.9470242	23.6446811	hotel				https://gallery-residence.hotelbrain.com/el/
+way	269479973	Gallery Residence		37.9470232	23.6445235	hotel				https://gallery-residence.hotelbrain.com/el/
+way	270061331	Iris Lime Home	Iris Lime Home	37.9440932	23.6485259	hotel				https://www.limehome.com
+way	270899614	Cavo D’ Oro		37.9370387	23.6561464	hotel				https://hotelcavodoro.gr/
+way	271122924	Efplias Hotel		37.9367761	23.6400996	hotel				
+way	273897706	Hotel Carol		37.9428934	23.6613871	hotel				https://hotelcarol.gr/
+way	273897734	Γαλήνη Hotel	Galini Hotel	37.9424072	23.6608140	hotel				https://galiniyourhotel.gr
+way	274994446	Hotel Mistral		37.9395768	23.6607823	hotel				
+way	274994458	The Alex Monte Kastella		37.9395909	23.6615486	hotel		Santikos Collection		https://santikoscollection.com/hotels/the-alex/
+way	279474841	Jason Inn		37.9786808	23.7207068	hotel	3			
+way	280851385	Hotel Xenophon		38.0152185	23.7287793	hotel				https://www.xenophon-hotel.com/
+way	286527530	Lilia Hotel	Lilia Hotel	37.9395347	23.6512690	hotel				
+way	293242963	Divani Palace Acropolis		37.9675646	23.7258319	hotel			Όμιλος Ξενοδοχείων Διβάνη	
+way	298382257	Attalos Hotel		37.9784646	23.7264073	hotel				https://www.attaloshotel.com/
+way	301683839	Olympic		38.0222081	23.7950780	hotel				https://www.fashionhotels.gr/
+way	329759684	Nestorion	Nestorion	37.9390126	23.6960885	hotel				
+way	332395237	Ilissos		37.9614225	23.7205304	hotel				https://www.ilissos.gr/
+way	359002172	Medousa Hotel		37.9416730	23.6962922	hotel	2			http://hotelmedousa.gr/
+way	361764917	Atlantic Hotel		37.9438080	23.6841317	hotel				https://www.atlantic-hotel.gr/
+way	387125496	"Periscope, Athens"		37.9782304	23.7439491	hotel		Design Hotels		https://www.yeshotels.gr/periscope/
+way	391481895	Twenty two	Twenty two	37.9361341	23.6426913	hotel				https://reservations.22.gr/accommodations/
+way	391694032	Mitsis N'U Piraeus Port	Mitsis N'U Piraeus Port	37.9461770	23.6428063	hotel				https://www.mitsis.com/el/hotels/nu-piraeus-port
+way	391694037	Piraeus Acropole	Piraeus Acropole	37.9460015	23.6431654	hotel				https://www.piraeus-acropole.gr/
+way	391758480	Ikaros		37.9466496	23.6427457	hotel				https://www.hotelikarospireus.gr/
+way	391758483	Athenarum Portus		37.9466448	23.6434733	hotel				https://athenarumportus.gr/en/athenarum-portus-life-style-hotel-en/
+way	391854211	Δελφίνι	Delfini	37.9468683	23.6428614	hotel				
+way	391854267	Hotel Ionion	Hotel Ionion	37.9470336	23.6430827	hotel				https://www.ionionhotel.eu/
+way	391854283	The port Square Hotel		37.9474580	23.6429761	hotel				https://www.theportsquarehotel.gr/
+way	394248823	Hotel Roza		37.9461256	23.6844436	hotel				http://hotelroza.gr
+way	397138098	Vasí		37.9789726	23.7271956	hotel				
+way	398993534	"Academias Hotel, Autograph Collection"		37.9797393	23.7360779	hotel		Autograph Collection		https://www.academiashotel.com
+way	401837366	Hotel Lacoba		37.9435335	23.6968545	hotel				
+way	403793902	Hotel Acropol		38.0258906	23.8096935	hotel				
+way	409754443	The Fiction		38.0335715	23.7960299	hotel				
+way	420566133	Golden Age		37.9783672	23.7553009	hotel				https://hotelgoldenage.com/
+way	448523887	Athinais Hotel		37.9833685	23.7573481	hotel				
+way	449425936	Colors		37.9845220	23.7326488	hotel				https://colorshotel.gr
+way	449494409	"Adia Aluma Athens, Curio Collection by Hilton"		37.9829962	23.7267771	hotel		Curio Collection		https://www.hilton.com/en/hotels/athadqq-adia-aluma-athens/
+way	449494416	Ares		37.9831166	23.7262281	hotel				https://ares-athens-hotel.gr/
+way	449498522	Elite		37.9827066	23.7252825	hotel				
+way	449520585	Royalty Suites		37.9793297	23.7226807	hotel				https://www.royaltysuitesathens.gr
+way	449647299	Okupa		37.9796447	23.7205750	hostel				https://www.okupa.com/
+way	449648807	The Foundry		37.9789025	23.7218040	hotel				https://thefoundrysuitesathens.com
+way	449650379	Ochres Brown		37.9775756	23.7218343	hotel				
+way	449650384	Asomaton		37.9784007	23.7208047	hotel				
+way	449664369	Play		37.9789785	23.7233136	hotel				
+way	449725351	Magenta Luxury Suites		37.9657298	23.7278402	hotel				
+way	451699253	Conrad Athens The Ilisian		37.9761962	23.7505536	hotel		Conrad Hotels & Resorts		https://www.hilton.com/en/hotels/athgrci-conrad-athens-the-ilisian/
+way	452764424	Ilisia Hotel		37.9759711	23.7520079	hotel				https://www.ilisiahotel.gr
+way	452830079	Holiday Suites		37.9776276	23.7543321	hotel				
+way	453022265	Elizabeth		37.9872748	23.7672239	hotel				https://hotelelizabeth.gr/
+way	453359890	Athens Tiare		37.9839418	23.7272700	hotel				
+way	453370875	Delphi Art Hotel		37.9845602	23.7244279	hotel				
+way	453469647	Best Western		37.9837718	23.7237824	hotel		Best Western		
+way	453482571	Athens Choice		37.9857808	23.7262817	hotel				https://www.athenschoice.com/
+way	453483362	Boss Boutique		37.9862408	23.7270308	hotel				
+way	453486312	Vision Omonia		37.9863220	23.7283272	hotel				
+way	453486332	International Atene Hotel		37.9858571	23.7276294	hotel				
+way	453914279	Pergamos		37.9885524	23.7268766	hotel				
+way	454058831	White lotus		37.9873559	23.7210045	hotel				http://whitelotusapartments.gr/
+way	454058835	Athens Lotus Hotel		37.9873501	23.7212816	hotel				https://www.athenslotushotel.gr/
+way	454199776	Socrates		37.9907270	23.7212452	hotel				
+way	454690431	Zorbas Hotel		37.9926684	23.7307824	hostel				
+way	454735218	Athens Iris		37.9937854	23.7214101	hotel				
+way	454830002	Athens Lydia		37.9969379	23.7220298	hotel				
+way	455281497	Hotel New Victory		37.9955587	23.7300452	hotel				
+way	455695244	Odeon		37.9821600	23.7232466	hotel				
+way	456012311	Crystal City		37.9853787	23.7205875	hotel				
+way	456173028	Eridanus		37.9800598	23.7184629	hotel				
+way	457637593	Θησείο	Thissio	37.9740862	23.7198395	hotel				https://www.hotelthissio.com
+way	461100391	Athenian Montaza		37.9579411	23.7174887	hotel				https://montaza.gr
+way	461120133	Athens Avenue Hotel		37.9561777	23.7152241	hotel	4			https://www.athensavenuehotel.gr/
+way	461353437	Hilton Garden Inn Athens Syggrou Avenue		37.9517528	23.7094602	hotel		Hilton Garden Inn	Hilton	https://www.hilton.com/en/hotels/athsygi-hilton-garden-inn-athens-syggrou-avenue/
+way	465266975	Platon		37.9443981	23.6802008	hotel				
+way	467429055	Olympic Hotel		37.9462156	23.6684940	hotel				
+way	471652314	Semeli		38.0015007	23.7345472	hotel	2			
+way	476868756	Athenaeum Smart Hotel		37.9563182	23.7167892	hotel				https://www.athenaeumsmart.com.gr/portal/
+way	477665738	Athens Signature		37.9657574	23.7311286	hotel				
+way	480815282	Fits Living		37.9713171	23.7562707	hotel				
+way	490682319	Pool & View Athens Hill		38.0052687	23.7511533	hotel				
+way	543094184	J.K		37.9572393	23.7284199	hotel				
+way	685577952	Royal Olympic		37.9677419	23.7323647	hotel				https://royalolympic.com
+way	770039794	Adams Hotel		37.9714052	23.7313884	hotel				
+way	776098787	Green Suites		38.0224061	23.7352715	hotel				https://www.greensuiteshotel.gr
+way	832267611	Electra Palace Athens		37.9738892	23.7315825	hotel	5			
+way	913272431	Coco-Mat Athens BC		37.9672678	23.7292274	hotel				https://www.athensbc.com/
+way	949774381	Hellenic Vibes Smart Hotel		37.9768738	23.7272655	hotel				
+way	949774392	Royalty		37.9771243	23.7265364	hotel				https://www.royalty-suites.gr
+way	999279939	Milos		37.9771243	23.7331358	hotel				https://www.xenodocheiomilos.com/Default
+way	999282866	Claridge	Claridge	37.9846744	23.7290571	hotel				
+way	1082166223	President		37.9892646	23.7635540	hotel				https://www.president.gr/el/
+way	1109547164	Noble Suites Hotel		37.9687309	23.7250102	hotel				
+way	1164048501	Athens City		38.0078050	23.7353224	hotel				
+way	1366210552			37.9586460	23.6575554	hotel				
+way	1503540594	Sokio		38.0014631	23.7213920	hotel				
+relation	2997917	Titania	Titania	37.9830563	23.7310867	hotel	4			
+relation	3016657	Skylark Hotel		37.9847068	23.7274312	hotel	4			https://www.alumahotels.com/hotel/skylark/
+relation	5582842	Hilton Athens		37.9755674	23.7502900	hotel	5	Hilton	Hilton Worldwide	https://www3.hilton.com/en/hotels/greece/hilton-athens-ATHHITW/index.html?WT.mc_id=zELWAKN0EMEA1HI2DMH3LocalSearch4DGGenericx6ATHHITW
+relation	6628101	Zafolia		37.9895802	23.7467345	hotel				
+relation	6720516	Novotel Athens		37.9895209	23.7251446	hotel		Novotel		https://novotelathens.gr/
+relation	7078079	Crowne Plaza		37.9768861	23.7552145	hotel		Crowne Plaza		https://www.cpathens.com/
+relation	17279179	"Fresh Hotel, Athens"		37.9812739	23.7268964	hotel	4	Design Hotels		

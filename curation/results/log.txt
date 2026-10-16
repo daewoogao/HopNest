@@ -95,3 +95,85 @@
 05:06:29 istanbul-train lines ok
 05:09:09 istanbul-tram lines FAILED
 05:10:59 istanbul-tram lines ok
+15:51:14 athens-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 160 bytes
+15:52:04 athens-hotels try 1 https://overpass-api.de/api/interpreter -> 200 34929 bytes
+15:52:52 boston-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 695 bytes
+15:52:57 boston-hotels try 1 https://overpass-api.de/api/interpreter -> 502 534 bytes
+15:53:03 boston-hotels try 2 https://overpass.private.coffee/api/interpreter -> 500 646 bytes
+15:53:12 boston-hotels try 3 https://overpass.kumi.systems/api/interpreter -> 500 646 bytes
+15:54:11 boston-hotels try 4 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 695 bytes
+15:54:16 boston-hotels try 5 https://overpass-api.de/api/interpreter -> 502 534 bytes
+15:54:22 boston-hotels try 6 https://overpass.private.coffee/api/interpreter -> 500 646 bytes
+15:54:29 boston-hotels try 7 https://overpass.kumi.systems/api/interpreter -> 200 20344 bytes
+15:54:45 brussels-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 18428 bytes
+15:55:38 budapest-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 695 bytes
+15:56:20 budapest-hotels try 1 https://overpass-api.de/api/interpreter -> 200 31983 bytes
+15:56:21 buenosaires-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 160 bytes
+15:56:26 buenosaires-hotels try 1 https://overpass-api.de/api/interpreter -> 502 534 bytes
+15:57:04 buenosaires-hotels try 2 https://overpass.private.coffee/api/interpreter -> 200 42365 bytes
+15:57:05 busan-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 160 bytes
+15:57:10 busan-hotels try 1 https://overpass-api.de/api/interpreter -> 502 534 bytes
+15:57:16 busan-hotels try 2 https://overpass.private.coffee/api/interpreter -> 500 646 bytes
+15:57:21 busan-hotels try 3 https://overpass.kumi.systems/api/interpreter -> 500 646 bytes
+15:57:27 busan-hotels try 4 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 160 bytes
+15:58:19 busan-hotels try 5 https://overpass-api.de/api/interpreter -> 200 10264 bytes
+15:58:34 copenhagen-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 16796 bytes
+15:59:27 delhi-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 695 bytes
+16:00:13 delhi-hotels try 1 https://overpass-api.de/api/interpreter -> 200 27898 bytes
+16:00:15 dubai-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 160 bytes
+16:00:20 dubai-hotels try 1 https://overpass-api.de/api/interpreter -> 502 534 bytes
+16:00:25 dubai-hotels try 2 https://overpass.private.coffee/api/interpreter -> 500 646 bytes
+16:00:31 dubai-hotels try 3 https://overpass.kumi.systems/api/interpreter -> 500 646 bytes
+16:01:04 dubai-hotels try 4 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 39813 bytes
+16:01:23 guangzhou-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 21733 bytes
+16:02:10 kualalumpur-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 695 bytes
+16:02:15 kualalumpur-hotels try 1 https://overpass-api.de/api/interpreter -> 502 534 bytes
+16:02:20 kualalumpur-hotels try 2 https://overpass.private.coffee/api/interpreter -> 500 646 bytes
+16:02:48 kualalumpur-hotels try 3 https://overpass.kumi.systems/api/interpreter -> 200 51915 bytes
+16:02:49 losangeles-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 160 bytes
+16:03:26 losangeles-hotels try 1 https://overpass-api.de/api/interpreter -> 200 22360 bytes
+16:03:28 montreal-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 160 bytes
+16:03:33 montreal-hotels try 1 https://overpass-api.de/api/interpreter -> 502 534 bytes
+16:03:41 montreal-hotels try 2 https://overpass.private.coffee/api/interpreter -> 200 15765 bytes
+16:03:42 munich-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 160 bytes
+16:03:47 munich-hotels try 1 https://overpass-api.de/api/interpreter -> 502 534 bytes
+16:03:53 munich-hotels try 2 https://overpass.private.coffee/api/interpreter -> 500 646 bytes
+16:03:58 munich-hotels try 3 https://overpass.kumi.systems/api/interpreter -> 500 646 bytes
+16:04:05 munich-hotels try 4 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 160 bytes
+16:04:51 munich-hotels try 5 https://overpass-api.de/api/interpreter -> 200 39811 bytes
+16:05:08 sanfrancisco-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 29963 bytes
+16:05:09 saopaulo-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 160 bytes
+16:06:01 saopaulo-hotels try 1 https://overpass-api.de/api/interpreter -> 200 34998 bytes
+16:06:02 shenzhen-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 160 bytes
+16:06:37 shenzhen-hotels try 1 https://overpass-api.de/api/interpreter -> 200 17187 bytes
+16:06:38 stockholm-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 160 bytes
+16:07:21 stockholm-hotels try 1 https://overpass-api.de/api/interpreter -> 200 18441 bytes
+16:07:22 toronto-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 160 bytes
+16:07:28 toronto-hotels try 1 https://overpass-api.de/api/interpreter -> 502 534 bytes
+16:07:33 toronto-hotels try 2 https://overpass.private.coffee/api/interpreter -> 500 646 bytes
+16:07:39 toronto-hotels try 3 https://overpass.kumi.systems/api/interpreter -> 500 646 bytes
+16:07:45 toronto-hotels try 4 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 160 bytes
+16:07:50 toronto-hotels try 5 https://overpass-api.de/api/interpreter -> 502 534 bytes
+16:07:56 toronto-hotels try 6 https://overpass.private.coffee/api/interpreter -> 500 646 bytes
+16:08:01 toronto-hotels try 7 https://overpass.kumi.systems/api/interpreter -> 500 646 bytes
+16:08:26 xian-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 26238 bytes
+16:09:20 athens lines ok
+16:10:14 boston lines ok
+16:12:57 brussels lines FAILED
+16:13:12 budapest lines ok
+16:14:05 buenosaires lines ok
+16:15:11 busan lines ok
+16:17:43 copenhagen lines FAILED
+16:19:51 delhi lines ok
+16:21:30 dubai lines ok
+16:21:56 guangzhou lines ok
+16:22:20 kualalumpur lines ok
+16:23:13 losangeles lines ok
+16:24:12 montreal lines ok
+16:24:30 munich lines ok
+16:25:00 sanfrancisco lines ok
+16:26:17 saopaulo lines ok
+16:26:47 shenzhen lines ok
+16:27:35 stockholm lines ok
+16:28:01 toronto lines ok
+16:28:21 xian lines ok

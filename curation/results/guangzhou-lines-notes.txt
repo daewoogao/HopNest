@@ -1,0 +1,5 @@
+23 lines, 460 stations
+  check: Metro Line 3: added branch to Tianhe Coach Terminal as its own line; check it isn't a short-working or depot run
+  check: Subway Line 14: added branch to Zhenlong as its own line; check it isn't a short-working or depot run
+  check: 广州地铁22号线（番禺广场方向）: fewer than 2 named stops (under construction?), skipped; OSM relation r18523160
+  check: Metro Line 12: added branch to Guangzhou Gymnasium as its own line; check it isn't a short-working or depot run

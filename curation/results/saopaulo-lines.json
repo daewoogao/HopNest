@@ -1,0 +1,141 @@
+[
+  {
+    "id": "l1",
+    "name": "Line 1 - Blue",
+    "jp": "Linha 1 - Azul",
+    "color": "#1A5BA3",
+    "code": "1",
+    "stations": [
+      ["Tucuruvi",-23.48,-46.6033],
+      ["Parada Inglesa",-23.4874,-46.6091],
+      ["Jardim São Paulo - Ayrton Senna",-23.4924,-46.6172],
+      ["Santana",-23.5031,-46.6248],
+      ["Carandiru",-23.5092,-46.625],
+      ["Portuguesa - Tietê",-23.5165,-46.6252],
+      ["Armênia",-23.5255,-46.6294],
+      ["Tiradentes",-23.5309,-46.6323],
+      ["Luz",-23.5371,-46.6337],
+      ["São Bento",-23.5441,-46.6342],
+      ["Sé",-23.5506,-46.633],
+      ["Japão - Liberdade",-23.555,-46.6358],
+      ["São Joaquim",-23.5616,-46.6386],
+      ["Vergueiro",-23.5687,-46.6399],
+      ["Paraíso",-23.5753,-46.6408],
+      ["Ana Rosa",-23.5814,-46.6384],
+      ["Vila Mariana",-23.5892,-46.6347],
+      ["Santa Cruz",-23.5991,-46.6367],
+      ["Praça da Árvore",-23.6104,-46.6379],
+      ["Saúde – Ultrafarma",-23.6182,-46.6392],
+      ["São Judas",-23.6258,-46.6409],
+      ["Conceição",-23.635,-46.6413],
+      ["Jabaquara",-23.6463,-46.6411]
+    ]
+  },
+  {
+    "id": "l2",
+    "name": "Line 2 - Green",
+    "jp": "Linha 2 - Verde",
+    "color": "#008162",
+    "code": "2",
+    "stations": [
+      ["Vila Prudente",-23.5844,-46.582],
+      ["Tamanduateí",-23.5928,-46.5896],
+      ["Sacomã",-23.6013,-46.6026],
+      ["Alto do Ipiranga",-23.6022,-46.6125],
+      ["Santos - Imigrantes",-23.5957,-46.621],
+      ["Chácara Klabin",-23.5924,-46.6306],
+      ["Ana Rosa",-23.5814,-46.6384],
+      ["Paraíso",-23.5753,-46.6409],
+      ["Brigadeiro",-23.5685,-46.6477],
+      ["Trianon-Masp",-23.5632,-46.6542],
+      ["Consolação",-23.5577,-46.6605],
+      ["Clínicas",-23.554,-46.671],
+      ["Santuário Nossa Senhora de Fátima - Sumaré",-23.5509,-46.6777],
+      ["Vila Madalena",-23.5464,-46.6908]
+    ]
+  },
+  {
+    "id": "l3",
+    "name": "Linha 3 - Vermelha",
+    "color": "#D9001C",
+    "code": "3",
+    "stations": [
+      ["Palmeiras - Barra Funda",-23.526,-46.6675],
+      ["Marechal Deodoro",-23.5339,-46.6558],
+      ["Santa Cecília",-23.5393,-46.649],
+      ["República",-23.5441,-46.643],
+      ["Anhangabaú",-23.548,-46.639],
+      ["Sé",-23.5508,-46.6329],
+      ["Pedro II",-23.5497,-46.6259],
+      ["Brás",-23.5479,-46.6158],
+      ["Bresser-Mooca",-23.5464,-46.607],
+      ["Belém",-23.543,-46.5895],
+      ["Tatuapé",-23.5405,-46.5764],
+      ["Carrão – Assaí Atacadista",-23.5379,-46.5643],
+      ["Penha - Lojas Besni",-23.5336,-46.5425],
+      ["Vila Matilde",-23.532,-46.5309],
+      ["Guilhermina-Esperança",-23.5294,-46.5166],
+      ["Patriarca • Vila Ré",-23.5312,-46.5016],
+      ["Artur Alvim",-23.5403,-46.4847],
+      ["Corinthians-Itaquera",-23.5423,-46.4711]
+    ]
+  },
+  {
+    "id": "l4",
+    "name": "Linha 4 - Amarela",
+    "color": "#FFD700",
+    "code": "4",
+    "stations": [
+      ["Luz",-23.5362,-46.6346],
+      ["República",-23.544,-46.6426],
+      ["Higienópolis-Mackenzie (Linha 4)",-23.5489,-46.6523],
+      ["Paulista - Pernambucanas",-23.5552,-46.6623],
+      ["Oscar Freire",-23.5607,-46.672],
+      ["Fradique Coutinho",-23.5662,-46.6842],
+      ["Faria Lima",-23.5672,-46.694],
+      ["Pinheiros",-23.5672,-46.702],
+      ["Butantã",-23.5718,-46.7081],
+      ["São Paulo – Morumbi",-23.5862,-46.7238],
+      ["Vila Sônia - Professora Elizabeth Tenreiro",-23.5934,-46.7348]
+    ]
+  },
+  {
+    "id": "l5",
+    "name": "Linha 5 - Lilás",
+    "color": "#9200C3",
+    "code": "5",
+    "stations": [
+      ["Capão Redondo",-23.6589,-46.7678],
+      ["Campo Limpo",-23.6489,-46.7587],
+      ["Vila das Belezas",-23.6403,-46.7458],
+      ["Giovanni Gronchi",-23.644,-46.7337],
+      ["Santo Amaro",-23.6557,-46.7209],
+      ["Largo Treze",-23.6545,-46.7101],
+      ["Adolfo Pinheiro",-23.6501,-46.7042],
+      ["Alto da Boa Vista",-23.6413,-46.6992],
+      ["Borba Gato",-23.6336,-46.6929],
+      ["Brooklin",-23.6266,-46.6879],
+      ["Campo Belo",-23.6187,-46.6822],
+      ["Eucaliptos",-23.6098,-46.6685],
+      ["Moema",-23.6039,-46.6622],
+      ["AACD – Servidor",-23.5978,-46.6523],
+      ["Hospital São Paulo",-23.5982,-46.6456],
+      ["Santa Cruz",-23.5985,-46.6372],
+      ["Chácara Klabin",-23.593,-46.6309]
+    ]
+  },
+  {
+    "id": "l6",
+    "name": "Linha 6 - Laranja",
+    "color": "#F96815",
+    "code": "6",
+    "stations": [
+      ["João Paulo I",-23.4936,-46.6914],
+      ["Freguesia do Ó",-23.5017,-46.6937],
+      ["Santa Marina",-23.5141,-46.6917],
+      ["Água Branca",-23.5206,-46.6882],
+      ["SESC-Pompeia",-23.5273,-46.6833],
+      ["Perdizes",-23.5321,-46.6766]
+    ]
+  }
+]

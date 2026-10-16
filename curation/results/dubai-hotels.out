@@ -1,0 +1,392 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	315482350	Coral Deira Hotel	Coral Deira Hotel	25.2660218	55.3256435	hotel				
+node	574351635	Delmon Hotel	Delmon Hotel	25.2618170	55.3240809	hotel				
+node	944613072	Holiday Inn Express Dubai Jumeirah	Holiday Inn Express Dubai Jumeirah	25.2428805	55.2717727	hotel		Holiday Inn Express		
+node	1155135639	Hotel Madinat Jumeirah - Al Qasr	Hotel Madinat Jumeirah - Al Qasr	25.1318382	55.1844829	hotel				
+node	1540388166	Flora Park Hotel Apartments	Flora Park Hotel Apartments	25.2540462	55.3295259	hotel				
+node	1569377659	Premier Inn Dubai International Airport	Hotel Premier Inn Dubai International Airport	25.2427245	55.3589869	hotel	3			https://global.premierinn.com/gcc/hotels/dubai-international-airport.action
+node	1569380504	Holiday Inn Express Dubai Airport	Holiday Inn Express Dubai Airport	25.2424892	55.3595555	hotel	2	Holiday Inn Express		
+node	1650789377	فرساي	Versailles	25.2632804	55.3204492	hotel				
+node	1742895570	Concorde 0alace		25.2586937	55.2961438	hotel				
+node	2084941779	Arabian Dreams	Arabian Dreams	25.2495043	55.2858517	hotel				
+node	2246385172	Armani Hotel	Armani Hotel	25.1974593	55.2747314	hotel				
+node	2398642650	Holiday Inn Bur Dubai - Embassy District	Holiday Inn Bur Dubai - Embassy District	25.2575893	55.3045832	hotel		Holiday Inn		
+node	2485942146	Dolphin Hotel Apartment	Dolphin Hotel Apartment	25.2598852	55.2947343	hotel				
+node	2485970185	Hotel Peninsula	Hotel Peninsula	25.2622843	55.2897011	hotel				
+node	2488004002	Dubai Nova Hotel	Dubai Nova Hotel	25.2623760	55.2958793	hotel				
+node	2536831662	Villa Rotana	Villa Rotana	25.1943710	55.2615530	hotel				
+node	2830815002	فندق موسكو	Moscow Hotel	25.2594780	55.3229291	hotel				
+node	2830831501	Emirates Concord Hotel	Emirates Concord Hotel	25.2600166	55.3210768	hotel				
+node	3482750339	DAMAC Paramount Hotel & Residences	DAMAC Paramount Hotel & Residences	25.1859195	55.2918010	hotel			Paramount Hotels & Resorts	
+node	3714005602	The Bricks	The Bricks	25.2487821	55.2963176	hotel				
+node	3755781034	Hilton Garden Inn Dubai Jumeirah	Hilton Garden Inn Dubai Jumeirah	25.2479098	55.2782422	hotel	4	Hilton Garden Inn	Hilton	https://www.hilton.com/en/hotels/dxbamgi-hilton-garden-inn-dubai-jumeirah/
+node	3800647966	InterContinental Residence Suites Dubai	InterContinental Residence Suites Dubai	25.2318330	55.3472608	hotel		InterContinental	IHG	
+node	3832524388	Al Manar Grand Hotel Apartment	Al Manar Grand Hotel Apartment	25.2485209	55.2968690	hotel			JAMES	
+node	3837258021	Sun City Hotel		25.2626792	55.2964882	hotel				
+node	3875115051	Nassima Tower Hotel Apartments		25.2236377	55.2826288	hotel				
+node	3875117262	sun and sand hotel	sun and sand hotel	25.2611639	55.3237191	hotel				
+node	3896699589	رافلز دبي	Raffles Dubai	25.2279299	55.3204805	hotel	5		http://dubaihoteldeals.net/best-hotels-in-dubai/	https://www.raffles.com/dubai/
+node	3903209450			25.2491295	55.3127316	hotel				
+node	3903209470	York international hotel	York international hotel	25.2589810	55.2968724	hotel				
+node	4036154581	ABC Arabian Suites	ABC Arabian Suites	25.2502903	55.2859053	hotel				
+node	4106960801	فندق جيتوي دبي		25.2608512	55.2908465	hotel				www.gatewayhoteldubi.com
+node	4119466500	Mercure Gold Al Mina Road	Mercure Gold Al Mina Road	25.2429736	55.2754972	hotel				
+node	4128976028	Dubai Marine		25.2335112	55.2641028	hotel			Dubai Marine Beach Resort & Spa	
+node	4149616392	lootah	lootah	25.2642518	55.3259795	hotel				
+node	4149623690			25.2644698	55.3261219	hotel				
+node	4216799690	Copthorne Hotel Dubai	Copthorne Hotel Dubai	25.2547545	55.3277929	hotel				https://millenniumhotels.com/en/dubai/copthorne-hotel-dubai/?cid=gplaces-CopDubai
+node	4234844789	High End2 Hotel Apartments	High End2 Hotel Apartments	25.2580762	55.2883996	hotel				
+node	4318299393	رامي جست لاين	Ramee Deira HOtel	25.2612739	55.3273148	hotel				
+node	4325259489	Fortune Classic Apartments	Fortune Classic Apartments	25.2689985	55.3791842	hotel				
+node	4330922991	Burdubai	Burdubai	25.2584994	55.2924384	hostel				
+node	4373534398	Smana hotel	Smana hotel	25.2500572	55.2827324	hotel				
+node	4373534400	Panorama Grand Hotel	Panorama Grand Hotel	25.2595614	55.2889715	hotel				
+node	4373621889	country club hotel	country club hotel	25.2490074	55.2829957	hotel				
+node	4373621890	Smana hotel	Smana hotel	25.2502237	55.2861374	hotel				
+node	4375193193	Staybridge Suites Dubai Financial Centre		25.2115002	55.2744016	hotel		Staybridge Suites	InterContinental Hotels Group plc	https://www.ihg.com/staybridge/hotels/gb/en/dubai/dxbfn/hoteldetail?cm_mmc=GoogleMaps-_-SB-_-AE-_-DXBFN
+node	4395092103	Savoy suites hotel	Savoy suites hotel	25.2535070	55.3010864	hotel				
+node	4396373389	ARCADIA HOTEL apartment	ARCADIA HOTEL apartment	25.2354266	55.3082878	hotel				
+node	4424912896			25.2655995	55.3172172	hotel				
+node	4457749794	Tulip apartment	Tulip apartment	25.2552990	55.2976868	hotel				
+node	4511016942	فندق أدمريل بلازا		25.2596147	55.2913252	hotel				
+node	4521412502	كلوپ ايرانيان	Iranian club	25.2373423	55.3165012	hotel				
+node	4521614415	كلاب ايرانيان	Iranian Club	25.2372996	55.3165648	hotel				
+node	4551478444	Zaabil Palace Hospitality Staff Accommodation	Zaabil Palace Hospitality Staff Accomadation	25.1483102	55.2499366	hostel			Govt of dubai	
+node	4563913289	فندق وشقق مركز التجارة العالمي		25.2265178	55.2893366	hotel				
+node	4568504594	aster clinic jobro frnd karama	aster clinic jobro frnd karama	25.2416250	55.3056234	hostel				
+node	4581049294	2nd entry	2nd entry	25.2475688	55.3431673	hotel				
+node	4607223190	كوبثورن المطار	Copthorn hotel air port	25.2476461	55.3432211	hotel				
+node	4620646902	tulip Inn	tulip Inn	25.2754900	55.3783236	hostel				
+node	4706076289			25.1400737	55.2550178	hotel				
+node	4714894989	Kuwait Americana food company staff accommodation	Kuwait Americana food company staff accommodation	25.1601118	55.2503047	hostel				
+node	4732225325	H Hotel	H Hotel	25.2302939	55.2869626	hotel				
+node	4747481930	Al Qusais 2 Building	Al Qusais 2 Building	25.2692164	55.3768491	hotel			Michael Briones Flat	
+node	4753295924	Bay Square 13	Bay Square 13	25.1861877	55.2813790	hotel				
+node	4778180658	Backpacker Accommodation	Backpacker Accommodation	25.2481139	55.3053834	hostel				
+node	4791033322	الضيافة للشقق الفندقية		25.2554704	55.3345227	hotel				
+node	4800360121	City seasons	City seasons	25.2562753	55.3351100	hotel				
+node	4848775021	BackPacker Hostel	BackPacker Hostel	25.2482637	55.3055017	hostel				
+node	4855040421	Kathmandu Palace Hotel	Kathmandu Palace Hotel	25.2614632	55.2919654	hotel				
+node	4860741727	Gaby	Gaby	25.2243723	55.2658992	hostel				
+node	4874522121	dha talal hostel	dha talal hostel	25.2762744	55.3700629	hostel				
+node	4889565597	Hilton Garden Inn Dubai Deira	Hilton Garden Inn Dubai Deira	25.2651178	55.3297723	hotel	4	Hilton Garden Inn	Hilton	https://www.hilton.com/en/hotels/dxbgigi-hilton-garden-inn-dubai-deira/
+node	4898079870	Lotus	Lotus	25.1517193	55.2418756	hotel				
+node	4902836210	Karachi Inn	Karachi Inn	25.2485618	55.3131621	hotel				
+node	4919366167	Al Zahabiya Hotel Apartments	Al Zahabiya Hotel Apartments	25.2641384	55.3165212	hotel				
+node	4919505291	Aureate Hotel	Aureate Hotel	25.2596085	55.3264434	hotel				
+node	4919618522	ketal chicken	ketal chicken	25.2673945	55.3768453	hotel				
+node	4919669996	Park Inn	Park Inn	25.2587149	55.3225778	hotel		Park Inn		
+node	4919712319	Deira Suites	Deira Suites	25.2607490	55.3202023	hotel				
+node	4923128421			25.2646168	55.3172836	hotel				
+node	4942486011	Tulip Creek	Tulip Creek	25.2559987	55.3257567	hotel				
+node	4987991627	Anas	Anas	25.2451596	55.3001532	hotel				
+node	5059258421	Al Rigga Road	Danny's Hostel Dubai	25.2614072	55.3249034	hostel			Danny Ge	
+node	5084603721			25.2589672	55.3038925	hotel				
+node	5154973021	XVA Art Hotel	XVA Art Hotel	25.2641163	55.2996612	hotel				https://xvahotel.com/rooms/index.html
+node	5155839622	Anas	Anas	25.2449341	55.3000373	hotel				
+node	5166895521	emirates Concorde	emirates concord hotel	25.2596951	55.3208571	hotel				
+node	5169045221	The Domme Hostel	The Domme Hostel	25.2415284	55.3516812	hostel				
+node	5230716022	al khori executive hotel	al khori executive hotel	25.2319463	55.2703042	hotel				
+node	5243749624	Hilton Staff Accomodation	Hilton Staff Accomodation	25.1493095	55.2512499	hostel				
+node	5316605822	Hasnatha	Hasnatha	25.2404848	55.2986251	hostel				
+node	5359176521	Landmark Grand Hotel	Landmark Grand Hotel	25.2653823	55.3170890	hotel				
+node	5369438921	فندق سمايا		25.2603931	55.3186075	hotel				
+node	5369491221	سمايا		25.2600125	55.3187030	hotel				
+node	5421402121	لموظفي المكاتب زعبيل	Za'abeel Office Staff Accomodation	25.1479188	55.2499621	hostel			Govt of Dubai	
+node	5422713922	V Hotel		25.1843091	55.2545811	hotel		Curio Collection	Curio Collection	https://www.hilton.com/en/hotels/dxbvhqq-v-hotel-dubai/
+node	5474125621	len room satwa	len room satwa	25.2367940	55.2786482	hostel				
+node	5526220328	منتجع فور سيزونز دبي جميرا بيتش	Four Seasons Resort Dubai	25.2021650	55.2396872	hotel	5	Four Seasons		https://www.fourseasons.com/dubaijb
+node	5543614221	"Radisson Blu Hotel, Dubai Waterfront"	"Radisson Blu Hotel, Dubai Waterfront"	25.1867554	55.2679284	hotel		Radisson Blu		
+node	5544598421	jumairah beach burj al arab	jumairah beach burj al arab	25.1539670	55.2001342	hotel				
+node	5588589727	Kozhikode Restaurant	Kozhikode Restaurant	25.2674258	55.3798397	hotel				
+node	5831038917	Dubai International Hotel	Dubai International Hotel	25.2477730	55.3623635	hotel				
+node	5860522220	Hampton by Hilton Dubai Airport		25.2722921	55.3805491	hotel	3		Hilton	https://www.hilton.com/en/hotels/dxbhxhx-hampton-dubai-airport/
+node	5969851385	فندق ميدان	Meydan Hotel	25.1550217	55.2996373	hotel				http://www.meydanhotels.com/meydan/
+node	6149663008	Waldorf Astoria Dubai International Financial Centre		25.2106688	55.2821114	hotel	5	Waldorf Astoria	Hilton	https://www.hilton.com/en/hotels/dxbwawa-waldorf-astoria-dubai-international-financial-centre/
+node	6327114534	Roda Beach Resort		25.1827835	55.2236576	hotel				https://www.roda-hotels.com/beach-resort/
+node	6442957340	Beach Hotel Apartment		25.2328308	55.2653263	hotel				
+node	6691238286		hotel	25.2249976	55.2565051	hotel				
+node	6752604985	land mark		25.2668918	55.3202234	hostel				
+node	6812558585	Al Khoory Executive Hotel		25.2315469	55.2706070	hotel				www.alkhoory-exec.com
+node	6904869385		Park Regis Business Bay	25.1856814	55.2622152	hotel				
+node	6977232787	Ситимакс BUR DUBAI		25.2510078	55.2920088	hotel				
+node	7035491546	Beach Walk Boutique Hotel		25.1460834	55.1956094	hotel	3	Beach Walk Hotels		https://www.beachwalkboutique.com/
+node	7099601989			25.2450536	55.3331086	hotel				
+node	7099611985			25.2450917	55.3331380	hotel				
+node	7706798563	Beach Walk Hotel - Jumeriah		25.1738662	55.2187829	hotel	4	UAE		https://www.beachwalkhotel.ae
+node	7924707585	فندق النسيم جميرا	Jumeirah Al Naseem	25.1366976	55.1871425	hotel	5			https://www.jumeirah.com/en/stay/dubai/jumeirah-al-naseem
+node	8252427147	Mövenpick Grand Al Bustan Dubai		25.2477461	55.3453322	hotel	5		Accor	https://all.accor.com/hotel/B759/index.en.shtml
+node	8777573818	روتانا		25.2129439	55.2754559	hotel				
+node	8975092052	La Quinta by Wyndham Bur Dubai		25.2491358	55.2831028	hotel	4	La Quinta by Wyndham	"Wyndham Hotels & Resorts, Inc."	https://www.wyndhamhotels.com/laquinta/dubai-united-arab-emirates/la-quinta-bur-dubai/overview?CID=LC:LQ::GGL:RIO:National:55816&iata=00093796
+node	9447272017	لا كوينتا دبي	LA QUINTA	25.2492877	55.2834152	hotel				
+node	9650318117	Hampton		25.2562840	55.3115484	hotel		Hampton		
+node	9650318217			25.2562724	55.3115443	hotel				
+node	9650324817	Hampton		25.2563071	55.3115324	hotel		Hampton		
+node	9812644168	Address Harbour Point		25.2089760	55.3436964	hotel				
+node	9860377717	فندق س19 الجداف	S19 Hotel Al Jaddaf	25.2221639	55.3350186	hotel				https://www.s19hotels.com/
+node	9987573928	The Ritz-Carlton		25.2129606	55.2795836	hotel		The Ritz-Carlton		
+node	10150949586	ibis One Central		25.2212440	55.2861924	hotel	3	Ibis		
+node	10154825332	Metropolitan	Metropolitan	25.1331174	55.2126335	hotel				
+node	10267055309			25.2566986	55.3047446	hotel				
+node	10769935505	"LEVA Hotel , Mazaya Centre"	"Leva Hotel and Suites, Opposite Downtown"	25.1984889	55.2649213	hotel				
+node	10876547405			25.1618040	55.2488250	hotel				
+node	11064740105	تاور پلازار		25.2182528	55.2785292	hotel				
+node	11272994367	The George Hotel		25.2664205	55.2942328	hotel				
+node	11335525869	Hotel wescott		25.2631506	55.2896634	hotel				
+node	11341456693	MRA Grand Hotel		25.2569373	55.2873320	hotel				
+node	11672440670		Address Dubai Mall	25.1948204	55.2823432	hotel				
+node	11756429333	Rove City Walk		25.2054431	55.2680031	hotel				
+node	11964727170			25.1964392	55.2804705	hotel				
+node	11989468969		Mövenpick Hotel & Apartments Bur Dubai	25.2325698	55.3103725	hotel				https://movenpick.accor.com/en/middle-east/uae/dubai/hotel-dubai-bur.html?merchantid=seo-maps-AE-B4J0&sourceid=aw-cen
+node	12180395173	Paramount Tower		25.1931886	55.2652064	hotel				
+node	12180422773	Al Khoory Sky Garden Hotel		25.2573271	55.3354840	hotel				
+node	12180426387	aura suites Downtown		25.1885747	55.2701435	hotel				https://aurasuitesdowntown.com/
+node	12201452948	"The First Collection Waterfront, Dubai, a Tribute Portfolio Hotel"		25.1831318	55.2831678	hotel				https://www.marriott.com/en-us/hotels/dxbbt-the-first-collection-waterfront-dubai-a-tribute-portfolio-hotel/overview/
+node	12254447208	Lavender Hotel		25.2633528	55.3182604	hotel				
+node	12299353871	Embassy Suites by Hilton Dubai Business Bay		25.1807393	55.2779168	hotel	5	Embassy Suites by Hilton	Hilton	https://www.hilton.com/en/hotels/dxbaies-embassy-suites-dubai-business-bay/
+node	12301324523	Hilton Garden Inn Dubai Business Bay		25.1808757	55.2786291	hotel	4	Hilton Garden Inn	Hilton	https://www.hilton.com/en/hotels/dxbpigi-hilton-garden-inn-dubai-business-bay
+node	12435679487			25.2083146	55.2606898	hotel				
+node	12484512893	Jumeirah Marsa Al Arab		25.1445258	55.1895715	hotel	5			https://www.jumeirah.com/en/stay/dubai/jumeirah-marsa-al-arab
+node	12620635201	Four Stars Residence		25.2716487	55.3699118	hotel				
+node	12690271246	One&Only One Za'abeel		25.2281570	55.2907985	hotel	5			https://www.oneandonlyresorts.com/one-zaabeel
+node	12690271247	SIRO One Za'abeel		25.2280232	55.2907376	hotel	5			https://www.sirohotels.com/dubai/one-zaabeel
+node	13025765828	Hj Real Estates		25.2502360	55.2972280	hostel				
+node	13363619801		Milad's Hostel	25.2623139	55.3246640	hostel				
+node	13651616001	Pavilion Palace		25.2569107	55.2932735	hotel				
+node	13871366601			25.1821358	55.2742570	hotel				
+node	13914423101	Le Méridien Le Royal Club		25.2472745	55.3478576	hotel				
+node	14133488202	rove hotel		25.2053901	55.2679815	hotel				
+node	14161562488	Dubai international Hotel		25.2493575	55.3599077	hotel				
+node	14175518401	The St. Regis Downtown Dubai		25.1856914	55.2735114	hotel				https://www.marriott.com/en-us/hotels/dxbdx-the-st-regis-downtown-dubai
+way	10316322	Jumeirah Beach Hotel	Jumeirah Beach Hotel	25.1415790	55.1906549	hotel	5		Jumeirah International LLC	https://jumeirah.com
+way	12700546	برج العرب جميرا	Burj Al Arab Jumeirah	25.1412873	55.1852863	hotel	5			https://www.jumeirah.com/ar/stay/dubai/burj-al-arab-jumeirah
+way	28349082	Dubai Youth Hostel	Dubai Youth Hostel	25.2769749	55.3645004	hostel				https://uaeyha.com/
+way	28743683	Ibis World Trade Centre	Ibis World Trade Centre	25.2229849	55.2858340	hotel		Ibis		
+way	31133118			25.2237233	55.2851211	hotel				
+way	31133123	Radisson Royal	Radisson Royal	25.2228056	55.2844415	hotel		Radisson		
+way	64890199	Rose Rayhaan by Rotana	Rose Rayhaan by Rotana	25.2116707	55.2765922	hotel	4			
+way	88217137			25.2600181	55.3183179	hotel	5		Hilton Hotels	https://www.hilton.com/en/hotels/dxbdchi-hilton-dubai-creek/
+way	106309509	العنوان - دبي مول	The Address - Dubai Mall	25.1996581	55.2775738	hotel				http://www.theaddress.com/en/hotel/the-address-dubai-mall
+way	118263839	Four Points by Sheraton	Four Points by Sheraton	25.2140852	55.2760056	hotel	4	Four Points by Sheraton		
+way	125029561	Dusit Thani Dubai	Dusit Thani	25.2062164	55.2729648	hotel		Dusit		
+way	125848284	Emirates Grand Hotel Apartments	Emirates Grand Hotel Apartments	25.2112391	55.2740693	hotel				
+way	125848289	فندق جيفورا	Gevora Hotel	25.2123701	55.2771449	hotel	4			https://gevorahotels.com/
+way	125848290	ريزيدنس ان	Residence Inn	25.2094854	55.2751528	hotel		Residence Inn		https://residence-inn.marriott.com/
+way	125848292	Shangri La	Shangri La	25.2081223	55.2719637	hotel				https://www.shangri-la.com/dubai/shangrila/
+way	125848293	Number One Tower Suites	Number One Tower Suites	25.2104884	55.2735338	hotel				
+way	126601133	Al Manzil	Al Manzil	25.1911917	55.2776364	hotel	4			
+way	126601134	The Palace - Downtown Dubai	The Palace - Downtown Dubai	25.1936649	55.2757054	hotel				http://www.theaddress.com/en/hotels/the-palace-downtown-dubai/
+way	139639810	"Radisson Blu Hotel, Deira Creek, Dubai"	"Radisson Blu Hotel, Deira Creek, Dubai"	25.2649493	55.3110817	hotel		Radisson Blu		https://www.radissonblu.com/hotel-dubaideiracreek
+way	165023930	Fortune Grand Hotel Apartments		25.2556800	55.2904413	hotel				
+way	165023957			25.2547074	55.2929764	hotel				
+way	165024268	Imperial Suites	Imperial Suites	25.2566809	55.2931067	hotel				
+way	165024277			25.2567347	55.2907529	hotel				
+way	165039670	"Seaview Hotel, Dubai"	"Seaview Hotel, Dubai"	25.2553354	55.2849578	hotel				
+way	165049866	Rolla Residence hotel apartment	Rolla Residence hotel apartment	25.2570988	55.2928943	hotel				
+way	194199918	Crowne Plaza Dubai Jumeirah Hotel	Crowne Plaza Dubai Jumeirah Hotel	25.2403064	55.2754945	hotel	4	Crowne Plaza		
+way	200016059	Pullman - Deira City Centre	Pullman - Deira City Centre	25.2508779	55.3346045	hotel	5	Pullman		https://all.accor.com/booking/en/accor/hotel/2022
+way	200025808	Hyatt Regency Dubai Creek Heights	Hyatt Regency Dubai Creek Heights	25.2343797	55.3239402	hotel	5	Hyatt Regency		
+way	202638354	فندق مدينة جميرا ميناء السلام	Hotel Madinat Jumeirah Mina A'Salam	25.1352222	55.1857586	hotel				https://www.jumeirah.com/en/Hotels-and-Resorts/Destinations/Dubai/Madinat-Jumeirah/Mina-ASalam-Hotel/
+way	205723472	Holiday Inn Express Safa Park	Holiday Inn Express Safa Park	25.1886703	55.2551570	hotel		Holiday Inn Express		
+way	208635846	Canvas Hotel		25.2552533	55.2854988	hotel				
+way	224202482	Novotel Hotel	Novotel Hotel	25.2536911	55.3329309	hotel		Novotel	Novotel	http://www.novotel.com/gb/hotel-6482-novotel-deira-city-centre/index.shtml
+way	224202483	IBIS Hotel Dubai Deira City Centre		25.2540147	55.3326194	hotel	2	Ibis	IBIS	
+way	230622943	Fairmont Dubai	Fairmont Dubai	25.2265048	55.2841517	hotel		Fairmont		https://www.fairmont.com/dubai/
+way	238284905	JW Marriott Marquis Hotel	The Vault bar lounge L71 & 72 - JW Marriott Marquis Hotel	25.1856736	55.2581394	hotel	5	JW Marriott		https://www.marriott.com/hotels/travel/dxbjw-jw-marriott-marquis-hotel-dubai/
+way	241104818	فندق أمباسادور	Hotel Ambassador	25.2631146	55.2909675	hotel				
+way	241105901	Hotel Vasantha Bhavan	Hotel Vasantha Bhavan	25.2614326	55.2916529	hotel				
+way	244376078	Time Dunes Hotel Apartments Oud Metha	Time Dunes Hotel Apartments Oud Metha	25.2327153	55.3151996	hotel				
+way	244376102	Mövenpick Hotel & Apartments Bur Dubai		25.2338873	55.3116345	hotel	5	Mövenpick	Mövenpick Hotels & Resorts	
+way	244768979	Manhattan Avenue Hotel		25.2514573	55.2909279	hotel				
+way	244768981	West Zone Plaza Hotel Apartments		25.2497970	55.2943493	hotel		West Zone		
+way	244768983	Grand Excelsior Hotel		25.2509125	55.2925323	hotel				https://www.gehotels.com/
+way	244768985	Citymax Hotel Bur Duabi		25.2511138	55.2920996	hotel		Citymax		
+way	244907685	Savoy Central Hotel Apartments	Savoy Central Hotel Apartments	25.2573660	55.2892335	hotel				
+way	244909035			25.2536849	55.2960994	hotel				
+way	244909036			25.2536814	55.2976790	hotel				
+way	244911324			25.2580928	55.2884054	hotel				
+way	244912009	City palace Hotel	Hotel	25.2589882	55.2889781	hotel				
+way	244918607	Park Regis Kris Kin Hotel Dubai	Park Regis Kris Kin Hotel Dubai	25.2492030	55.3015578	hotel				
+way	245436302	Time Grand Plaza Hotel	Time Grand Plaza Hotel	25.2705329	55.3805438	hotel				
+way	245436304	Fortune Plaza	Fortune Plaza	25.2668574	55.3810570	hotel				
+way	246086360	Al Bustan Center & Residence	Al Bustan Center & Residence	25.2751009	55.3680171	hotel				https://www.al-bustan.com/
+way	247204605	Sun & Sands Downtown Hotel	Sun & Sands Downtown Hotel	25.2645252	55.3191093	hotel				
+way	254666300	Millenium Plaza Downtown		25.2204124	55.2801546	hotel				
+way	256407008	Studio M Arabian Plaza Hotel & Hotel Apartments		25.2764499	55.3498325	hotel		Millennium		https://www.millenniumhotels.com/en/destinations/mea/uae/dubai/studio-m-arabian-plaza/?cid=gplaces-studio-m-arabian-plaza
+way	256407625	Golden Sands 3	Golden Sands 3	25.2517508	55.2946303	hotel				
+way	256495756	Fortune	Fortune	25.2559738	55.2997919	hotel				
+way	256495770	Desert Rose Hotel Apartments	Desert Rose Hotel Apartments	25.2556008	55.2962424	hotel				
+way	256495774	Royal Ascot	Royal Ascot	25.2564011	55.2984421	hotel				
+way	256497009	Silver Sands 2	Silver Sands 2	25.2546504	55.2964759	hotel				
+way	256973516	The Tower Plaza Hotel		25.2177433	55.2785044	hotel				
+way	257414073	Voco Dubai		25.2234906	55.2822683	hotel		voco		
+way	257414079	Chelsea Plaza	Chelsea Plaza	25.2353747	55.2796418	hotel				
+way	257924900			25.2194152	55.2523212	hotel				
+way	259708738	Majestic Premier Hotel	Four Points By Sheraton Bur Dubai	25.2577347	55.2996683	hotel	5	Four Points by Sheraton	Sheraton	
+way	259724739	Astoria Hotel	Astoria Hotel	25.2621550	55.2921571	hotel				http://astoriahoteldubai.com/
+way	259738495	Majestic City Retreat	Majestic City Retreat	25.2535289	55.2934839	hotel				
+way	259738503	The Regent Palace Hotel	The Regent Palace Hotel	25.2533264	55.3039680	hotel				https://regentpalacehotel.co.uk/
+way	259738508	London Crown	London Crown	25.2546287	55.2991909	hotel				
+way	259738512	Golden Sands 7	Golden Sands 7	25.2518089	55.2956459	hotel				
+way	259738515	Imperial hotel apartments	Imperial hotel apartments	25.2553861	55.2999139	hotel				
+way	259738517	Golden Sands 4	Golden Sands 4	25.2521076	55.2958330	hotel				
+way	259883659	Hotel Tulip	Hotel Tulip	25.2554584	55.2983895	hotel				
+way	259883665	Savoy Crest	Savoy Crest	25.2548480	55.2993276	hotel				
+way	259883671	Raviz	Raviz	25.2555052	55.3016442	hotel				
+way	259918949	Four Points by Sheraton Downtown		25.2519080	55.2927390	hotel		Four Points by Sheraton	Marriot	
+way	259918959	Sapphire Plaza Hotel Apartments		25.2514490	55.2940353	hotel				
+way	259918962	Green House Hotel Apartments		25.2511428	55.2937642	hotel				
+way	260063124	Rose Garden	Rose Garden	25.2542481	55.3010646	hotel				
+way	262217752	Vista City Hotel	Rainbow Hotel	25.2577158	55.2992512	hotel				
+way	292346548	Hall Mart	Hall Mart	25.2643819	55.3204172	hotel				
+way	292364514	Aavri Hotel	Aavri Hotel	25.2605262	55.3263764	hotel	4			https://aavrihotel.ae
+way	297478708	Fortune Karama		25.2422869	55.2982132	hotel		Fortune		
+way	298214328	برجمان أرجان من روتانا دبي	BurJuman Arjaan by Rotana	25.2519647	55.3011408	hotel				https://rotana.com/burjumanarjaanbyrotana
+way	298580063	Najoum Hotel Apartments	Najoum Hotel Apartments	25.2660830	55.3298666	hotel				https://www.nojoumsuites.com/
+way	301667130	Welcome Hotel 1	Welcome Hotel 1	25.2485368	55.2977831	hotel				
+way	302700248	Le Méridien	Le Meridien	25.2485679	55.3474777	hotel		Le Méridien		http://www.lemeridien-dubai.com/
+way	306997711	DoubleTree by Hilton Dubai Port Saeed	DoubleTree by Hilton Dubai Port Saeed	25.2564260	55.3348608	hotel		DoubleTree by Hilton		https://www.hilton.com/en/hotels/dxbemdi-doubletree-dubai-port-saeed/
+way	317173842	Al Jawhara Hotel Apartment	Al Jawhara Hotel Apartment	25.2550768	55.3353180	hotel				
+way	317173847	Pearl City Suites		25.2542609	55.3321241	hotel				
+way	317173848	Some Where	Some Where	25.2539404	55.3295339	hotel				
+way	317173849	Rihab Rotana	Rihab Rotana	25.2538852	55.3357666	hotel				https://www.rotana.com/rotanahotelandresorts/unitedarabemirates/dubai/rihabrotana
+way	317173860	Al Jawhara Gardens Hotel	Al Jawhara Gardens Hotel	25.2547492	55.3351864	hotel				
+way	322944568	Marriott Executive Apartments Dubai Creek Tower 2	Marriott Executive Apartments Dubai Creek	25.2584006	55.3232020	hotel	5	Marriott Executive Apartments		
+way	325379136	Welcome Hotel Apartments	Welcome Hotel Apartments	25.2647065	55.3294743	hotel				
+way	325379230	Coral Hotel Deira		25.2662818	55.3257111	hotel				
+way	327379135	Conrad Dubai		25.2261585	55.2834382	hotel	5	Conrad	Hilton	https://www.hilton.com/en/hotels/dxbcdci-conrad-dubai/
+way	339300030	Grand Central Hotel	Grand Central Hotel	25.2638277	55.3268416	hotel	4			https://www.grandcentralhoteldubai.com/
+way	346470042	Roda	Roda	25.1438710	55.2427553	hotel				
+way	367180330	InterContinental Dubai Festival City	InterContinental Dubai Festival City	25.2230950	55.3500945	hotel		InterContinental		
+way	382096530	Mövenpick Hotel Apartments Downtown Dubai	Mövenpick Hotel Apartments Downtown Dubai	25.1940940	55.2836547	hotel		Mövenpick		
+way	382096536	Maryland International Hotel	Maryland International Hotel	25.1915817	55.2818611	hotel				
+way	385729969	Swissotel Al Murooj		25.2027733	55.2776296	hotel		Swissôtel		
+way	385729970			25.2023456	55.2767860	hotel				
+way	385729971			25.2029280	55.2757086	hotel				
+way	385729972			25.2037425	55.2762017	hotel				
+way	385729973			25.2035559	55.2774649	hotel				
+way	385731651	Swissôtel Al Murooj Dubai	Swissôtel Al Murooj Dubai	25.2029708	55.2766802	hotel		Swissôtel		
+way	385743735	Roda Metha Suites		25.2314275	55.3148094	hotel		Roda		
+way	385761096	"Arabian Park Dubai, an Edge by Rotana Hotel"	Arabian Park Hotel	25.2204502	55.3279966	hotel				
+way	385761097	Park Hotel Apartments		25.2214319	55.3291412	hotel				
+way	385764390	Marriott Hotel Executive Apartments Al Jaddaf	Marriott Hotel Al Jaddaf	25.2114107	55.3155108	hotel	5	Marriott		
+way	386161424	Palazzo Versace	Palazzo Versace	25.2274394	55.3419137	hotel				https://www.palazzoversace.ae/
+way	386234177	Palm Beach Hotel	Palm Beach Hotel	25.2592668	55.2874259	hotel				
+way	386252974	ibis Styles Dubai Jumeira		25.2404467	55.2732583	hotel	3	Ibis Styles		https://all.accor.com/hotel/A089/index.en.shtml
+way	386266181	Grand Hyatt Dubai	Grand Hyatt Dubai	25.2278747	55.3278538	hotel	5	Grand Hyatt		https://www.hyatt.com/grand-hyatt/en-US/dxbgh-grand-hyatt-dubai
+way	386663016	نزل بارجيل التراثي	Barjeel Heritage Guest House	25.2660913	55.2899814	hostel				
+way	389363742	Rove		25.2026588	55.2793617	hotel				
+way	389709570	Sheraton Dubai Creek Hotel & Towers	Sheraton Dubai Creek Hotel & Towers	25.2613550	55.3137964	hotel		Sheraton	Sheraton	http://www.sheratondubaicreek.com
+way	393391115	Jumeirah Emirates Office Tower	Jumeirah Emirates Towers Hotel	25.2175486	55.2836324	hotel				
+way	399869762	Taj Dubai Hotel	Taj Dubai Hotel	25.1923165	55.2672826	hotel		Taj		
+way	399874888	Anantara Downtown Dubai	Anantara Downtown Dubai	25.1858833	55.2637381	hotel		Anantara		https://www.anatara.com/en/downtown-dubai
+way	412943019	Novotel World Trade Centre Dubai	Novotel	25.2214559	55.2882764	hotel	4	Novotel		http://www.novotel.com/en/hotel-5261-novotel-world-trade-centre-dubai/index.shtml
+way	417137430	فلورا بارك للشق الفندقية	Flora Park Deluxe Hotel Apartments	25.2560584	55.3290262	hotel				
+way	433008770	Millennium Airport Hotel Dubai	Millennium Airport Hotel Dubai	25.2483898	55.3432768	hotel				
+way	436220164	Welcome Hotel Apartments	Welcome Hotel Apartments	25.2637152	55.3289288	hotel				
+way	436226416	Hyatt Place Dubai Al Rigga	Hyatt Place Dubai Al Rigga	25.2630587	55.3275896	hotel	4	Hyatt Place	Hyatt	https://www.hyatt.com/hyatt-place/en-US/dxbzd-hyatt-place-dubai-al-rigga
+way	436226419	J5 Rimal	J5 Rimal	25.2642884	55.3268427	hotel			J5 Hotels	https://j5hotels.com/rimal/
+way	436226514	فندق إكسلسيور داون تاون دبي	Excelsior Hotel Downtown	25.2639537	55.3252710	hotel				
+way	436229907	Avenue Hotel	Avenue Hotel	25.2627346	55.3261873	hotel				
+way	436229927	IBIS Hotel Dubai Al Rigga		25.2653208	55.3213475	hotel		Ibis		https://all.accor.com/hotel/6685/index.en.shtml
+way	436229966	Saffron Hotel	Saffron Hotel	25.2613449	55.3256974	hotel				
+way	436229982	Orchid Hotel	Orchid Hotel	25.2605906	55.3247267	hotel				
+way	436229985	Eureka	Eureka	25.2612148	55.3252535	hotel				
+way	436229990	Sky Line Hotel Apartment	Sky Line Hotel Apartment	25.2608328	55.3242503	hotel				
+way	436231394	Nihal Hotel	Nihal Hotel	25.2602954	55.3244696	hotel	3			
+way	436231400	Jood Palace Hotel	Jood Palace Hotel	25.2622500	55.3221257	hotel				
+way	436231402	Sun & Sands Hotel	Sun & Sands Hotel	25.2610310	55.3237477	hotel	3			
+way	436231411	Knight Armour Hotel	Knight Armour Hotel	25.2608561	55.3229512	hotel				https://www.knightarmourhotel.com
+way	436231412	فندق دلمون بالاس	Delmon Palace Hotel	25.2610313	55.3226673	hotel				
+way	436231413	Broadway Hotel	Broadway Hotel	25.2611020	55.3222815	hotel				
+way	436232527	Pearl Swiss Hotel		25.2642504	55.3193989	hotel				
+way	436232537	Landmark Premier Hotel	Landmark Premier Hotel	25.2625128	55.3199092	hotel				https://www.landmarkhotels.com
+way	436233455	Dream Lana Hotel	Dream Lana Hotel	25.2642322	55.3179355	hotel				
+way	436233456	Zain International Hotel	Zain International Hotel	25.2643403	55.3177518	hotel				
+way	436233468	Comfort Inn Hotel	Comfort Inn Hotel	25.2652912	55.3168784	hotel				http://www.hotelcomfortinn.com/
+way	436233481	Best Western Premier M Four Hotel	Best Western Premier M Four Hotel	25.2627061	55.3195544	hotel		Best Western Premier		https://bestwesternpremierdxb.com
+way	436399908	Jumeira Rotana		25.2372844	55.2742821	hotel				
+way	437789981	Al Khaleej Palace Hotel	Al Khaleej Palace Hotel	25.2627294	55.3166583	hotel				
+way	437789993	Samaya Hotel	Samaya Hotel	25.2603919	55.3188310	hotel				
+way	437963103	Majestic Cove Hotel	Majestic Cove Hotel	25.2479467	55.3381539	hotel				
+way	437963127	Jumeira Creekside Hotel	Jumeira Creekside Hotel	25.2424381	55.3408000	hotel				
+way	455566777			25.2059632	55.2732860	hotel				
+way	457680276	The Dubai EDITION		25.1921889	55.2805995	hotel				https://www.editionhotels.com/dubai
+way	479429859	Rotana Towers	Rotana Towers	25.2129849	55.2752611	hotel	4			
+way	483146952	Suha Creek Hotel Apartments		25.2287442	55.3364391	hotel				
+way	492172130	Voco Hotel and Nassima Towers		25.2235906	55.2823511	hotel		voco		https://www.nassimatower.com/
+way	498599068	Monaco Hotel	Monaco Hotel	25.2605099	55.3271169	hotel				
+way	500235501	Xclusive	Xclusive	25.2524289	55.2962182	hotel				
+way	501783791	Copthorne Airport Hotel	Copthorne Airport Hotel	25.2478106	55.3431934	hotel				
+way	504027089	Rove City Centre	Rove City Centre	25.2556432	55.3325765	hotel	4			https://www.rovehotels.com/hotel/rove-city-centre/
+way	509426058	Nikki Beach Hotel	Nikki Beach Hotel	25.2469889	55.2563277	hotel				
+way	514827143	DoubleTree by Hilton Dubai - Business Bay	DoubleTree by Hilton Dubai - Business Bay	25.1864428	55.2803504	hotel	4	DoubleTree	Hilton	https://www.hilton.com/en/hotels/dxbbbdi-doubletree-dubai-business-bay/
+way	532829008	Pullman Dubai Downtown		25.1870108	55.2715565	hotel		Pullman		
+way	532833847	Hotel Boulevard	Vida Downtown Dubai Hotel	25.1901538	55.2745209	hotel				
+way	532833875	Ramada Downtown Dubai	Ramada Downtown Dubai	25.1929846	55.2726166	hotel		Ramada		
+way	532836513	فندق العنوان داون تاون	The Address - Downtown Dubai	25.1940224	55.2788857	hotel				
+way	532836516	Address Boulevard	Address Boulevard	25.2008753	55.2762040	hotel				
+way	532853094	"Radisson Blu Hotel, Dubai Canal View"		25.1913145	55.2901392	hotel	5	Radisson Blu		
+way	532853096	Millennium Central	Millennium Central	25.1939751	55.2894956	hotel		Millennium		
+way	532855115	Sofitel Dubai Downtown	Sofitel Dubai Downtown	25.1998022	55.2686777	hotel		Sofitel		
+way	536134988	Ibis One Central	Ibis One Central	25.2213148	55.2860642	hotel		Ibis		
+way	554488167	Hilton Dubai Al Habtoor City		25.1843882	55.2552024	hotel	5	Hilton	Hilton	https://www.hilton.com/en/hotels/dxbahhi-hilton-dubai-al-habtoor-city/
+way	610627924	City Seasons Towers Hotel	City Seasons Towers Hotel	25.2528308	55.3026585	hotel	4			https://www.cityseasonshotels.com
+way	618247811	"V Hotel Dubai, Curio Collection by Hilton"		25.1843119	55.2546747	hotel	5	Hilton	Hilton	https://www.hilton.com/en/hotels/dxbvhqq-v-hotel-dubai/
+way	643306145	DoubleTree by Hilton Dubai Al Jadaf		25.2223637	55.3317588	hotel	4	DoubleTree	Hilton	https://www.hilton.com/en/hotels/dxbjadi-doubletree-dubai-al-jadaf/
+way	646828353	The Atria 2		25.1797329	55.2638405	hotel	5	Millennium	Millennium Atria Business Bay	
+way	663536643	Bulgari Hotel Dubai		25.2108237	55.2354940	hotel		Bulgari		
+way	671673312	Canopy by Hilton Dubai Al Seef		25.2561276	55.3121714	hotel	4	Canopy	Hilton	https://www.hilton.com/en/hotels/dxbsepy-canopy-dubai-al-seef/
+way	723546898	Al Jaddaf Rotana Suite		25.2206782	55.3291267	hotel				
+way	723546900	FORM Hotel Dubai		25.2227513	55.3345298	hotel				
+way	723546903	Premier Inn Dubai Al Jaddaf		25.2214438	55.3319288	hotel		Premier Inn		
+way	723548016		Barceló Al Jaddaf	25.2182237	55.3230126	hotel				
+way	723551986	Residence Inn by Marriott Al Jaddaf		25.2108039	55.3144215	hotel		Residence Inn	"Marriott International, Inc."	https://www.marriott.com/hotels/travel/dxbri-residence-inn-al-jaddaf/
+way	762884083	"Al Seef Heritage Hotel Dubai, Curio Collection by Hilton"		25.2639722	55.3048894	hotel	4	Curio Collection	Hilton	https://www.hilton.com/en/hotels/dxbasqq-al-seef-heritage-hotel-dubai/
+way	764131759	ibis Styles Dubai Airport		25.2505243	55.3442014	hotel	3	Ibis Styles		https://all.accor.com/hotel/A102/index.en.shtml
+way	767521824	Hampton by Hilton Dubai Al Seef		25.2555539	55.3111904	hotel	3	Hampton	Hilton	https://www.hilton.com/en/hotels/dxbalhx-hampton-dubai-al-seef/
+way	785983875	Intercity Hotel Dubai Jaddaf Waterfront	IntercityHotel Dubai Jaddaf Waterfront	25.2268034	55.3381660	hotel			Deutsche Hospitality	
+way	799091692	Damac Maison Prive		25.1843677	55.2755145	hotel				
+way	885108374	DoubleTree by Hilton Dubai M Square Hotel & Residences		25.2502695	55.3006941	hotel		DoubleTree	Hilton Inc.	https://www.hilton.com/en/hotels/dxbmkdi-doubletree-dubai-m-square-hotel-and-residences/
+way	894441736	Arabian Courtyard Hotel & Spa	Arabian Courtyard Hotel & Spa	25.2624994	55.2975371	hotel				https://www.arabiancourtyard.com/
+way	907000893	Roda Links Al Nasr		25.2374451	55.3096716	hotel				
+way	907000897	Rove Healthcare City		25.2340908	55.3143564	hotel		Rove		
+way	907179891	Rove Trade Center		25.2319658	55.2854899	hotel				
+way	914725444	Element Al Jaddaf	Element Al Jaddaf	25.2199453	55.3326269	hotel		Element		
+way	923665916	Al Waleed Holiday Home		25.2356379	55.3065466	hotel				https://alwaleedholidayhomes.com
+way	1071485032	Hilton Dubai Creek Hotel & Residences		25.2520194	55.3244492	hotel		Hilton		https://www.hilton.com/en/hotels/dxbjchi-hilton-dubai-creek-hotel-and-residences
+way	1075959494	InterContinental Residences		25.1814709	55.2704968	hotel		InterContinental		https://www.ihg.com/intercontinental/hotels/gb/en/dubai/dxbhc/hoteldetail
+way	1076132569	"The First Collection Business Bay, Dubai, a Tribute Portfolio Hotel"		25.1781191	55.2679809	hotel		Tribute Portfolio		https://www.marriott.com/en-us/hotels/dxbtb-the-first-collection-business-bay-dubai-a-tribute-portfolio-hotel/overview/
+way	1083733024	Courtyard by Marriott World Trade Centre		25.2281982	55.2830894	hotel		Courtyard		
+way	1083733029	Mandarin Oriental Jumeira		25.2169482	55.2506038	hotel		Mandarin Oriental Hotel		https://www.mandarinoriental.com/dubai/jumeira-beach/luxury-hotel/offers/travel-again
+way	1084655122	Sofitel Dubai The Obelisk		25.2310024	55.3184179	hotel		Sofitel		https://www.sofitel-dubai-theobelisk.com/
+way	1109602399	The District Hotel - Jumeirah		25.1384496	55.2037878	hotel	4	The District Hotel - Jumeirah		https://www.thedistricthotel.ae
+way	1110195507	Khalidia Palace Hotel Dubai	Khalidia Palace Hotel Dubai	25.2614840	55.3205711	hotel	5			https://khalidiapalace.com
+way	1124087253	Hyatt Place Dubai Jumeirah		25.2464834	55.2771293	hotel	4	Hyatt Place	Hyatt	https://www.hyatt.com/hyatt-place/en-US/dxbza-hyatt-place-dubai-jumeirah
+way	1124227999	Royal Continental Suites		25.1833405	55.2835127	hotel				
+way	1124405427	Aloft Al Mina		25.2486412	55.2841173	hotel		Aloft		
+way	1126465663			25.2295480	55.3371562	hotel			The Ascott Limited	https://www.discoverasr.com/en/citadines/united-arab-emirates/citadines-culture-village-dubai
+way	1126617357	Holiday Inn By IHG	Holiday Inn By IHG	25.2219288	55.3575373	hotel	4	Holiday Inn	IHG Suites	https://www.ihg.com/holidayinn/hotels/gb/en/dubai/dxbfc/hoteldetail
+way	1126913548	Aloft Dubai Creek Hotel		25.2507199	55.3323311	hotel		Aloft		https://www.marriott.com/en-us/hotels/dxbde-aloft-dubai-creek/overview/
+way	1127432702	Jood Hotel Apartments		25.2574585	55.3347997	hotel				https://jood-hotels.com/
+way	1135144496	Hotel Indigo Dubai Downtown		25.1926925	55.2868279	hotel		Hotel Indigo		
+way	1208562102	Hyatt Centric Jumeirah Dubai		25.2346378	55.2604314	hotel	5	Hyatt Centric	Hyatt	https://www.hyatt.com/hyatt-centric/en-US/dxbcl-hyatt-centric-jumeirah-dubai
+way	1320031255	Hotel		25.1745859	55.3132908	hotel				
+way	1320031256	Hotel		25.1750665	55.3136293	hotel				
+way	1320348250	Hotel		25.1734712	55.3118342	hotel				
+way	1327485639			25.2254643	55.2542711	hotel				
+way	1450343538	Marriott Marquis Dubai Creek		25.2506906	55.3265689	hotel		Marriott		https://www.marriott.com/en-us/hotels/dxbmj-marriott-marquis-dubai-creek/overview/
+way	1528954686	"Al Habtoor Palace, Preferred Hotels & Resorts"		25.1835943	55.2544472	hotel	5			https://www.habtoorpalace.com/en
+way	1529316677	"Renaissance Business Bay Hotel, Dubai"		25.1828615	55.2742880	hotel		Renaissance		https://www.marriott.com/en-us/hotels/dxbrb-renaissance-business-bay-hotel-dubai/overview/
+way	1529316678	Grand Mercure Business Bay		25.1826165	55.2747875	hotel		Grand Mercure		https://all.accor.com/booking/en/accor/hotel/C3Q8
+way	1529347730	Barceló Business Bay		25.1793143	55.2714105	hotel		Barceló		https://www.barcelo.com/en-ae/barcelo-business-bay-dubai/
+relation	3336311	Lotus hotel	Lotus hotel	25.2647193	55.3185743	hotel				
+relation	3336312	Summit Hotel	Summit Hotel	25.2645316	55.3196994	hotel				http://summit-hotel.dubaihoteluae.com/
+relation	3437655	Silver Sands 1	Silver Sands 1	25.2550219	55.2958012	hotel				
+relation	4009236	Golden Sands 10	Golden Sands 10	25.2506052	55.2985075	hotel				
+relation	5829240	Park Hyatt Dubai		25.2441466	55.3327884	hotel	5	Park Hyatt	Hyatt Hotels Corporation	https://www.hyatt.com/en-US/hotel/united-arab-emirates/park-hyatt-dubai/dxbph
+relation	9035485	Le Méridien Dubai Hotel & Conference Centre		25.2486154	55.3472620	hotel		Le Méridien		
+relation	14604314	25hours Hotel Dubai One Central		25.2194660	55.2844569	hotel		25hours hotels		https://www.25hours-hotels.com/en/hotels/dubai/one-central
+relation	14924064	Golden Sands 11	Golden Sands 11	25.2501190	55.2977960	hotel				
+relation	15083653	Mövenpick Grand Al Bustan Dubai	Mövenpick Grand Al Bustan Dubai	25.2481786	55.3452586	hotel		Mövenpick		
+relation	18660603	Grand Mercure Dubai Airport		25.2508488	55.3436973	hotel	5			

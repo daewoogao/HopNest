@@ -1,0 +1,249 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	60574469	Novotel Brussels Airport		50.8931076	4.4617043	hotel	3		Novotel	
+node	259674901	Thon Hotel Brussels City Centre		50.8560176	4.3572736	hotel	4		Thon Hotels	
+node	264491306	ibis		50.8361163	4.3387554	hotel	3	Ibis	Accor	
+node	303986940	greet Brussels Airport Zaventem		50.8810107	4.4571242	hotel		Accor		
+node	335380141	Holiday Inn Brussels-Schuman		50.8407267	4.3836407	hotel	3	Holiday Inn	IHG	
+node	335381754	New Hotel Charlemagne		50.8451656	4.3828362	hotel	4		newhotel	
+node	450237469	NH Grand Place Arenberg		50.8484961	4.3573845	hotel	4		NH	
+node	512689361	Hostel Van Gogh		50.8542402	4.3683007	hostel				
+node	544426591	Hilton Garden Inn Brussels City Centre		50.8322650	4.3501468	hotel	4	Hilton Garden Inn	Hilton Hotels	
+node	639876193	Youth Hostel Bruegel		50.8419617	4.3514538	hostel			vjh	
+node	668100706	Renaissance Brussels Hotel		50.8380099	4.3717258	hotel	4	Renaissance	Marriott	
+node	708685370	Barry		50.8439240	4.3445478	hotel	1			
+node	725316775	The Scott		50.8318055	4.3531647	hotel	3			
+node	790062494	Best Western City Center		50.8561287	4.3629229	hotel	3	Best Western	Best Western	
+node	798937282	Pentahotel Brussels City Centre		50.8309509	4.3565023	hotel		Penta Hotels		
+node	798969583	Agenda Louise		50.8294449	4.3599636	hotel	3			
+node	849784375	Hotel Restaurant Taormina		50.8774168	4.5045000	hotel				
+node	905451718	The Usual		50.8541454	4.3566126	hotel		The Usual		
+node	954319132	Auberge Van Strombeek		50.9032389	4.3427096	hotel				
+node	954563137	Van Der Valk Hotel Brussels Airport		50.8874904	4.4530919	hotel				https://www.hotelbrusselsairport.com/
+node	1195587460	The Augustin		50.8421493	4.3446105	hotel	4			
+node	1200223304	Onyx Hotel Expo		50.8859473	4.3418587	hotel	2			
+node	1200266512	Hôtel - Restaurant Victory		50.8745691	4.2849557	hotel				
+node	1210503737	Gosset Hotel		50.8727589	4.2730793	hotel				
+node	1227757280	New Prince de Liège		50.8467748	4.2995131	hotel				
+node	1323626681	Euro Capital		50.8367640	4.3396054	hotel	3			
+node	1433223060	Manos Premier		50.8283179	4.3556606	hotel	5		Manos	
+node	1599339883	Les Écrins		50.8527777	4.3489397	hotel				
+node	1615719184	Hôtel Prestige		50.8553352	4.3690718	hotel	2			
+node	1756692077	Eurostars Montgomery Hotel		50.8382362	4.4070236	hotel	5	Eurostars Hotels Company		
+node	1817528128	Thon Hotel EU		50.8439588	4.3755178	hotel	4		Thon Hotels	
+node	1979277441	de Fierlant		50.8259825	4.3313116	hotel	3			
+node	1979277443	Park Inn by Radisson Brussels Midi		50.8353183	4.3382760	hotel	3		Radisson	
+node	2141163890	Le Dome		50.8552855	4.3573277	hotel	4			
+node	2169733297	Bedford		50.8442159	4.3474247	hotel	3			
+node	2268286135	Best Western Royal Centre		50.8509970	4.3643440	hotel	3	Best Western	Best Western	
+node	2329109535	The Dominican		50.8492439	4.3547172	hotel	4	Design Hotels		
+node	2352444878	Auberge du Souverain		50.8013700	4.4218866	hotel	2			
+node	2362953228	Van Belle		50.8442333	4.3362738	hotel	3			
+node	2383044784	First Euroflat Hotel		50.8448396	4.3820548	hotel	4			
+node	2383044850	Martin's Brussels EU		50.8455965	4.3822632	hotel	4	Martin's Hotels	Martin's Hotels	
+node	2387387547	Gresham Belson Hotel		50.8591567	4.4139492	hotel	4			
+node	2443550093	Thon Residence Parnasse		50.8373257	4.3715586	hotel	4		Thon Hotels	
+node	2443572666	Hotel Du Parlement		50.8382707	4.3717944	hotel	2			
+node	2464535513	Craves		50.8488511	4.3511248	hotel	3			
+node	2476359865	Aqua Hotel		50.8365298	4.3605211	hotel	3			
+node	2476488495	Rembrandt		50.8329360	4.3608355	hotel	1			
+node	2477823726	Frederiksborg		50.8671295	4.3212029	hotel	2			
+node	2482642684	Mercure Brussels Centre Rogier		50.8566252	4.3586575	hotel		Mercure		
+node	2485126882	Housingbrussels		50.8513104	4.3887718	hotel				
+node	2489046137	Courtyard by Marriott Brussels EU		50.8460272	4.3717287	hotel		Courtyard		
+node	2499551873	Sleep Well Youth Hostel		50.8528735	4.3580688	hostel				
+node	2505417177	Queen Anne		50.8546955	4.3542534	hotel	3			
+node	2509496086	Noga		50.8534557	4.3481451	hotel	3			
+node	2522238610	Latroupe Grand Place		50.8460159	4.3468776	hostel				
+node	2538877349	Hotel Belvue		50.8507869	4.3371142	hotel	3			
+node	2620318975	Urban City Centre Hostel		50.8412290	4.3418633	hostel				
+node	2620469502	Manhattan		50.8547854	4.3567798	hotel	1			
+node	2620469617	Hôtel Marivaux		50.8538836	4.3557311	hotel	3			
+node	2623259022	Pillows City Hotel Brussels Centre		50.8469259	4.3593475	hotel		Pillows Hotels		
+node	2624442123	À la Grande Cloche		50.8429972	4.3463110	hotel	2			
+node	2624442145	Hotel Stalingrad		50.8395724	4.3412783	hotel				
+node	2624442394	Aristote		50.8425672	4.3451099	hotel	2			
+node	2625805240	Le Manoir du Prince de Liège		50.8446082	4.2970320	hotel				
+node	2669933071	Meininger Hotel		50.8356963	4.3310561	hotel		Meininger		
+node	2697475263	Es Hostel Midi		50.8404986	4.3393977	hostel				
+node	2697502360	Continental		50.8373666	4.3404783	hotel	2			
+node	2792031898	Novotel Brussels Midi Station		50.8369003	4.3397999	hotel	4	Novotel	Accor	
+node	3104414176	Motel One		50.8486892	4.3631176	hotel	3	Motel One	Motel One	
+node	3118694153	The Moon		50.8468812	4.3546141	hotel	2			
+node	3122385574	Hotel Phenix		50.8467348	4.2949924	hotel	3			
+node	3218833195	Hotel Retro		50.8548232	4.3669030	hotel	2			
+node	3317485993	Au Repos des Chasseurs		50.8019446	4.4308473	hotel	3			
+node	3322061871	Holiday Inn Express		50.8518330	4.3501514	hotel		Holiday Inn Express	Holiday Inn	
+node	3345948868	Pullman Brussels Centre Midi		50.8372091	4.3359158	hotel	4	Pullman	Accor	
+node	3382931997	9hotel Central		50.8465718	4.3592421	hotel	3		9hotel	
+node	3392563427	BRXXL5		50.8411762	4.3416258	hostel				
+node	3506621703	NH Collection Brussels Centre		50.8521710	4.3542278	hotel	4		NH	
+node	3728931463	La Roseraie		50.9017160	4.3174111	hotel				https://www.laroseraie.be
+node	3766121574	ibis Styles Brussels Centre Rogier		50.8563737	4.3583580	hotel		Ibis Style		
+node	3864688558	Colombiers & Aberdeen		50.8525408	4.3549891	hotel	2		Ayat Group	
+node	3929554270	ibis Brussels City Centre		50.8505684	4.3493247	hotel	3	Ibis	Accor	
+node	4065415792	Radisson Collection Grand Place Brussels		50.8494664	4.3564427	hotel	5	Radisson Collection	Radisson	
+node	4194998989	2GO4 City Center		50.8545101	4.3547423	hostel			2GO4	
+node	4245869255	Chelton		50.8452165	4.3887989	hotel	3			
+node	4262396628	Brussels Hello Hostel		50.8644271	4.3316861	hostel				
+node	4361625528	La Bourse Hotel		50.8484001	4.3504936	hotel				
+node	4393565869	Hotel Derby		50.8394513	4.3999270	hotel	2			
+node	4413342790	Floris Arlequin Grand Place		50.8479478	4.3531069	hotel	3		Floris	
+node	4417539988	Pestana		50.8404297	4.3809055	hotel				
+node	4418284342	La Vieille Lanterne		50.8449911	4.3496128	hotel	1			
+node	4421299389	Eurocap		50.8842601	4.3187628	hotel	2			
+node	4464145024	easyHotel Brussels City Centre		50.8502835	4.3555508	hotel	2	easyHotel		
+node	4568950211	Le Dixseptième		50.8455898	4.3547514	hotel	4			
+node	4672223855	The Mila Hotel		50.8449834	4.3467710	hotel				
+node	4685884652	Jam Hotel		50.8271115	4.3553273	hotel				
+node	4757690329	Dansaert Hotel		50.8492202	4.3477364	hotel	3			
+node	4802100180	Numastays		50.8470233	4.3552415	hotel	2			
+node	4818472863	9hotel Sablon		50.8422693	4.3557139	hotel	4		9hotel	
+node	4843914927	Alma		50.8452462	4.3534236	hotel	3			
+node	4843944759	Hotel Saint-Géry		50.8479385	4.3478841	hotel	3			
+node	4844399668	Albergo		50.8562151	4.3626828	hotel	2			
+node	4850443168	Evergreen		50.8563974	4.4144145	hotel	2			
+node	4850634723	Albert		50.8601757	4.3691591	hotel	2			
+node	5001908080	Hotel City Center		50.8565401	4.3586033	hotel				
+node	5032615562	Yadoya		50.8571638	4.3507843	hotel	3			
+node	5301250535	Europacity		50.8581623	4.3618781	hotel				
+node	5660694243	Sky Inn		50.8371423	4.3400580	hotel				
+node	5930123240	Hotel Méribel		50.8539913	4.3690820	hotel	3			
+node	6001609686	Slina Hotel Brussels		50.8432165	4.3330048	hotel	3			
+node	6244311753	Institute of Cultural Affairs in Belgium		50.8502442	4.3732644	hotel				
+node	6247954071	Apart Hotels Just Be Regent		50.8487290	4.3687426	hotel				
+node	7952094776	Moxy Brussels City Center		50.8345928	4.3635300	hotel		Moxy		
+node	8243431432	Value Stay Brussels Expo		50.9043735	4.3535389	hotel	2	Value Stay		https://www.valuestay.be/en/value-stay-brussels-expo
+node	8684975942	Expo		50.8944853	4.3310644	hotel	3			
+node	9120516747	Hotel La Potinière		50.8743583	4.3742659	hotel				
+node	9193553281	King Upkot		50.8518091	4.3653122	hostel		Upkot		
+node	9849044142	Appart'City Confort Bruxelles Centre gare du midi		50.8379832	4.3319246	hotel		Appart'City		
+node	9869648602	Aspria Royal La Rasante		50.8398524	4.4314678	hotel				https://www.aspria.com/en/brussels-royal-la-rasante/
+node	10101802297	Pacific		50.8497787	4.3471030	hotel	3			
+node	10312580068	B&b Hotels		50.8367022	4.3394923	hotel				
+node	10312580069	Hotel Oceanic		50.8370124	4.3399226	hotel				
+node	10604650127	2GO4 Grand Place		50.8470053	4.3533565	hostel			2GO4	
+node	10767251747	Maison Flagey		50.8239537	4.3719838	hotel				
+node	10859987535	Hotel Midi-Zuid		50.8393494	4.3393850	hotel	3			
+node	10898610776	The Hoxton		50.8557187	4.3632631	hotel		The Hoxton		
+node	10984414791	Mozart		50.8455601	4.3531621	hotel	3			
+node	10990314753	Hotel Queen Mary		50.8476543	4.3415937	hotel				
+node	11058158638	Harmon House		50.8306909	4.3564192	hotel	4			
+node	11100291322	Mix Brussels		50.8027892	4.4262195	hotel			Mingle Group	
+node	11111405477	Lief		50.8424443	4.3462763	hotel	4		numa	
+node	11203386119	Madou		50.8491887	4.3671734	hotel				
+node	11221269423	OPO		50.8496892	4.3488505	hotel				
+node	11288755340	Auberge de Jeunesse Jacques Brel		50.8517259	4.3671399	hostel			LAJ	
+node	11384820969	Hôtel des Galeries		50.8478968	4.3547681	hotel	4			
+node	11572056369	Aparthotel Adagio Access Brussels Delta		50.8161489	4.3984330	hotel		Adagio	Accor	
+node	11586822600	Made in Louise		50.8291876	4.3579514	hotel	3			
+node	11769557119	ibis Brussels Centre Châtelain		50.8213020	4.3663209	hotel	3		Accor	
+node	11828429555	Satellite		50.8467703	4.3907388	hotel				
+node	11908493274	Chambord		50.8391688	4.3616691	hotel	3			
+node	11923014440	La Légende		50.8456932	4.3502251	hotel	2			
+node	11975568910	Fleur de Ville		50.8501328	4.3553739	hotel				
+node	12035949014	Jardin Secret		50.8359074	4.3617997	hotel	3			
+node	12060936246	Le Berger		50.8357961	4.3617680	hotel				
+node	12064917419	Fondation Universitaire - Universitaire Stichting	University Foundation	50.8389847	4.3655354	hotel				
+node	12075152355	Le Louise Hotel Brussels		50.8360574	4.3573176	hotel	5	MGallery		
+node	12076635837	NH Collection Brussels Grand Sablon		50.8409584	4.3558304	hotel	4		NH	
+node	12097053564	Sofitel Brussels Europe		50.8378292	4.3811942	hotel	5	Sofitel	Accor	
+node	12104249711	Les Bluets		50.8321804	4.3506513	hotel	2			
+node	12124943477	Citybox Brussels		50.8331194	4.3564730	hotel		Citybox		
+node	12172381129	Hôtel des Colonies		50.8564609	4.3581965	hotel	3			
+node	12173033763	Hotel Indigo Brussels – City		50.8557296	4.3599424	hotel	4	Hotel Indigo	IHG	
+node	12185590676	FunKey		50.8533939	4.3837033	hotel				
+node	12196596408	Oh! Fadista		50.8383900	4.3387286	hotel				
+node	12198011785	Meininger Hotel Bruxelles City Center		50.8514244	4.3384211	hostel	3			
+node	12222440999	Aparthotel Adagio Access Brussels Europe		50.8419173	4.3694606	hotel		Adagio	Accor	
+node	12265585676	Hotel Barsey by Warwick		50.8204182	4.3697571	hotel	4	Warwick	Warwick	
+node	12294974570	Ramada Brussels Woluwe		50.8552667	4.4206872	hotel	4	Ramada		
+node	12342300278	Beverly Hills		50.8341914	4.3605316	hotel	3			
+node	12421704069	Cardo Brussels		50.8561577	4.3577260	hotel		Marriot Autograph Collection		
+node	12460923040	Sun Hotel		50.8355814	4.3611227	hotel	2			
+node	12561234930	Hotel Louise Bruxelles		50.8268223	4.3649265	hotel				
+node	12566651248	Courtyard Brussels		50.8698373	4.4056386	hotel	4	Courtyard By Marriott	Marriott	
+node	12630417258	Neufchatel		50.8274302	4.3536668	hotel	3			
+node	12865586569	Chantecler		50.8467745	4.3468697	hotel	2			
+node	12865774943	Catalonia Brussels		50.8209697	4.3532541	hotel	3		Catalonia	
+node	12882841995	Diamant Suites		50.8477194	4.4037620	hotel				
+node	12979927059	voco Brussels City North		50.9091882	4.3863257	hotel		voco	IHG Hotels & Resorts	
+node	13009069864	Bentley		50.8600722	4.3740044	hotel	2			
+node	13009145866	Hôtel de France		50.8394060	4.3388234	hotel	2			
+node	13038969146	Argus Hotel Brussels		50.8360311	4.3581075	hotel	3			
+node	13038975866	Espérance		50.8527794	4.3551688	hotel	3			
+node	13038996084	Vintage		50.8334864	4.3554790	hotel	3			
+node	13057204052	Park Hotel		50.8415945	4.3965617	hotel	4			
+node	13094169872	NH Brussels Bloom		50.8551169	4.3663305	hotel	4		NH	
+node	13094211705	Villa Royale		50.8554166	4.3671218	hotel	3			
+node	13112715544	Ibis Expo Atomium		50.9025085	4.3394467	hotel			Accor	
+node	13208975953	Mercure Brussels Centre Midi		50.8394155	4.3384939	hotel	4	Mercure	Accor	
+node	13270114341	Getaway Studios Brussels Airport		50.8800251	4.4684342	hotel				
+node	13323170244	Le Centenaire		50.8902362	4.3448938	hotel	2			
+node	13339168740	Stay@Brussels		50.8559839	4.4185907	hotel				
+node	13351571728	Warwick Brussels		50.8452200	4.3543208	hotel	5		Warwick	
+node	13546908253	Novotel Brussels City Centre		50.8506350	4.3497583	hotel	4	Novotel	Accor	
+node	13584504297	Faubourg 21		50.8394180	4.3645160	hotel				
+node	13631348702	Radisson Red Brussels		50.8373504	4.3722399	hotel	4		Radisson	
+node	13674815721	The Helmet Hotel		50.8620087	4.3671605	hotel				
+node	13708893358	Beau Site Hotel		50.8300313	4.3639125	hotel	3		Hotusa	
+node	13728042985	Apparthotel Midi		50.8336827	4.3285045	hotel				
+node	13728402106	Liman Hotel		50.8555962	4.3672024	hotel				
+node	13738804382	Thermae Boetfort Hotel		50.9159836	4.4824512	hotel				
+node	13738813176	Hotel Thermen Dilbeek		50.8603773	4.2786764	hotel				
+node	13770593703	Concorde		50.8382953	4.3386639	hotel				
+way	24376328	Ibis Brussels off Grand Place		50.8468774	4.3556033	hotel	3	Ibis	Accor	
+way	29455733	Parker Hotel Brussels Airport		50.8820456	4.4381441	hotel	4			
+way	29456066	NH Brussels Airport		50.8888445	4.4470119	hotel				
+way	30992440	Sheraton Brussels Airport - 55		50.8970518	4.4827158	hotel		Sheraton	Starwood Hotels & Resorts	
+way	41696903	Auberge de Jeunesse Génération Europe		50.8528288	4.3345660	hostel			LAJ	
+way	87500293	NH Brussels Carrefour de l'Europe		50.8464500	4.3554868	hotel	4		NH	
+way	89984547	Ibis Brussels Airport		50.8814287	4.4370356	hotel		Ibis		
+way	89984549	Ibis Budget Brussels Airport		50.8822309	4.4370913	hotel				
+way	108190354	Hôtel Reyers		50.8542085	4.3999169	hotel				
+way	110605914	Manos Stephanie		50.8315987	4.3567972	hotel	4		Manos	
+way	110605995	Ibis Styles Brussels Centre Stéphanie		50.8298570	4.3563678	hotel	3	Ibis Styles	Accor	
+way	110704421	Thon Hotel Bristol Stephanie		50.8312605	4.3585642	hotel	4		Thon Hotels	
+way	110704505	Izan Avenue Louise		50.8303901	4.3592598	hotel	4		Izán	https://www.izanhoteles.es/
+way	137241383	B&B Hotel		50.8280760	4.3648565	hotel				
+way	138419357	Stanhope Hotel Brussels by Thon Hotels		50.8397427	4.3675366	hotel	5	Thon Hotels	Thon Hotels	
+way	158830961	Zoom Hotel		50.8324490	4.3597353	hotel	4			
+way	158916614	Hygge Hotel		50.8348881	4.3594093	hotel			Winvest	
+way	224509624	Agora		50.8461798	4.3543687	hotel	3			
+way	224509919	Hotel Amigo		50.8461743	4.3511704	hotel	5	Rocco Forte Hotels	Rocco Forte Hotels	
+way	225746521	Hotel Sabina		50.8507118	4.3674396	hotel	2			
+way	226516890	Hotel Ibis Brussels Erasmus		50.8150861	4.2721885	hotel	3			
+way	227791608	Odette en Ville		50.8259663	4.3628235	hotel	3			
+way	238324000	Le Châtelain Boutique Hotel		50.8262900	4.3635402	hotel	5			
+way	242868435	Theater Hotel Brussels		50.8562926	4.3515481	hotel	2			
+way	243559634	Made in Catherine		50.8518983	4.3486840	hotel				
+way	244850913	BX. Downtown		50.8500440	4.3469877	hostel				
+way	244955708	Atlas		50.8494614	4.3460691	hotel	3			
+way	244955992	Brussels Marriott Hotel Grand Place		50.8489050	4.3490934	hotel	4	Marriott	Marriott	
+way	244955996	Orts Hotel		50.8487597	4.3480533	hotel	3			
+way	256812042	Windsor		50.8429278	4.3465774	hotel	2			
+way	264071250	Hôtel de l'aviation		50.8405073	4.3391113	hotel				
+way	264071469	Urban Yard Hotel		50.8404487	4.3396397	hotel				
+way	266121223	ibis budget Brussels South		50.7933276	4.2999837	hotel			Accor	https://www.accorhotels.com/gb/hotel-7858-ibis-budget-brussels-south-ruisbroek-previously-etap-hotel/index.shtml
+way	306856679	Hotel Aris		50.8472156	4.3539270	hotel	3			
+way	336944230	NH Stephanie		50.8335682	4.3546129	hotel	4		NH	
+way	343874432	Hotel Hubert – Grand Place		50.8483671	4.3566031	hotel	4	Hotel Hubert	Hotel Hubert	
+way	509832041	Crowne Plaza Airport		50.8907612	4.4599039	hotel		Crowne Plaza		
+way	972265765	Hilton Brussels Grand Place		50.8458313	4.3558996	hotel	4	Hilton	Hilton	
+way	972265768	Novotel Brussels off Grand Place		50.8460738	4.3552269	hotel	4	Novotel	Accor	
+way	974767602	Residence Inn		50.8830596	4.4391865	hotel		Residence Inn		https://www.marriott.com/hotels/fact-sheet/travel/bruri-residence-inn-brussels-airport/
+way	991981609	The Hotel Brussels		50.8373941	4.3572962	hotel	4		Pandox AB	
+way	1035988485	JES — De Distillerie		50.8572494	4.3427477	hostel				
+way	1107960239	Hôtel du Congrès		50.8495111	4.3673554	hotel	3			
+way	1127515524	Corinthia Grand Hotel Astoria Brussels		50.8512633	4.3652873	hotel		Corinthia	Corinthia Hotels International	
+way	1143932162	Steigenberger Icon Wiltcher’s		50.8322871	4.3576038	hotel	5	Steigenberger	Steigenberger	
+way	1172628029	Juliana		50.8516517	4.3557418	hotel	5	Juliana		
+way	1186171106	Maison du Dragon		50.8550677	4.3569158	hotel	4			
+way	1305273297	Holiday Inn Brussels Airport		50.8841882	4.4425375	hotel	4	Holiday Inn		https://skoj.be/
+way	1383889944	The Standard Brussels		50.8620795	4.3575669	hotel	5	Hyatt	Hyatt Hotels Corporation	
+way	1511728034	Elinoa		50.8988786	4.4308190	hotel				
+relation	3080486	NH Berlaymont Brussels		50.8448327	4.3828810	hotel	4		Silken	
+relation	3245216	DoubleTree by Hilton Brussels City		50.8552629	4.3600281	hotel	4	DoubleTree	Hilton	
+relation	3473328	A&O Hostel Brussels		50.8648910	4.3588131	hostel				
+relation	3788593	Yooma Urban Lodge		50.8410129	4.3386938	hotel	4			
+relation	11846787	Campanile		50.8105846	4.3027353	hotel		Campanile		
+relation	16035003	Le Plaza Brussels		50.8544818	4.3562359	hotel	5			

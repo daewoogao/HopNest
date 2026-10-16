@@ -1,0 +1,301 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	310516682	喜来登酒店	Sheraton	34.2603437	108.8929348	hotel		喜来登	Starwood	
+node	847942954	速8酒店西安钟鼓楼广场店（原西大街钟鼓楼店）	Super 8 Motel	34.2595869	108.9376054	hotel		速8酒店		
+node	1512530436	西安大唐博相府酒店(大雁塔大唐不夜城店)	Tang Dynasty Art Garden Hotel	34.2204315	108.9609668	hotel				
+node	1694284806	汉庭酒店	Hanting Hotel	34.2443458	108.9830560	hotel		汉庭酒店		
+node	1946791248	汉唐驿	Han Tang Inn	34.2638121	108.9469783	hostel				
+node	2110915063	陕西奥罗国际大酒店	Aurum International Hotel	34.2642291	108.9491015	hotel				
+node	2382907576		Warriors International Hostel	34.2658969	108.9215923	hotel				
+node	2401816417	布丁酒店(历史博物馆店)		34.2241128	108.9459388	hotel				
+node	2634971738			34.2618681	108.9396793	hotel				
+node	3105099586		Jinjang Hotel	34.2643098	108.9586022	hotel			Jinjang Hotels	
+node	3653330948			34.2594708	108.9481529	hotel				
+node	3708900764		Xi'An Hometown Hostel	34.2846951	108.9259588	hostel				
+node	3824399828		PAPA Capsule Hostel	34.2741271	108.9083538	hostel				
+node	3861900135	7天快捷酒店	7 Days Inn	34.2423943	108.9679408	hotel		7天酒店		
+node	3931652780	马克亨瑞公寓酒店	Mark and Henry Apartment	34.2439139	108.9417175	hotel				
+node	4085837889			34.2618680	108.9400960	hotel				
+node	4110728490	西安陇海大酒店	Xi'an Longhai Hotel	34.2726025	108.9577139	hotel				
+node	4117830989		Xi'an Warriors Hostel	34.2687646	108.9211840	hostel				
+node	4119774689	解放饭店	Jiefang Hotel	34.2767489	108.9587335	hotel				
+node	4141919390	脸谱青年旅舍	Facebook Youth Hostel	34.2638491	108.9477880	hostel				
+node	4235429389	欧杰西假日酒店	Oujiexi Holiday Hotel	34.2587838	108.9453175	hotel				
+node	4245042389		Xi'an See Tang Hostel	34.2546215	108.9455650	hostel				
+node	4254171490		Ibis Heping Gate Hotel	34.2559116	108.9589637	hotel		Ibis	Ibis	
+node	4269213889		Meet Capsule Hotel	34.2429503	108.9586298	hotel				
+node	4269363337			34.2513442	108.9468585	hotel				
+node	4280042491		Alley Youth Hostel	34.2653528	108.9304668	hostel				
+node	4343728090	西安皇城豪门酒店		34.2603270	108.9512273	hotel				
+node	4348482493		Shuyuan International Party Hostel	34.2536080	108.9392133	hostel				
+node	4355942789	YeJia Inn		34.2536508	108.9407769	hostel				
+node	4403670689		Runlong Hotel	34.2625977	108.9496107	hotel				
+node	4421385489			34.2430644	108.9384676	hotel				
+node	4431160795	汉庭酒店	Hanting Hotel	34.2494231	108.9378890	hotel		汉庭酒店		
+node	4440150997			34.2517882	108.9381111	hotel				
+node	4443070289		Tooyo Hotel	34.2711389	108.9414410	hotel				
+node	4449051494		Empark Grand Hotel	34.2447360	109.0064105	hotel				
+node	4456245189	万顺园	MYFO Hotel	34.2652343	108.9391879	hotel				
+node	4471449454		Tang shen ge hotel	34.2750385	108.9268082	hotel				
+node	4474488100	丽晶酒店(西安钟鼓楼回民街地铁站店)		34.2604215	108.9404691	hotel				
+node	4501680692	西安大雁塔假日酒店	Holiday Inn Xian Big Goose Pagoda	34.2308355	108.9525109	hotel				
+node	4755574422		Song of Apple Hot Spring Hotel	34.2007054	108.9339614	hotel				
+node	4769242243	速8酒店(青年路店)	Super 8	34.2725348	108.9390197	hotel		速8酒店		
+node	4769242249	速8精选酒店(西安钟楼安远门地铁站店)	Super 8	34.2821786	108.9392199	hotel		速8酒店		
+node	4769242257	速8酒店	Super 8	34.2604214	108.9577893	hotel		速8酒店		
+node	4829598013			34.2685058	108.9340333	hostel				
+node	4829598132			34.2697664	108.9331649	hotel				
+node	4829598169	好家园宾馆		34.2708570	108.9330898	hostel				
+node	4829598178	住宿		34.2710127	108.9334323	hostel				
+node	4829598361			34.2709313	108.9380846	hotel				
+node	4829598362	世家快捷酒店		34.2709621	108.9380791	hotel				
+node	4830558557		Silk Road Youth Hostel	34.2636503	108.9388702	hostel				
+node	4830558560	快捷宾馆		34.2641109	108.9389513	hotel				
+node	4859042023	盛世青年旅舍	Flourishing Youth Hostel	34.2629755	108.9315687	hostel				
+node	5004264723		xian city center hostel	34.2631909	108.9538814	hotel				
+node	5061831224		Ji Hotel Xian The Bell tower	34.2598670	108.9389660	hotel				
+node	5123281421		Jano's Backpackers	34.2538145	108.9446300	hostel				
+node	5123821340	碑林青年旅社		34.2545184	108.9486961	hostel				
+node	5125785728	古城国际青年旅舍	Ancient City International Youth Hostel	34.2709400	108.9413696	hostel				
+node	5125785730	汉庭酒店	Hanting Hotel	34.2711560	108.9407655	hotel		汉庭酒店		
+node	5153844934		ChaoLin Hotel	34.3306141	108.9740341	hotel				
+node	5513564022		Xian Quixian (7 Sages)	34.2752069	108.9499019	hotel				
+node	5865079689	天桥旅社		34.2788694	108.9645353	hotel				
+node	5890605785		tianyou international hotel	34.2573868	108.8843121	hotel				
+node	5915580689		HNA Business Hotel	34.2651490	108.9512995	hotel				http://hnahotel.com
+node	5917306486		Real Location of Qingxiaoshe Backpacker Hostel Xi'an	34.2659925	108.9388477	hostel				
+node	6482793196	赤色黎明青年旅舍	red dawn hotel	34.2646088	108.8723177	hostel			张国华	
+node	6581146287			34.2536540	108.9409804	hostel				
+node	6677761785		Mehood Lestie Hotel Bell Tower Xi’an	34.2620639	108.9362187	hotel				
+node	6774352890	百合快揵酒店	Bai He Express Hotel	34.2655007	108.9304598	hotel				
+node	6820635685		Huawei Business Hotel	34.2631218	108.9516073	hotel				
+node	6915289585		Xi’an Empress Hotel	34.2613981	108.9842073	hotel				
+node	6988128412	西安 W 酒店	W Xi'an	34.1984964	108.9838305	hotel		W Hotels		https://www.marriott.com.cn/hotels/xiywh-w-xian/overview/
+node	7056593292		Jinmao Hotel	34.2589612	108.9385932	hotel				
+node	7100777134	西安东舍酒店	Xi'an Eastern House Boutique Hotel	34.2572437	108.9371998	hotel				
+node	7658592785	168快捷酒店		34.4281343	108.7368053	hostel				
+node	7682849674	西安万丽酒店	Renaissance Xi'an Hotel	34.1963319	108.9498145	hotel		Renaissance		
+node	7738996485	西安高速神州酒店		34.2495225	108.9670735	hostel				
+node	7813304862		Ji Hotel	34.2955727	108.9173767	hotel				
+node	7813308835	美豪酒店(大雁塔北广场店)		34.2218351	108.9566411	hotel				
+node	7813317602		Xidu Hotel	34.2583026	108.9580654	hotel				
+node	7813323331	美豪酒店(钟楼南大街店)	Meihao Hotel (Bell Tower South Street Branch)	34.2575359	108.9427969	hotel				
+node	7813328858		Y Hotels	34.2573786	108.9185054	hotel				
+node	7815260769	桔子水晶酒店(西安钟楼店)		34.2548843	108.9427097	hotel				
+node	7815334899	桔子酒店	Orange Hotel	34.2588523	108.9462189	hotel				
+node	7815348839	智选假日酒店(西安钟楼店)	Holiday Inn Express Xi'an Bell Tower	34.2588305	108.9419085	hotel		Holiday Inn Express		
+node	7815350929		Safiya Hotel	34.2616066	108.9315543	hotel				
+node	7818717956		Simple Palace	34.2538168	108.9450162	hotel				
+node	8086370463	西安北大街钟楼希尔顿欢朋酒店		34.2746625	108.9422001	hotel		Hampton		
+node	8521947652	如家酒店(长安北路店)	Home Inn	34.2367866	108.9424882	hotel		如家酒店		
+node	8532629317		Traveling with Hotel South Gate	34.2536470	108.9352000	hotel				
+node	8967639083	桔子西安科技路地铁站酒店		34.2300149	108.8984444	hotel				
+node	8967684908	全季酒店(高新路店)		34.2283692	108.8973513	hotel				
+node	8971192414	丽呈酒店(西安钟楼店)		34.2677681	108.9595821	hotel				
+node	8974359612	锦江之星(凤城五路地铁站店)		34.3317852	108.9466364	hotel				
+node	8974915936	亚朵酒店(西安凤城五路经开中心店)		34.3318921	108.9216379	hotel				
+node	8974915941	星程酒店(西安北站凤城五路店)		34.3317655	108.9230653	hotel				
+node	8974915946	天潮酒店		34.3322773	108.9254772	hotel				
+node	8975921121	西安嘉轩精品酒店		34.3290629	108.9210322	hotel				
+node	8975921123	维也纳3好酒店(西安凤城五路店)		34.3310095	108.9194345	hotel				
+node	8975921124	西安亚黎酒店		34.3308302	108.9194451	hotel				
+node	8975921131	金铭酒店(凤城五路店)		34.3310517	108.9226801	hotel				
+node	8975921156	凤城宾馆(凤五店)		34.3308552	108.9337069	hotel				
+node	8975921169	西安市未央温新家庭公寓		34.3308293	108.9362677	hotel				
+node	8975921170	西安本地人的家普通公寓		34.3285549	108.9356219	hotel				
+node	8975921185	居家宾馆(西安凤城五路店)		34.3308359	108.9388652	hotel				
+node	8975921186	怡鑫宾馆(西安未央店)		34.3308634	108.9393379	hotel				
+node	8975921229	7天酒店(西安凤城四路店)	7 Days Inn	34.3282779	108.9272844	hotel		7天酒店		
+node	8975921230	途客中国酒店(西安高铁北客站明光路店)		34.3281025	108.9259061	hotel				
+node	8975921258	星程酒店(西安经开区明光路店)		34.3258682	108.9276974	hotel				
+node	8976595288	天悦酒店(凤城二路店)		34.3196823	108.9263247	hotel				
+node	8976595297	西安蓝海风万怡酒店		34.3200052	108.9289411	hotel				
+node	8976602357	希岸酒店(西安凤城二路地铁站店)		34.3189481	108.9339985	hotel				
+node	8976602367	速8酒店(凤城二路店)	Super_8	34.3184198	108.9337598	hotel		速8酒店		
+node	8976602386	丽枫酒店(西安凤城一路店)		34.3155784	108.9345020	hotel				
+node	8976703706	西安加利利连锁酒店(经开店)		34.3191737	108.9394694	hotel				
+node	8976705251	君临温泉大酒店		34.3121092	108.9279657	hotel				
+node	8976819236	君华假日酒店(原圣林酒店)		34.3123081	108.9366595	hotel				
+node	8976936227	美豪丽致酒店(未央路店)		34.3242758	108.9431762	hotel				
+node	8976936247	如家联盟·华驿易居酒店(西安凤城四路店)		34.3276952	108.9546293	hotel				
+node	8976936248	西安四季华庭酒店		34.3274080	108.9550299	hotel				
+node	8976936281	西安唐朝酒店(凤城三路店)		34.3233960	108.9518338	hotel				
+node	8976936312	西安悦庭酒店(西安凤城二路市图书馆店)		34.3207016	108.9432409	hotel				
+node	8977207394	华坤时尚酒店(市图书馆地铁站店)		34.3164428	108.9431316	hotel				
+node	8977207435	全季酒店(贞观路店)		34.3190353	108.9547096	hotel				
+node	8977207512	如家酒店	Home Inn	34.3121119	108.9531973	hotel		如家酒店		
+node	8977401098	汉庭优佳酒店(大明宫西地铁站店)		34.3067739	108.9431901	hotel				
+node	8977406948	宜必思酒店(大明宫西地铁站店)		34.3105819	108.9438432	hotel		Ibis		
+node	8977406955	铂金丽宫酒店(未央店)		34.3106732	108.9448933	hotel				
+node	8977416324	锦园酒店		34.3110533	108.9588966	hotel				
+node	8977499511	城市便捷酒店(西安大明宫西地铁站店)		34.3092428	108.9337799	hotel				
+node	8977499512	西安唐安酒店		34.3096195	108.9336440	hotel				
+node	8982468957	威尔俊酒店(西安汉城路店)		34.2662251	108.8666681	hotel				
+node	8983625338	7天连锁酒店(西安西稍门劳动路地铁站店)	7 Days Inn	34.2662977	108.9049260	hotel		7天酒店		
+node	8985813019	西安沣华国际酒店		34.2705404	109.0009208	hotel				
+node	8987669285	7天酒店(西安安远门地铁站北稍门店)	7 Days Inn	34.2855879	108.9437777	hotel		7天酒店		
+node	8992571673	7天优品酒店(安远门地铁站店)	7 Days Inn	34.2804435	108.9421701	hotel		7天酒店		
+node	8992571674	美豪R酒店(西安钟楼北安远门地铁站店)		34.2807467	108.9421835	hotel				
+node	8993129236	格林豪泰商务酒店(龙首原地铁站店)		34.2893628	108.9420530	hotel				
+node	8994626275	美仑酒店(西安钟楼回民街店)		34.2670535	108.9429192	hotel				
+node	8994626281	中心戴斯酒店		34.2683006	108.9429006	hotel				
+node	8996132539	汉庭优佳酒店(北大街店)		34.2701005	108.9428119	hotel				
+node	8996132542	惠源锦江国际酒店		34.2712421	108.9451880	hotel				
+node	8996132569	金海大酒店(回民街店)		34.2711132	108.9389314	hotel				
+node	8996132571	西安钟楼回民街亚朵酒店		34.2718163	108.9397508	hotel				
+node	8996132577	布丁酒店(莲湖路店)		34.2720462	108.9382963	hotel				
+node	8996132578	西安商务宾馆		34.2717177	108.9384179	hotel				
+node	8996572713	西安百货大厦酒店	Xi'an Department Store Hotel	34.2572643	108.9429681	hotel				
+node	8997907494	如家酒店	Home Inn	34.2433910	108.9425839	hotel		如家酒店		
+node	8998232919	汉庭酒店(南稍门地铁站店)		34.2382449	108.9417131	hotel				
+node	8998836625	西安金莎国际酒店(金莎国际购物广场店)		34.2283628	108.9428816	hotel				
+node	9000164004	艾豪森酒店(西安大雁塔店)		34.2123810	108.9422888	hotel				
+node	9008405295	全季酒店(科技路店)		34.2386046	108.8697913	hotel				
+node	9008989803	亚朵酒店(西安大寨路店)		34.2472028	108.8726496	hotel				
+node	9009899635	西安大都荟套房假日酒店		34.2389678	108.8888786	hotel		Holiday Inn Express & Suites		
+node	9009899694	汉庭酒店(西安大都荟店)	Hanting Hotel	34.2380123	108.8889670	hotel		汉庭酒店		
+node	9010589079	亚朵酒店(金鹰国际购物中心店)		34.2347623	108.8975541	hotel				
+node	9010589088	汉庭酒店(西安科技路地铁站店)	Hanting Hotel	34.2357635	108.8969802	hotel		汉庭酒店		
+node	9010589108	汉庭酒店(高新一路店)	Hanting Hotel	34.2362743	108.9001877	hotel		汉庭酒店		
+node	9010710256	7天酒店(西安西高新科技路地铁站店)	7 Days Inn	34.2309488	108.9030557	hotel		7天酒店		
+node	9010794519	汉庭酒店(融鑫路店)		34.2270984	108.9096698	hotel				
+node	9013237704	如家酒店(西安大雁塔小寨太白南路地铁站店)	Home Inn	34.2256132	108.9151266	hotel		如家酒店		
+node	9013245397	汉庭酒店(吉祥路店)		34.2251163	108.9189403	hotel				
+node	9013703933	全季酒店(太白立交店)		34.2334398	108.9174480	hotel				
+node	9014349723	布丁酒店(吉祥村地铁站店)		34.2272799	108.9267629	hotel				
+node	9016730187	美豪酒店(朱雀店)		34.2263893	108.9339909	hotel				
+node	9016730201	全季酒店(西安小寨地铁站店)	Ji Hotel	34.2258287	108.9409258	hotel		全季酒店		
+node	9016730260	阳阳国际(西安大雁塔小寨店)		34.2188657	108.9329818	hotel				
+node	9018944745	格林豪泰快捷酒店(大雁塔大唐不夜城小寨地铁站店)		34.2228429	108.9473273	hotel				
+node	9019127267	雅缦酒店(西安曲江大雁塔店)		34.2209226	108.9566200	hotel				
+node	9019660049	汉庭酒店(西安大雁塔新店)		34.2267927	108.9699439	hotel				
+node	9019660091	星程酒店(西安大雁塔北广场店)		34.2245212	108.9685580	hotel				
+node	9122829099	桔子酒店(锦业路店)		34.1973365	108.8805576	hotel				
+node	9122829100	南方酒店(高新区分店)		34.1971558	108.8804827	hotel				
+node	9135694482	全季酒店(高新区店)		34.2301767	108.8863144	hotel				
+node	9135694483	西安高新唐延路亚朵酒店		34.2301812	108.8864623	hotel				
+node	9135694613	美豪酒店(高新一中店)		34.2272903	108.8955800	hotel				
+node	9138351337	全季酒店(西安钟楼店)		34.2632465	108.9417583	hotel				
+node	9138351375	永阳坊艺术酒店(西安高新管委会店)		34.2019535	108.8917933	hotel				
+node	9139247837	柏朗酒店		34.2083596	108.8991064	hotel				
+node	9139487275	美道酒店(高新一中店)		34.2304938	108.8974895	hotel				
+node	9139487294	水晶岛酒店		34.2097693	108.8830312	hotel				
+node	9147784619	百事特威酒店(西安高新店)		34.2128362	108.8815310	hotel				
+node	9147784653	海升丽呈酒店		34.2143732	108.8802729	hotel				
+node	9147784765	宜必思西安高新万达广场酒店	Ibis	34.2097228	108.8817186	hotel		宜必思酒店		
+node	9148499164	锦江之星(西安科技二路软件园店)		34.2259347	108.8795354	hotel				
+node	9148499363	西安大天瑞斯丽酒店(团结南路店)		34.2334825	108.8764724	hotel				
+node	9150577388	西安高新商务区希尔顿欢朋酒店&公寓		34.2296345	108.8780562	hotel		Hampton		
+node	9152287557	西安中建馨乐庭高新服务公寓		34.2441984	108.8764833	hotel				
+node	9152759276	维也纳国际酒店(西安高新丈八北路软件园店)		34.2267108	108.8668729	hotel				
+node	9153699699	汉庭酒店(玫瑰公馆店)	Hanting Hotel	34.2245303	108.8676997	hotel		汉庭酒店		
+node	9153699754	亚朵酒店(西安高新科技三路软件园店)		34.2228607	108.8642106	hotel				
+node	9154906557	西安高新美居酒店	Mercure	34.2137788	108.8754132	hotel		美居酒店		
+node	9155831030	希尔顿欢朋酒店(西安高新店)		34.2098417	108.8682886	hotel		Hampton		
+node	9162044639	如家精选酒店(丰庆公园地铁站店)	Home Inn	34.2416153	108.8943466	hotel		如家酒店		
+node	9162044640	西安蓝溪国际酒店(高新四路店)		34.2409078	108.8940254	hotel				
+node	9162434617	悦豪酒店		34.2427540	108.8974953	hotel				
+node	9162434786	汉庭酒店(西安高新路店)	Hanting Hotel	34.2381346	108.9026883	hotel		汉庭酒店		
+node	9257228690	锦江之星品尚(二环南路店)		34.2391825	108.9076564	hotel				
+node	9288669583	星程酒店(西安高新区店)		34.2186324	108.8880934	hotel				
+node	9288669714	7天酒店(西安高新电子城文理学院店)	7 Days Inn	34.2137679	108.9085068	hotel		7天酒店		
+node	9312434017	全季酒店(西安锦业路神州数码科技园店)		34.1973332	108.8631898	hotel				
+node	9312675375	和颐至尊酒店(锦业路店)		34.1966510	108.8632884	hotel				
+node	9371425744	速8酒店(西安电子正街欧亚学院店)	Super_8	34.1972879	108.9109754	hotel		速8酒店		
+node	9371425782	嘉泽泰瑞酒店(西安电子城店)		34.1974099	108.9137429	hotel				
+node	11496656169		Wuhua Hannuosi Hotel	34.2574928	108.9593144	hotel				
+node	11736204370			34.2634148	108.9418586	hotel				
+node	11760644969	骐美商务酒店		34.2083023	108.9727738	hotel				
+node	11763455969	丽橙酒店·逸	Lichen Hotel Yi (Ease Hotel)	34.2475632	108.9278506	hotel				
+node	11765944669		Ibis Styles Hotel	34.2474737	108.9278514	hotel				
+node	11780109869	西安背包十年青年旅舍（钟楼鼓楼店）	Xi‘an Desti Youth Park Hostel	34.2629547	108.9428930	hostel				
+node	11876347269		Tiny Spot Youth Hostel	34.2349909	108.9427727	hostel				
+node	12064088570	海友酒店	Hi In	34.2522241	108.9616131	hotel				
+node	12066020469	悦顺民宿		34.2639794	108.9344384	hotel				
+node	12112605739	南方酒店	Nanfang Hotel	34.2630059	108.9457445	hotel				
+node	12254381601		Guihua Zaijiu Youth Hostel (Zhonggulou Huimin Street Branch)	34.2657664	108.9356408	hostel				
+node	12392879301	观然酒店		34.2515445	108.9498648	hotel				
+node	12410744389	芳林苑酒店		34.2137410	108.9735458	hotel				
+node	12663009602	雅夫酒店	Yafu Hotel	34.2717858	108.9511040	hotel				
+node	12675705301		Jingyu Smart Hotel	34.2757799	108.9421640	hotel				
+node	12779137301	一米阳光客衫	One Meter Sunshine Hotel Xi'an Xianyang International Airport Flagship Store	34.4306367	108.7359014	hotel				
+node	12876439301	橙羽橙皓酒店（西安钟楼永宁门地铁站店）	OrangeHao Hotel	34.2503731	108.9407868	hotel				
+node	13173559301	华住会	Ibis Styles Hotel	34.2260628	108.9520392	hotel				https://www.hworld.com
+node	13186470044	西安钟楼森德酒店	Center Hotel Xi'an Bell Tower	34.2613935	108.9435172	hotel				
+node	13339792015	天朗森柏大酒店		34.2376976	108.8671505	hotel				
+node	13430491401	西安钟楼福朋喜来登酒店	Xi’an Bell Tower Four Points by Sheraton Hotel	34.2616735	108.9360854	hotel				
+node	13465174401		Himalaya	34.2577157	108.9450032	hotel				
+node	13481574701	城市便捷酒店（西安钟楼店）	City Comfort Inn (Xi 'an Bell Tower)	34.2614117	108.9460960	hotel				
+node	13683551801		Yixi Designer Hotel	34.2484189	108.9566085	hotel				
+node	13717745405		Zuoyouke Theme Hotel	34.2709105	108.9252073	hotel				
+node	13839064401	康铂酒店(西安钟楼回民街店)	Campanile Xi’an Bell Tower Huimin Street	34.2594401	108.9375213	hotel				
+node	13860489426			34.2819893	108.9313194	hotel				
+node	13882578601		Lizhi (Lychee) Xiyue Hotel	34.2674277	108.9283397	hotel				
+node	14003556307	Ximei Hotel		34.2626464	108.9416019	hotel				
+node	14060634105			34.2453092	108.9132743	hotel				
+node	14084327601	锦江｜斯堪海姆酒店（西安钟楼地铁站回民街店）	Jinjiang｜SkanHem Hotel (Xi'an Bell Tower Metro Station Hui Min Street Branch)	34.2616318	108.9439694	hotel		斯堪海姆		
+node	14130474769	Aviation Hotel		34.4429133	108.7623874	hotel				
+node	14130479560	Western Airport Aviation Hotel		34.4436422	108.7622808	hotel				
+node	14144884604			34.2368280	108.8967178	hotel				
+node	14175872901	Nanfeng Hotel		34.2571740	108.9241013	hotel				
+node	14179703102	Mercure XI'an Great Tang Mall of Dayan Pagoda	Mercure	34.2194775	108.9506586	hotel		美居酒店		
+node	14181856201	Yilong Anyun Hotel (Xi'an Huimin Street Bell Tower)		34.2605108	108.9393357	hotel				
+node	14204022902	亭亭民宿(西安回民街广济街店)	Tingting Guesthouse (Xi'an Huimin Street Guangji Street)	34.2631342	108.9335946	hotel				
+node	14244477399	西安钟楼永宁门漫心酒店	Manxin Hotel Xi'an Bell Tower South Gate	34.2562608	108.9418951	hotel				
+way	259324516	陕西宾馆(陕西丈八沟宾馆)		34.2035756	108.8724419	hotel				
+way	267625318	南洋大酒店		34.2425427	108.9845234	hotel			西安交通大学	
+way	278231366	宜必思西安高新区酒店		34.2410527	108.9009081	hotel		Ibis		
+way	337115081	西安赛瑞喜来登大酒店		34.2923038	108.9419459	hotel		Sheraton		
+way	389862307	西安空港大酒店	Xi'an Airport Hotel	34.4368742	108.7536533	hotel				
+way	391129532	西安绿地假日酒店		34.1962104	108.8792567	hotel		Holiday Inn		
+way	448693741	时光漫步s酒店	Nostalgia hotel	34.2551531	108.9340662	hotel				
+way	461320471	好世界酒店		34.2708834	108.9326689	hotel				
+way	490769161	西安钟楼回民街美居酒店		34.2710991	108.9395603	hotel				https://www.mehoodhotels.com/
+way	822688654	西安万豪行政公寓		34.2347052	108.8899974	hotel		Marriott Executive Apartments		
+way	929222953	西安丽思卡尔顿酒店	The Ritz-Calton Xi'an	34.2251842	108.8932255	hotel		The Ritz-Carlton		
+way	969443770	智选假日酒店(古城西店)		34.2674595	108.9172551	hotel		Holiday Inn Express		
+way	970029674	如家·neo（西安凤城二路市图书馆地铁站店）	Home Inn neo (Xi'an Fengcheng 2nd Road City Library Metro Station)	34.3198871	108.9366861	hotel		如家酒店		
+way	970788123	如家·neo（西安钟楼环城西路古城墙店）	Home Inn neo (Xi'an Bell Tower Huancheng West Road Ancient City Wall)	34.2659931	108.9174201	hotel		如家酒店		
+way	971095972	西安印力诺富特酒店		34.2958622	108.9431426	hotel		Novotel		
+way	1263103608	宜必思尚品酒店(西安钟鼓楼回民街店)		34.2625333	108.9403500	hotel		Ibis Styles		
+way	1263122583	锦江西京国际饭店		34.2616595	108.9321628	hotel				
+way	1264363885	嘉禾商务酒店		34.2594321	108.9436859	hotel				
+way	1264658490	西安金花大酒店		34.2697512	108.9898209	hotel				
+way	1266043171	西安盛美利亚酒店		34.2094882	108.9724815	hotel				
+way	1284310797	金花豪生国际大酒店(环城南路店)		34.2517919	108.9389599	hotel		Howard Johnson		
+way	1284311287	西安宾馆		34.2386397	108.9412580	hotel				
+way	1284311475	西安皇冠假日酒店		34.2329944	108.9353805	hotel		Crowne Plaza		
+way	1290155555	美伦酒店	Melody Hotel	34.2605164	108.9397540	hotel				
+way	1290155647	桔子酒店	Orange hotel	34.2550828	108.9416256	hotel				
+way	1290155887	钟楼饭店	Bell Tower Hotel	34.2601663	108.9413617	hotel				
+way	1290375851	芒果酒店西安玉祥门店		34.2708391	108.9214228	hotel				
+way	1290377424	古都新世界大酒店	Grand New World Hotel	34.2704662	108.9272285	hotel				
+way	1291044273	宜必思酒店(南门店)		34.2463007	108.9427458	hotel		Ibis		
+way	1292705441	富润大饭店	Furun Hotel	34.2756163	108.9419376	hotel				
+way	1292705665	莫泰酒店(北大街地铁站店)		34.2724355	108.9401860	hotel				
+way	1346632871	豪享来温德姆至尊酒店		34.2074719	108.9609729	hotel				
+way	1370390986			34.1998344	108.9575842	hotel				
+way	1372721624	长庆宾馆		34.3287819	108.9451586	hotel				
+way	1409909067	爵乐府		34.2308661	108.9409243	hotel				
+way	1413302479	如家快捷酒店(西安高新区科技二路文理学院北门店)	Home Inn	34.2214263	108.9018291	hotel		如家酒店		
+way	1413302499	汉庭优佳酒店(科技二路文理学院店)	Hanting Hotel	34.2207146	108.9037912	hotel		汉庭酒店		
+way	1414717186	西安高新假日酒店		34.2531762	108.8825966	hotel		Holiday Inn		
+way	1417089493	汉庭酒店	Hanting Hotel	34.2226607	108.9657949	hotel		汉庭酒店		
+way	1417902768	宜必思酒店(西安高新六路软件园店)		34.2212749	108.8732005	hotel		Ibis		
+way	1417902909	西安高新希尔顿酒店		34.2225098	108.8826629	hotel		Hilton		
+way	1417903711	如家快捷酒店(西安科技六路水晶岛万达广场店)	Home Inn	34.2110731	108.8802802	hotel		如家酒店		
+way	1417903729	如家商旅酒店(西安高新万达广场科技六路店)	Home Inn	34.2105776	108.8802681	hotel		如家酒店		
+way	1418071643	锦江之星(西安明光路店)		34.3265525	108.9256516	hotel				
+way	1464291708	止园饭店		34.2737697	108.9351363	hotel				
+way	1465143647	华山国际酒店		34.2754964	108.9432006	hotel				
+way	1465146316	西安豪华美居人民大厦	Grand Mercure Xian On Renmin Square	34.2670338	108.9541256	hotel				
+way	1465146339	华美达酒店(西安兆瑞店)		34.2670301	108.9430737	hotel		Ramada		
+way	1465146441	索菲特国际会展中心	Sofitel on Renmin Square	34.2664175	108.9549975	hotel		Sofitel		
+way	1465146444	西安富力希尔顿酒店	Hilton Xi'an	34.2665468	108.9616791	hotel		Hilton		https://www.hilton.com/en/hotels/xiyhihi-hilton-xian/
+way	1465146992	Yuerong Qiju Hotel		34.2637741	108.9499428	hotel				
+way	1465147394	西安钟楼诺富特酒店(案板街店)	Novotel Bell Tower	34.2622952	108.9451949	hotel		Novotel		
+way	1552317122	凯宾斯基酒店		34.3373776	109.0137375	hotel				
+relation	17595740	西安建国饭店		34.2605345	108.9903593	hotel				
+relation	18459118	希尔顿欢朋酒店		34.2137836	108.9567044	hotel		Hampton		
+relation	18459163	西安威斯汀大酒店		34.2162656	108.9577029	hotel		Westin		
+relation	18903168	名都国际酒店		34.3265200	108.9417124	hotel				
+relation	20056721	西安阳光国际大酒店	Grand Soluxe International Hotel	34.2757635	108.9587470	hotel	5			

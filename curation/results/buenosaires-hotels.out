@@ -1,0 +1,557 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	454517417	Alvear Palace Hotel		-34.5877471	-58.3887383	hotel	5			
+node	469367446	Hostel Sol		-34.6217029	-58.3817253	hostel				
+node	473604429	Hotel Bauen		-34.6051237	-58.3924631	hotel				
+node	479755676	Milhouse		-34.6094666	-58.3800981	hostel				https://www.milhousehostel.com/
+node	479755677	Sudamerika		-34.6094475	-58.3799430	hostel				http://www.sudamerikahostel.com.ar/
+node	573387906	Hotel León		-34.5955878	-58.4123373	hotel				
+node	680448565	Ibis		-34.6103171	-58.3888086	hotel		Ibis		
+node	724643679	Hotel Urban Suites Recoleta		-34.5890174	-58.3925644	hotel				https://www.urbanrecoleta.com
+node	724657422	Hotel Recoleta		-34.5839953	-58.3997940	hotel				
+node	724658672	Chateau Blend Hotel Boutique		-34.5843575	-58.3993756	hotel				
+node	724730648	Hotel Madero		-34.6168214	-58.3624565	hotel				https://www.hotelmadero.com/
+node	769901855	Hotel Bristol		-34.6052017	-58.3822929	hotel				
+node	915725394	Exe Hotel Colón		-34.6023098	-58.3808927	hotel		Exe Hotels		https://www.eurostarshotels.com/exe-hotel-colon.html
+node	1108412254	Orleans		-34.6012400	-58.3929992	hotel				
+node	1111884108	El Litoral		-34.5869444	-58.4547182	hotel				
+node	1112458201	Intersur Suites		-34.6046522	-58.3949452	hotel				
+node	1121649309	Up Barrio Norte		-34.5963388	-58.3948719	hotel				
+node	1134252803	Milonga		-34.5983872	-58.3956884	hostel				
+node	1144740077	CE		-34.5970716	-58.3915513	hotel				
+node	1144740079	Design Suites		-34.5970098	-58.3913005	hotel				
+node	1146277353	Wilton Palace		-34.5952228	-58.3934609	hotel				
+node	1239325419	Gran Hotel Orly		-34.5973452	-58.3725548	hotel				
+node	1283906350	Dazzler Suites Aroyo		-34.5919102	-58.3799634	hotel				http://www.dazzlersuitesarroyo.com
+node	1399347794	La Giralda		-34.6084829	-58.3792922	hotel				
+node	1399347801	Reconquista Plaza		-34.6007400	-58.3726791	hotel				
+node	1439759352	Dazzler Tower San Martin		-34.5970820	-58.3743907	hotel				
+node	1642367449	Esplendor		-34.5988364	-58.3744004	hotel				https://esplendorbuenosaires.com/
+node	1642367459	Dazzler Tower Maipú		-34.5982474	-58.3770268	hotel				
+node	1659032466	Hotel Palace Rondeau		-34.6325065	-58.3903236	hotel				
+node	1659033169	Hotel Guadalupe		-34.6324579	-58.3907689	hotel				
+node	1780592982	Back in BA		-34.5865711	-58.4311399	hostel			Back in BA	
+node	1803935960	Hotel República		-34.6042199	-58.3824046	hotel	4	Globales República	Globales República	https://www.globales.com/es/hoteles/argentina/argentina/buenos-aires/globales-republica/
+node	1882510929	Hostal Suites Obelisco		-34.6036768	-58.3784630	hostel				
+node	1979431404	Hotel FATSA		-34.6249656	-58.4058758	hotel				
+node	1989798096	Play		-34.5811042	-58.4267513	hostel				
+node	2032732863	Art Hotel		-34.5936523	-58.3993884	hotel				
+node	2032787931	Hotel Nuevo Camino		-34.6079794	-58.3936483	hotel				
+node	2055898462	Hotel Boutique Bonito		-34.6165990	-58.3876344	hotel				
+node	2084991059	Rochester Concept		-34.6013941	-58.3769099	hotel	3		Rochester Hotels	https://www.rochester-hotel.com.ar/
+node	2085716045	Villa		-34.6211677	-58.4170559	hotel				
+node	2104367716	Hotel Viejo Telmo		-34.6152799	-58.3798591	hotel	2			https://www.telmoviejo.com/
+node	2120238231	Torre San Jose		-34.6170844	-58.3861482	hotel				
+node	2123196088	Cabildo Suites		-34.5635966	-58.4556209	hotel				http://www.orho-hoteles.com.ar/cabildosuites
+node	2191861993	América del Sur		-34.6164967	-58.3758093	hostel				https://www.americahostel.com.ar/home_bsas_aleman.html
+node	2194577298	Artfactory		-34.6144657	-58.3776299	hostel				https://artfactoryba.com.ar/
+node	2198354929			-34.5503531	-58.4576805	hotel				
+node	2204806831	Irun		-34.6275892	-58.3844790	hotel				http://www.hotelirun.com.ar/
+node	2262235402	Hotel Chile		-34.6090380	-58.3847390	hotel				
+node	2262235403	ART DECO Hotel & Suites ****		-34.6032952	-58.3838741	hotel				
+node	2262235404	Abh - About Baires Hotel		-34.6003709	-58.3808414	hotel				
+node	2262235406	Aldeano I		-34.6136516	-58.4087262	hotel				
+node	2262235407	Alma Buenos Aires		-34.6020360	-58.3796640	hotel				
+node	2262235408	Apart Garten Village		-34.6054378	-58.3794678	hotel				
+node	2262235409	Apart Gran Hotel Libertad		-34.6050302	-58.3833559	hotel				
+node	2262235410	Arenales Apart Hotel		-34.5930690	-58.4028270	hotel				
+node	2262235411	Arg Hostel		-34.6072625	-58.3965835	hostel				
+node	2262235412	Le Petit Suites		-34.5972426	-58.3783117	hotel				
+node	2262235414	Astoria Hotel		-34.6090480	-58.3793980	hotel				
+node	2262235415	Ayres de Recoleta		-34.5884880	-58.3919160	hotel				
+node	2262235416	Bayres Bed & Breakfast		-34.5858950	-58.4429550	hotel				
+node	2262235417	Be Hollywood		-34.5846080	-58.4352310	hotel				
+node	2262235418	Biarritz		-34.5728620	-58.4454690	hotel				
+node	2262235419	Bulnes		-34.5997790	-58.4177240	hotel				
+node	2262235420	Cahuel		-34.5967251	-58.4264587	hotel				
+node	2262235423	CasaSur Art Hotel		-34.5889602	-58.3885397	hotel				
+node	2262235425	Cevallos		-34.6118420	-58.3890300	hotel				
+node	2262235426	Chez Seb Buenos Aires		-34.6024080	-58.4100270	hotel				
+node	2262235428	Hotel Chipre		-34.6201245	-58.3744196	hotel				http://hotelchipre.com.ar/
+node	2262235431	Colonial		-34.6133550	-58.4115210	hotel				
+node	2262235438	Constitucion Palace Hotel		-34.6276605	-58.3823426	hotel				
+node	2262235448	Dolmen Hotel		-34.5955405	-58.3798380	hotel				
+node	2262235456	Edificio Charcas Apart Hotel		-34.5964597	-58.3776319	hotel				
+node	2262235460	El Hostal de San Telmo		-34.6197337	-58.3748544	hotel				http://hotelchipre.com.ar/
+node	2262235469	Embassy All Suites		-34.5988110	-58.3868210	hotel				
+node	2262235472	Esmeralda Palace Hotel		-34.6020308	-58.3780631	hotel				
+node	2262235475	Espacia Suites		-34.5701600	-58.4500060	hotel				
+node	2262235478	Esperia		-34.6129733	-58.4098943	hotel				
+node	2262235486	Feir's Park Hotel		-34.5915235	-58.3782723	hotel				
+node	2262235490	GecKo Hostel		-34.5793300	-58.4326020	hostel				http://www.geckohostel.com.ar/
+node	2262235504	Gran Hotel Ailen		-34.6080575	-58.3793281	hotel				
+node	2262235507	Gran Hotel America		-34.6274921	-58.3782234	hotel				http://www.granhotelamerica.com.ar/
+node	2262235511	Gran Hotel Argentino		-34.6078811	-58.3805957	hotel				
+node	2262235514	Gran Hotel Atlantic		-34.6094640	-58.4045220	hotel				
+node	2262235517	Dorá Hotel		-34.5968030	-58.3768455	hotel				
+node	2262235520	Gran Hotel Hispano		-34.6084860	-58.3788160	hotel				
+node	2262235523	Gran Hotel Vedra		-34.6094548	-58.3851716	hotel				
+node	2262235526	Gran Hotel de la Paix		-34.6084620	-58.3828020	hotel				
+node	2262235529	Grand King Hotel		-34.6023397	-58.3747677	hotel				
+node	2262235532	Hostal el Candil		-34.5943890	-58.4319790	hotel				
+node	2262235535	Hostel Plaza Buenos Aires		-34.6030795	-58.4205590	hostel				
+node	2262235539	Nammisarang		-34.6078570	-58.3905607	hostel				
+node	2262235542	Hotel A y B Internacional		-34.6061210	-58.3894260	hotel	3			https://www.hotelayb.com/
+node	2262235545	Hotel Aires Express		-34.6094997	-58.4147342	hotel	2			
+node	2262235557	Hotel Alcazar		-34.6087488	-58.3797387	hotel				
+node	2262235560	Hotel Americano		-34.6059384	-58.3906714	hotel				
+node	2262235563	Hotel Ancon		-34.5969075	-58.3991795	hotel				
+node	2262235566	Hotel Argenta Tower		-34.5929493	-58.3795404	hotel				https://www.argenta-tower.com.ar/
+node	2262235569	Hotel Aries		-34.5971583	-58.4231243	hotel	1			http://www.arieshotel.com.ar/
+node	2262235575	Hotel Avenida		-34.6084826	-58.3752519	hotel				
+node	2262235578	Hotel Ayamitre		-34.6080630	-58.3950580	hotel				
+node	2262235581	Hotel Azul		-34.6083696	-58.3965037	hotel				
+node	2262235584	Álvarez Argüelles		-34.5947834	-58.3879658	hotel				
+node	2262235587	Hotel Blanro * *		-34.6002520	-58.3970510	hotel				
+node	2262235591	Hotel Boutique Casa Las Cañitas		-34.5729330	-58.4316390	hotel				
+node	2262235595	Hotel Carlton		-34.5948020	-58.3844695	hotel				
+node	2262235600	Hotel Central		-34.6039300	-58.3969680	hotel				
+node	2262235606	Hotel Cosme		-34.6268777	-58.3776027	hotel				http://www.hotelcosme.com.ar
+node	2262235609	Hotel Costa Rica		-34.5914996	-58.4211500	hotel				https://www.hotelcostarica.com.ar/
+node	2262235613	Hotel Cristoforo Colombo		-34.5767300	-58.4218550	hotel				
+node	2262235622	Hotel Derby		-34.6064470	-58.3978330	hotel				
+node	2262235628	Hotel El Cabildo		-34.6022829	-58.3774147	hotel				
+node	2262235631	Hotel Europa		-34.6074566	-58.3848440	hotel				
+node	2262235642	Hotel Gran Sarmiento		-34.6058529	-58.3935653	hotel				
+node	2262235645	Hotel Gran Vía		-34.6054456	-58.3870966	hotel				http://www.hotelgranvia.com.ar
+node	2262235657	Hotel La Barca		-34.6122650	-58.4009190	hotel				
+node	2262235660	Hotel La Cayetana		-34.6155120	-58.3852440	hotel				
+node	2262235669	Hotel Lennox Buenos Aires		-34.6081730	-58.3847881	hotel				
+node	2262235672	Hotel Lion D'or		-34.5907049	-58.3950317	hotel				
+node	2262235676	Hotel Loi Suites Arenales		-34.5940063	-58.3793511	hotel				
+node	2262235682	Hotel Lyon ***		-34.6067470	-58.3934220	hotel				
+node	2262235685	Hotel Madrid		-34.6088007	-58.3824825	hotel				
+node	2262235687	Hotel Majestic		-34.6071804	-58.3834821	hotel				
+node	2262235690	Hotel Marbella		-34.6090749	-58.3843217	hotel				
+node	2262235693	Hotel Milán		-34.6052361	-58.3892173	hotel				https://milanhotel.com.ar/
+node	2262235696	Hotel Mitre		-34.6086830	-58.4049480	hotel				
+node	2262235706	Hotel Napoleon		-34.6089450	-58.3857360	hotel				https://www.hotel-napoleon.com.ar
+node	2262235712	Hotel Orense		-34.6076817	-58.3856461	hotel				
+node	2262235718	Hotel Pacifico		-34.5786002	-58.4238845	hotel				https://palermosuites.net/
+node	2262235726	Hotel Parada		-34.6085040	-58.3845450	hotel				
+node	2262235736	Hotel Principado		-34.5973154	-58.3738136	hotel				
+node	2262235739	Hotel Real Splendid		-34.6316740	-58.4676820	hotel				
+node	2262235742	Hotel Real		-34.6065510	-58.3935361	hotel				
+node	2262235745	Hotel Regis Orho		-34.6022596	-58.3784215	hotel				
+node	2262235747	Hotel Rey		-34.6146640	-58.3933250	hotel				
+node	2262235750	Hotel San Carlos		-34.6514330	-58.3937540	hotel				
+node	2262235755	Hotel Sarmiento Palace		-34.6057240	-58.3944500	hotel				https://www.hotelsarmiento.com.ar/
+node	2262235758	Hotel Sarum		-34.5541815	-58.4627929	hotel				
+node	2262235760	Hotel Siena		-34.6066950	-58.3886164	hotel				
+node	2262235761	Hotel Splendid		-34.6085160	-58.3799270	hotel				
+node	2262235762	Hotel Sures Belgrano Suites		-34.5553533	-58.4642622	hotel	3			http://www.suresgroup.com/
+node	2262235765	474 Buenos Aires		-34.6024989	-58.3739727	hotel				
+node	2262235768	Hotel Torre		-34.5873478	-58.4536863	hotel				
+node	2262235770	Hotel Turista		-34.6088394	-58.3761866	hotel				
+node	2262235775	Hotel Las Americas		-34.5962979	-58.3843581	hotel				http://www.grupoamericas.com.ar/
+node	2262235787	Hoteles Microtel Inn		-34.5696082	-58.3960204	hotel				
+node	2262235790	Hoteles de Argentina		-34.6036760	-58.3784003	hotel				
+node	2262235793	Howard Johnson Inn		-34.6082570	-58.3983310	hotel				
+node	2262235810	Jam Suites Hotel		-34.5917980	-58.4287850	hotel				
+node	2262235815	Ker Belgrano Hotel & Spa		-34.5554910	-58.4606690	hotel	3			https://belgrano.kerhoteles.com.ar/
+node	2262235822	Ker Recoleta Hotel & Spa		-34.5970987	-58.3865830	hotel				https://www.kerhoteles.com.ar/
+node	2262235825	Koten		-34.5811340	-58.4240760	hotel				kotenhotel.com.ar
+node	2262235828	La Cascada Townhouse Hotel		-34.5411500	-58.4725420	hotel				
+node	2262235832	Hotel Boutique Le Vitral Baires		-34.6061603	-58.3950482	hotel				https://www.hotelvitral.com/
+node	2262235835	Legado Mitico		-34.5876640	-58.4267980	hotel				
+node	2262235838	Loi Suites Recoleta Hotel		-34.5895460	-58.3924400	hotel				https://loisuites.com.ar
+node	2262235840	Mari Plaza Hotel		-34.6080980	-58.3952650	hotel				
+node	2262235843	Medrano Plaza Hotel		-34.5998255	-58.4203599	hotel				
+node	2262235845	Miravida Soho		-34.5842860	-58.4277010	hotel				
+node	2262235848	Moreno Hotel Buenos Aires		-34.6112723	-58.3725658	hotel				
+node	2262235854	Nuñez Suites SRL		-34.5483258	-58.4649100	hotel				https://www.nunezsuites.com.ar/
+node	2262235857	Obelisco Center Suites		-34.6040864	-58.3805828	hotel				
+node	2262235860	Once Plaza Hotel		-34.6132768	-58.4044167	hotel				
+node	2262235866	Palacio Duhau - Park Hyatt Buenos Aires		-34.5893389	-58.3863661	hotel	5	Park Hyatt	Hyatt	
+node	2262235869	Palermo Suites Buenos Aires Hotel & Apartments		-34.5789545	-58.4237644	hotel				
+node	2262235872	Pampa Plaza Hotel		-34.5545481	-58.4371123	hotel				
+node	2262235881	Plaza Francia		-34.5855389	-58.3886115	hotel				
+node	2262235886	Posada Gotan		-34.6294030	-58.4117270	hotel				
+node	2262235891	Del Prado		-34.5977501	-58.4017805	hotel				
+node	2262235896	Regente Palace Hotel		-34.5969620	-58.3799770	hotel				
+node	2262235908	Sandanzas Hostel		-34.6245216	-58.3713064	hostel				
+node	2262235921	The Glu Hotel		-34.5891990	-58.4321590	hotel				
+node	2262235922	Tres Sargentos Hotel		-34.5976788	-58.3723008	hotel				
+node	2262235923	Believe Madero Hotel		-34.6158375	-58.3673413	hotel				
+node	2262235925	Vain		-34.5836400	-58.4249490	hotel				
+node	2262235926	Up Viamonte		-34.6004559	-58.3863244	hotel				
+node	2262235928	Abasto Plaza Hotel		-34.6041932	-58.4101134	hotel				
+node	2262235929	725 Continental		-34.6061021	-58.3767199	hotel				
+node	2262243524	Sweet Home		-34.5858478	-58.4252215	hotel				
+node	2262247909	Hostel Dreams		-34.5707633	-58.4489606	hostel	2			
+node	2262247913	Hotel Céspedes		-34.5698670	-58.4491859	hotel				
+node	2262247914	Hotel Aguilar		-34.5705161	-58.4481878	hotel				
+node	2263964248	Ayacucho Palace Hotel		-34.5925567	-58.3948949	hotel				
+node	2279649224			-34.5561549	-58.4532982	hotel				
+node	2286262630	NH Florida		-34.5981451	-58.3741431	hotel				https://www.nh-hotels.com
+node	2471579985	Blank Hotel Recoleta		-34.5921347	-58.3953260	hotel				
+node	2482179564	Duomi Plaza Hotel		-34.6077610	-58.3874540	hotel				
+node	2490944156	Prodeo Hotel + Lounge		-34.5870861	-58.4346796	hotel				https://prodeohotel.com/
+node	2573760415	Hostal Tercero del Sur		-34.6160946	-58.3714168	hostel				http://www.hostaltercerodelsur.com.ar/
+node	2582816327	Hostel Downtownmate		-34.6084939	-58.3831491	hotel				
+node	2586928894	Patios de San Telmo		-34.6168614	-58.3758723	hotel				https://www.patiosdesantelmo.com.ar/
+node	2642006340	Hotel Tandil		-34.6090030	-58.3789546	hotel				
+node	2642051634	Avenue Hostel		-34.6090789	-58.3798336	hostel				
+node	2643722370	La Argentina Hotel		-34.6089988	-58.3784014	hotel				
+node	2670100250	Gran Hotel España		-34.6091996	-58.3790537	hotel				
+node	2683643664	Ostinatto		-34.6163831	-58.3755269	hostel				http://www.ostinatto.com/
+node	2683721582	Hotel Sheltown		-34.5964320	-58.3775727	hotel				https://www.booking.com/Hotel-Sheltown
+node	2692837181	Hotel Bolívar		-34.6181667	-58.3729780	hotel				http://www.hotel-bolivar.com.ar
+node	2720150347	Galeón del Plata		-34.6185990	-58.3779663	hostel				
+node	2726498169	Mansion Dandi Royal		-34.6188502	-58.3772064	hotel				
+node	2834771935	Tucumán Palace Hotel		-34.6009943	-58.3722842	hotel				http://www.tucumanpalace.com.ar/
+node	2928701002	Hotel Congreso		-34.5625563	-58.4759987	hotel				
+node	2934938031	HI Recoleta Hostel		-34.5942630	-58.3845205	hostel				http://www.hirecoleta.com.ar/
+node	2948687542	Hotel Impala		-34.5941768	-58.3843475	hotel				
+node	2958884833	Hostel Florida		-34.6041995	-58.3752671	hostel				
+node	2965832803	Adventure Hostel		-34.6020382	-58.3734037	hostel				http://www.adventurehostel.com.ar/
+node	2998119678	Holiday Inn Express		-34.5986788	-58.3712821	hotel		Holiday Inn Express		
+node	2998119684	Ribera Azul Hotel		-34.6209021	-58.3686231	hotel				
+node	3075924121	Palermo Soho Loft – Hotel Boutique		-34.5914050	-58.4304769	hotel				http://www.palermosoholoft.com/
+node	3080532662	La Rocca Hostel		-34.6051662	-58.3920856	hostel				http://www.laroccahostel.com/
+node	3098996541	Hotel Rich		-34.5972976	-58.4170030	hotel				
+node	3111486341	Hotel Gorriti		-34.5955149	-58.4204066	hotel				
+node	3111491331	Bys		-34.5970286	-58.4214761	hotel				
+node	3132292330	Eva Perón		-34.5980040	-58.4150094	hotel				
+node	3153516961	Hotel Miño		-34.5956555	-58.4114539	hotel				
+node	3169459861	Hotel Pulitzer		-34.5974837	-58.3768658	hotel				
+node	3170956546	Waldorf Hotel		-34.5974798	-58.3736275	hotel				
+node	3172208863	Alvear Art Hotel		-34.5957779	-58.3800660	hotel				
+node	3175778461	CasaCalma		-34.5966517	-58.3797040	hotel				
+node	3175785661	Leonardo da Vinci Residence		-34.5941261	-58.3845420	hotel				
+node	3175862767	Hotel Boca		-34.6113164	-58.3792424	hotel				
+node	3176668462	Park Royal City		-34.5955617	-58.3800993	hotel		Park Royal City		https://www.park-royalhotels.com/park-royal-city-buenos-aires.html
+node	3181753730	Central Cordoba		-34.5959419	-58.3741904	hotel				
+node	3181753731	Promenade		-34.5963682	-58.3738614	hotel				
+node	3184670662	Hotel Sheltown		-34.5963030	-58.3768928	hotel				
+node	3184670861	Diplomat		-34.5972653	-58.3743773	hotel				
+node	3189361060	Marseille des Anges		-34.5947660	-58.3871921	hotel				
+node	3192181326	Park Château Hotel		-34.5938448	-58.3858387	hotel	4		Unique Executive Chateau; Hotel Plaza Colonia S.A.	
+node	3205426271	Cyan Hotel		-34.5889899	-58.3925148	hotel				https://www.cyanrecoleta.com.ar
+node	3209007929	Wanna Palermo		-34.5959632	-58.4086877	hotel		Wanna Colive		https://www.wannacolive.com/casas/wanna-buenos-aires-palermo-370
+node	3291483361	Hostel Rock		-34.6088859	-58.3889345	hotel				http://www.RockHostel.com.ar
+node	3295623586	Hostel Ostinatto		-34.6162822	-58.3741305	hostel				
+node	3358590110	Petit Hotel El Vitraux		-34.6186755	-58.3854687	hotel				http://www.petithotelelvitraux.com.ar
+node	3515819195	Cimma		-34.5783583	-58.4325374	hotel	2			
+node	3515819695	Hotel familiar de F. Castaño		-34.5773758	-58.4332401	hotel				
+node	3522260031	Art Factory Beer Garden Hostel		-34.5842429	-58.4245503	hostel				
+node	3641671892	Llongueras Academia		-34.6101746	-58.3880415	hotel				
+node	3826551161	Vista Sol		-34.6008247	-58.3733316	hotel				
+node	3859139058	Mordomo		-34.5557078	-58.4642077	hotel				
+node	3872058749	L'Hotel Palermo		-34.5882142	-58.4315280	hotel				https://www.lhotelpalermo.com/
+node	3911317681	Hotel Babel		-34.6187863	-58.3700750	hotel				
+node	3936618608	Charlie's Hostel		-34.5926717	-58.4432654	hostel				https://charlieshostel.com/
+node	3959774203	Hostel Art Factory Palermo		-34.5904455	-58.4234855	hostel				
+node	4017234399	Hotel Key's		-34.5735315	-58.4408597	hotel				
+node	4041125709	Hotel Micky		-34.6044921	-58.3851662	hotel				http://hotelmicki.ar.tripod.com/
+node	4103633871	70 30 Hostel		-34.5857370	-58.4262596	hostel				http://www.7030hostel.com/
+node	4107169290	Sofitel Buenos Aires Recoleta		-34.5895504	-58.3842203	hotel	5	Sofitel	Accor	https://sofitel.accorhotels.com/es/hotel-8932-sofitel-buenos-aires-recoleta/index.shtml#
+node	4152326989	NH Crillon		-34.5953771	-58.3787230	hotel	4		NH	
+node	4153633543			-34.6088132	-58.3921749	hotel				
+node	4190990789	Hotel Athos		-34.6220861	-58.3825297	hotel				
+node	4199694890	Hostel Fiesta		-34.6105813	-58.3794026	hostel				
+node	4199764190	HTL 9 de Julio		-34.6109187	-58.3821641	hotel	4			https://htlhoteles.com/htl9dejulio/
+node	4222735194	Espacio Barrancas		-34.5576331	-58.4491180	hotel				
+node	4230170690	Casa del Docente A.MU.DO.CH.		-34.6155831	-58.4044529	hotel			Asociación Mutual Docentes del Chaco	
+node	4246346491	Rochester Classic		-34.6018023	-58.3782644	hotel				
+node	4250452204	Callao Suites		-34.5964593	-58.3934515	hotel				https://www.callaosuites.com.ar/
+node	4251059290	Palermo Place Hotel		-34.5794868	-58.4360835	hotel				
+node	4251321809	HR Luxor Hotel Buenos Aires		-34.6051872	-58.3791151	hotel				
+node	4264866121	Be Trimos		-34.6138832	-58.3750892	hotel				
+node	4285641589	Del900 Hostel Boutique		-34.6098159	-58.3836673	hostel				https://www.del900hostel.com/
+node	4293806089	Sabatico Hostel		-34.6156691	-58.3861259	hostel				
+node	4319023526	Loft Hotel		-34.5847420	-58.4350083	hotel				
+node	4319498278	Hotel La Piedad		-34.6074849	-58.3829198	hotel				
+node	4319667696	Vía Via		-34.6148652	-58.3710447	hotel				
+node	4323943090	Uruguay		-34.6092214	-58.3792446	hotel				
+node	4328013094	Hotel Reina		-34.6219931	-58.3816083	hotel				
+node	4331592691	AWWA HOTEL		-34.5770303	-58.4122695	hotel				
+node	4345844991	Art Factory Soho		-34.5825376	-58.4248764	hostel				
+node	4357918516	American Towers		-34.5958403	-58.3841543	hotel				
+node	4380063591	Hotel Boutique Racó de Buenos Aires		-34.6153786	-58.4216412	hotel				http://www.racodebuenosaires.com.ar/
+node	4387044189	hotel géminis		-34.6127677	-58.4093463	hotel				
+node	4406235893	Casa Aire Palermo B&B		-34.5889517	-58.4317128	hostel				http://www.casaaire.com.ar
+node	4417942289	Hostel Rayuela		-34.6128017	-58.3788337	hostel				
+node	4449467191	Castelar Hotel Spa		-34.6089963	-58.3826631	hotel				
+node	4452002491	BA Soho Rooms		-34.5899672	-58.4324186	hostel				
+node	4551703276	Argenta Suites Belgrano		-34.5648543	-58.4558402	hotel	3			
+node	4557873896	Imperial Park		-34.6097970	-58.3820917	hotel	4			
+node	4564172678	Casablanca		-34.6279010	-58.3844275	hotel				
+node	4564223293	Hotel Lima		-34.6294888	-58.3814535	hotel				
+node	4586107098			-34.5972240	-58.3797931	hotel				
+node	4602463027	Apart Hotel Legreño		-34.6335230	-58.3889084	hotel				
+node	4635304501	Maítre		-34.5706495	-58.4310973	hotel				https://maitrehotelboutique.com/
+node	4638866190			-34.6019266	-58.3900993	hostel				
+node	4652852489	Puerto Limon Hostel		-34.6202177	-58.3756582	hostel				
+node	4670075148	8 de Octubre		-34.5983970	-58.3874096	hotel				
+node	4673267697	Savoy Hotel		-34.6068316	-58.3917586	hotel				
+node	4675661271	Oregon		-34.5959263	-58.4276930	hotel				
+node	4676824393	Columbia Palace Hotel		-34.6040068	-58.3884664	hotel				
+node	4683530377	Novotel Buenos Aires		-34.6041034	-58.3856042	hotel				http://www.novotel.com/
+node	4683530378	Hotel Ibis Buenos Aires Obelisco		-34.6041298	-58.3858207	hotel				
+node	4690601189	Pinot		-34.6086464	-58.4382909	hotel				
+node	4692571314	Hotel Caray		-34.6103137	-58.4105308	hotel				
+node	4696746131	Hotel Acis		-34.6190462	-58.4053726	hotel				
+node	4698230413	Ibis Styles Buenos Aires Florida		-34.6035336	-58.3755461	hotel				
+node	4699496092	NH Jousten		-34.6032552	-58.3709817	hotel				
+node	4699655223	Luey		-34.6104405	-58.4077789	hotel				
+node	4699671241	Du Helder		-34.6081735	-58.3786213	hotel				
+node	4699693772	Hotel Los Angeles		-34.6114585	-58.4099679	hotel				
+node	4702531208	V&S Hostel Club		-34.6000539	-58.3793160	hostel				https://www.hostelclub.com/
+node	4702531212	Hotel Viamonte		-34.6000410	-58.3789769	hotel				
+node	4702602255	Luco		-34.5993242	-58.4011877	hotel				
+node	4703935997	Le Petit		-34.6046988	-58.3761860	hotel				
+node	4704502170	Hotel		-34.6153797	-58.4139723	hotel				
+node	4721829189	BA Big Adventure hostel	ba big adventure hotel	-34.6098290	-58.3827478	hostel				
+node	4734699121	Argentina Tango Hotel		-34.6018676	-58.3795079	hotel				
+node	4742065622	Via Via Buenos Aires RJC		-34.6160350	-58.3707579	hostel				https://viavia.world/es/america/buenos-aires
+node	4769817721	Rancho Urbano	Rancho Urbano	-34.6027672	-58.4236448	hostel				
+node	4788714141	Victory		-34.5979116	-58.3769949	hotel				http://www.victoryhotel.com.ar
+node	4823249703	Urbanica The Libertador Hotel		-34.5598339	-58.4453015	hotel				
+node	4830907858	Hotel Los 3 Reyes		-34.6253056	-58.3717822	hotel				https://www.hotellostresreyes.com.ar/
+node	4830907875	Hotel Intersur		-34.6262563	-58.3758961	hotel				http://www.intersursantelmo.com.ar/
+node	4844311871	Hotel Parks		-34.6137338	-58.3884967	hotel				
+node	4865402645	Park Silver Obelisco Hotel		-34.6047206	-58.3823356	hotel	4			https://parksilverobelisco.com/
+node	4925318721	Petit Recoleta Hostel		-34.5944932	-58.3980373	hostel				
+node	4932499527	Santa Marta		-34.5456769	-58.4699197	hotel				
+node	4971368223		Mateos place	-34.5849694	-58.4120257	hostel				
+node	5007354522			-34.5695065	-58.4426514	hotel				
+node	5033546222	Apart Hotel & Spa Congreso	Apart Hotel & Spa Congreso	-34.6081288	-58.3922870	hotel				
+node	5109655926		Howard Johnson Plaza Florida St	-34.5971344	-58.3755105	hotel				http://Wyndhamhotels.com
+node	5175255922			-34.6369893	-58.4530813	hostel			박승희	http://www.casatiominbak.com/m/
+node	5201104923	Hotel Facon Grande		-34.6003122	-58.3725270	hotel	3			
+node	5207111725	Hotel Reconquista Garden		-34.6003094	-58.3780830	hotel				
+node	5210147403	Loaras's		-34.6184183	-58.3779686	hostel				
+node	5254745726	Milhouse hostel avenue		-34.6091168	-58.3840701	hostel				https://milhousehostel.com
+node	5295902656	Hotel 11 de Octubre		-34.6030316	-58.4128363	hotel				
+node	5355224233	Suipacha Inn		-34.6022878	-58.3794174	hotel				
+node	5355252001	Defensa Suites		-34.6240513	-58.3706541	hotel				
+node	5465525318	Hotel Principe		-34.5921029	-58.4056227	hotel	2			
+node	5590195321		America del sur	-34.6164430	-58.3759769	hostel				
+node	5732481321		La Cigarra	-34.5770147	-58.4236956	hotel				
+node	5757436468	Hotel Vesubio		-34.6101039	-58.4026339	hotel				
+node	5759321208	Hotel Los Angeles		-34.5989819	-58.4037425	hotel				
+node	5759321215	Valle de Oro		-34.5991465	-58.4032602	hotel				
+node	5774941945	Le Petit Palais		-34.5956792	-58.4147251	hotel				
+node	5775592654	Caravelle		-34.5883212	-58.4368002	hotel				
+node	5784511553	Las Familias		-34.5515552	-58.4635767	hotel				https://www.hotellasfamilias.com
+node	5919179586	Novel Hotel		-34.6087510	-58.3793727	hotel				
+node	5927695886	Larbel		-34.5649529	-58.4557746	hostel				http://larbel.org.ar
+node	6068823087	Kilca Hospedaje	Kilca Hostel	-34.6155123	-58.3881718	hostel				
+node	6180722345	Tritone		-34.6004338	-58.3767184	hotel				
+node	6283718939	Italia		-34.6061392	-58.4243620	hotel				
+node	6303676193	Amerian Congreso Hotel		-34.6091885	-58.4006274	hotel				https://www.amerian.com/hotel/hotel-amerian-congreso-hotel-grand-view
+node	6317480486	Hotel Cuatro Reyes		-34.6176738	-58.3856826	hotel				
+node	6342208252	Apart Hotel Arc		-34.6027860	-58.4095107	hotel				https://www.arcrecoleta.com.ar/arcabasto/es/home/
+node	6350706838	Hotel Varela		-34.6185580	-58.3707127	hotel				http://www.hotelvarela.com/
+node	6564022888	Ché Juan Hostel		-34.6020422	-58.3734292	hostel				
+node	6582353338	Two Hotel		-34.6115861	-58.3774986	hotel				
+node	6680655542	Plaza Roma		-34.6019596	-58.3693568	hotel				
+node	6746735685	Downtown Apartment	Downtown Apartament	-34.6009758	-58.3868405	hotel				https://abnb.me/d6hFyeThtZ
+node	6939695385	Ramada by Wyndham		-34.5976047	-58.3791781	hotel				
+node	7016082344	Apart Hotel León Imperial		-34.6151046	-58.3977306	hotel				
+node	7089736380	Hotel Wilton		-34.6207436	-58.3828977	hotel				
+node	7089747682	Hotel Amalfi		-34.6192910	-58.3875170	hotel				
+node	7090062794	Versalles Palace Hotel		-34.6305735	-58.3757322	hotel				
+node	7103210567	Grand View		-34.6094730	-58.4003470	hotel				
+node	7132233300	Yberia		-34.6179580	-58.4644203	hotel				
+node	7213958495	Malevo Muraña		-34.5873888	-58.4292215	hostel				http://malevoinfo.com
+node	7293716728	Los Tilos		-34.6265802	-58.4667492	hotel				
+node	7351548712	Alma Bohemia		-34.5842898	-58.4227172	hostel				
+node	8094634167	The Migueletes Plaza		-34.5631780	-58.4393817	hotel				
+node	8131337573	Solana		-34.5989080	-58.4058446	hotel				
+node	8265584792	Tango de Mayo		-34.6095951	-58.3861264	hotel				https://www.tango-hotel.com.ar/
+node	9107048678	Hotel Huinid Obelisco		-34.6052344	-58.3869345	hotel		all fllags		
+node	9532461805	Entis Residencia Universitaria		-34.6202888	-58.3758430	hotel				https://www.entis.com.ar
+node	9550874417	Destino Real Hotel		-34.6098202	-58.4118580	hotel				
+node	9688779463	Hotel Cuba		-34.5492860	-58.4650199	hotel				
+node	9718053050	Ilum Experience		-34.5829378	-58.4370485	hotel				
+node	9787191663	Pueyrredón		-34.6094745	-58.4057760	hotel				
+node	9981828697	Congreso		-34.6081165	-58.3893234	hotel				
+node	9994034960	BetHotel		-34.6157241	-58.4027203	hotel				
+node	10079054838	Gran Hotel Oriental		-34.6081002	-58.3926947	hotel	2			
+node	10079054839	Turiluz		-34.6072856	-58.3922803	hotel				
+node	10187358467	Adrazi		-34.6127936	-58.3848291	hotel				
+node	10239951010			-34.5794610	-58.4342313	hotel				
+node	10261446414	Efe Hotel & Cowork		-34.5974951	-58.3738158	hotel				
+node	10264921659	Cristal Palace		-34.5584212	-58.4614012	hotel				https://www.cristalpalace.com/
+node	10296324066	Maracaibo		-34.6155310	-58.4008465	hotel				
+node	10296386797	Residencial México		-34.6165886	-58.4023350	hotel				
+node	10573374409	Infinito		-34.5851334	-58.4138636	hotel				
+node	10591631605	Voyage Recoleta Hostel		-34.5915839	-58.3958307	hostel				
+node	10597033105	Casasur Bellini		-34.5802198	-58.4127064	hotel				
+node	10601702037	Casa Franca Recoleta Hostel		-34.5922699	-58.3934326	hostel				https://casafrancarecoletahostel.com/
+node	10606974176	Merry Urban Hostel		-34.6057205	-58.3766289	hostel				https://merry-urban-hostel.business.site
+node	10729594405		MiBAQ Hostel	-34.6055250	-58.3882364	hostel				
+node	10738239147	Hotel Pinar		-34.6150430	-58.3781050	hotel				
+node	10834401905	Pleno		-34.5861923	-58.4241289	hotel				
+node	10938618405	Duque Hotel Boutique & Spa		-34.5887737	-58.4210871	hotel				https://duquehotel.com/
+node	11059296205	Chemin		-34.6055250	-58.3918892	hotel				
+node	11236561137	Alpino Hotel		-34.5816900	-58.4079249	hotel				
+node	11258973638	Polo B&B		-34.5740428	-58.4703237	hotel				
+node	11381438570	Plat hostel SOHO		-34.5867772	-58.4240969	hostel				
+node	11396514551	Hotel Roma		-34.6092411	-58.3865019	hotel				
+node	11396584254	Grand Brizo		-34.6063068	-58.3822487	hotel				
+node	11396585253	NH		-34.6066387	-58.3822431	hotel				
+node	11410907269		Bueno Casa	-34.6218351	-58.3988143	hostel				
+node	11461179881	Regal Pacific		-34.5988960	-58.3715304	hotel	5			https://ar.regal-pacific.com/
+node	11462858870		casa  hostel	-34.6165986	-58.3730192	hostel				
+node	11509267469	Bue Hotel		-34.5816972	-58.4225348	hotel				
+node	11607170596	Grand Hotel Faecys		-34.6011062	-58.3748996	hotel			Federación Argentina de Empleados de Comercio y Servicios	https://www.faecys.org.ar/grand-hotel-faecys/
+node	11663651969	Bulnes Eco Suites		-34.5892299	-58.4125230	hotel	4			https://bulnesecosuites.com/
+node	11772347969		PH Palermo Hostel	-34.5912839	-58.4298423	hostel				
+node	11805425439	Hotel Del Sol		-34.6005727	-58.3781205	hotel				
+node	11817000670	Top rentals Cabello		-34.5808836	-58.4108900	hotel				
+node	11828949096	City Hotel NH Collection		-34.6094448	-58.3734313	hotel				https://www.nh-collection.com/es/hotel/nh-collection-buenos-aires-centro-historico
+node	11828973341	Cassa Lepage		-34.6122299	-58.3734398	hotel				
+node	11874939469	Palladio		-34.5982935	-58.3933544	hotel				
+node	11889261114	Gardí		-34.5997692	-58.3783605	hotel				
+node	11897519869	La casona de		-34.5765022	-58.4348686	hostel				
+node	12012822164	América		-34.6184438	-58.3904156	hotel				
+node	12012834350	York		-34.6124006	-58.4036094	hotel				
+node	12012855653	San Miguel		-34.6173478	-58.3857596	hotel				
+node	12012857460	Losada		-34.6167692	-58.3865842	hotel				
+node	12012860021	Monserrat		-34.6168034	-58.3871083	hotel				
+node	12038576229	Candor		-34.6125510	-58.4059562	hotel				
+node	12038576230	Inerva		-34.6200030	-58.3862957	hotel				
+node	12057804483	LAR Hotel		-34.6238356	-58.4109004	hotel				
+node	12057808722	Hotel Mundo de María Varela		-34.6236480	-58.4095046	hotel				
+node	12096536301	CARLES Hotel		-34.5929494	-58.3784283	hotel				
+node	12113227402	Sileo		-34.5870253	-58.3947295	hotel				
+node	12155959001	Arenales		-34.5904453	-58.4068286	hotel				
+node	12190259202	Lyon		-34.6063814	-58.3935328	hotel				
+node	12200244303	Epico Recoleta		-34.5883844	-58.4009540	hotel				
+node	12260781356	Crisol Suites Catalinas		-34.6008590	-58.3717046	hotel		Crisol Hotels		https://www.eurostarshotels.com/crisol-suites-catalinas.html
+node	12314292601	Circus Hostel & Hotel		-34.6199080	-58.3757116	hostel				
+node	12337022235	Mariposita de San Telmo		-34.6198149	-58.3792578	hotel				https://mariposita.com.ar/
+node	12386759672	Mons Hostel		-34.5879418	-58.3954275	hostel				
+node	12388904201	TangoHogar		-34.6186211	-58.3766951	hotel				
+node	12409401901	Hotel Florentino		-34.6125658	-58.4101572	hotel				
+node	12465446197	Cambacuá Bed&Breakfast		-34.6188054	-58.3816109	hostel				
+node	12472715802	Hostel Ruda		-34.5818548	-58.4076876	hostel				
+node	12484680303	Capri Hotel		-34.5856803	-58.4276779	hotel				
+node	12511123201	Rio Plateado Hostel		-34.5879557	-58.4225598	hostel				
+node	12566603341	Goya		-34.5997011	-58.3797820	hotel				
+node	12588368396	Hotel Bogotá		-34.6257375	-58.4661057	hotel				
+node	12624267469	Escorial		-34.6095031	-58.3833459	hotel				
+node	12625737601	Hostelmo Hotel & Hostel		-34.6153247	-58.3795750	hostel				
+node	12786701601	Up Tribeca		-34.6074185	-58.3845556	hotel				
+node	12841073596	Residencial San Telmo		-34.6222079	-58.3774476	hotel				
+node	12841150304	Hotel 27 de Junio		-34.6250098	-58.3712465	hotel			ATE	
+node	13156117566	Hotel Palermo		-34.5784727	-58.4249536	hotel				
+node	13368541701		Mariposita de San Telmo - tango school	-34.6197286	-58.3793773	hotel				
+node	13433141601	Trianon Residence Recoleta		-34.5885906	-58.3881644	hotel				
+node	13444252501	Up América Plaza		-34.6080000	-58.3913167	hotel				https://uphoteles.com/up-america-plaza/
+node	13527732308	Parla Hostel		-34.6093697	-58.3787437	hostel				
+node	13534618001	Meridiano Boutique		-34.5875533	-58.4239492	hostel				
+node	13540284177	Primavera		-34.6168973	-58.3774776	hotel				
+node	13555571080	Hotel Uthgra		-34.6022777	-58.3987493	hotel				
+node	13676818701	Buenos Aires inn		-34.6165276	-58.4078836	hotel				
+node	13676829301			-34.6020872	-58.4048057	hostel				
+node	13800394603	Arc		-34.5913662	-58.3963390	hotel				
+node	13932232901	Hotel Waikiki		-34.6122332	-58.4301010	hotel				
+node	13998088301	Anselmo		-34.6203134	-58.3721059	hotel				
+way	53638705	Hotel Hilton Buenos Aires		-34.6059355	-58.3636731	hotel	5			http://www.hiltonbuenosaireshotel.com/
+way	61920011	Four Seasons		-34.5906065	-58.3826201	hotel	5	Four Seasons		https://www.fourseasons.com/es/buenosaires/
+way	123417772	Hotel Faena		-34.6140702	-58.3617306	hotel				https://www.faena.com/buenos-aires/
+way	149548230	Sheraton Hotel & Convention Center		-34.5933440	-58.3727085	hotel	5			
+way	155459341	NH Tango		-34.6021259	-58.3826662	hotel				
+way	252281265	Intercontinental		-34.6114353	-58.3781101	hotel		InterContinental		
+way	261439794	Carlos Primero		-34.6196160	-58.3868492	hotel				
+way	291839941	Dazzler Polo		-34.5762132	-58.4239369	hotel				https://www.dazzlerpolo.com/
+way	311054666			-34.6097582	-58.3730882	hotel				
+way	311447370	NH Collection		-34.5981874	-58.3729971	hotel				
+way	324855086	UNO		-34.6095237	-58.3939855	hotel				
+way	334617591	Akais Hostel		-34.5893627	-58.4255269	hostel				
+way	354318421	Dazzler Palermo		-34.5850547	-58.4360086	hotel				
+way	415382110	Live Hotel		-34.5778818	-58.4377708	hotel				
+way	415906190	Alvear Icon Hotel		-34.6105793	-58.3615872	hotel	5			https://alvearicon.com/
+way	417051340	Hotel Madero		-34.6172470	-58.3623686	hotel				https://www.hotelmadero.com/
+way	460111507	Presidente Hotel		-34.5984761	-58.3829508	hotel				https://www.hotelpresidente.com.ar/
+way	460111521	Ritz Hostel - Hostelling International		-34.6089085	-58.3822510	hostel				
+way	460111522	Hotel La Reina		-34.6093092	-58.3822039	hotel				https://www.hotelreina.com.ar
+way	460814846	Hotel Odeon		-34.6206789	-58.3839193	hotel				
+way	460821255	Hotel Cosmos		-34.6291515	-58.3815546	hotel				
+way	460836417	Hotel Alba		-34.6267831	-58.3854186	hotel				
+way	460836419	Hotel		-34.6268106	-58.3869923	hotel				
+way	460981320	Astor Hotel		-34.6280687	-58.3761868	hotel				
+way	472666269	Hotel Pedraza		-34.5499598	-58.4643851	hotel				https://www.hotelpedraza.com.ar
+way	472744916	Bisonte Libertad		-34.5979585	-58.3842316	hotel				https://www.bisontelibertad.com/
+way	472796679	Inter Plaza		-34.5970942	-58.4099293	hotel				
+way	473048585	Embajador Hotel		-34.5943924	-58.3812808	hotel				
+way	473088578	River Hotel		-34.6080446	-58.3895589	hotel				
+way	473090357	Hotel Central		-34.6112459	-58.3901764	hotel				
+way	473090362	Hotel Palace Solís		-34.6133007	-58.3900605	hotel				
+way	473143936			-34.5892537	-58.3895683	hotel				
+way	473159337	Hotel Dos Congresos		-34.6090165	-58.3915707	hostel				
+way	473159995	Scala		-34.6168945	-58.3800069	hotel				
+way	473160006	Hotel Internacional		-34.6147461	-58.3800772	hotel				
+way	473165334	Howard Johnson		-34.6135649	-58.3802728	hotel		Howard Johnson		
+way	473184635	Hotel N'ontuê		-34.6038935	-58.4121426	hotel				
+way	473190405	Hotel Egipto		-34.6038162	-58.4100837	hotel				
+way	473390281	Paname		-34.5777940	-58.4247563	hotel				http://panamehotel.com.ar/
+way	473390921	Broadway Hotel & Suites		-34.6035706	-58.3831872	hotel	4			https://www.broadway-suites.com.ar/
+way	473405562	Dazzler Hotel Recoleta		-34.5886146	-58.3954315	hotel				
+way	473409334	Hotel City Baires		-34.6118161	-58.3777890	hotel				
+way	473415695	Mérit San Telmo Hotel		-34.6103594	-58.3778959	hotel				
+way	473415702	Hotel de las Luces		-34.6101206	-58.3739135	hotel				
+way	473433270	Petit Recoleta Suites		-34.5970851	-58.3946436	hotel				
+way	473606121			-34.6019886	-58.4106508	hotel				
+way	473606580	Kenton Palace Hotel		-34.6122438	-58.3721441	hotel				https://www.kentonpalace.com.ar/
+way	473614548	Nogaró Hotel		-34.6099860	-58.3741567	hotel				
+way	473645827	San Telmo Luxury Suites		-34.6158181	-58.3722236	hotel				
+way	473660651	Youth Hostel		-34.6161911	-58.3713697	hostel				
+way	473670822	Hotel Carly		-34.6209017	-58.3722096	hotel				
+way	473670831	Hotel Brasas Del Mar		-34.6210250	-58.3775475	hotel				
+way	473843468	Vacances Hotel		-34.6196892	-58.3698216	hotel				
+way	473843493	Hotel Boutique Tiana		-34.6204966	-58.3747884	hotel				https://tianabuenosaires.com.ar/
+way	473853908	Piedras Suites		-34.6187047	-58.3771480	hotel				https://www.piedrassuites.com/
+way	473858793	Los Robles		-34.6183915	-58.3776788	hotel				
+way	474366487	Pestana Buenos Aires Hotel		-34.5982279	-58.3810301	hotel				
+way	474375282	Buenos Aires Marriott		-34.6021542	-58.3806962	hotel				
+way	474394306	Atlas Tower Hotel		-34.6045747	-58.3919094	hotel				
+way	474531251	Hotel Hamburg		-34.5911979	-58.4767468	hotel				
+way	475508963	Hotel Plaza Roma		-34.6088993	-58.3903476	hotel				
+way	475573710	La Fresqué		-34.6091590	-58.3803779	hotel	3			
+way	476172703	Bisonte Palace Hotel		-34.5966284	-58.3800751	hotel				
+way	476182407	Hotel Las Naciones		-34.6037276	-58.3782451	hotel				
+way	476357197	Crisol Mundial		-34.6095797	-58.3847160	hotel		Crisol Hotels		https://www.eurostarshotels.com/crisol-mundial.html
+way	476366464	La Perla Hotel		-34.6103837	-58.4057129	hotel				
+way	476369113	Hotel 26 de Setiembre		-34.6077697	-58.3790372	hotel			Federación Argentina de Empleados de Comercio y Servicios	https://www.faecys.org.ar/hotel-26-de-septiembre/
+way	476372008	Eleven Palace Hotel		-34.6113520	-58.4089947	hotel				
+way	476756167	El Misti Hotel Buenos Aires		-34.5974253	-58.3726859	hotel				https://elmistihotelbuenosaires.com
+way	476756170	Hotel Ushcata		-34.5986702	-58.3721617	hotel				
+way	476766476	Libertador Hotel		-34.5989897	-58.3765073	hotel				https://www.libertadorhotels.com/
+way	476767605	Hotel Familiar		-34.6247952	-58.4124082	hotel				
+way	476772574	Castelar Hotel & Spa		-34.6093557	-58.3827167	hotel				
+way	476996802	Conte Hotel		-34.6070515	-58.3805263	hotel				http://www.conte-hotel.com.ar/
+way	477042264	Tanguero Boutique Hotel		-34.5991913	-58.3798906	hotel				
+way	477538476	Motel Floresta		-34.6336050	-58.4797750	hotel				
+way	477548937	Hotel Directorio's		-34.6350315	-58.4666390	hotel				
+way	477550215	Viasui Hotel		-34.6003142	-58.3805174	hotel				
+way	477550224	Carsson Hotel		-34.6001900	-58.3761205	hotel				
+way	477556340	Hotel Amerian		-34.5998717	-58.3724657	hotel	4		Amerian	
+way	477564701	Catalinas Su Tes		-34.6006421	-58.3715507	hotel				
+way	477564708	Claridge Hotel		-34.6007810	-58.3745171	hotel	5	Eurostars Hotel Company		https://www.eurostarshotels.com/claridge-hotel.html
+way	477571789	Hotel Da Vinci		-34.6010689	-58.3789584	hotel	4		Asociación de Empleados Fiscales e Ingresos Públicos	https://www.davincihotel.com.ar
+way	504276754	Fierro Hotel		-34.5789097	-58.4353802	hotel	4			https://fierrohotel.com/
+way	504311604	Residencia La Scala		-34.5771962	-58.4387237	hostel				https://www.residencialascala.com.ar/
+way	670357925	El Conquistador Hotel		-34.5970983	-58.3801590	hotel				https://www.elconquistador.com.ar/
+way	670373022	Loi Suites Esmeralda		-34.5966803	-58.3790867	hotel	3			
+way	670402418	Viajero Hostel Buenos Aires		-34.6136355	-58.3756101	hostel			Viajero Hostels	https://www.viajerohostels.com/en/destinations-argentina/buenos-aires/
+way	671205124	Unique Executive Central		-34.6030832	-58.3833056	hotel				https://www.hotels-unique.com/unique-executive-central.html
+way	672239602	Boutique Apartments BA		-34.6153061	-58.3781256	hotel				https://www.boutiqueapartmentsba.com/
+way	806930316	Melia Recoleta Plaza		-34.5869334	-58.3875214	hotel				https://www.melia.com/pt/hoteis/argentina/buenos-aires/melia-recoleta-plaza/
+way	867915569	Suboficiales de la Fuerza Aérea		-34.5973353	-58.4060288	hotel				
+way	899918217			-34.6135633	-58.4047965	hotel				
+way	1207344165	Casa Caravan		-34.5870264	-58.4318024	hotel				
+way	1207344166	Palermitano		-34.5869639	-58.4317426	hotel	4		DOT Boutique	
+way	1207344169	U Lounge Buenos Aires		-34.5857361	-58.4291546	hostel				
+way	1207344178	1828 Smart Hotel		-34.5855126	-58.4302165	hotel	4			
+way	1270900108	Hotel Casa Lucía		-34.5915101	-58.3790143	hotel	5	Único Hoteles		https://www.hotelcasalucia.com/es/
+way	1327587265	Hotel Emperador Buenos Aires		-34.5901971	-58.3800769	hotel				
+way	1329612765	SLS Puerto Madero		-34.6186687	-58.3620341	hotel				
+way	1471952552	Gran Hotel Buenos Aires		-34.5961028	-58.3779197	hotel				https://granhotelbuenosaires.com/
+way	1471952555	Palacio Paz Hotel		-34.5956497	-58.3781400	hotel				
+relation	5328092	Tré Design Apartments		-34.5591655	-58.4437318	hotel				
+relation	11845905	Howard Johnson		-34.5998018	-58.4075354	hotel		Howard Johnson		
+relation	12462852	Sociedad Damas de la Misericordia		-34.5897557	-58.3976670	hostel				
