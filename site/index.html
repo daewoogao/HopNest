@@ -178,9 +178,16 @@
   #mini-form .save{background:var(--accent);color:#fff;}
   #mini-form .cancel{background:#eee;color:#333;}
 
+  #panel-close{position:absolute;top:12px;right:12px;background:none;border:1px solid var(--line);color:var(--text-dim);border-radius:6px;width:28px;height:28px;cursor:pointer;font-size:14px;line-height:1;}
+  #panel-close:hover{color:#fff;border-color:var(--text-dim);}
+  #sidebar .brand{position:relative;}
+  #panel-toggle{cursor:pointer;font:inherit;font-size:12.5px;font-weight:600;}
+  #panel-toggle:hover{border-color:var(--text-dim);}
+  #app.panel-hidden #sidebar{display:none;}
   @media (max-width:760px){
     #sidebar{position:absolute;z-index:1300;height:100%;transform:translateX(-100%);transition:.2s;}
     #sidebar.open{transform:translateX(0);}
+    #app.panel-hidden #sidebar{display:flex;}
   }
 </style>
 </head>
@@ -189,6 +196,7 @@
 
   <aside id="sidebar">
     <div class="brand">
+      <button type="button" id="panel-close" onclick="setPanel(false)" title="Hide this panel" aria-label="Hide this panel">◀</button>
       <div class="mark">route · stay · sightsee</div>
       <h1>Transit Trip Planner</h1>
       <p>Pick a city, toggle subway lines, and find hotels within walking distance of a station — with sightseeing layered on top.</p>
@@ -277,7 +285,10 @@
       <div id="place-search-results"></div>
     </div>
     <div id="topbar">
-      <div class="pill" id="zoom-hint">🔍 Zoom in for station &amp; sightseeing labels</div>
+      <div style="display:flex;gap:10px;">
+        <button type="button" class="pill" id="panel-toggle" onclick="togglePanel()" title="Show or hide the side panel">◀ Hide panel</button>
+        <div class="pill" id="zoom-hint">🔍 Zoom in for station &amp; sightseeing labels</div>
+      </div>
     </div>
     <div id="map"></div>
     <div id="add-banner">Click anywhere on the map to drop a sightseeing pin</div>
@@ -774,6 +785,25 @@ function transferInfoHTML(name){
   });
   return html;
 }
+
+// Side panel: hide/show on desktop (remembered); on phones it slides over
+// the map and starts closed.
+const PANEL_HIDDEN_STORAGE_KEY = 'hopnest_panel_hidden_v1';
+const isNarrow = () => window.matchMedia('(max-width:760px)').matches;
+function panelIsShown(){
+  return isNarrow() ? document.getElementById('sidebar').classList.contains('open')
+                    : !document.getElementById('app').classList.contains('panel-hidden');
+}
+function setPanel(show){
+  if(isNarrow()) document.getElementById('sidebar').classList.toggle('open', show);
+  else {
+    document.getElementById('app').classList.toggle('panel-hidden', !show);
+    try { localStorage.setItem(PANEL_HIDDEN_STORAGE_KEY, show ? '0' : '1'); } catch(e){}
+  }
+  document.getElementById('panel-toggle').textContent = show ? '◀ Hide panel' : '☰ Show panel';
+  setTimeout(()=>map.invalidateSize(), 50);
+}
+function togglePanel(){ setPanel(!panelIsShown()); }
 
 function loadCity(cityId){
   const data = CITIES[cityId];
@@ -1728,6 +1758,7 @@ function requestCity(){
   renderCityPicker();
 }
 
+try { setPanel(isNarrow() ? false : localStorage.getItem(PANEL_HIDDEN_STORAGE_KEY) !== '1'); } catch(e){ setPanel(!isNarrow()); }
 loadAllCities().then(()=>{
   restorePinsFromStorage();
   const sharedCity = loadSharedPinsFromUrl();

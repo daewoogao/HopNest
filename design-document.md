@@ -486,6 +486,15 @@ they're done.
 
 ## Changelog
 
+### 2026-10-16 — hide/show the side panel
+- Audrey asked how to close the left panel; there was no way. Now a ◀
+  button in the panel's top-right corner hides it, and a "☰ Show panel"
+  pill at the top-left of the map brings it back. On desktop the choice
+  is remembered (`hopnest_panel_hidden_v1`).
+- Also fixes phones: under 760 px the panel was off-screen with no way to
+  open it. It now starts closed and slides over the map from the same
+  button.
+
 ### 2026-10-16 — transfer stations marked on the map
 - Audrey asked: at Lisbon's São Sebastião (Blue and Red lines), can you
   change inside the station or do you walk? Now every city shows it: a
