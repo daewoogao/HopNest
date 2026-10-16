@@ -109,8 +109,10 @@ station/airport/railway stop you tap.
 
 - **Subway lines**: real official colors, toggleable per line, station
   dots clickable.
-- **Transfers** (2026-10-16): a white ring with a dark border marks a
-  station where you change lines inside the station; a dashed grey line
+- **Transfers** (2026-10-16): metro-map style, as Audrey asked: a white
+  circle with a dark border at each line's platform, joined by a white
+  bar with a dark border, marks a station where you change lines inside
+  (one label per interchange); a dashed grey line
   joins two separate stations a short walk apart. The station popup says
   which lines you can change to, or how far the walk is. Worked out in
   the browser from the line data (no extra data): same station name on
@@ -498,6 +500,9 @@ they're done.
   (Paris Montparnasse), and a few walk pairs are joined underground
   (Buenos Aires Perú–Catedral–Bolívar); the walk popup says to follow
   the signs. 45 cities: ~960 interchange rings, ~45 walk links.
+- Same day, restyled after Audrey shared an LA Metro map she finds clear:
+  one white circle per line at the station, joined by a white bar with a
+  dark outline (instead of one ring), and the station name shown once.
 
 ### 2026-10-16 — batch 5: 20 more cities (45 total)
 - Audrey asked for the next 20 in the same PR as the continent toggle.
