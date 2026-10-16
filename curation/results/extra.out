@@ -1,0 +1,59 @@
+@type	@id	name	name:en	railway	station	network	tourism	@lat	@lon
+node	257066779	สุรศักดิ์	Surasak	station	subway	BTS		13.7192683	100.5214619
+node	257066790	ช่องนนทรี	Chong Nonsi	station	subway			13.7237969	100.5293250
+node	257066809	ราชดำริ	Ratchadamri	station	subway			13.7394708	100.5394496
+node	257067085	สะพานตากสิน	Saphan Taksin	station	subway			13.7188128	100.5142230
+node	280179404	หัวลำโพง	Hua Lamphong	station	subway			13.7375708	100.5171350
+node	280179448	ศูนย์การประชุมแห่งชาติสิริกิติ์	Queen Sirikit National Convention Centre	station	subway			13.7226725	100.5599134
+node	280222462	ลุมพินี	Lumphini	station	subway			13.7256066	100.5457249
+node	280729450	คลองเตย	Khlong Toei	station	subway			13.7221264	100.5543696
+node	305693940	โพธิ์นิมิตร	Pho Nimit	station	subway	BTS		13.7192426	100.4859681
+node	340133002	ตลาดพลู	Talat Phlu	station	subway	BTS		13.7142201	100.4766912
+node	443815142	วงเวียนใหญ่	Wongwian Yai	station	subway	BTS		13.7210816	100.4951594
+node	443815144	กรุงธนบุรี	Krung Thon Buri	station	subway	BTS		13.7209307	100.5027176
+node	451697335	ศาลาแดง	Sala Daeng	station	subway			13.7285677	100.5343416
+node	674670328	ตลาดพลู	Talat Phlu	station		การรถไฟแห่งประเทศไทย		13.7208188	100.4780183
+node	674670334	วงเวียนใหญ่	Wongwian Yai	station		การรถไฟแห่งประเทศไทย		13.7243925	100.4912323
+node	1113055052	วุฒากาศ	Wutthakat	station	subway			13.7130228	100.4689032
+node	1637548696	มักกะสัน	Makkasan	station		การรถไฟแห่งประเทศไทย		13.7538606	100.5473663
+node	1692209237	สยาม	Siam	station	subway	BTS		13.7456236	100.5342199
+node	1692810681	แม่น้ำ	Mae Nam	station		การรถไฟแห่งประเทศไทย		13.7139129	100.5538607
+node	2094758805	ท่าพระ	Tha Phra	station	subway			13.7296466	100.4740422
+node	2276969439	Flower Inn					guest_house	41.7956259	12.6104350
+node	3801037850	จรัญฯ 13	Charan 13	station	subway			13.7401714	100.4707092
+node	3801040558	บางไผ่	Bang Phai	station	subway			13.7246179	100.4650788
+node	4688859236	Pratesi Hotel Division					hotel	41.8147925	12.5927807
+node	5388610344	พญาไท	Phaya Thai	station	subway			13.7569644	100.5338214
+node	5388611982	ราชเทวี	Ratchathewi	station	subway			13.7518605	100.5315534
+node	5391628766	นานา	Nana	station	subway	BTS		13.7405358	100.5554291
+node	5391631777	เพลินจิต	Phloen Chit	station	subway	BTS		13.7430684	100.5489762
+node	5391636575	ชิดลม	Chit Lom	station	subway	BTS		13.7440974	100.5430684
+node	5812248586	เจริญนคร	Charoen Nakhon	station		BTS		13.7264621	100.5090694
+node	5812248587	คลองสาน	Khlong San	station		BTS		13.7303066	100.5077213
+node	6711026524	ราชปรารภ	Ratchaprarop	station		ARL		13.7551065	100.5421238
+node	6711028526	พญาไท	Phaya Thai	station		ARL		13.7567100	100.5349074
+node	6813597885	Trevel Home					guest_house	41.8090348	12.6076497
+node	7096345624	ไฟฉาย	Fai Chai	station	subway	MRT		13.7558013	100.4693198
+node	7769630266	กรุงเทพ	Bangkok	station		การรถไฟแห่งประเทศไทย		13.7393113	100.5166499
+node	7781158247	เซนต์หลุยส์	Saint Louis	station	subway	BTS		13.7208160	100.5266863
+node	7947551369	กรุงธนบุรี	Krung Thon Buri	station		BTS		13.7211055	100.5037147
+node	11505460640	สนามกีฬาแห่งชาติ	National Stadium	station	subway			13.7465100	100.5290855
+node	12803589960	สีลม	Si Lom	station	subway			13.7291982	100.5370702
+node	12803915074	วัดมังกร	Wat Mangkon	station	subway			13.7422095	100.5099097
+node	12803915076	สามยอด	Sam Yot	station	subway			13.7470004	100.5023022
+node	12803915077	สนามไชย	Sanam Chai	station	subway			13.7443259	100.4946239
+node	12803915078	สามย่าน	Sam Yan	station	subway			13.7320608	100.5301206
+node	12803915080	อิสรภาพ	Itsaraphap	station	subway			13.7383645	100.4857002
+way	160085342	Hilton Garden Inn Chicago/Midway Airport					hotel	41.7741491	-87.7464193
+way	160085343	Marriott Chicago Midway Airport					hotel	41.7739522	-87.7446781
+way	160088085	Hampton Inn & Suites Chicago Midway Airport					hotel	41.7737914	-87.7428322
+way	160088088	Fairfield Inn & Suites Chicago Midway Airport					hotel	41.7723001	-87.7436903
+way	160088093	Holiday Inn Express Chicago Midway Airport					hotel	41.7743830	-87.7430489
+way	160089848	Sleep Inn Midway Airport					hotel	41.7717090	-87.7427230
+way	291663770	Courtyard Chicago Midway Airport					hotel	41.7730527	-87.7436789
+way	331457646	Hotel PalaCavicchi					hotel	41.8099491	12.5811948
+way	425265050	Holiday Inn Chicago - Midway Airport					hotel	41.7722324	-87.7452598
+way	425265053	Residence Inn Chicago Midway Airport					hotel	41.7714996	-87.7461999
+way	425265082	Hyatt Place Chicago/Midway Airport					hotel	41.7725881	-87.7469646
+way	434839931	Villa di Fiorano					hotel	41.7990860	12.5760172
+way	514879394	La Villetta Suite					guest_house	41.7863687	12.6069848
