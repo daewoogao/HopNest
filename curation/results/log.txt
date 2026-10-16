@@ -177,3 +177,5 @@
 16:27:35 stockholm lines ok
 16:28:01 toronto lines ok
 16:28:21 xian lines ok
+16:29:20 brussels lines ok
+16:29:52 copenhagen lines ok

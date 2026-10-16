@@ -1,0 +1,96 @@
+[
+  {
+    "id": "lm1",
+    "name": "Metro M1",
+    "color": "#008D41",
+    "code": "M1",
+    "stations": [
+      ["Vanløse",55.6871,12.4925],
+      ["Flintholm",55.6858,12.4994],
+      ["Lindevang",55.6834,12.5132],
+      ["Fasanvej",55.6816,12.5235],
+      ["Frederiksberg",55.6812,12.5318],
+      ["Forum",55.6818,12.5525],
+      ["Nørreport",55.6839,12.571],
+      ["Kongens Nytorv",55.6792,12.5851],
+      ["Christianshavn",55.6721,12.5913],
+      ["Islands Brygge",55.6634,12.5851],
+      ["DR Byen",55.6558,12.5889],
+      ["Sundby",55.6453,12.5856],
+      ["Bella Center",55.6381,12.5828],
+      ["Ørestad",55.629,12.5792],
+      ["Vestamager",55.6194,12.5755]
+    ]
+  },
+  {
+    "id": "lm2",
+    "name": "Metro M2",
+    "color": "#FFC600",
+    "code": "M2",
+    "stations": [
+      ["Vanløse",55.6871,12.4925],
+      ["Flintholm",55.6858,12.4994],
+      ["Lindevang",55.6834,12.5132],
+      ["Fasanvej",55.6816,12.5235],
+      ["Frederiksberg",55.6812,12.5318],
+      ["Forum",55.6818,12.5525],
+      ["Nørreport",55.6839,12.571],
+      ["Kongens Nytorv",55.6792,12.5851],
+      ["Christianshavn",55.6721,12.5913],
+      ["Amagerbro",55.6633,12.6029],
+      ["Lergravsparken",55.6622,12.6171],
+      ["Øresund",55.6614,12.6287],
+      ["Amager Strand",55.6561,12.6318],
+      ["Femøren",55.6452,12.6382],
+      ["Kastrup",55.6357,12.6469],
+      ["The Airport",55.6309,12.6491]
+    ]
+  },
+  {
+    "id": "lm3",
+    "name": "Cityringen",
+    "color": "#FF0A0A",
+    "code": "M3",
+    "stations": [
+      ["Aksel Møllers Have",55.686,12.533],
+      ["Nuuks Plads",55.6885,12.5426],
+      ["Nørrebros Runddel",55.6935,12.549],
+      ["Nørrebro",55.7,12.5381],
+      ["Skjolds Plads",55.7035,12.5488],
+      ["Vibenhus Runddel",55.7064,12.5648],
+      ["Poul Henningsens Plads",55.7094,12.5761],
+      ["Trianglen",55.6993,12.5755],
+      ["Østerport",55.6928,12.5859],
+      ["Marmorkirken",55.6851,12.5891],
+      ["Kongens Nytorv",55.6801,12.5858],
+      ["Gammel Strand",55.6776,12.5789],
+      ["Rådhuspladsen",55.6765,12.5681],
+      ["København H",55.6714,12.5638],
+      ["Enghave Plads",55.6673,12.5468],
+      ["Frederiksberg Allé",55.6735,12.5407],
+      ["Frederiksberg",55.6808,12.5325],
+      ["Aksel Møllers Have",55.686,12.533]
+    ]
+  },
+  {
+    "id": "lm4",
+    "name": "Nordhavnsmetro",
+    "color": "#009CD3",
+    "code": "M4",
+    "stations": [
+      ["Orientkaj",55.7119,12.5951],
+      ["Nordhavn",55.7075,12.5915],
+      ["Østerport",55.6928,12.5859],
+      ["Marmorkirken",55.6851,12.5891],
+      ["Kongens Nytorv",55.6801,12.5858],
+      ["Gammel Strand",55.6776,12.5789],
+      ["Rådhuspladsen",55.6765,12.5681],
+      ["København H",55.6714,12.5638],
+      ["Havneholmen",55.661,12.5593],
+      ["Enghave Brygge",55.6541,12.5564],
+      ["Sluseholmen",55.6459,12.5444],
+      ["Mozarts Plads",55.649,12.5344],
+      ["København Syd",55.6533,12.5156]
+    ]
+  }
+]
