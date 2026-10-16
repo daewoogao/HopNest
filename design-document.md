@@ -109,6 +109,14 @@ station/airport/railway stop you tap.
 
 - **Subway lines**: real official colors, toggleable per line, station
   dots clickable.
+- **Transfers** (2026-10-16): a white ring with a dark border marks a
+  station where you change lines inside the station; a dashed grey line
+  joins two separate stations a short walk apart. The station popup says
+  which lines you can change to, or how far the walk is. Worked out in
+  the browser from the line data (no extra data): same station name on
+  lines of different colours within 500 m = one station; different names
+  within 200 m, or the same name 500–800 m apart = walk. A legend sits
+  under the line list.
 - **Cities**: Tokyo, Shanghai, New York City, London, Barcelona, plus
   the scale-up (2026-10-15/16): Paris, Seoul, Osaka, Hong Kong,
   Singapore, Taipei, Bangkok, Beijing, Madrid, Rome, Berlin, Amsterdam,
@@ -475,6 +483,21 @@ they're done.
 ---
 
 ## Changelog
+
+### 2026-10-16 — transfer stations marked on the map
+- Audrey asked: at Lisbon's São Sebastião (Blue and Red lines), can you
+  change inside the station or do you walk? Now every city shows it: a
+  white ring = change inside the station; a dashed line = separate
+  stations, walk; the popup lists the lines or gives the walk distance.
+- Computed from the line data (`computeTransfers()` in `site/index.html`),
+  so new cities get it for free. Lines in the same colour count as one
+  line (branches, shared trunks like New York's A/C/E). Station-name
+  spelling variants across lines are matched ("Reuilly - Diderot" /
+  "Reuilly — Diderot", "Inderlok (Red Line)" / "Inderlok").
+- Limits: it's a heuristic. A few "inside" changes are long corridors
+  (Paris Montparnasse), and a few walk pairs are joined underground
+  (Buenos Aires Perú–Catedral–Bolívar); the walk popup says to follow
+  the signs. 45 cities: ~960 interchange rings, ~45 walk links.
 
 ### 2026-10-16 — batch 5: 20 more cities (45 total)
 - Audrey asked for the next 20 in the same PR as the continent toggle.

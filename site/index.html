@@ -161,6 +161,9 @@
   .hover-airport{border-left-color:#0b4f6c;}
   .hover-rail{border-left-color:#8a3b12;}
 
+  .transfer-legend{font-size:11px;color:var(--text-dim);margin-top:8px;line-height:1.5;}
+  .transfer-legend .ring{display:inline-block;width:9px;height:9px;border-radius:50%;background:#fff;border:2.5px solid #1a222b;vertical-align:-2px;margin-right:4px;}
+  .transfer-legend .dash{display:inline-block;width:16px;border-top:2px dashed #555;vertical-align:3px;margin-right:4px;}
   .station-label{font-family:var(--font-ui);font-size:10px;font-weight:600;color:#1a222b;text-shadow:0 0 3px #fff,0 0 3px #fff,0 0 3px #fff;white-space:nowrap;}
   .sight-label{font-family:var(--font-display);font-size:11.5px;font-weight:600;color:#12181f;text-shadow:0 0 4px #fff,0 0 4px #fff,0 0 4px #fff;white-space:nowrap;}
   .airport-label{font-family:var(--font-mono);font-size:11px;font-weight:700;color:#0b4f6c;text-shadow:0 0 4px #fff,0 0 4px #fff,0 0 4px #fff;white-space:nowrap;}
@@ -217,6 +220,7 @@
       <div id="operating-hours-note" style="font-size:11.5px;color:var(--text-dim);margin-bottom:4px;line-height:1.4;"></div>
       <div id="fare-info-note" style="font-size:11.5px;color:var(--text-dim);margin-bottom:8px;line-height:1.4;"></div>
       <div id="line-list"></div>
+      <div class="transfer-legend"><span class="ring"></span>Change lines inside the station &nbsp; <span class="dash"></span>Separate stations, walk between them</div>
     </div>
 
     <div class="section">
@@ -619,6 +623,7 @@ const NO_CLOSE_BTN = {closeButton:false};
 function clearCityLayers(){
   Object.values(lineLayers).forEach(l=>{ map.removeLayer(l.poly); l.stationMarkers.forEach(m=>map.removeLayer(m)); l.stationLabels.forEach(m=>map.removeLayer(m)); });
   lineLayers = {};
+  transferLayers.forEach(t=>map.removeLayer(t.layer)); transferLayers = [];
   hotelMarkers.forEach(h=>map.removeLayer(h.marker)); hotelMarkers=[];
   sightMarkers.forEach(s=>{ map.removeLayer(s.marker); map.removeLayer(s.label); }); sightMarkers=[];
   airportMarkers.forEach(a=>{ map.removeLayer(a.marker); map.removeLayer(a.label); }); airportMarkers=[];
@@ -654,6 +659,112 @@ function wireHotelPopup(marker, h){
   // controlling open/close.
   marker.bindPopup('', NO_CLOSE_BTN);
   marker.on('popupopen', ()=> marker.setPopupContent(popupHTML(buildHotelPopupHTML(h))));
+}
+
+/* ---------------- Transfers between lines ----------------
+   Worked out from the line data, no extra data file:
+   - Same station name on 2+ different lines (branches of one line don't
+     count) and within TRANSFER_SAME_M → one station, change inside.
+   - Same name but further apart, or different names on different lines
+     within TRANSFER_WALK_M → separate stations; walk between them.
+   It's a heuristic: a few "inside" changes are long corridors, and a few
+   walks are via an underground passage. Popups word it accordingly. */
+const TRANSFER_SAME_M = 500, TRANSFER_WALK_M = 200, TRANSFER_FAR_MAX_M = 800;
+// Spelling variants of one station across lines ("Reuilly - Diderot" /
+// "Reuilly — Diderot", "Inderlok (Red Line)" / "Inderlok") count as one name.
+const stationKey = n => n.split(';')[0].normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase()
+  .replace(/\(.*?\)/g,' ').replace(/\buniv\b\.?/g,'university').trim()
+  .replace(/\s+(l\d+|station)$/,'').replace(/[\s\p{P}\p{S}]+/gu,'');
+let currentTransfers = {byName:new Map(), walks:[]};
+let transferLayers = [];
+// Lines drawn in the same colour are one line (branches, or services sharing
+// a trunk like New York's A/C/E), so they don't make a transfer.
+const lineKey = l => (l.color || l.id).toLowerCase();
+
+function computeTransfers(data){
+  const byName = new Map();   // name -> {lat,lng, lines:[line...]}
+  const pts = [];             // one per (station name, line group)
+  data.lines.forEach(line=>{
+    line.stations.forEach(([name,lat,lng])=>{
+      const sk = stationKey(name);
+      let e = byName.get(sk);
+      if(!e){ e = {name, lat, lng, lines:[], keys:new Set(), far:[], pts:[]}; byName.set(sk, e); }
+      const k = lineKey(line);
+      if(e.keys.has(k)) return;
+      const d = haversineMeters(lat,lng,e.lat,e.lng);
+      if(d > TRANSFER_SAME_M){
+        // Same name a long way off is a different station (e.g. two "Oak Park"s).
+        if(d <= TRANSFER_FAR_MAX_M && !e.far.some(f=>lineKey(f.line)===k)) e.far.push({line, lat, lng});
+        return;
+      }
+      e.keys.add(k); e.lines.push(line); e.pts.push({lat, lng, d, id:line.id});
+      pts.push({name, sk, lat, lng, line, k});
+    });
+  });
+  const walks = [];
+  // Same name, but the platforms are far apart.
+  byName.forEach(e=> e.far.forEach(f=>{
+    walks.push({a:{name:e.name, lat:e.lat, lng:e.lng, lines:e.lines}, b:{name:e.name, lat:f.lat, lng:f.lng, lines:[f.line]}, m:haversineMeters(e.lat,e.lng,f.lat,f.lng)});
+  }));
+  // Different names, different lines, very close together.
+  const seen = new Set();
+  for(let i=0;i<pts.length;i++) for(let j=i+1;j<pts.length;j++){
+    const p = pts[i], q = pts[j];
+    if(p.sk === q.sk || p.k === q.k) continue;
+    const key = [p.sk,q.sk].sort().join('|');
+    if(seen.has(key)) continue;
+    const m = haversineMeters(p.lat,p.lng,q.lat,q.lng);
+    if(m > TRANSFER_WALK_M) continue;
+    // Skip if the two names already share a line group (neighbouring stops).
+    const ea = byName.get(p.sk), eb = byName.get(q.sk);
+    if([...ea.keys].some(k=>eb.keys.has(k))) continue;
+    seen.add(key);
+    walks.push({a:{name:p.name, lat:ea.lat, lng:ea.lng, lines:ea.lines}, b:{name:q.name, lat:eb.lat, lng:eb.lng, lines:eb.lines}, m});
+  }
+  return {byName, walks};
+}
+
+function drawTransfers(t){
+  t.byName.forEach(e=>{
+    if(e.lines.length < 2) return;
+    const ring = L.circleMarker([e.lat,e.lng], {radius:7, weight:3, color:'#1a222b', fillColor:'#fff', fillOpacity:1, interactive:false}).addTo(map);
+    transferLayers.push({layer:ring, lineIds:e.lines.map(l=>l.id), kind:'ring'});
+    // Platforms mapped a little apart: a solid link shows they're one station.
+    e.pts.filter(q=>q.d > 40).forEach(q=>{
+      const link = L.polyline([[e.lat,e.lng],[q.lat,q.lng]], {color:'#1a222b', weight:3, opacity:.9, interactive:false}).addTo(map);
+      link.bringToBack();
+      transferLayers.push({layer:link, lineIds:e.lines.map(l=>l.id), kind:'link'});
+    });
+  });
+  t.walks.forEach(w=>{
+    const dash = L.polyline([[w.a.lat,w.a.lng],[w.b.lat,w.b.lng]], {color:'#555', weight:2.5, dashArray:'4 5', opacity:.9, interactive:false}).addTo(map);
+    transferLayers.push({layer:dash, lineIds:[...w.a.lines, ...w.b.lines].map(l=>l.id), kind:'walk'});
+  });
+}
+
+function updateTransferVisibility(){
+  transferLayers.forEach(t=>{
+    const on = t.lineIds.filter(id=>activeLines.has(id)).length >= 2;
+    if(t.kind === 'ring') t.layer.setStyle({opacity:on?1:0, fillOpacity:on?1:0});
+    else t.layer.setStyle({opacity:on?.9:0});
+  });
+}
+
+const lineLabel = l => `<span style="display:inline-block;width:8px;height:8px;border-radius:50%;background:${l.color};margin-right:3px;"></span>${l.name}`;
+function transferInfoHTML(name){
+  const sk = stationKey(name);
+  const e = currentTransfers.byName.get(sk);
+  let html = '';
+  if(e && e.lines.length >= 2){
+    html += `<div class="popup-sub" style="color:#1a222b;"><b>🔁 Change lines inside this station:</b><br>${e.lines.map(lineLabel).join('<br>')}</div>`;
+  }
+  currentTransfers.walks.filter(w=>stationKey(w.a.name)===sk || stationKey(w.b.name)===sk).forEach(w=>{
+    const other = stationKey(w.a.name)===sk ? w.b : w.a;
+    const m = Math.round(w.m/10)*10;
+    const where = stationKey(other.name)===sk ? `the ${name} platforms of` : `${other.name} station for`;
+    html += `<div class="popup-sub" style="color:#555;">🚶 Separate station ~${m} m (~${Math.max(1,Math.round(w.m/WALK_SPEED_M_PER_MIN))} min walk): ${where} ${other.lines.map(l=>l.name).join(', ')}. Some pairs are joined by an underground passage, others need a street walk; follow the signs.</div>`;
+  });
+  return html;
 }
 
 function loadCity(cityId){
@@ -698,6 +809,8 @@ function loadCity(cityId){
     });
     lineLayers[line.id] = {poly, stationMarkers, stationLabels, def:line};
   });
+  currentTransfers = computeTransfers(data);
+  drawTransfers(currentTransfers);
 
   data.hotels.forEach((h,idx)=>{
     if(!h._id) h._id = currentCityId+'_h'+idx;
@@ -745,7 +858,7 @@ function scheduleAutoClose(marker, delay){
 }
 
 function buildStationPopupHTML(name, line, mins){
-  return `<div class="popup-title">${name} Station</div><div class="popup-sub">${line.name}${line.jp?' ('+line.jp+')':''}</div>${line.firstLast?`<div class="popup-sub" style="color:#1f6fb2;">🕐 ${line.firstLast}</div>`:''}<div class="popup-sub">Showing ${mins}-min walk radius. Hotels inside are highlighted dark green in the list.</div>`;
+  return `<div class="popup-title">${name} Station</div><div class="popup-sub">${line.name}${line.jp?' ('+line.jp+')':''}</div>${line.firstLast?`<div class="popup-sub" style="color:#1f6fb2;">🕐 ${line.firstLast}</div>`:''}${transferInfoHTML(name)}<div class="popup-sub">Showing ${mins}-min walk radius. Hotels inside are highlighted dark green in the list.</div>`;
 }
 
 function toggleStationCircle(dot, lat, lng, name, line){
@@ -1043,6 +1156,7 @@ function render(){
     layer.poly.setStyle({opacity:on?.9:0});
     layer.stationMarkers.forEach(m=> m.setStyle({opacity:on?1:0, fillOpacity:on?1:0}));
   });
+  updateTransferVisibility();
   updateStationLabelVisibility();
 
   const circles = activeCircleData();
