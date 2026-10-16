@@ -1,0 +1,371 @@
+{
+  "name": "Los Angeles",
+  "country": "USA",
+  "flag": "🇺🇸",
+  "center": [34.05,-118.26],
+  "zoom": 12,
+  "operatingHours": "Metro rail runs ~4:30 AM–~midnight daily (~5:00 AM–~12:30 AM on some lines), with trains every 5–12 min by day and every 10–20 min late. There is no 24-hour rail service; some Metro buses run overnight.",
+  "fareInfo": "Flat $1.75 per ride on any Metro bus or rail, with free transfers for 2 hours (2026). Tap a TAP card, TAP in a phone wallet, or a contactless bank card; fare capping stops charges at $5 per day and $18 per week. Airport shuttle from LAX to the K Line is free.",
+  "lines": [
+    {
+      "id": "la",
+      "name": "Metro A Line",
+      "color": "#0072BC",
+      "code": "A",
+      "stations": [
+        ["Pomona North",34.094,-117.7518],
+        ["La Verne/Fairplex",34.0974,-117.7685],
+        ["San Dimas",34.1053,-117.8064],
+        ["Glendora",34.1322,-117.8667],
+        ["APU/Citrus College",34.1368,-117.8921],
+        ["Azusa Downtown",34.1358,-117.907],
+        ["Irwindale",34.129,-117.9329],
+        ["Duarte/City of Hope",34.1326,-117.9681],
+        ["Monrovia",34.1333,-118.0039],
+        ["Arcadia",34.1431,-118.0295],
+        ["Sierra Madre Villa",34.1478,-118.0816],
+        ["Allen",34.1524,-118.1147],
+        ["Lake",34.1519,-118.1321],
+        ["Memorial Park",34.1481,-118.1477],
+        ["Del Mar",34.1416,-118.1482],
+        ["Fillmore",34.1332,-118.1482],
+        ["South Pasadena",34.1151,-118.158],
+        ["Highland Park",34.1111,-118.1929],
+        ["Southwest Museum",34.0981,-118.2071],
+        ["Heritage Square",34.0871,-118.2134],
+        ["Lincoln/Cypress",34.0807,-118.2208],
+        ["Chinatown",34.0636,-118.236],
+        ["Union Station",34.056,-118.2348],
+        ["Little Tokyo/Arts District",34.0488,-118.239],
+        ["Historic Broadway",34.0523,-118.2464],
+        ["Grand Avenue Arts/Bunker Hill",34.0547,-118.2518],
+        ["7th Street/Metro Center",34.0486,-118.2588],
+        ["Pico",34.0404,-118.2665],
+        ["Grand/LATTC",34.0329,-118.2689],
+        ["San Pedro Street",34.0266,-118.2552],
+        ["Washington",34.0193,-118.2431],
+        ["Vernon",34.0027,-118.2433],
+        ["Slauson",33.9885,-118.2435],
+        ["Florence",33.9735,-118.2433],
+        ["Firestone",33.9593,-118.2433],
+        ["103rd Street/Watts Towers",33.9419,-118.2432],
+        ["Willowbrook/Rosa Parks",33.9277,-118.2374],
+        ["Compton",33.8971,-118.2243],
+        ["Artesia",33.8757,-118.2224],
+        ["Del Amo",33.8478,-118.2109],
+        ["Wardlow",33.8196,-118.196],
+        ["Willow Street",33.8067,-118.1897],
+        ["Pacific Coast Highway",33.7887,-118.1894],
+        ["Anaheim Street",33.7814,-118.1894],
+        ["5th Street",33.7733,-118.1894],
+        ["1st Street",33.7684,-118.1894],
+        ["Downtown Long Beach",33.7681,-118.1934]
+      ]
+    },
+    {
+      "id": "lb",
+      "name": "Metro B Line",
+      "color": "#E3131B",
+      "code": "B",
+      "stations": [
+        ["North Hollywood",34.1682,-118.3766],
+        ["Universal City/Studio City",34.1392,-118.3621],
+        ["Hollywood/Highland",34.1015,-118.3389],
+        ["Hollywood/Vine",34.1016,-118.3239],
+        ["Hollywood/Western",34.1017,-118.3074],
+        ["Vermont/Sunset",34.0983,-118.2918],
+        ["Vermont/Santa Monica",34.0892,-118.2918],
+        ["Vermont/Beverly",34.0764,-118.2918],
+        ["Wilshire/Vermont",34.0624,-118.2899],
+        ["Westlake/MacArthur Park",34.0563,-118.275],
+        ["7th Street/Metro Center",34.0482,-118.2582],
+        ["Pershing Square",34.0501,-118.2505],
+        ["Civic Center/Grand Park",34.0553,-118.2456],
+        ["Union Station",34.0554,-118.2341]
+      ]
+    },
+    {
+      "id": "lc",
+      "name": "Metro C Line",
+      "color": "#58A738",
+      "code": "C",
+      "stations": [
+        ["Aviation/Century",33.9459,-118.3788],
+        ["Aviation/Imperial",33.9296,-118.3769],
+        ["Hawthorne/Lennox",33.9333,-118.3513],
+        ["Crenshaw",33.9252,-118.3261],
+        ["Vermont/Athens",33.9286,-118.2913],
+        ["Harbor Freeway",33.9286,-118.2807],
+        ["Avalon",33.9274,-118.2648],
+        ["Willowbrook/Rosa Parks",33.9282,-118.2377],
+        ["Lynwood",33.9247,-118.2096],
+        ["Lakewood Boulevard",33.913,-118.1401],
+        ["Norwalk",33.914,-118.1045]
+      ],
+      "firstLast": "LAX/Metro Transit Center station: free LAX shuttle to the terminals; trains ~4:30 AM to ~midnight."
+    },
+    {
+      "id": "ld",
+      "name": "Metro D Line",
+      "color": "#A05DA5",
+      "code": "D",
+      "stations": [
+        ["Wilshire/La Cienega",34.065,-118.3757],
+        ["Wilshire/Fairfax",34.0629,-118.3612],
+        ["Wilshire/La Brea",34.0622,-118.344],
+        ["Wilshire/Western",34.0617,-118.3072],
+        ["Wilshire/Normandie",34.0617,-118.3001],
+        ["Wilshire/Vermont",34.0624,-118.2899],
+        ["Westlake/MacArthur Park",34.0563,-118.275],
+        ["7th Street/Metro Center",34.0482,-118.2582],
+        ["Pershing Square",34.0501,-118.2505],
+        ["Civic Center/Grand Park",34.0553,-118.2456],
+        ["Union Station",34.0554,-118.2341]
+      ]
+    },
+    {
+      "id": "le",
+      "name": "Metro E Line",
+      "color": "#F7B618",
+      "code": "E",
+      "stations": [
+        ["Atlantic",34.0334,-118.154],
+        ["East LA Civic Center",34.0334,-118.1616],
+        ["Maravilla",34.0333,-118.1686],
+        ["Indiana",34.0346,-118.1921],
+        ["Soto",34.0441,-118.2106],
+        ["Mariachi Plaza",34.0473,-118.2199],
+        ["Pico/Aliso",34.0477,-118.2265],
+        ["Little Tokyo/Arts District",34.0488,-118.239],
+        ["Historic Broadway",34.0523,-118.2464],
+        ["Grand Avenue Arts/Bunker Hill",34.0547,-118.2518],
+        ["7th Street/Metro Center",34.0486,-118.2588],
+        ["Pico",34.0404,-118.2665],
+        ["LATTC/Ortho Institute",34.0288,-118.2738],
+        ["Jefferson/USC",34.0219,-118.2783],
+        ["Expo Park/USC",34.0183,-118.2857],
+        ["Expo/Vermont",34.0183,-118.2929],
+        ["Expo/Western",34.0184,-118.3104],
+        ["Expo/Crenshaw",34.0224,-118.3343],
+        ["Farmdale",34.0239,-118.3458],
+        ["Expo/La Brea",34.0249,-118.3556],
+        ["La Cienega/Jefferson",34.0264,-118.3725],
+        ["Culver City",34.028,-118.3893],
+        ["Palms",34.0294,-118.4047],
+        ["Westwood/Rancho Park",34.0368,-118.425],
+        ["Expo/Sepulveda",34.0354,-118.4347],
+        ["Expo/Bundy",34.0317,-118.4534],
+        ["26th Street/Bergamot",34.0279,-118.4695],
+        ["17th Street/SMC",34.023,-118.4807],
+        ["Downtown Santa Monica",34.0138,-118.4917]
+      ]
+    },
+    {
+      "id": "lk",
+      "name": "Metro K Line",
+      "color": "#E96BB0",
+      "code": "K",
+      "stations": [
+        ["Redondo Beach",33.8945,-118.3689],
+        ["Douglas",33.9055,-118.3833],
+        ["El Segundo",33.9166,-118.3871],
+        ["Mariposa",33.9234,-118.3875],
+        ["Aviation/Century",33.9459,-118.3787],
+        ["Westchester/Veterans",33.962,-118.3746],
+        ["Downtown Inglewood",33.9672,-118.3514],
+        ["Fairview Heights",33.9751,-118.3362],
+        ["Hyde Park",33.9884,-118.3308],
+        ["Leimert Park",34.0047,-118.3326],
+        ["Martin Luther King Jr.",34.0103,-118.3353],
+        ["Expo/Crenshaw",34.022,-118.3348]
+      ],
+      "firstLast": "LAX/Metro Transit Center station: free LAX shuttle to the terminals; trains ~4:30 AM to ~midnight."
+    }
+  ],
+  "hotels": [
+    {"name":"InterContinental Los Angeles Downtown","lat":34.05,"lng":-118.26,"area":"Downtown Los Angeles","rating":4.2,"ratingCount":1480,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Sheraton Grand Los Angeles","lat":34.0477,"lng":-118.2583,"area":"Downtown Los Angeles","rating":4.5,"ratingCount":1689,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hotel Indigo Los Angeles Downtown","lat":34.0473,"lng":-118.2645,"area":"Downtown Los Angeles","rating":4.4,"ratingCount":1391,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hotel Figueroa, Unbound Collection by Hyatt","lat":34.0455,"lng":-118.2641,"area":"Downtown Los Angeles","rating":4.6,"ratingCount":2830,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"STILE Downtown Los Angeles","lat":34.0418,"lng":-118.257,"area":"Downtown Los Angeles","rating":4.1,"ratingCount":892,"stars":3,"priceTier":2},
+    {"name":"Loews Hollywood Hotel","lat":34.1033,"lng":-118.3396,"area":"Hollywood","rating":4.3,"ratingCount":5522,"stars":4,"priceTier":4},
+    {"name":"The Hollywood Roosevelt","lat":34.1009,"lng":-118.3422,"area":"Hollywood","rating":4.4,"ratingCount":4167,"stars":4,"priceTier":3},
+    {"name":"Holiday Inn Express & Suites Hollywood Walk of Fame","lat":34.1059,"lng":-118.3381,"area":"Hollywood","rating":4.4,"ratingCount":3759,"stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Magic Castle Hotel","lat":34.1045,"lng":-118.3425,"area":"Hollywood","rating":4.7,"ratingCount":3874,"stars":3,"priceTier":3},
+    {"name":"Samesun Hollywood","lat":34.1014,"lng":-118.3393,"area":"Hollywood","rating":4.1,"ratingCount":344,"stars":1,"priceTier":1},
+    {"name":"The LINE LA","lat":34.0622,"lng":-118.301,"area":"Koreatown","rating":4.1,"ratingCount":1650,"stars":4,"priceTier":3},
+    {"name":"Hotel Normandie","lat":34.0633,"lng":-118.3007,"area":"Koreatown","rating":4.3,"ratingCount":1603,"stars":3,"priceTier":2}
+  ],
+  "sights": [
+    {
+      "name": "Griffith Observatory",
+      "lat": 34.1184,
+      "lng": -118.3004,
+      "note": "Art-deco observatory on Mount Hollywood with free exhibits, telescopes and a close view of the Hollywood Sign and city.",
+      "hours": "12:00–10:00 PM Tue–Fri, 10:00 AM–10:00 PM Sat–Sun, closed Mon",
+      "rating": 4.6,
+      "ticketUrl": "https://griffithobservatory.org"
+    },
+    {
+      "name": "Universal Studios Hollywood",
+      "lat": 34.1381,
+      "lng": -118.3534,
+      "note": "Film-studio theme park with a backlot tram tour and rides; reachable by Metro B Line to Universal City/Studio City and a short shuttle.",
+      "hours": "Hours vary by season, typically ~9:00 AM–6:00 PM or later",
+      "rating": 4.4,
+      "ticketUrl": "https://www.universalstudioshollywood.com",
+      "bookAhead": true
+    },
+    {
+      "name": "The Getty Center",
+      "lat": 34.078,
+      "lng": -118.4741,
+      "note": "Hilltop art museum with gardens and views, reached by a free tram from the parking base; admission is free.",
+      "hours": "10:00 AM–5:30 PM Tue–Fri & Sun, till 9:00 PM Sat, closed Mon",
+      "rating": 4.8,
+      "ticketUrl": "https://www.getty.edu/visit/center"
+    },
+    {
+      "name": "Petersen Automotive Museum",
+      "lat": 34.0624,
+      "lng": -118.3614,
+      "note": "Four floors of rare and famous cars and motorcycles on Museum Row, in a striking steel-ribboned building.",
+      "hours": "10:00 AM–5:00 PM daily",
+      "rating": 4.6,
+      "ticketUrl": "https://www.petersen.org"
+    },
+    {
+      "name": "Venice Beach",
+      "lat": 33.985,
+      "lng": -118.4695,
+      "note": "The wide beach and Ocean Front Walk boardwalk with street performers, Muscle Beach and skate park.",
+      "hours": "Beach open ~5:00 AM–10:30 PM",
+      "rating": 3.8
+    },
+    {
+      "name": "California Science Center",
+      "lat": 34.0159,
+      "lng": -118.2866,
+      "note": "Free science museum in Exposition Park, home of the Space Shuttle Endeavour (timed passes) and large IMAX screen; confirm shuttle exhibit status before visiting.",
+      "hours": "10:00 AM–5:00 PM daily",
+      "rating": 4.6,
+      "ticketUrl": "https://californiasciencecenter.org",
+      "bookAhead": true
+    },
+    {
+      "name": "La Brea Tar Pits and Museum",
+      "lat": 34.0638,
+      "lng": -118.3556,
+      "note": "Active Ice Age fossil site beside LACMA, with a museum of mammoth and saber-tooth finds and bubbling asphalt pits.",
+      "hours": "9:30 AM–5:00 PM daily",
+      "rating": 4.4,
+      "ticketUrl": "https://tarpits.org"
+    },
+    {
+      "name": "Hollywood Sign",
+      "lat": 34.1341,
+      "lng": -118.3215,
+      "note": "The famous hillside letters; best seen from Griffith Observatory or Lake Hollywood Park rather than up close.",
+      "hours": "Viewpoints open 24 hours; hiking access limited",
+      "rating": 4
+    },
+    {
+      "name": "The Broad",
+      "lat": 34.0544,
+      "lng": -118.2506,
+      "note": "Free contemporary art museum with Kusama's Infinity Mirror Room, Koons and Warhol; downtown on Grand Avenue.",
+      "hours": "11:00 AM–5:00 PM Tue–Fri, 10:00 AM–6:00 PM Sat–Sun, closed Mon",
+      "rating": 4.6,
+      "ticketUrl": "https://www.thebroad.org",
+      "bookAhead": true
+    },
+    {
+      "name": "Little Tokyo",
+      "lat": 34.0495,
+      "lng": -118.2395,
+      "note": "Historic Japanese-American district with ramen, mochi shops, the Japanese American National Museum and the Metro stop at its edge.",
+      "hours": "Streets open 24 hours; shops ~10:00 AM–9:00 PM",
+      "rating": 4
+    },
+    {
+      "name": "The Original Farmers Market",
+      "lat": 34.072,
+      "lng": -118.3597,
+      "note": "Since 1934, stalls of food counters and produce beside The Grove, a casual lunch stop.",
+      "hours": "Mon–Fri 9:00 AM–9:00 PM, Sat 9:00 AM–8:00 PM, Sun 10:00 AM–7:00 PM",
+      "rating": 4.4,
+      "ticketUrl": "https://www.farmersmarketla.com"
+    },
+    {
+      "name": "Los Angeles County Museum of Art",
+      "lat": 34.0639,
+      "lng": -118.3592,
+      "note": "The largest art museum in the western US, with Urban Light lamp-post installation at its entrance.",
+      "hours": "~11:00 AM–5:00 PM Mon, Tue, Thu; till 8:00 PM Fri; 10:00 AM–7:00 PM Sat–Sun; closed Wed",
+      "rating": 4.5,
+      "ticketUrl": "https://www.lacma.org"
+    },
+    {
+      "name": "Natural History Museum of Los Angeles County",
+      "lat": 34.0171,
+      "lng": -118.2884,
+      "note": "Dinosaurs, gems and a butterfly pavilion in a 1913 building in Exposition Park.",
+      "hours": "9:30 AM–5:00 PM daily",
+      "rating": 4.6,
+      "ticketUrl": "https://nhm.org"
+    },
+    {
+      "name": "Walt Disney Concert Hall",
+      "lat": 34.0553,
+      "lng": -118.2498,
+      "note": "Frank Gehry's stainless-steel concert hall; walk the garden and take a self-guided audio tour on non-rehearsal days.",
+      "hours": "Exterior and garden daily; tours vary with rehearsal schedule",
+      "rating": 4.6,
+      "ticketUrl": "https://www.laphil.com"
+    },
+    {
+      "name": "Grand Central Market",
+      "lat": 34.0508,
+      "lng": -118.249,
+      "note": "1917 downtown food hall with tacos, pupusas, coffee and the neon Eggslut line; a local-flavor lunch stop.",
+      "hours": "~8:00 AM–9:00 PM daily",
+      "rating": 4.2,
+      "ticketUrl": "https://www.grandcentralmarket.com"
+    },
+    {
+      "name": "Hollywood Walk of Fame",
+      "lat": 34.1016,
+      "lng": -118.3267,
+      "note": "Brass stars along Hollywood Boulevard, beside the TCL Chinese Theatre handprints; gritty but iconic.",
+      "hours": "Open 24 hours",
+      "rating": 3.4
+    },
+    {
+      "name": "Union Station",
+      "lat": 34.056,
+      "lng": -118.2365,
+      "note": "The 1939 Mission-revival and art-deco rail terminal with a grand waiting hall; also the city's transit hub.",
+      "hours": "Station open ~4:00 AM–midnight daily",
+      "rating": 4.3
+    }
+  ],
+  "railStations": [
+    {
+      "name": "Union Station",
+      "lat": 34.0561,
+      "lng": -118.2347,
+      "note": "LA's rail hub: Amtrak Pacific Surfliner to San Diego/Santa Barbara, Coast Starlight and Southwest Chief long-distance trains, Metrolink commuter rail, and the FlyAway bus to LAX. Metro A, B and D lines stop in the station.",
+      "hours": "Station open ~4:00 AM–midnight; trains run to individual timetables."
+    }
+  ],
+  "airports": [
+    {
+      "name": "Los Angeles International Airport",
+      "code": "LAX",
+      "lat": 33.9416,
+      "lng": -118.4085,
+      "transitNote": "Not directly on the subway map: a free shuttle runs every ~10 min from the terminals to the LAX/Metro Transit Center (Aviation/Century on the C and K lines). From there the K Line to Expo/Crenshaw, then the E Line, reaches downtown 7th St/Metro Center in ~60–75 min total; $1.75. FlyAway bus to Union Station ~$10, ~45 min.",
+      "hours": "Metro rail first trains ~4:30–5:00 AM, last ~midnight; shuttle runs on a similar schedule."
+    }
+  ]
+}

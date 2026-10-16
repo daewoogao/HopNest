@@ -1,0 +1,339 @@
+{
+  "name": "Brussels",
+  "country": "Belgium",
+  "flag": "🇧🇪",
+  "center": [50.8467,4.36],
+  "zoom": 12,
+  "operatingHours": "Brussels Metro (STIB) runs ~5:30 AM-~12:30 AM daily (last trains leave central stations around midnight). Trains every 3-5 min by day, 6-10 min evenings. No all-night metro; night buses (Noctis) run Fri-Sat. NMBS trains to the airport run ~5:00 AM-~midnight.",
+  "fareInfo": "STIB single journey €2.40 by contactless card (2026), valid 1 hour with transfers; 24-hour and multi-day passes sold at stations and ticket machines. Airport trains are NMBS, not STIB: ~€12-15 one way to the city stations (includes the Diabolo airport supplement). Eurostar and Thalys/high-speed tickets are separate.",
+  "lines": [
+    {
+      "id": "l1",
+      "name": "Metro 1",
+      "color": "#B5378C",
+      "code": "1",
+      "stations": [
+        ["Gare de l'Ouest - Weststation",50.8489,4.3209],
+        ["Beekkant",50.8538,4.3232],
+        ["Étangs Noirs - Zwarte Vijvers",50.8571,4.3329],
+        ["Comte de Flandre - Graaf van Vlaanderen",50.8546,4.3408],
+        ["Sainte-Catherine - Sint-Katelijne",50.8517,4.3481],
+        ["De Brouckère",50.8496,4.3528],
+        ["Gare Centrale - Centraal Station",50.8462,4.3589],
+        ["Parc - Park",50.8457,4.3629],
+        ["Arts-Loi - Kunst-Wet",50.8454,4.3694],
+        ["Maelbeek - Maalbeek",50.8437,4.3776],
+        ["Schuman",50.8427,4.3823],
+        ["Merode",50.8393,4.3986],
+        ["Montgomery",50.8378,4.4081],
+        ["Joséphine-Charlotte",50.8406,4.4142],
+        ["Gribaumont",50.8426,4.4191],
+        ["Tomberg",50.8446,4.4261],
+        ["Roodebeek",50.8475,4.4364],
+        ["Vandervelde",50.8475,4.4478],
+        ["Alma",50.85,4.4534],
+        ["Crainhem - Kraainem",50.8485,4.4588],
+        ["Stockel - Stokkel",50.8417,4.4643]
+      ]
+    },
+    {
+      "id": "l2",
+      "name": "Metro 2",
+      "color": "#ED6C23",
+      "code": "2",
+      "stations": [
+        ["Simonis",50.8628,4.3301],
+        ["Osseghem - Ossegem",50.8565,4.325],
+        ["Beekkant",50.853,4.3229],
+        ["Gare de l'Ouest - Weststation",50.8486,4.3212],
+        ["Delacroix",50.845,4.3247],
+        ["Clemenceau",50.8408,4.3312],
+        ["Gare du Midi - Zuidstation",50.8363,4.3385],
+        ["Porte de Hal - Hallepoort",50.8337,4.3434],
+        ["Hôtel des Monnaies - Munthof",50.8334,4.3494],
+        ["Louise - Louiza",50.8355,4.3551],
+        ["Porte de Namur - Naamsepoort",50.8385,4.3623],
+        ["Trône - Troon",50.8417,4.3667],
+        ["Arts-Loi - Kunst-Wet",50.8459,4.369],
+        ["Madou",50.8505,4.369],
+        ["Botanique - Kruidtuin",50.8541,4.3651],
+        ["Rogier",50.8557,4.3579],
+        ["Yser - IJzer",50.8575,4.3507],
+        ["Ribaucourt",50.8607,4.339],
+        ["Elisabeth",50.8633,4.3304]
+      ]
+    },
+    {
+      "id": "l5",
+      "name": "Metro 5",
+      "color": "#F6A90B",
+      "code": "5",
+      "stations": [
+        ["Erasme - Erasmus",50.8152,4.2678],
+        ["Eddy Merckx",50.8165,4.2814],
+        ["CERIA - COOVI",50.8165,4.2902],
+        ["La Roue - Het Rad",50.8215,4.2942],
+        ["Bizet",50.8252,4.2976],
+        ["Veeweyde - Veeweide",50.8299,4.3009],
+        ["Saint-Guidon - Sint-Guido",50.8354,4.3057],
+        ["Aumale",50.84,4.313],
+        ["Jacques Brel",50.8442,4.3182],
+        ["Gare de l'Ouest - Weststation",50.8489,4.3211],
+        ["Beekkant",50.8538,4.3232],
+        ["Étangs Noirs - Zwarte Vijvers",50.8571,4.3329],
+        ["Comte de Flandre - Graaf van Vlaanderen",50.8546,4.3408],
+        ["Sainte-Catherine - Sint-Katelijne",50.8517,4.3481],
+        ["De Brouckère",50.8496,4.3528],
+        ["Gare Centrale - Centraal Station",50.8462,4.3589],
+        ["Parc - Park",50.8457,4.3629],
+        ["Arts-Loi - Kunst-Wet",50.8454,4.3694],
+        ["Maelbeek - Maalbeek",50.8437,4.3776],
+        ["Schuman",50.8427,4.3823],
+        ["Merode",50.8393,4.3986],
+        ["Thieffry",50.8333,4.4018],
+        ["Pétillon",50.8273,4.404],
+        ["Hankar",50.8209,4.4053],
+        ["Delta",50.8182,4.4039],
+        ["Beaulieu",50.815,4.4103],
+        ["Demey",50.8133,4.4216],
+        ["Herrmann-Debroux",50.8123,4.4294]
+      ]
+    },
+    {
+      "id": "l6",
+      "name": "Metro 6",
+      "color": "#0066A3",
+      "code": "6",
+      "stations": [
+        ["Roi Baudouin - Koning Boudewijn",50.8965,4.3284],
+        ["Heysel - Heizel",50.8968,4.3366],
+        ["Houba-Brugmann",50.8892,4.3382],
+        ["Stuyvenbergh",50.8853,4.3431],
+        ["Bockstael",50.8784,4.3481],
+        ["Pannenhuis",50.8732,4.3426],
+        ["Belgica",50.8681,4.3365],
+        ["Simonis",50.8628,4.3301],
+        ["Osseghem - Ossegem",50.8565,4.325],
+        ["Beekkant",50.853,4.3229],
+        ["Gare de l'Ouest - Weststation",50.8486,4.3212],
+        ["Delacroix",50.845,4.3247],
+        ["Clemenceau",50.8408,4.3312],
+        ["Gare du Midi - Zuidstation",50.8363,4.3385],
+        ["Porte de Hal - Hallepoort",50.8337,4.3434],
+        ["Hôtel des Monnaies - Munthof",50.8334,4.3494],
+        ["Louise - Louiza",50.8355,4.3551],
+        ["Porte de Namur - Naamsepoort",50.8385,4.3623],
+        ["Trône - Troon",50.8417,4.3667],
+        ["Arts-Loi - Kunst-Wet",50.8459,4.369],
+        ["Madou",50.8505,4.369],
+        ["Botanique - Kruidtuin",50.8541,4.3651],
+        ["Rogier",50.8557,4.3579],
+        ["Yser - IJzer",50.8575,4.3507],
+        ["Ribaucourt",50.8607,4.339],
+        ["Elisabeth",50.8633,4.3304]
+      ]
+    }
+  ],
+  "hotels": [
+    {"name":"Pullman Brussels Centre Midi","lat":50.8372,"lng":4.3359,"area":"Brussels-Midi","rating":4.3,"ratingCount":2505,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Radisson Hotel Brussels Centre Midi","lat":50.8353,"lng":4.3383,"area":"Brussels-Midi","rating":4,"ratingCount":2121,"stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Hotel Mercure Brussels Centre Midi","lat":50.8394,"lng":4.3385,"area":"Brussels-Midi","rating":4,"ratingCount":1037,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"MEININGER Hotel Bruxelles Gare du Midi","lat":50.8357,"lng":4.3311,"area":"Brussels-Midi","rating":4,"ratingCount":297,"stars":2,"priceTier":2},
+    {"name":"Yooma Urban Lodge Brussels","lat":50.841,"lng":4.3387,"area":"Brussels-Midi","rating":4.4,"ratingCount":1030,"stars":3,"priceTier":2},
+    {"name":"Hotel Indigo Brussels - City","lat":50.8557,"lng":4.3599,"area":"Brussels-Nord","rating":4.2,"ratingCount":343,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"DoubleTree by Hilton Brussels City","lat":50.8553,"lng":4.36,"area":"Brussels-Nord","rating":4.3,"ratingCount":176,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"The Hoxton, Brussels","lat":50.8557,"lng":4.3633,"area":"Brussels-Nord","rating":4.5,"ratingCount":520,"stars":4,"priceTier":3},
+    {"name":"Thon Hotel Brussels City Centre","lat":50.856,"lng":4.3573,"area":"Brussels-Nord","rating":4,"ratingCount":1995,"stars":4,"priceTier":3},
+    {"name":"nhow Brussels Bloom","lat":50.8551,"lng":4.3663,"area":"Brussels-Nord","rating":4.1,"ratingCount":4964,"stars":4,"priceTier":3},
+    {"name":"Hilton Brussels Grand Place","lat":50.8458,"lng":4.3559,"area":"Grand-Place","rating":4.1,"ratingCount":2807,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Novotel Brussels Off Grand Place","lat":50.8461,"lng":4.3552,"area":"Grand-Place","rating":4.2,"ratingCount":3591,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hotel Amigo","lat":50.8462,"lng":4.3512,"area":"Grand-Place","rating":4.6,"ratingCount":3325,"stars":5,"priceTier":4},
+    {"name":"Motel One Brussels","lat":50.8487,"lng":4.3631,"area":"Grand-Place","rating":4.2,"ratingCount":2617,"stars":3,"priceTier":2},
+    {"name":"9Hotel Central","lat":50.8466,"lng":4.3592,"area":"Grand-Place","rating":4.4,"ratingCount":2255,"stars":3,"priceTier":3},
+    {"name":"Novotel Brussels City Centre","lat":50.8506,"lng":4.3498,"area":"Sainte-Catherine","rating":4.2,"ratingCount":3859,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Brussels Marriott Hotel Grand Place","lat":50.8489,"lng":4.3491,"area":"Sainte-Catherine","rating":4.1,"ratingCount":2926,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Made in Catherine","lat":50.8519,"lng":4.3487,"area":"Sainte-Catherine","rating":4.9,"ratingCount":148,"stars":3,"priceTier":3},
+    {"name":"Hotel Saint-Gery","lat":50.8479,"lng":4.3479,"area":"Sainte-Catherine","rating":4.1,"ratingCount":523,"stars":3,"priceTier":2},
+    {"name":"Sofitel Brussels Europe","lat":50.8378,"lng":4.3812,"area":"EU Quarter","rating":4.5,"ratingCount":315,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Thon Hotel EU","lat":50.844,"lng":4.3755,"area":"EU Quarter","rating":4.4,"ratingCount":2152,"stars":4,"priceTier":3},
+    {"name":"Martin's Brussels EU","lat":50.8456,"lng":4.3823,"area":"EU Quarter","rating":4,"ratingCount":996,"stars":4,"priceTier":3},
+    {"name":"Le Louise Hotel Brussels - MGallery","lat":50.8361,"lng":4.3573,"area":"Avenue Louise","rating":4.4,"ratingCount":258,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"The Hotel Brussels","lat":50.8374,"lng":4.3573,"area":"Avenue Louise","rating":4.3,"ratingCount":6323,"stars":4,"priceTier":3},
+    {"name":"Steigenberger Icon Wiltcher's","lat":50.8323,"lng":4.3576,"area":"Avenue Louise","rating":4.2,"ratingCount":2803,"stars":5,"priceTier":4},
+    {"name":"Vintage Hotel Brussels","lat":50.8335,"lng":4.3555,"area":"Avenue Louise","rating":4.3,"ratingCount":1246,"stars":3,"priceTier":3},
+    {"name":"Hygge Hotel","lat":50.8349,"lng":4.3594,"area":"Avenue Louise","rating":4,"ratingCount":409,"stars":3,"priceTier":2}
+  ],
+  "sights": [
+    {
+      "name": "Grand Place",
+      "lat": 50.8467,
+      "lng": 4.3525,
+      "note": "Brussels' guild-house square, ringed by gilded facades and the Gothic town hall; most atmospheric when lit at night.",
+      "hours": "Open 24 hours (public square)",
+      "rating": 4.7
+    },
+    {
+      "name": "Royal Galleries of Saint-Hubert",
+      "lat": 50.848,
+      "lng": 4.3566,
+      "note": "One of Europe's first glass-roofed arcades (1847), lined with chocolatiers, cafes and a cinema.",
+      "hours": "Arcade open 24 hours; shops ~10:00 AM-7:00 PM",
+      "rating": 4.3
+    },
+    {
+      "name": "Atomium",
+      "lat": 50.8949,
+      "lng": 4.3416,
+      "note": "The 1958 World's Fair icon: nine linked steel spheres with exhibitions and a panoramic sphere at the top.",
+      "hours": "10:00 AM-6:00 PM daily",
+      "rating": 3.9,
+      "ticketUrl": "https://atomium.be/",
+      "bookAhead": true
+    },
+    {
+      "name": "Cathedral of St. Michael and St. Gudula",
+      "lat": 50.8478,
+      "lng": 4.3601,
+      "note": "Brussels' Gothic cathedral with twin towers, stained glass and a free nave; the treasury and crypt charge a small fee.",
+      "hours": "~7:00 AM-6:00 PM weekdays, shorter hours weekends",
+      "rating": 4.5
+    },
+    {
+      "name": "Mini-Europe",
+      "lat": 50.8938,
+      "lng": 4.3406,
+      "note": "A park of 1:25 scale models of EU landmarks beside the Atomium; best with children.",
+      "hours": "Seasonal: ~10:00 AM-5:00/6:00 PM, closed some winter weeks",
+      "rating": 4.1,
+      "ticketUrl": "https://www.minieurope.com/en/"
+    },
+    {
+      "name": "Autoworld",
+      "lat": 50.8409,
+      "lng": 4.3925,
+      "note": "A large vintage-car museum under the Cinquantenaire's glass hall, from early motoring to classics.",
+      "hours": "10:00 AM-5:00/6:00 PM daily (hours shift by season)",
+      "rating": 4.3,
+      "ticketUrl": "https://www.autoworld.be/en/"
+    },
+    {
+      "name": "Cinquantenaire Park",
+      "lat": 50.8413,
+      "lng": 4.3935,
+      "note": "Big landscaped park around a triumphal arch, with museums, lawns and a view to the Basilica from the arch.",
+      "hours": "Park open daily, sunrise to sunset",
+      "rating": 4.3
+    },
+    {
+      "name": "Royal Museums of Fine Arts of Belgium",
+      "lat": 50.842,
+      "lng": 4.3585,
+      "note": "Old Masters and Flemish painting (Bruegel, Rubens) plus the Magritte Museum in one complex.",
+      "hours": "Tue-Fri 10:00 AM-5:00 PM, Sat-Sun 11:00 AM-6:00 PM, closed Mon",
+      "rating": 4.3,
+      "ticketUrl": "https://www.fine-arts-museum.be/en"
+    },
+    {
+      "name": "Brussels Town Hall",
+      "lat": 50.8466,
+      "lng": 4.3521,
+      "note": "Gothic civic palace on the Grand Place with a 96 m spire, visited on guided tours.",
+      "hours": "Guided visits on set days; check the tourism site",
+      "rating": 4.6
+    },
+    {
+      "name": "Musical Instruments Museum (MIM)",
+      "lat": 50.8433,
+      "lng": 4.3611,
+      "note": "Thousands of instruments in a landmark Art Nouveau department store, with headphones that play the sounds.",
+      "hours": "Tue-Fri 9:30 AM-5:00 PM, Sat-Sun 10:00 AM-5:00 PM, closed Mon",
+      "rating": 4.4,
+      "ticketUrl": "https://www.mim.be/en"
+    },
+    {
+      "name": "Church of Our Lady of the Sablon",
+      "lat": 50.8409,
+      "lng": 4.3552,
+      "note": "Flamboyant Gothic church in the antiques quarter, noted for its stained glass.",
+      "hours": "~9:00 AM-6:00 PM daily (free)",
+      "rating": 4.4
+    },
+    {
+      "name": "Museum of Natural Sciences",
+      "lat": 50.8383,
+      "lng": 4.3815,
+      "note": "Europe's biggest dinosaur gallery, with Iguanodon skeletons found in Belgium.",
+      "hours": "Tue-Fri 9:30 AM-5:00 PM, Sat-Sun 10:00 AM-6:00 PM, closed Mon",
+      "rating": 4.4,
+      "ticketUrl": "https://www.naturalsciences.be/en"
+    },
+    {
+      "name": "Mont des Arts",
+      "lat": 50.8444,
+      "lng": 4.3575,
+      "note": "Terraced gardens between Central Station and the museum district with a good free city view.",
+      "hours": "Open 24 hours (public garden)",
+      "rating": 4.4
+    },
+    {
+      "name": "Cantillon Brewery",
+      "lat": 50.8417,
+      "lng": 4.3345,
+      "note": "A working lambic brewery and museum where you taste spontaneously fermented gueuze.",
+      "hours": "~10:00 AM-5:00 PM, closed Sun and some other days; check site",
+      "rating": 4.4,
+      "ticketUrl": "https://cantillon.be/"
+    },
+    {
+      "name": "Royal Palace of Brussels",
+      "lat": 50.8418,
+      "lng": 4.3622,
+      "note": "The monarchy's official palace facing Brussels Park; open to visitors only in summer, free.",
+      "hours": "Open to visitors ~late July to early Sept, Tue-Sun 10:30 AM-4:30 PM; closed rest of year",
+      "rating": 4.2
+    },
+    {"name":"Manneken Pis","lat":50.845,"lng":4.3499,"note":"The tiny bronze fountain boy, famous for his many costumes; a quick photo stop.","hours":"Open 24 hours (street fountain)","rating":3.3},
+    {
+      "name": "Place du Jeu de Balle flea market",
+      "lat": 50.8368,
+      "lng": 4.3473,
+      "note": "Daily flea market in the Marolles, local-flavor browsing among antiques and bric-a-brac.",
+      "hours": "Daily ~6:00 AM-2:00 PM",
+      "rating": 4.2
+    },
+    {
+      "name": "Place Poelaert viewpoint",
+      "lat": 50.8366,
+      "lng": 4.3518,
+      "note": "Free terrace in front of the Law Courts with a broad view across the lower town to the Atomium.",
+      "hours": "Open 24 hours (public terrace)",
+      "rating": 4.4
+    }
+  ],
+  "railStations": [
+    {
+      "name": "Brussels-Midi",
+      "lat": 50.8358,
+      "lng": 4.3366,
+      "note": "The international hub: Eurostar to London (~2h) and Paris (~1h20), Thalys/high-speed to Amsterdam, Cologne and Paris, plus ICE and TGV and Belgian national trains. Metro lines 2 and 6 (Gare du Midi) and many trams stop here.",
+      "hours": "Trains ~5:00 AM-~midnight; Eurostar ~6:00 AM-~8:30 PM."
+    },
+    {
+      "name": "Brussels-Nord",
+      "lat": 50.8603,
+      "lng": 4.3606,
+      "note": "Domestic and regional hub for Antwerp, Leuven and Ghent and many airport trains. Not on the metro map itself: Rogier station (Metro 2/6) is ~450 m south.",
+      "hours": "Trains ~5:00 AM-~midnight."
+    }
+  ],
+  "airports": [
+    {
+      "name": "Brussels Airport",
+      "code": "BRU",
+      "lat": 50.901,
+      "lng": 4.4844,
+      "transitNote": "NMBS trains from the airport reach Brussels-Nord in ~15 min, Brussels-Central in ~20 min and Brussels-Midi in ~25 min. Not on the metro map; buses 12 and 21 run to the EU Quarter (Schuman/Luxembourg). Taxi ~€45-55, 25-40 min.",
+      "hours": "Airport trains ~5:00 AM-~midnight."
+    }
+  ]
+}

@@ -1,0 +1,310 @@
+{
+  "name": "Montreal",
+  "country": "Canada",
+  "flag": "🇨🇦",
+  "center": [45.5088,-73.564],
+  "zoom": 12,
+  "operatingHours": "Montreal Metro (STM) runs ~5:30 AM-~12:30 AM daily (about 1:00 AM on some lines/nights); trains every 3-6 min by day, up to 10-12 min late evening. No all-night metro; a few night bus lines run overnight.",
+  "fareInfo": "STM single ticket CA$3.75 (zone A, from July 2026); 1-day pass CA$11.25, 3-day pass CA$21.75, weekend pass CA$17 (Fri 4 PM-Mon 5 AM). Load on an OPUS card or the Chrono app. The 747 airport bus is covered by the 1-day pass or exact change CA$11.25 and runs 24 hours.",
+  "lines": [
+    {
+      "id": "l1",
+      "name": "Green Line",
+      "jp": "Ligne verte",
+      "color": "#069037",
+      "code": "1",
+      "stations": [
+        ["Angrignon",45.4462,-73.6036],
+        ["Monk",45.4511,-73.5937],
+        ["Jolicoeur",45.4568,-73.582],
+        ["Verdun",45.4594,-73.5732],
+        ["De l'Église",45.4627,-73.567],
+        ["LaSalle",45.471,-73.5662],
+        ["Charlevoix",45.4784,-73.5694],
+        ["Lionel-Groulx",45.4825,-73.5803],
+        ["Atwater",45.4897,-73.5863],
+        ["Guy-Concordia",45.4954,-73.5798],
+        ["Peel",45.5006,-73.575],
+        ["McGill",45.5041,-73.5715],
+        ["Place-des-Arts",45.508,-73.5683],
+        ["Saint-Laurent",45.5109,-73.5648],
+        ["Berri-UQAM",45.5149,-73.5613],
+        ["Beaudry",45.5195,-73.5572],
+        ["Papineau",45.524,-73.5529],
+        ["Frontenac",45.533,-73.5525],
+        ["Préfontaine",45.5417,-73.5542],
+        ["Joliette",45.5469,-73.5511],
+        ["Pie IX",45.5542,-73.5515],
+        ["Viau",45.5612,-73.5472],
+        ["Assomption",45.5692,-73.5472],
+        ["Cadillac",45.5768,-73.5467],
+        ["Langelier",45.5827,-73.5432],
+        ["Radisson",45.5892,-73.5394],
+        ["Honoré-Beaugrand",45.5964,-73.5354]
+      ]
+    },
+    {
+      "id": "l2",
+      "name": "Orange Line",
+      "jp": "Ligne orange",
+      "color": "#D06D07",
+      "code": "2",
+      "stations": [
+        ["Côte-Vertu",45.5143,-73.683],
+        ["Du Collège",45.5084,-73.6733],
+        ["De La Savane",45.5003,-73.6616],
+        ["Namur",45.4949,-73.6529],
+        ["Plamondon",45.4944,-73.6378],
+        ["Côte-Sainte-Catherine",45.4923,-73.6329],
+        ["Snowdon",45.4863,-73.6279],
+        ["Villa-Maria",45.4797,-73.6198],
+        ["Vendôme",45.4739,-73.6038],
+        ["Place Saint-Henri",45.4774,-73.5864],
+        ["Lionel-Groulx",45.4822,-73.5803],
+        ["Georges-Vanier",45.489,-73.5765],
+        ["Lucien-L'Allier",45.495,-73.5709],
+        ["Bonaventure",45.4983,-73.5671],
+        ["Square-Victoria-OACI",45.502,-73.5631],
+        ["Place d’Armes",45.506,-73.5597],
+        ["Champ-de-Mars",45.5101,-73.5564],
+        ["Berri-UQAM",45.5155,-73.5614],
+        ["Sherbrooke",45.518,-73.5672],
+        ["Mont-Royal",45.5247,-73.5814],
+        ["Laurier",45.5282,-73.5886],
+        ["Rosemont",45.5316,-73.5974],
+        ["Beaubien",45.5351,-73.6049],
+        ["Jean-Talon",45.539,-73.6142],
+        ["Jarry",45.5432,-73.6287],
+        ["Crémazie",45.546,-73.6389],
+        ["Sauvé",45.551,-73.6563],
+        ["Henri-Bourassa",45.5549,-73.6678],
+        ["Cartier",45.5599,-73.682],
+        ["De la Concorde",45.5607,-73.7095],
+        ["Montmorency",45.5587,-73.722]
+      ]
+    },
+    {
+      "id": "l4",
+      "name": "Yellow Line",
+      "jp": "Ligne jaune",
+      "color": "#F1CE00",
+      "code": "4",
+      "stations": [["Longueuil–Université-de-Sherbrooke",45.525,-73.522],["Jean-Drapeau",45.5124,-73.5332],["Berri-UQAM",45.5144,-73.5619]]
+    },
+    {
+      "id": "l5",
+      "name": "Blue Line",
+      "jp": "Ligne bleue",
+      "color": "#3465B4",
+      "code": "5",
+      "stations": [
+        ["Snowdon",45.4863,-73.6283],
+        ["Côte-des-Neiges",45.4966,-73.6235],
+        ["Université-de-Montréal",45.5035,-73.6176],
+        ["Édouard-Montpetit",45.5101,-73.6126],
+        ["Outremont",45.5201,-73.6149],
+        ["Acadie",45.5232,-73.6238],
+        ["Parc",45.5304,-73.6245],
+        ["De Castelnau",45.5353,-73.62],
+        ["Jean-Talon",45.5392,-73.6146],
+        ["Fabre",45.5467,-73.6079],
+        ["D’Iberville",45.5531,-73.6023],
+        ["Saint-Michel",45.5598,-73.5999]
+      ]
+    }
+  ],
+  "hotels": [
+    {"name":"Fairmont The Queen Elizabeth","lat":45.5002,"lng":-73.5682,"area":"Montreal Central Station","rating":4.1,"ratingCount":1911,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Hotel Bonaventure Montreal","lat":45.4989,"lng":-73.5656,"area":"Montreal Central Station","rating":4.1,"ratingCount":3407,"stars":4,"priceTier":3},
+    {"name":"Montreal Marriott Chateau Champlain","lat":45.4976,"lng":-73.5674,"area":"Montreal Central Station","rating":4.1,"ratingCount":2620,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Le Square Phillips Hotel & Suites","lat":45.5037,"lng":-73.5674,"area":"Montreal Central Station","rating":4.6,"ratingCount":2850,"stars":4,"priceTier":3},
+    {"name":"W Montreal","lat":45.502,"lng":-73.562,"area":"Montreal Central Station","rating":4.4,"ratingCount":1651,"stars":4,"priceTier":4,"brandAnchor":true},
+    {"name":"Le Westin Montreal","lat":45.5035,"lng":-73.5599,"area":"Old Montreal","rating":4.2,"ratingCount":2300,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Courtyard by Marriott Montreal Downtown","lat":45.5053,"lng":-73.5641,"area":"Old Montreal","rating":4.3,"ratingCount":1264,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hotel Place d'Armes","lat":45.5055,"lng":-73.5574,"area":"Old Montreal","rating":4.6,"ratingCount":3838,"stars":4,"priceTier":3},
+    {"name":"Hotel Le Dauphin Montreal Centre-Ville","lat":45.5042,"lng":-73.5623,"area":"Old Montreal","rating":4.4,"ratingCount":1167,"stars":3,"priceTier":2},
+    {"name":"LHotel Montreal","lat":45.5031,"lng":-73.5588,"area":"Old Montreal","rating":4.5,"ratingCount":1966,"stars":4,"priceTier":3},
+    {"name":"Residence Inn by Marriott Montreal Downtown","lat":45.5014,"lng":-73.5754,"area":"Downtown","rating":4.2,"ratingCount":769,"stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Best Western Ville-Marie Montreal Hotel & Suites","lat":45.5022,"lng":-73.5768,"area":"Downtown","rating":4.1,"ratingCount":1927,"stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Hotel Le Germain Montreal","lat":45.5024,"lng":-73.5744,"area":"Downtown","rating":4.6,"ratingCount":920,"stars":4,"priceTier":3},
+    {"name":"Hotel Omni Mont-Royal","lat":45.5019,"lng":-73.5759,"area":"Downtown","rating":4.3,"ratingCount":3001,"stars":4,"priceTier":3},
+    {"name":"The Ritz-Carlton, Montreal","lat":45.5001,"lng":-73.5779,"area":"Downtown","rating":4.8,"ratingCount":1537,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"DoubleTree by Hilton Montreal","lat":45.5073,"lng":-73.5654,"area":"Quartier des Spectacles","rating":4.2,"ratingCount":1081,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hilton Garden Inn Montreal Centre-Ville","lat":45.5075,"lng":-73.5714,"area":"Quartier des Spectacles","rating":4.2,"ratingCount":2589,"stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Delta Hotels by Marriott Montreal","lat":45.5064,"lng":-73.5713,"area":"Quartier des Spectacles","rating":4.1,"ratingCount":2125,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Parc Suites Hotel","lat":45.5091,"lng":-73.5725,"area":"Quartier des Spectacles","rating":4.6,"ratingCount":594,"stars":4,"priceTier":3},
+    {"name":"Hotel 10","lat":45.512,"lng":-73.5691,"area":"Quartier des Spectacles","rating":4.1,"ratingCount":977,"stars":3,"priceTier":2},
+    {"name":"Tru by Hilton Montreal Centre-Ville","lat":45.5164,"lng":-73.5603,"area":"Latin Quarter","rating":4.6,"ratingCount":38,"stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Fairfield Inn by Marriott Montreal Downtown","lat":45.5141,"lng":-73.5579,"area":"Latin Quarter","rating":4.1,"ratingCount":183,"stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Le Relais Lyonnais","lat":45.5148,"lng":-73.5626,"area":"Latin Quarter","rating":4.7,"ratingCount":462,"stars":3,"priceTier":2},
+    {"name":"Samesun Montreal Central","lat":45.5163,"lng":-73.5613,"area":"Latin Quarter","rating":4.3,"ratingCount":482,"stars":1,"priceTier":1},
+    {
+      "name": "Montreal Airport Marriott In-Terminal Hotel",
+      "lat": 45.456,
+      "lng": -73.7519,
+      "area": "Montreal-Trudeau International Airport",
+      "rating": 4.4,
+      "ratingCount": 1365,
+      "stars": 4,
+      "priceTier": 3,
+      "brandAnchor": true
+    }
+  ],
+  "sights": [
+    {
+      "name": "Notre-Dame Basilica",
+      "lat": 45.5045,
+      "lng": -73.5566,
+      "note": "Dazzling blue-and-gold neo-Gothic basilica on Place d'Armes; a light show runs in the evening.",
+      "hours": "Mon-Fri ~8:00 AM-4:30 PM, Sat ~8:00 AM-4:00 PM, Sun ~12:30-4:00 PM",
+      "rating": 4.7,
+      "ticketUrl": "https://www.basiliquenotredame.ca/en/",
+      "bookAhead": true
+    },
+    {
+      "name": "Old Montreal",
+      "lat": 45.5078,
+      "lng": -73.5541,
+      "note": "Cobbled 17th-century streets, Place Jacques-Cartier and stone warehouses turned cafes and galleries.",
+      "hours": "Open 24 hours (district); shops ~10:00 AM-6:00 PM",
+      "rating": 4.5
+    },
+    {"name":"Mount Royal Park","lat":45.5048,"lng":-73.5877,"note":"Frederick Law Olmsted's hilltop park with trails, a chalet and sweeping city views.","hours":"Daily 6:00 AM-midnight","rating":4.6},
+    {
+      "name": "Montreal Botanical Garden",
+      "lat": 45.56,
+      "lng": -73.5635,
+      "note": "75 hectares of themed gardens, including a Chinese and a Japanese garden and greenhouse collections.",
+      "hours": "9:00 AM-5:00 PM (to 6 PM or later in summer)",
+      "rating": 4.5,
+      "ticketUrl": "https://espacepourlavie.ca/en/botanical-garden"
+    },
+    {
+      "name": "Biodome",
+      "lat": 45.5593,
+      "lng": -73.5516,
+      "note": "Four ecosystems under one roof, with penguins, lynx and tropical forest in a former Olympic velodrome.",
+      "hours": "9:00 AM-5:00 PM (to 6 PM in summer)",
+      "rating": 4.1,
+      "ticketUrl": "https://espacepourlavie.ca/en/biodome"
+    },
+    {
+      "name": "Saint Joseph's Oratory",
+      "lat": 45.4926,
+      "lng": -73.6178,
+      "note": "Canada's largest church, a domed pilgrimage site on the slope of Mount Royal with a hilltop view.",
+      "hours": "Daily ~6:00 AM-9:00 PM",
+      "rating": 4.5,
+      "ticketUrl": "https://www.saint-joseph.org/en/"
+    },
+    {
+      "name": "Rue Saint-Paul",
+      "lat": 45.5048,
+      "lng": -73.556,
+      "note": "Old Montreal's oldest street, lined with galleries, boutiques and restaurants.",
+      "hours": "Open 24 hours (street); shops ~10:00 AM-6:00 PM",
+      "rating": 4.4
+    },
+    {
+      "name": "Montreal Museum of Fine Arts",
+      "lat": 45.4986,
+      "lng": -73.5795,
+      "note": "Canada's oldest art museum, across several pavilions on Sherbrooke Street; permanent collections are free to see.",
+      "hours": "Tue-Sun 10:00 AM-5:00 PM (to 9 PM Wed), closed Mon",
+      "rating": 4.5,
+      "ticketUrl": "https://www.mbam.qc.ca/en/"
+    },
+    {
+      "name": "Jean-Talon Market",
+      "lat": 45.5366,
+      "lng": -73.613,
+      "note": "The city's biggest public market, for produce, cheese, spices and Quebec specialties.",
+      "hours": "~7:00 AM-6:00 PM daily (shorter hours Sun)",
+      "rating": 4.5
+    },
+    {
+      "name": "Pointe-a-Calliere Museum",
+      "lat": 45.5028,
+      "lng": -73.5545,
+      "note": "Archaeology museum built over the city's founding site, with underground ruins reached by walkway.",
+      "hours": "Tue-Fri 10:00 AM-5:00 PM, Sat-Sun 11:00 AM-5:00 PM (daily in summer)",
+      "rating": 4.4,
+      "ticketUrl": "https://pacmusee.qc.ca/en/"
+    },
+    {
+      "name": "Old Port of Montreal",
+      "lat": 45.5069,
+      "lng": -73.5528,
+      "note": "Waterfront promenade with a Ferris wheel, zipline and views of the Saint Lawrence River.",
+      "hours": "Open 24 hours (promenade); attractions seasonal",
+      "rating": 4.3
+    },
+    {
+      "name": "Atwater Market",
+      "lat": 45.4786,
+      "lng": -73.5769,
+      "note": "Art Deco covered market by the Lachine Canal, good for picnic supplies.",
+      "hours": "~8:00 AM-6:00 PM daily (shorter hours Sun and Mon)",
+      "rating": 4.4
+    },
+    {
+      "name": "Mary, Queen of the World Cathedral",
+      "lat": 45.4994,
+      "lng": -73.5688,
+      "note": "A one-third-scale copy of St. Peter's in Rome, standing beside the downtown towers.",
+      "hours": "~7:00 AM-6:00 PM (shorter hours weekends)",
+      "rating": 4.5
+    },
+    {
+      "name": "Biosphere",
+      "lat": 45.5149,
+      "lng": -73.53,
+      "note": "Buckminster Fuller's geodesic dome from Expo 67, now an environment museum on Ile Sainte-Helene.",
+      "hours": "Check site; typically Wed-Sun ~10:00 AM-5:00 PM",
+      "rating": 3.9
+    },
+    {
+      "name": "Plateau Mont-Royal",
+      "lat": 45.524,
+      "lng": -73.581,
+      "note": "Bohemian neighborhood of outdoor spiral staircases, murals and cafes along Mont-Royal Avenue.",
+      "hours": "Open 24 hours (neighborhood); shops ~10:00 AM-7:00 PM",
+      "rating": 4.4
+    },
+    {
+      "name": "Kondiaronk Belvedere",
+      "lat": 45.5036,
+      "lng": -73.5871,
+      "note": "The free lookout beside Mount Royal's chalet, with the best skyline view in the city.",
+      "hours": "Daily 6:00 AM-midnight",
+      "rating": 4.6
+    },
+    {
+      "name": "Schwartz's Deli",
+      "lat": 45.5169,
+      "lng": -73.5774,
+      "note": "Landmark smoked-meat deli on Saint-Laurent, a local-flavor lunch stop since 1928.",
+      "hours": "~8:00 AM-midnight daily (later weekends)",
+      "rating": 4.1
+    }
+  ],
+  "railStations": [
+    {
+      "name": "Montreal Central Station",
+      "lat": 45.5001,
+      "lng": -73.5668,
+      "note": "Gare Centrale: VIA Rail to Quebec City (~3h), Ottawa (~2h) and Toronto (~5h30), plus Amtrak's Adirondack to New York (~11h). Underground connection to Bonaventure metro (Orange line) and the Underground City.",
+      "hours": "Station open ~5:00 AM-~midnight; trains per timetable."
+    }
+  ],
+  "airports": [
+    {
+      "name": "Montreal-Trudeau International Airport",
+      "code": "YUL",
+      "lat": 45.4577,
+      "lng": -73.7497,
+      "transitNote": "The 747 express bus runs to downtown (Lionel-Groulx metro, Gare Centrale and Berri-UQAM) in ~45-60 min, 24 hours. Not on the metro map. A taxi to downtown is a flat ~CA$55.",
+      "hours": "747 bus around the clock; metro hours ~5:30 AM-~12:30 AM."
+    }
+  ]
+}
