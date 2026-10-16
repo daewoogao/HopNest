@@ -35,3 +35,51 @@
 06:33:08 singapore lines ok
 06:35:14 seoul-stations try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 164260 bytes
 06:35:33 seoul-arex lines ok
+23:58:31 amsterdam-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 695 bytes
+23:59:04 amsterdam-hotels try 1 https://overpass-api.de/api/interpreter -> 200 49350 bytes
+23:59:28 bangkok-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 144636 bytes
+00:00:20 beijing-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 695 bytes
+00:00:26 beijing-hotels try 1 https://overpass-api.de/api/interpreter -> 502 157 bytes
+00:00:32 beijing-hotels try 2 https://overpass.private.coffee/api/interpreter -> 500 646 bytes
+00:00:39 beijing-hotels try 3 https://overpass.kumi.systems/api/interpreter -> 500 646 bytes
+00:00:45 beijing-hotels try 4 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 160 bytes
+00:01:48 beijing-hotels try 5 https://overpass-api.de/api/interpreter -> 200 61570 bytes
+00:01:49 berlin-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 160 bytes
+00:01:55 berlin-hotels try 1 https://overpass-api.de/api/interpreter -> 502 534 bytes
+00:02:00 berlin-hotels try 2 https://overpass.private.coffee/api/interpreter -> 500 646 bytes
+00:02:06 berlin-hotels try 3 https://overpass.kumi.systems/api/interpreter -> 500 646 bytes
+00:02:27 berlin-hotels try 4 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 66444 bytes
+00:02:42 chicago-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 25460 bytes
+00:03:00 hubs2 try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 2910 bytes
+00:03:51 hubs3 try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 695 bytes
+00:05:01 hubs3 try 1 https://overpass-api.de/api/interpreter -> 200 3956 bytes
+00:05:02 istanbul-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 160 bytes
+00:05:07 istanbul-hotels try 1 https://overpass-api.de/api/interpreter -> 502 157 bytes
+00:05:13 istanbul-hotels try 2 https://overpass.private.coffee/api/interpreter -> 500 646 bytes
+00:05:18 istanbul-hotels try 3 https://overpass.kumi.systems/api/interpreter -> 500 646 bytes
+00:05:40 istanbul-hotels try 4 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 128192 bytes
+00:06:34 lisbon-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 695 bytes
+00:07:20 lisbon-hotels try 1 https://overpass-api.de/api/interpreter -> 200 47606 bytes
+00:07:21 madrid-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 160 bytes
+00:08:13 madrid-hotels try 1 https://overpass-api.de/api/interpreter -> 200 52473 bytes
+00:08:23 mexicocity-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 27824 bytes
+00:09:11 milan-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 47591 bytes
+00:09:23 prague-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 58100 bytes
+00:09:49 rome-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 82075 bytes
+00:10:07 taipei-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 61001 bytes
+00:10:09 vienna-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 160 bytes
+00:10:54 vienna-hotels try 1 https://overpass-api.de/api/interpreter -> 200 45300 bytes
+00:11:18 washingtondc-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 27753 bytes
+00:11:38 amsterdam lines ok
+00:13:07 bangkok-arl lines ok
+00:15:26 bangkok lines ok
+00:15:47 beijing lines ok
+00:16:09 berlin lines ok
+00:18:53 chicago lines FAILED
+00:21:29 istanbul lines FAILED
+00:23:38 lisbon lines ok
+00:24:26 madrid lines ok
+00:26:03 mexicocity lines ok
+00:29:36 milan lines FAILED
+00:32:21 prague lines FAILED
+00:36:14 rome lines FAILED

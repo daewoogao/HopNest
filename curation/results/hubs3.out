@@ -1,0 +1,45 @@
+@type	@id	name	name:en	iata	@lat	@lon	railway	aeroway
+node	738189330	Union Station			38.8977660	-77.0074143	station	
+node	1422456546	Union Station			38.6266583	-90.2069192	station	
+node	1839787470	Wien Hauptbahnhof	Vienna Central Station		48.1849883	16.3779391	station	
+node	2253949587	Halkalı			41.0183702	28.7665286	station	
+node	2459919675	Berlin Hauptbahnhof (tief)			52.5246361	13.3698610	station	
+node	2919957304	Wien Hauptbahnhof Autoreisezug			48.1779748	16.3910866	station	
+node	3134751791	Praha hlavní nádraží	Prague Main Station		50.0829628	14.4360939	station	
+node	3254826511	Union Station Light Rail Plaza			39.7553804	-105.0030705	station	
+node	3856100103	Berlin Hauptbahnhof	Berlin Central Station	QPP	52.5249451	13.3696614	station	
+node	4290854847	Amsterdam Centraal	Amsterdam Central Station		52.3789010	4.9005805	station	
+node	5073776567	Chicago Union Station			41.8786411	-87.6390928	station	
+node	5362648027	Union Station			34.0559150	-118.2347667	station	
+node	5404056389	Union Station			34.0561350	-118.2348560	station	
+node	6067258870	Milano Centrale		XIK	45.4858786	9.2042617	station	
+node	6297158592	Lisboa - Oriente			38.7678206	-9.0990726	station	
+node	6321654790	Söğütlüçeşme			40.9906464	29.0379088	station	
+node	6395978813	Sirkeci	Sirkeci		41.0136066	28.9771437	station	
+node	7020820218	Union Station			32.7760501	-96.8081640	station	
+node	7327224311	Union Station			39.7536300	-105.0007481	station	
+node	8768427078	Halkalı Caddesi			41.0450113	28.8065121	station	
+node	10702895858	Halkalı Stadı			41.0565654	28.7747072	station	
+node	10702895859	Halkalı			41.0199044	28.7681548	station	
+node	10783341025	Lisboa - Santa Apolónia			38.7146298	-9.1220425	station	
+node	12660718814	Sirkeci			41.0150174	28.9779620	station	
+node	13950776845	Berlin Hauptbahnhof Tunnel (S-Bahn)			52.5266214	13.3695851	station	
+way	74362857	Aeroporto internazionale il Caravaggio di Bergamo-Orio al Serio	Bergamo Orio al Serio Airport	BGY	45.6708871	9.7073491		aerodrome
+way	74362858	Aeroporto Militare Antonio Locatelli		BGY	45.6761404	9.6995116		aerodrome
+way	75732093	Vienna Airport	Vienna International Airport	VIE	48.1045818	16.5592147		aerodrome
+way	136142100	Aeropuerto Internacional Felipe Ángeles	Felipe Ángeles International Airport	NLU	19.7437955	-99.0143533		aerodrome
+way	336112741	Aeroporto Humberto Delgado	Lisbon Airport	LIS	38.7809855	-9.1360051		aerodrome
+way	812730062	İstanbul Havalimanı	Istanbul Airport	IST	41.2752535	28.7521009		aerodrome
+way	859790021	Flughafen Berlin Brandenburg	"Berlin Brandenburg Airport ""Willy Brandt"""	BER	52.3657654	13.4969100		aerodrome
+way	1429419990	Aeropuerto Internacional de la Ciudad de México	Mexico City International Airport	MEX	19.4343297	-99.0696047		aerodrome
+relation	949847	Washington Dulles International Airport		IAD	38.9522224	-77.4741741		aerodrome
+relation	949871	Letiště Václava Havla Praha	Václav Havel Airport Prague	PRG	50.1025745	14.2560810		aerodrome
+relation	8360867	Sabiha Gökçen Havalimanı (SAW)	Sabiha Gökçen International Airport	SAW	40.8943145	29.3176322		aerodrome
+relation	9313825	Ronald Reagan Washington National Airport		DCA	38.8513651	-77.0399562		aerodrome
+relation	11952425	Aeropuerto Internacional de la Ciudad de México	Mexico City International Airport	MEX	19.4343297	-99.0696047		aerodrome
+relation	12470437	Luchthaven Schiphol	Amsterdam Airport Schiphol	AMS	52.3267805	4.7577653		aerodrome
+relation	13423944	O'Hare International Airport	O'Hare International Airport	ORD	41.9782271	-87.9060205		aerodrome
+relation	17896207	Chicago Midway International Airport		MDW	41.7862383	-87.7522948		aerodrome
+relation	18231605	Milano Centrale			45.4863668	9.2047967	station	
+relation	20187378	Aeroporto di Milano-Linate	Milano-Linate Airport	LIN	45.4443517	9.2705744		aerodrome
+relation	20397999	"Aeroporto internazionale Milano Malpensa ""Silvio Berlusconi"""	Milan-Malpensa International Airport	MXP	45.6299695	8.7254233		aerodrome

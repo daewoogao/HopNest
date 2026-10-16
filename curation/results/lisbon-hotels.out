@@ -1,0 +1,489 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	298176965	Hotel Jorge V		38.7213092	-9.1494002	hotel	3		Hotusa Hotels	https://www.hoteljorgev.com/
+node	308119709	Turim Lisboa Hotel		38.7322739	-9.1492361	hotel	4			https://www.turim-hotels.com/hoteis/turim-lisboa-hotel-134
+node	379573891	SANA Malhoa Hotel		38.7370692	-9.1623494	hotel	4			https://malhoa.sanahotels.com/
+node	379573899	Hotel Ibis Lisboa José Malhoa		38.7371794	-9.1628002	hotel	2	Ibis		http://www.ibis.com/de/hotel-1668-ibis-lisboa-jose-malhoa/index.shtml
+node	454406210	Hotel A.S. Lisboa		38.7377015	-9.1335580	hotel				https://www.hotel-aslisboa.pt
+node	538021965	Real Residência		38.7355775	-9.1570208	hotel			Hotéis Real	
+node	1155373582	Hotel Eurostars Lisboa Parque		38.7282868	-9.1476062	hotel	4		Eurostars	https://www.eurostarshotels.co.uk/eurostars-lisboa-parque.html?referer_code=ADWORDS_EN
+node	1243041993	Pousada de Juventude de Lisboa		38.7302995	-9.1477415	hostel			Pousada de Juventude	https://pousadasjuventude.pt/
+node	1286006388	VIP Executive Art's Hotel		38.7731005	-9.0978748	hotel	4			https://www.viphotels.com/
+node	1335874920	Pensão Residencial Setubalense		38.6973906	-9.2022842	hotel				
+node	1491303660	Lisb'on Hostel		38.7085440	-9.1443460	hostel				https://www.lisb-onhostel.com
+node	1586066478	VIP Executive Saldanha Hotel		38.7322353	-9.1446772	hotel	4		VIP Hotels	https://www.viphotels.com/pt/Hoteis/VIP-Executive-Saldanha/Sobre-Hotel.aspx
+node	1586355563	Legendary Lisboa Suites		38.7225454	-9.1526953	hotel	4			https://www.legendarylisboasuites.com/
+node	1640337456	Hotel Turim Alameda		38.7354312	-9.1375837	hotel	4		Grupo Turim Hotels	https://www.turim-hotels.com/hoteis/turim-alameda-hotel-135
+node	1682454471	Hotel Imperador		38.7355574	-9.1476233	hotel	2			www.imperador.com.pt
+node	1682540584	Alicante		38.7287391	-9.1445440	hotel	2			http://hotel-alicante.pt-hotels.com/en/
+node	1728849102	Pensão Residencial Portuense		38.7173604	-9.1415906	hotel				
+node	1943485287	Sana Excelsior		38.7368933	-9.1503641	hotel				
+node	2041865436	Holiday Inn Express Lisbon Airport		38.7861064	-9.1204160	hotel				https://www.ihg.com/holidayinnexpress/hotels/gb/en/lisbon/lisap/hoteldetail?cm_mmc=GoogleMaps-_-EX-_-PT-_-LISAP
+node	2105453167	Jardim de Santos Hostel		38.7075514	-9.1538721	hostel				
+node	2112375328	Hostel 4U		38.7108140	-9.1353570	hostel				http://www.hostel4ulisbon.com
+node	2357964143	Hotel Borges Chiado		38.7107073	-9.1418705	hotel	3			https://www.hotelborges.com/
+node	2357964161	Travellers House		38.7100521	-9.1375780	hostel				http://www.travellershouse.com
+node	2393750301	Golden Tram 242 LISBONne Hostel		38.7120013	-9.1389952	hostel				http://www.goldentram242lisbonnehostel.com
+node	2472105828	Turim Restauradores Hotel		38.7160062	-9.1431640	hotel	3		Grupo Turim Hotels	https://www.turim-hotels.com/hoteis/-110
+node	2508131094	Altis Grand Hotel		38.7208490	-9.1500487	hotel	5			https://www.altishotels.com/PT/HotelAltisLisboa/Hotel/
+node	2509303877	NH Campo Grande		38.7487150	-9.1495300	hotel	4		NH	https://www.nh-hoteles.pt/
+node	2573439559	Amazónia Lisboa Hotel		38.7229309	-9.1549267	hotel	3			
+node	2600899063	Hotel Duas Nações		38.7109451	-9.1375878	hotel	2			
+node	2620368938	Lisbon Art Stay		38.7117398	-9.1384443	hotel				https://www.lisbonartstay.com/
+node	2631619373	Stay Hotel Lisboa		38.7263295	-9.1409422	hotel	2			https://www.princesahotel.pt/
+node	2770055856	Lost Inn Lisbon		38.7082595	-9.1440906	hostel				http://www.lostinnlisbon.com
+node	2931441124	The Independente Hostel & Suites		38.7148798	-9.1445992	hostel				https://theindependente.pt
+node	2933960155	Tempo FLH Hotels Lisboa		38.7122854	-9.1392595	hotel			FLH	https://flh-hotels.com/tempo/contact/
+node	2958247830	Olissippo Marquês de Sá		38.7365086	-9.1517327	hotel	4		"Sociedade Hoteleira Seoane, S.A."	https://www.olissippohotels.com/pt/Hoteis/Marques-de-Sa/O-Hotel.aspx
+node	3003613051	Lx Rossio Hotel		38.7118189	-9.1378143	hotel				https://www.lxrossiohotel.com/
+node	3075925043	Hans Brinker Hostel Lisbon		38.7319311	-9.1482310	hostel			Hans Brinker	https://hansbrinker.com
+node	3093681837	Living Lounge Hostel		38.7111028	-9.1390699	hostel			LLH Hostels	https://www.livingloungehostel.com/
+node	3119987123	Yes! Lisbon Hostel		38.7091675	-9.1377091	hostel			Yes! Hostel	https://www.yeshostels.com
+node	3217407548	Residencial Mar dos Açores		38.7271781	-9.1424044	hotel				
+node	3301072920	Home Lisbon Hostel	Home Lisbon hostel	38.7105749	-9.1361563	hostel				https://www.homelisbonhostel.com/
+node	3360262569	Gat Rossio Hotel		38.7153832	-9.1404952	hotel	3		Clavel Hoteles S.A.	https://hotelgatrossio.com/
+node	3360265254	Valverde Lisboa Hotel		38.7197361	-9.1444859	hotel				
+node	3388853793	Okupa Lisboa		38.7208505	-9.1243968	hotel				
+node	3392572580	Browns Boutique Hotel & Apartements		38.7109181	-9.1383350	hotel				
+node	3412943452	Grande Pensão Alcobia Residencial	Hotel Grande Pensão Alcobia Residencial	38.7140244	-9.1366000	hotel				https://www.grandepensaoalcobia.pt/
+node	3528424553	Rossio Garden Hotel		38.7156281	-9.1404870	hotel				
+node	3554762302	Pensão S. João da Praça		38.7094600	-9.1319052	hostel				
+node	3555720646	Jeronimos 8		38.6987813	-9.2049927	hotel	4			http://www.jeronimos8.com/
+node	3624588277	Portugal Ways Culture Guest House		38.7210477	-9.1352475	hostel				https://www.portugalways.com/
+node	3653360026	CZAR Lisbon Hotel		38.7293464	-9.1348252	hotel	4			https://www.czarlisbonhotel.com/
+node	3663654264	Chiado		38.7139083	-9.1370505	hostel				
+node	3811571946	Estrela de Arganil		38.7294276	-9.1344231	hotel	2			
+node	3812521070	Pouso dos Anjos		38.7236765	-9.1358861	hotel				https://pousodosanjos.com/frames/anjos/photos-en.html
+node	3878526629	York House Hotel		38.7062318	-9.1590408	hotel	4			
+node	3881929783	Lisbon Calling Hostel		38.7081293	-9.1450420	hostel				
+node	3913167701	Lisbon Arsenal Suites		38.7076300	-9.1401752	hotel				https://www.lisbonarsenalsuites.com
+node	4001515946	INN POSSIBLE Lisbon Hostel		38.7123092	-9.1358679	hostel				http://innpossiblelisbon.com/
+node	4004560300	City Hostel Lisbon		38.7292801	-9.1407716	hostel				https://cityhostel.pt
+node	4100459790	Lisbon Chillout Hostel		38.7236092	-9.1433577	hostel				
+node	4107727344	Casa de São Mamede		38.7183528	-9.1526811	hotel	3			
+node	4138904396	Fontecruz Lisboa		38.7191427	-9.1440108	hotel	5		"Fontecruz Inversiones, S.A."	https://www.fontecruzhoteles.com/hotel-fontecruz-lisboa/
+node	4142881594	Casa del Limonero		38.7179021	-9.1395320	hotel				https://airbnb.com/
+node	4146399195	Lisbonaire		38.7165683	-9.1436273	hostel				https://www.lisbonaire.com/
+node	4161250689	InSuites Chiado Apartments II		38.7116824	-9.1427604	hotel			InSuites by ARCHITECTURE TOTE SER	https://www.insuites.pt/
+node	4161532101	InSuites Chiado Apartments		38.7103762	-9.1393492	hotel			InSuites by ARCHITECTURE TOTE SER	https://www.insuites.pt/
+node	4161549840	InSuites Chiado Apartments 100		38.7114368	-9.1397125	hotel			InSuites by ARCHITECTURE TOTE SER	https://www.insuites.pt/
+node	4187310189	Hotel Lisboa		38.7222411	-9.1463048	hotel	4			https://www.hotellisboa.com.pt/
+node	4224061199	Memmo Alfama		38.7102760	-9.1304635	hotel				
+node	4231508539	Johnny's place		38.7157050	-9.1310709	hostel				http://johniesplace.com
+node	4236327730	Hotel Dom Afonso Henriques		38.7371520	-9.1283248	hotel	2			https://www.hoteldah.com/
+node	4239666889	Airbnb - José		38.7156084	-9.1377960	hotel				
+node	4241912990	SANA Rex Hotel		38.7274598	-9.1559097	hotel	3			
+node	4245894292	Pensão Nova Goa		38.7143723	-9.1364989	hotel				https://www.pensaonovagoa.pt/pt
+node	4247663089	browns central		38.7113154	-9.1382983	hotel				
+node	4256873193	Residência do Norte		38.7129331	-9.1437981	hostel				https://facebook.com/residenciadonorte
+node	4261601889	Lisbon Serviced Appartments		38.7116084	-9.1385632	hotel				
+node	4268423499	Lisbon Old Town Hostel		38.7089976	-9.1446512	hostel				https://www.lisbonoldtownhostel.com
+node	4288638243	Pensão Iberica		38.7139574	-9.1370775	hostel				
+node	4300602693	SANA Executive Hotel		38.7369399	-9.1504530	hotel	3			https://executive.sanahotels.com/
+node	4308213841	Hostel Green Heart		38.7234029	-9.1458196	hostel				https://hgreenheart.com/
+node	4331991190	Goodnight Hostel		38.7113235	-9.1375784	hostel				https://www.goodnighthostellisbon.com
+node	4355936777	Casa Marta (Airbnb)		38.7185865	-9.1304069	hotel				
+node	4380615793	H10 Duque de Loulé		38.7263694	-9.1470521	hotel	4	H10 Hotels		https://www.h10hotels.com/pt/hoteis-lisboa/h10-duque-de-loule
+node	4396912954	Residencial Vila Nova		38.7257776	-9.1478435	hotel				https://www.residencialvilanova.com
+node	4427845093	Portas do Teatro apartmentos		38.7108619	-9.1325336	hotel				
+node	4488098573	Neya Lisboa Hotel		38.7293791	-9.1405705	hotel	4			https://www.neyahotels.com/
+node	4535393093	Hotel Altis Avenida		38.7149445	-9.1407529	hotel	5			https://www.altishotels.com/EN/HotelAltisAvenida/
+node	4594067098	Garden Rooftop		38.7139907	-9.1344944	hotel				
+node	4606542565	Ohmm.		38.7101406	-9.1292882	hotel				https://www.ohmm.pt/
+node	4624286109	Pestana CR7 Hotel		38.7091425	-9.1360500	hotel				https://www.pestanacr7.com/
+node	4630663860	Santos Hostel		38.7318890	-9.1516104	hostel				https://santoshostel.com
+node	4685343518	America Diamonds Hotel		38.7307668	-9.1470302	hotel	3			https://www.americadiamondshotel.com/
+node	4685557789	Central Downtown 5 Rooms		38.7098409	-9.1368552	hostel			João	
+node	4696453471	Hotel Botânico		38.7173192	-9.1469086	hotel	3			https://hotelbotanico.pt
+node	4700297625	Discover Lisbon		38.7177522	-9.1443816	hotel			Discover Lisbon	
+node	4704580887	The 7 hotel		38.7104741	-9.1386514	hotel	3		"Blue Queen Hotels, Lda."	
+node	4709777391	Mi Casa En Lisboa	My Home In Lisbon	38.7181138	-9.1321312	hotel				http://micasaenlisboa.com
+node	4712396342	Hotel Florescente		38.7163703	-9.1407846	hotel				https://www.hotelflorescente.com/
+node	4731043421	We Love Hostel		38.7261700	-9.1341782	hostel				
+node	4771338429	Palácio de São João		38.7224134	-9.1446900	hotel				
+node	4815470498	Be Lisbon Hostel		38.7314946	-9.1399665	hostel				https://belisbonhostel.pt/
+node	4819157968	Love Lisbon		38.7292947	-9.1359602	hostel				https://lovelisbonhostel.com
+node	4863864021	Next Hostel	Next Hostel	38.7208117	-9.1353205	hostel				
+node	4864785138	Feel Lisbon B&B		38.7117972	-9.1378062	hotel				http://www.feellisbonbandb.com
+node	4918791858	Flag house		38.7239727	-9.1342480	hostel				http://www.flaghostel.com/
+node	4921173922	Kab+1		38.7061616	-9.1573639	hostel				
+node	4933503830	top of the castle hill		38.7139968	-9.1345983	hotel			Barbara & Tiago 933 9404	
+node	4979267775	Lisbon Economy Guest Houses - Old Town I		38.7209479	-9.1562654	hostel				
+node	5022588023	Vistas de Lisboa		38.7124538	-9.1370051	hostel				https://vistasdelisboa.com/
+node	5025343919	Vila Garden		38.7304011	-9.1343047	hotel				
+node	5043170666	Sant Jordi Hostels Lisbon		38.7238107	-9.1321902	hostel			sant Jordi Hostels	https://www.santjordihostels.com/lisbon/
+node	5093281510	Smy Lisboa	Skyna Hotel Lisbon	38.7279600	-9.1592442	hotel	4	Smy Hotels		https://www.smyhotels.com/en/smy-lisbon/
+node	5093287245	The Lx Hill		38.7106355	-9.1468819	hotel	2			
+node	5095561602	Metrópole		38.7132844	-9.1398469	hotel	3		Hotéis Alexandre de Almeida	
+node	5095561603	My Story Hotel Tejo		38.7137304	-9.1366634	hotel	3	My Story Hotels		https://www.mystoryhotels.com/en/my-story-hotel-tejo/
+node	5095561605	Hotel do Chiado		38.7107197	-9.1394885	hotel	4			
+node	5095561845	My Story Hotel Ouro		38.7099659	-9.1381181	hotel	3			
+node	5096400090	Hotel Inn Rossio		38.7137126	-9.1403467	hotel	2			
+node	5096400091	9 Hotel Mercy		38.7123473	-9.1429706	hotel	5		"9Hotel Collection, SAS"	
+node	5096400093	Lisboa Carmo Hotel		38.7122332	-9.1413777	hotel	4		Grupo Lux Hotels	
+node	5107898896	Sofitel Lisbon Liberdade		38.7186203	-9.1448636	hotel	5	Sofitel		http://www.sofitel.com/gb/hotel-1319-sofitel-lisbon-liberdade/index.shtml
+node	5387167735	Hotel ibis Lisboa Liberdade		38.7201743	-9.1502049	hotel	2	Ibis	Grupo AccorHotels	http://www.ibis.com/pt/hotel-3137-ibis-lisboa-liberdade/index.shtml
+node	5418073342	Lisboa Garden Hostel		38.7207659	-9.1392906	hotel				
+node	5492105760	Alface Hostel		38.7123260	-9.1433529	hostel				https://www.alfacehostel.com/
+node	5497323604	Hotel Hotel		38.7171496	-9.1440512	hotel				https://www.hotelhotel.pt/
+node	5497323605	NH Collection Lisboa Liberdade		38.7203393	-9.1446604	hotel	4		NH Hotel Group	https://www.nh-hoteles.pt/hotel/nh-collection-lisboa-liberdade
+node	5497323606	Pax		38.7283386	-9.1374169	hotel	1			
+node	5497323608	Afrin Lisboa		38.7425111	-9.1348381	hotel	2			https://hotelscheck-in.com/hotelafrinlisboa/en/
+node	5522390846	Casa do Mercado		38.7085907	-9.1475692	hotel				
+node	5532300203	Mercure		38.7376262	-9.1661233	hotel	4	Mercure		https://www.accorhotels.com/gb/hotel-3346-mercure-lisboa-hotel/index.shtml
+node	5540941786	Capital		38.7389600	-9.1474566	hotel	1			
+node	5540941787	Hotel Itália		38.7375050	-9.1501919	hotel	3			www.hotelitalia.pt
+node	5541024462	Hotel Alif Avenidas		38.7348933	-9.1504638	hotel	4		Grupo Alif Hotels	https://www.alifhotels.com/pt/Alif/Hotel-Alif-Avenidas.aspx
+node	5541024463	Pensão Residêncial Pátria		38.7353017	-9.1464664	hotel	1			http://patriahotels.com
+node	5541277322	Train		38.7167666	-9.1213070	hostel				
+node	5543391334	WOT New Lisbon Hostel		38.7146935	-9.1474733	hostel				https://www.wotels.com/newlisbon/
+node	5544020755	Hotel Nazareth		38.7314880	-9.1518301	hotel	2			http://www.hotel-nazareth.com/
+node	5544020756	Hotel Avenida Park		38.7282162	-9.1495031	hotel	3			https://www.avenidapark.com
+node	5544020759	Hotel Lisboa Central Park		38.7279193	-9.1492281	hotel	3			https://www.lcpark.com/
+node	5544020762	SANA Capitol Hotel		38.7272729	-9.1480095	hotel	3			https://sanahotels.com/en/hotel/sana-capitol/
+node	5544020768	Hotel ibis Styles Lisboa Embaixador		38.7270702	-9.1461804	hotel	3	Ibis	Grupo AccorHotels	https://www.accorhotels.com/pt/hotel-A146-ibis-styles-lisboa-embaixador/index.shtml
+node	5544020769	Dom Carlos Park		38.7251972	-9.1480595	hotel	3			https://www.hoteldomcarlospark.com
+node	5544020770	Hotel Excelsior		38.7248292	-9.1479961	hotel	3		Hotusa Hotels	https://www.hotelexcelsior-lisboa.com/
+node	5544020771	Hotel Britania		38.7215442	-9.1456015	hotel	4			https://www.hotel-britania.com/
+node	5544020772	Hotel Dom Sancho I		38.7215920	-9.1460229	hotel	2		Grupo Lusitana Hotels	https://www.domsancho.com
+node	5544020808	Turim Av Liberdade Hotel		38.7237644	-9.1493593	hotel	4			https://www.turim-hotels.com/hoteis/turim-av-liberdade-hotel-111
+node	5544020809	Hotel PortoBay Marquês		38.7239470	-9.1500037	hotel	4.5			https://www.portobay.com/en/hotels/lisbon-hotels/portobay-marques/
+node	5544020854	Hotel Expo Astoria		38.7239480	-9.1511061	hotel	3			https://hotelespoastoria.com-hotel.com/
+node	5544020863	Flamingo Lisboa		38.7231998	-9.1521251	hotel	3			https://www.hotelflamingo.pt/
+node	5544020954	AVANI Avenida Liberdade Lisbon Hotel		38.7203684	-9.1474315	hotel	4	Avani Hotels & Resorts	AVANI Hotels & Resorts Limited	https://www.minorhotels.com/pt/avani/lisbon
+node	5544020987	Vintage Lisboa		38.7199790	-9.1503962	hotel	5			https://www.thevintagelisbon.com/
+node	5704442913	WOT Lisbon Patio		38.7314130	-9.1480359	hostel			Hub Hostels	https://www.wotels.com/lisbonpatio/m/
+node	5792724853	My Hostel Lisbon		38.7369884	-9.1486480	hostel				https://my-hostel-lisbon-pt.book.direct
+node	5969085340	Back to Lisbon		38.7148574	-9.1554436	hostel				https://www.backtolisbon.com/
+node	6019577388			38.7148982	-9.1352336	hotel				
+node	6064826915	Lisbon Lounge Hostel		38.7104063	-9.1368527	hostel			LLH Hostels	https://www.lisbonloungehostel.com/
+node	6140164586	easyHotel		38.7250815	-9.1462929	hotel		easyHotel		https://www.easyhotel.com/es/hotels/portugal
+node	6203580246	Hotel Jupiter		38.7396220	-9.1458579	hotel				
+node	6211523489	Estrella Heart apartaments		38.7121630	-9.1617329	hotel				
+node	6227561186	Lisbon serviced apartments		38.7107357	-9.1496915	hotel				
+node	6231013800	A Ponte		38.7276596	-9.1489878	hostel				https://www.guestshouselisbon.com
+node	6380527311	Turim Marquês Hotel		38.7230262	-9.1503818	hotel				https://www.turim-hotels.com/hotels/-141
+node	6396751240	Figueira Beautique Hotel		38.7132843	-9.1375206	hotel				
+node	6473263394	Pensão Milanesa Residencial		38.7175684	-9.1463313	hotel				https://milanesa.pt
+node	6570674875	Almalusa Baixia/Chiado		38.7083269	-9.1394763	hotel				https://www.almalusahotels.com/en/hotel
+node	6639890318	Hype Lisbon Hostel		38.7262135	-9.1484700	hostel				https://www.hypelisbonhostel.com
+node	6639890319	Lisbon World Hostel		38.7262350	-9.1484881	hostel				
+node	6639914032	Daizy Guest House		38.7262224	-9.1484794	hostel				
+node	6670013287	Feels Like Home Welcome Center		38.7177691	-9.1427811	hotel				https://www.feelslikehome.pt/
+node	6769820949	Urban Garden Hostel		38.7244933	-9.1469285	hostel				http://www.urbangardenhostel.com
+node	6769823739	Good Morning Hostel		38.7157515	-9.1409573	hostel				https://goodmorninghostel.com
+node	6769900374	Lisbon Destination Hostel		38.7144796	-9.1408375	hostel			Destination Hostels	https://www.destinationhostels.com/lisbon-destination-hostel
+node	6769987882	We Love F****** Tourists		38.7131174	-9.1370301	hostel				https://www.weloveftourists.com
+node	6770098747	B.A. Hostel		38.7143240	-9.1443603	hostel				https://www.bairroaltohostel.com
+node	6770117335	5 Sins Chiado Hostel		38.7121745	-9.1395433	hostel				https://www.chiadohostel.com
+node	6770121380	Lisbon TOP Hostel		38.7293711	-9.1494179	hostel				https://lisbontophostel.com
+node	6770128734	New Lisbon Concept Hostel		38.7217877	-9.1462019	hostel				http://www.nlchostel.com/
+node	6770213471	nest house		38.7354968	-9.1448649	hostel				http://nesthouse.pt
+node	6770235062	Lisbon Poets Hostel		38.7237663	-9.1315623	hostel				http://www.lisbonpoetshostel.com
+node	6770253201	Rossio Hostel		38.7136807	-9.1401147	hostel				https://www.rossiohostel.com/
+node	6770336335	Hostel Lisbon Forever		38.7319283	-9.1515108	hostel				
+node	6779291253	Music Hall Lisbon Hostel		38.7309418	-9.1507371	hostel				
+node	6779376345	Samp's Hostel		38.7334377	-9.1337983	hostel				
+node	6779385610	Guest Inn - Latino Coelho		38.7328859	-9.1498011	hostel				
+node	6779436503			38.7108654	-9.1435700	hostel			Passport	https://www.passporthostel.com/
+node	6779458045	Royal Prince Hostel		38.7148924	-9.1492424	hostel				https://www.royalprincehostel.com
+node	6779491895	Seven Hills Hostel		38.7272636	-9.1346503	hostel				http://www.hostelsevenhills.com
+node	6844182579	Casa de Hóspedes Modelo		38.7153691	-9.1396287	hostel				https://www.pensaomodelo.com
+node	6997545286	Hotel Exe Saldanha		38.7332396	-9.1431318	hotel				
+node	7073344011	Exe Liberdade		38.7259560	-9.1482130	hotel		Exe Hotels		https://www.exehotels.co.uk/exe-liberdade.html
+node	7218913085	Palace Chiado	DL Palace Chiado	38.7099309	-9.1401028	hotel				https://dearlisbon.com/palace/
+node	7245472736	Madalena by The Beautique Hotels		38.7131995	-9.1365343	hotel				
+node	7280575603	Feels Like Home		38.7085224	-9.1399363	hostel				http://feelslikehomesuites.pt
+node	7283430879	Lisboa Pessoa Hotel		38.7125586	-9.1414788	hotel				https://www.artsoulgroup.com/lisboapessoahotel/hotel-2/
+node	7659422767	Hapimag		38.7187861	-9.1427729	hotel				
+node	7955030095	Pousada de Juventude do Parque das Nações (HI)		38.7780717	-9.0985290	hostel				
+node	8168500740	The ICONS		38.7414083	-9.1584866	hotel	3		trius hotels	
+node	8266264217	Chez Alex		38.7285328	-9.1325439	hotel				
+node	8379774213	Rossio Plaza Hotel		38.7124017	-9.1391514	hotel				
+node	8414013049	The 8		38.7113678	-9.1363776	hotel				https://www.the8.pt/
+node	8662329367	Lisbon Serviced Apartments		38.7335278	-9.1509601	hotel				
+node	8691418837	Silk Lisbon		38.7318077	-9.1491594	hotel				
+node	8881327677	The independente		38.7149956	-9.1447075	hotel				https://independente.eu/principe-real/
+node	9084135697	Tagus Marina House Boat		38.7583251	-9.0923774	hotel				
+node	9098998179	B&B Hotel Lisboa Aeroporto		38.7864828	-9.1170255	hotel		B&B Hotels		https://www.hotel-bb.com/en/hotel/lisboa-aeroporto
+node	9272067697	Norte Guest House		38.7128333	-9.1373000	hotel	2			
+node	9367373769	The Editory Riverside Hotel		38.7135577	-9.1229311	hotel				
+node	9369844027	The Homeboat Company		38.7562253	-9.0921748	hotel				
+node	9404235544	Boho Guesthouse		38.7077748	-9.1437837	hostel				
+node	9712222864	Zurin Charm Hotel		38.7272604	-9.1638098	hotel				https://www.zurinhotels.com/
+node	9729790203	Turim Av Liberdade Hotel		38.7235787	-9.1498401	hotel				
+node	9729832027	Tagus Palace		38.7241181	-9.1471737	hotel				
+node	9729945379	Hotel Pestana Lisboa Vintage		38.7232062	-9.1510384	hotel				https://www.pestana.com/en/hotel/pestana-lisboa-vintage?tc_alt=114036
+node	9815005717	Lisbon Studios		38.7115376	-9.1361869	hotel				
+node	9828667717	NOW Bastidor Jovial		38.7094573	-9.1330642	hostel				
+node	9846248264	Hostel 15		38.7216473	-9.1355653	hostel				
+node	9846281525	We Hate F Tourists		38.7222238	-9.1365896	hostel				https://www.wehateftourists.com/
+node	9867881017	arsenal suit hôtel		38.7076753	-9.1398850	hotel				
+node	9942437798	Selina Secret Garden Lisbon		38.7098620	-9.1506524	hotel		Selina		https://www.selina.com/portugal/secret-garden-lisbon/
+node	9948879918	Be Lisbon		38.7214416	-9.1352454	hostel				
+node	10061185017	Moxy Lisbon City	Moxy	38.7291658	-9.1441198	hotel		Moxy		https://www.marriott.com/en-us/hotels/lisop-moxy-lisbon-city/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0
+node	10815445028	The Central House Lisbon Baixa		38.7131269	-9.1368224	hostel				https://thecentralhousehostels.com/lisboa/
+node	11048605305	Hotel Canadá		38.7356583	-9.1436754	hotel				
+node	11204985037		Luster Hotel	38.7332624	-9.1435735	hotel				https://www.lusterhotels.com/
+node	11342882169	"Independente Bica, Lisboa"		38.7084110	-9.1469836	hostel		Independente Hotels & Hostels		https://www.independente.eu/lisboa-bica/m/
+node	11342884069	Estrela dos Anjos		38.7247630	-9.1360083	hotel				
+node	11361252457	Be Poet Baixa Hotel		38.7119279	-9.1380580	hotel	3			https://bepoetbaixahotel.com
+node	11499371254	My Suite Lisbon		38.7138389	-9.1461338	hotel				https://www.mysuitelisbon.com/en
+node	11510763273		Empire Marquês Hotel	38.7256202	-9.1456557	hotel				https://www.empiremarqueshotel.com
+node	11578599170	Friendly Hills Bairro Alto		38.7110683	-9.1444491	hostel				https://friendly-hills-bairroalto.hinn.pt/
+node	11578607769	Varandas do Chiado - Lisboa	Chiado Balconies - Lisbon	38.7094336	-9.1454035	hostel				
+node	11579994469	LX Hostel		38.7030981	-9.1786972	hostel				http://www.lxhostel.pt/
+node	11662375569			38.7193817	-9.1351137	hotel				
+node	11673173967	Jardim da Lapa		38.7076128	-9.1644620	hotel				
+node	11835002285	"THE PESSOA, our guest since 1908"		38.7119860	-9.1413598	hotel				https://www.thepessoaguesthouse.com/
+node	11848069624	Rossio Plaza Hotel		38.7127836	-9.1392558	hotel				
+node	11850291711	Madalena		38.7131839	-9.1364877	hotel				
+node	11869380339	7 Luz		38.7524192	-9.2008582	hostel				https://www.hoteisportuguese.com/7-luz-hostel/
+node	11872205120	GS Chiado Boutique Studios & Suites		38.7104678	-9.1402743	hotel				https://www.gschiado.pt/
+node	11872205121	Lost Lisbon :: Chiado House		38.7104852	-9.1402789	hotel				https://www.lostlisbon.pt/
+node	11872372167	Amma Lisboa Hotel		38.7317117	-9.1398042	hotel				
+node	11875033994	WLFT		38.7130812	-9.1369714	hostel				
+node	11875228205	DuMont Lisbon Guesthouse		38.7213785	-9.1315538	hotel				
+node	11876777514	Ver Belém Suites		38.6970434	-9.2031670	hotel				
+node	11880893533	Gaspar House		38.7424149	-9.1339645	hotel	3			https://www.gasparhouse.pt/
+node	11881777864	Le premier Lisbon Suites		38.7369325	-9.1488503	hotel				
+node	11881818669	MASA Hotel 5 de Outubro		38.7374127	-9.1480711	hotel				https://www.masahotel5deoutubro.com/
+node	11892515109	Liberty hostel		38.7224270	-9.1520008	hostel				
+node	11892515130	Mama Shelter Lisboa		38.7209664	-9.1523930	hotel		Mama Shelter		https://mamashelter.com/lisboa/
+node	11894244547	Casual Belle Époque		38.7109856	-9.1355927	hotel				
+node	11894244551	Memória		38.7116936	-9.1358869	hotel				
+node	11894481874	Lisboa Prata		38.7105558	-9.1366739	hotel				
+node	11895371684	Lost Lisbon :: Cais House		38.7066208	-9.1430774	hotel				
+node	11898008169			38.7065202	-9.1590309	hotel				
+node	11936881989	room00 Lisboa Hostel		38.7208343	-9.1445938	hotel		room00 Hostels		https://www.room00hostel.com/
+node	11936898577	Room Select Liberdade		38.7175491	-9.1442344	hotel		Room Select		https://roomselecthotels.com/lisboa/
+node	11990239268	Brasilia		38.7223466	-9.1497704	hotel				
+node	12034948407	The Ivens		38.7095944	-9.1403918	hotel				https://www.theivenshotel.com/
+node	12075681086	Pestana Rua Augusta		38.7088198	-9.1365748	hotel	4			https://www.pestana.com/en/hotel/pestana-rua-augusta-lisboa
+node	12142181523	Hotel Portugal		38.7144573	-9.1368468	hotel				
+node	12165846079	Moon & Sun Lisboa		38.7113466	-9.1387193	hotel				https://www.moonandsun.pt/
+node	12199997600	Casa dell'Arte Lisbon		38.7155748	-9.1260955	hotel				https://casadellartelisbon.com/
+node	12314492303	Luzeiros Suites		38.7414489	-9.1471195	hotel				
+node	12314550862	Lisbon Terminal 3 Hostel		38.7717061	-9.1139371	hostel				
+node	12318822389			38.7119060	-9.1430625	hotel				
+node	12320436241	Luxury Lisbon Palace - Fine Homes		38.7152016	-9.1543685	hotel				
+node	12320495066	Alecrim ao Chiado		38.7090165	-9.1433290	hotel				https://alecrim-chiado.pt/en/
+node	12320497464	B:Mar Hostel and Suites		38.7409098	-9.1025585	hotel				
+node	12320888565	Hostel África do Sul		38.7284422	-9.1438424	hostel				
+node	12320888567	Citi Flat		38.7279603	-9.1437461	hotel				
+node	12320888577	Shelter 10		38.7271474	-9.1426877	hostel				
+node	12321435143	Lisbon Flower 360º		38.7649263	-9.1535494	hotel				
+node	12321654465	Metropolitan Living Lisbon Campolide		38.7343280	-9.1644165	hostel				
+node	12323907914	Finestay 8 Building Apartments		38.7076460	-9.1467738	hotel				
+node	12328773654	Dare Lisbon River		38.7076254	-9.1453752	hotel				https://www.darelisbon.com/river/
+node	12352474071	Feeling Eduardo VII		38.7342797	-9.1546373	hotel				
+node	12352474073	Edison Flat		38.7345307	-9.1555443	hotel				
+node	12352474081	On The Move Apartments		38.7348865	-9.1570906	hotel				
+node	12352474096	THEORYNOMAD AL CORTE INGLES		38.7353376	-9.1559180	hotel				
+node	12354242269	Seven Dreams Suites		38.7330238	-9.1525175	hotel				
+node	12363373701	Pestana - hotel group		38.7035524	-9.1834170	hotel				
+node	12378666282	GoodTime marquês do Pombal		38.7247925	-9.1536362	hotel		Comfort Suites		
+node	12378712482	Eurostar das Letras		38.7200191	-9.1488766	hotel	5			https://www.altishotels.com/PT/HotelAltisLisboa/Hotel/
+node	12378712483	Hotel Nacional		38.7224674	-9.1510413	hotel	5			https://www.altishotels.com/PT/HotelAltisLisboa/Hotel/
+node	12378712486	Altis Grand Hotel		38.7209368	-9.1501268	hotel	5			https://www.altishotels.com/PT/HotelAltisLisboa/Hotel/
+node	12378712494	Eurostar das Letras		38.7201399	-9.1489829	hotel	5			https://www.altishotels.com/PT/HotelAltisLisboa/Hotel/
+node	12378712504	Iberostar Selection Lisboa		38.7240320	-9.1524021	hotel	4.7	Iberostar Hotels & Resorts		
+node	12378712505	Iberostar Selection Lisboa		38.7239659	-9.1523474	hotel	4.7			
+node	12378712506	Iberostar Selection Lisboa		38.7240957	-9.1524645	hotel	4.7			
+node	12378712507	Iberostar Selection Lisboa		38.7241432	-9.1525061	hotel	4.7	Iberostar Hotels & Resorts		
+node	12378712509	hotel encerrado		38.7244318	-9.1527522	hotel				
+node	12378712510	hotel encerrado		38.7244840	-9.1527971	hotel				
+node	12381062832	54 São Paulo		38.7087733	-9.1491447	hotel				
+node	12468762459	Lisbon Serviced Apartments - Campos		38.7450901	-9.1587378	hotel				https://lisbonservicedapartments.com/apartments/campos/
+node	12512418057	Inspira Santos Boutique Hotel		38.7087279	-9.1533992	hotel	3	Inspira Hotels		https://inspirahotels.com/inspira-santos/
+node	12561106470	Pensão Beira Minho		38.7142275	-9.1380273	hotel				
+node	12616083501	Boutique Chiado		38.7102529	-9.1446179	hotel				http://www.BoutiqueChiado.com
+node	12638421279	Water and Sun IV		38.7372668	-9.1229396	hotel		B&B Hotels		
+node	12650902086	MACAM Hotel		38.7008716	-9.1830944	hotel				
+node	12703463585	Albergue de Peregrinos da Basílica dos Mártires		38.7105933	-9.1414268	hostel				
+node	12703463586	Youth Hostel Parque das Nações		38.7783585	-9.0980205	hostel				
+node	12754836604	Draft Hostel&Rooms		38.7107636	-9.1371870	hostel				https://www.drafthostelandrooms.com/
+node	12778311701	Residencia Nova Avenida		38.7172552	-9.1458065	hostel				
+node	12814490529	Tandem Palacio Alfama Suites		38.7131013	-9.1260356	hotel				https://www.eurostarshotels.com.pt/tandem-palacio-alfama-suites.html
+node	12895768904	Surfgasm - Olympo		38.7108259	-9.1590118	hostel			Surfgasm	https://surfgasm.world/
+node	13178124069	My Story Hotel Augusta		38.7102897	-9.1378100	hotel				
+node	13191102001	As Janelas Verdes		38.7054784	-9.1602668	hotel				https://lisbonheritagehotels.com/as-janelas-verdes/
+node	13323742601	Anjo Azul		38.7126661	-9.1458116	hotel				https://www.anjoazul.site/
+node	13373002936	MASA Hotel Campo Grande		38.7508760	-9.1487293	hotel	4			
+node	13434802789	Fenicius Charme Hotel		38.7224568	-9.1338711	hotel	3			https://www.hotelfenicius.pt/
+node	13435269950	Martinhal		38.7087824	-9.1435224	hotel	5			https://www.martinhal.com/locations/chiado/staying/
+node	13435269952	Montebelo		38.7094036	-9.1433758	hotel	5			https://montebelohotels.com/montebelo-vista-alegre-lisboa-chiado-hotel/en/home
+node	13516359034	Next Level		38.7275112	-9.1440693	hotel				
+node	13533913522	Hotel Blue Liberdade		38.7154850	-9.1407911	hotel				https://www.blueliberdadehotel.com/
+node	13646315109	Casa do Barão		38.7098797	-9.1442682	hotel				https://www.casadobarao.com/
+node	13683389501	The Late Birds Lisbon - Gay Urban Resort		38.7115310	-9.1477347	hotel				
+node	13760993901	Artsy Studio		38.7097740	-9.1445569	hostel				
+node	13796216206	Daora Lisbon Apartments		38.7358320	-9.1329402	hostel				
+node	13810893201	Upon Angels		38.7217928	-9.1346680	hotel				https://stayupon.com
+node	13846591381	Pousada Alfama		38.7127790	-9.1307435	hotel				https://www.pousadas.pt/en/hotel/pousada-lisboa-alfama
+node	13860509901	Tarabel Lisbon		38.7084197	-9.1626092	hotel				https://tarabellisbon.com
+node	13901428201	The Chill(e)		38.7314940	-9.1336712	hostel				https://protexstay.eu/
+node	13909364094	Toctoctoc		38.7147279	-9.1551383	hotel				
+node	13979917999	1869 Principe Real		38.7153335	-9.1482117	hotel				
+node	14048132733	The One Palácio da Anunciada		38.7174345	-9.1415033	hotel	5	H10 Hotels	H10 Hotels	
+node	14075068101	The Cloud One Hotel Lisboa		38.7339370	-9.1524331	hotel				https://www.the-cloud-one.com/hotels/lissabon/hotel-lissabon
+node	14152394202	Dear Lisbon - Bordalo Palace Chiado		38.7115942	-9.1415372	hotel				
+node	14241020601	The Cloud One Hotel Lisboa		38.7340737	-9.1528418	hotel				
+node	14268944128	Martinhal Lisbon Oriente		38.7612366	-9.0981053	hotel				
+node	14286901935	Lisbon Wine House - Rooms & Suites		38.7241620	-9.1360191	hotel	3			https://www.lisbonwinehouse.com/
+way	92542853	IBIS Lisboa Alfragide		38.7247746	-9.2085415	hotel			IBIS	
+way	96192114	BessaHotel Liberdade		38.7169160	-9.1436453	hotel	4	BessaHotel		https://liberdade.bessahotel.com
+way	96192121	Alegria Hotel		38.7174748	-9.1448956	hotel	1			https://hotelalegria.pt/
+way	96295470	The Lift Boutique Hotel		38.7123546	-9.1393632	hotel				https://www.theliftboutiquehotel.com/
+way	96297497	Augusta Boutique House		38.7126542	-9.1386025	hotel				
+way	96306167	Hotel Mundial		38.7147558	-9.1368749	hotel	4			https://www.hotel-mundial.pt/
+way	96313018	Esqina Cosmopolitan Lodge		38.7119719	-9.1360749	hotel				https://www.esqinacosmopolitanlodge.com/
+way	96313090	Pousada de Lisboa		38.7083295	-9.1379688	hotel	5		Pestana	
+way	96322172	Lisboa Amazing Hostel		38.7092810	-9.1340069	hostel				
+way	96322578	262 Boutique Hotel		38.7070953	-9.1430718	hotel				
+way	96322595	LX Boutique Hotel		38.7069962	-9.1432648	hotel	4			
+way	96322636	Bairro Alto Hotel		38.7102895	-9.1432785	hotel	5			https://www.bairroaltohotel.com/
+way	96322640	Corpo Santo Lisbon Historical Hotel		38.7073834	-9.1414958	hotel	5			https://www.corposantohotel.com/
+way	96390019	Lisbon Wine Hotel		38.7163240	-9.1403668	hotel				https://www.lisbonwinehotel.com
+way	96595204	Áurea Museum		38.7093390	-9.1305343	hotel		Eurostars Hotel Company		
+way	96595227	LIOZ		38.7090567	-9.1315082	hotel				
+way	96638895	Epic Sana Marquês Hotel		38.7273598	-9.1483800	hotel	5	Epic	Sana Hotels	
+way	96638921	HF Fénix Lisboa		38.7248263	-9.1512609	hotel	4	HF Hotels		https://www.hfhotels.com/gb/hf-fenix-lisboa
+way	96717508	Diplomático		38.7245228	-9.1527264	hotel				
+way	96717509	HF Fénix Garden		38.7248130	-9.1515964	hotel	3	HF Hotels		https://www.hfhotels.com/hoteis/hf-fenix-garden-pt
+way	96717535	FH Fenix Music		38.7247674	-9.1519322	hotel				https://www.hfhotels.com/en/hotels-en/hf-fenix-music-en/
+way	96766801	4 Places Lisbon Apartments		38.7179861	-9.1407317	hotel				
+way	96783135	Hotel Marquês de Pombal		38.7231995	-9.1490348	hotel	4.4			https://www.hotel-marquesdepombal.pt/
+way	96783139	Hotel Florida		38.7240994	-9.1501405	hotel	4		Continental	https://www.continentalhotels.eu/site/hotels/view/19.html
+way	96851673	JNcQUOI House		38.7213925	-9.1474234	hotel	3			
+way	96857173	Lisboa Central Hostel		38.7244745	-9.1476199	hostel				https://www.lisboacentralhostel.com/index.html
+way	96884764	Hotel White Lisboa		38.7348775	-9.1455577	hotel				
+way	97475337	Internacional Design Hotel		38.7129616	-9.1384271	hotel	4			
+way	97504513	Turim Europa Hotel		38.7292452	-9.1488816	hotel	4		Turim hotels	https://www.turim-hotels.com/hoteis/turim-europa-hotel-109
+way	97505173	Hotel Vip Executive Picoas		38.7316661	-9.1495793	hotel				
+way	97505184	The Delight Hostel		38.7314550	-9.1491666	hostel				
+way	97715264	Hotel Lisbon São Bento		38.7188653	-9.1557300	hotel				
+way	98057560	Maxime Hotel		38.7184260	-9.1454704	hotel				
+way	98057579	Safe Stay Hostel Lisboa		38.7158557	-9.1439525	hostel				https://www.safestay.com/venue/safestay-lisbon-bairro-alto/
+way	98057616	Lisboa Plaza		38.7187151	-9.1455520	hotel	4			https://www.lisbonplazahotel.com/
+way	98057621	GSpot Party Hostel		38.7162847	-9.1439291	hostel				https://www.gspothostel.com
+way	98057815	Memmo Hotel Príncipe Real		38.7162493	-9.1462400	hotel				https://www.memmohotels.com/
+way	98171267	Hotel das Amoreiras		38.7226649	-9.1564229	hotel				https://www.hoteldasamoreiras.com/
+way	98388316	Lisbon City Hotel		38.7247381	-9.1353104	hotel	3			http://www.lisboncityhotel.com/
+way	98388352	WC Beautique Hotel Collection		38.7236242	-9.1353922	hotel			The Beautique Hotels Lisboa	https://www.thebeautiquehotels.com/en/wc/
+way	98390666	Hotel Vincci Liberdade		38.7220636	-9.1492952	hotel	4	Vincci Hoteles	Vincci Hoteles	https://www.vinccihoteles.com/eng/Hotels/Portugal/Lisboa/Vincci-Liberdade
+way	98435639	JAM Lisbon		38.7053102	-9.1589088	hotel		JAM		https://jamhotels.eu/
+way	98544533	Heritage Avenida Liberdade		38.7176820	-9.1426031	hotel	4			https://www.heritageavliberdade.com/
+way	98582938	Hotel Lisbon Lounge Suites		38.7144830	-9.1284281	hotel				
+way	98627940	Hotel Infante Santo		38.7038758	-9.1683046	hotel		DH Hotels	DH Hotels	
+way	98665250	Empire Lisbon Hotel		38.7324235	-9.1341054	hotel	3			https://www.empirelisbonhotel.com/
+way	99628988	Hotel Ibis Lisboa Centro Saldanha		38.7319452	-9.1424461	hotel	2	Ibis	"Accor, S.A."	https://www.accorhotels.com/pt/hotel-2117-ibis-lisboa-centro-saldanha/index.shtml
+way	99629149	M'Ar de Ar Auria		38.7318218	-9.1398508	hotel	2			https://mardearhotels.com
+way	99796279	Holiday Inn Lisboa	Holiday Inn Lisbon	38.7381913	-9.1413252	hotel	4	Holiday Inn	Continental Hotels	https://www.continentalhotels.eu/site/hotels/view/20.html
+way	99796572	Hotel Zenit Lisboa		38.7332233	-9.1471587	hotel	4			https://lisboa.zenithoteles.com
+way	99804489	Lumen Hotel & The Lisbon Light Show		38.7296226	-9.1454984	hotel				
+way	99958314	Hotel Luena		38.7311249	-9.1357992	hotel	3			https://www.hotelluena.com/
+way	100213649	Miraparque		38.7289851	-9.1501699	hotel	3			
+way	100213652	WOT Lisbon Patio		38.7314939	-9.1480127	hostel				
+way	100545037	Happy@Santos		38.7077341	-9.1546562	hotel				
+way	101941942	Corinthia Hotel Lisbon		38.7387758	-9.1664885	hotel	5		International Hotel Investments p.l.c.	https://www.corinthia.com/pt/hotels/lisbon
+way	145185679	Amazónia Lisboa Hotel		38.7228699	-9.1548653	hotel				
+way	145203251	InterContinental Lisbon		38.7265942	-9.1555912	hotel	5	InterContinental	InterContinental Hotels Group	
+way	146664340	Holiday Inn Express		38.7858514	-9.1200861	hotel		Holiday Inn Express		
+way	146804453	AltisBelem Hotel & SPA		38.6933857	-9.2106364	hotel	5			
+way	148612126	Hotel Real Parque		38.7334642	-9.1503106	hotel	4		Grupo Hotéis Real	https://www.realparque.realhotelsgroup.com/
+way	160929169	Spin Hostel		38.7699712	-9.1884776	hostel				
+way	183668284	Hotel Açores Lisboa		38.7375760	-9.1598067	hotel	4			https://www.bensaude.pt/hotelacoreslisboa/
+way	206200830	Hotel 3K Barcelona		38.7409145	-9.1504308	hotel	4			https://www.hotel3kbarcelona.pt/
+way	211267427	Hotel Zurique Vip Executive		38.7430126	-9.1501805	hotel	3			https://www.viphotels.com/pt/Hoteis/VipExecutive/VipExecutiveZurique/OHotel.aspx
+way	211267428	VIP Grand Lisboa Hotel & Spa		38.7422171	-9.1494595	hotel	5			https://www.viphotels.com/pt/Hoteis/Vip-Grand-Lisboa/Sobre-Hotel.aspx
+way	227837428	Holiday Inn Express Lisboa Alfragide		38.7221078	-9.2175487	hotel		Holiday Inn Express		
+way	227837429	Holiday Inn Express Lisboa Alfragide		38.7220811	-9.2175296	hotel	3	Holiday Inn Express	Holiday Inn	https://www.hielisboaalfragide.pt
+way	238339758	Hotel 3K Madrid		38.7271230	-9.1446771	hotel	4			https://www.hotel3kmadrid.pt/
+way	238501319	Palácio do Visconde		38.7232417	-9.1320143	hotel				
+way	241475764	Hotel Olissippo Oriente		38.7649110	-9.0975154	hotel	4			http://www.hotelolissippo-oriente.com
+way	243318941	Hotel Alif Campo Pequeno		38.7421137	-9.1432403	hotel	3		Alif Hotels Group	https://www.alifhotels.com/pt/Alif/Hotel-Alif-Campo-Pequeno.aspx
+way	243859752	VIP Executive Entrecampos Hotel & Conference		38.7472257	-9.1504535	hotel	4		Grupo VIP Hotels	
+way	244745521	Olissipo Castelo		38.7146593	-9.1323728	hotel	4			https://www.olissippohotels.com/en/Group/Olissippo-Hotels/Castelo/The-Hotel.aspx
+way	244820260	Palacio Belmonte		38.7125071	-9.1316589	hotel				
+way	244890529	Hotel Vincci Alfama		38.7134376	-9.1277253	hotel	4	Vincci Hotels	Vincci Hotels	https://en.vinccihoteles.com/hotels/lisbon/vincci-alfama/
+way	244954498	This Is Lisbon Hostel		38.7148635	-9.1336772	hostel				https://www.thisislisbonhostel.com/
+way	293835794	DoubleTree by Hilton Lisbon - Fontana Park		38.7313111	-9.1438532	hotel	4	DoubleTree	Hilton	https://www.hilton.com/en/hotels/lisfpdi-doubletree-lisbon-fontana-park/
+way	301683401	OMID Saldanha Hotel		38.7333464	-9.1490763	hotel				
+way	301918291	TURIM Saldanha Hotel		38.7321491	-9.1480497	hotel				
+way	304357960	Hotel Evolution		38.7335205	-9.1439574	hotel			SANA	https://evolution-hotels.com/
+way	306283417	Star inn		38.7706726	-9.1252398	hotel				
+way	306283425	Melíã Lisboa Aeroporto		38.7703078	-9.1251245	hotel		Meliá		
+way	332276565	SANA Metropolitan Hotel		38.7454820	-9.1600545	hotel	4		"SANA Hotels Portugal, S.A."	https://metropolitan.sanahotels.com/
+way	378902899	Hotel Roma		38.7456744	-9.1404161	hotel				
+way	383128659	Turim Luxe Hotel		38.7280707	-9.1366289	hotel	3		Grupo Turim Hotels	https://www.turim-hotels.com/hoteis/turim-luxe-hotel-133
+way	383227782	Hotel Dinya		38.7319082	-9.1392326	hotel	2			https://www.dinyahotel.com/
+way	398581103	Ritz Four Seasons Hotel Lisboa		38.7258018	-9.1548781	hotel	5	The Ritz-Carlton	Four Seasons Hotels Limited	https://www.fourseasons.com/pt/lisbon/
+way	398937853	SurfLab Lisbon House		38.7394948	-9.1288007	hostel				http://surflablisbonhouse.com
+way	405770265	Hotel Príncipe Lisboa		38.7348351	-9.1510313	hotel	3			https://www.hotelprincipelisboa.com/
+way	409051871	SANA Reno Hotel		38.7347343	-9.1508651	hotel	3		"SANA Hotels Portugal, S.A."	https://reno.sanahotels.com/
+way	427473123	Hotel Travel Park		38.7271376	-9.1345937	hotel	3			https://www.hoteltravelpark.com/
+way	427477457	MASA Hotel Almirante		38.7274159	-9.1345674	hotel				
+way	436175597	Hotel 3K Europa		38.7434479	-9.1477555	hotel				
+way	439817912	Hotel do Chile		38.7315083	-9.1350753	hotel	2			https://hoteldochile.com/
+way	476772481	Hotel do Príncipe Real		38.7173063	-9.1474122	hotel	4		"Príncipe Real - Empreendimentos Turísticos e Hoteleiros do Algarve, S.A."	https://www.belverhotels.com/hotel-principe-real.html
+way	481244464	The Leaf Boutique Hotel		38.7275043	-9.1424987	hotel				https://www.theleafboutiquehotel.com
+way	490610408	The Twenties Hotel		38.7297643	-9.1339537	hotel				
+way	494432857	Palácio Vale-Flor		38.7037121	-9.1866935	hotel	4			
+way	502179764	Lisbon Marriott Hotel		38.7471668	-9.1644230	hotel	4	Marriott	"Marriott International, Inc."	https://www.marriott.com/en-us/hotels/lispt-lisbon-marriott-hotel/overview/
+way	523092841	Hotel da Estrela		38.7174253	-9.1593669	hotel	4			
+way	523092854	Olissippo Lapa Palace Hotel		38.7070302	-9.1635597	hotel	5			
+way	538280168	Ibis		38.7711585	-9.0968583	hotel		Ibis		www.ibis.com/go/hotel-8501-ibis-Lisboa-Parque-das-Nacoes/index.shtml#
+way	541767280	Ramada		38.7396369	-9.1243256	hotel	4	Ramada	Wyndham Hotels and Resorts	https://www.wyndhamhotels.com/ramada
+way	576927760	Turim Ibéria Hotel		38.7405246	-9.1482994	hotel	4			https://www.turim-hotels.com/hoteis/turim-iberia-hotel-108
+way	576927775	Hotel Holiday Inn Lisbon Continental		38.7412480	-9.1498189	hotel	4			https://www.ihg.com/holidayinn/hotels/us/en/lisbon/lisbn/hoteldetail
+way	576927807	VIP Inn Berna Hotel		38.7428060	-9.1481728	hotel	3			https://www.viphotels.com/pt/Hoteis/VIP-Inn-Berna/Sobre-Hotel.aspx
+way	578200615	Novotel		38.7363515	-9.1617795	hotel	4	Novotel		https://www.accorhotels.com/pt/hotel-0784-novotel-lisboa/index.shtml
+way	578278567	Sheraton Lisboa Hotel & Spa		38.7315995	-9.1470586	hotel	5	Sheraton		https://www.sheratonlisboa.com
+way	578671777	Ibis Styles Lisboa Centro Marques de Pombal Hotel		38.7279528	-9.1488617	hotel	3	Ibis Styles		
+way	578671785			38.7245503	-9.1525898	hotel	4			
+way	578671799	Eurostars das Letras		38.7201607	-9.1488375	hotel	5	Eurostars Hotel Company		https://www.eurostarshotels.com.pt/eurostars-das-letras.html
+way	579539846	Hotel Pestana Palace	Pestana Palace Hotel	38.7040887	-9.1871717	hotel				
+way	580863946	Hotel Dom Pedro		38.7248278	-9.1603483	hotel	5			https://lisboa.dompedro.com/pt
+way	594565514	Palacio Ramalhete		38.7054660	-9.1606833	hotel				
+way	636432783	Sunset Destination Hostel		38.7057746	-9.1442452	hostel			Destination Hostels	https://www.destinationhostels.com/sunset-destination-hostel/
+way	641044080	Iberostar Selection Lisboa		38.7241221	-9.1523861	hotel	5	Iberostar Hotels & Resorts	IBEROSTAR Hotels & Resorts	https://www.iberostar.com/en/hotels/lisboa/iberostar-lisboa/
+way	644031038	LUTECIA Smart Design Hotel		38.7460857	-9.1387308	hotel				
+way	663147549	Radisson Blu		38.7593667	-9.1538043	hotel		Radisson Blu	Radisson	https://www.radissonhotels.com/pt-br/hoteis/radisson-blu-lisbon
+way	712367063	Hyatt Regency Lisbon		38.6983046	-9.1866326	hotel	5	Hyatt Regency	Hyatt	https://www.hyatt.com/hyatt-regency/en-US/lishr-hyatt-regency-lisbon
+way	743508720	Palácio do Governador		38.6946064	-9.2146131	hotel		NAU Hotels		
+way	753290051	FeelingLisbon Apartments		38.7125904	-9.1520079	hotel				
+way	817654090	Hotel Moxy Lisboa Oriente		38.7689748	-9.1004947	hotel				
+way	823661671	Eurostars Universal Lisboa		38.7631575	-9.0986812	hotel		Eurostars Hotel Company		https://www.eurostarshotels.com/eurostars-universal-lisboa.html
+way	823661672	Ikonik Lisboa		38.7632772	-9.0991275	hotel		Eurostars Hotel Company		https://www.eurostarshotels.com/ikonik-lisboa.html
+way	824043644	Hotel Tivoli Oriente		38.7665204	-9.0983760	hotel	4			https://www.tivolihotels.com/en/tivoli-oriente
+way	826047814	Meliá Lisboa Oriente		38.7693322	-9.0981316	hotel	4	Meliá		
+way	830436888	"DUO Hotel Lisbon, Curio Collection by Hilton"		38.7082571	-9.1494163	hotel	4	Hilton	Hilton	https://www.hilton.com/en/hotels/lisboqq-duo-hotel-lisbon/
+way	851588156	Tings Lisbon		38.7191256	-9.1320648	hotel				
+way	926882237	Epic Sana		38.7242772	-9.1581932	hotel	5			https://www.lisboa.epic.sanahotels.com/en/
+way	938161351	Real Palácio		38.7319632	-9.1508934	hotel	5			https://www.realpalacio.realhotelsgroup.com/
+way	1004694493	Hotel Meliã Lisboa		38.7284657	-9.1485440	hotel	5			
+way	1026221880	Hotel Convento do Salvador		38.7128225	-9.1297865	hotel			Association for the Cultural Promotion of Children (APCC)	https://www.conventosalvador.pt/
+way	1032496607	"The Emerald House Lisbon, Curio Collection by Hilton"		38.7050026	-9.1621917	hotel		Hilton		https://www.hilton.com/en/hotels/lisemqq-the-emerald-house-lisbon/
+way	1120439033	room00 Lisboa Hostel		38.7207993	-9.1446109	hostel				https://www.room00hostels.com/en/lisboa/
+way	1207399629	Moov Lisboa Oriente		38.7653860	-9.1048617	hotel				https://hotelmoov.com/hoteis/lisboa/hotel-moov-lisboa/
+way	1209143817	Upon Lisbon Prime Residences		38.7540195	-9.1813535	hotel	4			https://uponlisbon.com/
+way	1254250319	Turim Boulevard Hotel		38.7198060	-9.1460092	hotel				
+way	1280394807	Lisbon Hostel Terminal 4		38.7762124	-9.1194140	hostel				
+way	1318919191	Locke de Santa Joana		38.7255335	-9.1472784	hotel	4	Locke Hotels		https://www.lockeliving.com/en/lisbon/locke-de-santa-joana
+way	1321548344	Hotel Tivoli		38.7209895	-9.1474657	hotel	5			https://www.tivolihotels.com/pt/tivoli-avenida-liberdade-lisboa
+way	1338544741	HF Fénix Urban		38.7287202	-9.1487142	hotel	4	HF Hotels		https://www.hfhotels.com/hotels-en/hf-fenix-urban-en
+way	1370287210	Vila Galé Ópera		38.7001965	-9.1802266	hotel	4	Vila Galé		
+way	1370761955			38.7008931	-9.1831390	hotel				
+way	1388114625	Myriad by Sana Hotels		38.7747377	-9.0910736	hotel	5	SANA Hotels		https://www.sanahotels.com/pt/hotel/myriad-by-sana/
+way	1415008087	Hotel da Baixa	Hotel da Baixa	38.7121489	-9.1376018	hotel				
+way	1417070526	Convent Square Hotel		38.7144282	-9.1383606	hotel		IHG		
+way	1418195282	Inspira Liberdade		38.7231934	-9.1451903	hotel	4			https://inspirahotels.com/inspira-liberdade/
+way	1449964596	Vincci Baixa Suites Apartments		38.7092916	-9.1356549	hotel	2	Vincci Hotels	Vincci Hotels	https://www.vinccihoteles.com/en/hotels/lisbon/baixa-suits-apartments/
+way	1454015967	PortoBay Liberdade		38.7223095	-9.1489487	hotel	5			https://www.portobay.com/pt/hoteis/portugal/lisboa-portugal/porto-bay-liberdade/
+way	1493497638	Wine & Books		38.7023205	-9.2020888	hotel	5			
+relation	1407306	Holiday Inn Express Lisboa		38.7224776	-9.1505005	hotel		Holiday Inn Express		https://www.ihg.com/holidayinnexpress/hotels/gb/en/lisbon/lisal/hoteldetail?cm_mmc=GoogleMaps-_-EX-_-PT-_-LISAL
+relation	9583723	Hotel Avenida Palace		38.7147892	-9.1412325	hotel	5			https://www.hotelavenidapalace.pt/
+relation	15080560	Stay Hotel Lisboa Aeroporto		38.7859575	-9.1179727	hotel				https://www.stayhotels.pt/stayhotellisboaaeroporto
+relation	19291170	Andaz Lisbon		38.7089466	-9.1374524	hotel	5	ANdAZ	Hyatt	https://www.hyatt.com/andaz/lisaz-andaz-lisbon
+relation	19353277	Hotel Santa Justa		38.7126664	-9.1379915	hotel	4			
+relation	19473658	Hotel Principe Ávila		38.7347841	-9.1512707	hotel				https://www.hotelprincipeavila.com/

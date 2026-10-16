@@ -1,0 +1,94 @@
+[
+  {
+    "id": "lamarela",
+    "name": "Yellow Line",
+    "jp": "Linha Amarela",
+    "color": "#F4BC18",
+    "code": "Amarela",
+    "stations": [
+      ["Rato",38.7201,-9.1548],
+      ["Marquês de Pombal",38.7247,-9.1503],
+      ["Picoas",38.7304,-9.147],
+      ["Saldanha",38.7348,-9.1453],
+      ["Campo Pequeno",38.7411,-9.1468],
+      ["Entrecampos",38.747,-9.1482],
+      ["Cidade Universitária",38.7515,-9.1591],
+      ["Campo Grande",38.7603,-9.1579],
+      ["Quinta das Conchas",38.7673,-9.1556],
+      ["Lumiar",38.7734,-9.1594],
+      ["Ameixoeira",38.7793,-9.1597],
+      ["Senhor Roubado",38.7856,-9.1718],
+      ["Odivelas",38.7933,-9.173]
+    ]
+  },
+  {
+    "id": "lazul",
+    "name": "Blue Line",
+    "jp": "Linha Azul",
+    "color": "#4E84C4",
+    "code": "Azul",
+    "stations": [
+      ["Santa Apolónia",38.7137,-9.1224],
+      ["Terreiro do Paço",38.707,-9.1344],
+      ["Baixa-Chiado",38.7104,-9.14],
+      ["Restauradores",38.716,-9.1423],
+      ["Avenida",38.719,-9.1448],
+      ["Marquês de Pombal",38.7242,-9.1492],
+      ["Parque",38.7295,-9.1503],
+      ["São Sebastião",38.7339,-9.1536],
+      ["Praça de Espanha",38.7377,-9.1592],
+      ["Jardim Zoológico",38.7421,-9.1689],
+      ["Laranjeiras",38.7482,-9.173],
+      ["Alto dos Moinhos",38.7499,-9.1798],
+      ["Colégio Militar/Luz",38.7534,-9.1893],
+      ["Carnide",38.7592,-9.1927],
+      ["Pontinha",38.7622,-9.1968],
+      ["Alfornelos",38.7603,-9.2046],
+      ["Amadora Este",38.7584,-9.2183],
+      ["Reboleira",38.7522,-9.2241]
+    ]
+  },
+  {
+    "id": "lverde",
+    "name": "Green Line",
+    "jp": "Linha Verde",
+    "color": "#00AAA6",
+    "code": "Verde",
+    "stations": [
+      ["Cais do Sodré",38.7061,-9.1468],
+      ["Baixa-Chiado",38.7104,-9.1403],
+      ["Rossio",38.714,-9.1379],
+      ["Martim Moniz",38.7176,-9.1358],
+      ["Intendente",38.7232,-9.1353],
+      ["Anjos",38.727,-9.1349],
+      ["Arroios",38.7327,-9.1343],
+      ["Alameda",38.737,-9.1339],
+      ["Areeiro",38.7423,-9.1335],
+      ["Roma",38.748,-9.1412],
+      ["Alvalade",38.7531,-9.144],
+      ["Campo Grande",38.7601,-9.1578],
+      ["Telheiras",38.7599,-9.1664]
+    ]
+  },
+  {
+    "id": "lvermelha",
+    "name": "Red Line",
+    "jp": "Linha Vermelha",
+    "color": "#DF096F",
+    "code": "Vermelha",
+    "stations": [
+      ["São Sebastião",38.7346,-9.153],
+      ["Saldanha",38.7352,-9.1443],
+      ["Alameda",38.737,-9.1325],
+      ["Olaias",38.7395,-9.1239],
+      ["Bela Vista",38.7475,-9.1177],
+      ["Chelas",38.7548,-9.1139],
+      ["Olivais",38.7606,-9.112],
+      ["Cabo Ruivo",38.763,-9.1041],
+      ["Oriente",38.7679,-9.0997],
+      ["Moscavide",38.7749,-9.103],
+      ["Encarnação",38.7751,-9.1155],
+      ["Aeroporto",38.7684,-9.1283]
+    ]
+  }
+]

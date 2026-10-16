@@ -1,0 +1,684 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	59818463	Carol		50.1053874	14.4879310	hotel				
+node	117460430	Villa Voyta		50.0243282	14.4471458	hotel				
+node	139439901	Arlington		50.1059146	14.4874545	hotel				
+node	150705331	Plaza Prague Hotel		50.1077774	14.4502708	hotel				
+node	166673048	Plus Prague		50.1093750	14.4512828	hostel				https://www.plushostels.com/
+node	244211692	Hotel Olšanka		50.0829309	14.4569580	hotel				https://www.hotelolsanka.cz/
+node	282481865	EA Hotel Tosca		50.0749404	14.4392315	hotel				https://www.hoteltosca.cz/
+node	283043273	Siesta		50.0982422	14.5053676	hostel				
+node	287474686	Hotel AXA		50.0898903	14.4357360	hotel	3			https://www.axa-hotel.cz/
+node	296490235	The Mozart Prague		50.0846158	14.4140872	hotel	5		Pachtuv Palace	
+node	296491079	Old Prague Hotel		50.0838369	14.4193317	hotel				https://www.oldpraguehotel.cz/
+node	296494094	Theatrino		50.0834200	14.4525950	hotel	4	AVE Hotels		https://www.hoteltheatrino.cz/
+node	296510295	Onefam Míru Hostel Prague		50.0759610	14.4379184	hostel			Onefam Hostels	https://onefamhostels.com/miru-onefam-hostel-prague/
+node	296511430	Sazava dormitory		50.0203784	14.4950469	hostel				https://www.ubytovaniprovsechny.cz/ubytovani-v-praze/sazava/
+node	296517522	Prague City Stay Jagellonská ApartHotel		50.0795837	14.4529333	hotel		www.PragueCityStay.com	www.PragueCityStay.com	
+node	296552371	Hostel Orange		50.0829082	14.4249114	hostel				
+node	296587511	Arpacay Backpackers		50.0886175	14.3979596	hostel				http://www.arpacayhostel.com/
+node	296606004	Atlas Hostel		50.0785440	14.4267963	hostel				
+node	296607658	Wellness Rooms Central		50.0790532	14.4270118	hostel				https://wellnessroomscentral.cz/en/home/
+node	296624715	EA Hotel Embassy Prague		50.0918554	14.4355890	hotel				
+node	296628458	AARON		50.0927426	14.4527230	hotel				http://www.prague-accommodation.cz/pension-aaron/
+node	296634962	Sir Toby's		50.1031233	14.4480928	hostel				
+node	296636635	Olympik Tristar		50.0988315	14.4706261	hotel				
+node	296640045	Penzion Oto Plus	Hostel Oto Plus	50.1164328	14.2984634	hostel				http://otoplus.cz
+node	296688449	Sporthostel Scandinavia		50.0820369	14.3080952	hostel				
+node	296693360	Seven Wishes		50.0908768	14.4456727	hotel				
+node	296718810	Pulse8		50.0945195	14.4544482	hotel		Penta Hotels		https://www.hotelpulse8.cz
+node	296725349	La Boutique		50.0696576	14.4072192	hotel				https://laboutique.cz/
+node	296752486	Hotel ASKANIA		50.0634068	14.4451547	hotel				
+node	296756262	Leon Hotel & Hostel		50.1075346	14.4488058	hotel				https://www.leonhotel.eu
+node	296767138	Onefam Arbes Hostel Prague		50.0761469	14.4046591	hostel			Onefam Hostels	https://onefamhostels.com/arbes-onefam-hostel-prague/
+node	296768833	Hotel Meda of Museum Kampa		50.1011575	14.3976627	hotel				https://hotelmeda.cz/
+node	296788317	PrahaJoa Guesthouse		50.0659990	14.4029123	hostel				
+node	296791200	Hotel SIS		50.0633260	14.4451769	hotel				http://gallery-hotel-sis.com
+node	296844703	Hotel Astra		50.0642398	14.5065959	hotel	3	Aureli hotels		https://www.hotelastra.cz/
+node	304964013	TOP HOTEL Praha		50.0414342	14.4960322	hotel				
+node	305074330	U Kříže		50.0817519	14.4047067	hotel				
+node	305075235	Roma		50.0820733	14.4045971	hotel	4			https://www.hotelromaprague.com/
+node	307220746	Ehrlich		50.0893691	14.4630431	hotel				
+node	307414535	My Hotel Apollon Prague		50.0916843	14.4772452	hotel				https://www.hotelapollon.cz/en/
+node	309291509	Hoffmeister		50.0929640	14.4089966	hotel	5			https://www.hoffmeister.cz/
+node	316726314	Boutique Hotel Klarov		50.0911143	14.4108239	hotel	4		Asten Hotels	https://hotelklarov.cz
+node	317007180	Alton		50.0750659	14.4304869	hotel				
+node	330094287	Spartakiáda		50.0992083	14.3372981	hostel				
+node	331960910	Silenzio		50.1017893	14.3812783	hotel				
+node	332304732	Carlton	Hotel Carlton Prague	50.0826859	14.4548688	hotel	4			https://hotelcarltonprague.cz/
+node	338605665	Golden City Garni		50.0836336	14.4541374	hotel	3			https://www.goldencity.cz/en/
+node	338726949	Akcent		50.0686344	14.4028210	hotel	3			https://www.akcent-hotel.cz/
+node	340039060	U dvou zlatých klíčů		50.0805653	14.4195866	hotel				https://www.udvouzlatychklicu.cz/
+node	340222077	NH Collection Prague Carlo IV		50.0863078	14.4338450	hotel	5			https://www.nh-hotels.com/hotel/nh-collection-prague-carlo-iv
+node	344547620	Hotel Ariston & Ariston Patio		50.0847577	14.4483027	hotel	4			https://www.hotelaristonpatioprague.cz/en/
+node	344797137	Jasmín		50.0995161	14.4862573	hotel	3		EA Hotel	https://www.hoteljasminprague.cz/
+node	346200182	Meritum		50.0809274	14.3111057	hotel	3			https://www.hotelmeritum.com/
+node	352852584	Hotel Union Praha		50.0651226	14.4248225	hotel	4			https://www.hotelunion.cz/
+node	355008189	Hotel Caesar Prague		50.0777963	14.4169708	hotel				
+node	355008190	The Manes Boutique Hotel		50.0776613	14.4174708	hotel	4			https://www.themanes.cz/
+node	355284130	Hotel Savoy		50.0882292	14.3884707	hotel	4			
+node	361213959	Royal Palace Hotel		50.0894995	14.4075512	hotel				
+node	361241028	Art Nouveau Palace Hotel		50.0839240	14.4276986	hotel				
+node	366265046	W		50.0821319	14.4271549	hotel		Marriott		
+node	366265620	Maria Prag		50.0828748	14.4316331	hotel				https://www.falkensteiner.com/hotel-prague
+node	366273568	Hotel Populus		50.0869542	14.4828232	hotel				https://populus.cz
+node	366277844	Pytloun		50.0831058	14.4245831	hotel				
+node	368056708	Step		50.1016079	14.4844982	hotel				
+node	368363211	Hector		50.0866732	14.4963412	hotel				
+node	370364610	Ankora		50.0751640	14.4284699	hotel				https://hotelankora.cz/
+node	370365825	William		50.0842375	14.4046922	hotel				https://www.hotelwilliam.cz/en/
+node	390584170	Pension Luna		50.0899150	14.4780889	hostel				
+node	434520417	Chilli		50.0782667	14.4159938	hostel				
+node	445855230	Villa Assen		50.0625431	14.4673165	hotel				
+node	467964164	Hejtman		50.0885304	14.4630249	hotel				
+node	472461368	Prague Central Camp	Prague Central Camp	50.0921179	14.4733151	hostel				
+node	479484146	U Divadla		50.0358031	14.4134157	hotel				http://www.hoteludivadla.cz
+node	480731776	hotel Vladař		50.0391760	14.4371560	hotel				
+node	488597160	Hotel Mucha		50.0916744	14.4412565	hotel				https://www.hotelmucha.cz/
+node	528432006	Betlem Club		50.0839604	14.4173452	hotel				
+node	528455636	U Cervene zidle - Red Chair Hotel		50.0844610	14.4166299	hotel				
+node	529127928	Clarion Hotel Prague		50.0922484	14.4264585	hotel				https://www.clarionhotelpragueoldtown.com/
+node	534882294	Hotel KLARINN		50.0912370	14.4106722	hotel				https://www.klarinn.com/
+node	559264574	Hotel Harmony		50.0902167	14.4351620	hotel	3			https://www.hotelharmony.cz/
+node	570832508	Hostel Elf		50.0869067	14.4456835	hostel				
+node	599496053	Domov důchodců		50.0805881	14.2590157	hotel				
+node	653858798	Angelo Hotel Prague		50.0705857	14.4014934	hotel	4	OREA		https://www.angelohotel.com/
+node	653876864	OREA Hotel Andel's		50.0709484	14.4026011	hotel	4	OREA		https://www.orea.cz/en/hotel-andels
+node	664468229	Radisson Blu		50.0772585	14.4224130	hotel		Radisson Blu		https://www.radissonhotels.com/en-us/hotels/radisson-blu-prague
+node	688828166	Hotel Rott		50.0868124	14.4192080	hotel				
+node	714161044	Olga		50.1039193	14.4331534	hotel				
+node	718337243	Avion		50.0949857	14.3546711	hotel				
+node	794600674	Ostaš		50.0861707	14.4461102	hotel				
+node	804656642	Miss Sophie's New Town		50.0752222	14.4268111	hotel		miss sophie's		https://www.miss-sophies.com/hotel/prague-new-town/
+node	809695932	Holiday Inn Prague Congress Centre		50.0611877	14.4271811	hotel	4	Holiday Inn	Holiday Inn	https://www.holidayinn.cz/
+node	809702717	Holiday Inn Prague Airport		50.1085360	14.2769739	hotel		Holiday Inn		https://www.hipragueairport.com/
+node	860259139	Ramada Airport Hotel Praha		50.0997519	14.2866722	hotel		Ramada		http://www.hotel-ramada-airport.info/
+node	895013540	Emmy		50.0213092	14.4635841	hotel				
+node	955964354	Michle		50.0552715	14.4516915	hotel				
+node	961288202	Aparthotel G.E.O.		50.0771050	14.4538735	hotel				
+node	997696056	Hotel DaVinci Wenceslas Square		50.0742723	14.4289608	hotel				
+node	1024636293	Hotel Na Zámečku		50.0532423	14.4944356	hotel				
+node	1039468592	Ubytovna Třineckých železáren		50.0617811	14.4362091	hotel				
+node	1041033082	Spoas		50.1104441	14.4478841	hostel				
+node	1097938664	Aparthotel Nitsch		50.0538438	14.3427351	hotel				
+node	1110573766	Grand Mary		50.0329905	14.4997978	hotel				http://hotelgrandmary.cz/
+node	1117508092	Hermitage Hotel Prague		50.0680461	14.4182144	hotel		Park Inn	Carlson Rezidor Hotel Group	https://www.hermitageprague.com/
+node	1158916492	Hotel Chodov		50.0399471	14.5053199	hotel				http://www.hotelchodov.cz/
+node	1208804195	Sonata		50.0769842	14.4293970	hotel				
+node	1257276077	Bookquet		50.0835999	14.4142671	hotel				
+node	1257356212	Jerome House		50.0803155	14.4177071	hotel				
+node	1257356269	Best Western Hotel Moran		50.0738889	14.4173340	hotel		Best Western	Best Western	http://www.bestwestern.com
+node	1257356288	All in one		50.0769145	14.4169585	hotel				
+node	1257768348	Botel Matylda		50.0764397	14.4137161	hotel				https://www.botelmatylda.cz
+node	1260632308	Arkada		50.0771085	14.4341099	hotel	4			https://www.arkadahotel.cz/
+node	1261026184	A1 Hotel		50.1034126	14.4794584	hostel				
+node	1275832509	Friday		50.0850388	14.4244135	hotel				https://www.fridayhotel.cz/
+node	1298213788	Olympik Artemis		50.0982690	14.4706073	hotel				https://www.olympik.cz/cz/artemis/
+node	1311741092	Hotel Beránek		50.0747216	14.4328178	hotel	3			https://www.hotelberanek.com/
+node	1332744787	Hotel Majestic Plaza Prague		50.0785799	14.4250165	hotel	4	Best Western	Best Western	https://www.hotel-majestic.cz/
+node	1332744793	Amarilis Hotel		50.0780535	14.4252629	hotel	4			http://www.hotelamarilisjerome.com/prague-hotel/hotel-amarilis-prague-contact.html
+node	1337025539			50.0515824	14.3252016	hostel				
+node	1337025549			50.0503683	14.3235735	hostel				
+node	1382255589	Hostel Bridge		50.0858810	14.4153090	hostel				http://www.hostelbridge.cz
+node	1387496086	Uno Prague		50.0716882	14.4999438	hotel	3	Czech Inn Hotels		https://www.unoprague.cz/
+node	1462546062	Pension Berta		50.0274235	14.5054551	hotel				https://www.pension-berta.cz/
+node	1478256354	Hotel iNOS		50.0584487	14.4234765	hotel				
+node	1482725942	Pension 15		50.0832674	14.4455380	hostel				
+node	1487327463	Aron		50.0882134	14.4634666	hotel				https://www.aronhotel.cz/
+node	1494661533	Dakura		50.0993309	14.4009675	hostel				https://www.hosteldakura.com/
+node	1496873691	Prague Season		50.0714762	14.4309059	hotel	4			
+node	1507174545	Hostel Centre		50.0748197	14.4287623	hostel				
+node	1517942471	Antik Hotel		50.0898195	14.4240121	hotel				https://www.hotelantik.cz/
+node	1562520976	Hostel Santini Prague		50.0886624	14.4010592	hostel				https://www.hostelsantiniprague.com/
+node	1569812138	987 Hotel		50.0859394	14.4339756	hotel				https://www.987praguehotel.com/
+node	1594316388	Pension Beta		50.0649424	14.4305634	hostel				https://www.pensionbeta.cz/
+node	1594676129	Eurostars Thalia		50.0818592	14.4165160	hotel				https://www.eurostarsthalia.com/
+node	1601885026	Traveller's Hostel		50.0907509	14.4259019	hostel				http://www.travellers.cz/
+node	1681021793	ubytovací zařízení Akademie můzických umění		50.0874978	14.4015660	hostel				
+node	1681021880	Three Golden Crowns		50.0876228	14.4025220	hotel				https://www.threegoldencrowns.com/
+node	1696144038	Antik City		50.0764584	14.4231959	hotel				http://www.antikcity.cz
+node	1715903482	Appart Hotel		50.1029318	14.4087784	hotel	3			
+node	1721717356	Hotel Saint George		50.0727140	14.4295196	hotel	4			
+node	1727663236	MyHouse Apartments		50.0898737	14.4181716	hotel				
+node	1777927880	Hotel Elite Prague		50.0808916	14.4189558	hotel				
+node	1796362964	Hotel Salvator		50.0902099	14.4296664	hotel	3			
+node	1813901506	Sophie's Hostel		50.0751421	14.4271025	hostel				
+node	1821242241	Kavalír		50.0698409	14.3715324	hotel				
+node	1822104779	Hotel Gloria		50.0869917	14.4516447	hotel				https://www.hotel-gloria.cz
+node	1856988395	Klamovka		50.0698882	14.3796160	hostel				https://www.hostel-klamovka.com/
+node	1882216134	Hotel Haštal Prague Old Town	Hotel Hastal Prague Old Town	50.0910100	14.4247855	hotel	4			https://www.hotelhastalprague.com/
+node	1927001358	Hostel One Prague		50.0850459	14.4495119	hostel				http://www.hosteloneprague.com/
+node	1946542643	Hotel Brixen		50.0740813	14.4294382	hotel				
+node	1946542658	Hostel Advantage		50.0734615	14.4289715	hostel				
+node	1948155850	ibis Praha Old Town		50.0893830	14.4308427	hotel		Ibis		http://www.ibis.com/en/hotel-5477-ibis-praha-old-town/
+node	1950566237	Pure White		50.0719449	14.4327239	hotel	4			https://www.purewhitehotel.com/
+node	1977821251	Bed Lounge		50.0884446	14.4217235	hotel				https://bedlounge.cz/en
+node	1982905663	Hostel Marabou		50.0888451	14.4603394	hostel				
+node	1991084583	Hotel Coronet		50.0594759	14.4272339	hotel				
+node	1991104740	Downtown		50.0820899	14.4173151	hostel				https://www.hosteldowntown.cz/
+node	2014818127	Iris Hotel Eden		50.0682815	14.4716891	hotel	4			https://www.irishoteleden.cz/
+node	2047259008	Arena		50.1065898	14.4906857	hotel	3			https://www.hotel-arena.cz/
+node	2089324493	Clarion Congress Hotel Prague		50.1094392	14.5011389	hotel	4			https://www.clarioncongresshotelprague.com/
+node	2093943090	Dolce Villa Hotel		50.1103831	14.3321436	hotel				
+node	2213334775	HASA		50.0673369	14.4463613	hotel	2			
+node	2288230818	Le Papillon		50.0798628	14.4220099	hostel				http://le-papillon.prague-hostels.cz
+node	2291991159	Garni Hotel Ronni		50.0683678	14.4506073	hostel	0			
+node	2296487393	Kampa Garden		50.0857044	14.4078532	hotel				https://kampagarden.cz/
+node	2298379386	Florenc		50.0904174	14.4407534	hotel				https://www.hotel-florenc.cz/en/home/
+node	2323807815	Hotel DAP		50.0995796	14.3950118	hotel	3			https://www.daphotel.cz
+node	2360136604	Capri House		50.0995990	14.4273988	hotel				
+node	2402545456	Ritchie’s hostel & hotel		50.0860985	14.4173026	hotel				http://www.ritchieshostel.com
+node	2409213405	Taurus		50.0774635	14.4530202	hotel	4			https://www.hoteltaurus.cz/
+node	2424666238	Hotel Tyl		50.0749802	14.4317703	hotel	4			https://hotel-tyl-prague.cz/
+node	2432668902	Pension Easy Journey		50.0724626	14.3968126	hotel	3			http://www.pension-prague.eu/index_soubory/Page1030.htm
+node	2432692172	Ragtime hostel		50.0802878	14.4183714	hostel				https://ragtime.mypage.cz/
+node	2432767518	Elysee Hotel		50.0813770	14.4283071	hotel				https://www.hotelelyseeprague.cz/
+node	2446830166	Pension CubeNeumann		50.1198221	14.4579455	hotel				
+node	2453002222	Prague Marriott Hotel		50.0879800	14.4315332	hotel	5			https://www.marriottprague.cz/
+node	2475659287	Davids Apartments		50.0903609	14.4405647	hostel				https://www.davids.cz/en/guest-house-krizikova/
+node	2486535293	Clown & Bard Hostel		50.0826491	14.4466906	hostel				https://www.clownandbard.com/
+node	2500714289	Pension Brezina		50.0739756	14.4301348	hotel				
+node	2504036066	Hotel Karlin		50.0935945	14.4486826	hotel				https://hotelkarlin.cz/
+node	2507935278	Absolutum Wellness Hotel		50.1071561	14.4411201	hotel	4			https://www.absolutumhotel.cz/
+node	2513875066	Sporthotel Oáza		50.0438320	14.4355470	hotel	3			https://www.hoteloaza.cz/
+node	2517281945			50.0567506	14.5082701	hostel				
+node	2532190119	B&B Prague-City Hotel		50.0925120	14.4416375	hotel	3	B&B Hotels	B&B hotels	
+node	2532288331	Augustine		50.0891187	14.4067184	hotel	5			www.augustinehotel.com/
+node	2578544831	Prokop		50.0423042	14.3974292	hotel				
+node	2640700586	Hostel Florenc		50.0887357	14.4425550	hostel				https://www.hostelflorenc.cz/
+node	2641510172	U Medvídků		50.0828571	14.4187905	hotel	3			https://www.umedvidku.cz/i
+node	2658554461	Charles Bridge Economic Hostel		50.0873267	14.4065971	hostel				http://www.charlesbridgehostel.cz/
+node	2699710918	Aparthotel Angel		50.0702693	14.4021016	hotel				http://www.aparthotelangel.com/
+node	2717357568	Amadeus		50.0640443	14.4245255	hotel				
+node	2734607604	Hotel Nosal		50.0361704	14.4695280	hotel	4		Hotel Nosál	https://www.hotelnosal.cz/
+node	2741991883	Residence Belgická		50.0719313	14.4365755	hotel			Mamaison	https://www.mamaison.com/cz/prague-residence-belgicka-prague.html
+node	2794213758	Hostel Jednota		50.0867003	14.4353210	hostel				https://jednota.prague-hostels.cz
+node	2794216815	Hotel King David Prague		50.0865509	14.4368298	hotel	5			https://www.hotelkingdavid.cz/
+node	2820087192	Prague Siesta		50.0882709	14.4230578	hotel				https://praguesiesta.com/
+node	2821300437	Grandior Hotel		50.0900646	14.4360616	hotel	5			
+node	2862576409	Hotel Bohemians		50.0450365	14.4122948	hotel				https://www.hotel-bohemians.cz/
+node	2875815245	Life Aparthotel Mikovec		50.0764262	14.4313881	hotel				
+node	2881470271	Nyx		50.0840109	14.4280223	hotel				https://www.nyx-hotels.com/prague
+node	2882597061	Hotel Maximilian		50.0909631	14.4246621	hotel	4			https://www.maximilianhotel.com/
+node	2899877793	Ramada Prague City Centre		50.0814777	14.4281568	hotel		Ramada		https://www.hotelramadapraguecity.cz/en/
+node	2904071149	Barceló Old Town Praha		50.0874369	14.4260919	hotel				https://www.barcelo.com/
+node	2991228286	City Bell		50.0717329	14.4366537	hotel	3			https://www.hotelcitybell.cz/
+node	3000009376	Clarion Hotel Prague City		50.0746618	14.4319154	hotel	4			https://www.clarionhotelpraguecity.com/
+node	3019202976	Mosaic House Design Hotel		50.0774313	14.4180691	hotel				https://www.mosaichouse.com/
+node	3045877440	Galileo		50.0723794	14.4340567	hotel	4		Your Prague Hotels	https://www.hotelgalileoprague.com/
+node	3112948757	Apartments Jeruzalemská		50.0840798	14.4323990	hostel				http://www.accommodation-dasha.cz/
+node	3138559580	Meran		50.0820474	14.4272883	hotel	3			https://www.hotelmeran.cz/
+node	3152349031	"Le-Investment, spol s r. o.  "		50.0871115	14.4300883	hotel			Le Hotels Group	https://www.le-hotels.cz/cz/
+node	3152681842	One Room Hotel		50.0810560	14.4512883	hotel	5		Tower Park Praha	
+node	3152681843	Budget Apartment		50.0822371	14.4517201	hotel				
+node	3154115672	The Grand Mark Prague		50.0870943	14.4313367	hotel				https://www.grandmark.cz/en
+node	3154273748	Hotel Pod Věží		50.0873932	14.4066676	hotel				
+node	3154280209	Hergetův palác		50.0879819	14.4098790	hotel				
+node	3154280210	U Páva		50.0884276	14.4095223	hotel	4			https://www.hotel-upava.cz/
+node	3154280211	Apartmány Karlův most		50.0876980	14.4091575	hotel				
+node	3154280213	Hotel Čertovka		50.0872832	14.4083180	hotel				
+node	3154280219	Lokál Inn		50.0877332	14.4075334	hotel				
+node	3154280220	Hotel Bishop's House		50.0877651	14.4067113	hotel				
+node	3164258610	Botel Matylda		50.0761018	14.4135629	hotel				
+node	3166565075	Hostel Modra		50.0978141	14.2914722	hostel				
+node	3180875042	Hotel Ametyst		50.0707163	14.4362582	hotel	4			https://www.hotelametyst.com/
+node	3227857187	Michelangelo Grand Hotel		50.0810014	14.4212752	hotel				https://www.michelangelograndhotel.com/en/
+node	3228788053	Panorama Hotel		50.0490728	14.4381691	hotel	4		CHI HOTELS & RESORTS	https://www.panoramahotelprague.com/
+node	3229526509	Hotel Seifert		50.0872146	14.4542184	hotel				https://www.hotelseifert.cz/
+node	3243798661	Le Palais		50.0697865	14.4345080	hotel	5			https://www.lepalaishotel.eu/
+node	3244368062	Hotel Orion		50.0718087	14.4385967	hotel	3			https://www.hotelorionprague.cz/en/
+node	3244368063	Hotel Abri		50.0719224	14.4394585	hotel	3			https://abrihotel.cz/
+node	3247615661	Hotel CLEMENT		50.0919924	14.4310545	hotel				https://www.hotelclement.cz/
+node	3247615663	Hotel Moods		50.0919942	14.4308103	hotel				https://www.hotelmoods.com/
+node	3277994764	Hotel Machova		50.0714853	14.4404332	hotel	3			
+node	3312091093	Design Metropol		50.0826602	14.4196423	hotel				https://www.metropolhotel.cz/
+node	3316237814	Boudnik Hostel		50.0860240	14.4489778	hostel				
+node	3341976495	Hotel Belvedere		50.0992425	14.4303193	hotel				https://www.hotelbelvedereprague.cz/
+node	3343392546	Asten Hotels		50.0880772	14.4199074	hotel				
+node	3344091077	Boutique hotel Seven Days		50.0770194	14.4289094	hotel				https://www.hotelsevendays.cz/
+node	3373766171	Hotel Atos		50.0799049	14.4051229	hotel				https://www.hotelatos.cz
+node	3373766172	Hotel Residence Malá Strana		50.0799275	14.4056291	hotel				https://www.garzottohotels.cz/cs/hotel-residence-mala-strana-praha/
+node	3391074374	Pachtuv Palace Hotel Prague		50.0845970	14.4146646	hotel	5		Pachtuv Palace	http://pachtuvpalace.com
+node	3391113983	Hotel Sunflower		50.0657797	14.4283725	hotel				
+node	3391154827	Alea Apartments House		50.0664236	14.4390328	hotel				
+node	3392410400	Apartmány a ubytování Vila Barbora		50.0567033	14.4265943	hotel				
+node	3393533164	Dejvice Apartments		50.0988865	14.3834409	hotel				
+node	3393564846	Residence Malostranská		50.0877510	14.4047966	hotel				
+node	3393564849	The Charles Hotel		50.0876839	14.4053062	hotel				
+node	3393564851	U Černého orla		50.0871882	14.4057192	hotel				
+node	3393564854	Domus Balthasar		50.0871900	14.4059955	hotel				
+node	3393577329	Apartmány Karlův Most		50.0874128	14.4064528	hotel				
+node	3393577335	U Schnellů		50.0886846	14.4049830	hotel				
+node	3393577338	U tří čápů	Hotel Three Storks	50.0896667	14.4051195	hotel				
+node	3393577339	Hotel Waldstein		50.0894435	14.4056522	hotel				
+node	3393593675	Alchymist Prague Castle Suites		50.0902760	14.4041562	hotel				
+node	3393593676	Hotel U Zlaté studně		50.0907888	14.4045961	hotel	5			https://www.goldenwell.cz/
+node	3393593681	Apartmány Thunovská 19		50.0889870	14.4012326	hotel				
+node	3393593682	U Zlaté růže		50.0889767	14.4010958	hostel				
+node	3393598655	Little Quarter		50.0883919	14.3993642	hostel				https://www.littlequarter.com/
+node	3393598656	U Zlatého kola		50.0885624	14.3988675	hotel				
+node	3393796267	U Zlaté podkovy		50.0885960	14.3983914	hotel				
+node	3393796271	Green Lobster		50.0886390	14.3977638	hotel				
+node	3393796273	Design Hotel Neruda		50.0886803	14.3975975	hotel				https://www.designhotelneruda.com
+node	3393796274	Red Lion		50.0884178	14.3975854	hotel			AVE hotels	https://www.hotelredlion.cz/
+node	3393796275	Bijou de Prague		50.0884299	14.3974822	hotel				
+node	3393796278	Hotel Golden Star		50.0885439	14.3965836	hotel	4			https://www.hotelgoldenstar.cz/
+node	3393796279	U Krále Karla		50.0885336	14.3962859	hotel				
+node	3393811968	Hotel Monastery		50.0871474	14.3895495	hotel				
+node	3393811970	Hotel Questenberk		50.0874795	14.3906573	hotel				
+node	3398266841	Aparthotel Susa		50.0728263	14.4410002	hotel				https://www.susam.cz/
+node	3421166130	Archibald City		50.0773805	14.4268651	hotel	4		Archibald hotels Prague	http://www.archibald.cz
+node	3445105953	Hotel Adeba		50.0902761	14.4504469	hotel	3			https://www.adeba.cz/
+node	3457333996	Hotel Arbes		50.0753902	14.4033095	hotel	3			http://www.hotelarbes.cz/
+node	3457333997	Hotel Luník		50.0750348	14.4338731	hotel				https://www.hotel-lunik.cz/
+node	3461510156	Hotel 16 U Svaté Kateřiny		50.0731869	14.4236853	hotel	4			https://www.hotel16.cz/
+node	3461510157	La Ballerina		50.0761993	14.4155719	hotel			THE ALCHYMIST LUXURY GROUP	https://www.ballerinahotel.com/
+node	3461510158	Fleur de Lis Hotel		50.0764644	14.4534774	hotel	4			https://www.fleurdelis-hotel.cz/
+node	3461510159	The ICON Hotel & Lounge		50.0800846	14.4247081	hotel				https://www.iconhotel.eu
+node	3461510160	U Svatého Jana		50.0719749	14.4185323	hotel	3		Westbohemia Hotels	http://www.hotelusvatehojana.cz/
+node	3461510161	Unitas Residence		50.0828156	14.4168472	hotel	4			https://www.unitas.cz
+node	3470869209	Prague Inn		50.0841675	14.4230943	hotel	4			https://www.hotelpragueinn.cz/
+node	3470869212	Liberty		50.0838499	14.4227309	hotel				https://www.hotelliberty.cz/
+node	3470883147	Adria		50.0826529	14.4251047	hotel				https://www.adria-hotel.cz/en/
+node	3470883153	EA ApartHotel Melantrich		50.0817631	14.4261722	hotel				https://www.aparthotelmelantrich.cz/en/
+node	3470883154	Old Town Prague		50.0816899	14.4263586	hotel				https://pragueapartment.cz/
+node	3470917438	EA Hotel Rokoko		50.0815809	14.4265221	hotel				
+node	3470917442	Apartments Jizera		50.0806572	14.4276809	hotel				
+node	3470917451	Mušketýr		50.0784652	14.4291803	hotel				
+node	3475173903	Hotel Praga 1		50.0776096	14.4221779	hotel				https://www.hotelpraga1prague.com
+node	3508317688	Hotel General		50.0702769	14.4091658	hotel				https://www.hotel-general.com/
+node	3517926006	Central Hotel Praha		50.0886531	14.4262453	hotel				http://www.central-hotel-prague.com/
+node	3517926007	Hotel Astoria		50.0889594	14.4261490	hotel				https://www.hotelastoria.cz/
+node	3519330099	Leon D'Oro		50.0858919	14.4221398	hotel				https://pragueleondoro.com/en
+node	3530747566	Kolej Arnošta z Pardubic		50.0804084	14.4166657	hotel			Univerzita Karlova v Praze	
+node	3530747572	The Madhouse Hostel		50.0810331	14.4194512	hostel			Madhouse s.r.o.	https://www.themadhouseprague.com/
+node	3530819193	Hotel Perla		50.0837448	14.4211329	hotel				https://www.perlahotel.cz/en/
+node	3535207217	Old Town Apartments		50.0821122	14.4188976	hotel				
+node	3538093408	Century Old Town Prague		50.0895275	14.4312906	hotel	4	MGallery		https://all.accor.com/hotel/3440/index.en.shtml
+node	3538141738	U Bubeníčků		50.0772461	14.4157849	hostel				
+node	3551356856	Mojo Inn Hostel		50.0780909	14.4236944	hostel				http://hostel-mojo.pragueshotel.net/
+node	3557794198	Bily Lev		50.0859725	14.4508892	hotel				http://www.hotelbilylev.cz
+node	3596365231	Hotel Globus ***		50.0343571	14.4767575	hotel	3			https://www.hotel-globus.cz/en/
+node	3602336143	Legie		50.0752385	14.4287543	hotel				https://www.hotellegie.cz/
+node	3605851910	Best Western Hotel Pav		50.0790174	14.4168705	hotel	3	Best Western	Best Western	https://www.hotel-pav.cz/
+node	3615466839	U Šemíka		50.0657083	14.4200100	hotel	3			https://www.usemika.cz/
+node	3615466840	Apartmán Vyšehrad		50.0656154	14.4201643	hotel				
+node	3617209519	Archibald at the Charles Bridge		50.0859279	14.4086969	hotel				
+node	3617209521	Rezidence Dvořák		50.0860190	14.4083000	hotel				
+node	3617209523	Riviera		50.0861722	14.4080773	hotel				
+node	3617209524	U Zlatých nůžek		50.0863874	14.4083669	hotel				
+node	3617209526	U Jezulátka		50.0864906	14.4089517	hotel				
+node	3617209527	Charles Bridge Luxury Apartments		50.0873322	14.4079941	hotel				
+node	3617209528	Prague Center Apartments		50.0873959	14.4085332	hotel				
+node	3617209529	Prague Castle Romantic Apartments		50.0876712	14.4091931	hotel				
+node	3617209530	Historic Centre Apartmens III		50.0877968	14.4094050	hotel				
+node	3617209532	Apartment Charles Bridge - View		50.0879121	14.4096276	hotel				
+node	3617209533	Tkalcovský dvůr		50.0881772	14.4096571	hotel				
+node	3617209534	Charles Bridge Apartments		50.0885540	14.4099870	hotel				
+node	3617268292	City Club Prague		50.0701838	14.4297708	hotel				
+node	3617270793	Royal Court Hotel		50.0705866	14.4300310	hotel				https://royalcourthotel.cz/
+node	3617270794	Assenzio		50.0708879	14.4297815	hotel				
+node	3617270795	Louis Leger		50.0703559	14.4305138	hotel				
+node	3617270796	Amigo City Centre		50.0709757	14.4304601	hotel				
+node	3617270797	Alqush Downtown Hotel		50.0711031	14.4304467	hotel				
+node	3617270798	Green Garden		50.0715283	14.4302160	hotel				
+node	3617270799	Kent Ridge Loft 2		50.0714130	14.4296796	hotel				
+node	3617270800	Modern Cozy Apartment		50.0708827	14.4315625	hotel				
+node	3617270801	Apartment Lublanska		50.0710514	14.4323511	hotel				
+node	3617270802	Old Time Hotel		50.0717366	14.4319943	hotel				
+node	3617270803	Koubkova Apartment		50.0719053	14.4317824	hotel				
+node	3617270805	Apartment Koubkova 1848		50.0721687	14.4317154	hotel				
+node	3617270806	Prague Centre Superior		50.0722927	14.4308490	hotel				
+node	3617270807	Prague Centre Plaza		50.0721825	14.4296394	hotel				
+node	3617270808	Ambiente Hotel		50.0728022	14.4308839	hotel				
+node	3617305066	Hotel NOIR		50.0733238	14.4301356	hotel				https://noirhotelprague.com/
+node	3617305067	Hotel Residence Select		50.0731327	14.4295294	hotel				selecthotel.cz/en/
+node	3617305069	Hotel City Central de Luxe		50.0740451	14.4289152	hotel				https://www.city-central.cz/
+node	3617305073	Miss Sophie's New Town & Wellness		50.0752348	14.4268419	hostel				
+node	3617305075	Residence Ječná 35		50.0756524	14.4268947	hotel				https://www.residenceinprague.cz/
+node	3617305077	LaNoblessa 2		50.0743928	14.4299827	hotel				
+node	3617305078	Hotel Raffaello		50.0745013	14.4305755	hotel				
+node	3617305079	Royal Bellezza Apartments		50.0740141	14.4306237	hotel				
+node	3617305081	Aparthotel Lublaňka		50.0746992	14.4309751	hotel	3			
+node	3620035645	Attractive		50.0840453	14.4136614	hotel				
+node	3620123112	U Zlatého stromu		50.0858403	14.4148939	hotel				
+node	3620123115	Hotel Aurus		50.0861002	14.4170209	hotel				
+node	3620123116	Clementin Old Town		50.0861931	14.4172435	hotel				
+node	3620123117	Golden Eagle		50.0861019	14.4171550	hotel				
+node	3620123119	Hotel Palác U Kočků		50.0859608	14.4188153	hotel				
+node	3620123122	Hotel U Prince		50.0864306	14.4201537	hotel				https://hoteluprince.com
+node	3620445221	Hotel Lippert		50.0876227	14.4197049	hotel				https://www.lipperthotel.cz/
+node	3620445231	Prague Square Hostel		50.0856570	14.4209891	hostel				https://www.praguesquarehostel.com/
+node	3620482759	Hotel Melantrich		50.0852196	14.4210171	hotel				
+node	3620482765	Prague Golden Age		50.0849139	14.4214211	hotel				
+node	3620482768	Hotel Dar		50.0862339	14.4214911	hotel				
+node	3620539873	Grand hotel Praha		50.0867672	14.4212133	hotel				https://www.grandhotelpraha.cz/
+node	3620539874	Old Town Square Hotel		50.0869590	14.4215518	hotel				
+node	3620539878	Černý slon		50.0877920	14.4220539	hotel				
+node	3621362832	King George		50.0850582	14.4166192	hotel	3			https://www.arcadira.eu
+node	3621362834	Hotel Liliová		50.0856950	14.4164609	hotel				https://www.hotelliliova.com
+node	3621828328	Residence Bologna		50.0834146	14.4158333	hotel				https://pragueresidencebologna.com/en
+node	3621828329	Hotel Cloister Inn		50.0831564	14.4159835	hotel				
+node	3625372997	Royal Standard		50.0688099	14.4150303	hotel				
+node	3653958476	COMFORT HOTEL Prague City East		50.0763060	14.4937943	hotel	3	Comfort Hotels		https://www.comforthotelpraguecityeast.com/
+node	3675041125	Hotel U Sládků		50.0838938	14.3638435	hotel				
+node	3689567199	Aria		50.0871433	14.4026655	hotel	5			https://www.ariahotel.net/
+node	3690337048	The Emblem Hotel		50.0875671	14.4184658	hotel				https://emblemprague.com/
+node	3705283797	City Centre		50.0898261	14.4282935	hotel				https://www.city-centre.cz/
+node	3722044210	Hotel Anette		50.0721057	14.4086935	hotel				https://www.hotelanette.cz/
+node	3722080373	Hotel Zlatá Váha		50.0856191	14.4323122	hotel				http://www.zlatavaha.cz/
+node	3726617573	Hotel Dalimil		50.0867718	14.4522418	hotel				
+node	3726652803	Hotel Prokop Square		50.0865441	14.4520553	hotel				
+node	3726709835	Artharmony Hostel		50.0751372	14.4232516	hostel				https://artharmony.cz/
+node	3726736988	Prague Centre Apartments		50.0777076	14.4184880	hostel				
+node	3732517330	SK Aritma Praha		50.0982867	14.3408828	hostel				https://www.skaritma.cz/hostel/
+node	3739384222	Art Hotel Praha		50.1011234	14.4159334	hotel				https://www.arthotel.cz/
+node	3740687832	Columbo		50.0855625	14.4514069	hotel				
+node	3813709628	Hotel Grand Majestic Plaza		50.0905163	14.4304300	hotel	4			https://www.hotel-grandmajestic.cz/
+node	3819787057	Hostel Ananas		50.0843445	14.4244693	hostel				http://hostelananas.com/
+node	3837921300	Designhotel Elephant		50.0897261	14.4371905	hotel			Le Hotels Groups	https://www.hotel-elephant.cz/
+node	3899572132	Buddha Bar Hotel Prague		50.0881510	14.4258555	hotel	5			https://www.buddhabarhotelprague.com/
+node	3899572135	Alcron Hotel		50.0800770	14.4264014	hotel	5	Radisson Blu		https://www.alcron.cz/
+node	3902578772	U Svaté Ludmily		50.0748253	14.4379354	hostel				https://www.kdm.cz/
+node	3914199485	Hotel Čechie Praha		50.0960511	14.4693840	hotel	4			http://www.hotelcechie.cz
+node	3936836208	Hotel Oya		50.0544861	14.4371029	hotel	3			https://www.hoteloya.cz/
+node	3975404560	Iron Gate Hotel & Suites		50.0856677	14.4197722	hotel	5			https://www.irongatehotel.com/
+node	3977751600	Agricola		50.0689456	14.4517027	hotel	3			http://www.hotelprague.cz/
+node	3980828843	MH apartments		50.0717058	14.4186954	hotel	4			http://mhapartmentsprague.com
+node	4003737333	Apartments Kaprova		50.0881466	14.4186356	hotel				
+node	4061435579	Zastávka Meteor		50.1087867	14.4676609	hostel				http://www.hostely-praha.cz/cz/hostel-a-ubytovna-liben
+node	4120622626	Anděl Apartments		50.0710353	14.4049712	hotel				https://www.andelapartments.cz/
+node	4131920789	CitySpot		50.0840882	14.4323002	hotel				
+node	4168056092	Minimino		50.1065801	14.4358549	hotel				https://www.minimino.cz/
+node	4188272834	Slezská Rybárna		50.0771763	14.4341499	hotel				
+node	4188272835	National Museum Apartments		50.0772745	14.4337274	hotel				
+node	4188276395	Royal plaza		50.0781015	14.4321141	hotel			Grand vltavín	http://www.royalplaza.cz/
+node	4192553546	Muzeum		50.0789892	14.4295755	hotel				
+node	4195844175	Occidental Praha Wilson		50.0799293	14.4304115	hotel		Occidental	Barcelo	
+node	4197705958	A Plus Hostel		50.0835738	14.4268457	hostel				https://www.aplus-hostel.cz/
+node	4202099089	Rezidence Santoška		50.0679118	14.3995453	hotel				https://rezidencesantoska.cz
+node	4209679909	Hotel Jewel		50.0841612	14.4207812	hotel				
+node	4214198534	Grand Hotel Bohemia		50.0877000	14.4265631	hotel	5			https://www.grandhotelbohemia.cz/
+node	4214198535	Hotel Kings Court Prague		50.0882618	14.4280383	hotel	5			https://www.hotelkingscourt.cz/
+node	4214305892	Mysterius Hotel Carnival		50.0893661	14.4239497	hotel	4			https://mysterius.eu/
+node	4214864881	Four Seasons Hotel Prague		50.0877103	14.4145373	hotel		Four Seasons		https://www.fourseasons.com/
+node	4216950903			50.0897414	14.4434958	hostel				
+node	4225435397	Safestay Hostel		50.0807813	14.4179018	hostel				https://www.safestay.com/prague-charles-bridge/
+node	4246757389	Post Hostel		50.0745977	14.4427654	hostel				
+node	4263760936	Hostel Daniela		50.0797967	14.4220123	hostel				https://www.hosteldaniela.cz
+node	4263760937	EA Hotel Victoria		50.0844686	14.4491617	hotel	3			https://www.eahotelvictoria.cz/en/hotel
+node	4267961026	Mandarin Oriental Prague		50.0847200	14.4054613	hotel	5		Mandarin Oriental Hotel Group	https://www.mandarinoriental.com/
+node	4278549109	INNSiDE Prague Old Town by Mélia		50.0914688	14.4310005	hotel	4			https://www.melia.com
+node	4281070240	Ahoy! Hostel		50.0832944	14.4188633	hostel				https://www.ahoyhostel.com/
+node	4281070241	Czech Inn		50.0718142	14.4464135	hostel				https://www.czech-inn.com/
+node	4281070242	Mango		50.0877930	14.4078242	hostel				http://hostelmango.cz/
+node	4281070243	Onefam Home Hostel Prague		50.0871093	14.4335590	hostel			Onefam Hostels	https://onefamhostels.com/home-onefam-hostel-prague/
+node	4281070244	Hostel Prague Tyn		50.0889180	14.4234729	hostel				https://www.hostelpraguetyn.com/
+node	4281070245	Old Prague House		50.0844497	14.4158024	hostel				https://www.oldpraguehouse.cz/
+node	4303779095	cartas		50.0918147	14.4411382	hostel				
+node	4318023405	Prague Hostel Cathedral		50.0742674	14.4375224	hostel				
+node	4318215340	Mamaison Hotel		50.0894185	14.4342347	hotel				https://www.mamaison.com/
+node	4318215342	Motel One		50.0896955	14.4344869	hotel		Motel One		
+node	4318456020	A Plus Hostel		50.0901206	14.4370618	hostel				https://www.aplus-hostel.cz/
+node	4326689794	Jelení dvůr		50.0927001	14.3918507	hotel	3			https://www.hoteljelenidvur.cz/en/
+node	4328186517	Deminka Palace		50.0772102	14.4313530	hotel				https://www.deminkapalace.com/
+node	4328186521	EA Hotel Downtown		50.0772541	14.4301246	hotel	4			https://www.hoteldowntownprague.cz/
+node	4332302404	Ubytovna Holešovice		50.1033804	14.4440901	hostel				
+node	4346559855	City Crown		50.0828944	14.4477771	hotel				http://www.citycrownprague.com/
+node	4388857089	Hotel Andante		50.0776294	14.4266366	hotel				
+node	4405041189	Victor		50.0868107	14.4501125	hotel				http://www.hotel-victor.cz/
+node	4407144589	U Staré paní		50.0849059	14.4197907	hotel				https://www.hotelustarepani.cz/
+node	4414860603	Domus Apartments		50.0841423	14.4308190	hotel				https://domusprague.com/
+node	4434130211	Constans		50.0876083	14.3991700	hotel				
+node	4434130212	Vintage design hotel Sax		50.0874304	14.3990500	hotel				
+node	4436837557	Pension Green Garland		50.0854029	14.4174682	hotel				
+node	4440184292	U Černé hvězdy		50.0862787	14.4172240	hotel				
+node	4440677924	Anna		50.0747234	14.4417990	hotel	3			
+node	4440677925	Olympik		50.0983807	14.4682818	hotel	4			https://www.olympik.cz/
+node	4440677926	1. Republic Hotel		50.0764787	14.4272133	hotel	4			https://www.firstrepublic.cz/
+node	4446206632	Dancing House		50.0754502	14.4142083	hotel				https://www.dancinghousehotel.com/
+node	4450210907	Hotel Merkur		50.0915650	14.4360381	hotel				https://www.merkur-hotel.cz/
+node	4460856130	Hotel Esprit		50.0884520	14.4262493	hotel	4			
+node	4460955055	Metamorphis		50.0879555	14.4242148	hotel				https://hotelmetamorphis.cz
+node	4461357351	Limes Apartments		50.0865654	14.4539412	hotel				
+node	4461357352	Sir Toby's Midtown		50.0860620	14.4495974	hostel		miss sophie's		https://sirtobys.com/st-midtown/
+node	4467559425	K+K Hotel Fenix		50.0796174	14.4276337	hotel	4		K+K Hotels	https://www.kkhotels.com/de/prague/hotel-fenix
+node	4513920692	Grandium Prague		50.0822643	14.4299237	hotel	4		Le Hotels Group	https://www.hotel-grandium.cz/
+node	4534814979	PurPur		50.0780993	14.4235171	hotel		Prague Spirit Group s.r.o.		http://www.prague-spirit.com/
+node	4534814981	Jump In		50.0860049	14.4500709	hostel				
+node	4557589465	La Fenice		50.0771937	14.4463499	hotel				
+node	4595253391	Hotel Koruna		50.0795477	14.4178764	hotel	3			https://www.hotelkoruna.eu
+node	4747882003	Hostel Alia		50.0624823	14.4427722	hostel				
+node	4750429304	Merchants Crown Hotel		50.0843785	14.4244045	hotel				
+node	4781920935	Oasis Prague Apartments		50.0914492	14.4330853	hotel				
+node	4785961583	Salvator Boutique Hotel		50.0774150	14.4286267	hotel				https://www.salvatorboutique.cz/
+node	4788155028	U Martina		50.0768094	14.4035429	hotel				https://www.hotelumartinapraha.cz/
+node	4816399495	Cosmopolitan Hotel		50.0899675	14.4320782	hotel	5			
+node	4822413597	Hotel Otar		50.0555139	14.4364819	hotel	3			
+node	4822413598	Hotel Pankrác		50.0542886	14.4364336	hotel	3			
+node	4850558922	Balbin	Balbin	50.0790022	14.4355797	hotel				
+node	4939764151	Three Crowns hotel		50.0865988	14.4513462	hotel	3			https://www.3korunky.cz/
+node	4939764152	Three Crowns hotel		50.0865299	14.4517012	hotel	3			https://www.3korunky.cz/
+node	4961802821	Residence Tabor		50.0836511	14.4536689	hostel				
+node	4975613437	Hotel Jungmann		50.0831724	14.4224998	hotel				http://www.hotel-jungmann.cz/
+node	5053279899	Golden Key		50.0884190	14.3988928	hotel			Asten Hotels	https://goldenkey.astenhotels.com
+node	5056779222			50.0761422	14.4378477	hostel				
+node	5064810855	Crystal Palace		50.0764425	14.4234078	hotel			EA Hotels	https://www.hotelcrystalpalace.cz/
+node	5066343105	Exe City Park		50.0840656	14.4326876	hotel		Exe Hotels		https://www.eurostarshotels.co.uk/exe-city-park.html
+node	5158952351	DownTown Suites		50.0847928	14.3761613	hotel			http://downtownsuites.cz/	http://downtownsuites.cz/
+node	5159800345	Chateau St. Havel		50.0353240	14.4476563	hotel	4			https://chateauhotel.cz/
+node	5308677914	Hotel Coubertin Garni		50.0790012	14.3849520	hotel	3			
+node	5335234821	The RoadHouse Prague		50.0844135	14.4144794	hostel				https://www.theroadhouseprague.com/
+node	5349850822	Aladin	Aladin	50.0695338	14.4496230	hotel	3			
+node	5354154821	Eurostars David		50.0767899	14.4154474	hotel		Eurostars Hotel Company		https://www.eurostarshotels.co.uk/eurostars-david.html
+node	5485886229	Hotel Avion		50.0948565	14.3546654	hotel				https://www.hotelavion.cz/en/
+node	5547761543	Merrion Hotel		50.0872444	14.4622465	hotel				
+node	5596379422	Hotel Harfa	Hotel Harfa	50.1049695	14.4871918	hotel				http://www.hotel-harfa.cz
+node	5627400723	Mamaison		50.0764247	14.4269106	hotel	4			https://www.mamaisondowntown.com/
+node	5692993049	Ubytovna U Svobodárny		50.1059895	14.4892344	hostel				
+node	5815637131	Minihotel Vitex		50.0534840	14.4216474	hotel				
+node	5953423697	Hotel Valcha		50.0838126	14.3655954	hotel				
+node	5963443481	King Charles Boutique Residence		50.0660581	14.4214984	hotel				
+node	6152564500	Metropolitan		50.0911951	14.4256983	hotel	3	Czech Inn Hotels	Czech Inn Hotels	
+node	6277797786			50.0753848	14.4149197	hotel				
+node	6329351345	Aparthotel City 5		50.0696480	14.4069707	hotel				https://www.aparthotelprague.com/
+node	6358332985	Prague Dream Hostel		50.0793584	14.4271346	hostel			Dream Hostel	https://dream-hostels.com/en/prague/
+node	6420517485	Residence Pinkas Prague		50.0788262	14.4177366	hotel				https://www.prague-holiday.net/
+node	6507728960	Colorfactory Hotel		50.1040161	14.4473849	hotel				
+node	6512300242	Marianeum		50.0713287	14.4400453	hotel				https://www.marianeum.cz/
+node	6528298943	Residence BENE		50.0905916	14.4268625	hotel				https://www.residence-bene.cz
+node	6548898285	Majestic Plaza		50.0786707	14.4251286	hotel				
+node	6644348653	Boho		50.0860854	14.4293374	hotel				https://www.hotelbohoprague.com/
+node	6723601485		Residence Vocelova	50.0758692	14.4310554	hotel				
+node	6818875585	Residence Praha		50.0840794	14.4538337	hotel				
+node	6860554609			50.0801371	14.2554864	hostel				
+node	7091330266	Hotel Peko		50.0579680	14.4696371	hotel				
+node	7167606603	Fontána		50.0995163	14.3998528	hostel				
+node	7258182767	Hotel Praga		50.0722472	14.3960805	hotel				
+node	7296572601	Villa St.Tropez		50.0835827	14.3192455	hotel				https://www.s-tropez.cz/
+node	7348396870	Augustus et Otto		50.0710302	14.4094712	hotel				
+node	7359603565	Hotel Baroko		50.0858304	14.5137005	hotel				
+node	7591257728	Apartments Rokoska		50.1172952	14.4482775	hostel				
+node	7960165702	Univerzitní hotel Opitzův dům		50.0870036	14.4235086	hotel			Univerzita Karlova	https://cuni.cz/UK-5642.html
+node	9100205816	Hotel Adler Praha		50.0803415	14.4179725	hotel				https://www.hoteladler.cz
+node	9120944017	Capsule Hostel Prague		50.0789423	14.4352193	hostel			Capsule	https://www.capsule.cz/
+node	9196406517	Brix Bar & Hostel		50.0867520	14.4546221	hostel				
+node	9415922809	Residence Agnes		50.0913600	14.4257915	hotel				https://www.residenceagnes.com/
+node	9552360317	G'old Art Apartment		50.0902702	14.4203434	hotel				https://goldart-apartments.com/
+node	9595230476	Miss Sophie's Charles Bridge		50.0878054	14.4037744	hotel		miss sophie's		https://www.miss-sophies.com/hotel/prague-charlesbridge/
+node	9595230477	Miss Sophie's Downtown		50.0847371	14.4331683	hotel		miss sophie's		https://www.miss-sophies.com/hotel/prague-downtown/
+node	9605981381	Dolce Vita Suites		50.0845114	14.4193518	hotel				
+node	9605986832	Historic Center Apartments		50.0845694	14.4195229	hotel				https://www.hcap.cz
+node	9621116683	Garden Court		50.0795865	14.4194582	hotel				
+node	9621153506	Ventana		50.0874734	14.4233280	hotel				https://www.ventana-hotel.net/
+node	9667525650	Hotel Prague Star		50.0781422	14.4268354	hotel				
+node	9694909190	Ibis Praha Wenceslas Square		50.0748807	14.4273853	hotel		Ibis		
+node	9726214602	Golden Crown		50.0815692	14.4213278	hotel				
+node	9727073117	420welcome.inn		50.0780073	14.4322181	hotel				
+node	9727477019	Affinity		50.0714660	14.4319913	hotel				
+node	9727478419	Alfons Boutique		50.0740748	14.4301154	hotel				https://www.hotelalfons.cz/en/home-en/
+node	9727479719	Hotel Tivoli		50.0743171	14.4293414	hotel				https://www.tivolihotel.cz/en/
+node	9727480117	Legerova 19		50.0713268	14.4304522	hotel				
+node	9758369219	Q Aurea		50.0809765	14.4209610	hotel				
+node	9896327743	Fitzgerald		50.0920009	14.4450869	hotel				https://www.hotelfitzgerald.com/en/
+node	9920748192	Barley		50.0756459	14.4279272	hotel				http://barleyhotel.cz/
+node	9958457586	White House		50.0575254	14.3677542	hotel	3			https://hotelwhitehouse.cz/
+node	9998399017	Fairy-Tale Prague From Lev i Sova		50.0924941	14.3745157	hotel				https://levisova.cz/
+node	10089364518	Luma Terra		50.0762743	14.4304742	hostel				https://www.lumaterra.cz/
+node	10732474685	Augistine Hotel		50.0887610	14.4062764	hotel				
+node	10968605966	Dům U Velké Boty		50.0875499	14.3981200	hotel				https://www.dumuvelkeboty.cz/
+node	10991275077	Winston Churchill Residence		50.0864237	14.4459396	hotel				
+node	11039802932	Dominican		50.0856283	14.4186496	hotel	4			
+node	11062940405	Hotel Ikono		50.0877498	14.4078413	hotel				
+node	11064016144	Hotel Libero		50.0721993	14.3967954	hotel	3			
+node	11077640201	MOOo by the Castle		50.0880076	14.3987256	hotel				https://www.mooo-apartments.com/castle/
+node	11189343237	Adam&Eva		50.0792232	14.4071813	hostel				https://www.booking.com/hotel/cz/adam-amp-eva-hostel-prague.en-gb.html
+node	11205509137	Hotel S42		50.0739783	14.4293728	hotel				https://www.s42hotel.cz/
+node	11446193288	Moods Charles Bridge		50.0843353	14.4148032	hotel	4			https://www.moodscharlesbridge.com/
+node	11613476941	Hotel CUBE Prague		50.0796484	14.4167637	hotel				
+node	11634149106	Hotel Museum		50.0786042	14.4293015	hotel				https://www.hotelmuseum.cz/
+node	11690755469	Onefam Old Town Hostel Prague	Onefam Old Town Hostel Prague	50.0820202	14.4170691	hostel			Onefam Hostels	https://onefamhostels.com/old-town-onefam-hostels-prague/
+node	11757519499	Residence Trafick		50.0600134	14.4694406	hotel	4			https://residence-trafick.com/?lang=en
+node	11764387253	The Clock Inn		50.0787019	14.4193588	hostel				https://www.theclockinn.cz/
+node	11870118631	The Cloud One		50.0871158	14.4362266	hotel		Motel One		
+node	12289037201	Hotel Czechia		50.0779200	14.4183995	hotel				
+node	12289058801	EA Hotel Crystal Palace		50.0764133	14.4236202	hotel				
+node	12467121108	Monastery garden		50.0916156	14.4246963	hotel				
+node	12510875301		Nosticova Apartments	50.0843389	14.4062342	hotel				
+node	12514115263	Hotel Sanssouci		50.0446260	14.4156704	hotel				http://www.hotelsanssouci.cz/
+node	12620894294	Hostel Emma		50.0771951	14.4166768	hostel				http://www.hostel-emma.com/
+node	12662746005	Hotel Hormeda		50.0880106	14.3700202	hotel				
+node	12669592503	Travek&Joy		50.0792737	14.4194544	hostel				
+node	12748164207	Bonvolon		50.0797229	14.4220141	hostel				
+node	12966526267	The Julius		50.0859645	14.4303879	hotel				
+node	12994544402	Numa Prague Root		50.0764543	14.4232763	hotel				
+node	12997894211	Hostel Mandarinka		50.0809705	14.4304994	hostel				https://hostelmandarinka.cz/
+node	13061589901	Drunken Monkey Hostel		50.0887361	14.4425431	hostel				
+node	13084620201	Quentin Prague Hotel		50.0884552	14.4156979	hotel				
+node	13086465051	Claris		50.0761298	14.4426189	hotel				
+node	13086720617	Hotel Essence		50.0854445	14.4292695	hotel				
+node	13114146529	Gregory house		50.0864216	14.4435638	hotel				
+node	13136308003	Braník		50.0295421	14.4071562	hotel				
+node	13186077860	Alchymist Grand Hotel and Spa		50.0875535	14.4009540	hotel				https://www.alchymisthotel.com/
+node	13274425841	Hotel Jerabek		50.1106905	14.4719084	hotel				https://www.jerabekhotel.cz/
+node	13555956048	Rooms 5		50.0536173	14.3428260	hotel				
+node	13709685301	Petrin Tower Residence		50.0801497	14.4056209	hotel				
+node	14029084781	BBC Hotel		50.0647543	14.4305214	hotel				
+node	14133760801	EA hotel New Town		50.0771610	14.4267913	hotel				
+node	14190309918	Pension Dientzenhofer		50.0845369	14.4067317	hotel				
+node	14221967156	1St Prague Capsule Hostel Old Town		50.0922863	14.4331470	hostel			Spirit Prague	https://www.spiritaccommodation.com/capsule-hostel-old-town/
+node	14221967157	Old Town Spirit		50.0922679	14.4332006	hotel		Spirit Prague		https://www.spiritaccommodation.com/old-town-spirit/
+node	14231937801	The Gold Bank		50.0869281	14.4354951	hotel				http://www.thegoldbankhotel.com
+node	14253004685	U Šuterů Boutique Hotel		50.0809851	14.4231246	hotel				
+node	14268445601			50.0373000	14.4824441	hotel				
+node	14277137581	The Viaduct Suites & More		50.0911129	14.4415656	hotel				https://www.theviaduct.cz/
+way	7653078	A&O Hotel and Hostel Prague Rhea		50.0797793	14.4995496	hotel		A&O		https://www.aohostels.com/en/prague/praha-rhea/
+way	7663781	Vienna House Diplomat Prague		50.0995943	14.3898529	hotel		Vienna House		http://www.vi-hotels.com/en/diplomat
+way	8062297	Masarykova kolej	Masaryk Dormitory	50.1009987	14.3864909	hotel			České vysoké učení technické v Praze	https://www.masarykovakolej.cz/
+way	8102319	Grand Hotel Prague Towers		50.0627729	14.4320484	hotel	5	Czech Inn Hotels		https://hoteltowers.cz/
+way	16941378	Ivka		50.1171190	14.5159055	hotel				
+way	22540879	Occidental Praha	Occidental Prague	50.0436691	14.4395188	hotel		Occidental	Barceló Group	https://www.barcelo.com/
+way	22908304	NH Prague City		50.0711902	14.3970404	hotel	4			https://www.nh-hotels.com/hotel/nh-prague-city
+way	25550853	Hotel International		50.1093457	14.3931674	hotel	4		Mozart Hotel Group	https://internationalprague.cz/
+way	27043732	Courtyard Prague Airport		50.1065491	14.2696326	hotel				https://www.marriott.com/hotels/travel/prgpa-courtyard-prague-airport/
+way	27124616	Hotel Paříž	Hotel Paris Prague	50.0882064	14.4274536	hotel	5			https://www.hotel-paris.cz/
+way	27624095	Bubenečská kolej		50.1053889	14.3977135	hostel			ČVUT	https://www.suz.cvut.cz/cz/ubytovani-na-kolejich/bubenecska-kolej
+way	27851381	Jalta		50.0812456	14.4285369	hotel				https://www.hoteljalta.com/cs/
+way	27851445	Sovereign		50.0819714	14.4302009	hotel	4			https://sovereignhotel.cz/
+way	27859076	U Tří bubnů		50.0875225	14.4193895	hotel				https://www.utribubnu.cz/
+way	27917157	Juliš		50.0826162	14.4246202	hotel	4			https://www.hoteljulis.cz/
+way	28568596	Skyhotel Prague		50.0814632	14.3087727	hotel				
+way	29994540	Klinika na Hanspaulce		50.1098612	14.3795740	hotel				
+way	30029791	Pyramida		50.0858647	14.3799218	hotel	4		OREA HOTELS s.r.o.	https://www.orea.cz/hotel-pyramida
+way	30123520	Fairmont Golden Prague		50.0919002	14.4188726	hotel		Fairmont		
+way	30286191	Kampa		50.0828387	14.4062654	hotel	4			
+way	30632448	ibis Praha Mala Strana		50.0722230	14.4006043	hotel		Ibis		https://ibis.accor.com/gb/city/hotels-prague-v3190.shtml
+way	30657692	Kinsky Garden		50.0781831	14.4025589	hotel				
+way	30747630	Julián		50.0776890	14.4049767	hotel				
+way	30751783	K+K Hotel Central Prague		50.0868153	14.4308468	hotel				https://www.kkhotels.com/products/kk-hotel-central-prague/
+way	30873149	U Tří pštrosů		50.0873350	14.4072082	hotel				http://www.utripstrosu.cz
+way	30917509	Eurowings Hotel		50.0848015	14.4507077	hotel	3			
+way	30988449	Hotel Alpin Avion		50.0396973	14.4585086	hotel				http://www.hotelalpin.cz/
+way	31064714	Adalbert		50.0843705	14.3566688	hotel	3			https://www.hoteladalbert.cz/
+way	31141675	Mama Shelter Prague		50.1027077	14.4317078	hotel		Mama Shelter		
+way	31776845	Hotel Ambassador - Zlatá Husa		50.0840027	14.4251636	hotel	5			https://www.ambassador.cz/
+way	31777129	Esplanade		50.0818757	14.4317719	hotel				https://www.esplanade.cz/
+way	32062527	Novotel Praha Wenceslas Square		50.0750368	14.4280962	hotel		Novotel		
+way	32954867	Hotel ILF		50.0445261	14.4509753	hotel	3			https://www.hotel-ilf.cz/
+way	33088341	Hilton Prague Atrium		50.0933397	14.4396739	hotel	5	Hilton	Hilton	https://www.hilton.com/en/hotels/prghitw-hilton-prague/
+way	34119298	Bohemia Plaza		50.0769704	14.4298047	hotel				
+way	34185001	Botanique		50.0917967	14.4394969	hotel				https://www.hotelbotanique.com/
+way	35444865	Hostel Kolbenka		50.1109026	14.5130503	hostel				http://www.kolbenka.com
+way	35829050	Hotel Sunrise		50.0750392	14.4254996	hotel	3			http://www.hotelsunrise.cz/cs/
+way	36746180	Hilton Prague Old Town		50.0887728	14.4317569	hotel	5	Hilton	Hilton	https://www.hilton.com/en/hotels/prgothi-hilton-prague-old-town/
+way	36988732	Design Hotel Josef		50.0900920	14.4263086	hotel	4			
+way	37052863	Myo Hotel Caruso	Myo Hotel Caruso	50.0916558	14.4205952	hotel				http://www.dinitzhotel.cz/
+way	37971955	Hotel Skalka		50.0694700	14.5069014	hotel	3			http://hotelskalka.com/
+way	39381101	Krystal		50.0940829	14.3417714	hotel	3			http://hotel-krystal.eu/
+way	41777215	Hotel Schwaiger		50.1034205	14.4083225	hotel	4	Hotel Schwaiger	B&F gastro service s.r.o.	http://www.hotelschwaiger.cz/
+way	41882345	Mira		50.0644701	14.4424948	hotel	3			www.hotelmira.cz
+way	42153150	Expo		50.1075984	14.4341557	hotel				
+way	43188170	Galerie Royale		50.0931095	14.4530676	hotel				http://www.hotelroyale.cz
+way	43982950	Prague City Stay		50.0867976	14.4540849	hotel		PragueCityStay.com		
+way	48278747	Otakar		50.0658709	14.4399553	hotel	3			
+way	48278756	Ostrůvek	Ostruvek	50.0664358	14.4394628	hotel				https://www.ostruvek.cz/
+way	49339665	Hotel Royal Prague		50.0945734	14.4516604	hotel				https://www.hotelroyalprague.com/en/
+way	49380488	Spiritka		50.0787289	14.3738376	hotel				
+way	49674536	Prokopka		50.0856017	14.4535413	hotel				http://www.prokopka.cz
+way	49728049	Nabucco		50.0650745	14.4436305	hotel	4			http://www.hotelnabucco.com/index-hotel.htm
+way	49731919	Hotel Květnice		50.0601569	14.4392658	hotel			Vězeňská služba ČR	https://www.zotavovnapraha.com/hotelkvetnice
+way	49784397	Hotel Petr		50.0776963	14.4019123	hotel				https://www.hotelpetr.cz/
+way	49784413	Red and Blue Design Hotel		50.0775985	14.4014336	hotel				https://www.redandbluehotels.com/
+way	49786784	Mamaison Riverside Hotel		50.0744244	14.4089369	hotel				https://www.mamaisonriverside.com/
+way	49790161	Popelka		50.0689693	14.3850294	hotel				
+way	49795323	Rambousek		50.0645317	14.3948508	hotel				
+way	49799544	NH Collection Prague		50.0697133	14.3958296	hotel				https://www.nh-hotels.com/hotel/nh-collection-prague
+way	49799615	Occidental Praha Five		50.0667105	14.4023351	hotel	4	Occidental	Barceló	
+way	49799621	Anděl		50.0670892	14.4022989	hotel	4			https://www.hotelandel.com/
+way	49799624	Bonaparte		50.0672240	14.4022296	hotel	3			http://www.pensionbonaparte.cz/
+way	49803269	Hotel Energie		50.0681157	14.3294624	hotel				https://hotelenergie.cz/
+way	49848476	Hotel Slavia		50.0683599	14.4759170	hotel				
+way	50111544	Restaurace a pension Školička		50.1176261	14.5071378	hotel				https://www.skolicka.cz/
+way	51965814	Pawlovnia		50.1180406	14.4534206	hotel	3			https://www.hotelpawlovnia.cz/
+way	54192870	Starý pivovar		50.0669064	14.3300441	hotel				
+way	60180205	Hotel Smaragd		50.0330598	14.3864583	hotel				
+way	60180217			50.0330415	14.3869977	hotel				
+way	60182061	Barta a Tichý		50.0417498	14.3902391	hotel				
+way	61581582	Hotel Wertheim		50.0752639	14.3183655	hotel				https://www.hotelwertheim.cz/
+way	61674532	Michael		50.0201888	14.4101744	hotel				https://hotelmichael.cz/
+way	62042976	Start		50.0366964	14.4290906	hotel				https://www.hotel-start.cz/
+way	62130157	Castle Residence		50.1174874	14.4471051	hotel	4			www.castleresidence.cz
+way	62139995	Antonie		50.1195646	14.4632130	hotel				https://www.hotel-antonie.com/
+way	88564490	Fortuna West		50.0656989	14.3192993	hotel				
+way	102781443	Paulina		50.0435540	14.4627645	hotel				
+way	107785663	Penzion Andre		50.1066247	14.4791225	hotel				
+way	126920093	Attic		50.0487595	14.4458675	hotel	3			https://hotel-attic-praha.webnode.cz/
+way	142370067	Abitohotel		50.0522383	14.4744114	hotel				https://www.hotelabito.cz/
+way	158483012	Hotel Opera		50.0920579	14.4362734	hotel	4			
+way	173949718	Benedikt City Center Hostel		50.0896277	14.4263481	hostel				https://hostel-benedikt-city-center.prague-hotels.org/fr/#main
+way	179164024	Best Western Bílá Labuť	Best Western Bila Labut	50.0907602	14.4339508	hotel	3	Best Western	Best Western	http://www.hotelbilalabut.cz/
+way	221401368	Botel Marina		50.1020204	14.4601064	hotel				https://www.botelmarina.cz/cs/
+way	270463983	Botel Admirál		50.0708267	14.4112573	hotel				https://www.admiral-botel.cz/
+way	335907010	Don Giovanni Hotel Prague		50.0786864	14.4755180	hotel	4			https://www.hotelgiovanni.cz/en
+way	365956562	Hotel Herrmes		50.0553551	14.3714347	hotel				https://www.hotelherrmes.cz/
+way	381739710	Mama Shelter Prague		50.1025623	14.4316401	hotel		Mama Shelter		
+way	401345793	Hotel Pivovar		50.1078915	14.5030946	hotel	2-3		Tomáš Zupka	
+way	456584042	Hostel Seven		50.1116352	14.4511055	hostel				
+way	475950957	Hotel Golf		50.0669660	14.3448325	hotel				
+way	478065631	City Inn		50.0874475	14.4328570	hotel	3		"CITY-INN, s.r.o."	https://www.city-inn.cz/
+way	548174907	Botel Racek		50.0511536	14.4148924	hotel				https://www.botelracek.eu/
+way	830300421	Stages Hotel		50.1042096	14.4957128	hotel				https://www.stageshotel.com
+way	996881711			50.1062120	14.3504251	hotel				
+way	1112989572	Apartments Eden		50.0629883	14.4757132	hotel				
+way	1214104106	Zleep Hotel Prague		50.0562149	14.3796425	hotel		Deutsche Hospitality		https://www.zleep.com/en/hotel/prague-2023/
+way	1242797130	Volcano complex		50.0451728	14.3443216	hotel				
+way	1375964205	2night		50.0766962	14.4300873	hotel			City pop	https://citypop.com/2night/
+way	1420994294	Vila Lanna		50.1027551	14.4074202	hotel				https://www.vila-lanna.cz/
+way	1445358119	Lindner Hotel Prague Castle		50.0859661	14.3878654	hotel	4	Hyatt	Hyatt Hotels Corporation	https://www.hyatt.com/jdv-by-hyatt/en-US/prgjp-lindner-hotel-prague-castle
+way	1564671258	Villa		50.0814088	14.4822231	hotel	4			https://www.hotel-villa.cz/
+relation	73784	U Zlatého gryfa	Old Royal Post	50.0863411	14.4048044	hotel				
+relation	161469	Hotel Atlantic		50.0898353	14.4316391	hotel	3			https://www.hotel-atlantic.cz/
+relation	161614	Imperial	art deco Imperial hotel	50.0899503	14.4327977	hotel				https://www.hotel-imperial.cz/
+relation	4780308	Courtyard Prague Flora		50.0791308	14.4597220	hotel		Courtyard	Marriott	https://www.courtyardpragueflora.cz/
+relation	7351688	"Andaz Prague, by Hyatt"		50.0855170	14.4306563	hotel	5	ANdAZ	Hyatt	https://www.hyatt.com/andaz/en-US/prgaz-andaz-prague
+relation	17955039	Angelis		50.0678579	14.4083599	hotel			Hotel Angelis s.r.o.	https://www.hotelangelis.com/
+relation	19436465	The President		50.0923735	14.4197172	hotel				https://www.axxoshotels.com/the-president

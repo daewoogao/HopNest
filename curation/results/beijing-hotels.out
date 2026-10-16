@@ -1,0 +1,747 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	269698692	王府半岛酒店	Palace Hotel	39.9137064	116.4102928	hotel				
+node	297407091	北京丽亭华苑酒店	Park Plaza Hotel Beijing Science Park	39.9761079	116.3389025	hotel				
+node	428835496		Presidential Plaza	39.9228612	116.3434746	hotel			State Guest House	
+node	513233334	凯富大厦		39.9316632	116.4510634	hotel				
+node	598403556	远东国际青年旅舍	Far East International Youth Hostel	39.8907613	116.3808164	hostel				
+node	600243946	红驿站酒店	Red Hotel	39.9375200	116.4387135	hotel				
+node	675650535	北京丽晶酒店	Regent Beijing	39.9146076	116.4127365	hotel				
+node	748859847			39.9444708	116.2982993	hotel				
+node	748859856			39.9434756	116.2991576	hotel				
+node	848057413	7天酒店	7 Days Inn	39.9440807	116.3870444	hotel		7天酒店		
+node	848392921	国际艺苑大酒店		39.9175910	116.4053392	hotel				
+node	973341884	如家酒店	Home Inn	39.9592464	116.3756500	hotel		如家酒店		
+node	978266111	北京香格里拉饭店	Shangri-La Hotel	39.9427042	116.3016495	hotel				
+node	984121794	北京崇裕	Beijing Chongyu	39.8923476	116.4198273	hotel				
+node	995927993	北京花市星辰酒店		39.8962760	116.4227730	hotel				
+node	1041353373	银河宾馆		39.9087702	116.2947555	hotel		麗枫酒店		
+node	1248471843	南院悦居	Candy Hill	39.9433341	116.4119438	hotel				
+node	1332416428	阳光老宅院酒店	Lemeng Hotel	39.9465061	116.3864649	hotel				
+node	1359867878		Fish Inn	39.9186751	116.3648995	hotel				
+node	1446813603	侣松园宾馆	Lu Song Yuan Hotel	39.9332779	116.4003121	hotel				
+node	1484607167	7天酒店	7 Days Inn	39.8884200	116.4283400	hotel		7天酒店		
+node	1485611152	亮马河酒店	Landmark Hotel	39.9446780	116.4571755	hotel				
+node	1564843597		Beijing Traditional View Hotel	39.9384804	116.3990088	hotel				
+node	1668284807	北京雍和宫国际青年旅舍	Beijing Lama Temple Youth Hostel	39.9403175	116.4117958	hostel				
+node	1668835983	北京丽思卡尔顿酒店	The Ritz-Carlton Beijing	39.9092066	116.4747220	hotel	5	The Ritz-Carlton		
+node	1668837050	万豪酒店	JW Marriott	39.9093820	116.4759518	hotel	5	JW Marriott		
+node	1669647776	花园招待所		39.9315493	116.3034305	hotel				
+node	1678269091	红果园宾馆		39.9492554	116.3374996	hotel				
+node	1694274952		Leo Courtlard Hostel	39.8912426	116.3838087	hostel				
+node	1709525135	明苑酒店		39.9066560	116.3528349	hotel				
+node	1737610041	中邮苑宾馆		39.8793194	116.3571932	hotel				
+node	1742785937	护国寺宾馆		39.9337914	116.3676397	hotel				
+node	1747714910			39.9492322	116.3568416	hotel			如家快捷酒店	
+node	1761803822	红墙酒店	Red Wall Hotel	39.9232981	116.3971301	hotel	4			
+node	1827353366	王府井丽景酒店	Park Plaza Hotel	39.9153268	116.4126804	hotel		Park Plaza		
+node	1852925515	天坛饭店	Tiantan Hotel	39.8831909	116.4245644	hotel				
+node	1861757953	235		39.9413480	116.4019800	hostel				
+node	1882506358	天天如家公寓	Tiantian Ru Jia Apartment	39.9049208	116.4382459	hotel				
+node	1882506360	宜必思酒店	Ibis Hotel	39.9056491	116.4383210	hotel		宜必思酒店		
+node	1885117432		Beijing Sanlitun Hostel	39.9344629	116.4380141	hostel				
+node	1946735610	161酒店	161Lama Courtyard Hotel	39.9417220	116.4134716	hotel				
+node	1946735611	北平国际青年旅舍	Peking International Youth Hostel	39.9344544	116.3967884	hotel				
+node	2099774332	培新宾馆		39.8890165	116.4266793	hotel				
+node	2216783917	汉庭快捷酒店	Hanting Hotel	39.9228789	116.3692527	hotel		汉庭酒店		
+node	2328178874	万寿宾馆A座		39.9110502	116.2861729	hotel				
+node	2343517436			39.8945917	116.3188780	hotel				
+node	2390983616		Grand Hotel du Palais Rouge	39.9472768	116.4069432	hotel		Grand Hotel du Palais Rouge		
+node	2399974536	郡王府酒店		39.9351949	116.4796678	hotel				
+node	2402055492	枫林酒店		39.9708832	116.4908102	hotel				
+node	2408401223	二十一世纪饭店		39.9508164	116.4673750	hotel				
+node	2408401227	卢舍宾馆		39.9522413	116.4700975	hotel				
+node	2408411370	8号温泉商务酒店		39.9360986	116.4713402	hotel				
+node	2418894059	唐人街商务酒店	Chinatown Business Hotel	39.9117543	116.4446951	hotel				
+node	2420047813	桔子酒店		39.9063364	116.4608946	hotel				
+node	2420047814	北京万达文华酒店	Sofitel Wanda Beijing	39.9079610	116.4642038	hotel	5			
+node	2426624716	东方花园饭店	Oriental Garden	39.9365945	116.4287620	hotel				
+node	2445896285	桔子水晶北京天安门王府井酒店		39.9160069	116.4074636	hotel				
+node	2453859173	如家快捷酒店		39.8442223	116.3863866	hostel				
+node	2453867489	吴裕隆酒店		39.8375683	116.3889610	hostel				
+node	2477693657	国宏宾馆		39.9042618	116.3299063	hotel				
+node	2480938203	福星假日宾馆		39.9232644	116.4129567	hotel				
+node	2490686394	万寿宾馆B座		39.9110489	116.2877718	hotel				
+node	2496302875	何所有酒店		39.8562795	116.4124740	hotel				
+node	2496303065	欣燕都酒店		39.8561405	116.4114118	hotel				
+node	2501325984	汉庭连锁酒店		39.9014897	116.4849472	hotel				
+node	2515011114	桔子水晶酒店		39.8928470	116.4131927	hotel				
+node	2517188071	船舶酒店		39.8655505	116.4545903	hotel				
+node	2520627668	金菠萝国际青年酒店	Golden Pineapple International Youth Hostel	39.9348950	116.4347731	hostel				
+node	2602380207	汉庭酒店	Hanting Hotel	39.8852455	116.3577260	hotel		汉庭酒店		
+node	2678276579		YoYo Hotel	39.9354643	116.4509780	hotel				
+node	2684958525		Courtyard View Hotel	39.9402586	116.4000880	hotel		Courtyard		http://www.bjcvh.com
+node	2719251280			39.9268825	116.4107514	hotel				
+node	2733076197	锦江之星	Juijiang Inn	39.9754923	116.4874325	hotel		锦江之星		
+node	2748958434	智选假日酒店	Holiday Inn Beijing Minzuyuan	39.9778177	116.3847401	hotel		Holiday Inn	Holiday Inn	
+node	2748961844	北京161酒店	Beijing 161 Wangfujing Courtyard Hotel	39.9204665	116.4138735	hotel				
+node	2803015423	如家快捷酒店	Home Inn	39.9402520	116.4038430	hotel		如家酒店		
+node	2803018201	时光漫步怀旧主题酒店		39.9421070	116.4057410	hotel				
+node	2822247970	北京伯豪瑞廷酒店	Radegast Bohao Hotel Beijing	39.9127459	116.4655277	hotel				
+node	2833796837	汉庭快捷酒店	Hanting Express	39.9693854	116.4769190	hotel		汉庭酒店		http://www.htinns.com
+node	2833796838		Ambassador Hotel	39.9704790	116.4833670	hotel				
+node	2833796839		JiangTai Art Hotel	39.9696732	116.4833563	hotel				
+node	2833796840	如家酒店	Home Inn	39.9695005	116.4818971	hotel		如家酒店		
+node	2865891001	布丁酒店连锁		39.8357610	116.4092870	hotel				
+node	2866040601	江商阁商务酒店		39.8357756	116.3953625	hotel				
+node	2916132558	Quanzi		39.9276739	116.3614732	hostel				
+node	2925422801	星海琪假期酒店		39.9324300	116.3959620	hotel				
+node	2958238965	北京阅微庄四合院特色酒店	Beijing Double Happiness Courtyard Hotel	39.9259693	116.4164031	hotel				
+node	3071751947	北京东方君悦大酒店	Grand Hyatt Beijing	39.9084504	116.4084428	hotel				
+node	3095371429	北京天东安宾馆		39.9008420	116.3952300	hotel				
+node	3095378029	北京天兴华宾馆		39.9009910	116.3948580	hotel				
+node	3162661102	潇湘宾馆	Xiaoxiang Hotel	39.8819851	116.3868296	hotel				
+node	3201222658		Garden Hotel	39.9757445	116.3658697	hotel				
+node	3250723139		Chinese Culture Holiday Hotel	39.9268953	116.3971543	hotel				
+node	3337810727	锦江之星	Jinjiang Inn	39.8418973	116.3715421	hotel		锦江之星		
+node	3353453530	City Walls		39.9279585	116.3924963	hostel				
+node	3389372655		Hotel Eclat	39.9179390	116.4433988	hotel				
+node	3442308910	国泰饭店	Gotel Capital	39.9056288	116.4424950	hotel				
+node	3514907875	宜必思北京东大桥酒店	ibis Hotel Beijing Dongdaqiao	39.9233710	116.4493410	hotel		宜必思酒店		
+node	3519544351	7天酒店	7 Days Inn	39.9272475	116.4654411	hotel		7天酒店		
+node	3520968132		Zhuti Hotel	39.9283109	116.4514385	hotel				
+node	3523165807			39.9640175	116.4010734	hotel				
+node	3523165810		Sun Palace Hotel	39.9628698	116.4010969	hotel				
+node	3523165813			39.9571187	116.4010813	hotel				
+node	3523198615	辉宿酒店		39.9296636	116.4446266	hotel				
+node	3527401840	非凡宾馆	Feel Inn	39.9120377	116.3996173	hostel				
+node	3536230041		Friendship Hostel1	39.9353454	116.4477649	hostel				
+node	3536293549	如家	Home Inn	39.9428982	116.4630798	hotel				
+node	3536293550	如家酒店	Home Inn	39.9312119	116.4662925	hotel		如家酒店		
+node	3540564254	汉庭酒店	Hanting Express	39.9327468	116.4571061	hotel				
+node	3540685063		Youth Hostel	39.9349151	116.4346958	hostel				
+node	3551275559			39.9284861	116.4651334	hotel				
+node	3565525897			39.9281215	116.4649850	hotel				
+node	3565525928	天际宾馆	Tianji Binguan	39.9283322	116.4628735	hotel				
+node	3574930245	汉庭酒店	Hanting Express	39.9236437	116.4359114	hotel		汉庭酒店		
+node	3574930410	圣天使酒店	Saint Angel Hotel	39.9227295	116.4532095	hotel				
+node	3574930439		Rujia Hotel	39.9276965	116.4600948	hotel				
+node	3580864776			39.9277205	116.4567065	hotel				
+node	3581002191		Golden Inn	39.9261843	116.4492021	hotel				
+node	3624566187	北京站青年旅舍	Peking Station Hostel	39.9047327	116.4136001	hostel				http://www.yhachina.com/ls.php?id=467&hostID=2
+node	3684757249		Saga Youth Hostel	39.9171427	116.4190900	hostel				http://www.sagayouthhostelbeijing.cn
+node	3723068175	蓝鹰招待所		39.8982140	116.3065156	hotel				
+node	3725597526	德宝饭店		39.9387211	116.3424555	hotel				
+node	3770841023	北京翔达国际商务酒店	Xiang Da International Hotel	39.8890820	116.3630116	hotel				http://www.shangdahotel.cn/
+node	3780978863	民族饭店		39.9063612	116.3606463	hotel				
+node	3796321986	蓟明快捷酒店		39.9570316	116.3449290	hotel				
+node	3796461820	康福瑞假日酒店		39.9576249	116.3405495	hotel				
+node	3802001757	Kemo's House		39.9367242	116.4155878	hostel			Kemo Zhang	https://www.airbnb.co.uk/rooms/6567620
+node	3807888748	如家快捷酒店		39.9532297	116.3290535	hotel				
+node	3809385323	牡丹宾馆		39.9761167	116.3632244	hotel				
+node	3818127687	如家快捷酒店	Home Inn	39.9757829	116.3645392	hotel		如家酒店		
+node	3824349186	快乐龙旅馆	Happy Dragon hostel	39.9248956	116.4071227	hostel				
+node	3859922208	海友良品		39.9669283	116.3591721	hotel				
+node	3875671064	明堂青年旅舍	Ming Courtyard	39.9378163	116.4148985	hotel				
+node	3913866498	汉庭酒店	Hanting Hotel	39.9466198	116.3557099	hotel		汉庭酒店		
+node	3965237829	运驰商务酒店	Yun Chi Traders Hotel	39.9077245	116.2854938	hotel			北京运驰商务酒店有限责任公司	
+node	3998251325	锦江之星（北京南站店）	Jinjiang Inn	39.8717478	116.3990589	hotel		锦江之星		
+node	4016093792	北京香江意舍	Hotel Yoo Beijing	39.9086267	116.3999628	hotel				
+node	4031701792	北京城市青年酒店	City Central Youth Hostel	39.9051143	116.4217210	hostel				
+node	4083560042		Yue Xuan Courtyard Garden International Youth Hostel	39.9251043	116.4148056	hostel				
+node	4109343693	时尚港湾酒店	Shishang Gangwan Hotel	39.9246423	116.4114497	hotel				
+node	4109375392	北京金茂万丽酒店	Renaissance Beijing Wangfujing Hotel	39.9198218	116.4041962	hotel		Renaissance		
+node	4109375393	社科博源宾馆		39.9212437	116.4042141	hotel				
+node	4109380989	北京富豪宾馆	Beijing Regal Hotel	39.9204609	116.4040919	hotel				
+node	4143266490	Beijing Downtown Backpackers Travel & Accommodation		39.9360892	116.3968157	hostel				https://backpackingchina.com/
+node	4160746191	汉庭酒店	Hanting	39.9504122	116.4480375	hotel		汉庭酒店		
+node	4161328489	如家快捷酒店	Home Inn	39.9512594	116.4501211	hotel		如家酒店		
+node	4161651903	汉庭酒店	Hanting Hotel	39.9516405	116.4494280	hotel		汉庭酒店		
+node	4162384089	北京四季酒店	Four Seasons Hotel Beijing	39.9488258	116.4605476	hotel		Four Seasons		https://www.fourseasons.com/beijing/
+node	4167796589		Dragon King Hostel	39.9316463	116.4150105	hostel				
+node	4167796795	海友酒店	Hi Inn	39.9208878	116.4110426	hotel				
+node	4167796989	如家酒店	Home Inn	39.9313817	116.4112108	hotel		如家酒店		
+node	4171067091	北京天安瑞嘉酒店	Tianan Regal Hotel	39.9084918	116.4009735	hotel				
+node	4171067092	北京都季商旅酒店	Citytel Inn	39.9097325	116.4007097	hotel				
+node	4177524557	如家快捷酒店	Home Inn	39.9392742	116.4336171	hotel		如家酒店		
+node	4189742389		Medici Hotel	40.0603236	116.5675177	hotel				
+node	4191556032		beijing yamei international Hotel	40.0437181	116.6031407	hotel				
+node	4192663104		three-legged frog hostel	39.8925294	116.3841377	hotel				
+node	4193755604		home inn	40.0600001	116.5669724	hotel				
+node	4193755605	宜必思酒店	Ibis Hotel	40.0611600	116.5794232	hotel		Ibis		
+node	4198370589		bestay hotel	39.8859914	116.4200959	hotel				
+node	4216735489			39.9347748	116.4382087	hotel				
+node	4217498063	台体宾馆		39.9466468	116.3363513	hotel				
+node	4217498064			39.9469296	116.3388450	hotel				
+node	4223148889	北京鸿玮国际青年旅舍	Beijing Homekey Hotel	39.9342484	116.3949899	hotel				
+node	4230588089	京仪大酒店	Jingyi hotel	39.9707673	116.3317255	hotel				
+node	4235104503		Zaoyuanju Hotel	39.9432840	116.3890514	hotel				
+node	4243931490	汉庭酒店	Hanting Hotel	39.9562641	116.3630965	hotel		汉庭酒店		
+node	4244964493		Courtyard 7 Hotel	39.9377376	116.3960501	hotel				
+node	4248187304	胡同青年旅舍	Alley Youth Hostel	39.9256444	116.4105703	hostel				
+node	4253188917	巴黎红宫酒店	Hotel Du Palais Rouge	39.9415281	116.3904637	hotel				http://www.hoteldupalaisrouge.com/contact_us/
+node	4258293197	速8酒店	Super 8	39.9532733	116.3412569	hotel		速8酒店		http://www.super8.com.cn
+node	4258312105	如家快捷酒店	Home Inn	39.9508908	116.3415005	hotel		如家酒店		
+node	4269199590	兰花宾馆	The Orchid Hotel	39.9419519	116.3930523	hotel				https://www.theorchidbeijing.com/
+node	4269624591	宜必思酒店(北京三元桥店)	Ibis Sanyuan Beijing	39.9600615	116.4487391	hotel		宜必思酒店		
+node	4277749905	如家快捷酒店	Home Inn	39.9504440	116.3571016	hotel		如家酒店		
+node	4281539789	崇文门酒店		39.8991840	116.4113751	hotel				
+node	4289897402		Party Youth Hostel	39.9551941	116.3854808	hostel				
+node	4300426889	北京贵宾楼饭店	Grand Hotel Beijing	39.9075768	116.4010483	hotel				
+node	4306019695	如家酒店	Home Inn	39.9436488	116.3475921	hotel		如家酒店		
+node	4316720413	莫泰168	Motel168	39.8981582	116.3442533	hotel				
+node	4322683889	北京红灯笼客栈	Red Lantern House	39.9385564	116.3690826	hostel				
+node	4326494590	瑞洁宾舍酒店		39.8802411	116.3908651	hotel				
+node	4330823292			39.8870768	116.3102908	hotel				
+node	4345711389	光耀公寓	Beijing Guangyao Apartment Hotel	39.9233391	116.4338006	hotel				http://www.guangyaohotel.com/
+node	4346000190	天伦松鹤大饭店	Sunworld Hotel Beijing Wangfujing	39.9169748	116.4070530	hotel				
+node	4352782597	北京辰茂南粤苑酒店	Excemon Beijing Nanyueyuan Hotel	39.8471476	116.3323367	hotel				
+node	4357167392	园景国王酒店	King Parkview Hotel	39.9242420	116.3951567	hotel				http://www.kingparkviewhotel.com
+node	4360170490	Red Lantern House		39.9385641	116.3690815	hostel				
+node	4365612290	方庄旅馆		39.8618738	116.4236735	hotel				
+node	4365663790	易佰旅店		39.8562908	116.4292661	hotel				
+node	4365685191	北京江西大酒店		39.8532618	116.4302163	hotel				http://bjjxhotel.com
+node	4365707289	如家快捷酒店	Home Inns	39.8667764	116.4324353	hotel		如家酒店		http://homeinns.com
+node	4365720789	北京西西里酒店	Beijing Sicily Hotel	39.8812991	116.4283985	hotel				http://beijingsicilyhotel.com
+node	4366288207			39.9192193	116.4126221	hotel				
+node	4396996089	北京前门富力智选假日酒店	Holiday Inn Express Beijing Temple of Heaven	39.8789694	116.3847307	hotel		Holiday Inn Express		
+node	4398948789			39.9326410	116.4193706	hostel				
+node	4414909392		Novotel Beijing Sanyuan	39.9597951	116.4495634	hotel				
+node	4418295389	air bnb	air bnb	39.9410991	116.4114599	hostel				
+node	4430597392		Ritan Hotel	39.9160919	116.4340874	hotel				
+node	4441895993	锦江之星	Jinjiang Inn	39.8976897	116.4021073	hotel		锦江之星		
+node	4454482791	北京宝辰饭店	Howard Johnson Paragon Hotel Beijing	39.9045959	116.4224812	hotel				
+node	4464522036	北京诺富特和平宾馆	Novotel Peace Beijing	39.9144366	116.4091028	hotel		Novotel	Accor Hotels	
+node	4469791293	万豪酒店	Marriott	39.8939599	116.3688222	hotel		JW Marriott		
+node	4476395396			39.8902635	116.3809010	hotel				
+node	4498281091	皇家大饭店	Radisson Blu Hotel	39.9588213	116.4355493	hotel		Radisson Blu		
+node	4558565048	汉庭酒店	Hanting Hotel	39.9343257	116.4970306	hotel		汉庭酒店		
+node	4566209290			39.9535691	116.4360650	hotel				
+node	4597057090	汉庭酒店	Hanting Hotel	39.9172696	116.4829035	hotel		汉庭酒店		
+node	4597088689	如家酒店	Home Inn	39.9167817	116.4783451	hotel		如家酒店		
+node	4646803290	如家快捷酒店（苏州桥）	Home inn (Suzhou bridge)	39.9679313	116.2957482	hotel				
+node	4666363089		Tian hai huijing	39.8438963	116.3886993	hostel				
+node	4684698689	西苑酒店	xi yuan hotel	39.9315162	116.3304285	hotel				
+node	4684738392	西苑饭店	xi yuan hotel	39.9359515	116.3263814	hotel				
+node	4685143889	新疆饭店		39.9320666	116.3269991	hotel				
+node	4727118989			39.8977602	116.4065607	hotel				
+node	4741006027			39.9271686	116.3363554	hotel				
+node	4743836123		Jinglun Hotel	39.9076433	116.4486876	hotel				
+node	4745704423		Royal Palace Hotel	39.9605826	116.4576598	hotel				
+node	4767325125	海友酒店		39.9567187	116.3306508	hostel				
+node	4769094792	速8酒店	Super 8	39.9560041	116.4214921	hotel		速8酒店		http://www.super8.com.cn
+node	4769094793	速8酒店	Super 8	39.8928067	116.3863964	hotel		速8酒店		http://www.super8.com.cn
+node	4769094803	速8酒店	Super 8	39.8750954	116.3143921	hotel		速8酒店		http://www.super8.com.cn
+node	4769094804	速8酒店	Super 8	39.9272010	116.4030921	hotel		速8酒店		http://www.super8.com.cn
+node	4769094805	速8酒店	Super 8	39.8923972	116.4281921	hotel		速8酒店		http://www.super8.com.cn
+node	4769094806	速8酒店	Super 8	39.8904800	116.3294331	hotel		速8酒店		http://www.super8.com.cn
+node	4769094810	速8酒店	Super 8	39.8761012	116.2894387	hotel		速8酒店		http://www.super8.com.cn
+node	4769094817	速8酒店	Super 8	39.9086604	116.2821089	hotel		速8酒店		http://www.super8.com.cn
+node	4769094818	速8酒店	Super 8	39.9504379	116.3422457	hotel		速8酒店		http://www.super8.com.cn
+node	4769095721	速8酒店	Super 8	39.8904825	116.3968582	hotel		速8酒店		http://www.super8.com.cn
+node	4769095722	速8酒店	Super 8	39.8625648	116.3897010	hotel		速8酒店		http://www.super8.com.cn
+node	4769095723	速8酒店	Super 8	39.8917972	116.3913921	hotel		速8酒店		http://www.super8.com.cn
+node	4769095726	速8酒店	Super 8	39.8558933	116.2871921	hotel		速8酒店		http://www.super8.com.cn
+node	4769095727	速8酒店	Super 8	39.9607966	116.3828581	hotel		速8酒店		http://www.super8.com.cn
+node	4769095729	速8酒店	Super 8	39.8669945	116.3659921	hotel		速8酒店		http://www.super8.com.cn
+node	4769095732	速8酒店	Super 8	39.9173999	116.4097921	hotel		速8酒店		http://www.super8.com.cn
+node	4769095737	速8酒店	Super 8	39.8684947	116.2873921	hotel		速8酒店		http://www.super8.com.cn
+node	4769095740	速8酒店	Super 8	39.8494926	116.3008921	hotel		速8酒店		http://www.super8.com.cn
+node	4769095747	速8酒店	Super 8	39.8491926	116.3683921	hotel		速8酒店		http://www.super8.com.cn
+node	4769095749	速8酒店	Super 8	39.9123994	116.3653921	hotel		速8酒店		http://www.super8.com.cn
+node	4769095750	速8酒店	Super 8	39.8392915	116.4403921	hotel		速8酒店		http://www.super8.com.cn
+node	4769095752	速8酒店	Super 8	39.9277011	116.4118921	hotel		速8酒店		http://www.super8.com.cn
+node	4769095761	速8酒店	Super 8	39.8956976	116.4136921	hotel		速8酒店		http://www.super8.com.cn
+node	4769095763	速8酒店	Super 8	39.9333017	116.3138921	hotel		速8酒店		http://www.super8.com.cn
+node	4769095771	速8酒店	Super 8	39.8441260	116.4204631	hotel		速8酒店		http://www.super8.com.cn
+node	4769095774	速8酒店	Super 8	39.8781957	116.4446921	hotel		速8酒店		http://www.super8.com.cn
+node	4769095779	速8酒店	Super 8	39.9383682	116.3400101	hotel		速8酒店		http://www.super8.com.cn
+node	4769095781	速8酒店	Super 8	39.9008472	116.3609961	hotel		速8酒店		http://www.super8.com.cn
+node	4769095791	速8酒店	Super 8	39.8675096	116.3782351	hotel		速8酒店		http://www.super8.com.cn
+node	4769095794	速8酒店	Super 8	39.8971198	116.3470861	hotel		速8酒店		http://www.super8.com.cn
+node	4769095795	速8酒店	Super 8	39.8438340	116.3446101	hotel		速8酒店		http://www.super8.com.cn
+node	4769095797	速8酒店	Super 8	39.8863966	116.4547921	hotel		速8酒店		http://www.super8.com.cn
+node	4769095805	速8酒店	Super 8	39.9331016	116.2967921	hotel		速8酒店		http://www.super8.com.cn
+node	4769095813	速8酒店	Super 8	39.8814961	116.3859921	hotel		速8酒店		http://www.super8.com.cn
+node	4769095815	速8酒店	Super 8	39.9641050	116.4112921	hotel		速8酒店		http://www.super8.com.cn
+node	4769095816	速8酒店	Super 8	39.8998981	116.4942921	hotel		速8酒店		http://www.super8.com.cn
+node	4769095817	速8酒店	Super 8	39.9546040	116.4390921	hotel		速8酒店		http://www.super8.com.cn
+node	4769096324	速8酒店	Super 8	39.8541931	116.2837921	hotel		速8酒店		http://www.super8.com.cn
+node	4769096326	速8酒店	Super 8	39.8750561	116.3575829	hotel		速8酒店		http://www.super8.com.cn
+node	4769096333	速8酒店	Super 8	39.8556933	116.4168921	hotel		速8酒店		http://www.super8.com.cn
+node	4769096335	速8酒店	Super 8	39.9214991	116.3678982	hotel		速8酒店		http://www.super8.com.cn
+node	4769096341	速8酒店	Super 8	39.9228631	116.3737053	hotel		速8酒店		http://www.super8.com.cn
+node	4769096346	速8酒店	Super 8	39.8654943	116.4396921	hotel		速8酒店		http://www.super8.com.cn
+node	4769096347	速8酒店	Super 8	39.8553502	116.4069671	hotel		速8酒店		http://www.super8.com.cn
+node	4769096350	速8酒店	Super 8	39.8448921	116.3537921	hotel		速8酒店		http://www.super8.com.cn
+node	4807414522		Tongliantaihe Hotel	39.8984341	116.3174894	hotel				
+node	4814413022	北京翡翠青年旅舍	Beijing Jade Youth Hostel	39.9173992	116.3981717	hostel				
+node	4818009320	速8酒店	Super 8	39.9749921	116.3047424	hotel		速8酒店		http://www.super8.com.cn
+node	4824079222		Grand Metro Park	39.9566870	116.4451900	hotel				
+node	4838380830			39.9175818	116.4231293	hostel				
+node	4845202621	空港世纪商务酒店	Sky House Business Hotel	40.0656773	116.5874857	hotel				
+node	4849207821			39.8896148	116.3592608	hotel				
+node	4852689421		GreenTree Inn	40.0717830	116.5522984	hotel				
+node	4875342321	北京盈坤维景酒店	Metropark Yingkun Hotel	39.8250844	116.2974799	hotel				
+node	4911139235	北京161酒店北海四合院店	Beijing 161 hotel behai siheyuan	39.9292737	116.3653505	hotel				
+node	4915495097		Shichahai - Sandalwood - Boutique Hotel	39.9332053	116.3746916	hotel				
+node	5030408623		Yandu Hotel	39.9206340	116.4400373	hotel				
+node	5054967838			39.9720502	116.4047609	hotel				
+node	5058497026		wada international hostel	39.9362328	116.3648108	hostel				
+node	5068442990	东升平宾馆		39.8946375	116.3877175	hotel				
+node	5080812684	前门客栈		39.8948075	116.3880080	hotel				
+node	5080812685	前门宾馆		39.8948753	116.3879891	hotel				
+node	5166851825		Hotel	39.9439787	116.3798830	hotel				
+node	5170269521	Happy Dragon Saga Hotel	Beijing saga youth hostel. Happy dragon	39.9172040	116.4190696	hostel				
+node	5189728421	喆啡酒店北京鼓楼店	James Joyce Coffetel	39.9436276	116.3874807	hotel				http://www.jjcoffetels.com
+node	5209768424		Sanlitun Youth Hostel	39.9355782	116.4377847	hostel				
+node	5298736322		Ibis Styles Beijin capital airport hotel	40.0607055	116.5662967	hotel				
+node	5317222622			39.9217008	116.4938727	hotel				
+node	5325709223		Springs Vallay	39.8846107	116.4241578	hotel				
+node	5367029521			39.9089793	116.3895250	hotel				
+node	5453734221	行者居酒店		39.8448082	116.4293625	hotel				
+node	5454510321	粮仓青年旅舍(天安门店)	Granary Youth Hostel	39.8920239	116.3897256	hostel				
+node	5457760522		YinYang hotel (airchina transit hotel)	40.0589763	116.5688659	hotel				
+node	5467610007	无二民宿	Wuer Hostel	39.9264336	116.3958209	hostel				
+node	5578360772		Hotel Lezai Nanluogu 161	39.9363506	116.3965445	hotel				
+node	5583479223	如家快捷酒店 北京首都机场府前街店	Homeinns Inn Beijing Capital Airport	40.0600828	116.5791278	hotel				http://homeinns.com
+node	5589822321	漫曲酒店(北京王府井店)	Beijijg Hongwei Yijia Hotel - Wangfujin	39.9168303	116.4015861	hotel				
+node	5711330473		Chinese Box Courtyard Hostel	39.9248261	116.3621270	hostel				
+node	5771950253	北京金融街威斯汀大酒店	The Westin Beijing Financial Street	39.9160815	116.3531159	hotel				
+node	5785928753		yaxiu hotel	39.9226860	116.3516625	hotel				
+node	5824650853	北京容园宾馆		39.9350659	116.3690748	hostel				
+node	5877134185			39.9550491	116.3855688	hostel				
+node	5908244200	汉庭酒店	Hanting Hotel	39.9101929	116.3970658	hotel		汉庭酒店		
+node	5921826385	豪吉利大酒店	Khugjil Hotel	39.8532816	116.3915064	hotel				
+node	5955937785	华泰饭店		39.8786242	116.4528422	hotel				
+node	5960536786	北京无印良品酒店	Muji Hotel	39.8971635	116.3892680	hotel				
+node	5960910888			39.9349997	116.4063982	hotel				
+node	5966410087	如家精选酒店	Home Inn Plus	39.9300188	116.4579716	hotel				
+node	5969259511	北京明日五洲酒店	Mingri wuzhou	39.8762963	116.3213051	hotel				
+node	5974009885		Golden Inns	39.9498220	116.3519170	hotel				
+node	6024770386			39.8532392	116.4300404	hotel				
+node	6050736585		Beijing Wuhuan hotel	39.8693362	116.4536398	hotel				
+node	6217816698	秋果酒店	Qiuguo Hotel	39.8977198	116.4105291	hotel		秋果酒店		
+node	6299515403	北京祥家大院旅馆	Lucky Family Hostel	39.9342482	116.4132089	hotel				
+node	6364040613	华夏明珠宾馆		39.8947017	116.3113242	hotel		华夏明珠宾馆		
+node	6371849889	国际港	Grand Metropark Hotel Beijing	39.9574809	116.4526062	hotel				
+node	6388453785		Hainan Airlines Sanqi Hitel	40.0609224	116.5727441	hotel				
+node	6394326885	百时快捷酒店	Bestay Express Hotel Beijing Temple of Heaven	39.8862078	116.4172801	hotel				
+node	6435529685		Imperial Courtyard	39.9466367	116.3988827	hotel				https://www.booking.com/Share-0bcQft
+node	6583835704	中国职工之家酒店		39.9053009	116.3398677	hotel				
+node	6601382300		Free Comfort Hotel	39.9578246	116.3405817	hotel				
+node	6635095986			39.9207910	116.4334895	hotel				
+node	6635174786	和颐酒店	Yitel Hotel	39.8792009	116.3872268	hotel				
+node	6696768332			39.9351567	116.4028267	hotel				
+node	6738512485	北京前门四合院漫心府	Manxim Courtyard Hotel	39.8936354	116.3937649	hotel				
+node	6794556085		Yoga Hostel	39.9328502	116.4379682	hostel				
+node	6813635767	蜗牛de家		39.9339650	116.3692442	hotel				
+node	6813781743	北京三里屯通盈中心洲际酒店	InterContinental Beijing Sanlitun	39.9312369	116.4487857	hotel		InterContinental	Intercontinental	
+node	6813805718		Green Lake Hotel Beijing	39.9440030	116.3709010	hotel				
+node	6850987374	时光漫步怀旧主题酒店(北京国家体育总局天坛店)	Nostalgia Hotel Temple of Heaven	39.8819741	116.4282374	hotel				
+node	6911914685	锦江之星	Jinjiang Inn	39.9173274	116.4059554	hotel		锦江之星		
+node	7035172196	北京遨途机场酒店	Aerotel Beijing	39.5122768	116.4142033	hotel		Aerotel		
+node	7035912485		Hostel1	39.9259946	116.3649769	hostel				
+node	7035912585		Hostel1	39.9248198	116.3622000	hostel				
+node	7085720037	北京嘉里大酒店	kerry hotel	39.9127508	116.4521212	hotel				
+node	7403767002	汉庭酒店	Hanting Hotel	39.9711664	116.3948265	hotel		汉庭酒店		
+node	7417081401	汉庭快捷酒店	Hanting Hotel	39.9202147	116.4390503	hotel		汉庭酒店		
+node	7417081402	如家酒店	Home Inn	39.9203378	116.4393276	hotel		如家酒店		
+node	7430348549	汉庭酒店（已撤店）	Hanting Hotel	39.9661007	116.3764796	hotel		汉庭酒店		
+node	7430348550	7天连锁酒店		39.9658001	116.3750669	hotel				
+node	7476052650	汉庭酒店	Hanting Hotel	39.9207019	116.4050449	hotel		汉庭酒店		
+node	7530416949	新国贸饭店		39.9116585	116.4547004	hotel				
+node	7580452605		Atravis Express Hotel	39.9276922	116.4132950	hotel				
+node	7619706567	汉庭酒店		39.8326127	116.3811727	hotel				
+node	7622181910		Happy Dragon Courtyard Hostel	39.9320266	116.4168406	hostel				
+node	7622324210			39.9204277	116.4124471	hotel				
+node	7677972629	北京海航大厦万豪酒店	Beijing Marriott Hotel Northeast	39.9584311	116.4608367	hotel				
+node	7681388443	北京富力万丽酒店	Renaissance Beijing Capital Hotel	39.8967749	116.4546074	hotel				
+node	7683659026	北京金茂威斯汀大饭店	The Westin Beijing Chaoyang	39.9489780	116.4544469	hotel				
+node	7685982342	喜来登酒店	Sheraton Grand Beijing Dongcheng Hotel	39.9657135	116.4022859	hotel				
+node	7685991094	北京新青海喜来登酒店	Sheraton Beijing Lize Hotel	39.8627368	116.3169678	hotel		喜来登		
+node	7995931953	全季酒店	Ji Hotel	39.9764769	116.4093119	hotel		全季酒店		
+node	8283682615	瑞士酒店	Swissotel Beijing	39.9315001	116.4294816	hotel			Swissotel Hotels & Resorts	
+node	8345369874	iu酒店		39.8810799	116.3057936	hotel				
+node	8345369992	速8		39.8843447	116.2964749	hotel				
+node	8435086326	海友酒店		39.8807947	116.3106126	hotel				
+node	8435086331	如家	Home Inn	39.8808299	116.3087183	hotel		如家酒店		
+node	8435086332	石柱岩快捷酒店		39.8808508	116.3086637	hotel				
+node	8435086333	布丁酒店		39.8808951	116.3078079	hotel				
+node	8435088461	7天		39.8758418	116.2885589	hotel				
+node	8492090859	汉庭酒店	Hanting Hotel	39.9026237	116.4255774	hotel		汉庭酒店		
+node	8597725150	全季酒店	Ji Hotel	39.8924849	116.3200798	hotel		全季酒店		
+node	8597923903	7天酒店	7 Days Inn	39.8923611	116.3178061	hotel		7天酒店		
+node	8666348298	季枫精选酒店		39.9711538	116.3272955	hotel				
+node	8671853921	潮漫酒店		39.9314510	116.3093132	hotel				
+node	8728482050	海友酒店		39.9684848	116.3190621	hotel				
+node	8785238392	宜必思 尚品酒店		40.0695302	116.5827861	hotel				
+node	8830492429	如家酒店	Home Inn	39.9723664	116.3281811	hotel		如家酒店		
+node	8922681616	湖北大厦		39.9462999	116.3190906	hotel				
+node	8922701118	汉庭酒店		39.9461030	116.3170459	hotel				
+node	8932938849	正鑫宾馆		39.9503597	116.3227699	hotel				
+node	8936103227	优选酒店		39.9693034	116.3274456	hotel				
+node	8936109946	海逸华安酒店		39.9696924	116.3274927	hotel				
+node	9025609003	全季酒店	Ji Hotel	39.9650446	116.4516706	hotel		全季酒店		
+node	9025674322	全季酒店	Ji Hotel	39.9523427	116.4532131	hotel		全季酒店		
+node	9025686814	全季酒店	Ji Hotel	39.8976036	116.4325662	hotel		全季酒店		
+node	9025689275	全季酒店	Ji Hotel	39.9330914	116.4421088	hotel		全季酒店		
+node	9105357472	良瑞宾馆		39.9551870	116.3686261	hotel				
+node	9105357473	慢流国公寓		39.9553556	116.3682795	hotel				
+node	9105357474	舒雅宾馆		39.9559346	116.3696728	hotel				
+node	9105357475	今日佳宴宾馆		39.9555844	116.3697008	hotel				
+node	9105357476	龙熙宾馆		39.9551345	116.3700989	hotel				
+node	9115691095	汉庭酒店	Hanting Hotel	39.9271552	116.4356971	hotel		汉庭酒店		
+node	9116005236	北京共享际5L饭店		39.9101866	116.4527446	hotel		共享际		
+node	9116005237	北京国贸大酒店	China World Hotel	39.9109978	116.4525467	hotel	5	北京国贸大酒店		
+node	9119424771	福禄久四合院		39.9175356	116.3984586	hotel		福禄久四合院		
+node	9120014677	格林豪泰		39.8933936	116.3864295	hotel				
+node	9149504756		GreenTree Inn Beijing Chaoyang Shilihe Antique City Express Hotel	39.8656894	116.4604161	hotel		GreenTree		
+node	9230194216	北京宝格丽酒店	Bulgari Hotel Beijing	39.9464674	116.4515654	hotel				https://www.bulgarihotels.com/zh_CN/beijing
+node	9245654320	桔子酒店		39.9748222	116.2998484	hotel				
+node	9425769049	全季酒店		39.9530909	116.4937109	hotel				
+node	9572271313	华乐颂乐器主题酒店		39.9212922	116.3676554	hotel				
+node	9577337825	全季酒店	Ji Hotel	39.9305673	116.4568886	hotel		全季酒店		
+node	9671604220	汉庭酒店	Hanting Hotel	39.9733652	116.4827466	hotel		汉庭酒店		
+node	9672245047	星程酒店		39.9570603	116.4269384	hotel				
+node	9935234590	北京吉林雪松宾馆		39.9693219	116.3702297	hotel				
+node	9965038246	新兴宾馆		39.9089409	116.3035383	hotel				
+node	10058627789	亚朵S酒店		39.9211278	116.4469265	hotel				
+node	10224727204	全季酒店	Ji Hotel	39.8932969	116.3687750	hotel		全季酒店		
+node	10239197024	怡莱酒店		39.9678646	116.3962262	hotel				
+node	10274596980	北京山东宾馆		39.9693212	116.3698664	hotel				
+node	10274596987	北京怡景商务酒店管理有限公司		39.9693316	116.3705863	hotel				
+node	10274596996	北京市赣人之家宾馆		39.9689882	116.3698836	hotel				
+node	10274597005	北京湘都宾馆		39.9686469	116.3698912	hotel				
+node	10274642649	北京黑龙江宾馆有限公司		39.9119323	116.3499964	hotel				
+node	10274642694	辽宁饭店		39.9641774	116.3733473	hotel				
+node	10811134805	全季酒店	Ji Hotel	39.9084668	116.4134100	hotel		全季酒店		
+node	10848042649	全季酒店	Ji Hotel	39.8605384	116.3802928	hotel		全季酒店		
+node	10884271005			39.9707201	116.4283350	hotel				
+node	10892532205	明城酒店		39.9614383	116.3827606	hotel				
+node	10920717716	秋果酒店	Qiuguo Hotel	39.9037078	116.4605391	hotel		秋果酒店		
+node	10979950327	桔子水晶酒店		39.8932021	116.4709745	hotel				
+node	10983596006		Park Hyatt Bejing Hotel	39.9062681	116.4535128	hotel		Park Hyatt		
+node	11028953405	北京大兴国际机场木棉花酒店	Mumian Beijing Daxing International Airport	39.5132651	116.4088487	hotel				
+node	11035674724	速8酒店	Super 8	39.9163824	116.4088125	hotel		速8酒店		
+node	11041659741	春豪宾馆		39.9189827	116.4058363	hotel				
+node	11057662607		Jianguo hotel	39.9091914	116.4366520	hotel				
+node	11060771791	美居酒店	Mercure	39.9706870	116.4018156	hotel		美居酒店		
+node	11060773520	喆啡酒店		39.9063477	116.4597704	hotel				
+node	11060773521	星程酒店		39.9063447	116.4601477	hotel				
+node	11060833005		буудал	39.8785924	116.4544845	hotel				
+node	11092658505			39.8648189	116.3985399	hotel				
+node	11092658905		Yong Ding Men	39.8638085	116.3982867	hotel				
+node	11280518285	北京华威商务酒店		39.9098268	116.3685157	hotel				
+node	11280518314	西西友谊酒店		39.9128771	116.3669912	hotel				
+node	11289909969		Mercure Beijing CBD	39.8983894	116.4736155	hotel				
+node	11380833466	布丁酒店		39.8561764	116.4191488	hotel				
+node	11683133869		Houdao hotel	39.9250568	116.4354601	hotel				
+node	11691453569	全季酒店	Ji Hotel	39.9423240	116.4335522	hotel				
+node	11693223369		River View Hotel	39.9430612	116.4402181	hotel				
+node	11696508569		City Line Hotel	39.9046183	116.4180818	hotel				
+node	11696508869		Hunan Hotel	39.9056334	116.4202877	hotel				
+node	11697438369		7 Days Hotel	39.9410951	116.4340286	hotel				https://www.7daysinn.cn/
+node	11697578969		AC Embassy Hotel	39.9394907	116.4418744	hotel				
+node	11704620470		Dongsi hotel	39.9216186	116.4090652	hotel				
+node	11707178669		Home Inn Plus	39.9318280	116.4656593	hotel				
+node	11760385569		Dongsi Hotel	39.9226035	116.4153015	hotel				
+node	11779958469	金绿洲大酒店	Golden Oasis Hotel	39.8687258	116.3805315	hotel				
+node	11874135169		Hilton Garden Inn Beijing Daxing International Airport	39.5250461	116.4070138	hotel				https://www.hilton.com/en/hotels/bjsdxgi-hilton-garden-inn-beijing-daxing-international-airport/
+node	11932556869		Green tree inn express	39.8602557	116.4532204	hotel				
+node	11959536169		Beijing Qianyuan Hotel	39.9386165	116.4129977	hotel				
+node	11968162161	每乐美酒店		39.9646321	116.2979534	hotel				
+node	12036214054	北京宜宾招待所		39.8999398	116.3733558	hotel				
+node	12095910101	万豪酒店	Marriott	39.5244899	116.4041300	hotel				
+node	12112509801		Hotel Qiianyuan International Business	39.9398940	116.4191492	hotel				
+node	12134251749	桔子水晶酒店		39.9328546	116.4568471	hotel				
+node	12162831898	布丁酒店		39.9149100	116.4987893	hotel				
+node	12162899421	全季酒店	Ji Hotel	39.9141624	116.4932565	hotel		全季酒店		
+node	12162899439	新纺酒店		39.9148138	116.4941871	hotel				
+node	12198776413	如家	Home Inn	39.8813786	116.4444163	hotel		如家酒店		
+node	12202175890	橘子酒店		39.8864611	116.3570865	hotel				
+node	12202186211	汉庭酒店	Hanting Hotel	39.8829159	116.3571390	hotel		汉庭酒店		
+node	12202186214	7天酒店	7 Days Inn	39.8836405	116.3571088	hotel		7天酒店		
+node	12205798187	银华宾馆		39.8844860	116.3532837	hotel				
+node	12205798189	派柏-云酒店		39.8851896	116.3528799	hotel				
+node	12216653146	京鲁伊酒店		39.8814912	116.3584854	hotel				
+node	12241133501		Dinghe Youth Hotel	39.8488948	116.3562598	hostel				
+node	12277159901		East sacred Hotel Leo	39.9339887	116.4110735	hotel				
+node	12280347601		Meriden M Hotel Beijing	39.9293949	116.4579664	hotel				
+node	12298305201			39.8645897	116.4537275	hotel				
+node	12298305202		Super House International	39.8649379	116.4536780	hotel				
+node	12300963401		RoyalLink RuYi Hotel	39.9362438	116.2969335	hotel				
+node	12321838501	北京明珠酒店（北京大兴机场店)	Beijing CSN Pearl Hotel	39.5197436	116.4046296	hotel				
+node	12339976401		Tangfu Sanlitun Boutique Hotel	39.9327391	116.4326061	hotel				
+node	12594962702		Beijing Qianyuan Hotel	39.9400293	116.4221867	hotel				
+node	12594980004		Beijing Oriental Мао Hotel (The Lama Temple Beixinqiao Subway Station)	39.9397094	116.4042885	hotel				
+node	12595025001			39.9394056	116.4145783	hotel				
+node	12616091086	御景阁宾馆		39.8654130	116.3944184	hotel				
+node	12640005283	世纪豪星酒店		39.9592848	116.2819907	hotel				
+node	12647079702		Zhihexing Youth Hostel - 知和行青年酒店	39.9246914	116.4954590	hostel				
+node	12647245160	亚朵酒店	Atour Hotel	39.9129919	116.4046725	hotel		亚朵酒店		
+node	12669489665	颐酒店		39.9294783	116.4606433	hotel				
+node	12673996201		7 Premium Hotel	39.9031506	116.3765142	hotel				
+node	12696671901		Right Hotel	39.8790045	116.4494914	hotel				
+node	12698745005	全季酒店	Ji Hotel	39.9549075	116.3984275	hotel		全季酒店		
+node	12708511301	桔子水晶北京朝阳公园酒店		39.9224506	116.4880457	hotel				
+node	12717500901		PiaoHome chain hotel	39.9133659	116.4752301	hotel				
+node	12717567801		Shengjia Hotel	39.8770954	116.3711734	hotel				
+node	12736841501	中裕精选酒店	Zhongyu Select Hotel	39.8967557	116.3170158	hotel				
+node	12761525959	北京天安门逸扉酒店	UrCove Forbidden City hotel by Hyatt	39.9084422	116.4008845	hotel				https://beijing-forbidden-city.urcovehyatt.cn/en
+node	12769432765	全季酒店	Ji Hotel	39.9226547	116.4221767	hotel		全季酒店		
+node	12788086301	丽枫酒店	Hotel Lavande	39.8953451	116.3880094	hotel				
+node	12813471202		7 Premium (Beijing Dongsi South Luogu Lane)	39.9289785	116.4156279	hotel				
+node	12827555101	橙芷·秋果酒店	True Go Tianamen Square	39.8968891	116.3949113	hotel				
+node	12839158601		Beijing Rishengchang Hotel	39.8648924	116.3587285	hotel				
+node	12864348301	Anna XiangXiang Hotel		39.8842958	116.4454126	hostel				
+node	12927880001	维也纳酒店（北京西站丽泽商务区）	Vienna Hotel	39.8754068	116.3114407	hotel		维也纳酒店		
+node	12942209701	时光漫步酒店		39.9113577	116.3462076	hotel				
+node	12960878556	城家北京三元桥燕莎使馆公寓酒店		39.9577381	116.4584468	hotel		城家		
+node	12984660630	懿庭臻舍酒店	Yitingzhenshe Hotel	39.8932082	116.3926950	hotel				
+node	13038904501	东方圣达酒店	Sacred East Hotel	39.9097425	116.4067904	hotel				
+node	13078132475	wohkoon者行孙青年酒店		39.9061333	116.4922619	hotel				
+node	13091765001	雅悦和美酒店		39.9388331	116.3607496	hotel				
+node	13091922101	桔子酒店		39.9380186	116.3576139	hotel				
+node	13094417901	瑰悦酒店	Guiyue Hotel	40.0702038	116.5551979	hotel				
+node	13094422101	美仑酒店	Madison	40.0701286	116.5561571	hotel				
+node	13094881989	全季酒店	Ji Hotel	39.9583692	116.3449406	hotel		全季酒店		
+node	13110585901	如家派柏· ·雲酒店（北京南站洋橋店)	Home Inn Paibo Cloud Hotel (Beijing South Railway Station Yangqiao Branch)	39.8527157	116.3803927	hotel				
+node	13167063801		BOUTIQUE HOTEL Tang Fu	39.9382488	116.3969192	hotel				
+node	13175517101			39.8941603	116.3964340	hotel				
+node	13186428015	北京福庭酒店	Livefortuna Hotel	39.9148801	116.4318952	hotel				
+node	13200904201		Hotel Orange Crystal	39.9349184	116.4008413	hotel				
+node	13245695209		Grand Concordia Hotel	39.9578768	116.4600049	hotel				
+node	13254438301		Hejia Hostel	39.9616851	116.4008163	hotel				
+node	13288313301		Country Inn & Suites by Radisson Hotel (Beijing Railway Subway Station)	39.9041149	116.4192400	hotel				
+node	13328128001	秋果酒店(北京燕莎三元桥地铁站店)	TRUE GO Hotel (Bejing Sanyuangiao Yansha)	39.9565753	116.4555531	hotel				
+node	13369636869	北京中安宾馆	Beijing Zhong'an Hotel	39.9016833	116.4259452	hotel				https://zhonganhotel.com
+node	13373810401	秋果酒店北京燕莎三元桥地铁站店	TRUE GO Hotel (Bejing Sanyuangiao Yansha)	39.9570286	116.4559196	hotel				
+node	13410855501	球果酒店(北京西站六里桥东地铁站店）	True Go Hotel	39.8790511	116.3058119	hotel				
+node	13429896501	Stey王府井店		39.9164263	116.4091313	hotel				
+node	13431212101	蓝湾酒店	Lanwan Hotel	40.0617909	116.5663418	hotel				
+node	13619484561	东方圣达酒店		39.9703912	116.4188602	hotel				
+node	13653889301			39.8601292	116.4084555	hotel				
+node	13671414601		TRUE GO HOTEL	39.8926705	116.3861762	hotel				
+node	13703993702	北京奉元新金山民宿	Fengyuan Hotel	39.9189620	116.4302440	hotel				https://www.trip.com/w/MUBY0NIe9U2
+node	13791079901		Beijing Tiananmen Wangfujing YeCheng YunJu Hotel	39.9170642	116.4147635	hotel				
+node	13791079902		Beijing Tiananmen Wangfujing YeCheng YunJu Hotel	39.9168925	116.4147975	hotel				
+node	13801615776	德全酒店广渠门店	Dequan Hotel Guangqumen Branch	39.8909603	116.4396303	hotel				
+node	13810500302		CitiGO Hotel	39.9321931	116.3954023	hotel				
+node	13821283957	北京宁波宾馆		39.9002277	116.3741752	hotel				
+node	13830836752	优优轻奢酒店	Yo-Yo Hotel	39.9423112	116.4024147	hotel				
+node	13830897443	华侨夜泊君亭酒店	SSAW Garden Hotel	39.9421630	116.4168114	hotel				
+node	13851282491	钓鱼台国宾馆八方苑		39.9206993	116.3272527	hotel				
+node	13860469637	北京华风宾馆		39.9001321	116.4012944	hotel				
+node	13895711382	Carefree Bear Hostel		39.8442596	116.3577995	hostel				
+node	13904635140	瑞嘉宾馆		39.9272140	116.3286392	hotel				
+node	13925860416	Dasein Hotel		39.9185462	116.4120324	hotel				
+node	13935619704	CHATEAU DE LUZE-Beijing		39.9103987	116.4653661	hotel				
+node	13949018301	Beijing Pudi Hotel		39.9029892	116.4279859	hotel				
+node	13954092002	hoco好客·舒旅酒店		39.9076251	116.4366853	hotel				
+node	13989463545	Country Inn & Suites by Radisson		39.8953167	116.3113333	hotel				
+node	14057885402	CJIA		39.8705245	116.2893486	hotel				
+node	14099540801	Hallo		39.9032719	116.3746499	hotel				
+node	14134346701			39.9022083	116.3688311	hotel				
+node	14159705101	Mechar Qingju Hotel (Wangfujing Xiehe Hospital)		39.9174326	116.4068412	hotel				
+node	14162435001	均禾酒店(儿研所日坛公园店)		39.9168969	116.4368721	hotel				
+node	14162439201	均禾酒店(儿研所日坛公园店)		39.9168969	116.4368721	hotel				
+node	14175405901	Nostalgi		39.8939662	116.3891626	hotel				
+node	14175499901	汇廷国际酒店(北京汇琴购物中心宋家庄地铁站店)	huiting internationalhotel (songjiazhuang metro station)	39.8421172	116.4175854	hotel				
+node	14177405201			39.9206039	116.4328207	hotel				
+node	14179776615	Hotel Kapok		39.9135326	116.3993975	hotel				
+node	14179814117	Four Points by Sheraton		39.8944024	116.3053275	hotel		Four Points by Sheraton		
+node	14180380515	Elong WG.		39.9346611	116.4561697	hotel	3			
+node	14181988478			39.8951073	116.3945432	hotel				
+node	14182048852			39.8976039	116.3873738	hotel				
+node	14182050855			39.8932402	116.3832702	hotel				
+node	14182095595	Qiu Qi		39.8975634	116.3840479	hotel				
+node	14182101949	Super 8		39.8977368	116.3871874	hotel				
+node	14182107028	Atour		39.8937463	116.3872162	hotel				
+node	14182107029	True go		39.8977505	116.3879087	hotel				
+node	14182108632	Ji		39.8931589	116.4004911	hotel				
+node	14182121001		Beijing Huashang Hotel (Sanyuanqiao Yansha Embassy Area Branch)	39.9585615	116.4535248	hotel				
+node	14204022901	北京朝阳区左家庄北里31号楼	Jinding Haitian Business Hotel	39.9559774	116.4384229	hotel				
+node	14222386001		Junhefu Courtyard Hotel	39.9433620	116.3934819	hotel				
+node	14233050052			39.8909691	116.3918585	hotel				
+node	14233271276			39.8929559	116.3921450	hotel				
+node	14233276166			39.8937895	116.3920813	hotel				
+node	14233279467	建国·璞隐酒店		39.9143416	116.4066515	hotel				
+node	14233288781	桔子水晶酒店		39.9138483	116.4041783	hotel				
+node	14233288783			39.8910738	116.3922302	hotel				
+node	14233298616	前门观旗酒店		39.8986339	116.3959352	hotel				
+node	14234707151	住啦啦HOSTEL		39.9745941	116.4843632	hotel				
+node	14247004001	Qinfu Hotel (Beijing South Luogu Lane Houhai Lake Branch)		39.9408664	116.3930419	hotel				
+node	14247040001			39.9330951	116.4568319	hotel				
+way	33458501	好苑建国酒店	Jiango Garden	39.9081709	116.4171250	hotel				
+way	33458703	北京国际饭店	Beijing International Hotel	39.9082648	116.4222001	hotel				
+way	33459001	北京饭店	Beijing Hotel	39.9076668	116.4041125	hotel				https://www.chinabeijinghotel.com.cn/
+way	33459419	中国大饭店	China World Hotel	39.9087533	116.4529562	hotel		中国大饭店		
+way	33459738	中武大厦（武警部队西单招待所）	Beijing Minsheng Bank Building	39.9045386	116.3665910	hostel				
+way	46031082	北京友谊宾馆	Beijing Friendship Hotel	39.9623622	116.3130063	hotel				http://www.bjfriendshiphotel.com/
+way	55751927	Crowne Plaza International Airport Beijing		40.0627901	116.5499111	hotel		Crowne Plaza		
+way	64775451	渔阳饭店	Yu Yang Hotel	39.9445026	116.4415681	hotel				
+way	103012956	瑞吉酒店	St Regis Beijing	39.9083347	116.4335078	hotel				
+way	126601579	北京新侨诺富特饭店	Novotel Beijing Xin Qiao	39.9002799	116.4105367	hotel		Accor	Accor	https://www.novotel.com
+way	128977563	Courtyard by Marriott Beijing Northeast		39.9773851	116.4692735	hotel		Courtyard		
+way	142658380			39.9763172	116.4717766	hotel				
+way	142658381			39.9759872	116.4722341	hotel				
+way	142658382			39.9757307	116.4726163	hotel				
+way	142658383	北京丽都皇冠假日酒店		39.9769249	116.4724725	hotel		Crowne Plaza		
+way	142658386	北京丽都维景酒店	Beijing Lido Hotel	39.9762547	116.4732769	hotel				
+way	142658387	北京丽都维景酒店	Beijing Lido Hotel	39.9766453	116.4731347	hotel				http://www.beijinglidohotel.com
+way	147109476	北京炮局工厂青年旅舍	Beijing P.LOFT Youth Hostel	39.9458562	116.4140890	hostel				http://www.ploft.cn
+way	149224166	维也纳酒店	Vienna Hotels	39.8868857	116.3982815	hotel		维也纳酒店		
+way	149224213	汉庭酒店	Hanting Hotel	39.8868978	116.3990301	hotel		汉庭酒店		
+way	176037033	保利大厦酒店	Poly Theatre	39.9329541	116.4299636	hotel				
+way	179354667	兰惠公寓		39.9574595	116.3554444	hotel				
+way	180188846		Jia Hotel	39.8718263	116.3990545	hotel				
+way	193059291	厦门商务会馆	Xiamen Commerce Hotel	39.9744890	116.3330031	hotel				
+way	203840825	寰岛博雅大酒店		39.9083278	116.2883867	hotel				
+way	204438715	Piao Home		39.9011791	116.4668302	hotel				
+way	230612886	北京新云南皇冠假日酒店	Crowne Plaza Beijing Sun Palace	39.9708074	116.4289471	hotel				
+way	233091757	梵悦108		39.9055197	116.4586881	hotel				
+way	233134827	艾维克大厦	Avic Hotel	39.9038349	116.4565317	hotel				http://www.avichotelbeijing.cn
+way	233134836		Bejing LDS Hotel	39.9057376	116.4592831	hotel				
+way	233523265	北京京伦饭店	Jinglun Hotel	39.9077349	116.4486286	hotel				
+way	233692528	北京万豪行政公寓	"The Imperial Mansion, Beijing Marriott Executive Apartments"	39.9084553	116.4033328	hotel				
+way	234220366	凯宾斯基饭店	Kempinski Hotel Beijing Lufthansa Center	39.9477311	116.4581599	hotel		Kempinski		
+way	240526537	西直门宾馆		39.9383892	116.3550311	hotel				
+way	240526538	金台饭店	Jintai Hotel	39.9306935	116.3729578	hotel				
+way	240529357	天伦王朝酒店	Tianlun Dynasty Hotel	39.9166644	116.4055562	hotel				
+way	241614212	北京河南大厦	Beijing Henan Plaza	39.8718981	116.4515588	hotel				
+way	243912563	北京首都机场东海康得思酒店	Langham Hotel	40.0474287	116.6072186	hotel				
+way	245161396	北京中成天坛假日酒店		39.8600283	116.4084617	hotel		Holiday Inn		http://holidayinnbeijing.com.cn
+way	255795236	北京天安門故宮漫心府	Manxin Mansion Beijing Tiananmen Forbidden City	39.9171484	116.3983862	hotel				
+way	256565573	中乐六星酒店		39.8603314	116.4203320	hotel				http://www.zllx-hotel.com/
+way	256917262	北京市西苑饭店		39.9359451	116.3260286	hotel	5			
+way	257208003	内蒙古宾馆		39.9267989	116.4025213	hotel				
+way	259731620	北京希尔顿酒店	Hilton Beijing	39.9518256	116.4561590	hotel	4.5	Hilton	Hilton	https://www3.hilton.com/en/hotels/china/hilton-beijing-BJSHITW/index.html?WT.mc_id=zELWAKN0APAC1HI2DMH3LocalSearch4DGGenericx6BJSHITW
+way	268531831	东方饭店	Dong Fang Hotel	39.8866880	116.3833933	hotel				
+way	270270897			39.9361061	116.4084754	hotel				
+way	272225961	燕山大酒店	Beijing Yanshan Hotel	39.9690004	116.3163397	hotel				
+way	275938843	金融街酒店公寓		39.9157621	116.3574293	hotel		金融街酒店公寓		
+way	275938844	金融街酒店公寓		39.9153383	116.3579101	hotel		金融街酒店公寓		
+way	275938845	金融街酒店公寓		39.9151552	116.3573310	hotel		金融街酒店公寓		
+way	275938846	金融街酒店公寓		39.9153904	116.3570579	hotel		金融街酒店公寓		
+way	275938853	金融街酒店公寓		39.9155995	116.3559782	hotel		金融街酒店公寓		
+way	295062092	北京中关村皇冠假日酒店	Crowne Plaza Beijing Zhongguancun	39.9742371	116.3169324	hotel		Crowne Plaza		
+way	297312266		Holiday Inn Beijing Deshengmen	39.9559057	116.3723580	hotel				
+way	297681955	北京明豪戴斯酒店		40.0616256	116.5748992	hotel				
+way	297704834	北京贵都大酒店	Guidu Hotel Beijing	39.8885853	116.3612595	hotel				https://www.guiduhotelbeijing.com/
+way	297847672	北京希尔顿逸林酒店	Doubletree by hilton Beijing	39.8875020	116.3343502	hotel				
+way	306647346	北京国都大饭店	CITIC Hotel Beijing Airport	40.0484920	116.5841459	hotel	4			http://www.citichotelbeijing.com/
+way	313368400	骏马大酒店		39.9792415	116.3262821	hotel				
+way	318811467		Jingli Hotel	39.8889304	116.4847204	hotel				
+way	320789931	金泰丽湾公寓		39.8679113	116.3370088	hotel				
+way	335302128	北京展览馆宾馆	Beijing Exhibition Center Hotel	39.9402969	116.3402597	hotel				
+way	337775246		Chang An Grand Hotel	39.8705143	116.4519419	hotel				http://www.changangrandhotel.com
+way	338084085	北京卓之联千禧大酒店	Grand Millennium Beijing	39.9157732	116.4528925	hotel				
+way	342254578	宁夏大厦	Ningxia Dasha	39.9429128	116.4004645	hotel				
+way	342933843	New Oriental Suites in Seasons Park	Seasons Park bldg 5	39.9360163	116.4366447	hotel				
+way	347816925	Opposite House		39.9361757	116.4485354	hotel				
+way	349213082	日坛宾馆	Ritan Hotel	39.9158581	116.4340043	hotel				
+way	350503513	东直门智选假日酒店	Holiday Inn Express Beijing Dongzhimen	39.9354763	116.4372381	hotel		Holiday Inn Express		https://www.ihg.com/holidayinnexpress/hotels/cn/zh/beijing/pegdz/hoteldetail
+way	351854066	北京康莱德酒店	Conrad Beijing	39.9257563	116.4541986	hotel	5	Conrad	Hilton Hotels and Resorts	https://conrad.hilton.com.cn/zh-CN/hotel/Beijing/conrad-Beijing-BJSCICI/?WT.mc_id=zELWAKN0APAC1CI2DMH3LocalSearch4DGGenericx6BJSCICI
+way	368736558	北京王府井希尔顿酒店	Hilton Beijing Wangfujing	39.9134295	116.4071507	hotel	5	Hilton	Hilton	https://www3.hilton.com/en/hotels/china/hilton-beijing-wangfujing-BJSWFHI/index.html?WT.mc_id=zELWAKN0APAC1HI2DMH3LocalSearch4DGGenericx6BJSWFHI
+way	369522803	汉庭酒店	Hanting Hotel	39.9525814	116.4578503	hotel		汉庭酒店		
+way	370313275	昆仑饭店	Kunlun Hotel	39.9469251	116.4540433	hotel				
+way	371402285	首北兆龙饭店		39.9317856	116.4543982	hotel				
+way	381411793	7天酒店	7 Days Inn	39.8817519	116.4154712	hotel		7天酒店		
+way	412428257	base佰舍		39.9338806	116.4396857	hotel				http://yicheng.base-china.com/
+way	415670001	励骏酒店	Legendale Hotel Beijing	39.9133769	116.4127553	hotel	5			http://www.legendalehotel.com.cn/
+way	419268701		DaysHotel Beijing	40.0616475	116.5748983	hotel			DaysInn	http://www.daysinn.cn
+way	426323825	京城大厦配楼		39.9461672	116.4473593	hotel				
+way	427920269	北京朝阳悠唐皇冠假日酒店	Crowne Plaza Beijing Chaoyang U-Town	39.9206041	116.4328216	hotel		Crowne Plaza	IHG - Crowne Plaza	
+way	433219910	生达大厦		39.9015328	116.3441549	hotel				
+way	435147301	金凯福宾馆		39.9541344	116.3466849	hotel				
+way	442376459	工大建国饭店		39.8709770	116.4721348	hotel				
+way	457743832	华尔道夫酒店	Waldorf Astoria Beijing	39.9145678	116.4077835	hotel	5	Waldorf Astoria	Hilton Worldwide	https://waldorfastoria3.hilton.com/en/hotels/china/waldorf-astoria-beijing-BJSWAWA/index.html
+way	469532496	北京瑞吉酒店		39.9093608	116.4337252	hotel		St. Regis		
+way	476106718			39.9084565	116.4231142	hotel				
+way	476128798			39.9078897	116.4181354	hotel				
+way	477732117	人民大会堂宾馆	Great Hall of the People Hotel	39.9007374	116.3875406	hotel				https://www.rmdhtbg.com/
+way	477760843	京泰龙国际大酒店		39.8908039	116.3938324	hotel				
+way	477923929	前门建国饭店	Qianmen Jianguo Hotel	39.8854737	116.3795420	hotel				http://www.qianmenhotel.com
+way	478330672	北京新世界中心同派酒店		39.8976505	116.4112810	hotel		新世界中心同派酒店		http://www.pentahotel.cn
+way	478339751	北京新世界酒店		39.8969483	116.4061720	hotel				
+way	478339755	北京新世界酒店		39.8953576	116.4062874	hotel				
+way	478927836	Baifuyi		39.9416031	116.4376546	hotel				
+way	499424448	泰富酒店		39.9732422	116.3459546	hostel				
+way	520250497			39.8949070	116.3879111	hotel				
+way	520616988	亚朵酒店	Atour Hotel	39.8678227	116.3616445	hotel		亚朵酒店		
+way	520801090	富润酒店		39.8869338	116.3597618	hotel				
+way	521039178	山水宾馆		39.9092013	116.3654749	hotel	4	山水宾馆		
+way	521039179	北京泛太平洋酒店	Pan Pacific	39.9098505	116.3654924	hotel		Pan Pacific		https://www.panpacific.com
+way	521039230	如家酒店	Home Inn	39.9105237	116.3654990	hotel		如家酒店		
+way	525967775			39.8925029	116.3697289	hotel				
+way	529168264	北京东隅酒店	East Beijing Hotel	39.9675587	116.4861930	hotel				
+way	539793943	北京徽都大酒店		39.8730640	116.3209820	hotel				
+way	539793973	北京石家庄商务酒店		39.8650727	116.3362977	hotel				
+way	544950930	锦江之星北京天坛店	Jinjiang Inn	39.8857138	116.4218447	hotel		锦江之星		
+way	597671159		Yulong Hotel	39.9207111	116.2924913	hotel				
+way	597671164		Yulong Hotel	39.9218260	116.2925544	hotel				
+way	609021956	7Days Inn		40.0672628	116.5634912	hotel				
+way	609021958			40.0687858	116.5631478	hotel				
+way	618150761	7天快捷酒店	7 Days Inn	39.9322002	116.3069368	hotel		7 Days Inn		
+way	626537302	汉庭酒店	Hanting Hotels (Beijing Jiuxianqiao Branch)	39.9733729	116.4827386	hotel		汉庭酒店		
+way	626539356	桔子水晶酒店		39.9745079	116.4831271	hotel				
+way	637242713	黄河京都大酒店		39.8881085	116.4306960	hotel				
+way	637263988	好特·热温泉酒店		39.8617963	116.4288625	hotel				
+way	638301244	大郊亭国际商务酒店		39.8913238	116.4851582	hotel				
+way	638713827	北京首都机场希尔顿酒店	Hilton Beijing Capital Airport	40.0480355	116.6135253	hotel	5	Hilton Hotels & Resorts	Hilton Hotels	https://www.hilton.com.cn/zh-cn/hotel/Beijing/hilton-beijing-capital-airport-BJSCAHI/index.html?WT.mc_id=zELWAKN0APAC1HI2DMH3LocalSearch4DGGenericx6BJSCAHI
+way	652350984	ELONG R.YUN (Beijing Capital Airport Branch)	ELONG R.YUN (Beijing Capital Airport Branch)	40.0752669	116.5809258	hotel				
+way	653300370	京西宾馆		39.9050421	116.3128546	hotel				
+way	653300376	大方饭店	Grand Kingtown Hotel	39.8915617	116.3190984	hotel				
+way	654416768	富乐山酒店		39.9250546	116.3704796	hotel				
+way	654426447	如家商旅		39.9248616	116.3731703	hotel				
+way	658253371	大唐科苑宾馆		39.9776162	116.3508207	hotel				
+way	659000705			39.9233368	116.3967554	hotel				
+way	665484243	天佑大厦		39.8999758	116.3224245	hotel				
+way	665484539	中土大厦		39.8964792	116.3277847	hotel				
+way	666648368		GrandMercure Beijing Dongcheng	39.9399315	116.4043172	hotel		GrandMercure		
+way	679644109	梅地亚中心		39.9090529	116.3141344	hotel				
+way	695924819	7天酒店	7 Days Inn	39.8871097	116.3505966	hotel		7天酒店		
+way	736366679			39.8903474	116.3205083	hotel				
+way	736366884			39.8875099	116.3158571	hotel				
+way	764625528	永定门饭店		39.8640693	116.3984210	hotel				
+way	784384698	北京空港远航国际酒店	Yuanhang International Hotel	40.0614056	116.5804351	hotel				
+way	784384699	豪雅商务酒店	Haoya Hotel	40.0621232	116.5796275	hotel				
+way	809045071	东方威尼斯国际酒店		39.8722652	116.3045490	hotel				
+way	842327800	化大招待所		39.9698726	116.4122755	hotel				
+way	862117235	北京维景国际大酒店		39.9573862	116.4454372	hotel				
+way	891189270	新青海大厦		39.8626262	116.3164181	hotel				
+way	892935516	7天酒店	7 Days Inn	39.8695082	116.3034546	hotel		7天酒店		
+way	893282192	秋果酒店	Qiuguo Hotel	39.8879021	116.3980026	hotel		秋果酒店		
+way	917297356	和平里大酒店		39.9575061	116.4142824	hotel				
+way	929653199	和家宾馆		39.9444549	116.3809035	hotel				
+way	935853602	中工大厦	ZhongGong Hotel	39.9282819	116.3131300	hotel				
+way	978688285	交通饭店		39.8761556	116.4184836	hotel				
+way	982838519	汉庭酒店	Hanting Hotel	39.8953789	116.3975221	hotel		汉庭酒店		
+way	983908277	北京惠侨饭店	Beijing Huiqiao hotel	39.9767916	116.4174547	hotel				
+way	988822732			39.9418811	116.4641906	hotel				
+way	988822733			39.9416409	116.4636197	hotel				
+way	988822734			39.9419509	116.4632620	hotel				
+way	988822735			39.9427956	116.4633176	hotel				
+way	988822736			39.9423341	116.4637685	hotel				
+way	1016236310	北京国谊宾馆		39.9333718	116.3324756	hostel	4		国家机关事务管理局	
+way	1016649051	汉庭酒店	Hanting Hotel	39.8937684	116.3844594	hotel		汉庭酒店		
+way	1016649063	北京邦客客栈		39.8933562	116.3879368	hotel				
+way	1017259620	锦江之星	Jinjiang Inn	39.8892027	116.4004087	hotel		锦江之星		
+way	1017259626	桔子酒店		39.8892524	116.4017434	hotel				
+way	1020268563	57323部队招待所		39.8603309	116.4172965	hostel				
+way	1037020719	唐山大厦		39.9103762	116.4819629	hotel	4		唐山市人民政府	
+way	1095088004	北京厦航嘉年华酒店		39.8643091	116.3291298	hotel				
+way	1207119255	广西大厦	Guangxi hotel	39.8718139	116.4505214	hotel				
+way	1265094913	漫心酒店		39.9554216	116.3107557	hotel				
+way	1318077960	格林豪泰酒店		39.8776639	116.4412002	hotel				
+way	1318077970			39.8786707	116.4528648	hotel				
+way	1318105227	北京人卫酒店		39.8743211	116.4397196	hotel				
+way	1318116691			39.8827777	116.4403123	hotel				
+way	1318133423	亚朵酒店	Atour Hotel	39.8799246	116.4495638	hotel		亚朵酒店		
+way	1318383431			39.8786543	116.4528361	hotel				
+way	1318447495		Xi Zhào Si Temple Hotel	39.8883336	116.4327802	hotel				
+way	1318477174	汉庭酒店	Hanting Hotel	39.8871648	116.3627472	hotel		汉庭酒店		
+way	1318861957	全季酒店	Ji Hotel	39.8825042	116.3511042	hotel		全季酒店		
+way	1320453772	北京天赐华府酒店		39.8731321	116.3618584	hotel				
+way	1326247569	国务院机关事务管理局第二招待所		39.9372360	116.3511819	hotel				
+way	1355948553	博兴大厦		39.9083905	116.3161207	hotel				
+way	1390446105	富润酒店		39.8892725	116.3692063	hotel				
+way	1448591650			39.8488516	116.4489370	hotel				
+way	1473878545	格林豪泰酒店		39.8885219	116.3642489	hotel				
+way	1474340232	月桂树酒店		39.8411849	116.3809046	hotel				
+way	1476386980	桔子酒店		39.8655896	116.4159242	hotel				
+relation	3144288	建国宾馆	Jianguo Hotel Beijing	39.9077822	116.4465692	hotel				
+relation	3588117	华侨大厦		39.9220971	116.4052729	hotel				
+relation	7033430	Beijing Ritan Hotel		39.9158581	116.4340043	hotel				
+relation	13797762	首都宾馆	Capital Hotel	39.9005398	116.4030198	hotel				
+relation	18743996	北京金霖酒店		39.8882139	116.3960918	hotel				http://www.jinlinjiudian.com.cn/

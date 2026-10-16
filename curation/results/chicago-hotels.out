@@ -1,0 +1,203 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	424212348	City Suites Hotel		41.9397689	-87.6528805	hotel				
+node	903250106	Majestic Inn		41.9475222	-87.6442360	hotel				
+node	1618326381	Club Quarters Central Loop Hotel		41.8793184	-87.6311920	hotel		Club Quarters Hotel		https://www.centralloophotel.com/
+node	1665788092	The Ritz-Carlton Chicago		41.8978228	-87.6222827	hotel		The Ritz-Carlton		https://www.ritzcarlton.com/en/hotels/chicago
+node	1666768375	The Royal Sonesta Chicago River North		41.8911493	-87.6278016	hotel		Sonesta		https://www.sonesta.com/royal-sonesta/il/chicago/royal-sonesta-chicago-river-north/
+node	2219227941	Holiday Inn Chicago Mart Plaza		41.8881356	-87.6378473	hotel		Holiday Inn		
+node	2336746203	Urban Holiday Lofts		41.9124655	-87.6781511	hostel				https://www.urbanholidayusa.com
+node	2721192348	Courtyard Chicago Downtown/River North		41.8902477	-87.6276800	hotel		Courtyard		https://www.marriott.com/hotels/travel/chiwb-courtyard-chicago-downtown-river-north/
+node	3572698797	"The Langham, Chicago"		41.8884239	-87.6275117	hotel		Langham Hotels & Resorts		
+node	3575099909	IHSP Chicago Hostel		41.9111066	-87.6776624	hostel				
+node	4132511974	Baumhart Lodging at Loyola University Chicago		41.8976880	-87.6271039	hotel				
+node	4132511975	State and Grand by BridgeStreet		41.8910054	-87.6277533	hotel		BridgeStreet		
+node	4132824777	Residence Inn Chicago Downtown/River North		41.8895221	-87.6298273	hotel		Residence Inn		https://www.marriott.com/chirn
+node	4132824778	SpringHill Suites Chicago Downtown/River North		41.8896644	-87.6298061	hotel		SpringHill Suites		https://www.marriott.com/chinr
+node	4132824779	Hyatt Place Chicago / River North		41.8911872	-87.6309174	hotel		Hyatt Place		https://www.hyatt.com/en-us/hotel/illinois/hyatt-place-chicago-river-north/chizd
+node	4132824780	Aloft Chicago City Center		41.8914658	-87.6308226	hotel		Aloft		
+node	4132824781	Grand Plaza		41.8919091	-87.6284859	hotel				https://www.grandplazapenthouse.com/
+node	4132824782	Manilow Suites at The Grand Plaza		41.8920935	-87.6292964	hotel		Manilow Suites		
+node	4199525890	Alexandra's place		41.8998478	-87.6663900	hostel				
+node	4222455289	The River Hotel		41.8876583	-87.6255595	hotel				
+node	4588287676	The Buckingham Hotel		41.8758396	-87.6326786	hotel				
+node	4850707744	Hotel EMC2		41.8935645	-87.6216316	hotel		Autograph Collection	Smashotels	
+node	5616052668	Hampton Inn Chicago West Loop Fulton Market Area		41.8836291	-87.6430030	hotel		Hampton	Hilton	https://hamptoninn3.hilton.com/en/hotels/illinois/hampton-inn-chicago-downtown-west-loop-CHIWXHX/index.html
+node	6828046385	Jesus People Evangelical Covenant Community		41.9657866	-87.6531658	hostel				
+node	7874601393	Park Hyatt Chicago		41.8972351	-87.6252667	hotel		Park Hyatt		https://www.hyatt.com/en-us/hotel/illinois/park-hyatt-chicago/chiph
+node	7874601398	Hampton Inn & Suites Chicago Downtown/Magnificent Mile		41.8952518	-87.6229806	hotel		Hampton Inn & Suites		https://www.hilton.com/en/hotels/chidmhx-hampton-chicago-downtown-magnificent-mile/
+node	7874601399	Homewood Suites by Hilton Chicago Downtown/Magnificent Mile		41.8952458	-87.6233239	hotel		Homewood Suites		
+node	9025067829	Homewood Suites West Loop Fulton Market Area		41.8837678	-87.6430103	hotel		Homewood Suites		https://www.hilton.com/en/hotels/chiwwhw-homewood-suites-chicago-west-loop-fulton-market-area/
+node	9025081822	Canopy by Hilton Chicago Central Loop		41.8784445	-87.6350632	hotel		Canopy		
+node	9025468680	Chicago Parthenon Hostel		41.8775059	-87.6475178	hostel				https://www.chicagoparthenonhostel.com/
+node	9025558070	Homewood Suites by Hilton - Chicago Downtown South Loop		41.8691791	-87.6253081	hotel		Homewood Suites		
+node	9033428106	Hilton Garden Inn Chicago Downtown South Loop		41.8691754	-87.6255333	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/chidlgi-hilton-garden-inn-chicago-downtown-south-loop/
+node	9419709851	The Gwen		41.8912803	-87.6251877	hotel				
+node	10659917515	The LaSalle Chicago		41.8790843	-87.6324884	hotel		Autograph Collection		https://www.marriott.com/en-us/hotels/chiad-the-lasalle-chicago-autograph-collection/overview/
+node	10659917516	JW Marriott Chicago		41.8792660	-87.6330277	hotel		JW Marriott		
+node	11782507605	Ewing Annex Hotel		41.8762632	-87.6309095	hotel				
+node	11949220390	Sonder Greektown		41.8774010	-87.6475113	hotel		Sonder		https://www.sonder.com/destinations/chicago/CHI-S-HALS314/c31439
+node	12332594211	Cambria Hotel Chicago Loop - Theatre District		41.8846408	-87.6290450	hotel		Cambria Hotel		https://www.cambriachicagoloop.com/
+node	12563653531	DoubleTree Hotel Chicago - Magnificent Mile		41.8928119	-87.6199576	hotel		DoubleTree		https://www.hilton.com/en/hotels/chimmdt-doubletree-chicago-magnificent-mile/
+node	12563653532	Hilton Grand Vacations Club Chicago Magnificent Mile		41.8928126	-87.6198122	hotel		Hilton Grand Vacations		https://www.hilton.com/en/hotels/chigvgv-hilton-grand-vacations-club-chicago-magnificent-mile/
+node	12776738450	The Publishing House Bed & Breakfast		41.8831559	-87.6557867	hotel				https://www.publishinghousebnb.com/
+node	13274989504	The Hotel At Midtown		41.9257643	-87.6795690	hotel				https://www.midtownhotelchicago.com/
+node	13911034401	Grand House 424		41.8913134	-87.6491910	hostel				https://grandhouse424.com/
+way	25885878	Travelodge Chicago		41.8742437	-87.6255038	hotel		Travelodge		https://www.wyndhamhotels.com/travelodge/chicago-illinois/travelodge-hotel-downtown-chicago/overview
+way	42304882	The Westin O'Hare		41.9888671	-87.8613537	hotel		Westin		https://www.marriott.com/en-us/hotels/chiwa-the-westin-ohare/overview/
+way	64594680	Trump International Hotel & Tower Chicago		41.8888728	-87.6264574	hotel		Trump Hotels	The Trump Organization	https://www.trumphotels.com/chicago
+way	65581377	SpringHill Suites Chicago O'Hare		41.9851434	-87.8298683	hotel		SpringHill Suites		https://www.marriott.com/chico
+way	73651473	Sonder Plymouth		41.8763387	-87.6289862	hotel		Sonder		
+way	73685403	The Standard Club		41.8776806	-87.6290179	hotel				
+way	73717433	Union League Club		41.8778711	-87.6300227	hotel				
+way	73751803	Hilton Garden Inn Chicago Central Loop		41.8784310	-87.6348909	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/chiwjgi-hilton-garden-inn-chicago-central-loop/
+way	74451017	"THE MIDLAND HOTEL, Chicago, a Tribute Portfolio Hotel"		41.8797527	-87.6331440	hotel		Tribute Portfolio		https://www.marriott.com/en-us/hotels/chibw-the-midland-hotel-chicago-a-tribute-portfolio-hotel/overview/
+way	83317772	Quality Inn O'Hare Airport		41.9476048	-87.8848742	hotel		Quality Inn		http://www.qualityinn.com/hotel-schiller_park-illinois-IL228
+way	83324159	Quality Inn O'Hare Airport		41.9468265	-87.8849458	hotel		Quality Inn		http://www.qualityinn.com/hotel-schiller_park-illinois-IL228
+way	85382982	Best Western Plus Chicago O'Hare South		41.9332060	-87.8843816	hotel		Best Western Plus		https://www.bestwestern.com/en_US/book/hotels-in-franklin-park/best-western-plus-o-hare-international-south-hotel/propertyCode.14204.html
+way	95486966	Swissotel Chicago		41.8873610	-87.6195280	hotel		Swissôtel	Swissôtel	https://www.swissotel.com/hotels/chicago/
+way	124865461	"Staypineapple, An Iconic Hotel, The Loop"		41.8830423	-87.6282334	hotel		Pineapple Hospitality	Pineapple Hospitality	
+way	126982632	University Club of Chicago		41.8810047	-87.6249694	hotel				https://www.ucco.com/
+way	143773461	The Drake Hotel		41.9004212	-87.6234189	hotel		Hilton		https://www.thedrakehotel.com/
+way	144015975	The Whitehall Hotel		41.8989615	-87.6257368	hotel				
+way	144015980	Selina Hotel Chicago		41.8985756	-87.6256150	hotel		Selina	Selina	https://www.selina.com/usa/chicago/
+way	144016002	Sofitel Chicago Magnificent Mile		41.8986829	-87.6273173	hotel		Sofitel		
+way	144018856	Hilton Chicago/Magnificent Mile Suites		41.8996519	-87.6221728	hotel		Hilton		https://www.hilton.com/en/hotels/ordmdhf-hilton-chicago-magnificent-mile-suites/
+way	144018863	Millennium Knickerbocker Hotel Chicago		41.8997895	-87.6227267	hotel		Millennium		
+way	144020993	The Walton Residence		41.9002351	-87.6251874	hotel				
+way	144124765	The Talbott Hotel		41.8993943	-87.6274838	hotel		Autograph Collection		https://www.marriott.com/en-us/hotels/chidk-the-talbott-autograph-collection/overview/
+way	144151965	Raffaello Hotel		41.8990046	-87.6216043	hotel				
+way	144151976	Sonesta ES Chicago Downtown Magnificent Mile		41.8998014	-87.6213915	hotel		Sonesta		https://www.sonesta.com/sonesta-es-suites
+way	144697853	Fairmont Hotel Chicago		41.8860940	-87.6211527	hotel		Fairmont		
+way	144846552	Renaissance Chicago Downtown Hotel		41.8862960	-87.6284886	hotel		Renaissance		
+way	144846553	The Wit Hotel		41.8860610	-87.6276222	hotel				
+way	147077307	Congress Plaza Hotel		41.8750746	-87.6248357	hotel				https://www.congressplazahotel.com/
+way	147077312	"The Blackstone, Autograph Collection"		41.8733574	-87.6247909	hotel		Autograph Collection		https://www.marriott.com/en-us/hotels/chiab-the-blackstone-autograph-collection/overview/
+way	147077318	HI Chicago		41.8758933	-87.6265369	hostel		Hostelling International	Hostel International	https://www.hichicago.org/
+way	147095673	La Quinta Inn & Suites by Wyndham Chicago Downtown		41.8815738	-87.6349916	hotel		La Quinta Inn & Suites		https://www.wyndhamhotels.com/laquinta/chicago-illinois/la-quinta-chicago-downtown/overview
+way	147096407	Residence Inn Chicago Downtown/Loop		41.8816856	-87.6319511	hotel		Residence Inn		https://www.marriott.com/chirl
+way	147217807	Best Western Grant Park Hotel		41.8691033	-87.6246903	hotel		Best Western		https://www.bestwestern.com/en_US/book/hotels-in-chicago/best-western-grant-park-hotel/propertyCode.14120.html
+way	147397545	Virgin Hotels Chicago		41.8860640	-87.6260286	hotel		Virgin Hotels		
+way	147397556	Hyatt Place Chicago/Downtown - The Loop		41.8827297	-87.6356562	hotel		Hyatt Place		https://www.hyatt.com/hyatt-place/en-us/chizp-hyatt-place-chicago-downtown-the-loop
+way	147399561	The Royal Sonesta Chicago Downtown		41.8873859	-87.6256742	hotel		Sonesta		https://www.sonesta.com/us/illinois/chicago/royal-sonesta-chicago-downtown
+way	147399564	"Club Quarters Hotel, Wacker at Michigan"		41.8876164	-87.6254422	hotel				
+way	147399570	Hampton Inn Chicago Downtown/North Loop		41.8870460	-87.6254458	hotel		Hampton		https://secure3.hilton.com/en_US/hp/reservation/book.htm?execution=e1s1
+way	147476152	Chicago Athletic Association Hotel		41.8816698	-87.6249806	hotel				https://www.chicagoathletichotel.com/
+way	147486325	Hyatt Centric The Loop Chicago		41.8809109	-87.6311717	hotel		Hyatt Centric		https://theloopchicago.centric.hyatt.com/en/hotel/home.html
+way	147486327	The Kimpton Gray Hotel		41.8808900	-87.6317631	hotel		Kimpton		
+way	147489619	The Palmer House Hilton		41.8803350	-87.6269524	hotel		Hilton		
+way	148164105	Silversmith Hotel Chicago Downtown		41.8816518	-87.6266547	hotel				https://www.silversmithchicagohotel.com/
+way	148517224	Wyndham Blake Hotel		41.8751740	-87.6294962	hotel		Wyndham		https://www.hotelblake.com/
+way	148544831	Pendry Chicago		41.8865264	-87.6250081	hotel		Pendry		
+way	148544835	Hotel Monaco		41.8865322	-87.6260077	hotel		Kimpton		
+way	148554645	The Westin Michigan Avenue Chicago		41.8994878	-87.6232349	hotel		Westin		
+way	148554646	DeWitt Place		41.8995024	-87.6204024	hotel				
+way	148910676	Crowne Plaza Chicago West Loop		41.8808004	-87.6468508	hotel		Crowne Plaza		
+way	149730616	Holiday Inn Chicago-Downtown		41.8748726	-87.6399593	hotel		Holiday Inn		
+way	150184506	Le Méridien Essex		41.8717019	-87.6247521	hotel		Le Méridien		
+way	151989535	The Wade		41.8938634	-87.6155916	hotel		Marriott		https://www.marriott.com/en-us/hotels/chibh-the-wade/overview/
+way	153291616	Fairfield Inn & Suites Chicago Downtown/River North		41.8911139	-87.6299853	hotel		Fairfield Inn & Suites		https://www.marriott.com/chift
+way	153291624	Kinzie Hotel		41.8894889	-87.6289094	hotel				
+way	153291636	Hampton Inn & Suites Chicago - Downtown		41.8906192	-87.6291976	hotel		Hampton Inn & Suites		https://www.hilton.com/en/hotels/chihshx-hampton-suites-chicago-downtown/
+way	153320979	The Westin Chicago River North		41.8881686	-87.6300447	hotel		Westin		
+way	153735900	InterContinental Chicago Hotel		41.8913494	-87.6235459	hotel		InterContinental		https://www.ihg.com/intercontinental/hotels/us/en/chicago/ordha/hoteldetail
+way	153966966	The Peninsula Chicago		41.8962125	-87.6249761	hotel		Peninsula Hotels		
+way	153966972	Four Seasons Hotel Chicago		41.8996050	-87.6250371	hotel		Four Seasons		
+way	153966977	Waldorf Astoria Chicago		41.8996921	-87.6276158	hotel		Waldorf Astoria	Hilton Hotels	
+way	158621265	Embassy Suites by Hilton Chicago Downtown		41.8928719	-87.6285763	hotel		Embassy Suites		https://www.hilton.com/en/hotels/chidwes-embassy-suites-chicago-downtown-river-north/
+way	158621282	"The RIVVY, Chicago Downtown, a Tribute Portfolio Hotel"		41.8930577	-87.6257935	hotel		Tribute Portfolio		https://therivvyhotel.com/
+way	159798680	Hotel Audrey		41.8960215	-87.6227944	hotel				
+way	159959828	Warwick Allerton Hotel Chicago		41.8952049	-87.6237617	hotel		Warwick Hotels and Resorts		https://www.warwickhotels.com/allerton-hotel-chicago
+way	163500121	Hilton Chicago O'Hare Airport		41.9774257	-87.9042051	hotel		Hilton		
+way	163887177	Fullerton Hotel		41.9241951	-87.7251178	hotel				
+way	173328328	Embassy Suites by Hilton Chicago Downtown Magnificent Mile		41.8914142	-87.6196657	hotel		Embassy Suites	Hilton Hotels	https://www.hilton.com/en/hotels/chirees-embassy-suites-chicago-downtown-magnificent-mile/
+way	188171430	Sheraton Grand Chicago		41.8891529	-87.6194818	hotel		Sheraton		https://www.marriott.com/en-us/hotels/chigs-sheraton-grand-chicago-riverwalk/overview/
+way	199901579	Hotel Lincoln		41.9152948	-87.6345027	hotel		JdV by Hyatt		https://www.hyatt.com/en-US/hotel/illinois/jdv-hotel-lincoln/chijl
+way	207004962	Renaissance Chicago O'Hare Suites		41.9831883	-87.8408790	hotel		Renaissance		
+way	207264684	Holiday Inn Chicago O'Hare Area		41.9818504	-87.8356498	hotel		Holiday Inn		
+way	209809926	The Neighborhood Hotel - Little Italy		41.8690830	-87.6628102	hotel				https://www.theneighborhoodhotel.com/location/little-italy-chicago/
+way	209810799	Courtyard by Marriott Chicago at Medical District / UIC		41.8737639	-87.6659266	hotel		Courtyard		https://www.marriott.com/en-us/hotels/chiym-courtyard-chicago-at-medical-district-uic/overview/
+way	209825217	Hyatt House Chicago - Medical / University District		41.8738501	-87.6719868	hotel		Hyatt House		https://www.hyatt.com/en-US/hotel/illinois/hyatt-house-chicago-medical-university-district/chixt?src=prop_sm_chixt_hphh_facebk_landingpage_booknow
+way	209828881	Hotel Chicago West Loop		41.8779510	-87.6677856	hotel			Portfolio Hotels	https://www.hotelchicagowestloop.com/
+way	210326636	The Willows		41.9338651	-87.6435666	hotel				
+way	210326714	Hotel Versey		41.9330558	-87.6454928	hotel		Wyndham	Wyndham	https://www.hotelversey.com/
+way	210329540	Best Western Plus Hawthorne Terrace		41.9441296	-87.6459657	hotel		Best Western Plus	Best Western	https://www.bestwestern.com/en_US/book/hotels-in-chicago/best-western-plus-hawthorne-terrace-hotel/propertyCode.14151.html
+way	210329648	Wrigley Hostel		41.9458893	-87.6545593	hostel				https://www.wrigleyhostel.com/
+way	210382364	Aragon Arms Hotel		41.9721345	-87.6559079	hotel				
+way	210382414	Northmere Hotel		41.9728466	-87.6559261	hotel				
+way	210537356	Wyndham Chicago McCormick Hotel		41.8451778	-87.6275266	hotel		Wyndham		https://www.wyndhamhotels.com/wyndham/chicago-illinois/wyndham-chicago-mccormick/
+way	210542047	Hotel BnB		41.8652258	-87.6243448	hotel				
+way	210671541	The Allegro Royal Sonesta Hotel Chicago Loop		41.8841781	-87.6332998	hotel		Sonesta		https://www.sonesta.com/royal-sonesta/il/chicago/allegro-royal-sonesta-hotel-chicago-loop/
+way	210671685	Arlo Chicago	Arlo Chicago	41.8851307	-87.6249779	hotel				https://arlohotels.com/chicago/
+way	210679074	Ambassador Hotel		41.9060505	-87.6283159	hotel		Hyatt		
+way	210679086	"Inn of Chicago Magnificent Mile, an Ascend Collection hotel"		41.8927983	-87.6230284	hotel				https://www.theinnofchicago.com/
+way	210679087	Best Western River North		41.8921742	-87.6319860	hotel		Best Western		https://www.bestwestern.com/en_US/book/hotels-in-chicago/best-western-river-north-hotel/propertyCode.14112.html
+way	210679106	Omni Chicago Hotel		41.8947240	-87.6249300	hotel				
+way	210679107	"Claridge House Chicago, Tapestry Collection by Hilton"		41.9052099	-87.6304457	hotel		Hotel Indigo		
+way	210679112	Courtyard Chicago Downtown/Magnificent Mile		41.8931183	-87.6231006	hotel		Courtyard		https://www.marriott.com/chimm
+way	210679115	Eurostars Magnificent Mile		41.8943161	-87.6284301	hotel		Eurostars Hotel Company	Independent	https://www.eurostarshotels.com/eurostars-magnificent-mile.html
+way	210679148	AC Hotel Chicago Downtown		41.8936097	-87.6261028	hotel		AC Hotel		
+way	210679156	Hilton Garden Inn Chicago Downtown/Magnificent Mile		41.8920728	-87.6277635	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/chidngi-hilton-garden-inn-chicago-downtown-magnificent-mile/
+way	210679194	Residence Inn Chicago Downtown Magnificent Mile		41.8938252	-87.6250510	hotel		Residence Inn		https://www.marriott.com/en-us/hotels/chigr-residence-inn-chicago-downtown-magnificent-mile/overview/
+way	210679403	Marshall Hotel		41.9048453	-87.6334271	hotel				
+way	210679598	ACME Hotel Company		41.8922395	-87.6274985	hotel		ACME		https://www.acmehotelcompany.com/
+way	210679635	Elms Hotel		41.9034295	-87.6279569	hotel				
+way	210679699	Fairfield Inn & Suites Chicago Downtown/Magnificent Mile		41.8936498	-87.6219312	hotel		Fairfield Inn & Suites		https://www.marriott.com/chifd
+way	210679751	Aloft Chicago - Magnificent Mile		41.8931202	-87.6211313	hotel		Aloft		
+way	210679827	The Chicago Hotel Collection River North		41.8985721	-87.6364148	hotel		The Chicago Hotel Collection		https://www.thechicagohotelcollection.com/river-north
+way	210680071	Chicago Marriott Downtown Magnificent Mile		41.8921290	-87.6248700	hotel		Marriott	Marriott	
+way	210680171	Holiday Inn Express Chicago - Magnificent Mile		41.8937619	-87.6270869	hotel		Holiday Inn Express		https://www.ihg.com/holidayinnexpress/hotels/de/de/chicago/chimm/hoteldetail
+way	210680513	The Godfrey Hotel Chicago		41.8945777	-87.6321416	hotel		Godfrey		
+way	210680518	Thompson Chicago		41.9013583	-87.6274916	hotel		Grand Hyatt		
+way	210680537	Freehand Chicago		41.8922495	-87.6273063	hotel		Freehand		
+way	210680547	Hotel Felix		41.8946309	-87.6315488	hotel				
+way	210680554	Hyatt Centric Chicago Magnificent Mile		41.8937766	-87.6222411	hotel		Hyatt Centric		
+way	210680698	Ivy Hotel		41.8931150	-87.6213951	hotel				
+way	219799624	Aloft Chicago O'Hare		41.9772754	-87.8671520	hotel		Aloft		
+way	227605119	The St. Clair Hotel		41.8936029	-87.6229595	hotel				https://www.thestclairmagnificentmile.com/
+way	230896851	Holiday Inn Express		41.8662712	-87.8832008	hotel		Holiday Inn Express		
+way	235350496	Four Points by Sheraton Chicago O'Hare Airport		41.9554541	-87.8826520	hotel		Four Points by Sheraton		https://www.starwoodhotels.com/fourpoints/property/overview/index.html?propertyID=849
+way	235920251	Hyatt Regency Chicago		41.8874924	-87.6222342	hotel		Hyatt Regency	Hyatt	https://chicago.regency.hyatt.com/
+way	252709451	Loews Chicago O'Hare Hotel		41.9741870	-87.8633396	hotel		Loews		
+way	254649075	DoubleTree by Hilton Hotel Chicago O'Hare Airport - Rosemont		41.9783144	-87.8633281	hotel		DoubleTree		https://www.hilton.com/en/hotels/chidtdt-doubletree-chicago-ohare-airport-rosemont/
+way	305717626	Hilton Garden Inn Chicago / North Loop		41.8870447	-87.6256187	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/chinlgi-hilton-garden-inn-chicago-downtown-riverwalk/
+way	313782023	Marriott Marquis		41.8536775	-87.6202260	hotel		Marriott		https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.marriott.com/en-us/hotels/chimq-marriott-marquis-chicago/overview/
+way	329404488	Hampton Inn Chicago-O'Hare International Airport		41.9498789	-87.8850486	hotel		Hampton		https://www.hilton.com/en/hotels/chiaphx-hampton-chicago-ohare-international-airport/
+way	330309811	Loews Chicago Downtown		41.8898641	-87.6190926	hotel		Loews Hotels		
+way	330535225	London House Chicago		41.8877548	-87.6253050	hotel		London House Chicago		https://londonhousechicago.com
+way	334309198	The Guesthouse Hotel		41.9709522	-87.6680845	hotel				
+way	337517716	"The Hoxton, Chicago"		41.8858899	-87.6491367	hotel		The Hoxton		https://thehoxton.com/chicago/
+way	385218130	Embassy Suites by Hilton Chicago O'Hare Rosemont		41.9791127	-87.8632138	hotel		Embassy Suites		https://www.hilton.com/en/hotels/chirmes-embassy-suites-chicago-ohare-rosemont/
+way	385218133	Hilton Rosemont/Chicago O'Hare		41.9799196	-87.8634264	hotel		Hilton		
+way	401244510	Hotel Riu Plaza Chicago		41.8935944	-87.6232845	hotel		RIU	RIU Hotels & Resorts	https://www.riu.com/en/hotel/usa/chicago/hotel-riu-plaza-chicago/
+way	403509277	Sonesta Simply Suites Chicago O'Hare Airport		41.9522447	-87.8845703	hotel		Sonesta Simply Suites		
+way	407983114	Hyatt House Chicago West Loop-Fulton Market		41.8832666	-87.6552347	hotel		Hyatt House		https://www.hyatt.com/hyatt-house/en-us/chixl-hyatt-house-chicago-west-loop-fulton-market
+way	414727403	Chicago Marriott Suites O'Hare		41.9883816	-87.8589533	hotel		Marriott		
+way	424621447	Hotel Zachary		41.9477454	-87.6573332	hotel				
+way	445817830	Viceroy Chicago		41.9023960	-87.6289158	hotel		Viceroy	Viceroy Hotels and Resorts	https://www.viceroyhotelsandresorts.com/chicago
+way	508746580	Nobu Hotel		41.8847442	-87.6494527	hotel		Nobu		https://chicago.nobuhotels.com
+way	508763656	Jaslin Hotel		41.8525941	-87.6343424	hotel				https://www.jaslinhotel.com/
+way	531702526	Home2 Suites by Hilton Chicago River North		41.8950648	-87.6315672	hotel		Home2 Suites		https://www.hilton.com/en/hotels/chirnht-home2-suites-chicago-river-north/
+way	541367512	Moxy Chicago Downtown		41.8918470	-87.6329822	hotel		Moxy		https://www.marriott.com/en-us/hotels/chiox-moxy-chicago-downtown/overview/
+way	544009134	Best Western		41.8719095	-87.8935719	hotel		Best Western		
+way	544009136	Extended Stay America		41.8735004	-87.8954869	hotel		Extended Stay America		
+way	561284192	"Hilton Garden Inn, Hampton Inn, & Home2 Suites"		41.8525803	-87.6230309	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/chimkgi-hilton-garden-inn-chicago-mccormick-place/
+way	585172219	Hyatt Place Chicago / Wicker Park		41.9103975	-87.6673080	hotel		Hyatt Place		https://www.hyatt.com/en-us/hotel/illinois/hyatt-place-chicago-wicker-park/chizk
+way	682462678	"The Rose Hotel Chicago O’Hare, Tapestry Collection by Hilton"		41.9742435	-87.8706169	hotel		Tapestry Collection		
+way	686325218	The Marquee at Block 37		41.8842679	-87.6287786	hotel				
+way	686333247	Homewood Suites by Hilton Chicago Downtown		41.8918953	-87.6262464	hotel		Homewood Suites		https://www.hilton.com/en/hotels/chihwhw-homewood-suites-chicago-downtown/
+way	731167841	citizenM Chicago		41.8870795	-87.6250223	hotel		citizenM		
+way	769452753	Hyatt Regency McCormick Place		41.8519664	-87.6179015	hotel		Hyatt Regency		https://www.hyatt.com/hyatt-regency/en-us/chimc-hyatt-regency-mccormick-place
+way	897843372	SpringHill Suites Chicago Chinatown		41.8497170	-87.6315053	hotel		SpringHill Suites		https://www.marriott.com/en-us/hotels/chisn-springhill-suites-chicago-chinatown/overview/
+way	1056343841	Four Points by Sheraton Chicago Westchester/Oak Brook		41.8471167	-87.9083775	hotel		Four Points by Sheraton		https://www.marriott.com/hotels/travel/mdwfp-four-points-by-sheraton-westchester/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2
+way	1098655256	"Hotel Chicago Downtown, Autograph Collection"		41.8886727	-87.6288489	hotel		Autograph Collection		
+way	1160942314	Hampton Inn & Suites Chicago Medical District UIC		41.8728099	-87.6781508	hotel		Hampton Inn & Suites		https://www.hilton.com/en/hotels/chigghx-hampton-suites-chicago-medical-district-uic/
+way	1175853247	Hampton Majestic Chicago Theatre District		41.8809086	-87.6285779	hotel		Hampton		https://www.hilton.com/en/hotels/chitdhx-hampton-majestic-chicago-theatre-district/
+way	1176482824	Cambria Chicago Loop - Theatre District		41.8846765	-87.6288616	hotel		Cambria Hotel		
+way	1244904787	Comfort Suites Chicago O'Hare Airport		41.9555571	-87.8600154	hotel		Comfort Suites		https://www.choicehotels.com/illinois/willowbrook/econo-lodge-hotels
+way	1301674288	Chicago Hilton & Towers		41.8725082	-87.6251165	hotel		Hilton		
+way	1504318157	Hyatt Place Chicago - Medical / University District		41.8738377	-87.6727073	hotel		Hyatt Place		https://www.hyatt.com/en-US/hotel/illinois/hyatt-place-chicago-medical-university-district/chizt
+relation	2182074	Chicago Marriott O'Hare		41.9852960	-87.8416323	hotel		Marriott		
+relation	14160856	Hyatt Regency O'Hare Chicago		41.9813485	-87.8592972	hotel		Hyatt Regency		https://www.hyatt.com/en-US/hotel/illinois/hyatt-regency-ohare/chiro
+relation	14160857	Crowne Plaza Chicago Ohare Hotel & Conference Center		41.9775903	-87.8640779	hotel		Crowne Plaza		https://www.ihg.com/crowneplaza/hotels/us/en/rosemont/chiok/hoteldetail
+relation	15937049	"Radisson Blu Aqua Hotel, Chicago"		41.8865131	-87.6201516	hotel		Radisson Blu		https://www.radissonhotels.com/en-us/hotels/radisson-blu-chicago-aqua
+relation	17503969	Sable at Navy Pier		41.8913570	-87.6028372	hotel		Hilton		

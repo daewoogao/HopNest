@@ -1,0 +1,958 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	32338215	Domus Pacis Torre Rossa Park		41.8918075	12.4247457	hotel	3			http://torrerossaparkhotel.hotelinroma.com/
+node	259299923	Residence Aldrovandi		41.9187772	12.4847551	hotel	4			https://www.aldrovandiresidence.it/en/default.html
+node	260351002	Salesianum		41.8486495	12.3726076	hostel				
+node	260969325			41.9285951	12.5772409	hostel				
+node	261733735	"Hotel ""Parco dei Principi"""		41.9175913	12.4920147	hotel	5			https://www.parcodeiprincipi.com/
+node	261737031	Marriott Grand Flora Hotel		41.9091036	12.4889198	hotel		Marriott	Marriott	https://marriot.com
+node	261737033	Hotel Westin Excelsior		41.9075961	12.4900588	hotel			Westin	http://www.westinrome.com
+node	261737105	Hotel Majestic		41.9056434	12.4878678	hotel	5		EGA Srl	https://www.hotelmajestic.com/
+node	262110090	Cardo Roma		41.8430400	12.4713160	hotel				
+node	282409516	Il Quadrifoglio 1		41.7955583	12.4533377	hotel				
+node	282410358	Il Quadrifoglio 3		41.7946997	12.4543988	hotel				
+node	282410359	Il Quadrifoglio 4		41.7937270	12.4569823	hotel				
+node	298920550	Warmthotel		41.8127320	12.4756785	hotel				https://www.warmthotel.it/
+node	332050276	Carlo Magno		41.9316352	12.5273374	hotel				
+node	367251969	Marriott Park Hotel		41.8249315	12.3919803	hotel	5	Marriott		
+node	367251974	Sheraton Golf		41.8156064	12.4085222	hotel	5			
+node	368501455	Holyday Inn Parco dei Medici		41.8229717	12.4120294	hotel	4			
+node	378978299	Hilton Roma Airport	Hilton Rome Airport	41.7914084	12.2555297	hotel	4	Hilton	Hilton Worldwide	https://www.hilton.com/en/hotels/romaptw-hilton-rome-airport/
+node	379012827	Hotel Verona		41.8973968	12.4970978	hotel	3			https://www.hotelveronarome.com/
+node	410833072	Istituto Maria Santissima Bambina		41.9012692	12.4581531	hotel				https://www.goodnightandgodbless.com/monasteries/istituto-maria-santissima-bambina/704
+node	412309074	Summit Roma Hotel		41.8834844	12.3995923	hotel	4			
+node	428933878	Melia Roma Aurelia Antica		41.8756838	12.3948247	hotel		Meliá		
+node	428935665	Hotel Aldobrandeschi		41.8748899	12.3941744	hotel				
+node	443610569	Royal Santina		41.9030837	12.5016103	hotel	4			https://www.hotelroyalsantina.com/
+node	448098113	Hotel Pinewood		41.9083383	12.4249229	hotel				https://www.romehotelpinewood.com/
+node	473194710	Hostel Freedom Traveller		41.9047400	12.5006320	hostel				
+node	512684383	Romoli Hotel		41.8697024	12.5145099	hotel				
+node	530719587	Quattro Fontane		41.9024796	12.4894763	hotel			Trevi Hotels	https://www.hotel4fontane.com
+node	534730709	Villa delle Rose		41.9033398	12.5034554	hotel	3			http://www.villadellerose.it/
+node	535329954	Ripetta25		41.9088079	12.4761677	hotel				
+node	560446911	Ateneo Palace		41.8984776	12.5113043	hotel	4			
+node	566273907	Hotel Arcadia		41.8301441	12.6146094	hotel				
+node	585485646	Palladium Palace		41.8984389	12.5003513	hotel	4			https://www.hotelpalladiumpalace.com/
+node	599818117	Mercure Rome Piazza Bologna		41.9122737	12.5186680	hotel	3	Mercure		
+node	618946435	Ergife		41.8916811	12.4174917	hotel				
+node	619379528	Best Western Villafranca		41.9051294	12.5050019	hotel	4	Best Western	Best Western	http://www.villafrancaroma.it/
+node	624694305	Pacific		41.9105968	12.4460550	hotel	3			
+node	627053984	De Russie		41.9099087	12.4775123	hotel				
+node	633362134	Ostello della gioventù		41.9265659	12.4579569	hostel				
+node	663030469	When in Rome		41.9029516	12.5054458	hostel				
+node	668952085	Grand Hotel Plaza Rome		41.9051237	12.4788451	hotel	5			
+node	675162232	Best Western Globus Hotel		41.9062742	12.5168796	hotel	3	Best Western	Best Western	https://www.globushotel.com/
+node	685957641	Hotel Navona		41.8978576	12.4746972	hotel	3			
+node	696078932	Hotel Nazionale		41.9010332	12.4779468	hotel				https://www.hotelnazionale.it/
+node	701969525	Principe		41.8967377	12.5040392	hostel				www.principebb.com
+node	708352267	Villa Pamphili		41.8820688	12.4324938	hotel	3			
+node	708898438	Hotel Santa Chiara		41.8976597	12.4769406	hotel				https://www.albergosantachiara.com/
+node	728762535	Holiday Inn		41.8874237	12.4003977	hotel		Holiday Inn		
+node	735757599	Boscolo Exedra		41.9019505	12.4961199	hotel				https://exedra-roma.boscolohotels.com/
+node	738082551	Nova Domus		41.9120467	12.4502855	hotel	4			https://www.novadomushotel.it
+node	762061203	Hotel RomAntica		41.8984143	12.5007312	hotel				
+node	817332910	Hotel Principessa Isabella		41.9099325	12.4937313	hotel				https://www.hotelprincipessaisabella.eu/
+node	907209980	Hotel Cinecittà		41.8494851	12.5788627	hotel	3			http://www.hotelcinecitta.it/
+node	925227216	Exe International Palace		41.9000195	12.4924025	hotel		Exe Hotels		
+node	961818637	Hotel Homs		41.9041615	12.4823779	hotel	4			https://hotelhoms.it/
+node	966364440	Hotel Amalfi		41.8963331	12.4993108	hotel	3			https://hotelamalfiroma.it/it/
+node	980480340	Guesthouse Urbana		41.8970262	12.4948638	hotel				
+node	984885716	Locanda Cairoli		41.8933147	12.4750871	hotel				
+node	986960273	Flavia		41.9073259	12.4973569	hotel				
+node	987724359	B&H Hotel		41.9049329	12.4265981	hotel				
+node	1059611666	Noba Art Hotel		41.9316568	12.5275273	hotel				https://www.arthotelnoba.com/en/
+node	1068777034	Casa Bonus Pastor		41.9013341	12.4447242	hotel		Vicariate of Rome		https://www.casabonuspastor.com/
+node	1134598821	Picasso		41.8998064	12.4931839	hotel				https://www.picassohotel.com
+node	1134598828	Caravaggio		41.8993324	12.4928201	hotel	3			http://www.hotelcaravaggiorome.com/
+node	1134598830	Italia		41.8997271	12.4929567	hotel	2			
+node	1134598858	Selene		41.9007180	12.4967531	hotel	3			
+node	1224073646	Scheppers Hotel		41.8889074	12.4002023	hotel				
+node	1226463170	B&B Felicia		41.8811477	12.5083842	hotel				https://www.bbfelicia.it
+node	1239229273	Grand hotel Gianicolo		41.8875437	12.4608418	hotel	4			https://www.grandhotelgianicolo.it/
+node	1242055819	Eurostars Saint John		41.8890741	12.5050245	hotel				
+node	1243321894	Hotel Art by the Spanish Steps		41.9076906	12.4807216	hotel	4			http://www.hotelart.it/
+node	1248116068	Hotel Trevi		41.9003134	12.4840953	hotel	3			https://www.hoteltrevirome.com/
+node	1261144273	Hotel Adriano		41.9023028	12.4757543	hotel				
+node	1273322574	Hotel Dei Borgognoni		41.9026955	12.4830686	hotel				https://www.hotelborgognoni.com/
+node	1313267955			41.8161000	12.4910704	hotel				
+node	1313559943	Hotel Clodio		41.9198199	12.4568648	hotel	4			
+node	1356300753	Hotel Villa del Parco		41.9179073	12.5148264	hotel	3			
+node	1372594122	Aedes Placida		41.9085463	12.5170908	hotel			Mezzo al Mondo	www.aedesplacida.it
+node	1396488786	Hilton Garden Inn Rome Colosseum		41.8899752	12.5066720	hotel	4		Hilton	https://www.hilton.com/en/hotels/ciaiygi-hilton-garden-inn-rome-colosseum/
+node	1396574138	Hotel Tiziano		41.8962627	12.4756295	hotel				
+node	1396574142	Hotel della Torre Argentina		41.8961734	12.4759380	hotel				
+node	1401084243	Camere Belvedere A Termini		41.8981742	12.5040173	hotel				
+node	1412049041	Beau Site		41.9070067	12.4880449	hotel	4			http://www.beausiterome.com/
+node	1412577264	NYX Hotel Rome		41.9075841	12.4685943	hotel	4			https://www.nyx-hotels.com/rome/nyx-hotel-rome
+node	1421433023	Alimandi		41.9069545	12.4528471	hotel	4			
+node	1426481456	The Duke Hotel		41.9235532	12.4788503	hotel	4			http://thedukehotel.com/
+node	1453478510	Hotel Colonna Palace		41.9005978	12.4790537	hotel				
+node	1462932239	Ostello Palace Rome		41.9352399	12.5845040	hostel				https://palace-rome.com/
+node	1470754277	The Zone Hotel		41.9257322	12.4354185	hotel				https://www.zonehotel.com/
+node	1482347175	Locarno		41.9097086	12.4746920	hotel				
+node	1536870111	Hotel Richmond		41.8931412	12.4882784	hotel				
+node	1536870112	Hotel Romano		41.8931964	12.4883829	hotel				
+node	1559437607	Hotel Emmaus		41.8993265	12.4564364	hotel	3			https://www.emmaushotel.com/
+node	1572519961	Re Testa		41.8768857	12.4737997	hotel				
+node	1584897507	Hotel Degli Imperatori		41.9473533	12.5885259	hotel	4			https://www.hoteldegliimperatori.it/
+node	1589896094	Generator Hostel		41.8954653	12.5057582	hostel			Generator Hostels	https://staygenerator.com/hostels/rome
+node	1600564862	Hotel Columbus		41.9020796	12.4610139	hotel				
+node	1635702550	Shasa Hotel		41.9314557	12.5782035	hotel				https://www.shasahotel.com/
+node	1651992611	The Guardian Hotel		41.9073698	12.5011330	hotel		AG Hotels		https://www.theguardianhotel.it
+node	1674751788	Raphael Hotel		41.8998981	12.4721221	hotel	5			
+node	1694672799	Marini Park Hotel		41.7880507	12.5162272	hotel				https://www.mariniparkhotel.it/
+node	1701555356	Hotel Pisana Palace		41.8687147	12.4116950	hotel			Hotelidea	
+node	1701670111	Hotel Mirti		41.8812607	12.5673826	hotel				
+node	1714581393	Appia Park Hotel		41.8387920	12.5507805	hotel				
+node	1719138872	Windrose		41.9044980	12.5002528	hotel	3			http://www.hotelwindrose.it
+node	1743613641	Hotel Colosseum		41.8961583	12.4960535	hotel				https://www.hotelcolosseum.com/
+node	1822907336	Adagio Rome Vatican		41.9199568	12.4361649	hotel		Adagio		
+node	1825339618	Urban Garden Hotel Roma	Urban Garden Hotel Rome	41.9247306	12.5699273	hotel				https://www.urbangardenhotelroma.com/
+node	1832848889	Hosianum Palace		41.8945669	12.4795058	hotel				https://www.hosianum.com/
+node	1840223455	Domus Aurelia		41.8998630	12.4438065	hotel				http://www.domusaurelia.com/
+node	1871781591	Hotel Villa Pinciana		41.9090525	12.4921677	hotel				https://www.hotelvillapinciana.com/
+node	1880658246	Tizi		41.9087864	12.4973423	hotel				
+node	1880658297	DIVA Luxury Hotel		41.9071134	12.4878529	hotel				https://www.divaluxuryhotel.com/
+node	1917084658	Edera		41.8908459	12.5001125	hotel				
+node	1920404978	Hotel Abruzzi Rome		41.8993673	12.4771074	hotel	3		Hotel Abruzzi	https://www.hotelabruzzi.it/
+node	1924068082	Hotel Aniene		41.9379435	12.5315129	hotel				
+node	1926196445	Hotel Meridiana		41.9052432	12.5004198	hotel	2			
+node	1926196451	Hotel Noto		41.9048918	12.4999008	hotel	3			http://www.sebraelihotels.com/hotels.php?hid=102
+node	1926196460	Hotel Mary2		41.9052627	12.5004559	hotel	2			
+node	1929123788	Hotel Tempio di Pallade		41.8931761	12.5123002	hotel	3			https://www.hoteltempiodipallade.it
+node	1983373069	Hotel Victoria		41.9094025	12.4902011	hotel				
+node	1986971302	Best Western Cinemusic Rome		41.8813057	12.5184659	hotel	4	Best Western		https://www.cinemusicrome.com/
+node	1988962798	Grand Suite Trevi		41.9015753	12.4838087	hotel				
+node	1995340449	Hotel Cambridge		41.9033173	12.5060343	hotel				
+node	2010765186	Hotel Galles		41.9045678	12.5059956	hotel	3			
+node	2048114811	Pascià Room & Breakfast		41.8919543	12.5324486	hotel				
+node	2105398742	B&B Twice		41.9087190	12.4583064	hotel				http://www.twiceaccomodationrome.com/
+node	2119893727	Hotel Albani		41.9155968	12.4982953	hotel	4			http://www.albanihotels.com/roma/eng/index.php
+node	2120086754	Hotel Perugia		41.8927979	12.4895103	hotel				
+node	2138691946	Hotel Cisterna		41.8885670	12.4714648	hotel				www.hotelcisternarome.com
+node	2141444065	Hotel Floridia		41.9056348	12.5001894	hotel	3			https://www.floridiahotelroma.it/
+node	2149698801	Hotel Paba		41.8937221	12.4901681	hotel				https://www.hotelpaba.com/indexing.htm
+node	2201460522	Impero		41.9007559	12.4962929	hotel				
+node	2201468648	Opera 58 - Teatro dell'Opera Suites		41.9000177	12.4957229	hotel				
+node	2201468649	Columbia		41.9008559	12.4965913	hotel	3			https://hotelcolumbia.com/
+node	2201468650	Hotel Lirico		41.9001363	12.4953977	hotel	3			https://www.hotelirico.com/
+node	2201468656	Hotel Sonya		41.9000334	12.4956482	hotel				http://www.hotelsonya.it/
+node	2211576863	"The Hoxton, Rome"		41.9182793	12.4974892	hotel		The Hoxton		
+node	2246269228	Attilio Regolo		41.9083921	12.4650718	hotel				
+node	2295769280	Crosti Hotel		41.9062786	12.5012898	hotel				
+node	2302346446	Casa dei Fiori		41.9007797	12.4664925	hotel				
+node	2302346447	Casa dei Fiori		41.8955588	12.4731539	hotel				
+node	2303559430	Settembre 95		41.9079073	12.4994080	hotel				
+node	2309332158	Hotel Pelliccioni		41.8994816	12.4981130	hotel				
+node	2322290519	Best Suites Pantheon		41.8990963	12.4772863	hotel				
+node	2336911481	Hotel Napoleon		41.8938389	12.5038330	hotel				
+node	2340584100	Astrid		41.9234130	12.4687130	hotel				
+node	2347220672	Hotel Mondial		41.9014359	12.4957152	hotel				https://www.hotelmondialrome.com/
+node	2397317566	Roma Termini Suites		41.8989507	12.4989724	hotel				https://romaterminisuites.com/
+node	2426953234	Andreotti Hotel		41.9054275	12.5021644	hotel	3			https://www.hotelandreotti.it/
+node	2429157665	Hotel Laurentia		41.8972830	12.5137094	hotel				
+node	2429160700	Hotel Villa San Lorenzo		41.8955890	12.5168704	hotel				
+node	2434157092	B&B Hotel Roma Trastevere		41.8761553	12.4660027	hotel	3		B&B Hotels	https://www.hotel-bb.com/it/hotel/roma-trastevere.htm
+node	2442830197	Hotel Hassler		41.9059856	12.4836915	hotel				
+node	2453179161	Bed and Breakfast Domus Pinciana		41.9105462	12.4944809	hotel				https://www.domuspinciana.it/
+node	2489042525	Ibis Styles		41.8300511	12.4561865	hotel	4			http://www.mmhotel.it/
+node	2489047822	GP Hotel		41.9004585	12.5703627	hotel	4			https://www.gphotel.it/
+node	2489236197	Hotel Coppedè		41.9210226	12.5067384	hotel	3			https://hotelcoppede.net/
+node	2493676912	The Loft		41.9003525	12.4974867	hotel				https://www.tripadvisor.co.uk/Hotel_Review-g187791-d2538530-Reviews-The_Loft-Rome_Lazio.html
+node	2494474261	Hotel Residence Villa Tassoni		41.9139001	12.4437414	hotel				
+node	2494477950	Hotel Residence Vatican Suites		41.9002964	12.4475868	hotel				
+node	2507999309	Villa Torlonia		41.9121546	12.5090875	hotel	4			
+node	2519566154	Hotel Contilia		41.8983100	12.5009890	hotel	3			https://www.hotelcontilia.com/
+node	2519570177	Giorgina Hotel		41.8988247	12.5001824	hotel				
+node	2522591120	Hotel Centrale		41.9086588	12.4778520	hotel	3			https://www.hotelcentraleroma.it/
+node	2522621010	Hotel Siena		41.9033168	12.4832165	hotel	4		LHP Hotels	https://www.sienahotelrome.com/
+node	2537266358	Alessandro Downtown Hostel		41.8975447	12.5016464	hostel				https://www.hostelsalessandro.com/
+node	2545268220	Hotel De Petris		41.9025378	12.4873497	hotel				https://www.hoteldepetris.com/
+node	2547073285	Shangri La Corsetti		41.8195659	12.4647011	hotel	4			
+node	2560295303	Hotel Urbis		41.9021812	12.5034577	hotel	2			http://www.hotelurbisrome.com/italiano/
+node	2584246820	The Independent Hotel		41.9039161	12.5005896	hotel	4		AG Hotels	https://www.independenthotel.it/
+node	2611993714	Colisseum Lodge		41.8906658	12.5029522	hostel				
+node	2642837149	Grand Hotel Palatino		41.8945388	12.4923348	hotel				https://www.hotelpalatino.com/
+node	2678344705	JC Contemporary Hotel		41.7992426	12.4797670	hotel				https://jchotel.it/
+node	2725116021	Hotel Rimini		41.9022789	12.5035878	hotel				
+node	2727770854	Hotel Rosa Italia		41.9084856	12.5146417	hotel	3			https://rosaitaliarome.it/
+node	2773251980	La Sandwicheria		41.9029344	12.4834709	hotel	4			https://www.lasandwicheria.it/
+node	2798809896	TangoHotel		41.9080279	12.4566674	hotel			Francesco	https://www.tangohotel.it
+node	2846084537	Gravina Rooms San Pietro		41.9085230	12.4604916	hotel				https://www.gravinaroomssanpietro.it
+node	2943144374	Dante's in Vaticano		41.9086187	12.4556984	hotel				
+node	2994982004	Hotel Massimo D'Azeglio		41.9000350	12.4993411	hotel	4		Bettoja Hotels	https://www.romehoteldazeglio.it/
+node	3017817638	Palma Residence -Angelica		41.9018672	12.5053681	hotel	2			
+node	3025708577	ex. Apartman Maria & Puffy		41.8426451	12.5952807	hostel				
+node	3052495269	Hotel Capo d'Africa		41.8884303	12.4975250	hotel				
+node	3056184800	Albergo del Senato		41.8991572	12.4772782	hotel				
+node	3061568275	Hotel Fontana		41.9007218	12.4833418	hotel				
+node	3061585985	Hotel Accademia		41.9018278	12.4838018	hotel				
+node	3061585987	Hotel La Fenice		41.9033277	12.4854116	hotel				
+node	3087207083	Artdeco		41.9067084	12.5019342	hotel	4	Best Western	Darob Srl	https://www.hotelartdecorome.com/
+node	3098336676	Michelangelo		41.8988927	12.4544610	hotel			Starhotels	https://www.starhotels.com/en/our-hotels/michelangelo-rome/
+node	3098336680	Roma Dreaming		41.8960276	12.4518270	hotel				http://www.romadreaming.it
+node	3101311524	Maison Candia Luxury House		41.9085679	12.4541979	hotel				
+node	3101356197	Atlantis Inn Roma		41.9054745	12.4722140	hotel				
+node	3190061010	Hotel Tirreno		41.8955395	12.4982231	hotel	3			https://www.hoteltirrenoroma.it
+node	3192164485	Dolce Vita Residence		41.8973694	12.4826359	hotel				http://www.dolcevitaresidence.com/
+node	3229916945	Affitacamere Fanti		41.8982422	12.5020106	hostel				
+node	3233708033	Hotel Saint Paul		41.8550344	12.4710390	hotel	4			
+node	3257911337	Lux Appartamenti		41.8903332	12.5177485	hotel				
+node	3292523555	Giuseppe Avezzana Apartment		41.9142120	12.4670381	hotel				
+node	3292529780	Il Sogno A San Pietro		41.9072144	12.4520535	hotel				
+node	3292542361	Sunset at St Peter		41.8979581	12.4552762	hotel				
+node	3292553076	Relais San Pietro		41.9110097	12.4564874	hotel				
+node	3326329849	Hotel Piram		41.8993079	12.5007210	hotel				
+node	3327636620	Vintage Hotel Rome		41.8375519	12.5946981	hotel				
+node	3400262453	Hotel Nord Nuova Roma		41.9010599	12.4977979	hotel	3			https://www.hotelnordnuovaroma.it/
+node	3403814918	Hotel San Remo		41.8999482	12.4975925	hotel				https://www.sanremoroma.com/
+node	3403814919	Albergo hera net		41.8998679	12.4975148	hotel				
+node	3403817806	Hotel Augusta Lucilla Palace		41.9001099	12.4977520	hotel	4			https://www.augustalucillapalace.com
+node	3412957318	Residenza Leonina		41.8956379	12.4930219	hotel				http://www.residenzaleonina.com/
+node	3455637510	Rose Garden Palace		41.9080339	12.4917667	hotel	4			https://www.rosegardenpalace.com/
+node	3481777520	Hotel Giolli Nazionale		41.8992776	12.4912753	hotel	3			http://www.hotelgiollirome.it/it/
+node	3500835891	Frame Vatican Inn		41.9083148	12.4642714	hotel				
+node	3508154494	Casa per ferie Ravasco		41.8999978	12.4433812	hotel				http://www.casaravasco.it/Objects/Home1.asp
+node	3512103329	Hotel Mosaic		41.9065096	12.5004286	hotel				
+node	3512356839	Colors Hotel		41.9064913	12.4634063	hotel	2			https://www.colorshotel.com/
+node	3531783467	Hotel Antico Palazzo Rospigliosi		41.8973734	12.4976311	hotel	4			https://www.hotelrospigliosi.com/
+node	3539479973	Hotel degli Aranci		41.9255207	12.4851022	hotel	4			https://www.hoteldegliaranci.com/
+node	3542324535	Relais 6		41.9194512	12.5142910	hotel	4			https://www.relais6.com/
+node	3552379258	Hotel Doria		41.8966057	12.4995333	hotel	3			
+node	3554601725	Hotel Borromeo		41.8968509	12.4952916	hotel	3			https://www.hotelborromeo.com/it
+node	3563592894	Hotel La Griffe		41.9013529	12.4944032	hotel	5		Accor	https://www.hotellagriffe.com/
+node	3578040335	B&B A casa a Testaccio		41.8778419	12.4786190	hostel				http://www.acasaatestaccio.com
+node	3595152815	Hotel Emona Aquaeductus		41.8909242	12.5126217	hotel	4			https://www.hotelaquaeductus.it/
+node	3644916254	Hotel Sant'Angelo		41.9057393	12.4724936	hotel	3			http://www.hotelsa.it/en/default.html
+node	3668593176	Mercure Roma Corso Trieste		41.9207242	12.5138726	hotel	3		Mercure	
+node	3673965795	Hotel Amalio Vaticano		41.9077988	12.4575801	hotel	3			http://amaliavaticano.hotelinroma.com/
+node	3696223324	Hotel Porta Pia		41.9111405	12.5025972	hotel				
+node	3698821526	CC Palace Hotel		41.9009444	12.4926961	hotel	4S			
+node	3698861127	Accueil Saint-Joseph		41.9073158	12.4842829	hostel				
+node	3804829954	Evan's Guesthouse		41.8947704	12.5058997	hotel				
+node	3810752249	Al Viminale Hill Inn & Hotel		41.9002180	12.4959666	hotel				
+node	3877974140	Raffaello		41.8977842	12.4955398	hotel	3			
+node	3901146195	Hotel Giorgi		41.9033819	12.5024528	hotel	3			
+node	3902912162			41.8628073	12.5503819	hotel				
+node	3941159172	Hotel Concorde		41.8992364	12.5006557	hotel				
+node	3984195002	VOI Donna Camilla Savelli Hotel		41.8899459	12.4663450	hotel	4		Alpitour World Hotels & Resorts	https://voihotels.com/en/hotels/voi-donna-camilla-savelli-hotel/hotel
+node	3992510541	Hotel Trevi Palace		41.8976242	12.4872511	hotel	3			https://www.trevipalacehotel.com/
+node	3996369558	Hotel Enrica		41.9031982	12.5073363	hotel				
+node	3996369559	Hotel Philia		41.9032929	12.5064381	hotel				
+node	3996369562	Hotel Prince Galles		41.9040368	12.5055364	hotel				
+node	3996369563	Venetia Palace Hotel		41.9033147	12.5051129	hotel				https://www.venetiapalacehotel.com/
+node	4000980992	Gran Meliá Rome		41.8986195	12.4611245	hotel				https://www.melia.com/
+node	4037043411	La Spiaggia		41.8160448	12.2113516	hotel	1			
+node	4110106290	Hotel Savoy		41.9073270	12.4892164	hotel	4			https://www.savoy.it/
+node	4132418093	White Apartment San Pietro		41.8963839	12.4564564	hostel				
+node	4134220988	Suite Opera Rooms		41.9007421	12.4950350	hotel				
+node	4150894848	Hotel Portafortuna		41.8964526	12.5006218	hotel	1			
+node	4153864000	Downtown Accommodation		41.8940717	12.4903407	hotel				
+node	4159479591	Hotel Dei Mellini		41.9073951	12.4724666	hotel				
+node	4173035489	Alessandro Palace Hostel & Bar		41.9043576	12.5045314	hostel				https://www.hostelsalessandro.com/mobile/
+node	4187982801	Hotel San Anselmo		41.8821723	12.4794175	hotel				https://www.aventinohotels.com/
+node	4188845989	Arco Romano Rooms		41.8899873	12.5135999	hotel				
+node	4196310489	Hotel Anfiteatro Flavio		41.8958641	12.4904876	hotel				https://www.anfiteatroflavio.com/
+node	4197712796	Hotel Valle		41.8968015	12.4955746	hotel				https://www.therelaxinghotels.com/
+node	4202061490	Hotel Adriatic		41.9043896	12.4622411	hotel				http://it.venere.com/de712491/italia/hotel-a-roma/
+node	4208286489	Hotel Aberdeen		41.9026030	12.4940376	hotel				
+node	4208623579	Hotel Miami		41.9009593	12.4933683	hotel	3			
+node	4211161990	Alexandra		41.9046637	12.4879664	hotel				
+node	4212711999	Elite		41.9042674	12.4856294	hotel				
+node	4213342389	Domus Libera		41.8973818	12.4823103	hotel				https://www.domuslibera.com/
+node	4218367889	Hotel Terminal		41.8979062	12.5016487	hotel				https://www.hterminal.com/
+node	4222963589	Fragrance Hotel St. Peter		41.8967299	12.4515328	hotel				
+node	4226902339	Colony		41.9491109	12.4725308	hotel	3			
+node	4227893571	Hotel Sant'Anna		41.9039499	12.4592440	hotel				https://www.santannahotel.net/
+node	4227893572	Hotel della Conciliazione		41.9038322	12.4607383	hotel				https://www.hotelconciliazione.it/
+node	4229991405	Hotel Principe di Piemonte		41.8923751	12.5137690	hotel	3			
+node	4231058890	Hotel Chicago		41.8984576	12.5000053	hotel	2			http://www.hotelchicagoroma.it
+node	4231853708	Gladiator rooms		41.8925356	12.5123342	hostel				
+node	4232964593	Barberini Retreat		41.9030763	12.4885960	hotel				
+node	4233959889	Dei Borgia Hotel		41.8988123	12.4917990	hotel	4			https://www.hoteldeiborgia.it/
+node	4238747989	Hotel Montecarlo		41.9068670	12.5017530	hotel				
+node	4249210789	Hotel Condotti		41.9061580	12.4806662	hotel				
+node	4256572190	Hotel Filippo Roma		41.8969170	12.5052694	hotel				http://hotelfilipporoma.it
+node	4256881192			41.8956936	12.4382241	hotel				
+node	4258399124	Albergo Athena		41.9079536	12.5192571	hotel				https://www.hotelathena.it/
+node	4269740977	Hotel Quirinale		41.9016357	12.4948372	hotel	4			https://www.hotelquirinale.it/
+node	4269906452	Dem GuestHouse		41.8977323	12.5018908	hotel				
+node	4270415496	Cd		41.9435687	12.4222975	hostel				
+node	4283193010	Hotel Serena		41.8991909	12.4999063	hotel	3			https://www.hotelserenaroma.it/
+node	4284961789	hotel caprice		41.9067882	12.4895714	hotel				
+node	4290115126	Hotel Duca d'Alba		41.8947885	12.4918097	hotel				https://www.hotelducadalba.com/
+node	4293324122	The B Place Hotel		41.9105298	12.4656625	hotel				https://www.thebplacehotel.com
+node	4296525490	Roma Tempus		41.8942512	12.5079322	hostel				
+node	4296842150	Hotel Pensione Barrett		41.8953340	12.4762401	hotel	3			https://www.hotelbarrett.it/
+node	4296842154	Argentina Residenza Style Hotel		41.8953636	12.4759818	hotel	3			https://www.argentinastylehotel.com/
+node	4306388718	Grand Hotel Olympic		41.9067386	12.4612020	hotel		Aurum Hotels		
+node	4311799089	Claudia Rooms		41.8930698	12.4754265	hotel				
+node	4314220389	Hostella@Rome		41.9043832	12.5004139	hostel				
+node	4320231720	Oceania		41.9032623	12.4931881	hotel				https://www.hoteloceania.it/
+node	4327552490	Vatican Grand Suite		41.9086534	12.4645235	hotel	3			http://www.vaticangrandsuite.com/
+node	4331355297	Residenza Laterano		41.8878556	12.5084972	hostel				
+node	4335801091	Home Friends Li		41.8896819	12.5068365	hotel		@HOME		
+node	4338637299	Albergo Portoghesi	Hotel Portoghesi	41.9017899	12.4743619	hotel				
+node	4339471569	Hotel Giulio Cesare		41.9081698	12.4561023	hotel				
+node	4348343490	Sunshine Hostel		41.8929272	12.5134437	hostel				
+node	4354923690	XX de Setembre		41.9058204	12.4997933	hotel				
+node	4355034889	Archimede		41.9026403	12.5044299	hotel			Gestione Alberghiere Raeli Srl	https://www.archimedehotelroma.it/
+node	4356811095	Orazia		41.8941059	12.5031280	hotel	3			https://www.hotelorazia.it/
+node	4359454690	La Maisson Royale		41.9052879	12.4604413	hotel				
+node	4359555093	Legends Hostel		41.9045265	12.5006227	hostel				
+node	4364807413	DOM		41.8973853	12.4671981	hotel				https://domhotelroma.com/
+node	4377755233	Hotel Galatea		41.8993377	12.4922646	hotel	3			https://www.hotelgalatearoma.com/
+node	4397135190			41.8818503	12.5094644	hostel				
+node	4403917796	Hotel Everest		41.8995044	12.4981353	hostel				
+node	4407557389	Hotel Due Torri		41.9022841	12.4741704	hotel				
+node	4416094791	Roma suites		41.9143254	12.4517861	hotel				
+node	4426902990	St. Regis Hotel		41.9064383	12.4930151	hotel		St. Regis		
+node	4428881792	Hermitage		41.9297765	12.4887463	hotel				
+node	4432850520	Youth station hostel		41.9145382	12.5218148	hostel				
+node	4438433193			41.8969417	12.5027552	hostel				
+node	4440152791			41.9061314	12.4925265	hotel				
+node	4441658292	Antica Dimora delle Cinque Lune		41.9005100	12.4724242	hotel				
+node	4441658294	Antica Dimora dell'Orso		41.9019817	12.4741426	hotel				
+node	4441687795	Miaduites		41.9031233	12.4856890	hotel				
+node	4447244289	Down Town Hotel		41.9092448	12.4943026	hotel				
+node	4448071790		resident garden	41.8331300	12.4766120	hostel				
+node	4454057394	Blue Hostel		41.8965869	12.5002704	hostel				https://www.bluehostel.it/
+node	4455036149	Dharma Botique		41.8958406	12.4934681	hotel	3			http://dharmagroup.it/hotel/dharma-boutique
+node	4459417296	Hotel Golden		41.9092736	12.4899524	hotel				https://www.hotelgoldenrome.com/
+node	4498908563	NH Collection Hotels Roma Giustiniano		41.9069836	12.4657237	hotel	4	NH Collection Hotels	NH Hotels	https://www.nh-hotels.it/hotel/nh-collection-roma-giustiniano
+node	4498908564	Hotel NH Roma Centro		41.9097015	12.4687859	hotel	4		NH Hotels	https://www.nh-hotels.it/hotel/nh-roma-leonardo-da-vinci?_ga=1.101877121.1661009407.1479059729
+node	4498943689	Hotel Metropolis - Hotel di Charme		41.9130029	12.4644748	hotel	4			https://www.hotelmetropolisrome.com/
+node	4499197710	Hotel Milo		41.8989811	12.5003111	hotel	3			https://www.hotelmilo.com/
+node	4499197711	Hotel Teti		41.8990120	12.5002608	hotel	2			https://www.hotelteti.it/
+node	4500275598	Amico Hotel		41.8913699	12.5268659	hotel	2			http://www.hotelfriend.it/
+node	4523011482	Casa Santa Sofia		41.8950708	12.4909325	hotel				http://www.casasantasofia.it
+node	4523171062	Raeli Hotel Regio		41.9045172	12.4997967	hotel		Raeli Hotels		https://www.regiohotelroma.it/
+node	4524685289	Hotel Delle Muse		41.9302906	12.4926340	hotel				https://www.hoteldellemuse.com/
+node	4532529089	Hotel the brand		41.8749453	12.3941375	hotel				
+node	4538921595	Beehive		41.9031018	12.5043938	hotel				
+node	4568212689	Orsa Maggiore		41.8942986	12.4660031	hostel				
+node	4582798388	Milton		41.8905439	12.5064071	hotel	4	Best Western	Best Western	
+node	4587179661	Hotel Taormina		41.8937426	12.5076717	hotel	2			https://www.hoteltaormina.net/
+node	4604950604	Hotel 2000 Roma		41.9219146	12.4947357	hotel				
+node	4612546316	Hotel Ambasciatori Palace		41.9062786	12.4895349	hotel	5			http://www.royalgroup.it/ambasciatoripalace
+node	4616819789	Hotel Robinson		41.9017326	12.5041345	hotel	2			https://www.hotelrobinsonrome.com/
+node	4623208190	Boncompagni Suite		41.9091872	12.4958684	hotel				http://boncompagnisuite.com
+node	4626599568			41.8993357	12.4956386	hotel				
+node	4640913289	Ostello di Roma Casa Pessina	Casa Pessina Hostel	41.8995366	12.4987187	hostel				http://www.casapessina.it
+node	4641661689	Hotel Giulio Cesare		41.9114829	12.4693433	hotel	4			
+node	4642136849	Ostello des Artistes		41.9051461	12.5052026	hotel				https://www.hoteldesartistes.com/
+node	4659488035	Hotel Galli		41.9022032	12.5045013	hotel	2			http://www.albergogalli.com/
+node	4659488036	Hotel Fenicia		41.9021742	12.5044570	hotel	2			https://www.hotelfenicia.it/
+node	4664316305	Hotel D'Este		41.8965976	12.5009665	hotel	3			https://www.hoteldesterome.com/
+node	4664316306	Hotel Montreal		41.8966905	12.5008656	hotel	3			http://www.hotelmontrealrome.com
+node	4681723455	Kolbe		41.8900286	12.4838841	hotel				https://www.kolbehotelrome.com/
+node	4688859236	Pratesi Hotel Division		41.8147925	12.5927807	hotel				
+node	4699822890	Donatello	Donatello Hotel	41.8922363	12.5133019	hotel				
+node	4711609480	The Corner Townhouse		41.8805361	12.4847839	hotel				
+node	4711620950	Hotel Tritone		41.9017975	12.4819819	hotel				
+node	4711787560	Casa Madre Teresa		41.8747502	12.4396129	hotel				
+node	4711814829	Cardinal Hotel St. Peter		41.8914830	12.4362030	hotel				
+node	4711814830	Casa per Ferie Villa Aurelia		41.8924146	12.4359274	hotel				https://www.villaaureliaroma.com/
+node	4711814847	Occidental Aurelia		41.8916410	12.4262742	hotel		Occidental		
+node	4711814848	The Church Village Hotel		41.8906324	12.4254991	hotel				
+node	4719869091	Gigi holidays		41.8950484	12.5093349	hostel				
+node	4730517728	Roma Resort Colosseum		41.8903608	12.5072976	hotel			Roma Resort S.r.l.	
+node	4768146858	Villa Eur Parco dei Pini		41.8226804	12.4755244	hotel	3			https://www.villaeur.com
+node	4770822723	B&B Carlo Felice		41.8894216	12.5146029	hostel				http://fb.com/bbcarlofeliceroma
+node	4772200267	UNAWAY Hotel Empire Roma		41.9067447	12.4956521	hotel	4			https://www.plh.it/eng/empire_palace_hotel/
+node	4782671222	Residenza Madre Pie		41.8993461	12.4556163	hostel				
+node	4810448799	Hotel Trastevere		41.8878634	12.4698057	hotel				http://www.hoteltrastevere.net
+node	4817311428		Cheap and Chic	41.8959493	12.5021607	hotel				
+node	4847981957	Hotel Fiori		41.8969666	12.4872695	hotel	2			
+node	4861134422	Hotel Giada		41.8999850	12.4981880	hotel	3			
+node	4864310964	La Suite del Barone		41.8991027	12.4698692	hotel				
+node	4865978422	Hotel Altavilla		41.8999746	12.4982250	hotel				https://hotelaltavillaroma.it/
+node	4865978486	Sweet Home Hotel		41.8990900	12.4996755	hotel	2			https://www.hotelsweethome.it/
+node	4865978487	Hotel California		41.8991594	12.4995898	hotel	3			https://www.hotelcaliforniaroma.it/
+node	4878727025	Twin Cities Hostel		41.8530390	12.4805326	hostel				
+node	4879925728	Residencia Crescenzio		41.9058928	12.4595803	hotel				
+node	4884459076	Notel Isa		41.9069141	12.4689217	hotel	4			https://www.hotelisa.net/it/
+node	4895209528	Central Station Inn		41.8035270	12.5990864	hostel				https://www.centralstationinn.com/
+node	4908436480	Visconti Palace Hotel		41.9075253	12.4709372	hotel				http://www.lemeridienviscontirome.com/
+node	4944683321	Hotel Le Clarisse al Pantheon		41.8968358	12.4770198	hotel				
+node	4959103221	Hotel Traiano		41.8963449	12.4860534	hotel	4			https://www.hoteltraiano.it/
+node	4988801723			41.9068363	12.4795673	hostel				
+node	5010577627	DOMUS DOMAS	DOMUS DOMAS	41.8958207	12.5020899	hotel				
+node	5031886323	Hotel Degli Artisti		41.9053797	12.4869899	hotel				https://www.hoteldegliartisti.com/
+node	5039278021	Industrial		41.9278820	12.5763875	hotel				
+node	5048347768	Baglioni Hotel Regina		41.9070891	12.4898106	hotel	5			https://www.baglionihotels.com
+node	5048347769	Nobu Hotel		41.9083091	12.4894783	hotel	5	Nobu		
+node	5056087721	Sweetdreams Inn	sweetdreams inn	41.9075790	12.4603690	hotel				
+node	5057319729	San Pietro b&b		41.9100183	12.4577271	hotel			Fabrizio Pinzaglia	https://www.sanpietrobeb.com
+node	5084380321	Approdo Ripetta		41.9036635	12.4751988	hotel				
+node	5095133993	Genio		41.9007436	12.4722684	hotel				https://www.hotelgenioroma.it/
+node	5130268121	B&B next		41.8914448	12.5095156	hostel				
+node	5144571493	Balilla		41.8933099	12.5113766	hotel	3			https://www.hotelbalillaroma.com/
+node	5148132568	Hotel Diana		41.9007016	12.4973725	hotel	4			https://www.hoteldianaroma.com/
+node	5154519821	The Yellow		41.9047655	12.5043124	hotel				https://www.the-yellow.com/
+node	5155158818	Hotel Cervia		41.9045304	12.5046321	hotel	1			http://www.hotelcerviaroma.com/
+node	5168449022	Hotel Gambrinus		41.9096098	12.4984985	hotel				
+node	5168720723	Airport One Hotel		41.8030360	12.2258228	hotel				
+node	5169965893	Hotel Orbis		41.8992834	12.4998784	hotel	2			http://hotelorbis.com
+node	5169965894	Hotel Dina		41.8992349	12.4998802	hotel	3			
+node	5169965895	Hotel Demetra Capitolina		41.8992582	12.4998122	hotel	2			https://www.hoteldemetracapitolina.it/
+node	5180845121			41.9101160	12.5111079	hotel				
+node	5182204322	Hotel Corot		41.9023142	12.5036042	hotel	3			https://www.hotelcorot.com/
+node	5222950080	Hotel Ferrarese		41.8991275	12.5002928	hotel	2			https://www.hotelferrarese.it/
+node	5237833569	Elizabeth Apartments		41.8995765	12.4982046	hotel				
+node	5248413724	Hotel Major		41.8974768	12.4972749	hotel	4			https://www.themajorhotel.com
+node	5248413725	Princeps Boutique Hotel		41.8978293	12.4969956	hotel	3			https://www.princepshotel.com/
+node	5287371722	Colonna Suite del Corso		41.9004323	12.4792641	hotel				
+node	5288226323	CHIC&TOWN Luxury Rooms		41.9035365	12.4846467	hotel				
+node	5319204221	Hotel Cortina		41.9009498	12.4938132	hotel				
+node	5320528521	A.Roma Lifestyle Hotel		41.8747801	12.4328626	hotel	4	LDC Hotels		https://www.hotel-aroma.com/en/
+node	5322046143	Ostello Marello		41.8957408	12.4936972	hostel				
+node	5323668480	Infinito		41.8914203	12.5108602	hotel	3			https://www.hotelinfinitoroma.com/
+node	5352997818	New Design St.Peter		41.9099080	12.4559484	hotel				https://www.newdesignstpeter.com/
+node	5357363522	Suite Dreams		41.9023970	12.4946154	hotel				
+node	5364001122	Hotel Solis Invictus		41.8937050	12.4890628	hotel	3			https://hotelsolis.it/
+node	5372981548	Radio Hotel		41.8709357	12.4682094	hotel	2			
+node	5422113353	Hotel ibis Roma Fiera		41.8221528	12.3940285	hotel		Ibis		
+node	5433122754	Hotel Argentina		41.8995530	12.4981815	hotel				
+node	5434161800	Hotel Valeri		41.8830983	12.4989766	hotel				
+node	5435192249	Hotel Champagne Garden		41.9044006	12.5036150	hotel	4			https://www.hotelchampagne.it/
+node	5435192256	N & J place		41.9035650	12.5014510	hostel				
+node	5435192260	Hotel Augustea		41.9018649	12.4947513	hotel	3			
+node	5435192261	Hotel Repubblica		41.9018542	12.4947383	hotel	3			
+node	5438662783	Virgilio		41.8989876	12.4920724	hotel	3			https://www.hotelvirgilio.it/
+node	5531118921		Liberty Rome Suit	41.9090979	12.4633060	hotel				
+node	5557340559	Hotel París		41.9019005	12.4943855	hotel	3			
+node	5579169621	Embassy	Embassy Hotel	41.9055569	12.4955930	hotel				
+node	5612234838	YellowSquare Rome		41.9046389	12.5044541	hostel				https://yellowsquare.it/
+node	5612234844	Hotel Continentale		41.9047575	12.5042587	hotel	2			https://hotel-continentale.com
+node	5612234845	Hotel Positano		41.9047195	12.5043673	hotel	2			https://hotelpositano.it
+node	5615949447	Profumo Maison d'Hotes		41.8890610	12.4974760	hotel				https://www.profumomaisonroma.com/
+node	5645969908	Hotel Centro		41.9009075	12.4948588	hotel	3			
+node	5648231709	Casa per ferie al Casaletto		41.8579111	12.4386419	hotel				
+node	5655714748	Casa per ferie		41.8579444	12.4373933	hotel				
+node	5661434121	Quality in Rome		41.8984230	12.4910162	hotel				
+node	5668366021	Margherita 88 B&B		41.8964527	12.5051755	hotel				https://www.tangsinn.com/
+node	5744932021	Hotel Fleming		41.9438425	12.4744985	hotel				
+node	5846331571	Hotel Ripa Roma		41.8825007	12.4705452	hotel				https://www.hotelriparoma.com/
+node	5892749276	Trevi Palace Luxury Inn		41.9011451	12.4846299	hotel				
+node	5967478886	Hotel Impero		41.9007463	12.4962986	hotel				
+node	5983782496	Campo de Fiori Suites		41.8947328	12.4745072	hotel				
+node	6004560655	Hotel Fiume		41.9114760	12.4999351	hotel	4		c-hotels	https://www.hotelfiume-roma.com/
+node	6004560656	Hotel Fiume		41.9121251	12.4999495	hotel	4		c-hotels	https://www.hotelfiume-roma.com/
+node	6008366285		Melting Pot Hostel	41.8930069	12.5087524	hostel				
+node	6025258485		b&bcosmos	41.8916824	12.5060230	hotel				
+node	6028499494			41.9039901	12.4460667	hotel				
+node	6044688795		Airbnb	41.8986453	12.5162620	hotel				
+node	6106494083	La Locanda di Piazza del Popolo		41.9116618	12.4738449	hotel				
+node	6139367786	Hotel Camplus		41.9166924	12.5564051	hotel				
+node	6167913471	Hotel Barberini		41.9026448	12.4890734	hotel	4			
+node	6167913472	Trevi Fountain Guesthouse		41.9026308	12.4893578	hotel				
+node	6167913473	Hotel pace Helvetia		41.9024092	12.4895992	hotel				
+node	6167913482	Suite Artis Barberini		41.9036410	12.4879908	hotel				
+node	6167913788	Daphe Rome Boutique B&B		41.9031580	12.4877541	hotel				
+node	6167913789	Hotel Azzura		41.9027774	12.4872357	hotel				
+node	6167913790	Mood Suites Tritone		41.9026319	12.4881996	hotel				
+node	6167913792	Hotel Domus Romana		41.9008405	12.4923768	hotel				
+node	6173351210	The RomeHello		41.9033643	12.4942536	hostel				https://theromehello.com/
+node	6173924157	Trevi Beau Boutique Hotel		41.9011580	12.4842247	hotel	3			https://www.bbtreviroma.com
+node	6174620185	Casa Patriza	Patriza’s Home	41.8790836	12.5138411	hotel				
+node	6203072533	Maison Burlesque		41.8013994	12.4414837	hotel				
+node	6227939485	Hotel Leone		41.8995263	12.4981566	hotel				
+node	6232768621	Floris Hotel		41.9018574	12.4946850	hotel	3	Floris Hotel	Vodafone	https://www.florishotel.it/
+node	6241263519	HSP Hotel		41.8565847	12.4744290	hotel				https://www.hotelsanpaoloroma.com/
+node	6315591634	Hotel Parco Tirreno		41.8988867	12.4206995	hotel				
+node	6324241385		Monti First	41.8982257	12.4890619	hotel				
+node	6341768882	Hotel Villa Glori		41.9247508	12.4698452	hotel	4			https://hotelvillaglori.it
+node	6367429567	Sheraton Parco de' Medici		41.8149259	12.3999971	hotel	4			https://www.marriott.com/hotels/travel/romps-sheraton-parco-de-medici-rome-hotel/
+node	6386265485	Hotel Fenix		41.9185819	12.5143300	hotel				
+node	6401719414	B&B Buone Vacanze		41.8966260	12.4989569	hotel				
+node	6402045185	Casa per ferie II Il	Holiday home The Rosary	41.8951379	12.4893213	hotel				http://www.casailrosarioroma.it/index.php/it/
+node	6412596728	Villa Letizia - Casa per ferie		41.8913741	12.4097870	hotel				
+node	6440284090	Ponte Bianco Hotel		41.8751345	12.4561800	hotel	3			https://www.pontebianco.com/
+node	6450119385		Raganelli	41.8922928	12.4131077	hotel				
+node	6512924951	Le Petit Real		41.8992776	12.4984160	hotel				
+node	6539678329	Residenza San Calisto		41.8891926	12.4716945	hotel				
+node	6540366085	Air B&B		41.8952275	12.4922766	hotel				
+node	6546744798			41.9044218	12.4447010	hotel				
+node	6554094486			41.9126931	12.2869279	hotel				
+node	6591104452	Fraterna Domus		41.9025479	12.4736448	hotel				
+node	6635672739	Hotel Ferrari		41.8992714	12.5006830	hotel	2			http://hotelferrarirome.com/
+node	6749395792	B&B L'Incanto di Roma		41.9084272	12.4975606	hotel				http://www.incantodiroma.com/
+node	6782498332	1880 Atypical Rooms		41.8993094	12.4914725	hotel				
+node	6782498333	Hotel Boutique Nazionale		41.8993469	12.4914256	hotel				
+node	6782498334	Hotel Esposizione 2		41.8993274	12.4914477	hotel				
+node	6782498335	Esposizione Palace Hotel		41.8993623	12.4914048	hotel				
+node	6782516460	Hotel Artemide		41.9008284	12.4936066	hotel	4			https://www.hotelartemide.it/
+node	6782516466	Hotel Martini		41.9009395	12.4938308	hotel				
+node	6792719853	Leoni di Giada		41.8964149	12.5006875	hotel				
+node	6832784085	Spedale della Provvidenza di San Giacomo e San Benedetto Labre		41.8879495	12.4760414	hostel				
+node	6836659186	KS Vatican Garden Rona		41.9066074	12.4565522	hotel				
+node	6858998771	Hotel La Pergola		41.9458706	12.5230584	hotel				
+node	6859007614	Hotel York		41.9477379	12.5152934	hotel				
+node	6865359484	Hotel Katty		41.9057618	12.5030369	hotel			Pierdiluca Maria & C. s.a.s	https://www.hotelkatty.it/
+node	6872101085	hotel		41.8967470	12.4553467	hotel				
+node	6909528285	Fauno urban resort		41.8835788	12.4864386	hotel				
+node	6920249087	Rome River Inn		41.8976657	12.4657188	hotel				
+node	6938543914	Relais Giulia		41.8988229	12.4658349	hotel				https://relaisgiuliahotel.it/
+node	6943624459	Hostel Trastevere		41.8785768	12.4663623	hostel				https://www.hosteltrustever.com/en/
+node	6944971613	Hilton Garden Inn Rome Airport		41.8000877	12.2733093	hotel	4	Hilton Garden Inn	Hilton Hotels	https://www.hilton.com/en/hotels/fcoapgi-hilton-garden-inn-rome-airport/?SEO_id=OTHR-EMEA-GI-FCOAPGI
+node	6960039669	Now Apartments		41.9003973	12.4698739	hotel				
+node	7003938266	Navona Colors Hotel		41.9018548	12.4737073	hotel	3			https://hotelnavonacolors.it/
+node	7047468885	B&B Vacanze a Roma		41.8703712	12.4680546	hotel				
+node	7057113763	Navona Theatre Hotel		41.8983853	12.4717385	hotel				
+node	7084773785			41.8972311	12.4691354	hotel				
+node	7089278183	Holiday Tiburtina		41.9086222	12.5348691	hotel				
+node	7124948864	DVE Suite Rome		41.8940088	12.5035270	hotel				https://www.dvesuiterome.com/
+node	7128180591	River Chateau Hotel		41.9395696	12.4695458	hotel	4			https://www.riverchateau.net/
+node	7141806885	Hotel Morgana	Morgana Hotel	41.8988599	12.5019651	hotel	4			https://www.hotelmorgana.com/
+node	7142163804	Hotel San Giovanni		41.8796764	12.5029792	hotel	4			https://www.hotelsangiovanniroma.it
+node	7179021428	B&B Hotel Roma San Lorenzo Termini		41.8989522	12.5188459	hotel		B&B Hotels		https://www.hotel-bb.com/it/hotel/roma-san-lorenzo-termini
+node	7197769630	Casa per ferie Villa Benedetta		41.8689203	12.4847718	hostel				
+node	7206118144	Grand Hotel Palace		41.9066873	12.4899318	hotel				https://www.grandhotelpalacerome.com/
+node	7233168385	Residence Dehon		41.8908908	12.4358961	hotel				
+node	7296622488			41.9031676	12.4872133	hotel				
+node	7397518434	Instituto S. Dorotea al Gianicolo delle Suore di S. Paola Frassinetti		41.8981026	12.4613080	hotel				
+node	7874580773	Palazzo Navona Hotel		41.8977707	12.4744418	hotel	4	Mood Hotel		
+node	8012156462	Arenula Suites Roma		41.8925763	12.4751545	hotel				https://arenula-suites.business.site/
+node	8771369296	Lungotevere Suite		41.8737243	12.4698583	hotel	3			https://www.lungoteveresuite.com/
+node	8790498544	H10 Roma Città		41.8671054	12.4714610	hotel	4	H10 Hotels		https://www.h10hotels.com/en/rome-hotels/h10-roma-citta
+node	8829758772	Hotel Colombo 112		41.8656880	12.4957905	hotel				https://hotelcolombo112.it/
+node	8899039132	The first dolce		41.9071572	12.4779680	hotel	5	The Pavilions		https://www.pavilionshotels.com/rome/thefirstdolce
+node	8899040920	The First Roma Arte		41.9087016	12.4755672	hotel				https://www.pavilionshotels.com/rome/thefirstarte
+node	8917433750	Hotel Lella		41.9076379	12.5007169	hotel				
+node	8992731536	Conti Suite		41.8838436	12.5431994	hotel				
+node	9005205685	Hotel Agorà		41.9014971	12.5039370	hotel	3			https://hotelagoraroma.com
+node	9016307380	Relais Trevi 95 Boutique Hotel		41.9014777	12.4849064	hotel				https://www.relaistrevi95.com/
+node	9043647076	B&B Hotel Roma Pietralata Tiburtina		41.9146414	12.5543259	hotel		B&B Hotels		https://www.hotel-bb.com/hotel/roma-pietralata
+node	9173753979	Hotel Geo		41.8901323	12.5280170	hotel	3			https://hotelgeo.it/
+node	9175934417	Sophie terrace		41.9005915	12.4976113	hotel	3			https://www.sophieterracehotel.com/
+node	9178235552	Hotel Felice		41.8973092	12.5125302	hotel				
+node	9192514038	ANTICO ACQUEDOTTO		41.8852671	12.5307641	hotel				https://www.hotelanticoacquedotto.it/
+node	9197582139	Mama Roma		41.9090052	12.4459708	hotel		mamashelter		https://mamashelter.com/roma/
+node	9197861250	Soho Hotel		41.9004660	12.5146549	hotel	4			
+node	9238707435	Adrianus Hotel		41.8991711	12.4713015	hotel				
+node	9254082651	Navona Palace Luxury Inn		41.8993143	12.4707850	hotel	4			https://www.navonapalace.com/
+node	9258429001	Infinity Hotel Roma		41.9033523	12.4798491	hotel				https://www.infinityhotel.it/
+node	9261487445	Chroma Pente		41.8843213	12.5114751	hotel				https://www.chromaitaly.com/hotel/chromapente
+node	9306335727	Giardino d'Europa		41.8280270	12.5830431	hotel	3			https://www.hotelgiardinoeuropa.it/default.html
+node	9326638578	Dharma Luxury Hotel		41.9016766	12.4955382	hotel				https://www.dharmagroup.it/hotel/dharma-luxury/en/
+node	9329296866	Hotel Patria		41.9027274	12.4946785	hotel	3			https://www.hotelpatria.it/
+node	9377471717	Hotel Farini		41.8985667	12.4994590	hotel				
+node	9493112520	Aldrovandi Residence City Suites		41.9181686	12.4843157	hotel				https://www.aldrovandiresidence.it/
+node	9647743461	Hotel Decò		41.8999027	12.4997197	hotel		Una Hotels		https://www.gruppouna.it/unahotels/unahotels-deco-roma
+node	9662296121	Hotel Marsala		41.9027052	12.5020634	hotel				
+node	9662296129	Hotel Siracusa		41.9019590	12.5031906	hotel				https://www.siracusahotelroma.it
+node	9662296135	Hotel Madison		41.9018333	12.5033887	hotel				
+node	9662296147	Aphrodite		41.9013911	12.5041068	hotel	4			https://hotelaphrodite.com/
+node	9662296154	Hotel Marisa		41.9011630	12.5044748	hotel	3			https://www.hotelmarisarome.com/
+node	9666125056	Hotel Assisi		41.9021717	12.5050531	hotel				https://www.hotelassisiroma.it
+node	9666125059	Hotel Mirage		41.9016767	12.5038197	hotel	3			http://www.hotelmirage.org/
+node	9702851717	Fanti Homes		41.8972198	12.5027110	hotel				
+node	9704780663	Tito		41.9025227	12.5038964	hotel	3			https://hoteltitoroma.it/
+node	9710737444	Yes Hotel		41.9033121	12.5025967	hotel	3			https://www.yeshotelrome.com/
+node	9710737447	Hotel Milani		41.9034131	12.5027081	hotel	3			https://www.hotelmilanirome.com/
+node	9710737455	Moderno Hotel Roma		41.9036671	12.5023895	hotel				https://modernohotelroma.com/
+node	9717224409	Hotel dei Mille		41.9036843	12.5031153	hotel	2			http://www.hoteldeimillerome.com/
+node	9734036288	Hotel Varese		41.9030131	12.5053244	hotel	3			https://www.hotelvareseroma.com/
+node	9734815906	Hotel Corona		41.8995593	12.4958639	hotel	3			http://www.hotelcoronaroma.com/
+node	9755455474	San Marco		41.9049473	12.5052277	hotel	3			https://www.hotelsanmarcoroma.com/
+node	9756503504	St. Martin		41.9060946	12.5050403	hotel	4			https://www.stmartinroma.com/
+node	9766084253	Smooth Hotel Rome Repubblica		41.9041010	12.4997188	hotel				https://www.therepublichotel.it/
+node	9766084259	Hotel Diocleziano		41.9040039	12.4995522	hotel				
+node	9766084278	Hotel Charter		41.8990414	12.5011861	hotel	2			https://www.hotelcharter.com/
+node	9768740319	Hotel Ariston		41.8989694	12.5013106	hotel	4			https://www.hotelariston.it/
+node	9768740341	The Kennedy Hotel		41.8984665	12.5021405	hotel	3			https://www.hotelkennedy.net/
+node	9773683551	Hotel Ercoli		41.9087515	12.4973816	hotel				
+node	9779113395	Hotel dei Consoli		41.9064332	12.4601023	hotel	4			https://www.hoteldeiconsoli.com/
+node	9783292218	Aurelia Garden Rooms		41.8996426	12.4453122	hotel				https://www.aureliagardenrooms.it/
+node	9784529347	Alexis		41.9046210	12.5004540	hotel	2			
+node	9809526458	Hotel Max		41.8989711	12.5009212	hotel	3			
+node	9878778054	Hostal beauty		41.8967258	12.5018601	hostel				
+node	9889523098	Hotel cambridge		41.9033918	12.5060841	hotel				
+node	9908094362	Hotel Lux		41.9058214	12.5024698	hotel				https://www.luxhotelroma.it/
+node	9912732203	Foresteria militare di Roma		41.9055042	12.5067188	hostel				
+node	9961065859	Hotel Exe Domus Aurea		41.9043759	12.5000161	hotel				
+node	9999264605	Hotel Camelia		41.9058276	12.5008204	hotel	3			https://www.hotelcameliaroma.com/
+node	10000899388	Hotel Alpi		41.9051225	12.5027316	hotel	4			https://www.hotelalpi.com/
+node	10089404477	Hotel Alpi		41.9051460	12.5026965	hotel				
+node	10115885154	Il Cantico		41.8970355	12.4486198	hotel	3			http://www.ilcantico.it
+node	10140473517	Mozart		41.9073718	12.4780990	hotel				
+node	10144875751	Hotel Principe Torlonia		41.9195720	12.5180902	hotel	4			https://www.hotelprincipetorlonia.com/
+node	10181483317	Hotel Galileo		41.9058157	12.5030151	hotel				https://www.hotelgalileoroma.it/
+node	10210409917			41.9069448	12.4859876	hotel				
+node	10436341161	Camplus San Pietro		41.8981379	12.4480505	hotel		Camplus		https://www.camplus.it/en/city/rome/camplus-san-pietro/
+node	10436444376	Hotel d'Inghilterra Roma		41.9047062	12.4806378	hotel	5			https://collezione.starhotels.com/en/our-hotels/hotel-d-inghilterra-rome/
+node	10608690280	Leonardo Boutique Hotel Rome Termini		41.9033161	12.5050548	hotel	4		Leonardo Boutique Hotels	https://www.leonardo-hotels.de/rome/leonardo-boutique-hotel-rome-termini
+node	10659809905	Hotel Gioberti		41.8994034	12.5013204	hotel				
+node	10680015705	Texas-Seven Hotel	Texas-Seven Hotel	41.9028685	12.4936697	hotel				
+node	10681701305		Residenza RomaCentro	41.9065044	12.4929740	hotel				
+node	10695800305			41.8973065	12.4819930	hotel				
+node	10695800306			41.8973436	12.4819642	hotel				
+node	10704234605	Central Lodge Hotel		41.8933634	12.5023879	hotel				https://hotelcentrallodge.com/
+node	10712669435	Hotel Lancelot		41.8882610	12.4971359	hotel	3			https://www.lancelothotel.com
+node	10721970122	Eurostars Roma Æterna		41.8888675	12.5232338	hotel	4	Eurostars Hotel Company		https://www.eurostarshotels.it/eurostars-roma-aeterna.html
+node	10748877185	The Hive Hotel		41.8995182	12.4967503	hotel	4			https://www.thehiverome.com/
+node	10768314939	Starhotel Metropole		41.9005085	12.4973719	hotel	4			https://www.starhotels.com/en/our-hotels/metropole-rome/
+node	10776231813	Casa per ferie Giovanni Paolo II		41.9338083	12.4446139	hotel				
+node	10781836427	"Cosmopolita Rome Colosseum, Tapestry Collection by Hilton"		41.8967864	12.4841178	hotel		Tapestry Collection by Hilton	Hilton	https://www.hilton.com/en/hotels/ciataup-cosmopolita-rome-colosseum/
+node	10786950322	Igea		41.8979699	12.5015411	hotel	3			https://www.hoteligearome.com/
+node	10786950325	Maryelen		41.8980779	12.5013099	hotel	3			https://www.hotelmaryelen.com/
+node	10799989905	Hotel Principe Amedeo		41.9009455	12.4971549	hotel				
+node	10799989906	Hotel Virginia		41.9061439	12.5010920	hotel				
+node	10824078479	Hotel Indigo		41.8982290	12.4662432	hotel		Hotel Indigo		
+node	10873436948	Roma Luxus Hotel		41.8958579	12.4872050	hotel	5			https://www.romaluxushotel.com
+node	10913862462	Casa per ferie Seraphicum		41.8296260	12.4829186	hotel				
+node	10920910144	Hotel Center 1		41.8930179	12.5124691	hotel	3			
+node	10926033314	Rome Life Hotel		41.8986215	12.4914839	hotel				https://www.romelifehotel.com/
+node	10933957200	Hotel Verona		41.8973709	12.4966427	hotel	3			https://www.hotelveronarome.com/
+node	10946649861	Bulgari		41.9067205	12.4764749	hotel		Bulgari		https://www.bulgarihotels.com/en_US/rome/
+node	10956804085	Hotel Pisa		41.8934627	12.5115083	hotel	1			https://hotelpisa.ithotel.site/
+node	10958938462	Hotel Elide		41.9023712	12.4940353	hotel				http://www.hotelelide.com/
+node	10962979506	Casa Di Nazareth		41.9054041	12.4214640	hotel				
+node	10982881281	Palazzo delle Pietre		41.9004792	12.4753178	hotel				https://www.palazzodellepietre.com
+node	10991662020	Mercure Rome Cinecittà		41.8489896	12.5772783	hotel		Mercure		https://all.accor.com/hotel/C0F7/index.it.shtml
+node	11030273962	Hotel Residence Prato Lungo		41.9454662	12.6067103	hotel				
+node	11047679506	français		41.9110322	12.4564926	hotel				
+node	11072194442	Residenza San Paolo VI		41.9009643	12.4568221	hotel				https://www.residenzapaolovi.com/en/
+node	11072283179	Domus Romana Sacerdotalis		41.9030988	12.4632582	hotel				http://www.domusromana.org/
+node	11134709375	Hotel Casa Valdese		41.9105140	12.4681083	hotel				
+node	11148811069	Hotel Pyramid		41.8720210	12.4795102	hotel				https://www.hotelpyramid.it
+node	11184215938	Eritrea Suite		41.9255050	12.5161094	hotel				
+node	11184257437			41.9254115	12.5161127	hotel				
+node	11184257637	Eritrea Suite		41.9255128	12.5161104	hotel				
+node	11195714841	Il cuore di trastevere By Design		41.8898847	12.4692442	hotel				
+node	11241855682	Intorno al fico		41.8032975	12.2170230	hotel				
+node	11248552275	Hotel Sourire		41.8825936	12.4839275	hotel	3			
+node	11300371545	Gasometer Urban Suites		41.8722454	12.4767731	hotel				https://www.gasometerurbansuites.com/
+node	11419965247	Hotel Santa Prassede		41.8962261	12.4991008	hotel	2			
+node	11428658844	Casa per ferie Maria Santissima Assunta		41.8862910	12.5289415	hotel			Suore Domenicane	
+node	11462273429	Albergo Ibiza		41.9093665	12.5143404	hotel				
+node	11497777265	Palladini		41.8975676	12.5016424	hostel				
+node	11508556069			41.9093291	12.4538380	hotel				
+node	11609768369		"Palazzo Montemartini Rome, a Radisson Collection Hotel"	41.9037246	12.5002008	hotel				https://www.radissonhotels.com/en-us/hotels/radisson-collection-rome-palazzo-montemartini
+node	11638032640	Hotel Domus Termini		41.8995717	12.5002923	hotel				
+node	11638032641	Hotel Washington		41.8995492	12.5002706	hotel				
+node	11638032642	Hotel Cherubini		41.8995921	12.5002545	hotel				
+node	11638032643	Hotel Termini		41.8995738	12.5002372	hotel				
+node	11657482769	Room Select Via Veneto		41.9087642	12.4935203	hotel		Room Select		https://roomselecthotels.com/roma/
+node	11688085269			41.9007018	12.4832089	hotel				
+node	11697072361	Centro Internazionale Giovanni XXIII		41.8873402	12.5261099	hostel				
+node	11704632169		NAHID ACCOMMODATION	41.9047700	12.5043008	hotel				
+node	11729985369		best western hotel	41.9227268	12.4832236	hotel				
+node	11739302669			41.9065729	12.4649581	hotel				
+node	11745573269	Adesso Hotel		41.9101800	12.5292746	hotel				https://www.adessohotel.it/
+node	11796039738	Monte Cenci		41.8922730	12.4756765	hotel	4			
+node	11835503606	Hotel Artromano		41.9043417	12.5060892	hotel				
+node	11835513677	Foresteria Roma Esercito della Salvezza		41.8958850	12.5164922	hotel				
+node	11883832863	The Five Oscars Inn		41.8984044	12.4910347	hotel				
+node	11904379169	Hotel Ascot		41.9049054	12.4994579	hotel				https://www.hotelascotroma.com/
+node	11987182654	"Hotel Albergo delle Regioni, Barberini-Fontan di Trevi"		41.9033703	12.4865932	hotel				https://www.albergodelleregioni.com/
+node	12006737542	Hotel Erdarelli		41.9033793	12.4848334	hotel				
+node	12007650510	Rome Art Hotel		41.9031277	12.4853894	hotel				
+node	12007650525	Hotel City - Palazzo Dei Cardinali		41.9035907	12.4848364	hotel				
+node	12008993837	Trevi Collection Hotel - Gruppo Trevi Hotels		41.9041117	12.4855908	hotel				
+node	12008993839	Hotel Cecil Rome		41.9044522	12.4857138	hotel				
+node	12009401565	Tritone Top House		41.9032002	12.4856422	hotel				
+node	12010304119	Sistina Twentythree lUX		41.9043944	12.4862033	hotel				
+node	12011747452	SuiteSistina for Brave Lovers		41.9049806	12.4851926	hotel				
+node	12013137058	Hotel Sistina		41.9040155	12.4872915	hotel	4	Leonardo		https://www.hotelsistina.it/fr/
+node	12013137060	Hotel King		41.9041510	12.4870533	hotel	3			
+node	12013139942	Casa Heberart Guest House Sistina		41.9037242	12.4878118	hotel				
+node	12014379678	The Code Hotel		41.9053070	12.4849391	hotel				https://www.thecodehotelrome.com/
+node	12014460405	Hotel de la Ville		41.9057070	12.4842099	hotel				
+node	12014821891	Hotel Gregoriana		41.9046351	12.4847134	hotel	3			
+node	12014821893	Resodenza Romantica		41.9052675	12.4840680	hotel	3			
+node	12015406125	Hotel Concordia		41.9038384	12.4850114	hotel	3			
+node	12015609719	Maison Spagna Suite		41.9038178	12.4848490	hotel	3			https://www.maisonspagna.it/
+node	12018219824	Tree Charme Spagna Boutique Hotel		41.9033184	12.4824903	hotel				
+node	12019955995	Hotel Dei Borgognoni		41.9027611	12.4828472	hotel				https://info@hotelborgognoni.it
+node	12020122526	Hotel Madrid		41.9039814	12.4824018	hotel				
+node	12020471664	Le Reve de Naim		41.9046361	12.4817736	hotel				https://www.lerevedenaim.com/
+node	12020489764	Royal Palace Luxury Hotel		41.9060931	12.4806989	hotel				
+node	12021110555			41.9042649	12.4811744	hotel	3			
+node	12021202315	Daniel's Hotel		41.9041679	12.4806213	hotel				
+node	12022242817	Boutique Centrale Palace Hotel		41.9037063	12.4795165	hotel	3			
+node	12022316559	Gravina Suite Frattina		41.9040202	12.4807778	hotel	3			http://gravinasuitefrattina.it/
+node	12022798118	Hotel Madrid		41.9041424	12.4828750	hotel	3			
+node	12025186188	Hotel San Silvestro		41.9028610	12.4803420	hotel	3			https://www.hotelsansilvestroroma.com/
+node	12026816010	fIFTY-Five Hotel		41.9033135	12.4797254	hotel	4			
+node	12026816018	La Maison D'Art		41.9034966	12.4803565	hotel				
+node	12030778828	bed & bike rome		41.9187921	12.4574559	hostel				
+node	12030856201	Hotel Croce Di Malta		41.9047054	12.4813204	hotel				https://www.crocedimaltaflorence.com/
+node	12033079625	Hotel Rossi		41.8981400	12.5039826	hostel	2			
+node	12042227152	Hotel Valadier		41.9093105	12.4774075	hotel				
+node	12043024978	Poēsis Experience Hotel		41.9083909	12.4784212	hotel	4			https://poesishotel.it/
+node	12043395379	Hotel Del Corso		41.9068775	12.4780784	hotel	3			
+node	12046628556	Tridente Suites		41.9095241	12.4769904	hotel	4			
+node	12048973078	Hotel Panda		41.9061317	12.4796109	hotel	2			
+node	12055180910	Rhea Silvia Luxury Navona		41.8990859	12.4736263	hotel				https://www.rheasilvia.it/
+node	12055648510	Palazzo De Cupis		41.8994551	12.4723684	hotel				
+node	12057829586	The Inn At The Spanish Steps		41.9056442	12.4815153	hotel				
+node	12059961762	Rome55		41.9059502	12.4815349	hotel				
+node	12059980510	Suites Garibaldi		41.9058893	12.4812882	hotel	3			https://www.garibaldisuites.com/
+node	12060149369	Hotel San Carlo		41.9055017	12.4795613	hotel				
+node	12062025398	Hotel La Lumiere		41.9049145	12.4795928	hotel	3			https://www.lalumieredipiazzadispagna.com/
+node	12071151700	Torre Argentina Relais		41.8952074	12.4762204	hotel	5			https://www.torreargentinarelais.com/
+node	12106285322	Umiltà 36		41.8993829	12.4824174	hotel				
+node	12121662290	Condominio Monti		41.8966867	12.4901055	hotel	3			
+node	12132369277	Hotel Domidea		41.9091537	12.5895589	hotel				https://www.hoteldomidea.com/
+node	12175270133	Hotel Garda		41.9077549	12.4882296	hotel				
+node	12208469663	Hotel Antica Locanda		41.8962910	12.4908210	hotel				https://www.anticalocandaroma.it/
+node	12228196601	Hotel Piemonte		41.9036963	12.5035868	hotel				https://www.hotelpiemonte.com/
+node	12250485125	Hotel Parrasio		41.8894701	12.4657192	hotel				https://hotelparrasio.com/
+node	12294470601	Bloom Hotel Roma		41.8956254	12.4580501	hotel				https://www.bloomhotelroma.com/
+node	12301507601	Hotel Casa Mia		41.8905155	12.4714458	hotel				
+node	12303161303	Romanico Palace Luxury Hotel & SPA		41.9085536	12.4936160	hotel				
+node	12303167502	Hotel The Building		41.9077600	12.5032665	hotel				
+node	12312144625	A Casa da Cri B&B		41.8854128	12.5385154	hotel				
+node	12430268822	River Palace Hotel		41.9132853	12.4751059	hotel	4		River Palace Gestione srl	https://www.riverpalacehotel.it
+node	12444191501	Hotel Hiberia		41.8972077	12.4868190	hotel				https://www.hotelhiberia.it/
+node	12504263089	Casa di Santa Brigida		41.8953049	12.4706194	hotel				
+node	12561226767	Ostello Bello		41.8908567	12.4999338	hostel		Ostello Bello		
+node	12617782101	Sesto Suites Central	THE Sixth suites central	41.8989320	12.4989463	hotel				http://sestosuites.com
+node	12691622501	Maison Vaticana		41.9075189	12.4579929	hotel				
+node	12707550690	Collegio universitario Conservatorio Santissima Concezione		41.8959273	12.5007165	hostel				
+node	12745185651	Hotel Crossroad		41.8733494	12.4796763	hotel				
+node	12781989828	Hotel Daniela		41.8910098	12.5115480	hotel				
+node	12781989843	Hotel España		41.8917506	12.5103535	hotel	3			https://www.hotelespanaroma.com/
+node	12800920101	Residenza Torre Colonna		41.8964610	12.4852616	hotel				
+node	12851165734	Hotel Seiler		41.9026528	12.4939770	hotel				
+node	12869192712	Villa Zaccardi		41.8727439	12.4496086	hotel				https://villazaccardi.it/
+node	12870784833	U-Visionary Hotel		41.9024931	12.4851961	hotel				
+node	12880677290	Residenza Leone XIII		41.8957650	12.4640013	hotel				
+node	12881172495	La Vite Vaticana		41.9063947	12.4563174	hotel				https://www.lavitevaticana.com/en
+node	12895401112	Palazzo Di Ripetta		41.9084341	12.4759275	hotel	5			
+node	12895401128	Seventy-Seven Hotel		41.8990331	12.4957897	hotel				
+node	12895401129	Hotel Mascagni		41.9036980	12.4947947	hotel	4			
+node	12895401145	Romeo		41.9090235	12.4760182	hotel	5			
+node	12895401160	Hotel Scalinata Di Spagna		41.9056833	12.4834941	hotel				
+node	12895401170	Jo&Joe		41.9008834	12.4924769	hostel				
+node	12925486713	Eccelso Hotel		41.9067104	12.4591047	hotel				https://www.eccelsohotel.com
+node	12925792897	Square Inn		41.9033196	12.5064456	hotel				https://www.squareinn.it/
+node	12949551001	C luxury palace & apartments		41.8911069	12.5134705	hotel				
+node	12986514601	Comics Guesthouse		41.9121314	12.4681679	hostel				
+node	12992258840	Monti Palace		41.8954182	12.4938241	hotel	4			https://www.montipalacehotel.com/
+node	13040707152	Hotel Bramante		41.9032611	12.4603586	hotel				https://www.hotelbramante.com/
+node	13041600266	Casa Santo Spirito		41.9014983	12.4584653	hotel				
+node	13049760289	Palazzo Cardinal Cesi		41.9020592	12.4599066	hotel				https://www.palazzocesi.it/en/
+node	13078499070	Lodi		41.8860865	12.5228725	hotel				https://www.lodihotelrome.com/
+node	13145172305	Casa per Ferie Beata Margherita Caiani		41.9082280	12.4626524	hostel				https://www.casaperferiemargherita.it/
+node	13190869061	Casa per ferie Santa Maria alle Fornaci		41.8974689	12.4549564	hotel				https://www.santamariaallefornaci.it
+node	13195634703	Albergo Ottocento		41.9042191	12.4875421	hotel				http://albergoottocento.it
+node	13253006018	Oasi San Francesco		41.8807635	12.4153261	hotel				
+node	13283197802	Casa per Ferie Eden Cusmano		41.8511782	12.4470460	hotel				https://www.edencusmano.it/
+node	13289820222	Casa Madre Nazarena		41.8750299	12.5123200	hostel			Figlie del Divino Zelo	
+node	13389308166	Casa Cabrini		41.9097745	12.4961582	hotel				https://www.casacabrini.org
+node	13397370201	Oasi Navona		41.9021648	12.4738279	hotel				
+node	13397370901	B&B Romanticasa - Piazza Navona		41.9022518	12.4736788	hotel				
+node	13401558114	Hotel Centro Cavour		41.8943443	12.4915566	hotel	3			http://www.camereromacentro.it/
+node	13414226509	Basilica Hotel		41.8976633	12.4961297	hotel	3			https://www.basilicahotel.it/
+node	13424126590	All'Orologio		41.8994159	12.4675822	hotel				
+node	13442965102	A Touch of Rome Guesthouse		41.9085086	12.4641170	hotel				
+node	13458203701	"The Britannia Hotel, BZAR hotels"		41.9005645	12.4947290	hotel				https://www.hotelbritanniaroma.com/
+node	13460010340	Hotel Domus Liberius		41.8970513	12.4980233	hotel			Rome Best Services Srl	https://www.domusliberiusroma.com/
+node	13460083716	Clarin Hotel Rome		41.8996097	12.4928900	hotel	2			https://clarin.it-romehotels.com/
+node	13460810692	Hotel Sole Roma		41.8957263	12.4731752	hotel	3			https://www.hotelsoleroma.it/
+node	13521075617	Six Senses Rome		41.8987934	12.4816289	hotel		Six Senses		
+node	13586942402	Ehi B&B		41.8958996	12.5022233	hotel				
+node	13602913601	Piccola Navona Roof Garden		41.8965933	12.4729668	hotel				https://piccolanavona.com/
+node	13602936301	Hotel Damaso		41.8967289	12.4723108	hotel				https://www.hoteldamaso.it
+node	13628900001	Numa Rome Linea		41.8995188	12.5004158	hotel				
+node	13641571113	Gioberti Art Hotel		41.8994422	12.5009571	hotel				
+node	13658664628	Garner Hotels		41.8949480	12.4177555	hotel		Garner Hotels		
+node	13665493801	Hotel Modigliani		41.9050018	12.4868690	hotel				https://www.hotelmodigliani.com/en/
+node	13665739702	Hotel Silla		41.9093502	12.4591226	hotel				http://hotelsillaroma.it
+node	13674703301	Hotel Acropoli		41.8988446	12.5001396	hotel				https://acropoli.worhot.com/
+node	13680536901		B & B St. John Villa	41.8816714	12.5053033	hotel				
+node	13700747902	Residence Candia		41.9074077	12.4506851	hotel				
+node	13708940701	Bed&Best		41.9073438	12.4632943	hotel				https://www.bedandbest.it/
+node	13714107901	Dharma Style Hotel & Spa		41.9007312	12.4967401	hotel				https://www.dharmagroup.it/hotel/dharma-style/en/
+node	13742281202	Lemon		41.9080303	12.4996185	hotel				
+node	13753431102	Hotel Lazzari		41.9064893	12.5008291	hotel				https://hotellazzari.com
+node	13906897552	Hotel Oscar Suites		41.9033855	12.5024648	hotel	2			
+node	13927076350	Hospitales del pellegrino trastevere - Hotel		41.8740144	12.4673765	hotel				
+node	13938894674	Hotel delle Civette		41.9145160	12.5139055	hotel				https://www.hoteldellecivette.it/
+node	14031985713	Hannah		41.8998777	12.4807924	hotel				
+node	14079664969	Corinthia Rome		41.9024676	12.4789570	hotel		Corinthia		https://www.corinthia.com/it-it/rome/
+node	14142339601	Meininger Roma Termini		41.9054627	12.5039990	hotel		Meininger		https://www.meininger-hotels.com/en/hotels/rome/hotel-rome-center-termini/
+node	14172773901	Villa Grazioli Boutique Hotel		41.9215822	12.5005668	hotel				
+node	14189608201	9 Cesari		41.8999181	12.4799640	hotel				
+node	14207327127	Singer Palace		41.8989758	12.4810569	hotel				
+node	14207975723	Puerta Hotel		41.8992033	12.4563773	hotel				
+node	14214533501	Boutique		41.9036967	12.4795192	hotel				
+node	14221965688	Dimora Coppelle		41.9004855	12.4756356	hotel		Bzar Hotels		https://dimoracoppelle.com/
+node	14228034676	Hotel Giovy		41.8981517	12.5012260	hotel				
+node	14235428199	MZ hotel		41.8929628	12.4723581	hotel				
+node	14249046002	Beds & Rooms Tiburtina		41.9104654	12.5289081	hostel				https://beds-and-rooms-tiburtina.com/
+node	14277661355	Terrace Pantheon Regis Hotel		41.8965264	12.4764615	hotel				https://www.terracepantheonrelais.com/
+way	23914144	NH Collection Hotels Roma Palazzo Cinquecento		41.9025940	12.5016035	hotel	5	NH Collection Hotels		
+way	32786688	Hotel Selva Candida		41.9320260	12.3780764	hotel	3			
+way	36877136	Crowne Plaza Rome - St. Peter's		41.8886026	12.4260949	hotel	4			
+way	52332561	Eitch Borromini		41.8990666	12.4725484	hotel	4			https://www.eitchborromini.com/
+way	58642010	TH Roma – Carpegna Palace Domus Mariae Hotel		41.8963777	12.4246467	hotel	4		TH Resorts	
+way	58989289	Hotel Pulitzer		41.8472361	12.4760562	hotel	4			https://www.planetariahotels.com/hotel-pulitzer-roma/
+way	60097434	Palazzo Dama		41.9104825	12.4735253	hotel				
+way	73369987	Hotel Capanelle		41.8352571	12.5554907	hotel				
+way	82480607	Hotel Darival		41.9461761	12.5666864	hotel	3			https://www.hoteldarival.it/
+way	82616078	Novotel Roma EUR		41.8215924	12.4582883	hotel	4		AccorHotels	https://www.novotelromaeur.it/
+way	86277995	B&B At Home		41.9052152	12.4442036	hotel				
+way	89560824	47 Boutique Hotel		41.8897452	12.4813673	hotel				
+way	98309134	Novotel		41.9136587	12.6179808	hotel		Novotel		https://all.accor.com/hotel/3303/index.it.shtml
+way	102270947	Papillo		41.9318313	12.3814027	hotel	4			
+way	102271332	Courtyard by Marriott Rome Central Park		41.9265356	12.4279803	hotel	4	Courtyard		https://marriott-central-park.hotel-rv.com/index_it.html
+way	102272343	Hotel Sisto V		41.9265338	12.4257671	hotel	3		Gestione Turismo srl	https://hotelsistov.com/
+way	103765277	Hotel Bernini Bristol		41.9040289	12.4893692	hotel				
+way	107417116	Hotel Desiderio		41.9295975	12.4270924	hotel	3			https://www.hoteldesiderioroma.it/
+way	108019913	Procura Generale delle Suore Missionarie Pallotine		41.8976704	12.4575888	hotel				
+way	108314344	Pineta Palace Hotel		41.9195648	12.4207236	hotel	4			https://www.hotelpinetapalace.com/
+way	109302903	Villa Mater Redemptoris		41.9077084	12.4149538	hotel				
+way	111107005	Casa per ferie Palazzo Sant'Antonio		41.9092345	12.4234006	hotel				
+way	117483292	Jonico		41.8626268	12.5991691	hotel	3			http://www.hoteljonico.it/
+way	123971450			41.8895945	12.4823552	hotel				https://www.palazzovelabro.it/
+way	125226035	Thompson Hotel		41.8947640	12.4798889	hotel	5	Hyatt	Hyatt Hotels Corporation	https://www.hyatt.com/thompson-hotels/romth-thompson-rome
+way	128244575	Hotel Teatro Pace		41.8986448	12.4714678	hotel		Emuna Hotels Group		
+way	129485374	Ergife Palace Hotel		41.8920061	12.4184732	hotel	4			https://www.ergifepalacehotel.com/
+way	131235519	Hotel delle Nazioni		41.9015792	12.4824103	hotel				https://www.hotel-dellenazioni-rome.com/
+way	132646606	Hotel Cristoforo Colombo		41.8177562	12.4608212	hotel	4		LO.RI S.r.l.	https://www.hotelcolomboroma.it/default.html
+way	133797200	Caravel		41.8652346	12.4962374	hotel				https://www.hotelcaravel.it/
+way	134560625	Ciak Hostel		41.8918457	12.5087129	hostel				http://www.ciakhostel.com
+way	142494844	Grand Hotel Tiberio		41.9127231	12.4393036	hotel	4			https://www.ghtiberio.com/
+way	154923312			41.9298095	12.5777878	hotel				
+way	157113294	Villa Santa Cecilia		41.7902594	12.4057927	hotel	2			http://www.villasantacecilia.it/
+way	169846799	NH Villa Carpegna		41.8917797	12.4391881	hotel	4	NH Hotels	NH Hotels	https://www.nh-hotels.it/hotel/nh-roma-villa-carpegna
+way	172136255	Mercure Roma West		41.7856973	12.4343618	hotel	4	Mercure	Mercure	http://www.mercure.com/gb/hotel-8516-mercure-roma-west/index.shtml
+way	175849517	Hotel Viminale		41.8983301	12.4950941	hotel	4			
+way	178543700	Regina Margherita		41.9108529	12.5134541	hotel	3			
+way	187503176	Best Western Blu Hotel Roma		41.9024907	12.5352431	hotel	4	Best Western		https://www.bluhotelrome.it/
+way	198947251	Palazzo Scanderbeg		41.9006757	12.4850036	hotel				https://www.palazzoscanderbeg.com/
+way	201317506	Mercure Roma Centro Termini		41.9004149	12.4932015	hotel		Mercure		https://all.accor.com/hotel/B834/index.it.shtml
+way	201385119	Ariston Hotel		41.8968061	12.5047843	hotel	4			
+way	201385555	Hotel Mariano		41.8974685	12.5033487	hotel	3			
+way	201387328	Hotel Nizza		41.9003700	12.4981750	hotel	3			http://hotelnizzarome.com
+way	201387329	Hotel Giglio dell'Opera		41.9002009	12.4984087	hotel	3			http://www.gigliodellopera.com/
+way	201626628	DoubleTree by Hilton Rome Monti		41.8989675	12.4967608	hotel	4	DoubleTree	Hilton	https://www.hilton.com/en/hotels/fcomodi-doubletree-rome-monti/
+way	202079171	Il Palazzetto		41.9062873	12.4828558	hotel				http://www.ilpalazzettoroma.com
+way	202528642	Precise House Mantegna Roma		41.8526484	12.4965668	hotel		Precise Hotels & Resorts		https://www.precisehotels.com/precise-house-mantegna-roma
+way	202981517	Casa di Santa Francesca Romana a Ponte Rotto		41.8880588	12.4774404	hotel				
+way	203143850	Hotel San Francesco		41.8849239	12.4726293	hotel				https://www.hotelsanfrancesco.net/
+way	204019467	The St. Regis Roma		41.9042079	12.4950912	hotel				http://www.stregisrome.com/
+way	204141712	Casa San Giuseppe		41.8922958	12.4688235	hostel			Congregazione delle Figlie di San Giuseppe	
+way	204729212	Villa Lituania		41.8810084	12.5192284	hostel				
+way	218311271	Best Western Hotel Universo		41.9002001	12.4975043	hotel	4	Best Western		https://www.hoteluniverso.com/
+way	218321230	Hotel Genova		41.8997579	12.4983245	hotel	4			https://www.hotelgenovaroma.com/
+way	219542087	Hotel Villa San Pio		41.8819688	12.4808136	hotel	3		Aventino Hotels	
+way	220585377	Hotel Ponte Sisto		41.8932693	12.4718820	hotel				
+way	221199944	Midas		41.8881257	12.4026151	hotel				
+way	221354898	Centro Pellegrini Santa Teresa Courderc		41.9246682	12.4403052	hostel				
+way	230509979	Hotel Rome Garden		41.9114108	12.5053490	hotel				
+way	232866849			41.8301836	12.4562261	hotel				
+way	234150983	Hotel Atlante Garden		41.9061457	12.4610128	hotel	4		Atlante Hotels	https://www.atlantehotels.com/
+way	236978438	Casa Tra Noi		41.8939896	12.4527601	hotel	3			https://www.hotelcasatranoiroma.com/
+way	240130762	Hotel Montverde & Austria		41.8713710	12.4491263	hotel				
+way	243298253	Grand Hotel Fleming		41.9438059	12.4747822	hotel	4			
+way	261153612	Residence Garden		41.8329339	12.4765331	hotel				
+way	263564246	Hotel Tre Fontane		41.8303633	12.4847025	hotel			Moedil srl	http://www.hoteltrefontane.it/
+way	264891905	Hotel Petra & Residence		41.8438149	12.6077604	hotel				https://www.hotelpetraroma.it/
+way	274223946	Hotel Atlante Star		41.9049031	12.4618634	hotel	4		Atlante Hotels	https://www.atlantehotels.com/atlantestar/
+way	284619509	Ostello Iceland		41.7825075	12.4446693	hostel			Iceland	
+way	290334074	A Casa Di Alex		41.9003826	12.4366325	hotel				
+way	296496868	American Palace Eur		41.8255507	12.4787026	hotel				
+way	299747723	La Mela		41.8468939	12.5967937	hotel				
+way	316015746	NH Collection Roma Vittorio Veneto ****		41.9102955	12.4902752	hotel	4	NH Hotels	NH Hotels	https://www.nh-hotels.com/hotel/nh-collection-roma-vittorio-veneto
+way	323707873	Hotel Eliseo		41.9086034	12.4875570	hotel				https://www.hoteleliseoroma.it/en/
+way	331457646	Hotel PalaCavicchi		41.8099491	12.5811948	hotel	3		PalaCavicchi	https://hotelpalacavicchi.com/
+way	337606262	Hotel San Valentino		41.9105706	12.4655236	hotel				https://hotelsanvalentinoroma.com/
+way	337696745	W Rome		41.9063812	12.4886576	hotel		W Hotels		https://www.marriott.com/romwv
+way	337697756	Hotel Eden		41.9066263	12.4862969	hotel			Dorchester Collection	https://www.dorchestercollection.com/en/rome/hotel-eden
+way	337871343	Hotel Sofitel Roma Villa Borghese		41.9076356	12.4866430	hotel	5			https://www.accorhotels.com/it/hotel-1312-sofitel-roma-riapre-rinnovato-in-estate/index.shtml
+way	337871344	Splendide Royal		41.9078902	12.4868349	hotel	5		Roberto Naldi Collection S.r.l.	https://www.splendideroyal.com/
+way	343060738	Hotel Marcella Royal		41.9078746	12.4979829	hotel				
+way	344367734	Hotel Roma		41.9059297	12.5028022	hotel				
+way	344605608	Astoria Garden		41.9042646	12.5038799	hotel	3			https://www.hotelastoriagarden.it/
+way	344605612	Hotel Select		41.9043849	12.5037843	hotel	3			https://www.hotelselectgarden.com/
+way	344660607	Hotel Stromboli		41.9028403	12.5019856	hotel	3			https://www.hotelstromboli.com/
+way	344660608	Hotel Lazio		41.9028335	12.5022258	hotel	3		Gestioni Alberghiere Raeli Srl	https://www.raelihotels.it/hotel-lazio/index
+way	344701355	Hotel Royal Court		41.9034702	12.5053812	hotel	4			https://www.royalcourthotel.it
+way	345128547	Hotel Luce		41.9022949	12.5042573	hotel			Raeli Hotels	https://www.raelihotels.it/en/raeli-hotels/hotel-luce
+way	345615555	Hotel Center 2		41.8925249	12.5134362	hotel	3			
+way	345688044	Hotel Parker		41.8931268	12.5124185	hotel	3			https://www.hotelparkerroma.it/
+way	346975162	Hotel Canova		41.8975064	12.4953404	hotel	3			https://www.canovahotelroma.it/it/
+way	347912877	Hotel Duca d' Alba		41.8949500	12.4922846	hotel				https://www.hotelducadalba.com/
+way	349307417	New Generation Hostel		41.8955917	12.4971795	hostel				
+way	349333994	Mecenate Palace Hotel		41.8967555	12.4999163	hotel	4			https://www.mecenatepalace.com/
+way	352407532	Casa per feria Mysterium Christi		41.8903433	12.5026146	hotel			Suore di Cristo	
+way	352818914	Domus Helena		41.8930297	12.5031881	hotel				https://www.domushelena.it/
+way	353697696	The Cross Hotel		41.8906678	12.5118453	hotel				https://www.thenercollection.com/it/the-cross/index
+way	355095987	Pensione Bullicante		41.8810595	12.5427314	hotel				http://www.pensionebullicanteroma.com/
+way	355331494	Hotel Cilicia		41.8734580	12.5060965	hotel	3			
+way	360842682	Residence Centro Benigni		41.9249454	12.5594433	hotel				
+way	361153579	Hilton Garden Inn Rome Claridge		41.9223371	12.4935463	hotel	4		Hilton	https://www.hilton.com/en/hotels/romrcgi-hilton-garden-inn-rome-claridge/
+way	361780168	Grand Hotel Ritz		41.9264110	12.4816852	hotel	5			
+way	361780183	Regent		41.9259501	12.4817843	hotel				https://www.hotelregentroma.net/
+way	365848851	Villa Magnolia Relais		41.8890418	12.4587640	hotel				
+way	366010838	J Maluni City Hotel		41.9082235	12.5216254	hotel				https://jmalunicityhotel.com/
+way	366025971	Casa Bacciarini		41.9118283	12.4519479	hostel				
+way	368156025	Excel Roma Montemario		41.9327424	12.4339402	hotel	4			
+way	368285945	Villa Pirandello		41.9161555	12.5146897	hotel				https://www.villapirandello.it/
+way	368286720	Hotel Silva		41.9150771	12.5144086	hotel	3			https://www.hotel-silva.com/
+way	368291770	Santa Costanza		41.9205240	12.5183606	hotel	4			https://www.hotelsantacostanza.it
+way	369253661	Buenos Aires		41.9211703	12.5022298	hotel	3			
+way	369381985	Hotel Arco di Travertino		41.8681053	12.5358234	hotel				https://www.hotelarcoditravertino.it/
+way	370269594	IH Hotel		41.9011103	12.5700330	hotel		iH Hotel		
+way	374841307	"The Spring House Hotel Rome Vatican, Tapestry Collection by Hilton"		41.9073306	12.4516291	hotel	4	Tapestry Collection by Hilton		https://www.hilton.com/en/hotels/fcocoup-the-spring-house-hotel-rome-vatican/
+way	380460319	La Casa della Musica		41.8155147	12.6172318	hotel				
+way	383275307	Ars Hotel Rome		41.9369606	12.5332575	hotel			Ars Hotel	https://www.arshotel.com/
+way	414754031	Hotel Artis		41.8662566	12.5762394	hotel	4			http://www.hotelartisroma.com/index.html
+way	417089361	Hotel Piccolo Borgo		41.8310237	12.5737592	hotel				https://www.piccoloborgo.it/
+way	427205750	Hilton Rome Eur La Lama		41.8304382	12.4715616	hotel	4	Hilton	Hilton	https://www.hilton.com/en/hotels/romeuhi-hilton-rome-eur-la-lama/
+way	429456503	Antico Casale		41.8561945	12.3925965	hotel	2		Facility Asset Value Srl	
+way	434839931	Villa di Fiorano		41.7990860	12.5760172	hotel				
+way	441895120	Gra 21		41.8391008	12.5900901	hotel				
+way	442046263	B&B Al Casale		41.8564555	12.5949783	hotel				https://www.alcasale2000.it/
+way	442066270	Alba Hotel		41.8657705	12.5905043	hotel	4			http://www.hotelalbaroma.com/
+way	448272427	Hotel Vienna		41.8408567	12.5971997	hotel	3			https://www.hotelviennazanussi.com/
+way	450416172	Hotel Chapter Roma		41.8931120	12.4758129	hotel	4			https://www.chapter-roma.com/
+way	463385065	Hotel Meeting		41.8225489	12.5822439	hotel	3			https://www.hotelmeetingroma.it/
+way	478506160	BELSTAY ROMA AURELIA		41.8876668	12.4004180	hotel		BELSTAY		https://www.belstayhotels.it/romaaurelia
+way	493236675	Agriturismo Le Canfore		41.7842861	12.5555308	hotel				
+way	494835978	Hotel Torino		41.9005322	12.4978695	hotel	4			https://www.hoteltorinoroma.it/
+way	499262519	Hotel Rouge et Noir		41.9248827	12.5433023	hotel	4		Hotel Keys	https://www.hotelrougeetnoir.it/
+way	514871839	Hotel Corallo		41.8343611	12.2043959	hotel				
+way	524974919	Nova Domus Vitellia		41.8796367	12.4417602	hotel			Monastero di Santa Chiara	https://www.domusvitellia.it/index.html
+way	528657817	Hampton by Hilton Rome East		41.8817130	12.6089739	hotel	3	Hampton	Hilton	https://www.hilton.com/en/hotels/romeshx-hampton-rome-east/
+way	537505775	Residenza Canali ai Coronari		41.9005673	12.4718763	hotel				http://www.residenzacanali.com
+way	537514745	Aurelius Rome Hotel		41.8987559	12.4256390	hotel				
+way	540596887	Villa Monte Mario		41.9290773	12.4448866	hostel			Suore Carmelitane	
+way	541506795	Casa San Juan de Ávila		41.8944467	12.4270998	hotel				https://www.casasanjuandeavila.org/en/
+way	546819650	Green Park Hotel Pamphili		41.8931826	12.4208272	hotel				
+way	549194578	One More Night		41.8352608	12.2078789	hotel				
+way	552627614			41.8897335	12.4020691	hotel				
+way	555893746	Casa di Santo Stefano		41.8618174	12.4388952	hostel				
+way	557402952			41.9226017	12.5695424	hotel				
+way	632896317	Air Rooms		41.7948217	12.2529460	hotel				
+way	649664564	Hotel Roma Tiburtina		41.9223036	12.5698093	hotel	3			
+way	1137396694	Roma Scout Center		41.9099403	12.5224280	hostel			Fiordaliso srl SB	https://www.romascoutcenter.it/
+way	1156941658	ARAN Park Hotel		41.8211103	12.5084596	hotel				
+way	1233487826	The Social Hub Rome		41.8931460	12.5180138	hotel				https://thesocialhub.co
+way	1323862222	QC Termeroma		41.7824466	12.2684988	hotel	5			https://www.qcterme.com/it/roma/qc-termeroma-hotel
+way	1349107731	Adoro Otium Hotel		41.8585845	12.5044958	hotel				
+way	1434821448	The Tribune - JDV by Hyatt		41.9096022	12.4908262	hotel	4	Hyatt	Hyatt Hotels Corporation	https://www.hyatt.com/jdv-by-hyatt/en-US/romjd-the-tribune
+relation	1761261	Grand Hotel della Minerva		41.8974733	12.4777112	hotel				
+relation	1894845	Palazzo Manfredi		41.8901303	12.4955825	hotel				
+relation	1899640	Hotel Forum		41.8939396	12.4878627	hotel	4			http://www.hotelforumrome.com/
+relation	2051626	Hotel Nerva		41.8945448	12.4873058	hotel				https://www.hotelnerva.com/
+relation	2054943	Hotel Pace Helvetia		41.8968890	12.4850425	hotel	4			https://www.leonardihotels.com/en/hotel-hotel-pace-helvezia-in-rome/
+relation	2057847	Hotel Bolivar		41.8969212	12.4863071	hotel				https://www.bolivarhotel.eu/
+relation	2271576	B&B Hotel Roma Tuscolana San Giovanni		41.8800473	12.5257017	hotel	3	B&B Hotels		https://www.hotel-bb.com/it/hotel/roma-tuscolana
+relation	2705942	Hyatt Regency Rome Central		41.8965671	12.5063063	hotel	5	Hyatt	Hyatt Hotels Corporation	https://www.hyatt.com/hyatt-regency/en-US/romrt-hyatt-regency-rome-central
+relation	2705997	Hotel Mediterraneo		41.9003217	12.4987600	hotel	4		Bettoja Hotels	https://www.romehotelmediterraneo.it/
+relation	2706000	Golden Tulip Rome Piram		41.9008025	12.4980157	hotel	4	Golden Tulip		https://rome-piram.goldentulip.com
+relation	2706001	Hotel Atlantico		41.9000595	12.4986990	hotel	4		Bettoja Hotels	https://www.romehotelatlantico.it/
+relation	4772765	"Aleph Rome Hotel, Curio Collection by Hilton"		41.9054266	12.4898972	hotel	5	Curio Collection	Hilton	https://www.hilton.com/en/hotels/fcoahqq-aleph-rome-hotel/
+relation	5355852	TwentyOne Hotel		41.9091383	12.4690639	hotel				https://www.twentyonerome.com/
+relation	7903532	Hotel Mercure - Delta Colosseo		41.8900467	12.4981229	hotel		Mercure		https://all.accor.com/hotel/2909/index.en.shtml
+relation	8269521	Oly Hotel		41.8516764	12.4826650	hotel	4	BuoneVacanze		https://www.olyhotel.it
+relation	9630256	Istituto Salesiano San Tarcisio		41.8612552	12.5089932	hostel				
+relation	12857906	Hotel Corsi		41.9147880	12.2014899	hotel		Best Western		https://www.hotelcorsi.it/
+relation	13019848	Abitart Hotel		41.8719718	12.4806835	hotel	4			https://abitarthotel.com/
+relation	13455705			41.8798862	12.5256127	hotel				
+relation	14144563	Hotel IQ		41.9004784	12.4950480	hotel	4			https://www.iqhotelroma.it/

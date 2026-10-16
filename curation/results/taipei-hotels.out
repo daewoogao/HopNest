@@ -1,0 +1,653 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	332497665	皇后旅社	Hotel Queen	25.0513136	121.5146478	hotel				http://mei-shiuan.myweb.hinet.net/
+node	663578256	八隻大象青年之家	Eight Elephants Hostel	25.0238144	121.5226588	hostel				http://www.eehostel.com/
+node	663578258	Dreaming Dragon Hostel		25.0237464	121.5227447	hostel				
+node	760264848	伊樂園大飯店	Paradise Hotel	25.0461308	121.5067411	hotel				https://www.paradisetaipei.com/
+node	1282483919	台北美侖大飯店	Park Taipei Hotel	25.0342102	121.5438956	hotel				https://www.parktaipei.com/
+node	1672151059	晶璽旅館	AT Boutique Hotel	25.0328207	121.5591529	hotel				https://www.at-boutique-hotel.com/
+node	1678965162	台北W飯店	W Taipei	25.0404919	121.5657463	hotel	5		Starwood Hotels	http://www.wtaipei.com/
+node	1807478280	沁悅產後護理之家		24.9925491	121.3115570	hotel				
+node	1933346133	長庚會館		25.0566904	121.3688502	hostel				
+node	2094662039	雀客快捷台北永康	CHECK inn Express Taipei Yongkang	25.0346616	121.5265127	hotel				http://www.checkinn.com.tw/
+node	2099553264	旅·晨行旅	Re-Change Hotel	25.0467752	121.5134597	hotel				
+node	2124843037	百利旅館		25.0602256	121.5219335	hotel				
+node	2139984834	古山園旅社		25.0374073	121.4980905	hotel				
+node	2146918178	君品酒店	Palais de Chine	25.0491400	121.5169225	hotel				https://www.palaisdechinehotel.com/
+node	2282746892	JV's Hostel		25.0294337	121.5551966	hostel				
+node	2310547856	西門町意舍飯店	amba hotels	25.0451139	121.5058914	hotel				https://www.amba-hotels.com/tc/ximending/
+node	2310547864	萬事達旅店西門店		25.0453424	121.5087538	hotel				
+node	2316804194	春日HOTEL		25.0155647	121.3094269	hotel				
+node	2318354644	新驛旅店 西門捷運店	CityInn Hotel Plus Ximending	25.0418794	121.5091999	hotel				https://www.cityinn.com.tw/
+node	2418093419	台北城美大飯店	Chair Man Hotel	25.0450680	121.5119623	hotel				http://www.chairman-hotel.com.tw/
+node	2421842400	華國大飯店	Imperial Hotel	25.0659110	121.5255260	hotel				
+node	2441378320	台北樂客商旅		25.0433157	121.5135371	hotel			伊林商務時尚旅館(股)有限公司	http://www.lookhotel.com.tw/
+node	2445909879	SIMPLE+ HOTEL		25.0502683	121.5450425	hotel	3			https://www.simplehotel.com.tw/
+node	2446002132	凱微精品hotel		25.0584680	121.5257089	hotel				http://kaiwei.mmmtravel.com.tw/
+node	2450783846	沐舍背包客棧	The Loft Hostel	25.0418317	121.5483723	hostel				http://www.lofthostel.com.tw
+node	2450783872	喬合大飯店	Deja Vu Hotel	25.0427356	121.5435436	hotel				http://www.city-hotel.com.tw/bussiness/dejavu-hotel/b4-tw.htm
+node	2462876033	瑪奇文旅	Macchi Hotel	24.9925372	121.5419764	hotel				
+node	2470166474	璽愛旅店	Say Love Hotel	25.0467833	121.5140210	hotel			鍠榮企業有限公司	http://www.slovehotel.com.tw/
+node	2470166565	全家歡旅店	HOPE Hotel	25.0467507	121.5141560	hotel	1		全家歡股份有限公司	
+node	2470166676	新站旅店	New Stay Inn	25.0467660	121.5140870	hotel			新站商旅有限公司	http://taipei.newstayinn.com/index.aspx
+node	2470166851	華達大飯店	Huada Hotel	25.0467764	121.5134071	hotel			華達大飯店有限公司	
+node	2486816961	欣和旅店	Shin Her Hotel	25.0264637	121.5231721	hotel				
+node	2500045714	丰居旅店	Via Hotel	25.0439937	121.5077511	hotel				
+node	2524398259	小雅HOTEL		25.0497570	121.5734930	hotel				
+node	2527527723	長虹大飯店	Rainbow Hotel	25.0445116	121.5073988	hotel				
+node	2527527834	香榭巴洛克	Shannon Baroque	25.0442654	121.5073254	hotel				
+node	2533594476	群來商旅		25.0451073	121.5261698	hotel				
+node	2557319171	春天夢幻旅館		25.0547592	121.5247132	hotel				
+node	2557466403	鴨川旅館		25.0569563	121.5249411	hotel				
+node	2572568046	西門航棧商旅		25.0431415	121.5080958	hotel				
+node	2572568048	璞麗hotel		25.0430887	121.5067305	hotel				
+node	2572568051	金夜賓館		25.0494521	121.5699848	hotel				
+node	2572568062	喬美Hotel		25.0480066	121.5586448	hotel				
+node	2590490928	帥客旅店		25.0300718	121.5195595	hotel				http://www.saualkeh.com.tw/zh-tw/
+node	2643681887	金鑫菸酒		25.0789198	121.3901003	hotel				
+node	2850319482	HOTEL B6		25.0450175	121.5052259	hotel				
+node	2850322965	紅菱閣旅店	Red Cabin Inn	25.0440713	121.5041298	hotel				https://www.redcabininn.com.tw/
+node	2850324304	富粧旅店		25.0459114	121.5031686	hotel				
+node	2913662317	大地清旅	Horizon Inn	25.0480398	121.5429900	hotel				
+node	2924917846	全家Hotel		25.0013454	121.5005525	hotel				
+node	2926240046	東驛商旅		25.0457190	121.5054374	hotel				
+node	2926240501	黛芬旅店		25.0457282	121.5053459	hotel				
+node	2935705794	綠蒂HOTEL		25.0652752	121.5268457	hotel				
+node	2935705795	采舍精品旅館		25.0646785	121.5267687	hotel				
+node	2939706259	麗華大飯店		24.9908307	121.3144702	hotel				
+node	2939706260	歐帝花園商旅	Audi Garden Business Hotel	24.9912401	121.3135709	hotel	3			https://www.aghotel.com.tw/
+node	2940659786	京典商務賓館	Jing Dian Hotel	24.9917797	121.3127725	hotel				
+node	2959896112	愛客發時尚旅館萬年館		25.0436597	121.5057358	hotel				
+node	3006036114	儷萊商旅	Relite Hotel	25.0463815	121.5099420	hotel				https://www.relite-hotels.com.tw/
+node	3007181106	百悅商務旅館		25.0463558	121.5075250	hotel				
+node	3007195206	西門星辰飯店		25.0441668	121.5036445	hotel				
+node	3007195591	東龍大飯店	East Dragon Hotel	25.0455344	121.5078903	hotel				
+node	3011875287	良友商務旅館	Good Friend Business Hotel	24.9911102	121.3157163	hotel				https://good-friend.hotel.com.tw/
+node	3016283423	金豪麗時尚旅店	Golden Vista Hotel	24.9910943	121.3157163	hotel				http://www.goldenvista-hotel.com/
+node	3028086867	台北富驛時尚酒店	FX HOTEL TAIPEI	25.0522078	121.5407977	hotel				https://www.fxhotels.com.tw/
+node	3065313369	衣蝶旅店		25.0632247	121.5273772	hotel				
+node	3133631552	佳佳 ‧ 士林珮柏	Papersun Apartment	25.0926359	121.5230768	hotel				
+node	3191524051	帝苑時尚旅店		25.0203477	121.4666484	hotel				http://www.royalgardenhotel.com.tw/
+node	3221770001	微風Hotel		25.0575348	121.5236957	hotel				
+node	3231669810	客來思樂賓館		25.0193771	121.5299129	hotel				
+node	3262986367	瘋台北青旅	Fun Inn Taipei Hostel	25.0457123	121.5108332	hostel				
+node	3270306166	謙商旅Chain Hotel		25.0341729	121.5289460	hotel				
+node	3316912674	家賓大旅社		24.9917478	121.5410462	hotel				
+node	3316912675	景美大旅社		24.9901135	121.5407960	hotel				
+node	3353482762	寒舍艾麗酒店	Humble House Taipei	25.0386059	121.5673778	hotel				http://www.humblehousehotels.com/
+node	3390213912	王老先生旅舍	Hostel BeerBicycle	25.0458604	121.5041054	hostel				https://www.beerbicycle.org/
+node	3444671420	金色年代旅店		25.0064171	121.4615800	hotel				
+node	3444713872	首府大旅社		25.0073754	121.4622736	hotel				
+node	3451466250	愛芝園旅館		25.0318784	121.5586149	hotel				
+node	3472559544	富康精采旅店		25.0274784	121.4703252	hotel				
+node	3476696155	景安精品旅館		24.9963833	121.5043665	hotel				
+node	3497667936	花語旅館		24.9909770	121.3182614	hotel				http://hotel.kong.tw
+node	3502694423	誠品行旅	eslite hotel	25.0446431	121.5618788	hotel		誠品行旅	誠品旅館事業股份有限公司	https://www.eslitehotel.com/
+node	3533978593	洛碁大飯店 舞衣南京館		25.0522311	121.5358660	hotel	3			
+node	3540983507	祥興樓水漾會館		25.0044264	121.4882630	hotel				
+node	3542309426	Single INN單人房-台北館		25.0105088	121.4590543	hotel				
+node	3544646394	二十輪旅店		25.0447623	121.5061998	hotel				
+node	3544661594	薆悅酒店		25.0450099	121.5067019	hotel				
+node	3544661595	和旅瓏旅館		25.0450912	121.5067944	hotel				
+node	3544693794	西門旅館		25.0455602	121.5088382	hotel				
+node	3544694193	儷夏精品旅店		25.0459198	121.5066585	hotel				
+node	3550932809	思泊客	SPARKLE Hotel	25.0325440	121.5633140	hotel				http://sparklehotle.com.tw
+node	3550932810	豪麗旺商務旅館	HolyPro Boutique Hotel	25.0321809	121.5595067	hotel				http://www.holypro-hotel.com/
+node	3561044205	品格子旅店	Inn Cube	25.0456088	121.5174224	hotel			品格好有限公司	https://www.inncube.com.tw/
+node	3561052999	窩旅館	Work Inn	25.0455737	121.5174125	hotel			窩客國際旅館有限公司	https://www.workinn.com.tw/
+node	3581160293	和逸-忠孝館	Hotel Cozzi Zhongxiao Taipei	25.0446197	121.5252949	hotel			國泰商旅	https://hotelcozzi.com/zh-tw/about/traffic/zhongxiao
+node	3626353993	德立莊	Hotel Papa Whale	25.0466829	121.5056843	hotel				
+node	3633921320	香城商旅		25.0333570	121.5552494	hotel				
+node	3707479470	台北青年國際旅館	Y Hotel Taipei	25.0456472	121.5165090	hotel			台北市中華基督教青年會	http://www.yhotel.com.tw/
+node	3710078778	日暉商務旅館		24.9933674	121.5038975	hotel				
+node	3752985284	新榮大旅社		25.0882229	121.5263130	hotel				
+node	3786025692	桃花園飯店	Tao Garden Hotel	24.9899031	121.3115084	hotel				http://www.taogarden.com.tw/
+node	3823837090	立瀚會館		25.0325902	121.5042722	hotel				https://www.lihanhotel.com.tw/
+node	3863568265	寶格利時尚旅館	Burgary Hotel	25.0411645	121.5076087	hotel				
+node	3863568266	桔子商旅-台北西門店	Orange Hotel Ximen	25.0412851	121.5076369	hotel			福泰飯店集團 Forte Hotel Group	https://orangehotels.com.tw
+node	3867437820	黎明Hotel		24.9809385	121.5414507	hotel				
+node	3881407475	南陽街壹號旅店	NYS Loft Hotel	25.0458031	121.5163251	hotel				
+node	3881851463	洛碁大飯店中華館	Green World Zhonghua	25.0447648	121.5094876	hotel		洛碁大飯店		https://zhonghua.greenworldhotels.com/
+node	3881851950	捷絲旅台北西門館	Just Sleep Taipei Ximending	25.0450419	121.5096269	hotel			晶華國際酒店股份有限公司	https://www.justsleephotels.com/ximending/
+node	3915640148	Beginning Hostel		25.0891730	121.2544656	hostel				
+node	3938949101	修齊會館		25.0139918	121.5300688	hotel				
+node	3939158032	新仕旗店		25.0577017	121.5222860	hotel				
+node	3939158492	萬事達旅店	Wonstar Hotel	25.0464233	121.5779915	hotel				https://songshan.wonstar.com.tw/
+node	4018208920	承攜行旅台北重慶館		25.0521187	121.5138125	hotel				https://guidehotel.com.tw/
+node	4018210028	新逸旅店		25.0511189	121.5166464	hotel				
+node	4018211177	背包棧旅店	Backpackers Hostel	25.0540952	121.5388574	hostel				
+node	4032500061	台北日記旅店	Diary of Taipei Hotel	25.0460851	121.5129973	hotel				http://www.diaryoftaipei-mainstation.com/
+node	4033374015	君迪商旅		24.9940868	121.4850123	hotel				
+node	4085141436	甜蜜蜜旅館		25.0031331	121.4541727	hotel				
+node	4109188590	太空艙青年旅舍	Space Inn Taipei	25.0424209	121.5121442	hostel				http://www.spaceinn.com.tw/HY/en/index.php
+node	4109416991	香榭峇里Hotel		25.0419214	121.5434544	hotel				
+node	4118442368	享住旅店	Just Live Inn	25.0450723	121.5147328	hotel			西門星辰大飯店股份有限公司	http://www.miyihotel.com.tw/
+node	4123034910	旅樂序旅館 站前一館	Hotel Relax 1	25.0458399	121.5146235	hotel			大員昌實業有限公司	https://www.hotelrelaxclub.com/
+node	4128150382	晶城青年旅館	Starbox Hostel	25.0538288	121.5140352	hostel				
+node	4148721616	小公館文人旅舍		25.0515613	121.5698118	hostel				http://nkhostel.com/
+node	4149477983	宮賓旅舍		25.0067481	121.4572294	hotel				
+node	4149477984	悅喜商務飯店		25.0084998	121.4579798	hotel				
+node	4149477985	新都旅店		25.0050864	121.4554721	hotel				
+node	4149477987	欣芳旅店		25.0070427	121.4566789	hotel				
+node	4149477988	百麗旅店		25.0085350	121.4575830	hotel				
+node	4149484090	藝宿商旅		25.0092746	121.4580570	hotel				
+node	4149484093	馥麗商旅		25.0078272	121.4580632	hotel				
+node	4149484094	馥麗商旅二館	Forward Suites II	25.0091873	121.4578253	hotel				
+node	4150685013	InPage Hotel		25.0452937	121.5133805	hotel				
+node	4152383789	四四小公寓		25.0334595	121.5495338	hotel				
+node	4154656590	蜂巢 Bee House		25.0510470	121.5155140	hotel				https://www.b-house.com.tw/
+node	4167728989	Fun Taipei Backpackers		25.0886631	121.5231312	hostel				
+node	4205230083	首都大飯店大直館		25.0813225	121.5609377	hotel				
+node	4221670191	台北發現青年旅舍	Taipei Discover Hostel	25.0628140	121.5291099	hostel				https://www.discoverhostel.com/
+node	4235272603	天使商旅		25.0507531	121.5699038	hotel				http://www.angelhotel.com.tw
+node	4235796401	永安棧	WESTGATE Hotel	25.0428867	121.5080633	hotel				https://www.westgatehotel.com.tw/
+node	4236764836	191寧夏旅店		25.0546575	121.5150320	hotel				
+node	4241731433	迪樂商旅	The Dealer Hotel	25.0528395	121.5119238	hotel				http://dealerhotel.com.tw/
+node	4242363292	高絲旅時尚旅館漢口館	Go Sleep HanKou	25.0456894	121.5060453	hotel				http://www.gosleep-hotel.com/hankou.php
+node	4245894189	CLICK Hotel		25.0440522	121.5060376	hotel				
+node	4246829937	CLICK Hotel		25.0455866	121.5063508	hotel				
+node	4257932091	柯達大飯店永和店	K Hotel YungHo	25.0077662	121.5136920	hotel				http://yungho.khotel.com.tw/index.aspx
+node	4259936190	長富時尚旅店	Homey House	25.0547727	121.5260199	hotel				http://www.homeyhouse.com.tw/
+node	4260027890	黑熊好眠站膠囊旅館	Hey Bear Capsule Hotel	25.0631256	121.4996877	hotel				http://heybear-hotel.com/
+node	4292131691	Mr Lobster's Secret Den Design Hotel		25.0504615	121.5133591	hostel				
+node	4298897593	路境行旅	Finders Hotel	25.0431545	121.5130472	hotel		Finders Hotel		https://www.findershotel.com/index_E.php
+node	4298897596	培美Hotel	HOTEL B7	25.0428720	121.5129598	hotel				
+node	4298897601	Via Hotel Station 丰居旅店北車館	Via Hotel Taipei Station	25.0438142	121.5131133	hotel	3		Via Hotel	http://www.via-hotel.com.tw/taipei-station
+node	4298897603	享樂文旅	Hedo Hotel	25.0461093	121.5128092	hotel				
+node	4298897646	101艾美琪hotel		25.0433862	121.5428785	hotel				
+node	4307626647	趣旅館	Hotel Fun	25.0613312	121.5270015	hotel		趣旅館		https://www.hotelfuntw.com
+node	4309145399	杜萊根國際青年旅舍	Sleepy Dragon Hostel	25.0515062	121.5698139	hostel				https://www.sleepydragonhostel.com/
+node	4316596021	台北日記旅館 中華二館	"Diary of Taipei Hotel, China 2"	25.0446856	121.5084145	hotel			ECFA	http://www.taipeidiary-hotel.com/taipei2.php
+node	4316596069	儷夏商旅 中華館	Muzik Hotel Ximen Station Branch	25.0447680	121.5084343	hotel				
+node	4325606042	虹都快捷Hotel		25.0709643	121.4947549	hotel				http://www.hondow.com/
+node	4329453091	Shihlin Stay Plus		25.0912266	121.5246090	hostel				
+node	4329768669	六福居	Leofoo Residences	25.0519586	121.5241676	hotel			六福	https://www.leofooresidences.com.tw/
+node	4330538196	第二青年客棧	Second Hostel	25.0250596	121.5306778	hostel				
+node	4331632719	台北市1983 第一青年旅社	1983 First Hostel	25.0228712	121.5298739	hostel				
+node	4332324289	花豹屋花園	Leopard Garden Apartments	25.0408581	121.5047654	hostel				
+node	4335016699	天晴HOTEL		25.0426160	121.5139648	hotel				
+node	4343836294	TY MOTEL精品商務旅館		25.0748902	121.2607913	hotel			http://www.tymotel.com.tw/	
+node	4344542412	天閣酒店	The Tango Taipei ChangAn	25.0497327	121.5245698	hotel		The Tango		
+node	4344543596	芝加哥Hotel		25.0505404	121.5264278	hotel				
+node	4344543611	4 Plus斯格加旅店		25.0494788	121.5244977	hotel				
+node	4375049638	西門街角	Ximen Corner Hostel	25.0430838	121.5068549	hostel				https://www.ximencorner.com/
+node	4380057593	明日大飯店	Tomorrow Hotel	25.0426402	121.5070141	hotel				
+node	4384259013	東鑫商務旅館	Eastern Star Hotel	25.0416586	121.5520634	hotel				
+node	4405771749	伸適商旅	Hotel Sense	25.0610384	121.5257527	hotel				
+node	4411493480	日暉酒店	Mezi Hotel	25.0432966	121.5139054	hotel				https://www.mezi.com.tw/
+node	4421420354	富裕自由商旅忠孝館	RF Hotel	25.0418396	121.5537999	hotel				https://www.hotelrf.com/
+node	4432818424	蘋果Hotel		25.0063372	121.5061859	hotel				
+node	4436151958	三重大旅社		25.0707007	121.4950754	hotel				
+node	4436175212	沃客商旅-正義館		25.0604005	121.4980938	hotel				
+node	4452031690	丰居旅店	Via Hotel	25.0434745	121.5429016	hotel				
+node	4483303089	天倫大旅社		25.0890083	121.5252404	hotel				
+node	4483316694	士林青年旅館		25.0878148	121.5264430	hostel				
+node	4487080890	居久宿舍	G9 Stay	25.0437651	121.5037246	hostel				http://www.g9stay.com/
+node	4524863755	享樂文旅	hedo	25.0439910	121.5025891	hotel				
+node	4524863757	Backpacker		25.0439984	121.5032970	hostel				
+node	4524863831	天闊酒店	Tango Taipei FuHsing	25.0536995	121.5443151	hotel				
+node	4524864046	谷墨商旅		25.0266158	121.5309129	hotel				
+node	4524864129	千慧旅館	Chian Huei Business Hotel	25.0524721	121.5199306	hotel				
+node	4524864143	啟文飯店	Hotel Kevin	25.0571188	121.5103876	hotel				
+node	4524864490	Tango INN	Tango Inn Taipei Ximen	25.0446449	121.5045055	hotel				http://xm.tangoinn.com.tw/
+node	4538275040	中信旅店		25.0141505	121.5180003	hotel				
+node	4588548489	旅游淘背包客棧	Travel Talk Taipei Backpackers Hostel	25.0622931	121.5319581	hostel				
+node	4596733575	C U Hotel		25.0569797	121.5164478	hotel				
+node	4604331782	台北漫步旅店	Meander Taipei	25.0438313	121.5024671	hostel				
+node	4646608900	快樂台北	Happy Taipei	25.0901704	121.5264913	hostel				
+node	4677939990	昇恆昌員工宿舍		25.0544611	121.2770641	hotel				
+node	4740899621	佳賓旅社		24.9927315	121.4266439	hotel				
+node	4741185622	昇園賓館		24.9928698	121.4262370	hotel				
+node	4782136823	Jiizu Hostel	Jiizu Hostel	25.0517176	121.5636227	hostel				
+node	4794229023	睡覺盒子青年旅館	SleepBox	25.0421632	121.5123924	hostel				http://sleepbox.com.tw
+node	4808895826	茄子青旅	Jiizu Hostel	25.0518747	121.5605862	hostel				
+node	4811426121			25.0541169	121.5139163	hotel				
+node	4819304922	慶爾喜旅館	Cheers Hotel	25.0456994	121.5048838	hotel				http://www.cheers-hotel.com/
+node	4837986364	豪麗飯店		25.0410894	121.5463011	hotel				
+node	4837986383	百花商務飯店		25.0385794	121.5248105	hotel				
+node	4837986522	福華旅邸		25.0547244	121.5451763	hotel				
+node	4838086696	昌吉一號記憶旅店		25.0660329	121.5179030	hotel				
+node	4838087629	ART' OTEL		25.0453306	121.5034971	hotel				
+node	4838087636	Millia Hotel		25.0431335	121.5058356	hotel				
+node	4838087694	玩味旅舍		25.0549413	121.5163472	hotel				
+node	4838087726	大稻埕花園旅店	D.G. Hotel	25.0621688	121.5090956	hotel				https://www.dghotel.com.tw/
+node	4838087761	橋泰商務旅館	Chotai hotel	25.0634321	121.5109567	hotel				
+node	4937872418	福容大飯店桃園機場捷運A8	Fullon Hotel Taoyuan Airport MRT A8	25.0603790	121.3703338	hotel				https://www.fullon-hotels.com.tw/a8/
+node	4983984604	丰居旅店	Via Hotel Loft	25.0578240	121.5245497	hotel	3		丰居旅店	
+node	4995882686	凱達大飯店	Caesar Metro Taipei	25.0333062	121.4996308	hotel			凱悅	
+node	5038755617	MAIN INN		25.0495976	121.5144861	hotel				
+node	5095512241	文舺行旅	Monka Hotel	25.0375712	121.4996918	hotel				
+node	5110245064	方舟旅店	Ark Hotel	25.0338364	121.5314764	hotel				https://www.arkhotel.com.tw/
+node	5110269773	HOUZE HOSTEL		25.0523808	121.5343176	hotel				
+node	5110348541	松山意舍酒店	amba Taipei Songshan	25.0493021	121.5805095	hotel				https://www.amba-hotels.com/tc/songshan/
+node	5110348558	東旅	Hotel East	25.0517226	121.5603101	hotel				
+node	5110348561	巴客來青年旅館		25.0485360	121.5761806	hostel				
+node	5110348575	一等好旅店		25.0495749	121.5740152	hotel				
+node	5110349517	仲信大湖商旅		25.0844633	121.5998456	hotel				http://dahu.hotel123.com.tw
+node	5110489273	新世界飯店		25.0409847	121.5045421	hotel				
+node	5110489276	玫瑰精品會館		25.0490553	121.5207258	hotel				
+node	5110489281	迎賓旅社		25.0505128	121.5155996	hotel				
+node	5110489284	獅城大飯店		25.0503253	121.5155824	hotel				
+node	5110489286	Dog Hole Hotel		25.0497396	121.5179133	hotel				
+node	5110489299	千彩格精品旅店		25.0556610	121.5252161	hotel				
+node	5110489315	LV精緻旅店		25.0597838	121.5261606	hotel				
+node	5110489317	錦棧旅	Gold Inn	25.0598674	121.5257608	hotel				http://www.gold-inn.com.tw/
+node	5110489745	緒遠旅館		25.0601896	121.5241643	hotel				
+node	5110489747	珍美Hotel		25.0602022	121.5238829	hotel				
+node	5110489768	君臨Hotel		25.0964231	121.5244363	hotel				
+node	5110489809	米尼青年旅店		25.0461613	121.5189410	hotel				
+node	5110490221	藝宿文旅	ArtInn	25.0470797	121.5052425	hotel				
+node	5110490225	欣欣時尚旅館		25.0470276	121.5058381	hotel				
+node	5110490226	一加一旅館		25.0470643	121.5057844	hotel				
+node	5110490227	宓琪旅館		25.0469655	121.5058061	hotel				
+node	5110490244	皇家玫瑰旅館		25.0463835	121.5071083	hotel				
+node	5110490247	U HOTEL		25.0462798	121.5071103	hotel				
+node	5110490248	西門邑居		25.0459181	121.5069944	hotel				
+node	5110490249	旅居文旅		25.0462163	121.5070775	hotel				
+node	5110490270	麗雅精品旅館	Dear Hotel	25.0547807	121.5262094	hotel				
+node	5110490306	Flipflop Hostel		25.0498841	121.5172748	hostel				
+node	5110491025	柯達大飯店		25.0528139	121.5231837	hotel				http://taipei1.khotels.com.tw/zh-TW/
+node	5302777542	北門窩泊旅	Beimen WOW Poshtel	25.0522481	121.5155035	hotel				http://wowposhtel.com
+node	5310769993	台糖台北會館	Taisugar Hotel Taipei	25.0454710	121.5097940	hotel			台灣糖業公司	https://www.taisugar.com.tw/resting/taipeihotel/
+node	5313864468	城市商旅		25.0515209	121.5701078	hotel				
+node	5314324318	富景商旅		25.0506132	121.5698123	hotel				
+node	5334717722	南西六號公寓		25.0523187	121.5198629	hostel				
+node	5338403921	台北丹居青旅	Dan Hostel	25.0413100	121.5066583	hostel				
+node	5346792179	阿樹國際旅店	arTree hotel	25.0479136	121.5527611	hotel	3			https://artreehotel.com.tw/
+node	5468442322	S&J 氧氣台北台大公館國際酒店式公寓	S&J Oxygen Taipei NTU Gongguan Service Apartment	25.0158119	121.5322464	hotel			S&J 氧氣台北台大公館國際酒店式公寓	
+node	5495149522	吉泰旅店	Greatt	25.0909541	121.5256200	hotel				
+node	5551907224	你好咖啡旅館	NIHAO CAFE & HOTEL	25.0338512	121.5422990	hotel				
+node	5563917934	棧留台北	Taipei Taipei Hostel	25.0444545	121.5133797	hostel				
+node	5568220048	尚印旅店	Stay Inn Hotel	25.0573946	121.5232126	hotel				
+node	5568220049	中山莉豪商務旅店	Li Hao Hotel	25.0572698	121.5232079	hotel				www.lihao-hotel.com.tw/
+node	5599663425	峻美精品旅店	Taipei Hotel Bnight	25.0547808	121.5263359	hotel				
+node	5661164135	Grace Hotel 葛瑞絲商旅	Grace Hotel	25.0028782	121.4988595	hotel		Grace Hotel 葛瑞絲商旅		https://www.gracehotel.com.tw
+node	5739420397	流民棧		25.0157161	121.5154517	hostel				
+node	5819985567	林口亞昕福朋喜來登酒店	Four Points by Sheraton Linkou	25.0661754	121.3608638	hotel	5	Four Points by Sheraton	亞昕國際飯店股份有限公司	https://www.marriott.com/hotels/fact-sheet/travel/tpelf-four-points-linkou/
+node	5833685992	臺北大亞帝國	Taipei H Imperial	25.0460875	121.5158272	hotel				
+node	5839258670	EFCA愛客発商務旅館西門2館		25.0433153	121.5041099	hotel				
+node	5839266784			25.0434300	121.5034164	hotel				
+node	5839491742	台北商旅		25.0387078	121.5462423	hotel				
+node	5923884744	Zebra apartments		25.0427128	121.5012924	hostel				
+node	6050500241	天倫旅社		25.0887194	121.5253532	hotel				
+node	6093264185	台北有愛公寓	Taipei Friendly House	25.0485190	121.5204957	hostel				
+node	6111946997	天雲旅棧台北基河		25.0829945	121.5242392	hotel				
+node	6137457604	hotel QUOTE Taipei		25.0519910	121.5474120	hotel				
+node	6158754865	基泰酒店式公寓		25.0250934	121.5537253	hotel				
+node	6161805867	丹鳳大旅館	Dan Fong Hotel	25.0229055	121.4133465	hotel				
+node	6166999285		TW capsules hotel	25.0459070	121.5054162	hotel				
+node	6188986709	三和旅舍		25.0676909	121.5006485	hostel				
+node	6224730656	詩漫精品旅館	Smile Inn	25.0457595	121.5146246	hotel				https://www.smileinn.com.tw/
+node	6224730657	雅璞文旅	Apause Inn	25.0457634	121.5147242	hotel			雅高旅館股份有限公司	
+node	6248620285		Your Homes	24.9864492	121.3170943	hostel				
+node	6415478295	昇行旅背包客棧	Hostel of Rising Sun	25.0101597	121.5204880	hostel				
+node	6416162017	The Loft - 沐舍時尚酒店		25.0002835	121.4853601	hotel				
+node	6418121431	久居棧旅店	9ine hotel	25.0625664	121.5116071	hotel	3		Lealea	
+node	6433456337	皇后旅店二館	Queen Hotel II	25.0541162	121.5131584	hotel				
+node	6499715243	Hoyumi Hotel		25.0531173	121.5231563	hotel				
+node	6499848170	Jian Shan		25.0581301	121.5122270	hotel				
+node	6568146970	寓見青旅	Meeting mates Hostel	25.0357912	121.5032919	hostel				https://booking.owlting.com/d4c33603-c006-4850-be3e-4d304d697b39?lang=zh_TW&start=2024-05-12&end=2024-05-13&adult=1&child=0&infant=0
+node	6579380116	牡丹居	MudanHouse	25.0658777	121.5116932	hotel				
+node	6602462504	安得國際青年旅店	Enter Inn Taipei Hostel	25.0450083	121.5176963	hostel				https://enter-inn.taipeihotelinfo.com/en/
+node	6682287324	賓王大飯店	King Plaze Hotel	25.0541054	121.5131584	hotel				
+node	6770880785	壹03·旅	Hostel 103	25.0499682	121.5231133	hostel				
+node	6789300807	台北碧瑤飯店	Hotel B	25.0479034	121.5447810	hotel				
+node	6939523039	夜光商旅		25.0422225	121.5053451	hotel				
+node	6939523040	西門居易		25.0425311	121.5054148	hotel				
+node	6939523043	長樂町旅店	ColorMix Hotel & Hostel	25.0425166	121.5052190	hotel				
+node	6939523044	達福旅店		25.0426235	121.5052620	hotel				
+node	6988388787	欣桃飯店	Hsin tao	24.9903804	121.3117565	hotel				
+node	7012059673	miniinn		25.0459752	121.5189870	hostel				
+node	7211952419	Qtime		25.0418090	121.5515068	hostel				
+node	7211952421	凡登台北商務旅店		25.0417414	121.5516427	hotel				https://www.vdthotel.com
+node	7211952422	有統Hotel		25.0418471	121.5516669	hotel				
+node	7212236783	York 約克設計旅店		25.0449691	121.5162444	hotel				
+node	7255698372	卡夫人背包客棧	Cavemen Hostel	25.0447094	121.5148919	hostel				https://www.cavemen.com.tw/
+node	7320973052	清心翼居設計旅社		25.0452983	121.5160062	hotel				
+node	7652736150	葳皇時尚飯店	Vone Hotel	25.0591454	121.5116467	hotel				http://www.vonehotel.com/
+node	7652736151	意芙旅店	IF inn	25.0593159	121.5116069	hotel				https://www.taipeiifinn.com/
+node	8059094180	薇風馥麗飯店		25.0773960	121.4848430	hotel	3			http://www.breezy.com.tw/
+node	8059094182	花蝶晶漾商旅（HOTEL）		25.0533490	121.4514880	hotel				http://www.wonderfulhall.com.tw
+node	8059100986	台北集賢商旅		25.0831829	121.4804904	hotel				https://hotelg7.com.tw/
+node	8059100988	美麗海精品汽車旅館		25.0604123	121.4621246	hotel				
+node	8059100993	捷絲旅台北三重館		25.0773490	121.4874890	hotel				https://www.justsleep.com.tw
+node	8059100995	幸福讚精品飯店		25.0509880	121.4611430	hotel				http://www.happinessinn-taipei.com/
+node	8059100999	新山鶯賓館		24.9809180	121.3303520	hotel				http://www.ssi-hotel.com.tw
+node	8059101001	成旅晶贊飯店台北蘆洲		25.0804290	121.4804550	hotel	3			
+node	8059101002	慶城商旅	Urbanone Hotel	25.0604297	121.4979944	hotel				
+node	8059101003	上品閣精品旅館		25.0731980	121.4931810	hotel				
+node	8059101006	名華大旅社		25.0652020	121.5024790	hotel				
+node	8059101007	櫻珍大飯店		24.9830030	121.3191850	hotel	2			
+node	8059101008	薇薇精品旅館		25.0824160	121.4823330	hotel				http://www.wellarticle.com.tw/
+node	8059101012	風尚休閒商務汽車旅館		25.0571780	121.4344350	hotel				
+node	8059101014	樂頤飯店	LaClé Hotel Taipei	25.0820559	121.4800619	hotel				http://www.laclehotel.com.tw
+node	8059101015	名爵汽車旅館		25.0647890	121.4972800	hotel				https://sirmotel.aeweb.com.tw/
+node	8059101017	嘉年華汽車旅館		25.0825710	121.4806340	hotel	2			
+node	8059101021	三和旅舍		25.0676750	121.5006980	hotel				
+node	8085453132	信星旅館	Star Hostel	25.0501863	121.5154010	hotel				https://www.starhostel.com.tw/
+node	8085453133	嘉榮青年旅店	Chia Rong Hostel	25.0501350	121.5147560	hotel				
+node	8085453134	璞漣商務旅館臺北車站店		25.0500567	121.5157328	hotel				
+node	8085453135	門埕青旅		25.0497360	121.5144780	hotel				
+node	8085453136	漫步1948	MEANDER 1948	25.0504670	121.5151217	hotel				https://staymeander.com/
+node	8085453141	梅樓商務驛站		25.0497440	121.5143150	hotel				
+node	8085453143	配普特行旅		25.0495110	121.5144810	hotel				
+node	8262001377	嵨開安旅	Hotel Uketamo	25.0402040	121.5442596	hotel			福華集團	https://www.hoteluketamo.com/
+node	8280854486	台北奧斯金旅店	Oxygen O Bar	25.0425473	121.5129844	hotel				
+node	8397520228	寧夏2號旅店	V-one Hotel - Ningxia No. 2 Inn	25.0543947	121.5146843	hotel				http://www.ningxiano2inn.com/
+node	8789190025	銀座飯店		25.0555544	121.5257286	hotel				
+node	8811351164	天閣酒店	The Tango Taipei LinSen	25.0500530	121.5243855	hotel		The Tango		
+node	8823518469	喬太商務旅館		25.0191062	121.4795853	hotel				
+node	8943682478	富立登國際大飯店	Freedom Design Hotel	25.0566821	121.2877769	hotel		富立登國際大飯店		https://www.freedom-tw.com/
+node	9310169089	台北新板希爾頓酒店	Hilton Taipei Sinban Hotel	25.0113872	121.4625357	hotel		Hilton		
+node	9429930622	薇米商旅		25.0616154	121.4974326	hotel				
+node	10009325637	寒居酒店	Humble Boutique Hotel	25.0516423	121.5327667	hotel				https://www.humbleboutique.com.tw/
+node	10253265724	We Come Hostel		25.0527438	121.5110643	hostel	2			https://www.wecomehostel.com/
+node	10672287105	凱富旅館	Kai Fu Hotel	24.9806015	121.2686551	hotel				
+node	10738442807	雀客藏居新北三重水漾		25.0556726	121.4827990	hotel				
+node	10752516033	陸號行旅		25.0447370	121.5084303	hotel				
+node	10755280662	索拉利亞西鐵飯店台北西門	Solaria Nishitetsu Hotel Taipei Ximen	25.0451717	121.5083749	hotel		索拉利亞西鐵飯店	台灣西鐵國際旅館股份有限公司	https://nnr-h.com/solaria/taipei
+node	11061673377	清翼居旅店		25.0070355	121.4604043	hotel				
+node	11061673378	台北輕旅複合式旅店		25.0072788	121.4600284	hotel				
+node	11240105217	路徒PLUS行旅 主題館	Roaders PLUS Hotel Theme	25.0467654	121.5138216	hotel				https://www.roadersplushotel.com
+node	11293962130	CityInn		25.0510728	121.5167562	hotel				https://c3.cityinn.com.tw/
+node	11294029207	Dongmen 3		25.0337761	121.5277010	hostel				
+node	11294039120	Bchic		25.0536201	121.5278591	hotel				
+node	11294039989	RF Hotel Linsen		25.0497147	121.5257906	hotel				
+node	11355878091	金弘旅社	Jin Horng Hotel	25.0538092	121.5129819	hotel				
+node	11355878095	福來旅社	Fwu Lai Hotel	25.0534235	121.5122681	hotel				
+node	11355878096	瑾旅南西館	Gininn NanXi	25.0541420	121.5136225	hotel				https://gininnnanxi.tw-taiwan.com/in/
+node	11360281028	台北桃禧大飯店		25.0522856	121.5142756	hotel				https://www.hotelorchardpark-taipei.com/
+node	11360281033	悅心旅	Yesing Hotel	25.0512612	121.5140615	hotel				
+node	11393086469	Wow		25.0443356	121.5073800	hostel				
+node	11397030769		Work Inn	25.0315585	121.5585010	hostel				
+node	11406853381	老爺會館台北南西		25.0525352	121.5219267	hotel				
+node	11434873549	學人旅舍		25.0359498	121.4352074	hotel				
+node	11450107369	台灣青旅膠囊旅店	Taiwan Youth Hostel & Capsule Hotel	25.0450314	121.5177790	hostel				https://taiwanyh.com/
+node	11559675939	儷萊飯店(普亨萊大飯店)		25.0463990	121.5099455	hotel				
+node	11559675940	悅來精品旅館		25.0463655	121.5099389	hotel				
+node	11559675941	金財神旅館		25.0464176	121.5099497	hotel				
+node	11945587491	囍閱文旅	Hotel attic	25.0407049	121.5069175	hotel				
+node	12033501869	町·草休行館	CHO Stay Capsule Hotel	25.0762325	121.2328955	hostel				https://www.chostay.com/
+node	12083322350	瑞桑德		25.0467758	121.5135349	hotel				
+node	12092531786	漫映旅舍	Slow Town Hotel	25.0516215	121.5298495	hotel				
+node	12128335383	T.O. Hotel 台北車站館	T.O. Hotel Main Station	25.0458686	121.5144060	hotel		T.O. Hotel		https://www.tohoteltaipei.com/
+node	12143956201	PURE st-ay	PURE st-ay	25.0525243	121.5127518	hostel				https://www.booking.com/hotel/tw/xing-kong-jian-star-co-living-space.html
+node	12228744833	旅居文旅西門驛站昆明館	Hub Hotel Ximen-Inn Kunming	25.0425457	121.5046370	hotel				https://ximen-inn2.hubhotel.com.tw
+node	12297186987	珂曼旅館		25.0459514	121.5070094	hotel				
+node	12438632284	台北中山意舍酒店	amba Taipei Zhongshan	25.0557427	121.5230484	hotel				https://www.amba-hotels.com/zhongshan/
+node	12458715211	路徒PLUS行旅 站前館	Roaders PLUS Hotel Taipei Station	25.0467653	121.5138277	hotel				https://www.roadersplushotel.com
+node	12466891352	希爾商旅台北館	Hotels Here Taipei	25.0523665	121.5284751	hotel				https://www.hotelshere.com.tw/tw/index.html
+node	12535608164	城市商旅	City Suites	24.9918478	121.3127934	hotel				
+node	12570502800	Yen Inn		25.0067724	121.4598709	hotel				
+node	12702550901	台北棧旅店 Taipei inn	Taipei Inn	25.0454456	121.5156197	hostel				
+node	12790902301	富玉莊旅館	Rich Zone Hotel	25.0876159	121.5191302	hotel				
+node	12802618201	町記憶旅店	Cho Hotel	25.0418862	121.5046850	hotel				http://chohotel.com
+node	12996550601	Triple Tiger Inn		25.0437006	121.5045487	hostel				
+node	13325475952	Capella		25.0532059	121.5499771	hotel	5			
+node	13334327611	能量旅店	Energy Inn	25.0435417	121.5045261	hotel				http://www.energyinn.com.tw/
+node	13337714413	AKA Hotel	AKA Hotel	25.0304958	121.5275465	hotel	4			https://www.akataipei.com/
+node	13373796960	高絲旅時尚旅館漢口館	LIHO Hotel Hankou	25.0457511	121.5058128	hotel				
+node	13377617340	馥俐旅店	Forward Suit II	25.0090105	121.4578901	hotel				https://www.forward-suites2.com.tw/
+node	13426651601		Bon hotel	25.0509339	121.5332564	hotel				
+node	13443932101	合星青年旅館	Star Hostel Taipei East	25.0420015	121.5497295	hostel				https://www.starhosteleast.com
+node	13476132301	方舟旅店長安復興館	ARK Hotel Chang'an Fuxing	25.0481322	121.5430439	hotel				
+node	13481520001	日光拾玖	Sky19 Hotel	25.0462051	121.5157947	hotel				
+node	13481893428	黎明旅館		24.9809848	121.5415568	hotel				
+node	13591916136	Chengdian Hotel	Chengdian Hotel	25.0136267	121.4606997	hotel	3			
+node	13733754124	瀚寓酒店	Hanns House	25.0398406	121.5632267	hotel				https://www.hannshouse.com/
+node	13967895801	歐法行旅	O Fun Hotel	25.0447336	121.5085815	hotel				https://ofunhotel.mydirectstay.com/tw/index.html
+node	13970974001			25.0352714	121.2516126	hostel				
+node	14012103701	RF旅店 富裕自由旅店	RF Hotel - Sanchong	25.0619931	121.4976943	hotel				
+node	14019084374	台北板橋馥華艾美酒店		25.0137825	121.4705595	hotel				
+node	14023480448	凡登東棧商務旅店	Vendome East Inn	25.0416888	121.5520946	hotel				https://www.vdthotel.com.tw/eastinn/news?lg=TW
+node	14158869734	N hotel		25.0430606	121.5130464	hotel				https://www.nhotel.com.tw/
+node	14273442702	OOD Hotel 台北敦北		25.0546481	121.5485788	hotel				https://www.ood-hotel.com/
+way	74144695	麒麟商務會館	Gallery Hotel	25.0559149	121.5967571	hotel				
+way	137077760	君悅酒店	Grand Hyatt Taipei	25.0353019	121.5626348	hotel	5		豐隆大飯店股份有限公司	https://taipei.grand.hyatt.com/
+way	146870024	JR東日本大飯店 台北	Hotel Metropolitan Premier Taipei	25.0523668	121.5415088	hotel	5	Metropolitan Premier	捷福旅館管理顧問股份有限公司	https://taipei.metropolitan.tw/
+way	155814556	茹曦酒店	ILLUME TAIPEI	25.0526987	121.5481227	hotel				https://www.theillumehotel.com/
+way	160703408	台北凱撒大飯店	Caesar Park Taipei	25.0461063	121.5164075	hotel		凱撒飯店	宏國關係事業	https://taipei.caesarpark.com.tw/
+way	173165154	維多麗亞酒店	Grand Victoria Hotel	25.0842878	121.5590715	hotel	5			https://www.grandvictoria.com.tw/
+way	187920919	台北星美休閒飯店	Star Beauty Hotel	25.0845526	121.5212791	hotel				
+way	191757841	捷絲旅	Just Sleep	25.0134657	121.5363630	hotel			晶華國際酒店股份有限公司	https://www.justsleep.com.tw/
+way	198162010	天成文旅華山町	Hua Shan Din	25.0434821	121.5303915	hotel			天成飯店	https://www.huashandin.com.tw/
+way	203723646	台北晶華酒店	Regent Taipei	25.0541836	121.5243123	hotel	5		晶華國際酒店股份有限公司	https://www.regenttaiwan.com/
+way	232562862	相鐵Grand Fresa台北西門	Sotetsu Grand Fresa Taipei Ximen	25.0415919	121.5086472	hotel		相鐵Grand Fresa	相鐵國際台灣股份有限公司	https://sotetsu-hotels.com/grand-fresa/taipeiximen/
+way	232674052	福華飯店	The Howard Plaza Hotel Taipei	25.0374747	121.5430682	hotel				https://www.howard-hotels.com/
+way	236271553	長春商務旅館	Ever Spring Hotel	25.0540525	121.5455444	hotel				http://es.evergreenhotel.com.tw
+way	238513441	美麗信花園酒店	Miramar Garden Taipei	25.0451001	121.5372998	hotel				http://www.miramargarden.com.tw/
+way	238556765	老爺會館台北林森	Royal Inn Taipei Linsen	25.0496799	121.5249441	hotel				https://www.hotelroyal.com.tw/zh-tw/linsen
+way	238572687	福華文教會館	Howard International House	25.0237201	121.5338781	hotel				
+way	244386582	天成大飯店	Cosmos Hotel	25.0463522	121.5183379	hotel	4		天成飯店股份有限公司	https://www.cosmos-hotel.com.tw/
+way	244636889	台北大倉久和大飯店	The Okura Prestige Taipei	25.0525191	121.5233831	hotel	5			https://www.okurataipei.com.tw/
+way	247678969	兄弟飯店	Brother Hotel	25.0522010	121.5445864	hotel				https://www.brotherhotel.com.tw/
+way	251212759	長榮桂冠酒店	Evergreen Laurel Taipei	25.0488591	121.5333147	hotel	5	長榮酒店	長榮集團	http://www.evergreen-hotels.com/branch/taipei
+way	256186589	台北花園大酒店	Taipei Garden Hotel	25.0364020	121.5069771	hotel				https://www.taipeigarden.com.tw/
+way	257236721	薇閣精品旅館林森館	Wego Boutique Hotel-Linsheng	25.0605133	121.5266474	hotel				
+way	260401154	雀客旅館		25.0705977	121.5928467	hotel				
+way	260881640	華山文旅	Wallsun Hotel	25.0442661	121.5304642	hotel			華國大飯店	https://www.wallsun.com.tw/
+way	267163040	台北喜來登大飯店	Sheraton Grand Taipei Hotel	25.0446862	121.5222392	hotel	5			https://www.sheratongrandtaipei.com/
+way	268531082	家美瑞品台北	JiaMei Hotel Taipei	25.0460101	121.5242416	hotel				https://jiameihotel.com/
+way	270135417	台北國軍英雄館	Taipei Hero House	25.0401428	121.5085176	hotel			中華民國軍人之友社	
+way	270600125	德立莊酒店	Hotel Midtown Richardson	25.0425172	121.5093418	hotel	4		德立莊酒店Midtown	https://www.midtownrichardson.com/zh-tw/%E5%BE%B7%E7%AB%8B%E8%8E%8A+Midtown
+way	270600137	叙美精品旅店	Hotel B7	25.0427405	121.5134422	hotel			台北美系列飯店有限公司	http://hotelb7.beautyhotels.com.tw/
+way	270921050	洛碁驛大飯店	Green World Station Hotel	25.0458175	121.5134536	hotel			洛碁實業股份有限公司	https://station.greenworldhotels.com/
+way	271425142	旅樂序精品旅館-2館	Hotel Relax 2	25.0453057	121.5144002	hotel			大員昌實業有限公司	https://www.hotelrelaxclub.com/
+way	271754075	日野苑	Hinoen Hotel	25.0463108	121.5131107	hotel			日野苑股份有限公司	https://hinoenhotel.com/
+way	271754076	璞邸城市膠囊旅店	Bouti City Capsule Inn	25.0463820	121.5134656	hotel			璞邸旅店股份有限公司	http://bouti.com.tw/
+way	272553854	亞都麗緻飯店	The Landis	25.0629000	121.5300025	hotel				
+way	273944883	神旺大飯店(已歇業)	San Want Hotel	25.0411235	121.5509942	hotel		神旺大飯店	旺旺集團	https://www.sanwant.com/
+way	285658088	桃園國際機場 凱悅酒店	Hyatt Regency Taoyuan International Airport	25.0686775	121.2215744	hotel		Hyatt Regency		https://www.hyatt.com/hyatt-regency/en-US/tpera-hyatt-regency-taoyuan-international-airport
+way	291504126	洛碁大飯店林森館		25.0668176	121.5259292	hotel				
+way	292201560	馥都飯店		25.0074987	121.4581390	hotel				
+way	296786576	台北城大飯店	Taipei City Hotel	25.0594064	121.5133229	hotel				http://www.taipei-hotel.tw/
+way	303826490	香城商旅		25.0512880	121.5319735	hotel				
+way	304566640	台北大安伊普索酒店	Episode Daan Taipei	25.0388700	121.5441151	hotel				
+way	305376934	九昱晴美	Jolley Hotel	25.0646695	121.5254998	hotel				
+way	305412544	燦路都飯店	Sunroute Hotel Taipei	25.0630649	121.5233553	hotel				https://zht.sunroute.jp/our-hotels/overseas/hotel-sunroute-taipei.html
+way	306235115	松哖酒店		25.0377800	121.5335240	hotel				
+way	307182100	柯達大飯店	K Hotel	25.0210384	121.5482279	hotel	4			http://dunnan.khotel.com.tw
+way	307986134	Lofe		25.0630004	121.5245149	hotel				
+way	307986142	上樺旅棧		25.0636113	121.5245119	hotel				http://www.goodlife-hotel.com.tw/
+way	308417777	官邸旅館		25.0877900	121.5264085	hotel				
+way	309155294	臺北寒舍艾美酒店	Le Méridien Taipei	25.0380519	121.5679292	hotel				
+way	310080651	國聯大飯店	United Hotel	25.0421764	121.5573318	hotel				
+way	310399643	洛碁大飯店建北商旅	Green World Hotel	25.0510587	121.5362704	hotel				https://jianpei.greenworldhotels.com/
+way	310399669	柯達大飯店	K Hotels Chang-An	25.0486624	121.5332775	hotel				http://changan.khotels.com.tw
+way	310706500	新莊客旅	Landmark Hotel	25.0438519	121.4525371	hotel				https://landmarkhotel.com.tw
+way	311693539	citizenM	citizenM Taipei North Gate	25.0473216	121.5105569	hotel	5	citizenM		https://www.citizenm.com/destinations/taipei/taipei-hotel
+way	312399356	第一大飯店	First Hotel	25.0523838	121.5302986	hotel	3			https://www.firsthoteltaipei.com/
+way	312820723	臺北柔美商旅	Taipei Roumei Boutique Hotel	25.0544334	121.5359073	hotel				https://www.roumeihotel.com.tw/
+way	313129091	寶璞大飯店	Hamp Court Palace	25.0527087	121.5373265	hotel		寶璞國際股份有限公司		https://www.hcpt.com.tw/
+way	313247974	洛碁松江大飯店	Green World Hotel Song Jiang	25.0672178	121.5336579	hotel				
+way	313584145	香城大飯店	Charming City Songshan Hotel	25.0496405	121.5742456	hotel				https://www.city-hotel.com.tw/bussiness/b3/b3-tw.htm
+way	313584147	首都大飯店	Capital Hotel Songshan	25.0497056	121.5756407	hotel				
+way	313704795	悠趣旅店	Urtrip Hotel	25.0484884	121.5448189	hotel				
+way	323306918	丹迪旅社天津店	Dandy Hotel Tianjin Branch	25.0516654	121.5233386	hotel	3			
+way	323306919	天津大飯店	Tien Chin Hotel	25.0510336	121.5234087	hotel				https://www.tienchin.com.tw/
+way	324041282	東門旅店	Dongmen Hotel	25.0344670	121.5277506	hotel				http://dongmenhotel.meworks.co
+way	328692191	皇家飯店	Royal Hotel	25.0463028	121.5143863	hotel	2		皇家大飯店股份有限公司	https://www.taipeiroyalhotel.com/
+way	332396730	北城大飯店	City Hotel Taipei	25.0547882	121.5413127	hotel				https://www.cityhotel.com.tw
+way	332396745	唯客樂飯店	Waikoloa Hotel	25.0549500	121.5377669	hotel				http://www.waikoloa.com.tw
+way	337375565	冠君大飯店		25.0059058	121.4620824	hotel				
+way	337379758	府中棧精品旅館	MRT Hotel	25.0095292	121.4597680	hotel				
+way	340047830	馥華旅店		25.0220405	121.4680944	hotel				
+way	340047831	君利商務旅館		25.0091131	121.4628229	hotel				
+way	343509695	Home Hotel		25.0350660	121.5678872	hotel		@HOME		https://homehotel.com.tw
+way	344102371	紫園旅社		25.0505868	121.5200234	hotel				http://www.purplegarden.com.tw
+way	346886455	東姿商務旅館		25.0535229	121.5316795	hotel				http://www.easternbeauty.tw
+way	346956041	洛碁南京大飯店	Green World Hotel Grand Nanjing	25.0516854	121.5372585	hotel				
+way	347314128	凱統大飯店	KDM HOTEL	25.0419507	121.5335136	hotel				https://www.kdmhotel.com.tw/
+way	347314130	喜瑞飯店	Ambience Hotel	25.0478607	121.5293681	hotel				https://ww.ambiencehotel.com.tw/tw/
+way	347314148	Wow Hotel		25.0422823	121.5293422	hotel				
+way	347411627	福容大飯店台北	The Fullon Hotel Taipei	25.0366500	121.5370391	hotel				http://taipei.fullon-hotels.com/
+way	353678875	攜攜行旅台北台大館	Guide Hotel Taipei ChongQing	25.0214784	121.5269138	hotel		攜攜行旅		http://www.liyuan.tw
+way	355514668	安盛商旅		24.9815509	121.5385948	hotel				
+way	358340642	慶泰大飯店		25.0565798	121.5327884	hotel				
+way	359743631	柯旅天閣飯店		25.0412548	121.5728922	hotel				
+way	360834287	星辰大飯店	Citizen Hotel	25.0364518	121.5275415	hotel				https://citizen.hotel.com.tw/
+way	364511119	和逸台北民生館	Hotel Cozzi Minsheng Taipei	25.0576351	121.5362921	hotel				https://hotelcozzi.com/
+way	366004483	蒲園飯店	Golden Garden Hotel	25.0485113	121.5634722	hotel				http://www.garden-hotel.com.tw/
+way	366797536	密都飯店	Meadow Hotel Taipei	25.0545359	121.5383978	hotel				https://meadow-hotel-taipei.stayhotel.com.tw
+way	367035966	竹林山觀音寺香客大樓		25.0848934	121.3882862	hostel				
+way	368741387	密原宿		25.0409050	121.5062514	hotel				
+way	378143703	金來商旅	Royal Biz Taipei	25.0372556	121.5282870	hotel				https://www.royalbiz.com.tw/
+way	384128260	台北美福大飯店	Grand Mayfull Taipei	25.0805872	121.5537928	hotel	5			https://www.grandmayfull.com/
+way	386016506	正旅館 藍	The Blue by Just Inn	25.0450723	121.5148756	hotel		正旅館 Just Inn	正旅館	https://www.justinn.com.hk/theblue
+way	390780638	柯達大飯店	K Hotels Songjiang	25.0593908	121.5335098	hotel				http://songjiang.khotels.com.tw
+way	390780639	柯達大飯店台北二店	K Hotel ll	25.0618486	121.5231730	hotel				http://taipei2.khotels.com.tw/zh-TW/
+way	390780643	雀客旅館	CHECK inn SongJiang	25.0595064	121.5335091	hotel				https://www.checkinn.com.tw
+way	396400311	藝宿商旅	YI SU HOTEL	25.0532506	121.5139726	hotel				https://taipei.yisuhotel.com/
+way	400582349	三德大飯店	Santos Hotel	25.0648623	121.5186871	hotel				https://www.santoshotel.com/
+way	400582356	台北商旅		25.0528450	121.5451419	hotel				
+way	400582357	雀客旅館台北南京		25.0516901	121.5376284	hotel		雀客旅館		
+way	400582359	國王大飯店	Emperor Hotel Taipei	25.0517862	121.5266621	hotel				https://www.emperorhotel.com.tw/
+way	400582380	神旺商務酒店	Sun Want Taipei Residences	25.0518203	121.5270351	hotel		神旺酒店集團		https://www.swresidences.com/
+way	400582386	馥華商旅		25.0491387	121.5321479	hotel				
+way	400798261	學生宿舍		25.0003009	121.3273934	hostel			桃園市立桃園高級中等學校	
+way	409975934	洛基大飯店		25.0450130	121.5138161	hotel			百利康企業股份有限公司	http://www.hotel-flowers.com.tw/
+way	410479146	旅樂序旅館-3館	Hotel Relax 3	25.0450530	121.5140273	hotel			大員昌實業有限公司	https://www.hotelrelaxclub.com/
+way	413827287	鉑泊客	Poshpacker Hotel	25.0450915	121.5133967	hotel				https://www.poshpackerhotel.com/
+way	415197461	麗京棧酒店	Hotel Intrendy	25.0324765	121.4196033	hotel				
+way	415405675	福泰桔子商務旅館	Forte Orange Hotel	25.0512372	121.5253630	hotel				
+way	419823266	台北世聯商旅	Linkworld Hotel Taipei	25.0507155	121.5318636	hotel				http://www.linkworldhotel.com.tw
+way	419823268	台北馥華商旅	Forward Hotel Taipei	25.0506948	121.5316246	hotel		Forward Hotel	台北馥華商旅集團	https://sj.tfhg.com.tw/
+way	420492856	台北萬豪酒店	Taipei Marriott Hotel	25.0805332	121.5592831	hotel				https://www.taipeimarriott.com.tw/
+way	427778337	天閣酒店	The Tango	25.0826077	121.5241242	hotel		The Tango		http://www.tango-hotels.com
+way	427778339	天雲旅店	Tango Inn	25.0829870	121.5242603	hotel				
+way	427778341		The Tango	25.0828372	121.5241262	hotel				
+way	430830508	賦樂旅居	HOTEL PROVERBS TAIPEI	25.0429182	121.5459883	hotel				https://www.hotel-proverbs.com/
+way	432713673	路徒行旅	Roster Hotel	25.0450208	121.5102651	hotel				
+way	432713685	橙舍青年旅舍	TW Hostel	25.0457199	121.5072090	hostel				
+way	435162027	太平洋商旅		25.0324260	121.5581062	hotel				
+way	435677317	新月商旅	Moon Hotel	25.0507416	121.5277521	hotel				
+way	438785513	薇緹花園飯店		25.0069600	121.3030543	hotel				http://www.wghotel.com.tw/
+way	442195155	台北洲際酒店	InterContinental Taipei	25.0427226	121.5614516	hotel		InterContinental		https://www.ihg.com/intercontinental/hotels/gb/en/new-taipei-city/tpehs/hoteldetail
+way	443814826	海灣假日酒店	HiONE Holiday Hotel	25.0041589	121.5986427	hotel				
+way	447197594	新店仲信會館	The Koos Suite	24.9822890	121.5428437	hotel				http://hsintien.hotel123.com.tw/
+way	447508286	洛基山水閣大飯店		25.0632999	121.5228592	hotel				
+way	448603606	旅樂序精品旅館站前五館	Hotel Relax V	25.0461170	121.5130956	hotel			大員隆實業有限公司	https://www.hotelrelaxclub.com/
+way	451928553	太豪大飯店	Tai Hope Hotel	25.0562209	121.5447043	hotel				
+way	451934172	多郎明哥旅館	Dolamanco Hotel	25.0337491	121.5369663	hotel				https://www.dolamanco.com.tw/
+way	456394945	丹迪旅店	Dandy Hotel - Daan Park	25.0338947	121.5346580	hotel				https://www.dandyhotel.com.tw/
+way	457483395	高雅旅館		25.0248892	121.5526131	hotel				
+way	464942765	台北慕軒	Madison Taipei	25.0340125	121.5493833	hotel				https://www.madisontaipei.com/
+way	473823333	遠東國際大飯店	Shangri-la Eastern Plaza Hotel	25.0262646	121.5494750	hotel				http://www.shangri-la.com/taipei
+way	489266009	國道二號精品商旅	Federal Highway 2 Hotel	25.0108540	121.2802170	hotel				
+way	490397194	華夏大飯店	Highness Hotel	25.0608491	121.3641475	hotel				http://www.highness.com.tw/highness/aboutus.php
+way	491364690	肯特商務飯店		25.0512818	121.4889099	hotel				
+way	493022181	皇家玫瑰旅館	Royal Rose Hotel	25.0509176	121.5255627	hotel				https://www.rosehotel.com.tw/
+way	494737309	台北老爺大酒店	Hotel Royal-Nikko Taipei	25.0537444	121.5229609	hotel			Okura Nikko Hotel Mgmt	https://www.royal-taipei.com.tw/
+way	494737324	京都商務旅館		25.0547198	121.5249795	hotel				http://www.kyotohotel.com.tw
+way	494737326	優美旅館	YOMI Hotel	25.0578382	121.5240166	hotel				http://www.yomihotel.com.tw
+way	494742439	友友大飯店	Friends Hotel	25.0547673	121.5242204	hotel				http://yoyo.ffh.com.tw/
+way	494806129	麗都飯店	Rido Hotel	25.0338637	121.5337567	hotel				http://www.rido.com.tw
+way	495585319	101-S HOTEL 精品旅店		25.0432921	121.5043415	hotel			愛客發有限公司	http://www.ecfa-hotel.com/
+way	503782260	法皇商務飯店		25.0567143	121.6000539	hotel				
+way	505340535	東吳大飯店		25.0603781	121.5110983	hotel				
+way	508934465	歐遊國際連鎖精品旅館		25.0594451	121.4604034	hotel	3			https://www.allurmotel.com/
+way	509108637	華泰瑞舍	Gloria Residence	25.0572200	121.5258817	hotel			華泰大飯店	https://www.gloriaresidence.com/
+way	528751765	同一大飯店	Doitsu Hotel	25.0646450	121.5270169	hotel				https://doitsu.hexa.tw/
+way	529234038	台北警光會館		25.0481437	121.5084333	hostel				
+way	529491045	豪爵大飯店台北館	the Metro Hotel Taipei	25.0651129	121.5315806	hotel				http://www.metro-hotel.tw/
+way	535650742	豐達大樓（酒店式公寓）	FTF Taipei Serviced Apartments	25.0540994	121.5513875	hostel				
+way	540460925	綠藤輕旅	Lütel Hotel	25.0192578	121.2140131	hotel				https://welcometolutelhote.wixsite.com/lutel
+way	540671764	城市商旅	City Suites Gateway	25.0585106	121.2117019	hotel				http://citysuites.com.tw/
+way	549464951	華大旅店		25.0426041	121.5686357	hotel				
+way	550468208	臺北國際大飯店	Taipei International Hotel	25.0517810	121.5250946	hotel				https://htl.hotel.com.tw/
+way	551373871	希爾頓逸林酒店	DoubleTree by Hilton	25.0513798	121.5227647	hotel		DoubleTree		
+way	551374196	盤古捷旅	Panco Inn	25.0513047	121.5248088	hotel				
+way	551448963	東京國際飯店	Tokyo International Hotel	25.0550779	121.5258751	hotel				http://www.tokyohotel.com.tw/
+way	552382017	福容徠旅林口店		25.0602908	121.3627721	hotel				
+way	554778090	五月家青年旅舍	May Rooms Taipei NTU	25.0104933	121.5370143	hostel				https://mayrooms.info/ntu/
+way	555370217	矽谷溫泉會館		24.9829344	121.5331590	hostel				
+way	557039975	圓山大飯店	Grand Hotel Taipei	25.0787252	121.5263883	hotel	5		財團法人台灣敦睦聯誼會	https://www.grand-hotel.org/
+way	558429640	新格hotel		25.0117942	121.3139494	hotel				
+way	559675968	原鶴旅館		25.0126868	121.3133530	hotel				
+way	587073871	台北豪城大飯店復興店	Hope City Fushing Hotel	25.0356876	121.5439358	hotel				http://hope-city-fushing.city-hotel.com.tw/
+way	587075467	大來旅館	Del I Ght Hotel	25.0543700	121.5449095	hotel				
+way	594967979	香亭賓館		24.9924209	121.4311345	hotel				
+way	608562614	有誠商旅	Yusense Hotel	25.0978167	121.5449872	hotel				
+way	615772162	五月家青年旅舍北車館	May Rooms Taipei Main Station	25.0474448	121.5108725	hostel				https://mayrooms.info/main-station/
+way	616131650	驛德世紀酒店	Yidear Hotel	25.0284478	121.4322694	hotel			易德建設	http://www.yidear-hotel.com
+way	616556921	新驛旅店	CityInn Hotel	25.0462285	121.5143863	hotel	3		台北旅店管理顧問股份有限公司	https://c1.cityinn.com.tw/
+way	619244119	五行旅店		25.0686953	121.5194582	hostel				
+way	621951047	內江商旅		25.0415558	121.5058798	hotel				
+way	621951049	大榮Hotel		25.0415433	121.5061162	hotel				
+way	628783526	瓏山林台北中和飯店	RSL Hotel Taipei Zhonghe	24.9948641	121.4852360	hotel				https://www.rslhotel.com/taipei/
+way	642477593	夾腳拖的家 長安 122		25.0504588	121.5180781	hotel				https://www.flipflophostel.com/
+way	647253372	桃園福容大飯店	Fullon Hotel	25.0139530	121.3029710	hotel				
+way	654313802	怡亨酒店	Hotel Éclat	25.0337579	121.5483523	hotel		éclat		
+way	657035012	台北馥敦飯店	Taipei Fullerton Hotel Fuxing South	25.0314602	121.5438841	hotel				https://www.taipeifullerton.com.tw/south
+way	658689502	見潭璞旅	Boutech Jiantan Hotel	25.0891948	121.5203517	hotel				
+way	659462696	瑞格商旅	Regal Hotel	25.0585205	121.5444733	hotel				
+way	659462698	台北馥敦飯店	Taipei Fullerton Hotel (Fuxing North)	25.0590841	121.5445220	hotel				
+way	666930852	清翼居旅店童話館		25.0458090	121.5123884	hotel				
+way	676958765	CHECKinn		25.0587116	121.5374364	hotel				
+way	677361901	上賓大飯店		25.0606449	121.5250228	hotel				
+way	692419657	大欣Hotel		25.0530858	121.5233651	hotel				
+way	698462994	士林萬麗酒店	Renaissance Taipei Shihlin Hotel	25.0931070	121.5291607	hotel				
+way	699577967	華麗大飯店	Ferrary hotel	25.0415226	121.5024689	hotel				https://ferrary.greenworldhotels.com/
+way	712325716	城市商旅	CitySuites	25.0541394	121.5127623	hotel				https://www.citysuites.com.tw/zh-tw
+way	712325717	富順大飯店	Fortune Hotel	25.0541863	121.5126353	hotel				
+way	739470536	豪景大酒店	Hotel Riverview Taipei	25.0445342	121.5014825	hotel				https://www.riverview.com.tw/
+way	739470537	新豪景大酒店	Riverview Suites Taipei	25.0443184	121.5016517	hotel				
+way	751099999	台北美侖商旅	PARKVIEW TAIPEI	25.0531225	121.5303581	hotel				https://www.parkviewtaipei.com
+way	751100005	臺北時代寓所新酒店	Tapestry Collection	25.0438129	121.5236779	hotel		Tapestry Collection		https://tapestry.hilton.com.cn/zh-hk/hotel/taibei/hotel-resonance-taipei-tsaupup/index.html
+way	760240151	城市商旅	City Suites	25.0510247	121.5122363	hotel				
+way	764011462	歐華酒店	The Riviera Hotel	25.0681183	121.5254827	hotel				https://www.rivierataipei.com
+way	764242700	Swiio Hotel Daan	Swiio Hotel Daan	25.0361572	121.5461787	hotel				https://www.swiio.com/
+way	764255601	艾捷天麗大飯店	Hej Taipei Arena Hotel	25.0512957	121.5562740	hotel			艾捷天麗大飯店	
+way	766384213	hotelpoispois		25.0440272	121.5532615	hotel				
+way	772964637	城市商旅		25.0521662	121.5106364	hotel				
+way	776207457	凱旋酒店	Just Palace	25.0775382	121.5780833	hotel				https://www.justpalacehotel.com.tw/
+way	780136290	尤里西斯旅店	Ulysses Hotel	25.0491425	121.5196171	hotel				
+way	815912863	和苑三井花園飯店	MGH Mitsui Garden Hotel	25.0417951	121.5341532	hotel			宏普建設	https://www.gardenhotels.co.jp/taipei-zhongxiao/tw/
+way	819389186	chez nous Hotel		25.0361231	121.5418141	hotel				
+way	823329783	和逸飯店	HOTEL COZZI Blu	25.0175382	121.2137318	hotel				
+way	824745533	板橋凱撒大飯店	Caesar Park Hotel Banqiao	25.0115519	121.4626751	hotel				
+way	824879823	香都大飯店	Charming Castle Hotel	25.0482066	121.5279303	hotel				http://blog.udn.com/homesweep/4272189
+way	827759594	葫蘆商旅		25.0852868	121.5117469	hotel				
+way	866166011	宏都金殿商務飯店		25.0284716	121.5498002	hotel				
+way	890967640	雀客旅館台北杭州	OOD by CHECK inn	25.0399990	121.5254402	hotel		雀客旅館		
+way	904716781	新莊凱悅嘉軒酒店	Hyatt Place New Taipei City Xinzhuang	25.0600057	121.4540931	hotel		Hyatt Place		https://www.hyatt.com/en-US/hotel/taiwan/hyatt-place-new-taipei-city-xinzhuang/tpezn
+way	909701034	桃園智選假日飯店	Holiday Inn Express Taoyuan	25.0119656	121.3097202	hotel				http://www.expresstaoyuan.com/holiday.php
+way	916913289	格拉斯麗飯店台北	Hotel Gracery Taipei	25.0432140	121.5306407	hotel		Hotel Gracery	台灣藤田飯店股份有限公司	https://taipei.gracery.com
+way	940449168	天雲旅棧 台北中山	TangoINN Taipei ZhongShan	25.0503469	121.5233038	hotel				
+way	947774701	悅客商務飯店		25.0213197	121.4795966	hotel				
+way	948948336	力歐時尚旅館	Leo Hotel	25.0462843	121.5109608	hotel				http://www.liohotel.com.tw/
+way	961112126	宜家商旅	La Maison Hotel	25.0742629	121.5897133	hotel				
+way	964960395	嘉仕特飯店		24.9928356	121.3082929	hotel				
+way	974194296	傑仕堡商旅板橋館	Jasper Hotel Banqiao Taipei	25.0176899	121.4693525	hotel				
+way	975263622	皇家季節酒店1館	Royal Seasons Hotel Building 1	25.0537467	121.5127984	hotel				
+way	975263623	皇家季節酒店2館	Royal Seasons Hotel Building 2	25.0537401	121.5126113	hotel				
+way	978015023	新北林口爵怡溫德姆酒店	TRYP by Wyndham Linkou Hotel	25.0655268	121.3600785	hotel		TRYP		https://trypxinbeilinkou.com
+way	991034514	趣淘漫旅-台北	Hotel Cham Cham Taipei	25.0112044	121.4633744	hotel				
+way	997127241	天閣酒店	The Tango Taipei Nanshi	25.0526548	121.5215656	hotel		The Tango		
+way	1024000715	中悅國際大飯店		24.9916462	121.3042944	hotel				
+way	1033763541	上格大飯店		25.0519595	121.4888134	hotel				
+way	1066079247	臺北大直英迪格酒店	Hotel Indigo Taipei North	25.0830826	121.5600644	hotel		IHG洲際酒店集團		http://www.indigo-taipei.com/
+way	1086755231	禾順商旅		25.0369303	121.4973015	hotel				
+way	1088381060	和昌商旅		25.0375424	121.5055131	hotel				
+way	1120717952	青埔商旅	CP Hotel	25.0050283	121.2104655	hotel				
+way	1147283527	紅典酒店式公寓		25.0418280	121.5644547	hotel				
+way	1156704547	銀河 Mini Hotel		25.0414570	121.5075209	hotel				
+way	1191413851	品川商旅		25.0077324	121.4614344	hotel				
+way	1206772004	華航諾富特桃園機場飯店	Novotel	25.0693414	121.2207612	hotel		Novotel		
+way	1216424933	正旅館 信義館	Just Inn Xin Yi (City Hall)	25.0422603	121.5647791	hotel		正旅館		https://www.justinn.com.hk/xinyi
+way	1243377233	承攜行旅台北大稻埕		25.0539717	121.5088993	hotel				https://guidehotel.com.tw/
+way	1291004581	瀚寓夏天	Hanns Summer Hotel	25.0154553	121.5314942	hotel				
+way	1349985744	尊爵大飯店	Monarch Plaza Hotel	25.0247104	121.2976903	hotel				http://www.skyline-hotels.com.tw/tw/
+way	1394478775	桃園榮民醫院宿舍園區		25.0033343	121.3266155	hostel				
+way	1396504466	尊爵天際大飯店	Monarch skyline hotel	25.0519916	121.2882023	hotel				http://www.skyline-hotels.com
+way	1428220224	和陽行館	Villa Bon Moment	25.0206794	121.2238066	hotel				https://www.villabonmoment.com/
+way	1451304633	承攜行旅台北八德館	Guide Hotel Taipei Bade	25.0490299	121.5640941	hotel				
+relation	5668262	桃園學苑		24.9913571	121.3192122	hostel				
+relation	6210816	伊倫商務旅館	Erin Hotel	25.0529011	121.5342037	hotel				https://www.city-hotel.com.tw/
+relation	6595090	劍潭青年活動中心	Chien Tan Overseas Youth Activity Center	25.0780892	121.5238674	hostel				
+relation	7413462	聖心學苑	Sacred Heart Teaching Hostel	25.0372055	121.4297366	hostel			輔大餐旅系	
+relation	8932624	柯旅天閣飯店		25.0412548	121.5728922	hotel				
+relation	9246776			25.0237201	121.5338781	hotel				
+relation	9306889			25.0526987	121.5481227	hotel				
+relation	9306890			25.0556676	121.5479842	hotel				
+relation	9306891	文華東方酒店	Mandarin Oriental Taipei	25.0556676	121.5479842	hotel			Mandarin Oriental Hotel Group	https://www.mandarinoriental.com.hk/taipei/
+relation	18579909	皇家季節酒店	Royal Seasons Hotel	25.0537467	121.5127057	hotel				http://www.royalseasons.com/

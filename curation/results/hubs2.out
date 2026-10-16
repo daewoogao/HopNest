@@ -1,0 +1,34 @@
+@type	@id	name	name:en	iata	@lat	@lon	railway	aeroway
+node	124205138	北京丰台	Beijing Fengtai		39.8499954	116.2953417	station	
+node	251904108	Roma Termini	Rome	XRJ	41.9005815	12.5025272	station	
+node	269996666	北京	Beijing		39.9011168	116.4210134	station	
+node	280179404	หัวลำโพง	Hua Lamphong		13.7375708	100.5171350	station	
+node	539260172	北京南	Beijingnan		39.8634831	116.3723994	station	
+node	1313285471	Roma Tiburtina		IRT	41.9111900	12.5315602	station	
+node	1824913462	北京朝阳	Beijing Chaoyang		39.9433162	116.5024181	station	
+node	3799089099	臺北	Taipei		25.0479308	121.5170046	station	
+node	3933501987	台北	Taipei		25.0475540	121.5170503	station	
+node	4846712797	北京站	Beijing Railway Station		39.9035987	116.4209544	station	
+node	5158580594	北京南站	Beijing South		39.8635548	116.3727527	station	
+node	5216453777	Termini			41.9016577	12.5007858	station	
+node	5299262124	Chamartín			40.4739539	-3.6827087	station	
+node	5299314576	Atocha			40.4069749	-3.6886008	station	
+node	5463450278	北京西站	Beijing West Railway Station		39.8935411	116.3151056	station	
+node	7499028215	Atocha-Cercanías			40.4059688	-3.6887662	station	
+node	7499028216	Madrid-Puerta de Atocha-Almudena Grandes		XOC	40.4056837	-3.6900187	station	
+node	7769630266	กรุงเทพ	Bangkok		13.7393113	100.5166499	station	
+node	7780210950	北京西	Beijingxi		39.8936695	116.3151027	station	
+node	8016534536	北京北	Beijingbei		39.9459061	116.3461866	station	
+node	8658952312	北京南站	Beijing South Railway Station		39.8641006	116.3733186	station	
+node	8986366369	กรุงเทพอภิวัฒน์	Krung Thep Aphiwat		13.8040313	100.5417111	station	
+node	9821007500	Madrid-Chamartín-Clara Campoamor			40.4720571	-3.6822622	station	
+node	11601543001	Tiburtina FS			41.9107613	12.5300600	station	
+way	22875465	Aeroporto di Roma-Ciampino	Rome Ciampino Airport	CIA	41.7992581	12.5927407		aerodrome
+way	159466978	ท่าอากาศยานดอนเมือง	Don Mueang International Airport	DMK	13.9126385	100.6040594		aerodrome
+way	167025457	Aeropuerto Adolfo Suárez Madrid-Barajas	Adolfo Suárez Madrid-Barajas Airport	MAD	40.4950168	-3.5619325		aerodrome
+way	292809708	北京首都国际机场	Beijing Capital International Airport	PEK	40.0803339	116.5938286		aerodrome
+relation	5421750	臺北松山機場	Taipei Songshan Airport	TSA	25.0668955	121.5533466		aerodrome
+relation	6641648	ท่าอากาศยานสุวรรณภูมิ	Suvarnabhumi Airport	BKK	13.6816744	100.7523198		aerodrome
+relation	9260711	北京大兴国际机场	Beijing Daxing International Airport	PKX	39.4972686	116.4313575		aerodrome
+relation	16054538	Aeroporto di Roma-Fiumicino	Rome–Fiumicino Airport	FCO	41.8150760	12.2507614		aerodrome
+relation	19784610	臺灣桃園國際機場	Taiwan Taoyuan International Airport	TPE	25.0791700	121.2313547		aerodrome

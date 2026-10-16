@@ -1,0 +1,2 @@
+27 lines, 534 stations
+  check: 北京雄安R1线: fewer than 2 named stops (under construction?), skipped; OSM relation r17775265

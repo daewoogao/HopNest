@@ -1,0 +1,472 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	256205289	Hotel Morfeo Milano		45.4920557	9.1477207	hotel	4			https://www.hotelmorfeomilano.com/
+node	258076950	Hotel Boutique Duomo		45.4905702	9.1619042	hotel	4			
+node	259590878	Best Western Hotel Astoria		45.4725392	9.1440243	hotel	3	Best Western		https://www.astoriahotelmilano.com/
+node	268567601	Sina de la Ville		45.4659559	9.1922395	hotel	4	Sinahotels		https://www.sinahotels.com/en/h/sina-de-la-ville-milan/
+node	272871166	Hotel Capitol		45.4662081	9.1587534	hotel	4			http://hotelcapitolmilano.com/
+node	278208918	Hotel Ares		45.4962610	9.1794476	hotel	3			https://www.hotelaresmilano.it/
+node	281586580	Amalfi		45.4637703	9.1539053	hotel	2			https://www.hotelamalfimilano.it/
+node	281587949	MiniHotel Tiziano		45.4708689	9.1565256	hotel	4	MiniHotel		https://www.minihotel.it/it/hotels/tiziano/home.html
+node	298985382	Principe di Savoia		45.4797878	9.1963935	hotel	5S			https://www.dorchestercollection.com/en/milan/hotel-principe-di-savoia/
+node	298986172	NH Milano Touring		45.4768221	9.1967233	hotel	4	NH Hotels		https://www.nh-hotels.it/hotel/nh-milano-touring
+node	308842416	Heart Hotel Milano		45.4802756	9.1932355	hotel	4		Invest Hospitality S.p.a.	https://hearthotelmilano.it/
+node	309697006	Enterprise Hotel		45.4867899	9.1573812	hotel	4			https://www.enterprisehotel.com/it/
+node	312513147	iH Hotels Milano Gioia		45.4995245	9.2061485	hotel	4	iH Hotels	iH Hotel	https://www.ih-hotels.com/it/i-nostri-aberghi/ih-hotels-milano-gioia.html
+node	313056110	Hotel Repubblica		45.4803731	9.2017370	hotel	1			https://www.hotelrepubblicamilano.com/
+node	313056120	Hotel delle Nazioni		45.4810952	9.2030484	hotel	3			https://www.hoteldellenazionimilan.com/
+node	313056153	Hotel Mennini		45.4817053	9.2036284	hotel	3			https://www.hotelmennini.com/
+node	358878174	Demo'		45.4888335	9.2031875	hotel	3			https://www.hoteldemo.com/
+node	358878177	Crowne Plaza Milan City		45.4896359	9.2006662	hotel	4	Crowne Plaza		http://www.crowneplazamilan.com/
+node	358880162	Holiday Inn Milano Garibaldi		45.4887269	9.1830526	hotel	4	Holiday Inn		https://www.himilangaribaldi.com/
+node	359580770	NH Collection Milano President		45.4630676	9.1978864	hotel	5	NH		https://www.nh-hotels.com/hotel/nh-collection-milano-president
+node	361387128	Doria Grand Hotel		45.4853848	9.2117393	hotel	4			https://www.doriagrandhotel.it/
+node	401354632	Best Western Hotel Mirage		45.4946406	9.1419987	hotel	4	Best Western		https://www.hotelmirage-milano.com/
+node	439221112	Hotel Piacenza		45.4487958	9.2036849	hotel	3			https://www.hotelpiacenza.com/
+node	540813382	Hotel Losanna		45.4846785	9.1624289	hotel	3			http://www.hotellosannamilano.it/
+node	540824126	Unahotels Scandinavia		45.4855142	9.1641205	hotel	4	Unahotels		https://www.gruppouna.it/unahotels/unahotels-scandinavia-milano
+node	541033852	Regency Hotel		45.4897311	9.1549824	hotel	4	Chateau Hotel		https://regencymilano.com/
+node	571450170	Hotel Brunelleschi		45.4611333	9.1911546	hotel	4			https://www.hotelbrunelleschi.net/
+node	608189551	Four Seasons		45.4694140	9.1953020	hotel	5	Four Seasons		https://www.fourseasons.com/milan/
+node	614388622	Hotel Citta' Studi		45.4715874	9.2275238	hotel	3			https://hotelcittastudi.it/#!/page_home
+node	679447439	Bel Sit		45.4933440	9.1436417	hotel	2			https://www.hotelbelsit.net/
+node	693845199	Hotel Accursio		45.4936766	9.1440952	hotel	3			http://www.accursiohotel.it/
+node	715826979	Hotel Miu		45.4728232	9.1445199	hotel	2			https://www.hotelmiu.com/
+node	715948252	Hotel dei Cavalieri		45.4609080	9.1886889	hotel	4			https://www.hoteldeicavalieri.com/
+node	717988713	Hotel Berna		45.4826479	9.2034008	hotel	4			https://hotelberna.com/
+node	717988716	Hotel Mediolanum		45.4813891	9.2039800	hotel	4			https://mediolanumhotel.com/
+node	729049402	Best Western Hotel Major		45.4471825	9.2091529	hotel	4	Best Western	Best Western	https://www.bwhotelmajor-mi.it/
+node	955957205	Hotel Berlino		45.4904124	9.1528075	hotel	3			
+node	995613970	Hotel Fioralba		45.4637146	9.1387585	hotel	2			http://www.hotelfioralbamilano.it/
+node	1109712532	Best Western Hotel City		45.4792133	9.2101991	hotel	4	Best Western		https://www.hotelcitymilano.it/
+node	1112456187	Galileo		45.4642102	9.1961443	hotel	4			https://www.galileohotelmilan.com/italiano/
+node	1112456291	Hotel Ambasciatori		45.4644571	9.1952874	hotel	4	IH Hotels		https://ih-hotels.com/it/i-nostri-aberghi/ih-hotels-milano-ambasciatori.html
+node	1167969059	Hotel Bolzano		45.4824961	9.2027862	hotel	3			https://www.hotelbolzano.it/
+node	1189928708	Piccolo Hotel		45.4856640	9.1612625	hotel	3			https://www.piccolohotelmilano.org/
+node	1252656926	Antica Locanda dei Mercanti		45.4672963	9.1847222	hotel	4			https://www.locanda.it/
+node	1272557499	Grand Visconti Palace		45.4471527	9.2069388	hotel	4			https://www.grandviscontipalace.com/
+node	1277321358	Verso verde		45.4470652	9.1516493	hotel				https://www.versoverde.it/
+node	1326353434	Hotel Portello		45.4802093	9.1495414	hotel	4	Mini Hotels	Minihotel	https://www.minihotel.it/it/hotels/portello/home.html
+node	1331943464	43 Station Hotel		45.4878692	9.2028501	hotel	3			https://www.43stationhotel.com/it/
+node	1336376834	Acca Palace		45.5104925	9.1744920	hotel	4			
+node	1466717068	Hilton Milan		45.4861640	9.2001268	hotel	4	Hilton	Hilton Hotels	https://www.hilton.com/en/hotels/milhitw-hilton-milan/
+node	1471896703	Duo Milan Porta Nuova		45.4849077	9.1983039	hotel	4	Tribute Portfolio by Marriott		https://www.marriott.com/en-us/hotels/miltx-duo-milan-porta-nuova-a-tribute-portfolio-hotel/overview/
+node	1512688449	Hotel Rio		45.4631056	9.1883935	hotel	3			https://hotelriomilano.it/
+node	1533118079	ibis Milano centro		45.4782928	9.2017763	hotel	3	Ibis		https://all.accor.com/hotel/0933/index.it.shtml
+node	1623772669	King Mokinba Hotel		45.4656506	9.1778515	hotel	4	Mokimba		https://www.hotelkingmilano.com/
+node	1652690895	Hotel Dieci		45.4738362	9.2240932	hotel	4			https://www.hoteldieci.it/
+node	1697399362	Hotel Napoleon		45.4802637	9.2132661	hotel	4			https://www.hotelnapoleonmilano.com/
+node	1698316653	Hotel Susa		45.4676350	9.2268035	hotel	3			https://www.hotelsusamilano.com/
+node	1699886600	Unahotels Cusani		45.4685138	9.1833756	hotel	4	UNA Hotels & Resorts		https://www.gruppouna.it/unahotels/unahotels-cusani-milano
+node	1737981847	Hotel Greco		45.5053268	9.2055666	hotel	2			
+node	1748560989	Hotel Rex		45.4373432	9.2104530	hotel	3			https://www.hotelrexmilano.it/
+node	1759392423	Atlantic Hotel		45.4831661	9.2034252	hotel	4			https://www.atlantichotel.it/
+node	1803128113	Hotel Aspromonte		45.4838780	9.2213361	hotel	3			https://www.hotelaspromonte.it/
+node	1828995190	Starhotels Rosa Grand Hotel		45.4638794	9.1940241	hotel	4	Starhotels		https://collezione.starhotels.com/it/i-nostri-hotel/rosa-grand-milano/
+node	1835139581	Hotel Ascot		45.4580657	9.1914371	hotel	4			https://www.hotelascotmilano.it/
+node	1836751668	Hotel Gran Duca di York		45.4636285	9.1853083	hotel	3			https://www.ducadiyork.com/
+node	1837526851	Hotel Florence		45.4841717	9.2213311	hotel	3			https://www.hotelflorence.it/
+node	1837526861	Hotel Tirreno		45.4840386	9.2213300	hotel	1			https://www.hoteltirreno.eu/
+node	1837748089	nhow Milano		45.4502429	9.1606212	hotel	4	nhow	NH Hotels	http://www.nh-hotels.com/nh/en/hotels/italy/milan/nhow-milano.html
+node	1839663909	UNAHOTELS Galles Milano		45.4804596	9.2117570	hotel	4	UNAHOTELS		https://www.galles.it/
+node	1849612972	Baviera Mokinba Hotels		45.4782737	9.1997936	hotel	4	Mokimba		https://www.mokinba.com/
+node	1849612979	WorldHotel Casati 18		45.4785666	9.2042002	hotel	4		WorldHotels	https://worldhotelcasati18.com/
+node	1849612985	Hotel Fenice		45.4751174	9.2061488	hotel	3			https://www.hotelfenice.it/
+node	1849612990	Hotel Nettuno		45.4794481	9.2078367	hotel	1			http://www.nettunomilano.it/
+node	1855577204	Grand Hotel Et De Milan		45.4699226	9.1924982	hotel	5L			https://www.grandhoteletdemilan.it/
+node	1855592426	Hotel Rossovino		45.4612342	9.2269339	hotel	2			https://www.hotelrossovino.it/
+node	1855655348	Hotel Cavour		45.4726681	9.1943755	hotel	4			https://www.hotelcavour.it/
+node	1857902555	Hotel Mercure Milano Centro		45.4747329	9.2059672	hotel	4	Mercure Hotels		https://all.accor.com/hotel/5705/index.en.shtml
+node	1858914166	Art Hotel Navigli		45.4502107	9.1697420	hotel	4			https://www.arthotelnavigli.com/
+node	1925808565	New generation Hostel Navigli		45.4532848	9.1844790	hostel		New Generation Hostel		
+node	1938014502	Hotel Milano Navigli		45.4532344	9.1805175	hotel	3			https://www.hotelmilanonavigli.it/
+node	1978573759	Mia Aparthotel		45.4841736	9.2222264	hotel	1			https://www.miaaparthotel.it/
+node	1978573785	Hotel Montecarlo		45.4843703	9.2239491	hotel	3			https://www.hotelmontecarlomilano.it/
+node	2016985972	Hotel Sempione		45.4785522	9.2000480	hotel	3			https://www.hotelsempione.it/
+node	2046739239	Ambra		45.4849688	9.2273418	hotel	1			
+node	2051364302	Roxy Hotel		45.4719819	9.2076314	hotel	3			https://www.roxymilano.com/
+node	2064483928	MEC Hotel		45.4522736	9.2150185	hotel	3			https://www.hotelmec-milano.it/
+node	2101707168	Radisson Blu Hotel		45.5006951	9.1443732	hotel	4	Radisson Blu		https://www.radissonhotels.com/en-us/hotels/radisson-blu-milan?cid=a:se+b:gmb+c:emea+i:local+e:rdb+d:cese+h:ITMIL1https://www.radissonhotels.com/en-us/hotels/radisson-blu-milan
+node	2104853263	QC Room		45.4510665	9.1921213	hotel	4			
+node	2131495758	Sonder Missori		45.4586125	9.1879080	hotel	3	Sonder		https://www.sonder.com/
+node	2159413081	Ostello Bello		45.4606852	9.1811069	hostel		Ostello Bello		https://ostellobello.com/en/hostel/milan-duomo/
+node	2263249745	Hotel Vienna		45.4841838	9.2333436	hotel	3			https://www.hotelviennamilano.com/
+node	2272639843	Tocq Hotel Milano		45.4827602	9.1864205	hotel	4			https://www.tocq.it/
+node	2279452828	Hotel Sant'Ambroeus		45.4602395	9.1658179	hotel	3			https://www.hotelsantambroeus.it/
+node	2310496142	Hotel Gamma		45.4838640	9.2363907	hotel	3			https://hotelgammamilano.it/it/
+node	2329193232	Hotel Lugano		45.4843966	9.2335555	hotel	3			https://www.luganohotel.net/it/index.asp
+node	2387910031	Hotel Nuovo Metro'		45.5012679	9.2214832	hotel	3			https://www.hotelnuovometro.it/it/
+node	2399642744	Hotel La Madonnina		45.4630365	9.1883675	hotel	3			https://www.hotellamadonninamilano.it/
+node	2399642753	Unahotels Maison Milano		45.4633181	9.1883932	hotel	4	UNA Hotels & Resorts		https://www.gruppouna.it/esperienze/maison-milano
+node	2400614072	Straf Hotel		45.4652280	9.1912446	hotel	4	Design Hotels		https://www.straf.it/
+node	2400614074	The Gray		45.4655497	9.1913912	hotel	5	Sina Hotels	Sina Hotels	https://www.sinahotels.com/en/h/sina-the-gray-milan/
+node	2417414824	Albert Hotel		45.4883031	9.2045571	hotel	3			http://www.alberthotel.it/
+node	2417414834	Hotel Central Station		45.4878879	9.2039924	hotel	1			https://www.hotelcentralstation.com/
+node	2417414838	Best Western Madison Hotel		45.4881943	9.2015953	hotel	4	Best Western		https://www.madisonhotelmilano.com/
+node	2480337232	Leonardo Hotel		45.4824609	9.1757479	hotel	4	Leonardo Hotels		https://www.leonardo-hotels.it/milan/
+node	2493841055	Hotel Sanpi Milano		45.4777589	9.2031432	hotel	4			https://hotelsanpimilano.it/
+node	2529864215	Aethos Milan		45.4531418	9.1789612	hotel	4	Aethos		https://www.aethoshotels.com/milan/
+node	2538832005	Eurohotel		45.4742219	9.2077862	hotel	3			https://www.eurohotelmilano.it/
+node	2561728086	Hotel Sunflower		45.4987906	9.1661657	hotel	4			https://www.hotelsunflower.it/
+node	2572528848	Melià Milano		45.4791849	9.1458654	hotel	5	Melià		https://www.melia.com/en/hotels/italy/milan/melia-milano/index.htm
+node	2589272454	Hotel Manin		45.4740024	9.1960177	hotel	4			https://www.hotelmanin.it/
+node	2633910127	Santa Barbara Hotel		45.4205544	9.2589615	hotel				https://www.hotelsantabarbara.it/
+node	2638303012	Hotel Sara		45.4854966	9.2200787	hotel	2			https://www.hotelsara.it/
+node	2688617791	HD Hotel Milano		45.4835638	9.2155610	hotel	3			http://hdhotel.it
+node	2774913920	Maison Borella		45.4521241	9.1757625	hotel	4		Hotel Maison Casa Borella Srl	https://www.hotelmaisonborella.com/
+node	2836084621	Hotel Brivio		45.5056493	9.1786761	hotel	2			
+node	2838475463	Garibaldi Palace		45.4762321	9.1841228	hotel	3			
+node	2838508878	Urban Hive		45.4770811	9.1844946	hotel	4			https://www.urbanhivehotels.com/milano/
+node	2909096958	Hotel Andreola Central		45.4839671	9.2076329	hotel	4			https://www.andreolahotel.it/
+node	2973096918	Palazzo Cordusio Gran Meliá		45.4651551	9.1867772	hotel		Meliá		https://www.melia.com/it/hotels/italia/milano/palazzo-cordusio-gran-melia
+node	2981709624	Hotel London		45.4674045	9.1842451	hotel	2			
+node	2993513336	Hotel Arno		45.4794092	9.2033543	hotel	1			https://www.hotelarno.com/
+node	2993628005	Armani Hotel Milano		45.4705667	9.1930102	hotel	5L			https://www.armanihotelmilano.com/
+node	3007564269	Hotel Spadari al Duomo		45.4636231	9.1868743	hotel	4			https://www.spadarihotel.com/
+node	3011974302	NH Machiavelli		45.4776350	9.2015517	hotel	4	NH Hotels		https://www.nh-hotels.it/hotel/nh-milano-machiavelli
+node	3012733093	The Carlton Milano		45.4692053	9.1984661	hotel		Rocco Forte Hotels		
+node	3049189782	Hotel San Guido		45.4832684	9.1814658	hotel	3			https://www.hotelsanguido.com/
+node	3061365065	Hotel La Caravella		45.4642109	9.2185729	hotel	2			https://www.hotellacaravella.it/
+node	3062903397	Hostel Colours		45.4847028	9.2327536	hostel				
+node	3066956902	Hotel Venini		45.4937519	9.2168987	hotel	3			https://www.hvenini.it/
+node	3089771138	New Generation Hostel Urban Brera		45.4755225	9.1922616	hostel				https://urbanbrera.newgenerationhostel.it/
+node	3119348291	Gogol'Ostello		45.4846834	9.1628174	hostel				http://www.gogolostello.it/
+node	3126725613	Meininger Milan Garibaldi		45.4908467	9.1711766	hostel		Meininger	Meininger Hotels	https://www.meininger-hotels.com/en/hotels/milano/hotel-milan-garibaldi-station/
+node	3210709344	Milan Suite Hotel		45.5002873	9.1425149	hotel	4			https://www.milansuitehotel.com/
+node	3217982898	Hotel Auriga		45.4840952	9.2009145	hotel	4			https://www.auriga-milano.com/
+node	3217983449	Hotel Marconi		45.4821264	9.1986565	hotel	4		Dotcom Consulting	https://www.marconihotel.it/
+node	3273667728	Sheraton Diana Majestic		45.4738753	9.2067172	hotel	4	Sheraton		https://www.marriott.it/hotels/travel/milsi-sheraton-diana-majestic-milan/
+node	3283497861	Hotel Leonardo da Vinci		45.4772201	9.2255237	hotel	1			http://www.albergoleonardodavinci.it/
+node	3373079344	Hotel St. George		45.4771542	9.2054184	hotel	4			https://hotelstgeorge.it/
+node	3412762106	Mercure Milano Solari		45.4564997	9.1685672	hotel	4	Mercure		https://all.accor.com/hotel/7926/index.it.shtml
+node	3475286019	Hotel Trentina		45.4832273	9.2213628	hotel	2			https://www.htrentina.it/
+node	3475508238	Hotel Malta		45.4853521	9.2194546	hotel	1			https://www.hotelmalta.it/
+node	3475508287	Hotel Adler		45.4850254	9.2194339	hotel	3			https://www.hoteladlermilano.it/
+node	3514100132	Galla		45.4855389	9.2292325	hotel	1			
+node	3521819701	Aparthotel Casa Mia		45.4777221	9.1988509	hotel	2			https://www.aparthotelcasamia.com/
+node	3521849181	Hotel Melià Il Duca		45.4794180	9.1961835	hotel	5			https://www.melia.com/en/hotels/italy/milan/me-milan-il-duca/index.htm
+node	3521852266	Windsor Hotel		45.4795392	9.1952090	hotel	4			https://www.hotelwindsormilan.com/
+node	3643663409	Hotel Flora		45.4830725	9.2030407	hotel	3			https://www.hotelfloramilano.com/
+node	3666964425	Hotel Scarlatti		45.4834460	9.2085280	hotel				
+node	3718174057	Hotel Viva Milano		45.4704726	9.2226666	hotel	3	Sercotel Hotels		https://www.vivahotelmilano.com/
+node	3721412707	Hotel Dei Fiori		45.4366739	9.1718160	hotel	3			https://www.hoteldeifiori.com/it
+node	3817760893	Hotel Calypso		45.4838746	9.2097900	hotel	1			https://www.hotelcalypsomilan.com/
+node	3817760894	Hotel Eden		45.4817559	9.2081076	hotel	2			https://www.hoteleden.mi.it/
+node	3817760895	Hotel Mondial		45.4818583	9.2079237	hotel	2			
+node	3817760900	Grand Hostel Coconut		45.4816435	9.2078380	hostel				http://www.coconuthostel.it/
+node	3817766829	Hotel Charly		45.4824480	9.2081637	hotel	2			https://www.hotelcharly.com/
+node	3817766830	Hotel Mazzini		45.4817419	9.2076600	hotel	3			http://www.hotelmazzini.com/
+node	3817766831	Hotel Paradiso		45.4823560	9.2090137	hotel	2			https://www.hotelparadisomilan.com/
+node	3817766832	Hotel Salerno		45.4816897	9.2082372	hotel	3			https://albergo-salerno.com/
+node	3817766850	Hotel 2000		45.4819700	9.2076980	hotel	2			
+node	3817766856	The Best Hotel		45.4822637	9.2089370	hotel	2			https://www.thebesthotel.it/
+node	3848619949	Keb Hotel Vitruvio		45.4830691	9.2051835	hotel	3			https://www.hotelvitruvio.com/
+node	3848620459	Just Hotel		45.4833761	9.2029625	hotel	4			https://www.justhotelmilano.it/
+node	3848620460	Hotel Boston		45.4825641	9.2037536	hotel	2			http://hotelbostonmilan.com/
+node	3848620461	Hotel Colombia		45.4829671	9.2041416	hotel	4			https://www.hotelcolombiamilano.com/
+node	3848620462	Smart Hotel Milano		45.4833685	9.2032498	hotel	3			https://www.smarthotelmilano.it/
+node	3848621226	Spice Hotel		45.4836296	9.2047004	hotel	3			https://www.spicehotelmilano.it/
+node	3848621234	Glam Hotel		45.4838059	9.2034199	hotel	4			http://www.glamhotelmilano.it/
+node	3848621236	Hotel Garda		45.4829679	9.2030663	hotel	3			https://www.hotelgardamilan.com/
+node	3848621657	Hotel Bernina		45.4832506	9.2029902	hotel	3			https://www.hotelbernina.com/
+node	3848621658	Hotel Canova		45.4826332	9.2031277	hotel	3			https://www.hotelcanova.it/
+node	3911451324	Hotel Teco		45.4780585	9.2091844	hotel	3			https://www.hotelteco.it/it/
+node	3911451328	Starhotels Ritz		45.4779514	9.2094350	hotel	4	Starhotels		https://www.starhotels.com/it/i-nostri-hotel/ritz-milano/
+node	3935587729	Hotel Bicocca		45.5023104	9.2015709	hotel	1			https://www.hotelbicocca.com/
+node	3991739848	Uptown Palace		45.4574898	9.1919471	hotel	4			https://www.uptownpalace.com/
+node	3991744051	Hotel Canada		45.4573757	9.1910934	hotel	3			https://www.canadahotel.it/
+node	3991745680	Lloyd Hotel		45.4580557	9.1923042	hotel	4			https://www.lloydhotelmilano.it/
+node	4018609833	Cascina Bellaria		45.4836835	9.1050710	hostel			Atlha Onlus	
+node	4041811667	Hotel Terminal		45.4900361	9.2055894	hotel	3			https://www.hotelterminalmilano.com/
+node	4075133279	Hotel Le Querce		45.4752081	9.1447722	hotel	2			https://www.hotellequercemilano.it/
+node	4086308099	Palazzo Parigi		45.4733994	9.1911115	hotel	5			https://www.palazzoparigi.com/
+node	4131892291	Hotel New Salus		45.5118515	9.1749225	hotel	1			
+node	4157927406	Hotel Brianza		45.4772413	9.2016550	hotel	3			http://www.hotelbrianza.it/
+node	4187613401	Guest House Brianza Room		45.4889186	9.2098669	hostel				
+node	4208569906	AV Boutique Hotel		45.4836049	9.2039309	hotel	2			https://www.avhotelmilano.it/
+node	4212583091	Bianca Maria Palace Hotel		45.4635486	9.2069192	hotel	4			https://www.biancamariapalace.com/
+node	4238354490	Hotel San Francisco		45.4854527	9.2232978	hotel	3			https://www.hotel-sanfrancisco.it/
+node	4272045359	QUO Hostel		45.4582226	9.2047312	hostel				https://quomilano.com
+node	4274889100	Hotel Due Giardini & Depandance		45.4808263	9.2074676	hotel	2			https://www.hotelduegiardini.it/
+node	4277857365	Hotel Soperga		45.4884410	9.2101987	hotel	3			https://www.hotelsopergamilan.com/
+node	4277857366	Milano Vintage Hotel		45.4883752	9.2098354	hotel	1			
+node	4283800961	Hotel Lombardia		45.4873315	9.2237631	hotel	4			https://hotellombardia.com/
+node	4286779588	Hotel Ferton		45.4803563	9.2029742	hotel	3			http://www.hotelferton.it/
+node	4302430592	Hotel Star		45.4673954	9.1861840	hotel	3			https://www.hotelstar.it/
+node	4305608677	Bulgari Hotel Milano		45.4700904	9.1892977	hotel	5	Bulgari		https://www.bulgarihotels.cohttps://www.bulgarihotels.com/en_US/milan
+node	4305608745	Mandarin Oriental Milano		45.4694631	9.1909801	hotel	5S	Mandarin Oriental Hotel		https://www.mandarinoriental.com/milan/la-scala/luxury-hotel
+node	4315739003	Hotel Vecchia Milano		45.4642098	9.1819850	hotel	3			https://www.hotelvecchiamilan.com/
+node	4333652016	Hotel Astrid		45.4854667	9.2213185	hotel	2			http://www.hotel-astrid.it/
+node	4359209301	Star Hostel		45.4971137	9.1457489	hostel				https://star-hostel.hotels-milan.info/it/
+node	4362520389	Mio Hostel		45.4822113	9.2397340	hostel				https://miohostel.com/
+node	4381970248	Room Mate Giulia Hotel		45.4651195	9.1893543	hotel	4	Room Mate	Room Mate	https://room-matehotels.com/en/giulia/
+node	4381970255	TownHouse Duomo Milano		45.4649448	9.1893721	hotel	5		TownHouse Hotels	https://duomo.townhousehotels.com/
+node	4381970256	Galleria Vik Milano		45.4657526	9.1893633	hotel	5			https://galleriavikmilano.com/it/
+node	4444300015	Ibis Styles Milano Centro		45.4794329	9.2090800	hotel	3	Ibis Styles		https://all.accor.com/hotel/A024/index.it.shtml
+node	4457862054	Hotel Bogart 2		45.4917873	9.1664871	hotel	3			https://www.hotelbogart.com/
+node	4537488522	Genius Hotel Downtown		45.4671478	9.1824420	hotel	3			https://www.geniushoteldowntown.com/
+node	4555772439	Hotel La Vignetta		45.4516684	9.1818804	hotel	1			https://www.lavignettahotel.it/
+node	4604731807	Lancaster Hotel		45.4759959	9.1663323	hotel	3			https://lancasterhotel.it/
+node	4612196733	Hotel 26		45.4858721	9.2206173	hotel				
+node	4621725792	Flower Hostel		45.5054333	9.2066574	hostel				
+node	4654764963	Crivi's Hotel		45.4529583	9.1961593	hotel	4			https://crivis.com
+node	4715315343	Hotel Mignon		45.4831325	9.1673605	hotel	1			https://www.hotelmignon.org/
+node	4756745053	Hotel Minerva		45.4538536	9.1708286	hotel	3			https://www.hotelminervamilan.com/
+node	4785126221	B&B Hotel Milano Sant'Ambrogio		45.4628112	9.1695565	hotel	3	B&B Hotels		https://www.hotel-bb.com/it/hotel/milano-sant-ambrogio.htm
+node	4841256848	Hotel Rallye		45.4811909	9.2078163	hotel	2			https://rallye.worhot.com/
+node	4842471998	Hotel Bagliori		45.4806803	9.2065282	hotel	3			https://hotelbagliori.com/
+node	4852795451	Hotel Catalani		45.4880443	9.2245386	hotel	2			https://catalani.worhot.com/
+node	4864383571	Hotel Nasco		45.4847319	9.1596511	hotel	4			https://www.hotelnascomilano.it/
+node	4869954698	Euro Inn		45.4929938	9.2176985	hotel	2			https://euro-inn-b.worhot.com/
+node	4885250161	Hotel Magna Pars		45.4525437	9.1670327	hotel	5			https://www.magnapars.it/
+node	4992414553	Collini Rooms		45.4520473	9.2496322	hotel	3			https://www.collinirooms.it/
+node	5033959374	Santa Marta Suites		45.4631498	9.1836214	hotel	4			http://santamartasuites.com/
+node	5033959534	Hotel Mentana		45.4623346	9.1814375	hotel	4			https://www.hotelmentanamilano.it/
+node	5074925276	Hotel Zara Milano		45.4913932	9.1926867	hotel	3			https://www.hotelzaramilano.com/
+node	5106617191	Hotel Merano		45.4781831	9.2025662	hotel	4			
+node	5122196185	Parma Hotel		45.4847103	9.1627264	hotel	2			https://www.hotelparmamilano.it/
+node	5160719813	"Puccini Hotel Milan, Tapestry Collection by Hilton"		45.4794022	9.2098064	hotel	4	Tapestry Collection by Hilton	Hilton	https://www.hilton.com/en/hotels/mxpmiup-puccini-hotel-milan/
+node	5160739457	Oasi Village Hotel		45.4826055	9.2238686	hotel	3			https://www.oasivillagehotel.it/
+node	5172154821	Hotel Iride		45.4859772	9.2351382	hotel	2			http://iridehotel.it/
+node	5189988223	Hotel Adam		45.5044890	9.2463296	hotel	4			http://www.hoteladammilan.com/italiano/
+node	5259440056	Tne Unique Hotel		45.4708783	9.1840372	hotel	5			https://www.hoteltheunique.com
+node	5268722010	Hotel Piola		45.4829770	9.2227779	hotel	2			https://hotelpiola.com/
+node	5287291617	Palazzo Segreti		45.4672070	9.1841760	hotel	4			http://www.palazzosegreti.it/
+node	5294012785	Aurora		45.4772360	9.2081371	hotel	1			http://www.hotelauroramilano.com/en/
+node	5300438333	Antica Locanda Leonardo		45.4657856	9.1691020	hotel	3			https://www.anticalocandaleonardo.com/it/
+node	5350658312	Clerici Boutique Hotel		45.4673930	9.1868050	hotel	4			https://www.clericiboutiquehotel.it/
+node	5390794437	Hotel Aurelia		45.4821875	9.2163982	hotel	2			https://www.hotelaurelia.it/
+node	5393514684	Hotel Nizza		45.4859149	9.2197351	hotel	2			https://www.hotelnizzamilano.it/
+node	5393514685	Hotel Paola		45.4859149	9.2196634	hotel	1			https://www.hotelpaola.it/
+node	5420281324	Hotel Valganna		45.5025567	9.1618637	hotel	3			https://www.hotelvalganna.com/
+node	5423147584	Hotel Domenichino		45.4720229	9.1479695	hotel	3			https://www.hoteldomenichino.com/
+node	5479954791	B&B Hotel Milano Central Station		45.4814783	9.2033065	hotel	3	B&B Hotels		https://www.hotel-bb.com/
+node	5567294345	Hotel Regina		45.4595643	9.1797242	hotel	4			https://www.hotelregina.it/
+node	5567294352	Hotel Pierre		45.4595211	9.1769569	hotel	5			https://www.hotelpierremilano.it/
+node	5567901033	Meininger Milano Lambrate		45.4863501	9.2387273	hostel		Meininger		https://www.meininger-hotels.com/it/hotel/milano/hotel-milano-lambrate/
+node	5690458430			45.5196201	9.2255691	hostel				
+node	5694558364	Hotel Siro		45.4916715	9.2159119	hotel	1			https://www.hotelsiro.it/
+node	5695173923	Hug Milano		45.4943979	9.2163609	hostel				https://hugmilano.com/
+node	5759876311	Montebianco Mokinba Hotels		45.4787864	9.1446108	hotel	4	Mokinba Hotels	Mokinba Hotels	https://www.hotelmontebianco.com/
+node	5759888467	Lido Hotel		45.4812971	9.1441494	hotel	3			https://www.lidohotelmilano.com/
+node	5759888479	Hotel Oro Blu		45.4806615	9.1438436	hotel	3			https://www.hoteloroblumilano.it/
+node	5800748799	Old Milano House		45.4823205	9.2173873	hostel				
+node	5800748800	Lion Hostel		45.4824086	9.2173879	hostel				
+node	5800748801	Scacco Matto		45.4823622	9.2173864	hostel				
+node	5825014541	Biocity Hotel		45.4924354	9.2065949	hotel	3			https://www.biocityhotel.it/en
+node	5999726569	Hotel Demidoff		45.4796422	9.2115480	hotel	3			https://demidoffhotelmilano.com/
+node	6172424292	Convertini		45.5108638	9.2484924	hotel	2			https://www.hotelconvertini.com
+node	6447853004	Five		45.4507833	9.2034429	hotel	3			https://www.hotelfive.it/
+node	6812401714	Hotel Pavone		45.4627218	9.2045697	hotel	3			https://www.hotelpavone.com/
+node	6886861205	Hotel des Etrangers		45.4549549	9.1537357	hotel	3			https://www.hoteldesetrangers.it/
+node	6943345585	Hotel Carlo Goldoni		45.4692392	9.2219665	hotel	2			https://www.hotelcarlogoldonimilano.it/it/index.php
+node	6944486688	J24 Hotel		45.4973554	9.1807236	hotel	4			https://www.j24hotelmilano.it/
+node	7082441258	Hotel Emmy		45.4645538	9.1394944	hotel	1			
+node	7090366447	Hotel Panizza		45.4640399	9.1633514	hotel	3		Altirori sas	https://www.hotelpanizza.it/
+node	7139729501	Hotel Wagner		45.4684379	9.1550231	hotel	4			https://www.hotelwagnermilano.it/it/
+node	7235042681	Hotel The Square Milano Duomo		45.4607835	9.1893098	hotel	4			https://www.thesquaremilano.com/
+node	7822250670	Petit Palais		45.4559634	9.1872445	hotel	4			https://www.petitpalais.it/
+node	7922129645	Hotel Campion		45.4748330	9.1511433	hotel	3			https://www.hotelcampion.com/it/
+node	8279923148	Hotel Marte		45.4418908	9.1759682	hotel	2			http://www.hotelmarte.it/
+node	8419465243	Hotel Kennedy		45.4771542	9.2061615	hotel	1			
+node	8419465244	Hotel San Tomaso		45.4771742	9.2061156	hotel	1			
+node	8606106499	Molise 2		45.4534737	9.2247235	hotel	3			http://www.hotelmolise2.it
+node	8606113395	Unahotels Mediterraneo		45.4517642	9.2058249	hotel	4	Unahotels	Gruppo UNA S.p.a.	https://www.gruppouna.it/unahotels/unahotels-mediterraneo-milano
+node	8606122147	Hotel di Porta Romana		45.4511719	9.2078088	hotel	3			https://www.hotelportaromanamilan.com/
+node	8606430651	Hotel Fiera Congressi		45.4752966	9.1532864	hotel	3			http://www.hotelfieracongressi.com
+node	8614235742	Novotel Milano Nord Ca' Granda		45.5067094	9.1959970	hotel	4	Novotel		https://all.accor.com/hotel/1140/index.it.shtml
+node	8824497599	Brenta		45.4421821	9.2175880	hotel	2			https://www.hotelbrentamilano.com/
+node	8909550787	NYX Hotel Milan		45.4868639	9.2017530	hotel	4			https://www.leonardo-hotels.it/milan/nyx-hotel-milan
+node	8933988911	JR Hotels Bocconi Milano		45.4508286	9.1947501	hotel	4	JR Hotels & Resorts		https://jr-hotels.com/en/collection/jr-hotels-bocconi-milano
+node	8951040465	H21		45.4993955	9.2230602	hotel	3			
+node	8996608161	ODSweet Hotel		45.4634714	9.1884012	hotel	4			https://www.odsweethotel.com/
+node	9041352398	Babila Hostel		45.4641609	9.2033209	hostel				https://www.babilahostel.it
+node	9125970107	Hotel Trento		45.5040861	9.2410547	hotel	1			
+node	9126266884	Hotel Mayorca		45.4689354	9.2257722	hotel	3			https://www.hotelmayorca.it/
+node	9177525617	YellowSquare Milano	YellowSquare Milan	45.4529524	9.2050849	hostel				
+node	9352993967	The Street Milano Duomo		45.4656854	9.1917188	hotel	4			https://www.thestreetmilano.com/
+node	9353414787	Hotel Ideale		45.4705158	9.2174828	hotel	3			http://www.hotelidealemilano.it/
+node	9378921750	Radisson Collection Hotel Palazzo Touring Club Milan		45.4589615	9.1877174	hotel	5	Radisson Collection		https://www.radissonhotels.com/it-it/hotel/radisson-collection-milan-palazzo-touring-club
+node	9383801883	Savona 18 Suites		45.4552820	9.1676205	hotel	4			https://www.savona18suites.it/
+node	9481333843	Plus Welcome Milano		45.4370601	9.1643853	hotel	4			https://www.pluswelcomemilano.com/index.php/en/
+node	9516162647	Hotel Seven Rooms Milano		45.4709603	9.2535433	hotel	2			https://www.sevenroomsmilano.com/
+node	9516307922	The Hub Hotel		45.5138270	9.1194771	hotel	4			https://www.thehubhotel.com/
+node	9516720081	Hotel Bovisa		45.5023395	9.1620398	hotel	2			
+node	9516750870	Hotel Liguria		45.4379007	9.2001385	hotel	2			https://www.hotelliguriamilano.it/
+node	9519510945	Hotel San Biagio		45.4832365	9.2157875	hotel	1			
+node	9521337403	Hotel Gambara		45.4645331	9.1395023	hotel	1			https://www.hotelgambara.net/
+node	9525153060	Hotel Eva		45.4794360	9.2033863	hotel	1			https://www.hotelevamilano.com/
+node	9526638642	Hotel Bogart		45.4915242	9.1668917	hotel	2			https://www.hotel-bogart.com/it/index.php
+node	9526774695	Hotel Siena		45.4775305	9.2019158	hotel	2			http://www.hotelsienamilano.com/
+node	9526815277	Hotel Porta Venezia		45.4767991	9.2030254	hotel	2			
+node	9527184930	Golden Milano Hotel		45.4692388	9.2218970	hotel	3			https://www.goldenhotelmilano.it/it/index.php
+node	9527221902	Magville Hotel		45.4693557	9.2140106	hotel	4			https://www.magvillehotel.com/
+node	9527234853	La Felicita'		45.4692384	9.2218609	hotel	1			
+node	9527246609	Royal		45.4692406	9.2219304	hotel	3			https://hotel-royal-milan.hotels-milan.info/it/#main
+node	9527335320	Chateau Monfort		45.4682205	9.2074416	hotel	5			https://www.hotelchateaumonfort.com/it/
+node	9527538833	Hotel del Sud		45.4435797	9.2163846	hotel	1			https://www.hoteldelsud.com/
+node	9529538260	Hotel Indigo Milan		45.4672257	9.2018747	hotel	4	Hotel Indigo		https://www.indigomilano.it/it/
+node	9529628336	Hotel Metro'		45.4666344	9.1568086	hotel	3			https://www.hotelmetro.it/
+node	9529634616	Hotel Midtown		45.4623415	9.2191929	hotel	1			https://hotelmidtown.it/
+node	9529643273	Hotel America		45.4620380	9.2182645	hotel	1			https://www.milanohotelamerica.it/
+node	9530344804	Hotel Nuovo Milano		45.4642415	9.1945200	hotel	1			https://www.hotelnuovomilan.com/
+node	9530546312	Hotel Poma		45.4656233	9.2163585	hotel	3			https://lnx.hotelpoma.com/
+node	9530569617	Hotel Castelletto		45.4655917	9.2165608	hotel	2			https://hotelcastelletto.it/
+node	9530577023	Hotel Delizia		45.4654567	9.2194676	hotel	2			https://www.hoteldelizia.com/
+node	9532613679	Hotel Milano Castello		45.4673662	9.1850179	hotel	3			https://www.hotelmilanocastello.com/
+node	9532635295	B&B Hotel Milano City Center Duomo		45.4673424	9.1849392	hotel	3	B&B Hotels		https://www.hotel-bb.com/it/hotel/milano-city-center-duomo
+node	9540309460	Antica Locanda Solferino		45.4781292	9.1884156	hotel	2			https://www.anticalocandasolferino.com/
+node	9540423477	Unahotels Maison Century		45.4847382	9.1995101	hotel	4	UNA Hotels & Resorts		https://www.gruppouna.it/unahotels/unahotels-century-milano
+node	9540452832	Milano Verticale UNA Esperienze		45.4816395	9.1886795	hotel	4	Una hotels & resorts		https://www.gruppouna.it/esperienze/milano-verticale
+node	9544756786	Hotel Acapulco		45.4856147	9.2233695	hotel	1			https://acapulco-milano.worhot.com/
+node	9544793793	21 House of Stories - Milano Città Studi		45.4783086	9.2205149	hotel	3			https://www.21wol.it/
+node	9544942150	Palazzo Cornalia		45.4825233	9.1968250	hotel	4			https://www.palazzocornalia.com/
+node	9544942480	Fifty House		45.4640859	9.2089295	hotel	5			https://www.fiftyhouse.com/
+node	9544986314	Hotel Blaise & Francis		45.4976688	9.1743699	hotel	4			https://www.hotelblaisefrancis.it/
+node	9545033248	HD8 Hotel Milano		45.4838183	9.2037563	hotel	4			https://www.hd8hotelmilano.it/
+node	9545041686	Hotel 10 Keys		45.4587902	9.2091366	hotel	4			https://workness.it/ita/servizi/10-keys-milano.aspx
+node	9545055008	Innside Milano Torre Galfa		45.4863833	9.1988267	hotel	4	Meliá		https://www.melia.com/en/hotels/italy/milan/innside-milano-torre-galfa/index.htm
+node	9545082567	IQ Hotel Milano		45.4841381	9.2011662	hotel	4	IQ Hotels		https://www.iqhotelmilano.it/it/
+node	9545087304	Hotel Manzoni		45.4702704	9.1954104	hotel	4			https://hotelmanzoni.com/
+node	9545129796	Matilde Boutique Hotel		45.4632726	9.1873133	hotel	4			https://www.matildeboutiquehotel.it/
+node	9545136274	MI Hotel		45.4403265	9.1919596	hotel	4			https://www.mihotel.it/
+node	9545153347	Senato Hotel Milano		45.4713780	9.1964607	hotel	4			https://www.senatohotelmilano.it/
+node	9545197723	The Corner Duomo Hotel		45.4668075	9.1920595	hotel	4			https://www.thecornerduomo.com/
+node	9545209245	Ai Suma Hotel		45.4754827	9.2067279	hotel	3			https://milano.aisumahotel.com/
+node	9545224962	Hotel Vittoria		45.4632952	9.2102036	hotel	4			https://www.hotelvittoriamilano.it/it/index.html
+node	9545242293	Hotel Arco Romana		45.4508343	9.2005144	hotel	3			https://www.hotelarcoromana.it/hotel-arco-romana-milaan/
+node	9545267277	Sechi Hotel		45.4347803	9.1840997	hotel	3			https://www.autosolehotel.com/accomodation/ash-2--milano
+node	9545289790	Hotel Cinque Giornate		45.4617375	9.2070426	hotel	3			
+node	9545300942	Hotel Club Milano		45.4892372	9.2028051	hotel	3			https://www.hotelclubmilano.com/
+node	9545310470	Hotel Corallo		45.4911426	9.1624257	hotel	3			https://hotelcorallomilano.it/
+node	9545316430	Hotel Fiorella		45.4675038	9.1537654	hotel	3			https://www.hotelfiorellamilano.it/
+node	9545318942	Hotel Giardino		45.4282643	9.1770313	hotel	3			https://www.giardinohotel.it/
+node	9545341298	Hotel City 20		45.4849496	9.2210076	hotel	3			https://hotelcity20.it/
+node	9545369277	Hotel Metropoli		45.4878497	9.2039828	hotel	3			https://www.hotelmetropolimilano.com/
+node	9545369301	Hotel Giacosa		45.4914836	9.2228719	hotel	3			https://hotelgiacosa.com/
+node	9545390295	Hotel Ada		45.4878689	9.2039876	hotel	2			https://www.hotelada.it/
+node	9545426506	Hotel Stradivari		45.4842444	9.2155270	hotel	3			https://hotelstradivari.com/
+node	9545430355	Hotel Folen		45.4879117	9.2039916	hotel	3			https://www.hotelfolen.it/
+node	9545461112	Ming Hao Hotel		45.4810154	9.1748536	hotel	3			
+node	9545464045	Hotel Igiban		45.5106979	9.1757130	hotel	3			
+node	9545555898	Il Girasole		45.5190211	9.2239128	hotel	3			https://www.ilgirasolemilano.com/
+node	9546779858	AHD Rooms		45.4652292	9.1932710	hotel	1			https://www.aparthotelduomo.com/ahd-rooms/
+node	9546798956	Victor Boutique Hotel		45.4638788	9.1870608	hotel	1			https://www.victorboutiquehotel.com/
+node	9546812114	Hotel Due Giardini Dependance		45.4795413	9.2088069	hotel	1			https://www.hotelduegiardini.it/
+node	9546831151	Hotel Virgilio		45.4872692	9.2100384	hotel	2			
+node	9546831479	Ih Hotels Milano Centrale Guest House		45.4836305	9.2039289	hotel	3	iH Hotel		https://klick.hotels-milan.net/it/
+node	9546858039	Hotel Centrale		45.4942666	9.2088424	hotel	1			https://www.hotelcentralemilano.com/
+node	9546862169	Hotel Down Town		45.4929945	9.2177449	hotel	1			http://www.milandowntown.it/index.html
+node	9546909446	Hotel Capri		45.4694936	9.2175501	hotel	1			
+node	9546910088	Hotel Atena		45.4692345	9.2066757	hotel	2			https://www.hotelatenamilano.com/
+node	9546918211	Hotel Dateo		45.4659952	9.2170096	hotel	2			
+node	9546936428	Hotel Dover		45.4654847	9.2087583	hotel	2			https://www.hoteldovermilan.com/
+node	9546938365	Hotel Adelchi		45.4873648	9.2317712	hotel	1			https://adelchi.worhot.com/
+node	9546945812	Hotel Alba		45.4859765	9.2290116	hotel	1			
+node	9546970825	Hotel Sabatino		45.4848791	9.2213361	hotel	2			https://www.hotelsabatino.com/
+node	9546975483	Hotel New Milan		45.4853591	9.2213196	hotel	1			https://www.hotelnewmilan.it/
+node	9546987946	Hotel Viola		45.4848189	9.2213350	hotel	1			
+node	9547245180	Hotel del Sole		45.4817200	9.2137316	hotel	1			https://www.delsolehotel.com/
+node	9547249765	Lux Hotel Durante		45.4893769	9.2242282	hotel	2			https://www.hoteldurante.it/
+node	9547279163	Hotel Loreto		45.4871202	9.2191116	hotel	2			https://www.hotelloreto.com/
+node	9547299035	Hotel Alessander		45.4355713	9.2083886	hotel	2			https://alessander.worhot.com/
+node	9547315379	Hotel San Giovanni		45.4666590	9.2269012	hotel	1			
+node	9547348677	Hotel Amico		45.5059820	9.1360381	hotel	1			https://www.amicohotel.eu/
+node	9547348678	Hotel Oregon		45.5017272	9.1388974	hotel	1			
+node	9547349922	Hotel Corvetto		45.4400872	9.2249776	hotel	1			https://www.hotelcorvettomilano.it/
+node	9547352736	Hotel Mercurio		45.4426253	9.1761614	hotel	2			https://www.hotelmercurio.net/
+node	9547382420	My Hotel Milano		45.4629014	9.1532129	hotel	4			https://www.myhotelmilano.it/
+node	9547404344	Hotel Sorrento		45.4949879	9.1440039	hotel	1			
+node	9547412229	Hotel Lucania		45.4414271	9.2234075	hotel	1			
+node	9547477703	Hotel Sicilia		45.5060985	9.1884815	hotel	1			
+node	9572938867	Ostelzzz		45.4774937	9.2102143	hostel				https://www.ostelzzz.com/
+node	9623981267	Hotel XXII Marzo		45.4628388	9.2119791	hotel	2			https://www.hotel22marzo.com/
+node	9880696380	Downtown Nolo Guesthouse		45.4928498	9.2281739	hostel			Airbnb	
+node	10009197301	The Couper Sant'Andrea		45.4691451	9.1973105	hotel	4			https://www.thecouper.it/the-couper-sant-andrea/index
+node	10009210157	Vmaison Hotel Milano		45.4765649	9.1821107	hotel	5			https://www.vmaison.it/
+node	10010898615	M20 Boutique Hotel		45.4617413	9.1883269	hotel	3			https://m20milano.com/
+node	10010917516	Cadorna Luxury Hotel		45.4686615	9.1740884	hotel	1			https://www.cadornaluxuryhotel.com/it/index.php
+node	10010936510	Sheva Boutique Hotel		45.4632250	9.1887883	hotel	1			
+node	10011021203	Hotel Berna - Tower		45.4827425	9.2030857	hotel	3			https://hotelberna.com/
+node	10011055637	Boutique Hotel Martini 17		45.4870255	9.2286872	hotel	3			https://martini17.com/
+node	10011197374	B&B Hotel Milano La Spezia		45.4409412	9.1728516	hotel	4	B&B Hotels		https://www.hotel-bb.com/it/hotel/milano-la-spezia
+node	10011237015	NH Collection Milano CityLife		45.4824199	9.1527481	hotel	4	NH Hotels		https://www.nh-hotels.it/hotel/nh-collection-milano-citylife
+node	10421477330	Milano Affittacamere		45.4917808	9.2189648	hotel				https://www.milanoaffittacamere.it/
+node	10554804847	Casa Cipriani		45.4719431	9.2019241	hotel				
+node	10964312105	Piccola Casa di San Giuseppe		45.4589035	9.1623420	hostel				https://acasalontanidacasa.it/proprieta/piccola-casa-di-san-giuseppe/
+node	11062940998	Quark Hotel Milano		45.4337097	9.1896037	hotel				
+node	11175543238	Radisson Collection Santa Sofia		45.4559046	9.1876933	hotel		Radisson Collection		
+node	11185389982	21 House of Stories Navigli		45.4509462	9.1780292	hotel				https://21houseofstories.com/milano-navigli/
+node	11740340469	Cascina Moncucco IULM		45.4392714	9.1671685	hotel				
+node	11780137568	TownHouse 33		45.4693825	9.2142080	hotel	4			https://www.townhouse33milano.com/
+node	12146439527	Camplus Lambrate		45.4802042	9.2472250	hotel		Camplus		https://camplus.it/citta/milano/camplus-lambrate/
+node	12368677685	Un Posto a Milano - Foresteria		45.4513140	9.2114823	hotel				
+node	12433762601	AXYHOTELS InnStyle Milano		45.4771692	9.2054511	hotel				https://www.axyhotels.com/it/innstyle-milano/index
+node	12530047728	Foresteria Autostazione San Donato		45.4286200	9.2544697	hotel				
+node	12618757269	T7		45.4505899	9.2142397	hotel				https://t7hotel.it
+node	12853922673			45.4623256	9.2180446	hotel				
+node	12915007292	The Plein Hotel		45.4747324	9.1965334	hotel				
+node	12919820882	Panda Hostel		45.4853378	9.2187928	hostel				https://www.pandahostel.it/
+node	13272884601	Hotel Midway		45.4878752	9.2039358	hotel				https://www.hotelmidwaymilan.com
+node	13280470090	iH Hotels Milano Lorenteggio		45.4443074	9.1159711	hotel	4	iH Hotel	IH Hotels	https://ih-hotels.com/it/i-nostri-aberghi/ih-hotels-milano-lorenteggio.html
+node	13290474562	Combo		45.4496777	9.1669048	hostel			Combo s.r.l.	https://thisiscombo.com/it/citta/milano
+node	13300926981			45.4951335	9.1918133	hotel	1			
+node	13337782145	Bed and Breakfast Casa Titta		45.4966817	9.1883593	hotel				
+node	13433294748	Madama Hostel Bistrot		45.4446922	9.2119296	hostel				https://www.madamahostel.com/
+node	13703651554	Hotel CXMilan I Bicocca		45.5137797	9.2027233	hotel				https://www.cx-place.com/it/cxmilan-bicocca-hotel.html
+node	13773308809	Antares Hotel Rubens		45.4671253	9.1430061	hotel	4		Hotel Rubens srl	https://hotelrubensmilano.com/
+node	13784448314	Excelsior Hotel Gallia		45.4858962	9.2019566	hotel	5			http://www.excelsiorhotelgallia.com/
+node	13785550884	Hotel Apollo		45.4404582	9.1996106	hotel	2			https://www.apollohotelmilano.it/
+node	13787456030	Zambala Luxury Apartments		45.4436079	9.2070251	hotel				https://www.zambala.it/
+node	13793211536	HI Ostello Milan		45.4838622	9.1408959	hostel				https://ostellomilano.com/
+node	13905284905	Garden Hotel		45.4404846	9.1987677	hotel	2			https://www.gardenmilano.it/
+node	14083621531	Palazzo Loreto		45.4873372	9.2167878	hotel				
+node	14100858260	Hotel Kira Suites		45.4973631	9.1808548	hotel				
+node	14212901201	Hotel Lume		45.4915333	9.2228369	hotel				https://hotellumemilano.com/
+way	4522481	Milan Marriott Hotel		45.4610230	9.1541335	hotel	4	Marriott		https://www.marriott.it/hotels/travel/milit-milan-marriott-hotel/
+way	23911115	iH Hotels Milano Watt 13		45.4438307	9.1529924	hotel	4		iH Hotels	https://ih-hotels.com/it/i-nostri-aberghi/ih-hotels-milano-watt-13.html
+way	24649781	Sheraton Milano San Siro		45.4783606	9.1033794	hotel	4	Sheraton		https://www.marriott.it/hotels/travel/milss-sheraton-milan-san-siro/
+way	25880953	Hotel Contessa Jolanda		45.4987024	9.1903920	hotel	4	Unaway Hotels		https://www.gruppouna.it/unaway/unaway-hotel-residence-contessa-jolanda-milano
+way	40980171	Casa Baglioni - Milan		45.4727419	9.1924022	hotel				https://milan.baglionihotels.com/
+way	51353027	Eco Hotel Milano		45.5123568	9.1787480	hotel	3			https://ecohotelmilano.it/
+way	52524374	Best Western Antares Hotel Concorde		45.5024237	9.2219280	hotel	4	Best Western	Best Western	https://www.hotelconcordemilano.com/
+way	54155499	Palladio		45.4480517	9.1986076	hotel	1			https://www.hotelpalladio.net/
+way	58072159	Ramada Plaza Milano		45.5016847	9.2273237	hotel	4			https://www.ramadaplazamilano.it/it/
+way	110381957	Hotel Amendola Fiera		45.4736613	9.1467531	hotel	1			http://www.hotelamendolafiera.com
+way	138982552	Avani Hotel Palazzo Moscova		45.4810448	9.1900027	hotel	4			https://www.avanihotels.com/en/palazzo-moscova-milan
+way	138982556	NH Collection Milano Porta Nuova		45.4814071	9.1919435	hotel	4	NH Hotel Group	NH Hotel Group	https://www.nh-hotels.com/hotel/nh-collection-milano-porta-nuova
+way	142530757	Hotel Raffaello		45.4950833	9.1417852	hotel	4			https://www.hotel-raffaello.it/
+way	165990900	Hotel Ariston		45.4605208	9.1812895	hotel	3			https://www.aristonhotel.com/
+way	172978260	Novotel Milano Linate Aeroporto		45.4482613	9.2574838	hotel	4	Novotel		https://all.accor.com/hotel/1137/index.it.shtml
+way	189488842	Ca'Grande		45.4862204	9.2252518	hotel	1			
+way	230341989	Bonola		45.5040199	9.1055743	hotel	2			http://www.hotelbonola.com/
+way	260577586	Hotel Mozart		45.4834546	9.1666205	hotel	4			https://www.hotelmozartmilan.com/it/default.html
+way	287282626	Starhotels Echo		45.4846858	9.2072792	hotel	4		Starhotels	https://www.starhotels.com/it/i-nostri-hotel/echo-milano/
+way	287283963	Hotel Bristol		45.4845983	9.2064997	hotel	4			https://www.hotelbristolmil.it/
+way	287958233	Hotel Chopin		45.4862487	9.2307824	hotel	1			https://www.hotelchopin.it/
+way	303232167	DoubleTree by Hilton Hotel Milan		45.5002365	9.1380137	hotel	4	DoubleTree	Hilton Hotels	https://www.hilton.com/en/hotels/mildtdi-doubletree-milan/?WT.mc_id=zELWAKN0EMEA1DT2DMH3LocalSearch4DGGenericx6MILDTDI
+way	322481788	Voco Milan - Fiere		45.5114967	9.1241883	hotel	4	voco	IHG	https://www.milanfierehotel.com/
+way	322686772	Klima Hotel Milano Fiere		45.5148818	9.1160604	hotel	4			https://klimahotelmilano.com/it/
+way	342640201	Starhotels Business Palace		45.4378188	9.2309078	hotel	4	Starhotels		https://www.starhotels.com/it/i-nostri-hotel/business-palace-milano/
+way	345544084	The Westin Palace		45.4787429	9.1992950	hotel	5S	Westin		http://www.westinpalacemilan.it/
+way	357798500	AC Hotel Milano		45.4853292	9.1831071	hotel	4	AC Hotel	Marriott	https://www.marriott.com/en-us/hotels/milmi-ac-hotel-milano/overview/
+way	368345824	Starhotels Anderson		45.4852870	9.2070649	hotel	4	Starhotels	Starhotels	https://www.starhotels.com/it/i-nostri-hotel/anderson-milano/
+way	368350053	Mini Hotel Aosta		45.4843630	9.2051177	hotel	3	Mini Hotel		https://www.minihotel.it/it/hotels/aosta/home.html
+way	368350056	Ostello Bello Grande		45.4842057	9.2054105	hostel	3		Hotel Florida Srl	https://ostellobello.com/it/ostello/ostello-bello-grande-milano/
+way	381698826	Hotel Mythos		45.4817834	9.2028120	hotel	3		Alfa Hotels	https://www.hotelmythosmilano.com/
+way	428378640	Hyatt Centric Milan Centrale		45.4842982	9.1987525	hotel	4	Hyatt Centric	Hyatt	https://www.hyatt.com/hyatt-centric/en-US/mxpct-hyatt-centric-milan-centrale
+way	435446243	Hotel VIU Milan		45.4832995	9.1775650	hotel	5	Design Hotels		https://www.hotelviumilan.com/
+way	443307343	Hotel Perugino		45.4577504	9.2145781	hotel	3			https://www.hotelperugino.com/
+way	454654006	Hotel Mistral		45.4359783	9.2354411	hotel	3			http://www.hotelmistral-milano.it/
+way	482897397	City Life Hotel Poliziano		45.4837915	9.1649421	hotel	4			https://www.citylifehotelpoliziano.it/
+way	493275097	B&B Hotel Milano San Siro		45.4803679	9.1236340	hotel	3	B&B Hotels		https://www.hotel-bb.com/it/hotel/milano-san-siro.htm
+way	494706577	Admiral Hotel		45.4805414	9.1601202	hotel	4			https://www.admiralhotel.it/
+way	526830915	a&o Milano Ca Granda		45.5064754	9.1969784	hotel	3	Ibis		https://aohostels.com
+way	535447436	Agape Hotel		45.5056408	9.2466609	hotel	3			https://www.agapehotel.com/
+way	584453550	Villa Giovanna		45.4633228	9.1547004	hotel	1			https://www.hotelvillagiovannamilano.com/
+way	584458282	Hotel Calais		45.4640278	9.1547423	hotel	1			https://www.hotelcalaismilano.it/it/index.php
+way	598113136	B&B Hotel Milano Cenisio Garibaldi		45.4866463	9.1738028	hotel	3	B&B Hotels		http://www.hotelbb.it
+way	656358536	Nu Hotel Milano		45.4913870	9.2399465	hotel	4			https://nu-hotel.com/
+way	690794730	Amedia Hotel Milano		45.4482566	9.1187128	hotel				https://www.wyndhamhotels.com/trademark/milano-italy/amedia-milan-trademark-collection/overview?CID=LC:4d7auublw4ufaga:57365&iata=00093796
+way	1030697023	Crowne Plaza Milan Linate		45.4211110	9.2526961	hotel	4	Crowne Plaza		https://www.ihg.com/crowneplaza/hotels/it/it/san-donato-milanese/milsd/hoteldetail
+way	1333787249	Hilton Garden Inn Milan North		45.5162114	9.2274491	hotel	4	Hilton Garden Inn	Hilton Worldwide	https://www.hilton.com/en/hotels/milgigi-hilton-garden-inn-milan-north/
+way	1539079979	Palladio		45.4480130	9.1984050	hotel	1			https://www.hotelpalladio.net/

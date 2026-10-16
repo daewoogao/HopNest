@@ -1,0 +1,471 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	122097286	Bellevue		48.2264274	16.3600966	hotel				
+node	144604712	PLAZA Premium Wien	PLAZA Premium Vienna	48.1667650	16.3450386	hotel	4	PLAZA Premium	PLAZA Hotelgroup	https://plazahotels.de/de/hotels/hotel-wienerberg
+node	193538455	Jugendgästehaus Wien-Brigittenau	Youth Palace Wien-Brigittenau	48.2440992	16.3775983	hostel			Österreichischer Jugendherbergsverband	https://www.oejhv.at/index.php?id=194
+node	218118487	Kyriad Vienna Altmannsdorf		48.1639115	16.3232439	hotel	3	Kyriad		https://vienna-altmannsdorf.kyriad.com
+node	270064680	Mercure Hotel Raphael Wien		48.1919648	16.3391985	hotel	4		Accor	
+node	272239455	Arpi		48.2134952	16.3493851	hostel				
+node	276465063	Austria Classic Hotel Wien		48.2170651	16.3894977	hotel				https://www.classic-hotelwien.at/
+node	292805916	Believe It Or Not		48.2053253	16.3477184	hostel				
+node	297277443	Hotel Johann Strauss		48.1949800	16.3694023	hotel	4			
+node	309293356	Admiral		48.2023522	16.3573941	hotel				
+node	309293357	Miiro Hotel Spittelberg		48.2031488	16.3562839	hotel				
+node	309293358	Hotel Terminus		48.1998028	16.3597500	hotel				
+node	309293360	Henri Hotel		48.2010542	16.3532795	hotel				
+node	312881155	Hotel de France		48.2145652	16.3630253	hotel	5			https://hoteldefrance.at/
+node	318299979	Hotel Post Wien		48.2101192	16.3782380	hotel			HOTEL POST Registrierte Genossenschaft mit beschränkter Haftung	https://www.hotel-post-wien.at/
+node	320043117	Mercure Grand Hotel Biedermeier Wien		48.2034270	16.3878273	hotel	4	Mercure	Accor	https://all.accor.com/hotel/5357/index.en.shtml
+node	331587324	Vienna Comfort Apartments		48.2146959	16.3514883	hotel				https://www.viennaby.com/comfortapartment/
+node	333655636	Kugel		48.2020453	16.3494269	hotel				
+node	334787873	Parkhotel Schönbrunn		48.1866588	16.3022585	hotel		Austria Trend	Austria Trend	https://www.austria-trend.at/Parkhotel-Schoenbrunn
+node	335442785	ARCOTEL Wimberger		48.2006338	16.3383747	hotel				http://www.arcotel.at/wimberger
+node	338455246	Florum		48.2173012	16.3802890	hotel				
+node	338470691	Stefanie		48.2144174	16.3802352	hotel				
+node	338473234	Hotel Mercure Wien City		48.2151531	16.3760911	hotel	4		Accor	https://all.accor.com/lien_externe.svlt?goto=fiche_hotel&code_hotel=1568&merchantid=seo-maps-AT-1568&sourceid=aw-cen
+node	344490421	Hotel Mozart		48.2263311	16.3622039	hotel	3			https://www.hotelmozart-vienna.at/
+node	344923942	Pension Stadtpark		48.2057030	16.3866637	hotel				
+node	347704852	Voco		48.2273038	16.4002304	hotel		voco		
+node	363281559	Pension Brigitta		48.2321662	16.3672852	hotel				
+node	380822978	Hotel Geblergasse		48.2159768	16.3377787	hotel			BM HotelbetriebsgmbH	https://www.birghotels.com/hotel_geblergasse
+node	380841285	Hotel Donauwalzer		48.2149757	16.3401991	hotel	4			https://www.donauwalzer.at/
+node	400992847	Business Apartments Vienna		48.1918392	16.3500041	hotel				http://www.business-apartment-vienna.at
+node	411753450	Eurostars Embassy		48.1964793	16.3957679	hotel	4	Eurostars Hotel Company	Eurostars Hotels	https://www.eurostarshotels.com/eurostars-embassy.html
+node	418177101	Hotel IMLAUER & Nestroy Wien		48.2176399	16.3821942	hotel	4		IMLAUER Hotel & Restaurant GmbH	https://imlauer.com/
+node	425471378	Le Méridien Wien	Le Méridien Vienna	48.2026449	16.3661881	hotel				https://www.marriott.com/en-us/hotels/viemd-le-meridien-vienna
+node	425471393	Am Opernring		48.2025666	16.3669597	hotel	4			https://www.opernring.at/
+node	440958552	arte Hotel Wien Stadthalle		48.2038432	16.3356509	hotel		arte Hotels	AHB Atlantis Hotelbetrieb GmbH	https://www.artewien.at/
+node	441231179	Intercity Hotel		48.1964867	16.3414401	hotel				https://www.intercityhotel.com/hotels/alle-hotels/oesterreich/wien/intercityhotel-wien
+node	441277745	Be Free Hostel		48.1982811	16.3327115	hostel				https://befree-hostel.com/
+node	441520458	Hotel Mercure Wien Westbahnhof		48.1982027	16.3375975	hotel	4	Mercure	Accor	https://all.accor.com/booking/de/ibis/hotel/5358
+node	441573654	Boutiquehotel Stadthalle		48.1991934	16.3337776	hotel				
+node	441573655	Do Step Inn		48.1972577	16.3342112	hostel				
+node	441576821	Hotel Westbahn		48.1980010	16.3364488	hotel				
+node	441576822	Haus Strodl		48.1984355	16.3364689	hotel				
+node	441595497	Hotel Urania		48.2125343	16.3891148	hotel				
+node	442056091	Pension Fünfhaus		48.1937246	16.3315085	hotel	3			
+node	442056916	Hostel Ruthensteiner		48.1934553	16.3354853	hostel				https://www.hostelruthensteiner.com
+node	442065948	Hotel Brauhof Wien		48.1935357	16.3339957	hotel	4		ONE-ONE GmbH	https://www.brauhof-wien.at/
+node	442132894	Vienna Marriott Hotel		48.2049298	16.3775473	hotel				
+node	442542948	Studentenwohnheim Haus Erasmus		48.2005867	16.3388879	hotel			Stuwog AG	
+node	442543394	Fleming's Hotel		48.1996898	16.3387373	hotel				
+node	442579050	NH Collection Wien Zentrum		48.1979584	16.3482487	hotel		NH Hotels	nh Hotel	
+node	442586578	Hotel am Brillantengrund		48.2006631	16.3464874	hotel				https://www.brillantengrund.com/
+node	442972879	The Weekend Hotel		48.2035605	16.3414688	hotel				https://hoteltheweekend.at/
+node	442997820	Continental		48.1996782	16.3526562	hotel				https://www.hotel-continental.at/
+node	443013006	Hotel Schani Salon		48.1991619	16.3518276	hotel				https://www.schanihotels.com/hotels/hotel-schani-salon
+node	443013013	Haydn Hotel		48.1990363	16.3523823	hotel				https://www.haydn-hotel.at/cms/front_content.php
+node	443013019	Mariahilf		48.1996283	16.3543674	hotel				https://www.mariahilf-hotel.at/
+node	443013026	Gilbert		48.2035822	16.3566727	hotel				https://www.hotel-gilbert.at/
+node	443025494	nh Wien		48.2010693	16.3540411	hotel		NH Hotels	nh Hotels	
+node	443025497	Lindenhof		48.2013088	16.3541382	hostel				
+node	450641073	Art Hotel		48.1851002	16.3525048	hotel				
+node	457621239	Grand Hotel Wien		48.2021335	16.3719672	hotel			JJW Hotels & Resorts	https://www.grandhotelwien.com/
+node	457816260	Kolpinghaus Wien-Zentral		48.1984956	16.3575165	hotel				https://www.kolping-wien-zentral.at/
+node	466326272	Garner Hotel Prinz Eugen		48.1877319	16.3781572	hotel	4		NOVUM Hospitality	
+node	471052871	Boutique Hotel ALMA		48.2111637	16.3774983	hotel	4		Pertschy GmbH	
+node	478856105	Johannesgasse Apartments		48.2046580	16.3732350	hotel		myNext		https://mynext.at/johannesgasse-apartments/
+node	491483721	Hotel Kunsthof		48.2209046	16.3890196	hotel				https://www.hotelkunsthof.at/de/start/
+node	491483722	Hotel Der Wilhelmshof		48.2185870	16.3881578	hotel				https://www.derwilhelmshof.com
+node	493897504	Hotel Vienna		48.2196189	16.3863312	hotel				https://www.hotelvienna.at/
+node	493899336	Hotel Resonanz		48.2206527	16.3814636	hotel				
+node	524581343	Hotel Papageno		48.1955349	16.3673037	hotel				https://www.hotelpapageno.at/
+node	524581344	Das Triest		48.1973810	16.3673237	hotel				https://www.dastriest.at/
+node	524673099	Hotel Beethoven		48.2000186	16.3641152	hotel				https://www.hotel-beethoven.at/
+node	524673102	Hotel Mercure Secession Wien		48.2005622	16.3647215	hotel	4		Accor	
+node	526699676	Hotel am Konzerthaus		48.1996770	16.3773874	hotel			Accor	https://www.accorhotels.com/gb/hotel-1276-hotel-am-konzerthaus/index.shtml
+node	530867120	Pension Astra		48.2155835	16.3463436	hotel				
+node	536795963	Appartementhaus Hermine		48.2180375	16.3735257	hotel				
+node	538535250	Four Points Flex		48.1945648	16.3463061	hotel				
+node	567005966	Radisson Blu Style Hotel		48.2101053	16.3655617	hotel		Radisson Blu		https://www.radissonblu.com/de/stylehotel-vienna
+node	567053645	Hotel Ambassador		48.2058709	16.3708765	hotel				https://www.ambassador.at/
+node	567053661	Hotel Europa Wien		48.2062300	16.3709860	hotel			Austria Trend	https://www.austria-trend.at/hotel-europa-wien/en/
+node	567059348	Graben		48.2079040	16.3700585	hotel				
+node	567059356	Palais Hotel Pertschy		48.2081655	16.3684861	hotel	4		Pertschy GmbH	https://www.pertschy.com/
+node	567334295	Hotel Erzherzog Rainer		48.1952175	16.3674591	hotel	4			https://www.hotelerzherzograiner.wien/
+node	567334311	Saint Shermin		48.1978726	16.3670771	hotel				http://www.hotel-pension-shermin.at/
+node	577244083	Hilton Vienna Park		48.2059869	16.3833148	hotel	5	Hilton	Hilton	https://www.hilton.com/en/hotels/viehitw-hilton-vienna-park/
+node	589303435	Hotel Atlanta		48.2203284	16.3558289	hotel				
+node	622469034	Cyrus		48.1802072	16.3735367	hotel				
+node	634419670	Senator Hotel Vienna		48.2195365	16.3255863	hotel	4		Rainer Hotelmanagement GmbH	https://www.rainer-hotels.at/senator
+node	653110915	Austria		48.2102066	16.3773476	hotel				
+node	667121954	Novotel Suites Wien City Donau Hotel		48.2241965	16.3988500	hotel		Novotel	Accor Hotels	
+node	683569918	K22 Smart Rooms		48.2177631	16.3223858	hotel				
+node	701363351	Hotel Exe Vienna		48.2149769	16.3365593	hotel		exe hotels		https://www.eurostarshotels.com/exe-vienna.html
+node	795317112	Hotel Allegro	Hotel Allegro	48.1809533	16.3584870	hotel	3			https://www.hotel-allegro.at
+node	823349738	Palais Coburg		48.2057813	16.3767445	hotel	5			https://www.palais-coburg.com
+node	836310868	Westend City Hostel		48.1953747	16.3422527	hostel				https://www.viennahostel.at
+node	894087123	Hotel am Schubertring		48.2016709	16.3753819	hotel				http://www.schubertring.at/
+node	894822769	Rudolfshöhe		48.1987847	16.3166427	hotel				
+node	914795974	Kolbeck		48.1823337	16.3739659	hotel				https://hotel-kolbeck.at/kontakt/
+node	922949548	Astral		48.1800474	16.3720708	hotel				
+node	923938961	HiLight Suites		48.2014279	16.3804406	hotel	4			https://www.hilighthotel.com/
+node	930759103	Caroline		48.1785851	16.3719943	hotel	3			https://caroline-wien.at/
+node	937833299	Hahn Hotel		48.1739680	16.4202950	hotel	3			https://www.hotelhahn.at
+node	943258749	Pension Lehrerhaus		48.2084942	16.3526144	hotel	2			
+node	948462303	Hotel Zur Wiener Staatsoper		48.2039403	16.3718277	hotel				https://www.hotel-staatsoper.at/
+node	948703143	Hotel Kaiserin Elisabeth		48.2071203	16.3723261	hotel				
+node	950535960	Goldene Spinne		48.2041179	16.3844290	hotel				https://www.goldenespinne.at/
+node	956159172	Mailberger Hof		48.2042262	16.3726969	hotel				https://www.mailbergerhof.at/
+node	956159202	Römischer Kaiser		48.2040742	16.3725344	hotel				http://roemischerkaiser.bestwestern.at
+node	956430138	Hotel Royal		48.2078844	16.3723234	hotel	4			https://www.hotelroyal.at/
+node	957695885	Domizil		48.2080430	16.3757139	hotel				https://www.hoteldomizil.at/
+node	1029355797	Drei Kronen		48.1982411	16.3638940	hotel				https://www.hotel3kronen.at/
+node	1068914425	Henriette Stadthotel Vienna	Henriette City Hotel Vienna	48.2153964	16.3861717	hotel	4		Private	https://www.hotelhenriette.at/
+node	1150611149	Boutique Hotel Spiess & Spiess		48.2010339	16.3943790	hotel	4			https://www.spiess-vienna.at/
+node	1156244668	Altstadt		48.2048176	16.3513395	hotel				https://www.altstadt.at/
+node	1178929852	Austria Trend Hotel Rathauspark		48.2132080	16.3568502	hotel	4			https://www.austria-trend.at/Hotel-Rathauspark/en/
+node	1191680219	Holiday Inn Vienna City		48.1935645	16.3615880	hotel	4	Holiday Inn		https://www.holidayinn.com/hotels/de/de/vienna/viect/hoteldetail
+node	1196611171	"Wombat's City Hostel ""at the Naschmarkt"""		48.1968660	16.3608071	hostel			Wombat's	https://www.wombats-hostels.com/vienna/the-naschmarkt/
+node	1202224004	Mercure Vienna First		48.2114317	16.3739526	hotel	4	Mercure	Accor	https://all.accor.com/hotel/9959/index.de.shtml
+node	1203033490	Hotel Lamée		48.2103306	16.3739637	hotel				
+node	1306286741	Maxx by Steigenberger Vienna		48.1867586	16.3440004	hotel	4		Falkensteiner	https://maxxhotel.com
+node	1344398250	Hadrigan		48.2105519	16.3057730	hotel				
+node	1354671314	Starlight Suiten Renngasse		48.2135045	16.3679517	hotel				
+node	1363470613	Beta Design		48.1732106	16.3643609	hotel	3			
+node	1366002157	Hotel Korotan		48.2134729	16.3440430	hotel	3			https://www.korotan.com/
+node	1370237057	Artist		48.2104175	16.3534606	hotel				
+node	1370238660	Graf Stadion		48.2098185	16.3534904	hotel				
+node	1377593239	Seminarhotel Springer-Schlössl		48.1787865	16.3186316	hotel				http://www.springer-schloessl.at/
+node	1417436858	Vienna Star Apartments		48.1741734	16.3645106	hotel				
+node	1439094420	Suite Hotel 900m zur Oper		48.1935908	16.3668076	hotel				
+node	1449364713	Leonardo Hotel		48.1945261	16.3402647	hotel			Fattal	https://www.leonardo-hotels.com/austria-hotels/vienna-hotels/leonardo-hotel-vienna
+node	1467055080	Grätzlhotel		48.2251213	16.3615437	hotel				https://www.graetzlhotel.com/
+node	1501971045	ARCOTEL Donauzentrum Wien		48.2427762	16.4357445	hotel		ARCOTEL		
+node	1561744968	Aparthotel Laaerberg		48.1733306	16.3800305	hotel				
+node	1582698621	Fleming's Deluxe		48.2093797	16.3534593	hotel				https://www.flemings-hotels.com/hotels/wien-city
+node	1582698624	Hotel Harmonie		48.2199309	16.3598362	hotel	4		Best Western	https://www.bestwestern.at/harmonie
+node	1635093400	Kolpinghaus Wien-Meidling		48.1806943	16.3348918	hostel				
+node	1650322001	St Cristopher's Inn		48.1801591	16.3744729	hostel				
+node	1704868129	Caratart Hotel Bombolo		48.2208351	16.3666450	hotel				https://carathotels.com/caratart-hotel-bombolo-wien/hotel/
+node	1708782942	Riess City Hotel		48.2182543	16.3650549	hotel				
+node	1752512609	City Hotel Albrecht		48.1434595	16.4719129	hotel				
+node	1754025684	Meininger Wien Downtown Sissi		48.2191856	16.3757089	hotel		Meininger		
+node	1760489894	Pension Mozart		48.2001737	16.3590092	hotel	3		SORWELL Hotelbetriebs KG	https://mozart.sorwell.eu
+node	1852498914	Hotel-Pension Bosch		48.1920231	16.3870778	hotel				http://www.hotelpensionbosch.com/
+node	1868804018	Pension Delux		48.1890482	16.3307143	hotel				
+node	1897621592	Kaiser Franz Josef		48.2460659	16.3412619	hotel			Derag	https://www.living-hotels.com/hotel-kaiser-franz-joseph-wien/
+node	1904570209	Hotel Regina		48.2162554	16.3596582	hotel	4			
+node	1932157654	Hotel California		48.1925346	16.3154375	hotel				https://hotel-california.hotelsvienna.org
+node	1958068812	Topazz		48.2102686	16.3735346	hotel				
+node	2046313315	Hotel Wandl		48.2097265	16.3705194	hotel				https://www.hotel-wandl.com/
+node	2090010403	Hotel Bleckmann		48.2182149	16.3580539	hotel	3			https://www.hotelbleckmann.at/
+node	2098176579	Apartment Wien Augarten		48.2256745	16.3703926	hotel				
+node	2098793428	Austria Trend Hotel Doppio		48.1858380	16.4043270	hotel				
+node	2129293754	Opera Suites		48.2038302	16.3705851	hotel				https://www.operasuites.at/
+node	2141914135	Pharmador		48.2010034	16.3423354	hotel				https://www.pensionpharmador.at/
+node	2155225296	Hampton by Hilton Vienna City West		48.1866567	16.3358586	hotel	3	Hampton by Hilton	Hilton	https://www.hilton.com/en/hotels/viecwhx-hampton-vienna-city-west/
+node	2156339325	Hotel Alser		48.2167291	16.3423440	hotel				
+node	2158179984	Rosewood Vienna		48.2096199	16.3696161	hotel		Rosewood		https://www.rosewoodhotels.com/de/vienna
+node	2292102931	Arnes		48.1762657	16.3661145	hotel				
+node	2408993842	Hotel Braugasthof Fabrik		48.1249606	16.3199107	hotel				http://www.fabrik-hotel.at
+node	2457601784	Four Points Flex by Sheraton		48.1893210	16.3721861	hotel		Four Points Flex by Sheraton		https://www.marriott.com/de/hotels/viehx-four-points-flex-vienna-hauptbahnhof/overview/
+node	2473121642	Valley Rose		48.2316605	16.4482100	hotel	3			http://www.valleyrose.at
+node	2493091530	myMojOvie		48.2045278	16.3398145	hostel			Mag. Alessandra Lauria	https://www.mymojovie.at/
+node	2517088078	Leonardo Hotel Vienna Schönbrunn	Leonardo Hotel Vienna Schönbrunn	48.1850324	16.3341592	hotel				https://www.leonardo-hotels.de/vienna/leonardo-hotel-vienna-schonbrunn
+node	2531301387	Corvinus		48.1990376	16.3524748	hotel				https://corvinus.at/
+node	2570326712	Hotel Wiener Kindl		48.2275719	16.4542969	hotel			Jaro Kindl Ges.m.b.H.	https://www.wienerkindl.at/
+node	2617117220	Marc-Aurel		48.2121945	16.3734838	hotel				
+node	2678496326	Zeitgeist Vienna		48.1824103	16.3781058	hotel				https://www.zeitgeist-vienna.com/
+node	2713525171	Meliá Vienna		48.2320611	16.4127360	hotel		Meliá		https://www.melia.com/de/hotels/osterreich/vienna/melia-vienna/index.html
+node	2920052382	Pension Liechtenstein		48.2170679	16.3629518	hotel				
+node	2931980744	Harrys Home		48.2403220	16.3870350	hotel			Harrys Home Holding AG	https://www.harrys-home.com/
+node	3028577544	Pension Lizzi		48.1278917	16.3070738	hotel	3			https://www.pension-lizzi.at/
+node	3068001955	Hotel Simm's		48.1793589	16.4113076	hotel				
+node	3121116524	Urban Rooms		48.2131168	16.3581852	hotel				
+node	3189876492	Hostel Elisabeth		48.1977816	16.3343388	hostel				
+node	3241374398	Queens Apartments		48.1882293	16.3466268	hostel				
+node	3273830010	Hotel Das Tigra		48.2123119	16.3681782	hotel				
+node	3326801600	Liechtenstein Apartments		48.2180758	16.3747558	hotel				
+node	3522365992	Kolpinghaus Favoriten		48.1644994	16.3828619	hotel				
+node	3603561823	Hotel City-Central		48.2135658	16.3799212	hotel				
+node	3634692303	Hotel Am Parkring		48.2055170	16.3779837	hotel	4		Schick-Hotels Betriebs GmbH	https://www.hotelamparkring.wien/
+node	3674168227	VCA Vienna City Apartments		48.2174354	16.3692687	hotel				
+node	3737742725	Hotel Rudy		48.1862292	16.3708915	hotel		myNext	LIVE by ÖJAB GmbH	https://mynext.at/hotel-rudy/
+node	3792841047	Hotel Fabrik		48.1868994	16.3398710	hotel				
+node	3792959206	Gartl Apartments		48.1848967	16.3363751	hostel				http://www.gartlapartments.at
+node	3811360386	Ruby Sofie Hotel Vienna		48.2066871	16.3912906	hotel				https://www.ruby-hotels.com/
+node	3946684644	Miiro Palais Rudolf		48.2138088	16.3714342	hotel				https://www.miirohotels.com/palaisrudolf
+node	3975425423	Das Tyrol		48.2009173	16.3592912	hotel				https://www.das-tyrol.at/
+node	4046616387	City Rooms Hotel		48.2133960	16.3471687	hostel			Private hotels	https://private-hotels.at/cityrooms/
+node	4088623874	Hotel Pension Walzerstadt		48.2020184	16.3448993	hotel				
+node	4100007723	Best Western Plus		48.2207946	16.3992719	hotel		Best Western Plus		
+node	4135124555	Grätzelhotel Karmelitermarkt		48.2166564	16.3785674	hotel				
+node	4141815806	City Pension		48.2098877	16.3726894	hotel				
+node	4141815842	Elaya hotels		48.2104769	16.3715645	hotel				
+node	4198380061	Pension Wild		48.2073643	16.3529087	hotel				
+node	4231611989			48.1989902	16.5770203	hotel				
+node	4234525389	DO&CO Hotel		48.2083740	16.3716316	hotel				
+node	4239914891	Novum Hotel Congress Wien		48.1868970	16.3755333	hotel				
+node	4338039592	Bee Green Schönbrunn		48.1926895	16.3158311	hotel				
+node	4352705958	Workbase Hostel	Workbase Hostel	48.1582814	16.3028016	hostel				https://workbase.at/
+node	4355173901	Sans Souci		48.2045915	16.3565061	hotel				https://www.sanssouci-wien.com/
+node	4432786625	elaya		48.1941685	16.3463080	hotel	4			https://the-hotel-1060-vienna.hotel-ds.com/
+node	4463857689	Hotel Calmo		48.2313118	16.3568349	hotel				https://hotelcalmo.at/
+node	4542906227	Ruby Marie Hotel		48.1968393	16.3417785	hotel				https://www.ruby-hotels.com/
+node	4755207423	De france		48.2075892	16.3736550	hotel				
+node	4757090467	Pension Schönbrunn		48.1841617	16.3228819	hotel				http://www.pension-schoenbrunn.at/
+node	4763613221	Apartment Galleria	Apartment Galleria	48.2082765	16.3407558	hotel			Apartment Galleria	https://airbnb.at/rooms/14792752
+node	4780939645	Seven Vienna		48.2012750	16.3540865	hostel				
+node	4809309521			48.2123188	16.3387628	hotel				
+node	4866778306	Stadtnest Bed & Breakfast		48.1934441	16.3447790	hotel				
+node	4892925075	Piano Nobile		48.2106871	16.3822517	hotel				
+node	4984596926	Ruby Lissi		48.2108652	16.3786204	hotel				https://www.ruby-hotels.com/hotels-destinations/wien/ruby-lissi/
+node	5009474781	Hostel Wieden		48.1902014	16.3648979	hotel				
+node	5024571893	Do Step Inn central		48.1866305	16.3727975	hostel			Mag. Gerald Kern	https://www.dostepinn.com/
+node	5075059265	Pension Schottentor		48.2160080	16.3614160	hotel				
+node	5075059287	Baron		48.2167889	16.3600433	hotel				
+node	5178362238	Grinzinger Hof		48.2554241	16.3427735	hotel	3			http://www.grinzing.com/
+node	5188925507	Grand Ferdinand		48.2023205	16.3749675	hotel				https://grandferdinand.com/
+node	5208800770	HappyHostel		48.1937074	16.3404796	hostel				https://www.happyhostel.at/
+node	5284370832	Benediktushaus im Schottenstift		48.2119996	16.3653952	hotel				https://www.benediktushaus.at/
+node	5313231548	Hotel Dormium		48.2026955	16.3398683	hotel				
+node	5385722030			48.1863729	16.3015138	hotel				
+node	5492349597	Hotel Kärntnerhof		48.2101672	16.3761096	hotel	3			https://www.karntnerhof.com/
+node	5502523359	Stadtaffe - Chic Hostel VIE		48.2097275	16.3373074	hostel				https://www.hostelworld.com/st/hostels/p/316937/stadtaffe-chic-hostel-vie/
+node	5584099525	Ibis Wien Hauptbahnhof		48.1856717	16.3787189	hotel		Ibis		https://all.accor.com/hotel/8564/index.de.shtml
+node	5584105769	Novotel Wien Hauptbahnhof		48.1856708	16.3792178	hotel	4	Novotel	Accor	https://www.novotel-wien-hauptbahnhof.com/
+node	5666546571	Palais Hansen Kempinski Vienna		48.2163449	16.3684353	hotel				https://www.kempinski.com/en/vienna/palais-hansen
+node	5691734217	Hotel Bajazzo		48.2155148	16.3689812	hotel	3			
+node	5737602890	Hotel Nestroy		48.2178591	16.3823151	hotel	4			
+node	5737602899	All You Need		48.2164978	16.3759726	hotel				
+node	5796180793	Hotel Breitenlee		48.2507589	16.4788121	hotel				https://www.hotel-breitenlee.at/
+node	5936335050	Urban Boutique Hotel		48.1977391	16.3474606	hotel				https://urban-hotel.at
+node	5980993743	KSV Hotel		48.2097582	16.4002436	hotel			KSV	https://www.ksv-wien.at/hotel/
+node	6031993721	Am Augarten		48.2213880	16.3846199	hotel	3			http://am-augarten.hotelsinvienna.org/
+node	6058165186			48.2101307	16.3769851	hotel				
+node	6064068220	Urban Lodge - Apartments Vienna		48.2181971	16.4079045	hotel				https://urbanlodge.at
+node	6080863223	Hotel Pension Andreas		48.2128221	16.3531180	hotel	3			
+node	6325206621	"Hotel Astoria Vienna, Curio Collection by Hilton"		48.2046375	16.3703220	hotel		Curio Collection		https://www.hilton.com/en/hotels/vieasqq-hotel-astoria-vienna/
+node	6328966977	Suzanne		48.2033020	16.3710290	hotel				
+node	6369004833	Chichilli Hostel		48.2363610	16.3532399	hostel				http://chichilli.at
+node	6470882401	Ibis Styles Wien Messe Prater		48.2143399	16.3910608	hotel		Ibis Styles		
+node	6534336984	CH-Hotel Luka Budget		48.2133346	16.3691642	hotel				https://luka-budget.at-austria.com/en/
+node	6697192318	König's Hotel		48.1686034	16.4246456	hotel				
+node	6698598562	Pension Weber		48.1602746	16.4700134	hotel				
+node	6806550406	graetzlhotel		48.1804434	16.3337767	hotel			URBANAUTS Hospitality GmbH	https://www.graetzlhotel.com/graetzl-hotel/graetzl/meidlinger-markt/
+node	7022421388	Dormero HoHo Wien		48.2256505	16.5076659	hotel		Dormero	Dormero	https://www.dormero.de/hotel-wien/
+node	7056724585	roomz Prater		48.2229740	16.3933130	hotel		roomz		https://www.roomz-hotels.com/de/roomz-vienna-prater
+node	7276409096	Krennmayer Rooms		48.2148112	16.5249442	hotel	3			http://www.krennmayer.at/
+node	7794496086	OeAD-Gästehaus		48.1713799	16.4194981	hostel				https://housing.oead.at/de/unterkuenfte/detailansicht-de/details?object_id=67
+node	8121295191	B&B Hotels		48.2026502	16.3341678	hotel		B&B Hotels		https://www.hotel-bb.com/de/hotel/wien-stadthalle
+node	8424614981	Parks 73		48.1929842	16.3927782	hotel				https://www.parks73.com
+node	8480169117	Österreichisches Jugendherbergswerk		48.2168458	16.3605202	hostel				
+node	8531461517	Adina Apartment Hotel Vienna Belvedere		48.1855501	16.3819913	hotel		Adina Hotels		https://www.adinahotels.com/de/apartments/vienna-belvedere/
+node	8847559617	7brunnen Hostel		48.1838547	16.3518188	hostel				
+node	8976769213	B&B Hotel Wien-Meidling		48.1673668	16.3184485	hotel		B&B Hotels		
+node	9038074317	Jo&Joe		48.1958567	16.3378446	hostel				https://www.joandjoe.com/vienna
+node	9045438017	Royal		48.2078724	16.3720875	hotel				
+node	9112460837	Buxbaum Boutique Hotel		48.2105754	16.3760537	hotel				https://www.buxbaumboutiquehotel.at/
+node	9183324070	Rioca Posto 2		48.1891563	16.4034161	hotel			Rioca	
+node	9230334195	Clarion Hotel Vienna South		48.1689971	16.3468236	hotel		Clarion Hotels		https://www.clarionhotelviennasouth.com/
+node	9279755729	Zoku Vienna		48.2163910	16.4029063	hotel				https://livezoku.com/vienna/
+node	9279755730	Hampton		48.2159394	16.4037699	hotel		Hampton		
+node	9501188363	H+ Hotel		48.2266002	16.3563713	hotel				
+node	9520639483	Pakat City Hotel		48.1917050	16.3745467	hotel	3			https://clima-cityhotel.viennaaustrohotel.com
+node	9595738516	Appartement-Hotel An der Riemergasse		48.2071880	16.3765958	hotel				
+node	9689564755	Boutique Design-Apartment Vienna		48.2066165	16.3312012	hotel				
+node	9874833150	Fine Art		48.2001902	16.3577096	hotel				
+node	9952932420	Room4Rent		48.1800122	16.3856557	hostel				
+node	9961202118	Best Western Plus Celebrity Suites		48.2235486	16.4064147	hotel		Best Western Plus		https://www.bestwestern.at/hotels/Wien/Best-Western-Plus-Celebrity-Suites/hotel
+node	9988919952	Superbude Wien Prater		48.2163378	16.4031244	hotel		Superbude		https://www.superbude.com/en/hotel-wien/prater/
+node	10120256140	Pension Nossek		48.2091632	16.3686540	hotel				
+node	10121439707	Living Hotel an der Oper		48.2016098	16.3686980	hotel	4	Living Hotels		https://www.living-hotels.com/
+node	10152203119	Kaffeemühle		48.2013078	16.3404580	hotel			Schiehser Hotelbetriebs GmbH	
+node	10225389604	Arion		48.1501826	16.4768396	hotel				https://arion-airporthotel.com/de/kontakt/
+node	10302093396	Hotel Park Villa		48.2335228	16.3456553	hotel	4			https://www.parkvilla.at
+node	10716643969	Gegenbauer		48.1772450	16.3818703	hotel		B&B Hotels		https://www.gegenbauer.at
+node	10832093244	Radisson RED		48.2176041	16.3734787	hotel		Radisson RED		https://www.radissonhotels.com/en-us/hotels/radisson-red-vienna
+node	10836755101	Pension Ani		48.2155043	16.3450659	hotel				
+node	10871713205	George		48.1862268	16.3248312	hotel	4			
+node	10921993007	numa Wood		48.1945956	16.3387514	hotel			numa	https://numastays.com/de/locations/austria/vienna/rudolfsheim-fuenfhaus/wood
+node	10970910505			48.1989138	16.3527151	hotel				
+node	11037331793	Meininger Vienna Downtown Franz		48.2220607	16.3718228	hotel				
+node	11063761505	Hotel Mocca		48.1948948	16.3505393	hotel				
+node	11195615016	Citadines		48.1754427	16.3554779	hotel				
+node	11229800006	Forty+One		48.1927015	16.3575673	hotel		Safestay		https://fortyplusone.at/
+node	11346101232	Hotel Maximilian		48.1864615	16.3015662	hotel		Austria Trend	Austria Trend	https://www.austria-trend.at/de/hotels/maximilian
+node	11364289129	Urbankey		48.2096566	16.3915731	hostel				
+node	11495460459	Somerset Schoenbrunn Vienna		48.1680520	16.3192114	hotel				https://www.discoverasr.com/en/somerset-serviced-residence/austria/somerset-schoenbrunn-vienna
+node	11556747171	T32 Studio Living		48.1097387	16.3149439	hotel				https://www.t32.at
+node	11655764954	Westbahnhof Hostel One		48.1938293	16.3414847	hostel			myNext	https://mynext.at/westbahnhof-hostel-one/
+node	11655786465	Campus Hostel		48.2211782	16.3509479	hostel			myNext	https://mynext.at/campus-hostel/
+node	11655829345	Hotel Leo		48.2219344	16.3740580	hotel		myNext		https://mynext.at/hotel-leo/
+node	11682582609	Das Gaudenzdorfer		48.1868181	16.3427179	hotel				
+node	11682643189	Leonardo		48.1885075	16.3380246	hotel				
+node	11970769369	Prater City Hostel		48.2180998	16.3899256	hostel				
+node	11977748187	The Guesthouse		48.2051731	16.3690093	hotel				https://theguesthouse.at/
+node	12013221969	H2 Hotel Wien Schönbrunn		48.1836252	16.3267324	hotel				https://www.h-hotels.com/en/h2/hotels/h2-hotel-wien
+node	12033426875	Citadines Danube Vienna		48.2443674	16.4329823	hotel		Ascott		https://www.discoverasr.com/de/citadines/austria/citadines-danube-vienna/apartment
+node	12049955569	Pension Claudia		48.1227949	16.3368122	hotel				https://pensionclaudia.at
+node	12289504701	Deutschmeister Hotel		48.2205922	16.3666592	hotel				
+node	12309395666	Jaz in the city		48.1983624	16.3553751	hotel				
+node	12366059241	Arcotel AQ		48.2273795	16.3603580	hotel				
+node	12368368162	Oak House Vienna		48.1764770	16.3398073	hotel				https://www.oakhousevienna.com/
+node	12401813064	Pension Lerner		48.2126473	16.3682849	hotel				
+node	12441664411	Lion's rooms n apartments		48.2127284	16.3884835	hostel				
+node	12582336362	MyPlace		48.2126198	16.3725841	hotel				
+node	12629145111	SMARTments business WIEN HAUPTBAHNHOF		48.1834182	16.3774334	hotel				https://www.smartments-business.de/standorte/wien/
+node	12652374237	HausPension		48.2288116	16.3923130	hotel			Die HausWirtschaft e.Gen.	https://www.hauspension.at
+node	12666426541	Tanz*Hotel		48.2172777	16.3852516	hotel				https://www.tanzhotel.at/de/aktuell
+node	12803771701			48.1930390	16.3101754	hotel				https://atikhotelvienna.com
+node	12822501501	Sissi West		48.1885360	16.3029627	hotel				https://sissi-west.com/
+node	12843853130	Triester		48.1718440	16.3519216	hotel				
+node	13042858821	Hostel Viktoria		48.1929550	16.3311959	hostel				
+node	13175168751	Space Home Apartment - Prater		48.2213911	16.3874832	hostel			MS Adventure Hostels GmbH	https://www.spacehomes.net
+node	13195837287	Hotel Viki		48.1904715	16.3364946	hotel				
+node	13236554402	House of BLE		48.2022287	16.3623457	hotel				https://houseofble.com/
+node	13245288352	Ibis Budget Wien Messe		48.2223340	16.3978384	hotel		Ibis Budget		
+node	13245288353	Ibis Wien Messe		48.2222699	16.3977177	hotel		Ibis		
+node	13306507393	Mandarin Oriental Residence		48.2070676	16.3772035	hotel	5			https://www.mandarinoriental.com/en/vienna/inner-city
+node	13656987428	The Companion		48.1954342	16.3388475	hotel				https://www.companion-hotels.com
+node	13725712152	Rothensteiner Apartments		48.2057060	16.3464161	hotel				
+node	13725716351			48.2055044	16.3468608	hostel				
+node	13746080321	Apollo Hotel Vienna		48.1985089	16.3404170	hotel				
+node	13754786601	KH Opera Apartments		48.2011320	16.3696758	hotel				https://khoperaapartments.at-austria.com/de/
+node	13784246701	Hotel Schwalbe		48.2153441	16.3143891	hotel				https://www.hotelschwalbe.com
+node	13814910278	Motel One		48.2325198	16.4104842	hotel		Motel One		
+node	13910533301			48.2162117	16.4031166	hotel				
+node	13917170752	Palais Chotek		48.2188496	16.3579743	hotel				https://www.est-hotels.com/de/hotel-palais-chotek/
+node	13917175282	Wilde Vienna		48.2104509	16.3796035	hotel				
+node	13938771801	Mercure		48.2153629	16.3762988	hotel				
+node	14007750323	VOX		48.2204746	16.3728899	hotel				http://vox-hotels.com/
+node	14075160338	Home1 - Favori Boutique Hostel		48.1805940	16.3691610	hostel				https://www.home1.at
+node	14078779496	Lovis Suites		48.2072877	16.3712209	hotel				
+node	14082277841	room 55		48.1893594	16.3555000	hotel				
+node	14111761702	smartments		48.2488260	16.3675923	hotel				
+node	14144928114	STUWO		48.2512328	16.4283077	hostel				
+node	14214385366	Vienna Grand Apartments DANUBE		48.2561020	16.3966532	hotel				https://viennagrandapartments.com/vga-danube/
+node	14247405280	Leonardo Smart Hotel Vienna Airport		48.1310688	16.5358316	hotel		Leonardo Hotels		https://www.leonardo-hotels.de/vienna/leonardo-smart-hotel-vienna-airport
+node	14247410371	ZZZLeepAndGO		48.1198085	16.5616666	hotel				https://www.zzzleepandgo.com/index.php?page=info-vie&dove=MXP&lan1=en
+node	14265135630	Günter		48.1931716	16.3396688	hotel		Günter		https://www.guenter-wien.com/
+way	23639811	InterContinental		48.2017935	16.3789990	hotel		InterContinental		https://www.vienna.intercontinental.com/
+way	25170942	Am Sachsengang		48.1959025	16.5628687	hotel	4			
+way	28277480	Eitljörg		48.1511960	16.4064768	hotel				https://www.hotel-eitljoerg.at/
+way	28737966	25hours Hotel		48.2064672	16.3545000	hotel				https://www.25hours-hotels.com/hotels/wien/museumsquartier
+way	28785499	Hilton Vienna Waterfront		48.2140823	16.4217356	hotel	4	Hilton	Hilton	https://www.hilton.com/en/hotels/viehahi-hilton-vienna-danube-waterfront/
+way	28974916	Hotel Bosei		48.1630114	16.3404302	hotel	4		Bosei Hotelbetriebs GmbH	
+way	29082341	The Imperial Riding School Vienna		48.1966369	16.3864291	hotel	4	Marriott	Marriott	https://www.marriott.com/hotels/travel/viese-imperial-riding-school-renaissance-vienna-hotel/
+way	30549242	NH Vienna Airport Conference Center		48.1218006	16.5631991	hotel	4			https://www.nh-hotels.com/nh/en/hotels/austria/vienna/nh-vienna-airport.html
+way	30587974	Best Western Smart Hotel		48.1138919	16.3201441	hotel		Best Western		https://www.smarthotel.wien/
+way	32727548	Hotel Stalehner		48.2188191	16.3390768	hotel	2			http://www.stalehner.at/hotel-stalehner/de/
+way	33462836	Hotel Mate Dependance		48.2164738	16.3348083	hotel	3			http://www.hotelmatedependance.com
+way	34256271	The Hoxton Vienna		48.2011671	16.3812124	hotel		The Hoxton		https://thehoxton.com/vienna/
+way	35335963	The Amauris		48.2016506	16.3710087	hotel				https://www.theamauris.com/
+way	35336495	Hotel Bristol		48.2026934	16.3702847	hotel			Luxury Collection	
+way	44744773	Courtyard by Marriott Wien Messe		48.2130196	16.4134313	hotel		Courtyard		
+way	54570709	Rainers Hotel		48.1795435	16.3624772	hotel	4		Vienna International Hotels and Resorts	
+way	56316744	Hotel Jäger		48.2236894	16.3138036	hotel				https://www.hoteljaeger.at
+way	73503377	Hotel Capricorno		48.2110971	16.3789131	hotel	4		Schick Hotels Betriebs GmbH	https://www.hotelcapricorno.wien/
+way	74272597	Hotel Motel One Prater		48.2174156	16.4025828	hotel		Motel One	Motel One	https://www.motel-one.com/de/hotels/wien/wien-prater
+way	74272598	Spark by Hilton Vienna Messe Prater		48.2159818	16.4051006	hotel		Spark by Hilton	Hilton	https://www.hilton.com/en/hotels/viemepe-spark-vienna-messe-prater/
+way	75716310	Arcotel Kaiserwasser		48.2319004	16.4171852	hotel				https://www.arcotelhotels.com/de/kaiserwasser_hotel_wien/
+way	77723410	Premier Inn Wien City Hauptbahnhof		48.1834947	16.3763324	hotel	4	acom Hotels	Premier Inn Holding GmbH	https://www.premierinn.com/de/de/hotels/oesterreich/wien.html
+way	89696743	Kaiserhof		48.1975841	16.3686303	hotel		Best Western	Best Western	https://hotel-kaiserhof.at/
+way	95275564	Edelhof Apartments Vienna		48.2275427	16.3450784	hostel				https://www.airbnb.at
+way	96268807	The Levante Parliament		48.2083379	16.3546753	hotel			Summit Hotels & Resorts	https://www.thelevante.com/
+way	96468597	Cordial Theaterhotel		48.2096631	16.3514270	hotel				
+way	96492415	Hotel Zipser		48.2110420	16.3513724	hotel	3			https://hotel-vienna.travel/
+way	97254680	Hotel Rathaus		48.2074957	16.3524679	hotel				
+way	97453038	Hotel Odeon		48.2180488	16.3873015	hotel				https://www.hotel-odeon.at/
+way	97946879	Arthotel Ana Adlon		48.2152648	16.3902318	hotel				
+way	98184102	Schlossheuriger Koza		48.1214802	16.3411840	hotel				https://www.schlossheuriger.com/
+way	98189275	Urban Jungle Apartments		48.2163280	16.3894163	hotel				
+way	98465966	Hotel Stefanie		48.2143909	16.3805098	hotel	4	Schick Hotels	"Dr. Martin Schick, Peter Buocz"	https://www.schick-hotels.com/hotel-stefanie/index.html
+way	105481804	Zola Palais de Bohème		48.2208348	16.4065705	hotel				https://hotelzola.com/
+way	112146787	Die Josefine		48.1968612	16.3489508	hotel				https://www.hoteljosefine.at/
+way	112157483	Max Brown Hotel 5th District		48.1899709	16.3566880	hotel	4	Penta Hotels		https://maxbrownhotels.com/5th-district-vienna/
+way	120456802	PLAZA INN Wien Gasometer		48.1866472	16.4206061	hotel		PLAZA INN	PLAZA Hotelgroup	
+way	121143147	Youth Hostel International Myrthengasse		48.2051723	16.3474645	hostel				https://www.1070vienna.at
+way	121670165	Hotel Ananas		48.1919418	16.3548749	hotel		Austria Trend Hotels		https://www.austria-trend.at/de/hotels/ananas
+way	122976139	Hotel Boltzmann		48.2216649	16.3567312	hotel				https://www.hotelboltzmann.at/
+way	123386214	Max Brown 7th District		48.2048673	16.3435760	hotel		Max Brown Hotels		
+way	124170191	Vienna Stay Apartments Schönbrunn		48.1777651	16.3244208	hotel				
+way	126892695	Das Reinisch Hotel & Restaurant		48.1479574	16.5123273	hotel				https://www.dasreinisch.at/
+way	127596086	NH Danube City		48.2354268	16.4218720	hotel		NH Hotels	NH Hotels	
+way	130740649	Hotel Müllner		48.2496525	16.3423000	hotel	3			https://hotel-mullner.hotelsinvienna.org/
+way	131110929	strandhotel alte donau		48.2391324	16.4290879	hotel				
+way	132528404	Vienna Sporthotel		48.1913848	16.4081194	hotel				
+way	133478112	Ibis Budget		48.1864538	16.4137978	hotel		Ibis Budget	Ibis Budget	
+way	136193159	Hotel Viktoria		48.1876039	16.3016200	hotel	3			https://www.hotelviktoria.co.at/
+way	136507951	Daniel		48.1888546	16.3838517	hotel				https://hoteldaniel.com/de/wien/
+way	138232410	Seminarhotel Parkschlössl		48.1945760	16.3966144	hotel			SV Group	https://www.parkschloessl.at/
+way	138332041	Motel One Wien Westbahnhof		48.1975334	16.3376336	hotel		Motel One		https://www.motel-one.com/de/hotels/wien/hotel-wien-westbahnhof/
+way	139822439	SO/ Vienna		48.2129786	16.3799615	hotel				https://so-vienna.com/
+way	140587982	Arthotel ANA Gala		48.2307645	16.3552380	hotel			Arthotel ANA + ANA Living	https://ana-hotels.com/gala-wien
+way	145405894	Hotel Enziana		48.1942179	16.3891432	hotel				http://enziana.at
+way	145560061	La Scala		48.1945829	16.3894848	hotel	4			
+way	146809755	Hotel Priebitzer		48.1908792	16.3963507	hotel				
+way	147192675	Meininger Wien Downtown Franz		48.2219614	16.3717311	hotel	3	Meininger	Meininger	https://www.meininger-hotels.com/en/hotels/vienna/downtown-franz
+way	149596325	Mondial Appartment-Hotel		48.2252050	16.3563020	hotel				https://www.mondial.at/apartment
+way	152245271	FourSide Hotel & Suites Vienna		48.2567140	16.4032320	hotel				http://vienna-hs.fourside-hotels.com/
+way	154803939	Lindner Hotel am Belvedere		48.1955993	16.3826750	hotel			Lindner	https://www.lindner.de/de/LHAB
+way	154935800	Towns Apartments		48.1975097	16.3944380	hotel			Platz Liegenschafts Verwaltungs-GmbH	
+way	155135293	ibis Wien Mariahilf		48.1932270	16.3394525	hotel		Ibis		https://ibis-wien-mariahilf.meinhotel.top/
+way	156392236	Gabriel		48.1913742	16.4006745	hotel	3		Adler Hotels	https://www.adler-hotels-wien.at/gartenhotel_gabriel
+way	156392275	PLAZA INN Amedia Wien		48.1924872	16.3997078	hotel	4	PLAZA INN	PLAZA Hotelgroup	https://plazahotels.de/de/hotels/hotel-wien
+way	156583807	Primus		48.1486655	16.3963040	hotel				https://www.hotelprimus.at/
+way	160821984	Schick Hotel City Central		48.2134037	16.3800112	hotel	4			
+way	163736085	River Lodge Ister		48.1948284	16.4495593	hotel				https://www.riverlodge.at/
+way	164841688	ibis Vienna Airport		48.1228547	16.4396259	hotel				
+way	165495452	JUFA Hotel Wien City		48.1757030	16.4202460	hotel		JUFA Hotels		https://www.jufahotels.com/hotel/wien/
+way	168205102	A&T Holiday Hostel		48.1703338	16.3745673	hostel				https://www.athostel.com/
+way	169186442	Zum König von Ungarn		48.2081347	16.3752009	hotel				https://www.kvu.at/
+way	172143362	Hotel Motto		48.1983258	16.3507822	hotel			Hotel Motto BetriebsgesmbH	https://www.hotelmotto.at/
+way	175730697	Vienna Urban Resort Hotel		48.1861803	16.3249081	hotel				
+way	175763410	Hotel Bauer		48.1882163	16.3362770	hotel				
+way	175784270	Renaissance Wien		48.1843576	16.3303862	hotel			Marriott	https://www.marriott.com/hotels/travel/viehw-renaissance-wien-hotel/
+way	176215062	Stanys		48.1933477	16.3344230	hotel	3			
+way	180374678	Hotel Adagio Wien Zentrum		48.2109537	16.3837019	hotel		Adagio		
+way	180393568	Ibis Styles		48.2326719	16.3539345	hotel		Ibis Styles		https://www.ibisstyleswien.com/
+way	186015829	Gartenhotel Altmannsdorf		48.1638883	16.3216376	hotel				https://garten-hotel.com
+way	188201237	Asperner Löwe		48.2224367	16.4778751	hotel				https://www.asperner-loewe.at/
+way	195697679	TherapieSeminarHotelSananda		48.2562886	16.4206457	hotel			Herta J. Lagler-Paireder KEG	https://www.sananda-farm.at/
+way	204513674	Ibercity Wien Schönbrunn		48.1848004	16.3212071	hotel	4			https://www.ibersol.es/de/hotels/ibercity-wien-schonbrunn-in-wien/
+way	218561899	Residence Inn Vienna City East		48.1912343	16.4122914	hotel		Residence Inn		
+way	222154952	WELT WIEN		48.1802141	16.3341438	hotel		WELT WIEN		https://weltwien.com
+way	222154979	Wilmas Garden Aparthotel		48.1795278	16.3343549	hotel			WG Hotelbetrieb GmbH	https://www.wilmas.at
+way	222973119	B&B Hotel		48.2389172	16.3592607	hotel		B&B Hotels		
+way	242247415	Hotel Donaustadt Kagran		48.2500227	16.4396049	hotel			Best Western	https://www.hoteldonaustadtkagran.at/
+way	262188232	a&o Hostel Wien Hauptbahnhof		48.1828480	16.3786476	hostel		A&O	A&O Hotels and Hostels	https://www.aohostels.com/at/wien/
+way	274962561	Motel One Hauptbahnhof		48.1836841	16.3783313	hotel		Motel One	Motel One	https://www.motel-one.com/
+way	293886832	A&O Hotel and Hostel Wien Stadthalle		48.2050699	16.3363112	hotel	2	A&O Hotels and Hostels		https://www.aohostels.com/at/wien/
+way	299803892	Arion Cityhotel		48.1587094	16.3452358	hotel	4			http://www.arion-corporate.com/
+way	319342087	Hotel Schani Wien Hauptbahnhof		48.1824141	16.3808144	hotel				https://www.schanihotels.com/hotels/hotel-schani-wien-hauptbahnhof
+way	319475763	Leonardo Hotel Vienna Hauptbahnhof		48.1835159	16.3790760	hotel		Leonardo Hotels		https://www.leonardo-hotels.com/vienna/leonardo-hotel-vienna-hauptbahnhof
+way	334680828	Hilton Vienna Plaza		48.2155166	16.3646854	hotel	5	Hilton	Hilton	https://www.hilton.com/en/hotels/viepwtw-hilton-vienna-plaza/
+way	354614531	Hotel Hoffinger		48.1503683	16.3243184	hotel	3			http://www.hotel-hoffinger.at/
+way	404534497	Hotel Lenas Donau		48.2388171	16.4302515	hotel	3			https://www.lenas-donau.at/
+way	478883599	the niu Franz		48.2312419	16.3866450	hotel		the niu		https://www.niu.de/niu-franz/
+way	487467574	Moxy Vienna Airport		48.1234206	16.5658662	hotel		Moxy	Marriott	
+way	544409547	magdas Hotel		48.2006361	16.3872144	hotel				https://www.magdas-hotel.at
+way	612294953	B&B Hotel Wien-Hbf		48.1817155	16.3839804	hotel		B&B Hotels		https://www.hotel-bb.com/de/hotel/wien-hbf
+way	628990501	Hotel Sacher		48.2040523	16.3697784	hotel	5		Sacher Hotels Betriebsgesellschaft mbH	
+way	667556444	Hotel Hein		48.1470247	16.5144925	hotel				https://www.heinhotel.at/
+way	740454171	The Social Hub		48.2229794	16.3900673	hotel				https://www.thesocialhub.co/de/wien/
+way	854024882	MOOONS		48.1876390	16.3777410	hotel				
+way	868741780	Prizeotel Wien City		48.1830889	16.3820831	hotel		Radisson		https://www.prizeotel.com/de/hotel-wien
+way	927740850	Spark by Hilton Vienna Donaustadt		48.2438951	16.4329786	hotel	4	Spark by Hilton	Hilton	https://www.hilton.com/en/hotels/viedope-spark-vienna-donaustadt/
+way	942336735	B&B Hotel Wien-St. Marx		48.1842148	16.4056414	hotel		B&B Hotels	B&B HOTELS Austria GmbH	
+way	1005781117	Hampton by Hilton Vienna Messe		48.2158448	16.4037571	hotel	3	Hampton	Hilton	https://www.hilton.com/en/hotels/vienahx-hampton-vienna-messe/
+way	1093715281	Hotel Indigo		48.1932170	16.3557883	hotel		Hotel Indigo		
+way	1125841838	Hotel Schani UNO City		48.2340071	16.4209968	hotel				https://www.schanihotels.com/hotels/hotel-schani-uno-city
+way	1290298868	Moxy Vienna City East		48.1910241	16.4126033	hotel		Moxy		
+way	1435247368	Park Hyatt Vienna		48.2104744	16.3684016	hotel	5	Park Hyatt	Hyatt Hotels Corporation	https://www.hyatt.com/en-US/hotel/austria/park-hyatt-vienna/vieph
+relation	77676	Austria Trend Hotel Savoyen		48.1946570	16.3844156	hotel			Austria Trend Hotels	
+relation	114140	Ritz Carlton		48.2022491	16.3763200	hotel		The Ritz-Carlton		https://www.ritzcarlton.com/en/hotels/vierz-the-ritz-carlton-vienna
+relation	151292	Imperial		48.2010787	16.3730563	hotel			"Marriott International, Inc."	https://www.marriott.com/de/hotels/vieil-hotel-imperial-a-luxury-collection-hotel-vienna/overview/
+relation	151792	Steigenberger Hotel Herrenhof		48.2098343	16.3660567	hotel				https://www.steigenberger.com/hotels/alle-hotels/oesterreich/wien/steigenberger-hotel-herrenhof
+relation	1392664	The Levante Rathaus		48.2136239	16.3521071	hotel				https://www.thelevante-rathaus.com/
+relation	1421276	Hotel Mercure Josefshof Wien Am Rathaus		48.2087397	16.3540067	hotel			Accor	https://www.josefshof.com/
+relation	1447745	Eventhotel Pyramide		48.1133250	16.3121176	hotel	4		SCS Projektentwicklungs GmbH & Co OG	https://www.eventhotel-pyramide.com/
+relation	1456877	Novotel		48.2134681	16.3834499	hotel		Novotel	Novotel	http://www.novotel.com/gb/hotel-6154-novotel-wien-city/index.shtml
+relation	1527377	Hotel am Stephansplatz		48.2088451	16.3720084	hotel				https://www.hotelamstephansplatz.at/
+relation	1619426	Hotel ibis Wien City		48.1890131	16.3495011	hotel		Ibis		
+relation	2074482	NH Belvedere		48.1955345	16.3832376	hotel			NH	http://www.nhhotelesdirectorio.com/hotels_de/nh_belvedere.htm
+relation	2143587	Hotel & Palais Strudlhof		48.2217822	16.3575093	hotel	4			https://www.strudlhof.at/
+relation	2150712	Pakat Suites Hotel		48.1918837	16.3772486	hotel				
+relation	2351963	DoubleTree by Hilton Vienna Schonbrunn		48.1913496	16.3166165	hotel	4	DoubleTree	Hilton	https://www.hilton.com/de/hotels/viescdi-doubletree-vienna-schonbrunn/
+relation	2746836	Hotel Orangerie		48.1826894	16.3326262	hotel			RY & GT GmbH	https://www.hotel-orangerie.at/
+relation	8757124	Motel One Wien-Staatsoper		48.2015921	16.3680534	hotel		Motel One	Motel One Austria GmbH	
+relation	14248172	Hotel Lucia		48.1985399	16.3233691	hotel				https://www.lucia-hotel.at/
+relation	20189132	Hyatt Regency Vienna		48.1849189	16.3829747	hotel	5	Hyatt Regency	Hyatt	https://www.hyatt.com/andaz/vieaz-andaz-vienna-am-belvedere

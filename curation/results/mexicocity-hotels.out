@@ -1,0 +1,346 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	471091193	Condesa DF		19.4160949	-99.1718864	hotel				
+node	473037880	FlowSuites WTC		19.3949068	-99.1758289	hotel		FlowSuites		https://www.flowsuites.com/wtc
+node	473037886	Fiesta Americana		19.3959735	-99.1742328	hotel				
+node	473196185	Suites del Parque		19.3941568	-99.1755041	hotel				
+node	473521397	Hotel Vermont		19.3975164	-99.1726710	hotel			Hotel Vermont	
+node	474757694	Hotel Kali Escandón		19.4019612	-99.1775435	hotel				
+node	484177830	Bristol		19.4313772	-99.1668948	hotel				https://www.hotelbristol.com.mx/
+node	603127095	Hampton Inn		19.4299764	-99.1345745	hotel		Hampton		http://www.hamptonmexicocity.com
+node	854429425	Hotel Mexicali		19.4075155	-99.1361545	hotel				
+node	906435903	Hotel Brasillia		19.4759371	-99.1387880	hotel				
+node	931731914	Hotel Benidorm		19.4141271	-99.1548313	hotel				https://www.benidorm.com.mx/
+node	1383641705	Hotel Reforma		19.4270334	-99.1711657	hotel				
+node	1446278060	Hotel Suido		19.4623007	-99.1430407	hotel				
+node	1576952054	Hostel Amigo Suites Downtown		19.4366015	-99.1328413	hostel				
+node	1677836881	Hotel Modelo		19.4682743	-99.1261112	hotel				
+node	1677845139	"Hotel Faro (Hotel love, ""hotel de paso"")"		19.4703022	-99.1324933	hotel				
+node	1677850925	Hotel Olympo		19.4665620	-99.1194095	hotel				
+node	1677854258	Hotel Ferry		19.4684498	-99.1167568	hotel				
+node	1707410876	Hotel Isabel		19.4299193	-99.1369075	hotel				http://www.hotel-isabel.com.mx/
+node	2111435918	Hostel Home		19.4175726	-99.1668247	hostel				
+node	2111436234	Hostel 333		19.4183659	-99.1672784	hostel				
+node	2263376205	Hotel María Condesa		19.4104494	-99.1756387	hotel				
+node	2278973461	Hotel Marbella		19.4148957	-99.1549380	hotel				
+node	2278976062	Hotel Estadio		19.4139538	-99.1552095	hotel				
+node	2286882324	Hotel Ritz		19.4338058	-99.1378811	hotel				
+node	2388736553	Hostel Mundo Joven Catedral		19.4352020	-99.1336030	hostel				
+node	2409358344	Mexico City Hostel	Hostal Mexico City	19.4356304	-99.1335944	hostel				
+node	2809024749	Hotel Novit		19.3960739	-99.1720085	hotel				https://www.hotelnovit.com/
+node	2938142584			19.4784405	-99.1861983	hotel				
+node	2938142585	Hotel Rosinante		19.4752730	-99.1756157	hotel				
+node	2938142586	Hotel Villas Coloniales		19.4748906	-99.1817671	hotel				
+node	2957695244	Hotel Patria		19.4287764	-99.1312007	hotel				https://hotel-patria.com/
+node	3259060056	One Ciudad de México Alameda		19.4349224	-99.1478120	hotel				https://www.onehotels.com/one-ciudad-de-mexico-alameda/overview
+node	3318179169	Hotel Jacarandas		19.4558550	-99.1634575	hotel				
+node	3327973061	NH Mexico City Airport T2		19.4218921	-99.0771411	hotel	5	NH Hotels	NH Hotels	https://www.nh-hotels.com/hotel/nh-mexico-city-airport-t2
+node	3454207114	Hotel del Prado		19.4367495	-99.1713922	hotel				https://www.hoteldelprado.com.mx/
+node	3751108772	Hotel Moneda		19.4335756	-99.1306817	hotel				
+node	3777201574	Hotel Astor		19.4348737	-99.1602179	hotel				
+node	3779168298	Hotel Garage Esperanza		19.3999692	-99.1518857	hotel				
+node	3779168299	Hotel Reforma		19.4019788	-99.1454074	hotel				
+node	3789608526			19.3967968	-99.1503339	hotel				
+node	3799881357	Emporio Reforma		19.4315417	-99.1569188	hotel		Emporio		https://emporioreforma.com/
+node	3803209009	Casa del Estudiante Duranguense		19.4469359	-99.1621400	hotel				
+node	3810642780	Villa Condesa		19.4168795	-99.1725888	hotel				https://www.villacondesa.com.mx/villacondesa/home_eng.html
+node	3853824093	Fiesta Americana		19.4250914	-99.1782819	hotel				
+node	3909975556	Contempo Suites		19.4248948	-99.1772030	hotel				
+node	3974573414	Hotel Suites Amberes		19.4246138	-99.1645787	hotel				https://www.amberes64.com/
+node	4036659991	Hotel El Greco		19.3857362	-99.1759184	hotel				
+node	4036849643	Hotel Beverly		19.3870734	-99.1756207	hotel				
+node	4070528820	Hotel Plaza Delta		19.4007013	-99.1558706	hotel				http://www.moteles.com.mx/distrito-federal/benito-juarez/hotel/plaza-delta
+node	4121582481	Wyndham Garden		19.4250428	-99.1775466	hotel		Wyndham Garden		
+node	4154582995	Hotel Atlanta		19.4380782	-99.1374738	hotel				
+node	4156712506			19.4456408	-99.1470978	hotel				
+node	4164115090	Hotel Puebla		19.4237167	-99.1558721	hotel				
+node	4172090197	Hotel Harabe		19.3887152	-99.1366748	hotel				
+node	4172128690	Hotel Tlalpan		19.3808808	-99.1403617	hotel				
+node	4173294190	Hotel Azores		19.4365505	-99.1336007	hotel				
+node	4173294690	F Hotel		19.4378477	-99.1359774	hotel				
+node	4183568881	La Querencia DF		19.4247462	-99.1558188	hotel			La Querencia DF	
+node	4190949589			19.4336048	-99.1473111	hotel				
+node	4195144590	Holiday inn		19.3958016	-99.1746693	hotel		Holiday Inn		
+node	4250177934	Best Western Hotel Majestic		19.4329711	-99.1343673	hotel	4	Best Western		https://hotelmajestic.com.mx/
+node	4273601293	Hôtel Fabiola		19.4187951	-99.1381207	hotel				
+node	4291904590	Hostal Historico		19.4358286	-99.1338962	hostel				
+node	4318991496	Dominion Corporate Suites		19.4287507	-99.1937649	hotel				
+node	4334481889	Hotel Catalina		19.4237282	-99.1438694	hotel				
+node	4334600591	Gemalto Polanco		19.4378526	-99.2099521	hotel				
+node	4429539291	Hostel de Condesa		19.4099685	-99.1786730	hostel				
+node	4445808990			19.4094403	-99.1739301	hotel				
+node	4478307889	Massiosare El Hostel		19.4318193	-99.1466891	hostel				
+node	4521741011	Hotel Plaza Belices		19.4365659	-99.1687808	hotel				
+node	4522443989	La Mansion		19.4097575	-99.1629715	hotel				
+node	4534849029	Hotel Princesa		19.3840815	-99.1392464	hotel				
+node	4536298791	Nvo Laredo		19.4683567	-99.1403896	hotel				
+node	4629845043	Segovia Regency		19.4230123	-99.1643963	hotel	4			
+node	4676965991	Zocalo Rooms	Zocalo Rooms	19.4304094	-99.1325453	hotel				
+node	4687361078	Casa San Ildefonso		19.4365013	-99.1304444	hotel				
+node	4687361079	Hotel Templo Mayor		19.4361914	-99.1297162	hotel				
+node	4687361081	Roble		19.4298939	-99.1327841	hotel				
+node	4712559390	Hotel Metropol		19.4329486	-99.1453126	hotel	4			https://hotelmetropol.com.mx/
+node	4729203389			19.4016329	-99.1441771	hostel				
+node	4753775421	Continental		19.4332341	-99.1252562	hotel				
+node	4829439747	Holiday Inn Buenavista		19.4425107	-99.1555094	hotel		Holiday Inn		
+node	4829481692	City Express Buenavista		19.4476020	-99.1532966	hotel		City Express		
+node	4856539613	Hotel Hipodromo		19.4547767	-99.1970237	hotel				
+node	4931701422	Metro Hostal Boutique		19.4169898	-99.1582955	hostel				https://metrohostal.com/
+node	4953473121	펜션 아미고		19.4380222	-99.1535390	hostel				
+node	4973884749	Hostal Amigo		19.4300827	-99.1368674	hostel				
+node	5001501322	Paraíso		19.4094308	-99.1666371	hotel				
+node	5055238307	La Venta		19.3912317	-99.1314781	hotel				
+node	5062519225	Rio 44		19.4299816	-99.1707626	hostel				
+node	5100866631	Casa Blanca		19.4127976	-99.1564045	hotel				
+node	5116459608	Hotel Condesa		19.4162387	-99.1720137	hotel				
+node	5119046423	NH Collection Mexico City Centro Histórico		19.4315917	-99.1353380	hotel		NH Hotels		https://www.nh-hotels.com/en/hotel/nh-collection-mexico-city-centro-historico
+node	5258395425	Hotel Lepanto		19.4462828	-99.1469724	hotel				
+node	5276757721			19.3915558	-99.1751661	hostel				
+node	5415667621	Hotel Único SA de CV		19.4244203	-99.1306949	hotel				
+node	5486499187	Hotel Ermita		19.4041812	-99.1844373	hotel				
+node	5486502373	Hotel Turismo		19.4716188	-99.1400610	hotel				
+node	5509017447			19.4269448	-99.1288710	hostel				
+node	5520651822			19.4387294	-99.1482052	hostel				
+node	5522995824	FlowSuites Polanco		19.4291697	-99.1929463	hotel		FlowSuites		https://www.flowsuites.com/polanco
+node	5593699721	Hotel Milán		19.4181499	-99.1590540	hotel				https://hotelmilan.com.mx/
+node	5623518540	Balcón del Zócalo		19.4338757	-99.1345995	hotel				
+node	5706584021	Managua		19.4385059	-99.1482429	hotel				
+node	5706584321	San Fernando		19.4386256	-99.1478030	hotel				
+node	5773151754	Casa Pepe		19.4303338	-99.1344888	hotel				https://casapepe.mx/casa-pepe-cdmx/
+node	5829509773	St. Regis Mexico City		19.4256625	-99.1723556	hotel	5	St. Regis		https://www.marriott.com/en-us/hotels/mexxr-the-st-regis-mexico-city/overview/
+node	5838185790	Hotel Condesa		19.3867536	-99.1394170	hotel				
+node	5842011290	Fiesta Inn Centro Histórico		19.4345016	-99.1470672	hotel				
+node	5842011291	Hotel San Francisco		19.4342335	-99.1450314	hotel				
+node	5842139796	Hotel El Salvador		19.4303044	-99.1405528	hotel				
+node	5842462584	Zócalo Central		19.4338373	-99.1342979	hotel				
+node	5847408652	Hotel Esla		19.4750567	-99.1111625	hotel				
+node	5849963305	Hotel del Ángel		19.4284045	-99.1688114	hotel				https://hoteldelangel.mx/
+node	5850014908	Hyatt Regency		19.4271620	-99.1927936	hotel		Hyatt Regency		
+node	5850014909	Intercontinental Presidente Chapultepec		19.4273458	-99.1935967	hotel		InterContinental		
+node	5850014910	Marriott		19.4272041	-99.1949834	hotel		Marriott		
+node	6037165187	Armonik Suites		19.4306643	-99.1715471	hotel				
+node	6051087990	Hostal Ciudad de México		19.4261792	-99.1376261	hostel				
+node	6267091257	Hotel Montecarlo		19.4302987	-99.1360753	hotel				
+node	6332065985			19.4422578	-99.2001395	hotel				
+node	6545209486	Hotel Eco		19.4439778	-99.1492897	hotel				
+node	6551477196	Gilbert		19.4432055	-99.1570837	hotel				
+node	6635446562	Las Alcobas		19.4316432	-99.1978117	hotel				
+node	6642109185	Holiday Inn Express México Aeropuerto	Holiday Inn Express Mexico Aeropuerto	19.4005884	-99.0988089	hotel		Holiday Inn Express		
+node	6976847885			19.4350395	-99.1337004	hostel				
+node	7070994886	Hotel Centra2	Centra2 Hotel	19.4298300	-99.1463601	hotel				
+node	7098954687	Hotel		19.4202346	-99.1444750	hotel				
+node	7104813387	Hotel Mexico Mexico nuevo		19.4334602	-99.1259387	hostel				
+node	7195651185	Hotel Universal		19.4544753	-99.1290596	hotel				
+node	7234298465	Hotel Polo		19.4164100	-99.1468855	hotel				
+node	7552180085	Julio		19.4114317	-99.1315063	hostel				
+node	7674265770	Casa Tochán		19.3979570	-99.1956197	hostel			Albergue	
+node	7685082628	Cafemin		19.4638064	-99.1301733	hostel			Albergue	
+node	7725606083	Servicio Jesuita a Migrantes México		19.4219778	-99.1607517	hostel			albergue	
+node	7726556091	Programa Casa Refugiados		19.4005887	-99.1840931	hostel			albergue	
+node	7984727759	Kali Ciudadela		19.4284989	-99.1469799	hotel				https://kalihoteles.com/hotel/ciudadela/
+node	7984727760	Hotel Principal		19.4329089	-99.1385759	hotel				https://hotelprincipal.com/
+node	7984727761	Hotel Diligencias		19.4388201	-99.1396106	hotel				https://www.hoteldiligencias.com/
+node	7984727766	Hotel & Villas Patriotismo		19.4035702	-99.1784664	hotel				https://hotelyvillaspatriotismo.com/
+node	8462713893	Hotel Rey		19.3996831	-99.1696173	hotel				
+node	8569809760			19.3962662	-99.0563970	hotel				
+node	8685684868	Hotel Habita		19.4316956	-99.1899174	hotel				
+node	8899573719	Hotel San Alfonso		19.4409501	-99.1148802	hotel				
+node	9136558694	Hotel California		19.4073053	-99.1557726	hotel				
+node	9211076990	"The Ritz-Carlton, Mexico City"		19.4239552	-99.1757289	hotel	5	The Ritz-Carlton		
+node	9405397127	Hotel Lira		19.4100086	-99.1898748	hotel				
+node	9546524317	Hotel Goya		19.4144918	-99.1364875	hotel				
+node	9664761917	CASA MX alameda		19.4401377	-99.1447465	hostel				
+node	9664827517	Mexico hostel		19.4332250	-99.1444063	hostel				
+node	9769522721	Hostal Regina	Hostel Regina	19.4277509	-99.1351814	hostel				
+node	9854538639	izZzleep - Hospedaje inteligente - Hotel Aeropuerto Terminal 1		19.4365743	-99.0820006	hotel				https://izzzleep.com/
+node	9906629917	Hotel Cadena		19.4209993	-99.1393678	hotel				
+node	9906835625	Amsterdam apartamento C		19.4140450	-99.1670467	hostel				
+node	9951833217	Casa Azul		19.4513838	-99.0924534	hotel				
+node	9960449319	Hotel Ambos Mundo		19.4029697	-99.1848102	hotel				
+node	9966843417	Hostel México DF Airport		19.4413002	-99.0787075	hostel				
+node	10009934748	Hotel Econo Express		19.3810302	-99.1402770	hotel				
+node	10277129548			19.4674319	-99.1383608	hotel				
+node	10277130028			19.4687641	-99.1363486	hotel				
+node	10277130035	Hotel Emperador		19.4414478	-99.1395648	hotel				
+node	10309350028	Hotel Bellini		19.4588943	-99.1287522	hotel				
+node	10544235509	Hotel Naciones		19.4669194	-99.1432501	hotel				
+node	10563569319	Cfntal Norte		19.4745588	-99.1383379	hotel				
+node	10563569612	Hotel Norte		19.4457264	-99.1486520	hotel				
+node	10564100256	Hotel San Diego		19.4289591	-99.1456165	hotel				
+node	10623288902	Fiesta Americana		19.4535295	-99.2190406	hotel				
+node	10754906034	Hotel Parque México Suites		19.4112106	-99.1722752	hotel				
+node	10924860086	Casa Condesa		19.4118045	-99.1755377	hotel				
+node	11021428405	Wanderlust District	Wanderlust District Hostel	19.4255023	-99.1561453	hostel				
+node	11039282506			19.4130529	-99.1601581	hotel				
+node	11126650452			19.4616025	-99.1259561	hotel				
+node	11168769637	HOM Balderas		19.4269785	-99.1507365	hostel				https://www.homhostel.com/balderas.html
+node	11299008665	Suites Capri Reforma 410		19.4249519	-99.1706618	hotel		Suites Capri		https://suitescapri-mexico.com
+node	11345798769	Juarez		19.4346584	-99.1355678	hotel				
+node	11780525369	Hotel Fleming		19.4325540	-99.1464730	hotel				https://www.hotelfleming.com.mx/
+node	11847960666	Colimazi		19.4208008	-99.1566010	hotel				
+node	11848550708	Faro		19.4220688	-99.1438904	hotel				
+node	11910177404	Punto MX		19.4305567	-99.1376000	hotel				
+node	11926923384	Hotel Catedral		19.4357717	-99.1330672	hotel				
+node	12047158969	Roomies Hostel Cibeles		19.4213059	-99.1682083	hostel				
+node	12063897937	Hotel Guadalajara		19.4440430	-99.1364266	hotel				
+node	12077440969	Hostel Amigo Suites		19.4367982	-99.1328385	hostel				
+node	12119642637	FlowSuites Condesa		19.4109052	-99.1723187	hotel		FlowSuites		https://www.flowsuites.com/condesa
+node	12198036972	Izzzleep Hotel		19.3944574	-99.1736254	hotel				
+node	12250823379	Hotel Pensil		19.4464967	-99.1909862	hotel				
+node	12271744497	Hotel Harare		19.3881640	-99.1392660	hotel				
+node	12319517642	Hotel MAGA		19.4101721	-99.1357027	hotel				
+node	12344557101	Hotel Escala		19.4126894	-99.1561250	hotel				http://hotelescala.com
+node	12356891101	Oasis Airport		19.4399080	-99.0781700	hotel				https://oasisairportcdmx.online
+node	12396863033	City Express by Marriott Ciudad de México Alameda		19.4333557	-99.1462493	hotel		City Express		https://www.marriott.com/es/hotels/mexxd-city-express-ciudad-de-mexico-alameda/overview/
+node	12467358801	Apapacho Hostel		19.4287426	-99.1349627	hostel				https://apapachohostel.com/es/inicio/
+node	12729581540	Hotel pf suites		19.4231414	-99.1669290	hotel	2			
+node	12749071474	Casa Cibeles by Lumina		19.4190112	-99.1669500	hostel				
+node	12753618472	Viajero CDMX Centro		19.4365414	-99.1304074	hostel				https://www.viajerohostels.com/en/destinations-mexico/mexico-city/
+node	12793899301	Singular Goldsmith		19.4353780	-99.2003538	hotel				
+node	12814779077			19.4657218	-99.0807139	hotel				
+node	12869462971	Colmena Tonala		19.4054585	-99.1596177	hotel				
+node	12962378599	Hotel Exe Suites Reforma		19.4304697	-99.1631212	hotel		Eurostars Hotel COmpany		https://www.eurostarshotels.com/exe-suites-reforma.html
+node	13076849600	Circulo Mexicano		19.4351439	-99.1328504	hotel				
+node	13097372611	Hostel Home		19.4177770	-99.1668399	hostel				
+node	13101351874	Dharma		19.4453441	-99.1481208	hotel				
+node	13246061629	Hotel B Urban Xaman		19.4356000	-99.1484276	hotel	5	Hoteles BF	Hoteles BF	https://www.hotelburbanxaman.com
+node	13351571101	MX garibaldi		19.4406431	-99.1378116	hostel				
+node	13441805005	Benedicta		19.4261192	-99.1576730	hotel				
+node	13446108072	Hotel Parque		19.4259957	-99.1316188	hotel				
+node	13477127101	City Express by Marriott Ciudad de México EBC Reforma		19.4279283	-99.1621129	hotel		City Express		http://marriott.com
+node	13530564303	Hotel Black		19.4351212	-99.1662053	hotel				https://www.hotelblack.mx
+node	13574971162	Casa Kanabrí Hostal Boutique		19.4310367	-99.1602408	hostel				
+node	13577409948			19.4265663	-99.1544454	hotel				
+node	13713374406	MX zócalo		19.4337529	-99.1355272	hotel		Hoteles MX		https://www.hotelesmx.com/mx-zocalo
+node	13713970036	Casa Herrmann		19.4323991	-99.1354462	hotel				https://www.casaherrmann.com.mx/
+node	13714025820	Hotel Canada Central		19.4340694	-99.1357174	hotel		Central Hoteles		https://www.centralhoteles.com/hotels/canada-central-rooftop/
+node	13714025821	Hotel Rioja		19.4340783	-99.1358300	hotel				https://www.hotelrioja.com.mx/
+node	13714168764	Hotel Gillow		19.4340053	-99.1362735	hotel				https://hotelgillow.com.mx/
+node	13716009795	Casa de la Luz		19.4295807	-99.1330363	hotel				
+node	13718771778	Condesa Suites		19.4163673	-99.1751813	hotel				
+node	13807008024	Four Seasons Hotel Mexico City		19.4229300	-99.1742051	hotel	5	Four Seasons		https://www.fourseasons.com/es/mexico/
+node	13809748706	Hotel Muy		19.4351241	-99.1647540	hotel				
+node	13810108198	Sevilla Venue		19.4222711	-99.1711429	hotel				https://www.sevillavenue.com/
+node	13837770955	Hotel Arizona		19.4361923	-99.1568707	hotel	3			https://www.hotelarizona.com.mx/
+node	13847066001	Hotel Menara		19.4254955	-99.1378843	hotel				
+node	13851250883	Gran Hotel Ciudad de México		19.4322694	-99.1346800	hotel			Valiant Hoteles	https://granhoteldelaciudaddemexico.com.mx/
+node	13918237592	ULIV		19.4186425	-99.1646245	hotel				
+node	14146016951	Hotel Cuba		19.4370621	-99.1359285	hotel				
+node	14152672601	Stanza Hotel CDMX		19.4195762	-99.1551906	hotel				
+node	14193421801	hotel Colmena		19.4366147	-99.1326239	hotel				
+node	14269530909	WeEnjoy Hotels Aeropuerto CDMX		19.4024088	-99.0973606	hotel				https://weenjoyhotels.com.mx/
+way	135161128	Camino Real Aeropuerto		19.4354420	-99.0853020	hotel				https://www.caminoreal.com/
+way	162003399	Holiday Inn Express		19.3958401	-99.1747100	hotel		Holiday Inn Express		
+way	217327858	Sheraton María Isabel		19.4282132	-99.1671457	hotel	5	Sheraton	Marriott	https://www.marriott.com/hotels/travel/mexis-sheraton-mexico-city-maria-isabel-hotel/
+way	217481078	Hotel Fontán Reforma		19.4362989	-99.1476716	hotel	4	Hoteles BF	Hoteles BF	https://www.hotelfontanreforma.com
+way	217481080	Barceló México Reforma		19.4352748	-99.1509654	hotel				https://www.barcelo.com/en-us/barcelo-hotels/hotels/mexico/ciudad-de-mexico/barcelo-mexico-reforma/
+way	217482435	Fiesta Americana Reforma		19.4322691	-99.1547343	hotel				
+way	217482437	Le Méridien Mexico City		19.4336592	-99.1542515	hotel		Le Méridien		https://www.marriott.com/es/hotels/mexdm-le-meridien-mexico-city/overview/
+way	217483266	Sevilla Palace		19.4330449	-99.1564123	hotel				
+way	305361428	City Express Plus by Marriott Reforma El Ángel		19.4263084	-99.1667822	hotel	4	City Express		https://www.marriott.com/es/hotels/mexpg-city-express-plus-reforma-el-angel/overview/
+way	311602445	Fiesta Inn Insurgentes Viaducto		19.4003041	-99.1708823	hotel			Fiesta Inn	
+way	312299624	Hotel Marquis Reforma		19.4250374	-99.1737889	hotel	5			
+way	312452255	Galería Plaza Reforma		19.4250397	-99.1678044	hotel	4	Galería Plaza	Operadora Brisas Group	https://www.galeriaplazahotels.com.mx/es/reforma/
+way	312457471	Sofitel Hotel Mexico City		19.4287228	-99.1660413	hotel	5	Sofitel	Grupo Eco Developers	
+way	312466775	Marriott Mexico City Reforma Hotel		19.4277079	-99.1641745	hotel	4	Marriott		https://www.marriott.com/en-us/hotels/mexmc-mexico-city-marriott-reforma-hotel
+way	312466779	Holiday Inn Express Mexico Reforma		19.4291860	-99.1615426	hotel		Holiday Inn Express		
+way	313857036	Hotel Imperial Reforma		19.4332409	-99.1535837	hotel				https://www.hotelimperial.mx/
+way	343761709	Hilton Mexico City Reforma		19.4345173	-99.1462783	hotel		Hilton		https://www.hilton.com/en/hotels/mexrfhh-hilton-mexico-city-reforma/
+way	361215819	Krystal Urban Aeropuerto Ciudad de México		19.3835307	-99.0755425	hotel	4	Krystal Hotels & Resorts	Santa Fe Grupo Hotelero	https://www.krystalurban-aeropuertomexico.com/
+way	362165981	"Hotel Courtyard by Marriott, Cd. de México Revolución"		19.3966560	-99.1856271	hotel		Courtyard by Marriott		
+way	380145482			19.4018419	-99.1775863	hotel				
+way	406621544	El Diplomático		19.3806315	-99.1770746	hotel	3		Grupo Sevilla	https://www.eldiplomatico.com.mx/
+way	418458440	Ramada Reforma		19.4376354	-99.1504197	hotel		Ramada	Ramada	
+way	431386224	Suites Obelisk		19.4281314	-99.1975820	hotel				
+way	454050621	Plaza Abastos		19.3822349	-99.0783440	hotel				
+way	458390873	Holiday Inn Express & Suites		19.4060857	-99.1192075	hotel		Holiday Inn Express & Suites		
+way	476442259	Hotel NH Collection Mexico City Reforma		19.4242524	-99.1649901	hotel				
+way	476442260	Hotel Century Reforma		19.4238824	-99.1647168	hotel				
+way	479402140	Capri Suites - Reforma Ángel		19.4255908	-99.1693206	hotel				https://suitescapri-mexico.com/reforma-angel-en/
+way	526260591			19.4192430	-99.1602404	hotel				https://www.brickhotel.com.mx/
+way	526274472			19.3869892	-99.1395170	hotel				
+way	526340704	Hotel Premier		19.4311748	-99.1567291	hotel				
+way	526543616	Hotel Plaza Madrid		19.4337295	-99.1567429	hotel	4			
+way	526599582	Hotel Seoul		19.4370064	-99.1214588	hotel				
+way	531090557	Hotel Tampico		19.4292164	-99.1242626	hotel				
+way	554325727	Holiday Inn Ciudad de México Trade Center		19.3879404	-99.1866211	hotel		Holiday Inn		http://www.hinntradecenter.com/
+way	558323616			19.4353140	-99.0889944	hotel				https://www.fiestainn.com/en/web/fiesta-inn-aeropuerto-ciudad-de-mexico
+way	769553076	Hotel Hispano		19.4308955	-99.1235668	hotel				
+way	787653007	Hotel Ermita		19.4041239	-99.1844261	hotel				
+way	787653019			19.4005103	-99.1846145	hotel				
+way	788635989	Hotel Aranjuez		19.4018384	-99.1373271	hotel				
+way	790773477	Camino Real		19.4280276	-99.1787543	hotel				
+way	790786796	Hotel City Express Suites Anzures		19.4292806	-99.1787172	hotel				
+way	790796958	W Mexico City		19.4271304	-99.1953745	hotel		W Hotels		
+way	790800695	Hotel Polanco		19.4287862	-99.2005749	hotel				
+way	790805482			19.4646397	-99.0811039	hotel				
+way	790805496	Hotel Metropólitan		19.4670796	-99.1105456	hotel				
+way	987854102	Panamá		19.4623123	-99.1772420	hotel				https://hotelvillaspanama.net/
+way	1136521943			19.4749669	-99.1381338	hotel				
+way	1136521944			19.4756763	-99.1387284	hotel				
+way	1136521945			19.4740686	-99.1366925	hotel				
+way	1153114861	We Hotel Aeropuerto		19.4332488	-99.0894513	hotel				https://wehotelaeropuerto.com.mx/
+way	1157541392	Marriott Courtyard		19.4368840	-99.0821873	hotel		Marriott		https://www.marriott.com/es/hotels/mexcy-courtyard-mexico-city-airport/overview/
+way	1163985749	Hotel Castropol		19.4269690	-99.1325495	hotel				
+way	1164589805	Hotel La Joya		19.4383793	-99.1559147	hotel				
+way	1168336942	Hotel Washington		19.4343034	-99.1352563	hotel				
+way	1168336943	Hotel Zamora		19.4343336	-99.1354917	hotel				
+way	1168426611	Hotel Circuito		19.4617243	-99.1213208	hotel				
+way	1189798258	Krystal Grand Suites Insurgentes		19.3928776	-99.1722644	hotel	4	Krystal Hotels & Resorts	Grupo Hotelero Santa Fe	https://www.krystal-grand-suites.com
+way	1218195042	Hotel Royal Zona Rosa		19.4239520	-99.1640958	hotel				
+way	1219583450	Eurostars Zona Rosa Suites		19.4257305	-99.1640454	hotel		Eurostars Hotel Company		
+way	1219895634	Suites Capri Sevilla		19.4230798	-99.1702588	hotel		Suites Capri		https://suitescapri-mexico.com/sevilla/
+way	1221428345	Capsule Hostel		19.4285021	-99.1603387	hostel				
+way	1222166867	Mansion Havre		19.4266560	-99.1610697	hotel				
+way	1227701900	Hotel El Ejecutivo		19.4307398	-99.1572661	hotel				https://www.hotelelejecutivo.com.mx/
+way	1227701913	MC Suites Mexico City		19.4309007	-99.1568662	hotel				https://www.mcsuites.top/
+way	1228562740	Casa Prim		19.4304743	-99.1553983	hotel				https://casaprim.com.mx/
+way	1230248474	Holiday Inn Express & Suites Mexico Zona Reforma		19.4285628	-99.1581499	hotel		Holiday Inn Express & Suites		https://www.ihg.com/holidayinn/hotels/us/en/mexico/mexzr/hoteldetail
+way	1230780573	Hotel del Principado		19.4272405	-99.1597191	hotel				
+way	1231597894	Hostal Juarez		19.4273781	-99.1572201	hostel				https://hostaljuarez.com
+way	1339298782	Hotel Magnolia		19.4419774	-99.1400713	hotel				
+way	1339298784	Hotel MX Lagunilla		19.4426032	-99.1399763	hotel				
+way	1359256631	Hotel Plaza Revolución		19.4362911	-99.1510466	hotel				
+way	1362054589	Hotel Palace		19.4350404	-99.1548226	hotel				https://www.hotel-palace.mx/
+way	1362412356	Hotel Regente City		19.4334718	-99.1578013	hotel				
+way	1364945476	Suites DF Hostel		19.4362313	-99.1507145	hostel				https://hostelsuitesdf.com/
+way	1388536198	Hotel Maison México Roma		19.4178053	-99.1675343	hotel	5	Lomas Hospitality	Grupo Lomas	https://www.maisonmexicoroma.com/es
+way	1409990529	Hotel Hidalgo		19.4375115	-99.1421244	hotel	3	OYO		
+way	1410143460	Hotel Covandonga		19.4386212	-99.1418648	hotel				http://hcovadonga.homelinux.net/
+way	1421185984	Hotel Roosevelt		19.4156164	-99.1659248	hotel				
+way	1421204414	Hotel Embassy		19.4230866	-99.1601602	hotel				
+way	1421282720	Hotel Regina		19.4268591	-99.1303407	hotel				
+way	1421923402	Hotel Niza		19.4283419	-99.1364214	hotel				https://hotelniza.mxhotel.site/
+way	1421923466	Barrio Downtown Mexico City Hostel		19.4306356	-99.1386571	hotel				
+way	1421923486	Hotel Virreyes		19.4269621	-99.1414714	hotel				
+way	1422338669	Hotel Sonora		19.4393015	-99.1370464	hotel				
+way	1422386960	Hotel Marlowe		19.4332350	-99.1423832	hotel				https://hotelmarlowe.com.mx
+way	1426106276	Hotel Dos Naciones		19.4390436	-99.1413192	hotel				https://www.hoteldosnaciones.com.mx/
+way	1426113263	Hotel Riva Palacio		19.4407128	-99.1405074	hotel				
+way	1427386606	Casa Inn Business Hotel Mexico		19.4270995	-99.1723663	hotel				http://www.casainnbusinesshotelmexico.com/
+way	1427403193	Hotel Oslo		19.4042996	-99.1453418	hotel				
+way	1427404513	Alberge Santa Maria		19.4121813	-99.1497210	hostel			IMSS	
+way	1427411430	Hotel Mallorca		19.4339906	-99.1610586	hotel				https://www.hotelmallorca.mx/
+way	1427411465	Hotel Sevilla		19.4332716	-99.1605592	hotel				https://www.sevilla.com.mx/
+way	1427411618	Hotel Maria Cristina		19.4315229	-99.1631522	hotel				
+way	1427820225	Hotel Mónaco Ciudad de México		19.4387399	-99.1493264	hotel				
+way	1427820488	Hotel Mala Vecindad		19.4400772	-99.1540032	hotel				https://www.malavecindad.com/
+way	1427830381	Hotel Panorama		19.4577027	-99.1272806	hotel				
+way	1427830387	Holiday Inn Express México Basílica		19.4561558	-99.1291305	hotel		Holiday Inn Express		
+way	1427830403	Hotel Villa Hermosa		19.4570730	-99.1290088	hotel				
+way	1427830404	Villa del Mar		19.4569387	-99.1286066	hotel				
+way	1429228398	Hotel Flamencos		19.4247619	-99.1337299	hotel				
+way	1429236305	Gran Hotel Amazonas		19.4143378	-99.1352839	hotel				
+way	1429236481	Quinta Bugambilias		19.4130393	-99.1289145	hotel				
+way	1429358277	Hotel Las Américas		19.4427135	-99.1425294	hotel				
+way	1430791925	Hotel MX Aeropuerto		19.4175430	-99.0934102	hotel				
+way	1445866212	Hotel Duque		19.4190718	-99.0972991	hotel				
+way	1445866269	Hotel Puente		19.4197220	-99.0983356	hotel				
+way	1481062867	Hotel Aeropuerto		19.4328797	-99.0896803	hotel				
+way	1481667903	Hotel Planet		19.4308821	-99.0978448	hotel				
+way	1535687192	City Express		19.4228693	-99.0955777	hotel		City Express		
+way	1564313023	Hotel MX Congreso		19.4352222	-99.1154801	hotel				
+way	1568433688	Hotel Cima		19.4269793	-99.1080488	hotel				
+relation	16091042	Hotel Casa Blanca		19.4348172	-99.1537017	hotel				https://www.hotel-casablanca.com.mx/
+relation	16998397	Hotel Geneve Mexico City		19.4248773	-99.1640943	hotel	4	Ostar Grupo Hotelero	Ostar Grupo Hotelero	https://www.hotelgeneve.com.mx
+relation	19611085	Hotel Orion		19.4130180	-99.0905312	hotel				
+relation	19646659	Hotel Zaragoza Inn Boutique		19.4092962	-99.0792139	hotel				

@@ -1,0 +1,1702 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	262396496	Yiğitalp Oteli		41.0111805	28.9558490	hotel				
+node	269507773	Tepebaşı		41.0309708	28.9741781	hotel				
+node	269523672	W Hotel		41.0422396	29.0024836	hotel		W Hotels		
+node	275600519	Hotel Grand Yavuz		41.0059174	28.9691511	hotel				
+node	277139847	Senator Hotel	Holiday inn old city	41.0120502	28.9549786	hotel		Best Western	Best Western	
+node	278004998	Mavi Guesthouse		41.0069969	28.9813746	hotel				
+node	278615640	Divan Hotel		41.0411019	28.9870408	hotel			Halkbank	
+node	292561278	Euro Plaza		41.0346238	28.9738797	hotel				
+node	415156587	Aşkin Hotel		41.0057000	28.9791309	hotel				
+node	415156588	Blue House Hotel		41.0055340	28.9790454	hotel				
+node	500060394	Hürriyet		41.0144076	28.9772190	hotel				
+node	513386309	Taksim Yufa Suites		41.0391240	28.9826462	hotel				
+node	566635075	Anzac Woodenhouse		41.0036829	28.9787318	hostel				
+node	687472217	Villa Blanche Hotel		41.0687481	29.0074344	hotel				
+node	732308107	Fuar		41.0070714	28.9499738	hotel				
+node	765883045	Turquhouse Hotel		41.0545682	28.9334938	hotel		Turquhouse Boutique Hotel	Atalar Turizm	
+node	792556744	Hotel Occidental Taksim		41.0399050	28.9841155	hotel				
+node	803325001	Grand Hotel de Londres		41.0323954	28.9752350	hotel				https://londrahotel.net/
+node	904611372	Hotel Aziyadé		41.0063214	28.9692225	hotel	4			
+node	939122974	Vardar Palace		41.0343318	28.9844953	hotel				
+node	952160695	Telia		41.0126588	28.9569243	hotel				
+node	1000021823	Güleç Konak Hotel		41.0054141	28.9799391	hotel				
+node	1000021884			41.0056099	28.9802244	hotel				
+node	1000022116			41.0053589	28.9802244	hotel				
+node	1000022270	Orient Hostel		41.0060272	28.9810101	hostel				
+node	1106083650	Sumengen Hotel		41.0043453	28.9802508	hotel				
+node	1106083653	Obelisk Hotel - Best Western		41.0045357	28.9801642	hotel				
+node	1161228099	Arts Hotel Taksim		41.0400994	28.9848089	hotel				
+node	1179308582			41.0034679	28.9768052	hotel				
+node	1249920994	Acra Hotel		41.0046865	28.9802381	hotel				
+node	1251645280	Hotel Peninsula		41.0061282	28.9813913	hotel				https://www.hotelpeninsula.com/
+node	1325246139	Nobel Hostel		41.0049321	28.9790616	hotel				https://www.nobelhostel.com/
+node	1325246155	Armagrandi Spina Hotel		41.0059321	28.9791644	hotel				https://www.armagrandi.com/
+node	1343734824	istanbul port hotel		41.0056825	28.9645057	hotel				
+node	1365841276	Mövenpick Hotel Istanbul Bosphorus		41.0625138	29.0112483	hotel		Mövenpick		
+node	1365850199	Point Hotel Barbaros		41.0641361	29.0106091	hotel	5			https://www.pointhotel.com/point-hotel-barbaros-home.aspx
+node	1394802743	Sheraton		40.9725321	28.8703977	hotel		Sheraton		
+node	1473034819	Anatolia Suites Sultanahmet		41.0035378	28.9763370	hotel				
+node	1496713040	Hotel Sapphire		41.0129563	28.9772993	hotel				https://hotelsapphire.com/
+node	1496717717	World House Hostel		41.0265015	28.9747193	hostel				
+node	1548537970	Tulip Guesthouse		41.0058829	28.9813878	hostel				https://tulipguesthouse.com/
+node	1604780631	Taksim Star Hotel		41.0348645	28.9847348	hotel				http://www.starhotelsgroup.com/Our-Hotels/Taksim-Star-Hotel-C46-P42.html
+node	1619342274	Chillout Cengo Hostel		41.0359882	28.9798676	hostel				
+node	1632647865	Ahmet Efendi Evi		41.0035569	28.9801446	hotel				
+node	1632649056	Radisson Hotel Istanbul Sultanahmet		41.0033858	28.9815600	hotel	4	Radisson		https://www.radissonhotels.com/tr-tr/oteller/radisson-istanbul-sultanahmet
+node	1651587857	Chillout Pera Hostel		41.0271221	28.9736875	hostel				
+node	1690329824	Point Hotel		41.0407020	28.9858378	hotel				
+node	1762083460	Sultan’s Inn		41.0031733	28.9745331	hotel				https://www.sultansinn.com/
+node	1770234334	Weingart Hotel		41.0248728	28.9779749	hotel				
+node	1784912021	Olimpiyat Hotel		41.0121490	28.9779399	hotel				
+node	1784912033	Yasmak Sultan Hotel		41.0123061	28.9776865	hotel				
+node	1789462058	Sumocat Hostel		41.0260398	28.9762229	hostel				
+node	1789464100	Cheers Port House		41.0242509	28.9784036	hotel				
+node	1807703795	Ottoman Hotel		41.0050264	28.9679432	hotel				
+node	1839561313	Faros Hotel		41.0125967	28.9781873	hotel				
+node	1863234779	Avantgarde Hotel		41.0708783	29.0149625	hotel				
+node	1885894932	Zeynep Sultan Hotel		41.0100651	28.9780687	hotel				https://zeynepsultanhotel.com/indexmobile.php
+node	1885900109	5 Boutique Hotel		41.0471663	28.9863054	hotel				
+node	1908677111	Esma Old City		41.0080564	28.9739449	hostel				http://www.oldcityesmahostel.com/
+node	1908677117	Fors Hotel		41.0055208	28.9686387	hotel				
+node	1909210988	Sipahi Otel		41.0093889	28.9724093	hostel				https://www.sipahiotel.com.tr/
+node	1909658609	The Central Palace		41.0395793	28.9849503	hotel				
+node	1912881339	Crystal Hotel		41.0398779	28.9853646	hotel				
+node	1914160114	Almina Otel		41.0032019	28.9774013	hotel				https://alminahotel.com.tr/
+node	1914160116	Antis Hotel		41.0035965	28.9791271	hotel				
+node	1914160117	Avicenna Hotel		41.0041915	28.9798421	hotel				https://www.avicennahotel.com/pages/contact
+node	1914160118	Azade Hotel		41.0044804	28.9801898	hotel				
+node	1914160121	Divalis Hotel		41.0043678	28.9789948	hotel				
+node	1914160122	Hotel Sphendon		41.0032660	28.9770966	hotel				
+node	1914160127	Tashkonak Hotel		41.0033744	28.9762497	hotel				
+node	1915390152	Shamrock Hotel		41.0352475	28.9786728	hotel				
+node	1934480228	Tempo Hotel		41.0675784	28.9739333	hotel				
+node	1935264363	Titanic Port Hotel		40.9775896	28.8701553	hotel				
+node	1937914694	Hotel Arcadia Blue		41.0068739	28.9736116	hotel				https://www.hotelarcadiablue.com/en
+node	1938801300	Levanten Hostel		41.0338454	28.9862297	hostel				
+node	1957446183	Finch Apartments		41.0246745	28.9776155	hotel				
+node	1969992644	EPOS Hotel		40.9785685	28.8822336	hotel				
+node	1995185644	Turvan		41.0132472	28.9777395	hotel				
+node	2126619167	Gezilist House Residence		41.0377570	28.9803862	hotel				
+node	2129678506	Serrac Hotel		41.0605426	29.0086244	hotel				
+node	2201796690	HHK Hotel		41.0191474	28.9630482	hotel				
+node	2239749973	Celine Hotel		41.0059122	28.9732210	hotel				https://www.hotelceline.com/
+node	2242576003	Lausos		41.0066336	28.9733489	hotel				
+node	2242576040	Hotel New House		41.0082100	28.9705233	hotel				https://www.hotelnewhouse.com/
+node	2242576057	Golden Crown		41.0067945	28.9710024	hotel				
+node	2300981485	La Piano		41.0501628	28.9880406	hotel				http://www.hotellapiano.com/
+node	2313688959	New Pera Suites		41.0354351	28.9776203	hotel				
+node	2322306553	İstiklal St House		41.0341028	28.9810364	hotel				http://www.istiklalsthouse.com/
+node	2329194005	The Marmara Taksim		41.0364373	28.9863444	hotel				https://www.themarmarahotels.com/en/Hotels/Taksim
+node	2343698950	Bereket Apart Hotel		41.0037248	28.9712883	hotel				
+node	2348218021	Iskele House Flats		40.9959983	29.0259511	hotel				
+node	2378122621	Boutique Hotel Riva		41.0524192	28.9903756	hotel				http://www.boutiquehotelriva.com/
+node	2379706608	Aura Apart Hotel		41.0030423	28.9764619	hotel				www.auraaparthotel.com
+node	2433913439	Hotel Byzaz		41.0036178	28.9710104	hotel				
+node	2447837924	Hush Hostel Moda		40.9886765	29.0236259	hostel				
+node	2449446059	Eysan Hotel		40.9933609	29.0250844	hotel				
+node	2449446065	Parpali Otel		40.9925681	29.0249954	hotel				
+node	2482928508	Güneş Otel		41.0078005	28.8935202	hotel				
+node	2517174561	Gulhane Corner Hotel		41.0126408	28.9781056	hotel				
+node	2519859560	Dedem Boutique		41.0070925	28.9704496	hotel				
+node	2519859561	Kupeli Hotel		41.0070849	28.9705452	hotel				
+node	2519859562	Santa Sophia		41.0070836	28.9706285	hotel	3			
+node	2524535697	Sultan Ahmet Palace		41.0045657	28.9780948	hotel				https://www.sultanahmetpalace.com/
+node	2527036032	OBA HOTEL		41.0050228	28.9715503	hotel				https://www.obahotel.com/
+node	2585192314	Aga Hamam Hostel		41.0331722	28.9818046	hostel				
+node	2599968945	Hotel Torun		41.0204757	28.9285989	hotel				
+node	2634934647	Diamond Hotel Taksim		41.0306690	28.9754341	hotel				
+node	2647384355	Dualis Hotel		41.0035353	28.9699653	hotel				https://www.booking.com/hotel/tr/dualis-otel.de.html
+node	2647416439	Best Western Antea Palace Hotel & Spa		41.0034950	28.9705102	hotel		Best Western		
+node	2754513956	The Peak		41.0309575	28.9745130	hotel				
+node	2760118495	Taximist		41.0396402	28.9828214	hotel				
+node	2768450499	Levni Hotel & SPA		41.0130358	28.9756727	hotel	4			https://levnihotel.com/
+node	2780794542	Arch-ist Hostel		41.0332865	28.9839371	hostel				
+node	2793049082	Second Home Hostel		41.0128776	28.9763285	hostel				
+node	2894123842	Darkhill Hotel		41.0088293	28.9594517	hotel				
+node	2927878650	Orka Royal Hotel		41.0142537	28.9781493	hotel				https://www.orkaroyalhotel.com/
+node	2934568249	Hotel Ottoman Luxury		41.0127117	28.9783286	hotel				
+node	2959736391	Corner Suites Taksim		41.0354662	28.9765713	hotel				
+node	2990375618	Mernat Otel		40.9865011	29.0309763	hotel				
+node	2999748088	Istanbulsuites		41.0458203	28.9847982	hotel				
+node	3075182583	Hotel Tulip House		41.0054963	28.9718029	hotel				
+node	3105263317	Ay Otel		41.0249836	29.0936908	hotel				
+node	3105292588	Romance Hotel		41.0042760	28.9799045	hotel				
+node	3131825230	Liza Grand Hotel		41.0051205	28.9642529	hotel				
+node	3143473543	Hotel Grand Zentrum		41.0382911	28.9842092	hotel				
+node	3151674364	Wabi Sabi Hostel		41.0434309	28.9854935	hostel				https://www.wabisabihostels.com
+node	3153813247	Pera Rose Hotel		41.0302749	28.9734674	hotel			Goden Tulip	https://www.perarose.com/
+node	3184138914	The Haze Hotel		41.0236332	28.9769721	hotel				
+node	3188737340	Art Nouveau Galata		41.0253523	28.9748318	hotel				http://artnouveaugalata.com/en/
+node	3201096937	AC Hotel İstanbul Maçka		41.0426927	28.9988155	hotel		AC Hotel	AC Hotels	https://www.marriott.com/hotels/travel/istac-ac-hotel-istanbul-macka/
+node	3209386501	Paris hotel		41.0066528	28.9719083	hotel				http://www.istanbulparishostel.com/
+node	3243465419	Avrasya Hostel		41.0059483	28.9796207	hostel				http://avrasyahostel.com
+node	3273342882	Witt Istanbul Hotel		41.0291059	28.9820993	hotel				https://wittistanbul.com/
+node	3304405265	Kocasinan Airport Hotel		40.9922243	28.8467080	hotel				http://kocasinanhotel.com/
+node	3329678506	Antique Hostel		41.0056731	28.9797798	hostel				https://antiquehostel.com/
+node	3344150209	Hilton Garden Inn Istanbul Ataturk Airport		41.0228532	28.8156249	hotel	4	Hilton Garden Inn	Hilton	https://www.hilton.com/en/hotels/istiagi-hilton-garden-inn-istanbul-ataturk-airport/
+node	3374869261	DoubleTree by Hilton Istanbul Gayrettepe		41.0675929	29.0042370	hotel	5	DoubleTree	Hilton	https://www.hilton.com/en/hotels/istesdi-doubletree-istanbul-gayrettepe/
+node	3405207448	Nișantașı My Residence Hotel		41.0506512	28.9884000	hotel				
+node	3457405618	Hotel Nordstern Galata		41.0225208	28.9744018	hotel				
+node	3457689618	Amisos Hotel		41.0120159	28.9782063	hotel				
+node	3457689621	Hotel Sultania		41.0128034	28.9776457	hotel				https://www.hotelsultania.com/
+node	3459046124		Hotel The Public	41.0339937	28.9786621	hotel				https://www.hotelthepublic.com/
+node	3499083026			41.0121574	28.9409040	hotel			Grand Anka	
+node	3499085051	Ramada;Ramada Old City hotel	Ramada Hotel	41.0120713	28.9405810	hotel		Ramada		
+node	3499086341	Otel Kaya		41.0125480	28.9394811	hotel				
+node	3499092954	Golden Hill		41.0136682	28.9372267	hotel				
+node	3499112264	Holiday Inn		41.0180480	28.9265531	hotel		Holiday Inn		
+node	3499219842	Hotel Empire Palace		41.0129963	28.9777012	hotel				
+node	3499232358	Hotel Belde		41.0103030	28.9587723	hotel				
+node	3499250060	Metro Hotel		41.0107949	28.9585047	hotel				
+node	3507067083	Katelya Hotel		41.0031486	28.9757515	hotel				http://katelyahotel.com
+node	3556260143	Gulhanepark Hotel		41.0138550	28.9789993	hotel				
+node	3560449761	Wyndham Grand Istanbul Levent		41.0772788	29.0125930	hotel	5	Wyndham Grand		https://www.wyndhamgrandlevent.com/
+node	3569069194	Tuana Hotel		41.0188458	28.9642821	hotel			hasan	
+node	3583733293	duo galata hotel		41.0265518	28.9746611	hotel				
+node	3616384400	Taksim Green House Hostel		41.0426507	28.9852961	hostel				http://taksimgreenhousehostel.com/
+node	3658718240	Rodamón		41.0310578	28.9725851	hostel				
+node	3672552825	Black Bird Hotel		41.0121816	28.9557141	hotel				
+node	3701196101	Vialand Palace Amusement Park Hotel		41.0741621	28.9237996	hotel			Helen Otelcilik A.S.	http://www.vialandpalacehotel.com
+node	3702768867	Hotel Birol		41.0301924	28.9746778	hotel				
+node	3738017999	The LOCAL		41.0030238	28.9793816	hostel				https://thelocalistanbul.com/
+node	3763136995	Yaztur Hotel		41.0081102	28.9569735	hotel				http://www.yazturhotel.com
+node	3780724830	Galata 1875 Suites		41.0264838	28.9779849	hotel				http://galata1875.com/
+node	3806631331	Piya Hostel		41.0029112	28.9785352	hostel				http://www.piyahostel.com/
+node	3806646230	Hotel Aslan İstanbul		41.0043155	28.9791577	hotel			Mert DRAGA	
+node	3825504460	Darussaade Istambul Hotel		41.0038595	28.9788778	hotel				
+node	3844335665	DoubleTree by Hilton Istanbul - Piyalepasa		41.0396201	28.9663392	hotel	5	DoubleTree	Hilton	https://www.hilton.com/en/hotels/istikdi-doubletree-istanbul-piyalepasa/
+node	3877230353	Elan Otel		41.0303554	28.9735268	hotel	3			
+node	3877233633	Devman		41.0303138	28.9744477	hotel				
+node	3879160647	Istanbul - Cordial House		41.0075051	28.9718416	hostel			Hostelling International	https://www.hihostels.com/hostels/istanbul-cordial-house
+node	3880776519	Bristol		41.0298589	28.9732735	hotel				
+node	3884918056	Monopol		41.0301783	28.9734413	hotel				
+node	3898100602			40.9936086	28.7941762	hotel				
+node	3898100603	AİRPORT İNCİ HOTEL		40.9935213	28.7942541	hotel			AİRPORT İNCİ HOTEL	http://www.airportincihotel.com/
+node	3982597451	Karakoy Aparts		41.0240157	28.9751425	hotel				
+node	4007731411	Hampton by Hilton Istanbul Atakoy		40.9826808	28.8605226	hotel	4	Hampton	Hilton Hotels	https://www.hilton.com/en/hotels/istathx-hampton-istanbul-atakoy/
+node	4053680401	Uygulama Oteli		41.0775289	29.0230083	hotel				
+node	4059035327	Akmerkez Residence		41.0763385	29.0270577	hotel				
+node	4086861008	Marmara Guesthouse		41.0058542	28.9813420	hotel				https://www.marmaraguesthouse.com/
+node	4126338427	Pullman Istanbul Airport Hotel & Convention Center		41.0056242	28.8125764	hotel		Pullman		
+node	4129023491	Dinar Otel		41.0067137	28.9584636	hotel				
+node	4129048092	Antik Kugu Otel		41.0064890	28.9592303	hotel				
+node	4129048789	Naz Otel		41.0066910	28.9585644	hotel				
+node	4134080244	Albinas Hotel Old City		41.0031669	28.9746232	hotel				https://www.albinashotel.com/
+node	4144148890	Dosso Dossi Hotels Downtown		41.0169808	28.9412137	hotel				https://www.dossodossihotels.com
+node	4161579228	Bosphorus Hotel Suit		41.0484667	29.0249307	hotel				
+node	4162021182	Hotel Princess		41.0493636	29.0262037	hotel				
+node	4165097565	Best House Rental Apartments		41.0501819	29.0237229	hostel		Best		
+node	4167313492	Faros Hotel		41.0395722	28.9829172	hotel				
+node	4180502255	Aslan Apartments Istanbul		41.0063123	28.9704556	hotel			Prinkipo Gayrimenkul Ltd Sti.	
+node	4201594689	galata life		41.0270026	28.9744803	hotel				
+node	4208931398	Rumours Inn		41.0045400	28.9731258	hotel				
+node	4209024092	The Marmara Pera		41.0311088	28.9741012	hotel	4			
+node	4232293590	Klas		41.0117559	28.9582551	hotel				
+node	4232298894	Vizyon City		41.0074361	28.9707258	hotel				
+node	4248233899	Sehir Hotel		41.0134770	28.9762482	hotel				
+node	4249014893	Cankurtaran Öğretmenevi		41.0040970	28.9820784	hotel				https://cankurtaranogretmenevi.com.tr/
+node	4251738052	White House Hotel Istanbul		41.0093048	28.9756781	hotel				
+node	4252364989	Adahan Hotel		41.0291446	28.9733640	hotel				www.adahan@adahanistanbul.com
+node	4261376327	Hotel EPHESUS		41.0079935	28.9542516	hotel				
+node	4264495899	The coach		41.0063149	28.9578097	hotel				
+node	4265867792	hotel wiva		41.0079562	28.9621129	hotel				
+node	4266037890	Loor		41.0048437	28.9655105	hotel				
+node	4274352990	Galata West Hostel		41.0250880	28.9738899	hostel				
+node	4290840993	best2		41.0035806	28.9784869	hotel				
+node	4290862890	best point hotel old sity		41.0040547	28.9789686	hotel		Best Hotels		
+node	4291021796	Radisson President Beyazit Istanbul		41.0076016	28.9655500	hotel		Radisson		https://www.radissonhotels.com/en-us/hotels/radisson-old-town-istanbul
+node	4296953536			41.0070433	28.9560924	hotel				
+node	4299450592	Madrid Hotel		41.0070242	28.9540681	hotel				
+node	4299628509	GLK Premier Mansion suites and spa		41.0031213	28.9734130	hotel				
+node	4311617193	Çağyigit otel		41.0102354	28.9545876	hotel				
+node	4312139789	ALF HOTEL		41.0053692	28.9661760	hotel				
+node	4353781521	Mercure Hoteles istanbul BOMONTI		41.0543876	28.9820441	hotel		Mercure		http://www.mercure.com
+node	4356681250			40.9778013	28.8227160	hotel				
+node	4362521289			41.0021487	28.8266980	hotel				
+node	4366207690	hotel hilarium fabric		41.0060748	28.9538729	hotel				
+node	4373039892		saxli	41.0071708	28.9622548	hostel				
+node	4382435195	Lider OTEL		41.0391988	28.8931626	hotel				https://www.liderotel.com/
+node	4391565090	Ramada Hotel & Suites		41.0139800	28.8778220	hotel		Ramada		
+node	4410334889		cherry hostel	41.0093404	28.9761601	hostel				
+node	4416164098	Holas apartment		41.0434298	28.9837427	hotel				
+node	4419028247	occidental pees hotel Istanbul		41.0337252	28.9758177	hotel	4	Occidental	Room Mate	https://room-matehotels.com/en/kerem/
+node	4429703893		Yesilkoy Airport Hotel	40.9581205	28.8265885	hotel				
+node	4441171893	Dilens Bosphorus Hotel		41.0487289	29.0254813	hotel			Hotel	
+node	4457620690	My room		41.0048066	28.9805687	hotel				
+node	4457647393			41.0049312	28.9805556	hotel				
+node	4459920989	Otel Prima	Hotel Prima	41.0131885	28.9470281	hotel				
+node	4468624491			41.0117521	28.9568980	hotel				
+node	4469660998	Old Mile Suites		41.0091355	28.9754253	hostel				
+node	4486493093		New city Hotel	41.0505122	28.9857275	hotel				
+node	4488013690	Alhambra Residence	Alhambra Residence	41.0056595	28.9697127	hotel				
+node	4488034089	Carina Hotel Istanbul	Carina Hotel Istanbul	41.0056839	28.9697184	hotel				http://www.carinahotelistanbul.com
+node	4527688899	Seminal Otel	Seminal Hotel	41.0390594	28.9841814	hotel				
+node	4528413792	Erboy Hotel	Erboy Hotel	41.0126443	28.9772200	hotel				https://www.erboyhotel.com/
+node	4539937490			41.0145797	28.9277361	hotel				
+node	4543723789			41.0049622	28.9648321	hotel				
+node	4545845291	De pera		41.0322875	28.9755908	hotel				
+node	4577117093			41.0113492	28.9586021	hotel				
+node	4579874989			41.0043130	28.9662810	hotel				
+node	4583947589			41.0478833	28.9929329	hotel				
+node	4607420714	Ambassador		41.0083680	28.9759852	hotel				http://www.hotelambassador.com
+node	4621010192	Luce Suites Taksim		41.0426908	28.9858539	hotel				
+node	4664136290			41.0122973	28.9406535	hotel				
+node	4674620089		Hotel Gedik Pasa Konagi	41.0056566	28.9667000	hotel				
+node	4679301981	Ag Şişli Hotel		41.0704085	28.9884963	hotel			Ag Şişli Hotel	
+node	4686516718	The Elysium Istanbul MGallery by Sofitel		41.0419411	28.9842013	hotel	5			"https://www.accorhotels.com/tr/hotel-A047-elysium-istanbul,-mgallery-by-sofitel/index.shtml"
+node	4754853921		istiklal palas	41.0341810	28.9803119	hotel				
+node	4776869797			41.0127403	28.9576562	hotel				
+node	4780999497	Metinhan Hotel		41.0071658	28.9686879	hotel				
+node	4781043737	Peak Star Hotel		41.0399854	28.9843805	hotel				https://peakstarhotel.com/
+node	4785763258	Miesha Ottoman Palace		40.9849713	29.0217732	hotel				
+node	4785763259	Hostel Bahane		40.9864649	29.0267949	hostel				
+node	4785763262	Melek Hotels Moda		40.9828704	29.0328102	hotel				https://www.moda.melekhotels.com/
+node	4786066473	Prestige		41.0090826	28.9573666	hotel	2			
+node	4786093130	Otel Sahinler		41.0089115	28.9574041	hotel				
+node	4786905538	Arts Hotel		41.0484882	28.9872674	hotel				http://www.artshotelistanbul.com/
+node	4786933543	Ramada Plaza		41.0519339	28.9872135	hotel		Ramada		
+node	4787192051	Jazz Hotel		41.0515732	28.9891853	hotel				http://www.jazzhotel.com.tr/
+node	4812382923	Harbiye Subay Orduevi		41.0456755	28.9874524	hotel				
+node	4815998149	Juliet		40.9816241	29.0311604	hotel				http://www.julietistanbul.com/
+node	4831087822	Hanchi		41.0043870	28.9643478	hostel				https://hanchi.istanbul/
+node	4872302959	Serene Hotel		41.0335899	28.9766010	hotel				
+node	4905464721		albatros hagia sophia	41.0093832	28.9770945	hotel				
+node	4917337921	Basileus Hotel		41.0034374	28.9723707	hotel				
+node	4928329121	Hotel Zakkum		41.0124237	28.9483491	hotel				
+node	4931489421			41.0083076	28.9552707	hotel				
+node	4992588942	Taşhan Hotel		40.9786705	28.8831548	hotel				
+node	4996036822		Asoss	41.0069000	28.9636321	hotel				
+node	4997279663	Walton Hotels & Spa Nisantasi		41.0551255	28.9908737	hotel				https://nisantasispa.waltonhotels.com/
+node	5008004721			41.0287317	28.9368146	hotel				
+node	5015370234	Elite World Business Hotel		40.9890650	28.7912631	hotel				https://www.worldhotels.com
+node	5015370235	Ufuk otel		41.0028058	28.7972636	hotel				
+node	5016175921	Koç Otel		41.0445945	29.0032168	hotel				
+node	5041870023			41.0085324	28.9501182	hotel				
+node	5047421726			41.0064037	28.9695231	hotel				
+node	5048599926	Mercure Hotel Topkapı	Mercure Hotel	41.0135100	28.9073670	hotel		Mercure		https://www.tripadvisor.co.uk/7620252?m=19905
+node	5073094763	best nobel hotel		41.0129107	28.9477374	hotel		Best Hotels	24/7	
+node	5075929021	Golden Hill hotel		41.0135291	28.9375187	hotel				
+node	5075929026	Kaya otel		41.0125112	28.9396595	hotel				
+node	5075960997	pianoforte hotel		41.0160794	28.9488535	hotel				
+node	5075961005	Tugra hotel		41.0169030	28.9492750	hotel				
+node	5075962050	Hotel Licus		41.0118348	28.9492912	hotel				
+node	5075962054	city hotel		41.0122210	28.9486034	hotel				
+node	5075962056	hotel prime		41.0126070	28.9483829	hotel				
+node	5075993813	Romeo Hotel		41.0127256	28.9480484	hotel				
+node	5076115929	Queen seagull hotel		40.9941800	28.9275962	hotel				
+node	5081264681	Bern Hotel		41.0103780	28.9476013	hotel				
+node	5081264694	Green Anka Hotel		41.0132034	28.9408207	hotel				
+node	5081264695	Golden Tahir Hotel		41.0127420	28.9401555	hotel				
+node	5081264718	All Season hotel		41.0127339	28.9406061	hotel				
+node	5081265938	Grand Anka Hotel		41.0121051	28.9410550	hotel				
+node	5081265955	Grand Vatan Hotel		41.0112880	28.9476080	hotel		Grand Vatan Hotel		https://www.hotelgrandvatan.com/
+node	5081265958	Star City hotel		41.0116534	28.9471070	hotel				
+node	5081265965	Ottoman Life Boutique Hotel		41.0144006	28.9431792	hotel				
+node	5081274112	Hotel Canan		41.0110068	28.9508358	hotel				
+node	5081274119	Kaya Madrid hotel		41.0113831	28.9526441	hotel				
+node	5081274120	Hotel Fatih		41.0107269	28.9512657	hotel				
+node	5081274324	Hotel Ceren		41.0105885	28.9512491	hotel				
+node	5081274325	Hotel Melita		41.0104316	28.9514436	hotel				
+node	5081274331	Hotel Seren		41.0099641	28.9515536	hotel				
+node	5081274332	Hotel Ümit		41.0102424	28.9514449	hotel				
+node	5081274333	Hotel Metropol		41.0099368	28.9518566	hotel				
+node	5081445081	Hotel Troya Balat		41.0286838	28.9529407	hotel				
+node	5086061052	Lotus Hotel Istanbul		41.0265545	28.9556423	hotel				
+node	5086061059	Yılmazlar Hotel		41.0264413	28.9560733	hotel				
+node	5086061065	İslamoğlu Hotel		41.0260879	28.9555703	hotel				
+node	5099040178	Yalçın Hotel		41.0076899	28.9469244	hotel				
+node	5099056205	Yüksel İstanbul Yenikapı		41.0070038	28.9472526	hotel				
+node	5099060691	Otel Avlonya		41.0071334	28.9495238	hotel				
+node	5099060692	Otel fuar		41.0071718	28.9500872	hotel				
+node	5099060697	Mekke otel		41.0069687	28.9497910	hotel				
+node	5099060707	Hotel ay istanbul		41.0068061	28.9515411	hotel				
+node	5099060710	Baran hotel		41.0079857	28.9515265	hotel				
+node	5099060711	Hotel tura		41.0080815	28.9515104	hotel				
+node	5099060714	Hotel karaman		41.0081835	28.9515426	hotel				
+node	5099062122	Grand oruç hotel		41.0077707	28.9502679	hotel				
+node	5099062125	Otel hobby		41.0071081	28.9502658	hotel				
+node	5099062126	The port hotel		41.0070045	28.9507154	hotel				
+node	5099062128	Hotel bilir		41.0070245	28.9511012	hotel				
+node	5099062129	Hotel life		41.0070245	28.9515004	hotel				
+node	5099062135	Hotel öz villa		41.0076270	28.9515536	hotel				
+node	5099062136	Fors Hotel		41.0076571	28.9507287	hotel				
+node	5099062149	Hotel ümit 2		41.0076672	28.9490255	hotel				
+node	5099062152	Alahan hotel		41.0075065	28.9489058	hotel				
+node	5099062156	Rouge noire hotel		41.0075129	28.9485454	hotel				
+node	5099062157	The city hotel		41.0074937	28.9481633	hotel				
+node	5099062159	Hotel Doğan		41.0076589	28.9479249	hotel				
+node	5099065421	Günay Hotel		41.0074665	28.9500892	hotel				
+node	5099065424	Lal Hotel		41.0078392	28.9500734	hotel				
+node	5099065430	Esen Palas Hote		41.0084599	28.9500312	hotel				
+node	5099065431	Hotel Nayla		41.0085324	28.9500665	hotel				
+node	5099065435	Flamingo Hotel		41.0087314	28.9500509	hotel				
+node	5099065452	Hotel Kayışı		41.0089072	28.9479091	hotel				
+node	5099065457	LA GARDEN HOTEL		41.0087734	28.9474782	hotel				
+node	5099065460	Hotel Nice		41.0086913	28.9473023	hotel				
+node	5099065470	Hotel The Ferah		41.0083955	28.9464324	hotel				
+node	5100825069	Hotel Surucu		41.0218334	28.9272360	hotel				
+node	5100825079	Hotel özvural		41.0212068	28.9276344	hotel				
+node	5100825080	Hayat hotel		41.0211863	28.9277848	hotel				
+node	5103810755	Hotel Ozvural		41.0206875	28.9266721	hotel				
+node	5103810756	Hotel Golden gate		41.0207806	28.9266613	hotel				
+node	5103810757	Hotel Yuvam		41.0207621	28.9270750	hotel				
+node	5103810765	Otel Dünya		41.0201935	28.9285237	hotel				
+node	5103810766	Hotel Ruya		41.0202462	28.9285315	hotel				
+node	5103810767	Doğruyol Hotel		41.0203091	28.9285445	hotel				
+node	5103810768	Otel Pelda		41.0203644	28.9285554	hotel				
+node	5103810769	Torun Hotel		41.0204652	28.9285442	hotel				
+node	5103810770	Yavuz Hotel		41.0204968	28.9283671	hotel				
+node	5103810775	Huzur Otel		41.0200755	28.9284985	hotel				
+node	5103810779	Pamir Otel		41.0201408	28.9278746	hotel				
+node	5103810783	Reis Otel		41.0198447	28.9284559	hotel				
+node	5103810791	Topkapi Inter Istanbul Hotel		41.0191758	28.9282627	hotel				
+node	5103810792	Topkapı Sabena Hotel		41.0190576	28.9282081	hotel				
+node	5103810794	Hanna Hotel		41.0188792	28.9275385	hotel				
+node	5103810799	City Wall Hotel		41.0198437	28.9257934	hotel				
+node	5103810800	Eresin Hotels - Topkapı		41.0192052	28.9264425	hotel				
+node	5103810811	Durah 3 Aparthotel		41.0173813	28.9301418	hotel				
+node	5106111906	Hotel Sorriso		41.0097241	28.9548769	hotel			Private Hotel	
+node	5106111920	Zalel Hotels Old City		41.0114422	28.9572010	hotel				https://www.zalelhotelsoldcity.com/
+node	5106112121	Hotel Mosaic		41.0117751	28.9584601	hotel			Private Hotel	
+node	5106112124	Grand Hotel Gülsoy		41.0128483	28.9574035	hotel			Private Hotel	
+node	5106112129	Bulvar Palas Hotel		41.0120051	28.9536997	hotel			Private Hotel	
+node	5106112134	Falay Yavuz Hotel		41.0103294	28.9537246	hotel			Private Hotel	
+node	5106112137	Grand Durmaz Hotel		41.0100659	28.9536992	hotel			Private Hotel	
+node	5106112138	Corner Hotel		41.0099394	28.9537260	hotel			Private Hotel	
+node	5106118223	Hotel tokyo		41.0120053	28.9566135	hotel			Private Hotel	
+node	5106118224	Lyon hotel		41.0120457	28.9565706	hotel			Private Hotel	
+node	5106118225	Tilia hotel		41.0126367	28.9569622	hotel			Private Hotel	
+node	5106118227	Hamidiye hotel		41.0125922	28.9577347	hotel			Private Hotel	
+node	5106118230	Carlton hotel		41.0123939	28.9571768	hotel			Private Hotel	
+node	5106118233	Beethoven hotel		41.0119719	28.9571283	hotel			Private Hotel	
+node	5106118234	Grand medya hotel		41.0119263	28.9575282	hotel			Private Hotel	
+node	5106118238	Hotel Grand Washington		41.0114203	28.9570239	hotel			Private Hotel	
+node	5106118242	Liberty Hotel		41.0116086	28.9560556	hotel			Private Hotel	
+node	5106118245	Zagreb Hotel		41.0109751	28.9556801	hotel			Private Hotel	
+node	5106118247	Hotel yiğitalp		41.0111613	28.9559135	hotel			Private Hotel	
+node	5106118248	Hotel Hivaş		41.0111734	28.9561361	hotel			Private Hotel	
+node	5106118251	Elysion Hotel		41.0111066	28.9568925	hotel			Private Hotel	
+node	5106118254	Hotel erdem		41.0102039	28.9547896	hotel			Private Hotel	
+node	5106118255	Hotel çağyiğit		41.0102009	28.9546502	hotel			Private Hotel	
+node	5106118256	Hotel Seren-2		41.0108719	28.9546394	hotel			Private Hotel	
+node	5106118257	Hotel Kamer		41.0112038	28.9544249	hotel			Private Hotel	
+node	5106118258	Misa Hotel		41.0109629	28.9543846	hotel			Private Hotel	
+node	5106118259	Hotel Dowos		41.0106613	28.9543140	hotel			Private Hotel	
+node	5106118262	Merdan hotel		41.0099358	28.9546394	hotel			Private Hotel	
+node	5106118263	Hotel Kurban		41.0097789	28.9546596	hotel			Private Hotel	
+node	5106118264	Hotel Metrolux		41.0098142	28.9543931	hotel			Private Hotel	
+node	5106118266	Sultan Otel		41.0109589	28.9553180	hotel			Private Hotel	
+node	5106118267	Grand Laleli Hotel		41.0111451	28.9556372	hotel			Private Hotel	
+node	5106118268	Hotel Büyük Keban		41.0119648	28.9555728	hotel			Private Hotel	
+node	5106118270	Hotel Büyük Levent		41.0119688	28.9559966	hotel			Private Hotel	
+node	5106118271	Beyaz Kuğu Hotel		41.0120498	28.9560288	hotel			Private Hotel	
+node	5106118272	Hotel Büyük Şehzade		41.0123858	28.9561844	hotel			Private Hotel	
+node	5106118273	Hotel Büyük Hamit		41.0128067	28.9565277	hotel			Private Hotel	
+node	5106118280	Hotel seven Alp		41.0125477	28.9552402	hotel			Private Hotel	
+node	5106118281	Hotel Öncü		41.0126033	28.9550887	hotel			Private Hotel	
+node	5106118282	History Hotel		41.0123777	28.9549613	hotel			Private Hotel	
+node	5106118283	Ramada Hotel		41.0123555	28.9547063	hotel		Ramada	Private Hotel	
+node	5106118284	Bisetun Hotel		41.0121845	28.9548605	hotel			Private Hotel	
+node	5106118285	Senator Hotel		41.0120499	28.9549276	hotel			Private Hotel	
+node	5106118286	Grand Pamir Hotel		41.0117948	28.9545751	hotel			Private Hotel	
+node	5106118287	Hotel Budo		41.0116410	28.9543712	hotel			Private Hotel	
+node	5106118288	Mirilayon Hotel		41.0113576	28.9546126	hotel			Private Hotel	
+node	5106118289	Birbey Hotel		41.0117988	28.9541566	hotel			Private Hotel	
+node	5106118293	Gözde Hotel		41.0110014	28.9540386	hotel			Private Hotel	
+node	5106118294	Hotel Aksaray		41.0110257	28.9539099	hotel			Private Hotel	
+node	5106118295	Aspalace Hotel		41.0109586	28.9541926	hotel			Private Hotel	
+node	5106118296	Alpin Hotel		41.0109687	28.9541166	hotel			Private Hotel	
+node	5106118298	The Meretto Hotel		41.0106998	28.9539686	hotel			Private Hotel	
+node	5106118299	Hotel Beyce		41.0105088	28.9539650	hotel			Private Hotel	
+node	5106118300	Hotel Grand Dilara		41.0105040	28.9540818	hotel			Private Hotel	
+node	5106118301	Laleli Blue Marmaray Hotel		41.0104356	28.9540893	hotel			Private Hotel	
+node	5106118302	Ak Hotel		41.0103883	28.9539865	hotel			Private Hotel	
+node	5106118303	Hotel The Niw		41.0101508	28.9539898	hotel			Private Hotel	
+node	5106118304	Has Hotel		41.0101405	28.9541659	hotel			Private Hotel	
+node	5106118306	Denizli Hotel		41.0098899	28.9540474	hotel			Private Hotel	
+node	5106118311	Parmada Hotel		41.0097958	28.9538686	hotel			Private Hotel	
+node	5106121856	Otel Sinan		41.0165000	28.9523436	hotel				
+node	5106121857	Hotel Yeşil Park		41.0165634	28.9525917	hotel				
+node	5107305617	Grand cüneyt otel		41.0072211	28.9481169	hotel				
+node	5107305825	Hotel Orkide		41.0087471	28.9489809	hotel				
+node	5107305838	Hotel Diva		41.0080432	28.9486486	hotel				
+node	5107305850	Hotelium		41.0076764	28.9491939	hotel				
+node	5107305851	Sinem Otel		41.0076889	28.9493845	hotel				
+node	5107305855	Örün Hotel		41.0078407	28.9492164	hotel				
+node	5107305856	Hotel Best Ömer		41.0078934	28.9492000	hotel				
+node	5107305858	Simer Hotel		41.0079459	28.9493983	hotel				
+node	5107305884	Hotel Pamir		41.0083364	28.9499394	hotel				
+node	5107305886	Hotel Saray		41.0082202	28.9496967	hotel				
+node	5107305895	Yunus Hotel		41.0082137	28.9491816	hotel				
+node	5107305898	Daylight Hotel		41.0081897	28.9488387	hotel				
+node	5108827986	Glamour Hotel		41.0144945	28.9764183	hotel				
+node	5108827991	Septimum		41.0145153	28.9767839	hotel				
+node	5108827993	Sirkeci Mansion Hotel		41.0128994	28.9785749	hotel	4			https://www.sirkecimansion.com/
+node	5108827996	Hotel Ottoman Luxury		41.0126559	28.9782785	hotel				
+node	5108828001	Hotel Black Tulip		41.0127954	28.9781802	hotel				
+node	5108828002	KNOW TRAVEL and HOSTEL		41.0127709	28.9780230	hostel				
+node	5108828008	Harmony Hostel		41.0133148	28.9776527	hotel				
+node	5108828009	İlkay Hotel Istanbul		41.0134139	28.9775167	hotel				
+node	5108828010	Orient Express Hotel		41.0133053	28.9776035	hotel				
+node	5108828011	Lalahan Hotel		41.0133690	28.9775931	hotel				
+node	5108828019	HOTEL ŞAMİL		41.0139634	28.9770135	hotel				
+node	5108828623	Maywood		41.0140484	28.9775176	hotel				
+node	5108828627	Yeni Hotel		41.0139806	28.9780062	hotel				
+node	5108828628	DoubleTree by Hilton Hotel Istanbul - Sirkeci		41.0134734	28.9782685	hotel		DoubleTree		
+node	5108828633	Gülhane Park Hotel		41.0138488	28.9786593	hotel				
+node	5108828634	Hotel Amara Old City		41.0141036	28.9781094	hotel				
+node	5108828635	Diamond Royal Hotel		41.0141514	28.9779023	hotel				
+node	5108828640	Bosphorus Old City Hotel		41.0142422	28.9776517	hotel				
+node	5108828641	Esen Hotel Sirekeci		41.0145825	28.9769782	hotel				
+node	5108828642	Elanaz		41.0145367	28.9769574	hotel				
+node	5108828643	Mr. Bird		41.0144724	28.9769332	hotel				
+node	5108828644	Sultan Hotel		41.0143646	28.9769269	hotel				
+node	5108828646	Villa Sweet Hotel		41.0142626	28.9770485	hotel				
+node	5108828648	Best Town Hotel		41.0142492	28.9770953	hotel		Best Hotels		
+node	5108828650	Hotel Fahri		41.0142369	28.9772108	hotel				
+node	5108828651	Hotel Akçınar		41.0142292	28.9773290	hotel				
+node	5108828652	Hotel Hürriyet		41.0143786	28.9772150	hotel				
+node	5108828657	Askoç		41.0145493	28.9780214	hotel				
+node	5108828659	Barbera Boutique Hotel		41.0144901	28.9782251	hotel				
+node	5108828663	Dream Bosphorus		41.0147245	28.9791489	hotel				
+node	5108828664	Hotel Emek		41.0145447	28.9789617	hotel				
+node	5108828665	Golden Horn Istanbul		41.0146745	28.9789526	hotel				
+node	5108828666	Tayahatun Hotel		41.0140865	28.9791337	hotel				
+node	5108828667	Bosphorus Family Old City Hotel		41.0141952	28.9791557	hotel				
+node	5108828668	Sur Pansıyon ve Host		41.0142932	28.9791324	hostel				
+node	5108828669	Sayeban Gold		41.0146015	28.9791455	hotel				
+node	5108828671	Meg Hotel		41.0147702	28.9793670	hotel				
+node	5108836340	Yasmak Comfort		41.0123281	28.9778403	hotel				
+node	5108836341	Olimpiyat Hotel		41.0123731	28.9778964	hotel				
+node	5108836342	Sirkeci Ersu Hotel		41.0124365	28.9779943	hotel				
+node	5108836343	Neda Hotel İstanbul		41.0125691	28.9781159	hotel				
+node	5108836351	Amisos Hotel		41.0120719	28.9781084	hotel				
+node	5108836352	Pamphylia Hotel		41.0121344	28.9778939	hotel				
+node	5108836353	Hypnos Design Hotel Istanbul		41.0122232	28.9777574	hotel				
+node	5108836355	Sude Konak Hotel		41.0124628	28.9774012	hotel				
+node	5108836356	Raymond Hotel		41.0125016	28.9773387	hotel				
+node	5108836358	Hotel Yaşmak Sultan		41.0123646	28.9775904	hotel				
+node	5108836362	Romance İstanbul Hotel		41.0126607	28.9779806	hotel				
+node	5108836364	Hotel Sultania		41.0126397	28.9775546	hotel				https://www.hotelsultania.com/
+node	5108836371	Best Western Empire Palace		41.0129164	28.9776720	hotel		Best Western		
+node	5108836372	Hotel Empire Palace		41.0129120	28.9776469	hotel				
+node	5108836373	Gülhane Corner Hotel		41.0133650	28.9772758	hotel				
+node	5108836374	Best Nobel Hotel Sirkeci		41.0132263	28.9770860	hotel		Best Hotels		
+node	5108836376	Sirkeci Park Hotel İstanbul		41.0127469	28.9768634	hotel				
+node	5108836377	Raymond Hotel		41.0126100	28.9770049	hotel				
+node	5108836380	Hotel Gülhane		41.0127978	28.9775250	hotel				
+node	5108836381	Le Petit Palace Hotel		41.0131325	28.9770273	hotel				
+node	5108836382	Hotel Evsen		41.0128826	28.9771724	hotel				
+node	5108836387	Konak Apart Hotel		41.0130627	28.9771231	hotel				
+node	5108836390	Agan Hotel Sirkeci		41.0129966	28.9766987	hotel				
+node	5108836391	Golden Horn Hotel		41.0129712	28.9765923	hotel				
+node	5108836393	Viva Deluxe Hotel		41.0133270	28.9764933	hotel				
+node	5108836394	Erbil Hotel		41.0133284	28.9765037	hotel				
+node	5108836395	Asur Hotel		41.0133298	28.9765118	hotel				
+node	5108836396	Hotel Centrum İstanbul		41.0132315	28.9769115	hotel				
+node	5108836398	Just inn Hotel	Seher Hotel	41.0133836	28.9770856	hotel				
+node	5108836399	Flower Palace Hotel		41.0134133	28.9771228	hotel				
+node	5108836400	Brako Hotel		41.0137348	28.9769722	hotel				https://brakohotel.com/
+node	5108836401	Seres Hotel		41.0136297	28.9770008	hotel				
+node	5108836403	Neorion Hotel		41.0136088	28.9765338	hotel				
+node	5108836404	Old City Viva Hotel		41.0138995	28.9766520	hotel				
+node	5108836405	Turvan Hotel		41.0137705	28.9761386	hotel				
+node	5108836408	İPEK PALAS HOTEL		41.0135685	28.9762120	hotel				
+node	5108837434	Eurostars Hotel Old City		41.0144128	28.9754666	hotel				
+node	5108837453	Nea Suites Old City		41.0144168	28.9760209	hotel				
+node	5108838380	Second Home Hostel		41.0129061	28.9762918	hostel				
+node	5108838381	Viva Royal Hotel		41.0130350	28.9759027	hotel				
+node	5108838382	Levni Hotel and Spa		41.0131167	28.9758913	hotel				
+node	5108838391	Meserret Oteli		41.0135414	28.9749689	hotel				
+node	5108843030	Tan Otel		41.0087305	28.9752939	hotel				
+node	5108843034	Arsenal Hotel		41.0083876	28.9754892	hotel				
+node	5108843037	ESRA SULTAN PETROL HOTEL		41.0082333	28.9755490	hotel				
+node	5108843052	Hotel Million Old City		41.0082848	28.9761032	hotel				
+node	5108843054	Nomade Old City Hotel		41.0083232	28.9761259	hotel				https://oldcity.hotelnomade.com.tr
+node	5108843055	The Ambassador Hotel		41.0083949	28.9758852	hotel				
+node	5108843061	Sura Design Hotel and Suites		41.0086121	28.9759195	hotel	5	Sura Hotels		https://surahotels.com/sura-design-hotel
+node	5108843071	Istiklal Hostel New		41.0093402	28.9760067	hostel				
+node	5108843075	Sura Hagia Sophia Hotel and Spa		41.0087202	28.9761783	hotel	5			https://surahotels.com/sura-hagia-sophia-hotel
+node	5108843087	Ares Hotel Sultanahmet		41.0082952	28.9772392	hotel				
+node	5108843100	Star Holiday Hotel		41.0079990	28.9769882	hotel				
+node	5108843337	Sunlife Oldcity		41.0106737	28.9748388	hotel				
+node	5108843362	Albatros Hagia Sofia		41.0102688	28.9759414	hotel				
+node	5108843365	Arden Park Hotel		41.0100246	28.9762716	hotel				
+node	5108843367	Arden Cıty Hotel		41.0099916	28.9764162	hotel				
+node	5108843381	Agora Life Hotel		41.0105750	28.9761058	hotel				
+node	5108843512	Bentley Hotel		41.0083338	28.9735477	hotel				
+node	5108843516	Arife Sultan Hotel		41.0086176	28.9737274	hotel				
+node	5108843522	Özel Ayasofya Yüksek Öğrenim Erkek Öğrenci Yurdu		41.0085233	28.9771034	hostel				
+node	5108843523	The Million Stone Hotel		41.0086773	28.9772297	hotel				
+node	5108843528	Hagia Sophia Hotel İstanbul Old City		41.0091527	28.9769839	hotel				
+node	5108843529	Sultanahmet Hotel Han		41.0092877	28.9768976	hotel				
+node	5108843531	Kybele Hotel		41.0093412	28.9768478	hotel				
+node	5108843533	Istanbul Queen Apart Hotel		41.0094899	28.9766376	hotel				
+node	5108843536	Adamar Hotel		41.0096533	28.9763901	hotel				
+node	5108843538	The Istanbul Hotel		41.0096292	28.9765155	hotel				
+node	5108843541	Merial Hotel		41.0099142	28.9766625	hotel				
+node	5108843542	Hotel Istanbul Inn	Old City Luxx Boutique Hotel	41.0099433	28.9768569	hotel				
+node	5108843543	Dosso Dossi Hotels		41.0100085	28.9768697	hotel				
+node	5108843544	Hotel Aquarium		41.0101742	28.9770159	hotel				
+node	5108843545	Bon Hotel		41.0101099	28.9771745	hotel				
+node	5108843547	Istanbul Violet Apartment		41.0099134	28.9773395	hotel				
+node	5108843548	Anadolu Hotel Istanbul		41.0097875	28.9774685	hotel				
+node	5108843553	Celal Sultan Hotel		41.0094757	28.9768753	hotel				
+node	5108843557	The And Hotel		41.0091173	28.9775073	hotel				https://www.andhotel.com/
+node	5108843578	Modern Sultan		41.0101770	28.9777977	hotel				
+node	5108843579	Cheers Hostel		41.0101936	28.9777689	hostel				
+node	5108843585	Gulhane Suites		41.0103515	28.9784032	hotel				
+node	5108843587	Minel Hotel		41.0103598	28.9781545	hotel				
+node	5108843588	The Print House		41.0104880	28.9779009	hotel				
+node	5108843589	Le Safran Suite		41.0105403	28.9778113	hotel				
+node	5108843726	Faros Hotel Old City		41.0084007	28.9737750	hotel				
+node	5108843734	Old City Hostel		41.0085701	28.9743603	hotel				
+node	5108843735	Aldem Hotel		41.0087492	28.9747120	hotel				
+node	5108843736	Ayasultan Hotel		41.0087300	28.9748058	hotel				
+node	5108843738	Antusa Palace Hotel		41.0087620	28.9750558	hotel				
+node	5108843739	Anthemis Hotel		41.0086374	28.9752644	hotel				
+node	5108843745	Atlantis Hotel		41.0084963	28.9747372	hotel				
+node	5108843758	Akdeniz Hotel		41.0084000	28.9749883	hotel				
+node	5108843962	Miniature Hotel Istanbul		41.0099793	28.9751168	hotel				
+node	5108843965	Rain Apart Hotel		41.0101134	28.9748613	hotel				
+node	5108844014	Old Mile Suites		41.0092823	28.9754584	hotel				
+node	5108844019	Aybar Hotel		41.0091744	28.9742820	hotel				
+node	5108844426	Nowy Efendi Hotel		41.0093412	28.9745718	hotel				
+node	5108844429	Edibe Sultan Hotel		41.0091198	28.9745567	hotel				
+node	5108844433	Subrosa Hotel		41.0088693	28.9741250	hotel				
+node	5108844434	Station Hostel 34		41.0089442	28.9741237	hotel				
+node	5108844436	Great Fortune Hotel		41.0090858	28.9740818	hotel				
+node	5110344558	Hal hotel		41.0184572	28.9645958	hotel				
+node	5110344560	Sea star hotel		41.0189915	28.9643383	hotel				
+node	5110344593	Otel Pehlivanlar		41.0197107	28.9636401	hotel				
+node	5110345261	Legacy Ottoman		41.0158475	28.9740487	hotel				
+node	5110345629	Yazar hotel		41.0127105	28.9745342	hotel				
+node	5110347275	Manesol hotel		41.0160045	28.9760448	hotel				
+node	5111205417	Monarch		41.0203352	28.9613771	hotel				
+node	5111206132	Kaya hotel		41.0200276	28.9624071	hotel				
+node	5111206135	Kral mert otel		41.0199456	28.9625265	hotel				
+node	5111215136	Cağrı hotel		41.0057268	28.9376342	hotel				
+node	5111222040	Hotel emg		41.0074958	28.9577079	hotel				
+node	5111222041	Nanda hotel		41.0078601	28.9587379	hotel				
+node	5111222042	Bekdaş Hotel		41.0085078	28.9602828	hotel				https://www.bekdashoteldeluxe.com/
+node	5111222043	Akgun hotel		41.0087993	28.9608407	hotel				
+node	5111222044	Momento hotel		41.0079816	28.9631367	hotel				
+node	5111222045	Karasu hotel		41.0079006	28.9634156	hotel				
+node	5111222046	Grand beyazit		41.0082002	28.9636946	hotel				
+node	5111222047	Golden rain		41.0082892	28.9636087	hotel				
+node	5111222048	Newport hotel		41.0083135	28.9634800	hotel				
+node	5111222050	Antik Hotel İstanbul		41.0088319	28.9627875	hotel				
+node	5111222051	Viore hotel		41.0085159	28.9631581	hotel				
+node	5111222056	Nezih hotel		41.0081435	28.9643092	hotel				
+node	5111222057	Piran hotel		41.0078440	28.9645958	hotel				
+node	5111222058	Embol hotel		41.0078197	28.9646816	hotel				
+node	5111222059			41.0079249	28.9647245	hotel				
+node	5111222060	Hotel Niles		41.0079978	28.9647889	hotel				
+node	5111222061	Ercyis hotel		41.0080706	28.9650249	hotel				
+node	5111222062	Hotel evin		41.0083054	28.9647384	hotel				
+node	5111222064	Comfort hotel		41.0084350	28.9649820	hotel				
+node	5111222066	Sarajevo		41.0087019	28.9648248	hotel				
+node	5111222067	Hotel balin		41.0088638	28.9647604	hotel				
+node	5111222072	Grand Rosa hotel		41.0082811	28.9658403	hotel				
+node	5111222080	Beyazsaray hotel		41.0091607	28.9644084	hotel				
+node	5111222085	Emporium hotel		41.0091639	28.9632483	hotel				
+node	5111222087	Sky kamer hotel		41.0091378	28.9628606	hotel				
+node	5111222093	Kent hotel		41.0092385	28.9607881	hotel				
+node	5111222107	Montinegro hotel		41.0090827	28.9575148	hotel				
+node	5111222109	Gold hotel		41.0087669	28.9588881	hotel				
+node	5111222112	Venera hotel		41.0081192	28.9587593	hotel				
+node	5111222113	Yoksel hotel		41.0081840	28.9587808	hotel				
+node	5111222114	Buyuk Şahinler Hotel		41.0081634	28.9584696	hotel	4			
+node	5111222115	Nida hotel		41.0081685	28.9581899	hotel				
+node	5111223223	Yaztor hotel		41.0081273	28.9568496	hotel				
+node	5111223248	Hotel oral		41.0075363	28.9563560	hotel				
+node	5112724619	Laleli Günen Hotel		41.0110348	28.9579156	hotel				
+node	5112724620	Hotel Berlin		41.0109467	28.9580145	hotel				
+node	5112728851	Hotel Zurich		41.0117128	28.9582972	hotel				
+node	5112728854	Hotel Hikmet		41.0118481	28.9586709	hotel				
+node	5112728879	Hotel Reşitpaşa		41.0109581	28.9592385	hotel				
+node	5112728881	Hotel Visa		41.0108654	28.9592327	hotel				
+node	5112729008	Hotel Mati		41.0113199	28.9583230	hotel				
+node	5112729015	Hotel Klas		41.0117065	28.9584813	hotel				
+node	5112729019	Orhan Hotel		41.0114035	28.9584732	hotel				
+node	5112732221	Polanin Hotel		41.0110351	28.9580097	hotel				
+node	5112732222	Hotel Özsa		41.0109489	28.9581008	hotel				
+node	5112732225	Maycan Hotel		41.0110388	28.9581735	hotel				
+node	5112732229	Hotel Kaya		41.0109523	28.9585921	hotel				
+node	5112732230	Hotel Falcon		41.0110756	28.9584731	hotel				
+node	5112732241	Genova Hotel		41.0109508	28.9588733	hotel				https://www.hotelgenova.com.tr/
+node	5112732288	Crowne Plaza - İstanbul Old City		41.0099213	28.9575143	hotel		Crowne Plaza		
+node	5112732290	Hotel Pisa		41.0103664	28.9575186	hotel				
+node	5112732292	Hotel Keçik		41.0104696	28.9574838	hotel				https://www.kecikhotel.com.tr/
+node	5112735224	Bosna Hotel		41.0112476	28.9584628	hotel				
+node	5112735237	Metrohill hotel		41.0104960	28.9584514	hotel				
+node	5112735258	Hotel Belde		41.0102784	28.9589012	hotel				
+node	5112735263	Hotel Eyfel		41.0103617	28.9582364	hotel				
+node	5112735278	Metro Hotel		41.0107439	28.9586355	hotel				
+node	5112735292	Samir Hotel		41.0106343	28.9588411	hotel				
+node	5112735299	Hotel Süreyya		41.0107209	28.9579948	hotel				
+node	5112833315	Ebru hotel		41.0079864	28.9532399	hotel				
+node	5112834022	Hotelium		41.0075834	28.9530412	hotel				
+node	5112834023	Hotel özbek		41.0076115	28.9532399	hotel				
+node	5112834024	Konuklar hotel		41.0077058	28.9528428	hotel				
+node	5112834025	Pluton hotel		41.0077058	28.9527624	hotel				
+node	5112834028	Hotel comfort		41.0075692	28.9518452	hotel				
+node	5112834029	Otel hakan		41.0076249	28.9516731	hotel				
+node	5112834035	Hotel akkuş		41.0075536	28.9516608	hotel				
+node	5112834037	Prens hotel		41.0079652	28.9516608	hotel				
+node	5112834046	Hotel real life		41.0085784	28.9516163	hotel				
+node	5112834050	Hotel ender		41.0082676	28.9517053	hotel				
+node	5112834051	Hotel metropoli		41.0082676	28.9518834	hotel				
+node	5112834069	Hotel bilal		41.0081947	28.9525959	hotel				
+node	5112834072	Hotel palarmo		41.0083096	28.9527295	hotel				
+node	5112834078	Imga hotel		41.0086301	28.9531219	hotel				
+node	5112834093	Hotel grand ömer		41.0089607	28.9525138	hotel				
+node	5112966974	Erciyes hotel		41.0048552	28.9469524	hotel				
+node	5112966981	Avrasya Queen Hotel		41.0037778	28.9529809	hotel	2			
+node	5112966995	Hotel ova		41.0080458	28.9523696	hotel				
+node	5112966997	Fly hotel		41.0073576	28.9525706	hotel				
+node	5112966998	Pelican house otel		41.0074449	28.9524644	hotel				
+node	5112966999	Prens hotel		41.0073013	28.9524752	hotel				
+node	5112967005	Hotel akyıldız		41.0065628	28.9530254	hotel				
+node	5112967018	Marmara Place Hotel		41.0068793	28.9530578	hotel				
+node	5112971821	Grand ant		41.0069593	28.9528967	hotel				
+node	5112971822	Hotel adler		41.0070211	28.9525941	hotel				
+node	5112971845	Hotel grand istanbul		41.0073772	28.9516750	hotel				
+node	5113127910	Grand Madrid Hotel		41.0072368	28.9561862	hotel				
+node	5113127912	Tanin Hotel		41.0073927	28.9561709	hotel				
+node	5113128031	Büyük Paris Hotel		41.0082254	28.9572180	hotel				
+node	5113128035	Malkoç Hotel		41.0082422	28.9570054	hotel				
+node	5113128055	Hotel Sahinler		41.0088485	28.9574904	hotel				
+node	5113128057	Prestige Hotel		41.0090578	28.9574381	hotel				
+node	5113128060	Martinenz Hotel		41.0091917	28.9573802	hotel				
+node	5113128083	The Time Hotel Old City		41.0093477	28.9559227	hotel				
+node	5113128096	Eskar Hotel		41.0093067	28.9546993	hotel				
+node	5113128108	Amethyst Hotel		41.0092691	28.9550853	hotel				
+node	5113128109	River Hotel		41.0091447	28.9547529	hotel				
+node	5113128223	Istanbul Trend Hotel		41.0086794	28.9537444	hotel				
+node	5113128246	Hotel Arsemia		41.0077830	28.9537761	hotel				
+node	5113462473	Otel Erciyes		41.0174848	28.9503546	hotel				
+node	5113465003	Fatih reşadiye hotel		41.0177607	28.9512539	hotel				
+node	5113470951	Özel Olcay Yüksek Öğrenim Kız Öğrenci Yurdu		41.0176742	28.9262812	hostel				
+node	5113470952	Özel Ulubat Kız Öğrenci Yurdu		41.0176353	28.9263189	hostel				
+node	5113470958	Holiday Inn Istanbul City		41.0181402	28.9265317	hotel		Holiday Inn		
+node	5113470959	Aksu Hotel		41.0181723	28.9262027	hotel				
+node	5113472215	Mevlanakapı Yükseköğretim Kız Öğrenci Yurdu		41.0089309	28.9245799	hostel				
+node	5113472216	Turgev Mevlanakapı kız Yurdu		41.0093422	28.9242999	hostel				
+node	5113480881	Güven Otel		41.0202032	28.9483965	hotel				
+node	5113487649	Saba hotel		41.0051375	28.9740006	hotel				
+node	5113487650	Sultan house hotel		41.0048846	28.9737202	hotel				
+node	5113487651	Daphne hotel		41.0049710	28.9730364	hotel				
+node	5113487652	Stone hotel		41.0050209	28.9727549	hotel				
+node	5113487653	Otto hotel		41.0050424	28.9726405	hotel				
+node	5113497119	Miman Hotel		41.0073194	28.9715123	hotel				
+node	5113497120	Leyenda hotel		41.0073545	28.9712333	hotel				
+node	5113500221	Hotel California		41.0074597	28.9710705	hotel	3			http://hotelcaliforniaistanbul.com/
+node	5113500223	Grand Naki Hotel		41.0070798	28.9709570	hotel				
+node	5113500224	Golden crown hotel		41.0070555	28.9710634	hotel				
+node	5113500229	Recital Hotel		41.0067654	28.9717324	hotel				
+node	5113500231	İnnova	İnnova	41.0070693	28.9714443	hotel				
+node	5113500235	İstanbul comfort hotel		41.0063073	28.9713214	hotel				
+node	5113500236	Blue istanbul hotel		41.0061325	28.9713407	hotel				
+node	5113500239	Ferman sultan hotel		41.0052794	28.9733215	hotel				
+node	5113500252	Gloden Horn Hotel		41.0072219	28.9737575	hotel				
+node	5113500257	Hotel turkoman		41.0059010	28.9743070	hotel				
+node	5113500258	İbrahim Paşa Otel		41.0059315	28.9741769	hotel				
+node	5113500261	Heritage hotel		41.0064560	28.9735099	hotel				
+node	5113500263	Lausos hotel		41.0065990	28.9732050	hotel				
+node	5113500265	Sultan park hotel		41.0066736	28.9733019	hotel				
+node	5113500269	Burçkin hotel		41.0073411	28.9732306	hotel				
+node	5113500270	Hotel halı		41.0075207	28.9731859	hotel				
+node	5113500273	Hotel nena		41.0079250	28.9733347	hotel				
+node	5113500274	Rast hotel		41.0080261	28.9733645	hotel				
+node	5113500276	Hotel sultanhan		41.0076330	28.9727841	hotel				
+node	5113500277	Antea hotel		41.0073523	28.9727544	hotel				
+node	5113500279	Mina Hotel		41.0070197	28.9727638	hotel				
+node	5113500280	Güleç hotel		41.0070280	28.9725428	hotel				
+node	5113500288	Newport hotel		41.0076123	28.9716676	hotel				
+node	5113500289	Aprilis hotel		41.0076739	28.9715910	hotel				
+node	5113500296	Peyk Hotel		41.0069801	28.9722174	hotel				
+node	5113500300	Hidden Garden Sultanat		41.0068013	28.9723973	hotel				
+node	5113500306	Hotel Perula		41.0058745	28.9734812	hotel				
+node	5113500319	Optimist hotel		41.0055958	28.9745946	hotel				
+node	5113590307	Hotel Grand Ümit		41.0083904	28.9460407	hotel				
+node	5113590310	Alfa Hotel		41.0085587	28.9466077	hotel				
+node	5113590320	Hotel La White		41.0090196	28.9478774	hotel				
+node	5113592200	Realstar Hotel		41.0114341	28.9406477	hotel				
+node	5113594822	فندق كلاس		41.0092312	28.9479764	hotel				
+node	5113599499	YAD Hotel		41.0083230	28.9456912	hotel				
+node	5113615117	Kariye otel		41.0307498	28.9387697	hotel				
+node	5113615120	Kariye otel		41.0314225	28.9390107	hotel				
+node	5113620590	Charm hotel		41.0050548	28.9791307	hotel				
+node	5113620621	Apple Tree Hotel		41.0037310	28.9792138	hotel				appletreeistanbul.com
+node	5113620622	Kaftan Hotel		41.0038634	28.9793945	hotel				https://kaftanhotel.com/
+node	5113620623	Historia Hotel		41.0044068	28.9800292	hotel				
+node	5113620624	Ferman Hotel		41.0040862	28.9797798	hotel				https://fermanhotel.com/
+node	5113620632	Hotel Gül Sultan		41.0061208	28.9811256	hotel				
+node	5113620635	Sultan Hostel		41.0058502	28.9808057	hostel				
+node	5113620636	Hotel Zeugma		41.0054191	28.9802532	hotel				
+node	5113620637	Magnaura House Hotel		41.0055254	28.9800735	hotel				
+node	5113620642	Millennium Suites		41.0057278	28.9803591	hotel		Millennium		
+node	5113620650	Byzantium Hotel		41.0055274	28.9804141	hotel				
+node	5113620651	GLK PREMIER Regency Suites		41.0056387	28.9802223	hotel				
+node	5113620652	Hotel Broken Column		41.0050713	28.9798522	hotel				
+node	5113620659	Senatus Hotel		41.0057936	28.9804289	hotel				
+node	5113620662	GLK PREMIER Acropol Suites		41.0056701	28.9806207	hotel				
+node	5113620687	Merih Hotel		41.0097481	28.9788317	hotel				
+node	5113620698	Romantic apart hotel		41.0140605	28.9792998	hotel				
+node	5113623081	Med Cezir Hotel		41.0065445	28.9794284	hotel				
+node	5113623083	Seven Hills Hotel вид с крыши		41.0063792	28.9796936	hotel	4			https://sevenhillshotel.com/
+node	5113623086	Aristocrat Hotel		41.0056843	28.9791119	hotel				
+node	5113623087	Blue House Hotel		41.0056013	28.9789671	hotel				
+node	5113623097	Four Seasons Hotel		41.0065618	28.9802407	hotel	5	Four Seasons		https://www.fourseasons.com/istanbul/
+node	5113623098	Hotel Uyan		41.0061842	28.9794847	hotel				
+node	5113623100	Park Hotel		41.0061741	28.9796644	hotel				
+node	5113623102	Cosmopolitan Park Hotel		41.0055972	28.9794901	hotel				
+node	5113623103	Cem Sultan Hotel		41.0055446	28.9794257	hotel				
+node	5113623108	Best Island Hotel		41.0069402	28.9813020	hotel		Best Hotels		
+node	5113623115	Aşkın Hotel		41.0054697	28.9791897	hotel				
+node	5113623118	The Magnaura Palace		41.0054960	28.9793426	hotel				
+node	5113623120	Big apple hotel		41.0052271	28.9802246	hotel				
+node	5113624621	Osman han hotel		41.0051592	28.9803563	hotel				
+node	5113624622	Bahaus hostel		41.0051007	28.9802422	hotel				
+node	5113624624	Amiral palace hotel		41.0049256	28.9805494	hotel				
+node	5115504876	Dekor Hotel		41.0075334	28.9549672	hotel				
+node	5115504882	Grand Asiyan Hotel		41.0076103	28.9554244	hotel				
+node	5115504883	Grand Ons Hotel		41.0075880	28.9557222	hotel				
+node	5115504884	Yalta Hotel		41.0076042	28.9555853	hotel				
+node	5115504890	Dal Hotel		41.0076125	28.9549588	hotel				
+node	5115504911	Hotel Geneva		41.0086616	28.9566620	hotel				
+node	5115504915	Hotel Kalkan		41.0092899	28.9561405	hotel				
+node	5115505440	Karven Hotel		41.0083259	28.9564796	hotel				
+node	5115505441	Mozart Hotel		41.0082790	28.9557341	hotel				
+node	5115505454	Emin Hotel		41.0082746	28.9552223	hotel				
+node	5115505462	Art Hotel		41.0082842	28.9550280	hotel				
+node	5115505466	Saray Hotel		41.0084231	28.9540739	hotel				
+node	5115505468	zalelhotelslaleli		41.0081870	28.9539247	hotel		otel		
+node	5115505471	Hotel Bosfor		41.0085210	28.9540795	hotel				
+node	5115505474	Vert Hotel		41.0087438	28.9540990	hotel				
+node	5121887021	Alyon Hotel	Alyon Hotel	41.0343429	28.9806528	hotel				
+node	5130434263	Basra Hotel		41.0088974	28.9539993	hotel				
+node	5130434267	Grand Gara Hotel		41.0088350	28.9543388	hotel				
+node	5130434270	Hotel Boulevard		41.0089621	28.9543931	hotel				
+node	5130434274	Hotel Rio		41.0088069	28.9546875	hotel				
+node	5130434277	Hotel Polatdemir Istanbul		41.0091646	28.9553400	hotel				
+node	5130434291	Istanbul Royal Hotel		41.0086072	28.9547591	hotel				
+node	5130434293	Nobel Hotel		41.0083338	28.9548952	hotel				
+node	5130434305	Aspen Hotel		41.0079913	28.9546900	hotel				
+node	5130434308	Ahi Hotel		41.0078813	28.9545810	hotel				
+node	5130434309	Hotel Ephesus		41.0079912	28.9542876	hotel				
+node	5130434314	Delta Hotel Istanbul;Hotel DELTA		41.0078757	28.9542025	hotel		Delta		
+node	5151427257	Seven Dreams Hotel		41.0061275	28.9792943	hotel				http://www.sevendreamshotel.com
+node	5161279621	7 salah 7		41.0132935	28.9435009	hostel				
+node	5161483858	Erden Sarayevo Hotel		41.0075134	28.9573147	hotel				http://www.erdensarayevo.com.tr/
+node	5163071221			41.0134944	28.9490381	hostel				
+node	5184249023	Sirinpalace	Shirin palace	41.0139736	28.9762417	hotel				
+node	5184249024	Sirinpalace		41.0139144	28.9762990	hotel				
+node	5232644130	ميتي		41.0037869	28.9719241	hotel				
+node	5238088225	Konak		41.0425221	28.9862643	hotel				
+node	5243950206	Berr Hotel		41.0178000	28.9439448	hotel				
+node	5243951406	Fatih hotel		41.0217317	28.9447439	hotel				
+node	5244801832	Emine Sultan Hotel		41.0033885	28.9760136	hotel				
+node	5244801839	Sarnıç Hotel		41.0040323	28.9754416	hotel				
+node	5244801847	Sultan Palace Hotel		41.0053399	28.9719388	hotel				
+node	5244801848	Four Doors Hotel Istanbul		41.0054528	28.9717900	hotel				
+node	5244801849	Art City Hotel		41.0055423	28.9717323	hotel				
+node	5244801852	Huxley Hotel Old City		41.0053462	28.9704173	hotel				
+node	5244801858	Sıltans Hotel		41.0041261	28.9691668	hotel				
+node	5244801871	Dom Hotel		41.0047935	28.9730399	hotel				
+node	5244801872	Arena Hotel		41.0044497	28.9727964	hotel				
+node	5244801873	Dara Otel		41.0045342	28.9728326	hotel				
+node	5244801875	Aleph Hotel		41.0042570	28.9722473	hotel				
+node	5244801876	Sultanahmet Çeşme Hotel		41.0042842	28.9725844	hotel				
+node	5244801878	Ayasofya Hotel		41.0041717	28.9727853	hotel				
+node	5244801880	Garden House Hotel		41.0039995	28.9725582	hotel				
+node	5244801881	Rose Garden Suites		41.0040097	28.9727044	hotel				
+node	5244801882	Sokullu Paşa Hotel		41.0038578	28.9725280	hotel				
+node	5244801883	Bachos Hotel		41.0039104	28.9727138	hotel				
+node	5244801885	Serenity Hotel		41.0038042	28.9729284	hotel				
+node	5244801887	Alice Ottoman Palace		41.0037496	28.9731309	hotel				
+node	5244801898	Peteks Hotel		41.0032773	28.9752013	hotel				
+node	5244801901	Artefes Hotel		41.0028916	28.9750041	hotel				
+node	5244801903	Mari Time Hotel		41.0028096	28.9745516	hotel				
+node	5244801905	Bucoleon Palace Hotel		41.0026709	28.9745831	hotel				
+node	5244801906	Cheers Lighthouse		41.0026917	28.9743022	hotel				
+node	5244801907	Deniz Houses Hotel		41.0027117	28.9740915	hotel				
+node	5244801910	Albatros		41.0030347	28.9743095	hotel				
+node	5244801913	Sultans Royal Hotel		41.0030346	28.9746871	hotel				
+node	5244801914	Asmalı hotel		41.0031646	28.9746656	hotel				
+node	5244801968	Walton Hotel		41.0033910	28.9699037	hotel				
+node	5244801969	Saruhan Hotel		41.0033191	28.9696153	hotel				
+node	5244801970	Turkuaz Hotel		41.0032737	28.9693209	hotel				
+node	5244801971	Dualis Otel		41.0037234	28.9698400	hotel				
+node	5244801977	Holiday Time Hotel		41.0032434	28.9731525	hotel				
+node	5244801978	Pasha Hotel		41.0032069	28.9735977	hotel				
+node	5244801979	Siesta Hotel		41.0026208	28.9732292	hotel				
+node	5244801981	Harmony Hotel İstanbul		41.0026783	28.9736032	hotel				
+node	5244801982	Nova Roma Hotel		41.0026313	28.9738138	hotel				
+node	5244801983	Walnut Shell Hotel		41.0027522	28.9736482	hotel				
+node	5244801984	Sefa Hotel		41.0029617	28.9736456	hotel				
+node	5244801985	Hotel Amira Istanbul		41.0030639	28.9739526	hotel				
+node	5244801986	Ribad Hotel		41.0033281	28.9737770	hotel				https://ribadhotel.com
+node	5244801987	Hotel Coliseum Istanbul		41.0035953	28.9740775	hotel				
+node	5244801988	Erguvan Hotel		41.0034637	28.9738012	hotel				
+node	5244801992	Family Istanbul		41.0035080	28.9733315	hotel				
+node	5244802723	Sultanahmet Suites		41.0049941	28.9701915	hotel				
+node	5244803023	Sur Hotel		41.0029245	28.9762911	hotel				
+node	5244803024	Antique Hotel İstanbul		41.0031340	28.9755238	hotel				
+node	5244803027	Hotel Buhara Family		41.0033872	28.9755373	hotel				
+node	5244803030	Istanbul Holiday Hotel		41.0037731	28.9752509	hotel				
+node	5244803032	Abella Hotel		41.0035298	28.9753540	hotel				
+node	5244803036	Sultan Mehmed Hotel		41.0033380	28.9746392	hotel				
+node	5244803039	Eresin Crown Hotel		41.0035955	28.9747252	hotel				
+node	5244803041	Hotel Rose Bouquets		41.0033885	28.9738051	hotel				
+node	5244803049	Adasultan Hotel		41.0034498	28.9723556	hotel				
+node	5244803051	Antik Konak Otel		41.0033542	28.9723007	hotel				
+node	5244803058	Pera Sultan House		41.0033441	28.9714566	hotel				
+node	5244803059	Yacht House		41.0032024	28.9714137	hotel				
+node	5244805845	Ottoman Hotel Cagaloglu		41.0111833	28.9731253	hotel				
+node	5244805873	Ottoman Aydinlar Hotel		41.0108004	28.9732131	hotel				
+node	5244806799	Vault karakoy		41.0098095	28.9716576	hotel				
+node	5244806817	Fer Hotel		41.0098702	28.9729768	hotel				
+node	5244806820	Sipahi Hotel		41.0092365	28.9724429	hotel				
+node	5244807840	Hotel Grand Mark		41.0050907	28.9644947	hotel				
+node	5244807842	Skalion		41.0050223	28.9647246	hotel				
+node	5244807845	Ciwan Hotel		41.0048231	28.9656257	hotel				
+node	5244807846	Loor Hotel		41.0048062	28.9656803	hotel				
+node	5244807854	Gedikpaşa Konağı		41.0055560	28.9666627	hotel				
+node	5244807899	Alpinn Hotel		41.0082312	28.9659033	hotel				
+node	5244807900	The President Hotel		41.0077596	28.9657799	hotel				
+node	5244807905	Harran Hotel		41.0063665	28.9650794	hotel				
+node	5244807906	Kestrel Park Hotel		41.0061806	28.9650190	hotel				
+node	5244807910	Hotel Beyazsaray		41.0055779	28.9647153	hotel				
+node	5244809869	Divani Ali Hotel		41.0079093	28.9677851	hotel				
+node	5244809900	Bizim Hotel		41.0077648	28.9678025	hotel				
+node	5244809918	Hotel Padova		41.0084387	28.9669267	hotel				
+node	5244810302	Hotel Yasmin		41.0051920	28.9652484	hotel				
+node	5244810304	May Hotel		41.0055308	28.9654697	hotel				
+node	5244810309	Doppio Hotel		41.0053595	28.9661475	hotel				
+node	5244810641	Grand Bazaar Hotel		41.0070122	28.9659061	hotel				
+node	5244810643	Enderun Hotel		41.0069657	28.9656799	hotel				
+node	5247591823	golden ottoman hotel		41.0199744	28.9635008	hotel				
+node	5247862321	Yunus Emre Hotel	Yunus Emre Hotel & Hostel	41.0043267	28.9754045	hotel				http://www.yunusemrehotel.com
+node	5272095922	Umit İstanbul otel	Umit İstanbul hotel	41.0056114	28.9544207	hotel				
+node	5283721184	Rhiss Hotel	MaCity Hotel	40.9566699	29.0978520	hotel				https://www.macityhotel.com
+node	5315116721		Galata-2	41.0244085	28.9750333	hotel				
+node	5348854121		Hotel Novotel Istanbul	41.0247388	28.9800206	hotel				
+node	5381944622	Marmaray Hotel		41.0058133	28.9549308	hotel				
+node	5416491924	فندق مهند وعلي		41.0062139	28.9543193	hotel				
+node	5480475142	The Empress Theodora		41.0099419	28.9788478	hotel				
+node	5482975732	Altun		41.0055728	28.9639646	hotel				
+node	5487170221			41.0203173	28.9625044	hotel				
+node	5492935521	Istasyon park hotel		41.0037286	28.9620343	hotel				
+node	5494133921	Grand Rosa Hotel		41.0085541	28.9658557	hotel				
+node	5504959936	Ağan hotel	Agan hotel	41.0130435	28.9769328	hotel				
+node	5506388682	Vault Karaköy		41.0235840	28.9744386	hotel		House Hotels		https://househotels.com/en/hotels/vault-karakoy/
+node	5516504221	Divas Hotel		41.0054756	28.9720099	hotel				
+node	5517861521		Lale iin	41.0490794	29.0265648	hotel				
+node	5558149521			41.0122168	28.9567370	hotel				
+node	5558764421			41.0124605	28.9571946	hotel				
+node	5558764521			41.0124745	28.9572043	hotel				
+node	5573716981	8 Istanbul Suites		41.0343142	28.9809039	hotel				
+node	5595815746	Carvan Hotel		41.0057513	28.9709912	hotel				https://carvanhotel.com/
+node	5622442521	Piart Boutique Otel	Piart boutique hotel	40.9949398	29.0253066	hotel				
+node	5636816221	Kupeli		41.0037425	28.9691534	hotel				
+node	5655491366	Cihangir Ceylan Suite		41.0326642	28.9874148	hotel				
+node	5663532968	Ravouna Suites		41.0307783	28.9758264	hotel				
+node	5663541124	Aston hotels		41.0241108	28.9748222	hotel				
+node	5666507222	No11 Hotel & Apartments		41.0309072	28.9748554	hotel				https://www.no11apartments.com/
+node	5667660863	İBİS hotel		40.9803926	28.9021417	hotel		Ibis		
+node	5667661136	Radisson Blu Hotel Istanbul Ottomare		40.9813406	28.8978557	hotel		Radisson Blu		
+node	5667661780	Novotel hotel and resorts		40.9802096	28.9013691	hotel		Novotel		
+node	5667669009	Qua Hotel		41.0591575	28.8229910	hotel				
+node	5667669925	Clarion Hotel		41.0566151	28.8186630	hotel				
+node	5691728921	My Boutique Hotel		41.0198081	28.9618756	hotel				
+node	5695809621			40.9926637	28.8391093	hotel				
+node	5710046233		Hotel Shato	41.0358548	28.9823277	hotel				
+node	5710046234	Nossa Hotel		41.0359993	28.9824579	hotel				
+node	5711438723	Hotel Vicenza		41.0121485	28.9573543	hotel				
+node	5713600224	Mini Harem Hotel		41.0090887	29.0133729	hotel				
+node	5715219621	Maxwell Hotel		41.0353922	28.9786778	hotel				
+node	5715722125	Bonne Sante Hotel		41.0357118	28.9832221	hotel				
+node	5720977423	Hotel Au Pera		41.0300363	28.9733529	hotel				
+node	5729753221	Dolphin		41.0054043	28.9639699	hotel				
+node	5774546555	كرفان سراي تقسيم		41.0401897	28.9836672	hotel				
+node	5792236253			40.9931185	28.8444434	hotel				https://www.greengardenistanbulhotel.com/en/
+node	5795586653		Vegan BellaVista Hostel	41.0384236	28.9809708	hostel				
+node	5798516954		Taksim Hostel	41.0357030	28.9794729	hostel				
+node	5801848554		Galata Grace	41.0262685	28.9693428	hotel				
+node	5814692954	faza		41.0104858	28.9462286	hotel				
+node	5817312656		Galata Life Istanbul	41.0268300	28.9745465	hostel				
+node	5834657986	Hotel Ada	ADA	41.0229254	28.9764785	hotel				
+node	5840178087	Grand Unal Hotel		41.0059105	28.9542917	hotel				
+node	5851116635	Berk Guesthouse - Grandma's House		41.0062401	28.9805895	hotel	3			http://www.berkguesthouse.net
+node	5873815187	Darkhill		41.0088472	28.9595364	hotel				
+node	5880598066	ALL INN		41.0451438	28.9833148	hotel	3			
+node	5880598068	Istanbul Dora		41.0442528	28.9823903	hotel				
+node	5890552485		beyrok	41.0131761	28.9406887	hotel				
+node	5901141887			41.0103588	28.9587956	hotel				
+node	5911735787	Büke Otel	Büke Hotel	41.0575571	28.9877735	hotel				
+node	5915299285	Crowne Plaza		41.0487707	28.9851775	hotel		Crowne Plaza		
+node	5920354476	Loka Suites		40.9899544	29.0255201	hotel				https://www.lokasuites.com
+node	5932445802	Gorrion		41.0027946	28.8217000	hotel				https://www.gorrion.com/
+node	5937138993		Monaco Hotel	41.0084166	28.9582760	hotel				
+node	5939165085	Cheers Hostel		41.0101331	28.9778632	hotel				
+node	5958061185		Erenler Hostel&Hotel	41.0135031	28.9787420	hostel				
+node	5967069585	Kad	Kadikoy Arya	40.9914619	29.0263439	hotel				
+node	6022831685	Deniz	Deniz	41.0028629	28.9740952	hotel				
+node	6049415685		Cheers Vintage	41.0054725	28.9794903	hostel				
+node	6050661385		Akkus	41.0076160	28.9516226	hotel				
+node	6082958853	Holiday Inn Express Istanbul - Atakoy Metro		40.9926199	28.8469171	hotel		Holiday Inn Express		https://www.ihg.com/holidayinnexpress/hotels/us/en/istanbul/istam/hoteldetail
+node	6103016185			41.0400875	28.9824080	hotel				
+node	6131147786	overland residents		41.0464883	28.9856888	hostel				
+node	6146365507	Otel Gül		41.0785629	29.0022789	hotel				
+node	6161372126	Sunlife oldcity Hotel		41.0095369	28.9750275	hotel				
+node	6181118417	Beyoğlu Öğretmenevi		41.0300204	28.9731194	hotel				
+node	6184472885		Grand Anka	41.0123398	28.9405500	hotel				
+node	6185559951	"Palazzo Donizetti Istanbul, Tapestry Collection by Hilton"		41.0305277	28.9735685	hotel		Tapestry Collection by Hilton		https://www.hilton.com/en/hotels/istpdup-palazzo-donizetti-istanbul/
+node	6185559953	pera		41.0336544	28.9760667	hotel				
+node	6185569129	Richmond Hotel		41.0297206	28.9755432	hotel	4			https://ourhotel.store/tr/beyoglu-1667168/richmond_istanbul-341280.html
+node	6185570325	tulip		41.0297706	28.9731839	hotel				
+node	6185570327	the pera hill		41.0332452	28.9754368	hotel				
+node	6185570331	Sureyya teras		41.0329598	28.9751866	hotel				
+node	6185570333	Grand Hotel de Pera		41.0322528	28.9752328	hotel				
+node	6185582261	Rixos Pera Istanbul		41.0333521	28.9751107	hotel		Rixos Hotels		https://www.rixos.com/en/hotel-resort/rixos-pera-istanbul
+node	6185772344	DUO Galata hotel		41.0264092	28.9746117	hotel				
+node	6185937317	Vita Suites Karakoy		41.0240669	28.9751416	hotel				
+node	6190364287	Kosovo		41.0297794	28.9755204	hotel				
+node	6201091985	Courtyard by Marriott Istanbul West	Delta Hotels by Marriott Istanbul West	41.0288522	28.8077963	hotel		Courtyard		https://www.marriott.com/en-us/hotels/istdw-delta-hotels-istanbul-west/overview/
+node	6206687285	Etiler Yurt		41.0830016	29.0313100	hotel				
+node	6257713687	كراند ايمن	Grand emin	41.0058247	28.9547386	hotel				
+node	6261664785	Noir Taksim Residence		41.0375669	28.9819046	hotel				
+node	6265083085	Saas		41.0120364	28.9546239	hotel				
+node	6270698585		Arven Boutique Hotel	41.0029307	28.9741489	hotel				
+node	6270722986	فندق السلطان		41.0110289	28.9553809	hotel				
+node	6288692210	Galata Hotel Istanbul - MGallery by Sofitel		41.0241812	28.9726170	hotel	5	Accorhotels		
+node	6312672595			41.0400083	28.9662605	hotel				
+node	6325811285			41.0073103	28.9711347	hotel				
+node	6400141963	Corinne		41.0333324	28.9809205	hotel				https://www.corinnehotel.com/
+node	6420508085		Galata la Bella	41.0234882	28.9735102	hotel				
+node	6424090393	Elite World Europe Hotel		41.0288662	28.8095409	hotel				
+node	6425793424	Dencity		41.0438040	28.9815187	hotel				
+node	6430595385	Chez Boré		41.0313247	28.9791130	hotel				https://chezbore.com.tr
+node	6432744585	Social House Istanbul		41.0070555	28.9733757	hotel				
+node	6438194747	Naima Anne Konuk Evi		40.9939230	29.0359523	hostel				
+node	6443868487		Sidre Boutique Hotel	41.0034544	28.9743857	hotel				
+node	6448606495	Aslan Home Apart		41.0136768	28.9754688	hotel				
+node	6449397687		Hotel Promise	41.0353584	28.9774720	hotel				
+node	6484299686	New Taksim Hotel		41.0301360	28.9697443	hotel				
+node	6501076874	Wyndham		41.0406669	28.9849416	hotel		Wyndham	Wyndham Hotels and Resorts	
+node	6567031757	Riva's Moda		40.9828987	29.0328844	hotel				https://rivasmoda.com/
+node	6567382585	White Cihangir Apart		41.0341049	28.9834733	hotel				
+node	6571330685	karaman hotel		41.0081314	28.9513727	hotel				
+node	6573807585			41.0086920	28.9599890	hotel				
+node	6576800311	محل بيع ملابس رجالي زيتون بورنو		41.0012365	28.9063027	hostel				
+node	6577012085			41.0006146	28.9084022	hostel				
+node	6577115086	صيرفه حسين علي خضير		41.0151587	28.9752243	hostel				
+node	6578141086	Linfer hotel		41.0078885	28.9517461	hotel				
+node	6580231709	Yolo Hostel		40.9945035	29.0277383	hostel				
+node	6611507885	ياسين اسطنبول	yasin	41.0165576	28.9437416	hostel				
+node	6611507985	ياسين استنبول		41.0165629	28.9441013	hostel				
+node	6687402447	Sweet Home Taksim Otel		41.0402539	28.9813322	hotel				
+node	6697728468	Shabby Guesthouse		41.0061112	28.9807458	hostel			akbıyık caddesi	
+node	6708917733	Pablo Di Pera		41.0354124	28.9789572	hotel				
+node	6715894288	صيرفة عثمان بيك		41.0537008	28.9874600	hostel				
+node	6720648586	ByOtell		40.9753594	29.0977229	hotel				https://byotell.com/
+node	6721197885		Ada Apart Hotel	41.0046076	28.9628642	hotel				
+node	6729536263	Odda		41.0352886	28.9784418	hotel				
+node	6734741115	The Purl Hotel		41.0238502	28.9749813	hotel				
+node	6744821186			41.0329490	28.9824142	hotel				
+node	6757896186	merter polisevi		41.0123864	28.9020886	hotel				
+node	6761742290	Crowne Plaza Istanbul - Florya		40.9638285	28.8019654	hotel		Crowne Plaza		
+node	6773083786		كارلتون	41.0121088	28.9570389	hotel				
+node	6773083787		carlton	41.0159786	28.9573379	hotel				
+node	6794913586	Deniz		40.9961144	29.0250127	hotel				
+node	6807274529	Rios Edition Hotel		40.9744615	28.8756481	hotel	3	Rios Edition Hotel		https://www.rioseditionhotel.com/
+node	6810179485			41.0077434	28.9550726	hotel				
+node	6823015885	Sed Hotel		41.0352282	28.9914295	hotel				http://newsedhotel.com
+node	6823338285	My Home Sultanahmet Hotel		41.0064720	28.9701806	hotel				https://www.myhomesultanahmet.com/
+node	6828179586		Eren hotel in Marmara Istanbul	41.0103946	28.9477916	hotel				
+node	6828189285		Eren hotel in Istanbul	41.0103866	28.9477994	hotel				
+node	6828668585	Grand Hilarium Hotel		41.0060825	28.9541310	hotel				
+node	6829721889		Erna hotel	41.0102066	28.9474125	hotel				
+node	6831017888		Bern hotel in Istanbul	41.0103902	28.9478253	hostel				
+node	6831022185		Bern hotel in Istanbul	41.0103964	28.9478125	hostel				
+node	6831732587	Bern Hotel		41.0105870	28.9480104	hostel				
+node	6840402185		Darvishi	41.0430861	28.9858935	hostel				
+node	6850778886	Nomad Hostel		41.0250165	28.9787206	hostel				
+node	6892255885			41.0492199	28.9860604	hotel				
+node	6903351875	İstasyon Hotel		41.0146504	28.9768689	hotel				https//www.istasyonhotel.com
+node	6903431218	Grand Seigneur		41.0142016	28.9775070	hotel				
+node	6916528489	The Golden Pera’s Hotel	The Golden Pera’s Hotel	41.0354001	28.9763635	hotel				https://thegoldenperashotel.com/
+node	6930648489	Luce di pera boutique hotel	Luce di pera boutique hotel	41.0352847	28.9766052	hostel				
+node	6946100285	Cheers Midtown		41.0292433	28.9796837	hostel				
+node	6960616185		1890 Suites Hotel	41.0044135	28.9622832	hotel				
+node	6968438694	Viyana		41.0708879	28.8908435	hotel				
+node	6968663233	The Constantine Hotel		41.0120212	28.9782785	hotel				
+node	7046871685			41.0125467	28.9573027	hotel				
+node	7065494820	Grand Istanbul Airport		41.0307019	28.8151721	hotel				https://www.grandistanbulairporthotel.com/
+node	7070372185		Honey Hostel	41.0039156	28.9715192	hostel				
+node	7071567587	Mirilayon		41.0115208	28.9545857	hotel				
+node	7077595279	Mall Of Tem Suit Hotel		41.0613388	28.8029102	hotel				
+node	7079510486			41.0235007	28.9742994	hotel				
+node	7079515985			41.0356799	28.9625335	hotel				
+node	7095547285	Taksim square hostel		41.0320749	28.9777540	hostel				https://www.booking.com/Share-IN8E6x
+node	7099260385	Black Hotel	Black Hotel	41.0391096	28.9761794	hotel				
+node	7110450385		Grand Konak Otel Fatih	41.0191832	28.9602250	hotel				
+node	7112399773	Soho House		41.0306068	28.9733317	hotel				
+node	7118748277	Taxim Express		41.0455180	28.9862895	hotel				
+node	7127698490	Cumbau Plaza		41.0466524	28.9844040	hotel				
+node	7151297660	Molton Bentley		41.0493707	28.9873474	hotel				
+node	7151297662	Box Hotel		41.0499074	28.9873906	hotel				
+node	7162138785	hotel antusa		41.0094707	28.9768982	hotel				
+node	7177474285		Pino verde	41.0353752	28.9792502	hotel				
+node	7189287585	فندق		41.0371681	28.9818863	hotel				
+node	7196887786	Lamp Hotel		41.0045227	28.9790567	hotel			Mehmet	http://www.lamphotel.com
+node	7197567785		Grand S Hotel	41.0464003	28.8896966	hotel				
+node	7232184085			41.0120707	28.9560710	hotel				
+node	7254918985		TMV1 Hotel	41.0392762	28.9825406	hotel				
+node	7389447585			41.0471853	28.9866070	hotel				
+node	7599986659			41.0517443	28.9926423	hotel				
+node	7626011231	Taxim Hill Hotel		41.0365718	28.9854643	hotel				
+node	7775068985	T.Square		41.0398808	28.9820228	hotel				
+node	7789595437	Redstone Hotel		40.9888145	29.0235047	hotel				
+node	7902337385	Place F	Kalyoncu Kulluğu	41.0366856	28.9751664	hotel				
+node	7952531286	Tryp by Wyndham Taksim		41.0355142	28.9854341	hotel		TRYP		
+node	8222873317		Sanat Hostel & Caravans	41.0349920	28.9775131	hostel				
+node	8226852509	Vander Valk İstanbul Hotel		41.0111977	28.9584197	hotel		Vander Valk		
+node	8243380817		Omma Hotel	41.0115229	28.9544175	hotel				
+node	8310459977	Özel Türkan Saylan Yükseköğretim Kız Öğrenci Yurdu		40.9955242	28.8726760	hostel				
+node	8334463317		Sanat Hostel	41.0350014	28.9774543	hostel				
+node	8339160618		Wyndham hotel 2021	41.0268277	28.8155050	hotel				
+node	8404604718	Hostel le Banc		41.0276906	28.9738493	hostel				https://hostellebanc.com/
+node	8433975217	Walton Hotel	Walton hotel	41.0351385	28.9759995	hotel				
+node	8584978720	Bossuite Hotel Kadikoy		40.9923194	29.0314557	hotel				
+node	8625244017	Sur 2 hotel		41.0053891	28.9555107	hotel				
+node	8625244217	Grand Milan Hotel		41.0048162	28.9558949	hotel				
+node	8644261517	reydel hotel		41.0202995	28.9623861	hotel				
+node	8812268717	Newemin		41.0074010	28.9492942	hotel				
+node	8887895690	Holiday Inn Express Istanbul Airport Hotel		41.0281727	28.8095126	hotel		Holiday Inn Express		
+node	9012042617		Neda	41.0129284	28.9780624	hotel				
+node	9024948317		Florina hotel	41.0099667	28.9759904	hotel				
+node	9043479123	The Westist Hotel&SPA		41.0310140	28.9747679	hotel				
+node	9045001119	The Wings Hotel		41.0226359	28.9770055	hotel				
+node	9045062718	Sanai Hotel		41.0308422	28.9749939	hotel				
+node	9045263317	Hotel diamond		41.0307724	28.9751661	hotel				
+node	9045309517	Istamburg efes hotel		41.0358180	28.9816721	hotel				
+node	9045692718	Pera Capitol		41.0304102	28.9743849	hotel				
+node	9051987017	Hotel Öz Villa		41.0077206	28.9517148	hotel				
+node	9061217517		la Quinta by Wyndham	41.0357929	28.8130112	hotel				
+node	9073766200	Boutique California		41.0026298	28.9733914	hotel				
+node	9100018026	Miller		41.0263344	28.9790606	hotel				http://www.miller-hotel.com
+node	9112740217	Slam place		41.0598575	28.9881608	hotel				
+node	9141477168	Marnas Hotels		41.0362529	28.9120957	hotel				
+node	9161909717			41.0222509	28.9598944	hotel				
+node	9164553817		Dilhayat Kalfa Hotel	41.0035201	28.9767264	hotel				
+node	9171025817	nish		41.0603887	29.0083771	hotel				
+node	9178513320	فندق تايتنك		40.9776342	28.8699367	hotel				
+node	9260480917	Otel Lebon Old City	Hotel Lebon Old City	41.0029330	28.9782596	hotel				
+node	9261957617	Kuzen Otel		40.9888769	29.0244905	hotel				
+node	9271413402	Grand Oral Hotel		41.0061034	28.9542943	hotel	3			
+node	9277127466	Dem istanbul Hotel		41.0375831	28.8140231	hotel				
+node	9283646105	Orientbank Hotel Istanbul		41.0151791	28.9723891	hotel		Autograph Collection		https://orientbankhotel.com/
+node	9283719361	Alba Hotel		41.0345682	28.9808677	hotel				https://www.albahoteltaksim.com/
+node	9286064618	Emirtimes		40.9927401	29.0269057	hotel				
+node	9286064619	Kervansaray		40.9940737	29.0267595	hotel				
+node	9310832017	فندقي		41.0252520	29.0165046	hotel				
+node	9378272217		The city port Hotel	41.0057911	28.9543846	hotel				
+node	9379863017		green parrot hotel	41.0125522	28.9742499	hotel				
+node	9380169917		seher hotel	41.0134194	28.9765637	hotel				
+node	9381696024		Meroddi La Porta Hotel	41.0258979	28.9732621	hotel				
+node	9388991617	Kevin's Hostel		40.9950330	29.0272499	hostel				
+node	9393008311	Mini house		41.0064499	28.9685801	hotel				
+node	9442223096	Buem Hotel Koşuyolu		41.0043867	29.0380027	hotel				https://www.buemhotel.com/
+node	9443897087	Cheers Midtown Hostel		41.0291493	28.9797035	hostel				
+node	9446684898	Hotel Ruby		41.0425619	28.9855994	hotel				
+node	9457760518			41.0157242	28.9741013	hotel				
+node	9480291371	Zimmer Hotel Bosphorus		41.0313842	28.9888778	hotel				
+node	9480316702	Dora Pera Hotel		41.0297036	28.9721143	hotel				
+node	9480622920	Taksim Square Hotel		41.0364766	28.9852607	hotel				
+node	9514870369	Corner Hot Hotel		41.0485641	29.0251230	hotel				
+node	9526234127	JW Marriott Istanbul Bosphorus		41.0240802	28.9792412	hotel		JW Marriott		
+node	9547534017	Amida house		41.0031160	28.9768697	hotel				
+node	9547538717	Amida		41.0032896	28.9770828	hotel				
+node	9550530417		Hotel De Camondo	41.0241223	28.9745822	hotel				
+node	9560644978	Şirin Han Hotel		41.0155169	28.9722658	hotel		Şirin Han Hotel		https://www.sirinhanhotel.com/
+node	9577060031	Taxim Starlight Hotel		41.0357679	28.9747193	hotel				
+node	9580096792	Hotel Santa Hill		41.0350680	28.9741787	hotel				
+node	9580709917		"Alemdar, Anadolu Hotel"	41.0097665	28.9776509	hotel				http://www.anadoluhotel.com
+node	9665262887	Grand Peninsula hotel		41.0051558	28.9804167	hotel				
+node	9668725391	The House of Tulpan		41.0349806	28.9834115	hotel				
+node	9677054205	Hotel Otağ		41.0196804	28.9616402	hotel				
+node	9682323953	Febor Park İstanbul Levent Hotel		41.0711927	29.0111190	hotel				
+node	9724924870	Molton		41.0601594	28.9887994	hotel				https://www.moltonhotels.com/molton-sisli-mls-city-center-business-hotel/
+node	9730932579	Titanic		41.0600589	28.9889522	hotel				
+node	9731794905	Lampa		41.0600291	28.9887269	hotel				
+node	9766050017	Grand FM Hotel		41.0063708	28.9545876	hotel				
+node	9766767647	Galatower Hotel		41.0253542	28.9729695	hotel				https://galatowerhotel.com/
+node	9766779935	Galata Hill		41.0256156	28.9728041	hotel				
+node	9767567060	The Halich Hotel		41.0248564	28.9698494	hotel				
+node	9767571443	Hotel Vavien		41.0250529	28.9711863	hotel				
+node	9769607305	Taksim Maya Hotel		41.0355750	28.9805506	hotel				
+node	9769618669	Tango Hotel		41.0355955	28.9806408	hotel				
+node	9769627390	Panda Residence		41.0357137	28.9813391	hotel				
+node	9775466857	HAN 1772 HOTEL		41.0148303	28.9740586	hotel		HAN 1772 HOTEL		https://han1772.com/
+node	9783089122	Basilisis Hotel		41.0103374	28.9780569	hotel				
+node	9783089123	Modern Sultun Hotel		41.0102011	28.9779491	hotel				http://www.modernsultan.com
+node	9800192234	Rodion Hotel		41.0200274	28.9620510	hotel				
+node	9800214504	Ferah		41.0200949	28.9621520	hotel				
+node	9825316753	MAGNOVA STUDİOS		41.0327279	28.9765967	hotel		MAGNOVA STUDİOS		https://www.magnovastudios.com/
+node	9826078217			41.0064103	28.9538900	hotel				
+node	9826080818	فندق اشر	Asur hotel	41.0062632	28.9542059	hotel				
+node	9826474017			41.0388656	28.9736275	hotel				
+node	9833059996	Tryp By Wyndham Istanbul Basin Ekspres		41.0518205	28.8227866	hotel		TRYP		https://www.wyndhamhotels.com/tr-tr/tryp/istanbul-turkey/tryp-istanbul-basin-ekspres/overview
+node	9847775217	Kalkedon Hostel	Khalkedon Hostel	40.9963974	29.0297650	hostel				
+node	9872928518		Lola Backpackers Hostel	41.0249070	28.9713819	hostel				
+node	9901946630	Radisson Residences Avrupa TEM Istanbul		41.0870948	28.9023873	hotel		Radisson		
+node	9908396417			41.0588167	28.9510064	hotel				
+node	9911103562	Cihangir Palace		41.0331590	28.9874510	hotel				
+node	9920492532	My Dream Istanbul Hotel		41.0132180	28.9773224	hotel				https://mydreamistanbulhotel.com
+node	9924887517	BayMari Suites Florya Istanbul		40.9826126	28.7942206	hotel				https://baymari-suites.hotelrunner.com/
+node	9927048516			41.0366991	28.9906727	hotel				
+node	9928975617			40.9800686	28.9014563	hotel				
+node	9929491117		Esan	41.0061309	28.9819139	hotel				
+node	9934164217	Nova hotel		40.9927094	29.0261565	hotel				
+node	9934164218	Moonlight hotel		40.9928420	29.0261887	hotel				
+node	9934164219	İstanbul life hotel		40.9928562	29.0260506	hotel				https://istanbullifehotel.com/
+node	9934399617	İshak Paşa Palace by Signature Hotels		41.0064440	28.9819325	hotel				
+node	9946577218	Istanbul Sydney hotel		41.0042159	28.9623822	hotel				
+node	9956262617	Novus Pera Hotel		41.0294981	28.9739101	hotel				
+node	9962653117		Matiat	41.0055649	28.9545941	hotel				
+node	9968264269	Blue Plus Hotel		41.0377819	28.9835462	hotel				
+node	9969638094	Pera Luna Hotel		41.0378653	28.9835228	hotel				
+node	9969838662	Cartoon		41.0374517	28.9831610	hotel				
+node	9972976496	Santa Lucia Hotel		41.0378053	28.9832797	hotel				
+node	9975515899	Senator		41.0383460	28.9837791	hotel				
+node	9975515900	Taksim Leon's Hotel - Spa & Cafe		41.0382425	28.9838581	hotel				
+node	9979600918		Corner Garden Hotel	41.0253068	28.9730649	hotel				
+node	9988276718	Linfer Hotel		41.0377527	28.9837034	hotel				
+node	9997988017	Siva Pera		41.0340063	28.9811397	hostel				
+node	9998608674	Mara İstanbul		41.0338704	28.9788525	hotel				
+node	9998872617	Hostel Sultan Ahmet		41.0057619	28.9806998	hostel				
+node	10001940618		Seven Days Hotel	41.0062485	28.9711135	hotel				
+node	10001953117		Atlantis Royal Hotel	41.0063120	28.9709256	hotel				
+node	10007827617			41.0114567	28.9583951	hotel				
+node	10024742417	Loop Hotel Bosphorus Istanbul		41.0319726	28.9879238	hotel				https://www.loophotel.com.tr/
+node	10037977217	Orka Taksim	Orka Taksim Suites & Hotel	41.0318483	28.9821891	hotel				https://www.orkataksim.com
+node	10066765016	Aycan Sultan Apart Hotel		41.0029488	28.9764492	hotel				
+node	10082183195	Diamond City Hotels Yenikapı		41.0069574	28.9520235	hotel	5	Diamond City		
+node	10086696650	Taksim story residence		41.0381977	28.9812757	hotel				
+node	10094852617	blue pera		41.0344071	28.9797142	hotel				
+node	10098614217	فندق كلاريوس		41.0100899	28.9544421	hotel				
+node	10100003382	Meroddi		41.0270692	28.9748799	hotel				https://www.meroddi.com/
+node	10103816403	Hacibayram Hotel		41.0057948	28.9741914	hotel				https://www.hacibayramhotel.com/
+node	10115772682		Ноtel Spectra	41.0053117	28.9741653	hotel				https://hotelspectra.com/
+node	10147684092	Soho House		41.0302889	28.9729929	hotel				https://www.sohohouseistanbul.com/
+node	10154200217			41.0039638	28.9640752	hotel				
+node	10155275984	The Ritz-Carlton		41.0402879	28.9921778	hotel		The Ritz-Carlton		
+node	10175179518	Seaway Hotel		41.0060634	28.9822025	hostel				
+node	10178410608	Golden Sand Hotel		41.0043774	28.9650048	hotel				
+node	10178438621	Four-G Hotel		41.0060006	28.9731568	hotel				
+node	10178438629	Sultanahmet Olimpic Hotel		41.0068379	28.9723575	hotel				
+node	10178438642	Germenicia Hotel		41.0039628	28.9656499	hotel				
+node	10178438649	Zem Hotel		41.0060546	28.9706470	hotel				
+node	10178438653	Hotel Fehmi Bey		41.0055379	28.9737520	hotel				
+node	10178438654	Kadırga Antik Hotel		41.0058787	28.9705461	hotel				
+node	10178552790	Imagine Istanbul - Sultanahmet		41.0054342	28.9696998	hotel		Imagine Istanbul - Sultanahmet		https://www.imagineistanbulcom.tr/
+node	10183104128	White Palace Hotel		41.0039906	28.9665016	hotel				
+node	10183104129	Tavra hotel		41.0039453	28.9637215	hotel				
+node	10185239618		Jumba Hostel	41.0322849	28.9810252	hostel				
+node	10203299317	İstanbul 29 Mayıs Erkek Öğrenci Yurdu		41.0339845	29.0991558	hostel				https://yurt.29mayis.edu.tr/erkek/
+node	10209390117	Sabiha Hanım Kız Öğrenci Yurdu		41.0240037	29.0173198	hostel				
+node	10210006319	Four Points by Sheraton	Four Points by Sheraton	41.0887874	28.9826398	hotel		Four Points by Sheraton	Marriott	https://www.marriott.com/en-us/hotels/istfk-four-points-by-sheraton-istanbul-kagithane/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0
+node	10219410189	Taksim asteria appart		41.0375947	28.9819752	hotel				
+node	10221471757	Sidonya Hotel		40.9955898	29.0261285	hotel				
+node	10237280896	Xálila&cafe		41.0372584	28.9813397	hostel				
+node	10267808910		Mercure Hote	40.9786788	28.8783434	hotel				
+node	10316070110	Lider OTEL		41.0391594	28.8930366	hotel				https://www.liderotel.com/
+node	10490590009	Chilloutlya Hostel & Lounge		41.0358399	28.9796873	hostel				https://chilloutlya.com/
+node	10541943909	Primero hotel		41.0071087	28.9698545	hotel				https://primerohotel.com/
+node	10556440309	Cronton		41.0155756	28.9724809	hotel				
+node	10558928909	Jaff hotel & spa nisantasi		41.0555621	28.9861399	hotel				
+node	10578453541	Peradays		41.0350244	28.9761545	hotel				
+node	10592098861	Bilek Hotel		41.0896345	29.0054271	hotel	4			
+node	10704484505	Depiero Hotel Karaköy		41.0249530	28.9703914	hotel				https://depierohotel.com/
+node	10717363775	Verna		41.0357244	28.9756361	hotel	3			
+node	10717363776	Fide		41.0357029	28.9757429	hotel	3			
+node	10722632605	Costera Hotel		41.0042026	28.9666175	hotel				http://Costerahotel.com.tr
+node	10765839005	Galata Dream Hotel		41.0267306	28.9692716	hotel				
+node	10799787875	The Fox Hotel		41.0442164	28.9835524	hotel				http://www.thefoxhotels.com/
+node	10816101198	Leta Sandalye Hotel Cafe Restaurant		41.0851354	29.0084130	hotel				
+node	10857717905			41.0066183	28.9667720	hotel				
+node	10929882506	BOC		41.0633500	28.9901470	hotel				
+node	10931855706			41.0223827	28.9315061	hotel				
+node	10980808016	Eyuboglu Hotel		40.9905154	29.0299773	hotel				
+node	10981698165	Eyuboglu Hotel		40.9904995	29.0299907	hotel				
+node	11013724852	Pasha Hotel		40.9852387	29.0275385	hotel				
+node	11019688505	Roof Haliç Hotel	Roof Halic Hotel	41.0198635	28.9634651	hotel				https://www.booking.com/Share-KWLqPrp
+node	11050608657	Hallmark Hotel & Spa		41.0542997	28.9884991	hotel				
+node	11053319158	Çınar Caddesi		41.0227352	28.8128877	hotel				
+node	11068477805	The Nest Hotel		41.0384674	28.9837824	hotel				https://thenesthotel.com.tr/
+node	11078323126	La Wisteria Boutique Hotel Istanbul		41.0560726	28.9831252	hotel				
+node	11091786205			41.0065560	28.9662914	hotel				
+node	11093337780	Broyt Suites		40.9682966	29.0651763	hotel				https://www.broytsuites.com/
+node	11105529305	Opera House Hotel		41.0376168	28.9826551	hotel				
+node	11111325905	TempoSuites		40.9936721	28.8409325	hotel				
+node	11111847317	Four sides beyoĝlu		41.0340839	28.9819784	hotel				
+node	11143524204	Istanbulates		41.0496120	29.0223251	hotel				
+node	11143548125	Aysem sultan		41.0490423	29.0235999	hotel				
+node	11173610037	Eliza Hotel		41.0075260	28.9680803	hotel				
+node	11175957240	Faf suite home		41.0036123	28.9641596	hotel				
+node	11178432472	Story	Story	41.0294865	28.9755669	hotel				
+node	11179646837		Renata Boutique Hotel Sisli	41.0562992	28.9862708	hotel				
+node	11187141137	Hotel Naumpasa Komagi		41.0345439	28.9830651	hotel				
+node	11197368538		Grand Hilarium Hotel	41.0069020	28.9541443	hotel				
+node	11257712537	KA Hotel & Suites		41.0045966	28.9671561	hotel				
+node	11279164200	Seyri		41.0155312	28.9590644	hotel				
+node	11336781070		Ardilas Residence	41.0362390	28.9821328	hotel				
+node	11341589706	Cetinport		41.0145976	28.9773009	hotel				
+node	11380905269	Garlon Residence		41.0367859	28.9807641	hotel				https://www.garlonresidence.com/
+node	11384540169	Graziella Gold Hotel		41.0071338	28.9530144	hotel				https://www.graziellagoldhotel.com/
+node	11403687169	Costa Karaköy Hotel		41.0251554	28.9785796	hotel				https://www.online-reservations.com/?hotelid=10647392
+node	11613065369	Dervish Han Boutique Hotel		41.0152664	28.9757059	hotel				
+node	11658068569	aprilis deluxe hotel		41.0065307	28.9700135	hotel				
+node	11694384222	Downtown Sirkeci Hotel		41.0133215	28.9778867	hotel				
+node	11730216969		City House	41.0396593	28.9817206	hotel				
+node	11732284670	Lucky Hotel Istanbul		41.0200142	28.9629642	hotel				https://maps.app.goo.gl/k7MVo84tNXkaDxS26?g_st=ic
+node	11749014869		Aleksandr Pera Hotel	41.0339145	28.9812311	hotel				
+node	11764292369			41.0307772	28.9740220	hotel				
+node	11793920470		Royal Inci Spa Hotel	41.0010438	28.7982235	hotel				
+node	11802260270	Moja City Hotel		40.9926896	29.0251515	hotel				
+node	11811873069	Pera Center Hotel	Pera Center Hotel	41.0342528	28.9836892	hotel				
+node	11816727569	Hampton by Hilton Istanbul Sirkeci		41.0135796	28.9737747	hotel	4	Hampton	Hilton	https://www.hilton.com/en/hotels/istishx-hampton-istanbul-sirkeci
+node	11826478969		Design florya BayMari suites	40.9726652	28.8030471	hotel				
+node	11867272175		Ramada by Windham Istanbul Pera	41.0309287	28.9745174	hotel				https://www.wyndhamhotels.com/tr-tr/ramada/istanbul-turkiye/ramada-istanbul-pera/overview
+node	11869606126	Bomonti Arjaan by Rotana		41.0593222	28.9794529	hotel		Rotana Hotels & Resorts		https://www.rotana.com/arjaanhotelapartments/turkey/istanbul/bomontiarjaanbyrotana
+node	11896805568	Üsküdar Sahil Otel		41.0207495	29.0183493	hotel				
+node	11914880842	Next house hotel		41.0324232	28.9760057	hotel				
+node	11923768018	Nova Plaza Pera		41.0312070	28.9698656	hotel				
+node	11935187569	Verseca Hotel		41.0055411	28.9669364	hotel				
+node	11944222269	Arts hotel estanbul		41.0485007	28.9873209	hotel				
+node	11944791570	Linda Port Hotel		41.0040522	28.9642569	hotel				
+node	11947452269		City Center Hotel Taksim	41.0342131	28.9841966	hotel				
+node	11950456870		Lumina Botique Hotel	41.0207254	28.9627968	hotel				
+node	11958990835	Sofitel		41.0359769	28.9849987	hotel		Sofitel		
+node	11966140369	Golden Stone Hotel		41.0062265	28.9571287	hotel				
+node	11966785507	Lalinn Hotel		41.0026591	28.9777547	hotel	3			
+node	11984144469	Kumbaracı Apartments & Suites		41.0288829	28.9768878	hotel				
+node	11985009369	AVA Boutique		41.0680057	28.9430035	hotel				https://tr.hotels.com/ho2930616032/ava-boutique-istanbul-turkiye/
+node	11988037069	FAMA Boutique Hotel		41.0234516	28.9760085	hotel				
+node	11999281269			41.0225824	28.9298495	hotel				
+node	12019926571	Hamam Hostel 1469		41.0198865	28.9622005	hostel				
+node	12023278469	Ore Pera Suite		41.0357533	28.9741732	hotel				
+node	12031242969	The Havana Residence		41.0317156	28.9799561	hotel				
+node	12035343061	Wilson Galata Hotel		41.0269716	28.9754865	hotel				https://www.thewilsongalatahotel.com/
+node	12038055269	taxim cool		41.0338096	28.9835108	hotel				
+node	12139324701		midmar	41.0020659	28.8267618	hotel				
+node	12143531301	GEN PLUS HÔTEL		41.0261796	28.9584220	hotel				https://www.genplushotel.com/
+node	12156704152		Mr Lion Kumkapı Otel	41.0047293	28.9629159	hotel				
+node	12156704153		Milan Hotel	41.0047511	28.9628542	hotel				
+node	12180166901	The Artisan MGallery Istanbul		41.0369366	28.9921661	hotel				https://www.theartisanistanbul.com/
+node	12180580815	Ruby Royal		40.9786614	28.8705968	hotel				https://www.rubyroyal.com.tr/
+node	12181011001	Şiva Pera	Şiva Pera	41.0340378	28.9811149	hotel				
+node	12192660501	Sultan Tugrha Hotel		41.0036304	28.9802616	hotel				
+node	12196758542	The Gate Hotels Kadıköy Downtown		40.9824491	29.0648977	hotel				
+node	12202016849			41.0367638	28.9827458	hotel				
+node	12209532701	Marlon Hotel		41.0367908	28.9827818	hotel	5	Marlon Hotel		https://www.booking.com/hotel/tr/marlon.ru.html#tab-main
+node	12227834301	Hanedan Hotel		41.0060800	28.9812828	hotel				https://www.hanedanhotel.com/
+node	12253154501	Miss Suite		41.0361830	28.9815035	hotel				
+node	12319472058	Xenia		41.0037559	28.9805505	hotel				
+node	12332002075	Goden Stay		41.0357103	28.9729711	hotel				
+node	12338777501	Central Hotel		41.0126215	28.9747971	hotel				https://www.istanbulcentralhotel.com
+node	12347693511	Old Port Hotel		41.0143353	28.9762232	hotel				
+node	12347693534	Centrum Suites Hotel		41.0129877	28.9770106	hotel				
+node	12347693539	Hotel Levni Plus		41.0133015	28.9771712	hotel				
+node	12347693542	Asilzade Hotel		41.0135637	28.9771428	hotel				
+node	12347693548	Point Hotel		41.0139872	28.9770744	hotel				
+node	12347693550	Sirkeci Family Hotel		41.0140842	28.9771168	hotel				
+node	12347693552	4 Angel's Hotel		41.0140029	28.9772199	hotel				
+node	12347693565	Seres Old City		41.0137823	28.9769301	hotel				
+node	12348584338	EA Exclusive Hotel		41.0403834	28.9833481	hotel				https://eaexclusivehotel.com
+node	12353408260	Brown Mansion Oldcity		41.0038993	28.9695249	hotel				
+node	12357644979	Element Pera Residence		41.0356246	28.9775593	hotel				
+node	12358420922	Dugi		40.9920558	29.0285208	hotel				
+node	12369186601	Mytra Hotel		41.0056938	28.9812747	hotel				
+node	12395938402	Novelty Hotel Istanbul		41.0112334	28.9582938	hotel		Novelty Hotel		https://www.noveltyhotel.com.tr
+node	12419571301		Perri Loti Hotel	41.0081288	28.9728126	hotel				http://www.pirrelotihotel.com
+node	12437918802	Efzen Hotel		41.0029376	28.9763742	hotel				https://hotelefzen.com/
+node	12475644802	Nos Hotel		41.0029460	28.9765424	hotel				
+node	12510981389	Hotel Avrupa		41.0400397	28.9839205	hotel				
+node	12510981393	Pekin & Pekin		41.0390385	28.9852830	hotel				
+node	12510981395	Midtown Hotel		41.0389218	28.9849988	hotel				
+node	12510981397	Germir Palas Hotel		41.0389158	28.9853570	hotel				
+node	12510981399	Hotel Riva		41.0392768	28.9851667	hotel				
+node	12510989001	Crestium Hotels Prime Square		41.0394002	28.9847774	hotel				
+node	12510989003	Lamartine Hotel		41.0395691	28.9846497	hotel				
+node	12510989004	Nova Plaza Orion Hotel		41.0397199	28.9849098	hotel				
+node	12510989007	Hotel La Villa		41.0400868	28.9840148	hotel				
+node	12510989014	Taksim Cuento Hotel		41.0406462	28.9843693	hotel				
+node	12510989019	Feronya Hotel		41.0408124	28.9837693	hotel				
+node	12510989024	Elite World		41.0405723	28.9836452	hotel				
+node	12510989025	Elite World Comfy		41.0403469	28.9837293	hotel				
+node	12510989026	Mineo Park Hotel		41.0402493	28.9834718	hotel				
+node	12510989028	Mineo Hotel		41.0400803	28.9835569	hotel				
+node	12510989031	Rayelin Hotel		41.0399522	28.9836543	hotel				
+node	12510989033	Business Hotel İstanbul		41.0397597	28.9837528	hotel				
+node	12510989037	Fidan City Hotel		41.0394070	28.9839297	hotel				
+node	12510989038	Ess Hotel		41.0391979	28.9841143	hotel				
+node	12510989053	Long Stay Istanbul		41.0379952	28.9823998	hotel				
+node	12510989056	Pera Line Residence		41.0370953	28.9818276	hotel				
+node	12510989058	Taksim Twin Hotel		41.0371672	28.9824764	hotel				
+node	12510989059	Taksim Line Hotel		41.0371237	28.9834998	hotel				
+node	12510989061	Kartal Palace Hotel		41.0375975	28.9835979	hotel				
+node	12510989069	The Now Hotel		41.0381950	28.9842953	hotel				
+node	12510989071	Four Points Express by Sheraton		41.0383528	28.9838426	hotel		Four Points by Sheraton		
+node	12510989073	Taksim Gönen Hotel		41.0385724	28.9840221	hotel				
+node	12510989096	Impera International Hotel		41.0357284	28.9848673	hotel				
+node	12510989103	CVK Taksim Hotel		41.0361895	28.9851106	hotel				
+node	12510989106	Taxim Robin Hotel		41.0376906	28.9833118	hotel				
+node	12510989107	Çiğdem Boutique Hotel		41.0376678	28.9832621	hotel				
+node	12510989109	Three Apples Suites		41.0377647	28.9830367	hotel				
+node	12510989112	Yellow Mansion Hotel		41.0376450	28.9829351	hotel				
+node	12510989113	Taksim My House Hotel		41.0375690	28.9825442	hotel				
+node	12510989114	Long Stay İstanbul		41.0373994	28.9826721	hotel				
+node	12510989116	Invictum Residence		41.0374730	28.9824542	hotel				
+node	12510989122	Peri Hotel		41.0371434	28.9816003	hotel				
+node	12512834706	Hotel Galata Palace		41.0230645	28.9762927	hotel				
+node	12512834719	The Wolf Hotel		41.0253903	28.9794718	hotel				
+node	12512834726	Port Hotel		41.0259518	28.9801777	hotel				
+node	12512834727	Center Port Hotel		41.0257878	28.9805800	hotel				
+node	12512834740	Royal Tophane Hotel		41.0252852	28.9796144	hotel				
+node	12512834750	Triada Hotel Karaköy		41.0243782	28.9781689	hotel				
+node	12512834758	Galata's Liman Hotel		41.0239794	28.9779872	hotel				
+node	12540355801	Root Karaköy		41.0259199	28.9792980	hotel				
+node	12549596201	Siesta Hotel Bakirkoy		40.9793010	28.8709335	hotel				https://siestaotel.com.tr/
+node	12627282101			41.0363560	28.9775650	hotel				
+node	12663182138	Taksim Triada Hotel		41.0357027	28.9833315	hotel				
+node	12669549201	Cihangir Hotel Bosphorus		41.0333806	28.9854692	hotel				
+node	12705575952	Cheya Hotel & Suites Beşiktaş		41.0484983	29.0076808	hotel				
+node	12735239158	Yellow Bull İstanbul Hotel		41.0044608	28.9634261	hotel				
+node	12735992244	Azure the Bosporus		41.0305918	28.9885095	hotel				
+node	12752950701	The Tango Hotel Taksim		41.0353808	28.9806205	hotel				
+node	12753658153	Sultan Süleyman Palace		41.0040346	28.9717469	hotel				
+node	12760514571	Musk Hotel		41.0431551	28.9828550	hotel				
+node	12763289501	Aram Nenessa Hotel		41.0089596	28.9524195	hotel				
+node	12769362201	Solomon's Mansion Hotel		41.0148626	28.9611668	hotel				
+node	12786379006	Good Night Hotel		41.0058670	28.9694996	hotel				
+node	12787318496	Koçak Pansiyon	Koçak Pension	41.0033858	28.9529382	hotel	3			https://www.kocakpansiyon.com/
+node	12787984699	Taxim Hotel		41.0432768	28.9859821	hotel				
+node	12788083647	AR Suite hotel		41.0433653	28.9853159	hotel				
+node	12788092396	Luce Suites		41.0424673	28.9857489	hotel				
+node	12813118901			40.9884132	29.0210479	hostel				
+node	12813119001			40.9903109	29.0248864	hostel				
+node	12813128201			41.0605170	28.8080948	hostel				
+node	12831868437	Taksim Home		41.0349520	28.9876879	hotel				
+node	12833627305	Royal Suites Hotel		41.0438593	29.0079808	hotel				
+node	12840955566	Bali Star City Hotel		41.0338912	28.9808689	hotel				
+node	12840982297	Biter Hotel		41.0208391	28.9586557	hotel				
+node	12841002949	Park Hotel		41.0368136	28.9830999	hotel				
+node	12841012816	Taksim Antique Hotel		41.0368637	28.9832090	hotel				
+node	12884126301	Sweet Hotel Istanbul	Sweet Hotel Istanbul	41.0201017	28.9630980	hotel				https://maps.app.goo.gl/xNtHwQ4nPEX5VyyU9
+node	12913966273	Sirkeci Quietness Hotel		41.0141341	28.9776658	hotel				http://www.sirkeciquietnesshotel.com/
+node	12914134001	Galatahan		41.0244036	28.9725769	hotel				https://galatahanhotel.com/
+node	12951663401	Musk hostel		41.0311153	28.9712124	hotel				
+node	12974799533	Walton		41.0258800	28.9723322	hotel				
+node	12974799534	Galata Greenland Hotel		41.0257846	28.9722446	hotel				
+node	12995428095	CIP Hotel		40.9786609	28.8774006	hotel				https://ciphotel.com
+node	13023187401	G-Han Hotel		40.9921771	29.0420179	hotel				
+node	13058706444	Blue Gilroy Hotel		41.0069601	28.9729329	hotel				
+node	13067346101	Zendy Suite		41.0402649	28.9817135	hotel				
+node	13078038301	World House Boutique Hotel		41.0265139	28.9746920	hotel				
+node	13087162801	Ramada by Wyndham		41.0251915	29.0967071	hotel		Ramada		https://www.ramadaumraniye.com/
+node	13109094293	İpekyolu Otel		41.0054173	28.9819759	hotel				
+node	13109409503	Sultanahmet Coşkun Hotel		41.0050642	28.9639471	hotel				
+node	13167691001	Doruk Palas Hotel		41.0267714	28.9705948	hotel				https://www.dorukpalas.com
+node	13175673094	"Radisson Blu Hotel, Istanbul Pera"		41.0303332	28.9719442	hotel		Radisson Blu		https://www.radissonhotels.com/en-us/hotels/radisson-blu-istanbul-pera
+node	13180270399	21 Rooms		41.0345460	28.9809259	hostel				
+node	13186922861	Le Petit Maison		41.0027290	28.9738355	hotel				
+node	13186922866	Hotel Sultan Hill		41.0048763	28.9757079	hotel				
+node	13186922883	Blue Ottoman Hotel		41.0048420	28.9758238	hotel				
+node	13200993801	Juno Taksim Hotel		41.0354555	28.9870022	hotel				https://junohotel.com.tr/
+node	13204568901	Raimond Hotel		41.0049049	28.9653776	hotel				
+node	13248077596	Grand Hotel Palmiye		41.0357578	28.9813100	hotel				
+node	13249285924	Hotel Meretto İstanbul		41.0102365	28.9541357	hotel				
+node	13253198680	Emre Hostel		41.0060267	28.9815464	hostel				
+node	13260739361	Gafa Garden Hostel & Apartments		41.0342677	28.9817495	hostel				
+node	13276731000	La Fortuna Hotel Taksim		41.0389352	28.9826309	hotel				https://www.lafortunataksim.com/
+node	13286970301	Rhythm Hotel		41.0035778	28.9648803	hotel				http://www.rhythmhotel.com
+node	13290120980	Lokalist Taksim		41.0381529	28.9880507	hotel				
+node	13311228065	Forty Nişantaşı Hotel		41.0524990	28.9943238	hotel		Forty Nişantaşı Hotel	Forty Nişantaşı Hotel	https://www.fortynisantasihotel.com/
+node	13311609701	The Moss Hotel		41.0201388	28.9611145	hotel				
+node	13339494501	Nabu Hotel Karaköy		41.0253135	28.9798636	hotel				
+node	13366676001	Ahmet Efendi		41.0038305	28.9641138	hotel				
+node	13396860934	The Hezar		41.0222229	28.9769187	hotel				
+node	13396860937	Dream Inn Hotel		41.0250695	28.9811456	hotel				
+node	13396860951	Asur Hotel		41.0133461	28.9767690	hotel				
+node	13464849301	Independent Hotel		41.0359991	28.9810239	hotel				
+node	13506899101	Nippon Hotel		41.0404310	28.9850968	hotel				https://www.nipponhotel.com.tr/en
+node	13535335901	Mein Hotel		41.0400969	28.9846788	hotel				
+node	13587048311	Casafra		41.0367453	28.9775487	hotel				
+node	13633685330	Canopy by Hilton Istanbul Taksim		41.0366619	28.9801024	hotel				https://www.hilton.com/ru/hotels/isttkpy-canopy-istanbul-taksim/
+node	13675062401	Pera Parma Hotel		41.0337686	28.9769799	hotel				
+node	13720131502	Taksim Bosphorus Hotel		41.0390752	28.9837018	hotel				
+node	13739197284	The Laila Hotel		41.0058320	28.9716279	hotel				
+node	13745067653	Grand Gross Hotel		41.0068933	28.9583317	hotel				
+node	13764560524	Nishant Boutique		41.0517621	28.9893863	hotel				
+node	13860345801	Turvan hotel		41.0139326	28.9761780	hotel				
+node	13882574456	Aria Palace Taksim Hotel		41.0354483	28.9801281	hotel				https://ariapalacetaksim.com
+node	13895628817	The Peninsula Istanbul		41.0229504	28.9781564	hotel		The Peninsula Hotels		https://www.peninsula.com/tr-tr/istanbul/5-star-luxury-hotel-bosphorus
+node	13910125047	Viaport Süit Hotel		41.0959741	28.8636764	hotel				
+node	13926071267	Silvana		41.0109829	28.9540752	hotel				
+node	13947771647	Farina Otel		41.0166467	28.9556592	hotel				
+node	13954003317	Mari Suites Hotel		41.0740729	28.9822125	hotel				https://www.marisuiteshotel.com/
+node	13954180494	Bird Nest Suites		41.0506351	28.9869030	hotel				https://www.birdnest.com.tr/
+node	13954224432	Mona Bosphorus Hotel		41.0539463	29.0282424	hotel				
+node	13954279651	Nex Hotel		41.0505027	28.9863276	hotel				https://nexhotel.com/
+node	13954314398	Istanroom By KEO		41.0532245	28.9835272	hotel				http://www.istanroom.com/
+node	13954624047	Vicolo Moda		40.9865752	29.0243104	hotel				https://vicolootel.com/
+node	13954703079	Elephant in the room		40.9870183	29.0269348	hotel				https://www.elephantintheroom.com.tr/en
+node	13959435601	QUINNOVA HOTEL		41.0467323	28.9844183	hotel				https://www.quinnovahotel.com
+node	13968029301	NarPera Boutique Hotel		41.0440940	28.9830624	hotel				https://narpera.com/
+node	13970522633	Galata İstanbul hotel		41.0287337	28.9711694	hotel				
+node	13972180701	Nest digital nomad house		40.9926571	29.0302327	hostel				https://www.nestdigitalnomad.com/
+node	13972678501	Spinel Hotel		41.0055669	28.9817087	hotel				
+node	14007997901	Metropolitan Bosporus Hotel		41.0305050	28.9885060	hotel				
+node	14018201101	Emirhan Guesthouse & Suites		41.0044041	28.9721921	hotel				
+node	14038557501		Отель	41.0051108	28.9725540	hotel				
+node	14042142002	Authentic Turkish Home Studio Room		41.0498463	29.0246150	hotel				
+node	14065082623	Hampton by Hilton İstanbul Old City		41.0092385	28.9494258	hotel		Hampton	Hilton	https://www.hilton.com/tr/hotels/istithx-hampton-istanbul-old-city/
+node	14077399328	The Galata Glory Hotel		41.0251031	28.9722507	hotel				
+node	14092249101	Grand Balyan Hotel		41.0059470	28.9667841	hotel				https://grandbalyanhotel.com/
+node	14103754201		Hovagimyan	41.0239936	28.9789393	hotel				
+node	14127177801	Valide-i Suit		41.0203651	29.0245347	hotel				
+node	14131446799	Ferman Port Hotel		41.0225800	28.9760480	hotel				https://www.fermanport.com/
+node	14136543201	Derya Suite		41.0382520	28.9811559	hotel				
+node	14136762821	Al Khaleej		41.0392492	28.9819272	hotel				
+node	14136767957	Taskim Larissa		41.0392919	28.9818789	hotel				
+node	14138989301	Mayar Residence Hotel		41.0475755	28.8955482	hotel				
+node	14166902801	Ada Hotel Istanbul		41.0049748	28.9729842	hotel				
+node	14172973001	Baron Hotel & SPA		41.0083652	28.9623254	hotel				
+node	14174048301	Grand Sarkeci Hotel		41.0150362	28.9736927	hotel				https://www.grandsirkeci.com
+node	14174176620	Marius Hotel		41.0136552	28.9764810	hotel				https://mariushotel.com
+node	14204453686			41.0020196	29.0298623	hotel				
+node	14216205386	Taksim Bosphorus Hotel		41.0390686	28.9836929	hotel				
+node	14216205387	Ferman Hilal Otel		41.0397137	28.9835487	hotel				
+node	14216205396	Hotel Le Mirage		41.0558727	28.9830385	hotel				
+node	14219052311	Evim Kadıköy Hostel		40.9928709	29.0428553	hotel				
+node	14219098076	Marcello Grand Hotel		41.0089279	28.9555255	hotel				
+node	14219098077	Mays Royal Hotel		41.0071953	28.9490230	hotel				
+node	14219453201	Reggae		41.0054721	28.9679607	hotel				
+node	14226131701	Bond Hotel İstanbul		41.0354187	28.9784665	hotel				https://bondhotelistanbul.com/
+node	14228834113	Istanbul Terrace Hotel		41.0111869	28.9584036	hotel				
+node	14232424532	Hotel Garden Terrace 1		41.0199291	28.9634921	hotel				http://www.booking.com/hotel/tr/new-terrace-istanbul.html
+node	14232424533	Reydel Hotel		41.0205255	28.9621790	hotel				
+node	14232424534	Mudem Hotel		41.0210680	28.9621272	hotel				
+node	14232424537	Grand Anka Hotel		41.0192935	28.9476341	hotel				
+node	14253264536	Hotel Villa Zurich		41.0308465	28.9832262	hotel				https://www.hotelvillazurich.com/
+node	14253264539	Hotel Hüyük		41.0347264	28.9820516	hotel				
+node	14253264542	Mukarnas Pera Hotel		41.0337569	28.9767797	hotel				
+node	14253264544	"Daru Sultan Hotels Galat, Bind Cafe&Chocolate"		41.0278795	28.9718746	hotel				
+node	14255522101	Mövenpick Istanbul Old Town		41.0175091	28.9567469	hotel				https://all.accor.com/hotel/C527/index.en.shtml?goto=fiche_hotel&code_hotel=C527&merchantid=seo-maps-TR-C527&sourceid=aw-cen
+node	14265908573	Bricks Hotel		40.9925282	28.8380358	hotel				
+node	14268692876	Imperium No. 1 Residence		41.0642285	28.9687202	hotel				
+node	14268698105	ELM Suite Hotel		41.0646922	28.9689049	hotel				
+node	14271376701	Aloft by Marriott Istanbul Karakoy		41.0246803	28.9718951	hotel				
+node	14271436701	Aloft by Marriott Istanbul Karakoy		41.0246774	28.9718815	hotel				https://www.marriott.com/en-us/hotels/istka-aloft-istanbul-karakoy/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0
+node	14277418401	Cheya		41.0357586	28.9899676	hotel				
+node	14281541938	My Suite House		41.0077772	28.9494172	hotel				
+way	26970154	Hilton Istanbul Bosphorus		41.0444856	28.9895883	hotel	5	Hilton	Hilton	https://www.hilton.com/en/hotels/isthitw-hilton-istanbul-bosphorus/
+way	49501437	Radisson Blu		41.0475721	29.0244922	hotel		Radisson Blu	Radisson	
+way	49501446	Four Seasons		41.0423766	29.0115856	hotel	5	Four Seasons		https://www.fourseasons.com/bosphorus/
+way	90204974	Alzer		41.0056295	28.9743774	hotel				http://www.alzerhotel.com
+way	112174336	Hotel Valide Sultan Konagi		41.0070537	28.9814387	hotel				https://www.hotelvalidesultan.com/
+way	117586997	Historia Hotel		41.0042401	28.9802576	hotel			Historia Otelcilik Ltd	
+way	128933041	Akgün Hotel İstanbul		41.0228715	28.9303596	hotel				https://www.akgunhotel.com/
+way	132148724	Sultan Hamit Hotel		41.0059912	28.9818872	hotel				https://sultanhamithotel.com/
+way	135988944	Hotel Ibrahim Pasha		41.0059315	28.9741789	hotel				
+way	161961014	Eresin Crown Hotel		41.0037020	28.9746858	hotel				https://www.eresin.com.tr/eresincrown/
+way	164590120	Four Seasons Hotel		41.0065839	28.9802111	hotel		Four Seasons		https://www.fourseasons.com/istanbul/
+way	165484164	10 Karaköy		41.0237547	28.9759287	hotel				https://www.morganshotelgroup.com/originals/10-karakoy
+way	165517584	"Les Temps Istanbul Karakoy, Curio Collection by Hilton"		41.0236736	28.9737737	hotel		Hilton	Hilton	https://www.hilton.com/en/hotels/istayqq-les-temps-istanbul-karakoy
+way	165578311	Sun Hotel		41.0258518	28.9791412	hotel				
+way	176384179	Limak Eurasia		41.0920129	29.0974494	hotel	5			
+way	179456722	Sub Hotel		41.0257129	28.9789682	hotel				
+way	180830569	Barceló		41.0414035	28.9831275	hotel				
+way	183497380	Hush Hostel Lounge		40.9960316	29.0268270	hostel				https://www.hushhostelistanbul.com/
+way	193898799	Wyndham Grand Hotel		41.0269088	28.8150685	hotel		Wyndham Grand		
+way	193899002	Rotta Hotel		41.0313579	28.8170603	hotel				
+way	201265843	Yeşilköy Çınar Hotel		40.9590022	28.8363626	hotel	5			
+way	224412493	Ceylan Inter Continental İstanbul Otel		41.0396559	28.9880111	hotel		InterContinental		http://istanbul.intercontinental.com.tr/en/general/default.asp
+way	224412646	İstanbul Taxim Suites	Taxim Suites	41.0405432	28.9861083	hotel				
+way	224467857	Grand Hyatt Istanbul		41.0410300	28.9883040	hotel	5	Grand Hyatt	Hyatt	https://www.hyatt.com/grand-hyatt/en-US/istan-grand-hyatt-istanbul
+way	224500906	CVK Park Bosphorus Hotel		41.0348003	28.9882090	hotel				
+way	224916946	Four Sides Lion	Four Sides Lion	41.0404751	28.9841287	hotel	4			http://www.lionhotel.net/
+way	224916977	Titanic City Taksim	Titanic City Taksim	41.0407405	28.9840143	hotel				https://www.titanic.com.tr/titanic-city-taksim
+way	224916987	Golden Age Hotel		41.0402298	28.9842068	hotel				https://www.goldenagehotel.com/
+way	225989414	Golden City Hotel		41.0238339	28.9700778	hotel	4			
+way	229423724	Lady Diana		41.0062310	28.9735632	hotel				
+way	235548989	Hotel Suadiye		40.9565042	29.0807992	hotel				https://www.hotelsuadiye.com
+way	235557866	Wyndham Grand Istanbul Kalamis Marina Hotel		40.9774701	29.0414893	hotel		Wyndham Grand		https://www.wyndhamhotels.com/wyndham-grand/istanbul-turkey/wyndham-grand-istanbul-kalamis-marina/overview
+way	235637667	DoubleTree by Hilton Hotel Istanbul		40.9884657	29.0212877	hotel	5	DoubleTree	Hilton Hotels	https://doubletree3.hilton.com/en/hotels/turkey/doubletree-by-hilton-hotel-istanbul-moda-ISTIMDI/index.html?WT.mc_id=zELWAKN0EMEA1DT2DMH3LocalSearch4DGGenericx6ISTIMDI
+way	236994814	Bella Hotel		40.9925516	29.0252816	hotel				https://www.bellaotel.com.tr/
+way	236994815	Dila Hotel		40.9921227	29.0260717	hotel				
+way	239494661	Azzap Hotel		41.0234200	28.9738402	hotel		Azzap Hotel		
+way	248051001			41.0335990	28.9815105	hotel				
+way	248051020	The Wings Hotel Collection		41.0337793	28.9817230	hotel		Room Mate	Room Mate	https://thewingshotels.com/en/collection/
+way	249032304	Plat Inn		41.0342302	28.9834570	hotel				
+way	249042543	Rodin Hostel		41.0340137	28.9836240	hotel				
+way	252672894	Pera Palace Hotel		41.0310424	28.9734696	hotel			Jumeirah	https://www.jumeirah.com/en/hotels-resorts/istanbul/pera-palace-hotel-jumeirah/
+way	262201429	DoubleTree by Hilton Hotel Istanbul - Old Town		41.0090498	28.9603467	hotel	5	DoubleTree	Hilton	https://www.hilton.com/en/hotels/istotdi-doubletree-istanbul-old-town/
+way	265385225	Windsor Hotel & Convention Center İstanbul		41.0443135	28.9134424	hotel				https://www.windsoristanbul.com/
+way	266272258	Sinbad hostel		41.0036652	28.9729811	hostel				
+way	268876124	Hilton Istanbul Bomonti Hotel & Conference Center		41.0587632	28.9792458	hotel	5	Hilton	Hilton	https://www.hilton.com/en/hotels/istbhhi-hilton-istanbul-bomonti-hotel-and-conference-center/
+way	272839839	TaksimFlat		41.0333657	28.9861162	hotel		TaksimFlat		https://taksimflat.com
+way	287310917	Tomtom Suites	Tomtom Suites	41.0302737	28.9777237	hotel				https://tomtom-suites-istanbul.hotel-rn.com/
+way	288197582	Nova Plaza Prime		41.0587953	28.8127634	hotel				https://novaplazahotels.com/novaplazaprime/
+way	309052099	Berr Otel	Hotel Berr	41.0178464	28.9439172	hotel				https://www.berrhotel.com/
+way	309181889	Lausos Palace Hotel		41.0570462	28.9943787	hotel				
+way	312156102		Hagia Sophia Hotel	41.0088885	28.9767951	hotel				https://www.hsoldcity.com/en/
+way	312334974	Hagia Sophia Hotel Istanbul Old City		41.0091044	28.9769335	hotel				https://surahotels.com/
+way	315856038	Hotel Golden Way Giyimkent		41.0716447	28.8725553	hotel				https://goldenway.com.tr
+way	315859667	Ramada Plaza Istanbul Tekstilkent		41.0705231	28.8678868	hotel		Ramada	Ramada Worldwide	https://www.ramadaplazatekstilkent.com/
+way	324067247	Conrad Istanbul Bosphorus		41.0471362	29.0094963	hotel	5	Conrad	Hilton	https://www.hilton.com/en/hotels/isthcci-conrad-istanbul-bosphorus/
+way	330501049	"Hagia Sofia Mansions Istanbul, Curio Collection by Hilton"		41.0065608	28.9790796	hotel	5	Hilton	Hilton	https://www.hilton.com/en/hotels/isthsqq-hagia-sofia-mansions-istanbul/
+way	335422572	Anadolu Hotel		41.0097708	28.9776543	hotel				
+way	335422573	Cheers Hostel		41.0101848	28.9779960	hostel				https://www.cheershostel.com/
+way	342930765	Ramada Plaza by Wyndham Istanbul Sultanahmet		41.0125300	28.9577714	hotel		Ramada		
+way	342930766	Grand Hotel Gülsoy		41.0127813	28.9573871	hotel				
+way	342964878	Hotel Erkus		41.0109492	28.9448518	hotel				
+way	342984435	İlicak Hotel		41.0125940	28.9380294	hotel				
+way	371745527	Khalkedon Hotel Istanbul		40.9894067	29.0252188	hotel				http://www.khalkedonhotelistanbul.com/
+way	372264928	Best Western Amber		41.0048143	28.9648265	hotel		Best Western	Best Western	https://hotelamber.com/
+way	381346663	Hotel Hotellino		41.0138313	28.9785096	hotel				
+way	390478478	Renaissance Polat Istanbul Hotel		40.9594429	28.8393007	hotel		Renaissance		https://www.marriott.com/en-us/hotels/istrn-renaissance-polat-istanbul-hotel/overview/
+way	400197100	Raymond Hotel		41.0127377	28.9770247	hotel				
+way	400197101	Raymond Blue Hotel		41.0127569	28.9771521	hotel				
+way	403175990	Sheraton Istanbul Levent		41.0863095	29.0064112	hotel		Mövenpick	Mövenpick	http://www.moevenpick-hotels.com/en/europe/turkey/istanbul/hotel-istanbul/overview/
+way	403554957	Le Meridien İstanbul Etiler		41.0891281	29.0347678	hotel		Le Méridien		https://www.lemeridienistanbuletilerhotel.com/
+way	405680368	Dongyang Hotel		41.0095630	28.9784272	hotel				https://www.dongyanghotelistanbul.com/
+way	423115632	The Cettia Istambul		41.0632926	28.9968984	hotel				http://thecettiaistambul.com
+way	424921079	Mercure Istanbul Altunizade		41.0250659	29.0415774	hotel		Mercure		http://www.mercure.com/gb/hotel-8973-mercure-istanbul-altunizade/index.shtml
+way	429506230	İstanbul Trend Otel		41.0088158	28.9537873	hotel				
+way	429509428	Amethyst Otel		41.0090287	28.9548595	hotel				
+way	450954199	Hampton by Hilton Istanbul Zeytinburnu		40.9934534	28.9188401	hotel	4	Hampton	Hilton	https://www.hilton.com/en/hotels/istzehx-hampton-istanbul-zeytinburnu/
+way	453731294	Angel's Home Hotel		41.0042441	28.9795972	hotel	3		Angel's Home Hotel	https://www.angelshomehotel.com/
+way	463142182	Renaissance Istanbul Polat Bosphorus Hotel		41.0593758	29.0101718	hotel		Renaissance	Marriott	
+way	465139273	Novotel Istanbul Zeytinburnu		40.9803575	28.9013733	hotel	4	Novotel		
+way	465399994	Ramada Ataköy		40.9775284	28.8685886	hotel		Ramada		
+way	492676271	Ibis Istanbul Zeytinburnu		40.9804333	28.9021335	hotel		Ibis		
+way	498185039	Barcelo Eresin Topkapi		41.0193010	28.9265675	hotel				
+way	498861863	Çırağan Sarayı Kempinski	Ciragan Palace Kempinski Istanbul	41.0444587	29.0168574	hotel	5		Kempinski Hotels S.A.	https://www.kempinski.com/en/istanbul/ciragan-palace/
+way	499202710	Hotel Alp Guesthouse		41.0061158	28.9815055	hotel				http://www.alpguesthouse.com
+way	501759259	Grand Hisar Hotel		41.0351366	28.9772694	hotel	3			
+way	502111373	By Murat Crown		41.0297428	28.9739412	hotel				
+way	503242837	Point Hotel		41.0642767	29.0106765	hotel				https://www.barbaros.pointhotel.com/
+way	503352175	Dosso Dossi Golden Horn Hotel		41.0537166	28.9496417	hotel	4			
+way	508591841	Sevcan Hotel		40.9855907	28.7878194	hotel				
+way	508591842	Florya Park Hotel		40.9857021	28.7883316	hotel				
+way	510209571	Taşhan Hotel		40.9787378	28.8830903	hotel				
+way	521814685	Princess Old City		41.0108617	28.9453395	hotel				
+way	526200941	Victorious Hotel		41.0196560	28.9613133	hotel				
+way	527156398	Kare Hotel Sultanahmet		41.0060315	28.9710464	hotel				http://www.hotelkare.com/
+way	527158904	Interstar Hotel		41.0058844	28.9718875	hotel				
+way	527172444	"The Ritus Hotel Istanbul Sultanahmet, Tapestry Collection by Hilton"		41.0063852	28.9733451	hotel		Hilton	Hilton	https://www.hilton.com/en/hotels/istrtup-the-ritus-hotel-istanbul-sultanahmet
+way	530217005	Catch Sultanahmet Hotel		41.0028061	28.9789945	hotel				
+way	530217007	Catch Sultanahmet Otel		41.0029026	28.9791531	hotel				
+way	530509194	Yusufpaşa Konağı		41.0046109	28.9806631	hotel				
+way	530509261	Royan Hotel Hagia Sophia Istanbul		41.0054482	28.9812538	hotel	4	Radisson Individuals		https://www.radissonhotels.com/en-us/hotels/radisson-individuals-royan-hagia-sophia-istanbul
+way	530509362	The Empress Theodora		41.0099308	28.9789640	hotel				
+way	530509391	Hotel Black Tulip		41.0128326	28.9782199	hotel				https://hotelblacktulip.com/
+way	530620546	Zeyn Otel		41.0052754	28.9713673	hotel				
+way	539522436	Shangri-La Bosphorus		41.0406165	29.0051584	hotel	5			
+way	541362011	A11 Hotel Cadde		40.9724004	29.0588208	hotel				https://a11hotel.com/rooms/a11-hotels-cadde/
+way	544868838	DayMonth Hotel		41.0192223	28.7975036	hotel				
+way	547825764	Holiday Inn Express Bayrampaşa		41.0439682	28.8901755	hotel		Holiday Inn Express	Holiday Inn Express	
+way	548861936	Hotel Bomonti		41.0582820	28.9839997	hotel				
+way	559463777	DoubleTree by Hilton Istanbul Topkapi		41.0263993	28.9204661	hotel	5	DoubleTree		https://www.hilton.com/en/hotels/isttodi-doubletree-istanbul-topkapi/
+way	569178977	Qua Hotel		41.0458831	28.8159644	hotel				
+way	569744203	Star Hotel İstanbul		41.0062275	28.9808643	hotel				http://www.starhotelistanbul.com/
+way	570330039			41.0557438	28.8185213	hotel				
+way	571373509	Qua Hotel		41.0457906	28.8210015	hotel				
+way	571777067	King City Hotel & Spa		41.0444792	28.8193857	hotel				https://kingcityhotelspa.com/
+way	572376042	Havana Hotel Suites Taksim		41.0394247	28.9820507	hotel				
+way	572392195	Sheraton Istanbul City Center		41.0395462	28.9746862	hotel	5	Sheraton		https://www.marriott.com/hotels/travel/istsd-sheraton-istanbul-city-center/
+way	573810708	Grand Makel Topkapı		41.0193666	28.9099159	hotel				
+way	597247202	Dedeman İstanbul		41.0640428	29.0099085	hotel	5	Dedeman		https://www.dedeman.com/oteller/dedeman-istanbul
+way	604661067	Aria Palace Taksim Hotel		41.0354337	28.9800992	hotel				https://www.ariapalacetaksim.com/
+way	614377626	Cnr İnci Hotel		41.0006446	28.8004517	hotel				https://cnrincihotel.com
+way	622469038	Rox Hotel		40.9934882	28.8278730	hotel				
+way	625502636	Hilton		41.0562588	28.9789660	hotel		Hilton		
+way	634172495	Hilton Istanbul Bakırkoy		40.9801595	28.8862015	hotel	5	Hilton	Hilton	https://www.hilton.com/en/hotels/istibhi-hilton-istanbul-bakirkoy/
+way	638349231	Parkhouse Hotel & Spa		40.9918108	29.0262966	hotel				https://parkhousehotels.com
+way	639788025	Holiday Inn Express		41.0247574	29.0426383	hotel		Holiday Inn Express		https://www.ihg.com/holidayinnexpress/hotels/us/en/istanbul/istal/hoteldetail
+way	659929810	Orient Express Hotel		41.0132986	28.9776706	hotel				
+way	661272997	Aspera Hotel Altunizade		41.0219011	29.0451060	hotel		Ramada	Aspera	https://asperahotel.com/altunizade
+way	670940532	Holiday Inn Kadıköy		40.9928369	29.0430596	hotel		Holiday Inn	Holiday Inn	https://www.ihg.com/holidayinn/hotels/tr/tr/istanbul/istka/hoteldetail
+way	694653853	Pasha Otel		40.9850534	29.0274439	hotel				
+way	694659616	The Pasha İstanbul		40.9834671	29.0306598	hotel				
+way	695616848	Timya Otel	Timya Hotel	40.9926036	29.0259719	hotel	3			https://www.kadikoytimyaotel.com
+way	695616849	Pandora Suit		40.9926946	29.0259741	hotel	3			https://pandorasuit.com.tr
+way	697225089	Park Hyatt Istanbul - Macka Palas		41.0475416	28.9936832	hotel	5	Park Hyatt	Hyatt Hotels Corporation	https://www.hyatt.com/park-hyatt/en-US/istph-park-hyatt-istanbul-macka-palas
+way	698820507	Semsan Hotel		41.0548488	28.9973179	hotel	3			https://www.semsanhotel.com/
+way	698820539	Modus Hotel İstanbul		41.0541048	28.9970348	hotel	4			https://www.modushotelistanbul.com/
+way	699122228	Empress Zoe		41.0064423	28.9810405	hotel				
+way	699553233	Radisson Blu		41.0615141	28.9887735	hotel		Radisson Blu		https://www.radissonhotels.com/en-us/hotels/radisson-blu-istanbul-sisli?cid=a:se+b:gmb+c:emea+i:local+e:rdb+d:eerut+h:TRISTSIS
+way	699553252			41.0607385	28.9883618	hotel				
+way	699553278	Wish More Hotel Şişli		41.0593647	28.9876249	hotel	4	Wish More		https://www.wishmore.com.tr/sisli/en/
+way	699948836	DoubleTree by Hilton Istanbul Macka		41.0427477	28.9959984	hotel	4	DoubleTree		
+way	719605578	Hurry Inn Oteli		41.0106651	28.8914810	hotel				
+way	723846916	The Elysium Istanbul		41.0416774	28.9841010	hotel				
+way	723846917	The Elysium Istanbul Building II		41.0418817	28.9844095	hotel				
+way	726991204	Lionel Hotel		41.0456260	28.9132618	hotel			Kıdan İnşaat	https://www.lionelhotel.com.tr/
+way	729521892	Ramada Encore		41.0399849	28.9142859	hotel		Ramada		https://ramadaencorebayrampasa.com/
+way	761269718	Marriott		41.0639062	28.9879973	hotel		Marriott		
+way	762702769	Hampton by Hilton Istanbul Sisli		41.0459083	28.9841048	hotel		Hampton by Hilton		https://www.hilton.com/en/hotels/istedhx-hampton-istanbul-sisli/
+way	773665007	Hilton Mall of Istanbul		41.0637397	28.8049446	hotel		Hilton		https://www.hilton.com/en/hotels/istmihi-hilton-mall-of-instanbul/
+way	805349710	Masal Suite		40.9943837	29.0258149	hotel				
+way	870841527	Radisson Residences Avrupa TEM Istanbul		41.0868089	28.9028467	hotel		Radisson		
+way	897230079	Sürmeli Hotel		41.0649595	29.0031021	hotel	5			
+way	952740599	Catch Sultanahmet Otel		41.0028782	28.9789699	hotel				
+way	952740600	Catch Sultanahmet Otel		41.0026661	28.9790757	hotel				
+way	952740601	Catch Sultanahmet Otel		41.0026946	28.9792512	hotel				
+way	1007474818	Veyron Hotels		41.0702477	29.0057334	hotel				
+way	1021522405	Wish More Hotel İstanbul		41.0489349	28.8994483	hotel				
+way	1024285073	Grand S Hotel		41.0351628	28.8944205	hotel	4			https://grandshotel.com/
+way	1024285074	My Mira City Spa Otel		41.0346368	28.8950327	hotel	4			http://www.mymiracityotelspa.com/
+way	1040879386	Bayrak Hotel & Restaurant		41.0475810	28.9321125	hotel				
+way	1052810268	Hampton by Hilton Istanbul Merter		41.0062375	28.8933671	hotel	3	Hampton	Hilton	https://www.hilton.com/en/hotels/istgmhx-hampton-istanbul-merter/
+way	1059677486	Cher Hotel		41.0401317	28.9762026	hotel				https://www.cherhotel.com.tr/
+way	1087053418	Moda Drei		40.9853154	29.0305443	hostel				
+way	1088108983	Crowne Plaza		40.9635163	28.8018048	hotel		Crowne Plaza		
+way	1106158093	"Mandarin Oriental Bosphorus, Istanbul"		41.0570301	29.0356625	hotel		Mandarin Oriental Hotel		https://www.mandarinoriental.com/en/istanbul/bosphorus
+way	1112531038	Imagine Istanbul - Sultanahmet		41.0054275	28.9697208	hotel	4	Imagine Istanbul - Sultanahmet		https://imagineistanbul.com.tr/
+way	1124108464	Hôtel Les Ottomans		41.0589129	29.0362038	hotel				https://www.lesottomans.com.tr/
+way	1126695032	The Time Hotel Marina		40.9745404	28.8737360	hotel				
+way	1163422650	Great Fortune Design Hotel & Spa		41.0067157	28.9704568	hotel				
+way	1193233336	Ramada Merter		41.0139303	28.8775344	hotel		Ramada		
+way	1235016396	Ömer Agah Hotel		41.0491536	28.8975290	hotel				
+way	1300970731	JW Marriott		40.9749803	28.8526220	hotel		JW Marriott		
+way	1318101891	Armada	Armada	41.0038146	28.9814035	hotel	4			https://www.armadahotel.com.tr/
+way	1318232211	Ramada Hotel & Suites by Wyndham İstanbul Şişli		41.0681407	28.9847034	hotel		Ramada		http://www.ramadasisli.com/
+way	1318232212	Ramada Encore by Wyndham İstanbul Şişli		41.0590351	28.9838311	hotel		Ramada		https://ramadaencoresisli.com/tr/
+way	1318232213	Ramada Plaza by Wyndham İstanbul City Center		41.0510167	28.9871664	hotel		Ramada		https://www.ramadaplazaistanbul.com/
+way	1321606476			41.0591803	28.8229330	hotel				
+way	1331425456			40.9826279	28.8605186	hotel				
+way	1331425457			40.9824447	28.8610561	hotel				
+way	1335762309	Millennium Istanbul Golden Horn		41.0390465	28.9425436	hotel		Millennium		https://www.millenniumhotels.com/en/istanbul/millennium-istanbul-golden-horn/
+way	1340068424	Novel Hotel Istanbul		41.0111723	28.9582671	hotel		Novel Hotel		https://www.novelhotel.com.tr
+way	1364858493	Ligos Hotel		41.0059197	28.9817567	hotel				
+way	1377285310	Hyatt Regency		40.9752898	28.8570032	hotel	5	Hyatt Regency	Hyatt	https://hyatt.com/hyatt-regency/en-US/isthr-hyatt-regency-istanbul-atakoy
+way	1380253386	Bahçelievler Abidin Pak Öğretmenevi		41.0051774	28.8656724	hotel				
+way	1381271151	Hilton İstanbul Kozyatağı		40.9869664	29.0859961	hotel	5	Hilton		https://www.hilton.com/tr/hotels/istkohi-hilton-istanbul-kozyatagi/
+way	1381733387	Hilton		40.9870200	29.0859382	hotel		Hilton		
+way	1383548933	Wyndham Grand		40.9773221	29.0414246	hotel		Wyndham Grand		
+way	1389592967	Hyatt Centric Levent İstanbul		41.0754417	29.0154069	hotel	5	Hyatt Centric		https://www.hyatt.com/hyatt-centric/en-US/istct-hyatt-centric-levent-istanbul
+way	1460845064	Milord Hotel		41.0677811	29.0019978	hotel	4			https://milordhotel.com.tr/
+way	1463403711	Atlas Otel Kadıköy	Atlas Hotel Kadıköy	40.9924743	29.0259601	hotel				https://www.atlasotelkadikoy.com
+way	1484254534			41.0566130	28.8183059	hotel				
+way	1484254535			41.0565294	28.8187747	hotel				
+way	1484254536			41.0568452	28.8176010	hotel				
+way	1484254537			41.0563537	28.8173729	hotel				
+way	1525064664	Rixos Tersane Istanbul		41.0346278	28.9560824	hotel		Rixos Hotels		https://www.rixos.com/tr/hotel-resort/rixos-tersane-istanbul
+relation	18088104	"Altunizade Suites Istanbul, Curio Collection by Hilton"		41.0251124	29.0436081	hotel		Curio Collection		https://www.hilton.com/en/hotels/isterqq-altunizade-suites-istanbul

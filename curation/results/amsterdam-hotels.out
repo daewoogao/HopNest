@@ -1,0 +1,493 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	28836479	Vondel Park Plaza		52.3542481	4.8663024	hotel				https://www.parkplazavondelpark.com/
+node	154798750	Clayton Hotel Amsterdam American		52.3637964	4.8811700	hotel	4s	Hard Rock Hotel		https://claytonhotelamsterdam.com/
+node	237892288	Sint Nicolaas		52.3774839	4.8951863	hotel				
+node	237898651	WestCord City Center		52.3765293	4.8935818	hotel				
+node	237904886	Xplore Hostel Amsterdam		52.3757913	4.8925292	hostel				https://xplorehostel.com
+node	237904890	The Highlander		52.3756802	4.8923093	hotel				https://www.thehighlanderhotel.com/nl/hotel-citadel-is-the-highlander
+node	237904893	INK Hotel Amsterdam		52.3755058	4.8929255	hotel				
+node	237912528	Park Plaza Victoria Hotel		52.3772801	4.8976771	hotel		Park Plaza		https://www.parkplazavictoriaamsterdam.nl/
+node	237912534	Kimpton De Witt Hotel		52.3771508	4.8954929	hotel		Kimpton	InterContinental Hotels Group (IHG)	https://www.kimptondewitthotel.com/en/
+node	237912539	Avenue Hotel		52.3766377	4.8946387	hotel	3			https://avenue-hotel.nl
+node	249628970	De Pijp Boutique Hotel		52.3536317	4.8976537	hotel				https://www.depijpboutiquehotel.nl/
+node	249628971			52.3532543	4.8956968	hotel				
+node	251127911	NH Collection Amsterdam Barbizon Palace		52.3764319	4.9003632	hotel	5	NH Collection Hotels		https://www.nh-hotels.com/
+node	251147173	De Oranje Tulp	Orange Tulip	52.3760831	4.8965471	hotel				
+node	251147174	Van Gelder		52.3760003	4.8964629	hotel				
+node	251147177	Hotel Continental		52.3758136	4.8961439	hotel				https://hotelcontinentalamsterdam.nl/
+node	251147179	Hotel Manofa		52.3754934	4.8957562	hotel	1			https://www.manofa-hotel.com/
+node	251149361	De Roode Leeuw		52.3737184	4.8935428	hotel	4			https://www.hotelamsterdam.nl/
+node	251149366	Swissôtel		52.3735795	4.8933229	hotel	4	Swissôtel		https://www.swissotel.com/hotels/amsterdam/
+node	251150450	Anantara Grand Hotel Krasnapolsky		52.3727291	4.8943846	hotel	5	Anantara	Anantara Hotels	https://www.anantara.com/en/grand-hotel-krasnapolsky-amsterdam
+node	251150453	St. Christopher's at The Winston		52.3739930	4.8963885	hostel			St Christophers Inns	https://www.st-christophers.co.uk/amsterdam/winston-hostel/
+node	251187547	Torenzicht		52.3725261	4.8982082	hotel	1			https://www.hoteltorenzicht.com/
+node	251528271	Hotel des Arts		52.3678828	4.8926389	hotel				https://www.hoteldesarts.nl/
+node	251528284	NH Schiller		52.3656834	4.8967092	hotel			NH	https://www.nh-hotels.nl/
+node	251528285	Cordial		52.3707199	4.8923394	hotel				
+node	251528289	Hotel Rokin		52.3706637	4.8931309	hotel				
+node	251528295	City Hotel		52.3657224	4.8974282	hotel				https://www.city-hotel.nl/
+node	251528296	Atlanta		52.3659543	4.8954921	hotel				http://www.atlantahotel.nl
+node	251528300	Hotel Pagi		52.3692848	4.8917604	hotel				https://www.hotelpagi.com/
+node	251530295	NH Caransa		52.3664488	4.8970384	hotel			NH	https://www.nh-hotels.nl/
+node	251823632	Hotel de l'Europe		52.3676444	4.8944657	hotel	5			https://www.deleurope.com
+node	299811069	De Veenen		52.3004967	4.8523724	hotel				https://www.deveenen.nl
+node	318453539	The Grand		52.3711233	4.8954212	hotel	5	Sofitel	Sofitel	https://www.sofitel-legend-thegrand.com
+node	331630133	Pulitzer		52.3728089	4.8834291	hotel	5s			https://www.pulitzeramsterdam.com/
+node	331837646	LLoyd Hotel		52.3742473	4.9347806	hotel				https://thehoxton.com/amsterdam/lloyd/
+node	340024452	Corendon Village Amsterdam Schiphol Airport		52.3291782	4.7854663	hotel				https://www.corendonhotels.com/corendon-village-hotel-amsterdam/nl/locatie-2/
+node	351405294	Bastion Hotel Amsterdam Zuidwest		52.3575519	4.8437328	hotel	3	Bastion Hotel		https://www.bastionhotels.com/nl-nl/hotels/hotel-amsterdam-zuidwest
+node	358187953	Avani Museum Quarter		52.3558504	4.8860287	hotel	4		Avani Hotels	https://www.avanihotels.com/en/museum-quarter-amsterdam
+node	416030643	Lancaster Hotel Amsterdam		52.3658502	4.9129040	hotel				https://www.thelancasterhotelamsterdam.com/nl/
+node	416031707	The Bridge Hotel		52.3626403	4.9037722	hotel				
+node	416568030	Tivoli Doelen Amsterdam		52.3682050	4.8957416	hotel				https://www.nh-collection.com/en/hotel/nh-collection-amsterdam-doelen
+node	418586210	Marriott Hotel		52.3624578	4.8801835	hotel		Marriott		https://www.marriott.com/hotels/travel/amsnt-amsterdam-marriott-hotel/
+node	430123000	Alfred		52.3534673	4.8720837	hotel				https://www.thealfredhotel.com/
+node	431335034	Hotel Arena		52.3612334	4.9162951	hotel	4			https://www.hotelarena.nl
+node	432506872	Hotel Park Plantage		52.3664021	4.9112827	hotel	3			https://www.hotelparkplantage.com
+node	439170732			52.3671026	4.9103300	hostel				
+node	440088177	NH City Centre Amsterdam		52.3698407	4.8886879	hotel	3		NH	
+node	440676397	Qbic WTC Amsterdam		52.3399400	4.8751570	hotel			Qbic	https://www.qbichotels.com/
+node	441241372	Stayokay Amsterdam Stadsdoelen		52.3690294	4.8973183	hostel		Stayokay	Stayokay	https://www.stayokay.com/en/hostel/amsterdam-stadsdoelen
+node	441674929	Ibis		52.3703348	4.9075666	hotel	3	Ibis		https://www.ibis.com/nl/hotel-3044-ibis-amsterdam-centre-stopera/index.shtml#overview
+node	441682026	Hotel de Munck		52.3613750	4.9007902	hotel	2			https://www.hoteldemunck.com/
+node	441754254	Hermitage Hotel		52.3645431	4.9035195	hotel				https://www.hotelhermitage.nl/en/
+node	441909910	Kap		52.3589917	4.8938280	hotel	2			
+node	441909914	Asterisk		52.3586963	4.8941504	hotel	2			
+node	447358585	Hotel Allure		52.3618970	4.9104623	hotel				
+node	460478684	Hotel Flipper		52.3488901	4.9086498	hotel				
+node	469318264	Maison Elle		52.3607582	4.8695022	hotel		Maison Elle		https://maisonelle.fr/nl/etablissement/hotel-amsterdam/
+node	496436641	Rembrandtplein Hotel		52.3689809	4.8986256	hotel				https://rembrandtpleinhotel.nl/
+node	497165605	Savoy Hotel		52.3497300	4.8912188	hotel				
+node	497169602	Leonardo Boutique Museumhotel		52.3612808	4.8840411	hotel		Leonardo Boutique		https://www.leonardo-hotels.com/amsterdam/leonardo-boutique-museumhotel-amsterdam-city-center
+node	497169605	Hotel Cornelisz		52.3610130	4.8829935	hotel				
+node	497169608	Hotel Siperman		52.3611781	4.8767889	hotel				
+node	497169609	Hotel Parkzicht		52.3612215	4.8770042	hotel				
+node	497170750	Hotel Blyss		52.3618801	4.8754343	hotel				
+node	497170755	Huygens Place		52.3625432	4.8756788	hotel	4			https://huygensplace.com/
+node	497170757	Princess Hostel		52.3630002	4.8754645	hotel				https://princesshostelamsterdam.com/
+node	497173404	Hotel Fita		52.3591216	4.8797991	hotel				
+node	497179288	Hotel Jan Luyken Amsterdam		52.3597441	4.8807295	hotel	4			https://www.janluykenhotelamsterdam.com/en/
+node	497191092	Sonder Park House		52.3601160	4.8778434	hotel		Sonder		
+node	497191094	The Flying Pig Hotel Uptown		52.3602503	4.8783589	hostel				https://www.flyingpig.nl/
+node	497191097	Hotel Wijnnobel		52.3611406	4.8816047	hotel				
+node	497193361	Hotel Alexander		52.3622763	4.8769547	hotel				
+node	497193362	Hotel Prinsen		52.3624027	4.8774215	hotel				
+node	497193363	Catalonia Vondel Amsterdam		52.3626067	4.8780813	hotel	4	Catalonia Hotel		https://www.cataloniahotels.com/nl/hotel/catalonia-vondel-amsterdam
+node	497193364	Leonardo Hotel		52.3620608	4.8783271	hotel		Leonardo Boutique		
+node	558302942	Arrive		52.3800115	4.8926278	hotel				https://quentinarrive.com
+node	561326544	Renaissance Amsterdam Hotel		52.3775827	4.8947085	hotel		Renaissance		https://www.RenaissanceAmsterdam.com
+node	582753958	Abina		52.3114077	4.8465739	hotel				https://abina.nl
+node	591775784	Hotel Victorie		52.3468630	4.9023966	hotel				
+node	591783665	Mercure Amsterdam City		52.3352478	4.9135808	hotel		Mercure	Accor	https://www.mercureamsterdamcity.com/
+node	603367748	The Hoxton		52.3718100	4.8873904	hotel		The Hoxton		https://thehoxton.com/amsterdam/herengracht/
+node	614686062	Rho Hotel		52.3722257	4.8939788	hotel				https://www.rhohotel.com/
+node	673546620	Old Quarter		52.3759487	4.8989099	hotel				https://www.oldquarter.com/
+node	684259210	Old Nickel		52.3763146	4.8995782	hotel				
+node	717738460	Hampton by Hilton Amsterdam / Arena Boulevard		52.3129926	4.9477483	hotel	3	Hampton	Hilton Hotels	https://www.hilton.com/en/hotels/amszuhx-hampton-amsterdam-arena-boulevard/
+node	835847688	Hotel Damsquare		52.3720830	4.8948195	hotel				https://www.hotel-damsquare.com/nl
+node	863195540	Park Centraal		52.3615125	4.8832127	hotel				https://www.parkcentraal.com/nl/amsterdam/
+node	903606229	Hotel Washington		52.3548988	4.8835001	hotel				https://www.hotelwashington.nl
+node	927214963	The Muse Hotel Amsterdam		52.3531959	4.8811483	hotel				https://www.themuseamsterdam.com/en/index.html
+node	957126234	Faralda NDSM Crane Hotel Amsterdam		52.3994089	4.8948433	hotel				http://www.faralda.nl
+node	977338029	Hotel ABBA		52.3627648	4.8745728	hotel	1			https://www.hotel-abba.nl
+node	1037421836	Mercure Hotel		52.3373806	4.8171746	hotel		Mercure	Mercure	https://www.mercure-hotel-amsterdam-west.nl
+node	1049853312			52.3748034	4.8800920	hotel				
+node	1083682481	Radisson BLU Hotel		52.3701707	4.8966042	hotel	4	Radisson Blu	Radisson SAS	https://www.radissonblu.com/de/hotel-amsterdam
+node	1168080345	Mercure Schiphol Terminal		52.3110007	4.7615486	hotel		Mercure		https://www.mercure.com/1730
+node	1168080425	Yotel Schiphol		52.3092516	4.7649676	hotel		YOTEL		https://www.yotel.com/
+node	1250800970	Hotel Nes		52.3679198	4.8963321	hotel	3			https://www.hotelnes.nl/
+node	1292872769	Notting Hill		52.3583545	4.8987860	hotel	4s			https://www.hotelnottinghill.nl
+node	1297124289	Weber Studios		52.3649670	4.8805861	hotel	2			https://www.hotelweber.nl
+node	1309535974	XO Hotels Blue Tower		52.3792941	4.8458988	hotel	4		XO Hotels	https://xohotels.com/hotel/xo-hotels-blue-tower-amsterdam/
+node	1310554556	Ibis Styles Amsterdam Amstel		52.3577489	4.9003910	hotel		Ibis Styles	Accor	https://all.accor.com/hotel/9009/index.nl.shtml
+node	1310554572	Euphemia Budget Hotel		52.3605955	4.8917515	hotel				https://eufemiahotel.com
+node	1310554573	Hotel Museumzicht		52.3603577	4.8829853	hotel	1			https://www.hotelmuseumzicht.nl
+node	1310554586	Hotel Nicolaas Witsen		52.3588982	4.8961010	hotel	3			https://www.hotelnicolaaswitsen.nl/
+node	1310911697	Kooyk Hotel		52.3646231	4.8797047	hotel	1			https://www.kooykhotel.nl
+node	1310911699	Quentin Hotel		52.3642734	4.8798849	hotel	3	Quentin Hotel		https://quentinhotels.com/hotels/quentin-amsterdam/
+node	1310911706	Hotel Banks Mansion		52.3654264	4.8931950	hotel	4			https://www.banksmansion.nl
+node	1310911723	Eden Hotel Amsterdam		52.3668596	4.8986143	hotel	4s		Hampshire Hotel	https://www.edenhotelamsterdam.com/en/
+node	1310911724	Hotel Armada		52.3641021	4.8985067	hotel	2			https://www.ozo-hotels.com/hotels/ozo-hotels-armada-amsterdam
+node	1310911745	Hotel Amstelzicht		52.3669696	4.8969299	hotel				https://www.hotelamstelzicht.com/nl/
+node	1310974734	Amsterdam House Hotel		52.3677956	4.8964684	hotel	3			https://www.amsterdamhouse.com/
+node	1310974788	International Budget Hostel		52.3660798	4.8819638	hostel				https://www.internationalbudgethostel.com/
+node	1335963238	The Manor Amsterdam		52.3591345	4.9263176	hotel	4	Eden Hotels		https://www.themanorhotelamsterdam.com
+node	1342449715	Backstage Hotel		52.3654973	4.8802527	hotel				https://www.backstagehotel.com
+node	1348470819	Hotel IX		52.3723947	4.8863398	hotel				
+node	1348523695	Pina Apartments		52.3722413	4.8852934	hotel				
+node	1350845699	Hotel CC		52.3756280	4.8984412	hotel	3		WIN Hotels	http://www.hotelcc.nl
+node	1363942792	XO Hotel Inner		52.3569612	4.8775005	hotel	2			https://xohotels.com/hotel/xo-hotel-inner-amsterdam/
+node	1486109780	Orfeo Hostel		52.3638245	4.8852223	hostel				https://www.amsterdamhostelorfeo.com/
+node	1490565052	Annemarie		52.3565470	4.8782511	hostel				
+node	1503603116	Boutique Hotel View		52.3648395	4.8798638	hotel				https://www.boutiquehotelview.nl
+node	1519491735	Hotel & Bar 55		52.3753211	4.8982122	hotel				
+node	1590646925	Linden		52.3793932	4.8805089	hotel	3			https://lindenhotel.nl
+node	1714609972	Amrath Hotel		52.3744566	4.9039129	hotel	5			https://www.amrathamsterdam.nl
+node	1741487897	Hotel Royal Taste		52.3735134	4.8992952	hotel				https://www.hotelroyaltaste.nl/
+node	1865902235	Holiday Inn Express - Amsterdam Sloterdijk		52.3881556	4.8376202	hotel		Holiday Inn Express		
+node	1883145123	David's Boat		52.3710783	4.9290538	hotel				
+node	1886938081	Dam Square Inn		52.3743295	4.8924485	hotel		Best Western	Best Western	https://bestwesterndamsquareinn.com/
+node	1907009709	XO Hotels Infinity		52.3811203	4.8209969	hotel		XO Hotels		https://xohotels.com/nl/hotel/xo-hotels-infinity
+node	1907019944	Hotel Mevlana		52.3744950	4.8911049	hostel				https://www.mevlanahotel.com
+node	1927271962	NH Amsterdam Zuid		52.3266363	4.8801348	hotel				https://www.nh-hotels.nl/hotel/nh-amsterdam-zuid
+node	1984268556	Eden Hotel Amsterdam		52.3662969	4.8984498	hotel				https://www.edenhotelamsterdam.com/en/
+node	1987252757	Ibis budget Amsterdam City South		52.3167649	4.8719974	hotel	2	Ibis Budget		https://www.ibis.com/nl/hotel-A3P2-ibis-budget-amsterdam-city-south-opening-december-2016/index.shtml
+node	1987252770	Cityden Zuidas		52.3170404	4.8719658	hotel				https://cityden.com/
+node	2036058829	Holiday Inn Express Amsterdam South		52.3260224	4.8670936	hotel				https://www.hiexpress.com/hotels/gb/en/amsterdam/amsam/hoteldetail
+node	2084642639	Amigo Hotel		52.3565589	4.9277335	hostel				
+node	2105412192	New West Inn		52.3624656	4.7948054	hotel				https://www.newwestinn.nl/
+node	2138577002	Amsterdam Hostel Leidseplein		52.3639176	4.8839489	hostel				https://www.amsterdamhostelleidseplein.com/
+node	2153025124	NH Collection Amsterdam Flower Market		52.3664381	4.8929260	hotel				https://www.nh-collection.com/en/hotel/nh-collection-amsterdam-flower-market
+node	2161457972	Die Port van Cleve		52.3740616	4.8906010	hotel				https://www.dieportvancleve.com/
+node	2261724827	The Times		52.3754277	4.8889488	hotel				https://thetimeshotel.nl/nl/
+node	2273233098	Renaissance Amsterdam Schiphol Airport Hotel		52.3046090	4.8094975	hotel	4			https://www.marriott.com/hotels/hotel-reviews/amsra-renaissance-amsterdam-schiphol-airport-hotel/
+node	2345412099	Parkview Hotel		52.3583722	4.8754191	hotel				https://www.parkviewhotel.nl/
+node	2410006769	Amstel Canal Guest House		52.3677676	4.8976078	hotel				
+node	2411543476	Hotel Espresso City Centre		52.3628575	4.8764725	hotel				https://www.hotelespresso.nl
+node	2414322869	Hotel Mosaic		52.3649700	4.8734508	hotel				https://www.hotelmosaic.nl/
+node	2415141771	Golden Bear		52.3656442	4.8852135	hotel				http://www.goldenbear.nl
+node	2418915252	Hoksbergen		52.3706647	4.8885927	hotel				https://hotelhoksbergen.com
+node	2439059375	art'otel		52.3776412	4.8971654	hotel		Art'otel		https://artotelamsterdam.com/
+node	2440119832	Amsterdam Wiechmann Hotel		52.3690026	4.8822280	hotel	2			https://www.hotelwiechmann.nl
+node	2506655306	Sir Albert		52.3544815	4.8873975	hotel	5		Sir Hotels	https://www.sirhotels.com/en/albert/
+node	2509637632	The College Hotel		52.3527763	4.8836858	hotel				https://thecollegehotel.com/
+node	2600983439	Leonardo Hotel Amsterdam Rembrandtpark		52.3681503	4.8442021	hotel		Leonardo Hotels	Leonardo Hotels	https://www.leonardo-hotels.de/amsterdam/leonardo-hotel-amsterdam-rembrandtpark
+node	2721294421	Bed & Breakfast of Art		52.3819924	4.8893466	hotel		B&B Hotels		https://eatbu.nl/bed-and-breakfast-of-art-netherlands
+node	2721354834	Sebastian's		52.3791276	4.8898928	hotel				https://www.hotelsebastians.nl/
+node	2721355260	The Toren		52.3758754	4.8859642	hotel				https://www.pavilionshotels.com/amsterdam/thetoren/
+node	2721355412	´t Hotel		52.3751614	4.8871471	hotel				https://thotel.nl/
+node	2721519344	Multatuli		52.3788883	4.8955488	hotel				https://multatulihotel.nl/
+node	2721519917	Hotel Utopia		52.3750993	4.8916121	hostel				
+node	2721520536	Hotel Plant		52.3787759	4.8957705	hotel				
+node	2721520567	Groenendael		52.3786032	4.8951437	hostel				
+node	2721521232	Singel Hotel		52.3777255	4.8933311	hotel				https://www.singelhotel.nl/
+node	2721521294	Season Star		52.3780036	4.8962352	hotel				http://www.seasonstar.com/
+node	2721522157	Budget Hotel Tourist Inn		52.3761988	4.8922460	hostel				https://www.tourist-inn.com/
+node	2721522215	Hotel Canalview		52.3782455	4.8938827	hotel				https://hotelcanalview.nl/
+node	2721522581	Aivengo Youth Hostel		52.3772584	4.8939442	hostel				https://www.aivengoyouthhostel.com
+node	2721522835	Hotel Tourist INN		52.3765029	4.8919782	hotel				
+node	2721523192	Hotel The Craftsmen		52.3762678	4.8917251	hotel				https://hotelthecraftsmen.com/
+node	2721771397	Hotel Jimmy		52.3777380	4.8962220	hotel				
+node	2721772661	Delta Hotel		52.3757291	4.8960841	hotel				https://www.delta-hotel.nl/
+node	2721943212	Sharm Hotel		52.3733852	4.8861710	hotel	2			http://www.sharmhotel.nl
+node	2721944405	Hotel de Westertoren		52.3734073	4.8860925	hotel	2			https://www.hotelwestertoren.nl
+node	2722024200	"Andaz Amsterdam Prinsengracht, by Hyatt"		52.3679082	4.8828827	hotel	5	ANdAZ	Hyatt	https://www.hyatt.com/andaz/en-US/amsaz-andaz-amsterdam-prinsengracht
+node	2722146978	Krisotel Amsterdam		52.3657648	4.8797651	hotel				https://krisotel.com/
+node	2722191691	Hotel Hegra		52.3714144	4.8873362	hotel				
+node	2722192144	Ambassade Hotel		52.3693735	4.8871830	hotel	4			https://www.ambassade-hotel.nl/nl/home
+node	2722208772	Soho House		52.3720757	4.8892294	hotel				https://www.sohohouseamsterdam.com/
+node	2724102775	Hotel Résidence Le Coin		52.3678759	4.8944091	hotel				
+node	2724250256	Hotel V Nesplein		52.3709358	4.8936353	hotel				https://nesplein.hotelv.com/
+node	2724284462	Hotel Ben		52.3748540	4.8967664	hotel	1			https://www.hotelben.nl
+node	2724284533	Travel Hotel Amsterdam		52.3748239	4.8966962	hotel				http://www.travelhotel-amsterdam.com
+node	2724284858	Hotel Doria		52.3723970	4.8944764	hotel				https://www.hoteldoria.nl/
+node	2724285537	Frisco Inn		52.3751227	4.8972216	hotel				https://frisco.tripcombined.com/
+node	2724286051	Hotel Ben		52.3750955	4.8971632	hotel				https://hotelben.nl/
+node	2724286136	The White Tulip Hostel		52.3747061	4.8973768	hostel				https://www.wittetulp.nl
+node	2724317452	This ho(s)tel		52.3761006	4.8991220	hostel				https://www.hostel-meetingpoint.nl
+node	2724317786	Prins Hendrik		52.3765199	4.8996162	hotel				https://www.hotel-prinshendrik.nl
+node	2724317821	De Mallemoolen		52.3760843	4.8993991	hotel	1			https://www.mallemoolen.nl
+node	2724334218	France Hotel		52.3759568	4.9011775	hotel				https://www.francehotel.nl/nl/
+node	2724366944	Hotel The Crown		52.3748641	4.8998972	hotel				
+node	2724367094	Anco		52.3742592	4.8992430	hotel				
+node	2724369053	Heart of Amsterdam		52.3723165	4.8974888	hotel				
+node	2725793544	Fine Seasons		52.3742188	4.9047356	hotel				
+node	2725793739	City Hotel Amsterdam		52.3738797	4.9053414	hotel				
+node	2725793817	The Hendrick's		52.3734961	4.9060357	hotel	4			https://www.thehendrickshotel.com/
+node	2725793915	Hotel Library		52.3732730	4.9064346	hotel	3		WIN Hotels	https://hotellibrary.nl/
+node	2725879307	The Albus		52.3657859	4.8932578	hotel				https://www.albushotel.com/en/index.html
+node	2725879490	The Veteran		52.3650494	4.8955270	hostel				https://www.hosteltheveteran.nl/
+node	2725914107	Waterfront Hotel		52.3675917	4.8887741	hotel				https://www.hotelwaterfront.nl
+node	2725914110	Agora Hotel		52.3674843	4.8888928	hotel				http://www.hotelagora.nl/
+node	2729940121	Acostar Hotel		52.3652633	4.8858112	hotel				https://www.acostarhotel.com
+node	2730033614	Amsterdam Inn		52.3652028	4.8807405	hotel				https://hotelamsterdaminn.com
+node	2730036689	Weber Hotel		52.3648843	4.8802704	hotel	2			https://www.weberhotel.nl
+node	2730036868	La Bohème		52.3645482	4.8811004	hotel				https://www.la-boheme-amsterdam.com/
+node	2730036987	Rosewood Amsterdam		52.3654297	4.8833807	hotel	5	Rosewood		https://www.rosewoodhotels.com/en/amsterdam
+node	2730037011	Dikker & Thijs Fenice Hotel		52.3650010	4.8840169	hotel				https://www.dtfh.nl
+node	2730038243	The Fritz Hotel		52.3615586	4.8860966	hotel				https://thefritzamsterdam.com/
+node	2730038753	Hotel Titus		52.3649572	4.8800680	hotel				https://hoteltitusamsterdam.nl
+node	2737805771	Seven Bridges		52.3638299	4.8962158	hotel				
+node	2737808117	Hotel de la Poste		52.3644987	4.8961624	hotel				
+node	2737808379	Waldorf Astoria Amsterdam		52.3647238	4.8969202	hotel	5	Waldorf Astoria	Hilton	https://www.hilton.com/nl/hotels/amswawa-waldorf-astoria-amsterdam/
+node	2737853835	ITC Hotel		52.3622484	4.8984649	hotel				
+node	2737864449	Hotel Prinsenhof		52.3619557	4.8994663	hotel				
+node	2737945794	Hotel V Frederiksplein		52.3591844	4.8979939	hotel				https://hotelv.com/en/stay/frederiksplein
+node	2737946900	PH Hotel Oosteinde		52.3592418	4.9016835	hotel				
+node	2737948680	Clink		52.3587503	4.8986466	hostel				https://www.clinkhostels.com/clinkcoco/
+node	2737952872	Canal Hotel		52.3594698	4.8959558	hotel				https://www.canal-hotel.nl/
+node	2738006435	Mercure Hotel Amsterdam Sloterdijk Station		52.3873970	4.8356378	hotel		Mercure	Accor	https://all.accor.com/hotel/9844/index.nl.shtml
+node	2738010035	Hotel2Stay		52.3868954	4.8395129	hotel				https://hotel2stay.nl/
+node	2741065140	Ecomama		52.3697241	4.9067374	hostel				https://www.ecomamahotel.com
+node	2741065328	Holiday Inn Express		52.3703410	4.9083779	hotel	2	Holiday Inn Express		https://www.ihg.com/holidayinnexpress/hotels/nl/nl/amsterdam/amsch/hoteldetail
+node	2742806792	Hotel Adolesce		52.3646165	4.9039004	hotel			Kees Wuurman	http://nl.adolesce.nl/
+node	2742864514	Hotel Barbacan		52.3652605	4.9119978	hotel				https://www.barbacan.nl/
+node	2742883502	The Elephant Hostel		52.3670897	4.9103766	hostel				https://theelephanthostel.com/
+node	2742884750	Quentin Zoo Hotel		52.3667232	4.9114242	hotel				
+node	2742886280	Hotel Hortus		52.3667588	4.9091187	hotel				https://www.hotelhortus.com/
+node	2744201183	ibis Amsterdam Centre		52.3795085	4.8971731	hotel		Ibis	ibis	
+node	2744577804	Hotel Zwanenburg		52.3756504	4.7498920	hotel				https://www.hotelzwanenburg.nl/
+node	2744619113	Park Plaza Amsterdam Airport		52.3486800	4.7654531	hotel		Park Plaza		https://www.parkplazaamsterdamairport.com/
+node	2744761562	Hotel Herbergh Amsterdam Airport		52.3345554	4.7737996	hotel				https://www.herbergh.nl
+node	2744877026	Amrâth Apart-Hotel Schiphol		52.3341389	4.7978035	hotel				https://www.amrathaparthotelschiphol.nl/
+node	2744881026	Ibis budget Amsterdam Airport		52.3256567	4.7921469	hotel	2	Ibis Budget	ibis budget	https://www.ibis.com/nl/hotel-5097-ibis-budget-amsterdam-airport-previously-etap-hotel/index.shtml
+node	2744881027	Ibis Schiphol Amsterdam Airport		52.3250454	4.7938800	hotel	3	Ibis		https://www.ibisschipholamsterdamairport.com/
+node	2745225287	ibis Styles Amsterdam Airport		52.3057780	4.8064137	hotel	3	Ibis Styles		https://www.accorhotels.com/gb/hotel-B480-ibis-styles-amsterdam-airport-new/index.shtml
+node	2777030867	Hotel Chariot		52.2801518	4.7855055	hotel				https://www.hotelchariot.nl/
+node	2781452458	Amsterdam Forest Hotel		52.3174838	4.8567963	hotel				https://www.amsterdamforesthotel.com/
+node	2783621994	Aparthotel Adagio Amsterdam City South		52.3184579	4.8708654	hotel				https://www.accorhotels.com/nl/hotel-B355-aparthotel-adagio-amsterdam-city-south/index.shtml
+node	2793388999	B&B Amsterdam De Springer		52.3784810	4.7954894	hotel		B&B Hotels		https://eatbu.nl/b-amp-b-amsterdam-de-springer-netherlands
+node	2793729761	XO Hotels Blue Square		52.3786188	4.8206519	hotel				https://xohotels.com
+node	2793838056	The Social Hub		52.3720548	4.8363406	hotel		The Social Hub	The Social Hub	https://www.thesocialhub.co/amsterdam-west/
+node	2795372161	King's Court		52.3569478	4.8402664	hotel				
+node	2808307704	Hotel Artemis Amsterdam		52.3417808	4.8250255	hotel				https://xohotels.com/hotel/hotel-artemis/
+node	2809164682	Htel		52.2933487	4.8701829	hotel				https://www.htelapartments.com
+node	2809201108	Hotel Larende		52.3698485	4.8660187	hotel				https://www.hotellarende.com/
+node	2809423773	Owl Hotel		52.3616968	4.8784757	hotel				https://www.owl-hotel.nl/
+node	2809426091	Hotel Jupiter		52.3649204	4.8777780	hotel				https://www.hoteljupiter.nl
+node	2809439889	Leonardo Hotel Amsterdam		52.3642062	4.8783553	hotel				https://www.leonardo-hotels.nl
+node	2809440843	Hotel d'Amsterdam		52.3650660	4.8781874	hotel				https://www.hoteldamsterdam.com/
+node	2809443951	Stayokay Amsterdam Vondelpark		52.3611389	4.8780228	hostel			https://www.stayokay.com/nl/hostel/amsterdam-vondelpark	https://www.stayokay.com/nl/hostel/amsterdam-vondelpark
+node	2809448155	Hotel NH Amsterdam Leidseplein		52.3630852	4.8794581	hotel				
+node	2809522183	Sweets Hotel Kattenslootbrug		52.3817896	4.8793346	hotel				https://sweetshotel.amsterdam/locations/sweets-hotel-amsterdam-kattenslootbrug/
+node	2809964354	Amadi Park Hotel		52.3649396	4.8733328	hotel				https://park.amadihotels.com
+node	2814558923	Belfort		52.3576556	4.8507190	hotel				https://belforthotel.nl/
+node	2816113584	Hotel Central Park		52.3538869	4.8575260	hotel				https://www.hotelcentralpark.nl/english/contact.php
+node	2816243148	Apple Inn		52.3537315	4.8655914	hotel				https://www.apple-inn.nl/
+node	2816318158	The Neighbour's Magnolia		52.3554548	4.8691381	hotel				https://www.magnoliahotelamsterdam.com/
+node	2816348373	Mövenpick Hotel		52.3779207	4.9140352	hotel		Mövenpick		https://movenpick.accor.com/en/europe/netherlands/amsterdam/hotel-amsterdam.html
+node	2816383268	City Garden		52.3592071	4.8763609	hotel		WIN Hotels		https://www.hotelcitygardenamsterdam.com/
+node	2816384342	De Bedstee		52.3558162	4.8777723	hostel				
+node	2816384677	Omega Hotel		52.3558449	4.8757350	hotel				
+node	2816385852	Hotel Verdi		52.3567767	4.8775926	hotel	2			
+node	2816414702	Hotel Van Gogh		52.3591278	4.8801418	hotel				
+node	2816414760	AmsterHome		52.3603102	4.8813227	hotel				https://amsterhomehotel.com/
+node	2816415426	Hotel Vossius Vondelpark		52.3611878	4.8816366	hotel				
+node	2816826732	Hilton Amsterdam		52.3514296	4.8720120	hotel	5	Hilton	Hilton	https://www.hilton.com/nl/hotels/amshitw-hilton-amsterdam/
+node	2816834707	Bilderberg Garden Hotel		52.3511798	4.8740022	hotel				https://www.bilderberg.nl/amsterdam/garden-hotel/
+node	2817455678	Aston City Hotel		52.3581317	4.8897611	hotel				
+node	2817456038	Blossoms City Hotel		52.3579643	4.8905557	hotel				
+node	2817535974	MAX Hotel		52.3579594	4.9021726	hotel				https://www.maxhotelamsterdam.nl
+node	2817708893	Bicycle Hotel		52.3525126	4.8936257	hotel				https://www.bicyclehotel.com/
+node	2817713466	Hotel Okura Amsterdam		52.3486193	4.8931991	hotel				https://www.okura.nl
+node	2817717137	easyHotel		52.3522950	4.8918077	hotel		easyHotel		https://www.easyhotel.com/
+node	2818607017	Holiday Inn		52.3351550	4.8885288	hotel		Holiday Inn		https://holiday-inn-amsterdam.hotel-ds.com/nl/
+node	2818621069	Novotel		52.3337092	4.8886519	hotel	4			https://www.novotel.com/gb/hotel-0515-novotel-amsterdam-city/index.shtml
+node	2818885771	Crowne Plaza Amsterdam-South		52.3358672	4.8745900	hotel	4	Crowne Plaza	IHG	https://www.ihg.com/crowneplaza/hotels/us/en/amsterdam/amspc/hoteldetail
+node	2822575476	Hotel Not Hotel		52.3662535	4.8597935	hotel				https://www.hotelnothotel.com/
+node	2825263165	The Social Hub		52.3545185	4.9130107	hotel		The Social Hub	The Social Hub	https://www.thesocialhub.co/amsterdam-city
+node	2826144988	Hotel V		52.3619240	4.9228240	hotel				https://hotelv.com/nl/stay/oosterpark
+node	2826197065	Hotel Casa Amsterdam		52.3500021	4.9185533	hotel				https://hotelcasa.nl/
+node	2827521116	Stayokay Amsterdam Oost		52.3653615	4.9355026	hostel		Stayokay	Stayokay	https://www.stayokay.com/hostel/amsterdam-zeeburg
+node	2827528318	Marijke's guestroom		52.3626536	4.9334439	hotel		B&B Hotels		https://eatbu.nl/marijke-39-s-guestroom-netherlands
+node	2827549183	Bastion Hotel Amsterdam Amstel		52.3338124	4.9273377	hotel	3	Bastion Hotel		https://www.bastionhotels.com/nl-nl/hotels/hotel-amsterdam-amstel
+node	2827632034	Q-factory hotel		52.3576387	4.9303338	hotel				https://www.q-factory-hotel.nl
+node	2833777347	XO Hotels City Centre		52.3748977	4.8968197	hotel				https://xohotels.com/hotel/xo-hotels-city-centre-amsterdam/
+node	2847182273	NH Amsterdam Noord		52.3922149	4.9109738	hotel		NH Hotels	NH Hoteles	
+node	2848701657	Hotel Isis		52.3842302	4.9134102	hotel				https://hotelisis.nl
+node	2862656078	Fletcher Hotel		52.2924282	4.9444726	hotel		Fletcher Hotel		https://www.fletcherhotelamsterdam.nl/
+node	2862834837	Hostelle		52.3152687	4.9536397	hostel				https://www.hostelle.com/
+node	2862916256	easyHotel Amsterdam Arena Boulevard		52.3131781	4.9448760	hotel	2	easyHotel		https://www.easyhotel.com/en/hotels/netherlands/amsterdam/amsterdam-arena-boulevard
+node	2862920761	Holiday Inn Express Amsterdam Arena Towers		52.3094823	4.9419947	hotel		Holiday Inn Express		https://www.hiexpress.com
+node	2895258483	Hotel De Hallen		52.3675424	4.8683391	hotel			Vondel Hotels	https://www.hoteldehallen.com
+node	2946565282	Hotel The Globe		52.3751963	4.9002365	hostel				https://www.hotel-theglobe.nl
+node	2946586825	Hans Brinker		52.3636183	4.8881693	hostel				https://hansbrinker.com/
+node	2992748633	A-Train Hotel		52.3784464	4.8963954	hotel				https://www.atrainhotel.com/
+node	3008634445	Zuiver Hotel & Wellness		52.3310551	4.8521378	hotel		Spa Sport Hotel ZUIVER		https://zuiveramsterdam.nl/
+node	3181722602	Annette's Bed & Breakfast		52.3613870	4.8643725	hotel				https://www.annettesbb.eu
+node	3404634796	Hotel Iris		52.3590276	4.9027352	hotel	2			https://irishotel.nl/
+node	3414542008	Prinsengracht Hotel		52.3620918	4.8945086	hotel				https://www.prinsengrachthotel.nl/
+node	3458361045	The Flying Pig Downtown		52.3766822	4.8963458	hostel			Flying Pig	https://www.flyingpig.nl/
+node	3471021787	Hotel Bar Internationaal		52.3761659	4.8995910	hotel				https://www.hotelinternationaal.com/
+node	3511864885	De Keizerskroon		52.3836442	4.7558259	hotel				https://www.keizerskronnhalfweg.nl
+node	3518116394	Meininger Hotel Amsterdam City West		52.3906788	4.8374505	hotel	3	Meininger	Meininger	https://www.meininger-hotels.com/nl/hotels/amsterdam/hotel-amsterdam-sloterdijk/
+node	3523348480	Hotel Wilhelmina		52.3527190	4.8617802	hotel				https://www.hotel-aadam-wilhelmina.nl
+node	3660746348	Ibis Styles Amsterdam City		52.3579615	4.9007196	hotel		Ibis Styles	Accor	https://all.accor.com/hotel/8220/index.nl.shtml
+node	3674473264	Ibis Styles - Amsterdam Central Station		52.3780697	4.8965820	hotel		Ibis Styles	Accor	https://www.ibis.com/nl/nederland/discovering-ibis-styles-hotel/index.shtml
+node	3686282980	Courtyard Amsterdam Arena Atlas		52.3097830	4.9464337	hotel		Courtyard	Courtyard Amsterdam	https://www.marriott.com/hotels/travel/amsaa-courtyard-amsterdam-arena-atlas/
+node	3694922528	Estheréa		52.3706116	4.8885734	hotel				https://www.estherea.nl/
+node	3725631110	XO Hotel Couture		52.3512350	4.8411625	hotel				https://www.hotelcouture.nl
+node	3833995606	Inntel Hotels Amsterdam Centre		52.3761695	4.8945140	hotel				https://www.inntelhotelsamsterdamcentre.nl/
+node	3915276957	Max Brown Hotel Museum Square		52.3600940	4.8820860	hotel				
+node	4051951351	Hotel Atlas Vondelpark		52.3577632	4.8738348	hotel	3			https://www.hotelatlas.nl/
+node	4150447290	Aalders		52.3595541	4.8809802	hotel				https://hotelaalders.nl
+node	4153674789	ClinkNoord		52.3841845	4.9036707	hostel			Clink	https://www.clinkhostels.com/amsterdam/clinknoord
+node	4212536379	Hotel Neutraal		52.3769100	4.8976527	hotel				
+node	4244295087	Hampton by Hilton		52.3712913	4.9346923	hotel		Hampton	Hilton	https://www.hilton.com/en/hotels/amshxhx-hampton-amsterdam-centre-east/
+node	4267840559	Hotel De Koopermoolen		52.3761182	4.8994627	hotel				https://www.koopermoolen.nl/
+node	4267886742	Greenhouse Effect Hotel		52.3753045	4.8981906	hotel				https://www.greenhouse-effect.nl/
+node	4267980009	Hostel Easy-Stay		52.3749249	4.8976286	hostel				https://hostel-easystayamsterdam.nl/
+node	4314797192	Conscious Hotel Vondelpark		52.3578319	4.8565589	hotel				https://www.conscioushotels.com/hotels/vondelpark-amsterdam/
+node	4356201546	Max Brown Hotel		52.3788703	4.8921727	hotel				https://maxbrownhotels.com/
+node	4399403590	The Bulldog		52.3725490	4.8962283	hostel				http://hotel.thebulldog.com
+node	4412151625	Durty Nellys Inn		52.3740880	4.8965775	hostel				https://durtynellys.nl/Hostel
+node	4431014725	SiR ADAM		52.3837412	4.9021368	hotel			sirhotels	https://www.sirhotels.com/nl/adam/
+node	4453950322	W		52.3726762	4.8893099	hotel		W Hotels		
+node	4453950324	W Amsterdam		52.3727483	4.8898462	hotel		W Hotels		https://www.marriott.com/hotels/travel/amswh-w-amsterdam/
+node	4486127164	Citadines Canal Amsterdam		52.3611396	4.8935740	hotel	3	Citadines		
+node	4489495361	Voyagers		52.3763525	4.9020334	hotel				https://www.voyagersamsterdam.com
+node	4494581366	Mauro Mansion		52.3759303	4.9017413	hotel			Mauro Mansion	http://www.mauromansion.com
+node	4515458402	Sweet Dreamz		52.3864470	4.9091118	hotel				https://www.sweetdreamz.nl/
+node	4548194081	The Dylan		52.3692835	4.8840074	hotel	5			https://www.dylanamsterdam.com/
+node	4563246672	Motel One		52.3386013	4.8928920	hotel		Motel One		https://www.motel-one.com/de/hotels/amsterdam/
+node	4564369617	Steigenberger Airport Hotel		52.3081878	4.8105964	hotel				
+node	4596103961	Element Amsterdam		52.3317604	4.8775348	hotel		Element		https://www.marriott.com/en-us/hotels/amsel-element-amsterdam/overview/
+node	4623664043	Apollo Hotel Amsterdam		52.3488716	4.8851436	hotel		Tribute		https://www.marriott.com/hotels/travel/amspo-apollo-hotel-amsterdam-a-tribute-portfolio-hotel/
+node	4639822553	Windketel		52.3847489	4.8681920	hotel				https://www.windketel.nl
+node	4656657679	Residence Inn by Marriott Amsterdam Houthavens		52.4013386	4.8746651	hotel	4	Residence Inn		https://www.marriott.com/hotels/travel/amsri-residence-inn-amsterdam-houthavens/
+node	4656657682	Moxy Amsterdam Houthavens		52.4013587	4.8749976	hotel	4	Moxy		https://www.moxyamsterdam.nl/
+node	4771444718	Amsterdam Teleport Hotel		52.3854514	4.8334586	hotel				
+node	4811918135	Twenty Eight		52.3435288	4.8574267	hotel				https://www.twentyeight.nl/
+node	4833291573	Hilton Amsterdam Airport Schiphol		52.3070375	4.7551722	hotel	4	Hilton	Hilton	https://www.hilton.com/en/hotels/amsaphi-hilton-amsterdam-airport-schiphol/
+node	4851205229	Mr Jordaan		52.3747507	4.8801095	hotel				https://mrjordaan.nl
+node	4866685841	Hotel Vijaya		52.3749805	4.8992709	hotel				
+node	4866710308			52.3723590	4.8975656	hotel				
+node	4897994926	Hampshire Hotel Beethoven		52.3482037	4.8773852	hotel	3			https://www.hampshire-hotels.com/hampshire-hotel-beethoven-amsterdam
+node	4907393344	Hotel Heye 130		52.3622664	4.8640962	hotel				https://hotelheye130.com/
+node	4911092859	Van der Valk Hotel Amsterdam-Amstel		52.3331949	4.9148668	hotel		Van der Valk		https://www.vandervalkamsterdam.com
+node	5057656611	Cityden BoLo District		52.3762564	4.8443896	hotel				
+node	5057715550	Hotel Pontsteiger		52.3932240	4.8855144	hotel	4			https://www.hotelpontsteiger.com/en
+node	5161804825			52.3749644	4.8976705	hostel				
+node	5312471741	Motel One		52.3698323	4.9070255	hotel	4	Motel One		https://www.motel-one.com/nl/hotels/amsterdam/hotel-amsterdam-waterlooplein/
+node	5312471833	Monet Garden Hotel		52.3699235	4.9072718	hotel				https://www.monetgardenhotelamsterdam.com
+node	5531926330	TheMonkApartHotel.com		52.3731722	4.8997906	hotel				
+node	5664603021	Ramada Amsterdam Airport Schiphol		52.3333884	4.7720101	hotel			Dorint	https://hotel-amsterdam-airport.dorint.com
+node	5721905425	Hotel Jakarta		52.3794798	4.9225957	hotel				https://hoteljakarta.amsterdam
+node	5728572588	Meininger Hotel Amsterdam Amstel		52.3458407	4.9194231	hotel		Meininger		https://www.meininger-hotels.com/en/hotels/amsterdam/hotel-amsterdam-amstel/
+node	5752245264	Park Plaza Victoria Amsterdam		52.3773674	4.8971783	hotel		Park Plaza		
+node	5761681652	Hotel Galerij		52.3736304	4.8857380	hotel				
+node	5771329668	La Belle Vue		52.3734671	4.8859942	hotel				
+node	5771329669	Nadia Hotel		52.3737314	4.8855471	hotel	2s			https://www.nadia.nl
+node	5922532238	New Kit		52.3790129	4.8385358	hotel				https://hotelnewkit.nl/
+node	5965568155	Park Inn		52.3902023	4.8424076	hotel		Park Inn		https://www.parkinn.nl/hotel-amsterdam-west
+node	6331495577	the niu fender		52.3691778	4.9461404	hotel			NOVUM Management GmbH	https://the.niu.de/en/hotels/netherlands/amsterdam/the-niu-fender
+node	6363752217	Hotel Fogo		52.3554378	4.7722187	hotel				https://www.hotelfogo.com/
+node	6376305720	Postillion		52.3336801	4.9218805	hotel		Postillion Hotels	Postillion Hotels	https://www.postillionhotels.com/amsterdam/
+node	6459498166	Hotel Levell		52.3043567	4.9509604	hotel				https://www.hotellevell.nl
+node	6488693364	La Belle Vue		52.3733486	4.8862551	hotel				
+node	6488693367	Hotel Clemens		52.3735240	4.8859157	hotel	2s			https://www.clemenshotel.nl
+node	6611447963	Conscious Hotel The Tire Station		52.3572455	4.8553798	hotel				https://www.conscioushotels.com
+node	6736380751	DoubleTree by Hilton		52.4007194	4.8936546	hotel		DoubleTree		https://www.hilton.com/nl/hotels/amsaddi-doubletree-amsterdam-ndsm-wharf/
+node	6796010524	G Experience Hotel		52.3827475	4.8577833	hotel				
+node	6803053598	BOAT&CO		52.3944939	4.8820018	hotel				https://www.boatandco.nl/
+node	6815949185	Zoku		52.3639410	4.9067653	hotel				https://livezoku.com/amsterdam/
+node	7097359732	Amsterdam ID Aparthotel		52.3874798	4.8343025	hotel				
+node	7107910246	YOTEL Amsterdam		52.3917341	4.9024392	hotel		YOTEL	YOTEL	https://www.yotel.com/en/hotels/yotel-amsterdam
+node	7126277608	nhow Amsterdam RAI hotel		52.3384883	4.8909570	hotel		nhow		https://www.nh-hotels.com/hotel/nhow-amsterdam-rai
+node	7323492532	Von Dice		52.3740338	4.9683304	hotel				https://vondice.com/
+node	7415876377	WesterVilla		52.3845406	4.8618217	hotel				https://westervilla.nl
+node	7487206400	Melrose		52.3695841	4.8800704	hotel				https://www.melrosehotelamsterdam.com
+node	7667608763	BUNK Hotel Amsterdam		52.3880656	4.9142881	hotel		BUNK		https://bunkhotels.com/amsterdam/
+node	8214806000	Van der Valk Hotel Amsterdam Zuidas		52.3367238	4.8879352	hotel		Van der Valk		https://www.hotelamsterdam-zuidas.nl/
+node	8294600848	Inntel Hotels Amsterdam Landmark		52.3734088	4.9283810	hotel				https://www.inntelhotels.nl/amsterdamlandmark/
+node	8323014104	The Bee Hostel		52.3661715	4.9112673	hostel				https://thebeehostel.com/
+node	8335928741			52.3629906	4.8852892	hostel				https://eatbu.nl/uptown-netherlands
+node	8373466071	Nova Hotel		52.3712392	4.8900868	hotel				https://www.novahotel.nl/
+node	8374928990	Hotel Atlantis		52.3553532	4.9023407	hotel				https://www.hotelatlantisamsterdam.com
+node	8375670689	Mansion		52.3741073	4.9049267	hotel	3			https://www.hotelamsterdammansion.nl
+node	8528228747	Olympic Hotel		52.3413347	4.8531032	hotel	4			https://www.olympichotel.nl
+node	8783691500	Holiday Inn Express		52.3841773	4.9195750	hotel		Holiday Inn Express		https://www.ihg.com/holidayinnexpress/hotels/us/en/amsterdam/amsmk/hoteldetail
+node	8880291535	The Unbound		52.3817496	4.7788908	hotel				https://unbound-amsterdam.com/
+node	9011560440	Premier Suites Plus		52.3373610	4.8682193	hotel				https://www.premiersuiteseurope.com/en/locations/the-netherlands/amsterdam/serviced-apartments-amsterdam
+node	9039148431	Chassé Hotel		52.3700271	4.8615876	hotel				https://chassehotel.com/
+node	9039179995	Hyatt Regency Amsterdam		52.3617781	4.9117209	hotel	4	Hyatt Regency	Hyatt	https://www.hyatt.com/hyatt-regency/en-US/amsra-hyatt-regency-amsterdam
+node	9041202333	Conscious Hotel Westerpark		52.3867529	4.8752625	hotel			Conscious Hotel	https://www.conscioushotels.com/nl/hotels/westerpark-amsterdam/
+node	9142450774	Leonardo Royal Hotel Amsterdam		52.3324548	4.9179522	hotel		Leonardo Royal		https://www.leonardo-hotels.com/leonardo-royal-hotel-amsterdam
+node	9142767672	Train Lodge Hostel		52.3887340	4.8414595	hostel				https://trainlodge.com/
+node	9152708677	Fashion Hotel		52.3576517	4.8446075	hotel		WestCord	WestCord	https://westcordhotels.de/hotel/fashion-hotel-amsterdam/
+node	9192930119	Eden Residences		52.3667913	4.8991411	hotel				
+node	9654282553	CityHub Amsterdam		52.3672377	4.8670782	hotel		CityHub		https://cityhub.com/
+node	9802409017	Sander Hotel		52.3564541	4.8752810	hotel				
+node	9816716629	Hotel My Home		52.3804568	4.8915358	hotel				
+node	9825881369	Mokumsuites		52.3645844	4.8954874	hostel				https://www.mokumsuites.com/
+node	9895805918	The Bank Hotel		52.3809581	4.8904327	hotel				https://www.thebankhotel.nl/
+node	9932428764	Cabins Hotel		52.3927214	4.8993286	hotel				https://cabinshotels.com
+node	10584554305	Hotel V Fizeaustraat		52.3453217	4.9255033	hotel				https://fizeaustraat.hotelv.com
+node	10599223205	MAI Amsterdam	MAI Amsterdam hotel	52.3754759	4.9015342	hotel			Vondel Hotels	https://www.hotelmaiamsterdam.com
+node	10775744037	Citiez Hotel Amsterdam		52.3593101	4.8042337	hotel				https://www.citiezhotelamsterdam.com
+node	10784802085	Hotel Frank		52.3650638	4.8962363	hotel				https://www.hotelfrank.nl
+node	10788195817	INNSiDE by Meliá		52.3398555	4.8709750	hotel		INNSiDE by Meliá		https://www.melia.com/en/hotels/netherlands/amsterdam/innside-amsterdam
+node	10804444162	Oscar Hotel		52.3669225	4.8961443	hotel				https://www.hoteloscar.nl
+node	10807989711	Pillows Hotel		52.3621736	4.9197018	hotel				https://www.pillowshotels.com/amsterdam-mauritskade/
+node	10820223017	Dwars		52.3616377	4.8996414	hotel				https://www.hoteldwars.com
+node	10965034480	Sphinx Hotel		52.3593384	4.8940290	hotel				https://www.sphinxhotel.nl
+node	10983168927	Hotel 717		52.3647878	4.8853244	hotel	5			https://717hotel.nl/
+node	10983173339	Luxury Suites Amsterdam		52.3703187	4.9031302	hotel	5			https://www.luxurysuitesamsterdam.com
+node	10983185489	Hotel Twenty Seven		52.3724980	4.8932903	hotel	5			https://www.twentysevenhotel.nl
+node	11025463149	Di-Ann City Centre Hotel		52.3733422	4.8864790	hotel	2			https://www.di-ann-citycentre.com
+node	11025513467	Pestana Amsterdam Riverside		52.3533634	4.9071810	hotel	5	Pestana		https://www.pestanacollection.com/nl/hotel/pestana-amsterdam-riverside
+node	11028136509	Hotel The Noblemen		52.3674163	4.8857886	hotel				https://hotelthenoblemen.co
+node	11030057036	Townhouse Hotel		52.3619978	4.8996572	hotel	2			http://townhousehotelamsterdam.nl/
+node	11030071602	CitizenM Amstel Amsterdam		52.3610179	4.9063758	hotel		citizenM		https://www.citizenm.com/nl/hotels/europa/amsterdam/amstel-amsterdam-hotel
+node	11030089063	Golden Mansion Apartments		52.3589532	4.8979330	hotel				https://www.goldenmansionamsterdam.com/
+node	11030852107	Commune Suites		52.3609941	4.8950015	hotel				https://communesuites.com
+node	11074750743	Ruby Emma Hotel & Bar		52.3382544	4.9209760	hotel			Ruby Hotels	https://www.ruby-hotels.com/en/hotels-destinations/amsterdam/ruby-emma
+node	11076415775	Uptown Amsterdam		52.3629412	4.8853520	hostel				
+node	11086833078	Amstel Hotel		52.3600514	4.9052186	hotel	5s	InterContinental		https://www.amstelhotel.com
+node	11134110752	Hotel Mozart		52.3635093	4.8862940	hotel	2			https://www.hotelmozart.nl
+node	11265457151	Sweets Hotel		52.3865440	4.9139029	hotel				https://sweetshotel.amsterdam/locations/sweets-hotel-amsterdam-gerben-wagenaarbrug
+node	11449965100	Hotel Jansen		52.3367599	4.9263950	hotel		Hotel Jansen		https://hoteljansen.nl/bajeskwartier/
+node	11494243269	Tribe Amsterdam City		52.4025133	4.9310373	hotel		TRIBE		https://tribehotels.com/en/netherlands/amsterdam-city/
+node	11684974711	Bastion Hotel Amsterdam Noord		52.3959920	4.9289060	hotel	3	Bastion Hotel		https://www.bastionhotels.com/nl-nl/hotels/hotel-amsterdam-noord
+node	11747910235	Canal House		52.3762875	4.8863183	hotel				
+node	11873985015	Calisto		52.3823716	4.8874609	hotel				
+node	11934927541	Chassé Hotel Residency		52.3517444	4.9244951	hotel				https://chassehotel.com/
+node	12012299556	Schröder		52.3823010	4.8880912	hotel				
+node	12081426302	Diamond Capsule Hotel		52.3190671	4.8797645	hotel				
+node	12181704717	The Toren dependance		52.3763320	4.8863726	hotel				
+node	12208666602	Poppies		52.3949179	4.9108776	hotel				
+node	12231627175	Sweets Hotel Nieuwe Amstelbrug		52.3557676	4.9054665	hotel				https://sweetshotel.amsterdam/
+node	12437675085	i hotel		52.3864670	4.9233652	hotel				https://www.ihotel.nl/
+node	12481608140	Mercure Amsterdam North Station		52.4024547	4.9312419	hotel		Mercure	Mercure	https://all.accor.com/hotel/B7R7/index.nl.shtml
+node	12546599864	Cityden Stadshart		52.3019569	4.8688752	hotel				
+node	12625966217	OZO Hotels Arena Amsterdam		52.3047566	4.9476524	hotel			Ozo Hotels	https://www.ozo-hotels.com/hotels/ozo-hotels-arena-amsterdam
+node	12674455798	Hotel Jansen		52.3421188	4.8458652	hotel		Hotel Jansen		https://hoteljansen.nl/schinkel/
+node	12674631146	Joy Hotel		52.3052314	4.9502689	hotel				https://www.joyhotel.nl
+node	12750160636	Bob W.		52.3549181	4.9284135	hotel				
+node	12893630905	Via Suites		52.3258386	4.9530656	hotel				https://viasuites.com/
+node	12925778841	World Explorers		52.3587822	4.9241870	hotel				
+node	12951803297	Hotel Tamara		52.3748748	4.8913682	hotel				https://hotel-tamara.amsterdamhotele.com/en/
+node	12966972861	The Bird Hotel		52.3668767	4.8951533	hotel				
+node	13069449339	Vondelpark Suite		52.3541879	4.8674572	hotel		B&B Hotels		
+node	13069482403	Valerius Apartments		52.3544883	4.8704943	hotel		B&B Hotels		
+node	13082713627	The Black Beauty		52.3606182	4.8964510	hotel		B&B Hotels		
+node	13082718768	Blueprint B&B		52.3612590	4.8941975	hotel		B&B Hotels		
+node	13243317076	Luxer		52.3760218	4.8992753	hotel				https://www.hotelluxer.nl/
+node	13248743431	Volkshotel		52.3537525	4.9117913	hotel				https://www.volkshotel.nl
+node	13265105649	Jaz in the City		52.3143543	4.9387232	hotel			Steigenberger Hotel Group	https://www.jaz-hotel.com/amsterdam/
+node	13399596457	Het Mandelahuisje		52.3814680	4.9059933	hotel				https://mandelahuisje.nl
+node	13406510847	CitizenM		52.3419129	4.8759584	hotel		citizenM	CitizenM	https://www.citizenmamsterdamcity.com
+node	13634429827	Hotel Plantage		52.3666997	4.9117772	hotel				
+node	14020119701	Urban Lodge Hotel		52.3856000	4.8345882	hotel				
+node	14056796601	Quentin Museum Square Hotel		52.3615061	4.8770693	hotel				
+node	14080630640	Hotel Van De Vijsel		52.3633666	4.8780970	hotel				https://hotelvandevijsel.com
+node	14215319327	Grand Hotel Downtown		52.3651921	4.8732492	hotel				https://www.grandhoteldowntown.com
+node	14274301203	Amsterdam Bed and Boat		52.3860045	4.8913576	hotel				http://www.amsterdambedandboat.com
+way	34079065	Dutch Design Hotel Artemis		52.3418979	4.8247807	hotel	4		Aeon Plaza Hotels	https://www.artemisamsterdam.com/
+way	55116422	Via Amsterdam		52.3261243	4.9537525	hostel				https://www.viahostels.com/amsterdam/contact/
+way	57858572	Corendon Amsterdam New-West		52.3465827	4.8307733	hotel	4			https://www.corendonhotels.com/corendon-amsterdam-new-west/
+way	57860095	Best Western		52.3489759	4.8426427	hotel		Best Western		https://www.bestwesternamsterdam.nl/
+way	57867313	WestCord Art Hotel		52.3925940	4.8687560	hotel				https://westcordhotels.nl
+way	168633830	De Looier		52.3683408	4.8797235	hotel	3			
+way	171606064	Botel		52.4007435	4.8895310	hotel	3			https://www.botel.nl/nl
+way	185124192	Room Mate Aitana Hotel		52.3846817	4.8941732	hotel	4	Room Mate	Room Mate	https://room-matehotels.com/en/aitana/
+way	266648964	Hotel The Exchange		52.3753979	4.8955635	hotel				https://www.hoteltheexchange.com
+way	267107837	Houseboat-Amsterdam		52.3733558	4.9073651	hotel		B&B Hotels		https://eatbu.nl/villa-d-39-este-netherlands
+way	268452971	Frederik Park House		52.3609419	4.8982570	hotel				
+way	268641327	citizenM Schiphol Airport Hotel		52.3093989	4.7558404	hotel		citizenM		
+way	268645429	Sheraton Amsterdam Airport Hotel and Conference Center		52.3086933	4.7602817	hotel		Sheraton		https://www.marriott.com/hotels/travel/amssi-sheraton-amsterdam-airport-hotel-and-conference-center/
+way	276179226	De luxe huisboot Amsterdam		52.3432624	4.7930676	hotel		Holiday Inn		https://eatbu.nl/de-luxe-huisboot-amsterdam-netherlands
+way	276233976	Dutchies Hostel		52.3831515	4.8462416	hostel				https://www.dutchieshostel.com
+way	277095014	Conservatorium		52.3587110	4.8788186	hotel	5			https://www.conservatoriumhotel.com
+way	277113569	Hotel Cosmos		52.3542761	4.8819176	hostel				https://www.hostelcosmos.com
+way	277121073	Conscious Hotel Museum Square		52.3549025	4.8773454	hotel				https://conscioushotels.com
+way	277153137	The Delphi - Amsterdam Townhouse - hotel		52.3504368	4.8769336	hotel		Delphi Hotel		
+way	278199006	Generator		52.3609658	4.9190048	hostel				https://generatorhostels.com/en/destinations/amsterdam/
+way	547992690	Radisson Amsterdam South		52.3213967	4.8815280	hotel	4	Radisson		https://www.radissonhotels.com/en-us/hotels/radisson-hotel-and-suites-amsterdam-south
+way	593068474			52.3838532	4.9021032	hotel				
+way	617085027	Ibis Amsterdam City West		52.3925361	4.8486784	hotel		Ibis		
+way	680945864	BOAT & CO		52.3945159	4.8820512	hotel				https://www.boatandco.nl
+way	761319371	DoubleTree by Hilton Amsterdam Centraal Station		52.3767926	4.9049825	hotel		DoubleTree	Hilton	https://www.hilton.com/en/hotels/amscsdi-doubletree-amsterdam-centraal-station/
+way	934776965	XO Hotels Park West		52.3854786	4.8466359	hotel				https://xohotels.com/nl/hotel/xo-hotels-park-west-amsterdam
+way	935620035	Dutchies Hostel		52.3831497	4.8461101	hostel				
+relation	3585280	Hotel 83		52.3726571	4.8986313	hotel				https://www.hotel83.com/

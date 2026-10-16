@@ -1,0 +1,677 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	58467591	Park Plaza Wallstreet		52.5114646	13.4078027	hotel	4	Park Plaza		
+node	60105926	Living Hotel Großer Kurfürst		52.5122494	13.4087883	hotel	4		Derag	
+node	60105927	art’otel Berlin Mitte		52.5125444	13.4103351	hotel		Art'otel		
+node	60105928	Living Hotel Berlin-Mitte		52.5120824	13.4082495	hotel	4		Derag	
+node	60240143	Radisson Collection Hotel Berlin		52.5195175	13.4028297	hotel		Radisson Collection		https://www.radissonhotels.com/en-us/hotels/radisson-collection-berlin
+node	60240155	Novotel Berlin Mitte		52.5131672	13.4051935	hotel		Novotel		
+node	66917101	Hotel Neuer Fritz Berlin		52.5226997	13.3882776	hotel	3			https://neuerfritz.com/
+node	66917107	Meliá Berlin		52.5213429	13.3884680	hotel	4	Meliá	Sol Meliá	https://www.melia.com/de/hotels/deutschland/berlin/melia-berlin
+node	66917193	NH Collection		52.5195761	13.3888965	hotel	4S			
+node	66917205	Maritim proArte Hotel Berlin		52.5182281	13.3874995	hotel		Maritim		
+node	68363380	Grand Hostel Berlin Urban		52.4874625	13.4257580	hostel	3			
+node	69226077	NH Collection Berlin Mitte am Checkpoint Charlie		52.5105304	13.3889847	hotel				
+node	69226092	Grand Hyatt Berlin		52.5081971	13.3724841	hotel	5	Grand Hyatt	Hyatt	
+node	79836147	B&B Hotel		52.4890701	13.3165059	hotel		B&B Hotels		
+node	84644772	Ibis Budget		52.5048415	13.3845953	hotel		Ibis Budget	Ibis Budget	https://www.accorhotels.com/de/hotel-5058-etap-hotel-berlin-potsdamer-platz/index.shtml
+node	84644779	Novotel Suites Berlin City Potsdamer Platz		52.5045858	13.3833431	hotel		Novotel		https://www.accorhotels.com/de/hotel-3745-novotel-suites-berlin-city-potsdamer-platz/index.shtml
+node	86001788	The Westin Grand Berlin		52.5158768	13.3886042	hotel	5	Westin		https://www.westin-berlin.com/
+node	86001831	Hotel Gendarm		52.5115420	13.3914622	hotel				
+node	86001840	Hilton Berlin		52.5121031	13.3925395	hotel	5	Hilton	Hilton	https://www.hilton.com/en/hotels/berhitw-hilton-berlin/
+node	245287545	Bob W.		52.5117290	13.4136544	hotel				
+node	252550951	Three Little Pigs		52.5032550	13.3860243	hostel			Blessing & Schoenermark GbR	https://www.three-little-pigs.de/
+node	254307091	Dorint Kurfürstendamm		52.5025050	13.3317935	hotel		Dorint		https://www.booking.com/hotel/de/sofitelhotelberlin-berlin.en.html?aid=8134623&no_rooms=1&group_adults=2
+node	262394173	Holiday Inn Berlin Airport – Conference Centre		52.3889786	13.4985679	hotel		Holiday Inn		https://www.holidayinn-berlin.de/
+node	266593733	Hotel ibis Berlin Mitte		52.5290575	13.4181101	hotel		Ibis		
+node	267246999	Hotel Villa Kastania Berlin		52.5103196	13.2680576	hotel				
+node	269905044	Schloss Britz		52.4468121	13.4377895	hotel				
+node	271766267	acama		52.4980285	13.3864680	hostel			acama	https://www.acamaberlin.com/
+node	288101218	Mercure Hotel Berlin City West		52.5357100	13.2730289	hotel		Mercure		
+node	295084271	SunFlower Hostel		52.5096116	13.4462984	hostel				
+node	306912394	Hoteltow		52.4017265	13.2592215	hotel				https://www.hoteltow.de/
+node	306987815	Haus Gotland		52.4349590	13.3332311	hotel				
+node	314137159	Eastener Hostel		52.5281094	13.3886240	hostel				http://www.eastener-hostel.de/
+node	314137172	Green Eggs and Ham		52.5281189	13.3891103	hostel				
+node	314139811	Heart of Gold Hostel Berlin		52.5244513	13.3917571	hostel				https://www.heartofgold-hostel.de/
+node	317449636	Pegasus Hostel Berlin		52.5159353	13.4400393	hostel				
+node	321347091	Vienna House Easy by Wyndham		52.5293564	13.4567669	hotel		Vienna House		
+node	321537014	Best Western Premier Airporthotel Fontane Berlin		52.3622465	13.4283782	hotel		Best Western Premier		
+node	321597100	Victor's Residenz-Hotel Berlin Mitte		52.5288621	13.4288050	hotel	4			
+node	330257182	Kastanienhof		52.5347495	13.4061413	hotel	3S			
+node	330264477	The Circus Hotel		52.5293842	13.4012578	hotel				https://circus-berlin.de/de/hotel/
+node	332554289	Hotel Amelie		52.5231612	13.3839993	hotel	3			
+node	332554293	Arte Luise Kunsthotel		52.5216849	13.3795451	hotel	3			https://www.booking.com/hotel/de/luise-und-kunstlerheim.en.html?aid=8134623&no_rooms=1&group_adults=2
+node	333136476	Residenz am Deutschen Theater		52.5226092	13.3820948	hotel				
+node	343095342	Seminaris CampusHotel Berlin		52.4569569	13.2934766	hotel				
+node	365647209	Hansablick Garni		52.5174645	13.3369336	hotel	3			
+node	366943326	Hotel Karlshorst		52.4842635	13.5265451	hotel				
+node	370060895	Central Inn		52.5231771	13.3585761	hotel				https://www.booking.com/hotel/de/central-inn.en.html?aid=8134623&no_rooms=1&group_adults=2
+node	372378739	Holiday Inn Express Hotel Berlin City Centre		52.5018517	13.3852631	hotel		Holiday Inn Express		
+node	384948554	Morgenland		52.4320179	13.3050686	hotel				https://www.hotel-morgenland.de/
+node	385640015	Titanic Comfort Kurfürstendamm		52.5008758	13.3486634	hotel				
+node	402751124	Residency NO7		52.5021387	13.3036273	hotel				
+node	415343550	Alfa Hotel Berlin		52.5291066	13.3173284	hotel				https://www.booking.com/hotel/de/berlinalfahot.en.html?aid=8134623&no_rooms=1&group_adults=2
+node	417128850	Hotel Pension Delta		52.4885210	13.3578712	hotel				
+node	427793839	Come Inn Berlin Kurfürstendamm Opera		52.5001278	13.3121555	hotel	3			https://www.booking.com/hotel/de/kurfurstendamm.en.html?aid=8134623&no_rooms=1&group_adults=2
+node	428229961	Albergo Hotel Berlin		52.3882187	13.5069077	hotel				https://www.albergo.de/
+node	429113202	Pension Zur Hecke		52.3653901	13.5572409	hotel				
+node	429566432	Berlin Marriott Hotel		52.5110978	13.3760721	hotel				https://www.booking.com/hotel/de/bellman.en.html?aid=8134623&no_rooms=1&group_adults=2
+node	429740890	Mercure Hotel + Residenz Berlin Checkpoint Charlie		52.5085921	13.3934241	hotel	4	Mercure	Mecrure	http://www.mercure.com/de/hotel-3120-mercure-hotel-residenz-berlin-checkpoint-charlie/index.shtml
+node	442388892	Pension Oase		52.4588993	13.3846660	hotel				
+node	443252302	Hotel Albertin		52.5490904	13.4585512	hotel				
+node	443294717	OYO Hotel Bohemia		52.4654868	13.4421464	hotel		OYO	Stefan Richter	http://www.hotelbritzertor.de
+node	449036560	Arena Rooms Mitte		52.5319633	13.3783166	hotel				https://hotelberlinmitte.deutschland-de.info/de/
+node	456409627	Leonardo Hotel		52.4372687	13.4630698	hotel		Leonardo Boutique		https://www.leonardo-hotels.com/berlin/leonardo-boutique-hotel-berlin-city-south
+node	472419567	Hotel Atlantic		52.4373090	13.4624329	hotel				https://www.hotel-atlanticweb.de/
+node	481694341	U Inn Berlin Hostel		52.5133386	13.4695756	hostel				
+node	491555229	Ameron Hotel Abion Spreebogen Berlin		52.5231368	13.3460873	hotel				
+node	496396330	PLAZA INN Berlin-Charlottenburg		52.5235317	13.3064214	hotel				
+node	540901489	easyHotel Berlin		52.5288530	13.4021260	hotel		easyHotel		
+node	540914067	Hotel Casa Camper Berlin		52.5257861	13.4040637	hotel				
+node	544502012	Hotel Ludwig van Beethoven		52.4876523	13.4208734	hotel	3		Per Reul	
+node	548579681	Hotel Pullman Berlin Schweizerhof		52.5059380	13.3440988	hotel				http://www.pullmanhotels.com/de/hotel-5347-pullman-berlin-schweizerhof/index
+node	551325554	"Hotel ""Alte Feuerwache"""		52.5459093	13.4942010	hotel				https://www.hotelaltefeuerwache.de/
+node	571427439	Kiez Pension		52.5139327	13.4676121	hotel				
+node	604271481	Apart-Hotel Ferdinand		52.5433902	13.5086407	hotel				https://www.booking.com/hotel/de/apart-ferdinand-berlin.en.html?aid=8134623&no_rooms=1&group_adults=2
+node	617112620	Sickinger Hof		52.5330618	13.3280036	hotel	3			https://www.berlin-hotel-sickingerhof.de/
+node	618746050	THE GATE GARDEN HOTEL		52.5311543	13.3861563	hotel				https://www.gardenhotelberlin.de
+node	621444224	Corner Hostel		52.5535624	13.4059557	hostel				https://www.corner-hostel.de/
+node	622129784	Hotel Steglitz International		52.4562628	13.3212357	hotel	4		"Köller und Stolle Hotel GmbH & Co. KG, Berlin"	https://www.si-hotel.com/
+node	626305361	Café-Hotel M68		52.5104691	13.3867069	hotel				https://www.m68-hotel.de/
+node	632356743	Erlanger Hof		52.4820065	13.4307977	hotel	3			
+node	632964201	Frosch-Hostel		52.5510043	13.4054010	hostel				http://www.froschhostel.de
+node	639670245	Hotel Nova		52.5093500	13.4980588	hotel				
+node	646574192	Pension Classic		52.5026474	13.3433717	hotel				
+node	647907950	Pension Adamshof		52.5018944	13.4910187	hotel				
+node	647907953	Pension Zum Lichtenberger		52.5020409	13.4911061	hotel				
+node	650534687	Albergo City Hotel		52.4899518	13.3117360	hotel				
+node	658444507	Gästehaus Axel Springer		52.5412857	13.3474654	hotel				https://www.dhzb.de/patienten_besucher/gaestehaus_axel_springer/
+node	663065744	Motel One Berlin-Ku'Damm		52.5056020	13.3295758	hotel	2	Motel One		
+node	663317344	Leonardo Royal Hotel Berlin Alexanderplatz		52.5273327	13.4234078	hotel		Leonardo Royal Hotel	Leonardo Hotels	https://www.leonardo-hotels.de/berlin/leonardo-royal-hotel-berlin-alexanderplatz
+node	667211354	Hotel Aster an der Messe		52.5105784	13.2699208	hotel	3			https://hotel-aster.de/
+node	667799989	Hotel Bolgerini Inn		52.5158216	13.4601868	hotel				
+node	670658024	Hecker's Hotel		52.5035375	13.3241078	hotel				https://www.heckers-hotel.de/
+node	670842248	ibis budget Berlin Ost		52.5260934	13.5297257	hotel	1	Ibis Budget		
+node	682327973	Hotel garni Aaberna		52.5340287	13.3415699	hotel				
+node	690204908	Hotel Indigo Berlin Ku'damm		52.5078731	13.3278873	hotel		Hotel Indigo		https://m.ihg.com/hotels/hotelindigo/de/de/hoteldetail/beriw
+node	691370720	St Christopher's Inn Berlin - Alexanderplatz		52.5268482	13.4106511	hostel		St Christopher's Inn		
+node	692167746	Adagio Berlin Kurfürstendamm		52.4991370	13.3214359	hotel		Adagio		
+node	692167782	EnergieHotel		52.5055039	13.3155273	hotel	3			
+node	695646332	Arcotel John F Berlin		52.5151820	13.3977084	hotel				
+node	697714223	Hotel Birgit		52.5340650	13.4090960	hotel				
+node	699536599	Novi Sad		52.4149405	13.4970289	hotel			Dusan Sandara	https://hotelnovisad.de/
+node	700080644	Palace Berlin		52.5049196	13.3388488	hotel	5			
+node	702534190	Select Hotel Style Berlin		52.5208390	13.3272975	hotel			Novum Hotels	https://www.select-hotels.com/en/select-hotel-style-berlin
+node	703042587	Hotel Guzulka		52.4219844	13.4889609	hotel				
+node	703042592	Hotel Süden		52.4287713	13.4796300	hotel				
+node	708431655	Hotel-Pension Dahlem		52.4439782	13.2901345	hotel				
+node	727335235	Hotel Klassik Berlin		52.5086075	13.4516109	hotel	3			https://www.hotelklassik-berlin.de/
+node	747493599	Pension Güntzel		52.4905503	13.3334135	hotel				https://www.pension-guentzel.de/
+node	768917724	Leonardo Hotel Berlin		52.5128076	13.3046434	hotel	3	Leonardo Boutique		
+node	775862456	NH Berlin Kurfürstendamm		52.5040782	13.3241970	hotel				
+node	785054753	Hotel Hauptstadtperle		52.5132636	13.4602876	hotel				
+node	810590617	Aspria Spa + Sporting Club + Hotel		52.5005569	13.2943054	hotel				
+node	814663159	Holiday Inn Berlin City Center East - Prenzlauer Allee		52.5477676	13.4282310	hotel		Holiday Inn		https://www.hi-berlin.com/
+node	831375024	Hotel Domicil		52.5064330	13.3064175	hotel				http://www.hotel-domicil-berlin.de
+node	843204466	villa konstanz		52.4893934	13.3077634	hotel				
+node	872308129	Comebackpackers		52.4999681	13.4178492	hostel				
+node	876726265	baxpax Kreuzberg Hostel		52.4997128	13.4277322	hostel				
+node	877334123	Wunderflats		52.5213063	13.4054689	hostel				
+node	879531118	H+ Hotel Berlin Mitte		52.5296271	13.3837474	hotel			H-Hotels AG	https://www.h-hotels.com/de/hplus/hotels/hplus-hotel-berlin-mitte
+node	890894437	Hotel St.-Michaels-Heim		52.4882904	13.2771572	hotel				
+node	895396826	Meininger Hotel Berlin Tempelhofer Ufer		52.4980721	13.3861421	hostel	3		Meininger Shared Services GmbH	
+node	910426645	City 54 Hotel und Hostel		52.5358273	13.3768179	hostel			"City54 Hotel und Hostel Berlin GmbH, Geschäftsführer Jale Degirmenci"	http://www.city54hostel.de
+node	914249367	Amstel House Berlin		52.5283713	13.3367270	hostel				https://www.amstelhouse.de/
+node	932342543	Novum Hotel Gates		52.5096029	13.3226826	hotel	3		Eleazar Novum GmbH	https://www.novum-hotels.com/hotel-gates-berlin/
+node	937964243	Haus Belger		52.3988167	13.4421552	hotel				http://www.haus-belger.de/
+node	958347848	Hyperion Hotel Berlin		52.4939465	13.3333509	hotel				
+node	963196967	martas Hotel Berlin-Mitte		52.5263017	13.3924959	hotel	3			https://martas.org/hotels/martas-berlin-mitte
+node	1012992898	Mit-Mensch		52.4818284	13.5175447	hotel				http://www.mit-mensch.com
+node	1033893408	Michelberger Hotel		52.5046180	13.4479619	hotel				
+node	1072624497	Sandino Hostel Berlin		52.5378623	13.4823363	hostel				https://www.sandino-hostel-berlin.de/
+node	1073958531	The Mandala Hotel		52.5089383	13.3738661	hotel				https://www.themandala.de/
+node	1125043960	Landmark eco Hotel Berlin		52.5021232	13.2971737	hotel				
+node	1129787533	Märkischer Hof		52.5264542	13.3880761	hotel				http://www.hotel-berlin-maerkischer-hof.de/
+node	1134199097	Hotel 38		52.5254865	13.3915391	hotel				https://www.hotel38.de
+node	1138450185	Hotel MOA Berlin		52.5321956	13.3445073	hotel	4			https://moa.de/en/
+node	1165969865	Vier Jahreszeiten		52.4987301	13.4260957	hotel				
+node	1165969893	Metropol Hostel		52.4938094	13.3878805	hostel				http://www.metropolhostel-berlin.de/
+node	1169468049	H4 Hotel Berlin-Alexanderplatz		52.5255613	13.4146506	hotel	4		THR Hotel am Alexanderplatz Berlin Betriebs- & Management GmbH	
+node	1181625806	Industriepalast Hostel		52.5040256	13.4474728	hostel			Varenta Beherbergungsgesellschaft mbH	
+node	1182595451	Hotel Pension Reiter		52.5186505	13.4398295	hostel				
+node	1199943378	hotel messe		52.5069489	13.2838011	hotel				http://www.hotel-funkturm-messe.de
+node	1200964388	Brandies Hotel Berlin Messe		52.5101719	13.2808671	hotel	3			https://www.hotel-brandies.de/
+node	1200964413	Cityblick		52.5069569	13.3002109	hotel			DANA Hotelbetriebs GmbH	
+node	1200964523	Hotel Amelie		52.5101425	13.2799904	hotel				
+node	1200964541	Motel Blue Messe		52.5095308	13.2783242	hotel				
+node	1205003980	Hotel Landhaus Alpinia		52.4211028	13.3919700	hotel				https://alpinia-berlin.de/
+node	1209659403	Hotel Transit		52.4912721	13.3852632	hotel				https://www.hotel-transit.de/
+node	1212618075	Mit-Mensch		52.4814535	13.5171639	hotel				https://mit-mensch.com/
+node	1229132250	Meininger		52.5328665	13.4130785	hotel		Meininger		
+node	1242813831	Cosmo		52.5117115	13.4013208	hotel		Design Hotels	Design Hotels	
+node	1257750727	Hotel Gendarm nouveau		52.5117040	13.3914281	hotel				https://hotel-gendarm-berlin.de/
+node	1259545063	ibis Berlin City Potsdamer Platz		52.5047317	13.3841345	hotel		Ibis		http://www.ibishotel.com/de/hotel-3752-ibis-berlin-potsdamer-platz/index.shtml
+node	1259818858	Hotel Pension Arta		52.5085671	13.3024638	hotel				
+node	1282111598	Art Hotel Charlottenburger Hof		52.5053388	13.3016512	hotel				
+node	1282111601	Adam		52.5063100	13.3021078	hotel	2			
+node	1282111605	Hôtel Atrium Charlottenburg		52.5059783	13.3021646	hotel	3			
+node	1282111608	Birth City Hotel		52.5061608	13.3021367	hotel				http://www.birthhotel.de
+node	1285663836	Ivbergs Hotel		52.5089426	13.2698262	hotel				https://www.ivbergs.de/
+node	1289504973	Regenbogenfabrik Hostel		52.4962091	13.4262102	hostel			Regenbogenfabrik UG (haftungsbeschränkt)	https://regenbogenfabrik.de/uebernachtungen/
+node	1296266115	Hotel Tagungshaus Tiergarten		52.5024306	13.3676051	hotel				http://www.tagungshaus-gis.de/
+node	1306698841	Sketch		52.5114689	13.4557335	hotel			Numa	https://numastays.com/locations/germany/berlin/friedrichshain/sketch
+node	1333747986	SO/ Berlin Das Stue		52.5098733	13.3459642	hotel	5			
+node	1343144279	Les Nations		52.5234094	13.3319791	hotel	3			
+node	1348445592	1a pension apartment berlin		52.5451996	13.4115815	hotel				http://www.1a-apartment.de
+node	1349696692	Eurostars Berlin		52.5203890	13.3892504	hotel		Eurostars Hotel Company		https://www.booking.com/hotel/de/eurostars-berlin.en.html?aid=8134623&no_rooms=1&group_adults=2
+node	1363463109	H2 Hotel Berlin-Alexanderplatz		52.5253146	13.4143711	hotel		H-Hotels		https://www.booking.com/hotel/de/h2-berlin-alexanderplatz.en.html?aid=8134623&no_rooms=1&group_adults=2
+node	1382270880	Lette 'm Sleep		52.5436232	13.4187217	hostel				http://www.backpackers.de
+node	1385272346	Melarose		52.5341399	13.4302131	hotel				
+node	1389043768	Alex Hotel		52.5287179	13.4248441	hotel				https://www.booking.com/hotel/de/alex-berlin-berlin.en.html?aid=8134623&no_rooms=1&group_adults=2
+node	1405049414	Hotel Siemensstadt		52.5376759	13.2660994	hotel			HS Hotel Siemensstadt GmbH	
+node	1495251835	Xantener Eck		52.4988532	13.3078294	hotel				https://hotel-xantenereck.de/
+node	1503871568	t&c apartments		52.5487127	13.4109214	hotel				https://www.tc-apartments-berlin.de/
+node	1504564887	Goldmarie		52.5093913	13.4516028	hotel				
+node	1512604669	Midi Inn		52.5330010	13.4016720	hotel				
+node	1519970115	Happy Hotel Berlin		52.4893403	13.3468492	hostel				
+node	1522513810	Limehome		52.4641067	13.3848349	hotel				
+node	1530345432	Hotel Comenius		52.5124379	13.4505118	hotel	2			
+node	1544188678	City Guesthouse Pension Berlin		52.5473373	13.4111965	hotel				https://www.booking.com/hotel/de/city-guesthouse-pension-berlin-berlin.en.html?aid=8134623&no_rooms=1&group_adults=2
+node	1561099986	Louisas Place		52.4993608	13.3051184	hotel				https://www.louisas-place.de
+node	1598987141	Hotel de Rome		52.5157914	13.3940671	hotel	5	Rocco Forte Hotels		http://www.hotelderome.de
+node	1613685634	Aparthotel Christie		52.5001758	13.3522905	hotel				
+node	1677275386	ABRI Apartments Berlin-Mitte		52.5082298	13.3919856	hotel				https://www.apartment-berlin.com/
+node	1711934396	Midel Hostel		52.5023125	13.4870742	hostel				
+node	1713177144	The Berlincity		52.4882553	13.3620787	hostel			hosts & hoteliers GmbH	
+node	1718478155	Pension Senta		52.4754661	13.3287833	hotel			Nina Raack	https://www.hotel-senta.de/
+node	1733584202	Myer's Hotel		52.5313186	13.4179143	hotel	4			
+node	1738271360	Garner Hotel Berlin - Gendarmenmarkt by IHG		52.5106118	13.3915889	hotel		IHG		https://www.booking.com/hotel/de/garner-hotel-berlin-gendarmenmarkt.en.html?aid=8134623&no_rooms=1&group_adults=2
+node	1738706654	Hotel artim		52.4990579	13.3448471	hotel				
+node	1742757439	Meininger Berlin Airport		52.3967135	13.5404826	hotel	3S	Meininger		https://www.meininger-hotels.com/en/hotels/berlin/airport/
+node	1755950625	BackpackerBerlin		52.5087811	13.4622961	hostel				
+node	1780648823	Grimm's Hotel		52.5083450	13.4049510	hotel				
+node	1818907679	Meininger Hotels		52.5249418	13.3922827	hostel				https://www.meininger-hotels.com/hotel-hostel/hotelsuche/berlin/mitte-humboldthaus/
+node	1825682816	Premier Inn Berlin Alexanderplatz		52.5237640	13.4173693	hotel		Premier Inn		
+node	1827049047	Art Nouveau		52.5028800	13.3131630	hotel				
+node	1827349673	Generator Berlin Alexanderplatz		52.5238133	13.4178901	hostel				https://staygenerator.com/hostels/berlin/alexanderplatz
+node	1830206154	Honigmond Hotel		52.5295164	13.3891035	hotel				https://www.honigmond.de/de
+node	1830209312	Hotel Adelante		52.5283989	13.3912518	hotel				
+node	1870419345	Pension Michele		52.4971869	13.3539293	hotel				http://www.hotelpension-michele-berlincity.de
+node	1877345436	martas		52.5269425	13.3621018	hostel			martas Gästehäuser des Vereins für Berliner Stadtmission	https://www.hbf-berlin.martas.org
+node	1877771773	Hotel Pension Blumenbach		52.5411795	13.5545230	hotel			Familie Jagdmann	https://www.blumenbach.de/
+node	1882081076	Hotel Castell Berlin		52.5001968	13.3147386	hotel				https://www.hotelcastell-berlin.de/
+node	1882081077	Kima		52.5003294	13.3151486	hotel				
+node	1882267390	Hotel Leonardo		52.5025419	13.3238646	hotel				https://www.leonardo-hotels.de/berlin/leonardo-hotel-berlin-kudamm
+node	1882363930	Hotel Pension Fasanen Haus		52.5021684	13.3275296	hotel				http://www.fasanenhaus.de/en/
+node	1882363945	Hotel Augusta		52.5023055	13.3272088	hotel				https://www.hotel-augusta.de/
+node	1882401734	Henri Hotel Berlin		52.5009762	13.3287100	hotel				
+node	1899010760	Amary City Residence		52.5100832	13.3021475	hotel				
+node	1905963683	Max Brown		52.4968861	13.3238309	hotel				
+node	1905963712	Hotel Seifert		52.4995482	13.3250413	hotel				
+node	1906549327	Boutique Hotel Kerlin		52.4983729	13.3170821	hotel	3			https://www.booking.com/hotel/de/boutiquehotelkerlin.en.html?aid=8134623&no_rooms=1&group_adults=2
+node	1909903030	Pension Regenbogen		52.5177766	13.4686653	hotel				
+node	1915618609	Hotel Sachsenhof		52.4986398	13.3514182	hotel			SaHo Hotel GmbH	https://www.sachsenhof-hotel.de
+node	1934211318	Hotel Vivaldi		52.5039397	13.3218142	hotel	3			
+node	1956290758	Hotel Maison am Adenauerplatz		52.4984330	13.3071801	hotel	3			
+node	1963335117	Hotel Pension Elegia		52.5041728	13.3161301	hotel				
+node	1979921428	Hotel Alte Galerie		52.5023606	13.3135217	hotel				
+node	1979921513	Q!		52.5026269	13.3221968	hotel				
+node	2013009701	Hotel Prens		52.4951266	13.4210362	hotel				
+node	2014602124	B&B Hotel Berlin City-Ost		52.5147773	13.4661815	hotel		B&B Hotels		https://www.booking.com/hotel/de/best-western-city-ost.en.html?aid=8134623&no_rooms=1&group_adults=2
+node	2068646526	Hüttenpalast		52.4892520	13.4263848	hotel				https://huettenpalast.de/
+node	2095599562	Hotel Pension Margrit		52.4966468	13.3083890	hotel				
+node	2095599668	Provocateur		52.4957427	13.3087693	hotel				
+node	2110726365	Anna 1908		52.4654573	13.3262635	hotel			Lars Lindemann	https://www.booking.com/hotel/de/anna-1908.en.html?aid=8134623&no_rooms=1&group_adults=2
+node	2139861328	numastay		52.4989472	13.3122264	hotel				
+node	2139861372	Citadines		52.4991188	13.3128213	hotel				
+node	2139861391	Europa City		52.4978088	13.3121386	hotel				
+node	2181178541	Lebensquelle		52.5079787	13.3991588	hotel				https://www.hotel-lebensquelle.de/
+node	2187588494	Goodman's Living		52.5121850	13.3048987	hotel		Goodman's Living	Goodman's Living GmbH	
+node	2199557560	Calma Berlin Mitte		52.5263877	13.3901295	hotel			little BIG hotels Berlin & Brandenburg GmbH	https://www.booking.com/hotel/de/mitart.en.html?aid=8134623&no_rooms=1&group_adults=2
+node	2213457114	Park Plaza Berlin		52.4996770	13.3226356	hotel		Park Plaza	Park Plaza	
+node	2246559586	relexa hotel Stuttgarter Hof Berlin		52.5049304	13.3851932	hotel	4		relexa hotel GmbH	https://www.relexa-hotel-berlin.de/
+node	2309799962	Pension Kreuzberg		52.4944396	13.3840629	hotel				
+node	2320624912	Lekkerurlaub		52.4947732	13.4193397	hostel				
+node	2334538044	City Hotel am Kurfürstendamm		52.5000150	13.3097569	hotel	3		Igor Kosatchkow	
+node	2347507169	Sir Savigny		52.5057300	13.3207210	hotel		Sir		
+node	2388280732	Hotel Enzian		52.4477735	13.3052104	hotel				
+node	2439759166	enjoy hotel am Studio		52.5094291	13.2773806	hotel			Hotel Berlin City Messe GmbH	https://www.enjoyhotel.de/de/enjoy-hotel-am-studio
+node	2466173852	Happy go Lucky		52.5051636	13.3008775	hostel			bed-company GmbH	
+node	2476267533	Hotel Atlas		52.4783230	13.3305360	hotel				
+node	2476642600	Hotel4Hufen		52.3954499	13.4428934	hotel				http://www.hotel4hufen.de
+node	2479053621	Hollywood Media Hotel		52.5016365	13.3212851	hotel	4			https://www.booking.com/hotel/de/hollywood-media.en.html?aid=8134623&no_rooms=1&group_adults=2
+node	2484792432	Hotel am Hermannplatz		52.4898639	13.4237472	hotel				https://www.hotel-am-hermannplatz.de/
+node	2496652035	Sarotti-Höfe		52.4910469	13.3879601	hotel			Sarotti-Höfe Hotel & Freizeit GmbH	
+node	2504491829	Hotel Buckow		52.4239685	13.4392994	hotel				
+node	2532898319	City Pension Berlin		52.5057255	13.3039494	hotel				https://www.booking.com/hotel/de/citypensionberlin.en.html?aid=8134623&no_rooms=1&group_adults=2
+node	2532898377	Hotel AI Königshof		52.5057392	13.3044971	hotel				
+node	2532898388	Hotel Abendstern		52.5057347	13.3042146	hotel				http://www.hotel-abendstern.de/
+node	2532898393	Hotel Spreewitz		52.5065799	13.3036488	hotel				
+node	2532898399	Best Western Hotel Kantstraße Berlin		52.5065785	13.3059069	hotel		Best Western		https://www.booking.com/hotel/de/bestwesternkanthotel.en.html?aid=8134623&no_rooms=1&group_adults=2
+node	2557711059	Hotel Tiergarten		52.5251174	13.3438082	hotel	3			https://www.hotel-tiergarten.de/
+node	2581112669	Hotel Potsdamer Hof Berlin Am Potsdamer Platz		52.5047020	13.3667324	hotel				
+node	2582086309	Nu Wave Hotel		52.5121325	13.4490492	hotel	3			https://nuwave-hotel.com/
+node	2629704691	Pension Brinn		52.5110729	13.3186097	hotel				https://www.pension-brinn.de/
+node	2634764019	Appartements Eisemann		52.4769165	13.3756036	hotel			Markus Eisemann	
+node	2638063064	Motel Plus Berlin		52.4671592	13.4370793	hotel				https://motelplus-berlin.de/
+node	2663504120	Roomers Berlin		52.5080890	13.3263736	hotel			Autograph Collection	
+node	2669771197	Mercure Hotel Chateau		52.5008139	13.3213821	hotel		Mercure		
+node	2686535074	Dream Apartments		52.4949205	13.3261183	hotel				
+node	2721904163	Eastpax Hostel		52.5422740	13.4996756	hostel			Stefan Richter	http://www.eastpax.de
+node	2772307534	Flower's Boardinghause		52.5270903	13.4076704	hotel				
+node	2776767374	Hotel Hackescher Markt		52.5232037	13.4012754	hotel				
+node	2796710200	Adina Apartment Hotel Berlin Hackescher Markt		52.5223005	13.4040710	hotel		Adina Hotels		
+node	2842306125	Adina Apartment Hotel Berlin Checkpoint Charlie		52.5097552	13.3975828	hotel	4	Adina Hotels		
+node	2844490311	sly Berlin		52.5249401	13.4481310	hotel				https://www.sly-berlin.com/
+node	2892161731	Hotel 103		52.5530834	13.4139110	hotel				
+node	2930469301	Flow		52.5445427	13.4121730	hostel				
+node	2930470652	Zarenhof		52.5422120	13.4117837	hotel	4		Hotel Zarenhof Prenzlauer Berg	https://www.hotel-zarenhof.de
+node	2933780417	Garden Living		52.5296822	13.3803602	hotel				https://www.booking.com/hotel/de/garden-living.en.html?aid=8134623&no_rooms=1&group_adults=2
+node	2954444684	Holiday Inn Berlin - City East Side		52.5048494	13.4446050	hotel		Holiday Inn	InterContinental Hotels Group	
+node	2977563057	Hotel Eden am Zoo		52.5041057	13.3257086	hotel				
+node	2981833496	relexa hotel conference		52.5048831	13.3848607	hotel				
+node	2993531033	Inn Berlin		52.5595970	13.3865450	hostel				http://www.inn-berlin.de/
+node	3039050408	Green-Hostel		52.5486068	13.4515617	hostel				
+node	3061372133	Pension Marie		52.5506494	13.4113690	hotel				http://www.pensionmarie.de/
+node	3061453549	Hotel Obergfell		52.4109094	13.4028892	hotel			Apart-Hotel Obergfell GbR	https://www.obergfell.org/
+node	3084834449	Bernstein		52.5006146	13.3369116	hotel				
+node	3098126874	The Circus Hostel		52.5301648	13.4019426	hostel				https://www.circus-berlin.de/
+node	3099114508	Flottwell Berlin Hotel & Residenz am Park		52.5001530	13.3705835	hotel				https://www.booking.com/hotel/de/flottwell-berlin-und-residenz-am-park.en.html?aid=8134623&no_rooms=1&group_adults=2
+node	3139370871	Leonardo Berlin Mitte	Leonardo Hotel Berlin Mitte	52.5226579	13.3865833	hotel	4	Leonardo Boutique	Sunflower Management GmbH & Co. KG	
+node	3157916988	Madflats		52.4703508	13.3344508	hotel		Madflats		
+node	3166224260	Grand Hostel Berlin Classic		52.4984517	13.3845263	hostel			Grand Hostel Berlin GmbH	
+node	3172134163	Hotel Zoo		52.5035603	13.3290084	hotel				https://www.hotelzoo.de/
+node	3235827767	A&O Hotel and Hostel Berlin Mitte		52.5087802	13.4240743	hostel		A&O		http://www.aohostels.com/de/berlin/berlin-mitte
+node	3273190565	Apart Hotel Residenz Am Deutschen Theater		52.5227794	13.3829623	hotel				https://www.aparthotel-residenz.de/
+node	3280590302	Quentin Boutique Hotel		52.5069965	13.2945431	hotel				
+node	3455613421	Cortina		52.5058302	13.3189959	hotel				
+node	3487251662	Hotel Haubach		52.5156457	13.3036450	hotel				
+node	3519366793	Motel One Potsdamer Platz		52.5099668	13.3809398	hotel		Motel One	Motel One Germany Betriebs GmbH	
+node	3655999636	Nikolai Residence		52.5171697	13.4064925	hotel				
+node	3669516499	Safestay Berlin Kurfürstendamm		52.5004566	13.3428708	hotel	3		Hotel Auberge GmbH im Auftrag der SSD Safestay Deutschland GmbH	https://www.safestay.com/de/venue/safestay-berlin-kurfurstendamm/
+node	3675973921	The Hoxton		52.5008246	13.3291182	hotel		The Hoxton		https://thehoxton.com/de/charlottenburg/
+node	3676977428	Upper Room Hotel		52.5033965	13.3343863	hotel				https://upper-room-hotel.de/
+node	3683945001	Waldorf Astoria Berlin		52.5055837	13.3329108	hotel	5	Waldorf Astoria	Hilton	https://waldorfastoriaberlin.de/
+node	3706893532	Pension Galerie		52.5032507	13.3887301	hotel				
+node	3711008995	Hotel & Restaurant Plovdiv		52.3997708	13.5552351	hotel				http://www.hotel-plovdiv.de/
+node	3712919144	Hotel Palacina		52.4958929	13.3602709	hotel				https://palacina.de/
+node	3733679785	Clipper City Home		52.5158245	13.3899782	hotel				
+node	3734954312	Hotel Novalis		52.5285655	13.3888609	hotel	2			http://www.novalis-berlin.de/
+node	3754876557	Tagungshaus Alte Feuerwache		52.5076171	13.3990079	hostel				
+node	3774793898	Estrel Berlin		52.4736275	13.4588496	hotel	4			https://www.estrel.com/de
+node	3774805572	Hotel Ambiente		52.4965245	13.3478926	hotel				https://www.ambiente-berlin.com/
+node	3777482221	B&B HOTEL Berlin-Adlershof		52.4462828	13.5153085	hotel		B&B Hotels		https://www.booking.com/hotel/de/ibb-blue-berlin-airport-berlin2.en.html?aid=8134623&no_rooms=1&group_adults=2
+node	3780043351	Courtyard by Marriott Berlin Mitte		52.5097544	13.3994858	hotel		Courtyard		https://www.booking.com/hotel/de/courtyard-by-marriott-berlin-mitte.en.html?aid=8134623&no_rooms=1&group_adults=2
+node	3780076398	Adele Designhotel		52.5296805	13.4249151	hotel				
+node	3780106082	Bleibtreu Berlin		52.5001863	13.3194778	hotel				https://www.booking.com/hotel/de/bleibtreuberlin.en.html?aid=8134623&no_rooms=1&group_adults=2
+node	3780138653	NH Berlin Kreuzberg		52.5060814	13.4159286	hotel	4			https://www.nh-hotels.de/hotel/nh-berlin-kreuzberg
+node	3780145552	Garner Hotel Berlin Mitte		52.5077242	13.3883977	hotel	4	Novum Hotels		https://www.ihg.com/garner-hotels/hotels/de/de/berlin/bertw/hoteldetail
+node	3780147516	The Weinmeister		52.5255657	13.4044505	hotel				
+node	3780323763	Arco Hotel		52.4974926	13.3388817	hotel	3			https://www.arco-hotel.de/
+node	3780340152	Bella		52.4978249	13.3248340	hotel				
+node	3780366541	Flüchtlingsheim		52.5510987	13.4640358	hostel				
+node	3780381757	Hotel-Pension Funk		52.5011118	13.3274319	hotel				
+node	3780382762	ackselhaus & bluehome		52.5322802	13.4191593	hotel				
+node	3780384061	Generator Berlin Mitte		52.5251341	13.3913966	hostel			Generator	https://generatorhostels.com/destinations/berlin/mitte
+node	3780854972	Hotel Dietrich-Bonhoeffer-Haus		52.5236245	13.3900616	hotel			HOSPES Evangelisch-Tagen GmbH	https://www.hotel-dietrich-bonhoeffer.de/
+node	3780858495	Hotel Schöneberg		52.4849942	13.3545462	hotel	3			https://hotel-schoeneberg.de/
+node	3780937605	NH Berlin Potsdamer Platz		52.5015937	13.3856171	hotel				
+node	3780963364	"Hotel Luc, Autograph Collection"		52.5144643	13.3909521	hotel				
+node	3780986023	A&O Berlin Friedrichshain		52.5070051	13.4689504	hotel		A&O		https://www.booking.com/hotel/de/friedrichshainaohostel.en.html?aid=8134623&no_rooms=1&group_adults=2
+node	3780997597	Appartments und private Zimmervermietungen B. Jahn		52.4430687	13.3849206	hotel				
+node	3781008298	Gasteiner Hof		52.4875812	13.3234863	hotel				
+node	3781031385	Pension Peters		52.5055640	13.3235891	hotel				
+node	3781036805	Kleist		52.4975188	13.3176980	hotel				http://hotel-pension-kleist.de/
+node	3781061381	Qbe Hotel Heizhaus Berlin		52.5146557	13.5273552	hotel				
+node	3781065289	Kiez Hostel Berlin		52.5098372	13.4474236	hostel				
+node	3781072174	Eigenart Appartements		52.5385474	13.3754027	hotel				
+node	3781074063	Hotel-Pension Charlottenburg		52.4995833	13.3231678	hotel				
+node	3782124546	ADAPT APARTMENTS Berlin GmbH		52.4328728	13.5321892	hotel				https://www.booking.com/hotel/de/adapt-apartments-berlin-gmbh.en.html?aid=8134623&no_rooms=1&group_adults=2
+node	3782198596	Amadeus Central		52.4865185	13.2973100	hotel			City Interservice GmbH	https://www.hotel-amadeus-berlin.de
+node	3782309130	Arabel Design		52.5017651	13.3648518	hotel				
+node	3814669373	abba Berlin hotel		52.4997165	13.3220332	hotel	4			https://www.abbahoteles.com/es/destinos/abba-berlin-hotel/hotel.html
+node	3826451056	B&B Hôtel		52.4988119	13.3467497	hotel		B&B Hotels		
+node	3826451971	Gunia		52.4977029	13.3493411	hotel				https://www.booking.com/hotel/de/gunia.en.html?aid=8134623&no_rooms=1&group_adults=2
+node	3826452465	Mercure Hotel Berlin Zentrum		52.4992905	13.3478779	hotel		Mercure	Accor Hotels	http://www.mercure.com/de/hotel-9068-mercure-hotel-berlin-zentrum/index.shtml
+node	3826455883	Quentin Design Berlin Hotel		52.4983882	13.3483276	hotel				http://quentindesignberlin.com/
+node	3826455889	TOM's House		52.4976945	13.3493864	hotel				
+node	3830510728	Hotel und City-Camping Berlin Siemensstadt		52.5486879	13.2566359	hotel				https://city-camping-berlin.de/hotelnord.html
+node	3831815753	Artus Apartments Berlin		52.5060024	13.3136280	hotel				
+node	3834273066	Villa Amadeus		52.5015552	13.3646277	hotel				http://www.villa-amadeus.de/
+node	3837620167	Alper Hotel am Potsdamer Platz		52.5035466	13.3657885	hotel				
+node	3837620172	B&B Hotel Berlin-Potsdamer Platz		52.5027272	13.3650070	hotel	2	B&B Hotels		https://www.booking.com/hotel/de/b-b-berlin-potsdamer-platz.en.html?aid=8134623&no_rooms=1&group_adults=2
+node	3837620178	CVJM - Haus Schöneberg		52.5014206	13.3538927	hostel				https://www.cvjm-berlin.de
+node	3837620618	Quentin XL		52.5040668	13.3661999	hotel				
+node	3837620651	Lulu Guldsmeden		52.5034040	13.3662568	hotel	3			https://de.guldsmedenhotels.com/berlin/
+node	3837620652	Hotel Delta		52.5011463	13.3628868	hotel				https://www.hotel-delta.com/
+node	3855567794	Hotel Potsdamer Inn		52.4962906	13.3616898	hotel	3			https://hotel-potsdamerinn.de/
+node	3855567797	Hotel City B		52.4974167	13.3622962	hotel	3	Novum Hospitality		https://www.novum-hotels.com/hotel-cityb-berlin
+node	3862782284	Amaryl City-Hotel am Kurfürstendamm		52.5001030	13.3241385	hotel				
+node	3862782285	PLAZA Premium Berlin Kurfürstendamm		52.5018412	13.3226443	hotel		PLAZA Premium	PLAZA Hotelgroup	
+node	3862782313	Mark Apart Hotel		52.5001153	13.3231833	hotel	3			
+node	3937513964	ibis Styles Berlin Mitte		52.5302608	13.4011350	hotel		Ibis Styles		
+node	4006950739	Queen’s Park Hotel		52.5146914	13.2799403	hotel			Rheingold Hotelbetriebs GmbH	https://queenshotels-berlin.de/queens_park.html
+node	4095897082	Hotel Oderberger		52.5379821	13.4105832	hotel			Barbara Jaeschke	
+node	4107169215	Zur Post		52.4207446	13.4907565	hostel				http://www.pensionzurpost.de
+node	4196906236	Rehberge		52.5555034	13.3438178	hotel				
+node	4220012305	Arena Inn		52.5434967	13.3633966	hotel				https://www.booking.com/hotel/de/arena-inn-13353.en.html?aid=8134623&no_rooms=1&group_adults=2
+node	4226857702	Raja Jooseppi Resort		52.5371709	13.3971527	hotel				
+node	4230430071	Hotel Transit Loft		52.5314025	13.4252221	hotel				https://www.transit-loft.de/
+node	4255703690	Hotel Zu Hause		52.5002404	13.3493552	hotel				
+node	4265717292	JETpak ALTERNATIVE		52.4958077	13.4433000	hostel				http://www.jetpakberlin.com/ALTERNATIVE.htm
+node	4317227893	36 Rooms		52.4984971	13.4311208	hostel				
+node	4382450197	nh hotel kurfurstendamm		52.5046291	13.3243832	hotel		NH Hotels		
+node	4392550841	Hotel 26		52.5120728	13.4512473	hotel				https://www.hotel26-berlin.de/
+node	4484594589	Mercure Berlin Wittenbergplatz		52.5009644	13.3424779	hotel		Mercure		
+node	4580264745	Excellent Apartments		52.5254525	13.3291398	hotel				https://www.booking.com/hotel/de/excellent-apartments-kreuzberg.en.html?aid=8134623&no_rooms=1&group_adults=2
+node	4612831606	12Monkeys		52.5025581	13.3058814	hostel				
+node	4675675367	Die Botschaft		52.4840670	13.5257771	hotel				http://www.die-botschaft.org/
+node	4687610336	Motel One		52.5049538	13.3330993	hotel		Motel One		https://www.motel-one.com/de/hotels/berlin/hotel-berlin-upper-west/
+node	4737798222	Diana		52.4020963	13.2591961	hotel				
+node	4809132621			52.4759248	13.2893286	hotel				
+node	4943607521	Homaris Westside		52.4903310	13.3305183	hotel				
+node	4976293448	Hotel de France		52.5583037	13.3392658	hotel	3			https://www.hotel-francais-berlin.de/
+node	4978140072	Citylight Hotel		52.5490807	13.3824018	hotel	2			
+node	5011909322	Pension Mädchenkammer	Maid Chamber's Hostel	52.5305610	13.4074100	hostel			Joe Völter	https://www.maedchenkammer.de/
+node	5097602328	Hotel VITA Berlin		52.5094009	13.2676595	hotel				https://hotel-vita-berlin.de/
+node	5223291532	Linnen		52.5415075	13.4090104	hotel				http://www.linnenberlin.com/
+node	5268753601	Midi-Inn City West		52.5001731	13.3151479	hotel				
+node	5310034544	Hotel Rossi		52.5280511	13.3638603	hotel			Botschaft für Kinder gGmbH	
+node	5333151777	Yggotel Spurv		52.4969360	13.3072420	hotel				
+node	5389604694	East West Hostel		52.5402432	13.3811836	hostel				http://east-west-hostel.de/
+node	5431053321	Orania		52.5020573	13.4169903	hotel				
+node	5486308620	Die Fabrik		52.4987527	13.4460051	hostel				
+node	5495541305	Hotel Dada Art Berlin		52.5060110	13.5178093	hotel				
+node	5503181816	Aparotel Berlin		52.5262160	13.3008679	hotel	3			
+node	5542698116	Hommage à Magritte		52.5037273	13.3239245	hotel				https://hommage-a-magritte.com/
+node	5557258162	Berlin Surf Hostel		52.4904432	13.3769808	hostel				http://www.Berlinsurfhostel.com
+node	5565151306	Coffee Inn Hostel		52.4941523	13.3602134	hostel				https://coffee-inn-hostel.com/
+node	5646230856	Old Town Hotel		52.5324385	13.4272336	hotel				
+node	5656522306	Lux 11		52.5245961	13.4098329	hotel				
+node	5769452453	Pension Bigus		52.5542790	13.4329370	hotel				
+node	5787896214	The Yard		52.4990505	13.3998484	hotel				
+node	5844370740	Meininger Hotel Berlin Tiergarten		52.5264498	13.3443412	hotel		Meininger		https://www.meininger-hotels.com/hotels/berlin/hotel-berlin-tiergarten/
+node	5976573882	Hotel Schulz		52.5086021	13.4339384	hotel			KGR Schulz Hotels Berlin 1 GmbH	
+node	6052683128	Hotel Indigo		52.5048892	13.4411735	hotel		Hotel Indigo		https://www.ihg.com/hotelindigo/hotels/us/en/berlin/beres/hoteldetail
+node	6279298220	High Park		52.5038501	13.3745107	hotel		Palmira	High Park Hospitality GmbH	
+node	6494495285	Pension pamina		52.4154603	13.3190401	hotel				
+node	6504618663	Hampton by Hilton Berlin City East Side Gallery		52.5050831	13.4412569	hotel	3	Hampton	Hilton	https://www.booking.com/hotel/de/hampton-by-hilton-berlin-city-east-side-gallery.en.html?aid=8134623&no_rooms=1&group_adults=2
+node	6710315453	Campanile		52.3927539	13.5012006	hotel		Campanile		https://berlin-brandenburg-airport.campanile.com/de-de/
+node	6743790785	Miniloft Mitte Apartment Hotel		52.5291058	13.3800589	hotel				https://www.miniloft.com/
+node	6766887919	Hostel Classic Plus		52.4633916	13.4683478	hostel				
+node	6835710242	Aparthotel Thüringer Hof		52.4804439	13.4350482	hotel				https://www.booking.com/hotel/de/apartment-im-thuringer-hof.en.html?aid=8134623&no_rooms=1&group_adults=2
+node	7092814585	Odin Pension Berlin		52.5514119	13.4427705	hotel				https://pension-odin.de
+node	7233815620	Columbia		52.4852509	13.3850434	hotel				https://www.booking.com/hotel/de/columbia.en.html?aid=8134623&no_rooms=1&group_adults=2
+node	7600028683	aletto Hotel Potsdamer Platz		52.5001769	13.3760022	hotel		Aletto		https://www.aletto.de/de/potsdamer-platz/
+node	8687424511	Hotel Pension Spree		52.4929325	13.3295959	hotel				https://hotel-pension-spree.de/
+node	8850098207	Gold Palais Hotel		52.5292395	13.4254907	hotel				https://www.booking.com/hotel/de/gold-palais.en.html?aid=8134623&no_rooms=1&group_adults=2
+node	8868375328	W22		52.4950300	13.3099752	hotel				
+node	9157063993	St. Christopher's Inn		52.5236086	13.3909504	hostel		St Christopher's Inn		https://www.st-christophers.co.uk/berlin/mitte-hostel
+node	9310534784	Karibuni		52.4797870	13.4318526	hotel				
+node	9492257618	the niu Flash		52.5197746	13.3263128	hotel		the niu	Novum Hotels	https://the.niu.de/hotels/deutschland/berlin/the-niu-flash
+node	9492257619	Candlewood Suites by IHG		52.5198579	13.3263718	hotel		Candlewood Suites by IHG	IHG Hotels & Resorts	https://www.booking.com/hotel/de/candlewood-suites-berlincharlottenburg.en.html?aid=8134623&no_rooms=1&group_adults=2
+node	9500078548	Hotel - Pension Bregenz		52.4978490	13.3132384	hotel				
+node	9531153625	Hotel - Pension Schäfer		52.4544813	13.5163491	hotel	3			
+node	9737036234	Pension am Kaiserdamm		52.5110230	13.2864096	hostel				
+node	9756859275	Wyndham Garden Berlin Mitte		52.5550023	13.3870409	hotel		Wyndham Garden		
+node	9781500619	Big City Hostel		52.4687878	13.3852228	hostel				
+node	9831368068	Jugendgästehaus Köpenicker Kanusportclub		52.4571962	13.5405454	hostel			Köpenicker Kanusportclub e. V.	https://www.kkc-berlin.de/jugendgaestehaus/
+node	10003704986	Gikon		52.5315817	13.3282694	hostel				
+node	10035927974	Numa Vonder		52.5056340	13.3803246	hotel				
+node	10108628617	IB Wohnheim		52.4283554	13.3707656	hostel				
+node	10110772202	Jugendgästehaus Lichterfelde		52.4177809	13.3147181	hostel			Jugendgästehaus Lichterfelde	https://www.ju-li.de/
+node	10171428170	Apartment Rosenthal Residence		52.5291516	13.4020396	hotel				https://rosenthal-residence.com/
+node	10177767114			52.5232399	13.3013556	hotel				
+node	10188696588	Hotel Kaiser		52.5109866	13.2929373	hotel				https://www.kaiser-hotel.de
+node	10250205410	Holiday Inn Berlin City West		52.5404874	13.2623438	hostel				
+node	10264516383	Telegraphenamt		52.5239814	13.3945066	hotel				https://telegraphenamt.com/
+node	10276710009			52.4633844	13.5141045	hotel				
+node	10287664798	Gästehaus		52.5095201	13.3627532	hotel				
+node	10300297452	Savi		52.5061478	13.3118402	hotel		Numa Group GmbH		https://numastays.com/de/locations/germany/berlin/charlottenburg/savi
+node	10536418997	Premier Inn Berlin City Wilmersdorf		52.4956000	13.3300815	hotel		Premier Inn		https://www.premierinn.com/de/de/hotels/deutschland/berlin/berlin/berlin-city-wilmersdorf.html
+node	10555650464	Urban Loft		52.5317478	13.3666101	hotel				https://urbanlofthotels.com/berlin
+node	10660741827	Hotel Romy by Amano		52.5269463	13.3699087	hotel		Amano		https://www.amanogroup.de/de/hotels/romy/
+node	10725958498	KPM Hotel & Residences		52.5156483	13.3323459	hotel				https://www.kpmhotel.de/
+node	10869066315	Ocak Hotel		52.5506723	13.3922786	hotel			Ocak Touristik GmbH	
+node	10873044262	harry's home Berlin		52.5253504	13.3417594	hotel				https://harrys-home.com/berlin/
+node	10879163306	Hotel Comenius		52.5126315	13.4507179	hotel				
+node	10893192315	Squat Deluxe Berlin		52.5057219	13.5021553	hostel				
+node	11134518918	Wilmina		52.5074621	13.2973266	hotel				https://wilmina.com/
+node	11177448936	Locke at East Side Gallery		52.5059400	13.4376576	hotel		Locke		https://www.lockeliving.com/en/berlin/locke-at-east-side-gallery
+node	11188353278	Minimal No. 43		52.4940807	13.4250583	hostel				
+node	11188353279	Minimal No. 41		52.4938537	13.4255357	hostel				
+node	11310222651	Yess Hostel		52.5580802	13.3741700	hostel				https://yesshostel.de/
+node	11372835433	Château Royal		52.5176892	13.3859349	hotel				https://www.chateauroyalberlin.com
+node	11487413269	EBERTY		52.5244983	13.4524568	hotel				
+node	11652990583	Space Night		52.5104390	13.3968580	hostel				https://spacenight.berlin/
+node	11734243289	Hotel Nest		52.4300811	13.4779961	hotel				
+node	11775416924	Hotel Sylter Hof		52.5034615	13.3475706	hotel				https://www.hotelsylterhofberlin.de
+node	11946096933	MM:NT Berlin Lab		52.5223758	13.4040111	hotel			Adina Germany Holding GmbH & Co. KG	https://mmnt-intime.com
+node	11986523969	B&B HOTEL Berlin-Kreuzberg		52.4998288	13.3708870	hotel		B&B Hotels		https://www.hotel-bb.com/de/hotel/berlin-kreuzberg
+node	12038466272	Novum Hotel Kronprinz Berlin		52.4973176	13.2869013	hotel	4	Novum Hotel	NOVUM Hospitality	
+node	12099738108	Nook		52.5238485	13.3996705	hotel				
+node	12133483251	H10 Berlin Ku'damm		52.5019694	13.3314215	hotel	4	H10 Hotels		https://www.booking.com/hotel/de/h10-berlin-ku-damm.en.html?aid=8134623&no_rooms=1&group_adults=2
+node	12253955912	Residenz Begaswinkel		52.5035472	13.3582598	hotel				http://residenz-begaswinkel.de/
+node	12363208408	Central		52.5430116	13.4386484	hostel				
+node	12409543504	Jugendherberge Berlin-Ostkreuz		52.5040657	13.4712242	hostel		Deutsches Jugendherbergswerk	Deutsches Jugendherbergswerk	https://www.jugendherbergeberlinostkreuz.de/
+node	12416069003	art'otel		52.5123925	13.4098920	hotel		Art'otel		
+node	12617796003	Living Hotel Weißensee		52.5543073	13.4572600	hotel	4	Derag		https://www.living-hotels.com/standorte/berlin/living-hotel-weissensee
+node	12726935098	Apple City Hotel		52.5270362	13.3411650	hotel				https://www.booking.com/hotel/de/apple-city.en.html?aid=8134623&no_rooms=1&group_adults=2
+node	12763392781	Ootel.com Hotel & Hostel		52.5250835	13.5305960	hostel				https://ootel.co/de/
+node	12828556104	the niu Dwarf		52.4785441	13.3534193	hotel		the niu		
+node	12997164609	Numa Berlin Friedrichshain		52.5129080	13.4663023	hotel		Numa		https://numastays.com/locations/germany/berlin/friedrichshain/friedrichshain
+node	13023358601	Bellman Hotel		52.4639833	13.4443307	hotel			Bellman Hotels GmbH	https://bellman-hotel.com/
+node	13130393601	AMANO Home		52.5285287	13.4098401	hotel				https://www.amanogroup.com/
+node	13206808573	Wallyard Concept Hostel		52.5275002	13.3451836	hostel				
+node	13571295435	Grand Inn Hotel Weißensee		52.5486171	13.4516179	hotel				https://grandinn-weissensee.com/
+node	13900033103	Good Morning+ Berlin City East		52.5218143	13.4851683	hotel	3			https://www.booking.com/hotel/de/ligula-good-morning-berlin-city-east.en.html?aid=8134623&no_rooms=1&group_adults=2
+node	14024313728	Living in the box		52.5122448	13.4167984	hostel				
+node	14072522034	Hotel Ambert		52.4947218	13.3092397	hotel				
+node	14197308101	Scandic Charlottenburg		52.4996623	13.3216135	hotel				https://www.scandichotels.com/de/hotels/scandic-charlottenburg
+node	14225418940	Chill Inn Berlin		52.5016798	13.4905099	hostel			IKEB Interkulturelle Erwachsenenbildung und Sprachvermittlungsservice GmbH	https://www.chill-inn-berlin.de
+way	7646337	Ibis Berlin Messe		52.5069603	13.2801104	hotel		Ibis		http://www.ibishotel.com/de/hotel-0657-ibis-berlin-messe/index.shtml
+way	16095527	Sheraton Berlin Grand Hotel Esplanade		52.5055845	13.3548516	hotel		Sheraton		
+way	22986535	Azimut Hotel Berlin Kurfürstendamm		52.5046707	13.3319536	hotel	3		"Azimut Hotels Company, LLC"	
+way	23278333	Soho House Berlin		52.5277678	13.4156560	hotel				https://www.sohohouse.com/de/houses/soho-house-berlin
+way	23482470	Umweltzentrum Fuchsbau		52.4659702	13.5444123	hostel			NaturFreunde Deutschland	https://www.naturfreundejugend-berlin.de/projekte/fuchsbau
+way	23631271	Old Town Hostel		52.5441769	13.4161442	hostel				
+way	23695971	Hostel Pfefferbett		52.5315132	13.4107757	hostel				
+way	23723125	Park Inn by Radisson Berlin-Alexanderplatz		52.5228447	13.4127883	hotel		Park Inn		
+way	23748095	Motel One		52.5232212	13.4086096	hotel		Motel One	Motel One Berlin Hackescher Markt	
+way	23853138	Alexander Plaza		52.5215989	13.4041455	hotel			Classic Hotel Collection	
+way	23910829	Don-Bosco-Zentrum Berlin		52.5508857	13.5461748	hostel				https://www.donbosco-berlin.eu/Ueber-uns
+way	23970967	New Berlin		52.5243463	13.4484241	hotel	4			
+way	23972060	Loginn Hotel Berlin Airport		52.3985474	13.5412002	hotel				https://achat-hotels.com/berlin
+way	24531220	Hotel MANI by AMANO		52.5292897	13.3996500	hotel	3			
+way	24733538	Hotel Aquino		52.5271087	13.3847383	hotel				
+way	24865198	Lindner Hotel Berlin Am Ku'damm		52.5039087	13.3293823	hotel	4	Hyatt	Hyatt Hotels Corporation	https://www.hyatt.com/jdv-by-hyatt/en-US/berjb-lindner-hotel-berlin-kudamm
+way	24865205	Hotel Bristol Berlin		52.5037252	13.3270945	hotel				
+way	25557953	Motel One Berlin-Hauptbahnhof		52.5257606	13.3657297	hotel		Motel One		
+way	25946425	Motel One Berlin-Spittelmarkt		52.5106982	13.4008590	hotel		Motel One		
+way	26133873	A&O Berlin Kolumbus		52.5392065	13.4981371	hotel		A&O		https://www.aohostels.com/de/berlin/berlin-kolumbus/
+way	26255599	Quentin Berlin am Kurfürstendamm		52.4988710	13.3090566	hotel			Quentin Hotels	
+way	26408075	25hours Hotel Bikini Berlin		52.5056319	13.3378992	hotel				
+way	26412513	DoubleTree by Hilton Berlin Ku'damm		52.5026860	13.3353667	hotel		DoubleTree	Hilton	https://www.hilton.com/de/hotels/berdidi-doubletree-berlin-kudamm/
+way	26640312	Hotel Arrival		52.4998409	13.3343926	hotel				
+way	26706310	Air in Berlin		52.5041703	13.3421991	hotel				
+way	26706314	Crowne Plaza Berlin City Centre		52.5039062	13.3407246	hotel	4	Crowne Plaza		
+way	26706521	Radisson RED		52.5014225	13.3313921	hotel		Radisson RED		
+way	26707722	Dormero Berlin Ku'damm		52.5004066	13.3340595	hotel				https://www.dormero.de/hotel-berlin-kudamm/
+way	26708018	Scandic Berlin Kurfürstendamm		52.5000615	13.3382003	hotel		Scandic Hotels		https://www.scandichotels.com/de/hotels/scandic-berlin-kurfurstendamm
+way	26777822	Hotel Bellevue		52.4962264	13.3203472	hotel				http://www.hotelbellevueberlin.de
+way	28032846	Hammers Landhotel		52.3742711	13.2627152	hotel				https://www.hammers-landhotel.de/index.php?modul=ModulStartseite
+way	28497169	B&B Hôtel		52.5105459	13.2960696	hotel		B&B Hotels		https://www.hotel-bb.com/de/hotel/berlin-charlottenburg
+way	28681362	Jetpak		52.4655706	13.2708450	hostel				
+way	29056578	NH Berlin Alexanderplatz		52.5229411	13.4367712	hotel				
+way	29214537	Generator Berlin Prenzlauer Berg		52.5297015	13.4555855	hostel			Generator	https://www.generatorhostels.com/destinations/berlin/prenzlauer-berg
+way	29386807	Singer109		52.5167385	13.4253636	hostel			J.A.G. Apartments GmbH	
+way	29483601	Comfort Hotel Lichtenberg		52.5334823	13.5174880	hotel			BCA Hotels	
+way	30098329	Jugendbildungsstätte Kaubstraße		52.4879274	13.3107609	hostel			Alte Feuerwache e.V.	
+way	30154873	enjoy hotel Berlin City Messe		52.4844135	13.3081676	hotel				
+way	30215600	Holiday Inn Berlin City-West		52.5404791	13.2620204	hotel	4	Holiday Inn		https://www.hotel-berlin-city-west.com/
+way	30351183	Bornholmer Hof		52.5528250	13.4125605	hotel				https://www.bornholmer-hof.de/
+way	30566431	KomfortHotel Großbeeren		52.3669695	13.3159148	hotel				
+way	30789095	Apartment Hotel Dahlem		52.4537636	13.2729783	hotel	0			
+way	31523527	Herberge Fritz-Lesch-Straße		52.5432077	13.4747538	hostel				
+way	32493074	Townhouse Berlin		52.5085427	13.3243292	hotel				https://www.vagabondclub.com/berlin
+way	32521584	Das Andere Haus VIII		52.4935885	13.4853609	hotel				
+way	33833697	JW Marriott Hotel Berlin		52.5073674	13.3639339	hotel		JW Marriott		https://www.marriott.com/en-us/hotels/berjw-hotel-berlin-central-district/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0
+way	34871206	Hotel Ravenna		52.4585899	13.3167909	hotel				
+way	34910017	Eckstein		52.4639602	13.3169723	hotel				https://www.hoteleckstein.de/
+way	35272759	Aparion Apartments Berlin		52.4296781	13.3011502	hotel				https://www.aparion.de/
+way	36811138	Premier Inn - Berlin City Spittelmarkt Hotel		52.5100655	13.4050859	hotel		Premier Inn	Premier Inn	
+way	37042105	IntercityHotel Berlin Airport Area North		52.3922163	13.5183063	hotel		IntercityHotel	Steigenberger Hotels	https://hrewards.com/es/intercityhotel-berlin-airport-area-north
+way	38019608	Hotel Berliner Bär		52.4664677	13.3949151	hotel	3			https://www.hotel-berliner-baer.de/
+way	38383464	Meininger Berlin Hauptbahnhof		52.5242447	13.3677303	hostel	3	Meininger	Meininger Shared Services GmbH	https://www.meininger-hotels.com/de/hotels/berlin/hauptbahnhof
+way	38554249	Premier Inn Berlin City Süd Hotel		52.4366245	13.4641291	hotel	3			
+way	39116031	Hotel Grand Inn		52.5242078	13.5358661	hotel				
+way	39496774	St Christopher's Berlin Alexanderplatz Hotel		52.5237186	13.4162146	hotel		St Christopher's Hotel		
+way	40128237	ibis Styles Berlin Treptow		52.4587537	13.5131735	hotel	4	Ibis Styles		https://all.accor.com/hotel/B626/index.de.shtml
+way	40761659	Carolinenhof		52.4896147	13.3283616	hotel	3			https://carolinenhof-berlin.de/
+way	42042166	Ringhotel Seehof Berlin		52.5071491	13.2888550	hotel				
+way	42163095	Me and All Hotel Berlin East Side		52.5099870	13.4295716	hotel	3	Hyatt		https://www.hyatt.com/me-and-all-hotels/de-DE/berje-me-and-all-hotel-berlin-east-side
+way	42505660	Allee-Hotel Berlin		52.4862206	13.5348201	hotel				https://www.allee-hotel-berlin.de/
+way	42555217	"FEZ-Berlin, Bungalowdorf Nord"		52.4663500	13.5469679	hostel				https://landesmusikakademie-berlin.de/vermietung/unterkunft/
+way	43906841	Main Station Hotel & Hostel		52.5343494	13.3447566	hostel				
+way	44608896	Mercure Hotel Berlin Tempelhof		52.4785345	13.4265453	hotel		Mercure	Accor Hotels	
+way	45570779	Hotel Molks		52.5460200	13.5109605	hotel				
+way	46096321	Gat Point Charlie		52.5088383	13.3881787	hotel				http://www.gatrooms.de/en/hotel-gat-point-charlie/h3/
+way	46100261	Abacus Tierpark Hotel		52.5004366	13.5204516	hotel	4			
+way	47080628	limehome Berlin Stresemannstraße		52.5008985	13.3873838	hotel				
+way	47360193	Axel Hotel		52.4997039	13.3420212	hotel				
+way	48202902	East Side Hotel		52.5034058	13.4455168	hotel				
+way	49733547	EastSeven Berlin Hostel		52.5334686	13.4107237	hostel				
+way	49973931	Garner Hotel		52.4958035	13.3036775	hotel				https://www.ihg.com/garner-hotels/hotels/de/de/berlin/berrv/hoteldetail
+way	52008272	Studentenhotel Hubertusallee		52.4843085	13.2822704	hotel				
+way	53258191	Lazarus Gästehaus		52.5354629	13.3867338	hotel				https://www.gaestehaus-lazarus-berlin.de
+way	53332486	Hotel Grenzfall		52.5358076	13.3890006	hotel	3			https://hotel-grenzfall.de/
+way	53493698	Hostel Ballhaus Berlin		52.5320677	13.3801484	hostel				http://www.ballhausberlinhostel.de/de/hostel/
+way	53576716	Hotel 4 Youth		52.5396528	13.4020335	hotel				https://www.hotel4youth.de/
+way	53772103	Sana Hotel Berlin		52.4990803	13.3343625	hotel				
+way	60845776	Abion Villa		52.5226836	13.3468806	hotel				
+way	61670661	Holiday Inn Express Alexanderplatz		52.5156664	13.4118720	hotel		Holiday Inn Express	Holiday Inn	
+way	76239455	Haus Bismarck		52.4913100	13.2835002	hotel				
+way	81456696	Scandic Berlin Potsdamer Platz		52.5046856	13.3752450	hotel		Scandic Hotels		https://www.scandichotels.de/berlin
+way	86813081	nhow Berlin		52.5010947	13.4508476	hotel	4	nhow	NH Hotel Group	
+way	92335625	Hotel Berlin Potsdamer Platz		52.5015789	13.3831304	hotel		LEONARDO Hotels	Sunflower Management GmbH & Co KG	https://www.leonardo-hotels.de/berlin/hotel-berlin-potsdamer-platz-by-leonardo-hotels
+way	95024285	Arktur City Hotel		52.5163929	13.3108552	hotel				
+way	102413148	Centro Park Hotel Berlin Neukölln		52.4582326	13.4476597	hotel	4			https://www.centro-hotels.de/de/standorte/berlin/
+way	104011054	Titanic Comfort Hotel Berlin Mitte		52.5102170	13.4041856	hotel				
+way	104393230	Hotel Berlin Mitte by Campanile		52.5294246	13.3797143	hotel			nordic hotels	http://www.nordic-hotels.com/hotels/berlin-nordic-hotel-berlin-mitte/
+way	105210648	Hotel Amano		52.5282653	13.4028275	hotel			R & S Hotelbetriebsgesellschaft	
+way	106810312	Hotel Johann		52.4957593	13.4000330	hotel				
+way	106845513	June Six		52.5046507	13.3227089	hotel				https://june-six-hotels.com/de/hotels/berlin-city-west
+way	108607225	Minimal hostel		52.4980908	13.4468422	hostel				
+way	109159643	ApartHotel Landhaus Lichterfelde		52.4389688	13.3006710	hotel				
+way	113550809	Fjord Hotel Berlin		52.5033371	13.3704338	hotel			little BIG hotels Berlin & Brandenburg GmbH	https://littlebighotels.com/hotel-berlin/fjord-hotel-berlin/
+way	117395689	mk hotel berlin		52.5557087	13.3799659	hotel			Linder Gruppe	https://www.mkhotels.de/de_DE/hotels/berlin.html
+way	117500584			52.3840562	13.3128564	hotel				
+way	120456815	Moxy Berlin Humboldthain Park		52.5497793	13.3846239	hotel		Moxy		
+way	120472218	Pestana Berlin Tiergarten		52.5084185	13.3485652	hotel				
+way	125895871	Lindemann's		52.4937705	13.3613620	hotel			little BIG hotels Berlin & Brandenburg GmbH	https://littlebighotels.com/hotel-berlin/lindemanns/
+way	126128623	monbijou hotel		52.5231266	13.4003232	hotel				
+way	128979026	Almansi Hostel		52.5207914	13.4583631	hostel			Almansi Allround GmbH	https://www.al-mansi.com
+way	130661683	"Hotel Friedenau, Das Literaturhotel Berlin"		52.4700945	13.3377317	hotel				https://www.literaturhotel-berlin.de/
+way	131381658	B&B Hotel Berlin-Mitte		52.5237577	13.3838708	hotel		B&B Hotels	B&B Hotels	https://www.hotel-bb.com
+way	137049846	Ibis Budget		52.5028989	13.3446321	hotel		Ibis Budget	ibis	
+way	138539398	Miles Hotel Berlin		52.4309035	13.3285963	hotel				https://www.miles-hotel.de/
+way	142598680	Dorint Adlershof		52.4315953	13.5348669	hotel	3	Dorint		
+way	145641680	Apartmenthaus Petunie		52.4306515	13.4911485	hotel				
+way	149504921	Airporthotel Berlin - Adlershof		52.4325712	13.5343244	hotel	3			https://www.airporthotel-berlin-adlershof.de/
+way	153772871	ibis budget Berlin Alexanderplatz		52.5252146	13.4212342	hotel		Ibis Budget		
+way	175671140	Premier Inn Berlin City Centre Hotel		52.5040815	13.3470883	hotel		Premier Inn		https://www.premierinn.com/de/de/hotels/deutschland/berlin/berlin/berlin-city-centre.html
+way	175671144	Hotel Lützow		52.5060592	13.3483784	hotel	2			
+way	188033979	martas Hotel Albrechtshof Berlin		52.5220190	13.3841570	hotel	3			https://martas.org/hotels/martas-hotel-albrechtshof-berlin
+way	194079585	Capri by Fraser Hotel		52.5139481	13.4050099	hotel				https://www.frasershospitality.com/en/about-us/our-brands/capri-by-fraser.html
+way	195302828	Hotel am Buschkrugpark		52.4545132	13.4513011	hotel	2			http://www.hotel-am-buschkrugpark.de
+way	201855154	Steps Hotel		52.5522042	13.3604918	hotel			Helga H'lawatscheck	https://www.steps-hotel.de/
+way	205337276	Abenteuerzentrum im Grunewald		52.4730332	13.2707831	hostel			Fahrten-Ferne-Abenteuer Ferienwerk gemeinnützige GmbH	
+way	215055223	Matzbach		52.4892100	13.3954526	hotel				
+way	217996838	Gästehaus Pumpe		52.5053819	13.3586713	hostel				
+way	219905391	Hotel M-Pire		52.4323843	13.4724080	hotel				
+way	221951672	City Pension Sanader		52.4483114	13.3848740	hotel			City Pension Becerro GmbH	http://www.city-pension-sanader.de/
+way	223023512	Novum Aldea Berlin Zentrum		52.4976173	13.3604361	hotel	4		Novum	http://www.novum-hotels.de/hotel-aldea-berlin/hotel-aldea-information-berlin.php
+way	231258095	mondrian suites hotel		52.5063467	13.3952808	hotel				https://mondriansuites.com/
+way	231969555	Ibis Berlin Kurfuerstendamm		52.5025931	13.3446306	hotel		Ibis	ibis	https://www.accorhotels.com/gb/hotel-7961-ibis-berlin-kurfuerstendamm/index.shtml
+way	234435310	DJH Berlin International		52.5048992	13.3631460	hostel				http://www.jh-berlin-international.de
+way	237687062	Amano Grand Central		52.5272357	13.3703938	hotel				
+way	237687064	Ibis Berlin Hauptbahnhof		52.5271033	13.3701050	hotel		Ibis		
+way	242254364	Western Comfort		52.5031072	13.4437761	hostel				
+way	242254365	Eastern Comfort		52.5029089	13.4443355	hotel				
+way	253260469	Karl Marx Hostel		52.4744432	13.4398656	hostel				
+way	258654609	Hotel am Zwickauer Damm		52.4234108	13.4856853	hotel				
+way	268870899	Grimm's		52.5031081	13.3728164	hotel				
+way	272748506	Hotel ZOE		52.5230569	13.4009642	hotel			Amano Group	
+way	281844233	BIG MAMA		52.5582458	13.3802256	hotel				https://www.hotelbigmama.com/
+way	290078078	aletto Hotel Kudamm		52.5063013	13.3298734	hotel			aletto Service & Marketing GmbH	https://www.aletto.de
+way	305213424	Numa		52.5285212	13.4089116	hotel				
+way	306900087	Miniloft		52.5033493	13.3924951	hotel				
+way	314465934	B&B Hotel Berlin-Airport		52.3745077	13.5416929	hotel		B&B Hotels		
+way	317785085	limehome		52.5303179	13.4182794	hotel				
+way	336063501	IntercityHotel Berlin Ostbahnhof		52.5102177	13.4333413	hotel	3	IntercityHotel		https://hrewards.com/de/intercityhotel-berlin-ostbahnhof/
+way	341449063	Schullandheim Josef Lenz		52.4617586	13.2741297	hostel				
+way	370680968	HOLI Hostel & Hotel		52.5043786	13.4974838	hostel				https://www.holi-berlin.de/
+way	372676350	Lodgecity Berlin		52.5348997	13.4502650	hostel				
+way	379346459	Hotel Riu Plaza Berlin		52.5003918	13.3468798	hotel	4	RIU	RIU Hotels & Resorts	https://www.riu.com/en/hotel/germany/berlin/hotel-riu-plaza-berlin/
+way	385515318	iStay by NH Berlin CIty Ost		52.5136031	13.4819944	hotel	4	NH		
+way	387588992	H24 Hotel DXC - Gästehaus DONG XUAN		52.5268303	13.4876081	hotel				
+way	391603884	Titanic Chaussee Berlin		52.5324942	13.3817761	hotel				https://www.titanic.com.tr/titanicchausseeberlin/default-de.html
+way	397821440	Novum Style Hotel Aldea		52.4979108	13.3601044	hotel				
+way	404775652	Moxy Berlin Ostbahnhof		52.5110452	13.4299525	hotel	3	Marriott	Marriott	http://www.moxyberlinostbahnhof.com/
+way	405536360	B&B Hotel Berlin-Tiergarten		52.5143847	13.3313527	hotel	2	B&B Hotels	B&B	https://www.hotelbb.de/de/berlin-tiergarten
+way	414161389	Titanic Gendarmenmarkt Berlin		52.5149041	13.3946751	hotel				
+way	419002710	Jugendgästehaus Mitte		52.5469607	13.3517598	hostel				https://jgh-berlin.de/
+way	419002712	Smarthostel Berlin		52.5473492	13.3523627	hostel				http://www.smarthostel-berlin.de/
+way	419912417	Hotel Graf Pückler		52.5415734	13.3720199	hotel				https://www.hotel-graf-pueckler.de/
+way	422215868	INNSiDE Berlin Mitte		52.5330153	13.3807676	hotel	4	INNSiDE by Meliá		https://www.melia.com/de/hotels/deutschland/berlin/innside-berlin-mitte
+way	422394300	HSH Hotel Apartments Mitte		52.5310814	13.3839017	hotel				
+way	422628059	Mercure Hotel Berlin City		52.5305751	13.3814743	hotel		Mercure		https://all.accor.com/hotel/5341/index.de.shtml
+way	422928024	martas Hotel Allegra Berlin		52.5221571	13.3848604	hotel	3			https://martas.org/hotels/hotel-allegra-berlin
+way	423871581	AC Hotel Berlin Humboldthain Park		52.5495035	13.3842045	hotel		AC Hotel		
+way	423971811	A&O Berlin Hauptbahnhof		52.5292771	13.3642517	hostel		A&O		https://www.aohostels.com/de/berlin/berlin-hauptbahnhof
+way	424064502	Motel One Berlin-Bellevue		52.5200561	13.3562604	hotel		Motel One		https://www.motel-one.com/de/hotels/berlin/hotel-berlin-bellevue/
+way	425327567	Arcotel Velvet Berlin		52.5258593	13.3882929	hotel				
+way	426091249	Virchow-Gästehaus der Charité		52.5429989	13.3390657	hotel				https://gaestehaus.charite.de/
+way	426559385	AWO Refugim (Flüchtlingsheim)		52.5416691	13.3280325	hotel				https://www.jugendgaestehausberlin.de/
+way	427502956	Cube Lodges		52.5336700	13.3841954	hotel				
+way	430842032	Ginn City & Lounge Yorck Berlin		52.4928285	13.3791228	hotel			GINN und GOLD INN Hotels	
+way	447901512	Hampton by Hilton Berlin City West		52.5049589	13.3261847	hotel	3	Hampton	Hilton Hotels	
+way	464524861	Hampton by Hilton Berlin City Centre Alexanderplatz		52.5247940	13.4188035	hotel	3	Hampton	Hilton	https://www.hilton.com/en/hotels/berhxhx-hampton-berlin-city-centre-alexanderplatz
+way	474620658	Living Hotel Weißensee		52.5544505	13.4571244	hotel				
+way	506743681	Meininger Hotel Berlin East Side Gallery		52.5083056	13.4362647	hostel		Meininger		https://www.meininger-hotels.com/de/hotels/berlin/east-side-gallery/
+way	509448182	B&B Hotel Berlin-Alexanderplatz		52.5174243	13.4152060	hotel		B&B Hotels	B&B Hotels	
+way	543332300	Hotel-Engelke		52.5358960	13.5602010	hotel				http://www.hotel-engelke-berlin.de/
+way	558863058	Motel One		52.5197824	13.4124695	hotel		Motel One		
+way	683461673	numa | Drift Rooms & Apartments		52.5001922	13.3527457	hotel				https://numastays.com/locations/drift
+way	709847168	Jugendbegegnungsstätte Spreeinsel		52.4900677	13.4804828	hostel			Alte Feuerwache e.V.	
+way	739082794	Motel One Berlin-Tiergarten		52.5024577	13.3478251	hotel		Motel One		
+way	757871339	The Ritz-Carlton		52.5104092	13.3752260	hotel	5	The Ritz-Carlton		
+way	772452798	Hotel Garni El-Condor		52.3969725	13.5311698	hotel				https://www.hotel-berlin-schoenefeld.net/
+way	877635909	Garner Checkpoint Charlie		52.5030192	13.3893662	hotel				
+way	883806228	Grimm's Berlin-Potsdam		52.3959380	13.2683206	hotel		Grimm’s Hotel		https://www.grimms-hotel.de/hotel-berlin-potsdam/
+way	893956651	Hotel Pension Blumenbach		52.5411038	13.5545637	hotel				
+way	927149108	Ağa's Hotel		52.5162364	13.5199065	hotel			Habitat Stay Berlin GmbH	
+way	951268573	Adina Apartment Hotel Berlin Mitte		52.5284520	13.3776025	hotel		Adina Hotels		
+way	970032515	AMANO		52.5095032	13.4312444	hotel				https://www.amanogroup.de/en/hotels/amano-east-side/
+way	1014916947	Ibis Hotel		52.4609605	13.4444779	hotel	3	Ibis		
+way	1024193199	Sorat Hotel Berlin		52.5037345	13.3446241	hotel		Sorat Hotels		https://www.sorat-hotels.com/de/hotel/berlin
+way	1042973533	Moxy Berlin Airport		52.3754764	13.5436518	hotel		Marriott	Marriott	https://www.marriott.de/hotels/travel/beroa-moxy-berlin-airport/
+way	1102434811	Premier Inn		52.3962083	13.5398270	hotel		Premier Inn		
+way	1105785685	HOLI Hostel & Hotel		52.5042895	13.4972786	hostel				https://www.holi-berlin.de/
+way	1157288903	The Social Hub		52.5168001	13.4174868	hotel				https://thesocialhub.co/berlin-mitte
+way	1232429383	ibis Berlin Airport		52.3986546	13.5420306	hotel		Ibis		https://all.accor.com/hotel/B913/index.de.shtml
+way	1237049221	Schlosshotel im Grunewald		52.4803932	13.2743507	hotel				
+way	1414141828	Meininger Hotel Tiergarten		52.5266984	13.3442001	hotel		Meininger		https://www.meininger-hotels.com/en/hotels/berlin/hotel-berlin-tiergarten/
+relation	4447	"Hotel Berlin, Berlin"		52.5036553	13.3517224	hotel				
+relation	2119133	Steigenberger Airport Hotel Berlin		52.3639400	13.5117472	hotel		Steigenberger Hotels & Resorts	Steigenberger Hotels GmbH	
+relation	2119185	IntercityHotel Berlin Airport BER Terminal 1+2		52.3642055	13.5128669	hotel		IntercityHotel	IntercityHotel GmbH	
+relation	4073531	InterContinental Berlin		52.5072545	13.3454112	hotel		InterContinental		
+relation	4582978	Adlon Kempinski		52.5155764	13.3803341	hotel	5	Kempinski	Kempinski	
+relation	5435251	Estrel Hotel		52.4730810	13.4596556	hotel	4			
+relation	9729459	Amo by Amano		52.5258671	13.3878522	hotel				
+relation	10339767	Catalonia Berlin-Mitte		52.5114758	13.4157770	hotel		Catalonia Hotels & Resorts		https://cataloniahotels.com/de/hotel/catalonia-berlin-mitte
+relation	14261343	IntercityHotel Berlin Hauptbahnhof		52.5236393	13.3667109	hotel	4	IntercityHotel		https://hrewards.com/de/intercityhotel-berlin-hauptbahnhof/
+relation	14261344	Steigenberger Hotel Am Kanzleramt		52.5236418	13.3677274	hotel			Steigenberger Hotels AG	
+relation	14388847	Habyt - The Waterfront		52.5013498	13.4742676	hotel				https://thewaterfront.habyt.com/
+relation	14587479	Motel One Berlin-Mitte		52.5042256	13.4115315	hotel		Motel One		
+relation	19150030	the niu Hide		52.5144471	13.4767083	hotel		the niu		

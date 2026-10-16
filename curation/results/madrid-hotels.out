@@ -1,0 +1,503 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	27505490	Room Mate Mario Hotel		40.4188562	-3.7093262	hotel	2	Room Mate	Room Mate	https://room-matehotels.com/en/mario/
+node	143098199	"Habitaciones ""Aránzazu"""		40.4859586	-3.6901398	hostel				
+node	151223418	"Pensión ""Mónica"""		40.4855764	-3.6896661	hostel				
+node	167301876	NH Nacional		40.4098332	-3.6928352	hotel				
+node	167302201	Hotel México		40.4114334	-3.6943236	hotel				
+node	167302776	The Palace		40.4154544	-3.6958024	hotel	5	The Luxury Collection	Marriot Vonvoy	https://www.marriott.com/es/hotels/madcl-the-palace-a-luxury-collection-hotel-madrid/overview/
+node	167302845	Hotel Villa Real 5		40.4157301	-3.6970821	hotel				https://hotelvillareal.com
+node	167302909	Hostal Olga		40.4168278	-3.6969322	hotel				
+node	184049166	Hotel Preciados		40.4196853	-3.7074213	hotel				https://www.preciadoshotel.com/
+node	184049190	Palacio San Martín		40.4186548	-3.7066997	hotel	4		Intur	https://www.hotelpalaciosanmartin.es/
+node	184049280	Hotel Europa		40.4175269	-3.7035489	hotel	3			https://www.hoteleuropa.eu/
+node	184049319	Hotel Liabeny		40.4187423	-3.7039628	hotel	4			https://www.liabeny.es/
+node	184049325	Petit Palace Plaza del Carmen		40.4189577	-3.7028511	hotel	3	Petit Palace Hotelity	Hotelatelier	https://www.petitpalaceplazadelcarmen.com/
+node	184049332	Anaco		40.4192843	-3.7030373	hotel	3			
+node	184049345	Hotel Arosa		40.4197760	-3.7031275	hotel	4			http://www.hotelarosa.es
+node	184049427	Hotel II Castillas		40.4192335	-3.7043567	hotel				https://www.hoteldoscastillas-madrid.com/
+node	184049463	Hotel Atlántico		40.4203920	-3.7045921	hotel				https://www.hotelatlantico.es/en/home/
+node	252162464	Ibis Madrid Aeropuerto Barajas		40.4698335	-3.5807416	hotel	2	Ibis		https://all.accor.com/hotel/3753/index.es.shtml
+node	254186223	Hotel Clement Barajas		40.4709687	-3.5799099	hotel	4			https://www.clementhoteles.com/
+node	265641928	Hotel VillaMadrid		40.4895942	-3.6881339	hotel				
+node	266169495	Apartahotel Avenida de America		40.4370892	-3.6720933	hotel				
+node	291274257	Líbere Madrid Chamberí		40.4383553	-3.7007985	hotel	3	Líbere Hospitality Group		https://www.staylibere.com/es/apartamentos/libere-madrid-chamberi
+node	298447728	NH Zurbano		40.4386660	-3.6930029	hotel				
+node	302793534	Caballero Errante		40.4660938	-3.6959871	hotel				
+node	551479420	The Cortezo		40.4136556	-3.7034629	hotel				https://www.hotelcortezo.com/
+node	559825558	Rafaelhoteles Atocha		40.4013807	-3.6870924	hotel				https://www.rafaelhoteles.com/en/hotels/madrid-atocha/hotel.html
+node	574676088	Hotel Adler		40.4253805	-3.6843535	hotel				
+node	587966694	Hotel Praga		40.3941108	-3.7077471	hotel	4			https://www.hotelmadridpraga.com/
+node	603606242	Hotel Barajas Plaza		40.4728793	-3.5769167	hotel				https://hotelbarajasplaza.es/
+node	614128259	Hotel Carlton		40.4051563	-3.6936762	hotel				https://www.marriott.com/en-us/hotels/madca-ac-hotel-carlton-madrid/overview/
+node	622204641			40.4126365	-3.7041269	hotel				
+node	623087156	Florida Norte		40.4210869	-3.7213244	hotel			Celuisma	http://www.hotelceluismafloridanorte.com/
+node	674161584	NH Atocha		40.4078147	-3.6894036	hotel				https://www.nh-hotels.com/hotel/nh-madrid-atocha
+node	818867673	Urban		40.4164306	-3.6986845	hotel				
+node	847927735	Hotel Regina		40.4179496	-3.6998271	hotel				https://www.hotelreginamadrid.com/es/
+node	1034429267	Casón del Tormes		40.4222346	-3.7116559	hotel	3			https://www.hotelcasondeltormes.com/
+node	1128664823	apartahotel Andrómeda		40.4286482	-3.6944023	hotel				
+node	1178485602	Ok Hostel Madrid		40.4111834	-3.7067753	hostel				http://okhostels.com
+node	1217122790	Sercotel Madrid Aeropuerto		40.4578620	-3.5833584	hotel	4	Sercotel		
+node	1231396519	Best Western Los Condes		40.4219032	-3.7065439	hotel		Best Western		http://www.bestwestern.es/hotels/best-western-hotel-los-condes-madrid-92200
+node	1280769945	Artiem Madrid		40.4427930	-3.6480569	hotel	4			https://www.artiemhotels.com/de/artiem-madrid
+node	1401013068	NH Paseo del Prado		40.4147214	-3.6946717	hotel	5		NH	https://www.nh-hoteles.es/hotel/nh-collection-madrid-paseo-del-prado
+node	1428141706	Casual Madrid del Teatro		40.4163519	-3.6996012	hotel				
+node	1437313178	Hostal Don Pedro		40.3871908	-3.7450882	hotel				http://hostaldonpedro.es/
+node	1437313179	Hostal Granado Madrid		40.3867621	-3.7449782	hotel	2			
+node	1517405730	Hotel Mediodía		40.4085554	-3.6930056	hotel				https://www.mediodiahotel.com/
+node	1530664314	Innside Madrid Gran Vía		40.4205001	-3.7039558	hotel	4	INNSiDE by Meliá	Meliá Hotels International	https://www.melia.com/es/hoteles/espana/madrid/innside-madrid-gran-via
+node	1559375939	Hotel Pirámides		40.4025520	-3.7115330	hotel		Actahotels		
+node	1572572830	Way Hostel		40.4126025	-3.7032679	hostel	2			https://www.wayhostel.com/
+node	1671727087	Hotel Sterling		40.4230383	-3.7076690	hotel				https://www.hotelsterlingmadrid.com/
+node	1782593899	Hotel Quatro Puerta del Sol		40.4170440	-3.6999620	hotel	4			https://www.hotelquatropuertadelsol.com/
+node	1818297039	Hotel Intercontinental		40.4362864	-3.6901999	hotel				
+node	1937730956	Albergue juvenil Santa Cruz de Marcenado		40.4297917	-3.7132155	hostel			Comunidad de Madrid	
+node	1956470842	Hotel Madrid Gran Vía 25		40.4198819	-3.7021748	hotel	3	Affiliated by Meliá	Meliá Hotels International	https://www.melia.com/es/hoteles/espana/madrid/hotel-madrid-gran-via-25-by-melia
+node	1988186849	Hotel Julia		40.4342064	-3.6327301	hotel				
+node	1997906072	Leonardo Boutique Hotel Madrid		40.4373090	-3.7085526	hotel	3	Leonardo Boutique		https://www.leonardo-hotels.com/leonardo-boutique-hotel-madrid
+node	2043171005	Apartahotel Rosales		40.4296401	-3.7187350	hotel				
+node	2043576532	Hostal Argentina		40.4062398	-3.6921657	hostel				
+node	2077053403	Hotel Reyes Católicos		40.4099286	-3.7132001	hotel				https://hrc-hotel.com/
+node	2078129743	Hostal Cartagena		40.4055880	-3.6948180	hostel				
+node	2078657580	Hostal Viky		40.4736986	-3.5759037	hotel	2			
+node	2135060319	Hotel Gran Legazpi		40.3919291	-3.6959205	hotel				https://www.hotelgranlegazpi.com/en/
+node	2149714696	ibis Madrid Centro las Ventas		40.4305735	-3.6642811	hotel	2	Ibis	Accor Hotels	https://all.accor.com/hotel/7438/index.es.shtml
+node	2246112891	Las Musas		40.4114700	-3.7040660	hostel				http://www.lasmusashostel.com/
+node	2267671495	Hostal Sleep'n		40.4091457	-3.6930506	hotel				
+node	2289226446	Hotel Don Luis		40.4727052	-3.5786430	hotel	3			http://hoteldonluismadrid.com/
+node	2388718988	Bed Madrid Rooms		40.4248891	-3.7005726	hostel				https://bedmadridhostel.com/
+node	2408678853	Hostal Arco Iris		40.4217398	-3.6769484	hotel				https://www.hostalarcoiris.com/elhostal.htm
+node	2462636795	Hotel Sancho		40.4001257	-3.6942132	hotel				https://www.hotel-sancho.com/
+node	2462664783	Ibis Styles		40.4286868	-3.7030148	hotel	2	Ibis Styles		https://all.accor.com/hotel/3318/index.es.shtml
+node	2475150019	Puerta De Toledo		40.4063141	-3.7122502	hotel				https://www.hotelpuertadetoledo.com/
+node	2494910627	Estudio Buhardilla Private Apartment		40.4130567	-3.6991919	hotel				
+node	2496742874	El Chaflan		40.4669664	-3.6743262	hotel				https://www.laposadadeelchaflan.com/
+node	2521707189	Hotel Catalonia Goya		40.4252621	-3.6821181	hotel	4		Hoteles Catalonia	
+node	2527081927	Hotel Sercotel Eurobuilding 2		40.4588114	-3.6946848	hotel				
+node	2546770612	Hostal San Blas		40.4101788	-3.6942818	hostel				
+node	2546794629	Urban Sea		40.4103649	-3.6946441	hotel				
+node	2552492976	"Radisson Blu Hotel, Madrid Prado"		40.4125483	-3.6941561	hotel		Radisson Blu		
+node	2579532762	Abalú		40.4238274	-3.7059039	hotel				https://www.hotelabalu.com/EXPLORAR_HOTEL.html
+node	2630204157	Inhala Hotel Garden		40.4206176	-3.7084668	hotel		Mercure	Mercure	
+node	2630205965	Hotel Emperador		40.4214124	-3.7081031	hotel	4			https://www.emperadorhotel.com/es/
+node	2631111008	Líbere Madrid Palacio Real		40.4186044	-3.7073053	hotel	3			
+node	2631114914	Petit Palace San Bernardo		40.4209011	-3.7083317	hotel		Petit Palace Hotelity	High Tech & Petit Palace	http://www.hotelpetitpalacesanbernardo.com/
+node	2639445526	Hotel Praktik Metropol		40.4197789	-3.7019599	hotel				
+node	2642295709	Tótem Hotel Madrid	Tótem Hotel Madrid	40.4264897	-3.6854696	hotel	3		NH	https://www.totem-madrid.com/
+node	2665097902	7Islas		40.4212694	-3.7019320	hotel				https://www.7islashotel.com/
+node	2669909221	Sercotel Gran Hotel Conde Duque		40.4309310	-3.7077583	hotel	4	Sercotel		https://www.sercotelhoteles.com/es
+node	2688156367	Espahotel Plaza de España		40.4224216	-3.7120835	hotel				https://www.apartamentos-plazaespana.com/
+node	2688156368	Jardines de Sabatini		40.4210274	-3.7149539	hotel				https://www.jardinesdesabatini.com/
+node	2688156369	Madfor		40.4214760	-3.7217761	hotel			Acta	https://www.hotel-madfor.com/en/
+node	2693010936	chic&basic dot Hotel		40.4184766	-3.7053497	hotel	3	chic&basic	chic&basic hotels	https://www.chicandbasic.com/es/hotel-dot-madrid/
+node	2694323114	Hotel Catalonia Gran Vía		40.4194120	-3.6990490	hotel			Hoteles Catalonia	https://www.hoteles-catalonia.com/es/nuestros_hoteles/europa/espanya/madrid/madrid/hotel_catalonia_gran_via/index.jsp
+node	2694323115	Nômade Temple Madrid		40.4195045	-3.6994402	hotel	5			
+node	2694323118	JW Marriott		40.4168336	-3.7001372	hotel		JW Marriott		
+node	2694323127	Room Mate Alicia Hotel		40.4144703	-3.7000819	hotel	3	Room Mate	Room Mate	https://room-matehotels.com/en/alicia/
+node	2694323129	La Posada de Huertas		40.4137620	-3.6993245	hostel				https://www.posadadehuertas.com/en/
+node	2697521928	Eurostars Madrid Gran Vía		40.4212206	-3.7099229	hotel		Eurostars Hotel Company	Exe	https://www.eurostarshotels.com/eurostars-madrid-gran-via.html
+node	2701070797	Hotel Regente		40.4196993	-3.7042750	hotel	3			https://www.hotelregente.com/
+node	2701070798	Hotel Avenida Gran Vía		40.4197225	-3.7041250	hotel	3			https://www.hotelavenidagranvia.com/
+node	2701070801	Hotel Negresco Gran Vía		40.4196133	-3.7041942	hotel				https://www.hotelnegrescogranvia.com/es/
+node	2727060491	Letoh Letoh Gran Via		40.4225737	-3.7108404	hotel		LETOH LETOH		http://www.letohletoh.com/madrid/
+node	2727060492	Exe Suites 33		40.4221591	-3.7105540	hotel		Exe Hotels	Exe	https://www.eurostarshotels.com/exe-suites-33.html
+node	2728979097	JC Rooms		40.4197256	-3.7089117	hotel			JC Hoteles	https://www.jchoteles-santodomingo.com/
+node	2774958692	JC Rooms Puerta del Sol		40.4184227	-3.7085149	hotel			JC Hoteles	https://www.jchoteles-puertadelsol.com/
+node	2777281750	Gran Meliá Fénix		40.4264685	-3.6893045	hotel				https://www.melia.com/es/hoteles/espana/madrid/gran-melia-fenix/index.html
+node	2777281751	NH Collection Madrid Colón		40.4262122	-3.6889557	hotel		NH Hotels	NH Hotels	https://www.nh-hotels.com/es/hotel/nh-collection-madrid-colon
+node	2782198964	Hotel Life		40.4231947	-3.7057497	hotel				https://www.hotellifemadrid.es/
+node	2824456977	Hotel Ópera		40.4189221	-3.7100475	hotel				https://www.hotelopera.com/
+node	2937735937	Barbieri SOL Hostel		40.4159746	-3.7017331	hostel				
+node	2946243939	Eurostars Madrid Tower		40.4767699	-3.6878884	hotel	5	Eurostars Hotel Company		https://www.eurostarshotels.com/eurostars-madrid-tower.html
+node	2979459797	Hotel One Shot Recoletos		40.4209214	-3.6913721	hotel			One Shot Hotels	https://www.hoteloneshotrecoletos04.com/
+node	3007302447	Catalonia Plaza España		40.4227300	-3.7094608	hotel		Catalonia Hotels & Resorts		https://www.senatorgranvia70spahotel.com/
+node	3007302449	Hotel Madrid Centro		40.4228672	-3.7096809	hotel		Affiliated by Meliá	Meliá	https://www.melia.com/es/hoteles/espana/madrid/hotel-madrid-centro-by-melia
+node	3007302522	Espahotel		40.4226116	-3.7099777	hotel				https://www.apartamentos-granvia.com/
+node	3219512224	Hostal Aeropuerto		40.4689912	-3.5808289	hotel	3			https://hostalaeropuerto.com/
+node	3235339925	Pestana CR7 Gran Vía Madrid		40.4199553	-3.7034004	hotel		Pestana CR7		https://www.pestanacr7.com/es/hotel/pestana-madrid-gran-via
+node	3237819724	Hostal Guerra		40.4168326	-3.7017647	hostel				http://hostalguerra.net/
+node	3237856846			40.4214913	-3.7047443	hotel				https://www.gymage.es/?id=hotel
+node	3247667987	Hostal Puerta del Sol		40.4172536	-3.7024749	hostel				http://www.puertadelsolrooms.com/
+node	3247869339	B&B		40.4234879	-3.7005960	hotel				http://www.sidorme.com/es/hoteles/hotel-madrid-calle-fuencarral
+node	3251058370	Residencia Atocha Río		40.3987701	-3.7010713	hostel			Mi Casa Inn	
+node	3256664562	Castellana		40.4585994	-3.6952388	hotel	3			
+node	3283874766	Tirso de Molina Hostel		40.4113044	-3.7049498	hostel				
+node	3357255004	Hostal Avenida Barajas		40.4729540	-3.5821576	hotel		Best Western		
+node	3374152199	Albergue Municipal Juvenil		40.4281096	-3.6995409	hostel			Ayuntamiento de Madrid	
+node	3381180428	Petit Palace Clíper Gran Vía		40.4196435	-3.7036474	hotel	3	Petit Palace Hotelity	Hotelatelier	https://www.petitpalacecliper.com
+node	3381180433	San Juan Hostel		40.4182257	-3.7027242	hostel				
+node	3381360106	Miau		40.4144059	-3.7003265	hotel				
+node	3400527088	Hostal Domínguez		40.4239804	-3.7004496	hotel				
+node	3415078381	NH Madrid Chamberí		40.4396526	-3.6982473	hotel	3		NH	
+node	3430976783	Hotel Hospes Madrid		40.4205866	-3.6892870	hotel				
+node	3464381048	Hotel The One		40.4724161	-3.6832469	hotel	4			https://www.hotelchamartintheone.com/en/#main-home
+node	3472054304	Innside Madrid Luchana		40.4303408	-3.7000607	hotel	4	Meliá	Melia	
+node	3512921646	Apartamentos en Sol		40.4166232	-3.7025309	hotel				
+node	3530404608	Hotel Victoria 4		40.4162757	-3.7017305	hotel				
+node	3577159293	Esmeralda		40.4164501	-3.7015692	hostel				
+node	3609653257	Hotel Madrid Río		40.3886740	-3.7003145	hotel	2			http://www.hotelisismadrid.com/
+node	3656034264	Hostal Horizonte		40.4133754	-3.7016971	hotel				
+node	3680014991	Hotel ITC Infantas		40.4200992	-3.6970746	hotel				
+node	3680014992	The Principal Madrid		40.4193558	-3.6972006	hotel	5	Único Hotels		
+node	3682163460	Barbieri International Hostel		40.4215805	-3.6980797	hostel				
+node	3703255997	La Casa del Madrileño		40.4192019	-3.7028367	hotel				
+node	3783519532	La pepachic		40.4158867	-3.6956205	hotel				
+node	3797544328	Madrid Central Suites		40.4273627	-3.7010948	hotel				
+node	3801862404	Latina Hostel		40.4090338	-3.7057681	hostel				https://www.thchostels.com/
+node	3936239427	NH Collection Abascal		40.4384393	-3.6951832	hotel				
+node	3999793495	Hotel Ganivet		40.4082574	-3.7107133	hotel	3			https://www.hotelganivet.com/
+node	4034938784	Hotel Catalonia Atocha		40.4119257	-3.6977945	hotel				
+node	4058735295			40.3990029	-3.7177963	hostel				
+node	4141160098	Entre		40.4135592	-3.7017307	hotel				
+node	4166116028	palacio de barradas		40.4264682	-3.7068981	hostel				https://palaciodebarradas.com/
+node	4172246692	Gran Vía Suites		40.4200551	-3.6980658	hotel				http://www.granviasuitesmadrid.com/
+node	4213842108	Onefam Sungate Hostel Madrid		40.4187084	-3.7045358	hostel			Onefam Hostels	
+node	4216428152	AC Hotel Aitana		40.4559026	-3.6896531	hotel		AC Hotel		https://www.marriott.com/es/hotels/madai-ac-hotel-aitana/overview/
+node	4231438249	Fun Sleep Hostel		40.4184747	-3.7007704	hostel				
+node	4241048589	Bless		40.4282012	-3.6836820	hotel				https://www.blesscollectionhotels.com/es/
+node	4252269410	Hotel Villa de Barajas		40.4728446	-3.5821523	hotel				https://www.hotelvilladebarajas.com/
+node	4253094143	Castellana Suite		40.4607293	-3.6906923	hotel				
+node	4256039589	Santa Ana Colors		40.4138880	-3.7004994	hostel				https://www.santaanacolors.com/
+node	4273051189	Scout Madrid Hostel		40.4088940	-3.6545908	hostel				
+node	4341725292	Pullman Madrid Airport & Feria		40.4622527	-3.6154294	hotel		Pullman		
+node	4370884497	depto Luigi		40.4135449	-3.7119244	hotel				
+node	4384678690	"David, Madrid"		40.3946399	-3.7215386	hostel				
+node	4387730203	d'hostel		40.4130494	-3.7024948	hostel				http://www.dhostelmadrid.com/
+node	4394691963	Madrisol		40.4158529	-3.7011764	hotel				
+node	4394691964	JC Rooms Santa Ana		40.4160877	-3.7012084	hotel				
+node	4398453294	casa Abraham		40.4203176	-3.6985479	hotel				
+node	4436109691	Estudiomad6		40.4276472	-3.6951417	hostel				
+node	4549683990	Hotel Ibis budget	Hotel Ibis Budget Valentín Beato	40.4392715	-3.6270399	hotel		Ibis		
+node	4553094489	The Hat		40.4142787	-3.7070796	hostel				https://thehatmadrid.com/
+node	4606008650	Hostal CC Malasaña		40.4252951	-3.7032047	hotel				
+node	4616283190	Hostal Prieto		40.4155323	-3.7018872	hotel				
+node	4629166310	AC Madrid Feria		40.4748541	-3.6343805	hotel				
+node	4629427089	Barceló Torre de Madrid		40.4241910	-3.7123333	hotel			Barceló	
+node	4652824504	Debod Hostel		40.4279713	-3.7195550	hostel				
+node	4704886491	Mercure Madrid Centro	Mercure Madrid Centre	40.4139318	-3.6944449	hotel		Mercure	Accor Hotels	https://www.accorhotels.com/gb/hotel-9618-mercure-madrid-centro/index.shtml
+node	4715567695			40.4230961	-3.7025703	hostel				
+node	4778113718	Motion Chueca	Motion Chueca	40.4212611	-3.6997059	hostel				
+node	4778747547	AC Hotel Recoletos		40.4214997	-3.6894369	hotel		AC Hotel		
+node	4792856421	Loft Cortes		40.4171166	-3.6966018	hotel				
+node	4892867821	sV		40.4247787	-3.7150945	hotel				
+node	4892869154	ITC Alcalá Norte by Soho Boutique		40.4397916	-3.6263504	hotel		ITC by Soho Boutique	Soho Boutique Hotels	https://www.sohohoteles.com/itc-alcala-norte/
+node	4895107033	JJ Carvajal	JJ Carvajal	40.4349713	-3.7072410	hotel				
+node	5139118051	El Príncipe Horno de Leña		40.4739090	-3.5781085	hotel				
+node	5139171222	Hostal Patria		40.4164948	-3.7060201	hotel				
+node	5227799321	La Vera	La Vera	40.4124143	-3.7012170	hotel				
+node	5254285263	JC Chueca		40.4209677	-3.7003900	hotel			JC Hoteles	
+node	5320459922	Los Amigos Vip Rooms		40.4178642	-3.7080699	hotel				
+node	5349483069	Cats Hostel Madrid Lavapiés		40.4118767	-3.7020946	hostel			Cats Hostels	https://catshostels.com/madrid-chill-out/
+node	5363453870	B&B Puerta del Sol		40.4176957	-3.7027019	hotel			B&B	
+node	5363453874	I Love Madrid Hostel		40.4164798	-3.7017748	hostel				
+node	5395666960	Hyatt Centric Gran Vía Madrid		40.4199905	-3.7037343	hotel		Hyatt Centric	Hyatt	
+node	5412144565	VP Plaza España Design		40.4226734	-3.7117077	hotel	5		VP	https://www.plazaespana-hotel.com/
+node	5437522108	Hotel Francisco I		40.4173926	-3.7073825	hotel				https://www.hotelfrancisco.com/
+node	5525547823	Príncipe pío		40.4214873	-3.7147985	hotel				
+node	5578370537	Hotel Senator Barajas		40.4587978	-3.5824805	hotel				
+node	5782300289	Generator Madrid		40.4207507	-3.7081790	hostel				https://generatorhostels.com/destinations/madrid
+node	5782300292	room00 Chueca Hostel		40.4232831	-3.6988362	hotel		room00 Hostels		
+node	6184641885	Ibis budget Madrid centro Lavapies		40.4078194	-3.7007527	hotel		Ibis Budget		https://www.accorhotels.com/nl/hotel-A0F2-ibis-budget-madrid-centro-lavapies/index.shtml
+node	6329045132	THC Gran Vía hostel		40.4215224	-3.7027188	hostel				https://www.thchostels.com/thc-gran-via-hostel/madrid/
+node	6331402488	Hostal Meyra		40.4226391	-3.7008793	hotel				
+node	6432436446	Hostal-R Graciela		40.4122927	-3.7025689	hostel				
+node	6432436447	Hostal Numancia		40.4123065	-3.7025689	hostel				
+node	6515613597	Hotel NH Collection Madrid Suecia		40.4178660	-3.6962160	hotel				https://www.nh-hotels.com/hotel/nh-collection-madrid-suecia
+node	6553535241	Hotel Palacio del Retiro		40.4178190	-3.6891112	hotel	5	Autograph Collection		https://www.espanol.marriott.com/hotels/travel/madre-ac-palacio-del-retiro-autograph-collection/
+node	6553913565	Hotel Madrid Plaza España		40.4229802	-3.7098626	hotel		Affiliated by Meliá	Meliá Hotels International	https://www.melia.com/es/hoteles/espana/madrid/hotel-madrid-plaza-espana-by-melia
+node	6557030326	Hotel Santo Domingo		40.4208143	-3.7088133	hotel				
+node	6557030335	Hotel One Shot Fortuny 07		40.4287821	-3.6911914	hotel				https://www.hoteloneshotfortuny07.com/?repeat=w3tc
+node	6609770459	Residencia C. Miralva		40.4227945	-3.7015150	hostel				https://www.hostalmiralva.com/
+node	6861422022	Hostal Siesta & Go Nuevos Ministerios		40.4486231	-3.6946701	hostel			Hostal Siesta & Go	https://siestaandgo.com/
+node	6861465968	Four Seasons Hotel and Private Residences Madrid		40.4172720	-3.7003917	hotel		Four Seasons		https://www.fourseasons.com/es/welcome.html
+node	6983258865	Hotel Pestana Plaza Mayor		40.4149762	-3.7072980	hotel				https://www.pestanacollection.com/es/hotel/pestana-madrid-plaza-mayor
+node	7173185386	Dormitoria		40.4299404	-3.6973715	hotel				
+node	7374768543	Casa del Suboficial		40.4157746	-3.7251122	hotel			EA	
+node	7386131150	Casa del Aviador		40.4340064	-3.7212378	hotel			EA	
+node	8296229819	Velazquez 45		40.4270779	-3.6841869	hotel	3		Pillow	https://www.bypillow.com/alojamientos/madrid/velazquez45-by-pillow/
+node	8429353010	ApartaHotel Plaza España Skyline BeMate		40.4225099	-3.7154960	hotel				https://www.skylineplazaespana.com/
+node	8524159080	Hotel Uve Marcenado		40.4456768	-3.6729253	hotel				
+node	8797619028	"Atocha Hotel Madrid, Tapestry Collection by Hilton"		40.4106685	-3.6952421	hotel	4	Tapestry Collection		https://www.hilton.com/en/hotels/madatup-atocha-hotel-madrid/
+node	8881377721	Neo Magna		40.4283645	-3.6711848	hotel				
+node	8912430035	Residencia para Menores Las Acacias		40.3829429	-3.7345339	hostel				
+node	8912430051	"Residencia Logística Militar ""San Fernando"""		40.3854855	-3.7351324	hotel				
+node	9191327417	2060 The Newton Hostel	2060 The Newton Hostel	40.4118428	-3.7034821	hostel				
+node	9272287466	Hospital Capilar		40.4573111	-3.6490386	hotel				https://hospitalcapilar.com/hospital-capilar-madrid/
+node	9307436328	Hostal Viky		40.4737012	-3.5756957	hotel	2			https://hostal-viky.com/
+node	9313011329	Hotel Bestprice Madrid Alcalá		40.4403332	-3.6253775	hotel				https://hotelesbestprice.com/hotel-bestprice-madrid-alcala/
+node	9369769171	Hostal Americano		40.4172241	-3.7038471	hostel				
+node	9516009617	El Catalán		40.4215039	-3.7003697	hostel				
+node	9532681217	Smartrental Collection	Smartrental Collection	40.4204400	-3.7052207	hotel				
+node	9712674040	Residencia Militar de Apoyo a la MOvilidad Infante Don Juan		40.4332853	-3.7213262	hotel			Ministerio de Defensa	https://ejercito.defensa.gob.es/diaper/movilidad/residencias/logisticosmilitares/
+node	9893369651			40.4218048	-3.6725841	hotel				
+node	9919197818	Hotel DWO Colours		40.4384750	-3.6212848	hotel				
+node	9921125562	Ibis Styles		40.4413416	-3.6575195	hotel	4	Ibis Styles		https://all.accor.com/hotel/B4U5/index.es.shtml
+node	10261336219	Autograph Collection Círculo Gran Vía	Autograph Collection Circulo Gran Via	40.4201208	-3.7007985	hotel		Autograph Collection		https://www.marriott.com/madkv
+node	10561974409	Fly Rooms Madrid	Fly Rooms Madrid	40.4707532	-3.5801137	hotel				
+node	10588698215	NH Madrid Zurbano		40.4390277	-3.6929120	hotel		NH		https://www.nh-hotels.com/hotel/nh-madrid-zurbano
+node	10671420470	Safestay Madrid Central		40.4280205	-3.6982614	hostel				https://www.safestay.com/madrid/
+node	10816471405	Room Mate Alba		40.4138255	-3.7002842	hotel	4	Room Mate		https://room-matehotels.com/es/alba/
+node	10952490253	Velvet Hostels Madrid		40.3869508	-3.6462158	hostel				
+node	11014570805	Hotel		40.4071972	-3.6999962	hotel				
+node	11065411405	Art Seven Hostel Capsules		40.4133000	-3.7047229	hostel				https://www.artsevenhostel.com/
+node	11104558971	Dear Hotel Madrid		40.4233713	-3.7104479	hotel	4	Dear Hotel	SECA SA	
+node	11207952937	Río Hostel Madrid		40.3922713	-3.7025661	hostel				
+node	11207957140	Pensión Casa Rosa Madrid		40.4589497	-3.7068075	hostel				
+node	11207963637	Hostal Nápoles Madrid	Hostel Napoles Madrid	40.4595937	-3.6484051	hostel				
+node	11217698937	Hostel Acacias		40.4029809	-3.7041625	hostel				
+node	11224609870	Hotel Único Madrid		40.4285589	-3.6862047	hotel	5	Único Hoteles		https://www.unicohotelmadrid.com/es/
+node	11234199212	Optimi		40.4220756	-3.7028982	hostel				
+node	11252470360	Smart Rental		40.4198006	-3.6990953	hotel				
+node	11257440318	Hostal Roisa Boutique		40.4540773	-3.6782165	hotel	3	Grupo Roisa	Grupo Roisa	https://www.gruporoisa.com/hostal-cerca-de-ifema-y-del-bernabeu/
+node	11276918233	Serrano		40.4311389	-3.6874762	hotel		Silken Hoteles		
+node	11335688233	Hello Feria		40.4744163	-3.6407522	hotel				https://booking.roomraccoon.es/hostal-hello-feria/es/
+node	11362851458	Heritage		40.4348960	-3.6790377	hotel				
+node	11464375869	Hostal Noche y Día		40.4065053	-3.6939636	hotel				http://www.hnocheydia.com
+node	11472982781	Hola Rooms		40.4116158	-3.7046435	hotel				
+node	11472982782	CH Lemon Rooms		40.4116707	-3.7046889	hotel				
+node	11523646779	La Troupe Prado		40.4069435	-3.6928967	hostel				https://www.latroupe.com/es/latroupe-prado/hostel/
+node	11603023656	Hotel Mayorazgo		40.4220423	-3.7096873	hotel	4			https://www.hotelmayorazgo.com/
+node	11691290092	A&Z Villegas		40.4651059	-3.6487769	hotel				
+node	11759022296	room00 Gran Via Hostel		40.4193600	-3.6978541	hotel		room00 Hostels		https://www.room00hostel.com
+node	11772396469	Central Palace Hostal		40.4177250	-3.7114449	hotel				
+node	11936843768	room00 Ventura Hostel		40.4158359	-3.6988676	hotel		room00 Hostels		https://www.room00hostel.com
+node	11956782528	Crowne Plaza Madrid - Centre Retiro		40.4130641	-3.6692552	hotel	4	Crowne Plaza	IHG	
+node	11956782529	voco Madrid Retiro		40.4133693	-3.6679635	hotel		voco	IHG	https://www.ihg.com/voco/hotels/us/es/madrid/madvo/hoteldetail
+node	11989861054	Prado 46		40.4100467	-3.6927318	hostel				
+node	12035204989	Velvet Hostels Pacifico		40.4032952	-3.6763987	hostel				
+node	12136185682	The Pacific Hostel		40.4024717	-3.6758185	hostel				
+node	12174422517	Hostal Bruña		40.4125596	-3.6944054	hostel				
+node	12201207535	Hotel Suites Feria de Madrid		40.4572863	-3.6468092	hotel				
+node	12237648766	MyD		40.4067689	-3.7070064	hostel				
+node	12262966101	Hostal Andrea		40.4220720	-3.6999586	hostel				
+node	12297605601	The Loft House		40.4101214	-3.7005712	hostel				https://www.theloft.house/destinos/madrid/lavapies
+node	12323420163	Ikonik Gran Vía		40.4214395	-3.7073953	hotel		Ikonik Hotels		https://www.eurostarshotels.com/ikonik-gran-via.html
+node	12548898851	Petit Hostel Palacio Real		40.4212919	-3.7166256	hostel				https://petithostel.com/madrid/palacio-real/
+node	12603815604	Hostal Petite Maman		40.4153447	-3.7004354	hotel				http://www.hostalatelier.com
+node	12603832683	Hostal Nersan 2		40.4320785	-3.6977288	hotel				http://www.hostalnersan2.com/es/alojamiento/Hostal_Nersan_II
+node	12695320901	Hotel Moderno		40.4169836	-3.7048409	hotel				https://www.hotel-moderno.com/en
+node	12699227201	Hostelfly		40.4749520	-3.5754755	hostel				https://hostelfly.com/
+node	12745476722	Hôtel du Temps Madrid		40.4212010	-3.7030678	hotel	4	Hôtel du Temps		https://www.hoteldutemps.com/
+node	12784265301	Plaza el molino		40.3865689	-3.7129395	hotel				
+node	12785388001	Plaza el molino		40.4225516	-3.7019750	hotel				
+node	12810197251	Axel hotel		40.4131495	-3.7005406	hotel				
+node	12810197257	Catalonia Puerta del Sol		40.4140328	-3.7028300	hotel		Catalonia Hotels & Resorts		
+node	13157131976	Hostal Golden 21		40.4760535	-3.7130189	hostel				
+node	13159810096	Pil Pil Hostel		40.4280653	-3.7135588	hostel				
+node	13371406401	Hotel PAX Atocha		40.4017697	-3.6891755	hotel				https://paxhoteles.com
+node	13418416464	NH Lagasca		40.4274897	-3.6850076	hotel				
+node	13457591880	Hotel DWO Yuste Alcalá		40.4399393	-3.6253180	hotel				https://www.dwohotels.com/en/our-hotels/dwo-yuste-alcala
+node	13502438633	La Nave		40.4219616	-3.7153052	hostel				https://lanavehostel.com/
+node	13608542941	Santo - Coworking - Coliving Madrid		40.4198320	-3.7082203	hostel				
+node	13680211002	Aerotel Madrid Airport - Terminal 4		40.4919933	-3.5921613	hotel				http://myaerotel.com
+node	13680244801	GettSleep Madrid		40.4950156	-3.5670727	hotel				https://gettsleep.es/
+node	13791835511	Urban Hive		40.4200009	-3.7092495	hotel				
+node	13831550041	Ibis Budget Madrid Albasanz		40.4387822	-3.6234309	hotel		Ibis	Accor	
+node	14056585722	Petit Palace Triball		40.4204745	-3.7028490	hotel	3	Petit Palace Hotelity	Hotelatelier	https://www.petitpalace.com/en/petit-palace-triball/
+node	14071326577	Hotel BESTPRICE Alegría		40.4368984	-3.6283088	hotel		Bestprice		https://hotelesbestprice.com/hotel-bestprice-madrid-alegria/
+node	14109346261			40.3945334	-3.7203409	hostel				
+node	14183714301	Hostal La Estación Terrazas		40.4071117	-3.6943729	hotel				http://hostallaestacionterrazas.es
+node	14191179069	Hostel Capsules		40.4370687	-3.6424228	hostel				
+node	14247786067	Capsule Inn Madrid		40.4231932	-3.7081856	hostel				https://www.booking.com/hotel/es/urban-inn-madrid.en-gb.html
+way	27834279	Hotel Meliá Barajas		40.4695602	-3.5824963	hotel				
+way	31744079	Hotel ILUNION Atrium		40.4479221	-3.6552764	hotel	4	ILUNION Hotels	Ilunion	https://www.ilunionhotels.com/hoteles/ilunion-atrium
+way	71941607	Meliá Castilla	Melia Castilla	40.4614289	-3.6924577	hotel	5	Meliá		
+way	84504292	Hotel Silken Puerta de América		40.4407508	-3.6701431	hotel				http://www.hoteles-silken.com/hoteles/puerta-america-madrid/
+way	87771462	NH Madrid Ventas		40.4356088	-3.6638032	hotel				https://www.nh-hotels.com/en/hotel/nh-madrid-ventas
+way	112187780	Aparthotel Tribunal		40.4253581	-3.7012177	hotel				https://www.hotel-tribunal.com/
+way	113624223	Hotel Agumar		40.4070615	-3.6830949	hotel	4			
+way	116507806	Hotel Los 5 Pinos		40.4492893	-3.5692214	hotel				https://www.hotellos5pinos.com/
+way	116507955	Hostal Zoraya		40.4493091	-3.5675130	hostel				
+way	116581852	NH Ribera del Manzanares		40.4063000	-3.7215856	hotel	4		NH	http://www.nh-hoteles.es/nh/es/hoteles/espana/madrid/nh-ribera-del-manzanares.html
+way	118512973	Petit Palace President Castellana		40.4290900	-3.6884355	hotel	4	Petit Palace Hotelity	Hoteatelier	https://www.hotelpresidentcastellana.com/en/
+way	118513027	Rosewood Villa Magna		40.4299368	-3.6881595	hotel	5	Rosewood		http://www.villamagna.es/
+way	129446593	Hotel Catalonia Las Cortes		40.4144475	-3.6993995	hotel	4		Hoteles Catalonia	https://www.cataloniahotels.com/es/hotel/catalonia-las-cortes
+way	129446605	Gran Hotel Inglés		40.4159283	-3.6998092	hotel	5	Hidden Away	Hidden Away	https://www.granhotelingles.com/
+way	129572344	Apart-Hotel Suite Prado		40.4150605	-3.6990680	hotel				https://suite-prado-es.book.direct
+way	129572350	Ibis Styles Madrid Prado		40.4148996	-3.6989980	hotel		Ibis Styles		https://all.accor.com/hotel/8052/index.es.shtml
+way	140814195	NH La Habana		40.4559390	-3.6819938	hotel	4			https://www.nh-hotels.com/
+way	140817914	Canopy by Hilton Madrid Castellana		40.4514639	-3.6935461	hotel	4	Canopy		https://www.hilton.com/en/hotels/madespy-canopy-madrid-castellana/
+way	148153394	Hotel Claridge		40.4062876	-3.6693640	hotel	4			
+way	157412480	Hotel Madrid Alameda Aeropuerto		40.4691428	-3.5802519	hotel	4	Affiliated by Meliá	Meliá	https://www.melia.com/en/hotels/spain/madrid/hotel-madrid-alameda-aeropuerto-by-melia
+way	159709535	Madrid Marriott Hotel Princesa Plaza		40.4297971	-3.7146758	hotel	4	Marriott		https://www.marriott.com/es/hotels/madpp-madrid-marriott-hotel-princesa-plaza/overview/?msockid=0120725c4ab067eb076a650c4b386697
+way	166406258	Novotel		40.4412975	-3.6575401	hotel	4	Novotel	Accor	https://all.accor.com/hotel/0843/index.es.shtml
+way	166895627	Hotel Príncipe Pío		40.4213522	-3.7149983	hotel	3			https://www.hotelprincipepio.com/en/
+way	170336780	Madrid Marriott Auditorium Hotel & Conference Center		40.4482967	-3.5587144	hotel	4	Marriott		https://www.marriott.com/en-us/hotels/madad-madrid-marriott-auditorium-hotel-and-conference-center/overview/
+way	173933603	Meliá Madrid Princesa		40.4272999	-3.7144174	hotel		Meliá		
+way	187164585	Exe Moncloa		40.4338163	-3.7174210	hotel	4	Exe Hotels		https://www.eurostarshotels.com/exe-moncloa.html
+way	187651669	Exe Plaza		40.4677042	-3.6898941	hotel		Exe Hotels		https://www.eurostarshotels.com/exe-plaza.html
+way	194338224	Eurostars Suites Mirasierra		40.4865556	-3.7034451	hotel		Eurostars Hotel Company		https://www.eurostarshotels.com/eurostars-suites-mirasierra.html
+way	199422178	Hotel Zentral Castellana Norte		40.4880639	-3.6684250	hotel		Occidental Hotels	Occidental Hotels	
+way	204976521	Foxa M-30 Suites & Resort		40.4730707	-3.6719573	hotel	4			
+way	205402929	Exe Madrid Norte		40.4913148	-3.6703817	hotel		Exe Hotels		https://www.eurostarshotels.com/exe-madrid-norte.html
+way	207969507	Best Osuna Madrid Feria		40.4531341	-3.6125931	hotel		Best Hotels		https://www.besthotels.es/destinos-y-hoteles/best-osuna
+way	210749070	Elba Madrid Alcalá		40.4389353	-3.6313983	hotel	4	Hoteles Elba	Hoteles Elba	https://www.hoteleselba.com/es/hotel/elba-madrid-alcala
+way	219016954	Radisson RED		40.4100411	-3.6936612	hotel	4	Radisson RED		
+way	221307439	Axor Barajas		40.4479296	-3.5832513	hotel	4		Axor	https://www.axorhoteles.com/barajas/
+way	221307546	Axor Feria		40.4474550	-3.5833179	hotel	4		Axor	https://www.axorhoteles.com/feria/
+way	229491550	Globales Acis y Galatea		40.4502921	-3.6129309	hotel	3	Hoteles Globales	Hoteles Globales	https://www.globales.com/en/hotels/spain/madrid/barajas/globales-acis-y-galatea/
+way	232294378	Wipton By Petit Palace		40.4239937	-3.6852792	hotel	4	Petit Palace Hotels	Hotelatelier	https://www.petitpalace.com/en/wipton-by-petit-palace/
+way	234423155	Novotel Campo de las Naciones		40.4625573	-3.6151054	hotel		Novotel		
+way	240846128	Hotel Catalonia El Retiro		40.3990811	-3.6699360	hotel		Catalonia Hotels & Resorts		
+way	243798053	Hotel Ilunion Pío XII		40.4689276	-3.6740933	hotel	4	Ilunion Hotels	ILUNION	https://www.ilunionhotels.com/hoteles/ilunion-pio-xii
+way	247135434	Hotel Plaza Mayor		40.4146034	-3.7055083	hotel				https://www.h-plazamayor.com/en/
+way	248801936	ITC Mora		40.4112925	-3.6931843	hotel	2	Petit Palace Hotelity	Petit Palace Hotels	https://www.petitpalace.com/es/itc-mora/
+way	248802972	Urbansea Atocha 113		40.4103398	-3.6942800	hotel	1	BLUESEA Hotels	BLUESEA Hotels	https://www.blueseahotels.com/hoteles/destinos/madrid/madrid-centro/urbansea-atocha-113
+way	250502135	NH Eurobuilding		40.4582178	-3.6859845	hotel	4		NH Hoteles	https://www.nh-hotels.com/hotel/nh-collection-madrid-eurobuilding
+way	254315573	Nobu		40.4178810	-3.6983045	hotel	5	Nobu Hotels		https://www.nobuhotels.com/madrid/es/
+way	254872766	Pinar Plaza		40.4825414	-3.6706814	hotel				
+way	254872767	El Mirador de Chamartín		40.4828202	-3.6706992	hotel				
+way	256390707	El Mirador		40.4174459	-3.7026531	hotel				
+way	256506994	Hotel Vincci Soma		40.4251911	-3.6780472	hotel	4	Vincci Hoteles	Vincci Hoteles	https://www.vinccihoteles.com/hoteles/madrid/vincci-soma/
+way	256992166	Aparthotel Encasa		40.4043501	-3.5914980	hotel				https://www.apartahotel-encasa-madrid.com/
+way	257181233	Ateneo		40.4181984	-3.7023353	hotel				
+way	257966665	Hotel 4C Puerta de Europa		40.4649339	-3.6931564	hotel				http://www.hoteles4c.com
+way	259246352	Four Points Flex by Sheraton Madrid Atocha		40.3969495	-3.6823067	hotel		Four Points by Sheraton		
+way	262521352	Hilton Madrid Airport		40.4521697	-3.5855357	hotel	4	Hilton	Hilton	https://www.hilton.com/en/hotels/madaphi-hilton-madrid-airport/
+way	263630641	Puerta Madrid		40.4478467	-3.6360061	hotel		Eurostars Hotel Company		https://www.eurostarshotels.com/eurostars-puerta-madrid.html
+way	263630642	Meliá Avenida América		40.4473019	-3.6281272	hotel		Meliá	Meliá	https://www.melia.com/es/hoteles/espana/madrid/melia-avenida-america
+way	264051631	H10 Puerta de Alcalá		40.4220768	-3.6810891	hotel		H10 Hotels		
+way	264052754	Novotel Madrid Center		40.4218608	-3.6722832	hotel	4	Novotel	Accor	
+way	264856951	Hotel Wellington		40.4220071	-3.6838967	hotel				
+way	264857125	Hotel Wellington		40.4218685	-3.6837504	hotel				
+way	265317792	Petit Palace Tres Cruces		40.4192968	-3.7026710	hotel	3	Petit Palace Hotelity	Hotelatelier	https://www.petitpalace.com/en/petit-palace-tres-cruces/
+way	265317799	Thompson Madrid		40.4185470	-3.7026775	hotel	5	Hyatt	Hyatt	https://www.hyatt.com/hotel/es-ES/spain/thompson-madrid/madrp
+way	265509159	Room Mate Oscar Hotel		40.4206653	-3.6989393	hotel	3	Room Mate	Room Mate	https://room-matehotels.com/en/oscar/
+way	268051338	Mola!		40.4140602	-3.7039176	hostel				
+way	268508669	Hotel Meliá Serrano		40.4355008	-3.6856832	hotel				
+way	282467213	AC Cuzco		40.4588005	-3.6911856	hotel				
+way	287354977	Ibis budget Madrid Centro las Ventas		40.4324970	-3.6560533	hotel		Ibis Budget	Ibis	
+way	288078278	Hotel Jardín Metropolitano		40.4472490	-3.7057456	hotel	4			https://www.metropolitano-hotel.com/
+way	290219240	"Hotel Indigo Madrid - Gran Via, an IHG Hotel"		40.4205777	-3.7073731	hotel		Hotel Indigo		
+way	290219241	Hotel Rex		40.4206528	-3.7071213	hotel		Room Mate		https://room-matehotels.com/es/rex/
+way	290219247	Aloft Madrid Gran Via		40.4203625	-3.7071642	hotel		Aloft		https://www.marriott.com/hotels/travel/madgv-aloft-madrid-gran-via/
+way	290224511	VP Madroño		40.4351619	-3.6766279	hotel				https://www.madrono-hotel.com/
+way	291931539	NH Palacio de Tepa		40.4138930	-3.7017440	hotel	5			https://www.nh-collection.com/es/hotel/nh-collection-madrid-palacio-de-tepa
+way	291973316	Hard Rock Hotel Madrid		40.4065960	-3.6956241	hotel		Hard Rock Hotel		https://hotel.hardrock.com/madrid
+way	292366817	Petit Palace Posada del Peine		40.4156512	-3.7059891	hotel	3	Petit Palace Hotelity	Hotelatelier	https://www.petitpalace.com/en/petit-palace-posada-del-peine/
+way	292444570	Hotel AC Atocha		40.4033084	-3.6903467	hotel				https://www.espanol.marriott.com/hotels/travel/madat-ac-hotel-atocha
+way	292444576	AC Hotel by Marriott Atocha		40.4037622	-3.6900195	hotel		AC Hotel		https://www.espanol.marriott.com/hotels/travel/madat-ac-hotel-atocha
+way	294072963	Ágora Juan de Austria	Ágora Juan de Austria	40.4319945	-3.6995246	hotel				https://www.hoteljuandeaustria.es/
+way	302136190	Travelodge Madrid Coslada Aeropuerto		40.4280292	-3.5610526	hotel		Travelodge		https://travelodge.es/travelodge-destino-madrid/travelodge-madrid-coslada-aeropuerto/
+way	307764271	Abba Madrid Hotel		40.4387979	-3.6727084	hotel				https://www.abbamadridhotel.com/
+way	314492765	One Shot		40.4152251	-3.6981173	hotel				https://www.hoteloneshotprado23.com/
+way	314795193	DoubleTree by Hilton Madrid - Prado		40.4151303	-3.6966607	hotel	4	DoubleTree	Hilton	https://www.hilton.com/en/hotels/madprdi-doubletree-madrid-prado/
+way	319075714	Eurostars Casa de la Lírica		40.4184883	-3.7012779	hotel		Eurostars Hotel Company	Eurostars	https://www.eurostarshotels.com/eurostars-casa-de-la-lirica.html
+way	319609021	Hotel Vincci Soho		40.4148050	-3.6982993	hotel	4	Vincci Hoteles	Vincci Hoteles	https://www.vinccihoteles.com/hoteles/madrid/vincci-soho/
+way	319636953	La Posada del Dragón		40.4131400	-3.7087176	hotel				https://www.posadadeldragon.com/
+way	320060429	AC Hotel Avenida de America		40.4380124	-3.6726900	hotel		AC Hotel	AC Hoteles	https://www.marriott.com/en-us/hotels/madav-ac-hotel-avenida-de-america/overview/
+way	320313234	H10 Tribeca		40.4553010	-3.6943593	hotel		H10 Hotels		
+way	320357007	Barceló Emperatriz		40.4363403	-3.6884090	hotel	4		Hesperia	https://www.barcelo.com/es-es/barcelo-emperatriz/
+way	321006996	Far Home Bernabéu		40.4545130	-3.7013742	hostel			Far Home Group	https://farhomehostels.com/hostel-bernabeu-far-home-madrid/
+way	321356771	Hotel Porcel Torre Garden		40.4193506	-3.6254232	hotel	3			https://www.porcelhoteles.com/
+way	325829976	Motel One		40.4256364	-3.7139124	hotel		Motel One		https://www.motel-one.com/de/hotels/madrid/hotel-madrid-plaza-de-espana
+way	326222004	"Hotel Indigo Madrid - Princesa, an IHG Hotel"		40.4306999	-3.7169640	hotel		Hotel Indigo		https://www.t3tirol.com/
+way	327900085	Crisol Vía Castellana		40.4674990	-3.6882115	hotel		Crisol Hotels		https://www.eurostarshotels.com/crisol-via-castellana.html
+way	334165986	Petit Palace Plaza del Carmen		40.4190089	-3.7028640	hotel	3	Petit Palace Hotelity	Hotelatelier	https://www.petitpalace.com/en/petit-palace-plaza-del-carmen/
+way	334419182	The Madrid Edition		40.4177465	-3.7062962	hotel		Marriott		https://www.espanol.marriott.com/hotels/travel/madeb-the-madrid-edition/
+way	335370726	Only You Hotel & Lounge		40.4222530	-3.6959355	hotel				
+way	337930165	NH Lagasca		40.4274910	-3.6849288	hotel				
+way	338505821	AC Los Vascos		40.4489116	-3.7115697	hotel	3	AC Hotels		https://www.marriott.com/es/hotels/madva-ac-hotel-los-vascos/overview/
+way	339253330	Hotel Madrid Chamartín		40.4719150	-3.6848340	hotel	3	Affiliated by Meliá		https://www.melia.com/es/hoteles/espana/madrid/hotel-madrid-chamartin-by-melia
+way	347459883	Barrio de Salamanca		40.4364372	-3.6857030	hotel	4			
+way	348060963	Hotel Acta Pirámides		40.4025503	-3.7116491	hotel	3		Actahotels	
+way	348423067	DormirDCine (DDC)		40.4362948	-3.6796669	hotel				https://dormirdcine.com/es/hotel-dormir-de-cine-madrid/
+way	349324801	Soho Boutique Congreso		40.4169703	-3.6974934	hotel	4		Soho Boutique Hotels	https://www.sohohoteles.com/destinos/hotel-soho-boutique-congreso-4/
+way	349324802	El Autor		40.4169780	-3.6962997	hotel	5	Autograph Collection		https://www.marriott.com/es/hotels/madzm-el-autor-hotel-madrid-autograph-collection/overview/
+way	350124162	Petit Palace Arturo Soria		40.4395448	-3.6386038	hotel	4	Petit Palace Hotelity	Hoteatelier	https://www.petitpalace.com/en/petit-palace-arturo-soria/
+way	352033735	Avani Alonso Martinez Madrid		40.4285797	-3.6963285	hotel				https://www.avanihotels.com/en/alonso-martinez-madrid
+way	352033839	Gran Versalles		40.4285547	-3.6970190	hotel	4			https://www.hotelgranversalles.es/
+way	352041696	Zenit Conde Orgaz		40.4566911	-3.6475884	hotel	4			https://condeorgaz.zenithoteles.com/
+way	352098734	Hotel Sardinero Madrid		40.4282609	-3.6961834	hotel		Sardinero Hoteles		https://www.sardinerohoteles.com
+way	352139541	Akeah Gran Vía		40.4249063	-3.7071309	hotel				
+way	352481845	Zenit Abeba		40.4318960	-3.6737789	hotel				
+way	352893318	Petit Palace Arenal		40.4174016	-3.7063357	hotel	3	Petit Palace Hotelity	Hotelatelier	https://www.petitpalace.com/en/petit-palace-arenal/
+way	353112276	VP Jardín de Recoletos		40.4221546	-3.6890054	hotel		VP Hoteles		https://www.vphoteles.com/vp-jardin-recoletos/
+way	354526005	Eurostars Central		40.4272024	-3.6983293	hotel		Eurostars Hotel Company	Eurostars Hotels	
+way	354526009	URSO Hotel & Spa		40.4270140	-3.6980493	hotel				https://hotelurso.com/es/
+way	355356569	Petit Palace Plaza Mayor		40.4160303	-3.7091281	hotel	4	Petit Palace Hotelity	Hotelatelier	https://www.petitpalace.com/en/petit-palace-plaza-mayor/
+way	356029340	Santo Mauro Luxury Collection Hotel		40.4310259	-3.6929934	hotel				
+way	359893794	Muralto		40.4290990	-3.7167413	hotel				
+way	361206938	Hostal Vegas		40.4488662	-3.7041796	hostel				
+way	363861127	Hotel Ilunion Alcalá Norte		40.4363766	-3.6212499	hotel	4	Ilunion Hotels	Ilunion	https://www.ilunionhotels.com/hoteles/ilunion-alcala-norte
+way	364134442	ibis Madrid Calle Alcalá		40.4393361	-3.6263335	hotel		Ibis	Grupo Accor	http://www.ibishotel.com
+way	364134443	ibis budget Madrid Calle Alcalá		40.4393022	-3.6268920	hotel		Ibis	Accor Hotels	http://www.ibis.com
+way	373774034	Catalonia Plaza Mayor		40.4129351	-3.7008503	hotel	4	Catalonia Hotels & Resorts	Hoteles Catalonia	https://www.hoteles-catalonia.com/es/nuestros_hoteles/europa/espanya/madrid/madrid/catalonia_plaza_mayor/index.jsp
+way	373774686	Hotel Axel		40.4133090	-3.7004746	hotel				https://www.axelhotels.com/es/axel-hotel-madrid/hotel.html
+way	373775515	Cats Hostel Madrid Sol		40.4129408	-3.7018568	hostel			Cats Hostels	https://catshostels.com/madrid-party/
+way	374363129	Casa de las Artes		40.4118198	-3.6975261	hotel	4	Meliá Collection	Meliá Hotels International	https://www.melia.com/es/hoteles/espana/madrid/casa-de-las-artes-melia-collection
+way	376468858	Petit Palace Chueca		40.4203771	-3.7011382	hotel	3	Petit Palace Hotelity	Hotelatelier	https://www.petitpalace.com/en/petit-palace-chueca/
+way	378864655	Leonardo Hotel Madrid City Center		40.4301571	-3.7085876	hotel			Leonardo	
+way	381931147	Suites Viena		40.4247610	-3.7150428	hotel		Sercotel	Sercotel	
+way	381954245	Hotel Maydrit Airport		40.4516881	-3.5929509	hotel	4	Hoteles Santos		https://www.hotelmadridmaydrit.com/
+way	381959571	Onefam Madrid Hostel		40.4278878	-3.7077035	hostel			Onefam Hostels	https://onefamhostels.com/madrid-onefam-hostel-madrid/
+way	383615987	Barceló Imagine	Barceló Imagine	40.4702521	-3.6848536	hotel		Grupo Barceló		
+way	387715522	4C Bravo Murillo		40.4541594	-3.7024944	hotel	2			
+way	387715524	Hostal Falfes		40.4535605	-3.7016139	hostel				
+way	391153098	Hotel Infanta Mercedes		40.4580717	-3.6985100	hotel				https://www.hotelinfantamercedes.es/
+way	391176969	NYX Hotel		40.4503352	-3.6979601	hotel				https://www.nyx-hotels.com/madrid
+way	391394593	Apartamentos Plaza Basílica		40.4498858	-3.6985094	hotel				http://www.espahotel-madrid.com
+way	395794320	Érase un hotel		40.4629125	-3.6967327	hotel				https://eraseunhotel.com/
+way	396467631	Petit Hostel		40.4088216	-3.7170910	hostel				https://petithostel.com/
+way	396802968	NH Las Tablas		40.4984266	-3.6648862	hotel				https://www.nh-hoteles.es/hotel/nh-madrid-las-tablas
+way	403548791	Hostal M Ronda		40.3845929	-3.7411525	hostel				
+way	403641556	Ibis Budget - Madrid Calle 30		40.3961708	-3.6705740	hotel		Ibis Budget		
+way	418834901	Amador de los Rios		40.4270718	-3.6915267	hotel				https://www.pavilionshotels.com/madrid
+way	424647735	Senator Barajas		40.4587728	-3.5825147	hotel				
+way	428249437	Hotel Don Pío		40.4628553	-3.6765282	hotel	4			
+way	436486969	Nuevo Madrid		40.4693449	-3.6693425	hotel				
+way	438775731	Eurostars Monte Real		40.4751653	-3.7430602	hotel	4	Eurostars Hotel Company		
+way	443379700			40.4568322	-3.6481150	hotel				
+way	452964709	Hotel Travelodge Torrelaguna		40.4443174	-3.6551196	hotel		Travelodge		https://travelodge.es/travelodge-destino-madrid/hotel-travelodge-madrid-torrelaguna/
+way	488673807	Travelodge Madrid Metropolitano		40.4367879	-3.6314008	hotel		Travelodge		https://www.travelodge.es/hoteles-madrid/metropolitano
+way	493361828	Madrid Alcalá		40.4313669	-3.6319658	hotel		easyHotel		
+way	496272592	Spark by Hilton Madrid Alcalá		40.4329805	-3.6320685	hotel		Spark by Hilton		https://www.hilton.com/en/hotels/madcope-spark-madrid-alcala/
+way	496986031	Hotel Eco Alcala Suites		40.4374634	-3.6316415	hotel				https://www.ecohoteles.com
+way	497747038	ITC Madrid by Soho		40.4396974	-3.6277147	hotel		Soho		
+way	540036505	Mayerling		40.4134985	-3.7049492	hotel				
+way	587932374	Quinta de los Cedros		40.4595747	-3.6628863	hotel	4			http://www.hotellaquintadeloscedros.com/
+way	667881592	Atocha by Meliá		40.4116817	-3.6973428	hotel	4			
+way	766591816	Bastardo Hostel		40.4253734	-3.7002808	hostel				
+way	992729357	Hotel Trafalgar		40.4339816	-3.7018316	hotel				
+way	997128600	Hyatt Regency Madrid Residences		40.4371148	-3.6891820	hotel	5	Hyatt Regency	Hyatt Hotels Corporation	https://www.hyatt.com/hyatt-regency/en-US/madra-hyatt-regency-madrid-residences
+way	1171926569	UMusic Hotel Madrid		40.4153907	-3.7038037	hotel	5	UMusic Hotels	UMusic Hotels	https://umusic-hotels.com/umusic-hotel-madrid/
+way	1236910015	Ibis Budget Madrid Aeropuerto		40.4477961	-3.5507214	hotel		Ibis Budget		
+way	1333315267	INNSiDE Meliá Madrid Valdebebas		40.4919440	-3.6060709	hotel				
+way	1353629692	Hotel Vincci Capitol		40.4204146	-3.7065766	hotel	4	Vincci Hoteles	Vincci Hoteles	https://www.vinccihoteles.com/hoteles/madrid/vincci-capitol/
+way	1354917846	Hotel Vincci Via 66		40.4224180	-3.7087815	hotel	4	Vincci Hoteles	Vincci Hoteles	https://www.vinccihoteles.com/hoteles/madrid/vincci-via-66/
+way	1356813249	NH Barajas Airport		40.4509375	-3.5951888	hotel	3	NH Hotels		https://www.nh-hotels.com/es/hotel/nh-madrid-barajas-airport
+way	1395342745	Nuevo Boston		40.4487538	-3.5768492	hotel	4			https://www.hotelnuevoboston.com/
+way	1396052117	Hotel Gran Meliá Palacio de los Duques		40.4197577	-3.7100400	hotel		Gran Meliá		https://www.melia.com/es/hoteles/espana/madrid/gran-melia-palacio-de-los-duques/index.html
+way	1421730257	Hotel Ilunion Suites Madrid		40.4479345	-3.6694707	hotel	4	ILUNION Hotels	ILUNION Hotels	https://www.ilunionhotels.com/hoteles/ilunion-suites-madrid
+way	1432522463	Hotel Riu Plaza España		40.4241298	-3.7109507	hotel	4	RIU	RIU Hotels & Resorts	https://www.riu.com/es/hotel/espana/madrid/hotel-riu-plaza-espana/
+way	1433222601	Hyatt Regency Hesperia Madrid		40.4388241	-3.6917466	hotel	5	Hyatt Regency	Hyatt	
+way	1435956081	Meet Me Madrid		40.4754628	-3.5938742	hotel				https://www.meetmemadridhotel.com
+way	1482183504	Petit Palace Puerta del Sol		40.4171152	-3.7050588	hotel	3	Petit Palace Hotelity	Hotelatelier	https://www.petitpalace.com/en/petit-palace-puerta-del-sol/
+way	1489363916	Petit Palace Preciados		40.4181576	-3.7044498	hotel	3	Petit Palace Hotelity	Hotelatelier	https://www.petitpalace.com/en/petit-palace-preciados/
+way	1490983751	Calido Living - Valdebebas		40.4871761	-3.6098652	hotel				
+way	1497247864	Petit Palace Alcalá		40.4182457	-3.6992851	hotel	4	Petit Palace Hotelity	Hotelatelier	https://www.petitpalace.com/en/petit-palace-alcala/
+way	1497268956	Petit Palace Lealtad Plaza		40.4168360	-3.6910094	hotel	4	Petit Palace Hotelity	Hotelatelier	https://www.petitpalace.com/en/petit-palace-lealtad-plaza/
+way	1509405684	Sercotel Alcalá 611		40.4475135	-3.6116098	hotel		Sercotel		https://www.sercotelhoteles.com/es/hotel-alcala-611
+way	1511775532	Hotel 101		40.4814572	-3.6205131	hotel				
+way	1512418548	Petit Palace Savoy Alfonso XII		40.4172046	-3.6892387	hotel	4	Petit Palace Hotelity	Hoteatelier	https://www.petitpalace.com/en/petit-palace-savoy-alfonso-xii/
+way	1535790449	Petit Palace Los Austrias		40.4192458	-3.7072839	hotel	4	Petit Palace	Petit Palace Hotels	https://www.petitpalace.com/en/petit-palace-los-austrias/
+relation	3879353	1881 Madrid Ventas Hotel		40.4322882	-3.6566716	hotel	4			https://1881madridventashotel.com/en/
+relation	3888654	"Mandarin Oriental Ritz, Madrid"		40.4155490	-3.6924988	hotel	5	Mandarin Oriental Hotel		
+relation	4458992	NH Príncipe de Vergara		40.4367556	-3.6785913	hotel	4			
+relation	4726487	Petit Palace Los Austrias		40.4192458	-3.7072839	hotel	4	Petit Palace Hotelity	Hotelatelier	https://www.petitpalace.com/en/petit-palace-los-austrias/
+relation	6484808	Embassy by Petit Palace		40.4269591	-3.6871881	hotel	4	Petit Palace Hotels	Hotelatelier	https://www.petitpalace.com/en/embassy-by-petit-palace/
+relation	6665352	Relais & Châteaux Hotel Orfila Madrid		40.4272086	-3.6932193	hotel	5	Hotel Orfila		https://hotelorfila.com/
+relation	7728121	Eurostars Plaza Mayor		40.4130904	-3.7041334	hotel		Eurostars Hotel Company		https://www.eurostarshotels.com/eurostars-plaza-mayor.html
+relation	7830083	H10 Villa de la Reina		40.4201611	-3.7002288	hotel		H10 Hotels	H10	https://www.h10hotels.com/es/hoteles-madrid/h10-villa-de-la-reina
+relation	7830090	Brach		40.4201123	-3.7000317	hotel	5			https://brachmadrid.com/
+relation	8011905	Petit Palace Plaza España		40.4209408	-3.7084892	hotel	4	Petit Palace Hotelity	Hoteatelier	https://www.petitpalace.com/en/petit-palace-plaza-espana/
+relation	8340343	Only YOU Hotel Atocha		40.4072803	-3.6881559	hotel				https://www.onlyyouhotels.com/hoteles/only-you-hotel-atocha/
+relation	10150869	Hotel AC Atocha		40.4035210	-3.6902203	hotel				
+relation	17989643	täCH Hotel		40.4731316	-3.5856070	hotel	4		Clement Hotels	https://www.tach-hotel.es/
+relation	18361918	Hotel Meninas		40.4191675	-3.7094452	hotel				https://www.hotelmeninas.es/
+relation	18379721	Ocean Drive Madrid		40.4183041	-3.7087622	hotel	4			https://www.od-hotels.com/es/ocean-drive-madrid/
+relation	18397405	Hotel Vincci The Mint		40.4196872	-3.6985370	hotel	4	Vincci Hoteles	Vincci Hoteles	https://www.vinccithemint.com/
+relation	18929548	Ibis Styles Madrid Airport Valdebebas		40.4866824	-3.6055713	hotel		Ibis Styles		https://all.accor.com/hotel/C0U5/index.es.shtml
+relation	19720624	Hotel Vincci Centrum		40.4175506	-3.6987184	hotel	4	Vincci Hoteles	Vincci Hoteles	https://www.vinccihoteles.com/hoteles/madrid/vincci-centrum/
+relation	21199719	Petit Palace Santa Bárbara		40.4263702	-3.6962149	hotel	4	Petit Palace Hotelity	Hotelatelier	https://www.petitpalace.com/en/petit-palace-santa-barbara/
+relation	21205935	Catalonia Puerta del Sol		40.4141178	-3.7027889	hotel	4	Catalonia Hotels & Resorts	Hoteles Catalonia	https://www.hoteles-catalonia.com/es/nuestros_hoteles/europa/espanya/madrid/madrid/hotel_catalonia_puerta_del_sol/index.jsp

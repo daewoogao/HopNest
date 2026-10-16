@@ -1,0 +1,19 @@
+[
+  {
+    "id": "laera1_city",
+    "name": "Airport Rail Link",
+    "jp": "รถไฟฟ้าเชื่อมท่าอากาศยานสุวรรณภูมิ",
+    "color": "#59191F",
+    "code": "AERA1 City",
+    "stations": [
+      ["Phaya Thai",13.7568,100.5345],
+      ["Ratchaprarop",13.7551,100.5423],
+      ["Makkasan",13.7507,100.5622],
+      ["Ramkhamhaeng",13.743,100.6006],
+      ["Hua Mak",13.7381,100.6459],
+      ["Ban Thap Chang",13.7329,100.6908],
+      ["Lat Krabang",13.7277,100.7493],
+      ["Suvarnabhumi",13.6943,100.7513]
+    ]
+  }
+]

@@ -1,0 +1,220 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	358960545	The Normandy Hotel		38.9174098	-77.0476207	hotel				
+node	367144559	Windsor Lodge		38.9173936	-77.0486397	hotel				
+node	476902333	Hotel Zena Washington DC		38.9051023	-77.0315742	hotel		Viceroy Hotels and Resorts		https://www.viceroyhotelsandresorts.com/zena
+node	738195019	Kimpton George Hotel		38.8963956	-77.0099075	hotel		Kimpton		https://www.hotelgeorge.com/
+node	739528186	Yours Truly DC		38.9047570	-77.0475990	hotel				https://www.yourstrulydc.com/
+node	740372175	Hotel Rendale Washington DC		38.9160449	-77.0468105	hotel				https://www.hotelrendaledc.com/
+node	740372205	Churchill Hotel Near Embassy Row		38.9163741	-77.0469605	hotel				https://www.thechurchillhotel.com/
+node	741033230	The Henley Park Hotel		38.9031469	-77.0257082	hotel				https://www.henleypark.com/
+node	754895992	Starwood Hotel		38.9029968	-77.0342499	hotel				
+node	754896006	Willard InterContinental Hotel		38.8970389	-77.0324131	hotel		InterContinental		https://www.ihg.com/intercontinental/hotels/us/en/washington/washa/hoteldetail
+node	754896071	"Le Méridien Washington, D.C., The Madison"		38.9053690	-77.0340600	hotel		Le Méridien		https://www.marriott.com/en-us/hotels/wasmm-le-meridien-washington-dc-the-madison/overview/
+node	754896090	Hotel Monaco		38.8969924	-77.0224383	hotel		Kimpton		https://www.monaco-dc.com/
+node	754896099	JW Marriott		38.8964082	-77.0316220	hotel		JW Marriott		https://www.marriott.com/en-us/hotels/wasjw-jw-marriott-washington-dc/overview/
+node	754896116	Hilton Garden Inn Washington DC Downtown		38.9006663	-77.0316376	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/dcachgi-hilton-garden-inn-washington-dc-downtown/
+node	754896126	Hotel Harrington		38.8958971	-77.0273017	hotel				https://www.hotel-harrington.com/
+node	754896185	"The Westin Washington, DC Downtown"		38.9015084	-77.0236930	hotel		Westin	Marriott International	https://www.marriott.com/en-us/hotels/waswc-the-westin-washington-dc-downtown/overview/
+node	754896219	Swiss Inn		38.9041242	-77.0284279	hotel				http://www.theswissinn.com/
+node	754896223	Sofitel Lafayette Square		38.9005074	-77.0339418	hotel		Sofitel		https://www.sofitel-washington-dc.com/
+node	754896248	Jefferson Hotel		38.9059379	-77.0369558	hotel				http://www.thejeffersonwashingtondc.com/
+node	754896254	Courtyard		38.8971375	-77.0243479	hotel		Courtyard		
+node	754959856	American Guest House		38.9176566	-77.0459777	hotel				https://www.americanguesthouse.com/
+node	754959897	Gallery Inn		38.9158882	-77.0431057	hotel				
+node	754959917	Corporate Suites Of Washington		38.9364413	-77.0373246	hotel				
+node	756798361	Dynasty Inn		38.9303467	-76.9728824	hotel				
+node	756798378	Travel Lodge Gateway		38.9166411	-76.9720393	hotel				http://www.travelodge.com/
+node	756798423	Days Inn Gateway		38.9179769	-76.9705995	hotel		Days Inn		http://www.daysinn.com/
+node	757651983	International Guest House		38.9564224	-77.0353884	hostel				https://igh-dc.com/
+node	757672420	Georgetown Suites		38.9043614	-77.0589458	hotel				https://www.georgetownsuites.com/
+node	757672433	Georgetown Suites Harbor Building		38.9029220	-77.0583576	hotel				https://www.georgetownsuites.com/
+node	757672443	Omni Shoreham Hotel		38.9226849	-77.0536644	hotel			Omni Hotels& Resorts	https://www.omnihotels.com/hotels/washington-dc-shoreham
+node	757672458	Woodley Park Guest House		38.9258685	-77.0537350	hotel				https://www.dcinns.com/
+node	757672473	Ritz Carlton Georgetown		38.9032255	-77.0617072	hotel		The Ritz-Carlton		https://www.ritzcarlton.com/en/hotels/washington-dc/georgetown
+node	757672514	The Georgetown Inn		38.9071262	-77.0634394	hotel				https://www.georgetowninn.com/
+node	759552559	Inn At Dupont South		38.9077421	-77.0436943	hotel				https://thedupontcollection.com/
+node	759552601	Embassy Suites Downtown		38.9068492	-77.0494454	hotel		Embassy Suites		https://embassysuites.hilton.com/
+node	759552633	The Dupont At The Circle		38.9113576	-77.0437252	hotel				https://www.dupontatthecircle.com/
+node	759552651	The Baron Hotel		38.9102953	-77.0483959	hotel				
+node	759552681	"The Beacon at Embassy Row Washington DC, Tapestry by Hilton"		38.9070490	-77.0380497	hotel		Tapestry Collection by Hilton		https://www.hilton.com/en/hotels/dcaupup-beacon-hotel-washington-dc/
+node	759552691	Residence Inn		38.9094589	-77.0473342	hotel		Residence Inn		
+node	759552698	"The Ven at Embassy Row, Washington, D.C., A Tribute Portfolio Hotel"		38.9108169	-77.0456564	hotel				https://www.marriott.com/hotels/travel/wastx-the-ven-at-embassy-row-washington-dc-a-tribute-portfolio-hotel/
+node	759552703	The Mansion On O Street		38.9083626	-77.0458741	hotel				https://www.omansion.com/
+node	759552711	Eurostars St Gregory Dupont Circle Georgetown		38.9058720	-77.0463700	hotel		Eurostars Hotel Company		https://www.eurostarshotels.us/eurostars-st-gregory-dupont-circle-georgetown.html
+node	759552780	The Royal Sonesta Washington DC Dupont Circle		38.9098133	-77.0474131	hotel		Sonesta		https://www.sonesta.com/royal-sonesta/dc/washington/royal-sonesta-washington-dc-dupont-circle/
+node	759552787	Hotel Madera		38.9075946	-77.0456950	hotel				https://www.hotelmadera.com/
+node	759570079	The River Inn		38.9014081	-77.0536224	hotel				https://www.theriverinn.com/
+node	759570096	Arc Hotel Washington DC		38.9002688	-77.0528992	hotel				https://www.archoteldc.com/
+node	759570154	West End Washington DC		38.9042990	-77.0479620	hotel		Tapestry Collection		https://www.hilton.com/en/hotels/dcagcup-west-end-washington-dc/
+node	759570159	Melrose Georgetown Hotel		38.9030366	-77.0523879	hotel				https://www.melrosehoteldc.com/
+node	759570169	Millennium Hotels & Resorts		38.9049516	-77.0505280	hotel		Millennium		
+node	759570172	The Watergate Hotel		38.8993379	-77.0558434	hotel				http://www.watergatehotel.com/
+node	759570192	Club Quarters		38.9010756	-77.0391649	hotel				http://www.clubquarters.com/
+node	759570196	Residence Inn		38.8998414	-77.0522575	hotel		Residence Inn		https://www.marriott.com/en-us/hotels/wasfg-residence-inn-washington-dc-foggy-bottom/
+node	759570200	Park Hyatt Washington		38.9057969	-77.0510924	hotel		Park Hyatt	Hyatt	https://washingtondc.park.hyatt.com/
+node	759570206	"One Washington Circle DC, Tapestry Collection by Hilton"		38.9033582	-77.0497940	hotel		Tapestry by Hilton		https://www.hilton.com/en/hotels/wasnwup-one-washington-circle-dc/
+node	759570212	The Ritz-Carlton		38.9046278	-77.0491429	hotel		The Ritz-Carlton		http://www.ritz-carlton.com/
+node	759570215	The Westin		38.9050093	-77.0510663	hotel		Westin		http://www.westin.com/
+node	759602843	Four Seventeen Victorian Townhouse		38.8885100	-76.9997257	hotel				
+node	759603153	Doolittle Guest House		38.8901285	-76.9990136	hotel				
+node	759603163	A Capitol Place Bed & Breakfast		38.8883656	-76.9899772	hotel				http://www.acapitolplace.com/
+node	759603168	Residence Inn Capitol		38.8836459	-77.0159330	hotel		Residence Inn		https://www.marriott.com/property/propertypage/WASCP
+node	759603176	Bull Moose Bed And Breakfast		38.8910780	-76.9992604	hotel				
+node	759603191	Hereford House		38.8836290	-76.9981792	hotel				
+node	759603198	Residence At Potomac Place		38.8810464	-77.0165669	hotel				http://www.potomacplacecondo.com/
+node	759603203	Independence House Bed & Breakfast		38.8877888	-76.9991845	hotel				
+node	759624392	Comfort Inn Downtown Dc/Convention Center Washington		38.9059047	-77.0293494	hotel		Comfort Inn		https://www.choicehotels.com/district-of-columbia/washington/comfort-inn-hotels/dc601
+node	759624395	Viceroy Washington DC		38.9081758	-77.0330469	hotel				https://www.viceroyhotelsandresorts.com/washington-dc
+node	759624399	Morrison-Clark Inn		38.9043814	-77.0267236	hotel				https://www.morrisonclark.com/
+node	759624413	Kimpton Banneker Hotel by IHG		38.9082660	-77.0361302	hotel		Kimpton		https://www.thebanneker.com/?utm_source=kh.com&utm_medium=referral&utm_campaign=hotel-links
+node	759624418	The Darcy		38.9080583	-77.0354295	hotel				https://www.thedarcyhotel.com/
+node	759624436	Sonder at FOUND		38.9122314	-77.0360500	hotel		Sonder		https://www.sonder.com/destinations/washington_dc/WDC-NW-16TH1627-404/c34358
+node	759624489	Windsor Inn		38.9152870	-77.0369460	hotel				https://thewindsorinn.hotelsofwashington.com/en/
+node	774328216	Eldon Luxury Suites		38.9043860	-77.0254100	hotel				https://www.thehoteleldon.com/
+node	809009324	Embassy Suites by Hilton Washington DC Chevy Chase Pavilion		38.9607639	-77.0848476	hotel		Embassy Suites		https://www.hilton.com/en/hotels/wasches-embassy-suites-washington-dc-chevy-chase-pavilion/
+node	810465420	District Hotel		38.9081220	-77.0333120	hotel				https://www.districthotel.com/
+node	810522038	Holiday Inn Express		38.9028289	-77.0157400	hotel		Holiday Inn Express		https://www.ihg.com/holidayinnexpress/hotels/us/en/washington/wasnw/hoteldetail
+node	2473035115	Hilton Garden Inn		38.9062957	-77.0056342	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/dcanmgi-hilton-garden-inn-washington-dc-us-capitol/
+node	2779490663	Canal Inn Hotel		38.9043110	-77.0610420	hotel				
+node	3137214930	Downtown Washington Hostel		38.9003990	-76.9990980	hostel				
+node	3950294415	Hyatt Place Washington DC/White House		38.9021983	-77.0357112	hotel		Hyatt Place		https://www.hyatt.com/hyatt-place/en-us/waszw-hyatt-place-washington-dc-white-house
+node	4148260489	High Road Hostel DC		38.9204070	-77.0422780	hostel			www.HighRoadHostels.com	https://www.highroadhotel.com
+node	4960920721			38.8955744	-77.0227487	hotel				
+node	5170537878	Hyatt House		38.8785480	-77.0240010	hotel		Hyatt House	Hyatt	https://www.hyatt.com/en-us/hotel/washington-dc/hyatt-house-washington-dc-the-wharf/wasxs
+node	5170537879	Canopy by Hilton		38.8784134	-77.0234995	hotel		Canopy		
+node	5809244855	Concordia		38.9063230	-77.0468220	hotel				http://www.theconcordia.com/contact-us.aspx
+node	6372830485	Eaton DC		38.9027867	-77.0284620	hotel				https://www.eatonworkshop.com/en-us/washington-dc/
+node	6378801482	Hampton		38.9003976	-77.0410804	hotel		Hampton		https://www.hilton.com/en/hotels/washshx-hampton-washington-dc-white-house/
+node	6635339886	Found Hotel		38.9121001	-77.0343325	hotel				https://www.foundhotels.com/washington-dc/
+node	9794716858	Homewood Suites by Hilton Washington DC NoMa Union Station		38.9110784	-76.9966122	hotel		Homewood Suites		
+node	9794716859	Hampton Inn Washington DC NoMa Union Station		38.9112426	-76.9970610	hotel		Hampton		https://www.hilton.com/en/hotels/dcanyhx-hampton-washington-dc-noma-union-station/
+node	9896716682	Washington International Student Center		38.9217833	-77.0421341	hostel				https://dchostel.com/
+node	9901878576	Pendry Washington DC - The Wharf		38.8773728	-77.0222964	hotel		Pendry		https://www.pendry.com/washington-dc/
+node	10595724769	Homewood Suites by Hilton Washington DC Capitol-Navy Yard		38.8767488	-77.0070457	hotel		Homewood Suites		https://www.hilton.com/en/hotels/wascahw-homewood-suites-washington-dc-capitol-navy-yard/
+node	10658577446	Hyatt House		38.9087268	-77.0237541	hotel		Hyatt House		https://www.hyattwashingtondcconventioncenter.com
+node	11136224357	citizenM Washington DC NOMA		38.9066345	-77.0061868	hotel		citizenM		https://www.citizenm.com/hotels/america/washington-dc/noma-hotel
+node	11149459916	Courtyard Washington Downtown/Convention Center		38.9043172	-77.0244189	hotel		Courtyard		https://www.marriott.com/en-us/hotels/wasyv-courtyard-washington-downtown-convention-center/overview
+node	11652717434	Hilton Garden Inn		38.9054574	-77.0491970	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/waswegi-hilton-garden-inn-washington-dc-georgetown-area/
+node	11652717435	Residence Inn		38.9043440	-77.0245211	hotel		Residence Inn		https://www.marriott.com/wasrd
+node	11907601833	citizenM		38.8837618	-77.0194401	hotel		citizenM		https://www.citizenm.com/hotels/united-states/washington-dc/washington-dc-capitol-hotel
+node	12731621376	Canal House of Georgetown		38.9032134	-77.0609513	hotel		Marriott	Marriott	https://www.marriott.com/en-us/hotels/wasgx-canal-house-of-georgetown-a-tribute-portfolio-hotel/overview/
+node	12851870943	"Mint House Washington, D.C. – Downtown"		38.9030333	-77.0337928	hotel		Mint House		https://minthouse.com/washingtondc/downtown/
+node	12858976101	Caravan Hostel		38.9200472	-77.0415419	hostel				https://www.caravanhostel.com/
+node	12902215221	Arlo Washington DC		38.8984764	-77.0158649	hotel		Arlo		https://arlohotels.com/washingtondc/
+node	13226716113	AC Hotel		38.9043499	-77.0437624	hotel		AC Hotel		https://www.marriott.com/en-us/hotels/wasad-ac-hotel-washington-dc-downtown/overview
+node	13235283450	Le Méridien Arlington		38.8972651	-77.0700387	hotel		Le Méridien		https://www.marriott.com/WASRL
+node	13900334801	The Architect Hotel		38.9035746	-77.0343633	hotel				https://www.thearchitecthotel.com/
+way	39116936	Hilton Garden Inn Arlington/Courthouse Plaza		38.8889200	-77.0833281	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/dcaargi-hilton-garden-inn-arlington-courthouse-plaza/
+way	44856091	Hilton Arlington National Landing		38.8522552	-77.0520079	hotel		Hilton		https://www.hilton.com/en/hotels/dcanahf-hilton-arlington-national-landing/
+way	45270322	Residence Inn Arlington Rosslyn		38.8937787	-77.0732914	hotel		Residence Inn		https://www.marriott.com/WASRR
+way	45303079	Sonesta Select Arlington Rosslyn		38.8939553	-77.0757756	hotel		Sonesta Select		https://www.sonesta.com/us/virginia/arlington/sonesta-select-arlington-rosslyn
+way	45309779	Inn of Rosslyn		38.8911554	-77.0767276	hotel				
+way	46593876	Embassy Suites Crystal City National Airport		38.8613721	-77.0526007	hotel		Embassy Suites		https://www.hilton.com/en/hotels/wascres-embassy-suites-crystal-city-national-airport/
+way	47001991	Courtyard Bethesda Chevy Chase		38.9643906	-77.0879761	hotel		Courtyard		https://www.marriott.com/wasvy
+way	48037566	Holiday Inn Washington Capitol		38.8855527	-77.0193752	hotel		Holiday Inn		https://www.ihg.com/holidayinn/hotels/us/en/washington/wassm/hoteldetail
+way	48039170	Maison Orleans Bed & Breakfast		38.8837723	-76.9992643	hotel				https://www.bbonline.com/dc/maisonorleans
+way	48039867	Capitol Hill Hotel		38.8862537	-77.0031283	hotel				https://www.capitolhillhotel-dc.com/
+way	48040312	"The Potomac Hotel, Autograph Collection"		38.8834031	-77.0306629	hotel				https://www.marriott.com/en-us/hotels/waswf-the-potomac-hotel-autograph-collection/overview/
+way	48040796	The Royal Sonesta		38.8977661	-77.0106382	hotel		Sonesta		https://www.sonesta.com/royal-sonesta/dc/washington/royal-sonesta-washington-dc-capitol-hill
+way	48040879	Hilton Washington DC Capitol Hill		38.8969235	-77.0108206	hotel		Hilton		https://www.hilton.com/en/hotels/dcadchh-hilton-washington-dc-capitol-hill/
+way	48040920	Phoenix Park Hotel		38.8970847	-77.0094692	hotel				https://www.phoenixparkhotel.com/
+way	48041383	Fairfield Inn		38.8994821	-77.0191703	hotel		Fairfield Inn		https://www.marriott.com/wasfc
+way	48041479	Washington Marriott at Metro Center		38.8993606	-77.0275836	hotel		Marriott	Marriott	http://www.marriotthotels.com/
+way	48041504	Grand Hyatt Washington		38.8993407	-77.0264883	hotel		Grand Hyatt	Hyatt Hotels Corporation	https://washingtondc.grand.hyatt.com/
+way	48041529	Hotel Washington		38.8969352	-77.0332251	hotel		Independent		https://www.thehotelwashington.com/
+way	48056784	"Residence Inn Washington, DC Downtown"		38.9044943	-77.0323451	hotel		Residence Inn		https://www.marriott.com/en-us/hotels/wasdc-residence-inn-washington-dc-downtown/overview/
+way	48056803	Hamilton Hotel		38.9029257	-77.0315939	hotel				https://www.hamiltonhoteldc.com/
+way	48056822	Embassy Suites by Hilton Washington DC Convention Center		38.9019412	-77.0262882	hotel		Embassy Suites		https://www.hilton.com/en/hotels/wascces-embassy-suites-washington-dc-convention-center/
+way	48077310	"The Westin Washington, D.C City Center"		38.9053158	-77.0334359	hotel		Westin		https://www.marriott.com/en-us/hotels/wascw-the-westin-washington-dc-city-center/overview/
+way	48077348	Capital Hilton		38.9031717	-77.0359751	hotel				http://capitalhilton.com
+way	48077383	"The St. Regis Washington, D.C."		38.9021044	-77.0360883	hotel		St. Regis	Marriott International	https://www.marriott.com/hotels/travel/wassx-the-st-regis-washington-dc/
+way	48085044	Hyatt Place		38.8829065	-77.0179769	hotel		Hyatt Place		https://www.hyatt.com/en-us/hotel/washington-dc/hyatt-place-washington-dc-national-mall/waszc
+way	55316319	DUO Housing		38.9064656	-77.0267318	hostel				http://www.duohousing.com
+way	55316391	Marriott Marquis		38.9036167	-77.0249833	hotel		Marriott		https://www.marriott.com/en-us/einterface/v5/WASCO
+way	55320075	Capitol Comfort Hostel		38.9115516	-77.0222320	hostel				
+way	55321941	Samaritan Inn		38.9232423	-77.0316323	hotel				https://www.samaritaninns.org/
+way	55326891	Hay-Adams Hotel		38.9005054	-77.0369485	hotel				https://www.hayadams.com/
+way	55326955	The Mayflower Hotel		38.9044444	-77.0394719	hotel		Autograph Collection		http://www.renaissancehotels.com/
+way	55326986	Canopy		38.9066662	-77.0369714	hotel		Canopy		https://www.hilton.com/en/hotels/dcaempy-canopy-washington-dc-embassy-row/
+way	55327038	Tabard Inn		38.9075037	-77.0399539	hotel				https://www.tabardinn.com/
+way	55327039	"Courtyard Washington, DC Dupont Circle"		38.9074198	-77.0397084	hotel		Courtyard		https://www.marriott.com/hotels/travel/wasnc-courtyard-washington-dc-dupont-circle/
+way	55327095	The Jefferson		38.9059489	-77.0369364	hotel				http://www.jeffersondc.com/dining/quill
+way	56693763	Hampton Inn & Suites Arlington Crystal City DCA		38.8554596	-77.0528328	hotel		Hampton Inn & Suites		https://www.hilton.com/en/hotels/wasrrhx-hampton-suites-reagan-national-airport/
+way	59620457	Holiday Inn National Airport/Crystal City		38.8494566	-77.0533636	hotel		Holiday Inn		https://www.ihg.com/holidayinn/hotels/us/en/arlington/wasdc/hoteldetail
+way	66409286	Hotel Hive		38.8971172	-77.0496873	hotel				https://www.hotelhive.com/
+way	66418840	Waldorf Astoria Washington DC		38.8940964	-77.0275812	hotel		Waldorf Astoria		https://www.hilton.com/en/hotels/dcawawa-waldorf-astoria-washington-dc/
+way	66420018	"The Quincy, Ascend Hotel Collection"		38.9039919	-77.0427061	hotel				
+way	66420126	AKA White House		38.8999270	-77.0403545	hotel			AKA	https://www.stayaka.com/locations/washington-dc
+way	66646605	The Fairmont		38.9057516	-77.0519498	hotel				https://www.fairmont.com/washington/
+way	66646613	Marriott		38.9058832	-77.0483621	hotel		Marriott		
+way	66681080	Hotel Lombardy		38.9016317	-77.0459263	hotel				https://www.hotellombardy.com/hl/Default.htm
+way	66692473	Rosewood		38.9039903	-77.0614547	hotel		Rosewood		https://www.rosewoodhotels.com/en/washington-dc
+way	66693483	The Graham Georgetown		38.9047488	-77.0599159	hotel				https://www.thegrahamgeorgetown.com
+way	66815946	Washington Plaza Hotel		38.9062426	-77.0309188	hotel				https://www.washingtonplazahotel.com/
+way	66834363	Dupont Circle Hotel		38.9106520	-77.0430104	hotel				https://www.doylecollection.com/Washington
+way	66981885	Washington Hilton		38.9164565	-77.0448983	hotel		Hilton	Hilton	https://www3.hilton.com/en/hotels/district-of-columbia/washington-hilton-DCAWHHH/index.html
+way	67069608	The Line		38.9227647	-77.0417024	hotel				https://www.thelinehotel.com/dc/
+way	67079994	Lyle Washington DC		38.9133329	-77.0394568	hotel				http://www.carlylesuites.com/
+way	67079996	The Washington Club		38.9098921	-77.0424753	hotel				
+way	67086154	Holiday Inn Washington DC - Central / White House		38.9081157	-77.0349707	hotel		Holiday Inn		https://www.inndc.com/
+way	67087209	Homewood Suites By Hilton		38.9066076	-77.0334979	hotel		Homewood Suites		
+way	67100718	Courtyard		38.9078686	-77.0031498	hotel		Courtyard		https://www.marriott.com/wasus
+way	67133656	U Street Hostel		38.9166571	-77.0293509	hostel				https://ustreethostel.com/
+way	67234768	Homewood Suites by Hilton Washington DC Convention Center		38.9043805	-77.0185286	hotel		Homewood Suites		https://www.hilton.com/en/hotels/wascohw-homewood-suites-washington-dc-convention-center/
+way	67260200	Courtyard		38.8779789	-77.0040610	hotel		Courtyard		https://www.marriott.com/wasny
+way	67829141	Kimpton Glover Park Hotel		38.9233099	-77.0727824	hotel		Kimpton		https://www.gloverparkhotel.com/
+way	74035719	Hyatt Regency Washington on Capitol Hill	Hyatt Regency Washington on Capitol Hill	38.8954289	-77.0116325	hotel		Hyatt Regency	Hyatt Hotels Corporation	https://washingtondc.regency.hyatt.com/en/hotel/home.html
+way	74035728	YOTEL Washington DC		38.8954191	-77.0106922	hotel		YOTEL		
+way	80300533	Sheraton		38.8668960	-77.0727770	hotel		Sheraton		https://www.marriott.com/WASGS
+way	146142338	Residence Inn Arlington Courthouse		38.8896215	-77.0870069	hotel		Residence Inn		https://www.marriott.com/WASCA
+way	156072184	Hyatt Centric Arlington		38.8951808	-77.0727576	hotel		Hyatt Centric		https://www.hyatt.com/hyatt-centric/en-US/wasar-hyatt-centric-arlington
+way	171973452	Hilton Garden Inn		38.8417159	-77.0892458	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/dcaasgi-hilton-garden-inn-arlington-shirlington/
+way	203599061	Courtyard Marriott - Foggy Bottom		38.8965436	-77.0445250	hotel		Courtyard		https://www.marriott.com/wasfb
+way	211541653	Hotel Pentagon		38.8475960	-77.0803802	hotel				https://www.hotelpentagon.net/
+way	211541654	Comfort Inn Pentagon City		38.8466376	-77.0813965	hotel		Comfort Inn		https://www.choicehotels.com/virginia/woodbridge/sleep-inn-hotels
+way	241802501	Days Inn		38.8617313	-77.0881086	hotel		Days Inn		https://www.wyndhamhotels.com/days-inn/arlington-virginia/days-inn-arlington-pentagon/overview
+way	296967469	Ivy City Hotel		38.9167561	-76.9805960	hotel				https://www.ivycityhotel.com
+way	298560116	Holiday Inn Express		38.9164299	-76.9722910	hotel		Holiday Inn Express		
+way	298560304	Fairfield Inn & Suites		38.9165713	-76.9715127	hotel		Fairfield Inn & Suites		https://www.marriott.com/wasna
+way	298584513	Quality Inn & Suites		38.9174653	-76.9801891	hotel		Quality Inn & Suites		http://www.comfortinn.com
+way	298584694			38.9123068	-76.9956248	hotel				
+way	369195263	Hyatt Place Arlington / Courthouse Plaza		38.8910664	-77.0876244	hotel		Hyatt Place		https://www.hyatt.com/en-US/hotel/virginia/hyatt-place-arlington-courthouse-plaza/wasza
+way	372648409	Courtyard Arlington Crystal City/Reagan National Airport		38.8479152	-77.0518980	hotel		Courtyard		https://www.marriott.com/WASCT
+way	422069527	Hyatt Regency Crystal City at Reagan National Airport		38.8487408	-77.0517000	hotel		Hyatt Regency		https://crystalcity.regency.hyatt.com/
+way	492663566	Hampton Inn & Suites Washington DC-Navy Yard		38.8749496	-77.0062602	hotel		Hampton Inn & Suites		https://www.hilton.com/en/hotels/wasnyhx-hampton-suites-washington-dc-navy-yard/
+way	502173611	Motto by Hilton Washington DC City Center		38.9001131	-77.0212039	hotel		Motto		https://www.hilton.com/en/hotels/wasuaua-motto-washington-dc-city-center/
+way	503283627	Residence Inn		38.8758086	-77.0063677	hotel		Residence Inn		https://www.marriott.com/hotels/travel/wasxr-residence-inn-washington-capitol-hill-navy-yard/
+way	506164269	"Four Seasons Hotel Washington, DC"		38.9044886	-77.0573660	hotel		Four Seasons		https://www.fourseasons.com/
+way	532861091	InterContinental Washington D.C. - The Wharf		38.8794501	-77.0250164	hotel		InterContinental		https://wharfintercontinentaldc.com
+way	533725264	Days Inn		38.9469430	-77.0656178	hotel		Days Inn		http://www.daysinn.com/
+way	535777763	Hyatt Place Washington DC/US Capitol		38.9075118	-77.0077907	hotel		Hyatt Place		https://www.hyatt.com/en-us/hotel/washington-dc/hyatt-place-washington-dc-us-capitol/waszd
+way	535811725	Homewood Suites by Hilton Washington DC Convention Center		38.9044652	-77.0183084	hotel		Homewood Suites		https://www.hilton.com/en/hotels/wascohw-homewood-suites-washington-dc-convention-center/
+way	625886205	Homewood Suites Rosslyn		38.8972385	-77.0791907	hotel		Homewood Suites		
+way	658512000	"Moxy Washington, DC Downtown"		38.9028887	-77.0265098	hotel		Moxy		https://www.marriott.com/hotels/travel/wasox-moxy-washington-dc-downtown/
+way	727583181	Hampton		38.9018165	-77.0195715	hotel		Hampton		https://www.hilton.com/en/hotels/washhhx-hampton-washington-downtown-convention-center/
+way	740826352	Conrad Hotel Washington DC		38.9012767	-77.0253663	hotel		Conrad		https://www.hilton.com/en/hotels/wascici-conrad-washington-dc/
+way	744962801	Cambria Hotel		38.8709600	-77.0110724	hotel		Cambria Hotel		https://www.cambriadccapitolriverfront.com/
+way	855158606	The Westin Crystal City Reagan National Airport		38.8570909	-77.0525732	hotel		Westin		
+way	882843838			38.8471060	-77.0809243	hotel				
+way	906932078	Thompson Washington D.C.		38.8746601	-77.0025011	hotel				
+way	921266579	Renaissance Arlington Capital View Hotel		38.8477402	-77.0512997	hotel		Renaissance		
+way	921266827	Residence Inn Arlington Capital View		38.8472307	-77.0515109	hotel		Residence Inn		https://www.marriott.com/WASRY
+way	921267236	The Ritz-Carlton Pentagon City		38.8624521	-77.0605913	hotel		The Ritz-Carlton		https://www.ritzcarlton.com/en/hotels/washington-dc/pentagon-city
+way	921689042	"Crowne Plaza Crystal City-Washington, D.C."		38.8605953	-77.0502406	hotel		Crowne Plaza		https://www.ihg.com/crowneplaza/hotels/us/en/arlington/wasna/hoteldetail
+way	1020448074	State Plaza Hotel		38.8966843	-77.0475147	hotel				https://www.stateplaza.com/
+way	1024673843	AC Hotel Washington DC Capitol Hill-Navy Yard		38.8802166	-77.0057653	hotel		AC Hotel		https://www.marriott.com/en-us/hotels/wasao-ac-hotel-washington-dc-capitol-hill-navy-yard/overview/
+way	1026203493	Crystal Gateway Marriott		38.8586692	-77.0526713	hotel		Marriott		https://www.marriott.com/WASGW
+way	1046377406	AC Hotel		38.9028677	-77.0202456	hotel		AC Hotel		https://www.marriott.com/en-us/hotels/wasae-ac-hotel-washington-dc-convention-center/overview/
+way	1052363390	The Morrow Washington DC		38.9060575	-77.0028420	hotel		Curio Collection		https://www.themorrowhotel.com
+way	1085892507	AC Hotel Arlington National Landing		38.8566288	-77.0515702	hotel		AC Hotel		https://www.marriott.com/en-us/hotels/wasnl-ac-hotel-arlington-national-landing/overview/
+way	1085892510	Hilton Garden Inn Reagan National Airport		38.8549692	-77.0529360	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/dcaccgi-hilton-garden-inn-reagan-national-airport/
+way	1085892511	Hilton Garden Inn Reagan National Airport		38.8543914	-77.0529168	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/dcaccgi-hilton-garden-inn-reagan-national-airport/
+way	1086521851	DoubleTree by Hilton Hotel Washington DC - Crystal City		38.8639180	-77.0527551	hotel		DoubleTree		https://www.hilton.com/en/hotels/dcaaedt-doubletree-washington-dc-crystal-city/
+way	1113319447			38.8803335	-77.0849235	hotel				
+way	1190020437	Hilton Arlington Rosslyn The Key		38.8976919	-77.0727912	hotel		Hilton		https://www.hilton.com/en/hotels/dcarthh-hilton-arlington-rosslyn-the-key/
+way	1191904068	Hyatt Place Washington DC/Georgetown/West End		38.9056525	-77.0481729	hotel		Hyatt Place		https://washingtondcgeorgetown.place.hyatt.com/en/hotel/home.html
+way	1230642805	Sonder Vicino		38.9081087	-77.0094288	hotel		Sonder	Sonder	
+way	1289833711	Hotel Nell – Union Market		38.9110213	-76.9974865	hotel				https://www.hotelnelldc.com/
+way	1456812297	Hilton Washington DC National Mall The Wharf		38.8839029	-77.0239519	hotel		Hilton		https://www.hilton.com/en/hotels/dcaephh-hilton-washington-dc-national-mall-the-wharf/
+relation	3949780	Gallaudet University Kellogg Conference		38.9078021	-76.9952685	hotel				https://www.gukcc.com/
+relation	14615145	Days Inn		38.8803238	-77.0849748	hotel		Days Inn		https://www.wyndhamhotels.com/days-inn/arlington-virginia/days-inn-arlington-washington-dc/overview
