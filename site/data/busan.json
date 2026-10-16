@@ -1,0 +1,336 @@
+{
+  "name": "Busan",
+  "country": "South Korea",
+  "flag": "🇰🇷",
+  "center": [35.15,129.07],
+  "zoom": 12,
+  "operatingHours": "Busan Metro (Lines 1–4) runs ~5:30 AM–~midnight daily; last trains leave central stations around 11:30 PM–midnight. Trains every 3–6 min by day, 8–10 min late evening. No all-night service; the Busan-Gimhae Light Rail and Donghae Line have their own, slightly different hours.",
+  "fareInfo": "Distance-based: ₩1,600 (up to 10 km) or ₩1,800 (longer) with a T-money, Cashbee or Hanaro card (2026; single-use QR tickets cost ₩100 more). Metro 1-day pass ₩6,000 and 3-day ₩13,000 (Lines 1–4 only; not valid on the Donghae Line or the airport light rail). Tap the same card on buses; transfers within 30 minutes are free.",
+  "lines": [
+    {
+      "id": "l1",
+      "name": "Line 1",
+      "jp": "1호선",
+      "color": "#F06A00",
+      "code": "1",
+      "stations": [
+        ["Nopo",35.2842,129.0952],
+        ["Beomeosa",35.2732,129.0927],
+        ["Namsan",35.2652,129.0925],
+        ["Dusil",35.2571,129.0914],
+        ["Guseo",35.2469,129.0912],
+        ["Jangjeon",35.238,129.0881],
+        ["Pusan Nat'l Univ.",35.2297,129.0893],
+        ["Oncheonjan",35.22,129.0862],
+        ["Myeongnyun",35.2124,129.0795],
+        ["Dongnae",35.2053,129.0785],
+        ["Busan National University of Education",35.1954,129.0799],
+        ["Yeonsan",35.186,129.0814],
+        ["City Hall",35.1798,129.0765],
+        ["Yangjeong",35.1732,129.0713],
+        ["Bujeon",35.1626,129.0629],
+        ["Seomyeon",35.1582,129.0595],
+        ["Beomnaegol",35.1472,129.0591],
+        ["Beomil",35.141,129.0593],
+        ["Jwacheon",35.1344,129.0543],
+        ["Busanjin",35.129,129.049],
+        ["Choryang",35.1212,129.0429],
+        ["Busan",35.1156,129.0399],
+        ["Jungang",35.1038,129.0363],
+        ["Nampo",35.0979,129.0349],
+        ["Jagalchi",35.0974,129.0267],
+        ["Toseong",35.1008,129.0199],
+        ["Dongdaesin",35.1103,129.0178],
+        ["Seodaesin",35.1109,129.012],
+        ["Daeti",35.1032,128.9999],
+        ["Goejeong",35.0999,128.9929],
+        ["Saha",35.0998,128.9831],
+        ["Dangni",35.1035,128.9738],
+        ["Hadan",35.1062,128.9668],
+        ["Sinpyeong",35.0949,128.9607],
+        ["Dongmae",35.0898,128.9734],
+        ["Jangnim",35.0819,128.9774],
+        ["Sinjangnim",35.0746,128.9769],
+        ["Natgae",35.0654,128.9798],
+        ["Dadaepo Harbor",35.0579,128.9714],
+        ["Dadaepo Beach",35.0481,128.9662]
+      ]
+    },
+    {
+      "id": "l2",
+      "name": "Line 2",
+      "jp": "2호선",
+      "color": "#81BF48",
+      "code": "2",
+      "stations": [
+        ["Jangsan",35.1695,129.1759],
+        ["Jung-dong",35.1667,129.1678],
+        ["Haeundae",35.1637,129.1588],
+        ["Dongbaek",35.1613,129.1481],
+        ["BEXCO",35.1688,129.1385],
+        ["Centum City",35.1686,129.1312],
+        ["Millak",35.1673,129.1217],
+        ["Suyeong",35.1654,129.1147],
+        ["Gwangan",35.1579,129.1131],
+        ["Geumryeonsan",35.1498,129.111],
+        ["Namcheon",35.1421,129.1078],
+        ["Kyungsung Univ. · Pukyong Nat'l Univ.",35.1376,129.1005],
+        ["Daeyeon",35.1351,129.0922],
+        ["Motgol",35.1348,129.0848],
+        ["Jigegol",35.1357,129.0742],
+        ["Munhyeon",35.1391,129.0673],
+        ["Busan International Finance Center·Busan Bank",35.1457,129.0667],
+        ["Jeonpo",35.1528,129.0654],
+        ["Seomyeon",35.1577,129.0591],
+        ["Buam",35.1574,129.0505],
+        ["Gaya",35.1558,129.0428],
+        ["Dong-Eui University",35.154,129.0321],
+        ["Gaegeum",35.1533,129.0205],
+        ["Naengjeong",35.1513,129.0124],
+        ["Jurye",35.1505,129.0032],
+        ["Gamjeon",35.1557,128.9909],
+        ["Sasang",35.1622,128.9847],
+        ["Deokpo",35.1739,128.9838],
+        ["Modeok",35.1804,128.9856],
+        ["Mora",35.1893,128.9884],
+        ["Gunam",35.1969,128.995],
+        ["Gumyeong",35.2029,128.9996],
+        ["Deokcheon",35.2108,129.0051],
+        ["Sujeong",35.2233,129.0092],
+        ["Hwamyeong",35.2353,129.0138],
+        ["Yulli",35.2465,129.0129],
+        ["Dongwon",35.2586,129.0124],
+        ["Geumgok",35.2674,129.0169],
+        ["Hopo",35.281,129.0175],
+        ["Jeungsan",35.3083,129.0103],
+        ["Pusan Nat'l Univ. Yangsan Campus",35.3169,129.014],
+        ["Namyangsan",35.3254,129.0194],
+        ["Yangsan",35.3387,129.0264]
+      ]
+    },
+    {
+      "id": "l3",
+      "name": "Line 3",
+      "jp": "3호선",
+      "color": "#BB8C00",
+      "code": "3",
+      "stations": [
+        ["Suyeong",35.1654,129.1147],
+        ["Mangmi",35.1717,129.1076],
+        ["Baesan",35.1734,129.0958],
+        ["Mulmangol",35.1766,129.0859],
+        ["Yeonsan",35.186,129.0816],
+        ["Geoje",35.1885,129.0741],
+        ["Sports Complex",35.1914,129.0675],
+        ["Sajik",35.1991,129.0651],
+        ["Minam",35.2065,129.0688],
+        ["Mandeok",35.213,129.0365],
+        ["Namsanjeong",35.2134,129.0239],
+        ["Sukdeung",35.212,129.0128],
+        ["Deokcheon",35.2103,129.0058],
+        ["Gupo",35.2067,128.9963],
+        ["Gangseo Office",35.2112,128.982],
+        ["Sports Park",35.2125,128.9694],
+        ["Daejeo",35.2134,128.9608]
+      ]
+    },
+    {
+      "id": "lbgl",
+      "name": "Busan–Gimhae Light Rail",
+      "jp": "부산김해경전철",
+      "color": "#8652A1",
+      "code": "BGL",
+      "stations": [
+        ["Sasang",35.1623,128.9859],
+        ["Gwaebeop Renecite",35.1633,128.9777],
+        ["Seobusan Yutongjigu",35.1664,128.955],
+        ["Gimhae International Airport",35.1719,128.9486],
+        ["Deokdu",35.182,128.9541],
+        ["Deunggu",35.1962,128.9635],
+        ["Daejeo",35.2131,128.9605],
+        ["Pyeonggang",35.214,128.9506],
+        ["Daesa",35.2177,128.9383],
+        ["Buram",35.2222,128.9278],
+        ["Jinae",35.2276,128.9237],
+        ["Gimhae College",35.229,128.9156],
+        ["Inje University",35.2281,128.9017],
+        ["Gimhae City Hall",35.2271,128.8903],
+        ["Buwon",35.2265,128.8838],
+        ["Bonghwang",35.2274,128.8743],
+        ["Royal Tomb of King Suro",35.2329,128.8721],
+        ["Gimhae National Museum",35.2401,128.8718],
+        ["Yeonji Park",35.2497,128.8692],
+        ["Presbyterian University",35.2596,128.8672],
+        ["Kaya University",35.2668,128.865]
+      ],
+      "firstLast": "Gimhae Airport ↔ Sasang (Line 2): ~5:30 AM to ~midnight, ~10 min."
+    }
+  ],
+  "hotels": [
+    {"name":"Ramada Encore by Wyndham Busan Station","lat":35.1142,"lng":129.0403,"area":"Busan Station","rating":4.7,"ratingCount":327,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Lotte Hotel Busan","lat":35.1569,"lng":129.0555,"area":"Seomyeon","rating":4.8,"ratingCount":2647,"stars":5,"priceTier":4},
+    {"name":"Central Seven Hotel by Kwon Busan Seomyeon","lat":35.1618,"lng":129.0619,"area":"Seomyeon","rating":4,"ratingCount":977,"stars":4,"priceTier":3},
+    {"name":"Queens Hotel Busan","lat":35.1551,"lng":129.0552,"area":"Seomyeon","rating":4.5,"ratingCount":153,"stars":3,"priceTier":2},
+    {"name":"Uniqstay Hostel & Suite","lat":35.1553,"lng":129.0548,"area":"Seomyeon","rating":4.8,"ratingCount":343,"stars":1,"priceTier":1},
+    {"name":"Aventree Hotel Busan","lat":35.0995,"lng":129.027,"area":"Nampo","rating":4.2,"ratingCount":418,"stars":4,"priceTier":3},
+    {"name":"Terra Guesthouse","lat":35.0967,"lng":129.0306,"area":"Nampo","rating":4.5,"ratingCount":139,"stars":1,"priceTier":1},
+    {"name":"Hotel Aqua Palace","lat":35.1541,"lng":129.1189,"area":"Gwangalli","rating":4.7,"ratingCount":448,"stars":5,"priceTier":4}
+  ],
+  "sights": [
+    {
+      "name": "Haeundae Beach",
+      "lat": 35.1587,
+      "lng": 129.1604,
+      "note": "Korea's best-known beach, a 1.5 km crescent of sand backed by high-rise hotels, with sand-sculpture festivals, summer swimming and a lively seafront strip.",
+      "hours": "Open 24 h; swimming season ~July–August",
+      "rating": 4.3
+    },
+    {
+      "name": "Gamcheon Culture Village",
+      "lat": 35.0975,
+      "lng": 129.0106,
+      "note": "A hillside neighbourhood of pastel houses stacked up the slope, now an art village with murals, small galleries and a famous Little Prince statue; pick up the stamp map at the entrance.",
+      "hours": "Village open all day; shops and galleries ~9:00 AM–6:00 PM",
+      "rating": 4.3
+    },
+    {
+      "name": "Haedong Yonggungsa Temple",
+      "lat": 35.1883,
+      "lng": 129.2231,
+      "note": "A rare seaside Buddhist temple perched on rocks above the East Sea north of Haeundae, best at sunrise before the tour buses arrive; reach it by bus from Haeundae.",
+      "hours": "Daily ~5:00 AM–7:00 PM",
+      "rating": 4.3
+    },
+    {
+      "name": "Gwangalli Beach & Gwangan Bridge",
+      "lat": 35.1531,
+      "lng": 129.1186,
+      "note": "A cafe-lined beach with a clear view of the lit-up Gwangandaegyo suspension bridge at night, plus occasional drone shows and plenty of seafood and bars along the strip.",
+      "hours": "Open 24 h; bridge lit after dusk",
+      "rating": 4.3
+    },
+    {
+      "name": "Beomeosa Temple",
+      "lat": 35.2819,
+      "lng": 129.0679,
+      "note": "A 1,300-year-old mountain temple on the slopes of Geumjeongsan, with tiered halls among tall pines; it is also the start of a hike up to the fortress wall.",
+      "hours": "Grounds open daily ~dawn to dusk; halls ~6:00 AM–6:00 PM",
+      "rating": 4.4
+    },
+    {
+      "name": "Busan Air Cruise (Songdo Marine Cable Car)",
+      "lat": 35.0762,
+      "lng": 129.0197,
+      "note": "A cable car crossing Songdo Bay between the beach and the Amnam Park side, with glass-floor cabins and views of the harbour; best on a clear evening.",
+      "hours": "~9:00 AM–9:00 PM (to ~10:00 PM weekends); closed in high winds",
+      "rating": 4.4
+    },
+    {
+      "name": "Jagalchi Market",
+      "lat": 35.0966,
+      "lng": 129.0306,
+      "note": "Korea's largest seafood market, where you choose live fish from the stalls and have it cooked upstairs; go for the bustle even if you do not eat.",
+      "hours": "~5:00 AM–10:00 PM; many stalls shut on the 1st and 3rd Tuesday",
+      "rating": 3.9
+    },
+    {
+      "name": "BIFF Square",
+      "lat": 35.0985,
+      "lng": 129.0283,
+      "note": "The old film-festival street in Nampo, now a lively strip of street-food carts selling ssiat hotteok (seed-stuffed pancakes), with hand prints of film stars embedded in the pavement.",
+      "hours": "Open all day; food stalls ~11:00 AM–midnight",
+      "rating": 4
+    },
+    {
+      "name": "UN Memorial Cemetery in Korea",
+      "lat": 35.1275,
+      "lng": 129.0971,
+      "note": "The only UN cemetery in the world, a peaceful memorial park for soldiers of the Korean War with a small museum and beautifully kept lawns.",
+      "hours": "~9:00 AM–5:00 PM (to ~6:00 PM in summer); open daily",
+      "rating": 4.6
+    },
+    {
+      "name": "Gukje Market",
+      "lat": 35.1008,
+      "lng": 129.0278,
+      "note": "A sprawling traditional market that grew out of the postwar refugee years, with alleys of clothing, kitchenware and bean-pancake stalls beside Bupyeong Kkangtong Market's night food.",
+      "hours": "~9:00 AM–8:00 PM; closed 1st and 3rd Sunday of the month",
+      "rating": 3.9
+    },
+    {
+      "name": "Taejongdae Resort Park",
+      "lat": 35.0517,
+      "lng": 129.0871,
+      "note": "A forested headland with cliffs, a lighthouse and a walking and tram loop on Yeongdo's southern tip, giving sweeping views over the open sea.",
+      "hours": "Park open 24 h; Danubi shuttle train ~9:00 AM–5:00 PM",
+      "rating": 4.3
+    },
+    {
+      "name": "Oryukdo Skywalk",
+      "lat": 35.1004,
+      "lng": 129.123,
+      "note": "A glass-floored lookout hanging over the sea cliff at Oryukdo Islets, with views to the white lighthouse and the Gwangan Bridge; free and short, usually combined with the coastal Igidae path.",
+      "hours": "~9:00 AM–6:00 PM daily",
+      "rating": 4
+    },
+    {
+      "name": "Songdo Beach & Skywalk",
+      "lat": 35.0754,
+      "lng": 129.0187,
+      "note": "Korea's first public beach, a calmer family-friendly bay with a skywalk jutting out over the water and boardwalks along the headland, reached from Nampo by bus.",
+      "hours": "Beach open 24 h; skywalk ~9:00 AM–6:00 PM",
+      "rating": 4.3
+    },
+    {
+      "name": "Igidae Coastal Walk",
+      "lat": 35.1222,
+      "lng": 129.1224,
+      "note": "A rugged oceanside trail along the cliffs between Oryukdo and Gwangalli, with sea views of the lighthouse and plenty of fishermen perched on the rocks.",
+      "hours": "Open 24 h; best in daylight",
+      "rating": 4.6
+    },
+    {
+      "name": "Dongbaekseom Island & Nurimaru APEC House",
+      "lat": 35.1528,
+      "lng": 129.1525,
+      "note": "A camellia-covered peninsula at the end of Haeundae with a seaside walking loop, a lighthouse and the circular APEC summit building; an easy sunrise or sunset stroll from the beach.",
+      "hours": "Island open 24 h; APEC House ~9:00 AM–6:00 PM (closed Mon)",
+      "rating": 4.5
+    },
+    {
+      "name": "Yongdusan Park & Busan Tower",
+      "lat": 35.1008,
+      "lng": 129.0325,
+      "note": "A hilltop park above Nampo reached by escalator, topped by the 120 m Busan Tower with views over the harbour, bridges and downtown rooftops.",
+      "hours": "Park open 24 h; tower ~10:00 AM–10:00 PM",
+      "rating": 4.1
+    },
+    {
+      "name": "Haeundae Dalmaji-gil",
+      "lat": 35.1595,
+      "lng": 129.1795,
+      "note": "A cherry-lined hill road above the Mipo area with cafes and sea views, popular at sunset and in spring; it is the least touristy stretch of the Haeundae coast.",
+      "hours": "Open 24 h; cafes ~10:00 AM–10:00 PM",
+      "rating": 4.3
+    }
+  ],
+  "railStations": [
+    {
+      "name": "Busan Station",
+      "lat": 35.1146,
+      "lng": 129.0409,
+      "note": "The KTX terminus: high-speed trains from Seoul in ~2h 40m, plus Mugunghwa/ITX services along the south coast. Metro Line 1 stops at the station and the Nampo/Jagalchi waterfront is two stops away.",
+      "hours": "KTX ~5:00 AM–~11:00 PM; Line 1 ~5:30 AM–~midnight."
+    }
+  ],
+  "airports": [
+    {
+      "name": "Gimhae International Airport",
+      "code": "PUS",
+      "lat": 35.1795,
+      "lng": 128.9382,
+      "transitNote": "West of the city. The Busan-Gimhae Light Rail (Airport Station, on the subway map) links to Metro Line 2 at Sasang in ~10 min, then ~35–45 min to Seomyeon or ~50–60 min to Haeundae (~₩1,700–2,500 in total). Airport limousine buses and taxis (~₩25,000–50,000) take 40–70 min.",
+      "hours": "Light rail: first train ~5:20 AM, last ~11:40 PM (varies by direction)."
+    }
+  ]
+}

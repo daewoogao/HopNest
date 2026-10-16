@@ -1,0 +1,323 @@
+{
+  "name": "São Paulo",
+  "country": "Brazil",
+  "flag": "🇧🇷",
+  "center": [-23.5558,-46.6396],
+  "zoom": 12,
+  "operatingHours": "São Paulo Metro runs ~4:40 AM–midnight daily; CPTM commuter trains ~4:00 AM–midnight. Trains every 2–6 min at peak, 6–10 min late at night. No all-night rail service; night buses (Madrugadão) run after midnight.",
+  "fareInfo": "Single fare R$5.40 on Metro, CPTM and monorail (2026); city bus R$5.30; bus-to-rail integration R$9.38. Tap a Bilhete Único or a contactless bank card at the gates. A pre-loaded Bilhete Único allows transfers within the integration windows.",
+  "lines": [
+    {
+      "id": "l1",
+      "name": "Line 1 – Blue",
+      "jp": "Linha 1 - Azul",
+      "color": "#1A5BA3",
+      "code": "1",
+      "stations": [
+        ["Tucuruvi",-23.48,-46.6033],
+        ["Parada Inglesa",-23.4874,-46.6091],
+        ["Jardim São Paulo - Ayrton Senna",-23.4924,-46.6172],
+        ["Santana",-23.5031,-46.6248],
+        ["Carandiru",-23.5092,-46.625],
+        ["Portuguesa - Tietê",-23.5165,-46.6252],
+        ["Armênia",-23.5255,-46.6294],
+        ["Tiradentes",-23.5309,-46.6323],
+        ["Luz",-23.5371,-46.6337],
+        ["São Bento",-23.5441,-46.6342],
+        ["Sé",-23.5506,-46.633],
+        ["Japão - Liberdade",-23.555,-46.6358],
+        ["São Joaquim",-23.5616,-46.6386],
+        ["Vergueiro",-23.5687,-46.6399],
+        ["Paraíso",-23.5753,-46.6408],
+        ["Ana Rosa",-23.5814,-46.6384],
+        ["Vila Mariana",-23.5892,-46.6347],
+        ["Santa Cruz",-23.5991,-46.6367],
+        ["Praça da Árvore",-23.6104,-46.6379],
+        ["Saúde – Ultrafarma",-23.6182,-46.6392],
+        ["São Judas",-23.6258,-46.6409],
+        ["Conceição",-23.635,-46.6413],
+        ["Jabaquara",-23.6463,-46.6411]
+      ]
+    },
+    {
+      "id": "l2",
+      "name": "Line 2 – Green",
+      "jp": "Linha 2 - Verde",
+      "color": "#008162",
+      "code": "2",
+      "stations": [
+        ["Vila Prudente",-23.5844,-46.582],
+        ["Tamanduateí",-23.5928,-46.5896],
+        ["Sacomã",-23.6013,-46.6026],
+        ["Alto do Ipiranga",-23.6022,-46.6125],
+        ["Santos - Imigrantes",-23.5957,-46.621],
+        ["Chácara Klabin",-23.5924,-46.6306],
+        ["Ana Rosa",-23.5814,-46.6384],
+        ["Paraíso",-23.5753,-46.6409],
+        ["Brigadeiro",-23.5685,-46.6477],
+        ["Trianon-Masp",-23.5632,-46.6542],
+        ["Consolação",-23.5577,-46.6605],
+        ["Clínicas",-23.554,-46.671],
+        ["Santuário Nossa Senhora de Fátima - Sumaré",-23.5509,-46.6777],
+        ["Vila Madalena",-23.5464,-46.6908]
+      ]
+    },
+    {
+      "id": "l3",
+      "name": "Line 3 – Red",
+      "color": "#D9001C",
+      "code": "3",
+      "stations": [
+        ["Palmeiras - Barra Funda",-23.526,-46.6675],
+        ["Marechal Deodoro",-23.5339,-46.6558],
+        ["Santa Cecília",-23.5393,-46.649],
+        ["República",-23.5441,-46.643],
+        ["Anhangabaú",-23.548,-46.639],
+        ["Sé",-23.5508,-46.6329],
+        ["Pedro II",-23.5497,-46.6259],
+        ["Brás",-23.5479,-46.6158],
+        ["Bresser-Mooca",-23.5464,-46.607],
+        ["Belém",-23.543,-46.5895],
+        ["Tatuapé",-23.5405,-46.5764],
+        ["Carrão – Assaí Atacadista",-23.5379,-46.5643],
+        ["Penha - Lojas Besni",-23.5336,-46.5425],
+        ["Vila Matilde",-23.532,-46.5309],
+        ["Guilhermina-Esperança",-23.5294,-46.5166],
+        ["Patriarca – Vila Ré",-23.5312,-46.5016],
+        ["Artur Alvim",-23.5403,-46.4847],
+        ["Corinthians-Itaquera",-23.5423,-46.4711]
+      ],
+      "jp": "Linha 3 - Vermelha"
+    },
+    {
+      "id": "l4",
+      "name": "Line 4 – Yellow",
+      "color": "#FFD700",
+      "code": "4",
+      "stations": [
+        ["Luz",-23.5362,-46.6346],
+        ["República",-23.544,-46.6426],
+        ["Higienópolis-Mackenzie (Linha 4)",-23.5489,-46.6523],
+        ["Paulista - Pernambucanas",-23.5552,-46.6623],
+        ["Oscar Freire",-23.5607,-46.672],
+        ["Fradique Coutinho",-23.5662,-46.6842],
+        ["Faria Lima",-23.5672,-46.694],
+        ["Pinheiros",-23.5672,-46.702],
+        ["Butantã",-23.5718,-46.7081],
+        ["São Paulo – Morumbi",-23.5862,-46.7238],
+        ["Vila Sônia - Professora Elizabeth Tenreiro",-23.5934,-46.7348]
+      ],
+      "jp": "Linha 4 - Amarela"
+    },
+    {
+      "id": "l5",
+      "name": "Line 5 – Lilac",
+      "color": "#9200C3",
+      "code": "5",
+      "stations": [
+        ["Capão Redondo",-23.6589,-46.7678],
+        ["Campo Limpo",-23.6489,-46.7587],
+        ["Vila das Belezas",-23.6403,-46.7458],
+        ["Giovanni Gronchi",-23.644,-46.7337],
+        ["Santo Amaro",-23.6557,-46.7209],
+        ["Largo Treze",-23.6545,-46.7101],
+        ["Adolfo Pinheiro",-23.6501,-46.7042],
+        ["Alto da Boa Vista",-23.6413,-46.6992],
+        ["Borba Gato",-23.6336,-46.6929],
+        ["Brooklin",-23.6266,-46.6879],
+        ["Campo Belo",-23.6187,-46.6822],
+        ["Eucaliptos",-23.6098,-46.6685],
+        ["Moema",-23.6039,-46.6622],
+        ["AACD – Servidor",-23.5978,-46.6523],
+        ["Hospital São Paulo",-23.5982,-46.6456],
+        ["Santa Cruz",-23.5985,-46.6372],
+        ["Chácara Klabin",-23.593,-46.6309]
+      ],
+      "jp": "Linha 5 - Lilás"
+    }
+  ],
+  "hotels": [
+    {"name":"B&B Hotels São Paulo Luz - Centro","lat":-23.5374,"lng":-46.6329,"area":"Luz Station","rating":4.2,"ratingCount":165,"stars":3,"priceTier":2},
+    {"name":"Pullman São Paulo Guarulhos Airport","lat":-23.4504,"lng":-46.4885,"area":"Guarulhos International Airport","rating":4.5,"ratingCount":2450,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Hampton by Hilton Guarulhos Airport","lat":-23.438,"lng":-46.4966,"area":"Guarulhos International Airport","rating":4,"ratingCount":451,"stars":3,"priceTier":3,"brandAnchor":true},
+    {
+      "name": "Tryp by Wyndham São Paulo Guarulhos Airport",
+      "lat": -23.4245,
+      "lng": -46.4757,
+      "area": "Guarulhos International Airport",
+      "rating": 4,
+      "ratingCount": 452,
+      "stars": 4,
+      "priceTier": 3,
+      "brandAnchor": true
+    },
+    {"name":"InterContinental São Paulo","lat":-23.5661,"lng":-46.6544,"area":"Avenida Paulista","rating":4.6,"ratingCount":2181,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Tivoli Mofarrej São Paulo","lat":-23.5639,"lng":-46.6558,"area":"Avenida Paulista","rating":4.6,"ratingCount":3899,"stars":5,"priceTier":4},
+    {"name":"Blue Tree Premium Paulista","lat":-23.5603,"lng":-46.656,"area":"Avenida Paulista","rating":4.2,"ratingCount":2618,"stars":4,"priceTier":3},
+    {"name":"Estanplaza Paulista","lat":-23.5667,"lng":-46.6546,"area":"Avenida Paulista","rating":4.1,"ratingCount":1176,"stars":4,"priceTier":3},
+    {"name":"Soul Hostel","lat":-23.5638,"lng":-46.6518,"area":"Avenida Paulista","rating":4.1,"ratingCount":105,"stars":1,"priceTier":1},
+    {"name":"Radisson Hotel Oscar Freire","lat":-23.5629,"lng":-46.6701,"area":"Jardins","rating":4,"ratingCount":1393,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hotel Fasano São Paulo","lat":-23.5645,"lng":-46.6695,"area":"Jardins","rating":4.7,"ratingCount":799,"stars":5,"priceTier":4},
+    {"name":"Golden Tower São Paulo Hotel","lat":-23.5634,"lng":-46.69,"area":"Faria Lima","rating":4,"ratingCount":389,"stars":3,"priceTier":2},
+    {"name":"Garoa Hostel","lat":-23.566,"lng":-46.6962,"area":"Faria Lima","rating":4.3,"ratingCount":183,"stars":1,"priceTier":1},
+    {"name":"Wyndham São Paulo Ibirapuera","lat":-23.6064,"lng":-46.6643,"area":"Moema","rating":4.4,"ratingCount":6092,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Meliá Ibirapuera","lat":-23.6056,"lng":-46.6647,"area":"Moema","rating":4,"ratingCount":1927,"stars":4,"priceTier":3},
+    {"name":"Estanplaza Ibirapuera","lat":-23.6085,"lng":-46.6602,"area":"Moema","rating":4,"ratingCount":920,"stars":4,"priceTier":3}
+  ],
+  "sights": [
+    {
+      "name": "Ibirapuera Park",
+      "lat": -23.5874,
+      "lng": -46.6576,
+      "note": "The city's great urban park, with lakes, jogging tracks, Niemeyer-designed pavilions and several museums among the trees.",
+      "hours": "5:00 AM–midnight daily",
+      "rating": 4.6
+    },
+    {
+      "name": "Avenida Paulista",
+      "lat": -23.5635,
+      "lng": -46.6536,
+      "note": "São Paulo's financial and cultural spine, lined with towers, museums and cafés and closed to cars on Sundays for a street party.",
+      "hours": "Open 24 hours; car-free Sundays ~10:00 AM–6:00 PM",
+      "rating": 4.5
+    },
+    {
+      "name": "Pinacoteca do Estado de São Paulo",
+      "lat": -23.5343,
+      "lng": -46.6337,
+      "note": "Brazilian art from the 19th century to today in a restored brick-and-skylight building beside Luz Park.",
+      "hours": "Wed–Mon 10:00 AM–6:00 PM, closed Tue (free first Sat of the month)",
+      "rating": 4.7,
+      "ticketUrl": "https://pinacoteca.org.br"
+    },
+    {
+      "name": "Liberdade",
+      "lat": -23.5588,
+      "lng": -46.6352,
+      "note": "The world's largest Japanese community outside Japan, with red lanterns, ramen counters, shrines and a weekend street fair.",
+      "hours": "Streets open daily; fair Sat–Sun ~9:00 AM–7:00 PM",
+      "rating": 4.3
+    },
+    {
+      "name": "MASP (São Paulo Museum of Art)",
+      "lat": -23.5614,
+      "lng": -46.6558,
+      "note": "European and Brazilian masterpieces displayed on glass easels in a landmark concrete-and-glass box lifted on red pillars.",
+      "hours": "Tue 10:00 AM–8:00 PM (free), Wed–Sun 10:00 AM–6:00 PM (Thu to 8:00 PM), closed Mon",
+      "rating": 4.5,
+      "ticketUrl": "https://masp.org.br/en"
+    },
+    {
+      "name": "Mercado Municipal de São Paulo",
+      "lat": -23.5415,
+      "lng": -46.629,
+      "note": "A 1930s market hall with stained-glass windows, famous for the towering mortadella sandwich and the pastel de bacalhau.",
+      "hours": "Mon–Sat 6:00 AM–6:00 PM, Sun 6:00 AM–4:00 PM",
+      "rating": 4.4
+    },
+    {
+      "name": "Museu Catavento",
+      "lat": -23.545,
+      "lng": -46.6272,
+      "note": "A hands-on science museum for all ages, set in the grand former Palácio das Indústrias.",
+      "hours": "Tue–Sun 9:00 AM–4:00 PM (last entry), closed Mon",
+      "rating": 4.7,
+      "ticketUrl": "https://www.museucatavento.org.br"
+    },
+    {
+      "name": "Museu do Futebol",
+      "lat": -23.5457,
+      "lng": -46.6645,
+      "note": "An interactive museum of Brazilian football inside Pacaembu Stadium, with exhibits on Pelé and the World Cups.",
+      "hours": "Tue–Sun 9:00 AM–5:00 PM (last entry), closed Mon",
+      "rating": 4.5,
+      "ticketUrl": "https://museudofutebol.org.br"
+    },
+    {
+      "name": "Mosteiro de São Bento",
+      "lat": -23.5438,
+      "lng": -46.6339,
+      "note": "A working Benedictine monastery and basilica downtown, known for its calm interior and Gregorian chant at Sunday Mass.",
+      "hours": "Daily ~6:00 AM–6:00 PM; chant Mass Sun ~10:00 AM",
+      "rating": 4.6
+    },
+    {
+      "name": "Catedral da Sé",
+      "lat": -23.5502,
+      "lng": -46.6336,
+      "note": "A neo-Gothic cathedral with a large dome that anchors the city's zero-kilometre square.",
+      "hours": "Daily ~8:00 AM–5:00 PM; times vary",
+      "rating": 4.3
+    },
+    {
+      "name": "Beco do Batman",
+      "lat": -23.5564,
+      "lng": -46.6865,
+      "note": "A lane of constantly changing street art in Vila Madalena, ringed by galleries, bars and craft shops.",
+      "hours": "Open daily; best by day, ~24 hours outdoors",
+      "rating": 4.3
+    },
+    {
+      "name": "Theatro Municipal de São Paulo",
+      "lat": -23.5453,
+      "lng": -46.6385,
+      "note": "A 1911 opera house in an ornate Beaux-Arts style, visited by guided tour or a concert.",
+      "hours": "Guided tours ~Tue–Sat, check the schedule; performances vary",
+      "rating": 4.6,
+      "ticketUrl": "https://theatromunicipal.org.br"
+    },
+    {
+      "name": "Farol Santander",
+      "lat": -23.5452,
+      "lng": -46.6343,
+      "note": "A 1930s skyscraper turned cultural centre whose top-floor terrace gives a free-flowing 360-degree view of downtown.",
+      "hours": "Tue–Sun ~10:00 AM–6:00 PM (check before going)",
+      "rating": 4.3,
+      "ticketUrl": "https://www.farolsantander.com.br"
+    },
+    {
+      "name": "Estação da Luz",
+      "lat": -23.5343,
+      "lng": -46.636,
+      "note": "The 1901 British-built railway station with a cast-iron roof and clock tower, still one of the city's busiest transport hubs.",
+      "hours": "Station open ~4:00 AM–midnight; free to enter",
+      "rating": 4.5
+    },
+    {
+      "name": "Museu da Língua Portuguesa",
+      "lat": -23.5347,
+      "lng": -46.6356,
+      "note": "A museum celebrating the Portuguese language through sound, film and installations, housed inside Luz Station.",
+      "hours": "Tue–Sun ~9:00 AM–4:30 PM, closed Mon",
+      "rating": 4.6,
+      "ticketUrl": "https://museudalinguaportuguesa.org.br"
+    }
+  ],
+  "railStations": [
+    {
+      "name": "Luz Station",
+      "lat": -23.5366,
+      "lng": -46.6339,
+      "note": "The city's historic rail hub: CPTM Lines 7-Ruby (to Jundiaí), 10-Turquoise and 11-Coral, plus Metro Lines 1-Blue and 4-Yellow. There is no intercity passenger rail; long-distance travel is by bus from Tietê terminal (Line 1).",
+      "hours": "CPTM ~4:00 AM–midnight; Metro ~4:40 AM–midnight."
+    }
+  ],
+  "airports": [
+    {
+      "name": "Guarulhos International Airport",
+      "code": "GRU",
+      "lat": -23.4356,
+      "lng": -46.4731,
+      "transitNote": "CPTM Line 13-Jade (not on this map) runs from Brás to Aeroporto-Guarulhos in ~25–30 min, then a free shuttle bus runs to the terminals; Brás connects to Metro Line 3-Red. Airport buses to Paulista/Tatuapé and taxis (~R$150–200, 45–90 min) are alternatives.",
+      "hours": "Line 13: first train ~4:00 AM, last ~midnight. Late arrivals: airport buses or ride-share."
+    },
+    {
+      "name": "Congonhas Airport",
+      "code": "CGH",
+      "lat": -23.6261,
+      "lng": -46.6564,
+      "transitNote": "In the city, ~12 km south of Paulista. No direct rail link on this map: take a taxi/ride-share (~20–40 min) or a bus to Line 5-Lilac (Santa Cruz or Moema area) and change. Domestic and shuttle flights (Rio, Brasília, Belo Horizonte).",
+      "hours": "Metro Line 5-Lilac ~4:40 AM–midnight; taxis and ride-share all hours."
+    }
+  ]
+}

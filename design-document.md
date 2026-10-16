@@ -113,7 +113,10 @@ station/airport/railway stop you tap.
   the scale-up (2026-10-15/16): Paris, Seoul, Osaka, Hong Kong,
   Singapore, Taipei, Bangkok, Beijing, Madrid, Rome, Berlin, Amsterdam,
   Vienna, Prague, Istanbul, Lisbon, Milan, Washington DC, Chicago,
-  Mexico City (25 cities).
+  Mexico City, and batch 5 (2026-10-16): Shenzhen, Guangzhou, Xi'an,
+  Busan, Kuala Lumpur, Dubai, Delhi, Munich, Budapest, Copenhagen,
+  Stockholm, Athens, Brussels, San Francisco, Los Angeles, Boston,
+  Toronto, Montreal, São Paulo, Buenos Aires (45 cities).
 - **City picker** (search redesigned 2026-10-16): a search box that
   matches city name, country, other names (`aliases` in `cities.json`:
   local script, nicknames like NYC) and airport codes (CDG, KIX), with
@@ -472,6 +475,42 @@ they're done.
 ---
 
 ## Changelog
+
+### 2026-10-16 — batch 5: 20 more cities (45 total)
+- Audrey asked for the next 20 in the same PR as the continent toggle.
+  Claude picked them (Audrey can swap any): Shenzhen, Guangzhou, Xi'an,
+  Busan, Kuala Lumpur, Dubai, Delhi, Munich, Budapest, Copenhagen,
+  Stockholm, Athens, Brussels, San Francisco, Los Angeles, Boston,
+  Toronto, Montreal, São Paulo, Buenos Aires.
+- Same §4 process as batches 1–4, run cheaper: one GitHub run for all the
+  OpenStreetMap downloads, and curation helpers on a smaller model. Some
+  hotels that qualify on TripAdvisor were dropped because no trustworthy
+  map pin exists (OSM gaps), so Xi'an, Busan, Guangzhou and Shenzhen are
+  thin. Hours, fares and some sight pins are approximate ("~").
+- Airport-lines not on the metro map (KLIA Ekspres, Munich/Arlanda S-Bahn
+  and express trains, UP Express, Ezeiza buses) are explained in the
+  airport popups instead.
+- Validator: 0 errors. Hotel gaps per city:
+  - Xi'an (thin: 5 hotels): Railway Station 1, Bell Tower 3, Giant Wild Goose Pagoda 1; North Station and Xianyang Airport 0 (nothing ≥4.0/100 within reach; three qualifying hotels have no map pin). Terracotta Army and Huaqing Palace kept with "far" notes.
+  - Busan (thin: 8): Busan Station 1, Seomyeon 4, Nampo 2, Gwangalli 1, Gimhae Airport 0. Several qualifying hotels (Asti, Stanford Inn, Noah) have no OSM pin.
+  - Kuala Lumpur: KL Sentral and KLCC have no budget option ≥4.0; KLIA hotels are the terminal-complex ones (Sama-Sama, Tune). KLIA Ekspres not drawn.
+  - Dubai: no intercity rail; airport 3 (no budget with a pin); no Dubai Marina area (no trustworthy hotel pins); Business Bay no budget.
+  - Delhi: New Delhi Station 3, no brand anchor; IGI Airport 0 on grounds (Aerocity hotels listed as their own area, one Airport Express stop); Karol Bagh 1, Khan Market 2 (luxury only). RapidX, Aqua Line (Noida) left off.
+  - Athens: Airport 1 (Sofitel); Acropoli no brand anchor; station names translated from Greek.
+  - Munich: Airport 2 (Hilton, Novotel); Schwabing 2, no brand anchor; S-Bahn to the airport not drawn.
+  - Budapest: Airport 2 (TRIBE, ibis Styles, ~900 m); Keleti no brand anchor.
+  - Copenhagen: Airport 1 (Clarion); Christianshavn 2; Nyhavn no brand anchor.
+  - Stockholm: Östermalm no budget; Södermalm 3. Line colours set by hand (OSM had none). Arlanda Express not drawn.
+  - Brussels: Airport 0 (Sheraton 3.8; Park Inn ~3 km); Nord and EU Quarter no budget.
+  - Montreal: Trudeau Airport 1 (Marriott in-terminal); Central Station no budget; Latin Quarter no upper tier.
+  - San Francisco: SFO 1 (Grand Hyatt); Caltrain station 3, no budget; Civic Center no brand anchor.
+  - Los Angeles (12): Downtown 5, Hollywood 5, Koreatown 2; LAX 0 (Hyatt Regency LAX is 1.3 km, off grounds) and Union Station counted under Downtown.
+  - Boston: Logan 1 (Hyatt Regency Harbor, water shuttle); South Station no budget; Harvard Square 3, no budget.
+  - Toronto: Pearson 4 (Sheraton Gateway on grounds, 3 shuttle hotels); Yorkville and Entertainment District no budget. UP Express not drawn. Lines 5 and 6 included as OSM has them; re-check they're open.
+  - São Paulo: Luz 1, Congonhas 0, Guarulhos 3 (shuttle cluster 1.3–2.4 km); Jardins and Faria Lima 2. Line 6 left off (opening unconfirmed).
+  - Buenos Aires: Constitución 0, Ezeiza 0, Aeroparque 0; Retiro, Recoleta, San Telmo no brand anchor (Park Tower has no pin).
+  - Shenzhen (13): North Station 1 (Pullman), Futian 4, Shenzhen Station 1 (Shangri-La), Bao'an Airport 3 (Hyatt trio, indoor walk), Huaqiang North 4 (no brand anchor); Shekou and Houhai have no pinned hotels. Hong Kong MTR lines caught in the map box removed.
+  - Guangzhou (9): South Station 0, Guangzhou Station 0 (China Hotel, Dongfang ~900 m), East Station 2, Baiyun Airport 2, Zhujiang New Town 3 (luxury only), Shamian 2, Beijing Road 0. Foshan Metro lines left off.
 
 ### 2026-10-16 — continent groups open and close
 - Audrey asked for an expand/collapse on each continent in the city list,

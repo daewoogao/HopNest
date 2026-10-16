@@ -1,0 +1,289 @@
+{
+  "name": "Dubai",
+  "country": "United Arab Emirates",
+  "flag": "🇦🇪",
+  "center": [25.2,55.27],
+  "zoom": 11,
+  "operatingHours": "Dubai Metro (Red and Green lines) runs ~5:00 AM–midnight Saturday to Thursday, ~5:00 AM–1:00 AM Friday, and starts later (~8:00 AM) on Sunday; trains every 3–8 min by day. Dubai Tram (Marina/JBR/Palm) runs ~6:00 AM–1:00 AM. No all-night rail.",
+  "fareInfo": "Zone-based fares of about AED 3–7.5 per trip (2026), paid with a nol card (sold at stations, AED 25 for a Silver card incl. AED 19 credit) or the nol Pay / contactless app; Gold cabin costs double. Day passes about AED 22 (Silver). Airport stations are in the same zone system, no extra surcharge. Fares approximate, check rta.ae.",
+  "lines": [
+    {
+      "id": "lgreen",
+      "name": "Green Line",
+      "color": "#00CC00",
+      "code": "Green",
+      "stations": [
+        ["e&",25.2548,55.4013],
+        ["Al Qusais",25.2628,55.3873],
+        ["Dubai Airport Free Zone",25.2698,55.3752],
+        ["Al Nahda",25.2732,55.3695],
+        ["Stadium",25.2779,55.3615],
+        ["Al Qiyadah",25.2776,55.3526],
+        ["Abu Hail",25.2754,55.3464],
+        ["Abu Baker Al Siddique",25.2709,55.3328],
+        ["Salah Al Din",25.2703,55.3208],
+        ["Union",25.2663,55.3137],
+        ["Baniyas Square",25.2692,55.3077],
+        ["Gold Souq",25.2762,55.3017],
+        ["Al Ras",25.2688,55.2936],
+        ["Al Ghubaiba",25.265,55.2889],
+        ["Sharaf DG",25.2582,55.2975],
+        ["BurJuman",25.255,55.3039],
+        ["Oud Metha",25.2439,55.3159],
+        ["Dubai Healthcare City",25.2309,55.3226],
+        ["Al Jadaf",25.2249,55.3337],
+        ["Creek",25.2188,55.339]
+      ]
+    },
+    {
+      "id": "lred",
+      "name": "Red Line",
+      "color": "#CC0000",
+      "code": "Red",
+      "stations": [
+        ["Centrepoint",25.2303,55.391],
+        ["Emirates",25.2411,55.3657],
+        ["Airport Terminal 3",25.2452,55.3591],
+        ["Airport Terminal 1",25.2485,55.3523],
+        ["Al Garhoud",25.2495,55.34],
+        ["Deira City Centre",25.2547,55.3303],
+        ["Al Rigga",25.2634,55.3239],
+        ["Union",25.2662,55.3138],
+        ["BurJuman",25.2544,55.3041],
+        ["ADCB",25.2446,55.2982],
+        ["max",25.2334,55.292],
+        ["World Trade Centre",25.2249,55.285],
+        ["Emirates Towers",25.2169,55.2796],
+        ["Financial Center",25.2109,55.2755],
+        ["Burj Khalifa / Dubai Mall",25.2014,55.2696],
+        ["Business Bay",25.191,55.2601],
+        ["Garmin",25.1557,55.2285],
+        ["Equiti",25.1267,55.2079],
+        ["Mall of the Emirates",25.1212,55.2004],
+        ["InsuranceMarket",25.1148,55.1909],
+        ["Dubai Internet City",25.1022,55.1739],
+        ["Al Fardan Exchange",25.089,55.1581],
+        ["Sobha Realty",25.08,55.1476],
+        ["DMCC",25.0709,55.1387],
+        ["National Paints",25.0578,55.1274],
+        ["The Gardens",25.0435,55.135],
+        ["Discovery Gardens",25.0352,55.1454],
+        ["Al Furjan",25.0305,55.1522],
+        ["Dubai Investment Park",25.0051,55.1556],
+        ["Expo City Dubai",24.9636,55.1459]
+      ],
+      "firstLast": "Airport T1/T3 stations ↔ Burj Khalifa/Dubai Mall: ~5:00 AM to ~midnight (to ~1:00 AM Thu–Fri); ~25 min."
+    },
+    {
+      "id": "lred_b1",
+      "name": "Red Line (Expo City branch)",
+      "color": "#CC0000",
+      "code": "Red",
+      "stations": [
+        ["Life Pharmacy",24.9779,55.0912],
+        ["Danube",25.0013,55.0957],
+        ["Energy",25.0263,55.1013],
+        ["Ibn Battuta",25.0467,55.1175],
+        ["National Paints",25.058,55.1272],
+        ["DMCC",25.0709,55.1387],
+        ["Sobha Realty",25.08,55.1476],
+        ["Al Fardan Exchange",25.0889,55.1582],
+        ["Dubai Internet City",25.1022,55.1739],
+        ["InsuranceMarket",25.1148,55.1909],
+        ["Mall of the Emirates",25.1212,55.2005],
+        ["Equiti",25.1267,55.2079],
+        ["Garmin",25.1556,55.2285],
+        ["Business Bay",25.1916,55.2607],
+        ["Burj Khalifa / Dubai Mall",25.2014,55.2696],
+        ["Financial Center",25.2109,55.2755],
+        ["Emirates Towers",25.2176,55.2801],
+        ["World Trade Centre",25.2248,55.2851],
+        ["max",25.2337,55.2923],
+        ["ADCB",25.2446,55.2983],
+        ["BurJuman",25.2544,55.3041],
+        ["Union",25.2661,55.3138],
+        ["Al Rigga",25.2633,55.3239],
+        ["Deira City Centre",25.2546,55.3302],
+        ["Al Garhoud",25.2495,55.34],
+        ["Airport Terminal 1",25.2485,55.3523],
+        ["Airport Terminal 3",25.2448,55.3598],
+        ["Emirates",25.2411,55.3657],
+        ["Centrepoint",25.2302,55.3912]
+      ]
+    }
+  ],
+  "hotels": [
+    {"name":"Hotel DXB","lat":25.2478,"lng":55.3624,"area":"Dubai International Airport","rating":4.6,"ratingCount":11178,"stars":5,"priceTier":4},
+    {"name":"Premier Inn Dubai International Airport","lat":25.2427,"lng":55.359,"area":"Dubai International Airport","rating":4.5,"ratingCount":7511,"stars":3,"priceTier":2},
+    {"name":"Holiday Inn Express Dubai Airport","lat":25.2425,"lng":55.3596,"area":"Dubai International Airport","rating":4,"ratingCount":3430,"stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Sofitel Dubai Downtown","lat":25.1998,"lng":55.2687,"area":"Downtown Dubai","rating":4.7,"ratingCount":8178,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Dusit Thani Dubai","lat":25.2062,"lng":55.273,"area":"Downtown Dubai","rating":4.6,"ratingCount":5924,"stars":5,"priceTier":4},
+    {"name":"Swissôtel Al Murooj Dubai","lat":25.203,"lng":55.2767,"area":"Downtown Dubai","rating":4.6,"ratingCount":8261,"stars":5,"priceTier":4},
+    {"name":"Leva Hotel Mazaya Centre","lat":25.1985,"lng":55.2649,"area":"Downtown Dubai","rating":4.9,"ratingCount":2116,"stars":4,"priceTier":3},
+    {"name":"Rove City Walk","lat":25.2054,"lng":55.268,"area":"Downtown Dubai","rating":4.8,"ratingCount":1280,"stars":3,"priceTier":2},
+    {"name":"Hyatt Place Dubai Al Rigga","lat":25.2631,"lng":55.3276,"area":"Deira","rating":4.5,"ratingCount":4869,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"ibis Dubai Al Rigga","lat":25.2653,"lng":55.3213,"area":"Deira","rating":4.5,"ratingCount":3237,"stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"J5 Rimal Hotel","lat":25.2643,"lng":55.3268,"area":"Deira","rating":4.7,"ratingCount":1672,"stars":3,"priceTier":2},
+    {"name":"Coral Dubai Deira Hotel","lat":25.266,"lng":55.3256,"area":"Deira","rating":4.4,"ratingCount":1489,"stars":4,"priceTier":3},
+    {"name":"Khalidia Palace Hotel Dubai","lat":25.2615,"lng":55.3206,"area":"Deira","rating":4.8,"ratingCount":214,"stars":4,"priceTier":3},
+    {"name":"DoubleTree by Hilton Dubai M Square Hotel & Residences","lat":25.2503,"lng":55.3007,"area":"Bur Dubai","rating":4.7,"ratingCount":1765,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"City Seasons Towers","lat":25.2528,"lng":55.3027,"area":"Bur Dubai","rating":4.7,"ratingCount":2469,"stars":4,"priceTier":3},
+    {"name":"Holiday Inn Bur Dubai - Embassy District","lat":25.2576,"lng":55.3046,"area":"Bur Dubai","rating":4.1,"ratingCount":1141,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Savoy Suites","lat":25.2535,"lng":55.3011,"area":"Bur Dubai","rating":4.5,"ratingCount":1039,"stars":3,"priceTier":2},
+    {"name":"Rose Garden Hotel Apartments Bur Dubai","lat":25.2542,"lng":55.3011,"area":"Bur Dubai","rating":4.3,"ratingCount":388,"stars":3,"priceTier":2},
+    {"name":"JW Marriott Marquis Hotel Dubai","lat":25.1857,"lng":55.2581,"area":"Business Bay","rating":4.8,"ratingCount":16749,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Radisson Blu Hotel, Dubai Waterfront","lat":25.1868,"lng":55.2679,"area":"Business Bay","rating":4.4,"ratingCount":2062,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Park Regis Business Bay","lat":25.1857,"lng":55.2622,"area":"Business Bay","rating":4.8,"ratingCount":1225,"stars":4,"priceTier":3},
+    {"name":"Anantara Downtown Dubai","lat":25.1859,"lng":55.2637,"area":"Business Bay","rating":4.8,"ratingCount":4067,"stars":5,"priceTier":4}
+  ],
+  "sights": [
+    {
+      "name": "Burj Khalifa",
+      "lat": 25.1972,
+      "lng": 55.2744,
+      "note": "The world's tallest building at 828 m, with observation decks on levels 124-125 and higher.",
+      "hours": "~8:30 AM–11:00 PM daily; timed slots",
+      "rating": 4.5,
+      "ticketUrl": "https://www.burjkhalifa.ae/en/",
+      "bookAhead": true
+    },
+    {
+      "name": "The Dubai Fountain",
+      "lat": 25.1951,
+      "lng": 55.2754,
+      "note": "A choreographed water-and-light show on Burj Khalifa Lake; free to watch from the Dubai Mall boardwalk.",
+      "hours": "Shows every ~30 min from ~6:00 PM to 11:00 PM; free",
+      "rating": 4.6
+    },
+    {
+      "name": "Dubai Aquarium & Underwater Zoo",
+      "lat": 25.1975,
+      "lng": 55.2796,
+      "note": "A vast tank inside Dubai Mall with sharks and rays, viewable through a tunnel, plus an underwater zoo.",
+      "hours": "~10:00 AM–10:00 PM daily",
+      "rating": 4.2,
+      "ticketUrl": "https://www.thedubaiaquarium.com"
+    },
+    {
+      "name": "Burj Al Arab",
+      "lat": 25.1412,
+      "lng": 55.1853,
+      "note": "The sail-shaped landmark hotel on its own island; non-guests can only visit with a restaurant reservation, so most people view it from Jumeirah Public Beach.",
+      "hours": "Exterior viewable always; interior by reservation",
+      "rating": 4.5
+    },
+    {
+      "name": "Dubai Frame",
+      "lat": 25.2349,
+      "lng": 55.3004,
+      "note": "A giant picture-frame-shaped tower in Zabeel Park with a glass-floor sky bridge and views of old and new Dubai.",
+      "hours": "~9:00 AM–9:00 PM daily",
+      "rating": 4.6,
+      "bookAhead": true
+    },
+    {
+      "name": "Dubai Miracle Garden",
+      "lat": 25.0603,
+      "lng": 55.2447,
+      "note": "A seasonal garden of flower-covered sculptures and arches; open autumn to spring only, reached by taxi.",
+      "hours": "Seasonal: ~Oct–May, ~9:00 AM–11:00 PM",
+      "rating": 4.4,
+      "ticketUrl": "https://www.dubaimiraclegarden.com"
+    },
+    {
+      "name": "Global Village",
+      "lat": 25.0711,
+      "lng": 55.3059,
+      "note": "A seasonal outdoor fair with pavilions from dozens of countries, street food, rides and shows; reached by bus or taxi.",
+      "hours": "Seasonal: ~Oct–Apr, afternoons to ~midnight",
+      "rating": 4.3,
+      "ticketUrl": "https://www.globalvillage.ae"
+    },
+    {
+      "name": "Dubai Creek and Abra Crossing",
+      "lat": 25.265,
+      "lng": 55.3,
+      "note": "The historic waterway splitting Bur Dubai from Deira; cross by wooden abra boat for AED 1 between the old souks.",
+      "hours": "Abras run ~5:00 AM–midnight; AED 1",
+      "rating": 4.3
+    },
+    {
+      "name": "Kite Beach",
+      "lat": 25.1698,
+      "lng": 55.1962,
+      "note": "A public beach with a view of the Burj Al Arab, food trucks and a promenade, popular with kitesurfers and walkers.",
+      "hours": "Open daily, free access; busiest at sunset",
+      "rating": 4.5
+    },
+    {
+      "name": "AURA Skypool",
+      "lat": 25.1114,
+      "lng": 55.1396,
+      "note": "A glass-bottomed infinity pool on the 50th floor of The Palm Tower with views over the Palm Jumeirah; adults-only, ticketed.",
+      "hours": "~3:00 PM–midnight daily",
+      "rating": 4.9,
+      "bookAhead": true
+    },
+    {
+      "name": "Jumeirah Mosque",
+      "lat": 25.2336,
+      "lng": 55.2656,
+      "note": "A white Fatimid-style mosque that offers guided cultural visits for non-Muslims.",
+      "hours": "Guided tours ~10:00 AM, Sat–Thu, no tours Friday",
+      "rating": 4.5
+    },
+    {
+      "name": "Al Fahidi Historical Neighbourhood",
+      "lat": 25.2637,
+      "lng": 55.2972,
+      "note": "Narrow wind-tower lanes of restored coral-stone houses, galleries and courtyard cafes (local-flavor addition).",
+      "hours": "Open always; museums ~8:00 AM–6:00 PM",
+      "rating": 4.4
+    },
+    {
+      "name": "Gold Souk",
+      "lat": 25.287,
+      "lng": 55.298,
+      "note": "Rows of jewellers selling gold, silver and gems in Deira's covered arcades (local-flavor addition).",
+      "hours": "~10:00 AM–10:00 PM, Fri from ~4:00 PM",
+      "rating": 4.1
+    },
+    {
+      "name": "Spice Souk",
+      "lat": 25.268,
+      "lng": 55.2985,
+      "note": "Narrow lanes with sacks of saffron, frankincense, dried limes and herbs, steps from the Deira abra landing (local-flavor addition).",
+      "hours": "~9:00 AM–10:00 PM, closed Fri morning",
+      "rating": 4.1
+    },
+    {
+      "name": "Museum of the Future",
+      "lat": 25.2194,
+      "lng": 55.282,
+      "note": "A torus-shaped museum wrapped in Arabic calligraphy, with immersive exhibits about technology and the future.",
+      "hours": "~10:00 AM–6:00 PM daily",
+      "rating": 4.5,
+      "ticketUrl": "https://museumofthefuture.ae",
+      "bookAhead": true
+    },
+    {
+      "name": "JBR The Walk and The Beach",
+      "lat": 25.078,
+      "lng": 55.133,
+      "note": "A beachfront promenade with cafes, shops and a wide public beach opposite Marina skyscrapers (local-flavor addition).",
+      "hours": "Open daily; shops ~10:00 AM–midnight",
+      "rating": 4.4
+    }
+  ],
+  "railStations": [],
+  "airports": [
+    {
+      "name": "Dubai International Airport",
+      "code": "DXB",
+      "lat": 25.2532,
+      "lng": 55.3657,
+      "transitNote": "Metro Red Line stops at Terminal 1 and Terminal 3 stations (shown on this map): ~25–30 min to Burj Khalifa/Dubai Mall, ~5 min to Deira stations. Terminal 2 is served by taxi/bus only. Taxi to Downtown ~AED 50–80, ~20 min.",
+      "hours": "Metro: first train ~5:00 AM (Sun ~8:00 AM), last ~midnight (Fri ~1:00 AM). Late arrivals: taxi or Careem."
+    }
+  ]
+}

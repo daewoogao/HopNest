@@ -1,0 +1,295 @@
+{
+  "name": "Athens",
+  "country": "Greece",
+  "flag": "🇬🇷",
+  "center": [37.978,23.73],
+  "zoom": 12,
+  "operatingHours": "Athens Metro runs ~5:30 AM–~12:30 AM Sun–Thu; Lines 1, 2 and 3 run until ~2:00 AM on Fridays and Saturdays. Trains every 3–10 min by day, 10–15 min late at night.",
+  "fareInfo": "Single ticket €1.20, valid 90 minutes across metro, tram, bus and trolleybus (excludes the airport). 24-hour pass €4.10, 5-day pass €8.20. The airport section of Line 3 beyond Koropi is a separate fare: €9 one way, €16 return (valid 30 days); the 3-day tourist pass with one airport round trip is €20. Visa/Mastercard contactless works on the whole network (€1.20 per ride, capped at €4.10 per day).",
+  "lines": [
+    {
+      "id": "l1",
+      "name": "Line 1 (M1)",
+      "jp": "Μετρό Μ1",
+      "color": "#007A33",
+      "code": "M1",
+      "stations": [
+        ["Piraeus",37.948,23.6432],
+        ["Faliro",37.945,23.6653],
+        ["Moschato",37.9553,23.6805],
+        ["Kallithea",37.9605,23.6974],
+        ["Tavros-Eleftherios Venizelos",37.9625,23.7037],
+        ["Petralona",37.969,23.7094],
+        ["Thiseio",37.9767,23.7205],
+        ["Monastiraki",37.9763,23.7258],
+        ["Omonia",37.9845,23.7282],
+        ["Victoria",37.9935,23.7304],
+        ["Attiki",37.9995,23.7229],
+        ["Agios Nikolaos",38.007,23.7277],
+        ["Kato Patisia",38.0119,23.7287],
+        ["Agios Eleftherios",38.0203,23.7319],
+        ["Ano Patisia",38.0241,23.7365],
+        ["Perissos",38.0332,23.7451],
+        ["Pefkakia",38.0374,23.7505],
+        ["Nea Ionia",38.0416,23.7554],
+        ["Irakleio",38.046,23.7666],
+        ["Eirini",38.043,23.7838],
+        ["Neratziotissa",38.0455,23.7934],
+        ["Marousi",38.0565,23.8055],
+        ["KAT",38.0664,23.8042],
+        ["Kifissia",38.0734,23.8082]
+      ]
+    },
+    {
+      "id": "l2",
+      "name": "Line 2 (M2)",
+      "jp": "Μετρό Μ2",
+      "color": "#DA291C",
+      "code": "M2",
+      "stations": [
+        ["Elliniko",37.8926,23.7471],
+        ["Argyroupoli",37.9032,23.7455],
+        ["Alimos",37.9189,23.7441],
+        ["Ilioupoli",37.9299,23.7448],
+        ["Agios Dimitrios",37.9407,23.7405],
+        ["Dafni",37.9496,23.7373],
+        ["Agios Ioannis",37.9564,23.7347],
+        ["Neos Kosmos",37.9577,23.7284],
+        ["Syngrou-Fix",37.9646,23.7268],
+        ["Akropoli",37.9688,23.7296],
+        ["Syntagma",37.9755,23.7357],
+        ["Panepistimio",37.9804,23.733],
+        ["Omonia",37.9841,23.728],
+        ["Metaxourgeio",37.9859,23.7214],
+        ["Larissa Station",37.9923,23.7207],
+        ["Attiki",37.9995,23.7227],
+        ["Sepolia",38.0026,23.714],
+        ["Agios Antonios",38.0061,23.6997],
+        ["Peristeri",38.0129,23.6958],
+        ["Anthoupoli",38.0172,23.6909]
+      ]
+    },
+    {
+      "id": "l3",
+      "name": "Line 3 (M3)",
+      "jp": "Μετρό Μ3",
+      "color": "#10069F",
+      "code": "M3",
+      "stations": [
+        ["Dimotiko Theatro",37.9429,23.6476],
+        ["Piraeus",37.9486,23.6423],
+        ["Maniatika",37.9601,23.6398],
+        ["Nikaia",37.9661,23.6478],
+        ["Korydallos",37.977,23.6504],
+        ["Agia Varvara",37.99,23.6594],
+        ["Agia Marina",37.9968,23.6678],
+        ["Egaleo",37.9914,23.6818],
+        ["Eleonas",37.9877,23.6934],
+        ["Kerameikos",37.9785,23.7115],
+        ["Monastiraki",37.9767,23.7263],
+        ["Syntagma",37.9749,23.7357],
+        ["Evangelismos",37.9761,23.7471],
+        ["Megaro Mousikis",37.979,23.753],
+        ["Ambelokipi",37.9872,23.7577],
+        ["Panormou",37.9932,23.7636],
+        ["Katechaki",37.9937,23.7768],
+        ["Ethniki Amyna",37.9992,23.7845],
+        ["Cholargos",38.0049,23.7947],
+        ["Nomismatokopio",38.0091,23.8058],
+        ["Agia Paraskevi",38.0171,23.8125],
+        ["Chalandri",38.0217,23.8208],
+        ["Doukissis Plakentias",38.024,23.8326],
+        ["Pallini",38.0046,23.87],
+        ["Peania-Kantza",37.9849,23.8701],
+        ["Koropi",37.9125,23.8961],
+        ["Airport",37.9369,23.9447]
+      ],
+      "firstLast": "Airport ↔ Syntagma: ~6:30 AM to ~11:30 PM, every ~36 min, ~40 min; airport ticket €9."
+    }
+  ],
+  "hotels": [
+    {"name":"Wyndham Grand Athens Residence & Suites","lat":37.9855,"lng":23.7209,"area":"Larissa Station","rating":4.3,"ratingCount":102,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Novus City Hotel","lat":37.9857,"lng":23.7227,"area":"Larissa Station","rating":4.2,"ratingCount":1065,"stars":4,"priceTier":3},
+    {"name":"The Stanley","lat":37.986,"lng":23.721,"area":"Larissa Station","rating":4.1,"ratingCount":865,"stars":3,"priceTier":2},
+    {"name":"Hotel Katerina","lat":37.9861,"lng":23.7223,"area":"Larissa Station","rating":4.2,"ratingCount":653,"stars":3,"priceTier":2},
+    {"name":"Athens Mosaico Suites & Apartments","lat":37.9876,"lng":23.7209,"area":"Larissa Station","rating":4.4,"ratingCount":130,"stars":3,"priceTier":2},
+    {"name":"Sofitel Athens Airport","lat":37.9369,"lng":23.9457,"area":"Athens International Airport","rating":4.3,"ratingCount":6061,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Hotel Grande Bretagne, a Luxury Collection Hotel","lat":37.9766,"lng":23.7353,"area":"Syntagma","rating":4.7,"ratingCount":4748,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Amalia Hotel Athens","lat":37.974,"lng":23.7349,"area":"Syntagma","rating":4.4,"ratingCount":2360,"stars":4,"priceTier":3},
+    {"name":"Electra Metropolis Athens","lat":37.9752,"lng":23.7322,"area":"Syntagma","rating":4.6,"ratingCount":2116,"stars":4,"priceTier":3},
+    {"name":"Best Western Amazon Hotel","lat":37.9752,"lng":23.7319,"area":"Syntagma","rating":4,"ratingCount":1331,"stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Pan Hotel","lat":37.9752,"lng":23.7326,"area":"Syntagma","rating":4.1,"ratingCount":913,"stars":3,"priceTier":2},
+    {"name":"Anise Aluma Athens, Tapestry Collection by Hilton","lat":37.9806,"lng":23.7237,"area":"Monastiraki","rating":4.4,"ratingCount":48,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"A for Athens","lat":37.9769,"lng":23.7259,"area":"Monastiraki","rating":4.4,"ratingCount":1409,"stars":4,"priceTier":3},
+    {"name":"360 Hotel","lat":37.9771,"lng":23.7256,"area":"Monastiraki","rating":4.6,"ratingCount":600,"stars":4,"priceTier":3},
+    {"name":"Hellenic Vibes Smart Hotel","lat":37.9769,"lng":23.7273,"area":"Monastiraki","rating":4.8,"ratingCount":282,"stars":3,"priceTier":2},
+    {"name":"Lotus Center Apartments","lat":37.9768,"lng":23.7248,"area":"Monastiraki","rating":4.2,"ratingCount":142,"stars":3,"priceTier":2},
+    {"name":"Divani Palace Acropolis","lat":37.9676,"lng":23.7258,"area":"Acropoli","rating":4.1,"ratingCount":1143,"stars":5,"priceTier":4},
+    {"name":"The Athens Gate Hotel","lat":37.9688,"lng":23.7314,"area":"Acropoli","rating":4.5,"ratingCount":5264,"stars":4,"priceTier":3},
+    {"name":"Herodion Hotel","lat":37.9684,"lng":23.7271,"area":"Acropoli","rating":4.5,"ratingCount":3822,"stars":4,"priceTier":3},
+    {"name":"Parthenon Hotel Athens","lat":37.969,"lng":23.7304,"area":"Acropoli","rating":4.1,"ratingCount":1988,"stars":3,"priceTier":2},
+    {"name":"Athens Backpackers","lat":37.9686,"lng":23.7305,"area":"Acropoli","rating":4.1,"ratingCount":615,"stars":1,"priceTier":1},
+    {"name":"Hilton Athens","lat":37.9756,"lng":23.7503,"area":"Kolonaki","rating":4.3,"ratingCount":4729,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Divani Caravel","lat":37.973,"lng":23.7514,"area":"Kolonaki","rating":4.5,"ratingCount":1263,"stars":5,"priceTier":4},
+    {"name":"Periscope Hotel","lat":37.9782,"lng":23.7439,"area":"Kolonaki","rating":4.4,"ratingCount":580,"stars":4,"priceTier":3},
+    {"name":"Crowne Plaza Athens City Centre","lat":37.9769,"lng":23.7552,"area":"Kolonaki","rating":4,"ratingCount":1140,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Delice Hotel Family Apartments","lat":37.9745,"lng":23.7508,"area":"Kolonaki","rating":4.1,"ratingCount":233,"stars":3,"priceTier":2}
+  ],
+  "sights": [
+    {
+      "name": "Acropolis & Parthenon",
+      "lat": 37.9715,
+      "lng": 23.7257,
+      "note": "The 5th-century BC hilltop citadel crowned by the Parthenon, with the Erechtheion and the Temple of Athena Nike; the single most important sight in the city.",
+      "hours": "8:00 AM–8:00 PM in summer, earlier close in winter (~5:00 PM); last entry 30 min before closing",
+      "rating": 4.6,
+      "ticketUrl": "https://www.hhticket.gr",
+      "bookAhead": true
+    },
+    {
+      "name": "Acropolis Museum",
+      "lat": 37.9685,
+      "lng": 23.7286,
+      "note": "A glass-and-concrete museum at the foot of the hill holding the finds and sculptures from the Acropolis, with a glass floor over an excavated ancient neighbourhood.",
+      "hours": "~9:00 AM–5:00 PM daily; longer hours in summer and late opening on Fridays",
+      "rating": 4.7,
+      "ticketUrl": "https://www.theacropolismuseum.gr/en"
+    },
+    {
+      "name": "Plaka",
+      "lat": 37.9738,
+      "lng": 23.7305,
+      "note": "The oldest quarter of Athens, a maze of pedestrian lanes, neoclassical houses, tavernas and souvenir shops under the Acropolis.",
+      "hours": "Open streets; shops and tavernas ~10:00 AM–midnight",
+      "rating": 4.5
+    },
+    {
+      "name": "Panathenaic Stadium",
+      "lat": 37.9684,
+      "lng": 23.7411,
+      "note": "The all-marble stadium that hosted the first modern Olympic Games in 1896; you can walk the track and visit the Olympic torch tunnel.",
+      "hours": "~8:00 AM–7:00 PM (to 5:00 PM in winter)",
+      "rating": 4.4,
+      "ticketUrl": "https://www.panathenaicstadium.gr"
+    },
+    {
+      "name": "Mount Lycabettus",
+      "lat": 37.9819,
+      "lng": 23.7431,
+      "note": "The pine-covered hill with a small chapel on top and a 360-degree view over the city to the sea; take the funicular or walk up from Kolonaki.",
+      "hours": "Open 24 hours; funicular ~9:00 AM–~2:30 AM",
+      "rating": 4.5
+    },
+    {
+      "name": "National Archaeological Museum",
+      "lat": 37.989,
+      "lng": 23.7326,
+      "note": "Greece's greatest antiquities collection, including the gold Mask of Agamemnon, the Antikythera mechanism and the bronze Poseidon.",
+      "hours": "~8:30 AM–4:00 PM daily (reduced hours in winter); check site for Monday opening",
+      "rating": 4.6,
+      "ticketUrl": "https://www.namuseum.gr/en"
+    },
+    {
+      "name": "Ancient Agora of Athens",
+      "lat": 37.9752,
+      "lng": 23.7222,
+      "note": "The marketplace and civic heart of classical Athens, with the best-preserved Doric temple in Greece, the Temple of Hephaestus, and a reconstructed stoa museum.",
+      "hours": "8:00 AM–8:00 PM in summer, earlier close in winter",
+      "rating": 4.5,
+      "ticketUrl": "https://www.hhticket.gr"
+    },
+    {
+      "name": "Anafiotika",
+      "lat": 37.9729,
+      "lng": 23.7298,
+      "note": "A tiny whitewashed corner of the Plaka built by island craftsmen, looking like a Cycladic village beneath the Acropolis cliff.",
+      "hours": "Open streets, daylight best",
+      "rating": 4.6
+    },
+    {
+      "name": "Monastiraki Square & Flea Market",
+      "lat": 37.9763,
+      "lng": 23.7258,
+      "note": "The lively square beside the metro with a mosque, Hadrian's Library nearby and a flea market of antiques, leather and souvenirs along Ifestou street.",
+      "hours": "Square open always; flea market ~9:00 AM–6:00 PM, busiest on Sundays",
+      "rating": 4.2
+    },
+    {
+      "name": "Benaki Museum",
+      "lat": 37.9755,
+      "lng": 23.7402,
+      "note": "A mansion museum tracing Greek art and culture from antiquity to the 20th century, with a rooftop café overlooking the National Garden.",
+      "hours": "~10:00 AM–6:00 PM, closed Tue; to midnight Thu and Fri evenings",
+      "rating": 4.6,
+      "ticketUrl": "https://www.benaki.org/en"
+    },
+    {
+      "name": "National Garden",
+      "lat": 37.9733,
+      "lng": 23.7378,
+      "note": "A shady 19th-century park behind the Parliament, with palms, ponds and duck pools, handy for a break between museums.",
+      "hours": "7:00 AM–sunset daily",
+      "rating": 4.1
+    },
+    {
+      "name": "Philopappos Hill",
+      "lat": 37.9689,
+      "lng": 23.7202,
+      "note": "A free, wooded hill southwest of the Acropolis with a Roman-era monument and the best sunset view of the Parthenon.",
+      "hours": "Open always; best at sunset",
+      "rating": 4.5
+    },
+    {
+      "name": "Temple of Olympian Zeus",
+      "lat": 37.9693,
+      "lng": 23.7332,
+      "note": "The remaining Corinthian columns of what was once the largest temple in ancient Greece, next to Hadrian's Arch.",
+      "hours": "8:00 AM–8:00 PM in summer, earlier close in winter",
+      "rating": 4.1,
+      "ticketUrl": "https://www.hhticket.gr"
+    },
+    {
+      "name": "Herod Atticus Odeon",
+      "lat": 37.9707,
+      "lng": 23.7248,
+      "note": "A 2nd-century Roman amphitheatre on the Acropolis slope, still used for concerts and the Athens Epidaurus Festival in summer; interior is open only with a performance ticket.",
+      "hours": "Visible from the Acropolis path; performances in summer evenings",
+      "rating": 4.7
+    },
+    {
+      "name": "Athens Central Market (Varvakios)",
+      "lat": 37.98,
+      "lng": 23.7265,
+      "note": "The noisy covered meat and fish market on Athinas street, with spice and cheese stalls and small ouzo bars around its edge.",
+      "hours": "~7:00 AM–4:00 PM, closed Sun",
+      "rating": 3.9
+    },
+    {
+      "name": "Changing of the Guard at Syntagma",
+      "lat": 37.9754,
+      "lng": 23.7369,
+      "note": "The ceremonial guard change by the Evzones in traditional dress in front of the Tomb of the Unknown Soldier; a full ceremony runs Sundays at 11:00 AM.",
+      "hours": "Every hour on the hour daily; full ceremony Sun 11:00 AM",
+      "rating": 4.4
+    }
+  ],
+  "railStations": [
+    {
+      "name": "Larissa Station",
+      "lat": 37.9922,
+      "lng": 23.7208,
+      "note": "Athens' main intercity station: Hellenic Train services north to Thessaloniki (~3.5 h) and beyond, plus suburban rail to the airport area and Corinth. Connects to Line 2 at Larissa Station metro stop.",
+      "hours": "Intercity trains ~6:00 AM–~10:30 PM by timetable; Line 2 at the station ~5:30 AM–~12:30 AM."
+    }
+  ],
+  "airports": [
+    {
+      "name": "Athens International Airport",
+      "code": "ATH",
+      "lat": 37.9364,
+      "lng": 23.9445,
+      "transitNote": "Metro Line 3 (blue) runs from the terminal to Syntagma in ~40 min, with onward service shown on this map; the airport section is a separate €9 fare. The X95 express bus to Syntagma (~€5.50, 60+ min) and taxis (flat ~€54 day / ~€70 night) are alternatives.",
+      "hours": "Line 3 airport service: first train ~5:30 AM, last ~11:30 PM (to ~12:30 AM Fri–Sat); express bus X95 runs 24 hours."
+    }
+  ]
+}

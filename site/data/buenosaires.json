@@ -1,0 +1,351 @@
+{
+  "name": "Buenos Aires",
+  "country": "Argentina",
+  "flag": "🇦🇷",
+  "center": [-34.6037,-58.3816],
+  "zoom": 12,
+  "operatingHours": "The Subte runs ~5:30 AM–~10:30 PM Mon–Sat and ~8:00 AM–~10:00 PM on Sundays and holidays (last trains leave central stations ~10:00–10:30 PM). No all-night service; trains every 3–8 min by day.",
+  "fareInfo": "Subte single ride $1,753 ARS from 1 Sept 2026 with a registered SUBE card; unregistered SUBE costs ~$2,541 ARS. Foreign visitors can register a SUBE card online or buy at a kiosk (Subte stations do not sell cards). Buses and suburban trains also use SUBE with their own fares. Fares change often with inflation.",
+  "lines": [
+    {
+      "id": "la",
+      "name": "Line A",
+      "color": "#1CA4CB",
+      "code": "A",
+      "stations": [
+        ["Plaza de Mayo",-34.6089,-58.3709],
+        ["Perú",-34.6086,-58.3745],
+        ["Piedras",-34.6089,-58.3785],
+        ["Lima",-34.6091,-58.3827],
+        ["Sáenz Peña",-34.6094,-58.3868],
+        ["Congreso",-34.6092,-58.3926],
+        ["Alberti",-34.6099,-58.4009],
+        ["Plaza Miserere",-34.6099,-58.4064],
+        ["Loria",-34.6108,-58.4155],
+        ["Castro Barros",-34.6117,-58.4215],
+        ["Río de Janeiro",-34.6153,-58.4295],
+        ["Acoyte",-34.6181,-58.436],
+        ["Primera Junta",-34.6206,-58.4414],
+        ["Puán",-34.6236,-58.4486],
+        ["Carabobo",-34.6265,-58.4561],
+        ["San José de Flores",-34.6291,-58.4635],
+        ["San Pedrito",-34.6311,-58.4708]
+      ],
+      "jp": "Línea A"
+    },
+    {
+      "id": "lb",
+      "name": "Line B",
+      "color": "#C20924",
+      "code": "B",
+      "stations": [
+        ["Leandro N. Alem",-34.603,-58.3694],
+        ["Florida",-34.6034,-58.3746],
+        ["Carlos Pellegrini",-34.6037,-58.3813],
+        ["Uruguay",-34.6041,-58.3871],
+        ["Callao",-34.6045,-58.3927],
+        ["Pasteur - AMIA",-34.6047,-58.3994],
+        ["Pueyrredón",-34.6046,-58.4055],
+        ["Carlos Gardel",-34.6041,-58.4113],
+        ["Medrano - Almagro",-34.6032,-58.4208],
+        ["Ángel Gallardo",-34.6022,-58.4311],
+        ["Malabia - Osvaldo Pugliese",-34.599,-58.4397],
+        ["Dorrego",-34.5918,-58.4475],
+        ["Federico Lacroze",-34.5872,-58.4552],
+        ["Tronador - Villa Ortúzar",-34.5841,-58.4664],
+        ["Los Incas - Parque Chas",-34.5812,-58.4744],
+        ["Echeverría",-34.578,-58.4808],
+        ["Juan Manuel de Rosas",-34.574,-58.4868]
+      ],
+      "jp": "Línea B"
+    },
+    {
+      "id": "lc",
+      "name": "Line C",
+      "color": "#003EA1",
+      "code": "C",
+      "stations": [
+        ["Retiro",-34.5914,-58.3742],
+        ["General San Martín",-34.595,-58.3779],
+        ["Lavalle",-34.6017,-58.3781],
+        ["Diagonal Norte",-34.6048,-58.3793],
+        ["Avenida de Mayo",-34.609,-58.3806],
+        ["Moreno",-34.6124,-58.3805],
+        ["Independencia",-34.6181,-58.3801],
+        ["San Juan",-34.6225,-58.3799],
+        ["Constitución",-34.6277,-58.3811]
+      ],
+      "jp": "Línea C"
+    },
+    {
+      "id": "ld",
+      "name": "Line D",
+      "color": "#217861",
+      "code": "D",
+      "stations": [
+        ["Catedral",-34.6077,-58.374],
+        ["9 de Julio",-34.6044,-58.3803],
+        ["Tribunales - Teatro Colón",-34.6015,-58.3849],
+        ["Callao - Raquel Liberman",-34.5997,-58.3927],
+        ["Facultad de Medicina",-34.5998,-58.3977],
+        ["Pueyrredón",-34.5949,-58.4032],
+        ["Agüero",-34.5917,-58.4071],
+        ["Bulnes",-34.5882,-58.4113],
+        ["Scalabrini Ortiz",-34.5852,-58.4159],
+        ["Plaza Italia",-34.5815,-58.4211],
+        ["Palermo",-34.5785,-58.4257],
+        ["Ministro Carranza",-34.5752,-58.4347],
+        ["Olleros",-34.5703,-58.4444],
+        ["José Hernández",-34.5663,-58.452],
+        ["Juramento",-34.5625,-58.4564],
+        ["Congreso de Tucumán",-34.5558,-58.4623]
+      ],
+      "jp": "Línea D"
+    },
+    {
+      "id": "le",
+      "name": "Line E",
+      "color": "#6B297E",
+      "code": "E",
+      "stations": [
+        ["Plaza de los Virreyes - Eva Perón",-34.6429,-58.4617],
+        ["Varela",-34.6398,-58.458],
+        ["Medalla Milagrosa",-34.6363,-58.4502],
+        ["Emilio Mitre",-34.6315,-58.4424],
+        ["José María Moreno",-34.628,-58.4339],
+        ["Avenida La Plata",-34.6269,-58.4264],
+        ["Boedo",-34.6254,-58.4161],
+        ["General Urquiza",-34.6247,-58.4098],
+        ["Jujuy",-34.6238,-58.4028],
+        ["Pichincha",-34.6232,-58.3976],
+        ["Entre Ríos - Rodolfo Walsh",-34.6227,-58.3915],
+        ["San José",-34.6223,-58.3852],
+        ["Independencia - Santa Mama Antula",-34.6181,-58.3815],
+        ["Belgrano",-34.613,-58.3777],
+        ["Bolívar",-34.6097,-58.3741],
+        ["Correo Central",-34.6037,-58.3703],
+        ["Catalinas",-34.5965,-58.3722],
+        ["Retiro",-34.592,-58.3766]
+      ],
+      "jp": "Línea E"
+    },
+    {
+      "id": "lh",
+      "name": "Line H",
+      "color": "#F4CC21",
+      "code": "H",
+      "stations": [
+        ["Facultad de Derecho - Julieta Lanteri",-34.5831,-58.391],
+        ["Las Heras",-34.5875,-58.3972],
+        ["Santa Fe - Carlos Jáuregui",-34.5947,-58.4024],
+        ["Córdoba",-34.5992,-58.4039],
+        ["Corrientes",-34.6041,-58.4053],
+        ["Once - 30 de Diciembre",-34.6092,-58.406],
+        ["Venezuela",-34.6152,-58.4047],
+        ["Humberto I",-34.6231,-58.4023],
+        ["Inclán-Mezquita Al Ahmad",-34.6293,-58.401],
+        ["Caseros",-34.6354,-58.399],
+        ["Parque Patricios",-34.6385,-58.4063],
+        ["Hospitales",-34.6417,-58.4126]
+      ],
+      "jp": "Línea H"
+    }
+  ],
+  "hotels": [
+    {"name":"Casa Lucía","lat":-34.5915,"lng":-58.379,"area":"Retiro","rating":4.7,"ratingCount":403,"stars":5,"priceTier":4},
+    {"name":"Carles Hotel Buenos Aires","lat":-34.5929,"lng":-58.3784,"area":"Retiro","rating":4.8,"ratingCount":748,"stars":4,"priceTier":3},
+    {"name":"NH Collection Buenos Aires Crillon","lat":-34.5954,"lng":-58.3787,"area":"Retiro","rating":4.2,"ratingCount":1708,"stars":4,"priceTier":3},
+    {"name":"Feir's Park Hotel & Rooftop","lat":-34.5915,"lng":-58.3783,"area":"Retiro","rating":4.1,"ratingCount":702,"stars":4,"priceTier":3},
+    {"name":"El Misti Hotel Buenos Aires Centro","lat":-34.5974,"lng":-58.3727,"area":"Retiro","rating":4.7,"ratingCount":212,"stars":2,"priceTier":2},
+    {"name":"Buenos Aires Marriott Downtown","lat":-34.6022,"lng":-58.3807,"area":"Microcentro","rating":4,"ratingCount":2099,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"474 Buenos Aires Hotel","lat":-34.6025,"lng":-58.374,"area":"Microcentro","rating":4.5,"ratingCount":1306,"stars":4,"priceTier":3},
+    {"name":"725 Continental Hotel","lat":-34.6061,"lng":-58.3767,"area":"Microcentro","rating":4.1,"ratingCount":1465,"stars":3,"priceTier":2},
+    {"name":"Hilton Buenos Aires","lat":-34.6059,"lng":-58.3637,"area":"Puerto Madero","rating":4.4,"ratingCount":4864,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"NH Collection Buenos Aires Jousten","lat":-34.6033,"lng":-58.371,"area":"Puerto Madero","rating":4.4,"ratingCount":1402,"stars":4,"priceTier":3},
+    {"name":"Regal Pacific Hotel","lat":-34.5989,"lng":-58.3715,"area":"Puerto Madero","rating":4.3,"ratingCount":1038,"stars":4,"priceTier":3},
+    {"name":"Holiday Inn Express Puerto Madero","lat":-34.5987,"lng":-58.3713,"area":"Puerto Madero","rating":4.1,"ratingCount":1231,"stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Alvear Palace Hotel","lat":-34.5877,"lng":-58.3887,"area":"Recoleta","rating":4.7,"ratingCount":2744,"stars":5,"priceTier":4},
+    {"name":"Urban Suites Recoleta Boutique Hotel","lat":-34.589,"lng":-58.3926,"area":"Recoleta","rating":4.4,"ratingCount":1106,"stars":4,"priceTier":3},
+    {"name":"Loi Suites Recoleta Hotel","lat":-34.5895,"lng":-58.3924,"area":"Recoleta","rating":4.3,"ratingCount":1236,"stars":4,"priceTier":3},
+    {"name":"Sileo Hotel","lat":-34.587,"lng":-58.3947,"area":"Recoleta","rating":4.3,"ratingCount":503,"stars":4,"priceTier":3},
+    {"name":"Cyan Recoleta Hotel","lat":-34.589,"lng":-58.3925,"area":"Recoleta","rating":4,"ratingCount":1137,"stars":3,"priceTier":2},
+    {"name":"Dazzler by Wyndham Buenos Aires Polo","lat":-34.5762,"lng":-58.4239,"area":"Palermo","rating":4.5,"ratingCount":1053,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Vain Boutique Hotel","lat":-34.5836,"lng":-58.4249,"area":"Palermo","rating":4.6,"ratingCount":1169,"stars":4,"priceTier":3},
+    {"name":"Miravida Soho Hotel & Wine Bar","lat":-34.5843,"lng":-58.4277,"area":"Palermo","rating":4.8,"ratingCount":1764,"stars":4,"priceTier":3},
+    {"name":"Pleno Palermo Soho","lat":-34.5862,"lng":-58.4241,"area":"Palermo","rating":4.3,"ratingCount":956,"stars":4,"priceTier":3},
+    {"name":"Circus Hostel & Hotel","lat":-34.6199,"lng":-58.3757,"area":"San Telmo","rating":4.3,"ratingCount":1980,"stars":1,"priceTier":1},
+    {"name":"Puerto Limon Hostel","lat":-34.6202,"lng":-58.3757,"area":"San Telmo","rating":4,"ratingCount":220,"stars":1,"priceTier":1},
+    {"name":"Mansion Dandi Royal Tango Boutique Hotel","lat":-34.6189,"lng":-58.3772,"area":"San Telmo","rating":4.1,"ratingCount":201,"stars":4,"priceTier":3},
+    {"name":"Piedras Suites","lat":-34.6187,"lng":-58.3771,"area":"San Telmo","rating":4.2,"ratingCount":243,"stars":3,"priceTier":2}
+  ],
+  "sights": [
+    {
+      "name": "Teatro Colón",
+      "lat": -34.601,
+      "lng": -58.383,
+      "note": "One of the world's great opera houses, with a seven-tier horseshoe hall and renowned acoustics; visit by guided tour or a performance.",
+      "hours": "Guided tours daily ~9:00 AM–5:00 PM; performances vary",
+      "rating": 4.8,
+      "ticketUrl": "https://www.teatrocolon.org.ar",
+      "bookAhead": true
+    },
+    {
+      "name": "Puerto Madero",
+      "lat": -34.6084,
+      "lng": -58.3637,
+      "note": "The redeveloped dockside district of brick warehouses, waterfront restaurants and the white Puente de la Mujer footbridge.",
+      "hours": "Open daily; best late afternoon",
+      "rating": 4.5
+    },
+    {
+      "name": "La Recoleta Cemetery",
+      "lat": -34.5879,
+      "lng": -58.3928,
+      "note": "A labyrinth of marble mausoleums and statues, including Eva Perón's family tomb, laid out like a miniature city.",
+      "hours": "Daily 7:00 AM–5:30 PM; free",
+      "rating": 4.3
+    },
+    {
+      "name": "Japanese Garden (Jardín Japonés)",
+      "lat": -34.5772,
+      "lng": -58.4087,
+      "note": "A tranquil Japanese landscape garden with koi ponds, a tea house and a cultural centre in Palermo.",
+      "hours": "Daily ~10:00 AM–6:00 PM",
+      "rating": 4.4,
+      "ticketUrl": "https://jardinjapones.org.ar"
+    },
+    {
+      "name": "Museo Nacional de Bellas Artes",
+      "lat": -34.5836,
+      "lng": -58.3927,
+      "note": "Argentina's national fine-arts museum, with a strong run of European masters and Argentine painting, free to enter.",
+      "hours": "Tue–Fri 11:00 AM–8:00 PM, Sat–Sun 10:00 AM–8:00 PM, closed Mon; free",
+      "rating": 4.6,
+      "ticketUrl": "https://www.bellasartes.gob.ar"
+    },
+    {
+      "name": "Palermo Soho",
+      "lat": -34.5877,
+      "lng": -58.4297,
+      "note": "A cobbled neighbourhood of boutiques, design shops, cafés and bars centred on Plaza Serrano.",
+      "hours": "Streets open daily; shops ~11:00 AM–8:00 PM",
+      "rating": 4.4
+    },
+    {
+      "name": "MALBA",
+      "lat": -34.5772,
+      "lng": -58.4035,
+      "note": "The leading Latin American modern art museum, with Frida Kahlo, Diego Rivera and top Argentine artists in a glass-fronted building.",
+      "hours": "Thu–Mon 12:00 PM–8:00 PM (Wed to 9:00 PM), closed Tue",
+      "rating": 4.5,
+      "ticketUrl": "https://www.malba.org.ar"
+    },
+    {
+      "name": "Bosques de Palermo",
+      "lat": -34.5703,
+      "lng": -58.4143,
+      "note": "Buenos Aires's main green lung, with rose gardens, lakes and cycle paths crossing a wide park in the north of the city.",
+      "hours": "Daily 6:00 AM–midnight",
+      "rating": 4.6
+    },
+    {
+      "name": "Caminito",
+      "lat": -34.6393,
+      "lng": -58.3626,
+      "note": "A short, brightly painted pedestrian street in La Boca, famous for tango dancers and colourful tin houses.",
+      "hours": "Open daily; shops and artists ~10:00 AM–6:00 PM",
+      "rating": 4
+    },
+    {
+      "name": "San Telmo Sunday Fair (Plaza Dorrego)",
+      "lat": -34.6213,
+      "lng": -58.3724,
+      "note": "A Sunday market of antiques, crafts and street tango around the cobbled plaza in San Telmo.",
+      "hours": "Sun ~10:00 AM–5:00 PM",
+      "rating": 4.2
+    },
+    {
+      "name": "La Bombonera (Boca Juniors Stadium)",
+      "lat": -34.6356,
+      "lng": -58.3647,
+      "note": "Boca Juniors' stadium, a steep, concrete bowl with a museum and a guided stadium tour.",
+      "hours": "Museum and tours daily ~10:00 AM–5:00 PM; closed on match days",
+      "rating": 4.3
+    },
+    {
+      "name": "Casa Rosada",
+      "lat": -34.608,
+      "lng": -58.3702,
+      "note": "The pink presidential palace on Plaza de Mayo, open on weekends for free guided visits.",
+      "hours": "Free tours on Sat–Sun ~10:00 AM–6:00 PM (by registration)",
+      "rating": 4.2
+    },
+    {
+      "name": "Catedral Metropolitana",
+      "lat": -34.6081,
+      "lng": -58.3738,
+      "note": "The neoclassical cathedral on Plaza de Mayo where General San Martín's mausoleum stands.",
+      "hours": "Daily ~8:00 AM–7:00 PM",
+      "rating": 4.5
+    },
+    {
+      "name": "El Zanjón de Granados",
+      "lat": -34.6178,
+      "lng": -58.3716,
+      "note": "A guided underground tour through restored 18th-century tunnels and cellars beneath a San Telmo townhouse.",
+      "hours": "Guided visits ~Mon–Sun, daytime tours; reserve",
+      "rating": 4.6,
+      "bookAhead": true
+    },
+    {
+      "name": "Mercado de San Telmo",
+      "lat": -34.6199,
+      "lng": -58.3727,
+      "note": "A 1897 iron-and-glass market hall mixing antiques stalls, produce and small food counters.",
+      "hours": "Daily ~10:00 AM–8:00 PM",
+      "rating": 4.2
+    },
+    {
+      "name": "Floralis Genérica",
+      "lat": -34.5806,
+      "lng": -58.3935,
+      "note": "A giant stainless-steel and aluminium flower sculpture that once opened and closed its petals with the sun.",
+      "hours": "Open 24 hours outdoors; free",
+      "rating": 4.2
+    }
+  ],
+  "railStations": [
+    {
+      "name": "Retiro",
+      "lat": -34.5917,
+      "lng": -58.3745,
+      "note": "Buenos Aires's main northern rail hub: Mitre, Belgrano Norte and San Martín commuter lines, with Subte Lines C and E at the door (Retiro station).",
+      "hours": "Commuter trains ~4:30 AM–midnight; Subte C/E ~5:30 AM–10:30 PM."
+    },
+    {
+      "name": "Constitución",
+      "lat": -34.6277,
+      "lng": -58.3811,
+      "note": "Southern hub for the Roca line (commuter and long-distance services toward Mar del Plata and the coast, which run on their own timetables), with Subte Line C at the station.",
+      "hours": "Commuter trains ~4:30 AM–midnight; Subte C ~5:30 AM–10:30 PM."
+    }
+  ],
+  "airports": [
+    {
+      "name": "Ministro Pistarini International Airport (Ezeiza)",
+      "code": "EZE",
+      "lat": -34.8222,
+      "lng": -58.5358,
+      "transitNote": "~35 km south-west. No rail or Subte link. Use the Tienda León shuttle bus to Retiro (~45–60 min), an official remis/taxi (~45–60 min) or a public bus. Not on the Subte map.",
+      "hours": "Airport open 24 hours; shuttle buses and taxis run all night."
+    },
+    {
+      "name": "Jorge Newbery Airport (Aeroparque)",
+      "code": "AEP",
+      "lat": -34.5592,
+      "lng": -58.4156,
+      "transitNote": "In the city beside the river, mostly domestic and regional flights. No Subte link: take a taxi or bus (lines 33, 37, 45) to Plaza Italia (Line D) or Retiro; ~15–25 min to Palermo.",
+      "hours": "Open ~5:00 AM–midnight; taxis and buses meet flights."
+    }
+  ]
+}
