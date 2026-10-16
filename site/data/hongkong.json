@@ -1,0 +1,428 @@
+{
+  "name": "Hong Kong",
+  "country": "Hong Kong",
+  "flag": "🇭🇰",
+  "center": [22.305,114.175],
+  "zoom": 12,
+  "operatingHours": "MTR runs ~6:00 AM–1:00 AM daily (Airport Express ~5:50 AM–12:50 AM). No all-night trains; night buses (N routes) run overnight.",
+  "fareInfo": "Fares are distance-based, about HK$5–HK$30 per ride on an Octopus card (less than single-journey tickets). Contactless Visa, Mastercard, UnionPay and mobile wallets work at most gates too. The Airport Express is separate and dearer (to Hong Kong station ~HK$115, return tickets cheaper). A Tourist Day Pass covers unlimited MTR rides for 24 hours except the Airport Express.",
+  "lines": [
+    {
+      "id": "lael",
+      "name": "Airport Express",
+      "jp": "機場快綫",
+      "color": "#00888A",
+      "code": "AEL",
+      "stations": [["AsiaWorld-Expo",22.322,113.9422],["Airport",22.3159,113.9366],["Tsing Yi",22.3583,114.1074],["Kowloon",22.3049,114.1616],["Hong Kong",22.285,114.1584]],
+      "firstLast": "Airport → Hong Kong station: first ~5:54 AM, last ~12:48 AM, every 10–12 min, 24 min. In-town check-in at Hong Kong and Kowloon stations."
+    },
+    {"id":"ldrl","name":"Disneyland Resort Line","jp":"迪士尼綫","color":"#F173AC","code":"DRL","stations":[["Sunny Bay",22.3317,114.029],["Disneyland Resort",22.3155,114.0451]]},
+    {
+      "id": "leal",
+      "name": "East Rail Line (Lok Ma Chau branch)",
+      "jp": "東鐵綫",
+      "color": "#53B7E8",
+      "code": "EAL",
+      "stations": [
+        ["Lok Ma Chau",22.5146,114.0657],
+        ["Sheung Shui",22.5011,114.1281],
+        ["Fanling",22.4921,114.1387],
+        ["Tai Wo",22.451,114.1612],
+        ["Tai Po Market",22.4448,114.1708],
+        ["University",22.4134,114.2101],
+        ["Fo Tan",22.3953,114.1984],
+        ["Sha Tin",22.3828,114.1876],
+        ["Tai Wai",22.3731,114.1785],
+        ["Kowloon Tong",22.337,114.1759],
+        ["Mong Kok East",22.322,114.1726],
+        ["Hung Hom",22.303,114.1824],
+        ["Exhibition Centre",22.2817,114.1757],
+        ["Admiralty",22.2785,114.1664]
+      ]
+    },
+    {
+      "id": "leal_b1",
+      "name": "East Rail Line (Lo Wu branch)",
+      "jp": "東鐵綫",
+      "color": "#53B7E8",
+      "code": "EAL",
+      "stations": [
+        ["Lo Wu",22.5282,114.1135],
+        ["Sheung Shui",22.5011,114.1281],
+        ["Fanling",22.4921,114.1387],
+        ["Tai Wo",22.451,114.1612],
+        ["Tai Po Market",22.4448,114.1708],
+        ["University",22.4134,114.2101],
+        ["Racecourse",22.4004,114.203],
+        ["Sha Tin",22.3828,114.1876],
+        ["Tai Wai",22.3731,114.1785],
+        ["Kowloon Tong",22.337,114.1759],
+        ["Mong Kok East",22.322,114.1726],
+        ["Hung Hom",22.303,114.1824],
+        ["Exhibition Centre",22.2817,114.1757],
+        ["Admiralty",22.2785,114.1664]
+      ]
+    },
+    {
+      "id": "lisl",
+      "name": "Island Line",
+      "jp": "港島綫",
+      "color": "#007DC5",
+      "code": "ISL",
+      "stations": [
+        ["Chai Wan",22.2646,114.2371],
+        ["Heng Fa Chuen",22.2766,114.2397],
+        ["Shau Kei Wan",22.2791,114.2289],
+        ["Sai Wan Ho",22.2816,114.2223],
+        ["Tai Koo",22.2846,114.2161],
+        ["Quarry Bay",22.289,114.2083],
+        ["North Point",22.2912,114.2004],
+        ["Fortress Hill",22.2875,114.1935],
+        ["Tin Hau",22.2822,114.192],
+        ["Causeway Bay",22.2801,114.184],
+        ["Wan Chai",22.2776,114.173],
+        ["Admiralty",22.2791,114.1653],
+        ["Central",22.2818,114.1579],
+        ["Sheung Wan",22.2865,114.1521],
+        ["Sai Ying Pun",22.2854,114.1428],
+        ["HKU",22.284,114.1355],
+        ["Kennedy Town",22.2812,114.1285]
+      ]
+    },
+    {
+      "id": "lktl",
+      "name": "Kwun Tong Line",
+      "jp": "觀塘綫",
+      "color": "#00AB4E",
+      "code": "KTL",
+      "stations": [
+        ["Tiu Keng Leng",22.3041,114.2523],
+        ["Yau Tong",22.2979,114.2372],
+        ["Lam Tin",22.3067,114.2329],
+        ["Kwun Tong",22.3122,114.2264],
+        ["Ngau Tau Kok",22.3153,114.2191],
+        ["Kowloon Bay",22.3234,114.214],
+        ["Choi Hung",22.3353,114.2085],
+        ["Diamond Hill",22.3399,114.2016],
+        ["Wong Tai Sin",22.3416,114.1932],
+        ["Lok Fu",22.3375,114.1859],
+        ["Kowloon Tong",22.3368,114.1773],
+        ["Shek Kip Mei",22.3311,114.1689],
+        ["Prince Edward",22.3245,114.1684],
+        ["Mong Kok",22.3193,114.1695],
+        ["Yau Ma Tei",22.3131,114.1706],
+        ["Ho Man Tin",22.3093,114.1826],
+        ["Whampoa",22.3049,114.1896]
+      ]
+    },
+    {
+      "id": "lsil",
+      "name": "South Island Line",
+      "jp": "南港島綫",
+      "color": "#B6BD00",
+      "code": "SIL",
+      "stations": [["Admiralty",22.2784,114.1661],["Ocean Park",22.2487,114.1744],["Wong Chuk Hang",22.2478,114.1675],["Lei Tung",22.2419,114.1561],["South Horizons",22.2423,114.1491]]
+    },
+    {
+      "id": "ltcl",
+      "name": "Tung Chung Line",
+      "jp": "東涌綫",
+      "color": "#F7943E",
+      "code": "TCL",
+      "stations": [
+        ["Tung Chung",22.2893,113.9413],
+        ["Sunny Bay",22.3319,114.0288],
+        ["Tsing Yi",22.3584,114.1074],
+        ["Lai King",22.3484,114.126],
+        ["Nam Cheong",22.3263,114.1538],
+        ["Olympic",22.3177,114.1604],
+        ["Kowloon",22.3049,114.1617],
+        ["Hong Kong",22.2851,114.1585]
+      ]
+    },
+    {
+      "id": "ltkl",
+      "name": "Tseung Kwan O Line",
+      "jp": "將軍澳綫",
+      "color": "#7D499D",
+      "code": "TKL",
+      "stations": [
+        ["North Point",22.2905,114.2006],
+        ["Quarry Bay",22.2883,114.2094],
+        ["Yau Tong",22.2978,114.2371],
+        ["Tiu Keng Leng",22.3041,114.2523],
+        ["Tseung Kwan O",22.3074,114.2599],
+        ["Hang Hau",22.3155,114.2643],
+        ["Po Lam",22.3225,114.258]
+      ]
+    },
+    {
+      "id": "ltml",
+      "name": "Tuen Ma Line",
+      "jp": "屯馬綫",
+      "color": "#923011",
+      "code": "TML",
+      "stations": [
+        ["Tuen Mun",22.3953,113.9731],
+        ["Siu Hong",22.4118,113.9788],
+        ["Tin Shui Wai",22.4482,114.0046],
+        ["Long Ping",22.4478,114.0254],
+        ["Yuen Long",22.4462,114.0352],
+        ["Kam Sheung Road",22.4349,114.0634],
+        ["Tsuen Wan West",22.3682,114.1101],
+        ["Mei Foo",22.3389,114.1366],
+        ["Nam Cheong",22.3265,114.1539],
+        ["Austin",22.3043,114.1667],
+        ["East Tsim Sha Tsui",22.2956,114.175],
+        ["Hung Hom",22.3031,114.1822],
+        ["Ho Man Tin",22.3096,114.1826],
+        ["To Kwa Wan",22.317,114.1876],
+        ["Sung Wong Toi",22.3259,114.1914],
+        ["Kai Tak",22.3302,114.1993],
+        ["Diamond Hill",22.3401,114.2006],
+        ["Hin Keng",22.3638,114.1708],
+        ["Tai Wai",22.3728,114.1788],
+        ["Che Kung Temple",22.3747,114.1861],
+        ["Sha Tin Wai",22.3768,114.1948],
+        ["City One",22.383,114.2038],
+        ["Shek Mun",22.3878,114.2085],
+        ["Tai Shui Hang",22.4085,114.2228],
+        ["Heng On",22.4174,114.2258],
+        ["Ma On Shan",22.4248,114.2318],
+        ["Wu Kai Sha",22.4291,114.2439]
+      ]
+    },
+    {
+      "id": "ltwl",
+      "name": "Tsuen Wan Line",
+      "color": "#ED1D24",
+      "code": "TWL",
+      "stations": [
+        ["Tsuen Wan",22.3737,114.1179],
+        ["Tai Wo Hau",22.3708,114.1251],
+        ["Kwai Hing",22.363,114.1312],
+        ["Kwai Fong",22.3569,114.1279],
+        ["Lai King",22.3485,114.1263],
+        ["Mei Foo",22.338,114.1392],
+        ["Lai Chi Kok",22.3374,114.1484],
+        ["Cheung Sha Wan",22.3355,114.1562],
+        ["Sham Shui Po",22.3306,114.1625],
+        ["Prince Edward",22.3244,114.1682],
+        ["Mong Kok",22.3192,114.1693],
+        ["Yau Ma Tei",22.3131,114.1707],
+        ["Jordan",22.3051,114.1718],
+        ["Tsim Sha Tsui",22.2972,114.1723],
+        ["Admiralty",22.2793,114.1653],
+        ["Central",22.2815,114.1593]
+      ],
+      "jp": "荃灣綫"
+    }
+  ],
+  "hotels": [
+    {"name":"The Ritz-Carlton, Hong Kong","lat":22.3033,"lng":114.1602,"area":"Hong Kong West Kowloon Station","rating":4.9,"ratingCount":10574,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"W Hong Kong","lat":22.3046,"lng":114.1606,"area":"Hong Kong West Kowloon Station","rating":4.8,"ratingCount":8993,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"The Royal Pacific Hotel & Towers","lat":22.2999,"lng":114.1676,"area":"Hong Kong West Kowloon Station","rating":4,"ratingCount":2208,"stars":4,"priceTier":3},
+    {"name":"Hotel Madera Hong Kong","lat":22.3064,"lng":114.172,"area":"Hong Kong West Kowloon Station","rating":4.5,"ratingCount":1516,"stars":4,"priceTier":3},
+    {"name":"InterContinental Grand Stanford Hong Kong","lat":22.2991,"lng":114.1793,"area":"Hung Hom Station","rating":4.6,"ratingCount":5685,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Hotel ICON","lat":22.3008,"lng":114.1796,"area":"Hung Hom Station","rating":4.9,"ratingCount":10783,"stars":4,"priceTier":3},
+    {"name":"New World Millennium Hong Kong Hotel","lat":22.2995,"lng":114.1797,"area":"Hung Hom Station","rating":4.5,"ratingCount":2922,"stars":5,"priceTier":3},
+    {"name":"Kerry Hotel Hong Kong","lat":22.3014,"lng":114.1889,"area":"Hung Hom Station","rating":4.6,"ratingCount":1506,"stars":5,"priceTier":4},
+    {"name":"Hong Kong SkyCity Marriott Hotel","lat":22.3191,"lng":113.9436,"area":"Hong Kong International Airport","rating":4.3,"ratingCount":3793,"stars":5,"priceTier":3,"brandAnchor":true},
+    {"name":"Regal Airport Hotel","lat":22.3188,"lng":113.9343,"area":"Hong Kong International Airport","rating":4,"ratingCount":7719,"stars":5,"priceTier":3},
+    {"name":"Regala Skycity Hotel","lat":22.3191,"lng":113.9421,"area":"Hong Kong International Airport","rating":4.4,"ratingCount":456,"stars":4,"priceTier":3},
+    {"name":"The Langham, Hong Kong","lat":22.2965,"lng":114.1698,"area":"Tsim Sha Tsui","rating":4.7,"ratingCount":4337,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Hyatt Regency Hong Kong, Tsim Sha Tsui","lat":22.2975,"lng":114.1738,"area":"Tsim Sha Tsui","rating":4.4,"ratingCount":4648,"stars":5,"priceTier":3,"brandAnchor":true},
+    {"name":"Holiday Inn Golden Mile Hong Kong","lat":22.2968,"lng":114.1728,"area":"Tsim Sha Tsui","rating":4.1,"ratingCount":4423,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"The Salisbury - YMCA of Hong Kong","lat":22.2951,"lng":114.171,"area":"Tsim Sha Tsui","rating":4.4,"ratingCount":3890,"stars":3,"priceTier":2},
+    {"name":"Golden Crown Guesthouse","lat":22.2979,"lng":114.1724,"area":"Tsim Sha Tsui","rating":4.3,"ratingCount":391,"stars":1,"priceTier":1},
+    {"name":"Mandarin Oriental, Hong Kong","lat":22.2819,"lng":114.1594,"area":"Central","rating":4.9,"ratingCount":7798,"stars":5,"priceTier":4},
+    {"name":"The Murray, Hong Kong, a Niccolo Hotel","lat":22.2781,"lng":114.1601,"area":"Central","rating":4.9,"ratingCount":6032,"stars":5,"priceTier":4},
+    {"name":"The Pottinger Hong Kong","lat":22.2828,"lng":114.1554,"area":"Central","rating":4.5,"ratingCount":769,"stars":4,"priceTier":3},
+    {"name":"Ovolo Central","lat":22.2803,"lng":114.1546,"area":"Central","rating":4.7,"ratingCount":1192,"stars":4,"priceTier":3},
+    {"name":"Butterfly on Wellington","lat":22.2836,"lng":114.154,"area":"Central","rating":4.5,"ratingCount":2583,"stars":3,"priceTier":2},
+    {"name":"The Park Lane Hong Kong, Autograph Collection","lat":22.2812,"lng":114.1864,"area":"Causeway Bay","rating":4.6,"ratingCount":4028,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Crowne Plaza Hong Kong Causeway Bay","lat":22.2769,"lng":114.1827,"area":"Causeway Bay","rating":4.4,"ratingCount":1187,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Regal Hongkong Hotel","lat":22.2792,"lng":114.1868,"area":"Causeway Bay","rating":4.1,"ratingCount":2604,"stars":4,"priceTier":3},
+    {"name":"Mira Moon Hotel","lat":22.2798,"lng":114.1796,"area":"Causeway Bay","rating":4.7,"ratingCount":2103,"stars":4,"priceTier":3},
+    {"name":"Causeway Bay Inn","lat":22.2785,"lng":114.1831,"area":"Causeway Bay","rating":4.6,"ratingCount":112,"stars":1,"priceTier":1},
+    {"name":"Cordis, Hong Kong","lat":22.3181,"lng":114.1681,"area":"Mong Kok","rating":4.7,"ratingCount":6176,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Hilton Garden Inn Hong Kong Mongkok","lat":22.3157,"lng":114.167,"area":"Mong Kok","rating":4.2,"ratingCount":1211,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Royal Plaza Hotel","lat":22.324,"lng":114.1731,"area":"Mong Kok","rating":4.5,"ratingCount":7027,"stars":4,"priceTier":3},
+    {"name":"Metropark Hotel Mongkok","lat":22.3234,"lng":114.1675,"area":"Mong Kok","rating":4.3,"ratingCount":2231,"stars":3,"priceTier":2},
+    {"name":"iclub Mong Kok Hotel","lat":22.3203,"lng":114.1653,"area":"Mong Kok","rating":4.1,"ratingCount":323,"stars":3,"priceTier":2},
+    {"name":"Grand Hyatt Hong Kong","lat":22.2813,"lng":114.1722,"area":"Wan Chai","rating":4.7,"ratingCount":6678,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Hotel Indigo Hong Kong Island","lat":22.2748,"lng":114.1733,"area":"Wan Chai","rating":4.5,"ratingCount":1306,"stars":5,"priceTier":3,"brandAnchor":true},
+    {"name":"Novotel Century Hong Kong","lat":22.2788,"lng":114.1763,"area":"Wan Chai","rating":4,"ratingCount":4351,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Kew Green Hotel Wanchai","lat":22.2778,"lng":114.1706,"area":"Wan Chai","rating":4.4,"ratingCount":2266,"stars":3,"priceTier":2},
+    {"name":"Check Inn HK","lat":22.2782,"lng":114.177,"area":"Wan Chai","rating":4.1,"ratingCount":205,"stars":1,"priceTier":1}
+  ],
+  "sights": [
+    {
+      "name": "Victoria Peak (The Peak)",
+      "lat": 22.2712,
+      "lng": 114.1498,
+      "note": "Hong Kong Island's highest summit, where the Peak Tower and Sky Terrace 428 look straight down over the skyscrapers and harbour; best near sunset.",
+      "hours": "Peak area open 24 h; Sky Terrace 428 10:00 AM–10:00 PM daily",
+      "rating": 4.4,
+      "ticketUrl": "https://www.thepeak.com.hk/en"
+    },
+    {
+      "name": "Hong Kong Disneyland",
+      "lat": 22.313,
+      "lng": 114.0413,
+      "note": "Disney theme park on Lantau with the castle, Frozen-themed World of Frozen and nightly fireworks; reached directly by the MTR Disneyland Resort Line.",
+      "hours": "Typically 10:30 AM–8:30 PM; varies by day, check the park calendar",
+      "rating": 4.2,
+      "ticketUrl": "https://www.hongkongdisneyland.com/",
+      "bookAhead": true
+    },
+    {
+      "name": "Tian Tan Buddha (Big Buddha)",
+      "lat": 22.254,
+      "lng": 113.905,
+      "note": "A 34 m bronze seated Buddha atop 268 steps on Ngong Ping plateau, beside Po Lin Monastery; reach it by cable car or bus from Tung Chung MTR.",
+      "hours": "10:00 AM–5:30 PM daily",
+      "rating": 4.5
+    },
+    {
+      "name": "Star Ferry",
+      "lat": 22.2937,
+      "lng": 114.1685,
+      "note": "Green-and-white ferries running since 1888 across Victoria Harbour between Tsim Sha Tsui and Central for a few dollars; a classic skyline crossing.",
+      "hours": "About 6:30 AM–11:30 PM daily, every 6–12 min",
+      "rating": 4.6,
+      "ticketUrl": "https://www.starferry.com.hk/en/home"
+    },
+    {
+      "name": "Ocean Park",
+      "lat": 22.2467,
+      "lng": 114.1758,
+      "note": "Marine-themed park on the south side with giant pandas, aquariums, a cliffside cable car and thrill rides; Ocean Park station on the MTR South Island Line is at the gate.",
+      "hours": "Typically 10:00 AM–6:00 PM or 7:00 PM; varies by day, check the calendar",
+      "rating": 4.2,
+      "ticketUrl": "https://www.oceanpark.com.hk/en",
+      "bookAhead": true
+    },
+    {
+      "name": "Nan Lian Garden",
+      "lat": 22.3399,
+      "lng": 114.2047,
+      "note": "Free Tang-dynasty-style landscaped garden with a golden pavilion, ponds and sculpted pines, right beside Chi Lin Nunnery near Diamond Hill MTR.",
+      "hours": "6:30 AM–7:00 PM daily",
+      "rating": 4.6
+    },
+    {
+      "name": "Ngong Ping 360",
+      "lat": 22.289,
+      "lng": 113.942,
+      "note": "A 5.7 km cable car from Tung Chung over the bay and Lantau's hills up to Ngong Ping and the Big Buddha; the crystal-floor cabins are popular.",
+      "hours": "Mon–Fri 10:00 AM–6:00 PM; Sat, Sun & holidays 9:00 AM–6:30 PM",
+      "rating": 4.2,
+      "ticketUrl": "https://www.np360.com.hk/en/",
+      "bookAhead": true
+    },
+    {
+      "name": "Dragon's Back",
+      "lat": 22.246,
+      "lng": 114.239,
+      "note": "An easy ridge hike above Shek O with sea views on both sides, ending at Big Wave Bay beach; start from the To Tei Wan bus stop on Shek O Road.",
+      "hours": "Open 24 h; go in daylight",
+      "rating": 4.6
+    },
+    {
+      "name": "Hong Kong Tramways (Ding Ding)",
+      "lat": 22.2826,
+      "lng": 114.1576,
+      "note": "Double-decker trams rattling along Hong Kong Island's north shore from Kennedy Town to Shau Kei Wan; sit upstairs at the front for street views.",
+      "hours": "About 5:30 AM–midnight daily",
+      "rating": 4.5,
+      "ticketUrl": "https://www.hktramways.com/en/"
+    },
+    {
+      "name": "Peak Tram",
+      "lat": 22.2777,
+      "lng": 114.1597,
+      "note": "Funicular climbing steeply from Garden Road in Central to the Peak since 1888; queues can be long in the afternoon, so go early.",
+      "hours": "7:30 AM–11:00 PM daily",
+      "rating": 4,
+      "ticketUrl": "https://www.thepeak.com.hk/en",
+      "bookAhead": true
+    },
+    {
+      "name": "Chi Lin Nunnery",
+      "lat": 22.3408,
+      "lng": 114.2051,
+      "note": "Tranquil Buddhist complex built entirely of timber without nails, with lotus ponds and bonsai courtyards; free to enter.",
+      "hours": "9:00 AM–5:00 PM daily",
+      "rating": 4.6
+    },
+    {
+      "name": "Hong Kong Museum of History",
+      "lat": 22.3014,
+      "lng": 114.1772,
+      "note": "Its permanent 'Hong Kong Story' exhibition, reopened in April 2026 after a five-year renovation, walks from prehistoric times to the present; free entry.",
+      "hours": "10:00 AM–6:00 PM (to 7:00 PM Sat, Sun & holidays), closed Tue",
+      "rating": 4.6,
+      "ticketUrl": "https://hk.history.museum/en/"
+    },
+    {
+      "name": "Temple Street Night Market",
+      "lat": 22.306,
+      "lng": 114.1698,
+      "note": "Evening street market in Jordan/Yau Ma Tei with stalls of trinkets, fortune tellers and open-air dai pai dong seafood and clay-pot rice.",
+      "hours": "About 6:00 PM–midnight daily",
+      "rating": 3.5
+    },
+    {
+      "name": "Tsim Sha Tsui Promenade",
+      "lat": 22.2934,
+      "lng": 114.1739,
+      "note": "Free waterfront walk with the Avenue of Stars and the best head-on view of the Hong Kong Island skyline; the Symphony of Lights show runs at 8 PM.",
+      "hours": "Open 24 h; Symphony of Lights 8:00 PM nightly",
+      "rating": 4.2
+    },
+    {
+      "name": "Lan Kwai Fong",
+      "lat": 22.281,
+      "lng": 114.1555,
+      "note": "Steep L-shaped lanes in Central packed with bars and clubs, where the crowd spills onto the street on weekend nights.",
+      "hours": "Bars from late afternoon until 2:00 AM or later",
+      "rating": 4.2
+    },
+    {
+      "name": "Happy Valley Racecourse",
+      "lat": 22.2725,
+      "lng": 114.183,
+      "note": "Floodlit horse racing ringed by skyscrapers; Wednesday race nights from September to July draw a lively crowd for a small entry fee.",
+      "hours": "Wednesday race nights about 6:45–11:00 PM (Sept–July); museum and grounds otherwise",
+      "rating": 4.6
+    },
+    {
+      "name": "Sik Sik Yuen Wong Tai Sin Temple",
+      "lat": 22.3425,
+      "lng": 114.1937,
+      "note": "Busy Taoist temple where worshippers shake fortune sticks under incense smoke, next to Wong Tai Sin MTR station.",
+      "hours": "7:30 AM–4:30 PM daily",
+      "rating": 4.1
+    }
+  ],
+  "railStations": [
+    {
+      "name": "Hong Kong West Kowloon Station",
+      "lat": 22.3037,
+      "lng": 114.1649,
+      "note": "High-speed rail to Shenzhen (~15–20 min), Guangzhou (~47 min), and on to Beijing, Shanghai and 80+ mainland cities. Immigration for both sides is in the station; arrive 45 min early. Walk to Austin (Tuen Ma Line) or Kowloon (Tung Chung Line, Airport Express).",
+      "hours": "Trains ~6:30 AM–11:00 PM."
+    }
+  ],
+  "airports": [
+    {
+      "name": "Hong Kong International Airport",
+      "code": "HKG",
+      "lat": 22.308,
+      "lng": 113.9185,
+      "transitNote": "Airport Express (shown on map) to Kowloon in 21 min and Hong Kong station (Central) in 24 min; free shuttle buses to many hotels from those two stations. Cheaper: bus S1 to Tung Chung, then the Tung Chung Line.",
+      "hours": "Airport Express: first ~5:54 AM, last ~12:48 AM. Late night: N-route airport buses or taxi."
+    }
+  ]
+}

@@ -34,7 +34,7 @@ HopNest puts all of it on one screen to answer one question well:
 - **TripAdvisor-vetted sightseeing.** Shown on the same map, with opening hours,
   ratings, official ticket links, and a flag for places that book up.
 - **First and last train times** for airport and intercity rail links.
-- **Real fare information** for all five cities.
+- **Real fare information** for every city.
 - **Search by name** across curated hotels, sights and stations. Live web
   search for uncurated places exists but is off until there's a backend
   (see [Limitations](#known-limitations)).

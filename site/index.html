@@ -34,7 +34,7 @@
 
   .city-picker{padding:14px 20px;border-bottom:1px solid var(--line);}
   .city-picker h2{font-size:11px;text-transform:uppercase;letter-spacing:.14em;color:var(--text-dim);margin:0 0 10px;font-weight:600;}
-  .city-grid{display:grid;grid-template-columns:1fr 1fr;gap:8px;}
+  .city-grid{display:grid;grid-template-columns:1fr 1fr;gap:8px;max-height:420px;overflow-y:auto;}
   .city-card{border:1px solid var(--line);border-radius:10px;padding:10px 12px;cursor:pointer;background:var(--panel-2);transition:.15s;position:relative;}
   .city-card:hover{border-color:var(--accent);}
   .city-card.active{border-color:var(--accent);background:var(--accent);}
@@ -43,6 +43,8 @@
   .city-card.soon:hover{border-color:var(--line);}
   .city-name{font-size:13px;font-weight:700;display:block;}
   .city-country{font-size:10.5px;color:var(--text-dim);}
+  .city-group-label{grid-column:1 / -1;font-size:10px;letter-spacing:.08em;text-transform:uppercase;color:var(--text-dim);margin:6px 0 -2px;}
+  .city-group-label:first-child{margin-top:0;}
   .city-tag{position:absolute;top:6px;right:8px;font-size:8.5px;color:var(--accent);letter-spacing:.06em;text-transform:uppercase;}
 
   .section{padding:15px 20px;border-bottom:1px solid var(--line);}
@@ -185,7 +187,7 @@
 
     <div class="city-picker">
       <h2>City</h2>
-      <input type="text" id="city-search-input" placeholder="🔍 Find a city…" style="width:100%;padding:8px 10px;border-radius:8px;border:1px solid var(--line);background:var(--panel-2);color:#eef1f3;font-size:12.5px;margin-bottom:8px;box-sizing:border-box;">
+      <input type="text" id="city-search-input" placeholder="🔍 City, country or airport code…" style="width:100%;padding:8px 10px;border-radius:8px;border:1px solid var(--line);background:var(--panel-2);color:#eef1f3;font-size:12.5px;margin-bottom:8px;box-sizing:border-box;">
       <div class="city-grid" id="city-grid"></div>
       <div style="display:flex;gap:6px;margin-top:8px;">
         <input type="text" id="city-request-input" placeholder="Don't see it? Type a city…" style="flex:1;padding:8px 10px;border-radius:8px;border:1px solid var(--line);background:var(--panel-2);color:#eef1f3;font-size:12.5px;">
@@ -318,6 +320,8 @@ async function loadAllCities(){
     // saved pins and old share links keep working).
     (city.hotels||[]).forEach((h,idx)=>{ if(!h._id) h._id = id+'_h'+idx; });
     (city.sights||[]).forEach((s,idx)=>{ if(!s._id) s._id = id+'_s'+idx; });
+    // Picker-only fields (region, aliases) live in cities.json.
+    city.region = meta.region; city.aliases = meta.aliases;
     CITIES[id] = city;
   }));
   // Keep cities.json order (Object insertion order drives nothing visible:
@@ -514,9 +518,18 @@ function restorePinsFromStorage(){
   } catch(e){ console.warn('Could not restore pins from localStorage:', e); }
 }
 
+const RECENT_CITIES_STORAGE_KEY = 'hopnest_recent_cities_v1';
 function saveLastCity(cityId){
-  try { localStorage.setItem(LAST_CITY_STORAGE_KEY, cityId); }
+  try {
+    localStorage.setItem(LAST_CITY_STORAGE_KEY, cityId);
+    const recent = [cityId, ...getRecentCities().filter(id=>id!==cityId)].slice(0, 4);
+    localStorage.setItem(RECENT_CITIES_STORAGE_KEY, JSON.stringify(recent));
+  }
   catch(e){ /* silent — non-critical */ }
+}
+function getRecentCities(){
+  try { return JSON.parse(localStorage.getItem(RECENT_CITIES_STORAGE_KEY)) || []; }
+  catch(e){ return []; }
 }
 function getLastCity(){
   try { return localStorage.getItem(LAST_CITY_STORAGE_KEY); }
@@ -1161,29 +1174,108 @@ function bindHotelCardClicks(list){
 }
 
 const cityGrid = document.getElementById('city-grid');
+const REGION_ORDER = ['Asia','Europe','Americas'];
+
+// Everything a person might type to find a city: its name, country, other
+// names (local script, nicknames, old names) and airport codes/names.
+function citySearchTerms(c){
+  const terms = [{t:c.name, kind:'name'}, {t:c.country, kind:'country'}];
+  (c.aliases||[]).forEach(a=>terms.push({t:a, kind:'alias'}));
+  (c.airports||[]).forEach(a=>{ if(a.code) terms.push({t:a.code, kind:'airport', label:a.name}); });
+  return terms.map(x=>({...x, n:normalizeSearchText(x.t)}));
+}
+
+// One-typo tolerance ("barcelone", "sinapore"), only for queries of 4+
+// letters so short prefixes don't match everything.
+function withinOneEdit(a, b){
+  if(Math.abs(a.length-b.length) > 1) return false;
+  let i=0, j=0, edits=0;
+  while(i<a.length && j<b.length){
+    if(a[i]===b[j]){ i++; j++; continue; }
+    if(++edits > 1) return false;
+    if(a.length>b.length) i++; else if(b.length>a.length) j++; else { i++; j++; }
+  }
+  return edits + (a.length-i) + (b.length-j) <= 1;
+}
+
+// Higher is better; 0 = no match. Returns the reason so the card can say
+// why it matched (e.g. "✈ CDG", "also: Bombay").
+function scoreCity(c, nq){
+  let best = {score:0};
+  for(const term of citySearchTerms(c)){
+    const n = term.n;
+    let score = 0;
+    if(n === nq) score = term.kind==='name' ? 100 : 85;
+    else if(n.startsWith(nq)) score = term.kind==='name' ? 90 : 70;
+    else if(n.split(/[\s-]+/).some(w=>w.startsWith(nq))) score = term.kind==='name' ? 80 : 60;
+    else if(nq.length>=3 && n.includes(nq)) score = 40;
+    else if(nq.length>=4 && term.kind!=='airport' && [0,1,-1].some(d=>withinOneEdit(nq, n.slice(0, nq.length+d)))) score = 30;
+    if(score > best.score) best = {score, term};
+  }
+  return best;
+}
+
+function makeCityCard(id, c, reason){
+  const card = document.createElement('div');
+  card.className = 'city-card' + (id===currentCityId?' active':'') + (c.comingSoon?' soon':'');
+  card.dataset.cityId = id;
+  card.innerHTML = `${c.comingSoon?'<span class="city-tag">soon</span>':''}
+    <span class="city-name">${c.flag} ${c.name}</span>
+    <span class="city-country">${reason || c.country}</span>`;
+  if(!c.comingSoon){
+    // Only toggles the active class; doesn't rebuild the cards inside
+    // their own click handler (rebuilding mid-click made the next tap
+    // misfire on some mobile browsers).
+    card.addEventListener('click', ()=>{ loadCity(id); updateActiveCityCard(); renderLineToggles(); });
+  }
+  return card;
+}
+
+function cityGroupLabel(text){
+  const el = document.createElement('div');
+  el.className = 'city-group-label';
+  el.textContent = text;
+  return el;
+}
+
 function renderCityPicker(){
+  const query = document.getElementById('city-search-input').value;
+  const nq = normalizeSearchText(query.trim());
   cityGrid.innerHTML = '';
-  const sortedEntries = Object.entries(CITIES).sort((a,b)=> a[1].name.localeCompare(b[1].name));
-  sortedEntries.forEach(([id,c])=>{
-    const card = document.createElement('div');
-    card.className = 'city-card' + (id===currentCityId?' active':'') + (c.comingSoon?' soon':'');
-    card.dataset.cityId = id;
-    card.dataset.searchText = normalizeSearchText(c.name+' '+c.country);
-    card.innerHTML = `${c.comingSoon?'<span class="city-tag">soon</span>':''}
-      <span class="city-name">${c.flag} ${c.name}</span>
-      <span class="city-country">${c.country}</span>`;
-    if(!c.comingSoon){
-      // Deliberately does NOT call renderCityPicker() again here — doing so
-      // used to destroy and rebuild every card (including this one) inside
-      // its own click handler, which on some mobile browsers can make the
-      // very next tap at that screen position silently misfire (a known
-      // class of bug: replacing an element mid-click-event). Updating the
-      // active class on the existing, stable cards avoids that entirely,
-      // and is simply less wasteful than rebuilding 6 elements + listeners
-      // on every single city switch.
-      card.addEventListener('click', ()=>{ loadCity(id); updateActiveCityCard(); renderLineToggles(); });
+  const entries = Object.entries(CITIES);
+  if(nq){
+    // Search: one ranked list, best match first (Enter opens it).
+    const hits = entries.map(([id,c])=>({id, c, ...scoreCity(c, nq)}))
+      .filter(h=>h.score>0)
+      .sort((a,b)=> (b.score-a.score) || (!!a.c.comingSoon - !!b.c.comingSoon) || a.c.name.localeCompare(b.c.name));
+    hits.forEach(h=>{
+      const t = h.term;
+      const reason = t.kind==='airport' ? `✈ ${t.t} · ${t.label}` : t.kind==='alias' ? `also: ${t.t}` : null;
+      cityGrid.appendChild(makeCityCard(h.id, h.c, reason));
+    });
+    if(!hits.length){
+      const empty = document.createElement('div');
+      empty.id = 'city-search-empty';
+      empty.className = 'empty-note';
+      empty.style.gridColumn = '1 / -1';
+      empty.textContent = `No city matches "${query}" yet. Add it below to request it.`;
+      cityGrid.appendChild(empty);
     }
-    cityGrid.appendChild(card);
+    return;
+  }
+  // No search: recently opened cities first, then every city by region.
+  const recent = getRecentCities().filter(id=>CITIES[id] && !CITIES[id].comingSoon);
+  if(recent.length >= 2){
+    cityGrid.appendChild(cityGroupLabel('Recent'));
+    recent.forEach(id=>cityGrid.appendChild(makeCityCard(id, CITIES[id])));
+  }
+  const regionOf = c => REGION_ORDER.includes(c.region) ? c.region : (c.comingSoon ? 'Requested' : 'Other');
+  const groups = [...REGION_ORDER, 'Other', 'Requested'];
+  groups.forEach(g=>{
+    const inGroup = entries.filter(([,c])=>regionOf(c)===g).sort((a,b)=> a[1].name.localeCompare(b[1].name));
+    if(!inGroup.length) return;
+    cityGrid.appendChild(cityGroupLabel(g));
+    inGroup.forEach(([id,c])=>cityGrid.appendChild(makeCityCard(id, c)));
   });
 }
 
@@ -1193,28 +1285,7 @@ function updateActiveCityCard(){
   });
 }
 
-function filterCityCards(query){
-  const nq = normalizeSearchText(query.trim());
-  let anyVisible = false;
-  cityGrid.querySelectorAll('.city-card').forEach(card=>{
-    const match = !nq || card.dataset.searchText.includes(nq);
-    card.style.display = match ? '' : 'none';
-    if(match) anyVisible = true;
-  });
-  let emptyMsg = document.getElementById('city-search-empty');
-  if(!anyVisible && nq){
-    if(!emptyMsg){
-      emptyMsg = document.createElement('div');
-      emptyMsg.id = 'city-search-empty';
-      emptyMsg.className = 'empty-note';
-      emptyMsg.style.gridColumn = '1 / -1';
-      cityGrid.appendChild(emptyMsg);
-    }
-    emptyMsg.textContent = `No city matches "${query}" yet.`;
-  } else if(emptyMsg){
-    emptyMsg.remove();
-  }
-}
+function filterCityCards(){ renderCityPicker(); }
 
 function renderLineToggles(){
   const data = CITIES[currentCityId];
@@ -1412,7 +1483,13 @@ searchClearEl.addEventListener('click', ()=>{ searchInput.value=''; clearSearchR
 document.getElementById('show-sights').addEventListener('change', e=>{ showSights=e.target.checked; render(); });
 document.getElementById('share-picks-btn').addEventListener('click', generateShareLink);
 document.getElementById('share-copy-btn').addEventListener('click', copyShareLink);
-document.getElementById('city-search-input').addEventListener('input', e=> filterCityCards(e.target.value));
+document.getElementById('city-search-input').addEventListener('input', ()=> filterCityCards());
+document.getElementById('city-search-input').addEventListener('keydown', e=>{
+  if(e.key==='Enter'){
+    const first = cityGrid.querySelector('.city-card:not(.soon)');
+    if(first){ first.click(); e.target.value=''; e.target.blur(); renderCityPicker(); }
+  } else if(e.key==='Escape'){ e.target.value=''; renderCityPicker(); }
+});
 document.getElementById('show-airports').addEventListener('change', e=>{ showAirports=e.target.checked; render(); });
 document.getElementById('show-rail').addEventListener('change', e=>{ showRailStations=e.target.checked; render(); });
 document.getElementById('clear-circles-btn').addEventListener('click', ()=>{

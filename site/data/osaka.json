@@ -1,0 +1,421 @@
+{
+  "name": "Osaka",
+  "country": "Japan",
+  "flag": "🇯🇵",
+  "center": [34.686,135.505],
+  "zoom": 12,
+  "operatingHours": "Osaka Metro runs ~5:00 AM–midnight; last trains leave central stations ~11:30 PM–12:10 AM. No all-night service.",
+  "fareInfo": "Osaka Metro fares are distance-based, ¥190–¥390 per ride (2026); tap an ICOCA, Suica or other IC card, or pay with a contactless credit card at many gates. The Enjoy Eco Card day pass is ¥820 on weekdays, ¥620 on weekends and holidays, metro and city buses only. JR, Nankai, Hankyu, Keihan and Kintetsu are separate railways with their own fares.",
+  "lines": [
+    {
+      "id": "lc",
+      "name": "Chuo Line",
+      "jp": "中央線",
+      "color": "#019A66",
+      "code": "C",
+      "stations": [
+        ["Yumeshima",34.6529,135.3906],
+        ["Cosmo Square",34.6427,135.4122],
+        ["Ōsakakō",34.654,135.4344],
+        ["Asashiobashi",34.6609,135.4488],
+        ["Bentencho",34.6684,135.4621],
+        ["Kujō",34.6753,135.4735],
+        ["Awaza",34.6814,135.4881],
+        ["Hommachi",34.682,135.4987],
+        ["Sakaisuji-Hommachi",34.6819,135.5069],
+        ["Tanimachi 4-chome",34.6815,135.5175],
+        ["Morinomiya",34.6815,135.532],
+        ["Midoribashi",34.6807,135.5457],
+        ["Fukaebashi",34.6791,135.5575],
+        ["Takaida",34.6784,135.5719],
+        ["Nagata",34.6788,135.5911]
+      ]
+    },
+    {
+      "id": "li",
+      "name": "Imazatosuji Line",
+      "jp": "今里筋線",
+      "color": "#EE7B1A",
+      "code": "I",
+      "stations": [
+        ["Imazato",34.6702,135.543],
+        ["Midoribashi",34.6814,135.5446],
+        ["Shigino",34.693,135.5461],
+        ["Gamo 4-chome",34.701,135.5463],
+        ["Sekime-Seiiku",34.7131,135.5464],
+        ["Shimmori-Furuichi",34.7153,135.5583],
+        ["Shimizu",34.7223,135.5608],
+        ["Taishibashi-Imaichi",34.7313,135.5562],
+        ["Daido-Toyosato",34.7439,135.5445],
+        ["Zuiko 4-chome",34.7522,135.5445],
+        ["Itakano",34.76,135.5472]
+      ]
+    },
+    {
+      "id": "lk",
+      "name": "Sakaisuji Line",
+      "jp": "堺筋線",
+      "color": "#814721",
+      "code": "K",
+      "stations": [
+        ["Tenjinbashisuji-rokuchome",34.7098,135.5109],
+        ["Ogimachi",34.7045,135.5109],
+        ["Minami-morimachi;Minami-Morimachi",34.6976,135.511],
+        ["Kitahama",34.6912,135.5066],
+        ["Sakaisuji-Hommachi",34.6826,135.5065],
+        ["Nagahoribashi",34.6749,135.5064],
+        ["Nippombashi",34.6667,135.5062],
+        ["Ebisucho",34.6556,135.5057],
+        ["Dobutsuen-mae",34.6487,135.5036],
+        ["Tengachaya",34.6377,135.4972]
+      ]
+    },
+    {
+      "id": "lm",
+      "name": "Midosuji Line",
+      "jp": "御堂筋線",
+      "color": "#E5171F",
+      "code": "M",
+      "stations": [
+        ["Esaka",34.7589,135.4972],
+        ["Higashi-Mikuni",34.7411,135.4986],
+        ["Shin-Osaka",34.7329,135.4986],
+        ["Nishinakajima-Minamigata",34.7266,135.4986],
+        ["Nakatsu",34.711,135.4969],
+        ["Umeda",34.7034,135.4976],
+        ["Yodoyabashi",34.6916,135.501],
+        ["Hommachi",34.6835,135.5007],
+        ["Shinsaibashi",34.6745,135.5004],
+        ["Namba",34.6662,135.5003],
+        ["Daikokucho",34.6562,135.498],
+        ["Dobutsuen-mae",34.6488,135.5046],
+        ["Tennoji",34.6461,135.5153],
+        ["Showacho",34.6331,135.517],
+        ["Nishi-Tanabe",34.6216,135.5152],
+        ["Nagai",34.609,135.5137],
+        ["Abiko",34.5991,135.5128],
+        ["Kita-Hanada",34.5823,135.5164],
+        ["Shin-Kanaoka",34.5685,135.5154],
+        ["Nakamozu",34.5563,135.5063]
+      ]
+    },
+    {
+      "id": "ln",
+      "name": "Nagahori Tsurumi-ryokuchi Line",
+      "jp": "長堀鶴見緑地線",
+      "color": "#A9CC51",
+      "code": "N",
+      "stations": [
+        ["Taisho",34.6655,135.4786],
+        ["Dome-mae Chiyozaki",34.6715,135.4795],
+        ["Nishi-Nagahori",34.6757,135.4869],
+        ["Nishiohashi",34.6755,135.4945],
+        ["Shinsaibashi",34.6754,135.4992],
+        ["Nagahoribashi",34.6753,135.5064],
+        ["Matsuyamachi",34.6754,135.5122],
+        ["Tanimachi 6-chome",34.676,135.5181],
+        ["Tamatsukuri",34.6746,135.5305],
+        ["Morinomiya",34.6822,135.5334],
+        ["Osaka Business Park",34.6924,135.5294],
+        ["Kyobashi",34.6976,135.5305],
+        ["Gamo 4-chome",34.7006,135.5485],
+        ["Imafuku-Tsurumi",34.702,135.5599],
+        ["Yokozutsumi",34.7037,135.5734],
+        ["Tsurumi-ryokuchi",34.711,135.5806],
+        ["Kadoma-Minami",34.7171,135.5931]
+      ]
+    },
+    {
+      "id": "ls",
+      "name": "Sennichimae Line",
+      "jp": "千日前線",
+      "color": "#E44D93",
+      "code": "S",
+      "stations": [
+        ["Nodahanshin",34.6944,135.4749],
+        ["Tamagawa",34.6896,135.4762],
+        ["Awaza",34.6816,135.4863],
+        ["Nishi-Nagahori",34.6739,135.487],
+        ["Sakuragawa",34.6683,135.4903],
+        ["Namba",34.6673,135.4997],
+        ["Nippombashi",34.6672,135.5064],
+        ["Tanimachi 9-chome",34.6666,135.517],
+        ["Tsuruhashi",34.666,135.5291],
+        ["Imazato",34.6687,135.544],
+        ["Shin-Fukae",34.6682,135.5543],
+        ["Shoji",34.6614,135.5563],
+        ["Kita-Tatsumi",34.6535,135.5551],
+        ["Minami-Tatsumi",34.6425,135.5531]
+      ]
+    },
+    {
+      "id": "lt",
+      "name": "Tanimachi Line",
+      "jp": "谷町線",
+      "color": "#522886",
+      "code": "T",
+      "stations": [
+        ["Dainichi",34.7498,135.5788],
+        ["Moriguchi",34.7384,135.5644],
+        ["Taishibashi-Imaichi",34.7312,135.5547],
+        ["Sembayashi-Omiya",34.7242,135.5493],
+        ["Sekime-Takadono",34.7153,135.5458],
+        ["Noe-Uchindai",34.7094,135.5386],
+        ["Miyakojima",34.7089,135.5259],
+        ["Tenjinbashisuji 6-chome",34.7106,135.5118],
+        ["Nakazakicho",34.7072,135.5056],
+        ["Higashi-Umeda",34.7006,135.4998],
+        ["Minami-Morimachi",34.6976,135.5112],
+        ["Temmabashi",34.6897,135.5173],
+        ["Tanimachi 4-chome",34.6824,135.5173],
+        ["Tanimachi 6-chome",34.6751,135.5171],
+        ["Tanimachi 9-chome",34.6671,135.5159],
+        ["Shitannoji-mae Yuhigaoka",34.6588,135.5143],
+        ["Tennoji",34.6494,135.5136],
+        ["Abeno",34.6425,135.512],
+        ["Fuminosato",34.6362,135.518],
+        ["Tanabe",34.6288,135.525],
+        ["Komagawa-Nakano",34.6217,135.5325],
+        ["Hirano",34.6213,135.5486],
+        ["Kire-Uriwari",34.6092,135.5514],
+        ["Deto",34.6091,135.5652],
+        ["Nagahara",34.6029,135.5737],
+        ["Yao-Minami",34.5974,135.5825]
+      ]
+    },
+    {
+      "id": "ly",
+      "name": "Yotsubashi Line",
+      "jp": "四つ橋線",
+      "color": "#0078BE",
+      "code": "Y",
+      "stations": [
+        ["Suminoekoen",34.6087,135.4731],
+        ["Kitakagaya",34.6213,135.4794],
+        ["Tamade",34.6238,135.4904],
+        ["Kishinosato",34.6344,135.4938],
+        ["Hanazonocho",34.6443,135.4965],
+        ["Daikokucho",34.6562,135.4978],
+        ["Namba",34.6663,135.4976],
+        ["Yotsubashi",34.674,135.4967],
+        ["Hommachi",34.6828,135.4969],
+        ["Higobashi",34.6915,135.4963],
+        ["Nishi-Umeda",34.6995,135.4956]
+      ]
+    }
+  ],
+  "hotels": [
+    {"name":"Courtyard by Marriott Shin-Osaka Station","lat":34.7343,"lng":135.4992,"area":"Shin-Osaka","rating":4.3,"ratingCount":948,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Remm Shin Osaka","lat":34.7338,"lng":135.4998,"area":"Shin-Osaka","rating":4.2,"ratingCount":925,"stars":3,"priceTier":3},
+    {"name":"Super Hotel JR Shin-Osaka Higashiguchi","lat":34.7325,"lng":135.504,"area":"Shin-Osaka","rating":4,"ratingCount":122,"stars":2,"priceTier":2},
+    {"name":"Hilton Osaka","lat":34.6999,"lng":135.496,"area":"Osaka Station","rating":4.2,"ratingCount":3051,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"InterContinental Osaka","lat":34.7065,"lng":135.4946,"area":"Osaka Station","rating":4.7,"ratingCount":2433,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"The Ritz-Carlton, Osaka","lat":34.6984,"lng":135.4926,"area":"Osaka Station","rating":4.5,"ratingCount":2890,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"ibis Osaka Umeda","lat":34.7023,"lng":135.5011,"area":"Osaka Station","rating":4.2,"ratingCount":238,"stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Via Inn Umeda","lat":34.7025,"lng":135.5014,"area":"Osaka Station","rating":4,"ratingCount":118,"stars":2,"priceTier":2},
+    {"name":"Swissôtel Nankai Osaka","lat":34.6642,"lng":135.5013,"area":"Namba","rating":4.4,"ratingCount":4824,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Holiday Inn Osaka Namba","lat":34.6698,"lng":135.5036,"area":"Namba","rating":4,"ratingCount":1123,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Cross Hotel Osaka","lat":34.6697,"lng":135.5008,"area":"Namba","rating":4.4,"ratingCount":2020,"stars":4,"priceTier":3},
+    {"name":"Dotonbori Hotel","lat":34.6684,"lng":135.4987,"area":"Namba","rating":4.4,"ratingCount":847,"stars":3,"priceTier":2},
+    {"name":"Cafe & Hostel Kimi to Ichigo","lat":34.6665,"lng":135.5037,"area":"Namba","rating":4.3,"ratingCount":108,"stars":1,"priceTier":1},
+    {"name":"Osaka Marriott Miyako Hotel","lat":34.6461,"lng":135.5132,"area":"Tennoji","rating":4.6,"ratingCount":2290,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Hotel Trusty Osaka Abeno","lat":34.6461,"lng":135.5122,"area":"Tennoji","rating":4,"ratingCount":345,"stars":3,"priceTier":3},
+    {"name":"Miyako City Osaka Tennoji","lat":34.6456,"lng":135.5157,"area":"Tennoji","rating":4,"ratingCount":531,"stars":3,"priceTier":3},
+    {"name":"Via Inn Abeno Tennoji","lat":34.6472,"lng":135.5117,"area":"Tennoji","rating":4.2,"ratingCount":134,"stars":2,"priceTier":2},
+    {"name":"Hotel Nikko Kansai Airport","lat":34.437,"lng":135.2432,"area":"Kansai International Airport","rating":4.3,"ratingCount":3295,"stars":4,"priceTier":3},
+    {"name":"First Cabin Kansai Airport","lat":34.4373,"lng":135.2435,"area":"Kansai International Airport","rating":4.1,"ratingCount":143,"stars":1,"priceTier":1},
+    {"name":"Osaka Airterminal Hotel","lat":34.7853,"lng":135.4388,"area":"Osaka Itami Airport","rating":4.1,"ratingCount":288,"stars":3,"priceTier":2},
+    {"name":"W Osaka","lat":34.6779,"lng":135.4999,"area":"Shinsaibashi","rating":4.8,"ratingCount":812,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Hotel Nikko Osaka","lat":34.6739,"lng":135.4998,"area":"Shinsaibashi","rating":4.1,"ratingCount":2683,"stars":4,"priceTier":3},
+    {"name":"Hotel The Flag Shinsaibashi","lat":34.6742,"lng":135.503,"area":"Shinsaibashi","rating":4.7,"ratingCount":545,"stars":3,"priceTier":3},
+    {"name":"The Bridge Hotel Shinsaibashi","lat":34.6738,"lng":135.4982,"area":"Shinsaibashi","rating":4.6,"ratingCount":350,"stars":3,"priceTier":3},
+    {"name":"Osaka Hana Hostel","lat":34.6732,"lng":135.4983,"area":"Shinsaibashi","rating":4.7,"ratingCount":305,"stars":1,"priceTier":1}
+  ],
+  "sights": [
+    {
+      "name": "Universal Studios Japan",
+      "lat": 34.6654,
+      "lng": 135.4323,
+      "note": "Osaka's big theme park, home to Super Nintendo World and the Wizarding World of Harry Potter. Not on the metro: take the JR Yumesaki Line to Universal City.",
+      "hours": "Hours vary by day, typically 9:00 AM–7:00/9:00 PM; check the park calendar",
+      "rating": 4.1,
+      "ticketUrl": "https://www.usj.co.jp/web/en/us",
+      "bookAhead": true
+    },
+    {
+      "name": "Dotonbori",
+      "lat": 34.6687,
+      "lng": 135.5013,
+      "note": "A canal-side street of giant neon signs and street-food stalls, best after dark from Ebisu Bridge by the Glico runner sign.",
+      "hours": "Open 24 hours; most food stalls ~11:00 AM–11:00 PM",
+      "rating": 4.3
+    },
+    {
+      "name": "Osaka Aquarium Kaiyukan",
+      "lat": 34.6545,
+      "lng": 135.4289,
+      "note": "One of the world's largest aquariums, with whale sharks circling a central tank nine floors deep.",
+      "hours": "10:00 AM–8:00 PM daily (last entry 7:00 PM; hours vary by season)",
+      "rating": 4.2,
+      "ticketUrl": "https://www.kaiyukan.com/language/eng/",
+      "bookAhead": true
+    },
+    {
+      "name": "Osaka Castle",
+      "lat": 34.6873,
+      "lng": 135.5259,
+      "note": "A rebuilt 16th-century castle keep housing a museum of Toyotomi Hideyoshi's era, with a rooftop lookout over the moats and park.",
+      "hours": "9:00 AM–5:00 PM daily (last entry 4:30 PM)",
+      "rating": 4.1,
+      "ticketUrl": "https://www.osakacastle.net/english/"
+    },
+    {
+      "name": "Kuromon Market",
+      "lat": 34.6655,
+      "lng": 135.5066,
+      "note": "A covered market lane of seafood, wagyu skewers and fruit stalls where you can eat as you walk.",
+      "hours": "~9:00 AM–6:00 PM; many stalls close early, some shut on Sundays",
+      "rating": 4.1
+    },
+    {
+      "name": "Umeda Sky Building",
+      "lat": 34.7053,
+      "lng": 135.4907,
+      "note": "Twin towers joined at the top by the open-air Floating Garden Observatory, a favorite spot for sunset over the city.",
+      "hours": "Observatory 9:30 AM–10:30 PM daily (last entry 10:00 PM)",
+      "rating": 4.2,
+      "ticketUrl": "https://www.skybldg.co.jp/en/"
+    },
+    {
+      "name": "Sumiyoshi Taisha",
+      "lat": 34.6126,
+      "lng": 135.493,
+      "note": "One of Japan's oldest Shinto shrines, known for its arched Sorihashi bridge and distinctive straight-roofed halls.",
+      "hours": "6:00 AM–5:00 PM (opens 6:30 AM Oct–Mar); grounds free",
+      "rating": 4.3
+    },
+    {
+      "name": "Osaka Museum of Housing and Living",
+      "lat": 34.711,
+      "lng": 135.5113,
+      "note": "A full-size indoor reconstruction of an 1830s Osaka street that you can walk through, with kimono rental for photos.",
+      "hours": "10:00 AM–5:00 PM, closed Tue",
+      "rating": 4.1
+    },
+    {
+      "name": "Shinsekai & Tsutenkaku",
+      "lat": 34.6525,
+      "lng": 135.5063,
+      "note": "A retro, slightly gritty district of kushikatsu joints and arcades beneath the Tsutenkaku tower.",
+      "hours": "Streets 24 hours; Tsutenkaku tower 10:00 AM–8:00 PM",
+      "rating": 3.9
+    },
+    {
+      "name": "Tempozan Ferris Wheel",
+      "lat": 34.6563,
+      "lng": 135.4313,
+      "note": "A 112 m Ferris wheel beside Kaiyukan with bay and bridge views; some gondolas have glass floors.",
+      "hours": "10:00 AM–9:00 PM daily",
+      "rating": 4.2
+    },
+    {
+      "name": "Shitennoji",
+      "lat": 34.6537,
+      "lng": 135.5164,
+      "note": "Founded in 593, it is among Japan's oldest Buddhist temples, with a five-story pagoda and a free outer precinct.",
+      "hours": "8:30 AM–4:30 PM (to 4:00 PM Oct–Mar)",
+      "rating": 4
+    },
+    {
+      "name": "Harukas 300 Observation Deck",
+      "lat": 34.6459,
+      "lng": 135.5137,
+      "note": "The glass-walled top floors of Abeno Harukas, one of Japan's tallest buildings, with 360° views over the Osaka plain.",
+      "hours": "9:00 AM–10:00 PM daily (last entry 9:30 PM)",
+      "rating": 4.3,
+      "ticketUrl": "https://www.abenoharukas-300.jp/en/"
+    },
+    {
+      "name": "Namba Yasaka Shrine",
+      "lat": 34.6614,
+      "lng": 135.4972,
+      "note": "A small shrine whose stage is a huge lion's head with gaping jaws, said to swallow bad luck.",
+      "hours": "6:00 AM–5:00 PM daily; free",
+      "rating": 4.1
+    },
+    {
+      "name": "Hozenji Yokocho",
+      "lat": 34.6681,
+      "lng": 135.503,
+      "note": "A lantern-lit stone alley of tiny restaurants around a moss-covered Fudo statue that visitors splash with water.",
+      "hours": "Alley open 24 hours; eateries mostly evenings",
+      "rating": 4.1
+    },
+    {
+      "name": "Osaka Museum of History",
+      "lat": 34.6823,
+      "lng": 135.5209,
+      "note": "A tower museum tracing Osaka from its 7th-century palace onward, with windows looking straight down on the Naniwa Palace ruins and the castle.",
+      "hours": "9:30 AM–5:00 PM, closed Tue",
+      "rating": 4.1,
+      "ticketUrl": "https://www.osakamushis.jp/english/"
+    },
+    {
+      "name": "Kids Plaza Osaka",
+      "lat": 34.7069,
+      "lng": 135.5113,
+      "note": "A hands-on children's museum with a multi-story play town, science exhibits and craft corners.",
+      "hours": "9:30 AM–5:00 PM, closed Mon",
+      "rating": 4.3
+    },
+    {
+      "name": "Nakanoshima Park",
+      "lat": 34.6925,
+      "lng": 135.5083,
+      "note": "A free riverside park on an island between two rivers, with a rose garden in front of the old red-brick Central Public Hall.",
+      "hours": "Open 24 hours; free"
+    }
+  ],
+  "railStations": [
+    {
+      "name": "Shin-Osaka",
+      "lat": 34.7335,
+      "lng": 135.5002,
+      "note": "Tokaido and Sanyo Shinkansen: Tokyo ~2h 27m, Kyoto ~13 min, Hiroshima ~1h 25m, Hakata ~2h 30m. JR Haruka to Kansai Airport. Midosuji Line (shown).",
+      "hours": "Shinkansen first ~6:00 AM, last ~11:00 PM."
+    },
+    {
+      "name": "Osaka Station",
+      "lat": 34.7022,
+      "lng": 135.4956,
+      "note": "JR hub at Umeda: JR Kyoto and Kobe lines, Osaka Loop Line, Kansai Airport Rapid. Hankyu and Hanshin Umeda next door; Umeda station on the Midosuji Line.",
+      "hours": "JR trains ~5:00 AM–12:30 AM."
+    },
+    {
+      "name": "Namba",
+      "lat": 34.6664,
+      "lng": 135.501,
+      "note": "Nankai Namba for the rapi:t to Kansai Airport (~38 min) and Mount Koya; Kintetsu/Hanshin Osaka-Namba for Nara and Kobe; JR Namba nearby.",
+      "hours": "Nankai first ~5:00 AM, last ~12:20 AM."
+    },
+    {"name":"Tennoji","lat":34.6467,"lng":135.514,"note":"JR Haruka to Kansai Airport, JR to Nara and Wakayama; Kintetsu Osaka-Abenobashi to Yoshino and Asuka.","hours":"JR trains ~5:00 AM–12:30 AM."}
+  ],
+  "airports": [
+    {
+      "name": "Kansai International Airport",
+      "code": "KIX",
+      "lat": 34.4347,
+      "lng": 135.2441,
+      "transitNote": "Not on the metro map. Nankai rapi:t to Namba ~38 min; JR Haruka to Tennoji ~35 min and Shin-Osaka ~50 min (for Kyoto, stay on to ~75 min). Limousine buses to Umeda ~60 min.",
+      "hours": "Nankai: first ~5:45 AM, last ~11:55 PM toward Namba. JR Haruka ~6:30 AM–10:30 PM. Late night: limited buses only."
+    },
+    {
+      "name": "Osaka Itami Airport",
+      "code": "ITM",
+      "lat": 34.7855,
+      "lng": 135.4382,
+      "transitNote": "Domestic flights only. Not on the metro map: Osaka Monorail to Senri-Chuo, then the Midosuji Line; or limousine bus to Osaka Station/Umeda ~25–30 min.",
+      "hours": "Monorail ~6:00 AM–midnight; airport buses ~6:00 AM–9:30 PM."
+    }
+  ]
+}
