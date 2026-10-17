@@ -1,0 +1,308 @@
+{
+  "name": "Miami",
+  "country": "USA",
+  "flag": "🇺🇸",
+  "center": [25.775,-80.195],
+  "zoom": 12,
+  "operatingHours": "Metrorail (Green and Orange Lines) runs ~5:00 AM–~12:00 AM daily, every ~10 min at peak and 15–30 min evenings and weekends. The free Metromover loops around Downtown and Brickell ~5:00 AM–~12:00 AM. No rail reaches Miami Beach: take Metrobus routes 119/120 (Beach Max) or the free Miami Beach Trolley.",
+  "fareInfo": "Tap a contactless card or phone at the Metrorail gates or bus farebox (or use an EASY Card or the GO Miami-Dade Transit app); fares are capped at $5.65 a day. Metrorail ~$2.65 and Metrobus $2.25 per ride under the Feb 2026 fare guide; 1-day pass $5.65, 7-day $29.25. Metromover and the city and Miami Beach trolleys are free. No cash at Metrorail gates.",
+  "lines": [
+    {
+      "id": "l1",
+      "name": "Metromover Omni Loop",
+      "color": "#005CAB",
+      "code": "1",
+      "stations": [
+        ["School Board",25.7893,-80.193],
+        ["Adrienne Arsht Center",25.7894,-80.1879],
+        ["Museum Park",25.7859,-80.1881],
+        ["Eleventh Street",25.7848,-80.1908],
+        ["Park West",25.7824,-80.1907],
+        ["Freedom Tower",25.7804,-80.1906],
+        ["College North",25.779,-80.1922],
+        ["Wilkie D. Ferguson, Jr.",25.7789,-80.1954],
+        ["Government Center",25.7761,-80.1961],
+        ["Third Street",25.772,-80.1934],
+        ["Knight Center",25.7718,-80.1913],
+        ["Bayfront Park",25.7732,-80.1873],
+        ["First Street",25.7758,-80.1898],
+        ["College Bayside",25.7777,-80.1899],
+        ["Freedom Tower",25.7806,-80.1905],
+        ["Park West",25.7826,-80.1906],
+        ["Eleventh Street",25.7849,-80.1908],
+        ["Museum Park",25.7859,-80.1878],
+        ["Adrienne Arsht Center",25.7895,-80.1881],
+        ["School Board",25.7894,-80.1932]
+      ]
+    },
+    {
+      "id": "l2",
+      "name": "Metromover Inner Loop",
+      "color": "#13B6EA",
+      "code": "2",
+      "stations": [
+        ["Government Center",25.7761,-80.1961],
+        ["Wilkie D. Ferguson, Jr.",25.7788,-80.1952],
+        ["College North",25.7789,-80.192],
+        ["College Bayside",25.7775,-80.19],
+        ["First Street",25.7756,-80.1899],
+        ["Bayfront Park",25.773,-80.1874],
+        ["Knight Center",25.7719,-80.1916],
+        ["Miami Avenue",25.7734,-80.1936],
+        ["Government Center",25.7761,-80.1961]
+      ]
+    },
+    {
+      "id": "l3",
+      "name": "Metromover Brickell Loop",
+      "color": "#FDB924",
+      "code": "3",
+      "stations": [
+        ["Financial District",25.7604,-80.1928],
+        ["Brickell",25.7628,-80.1952],
+        ["Tenth Street Promenade",25.7641,-80.1925],
+        ["Brickell City Centre",25.767,-80.1921],
+        ["Fifth Street",25.7693,-80.1922],
+        ["Riverwalk",25.7711,-80.1925],
+        ["Knight Center",25.7718,-80.1913],
+        ["Bayfront Park",25.7732,-80.1873],
+        ["First Street",25.7758,-80.1898],
+        ["College Bayside",25.7777,-80.1899],
+        ["College North",25.779,-80.1922],
+        ["Wilkie D. Ferguson, Jr.",25.7789,-80.1954],
+        ["Government Center",25.7761,-80.1961],
+        ["Third Street",25.772,-80.1934],
+        ["Riverwalk",25.771,-80.1926],
+        ["Fifth Street",25.7691,-80.1923],
+        ["Brickell City Centre",25.7668,-80.1922],
+        ["Tenth Street Promenade",25.764,-80.1926],
+        ["Brickell",25.7626,-80.1953],
+        ["Financial District",25.7604,-80.1928]
+      ]
+    },
+    {
+      "id": "lgreen",
+      "name": "Metrorail Green Line",
+      "color": "#62BB46",
+      "code": "Green",
+      "stations": [
+        ["Palmetto",25.8433,-80.3242],
+        ["Okeechobee",25.8398,-80.3011],
+        ["Hialeah",25.8411,-80.2785],
+        ["Tri-Rail",25.8455,-80.2592],
+        ["Northside",25.8458,-80.2484],
+        ["Dr. Martin Luther King, Jr.",25.832,-80.2412],
+        ["Brownsville",25.8217,-80.2407],
+        ["Earlington Heights",25.8124,-80.2294],
+        ["Allapattah",25.8082,-80.2155],
+        ["Santa Clara",25.7954,-80.2152],
+        ["UHealth | Jackson",25.7893,-80.215],
+        ["Culmer",25.7846,-80.2072],
+        ["Historic Overtown/Lyric Theatre",25.7805,-80.1963],
+        ["Government Center",25.7754,-80.1961],
+        ["Brickell",25.7634,-80.1955],
+        ["Vizcaya",25.7496,-80.2123],
+        ["Coconut Grove",25.7397,-80.2394],
+        ["Douglas Road",25.7325,-80.2553],
+        ["University",25.7146,-80.2774],
+        ["South Miami",25.7048,-80.2894],
+        ["Dadeland North",25.6917,-80.3055],
+        ["Dadeland South",25.6848,-80.314]
+      ]
+    },
+    {"id":"lmia_mover","name":"MIA Mover (airport ↔ Miami Intermodal Center)","color":"#5B6770","code":"MIA","stations":[["Miami Intermodal Center",25.7971,-80.2592],["MIA Station",25.7952,-80.2774]]},
+    {
+      "id": "lorange",
+      "name": "Metrorail Orange Line",
+      "color": "#F78F1E",
+      "code": "Orange",
+      "stations": [
+        ["Dadeland South",25.6853,-80.3133],
+        ["Dadeland North",25.6924,-80.3045],
+        ["South Miami",25.7054,-80.2886],
+        ["University",25.7151,-80.2765],
+        ["Douglas Road",25.7331,-80.2544],
+        ["Coconut Grove",25.7399,-80.2384],
+        ["Vizcaya",25.7498,-80.2113],
+        ["Brickell",25.7642,-80.1954],
+        ["Government Center",25.7767,-80.1961],
+        ["Historic Overtown/Lyric Theatre",25.7814,-80.1962],
+        ["Culmer",25.7845,-80.2081],
+        ["UHealth | Jackson",25.7901,-80.215],
+        ["Santa Clara",25.7962,-80.2152],
+        ["Allapattah",25.8092,-80.2154],
+        ["Earlington Heights",25.8125,-80.2306],
+        ["Miami International Airport",25.7976,-80.2587]
+      ]
+    }
+  ],
+  "hotels": [
+    {"name":"citizenM Miami Worldcenter","lat":25.7815,"lng":-80.1908,"area":"MiamiCentral","rating":4.1,"ratingCount":489,"stars":3,"priceTier":2},
+    {"name":"InterContinental Miami","lat":25.7724,"lng":-80.1855,"area":"Downtown","rating":4.5,"ratingCount":9955,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Kimpton EPIC Hotel","lat":25.7706,"lng":-80.1891,"area":"Downtown","rating":4.4,"ratingCount":5246,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"JW Marriott Marquis Miami","lat":25.7713,"lng":-80.1892,"area":"Downtown","rating":4.4,"ratingCount":2408,"stars":4,"priceTier":4,"brandAnchor":true},
+    {"name":"The Elser Hotel Miami","lat":25.7787,"lng":-80.1892,"area":"Downtown","rating":4.6,"ratingCount":1635,"stars":4,"priceTier":3},
+    {"name":"Hampton Inn & Suites by Hilton Miami Brickell Downtown","lat":25.7622,"lng":-80.1942,"area":"Brickell","rating":4.7,"ratingCount":5274,"stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Novotel Miami Brickell","lat":25.7599,"lng":-80.1971,"area":"Brickell","rating":4.5,"ratingCount":3814,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hyatt Centric Brickell Miami","lat":25.7629,"lng":-80.1905,"area":"Brickell","rating":4.1,"ratingCount":1010,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Brickell Arch, a Luxury Collection Hotel, Miami","lat":25.7604,"lng":-80.1913,"area":"Brickell","rating":4.4,"ratingCount":4299,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Four Seasons Hotel Miami","lat":25.759,"lng":-80.192,"area":"Brickell","rating":4.6,"ratingCount":2438,"stars":5,"priceTier":4},
+    {"name":"Dream South Beach, by Hyatt","lat":25.7822,"lng":-80.131,"area":"South Beach","rating":4.3,"ratingCount":3946,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Moxy Miami South Beach","lat":25.7798,"lng":-80.1327,"area":"South Beach","rating":4.4,"ratingCount":943,"stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Hotel Victor South Beach","lat":25.7823,"lng":-80.1305,"area":"South Beach","rating":4.4,"ratingCount":2755,"stars":4,"priceTier":4},
+    {"name":"The Marlin Hotel","lat":25.783,"lng":-80.1315,"area":"South Beach","rating":4.5,"ratingCount":997,"stars":4,"priceTier":3},
+    {"name":"The Kent Hotel","lat":25.7824,"lng":-80.131,"area":"South Beach","rating":4.2,"ratingCount":2332,"stars":3,"priceTier":2},
+    {"name":"Hotel Arya, BW Premier Collection","lat":25.7272,"lng":-80.2407,"area":"Coconut Grove","rating":4,"ratingCount":1792,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"The Ritz-Carlton Coconut Grove, Miami","lat":25.7303,"lng":-80.2382,"area":"Coconut Grove","rating":4.2,"ratingCount":1020,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Mayfair House Hotel & Garden","lat":25.7286,"lng":-80.241,"area":"Coconut Grove","rating":4.6,"ratingCount":748,"stars":5,"priceTier":4},
+    {"name":"Mr. C Miami - Coconut Grove","lat":25.7273,"lng":-80.2422,"area":"Coconut Grove","rating":4.4,"ratingCount":631,"stars":4,"priceTier":3},
+    {"name":"The Mutiny Hotel","lat":25.7273,"lng":-80.2399,"area":"Coconut Grove","rating":4.2,"ratingCount":1107,"stars":4,"priceTier":3}
+  ],
+  "sights": [
+    {
+      "name": "Wynwood Walls",
+      "lat": 25.801,
+      "lng": -80.1994,
+      "note": "An outdoor gallery of huge murals by international street artists, set among converted warehouses in the heart of Wynwood's galleries and breweries.",
+      "hours": "~11:00 AM–7:00 PM daily (to ~8:00 PM Fri–Sat); timed tickets",
+      "rating": 4.6,
+      "ticketUrl": "https://thewynwoodwalls.com",
+      "bookAhead": true
+    },
+    {
+      "name": "Vizcaya Museum and Gardens",
+      "lat": 25.7443,
+      "lng": -80.2105,
+      "note": "A 1916 Italian Renaissance-style winter villa on Biscayne Bay, with furnished rooms, formal gardens and a stone barge in the water.",
+      "hours": "Wed–Mon 9:30 AM–4:30 PM; closed Tue",
+      "rating": 4.6,
+      "ticketUrl": "https://vizcaya.org",
+      "bookAhead": true
+    },
+    {
+      "name": "Little Havana (Calle Ocho)",
+      "lat": 25.7655,
+      "lng": -80.2194,
+      "note": "The heart of Cuban Miami along SW 8th Street, with Domino Park, cigar rollers, cafecito windows and live salsa at night.",
+      "hours": "Neighbourhood, always open; Domino Park ~9:00 AM–6:00 PM",
+      "rating": 3.9
+    },
+    {
+      "name": "Miami Design District",
+      "lat": 25.813,
+      "lng": -80.193,
+      "note": "A few blocks of designer flagships, public art and architecture, including the Buckminster Fuller dome and the free Institute of Contemporary Art.",
+      "hours": "Streets always open; shops ~11:00 AM–7:00 PM",
+      "rating": 4.3
+    },
+    {
+      "name": "Bayfront Park",
+      "lat": 25.7752,
+      "lng": -80.1862,
+      "note": "A downtown waterfront park on Biscayne Bay with Isamu Noguchi landscaping, a concert amphitheatre and views of the cruise port.",
+      "hours": "Daily ~6:00 AM–11:00 PM",
+      "rating": 4.2
+    },
+    {
+      "name": "Coconut Grove",
+      "lat": 25.728,
+      "lng": -80.2425,
+      "note": "Miami's oldest neighbourhood, a leafy bayside village of sidewalk cafes, marinas and the CocoWalk plaza.",
+      "hours": "Neighbourhood, always open",
+      "rating": 4.2
+    },
+    {
+      "name": "Phillip and Patricia Frost Museum of Science",
+      "lat": 25.7853,
+      "lng": -80.1899,
+      "note": "A science museum in Museum Park with a three-level aquarium, a planetarium and hands-on exhibits.",
+      "hours": "~10:00 AM–6:00 PM daily",
+      "rating": 4,
+      "ticketUrl": "https://www.frostscience.org"
+    },
+    {
+      "name": "Pérez Art Museum Miami (PAMM)",
+      "lat": 25.7859,
+      "lng": -80.1868,
+      "note": "Modern and contemporary art in a Herzog & de Meuron building with hanging gardens and a shaded bayfront terrace.",
+      "hours": "Thu–Mon 11:00 AM–6:00 PM (Thu to 9:00 PM); closed Tue–Wed",
+      "rating": 4.2,
+      "ticketUrl": "https://www.pamm.org"
+    },
+    {
+      "name": "Ocean Drive and the Art Deco Historic District",
+      "lat": 25.78,
+      "lng": -80.131,
+      "note": "South Beach's oceanfront strip of pastel 1930s Art Deco hotels, neon signs and sidewalk cafes, busiest after dark.",
+      "hours": "Street, always open",
+      "rating": 4.3
+    },
+    {
+      "name": "Lummus Park Beach",
+      "lat": 25.779,
+      "lng": -80.13,
+      "note": "The classic stretch of South Beach sand in front of Ocean Drive, with the colourful lifeguard towers and a beachfront path.",
+      "hours": "Beach open daily; lifeguards ~9:00 AM–6:00 PM",
+      "rating": 4.6
+    },
+    {
+      "name": "South Pointe Park",
+      "lat": 25.768,
+      "lng": -80.134,
+      "note": "A grassy park and pier at the southern tip of Miami Beach, where cruise ships pass through Government Cut at sunset.",
+      "hours": "Daily sunrise–10:00 PM",
+      "rating": 4.7
+    },
+    {
+      "name": "Lincoln Road",
+      "lat": 25.7906,
+      "lng": -80.1395,
+      "note": "A pedestrian mall designed by Morris Lapidus, lined with shops, outdoor restaurants and the New World Symphony's concert hall.",
+      "hours": "Street always open; shops ~10:00 AM–10:00 PM",
+      "rating": 4.4
+    },
+    {
+      "name": "Española Way",
+      "lat": 25.7866,
+      "lng": -80.1325,
+      "note": "A short Mediterranean Revival lane of 1920s arcades and outdoor restaurants just off Washington Avenue.",
+      "hours": "Restaurants ~11:00 AM–12:00 AM",
+      "rating": 4.3
+    },
+    {
+      "name": "Holocaust Memorial Miami Beach",
+      "lat": 25.796,
+      "lng": -80.1366,
+      "note": "A free open-air memorial centred on a vast bronze arm reaching skyward, with a reflecting pool and a wall of names.",
+      "hours": "Daily 9:30 AM–sunset; free",
+      "rating": 4.6
+    },
+    {
+      "name": "Miami Beach Boardwalk",
+      "lat": 25.81,
+      "lng": -80.1225,
+      "note": "A boardwalk running behind the dunes from 21st Street north for about 3 km, good for an ocean-side walk or jog away from the crowds.",
+      "hours": "Open 24 hours",
+      "rating": 4.6
+    }
+  ],
+  "railStations": [
+    {
+      "name": "MiamiCentral",
+      "lat": 25.7782,
+      "lng": -80.1955,
+      "note": "Downtown hub for Brightline trains to Fort Lauderdale, West Palm Beach and Orlando (~3h30m), and for Tri-Rail commuter trains; Metrorail's Government Center and Historic Overtown stations and the Metromover are connected. Amtrak's Silver Meteor uses Miami Airport Station instead.",
+      "hours": "Station ~5:00 AM–~12:00 AM; Brightline ~5:00 AM–~11:00 PM to its timetable. Metrorail ~5:00 AM–~12:00 AM."
+    }
+  ],
+  "airports": [
+    {
+      "name": "Miami International Airport",
+      "code": "MIA",
+      "lat": 25.7959,
+      "lng": -80.2871,
+      "transitNote": "The free MIA Mover train from the terminal's 3rd level reaches Miami Airport Station in ~4 min, where Metrorail's Orange Line (on the map) runs to Government Center/Downtown in ~15 min. For South Beach, the 150 Miami Beach Airport Express bus takes ~45 min (not on the map). Fort Lauderdale (FLL) is the other airport many visitors use, ~45 min north by Brightline or Tri-Rail plus a shuttle.",
+      "hours": "Metrorail Orange Line: first ~5:00 AM, last ~11:40 PM. MIA Mover runs 24 h."
+    }
+  ]
+}

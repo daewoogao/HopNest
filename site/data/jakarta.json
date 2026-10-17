@@ -1,0 +1,282 @@
+{
+  "name": "Jakarta",
+  "country": "Indonesia",
+  "flag": "🇮🇩",
+  "center": [-6.2,106.83],
+  "zoom": 12,
+  "operatingHours": "MRT Jakarta (North–South line, Lebak Bulus–Bundaran HI) runs ~5:00 AM–midnight, every ~5 min at peaks and ~10 min off-peak; the extension north to Kota is still under construction. LRT Jabodebek runs ~5:00 AM–~11:00 PM and LRT Jakarta (Kelapa Gading–Velodrome) ~5:30 AM–~11:00 PM. KRL Commuter Line trains run ~4:00 AM–midnight. TransJakarta BRT covers the gaps, with some corridors running 24 hours.",
+  "fareInfo": "Pay with a contactless bank e-money card (Flazz, Brizzi, e-Money, TapCash) or the JakLingko app; single-trip QR tickets also work on MRT. MRT Rp4,000–14,000 by distance; LRT Jakarta flat Rp5,000; LRT Jabodebek Rp5,000 + Rp700/km, capped at Rp10,000 off-peak / Rp20,000 peak; KRL Rp3,000 for the first 25 km + Rp1,000 per extra 10 km; TransJakarta flat Rp3,500 (Rp2,000 before 7:00 AM). Fares as of Jan 2026.",
+  "lines": [
+    {
+      "id": "lbk",
+      "name": "LRT Jabodebek – Bekasi Line",
+      "color": "#0E6938",
+      "code": "BK",
+      "stations": [
+        ["Jatimulya",-6.2641,107.0217],
+        ["Bekasi Barat",-6.2529,106.9904],
+        ["Cikunir 2",-6.2546,106.9632],
+        ["Cikunir 1",-6.2566,106.9519],
+        ["Jatibening Baru",-6.2577,106.9279],
+        ["Halim",-6.2459,106.8873],
+        ["Cawang",-6.2459,106.8712],
+        ["Ciliwung",-6.2434,106.864],
+        ["Cikoko",-6.2434,106.8571],
+        ["Pancoran",-6.2421,106.8385],
+        ["Kuningan",-6.2288,106.8332],
+        ["Rasuna Said",-6.2216,106.8323],
+        ["Setiabudi",-6.2093,106.8303],
+        ["Dukuh Atas Bank Syariah Indonesia",-6.2048,106.8255]
+      ]
+    },
+    {
+      "id": "lcb",
+      "name": "LRT Jabodebek – Cibubur Line",
+      "color": "#20409A",
+      "code": "CB",
+      "stations": [
+        ["Dukuh Atas Bank Syariah Indonesia",-6.2049,106.8255],
+        ["Setiabudi",-6.2093,106.8302],
+        ["Rasuna Said",-6.2216,106.8322],
+        ["Kuningan",-6.2288,106.8332],
+        ["Pancoran",-6.2422,106.8385],
+        ["Cikoko",-6.2435,106.8571],
+        ["Ciliwung",-6.2435,106.864],
+        ["Cawang",-6.2459,106.8712],
+        ["Taman Mini",-6.2929,106.8805],
+        ["Kampung Rambutan",-6.3096,106.8844],
+        ["Ciracas",-6.3238,106.8866],
+        ["Harjamukti",-6.3739,106.8957]
+      ]
+    },
+    {
+      "id": "lkalayang",
+      "name": "Airport Skytrain (Kalayang)",
+      "color": "#5B6770",
+      "code": "SKY",
+      "stations": [["Terminal 3",-6.1199,106.6651],["Terminal 2",-6.1232,106.6529],["Train Station",-6.1273,106.6531],["Terminal 1",-6.1301,106.6561]]
+    },
+    {
+      "id": "lm",
+      "name": "MRT North–South Line",
+      "color": "#CE0037",
+      "code": "M",
+      "stations": [
+        ["Lebak Bulus Bank Syariah Indonesia",-6.2893,106.7749],
+        ["Fatmawati Indomaret",-6.2925,106.7925],
+        ["Cipete Raya TUKU",-6.2784,106.7973],
+        ["Haji Nawi",-6.2667,106.7973],
+        ["Blok A VISA",-6.2558,106.7972],
+        ["Blok M BCA",-6.2444,106.7982],
+        ["ASEAN Headquarters",-6.2388,106.7985],
+        ["Senayan Mastercard",-6.2268,106.8025],
+        ["Istora Mandiri",-6.2224,106.8087],
+        ["Bendungan Hilir",-6.2151,106.818],
+        ["Setiabudi Astra",-6.2091,106.8218],
+        ["Dukuh Atas BNI",-6.2008,106.8228],
+        ["Bundaran HI Bank Jakarta",-6.1918,106.8231]
+      ]
+    },
+    {
+      "id": "ls",
+      "name": "LRT Jakarta",
+      "color": "#F16227",
+      "code": "S",
+      "stations": [
+        ["Manggarai",-6.2087,106.8459],
+        ["Proklamasi",-6.202,106.8505],
+        ["Matraman",-6.195,106.8602],
+        ["Pramuka",-6.192,106.8711],
+        ["Rawamangun",-6.1932,106.8828],
+        ["Velodrome",-6.1919,106.8912],
+        ["Equestrian",-6.1834,106.8914],
+        ["Pulomas",-6.1771,106.8936],
+        ["Boulevard Selatan",-6.169,106.9],
+        ["Boulevard Utara Summarecon Mall",-6.1593,106.9061],
+        ["Kelapa Gading",-6.1574,106.9141]
+      ]
+    }
+  ],
+  "hotels": [
+    {"name":"Hotel Borobudur Jakarta","lat":-6.1724,"lng":106.8344,"area":"Gambir","rating":4.4,"ratingCount":2398,"stars":5,"priceTier":3},
+    {"name":"Aryaduta Menteng","lat":-6.1816,"lng":106.8353,"area":"Gambir","rating":4.5,"ratingCount":1905,"stars":5,"priceTier":3},
+    {"name":"Lumire Hotel & Convention Center","lat":-6.176,"lng":106.8404,"area":"Pasar Senen","rating":4.3,"ratingCount":321,"stars":4,"priceTier":2},
+    {"name":"Anara Airport International Hotel","lat":-6.1197,"lng":106.6624,"area":"Soekarno–Hatta International Airport","rating":4.6,"ratingCount":332,"stars":4,"priceTier":3},
+    {
+      "name": "Sheraton Jakarta Soekarno Hatta Airport",
+      "lat": -6.1208,
+      "lng": 106.6791,
+      "area": "Soekarno–Hatta International Airport",
+      "rating": 4.8,
+      "ratingCount": 375,
+      "stars": 5,
+      "priceTier": 3,
+      "brandAnchor": true
+    },
+    {"name":"Grand Hyatt Jakarta","lat":-6.1938,"lng":106.8224,"area":"Thamrin","rating":4.5,"ratingCount":2320,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Hotel Indonesia Kempinski Jakarta","lat":-6.1952,"lng":106.8222,"area":"Thamrin","rating":4.6,"ratingCount":2040,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Pullman Jakarta Indonesia","lat":-6.1933,"lng":106.8238,"area":"Thamrin","rating":4.6,"ratingCount":4874,"stars":5,"priceTier":3,"brandAnchor":true},
+    {"name":"Holiday Inn Express Jakarta Thamrin","lat":-6.1873,"lng":106.822,"area":"Thamrin","rating":4.1,"ratingCount":454,"stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Hotel Akmani","lat":-6.1875,"lng":106.8257,"area":"Thamrin","rating":4.1,"ratingCount":680,"stars":3,"priceTier":2},
+    {"name":"Fairmont Jakarta","lat":-6.2221,"lng":106.7989,"area":"Senayan","rating":4.8,"ratingCount":4173,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Artotel Gelora Senayan","lat":-6.2233,"lng":106.8028,"area":"Senayan","rating":4.5,"ratingCount":3091,"stars":4,"priceTier":3},
+    {"name":"Harris Suites fX Sudirman","lat":-6.2253,"lng":106.8039,"area":"Senayan","rating":4.1,"ratingCount":1203,"stars":4,"priceTier":2},
+    {"name":"Mercure Jakarta Batavia","lat":-6.1324,"lng":106.81,"area":"Kota Tua","rating":4.5,"ratingCount":729,"stars":4,"priceTier":3,"brandAnchor":true}
+  ],
+  "sights": [
+    {
+      "name": "Jakarta Aquarium & Safari",
+      "lat": -6.1757,
+      "lng": 106.7898,
+      "note": "A large indoor aquarium in the Neo Soho mall at West Jakarta, mixing marine tanks and walk-through tunnels with small animal exhibits and feeding shows.",
+      "hours": "~10:00 AM–8:00 PM daily",
+      "rating": 4.6
+    },
+    {
+      "name": "Istiqlal Mosque",
+      "lat": -6.1702,
+      "lng": 106.8312,
+      "note": "Southeast Asia's largest mosque, a vast modernist hall for over 100,000 worshippers facing the Catholic cathedral; free guided tours for visitors outside prayer times.",
+      "hours": "Visitor tours ~8:00 AM–5:00 PM outside prayer times; modest dress required",
+      "rating": 4.3
+    },
+    {
+      "name": "Kota Tua (Fatahillah Square)",
+      "lat": -6.1352,
+      "lng": 106.8133,
+      "note": "The cobbled square at the heart of old Dutch Batavia, ringed by colonial buildings turned museums, with rental bikes and the historic Café Batavia.",
+      "hours": "Open 24 hours; museums ~9:00 AM–3:00 PM, closed Mon",
+      "rating": 3.8
+    },
+    {
+      "name": "National Monument (Monas)",
+      "lat": -6.1754,
+      "lng": 106.8272,
+      "note": "A 132 m obelisk topped by a gilded flame in the middle of Merdeka Square, with a history diorama hall underground and a lift to the top deck.",
+      "hours": "Tue–Sun ~8:00 AM–4:00 PM plus evening session ~7:00–10:00 PM; closed Mon",
+      "rating": 3.9
+    },
+    {
+      "name": "National Museum of Indonesia",
+      "lat": -6.1763,
+      "lng": 106.8222,
+      "note": "The country's main museum, known for its elephant statue, with Hindu-Buddhist stone sculpture, ethnographic collections and gold treasures; reopened in 2024 after a fire.",
+      "hours": "~8:00 AM–4:00 PM, Tue–Sun (later on some weekends); closed Mon",
+      "rating": 4.1
+    },
+    {
+      "name": "Taman Mini Indonesia Indah",
+      "lat": -6.3024,
+      "lng": 106.8951,
+      "note": "A sprawling culture park in East Jakarta with traditional houses from every province, museums and a cable car over a lake shaped like the archipelago.",
+      "hours": "~7:00 AM–10:00 PM daily (pavilions and museums shorter)",
+      "rating": 4
+    },
+    {
+      "name": "Ancol Dreamland",
+      "lat": -6.124,
+      "lng": 106.835,
+      "note": "A seafront leisure district on Jakarta Bay with beaches, the Dufan amusement park, Sea World and Ocean Dream; each attraction is ticketed separately.",
+      "hours": "Gates open 24 hours; Dufan ~10:00 AM–6:00 PM",
+      "rating": 4,
+      "ticketUrl": "https://www.ancol.com"
+    },
+    {
+      "name": "Jakarta Cathedral",
+      "lat": -6.1694,
+      "lng": 106.8331,
+      "note": "A neo-Gothic Catholic church from 1901 with spiky steeples and a small museum upstairs, directly across from Istiqlal Mosque.",
+      "hours": "~8:00 AM–5:00 PM outside Mass; museum shorter hours",
+      "rating": 4.3
+    },
+    {
+      "name": "Museum Bank Indonesia",
+      "lat": -6.1372,
+      "lng": 106.8131,
+      "note": "A well-presented free museum in the former Javasche Bank building, covering Indonesian money and economic history with Art Deco interiors and stained glass.",
+      "hours": "~8:00 AM–3:30 PM, Tue–Sun; closed Mon",
+      "rating": 4.4
+    },
+    {
+      "name": "Wayang Museum",
+      "lat": -6.1347,
+      "lng": 106.8124,
+      "note": "Shadow puppets, wooden golek puppets and masks from across Indonesia and beyond, in a colonial building on Fatahillah Square.",
+      "hours": "~9:00 AM–3:00 PM, Tue–Sun; closed Mon",
+      "rating": 3.8
+    },
+    {
+      "name": "Glodok Chinatown",
+      "lat": -6.144,
+      "lng": 106.813,
+      "note": "Jakarta's Chinatown, where Petak Sembilan's lanes of herbalists and snack stalls lead to the smoky 17th-century Dharma Bhakti temple.",
+      "hours": "Best in the morning; temples ~6:00 AM–6:00 PM",
+      "rating": 3.7
+    },
+    {
+      "name": "Sunda Kelapa Harbour",
+      "lat": -6.124,
+      "lng": 106.8093,
+      "note": "The old port where wooden pinisi schooners still load cargo by hand, near the Maritime Museum and the leaning Syahbandar tower.",
+      "hours": "Daylight hours; best early morning",
+      "rating": 3.7
+    },
+    {
+      "name": "Jalan Surabaya Flea Market",
+      "lat": -6.201,
+      "lng": 106.8335,
+      "note": "A street of small stalls in leafy Menteng selling vintage vinyl, old cameras, brassware and curios; bargain hard.",
+      "hours": "~9:00 AM–6:00 PM daily",
+      "rating": 3.8
+    },
+    {
+      "name": "Ragunan Zoo",
+      "lat": -6.3122,
+      "lng": 106.8203,
+      "note": "A large, shady zoo in South Jakarta known for its primate centre and Indonesian species such as Komodo dragons and orangutans; popular with families at weekends.",
+      "hours": "~7:00 AM–4:00 PM, Tue–Sun; closed Mon",
+      "rating": 3.5
+    }
+  ],
+  "railStations": [
+    {
+      "name": "Gambir",
+      "lat": -6.1767,
+      "lng": 106.8307,
+      "note": "The main station for executive-class intercity trains to Bandung, Yogyakarta, Semarang, Surabaya and Malang, on the east side of Monas; KRL commuter trains do not stop here.",
+      "hours": "Intercity trains ~5:00 AM–~10:00 PM by timetable."
+    },
+    {
+      "name": "Pasar Senen",
+      "lat": -6.1748,
+      "lng": 106.8447,
+      "note": "Hub for economy and business-class trains east across Java, with KRL commuter platforms (Bogor/Cikarang loop) on the subway map.",
+      "hours": "Intercity trains by timetable, including overnight; KRL ~4:00 AM–midnight."
+    },
+    {
+      "name": "Halim",
+      "lat": -6.2465,
+      "lng": 106.8852,
+      "note": "Jakarta terminus of the Whoosh high-speed railway to Bandung (Tegalluar) in ~45 min, linked to Halim LRT Jabodebek station on the subway map.",
+      "hours": "Whoosh ~6:00 AM–~9:30 PM; LRT ~5:00 AM–~11:00 PM."
+    }
+  ],
+  "airports": [
+    {
+      "name": "Soekarno–Hatta International Airport",
+      "code": "CGK",
+      "lat": -6.1256,
+      "lng": 106.6559,
+      "transitNote": "The airport train (on the subway map) runs from the Skytrain station by Terminals 1–3 to BNI City/Sudirman Baru (for MRT Dukuh Atas) and Manggarai in ~46 min for ~Rp70,000–85,000, every ~30 min; a free Skytrain links the terminals. DAMRI buses and taxis take 45–90 min to the centre depending on traffic.",
+      "hours": "Airport train from CGK ~5:57 AM–~10:57 PM; from Manggarai ~5:00 AM–~10:00 PM."
+    },
+    {
+      "name": "Halim Perdanakusuma International Airport",
+      "code": "HLP",
+      "lat": -6.2666,
+      "lng": 106.891,
+      "transitNote": "A smaller airport in East Jakarta used by some domestic flights; no rail link of its own. Taxi or Grab ~10 min to Halim LRT/Whoosh station, ~30–60 min to Thamrin; TransJakarta buses also stop outside.",
+      "hours": "Road access only."
+    }
+  ]
+}
