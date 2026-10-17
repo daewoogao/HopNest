@@ -492,7 +492,8 @@ they're done.
   inner lines (where each circle met the bar) ugly; asked for it to look
   exactly like LA's Expo/Crenshaw mark. Now every outline piece is drawn
   first and the white pieces on top, so only the outer edge has a line;
-  outline is 1.6 px #3b4652 instead of 3 px near-black. Co-located
+  outline is 1.6 px #3b4652 instead of 3 px near-black. Then, per Audrey,
+  rounder: circles radius 8 px, joined by a narrow 5 px bar. Co-located
   platforms still show a single circle (Audrey confirmed that's fine).
 
 ### 2026-10-16 — hide/show the side panel

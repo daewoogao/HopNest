@@ -741,7 +741,7 @@ function drawTransfers(t){
   // per platform joined by a white bar, drawn as a single shape. All dark
   // outline pieces go down first and the white pieces on top, so only the
   // outer edge shows a thin line; nothing shows where circles meet the bar.
-  const R = 7, BAR = 12, EDGE = 1.6, INK = '#3b4652';
+  const R = 8, BAR = 5, EDGE = 1.6, INK = '#3b4652';
   const outlines = [], fills = [];
   t.byName.forEach(e=>{
     if(e.lines.length < 2) return;
