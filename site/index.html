@@ -641,6 +641,7 @@ function clearCityLayers(){
   lineLayers = {};
   transferLayers.forEach(t=>map.removeLayer(t.layer)); transferLayers = [];
   clearNearestPicks(true);
+  clearOsmHotels();
   hotelMarkers.forEach(h=>map.removeLayer(h.marker)); hotelMarkers=[];
   sightMarkers.forEach(s=>{ map.removeLayer(s.marker); map.removeLayer(s.label); }); sightMarkers=[];
   airportMarkers.forEach(a=>{ map.removeLayer(a.marker); map.removeLayer(a.label); }); airportMarkers=[];
@@ -1042,6 +1043,61 @@ function showNearestHotelsFallback(stationName, lat, lng){
   });
 }
 
+// Station click with no saved picks in walking distance: show every hotel
+// OpenStreetMap knows inside the walk circle. Stored per city in
+// data/osm/<city>.json as [lat, lng, name, stars(0 = untagged), hostel(0/1)]
+// (built from an OpenStreetMap export; no ratings, so shown as "unrated").
+// Free: a static file loaded on first use, no API or key.
+const osmHotelCache = {};
+let osmHotelMarkers = new Map(); // "lat,lng" -> marker, kept until city change
+function clearOsmHotels(){ osmHotelMarkers.forEach(m=>map.removeLayer(m)); osmHotelMarkers.clear(); }
+async function loadOsmHotels(cityId){
+  if(!osmHotelCache[cityId]){
+    osmHotelCache[cityId] = fetch(`data/osm/${cityId}.json`).then(r=> r.ok ? r.json() : []).catch(()=>[]);
+  }
+  return osmHotelCache[cityId];
+}
+const bookingHotelUrl = (name, cityName) => 'https://www.booking.com/searchresults.html?ss=' + encodeURIComponent(`${name}, ${cityName}`);
+function osmHotelMarker(o, cityName){
+  const key = o[0]+','+o[1];
+  if(osmHotelMarkers.has(key)) return osmHotelMarkers.get(key);
+  const [lat,lng,name,stars,hostel] = o;
+  const m = L.circleMarker([lat,lng], {radius:5.5, weight:2, color:'#fff', fillColor:'#7d8b99', fillOpacity:1}).addTo(map);
+  m.bindPopup(`<div style="font-size:13px;"><b>${name}</b><div style="margin:4px 0;color:#667">${hostel?'Hostel':'Hotel'}${stars?' · '+'★'.repeat(stars):''} · not yet rated (from OpenStreetMap)</div>
+    <a href="${bookingHotelUrl(name, cityName)}" target="_blank" rel="noopener">Prices & reviews on Booking.com ↗</a></div>`);
+  osmHotelMarkers.set(key, m);
+  return m;
+}
+async function showOsmHotelsNear(stationName, lat, lng){
+  const cityId = currentCityId, data = CITIES[cityId];
+  const all = await loadOsmHotels(cityId);
+  if(cityId !== currentCityId) return;
+  const radius = walkMinutes*WALK_SPEED_M_PER_MIN;
+  const within = all.map(o=>({o, d:haversineMeters(lat,lng,o[0],o[1])})).filter(x=>x.d<=radius).sort((a,b)=>a.d-b.d);
+  if(!within.length){ showNearestHotelsFallback(stationName, lat, lng); return; }
+  within.forEach(x=> osmHotelMarker(x.o, data.name));
+  const place = /station|airport|terminal/i.test(stationName) ? stationName : `${stationName} Station`;
+  const el = document.getElementById('search-banner');
+  clearTimeout(el._t);
+  const shown = within.slice(0,5);
+  el.innerHTML = `
+    <div class="fb-head"><span>${within.length} hotel${within.length>1?'s':''} within ${walkMinutes} min walk of ${stationName}</span><span class="fb-close" id="fb-close">×</span></div>
+    <div class="fb-sub">Not yet rated by us (from OpenStreetMap). Grey dots on the map.</div>
+    ${shown.map((x,i)=>`<div class="fb-row" data-i="${i}"><div class="fb-name">${x.o[2]}</div><div class="fb-meta">${x.o[4]?'Hostel':'Hotel'}${x.o[3]?' · '+'★'.repeat(x.o[3]):''} · ${Math.max(1,Math.round(x.d/WALK_SPEED_M_PER_MIN))} min walk</div></div>`).join('')}
+    ${within.length>shown.length?`<div class="fb-sub">+${within.length-shown.length} more on the map</div>`:''}
+    <a class="fb-book" href="${'https://www.booking.com/searchresults.html?ss='+encodeURIComponent(place+', '+data.name)}" target="_blank" rel="noopener">Prices for all hotels near ${stationName} ↗</a>`;
+  el.classList.add('fallback','show');
+  if(map.getSize().x>0){
+    // Same framing as the nearest-picks card: hotels in view, clear of the card.
+    const pts = [[lat,lng], ...within.map(x=>[x.o[0],x.o[1]])];
+    map.flyToBounds(L.latLngBounds(pts), {paddingTopLeft:[50,70], paddingBottomRight:[50, el.offsetHeight+40], maxZoom:17, duration:.6});
+  }
+  el.querySelector('#fb-close').onclick = hideSearchBanner;
+  el.querySelectorAll('.fb-row').forEach(row=>{
+    row.onclick = ()=>{ const o = shown[+row.dataset.i].o; const m = osmHotelMarker(o, data.name); map.setView([o[0],o[1]], Math.max(map.getZoom(),16)); m.openPopup(); };
+  });
+}
+
 function maybeFetchLiveHotels(stationName, lat, lng){
   const data = CITIES[currentCityId];
   const key = currentCityId+'::'+stationName;
@@ -1055,7 +1111,7 @@ function maybeFetchLiveHotels(stationName, lat, lng){
   const alreadyHandCurated = nameMatch || nearbyMatch;
   if(alreadyHandCurated || liveFetchedKeys.has(key) || liveFetchInFlight.has(key)) return;
   if(!LIVE_SEARCH_ENABLED){
-    showNearestHotelsFallback(stationName, lat, lng);
+    showOsmHotelsNear(stationName, lat, lng);
     return;
   }
   fetchLiveHotels(stationName, lat, lng, data.name, key);

@@ -497,6 +497,23 @@ they're done.
 
 ## Changelog
 
+### 2026-10-17 — every station shows hotels in walking distance (free)
+- Audrey expected a station click to find real hotels within walking
+  distance, not the far-away nearest picks. Live search stays off (no
+  backend to hide a paid API key). Audrey chose "saved map data": every
+  OpenStreetMap hotel/hostel across each city's whole rail area is saved
+  in site/data/osm/<city>.json ([lat, lng, name, stars or 0, hostel 0/1];
+  65 files, ~1.8 MB total, loaded only on first station click). Hotels we
+  already picked are left out.
+- Station click with no picks in walking distance: grey dots for every
+  saved hotel in the walk circle, a card listing the nearest 5 with walk
+  times ("not yet rated by us"), each popup links to Booking.com for
+  prices and reviews; the map frames them clear of the card. Dots stay
+  until the city changes. If even OSM has none, the old card with the 3
+  nearest picks shows.
+- Rebuild: curation/queries <city>-osmall.overpassql (station extent +
+  ~1.3 km), then build_osm step (§4).
+
 ### 2026-10-17 — revealed and suggested hotels stay on the map
 - Audrey: hotels that only appear when you click a station should stay
   on the map; the 3 nearest picks in the "no hotels nearby" card should
