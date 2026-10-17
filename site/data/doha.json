@@ -1,0 +1,239 @@
+{
+  "name": "Doha",
+  "country": "Qatar",
+  "flag": "🇶🇦",
+  "center": [25.286,51.531],
+  "zoom": 12,
+  "operatingHours": "Doha Metro (Red, Green and Gold lines) runs ~5:00 AM–~1:00 AM Saturday–Thursday and ~9:00 AM–~1:00 AM on Friday; last-train times vary by station. Trains every ~3–6 min by day, less often late evening. The Lusail Tram and Msheireb Tram use the same cards.",
+  "fareInfo": "Standard Travel Card QR 10 to buy; each journey QR 2, capped at QR 6 per day. Gold Club card QR 100 to buy; QR 10 per journey, capped at QR 30 per day. Metropasses: 7 days QR 40, 30 days QR 120. Cards also cover the Lusail Tram and Metrolink feeder buses. The airport station uses the same fares.",
+  "lines": [
+    {
+      "id": "lgold",
+      "name": "Metro Gold Line",
+      "jp": "الخط الذهبي للمترو",
+      "color": "#F9B428",
+      "code": "Gold",
+      "stations": [
+        ["Al Aziziyah",25.2576,51.4442],
+        ["Sport City",25.2594,51.4525],
+        ["Al Waab",25.2675,51.4689],
+        ["Al Sudan",25.2727,51.4851],
+        ["Joaan",25.2807,51.4969],
+        ["Al Sadd",25.2825,51.505],
+        ["Bin Mahmoud",25.2804,51.5149],
+        ["Msheireb (Gold Line)",25.2827,51.5258],
+        ["Souq Waqif",25.2865,51.5362],
+        ["National Museum",25.2847,51.5493],
+        ["Ras Bu Abboud",25.279,51.5709]
+      ]
+    },
+    {
+      "id": "lgreen",
+      "name": "Metro Green Line",
+      "jp": "الخط الأخضر للمترو",
+      "color": "#009530",
+      "code": "Green",
+      "stations": [
+        ["Al Mansoura",25.2705,51.535],
+        ["Msheireb (Green Line)",25.2828,51.5254],
+        ["Al Bidda (Green Line)",25.2912,51.52],
+        ["The White Palace",25.2925,51.506],
+        ["Hamad Hospital",25.2906,51.5005],
+        ["Al Messila",25.2932,51.484],
+        ["Al Rayyan Al Qadeem",25.3014,51.4609],
+        ["Al Shaqab",25.3094,51.4532],
+        ["Qatar National Library",25.3194,51.4418],
+        ["Education City",25.3171,51.4261],
+        ["Al Riffa",25.3243,51.348]
+      ]
+    },
+    {
+      "id": "lred",
+      "name": "Metro Red Line",
+      "jp": "الخط الأحمر للمترو",
+      "color": "#E2251C",
+      "code": "Red",
+      "stations": [
+        ["Lusail QNB",25.415,51.4876],
+        ["Qatar University",25.3823,51.493],
+        ["Legtaifiya",25.3707,51.5248],
+        ["Katara",25.3621,51.5217],
+        ["Al Qassar",25.3501,51.5239],
+        ["DECC",25.323,51.5277],
+        ["West Bay",25.3152,51.5198],
+        ["Corniche",25.3078,51.5154],
+        ["Al Bidda (Red Line)",25.2913,51.5202],
+        ["Msheireb (Red Line)",25.2829,51.5256],
+        ["Al Doha Al Jadeda",25.2748,51.5396],
+        ["Umm Ghuwailina",25.2694,51.5494],
+        ["Al Matar Al Qadeem",25.2633,51.558],
+        ["Oqba Ibn Nafie",25.2497,51.5667],
+        ["Free Zone",25.2285,51.5783],
+        ["Ras Bu Fontas",25.2115,51.5865],
+        ["Al Wakra",25.1931,51.5962]
+      ]
+    }
+  ],
+  "hotels": [
+    {"name":"Oryx Airport Hotel","lat":25.2626,"lng":51.6139,"area":"Hamad International Airport","rating":4.3,"ratingCount":1722,"stars":4,"priceTier":3},
+    {"name":"Park Hyatt Doha","lat":25.2842,"lng":51.5278,"area":"Msheireb","rating":4.9,"ratingCount":993,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Mandarin Oriental, Doha","lat":25.2862,"lng":51.5259,"area":"Msheireb","rating":4.8,"ratingCount":462,"stars":5,"priceTier":4},
+    {"name":"Alwadi Hotel Doha - MGallery Collection","lat":25.2853,"lng":51.5302,"area":"Msheireb","rating":4.9,"ratingCount":3340,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Four Points by Sheraton Doha","lat":25.2829,"lng":51.5236,"area":"Msheireb","rating":4.4,"ratingCount":792,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Ramada Encore by Wyndham Doha","lat":25.2804,"lng":51.5304,"area":"Msheireb","rating":4.1,"ratingCount":840,"stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Embassy Suites by Hilton Doha Old Town","lat":25.2838,"lng":51.5406,"area":"Souq Waqif","rating":4.7,"ratingCount":177,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Shaza Doha","lat":25.2869,"lng":51.5405,"area":"Souq Waqif","rating":4.7,"ratingCount":472,"stars":5,"priceTier":4},
+    {"name":"Ramada by Wyndham Doha Old Town","lat":25.2876,"lng":51.5405,"area":"Souq Waqif","rating":4.1,"ratingCount":117,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Best Western Plus Doha","lat":25.2898,"lng":51.5428,"area":"Souq Waqif","rating":4,"ratingCount":703,"stars":4,"priceTier":2,"brandAnchor":true},
+    {"name":"Central Inn Souq Waqif","lat":25.2841,"lng":51.5373,"area":"Souq Waqif","rating":4.5,"ratingCount":173,"stars":3,"priceTier":2},
+    {"name":"Marriott Marquis City Center Doha Hotel","lat":25.325,"lng":51.5281,"area":"West Bay","rating":4.6,"ratingCount":2375,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"InterContinental Doha - the City by IHG","lat":25.3264,"lng":51.5244,"area":"West Bay","rating":4.7,"ratingCount":3656,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Wyndham Doha West Bay","lat":25.3225,"lng":51.5254,"area":"West Bay","rating":4.8,"ratingCount":1981,"stars":5,"priceTier":3,"brandAnchor":true},
+    {"name":"voco Doha West Bay Suites by IHG","lat":25.3253,"lng":51.5226,"area":"West Bay","rating":4.8,"ratingCount":884,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Ezdan Hotel West Bay Towers","lat":25.3187,"lng":51.5226,"area":"West Bay","rating":4.3,"ratingCount":4727,"stars":4,"priceTier":3}
+  ],
+  "sights": [
+    {
+      "name": "Souq Waqif",
+      "lat": 25.2874,
+      "lng": 51.5332,
+      "note": "A rebuilt traditional market of mud-rendered lanes selling spices, textiles, perfume and falconry gear, with cafés and restaurants that stay busy late into the night.",
+      "hours": "Lanes open all day; most shops ~10:00 AM–noon and ~4:00 PM–11:00 PM, restaurants later",
+      "rating": 4.5
+    },
+    {
+      "name": "Museum of Islamic Art",
+      "lat": 25.295,
+      "lng": 51.5393,
+      "note": "I. M. Pei's geometric stone museum on its own island off the Corniche, holding 1,400 years of Islamic art from Spain to Central Asia, with skyline views from the atrium.",
+      "hours": "9:00 AM–7:00 PM Sat–Tue, to 9:00 PM Thu, 1:30–7:00 PM Fri; closed Wed",
+      "rating": 4.6,
+      "ticketUrl": "https://mia.org.qa/en"
+    },
+    {
+      "name": "MIA Park",
+      "lat": 25.2975,
+      "lng": 51.5415,
+      "note": "A landscaped waterfront park around the Museum of Islamic Art, with lawns, a crescent promenade, Richard Serra's sculpture 7 and views across the bay to West Bay.",
+      "hours": "Open 24 hours",
+      "rating": 4.6
+    },
+    {
+      "name": "The Corniche",
+      "lat": 25.2985,
+      "lng": 51.525,
+      "note": "A 7 km palm-lined seafront promenade curving around Doha Bay between the Museum of Islamic Art and the West Bay towers, popular for evening walks and dhow rides.",
+      "hours": "Open 24 hours",
+      "rating": 4.4
+    },
+    {
+      "name": "National Museum of Qatar",
+      "lat": 25.2879,
+      "lng": 51.5494,
+      "note": "Jean Nouvel's 'desert rose' building of interlocking discs, telling Qatar's story from geology and Bedouin life to oil, wrapped around the restored palace of Sheikh Abdullah bin Jassim.",
+      "hours": "~9:00 AM–7:00 PM Sat–Thu, from 1:30 PM Fri",
+      "rating": 4.7,
+      "ticketUrl": "https://nmoq.org.qa/en"
+    },
+    {
+      "name": "Fanar – Qatar Islamic Cultural Center",
+      "lat": 25.2873,
+      "lng": 51.5354,
+      "note": "The spiral-minaret mosque and cultural centre beside Souq Waqif, offering visitors free introductions to Islam and Qatari customs.",
+      "hours": "~8:00 AM–noon Sun–Thu; visitor tours vary, check ahead",
+      "rating": 4.2
+    },
+    {
+      "name": "Msheireb Museums",
+      "lat": 25.2873,
+      "lng": 51.5283,
+      "note": "Four restored heritage houses in the Msheireb quarter covering Doha's early urban life, the pearling-era labour migration and the history of the slave trade in the Gulf.",
+      "hours": "~10:00 AM–6:00 PM Sat–Thu, from 3:00 PM Fri",
+      "rating": 4.7,
+      "ticketUrl": "https://www.msheirebmuseums.com/en"
+    },
+    {
+      "name": "Msheireb Downtown",
+      "lat": 25.2862,
+      "lng": 51.5265,
+      "note": "A newly rebuilt car-light city quarter of shaded lanes, cafés and public squares such as Barahat Msheireb, linked by a free loop tram.",
+      "hours": "Open streets; cafés ~8:00 AM–late"
+    },
+    {
+      "name": "Old Doha Port",
+      "lat": 25.2945,
+      "lng": 51.547,
+      "note": "The former port turned waterfront district, with brightly painted shipping-container shops and cafés in the Mina District and a marina for cruise ships.",
+      "hours": "Open streets; shops and cafés ~10:00 AM–late",
+      "rating": 4.7
+    },
+    {
+      "name": "Imam Muhammad bin Abdul Wahhab Mosque",
+      "lat": 25.3171,
+      "lng": 51.5051,
+      "note": "Qatar's national mosque, a vast sandstone building with 90 domes; non-Muslim visitors are welcome outside prayer times in modest dress.",
+      "hours": "Visits outside prayer times; closed to visitors Friday midday",
+      "rating": 4.5
+    },
+    {
+      "name": "Museum of Illusions Doha",
+      "lat": 25.3237,
+      "lng": 51.5265,
+      "note": "A hands-on museum of optical illusions, tilted rooms and mirror installations on the first floor of The Gate Mall in West Bay.",
+      "hours": "9:00 AM–10:00 PM Sat–Thu, 1:00–10:00 PM Fri",
+      "rating": 4.9
+    },
+    {
+      "name": "Katara Cultural Village",
+      "lat": 25.3595,
+      "lng": 51.5255,
+      "note": "A seafront arts quarter with a Greek-style amphitheatre, galleries, pigeon towers, ornate mosques, a public beach and many restaurants.",
+      "hours": "Open 24 hours; venues and restaurants ~10:00 AM–midnight",
+      "rating": 4.3
+    },
+    {
+      "name": "The Pearl-Qatar",
+      "lat": 25.369,
+      "lng": 51.5505,
+      "note": "An artificial island of marinas and Mediterranean-style apartment blocks; the Porto Arabia boardwalk and the canal-side Qanat Quartier are the parts to stroll.",
+      "hours": "Open 24 hours; shops and restaurants ~10:00 AM–late",
+      "rating": 4.3
+    },
+    {
+      "name": "Qatar National Library",
+      "lat": 25.3183,
+      "lng": 51.4413,
+      "note": "Rem Koolhaas's library in Education City, a single open hall of terraced white bookshelves around a sunken heritage collection of manuscripts and maps.",
+      "hours": "~8:00 AM–8:00 PM Sat–Thu, ~4:00–8:00 PM Fri",
+      "rating": 4.9,
+      "ticketUrl": "https://www.qnl.qa/en"
+    },
+    {
+      "name": "Aspire Park",
+      "lat": 25.2585,
+      "lng": 51.4415,
+      "note": "Doha's largest park, next to the Aspire Tower and Khalifa International Stadium, with a lake, jogging tracks and shaded lawns that fill up on cooler evenings.",
+      "hours": "Open 24 hours",
+      "rating": 4.4
+    },
+    {
+      "name": "Khalifa International Stadium",
+      "lat": 25.2636,
+      "lng": 51.4481,
+      "note": "The national stadium of Qatar, rebuilt for the 2022 World Cup with a twin-arch roof; the 3-2-1 Qatar Olympic and Sports Museum sits beside it.",
+      "hours": "Exterior anytime; museum ~9:00 AM–7:00 PM, from 1:30 PM Fri",
+      "rating": 4.3
+    }
+  ],
+  "railStations": [],
+  "airports": [
+    {
+      "name": "Hamad International Airport",
+      "code": "DOH",
+      "lat": 25.261,
+      "lng": 51.614,
+      "transitNote": "Red Line from the HIA T1 station, connected to the terminal, reaches Msheireb in ~20 min and West Bay in ~30 min; the line is on this map. Karwa taxis to the centre take ~20 min.",
+      "hours": "Red Line at the airport: first train ~5:00 AM (~9:00 AM Fri), last ~midnight; no overnight trains."
+    }
+  ]
+}

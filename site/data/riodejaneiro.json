@@ -1,0 +1,398 @@
+{
+  "name": "Rio de Janeiro",
+  "country": "Brazil",
+  "flag": "🇧🇷",
+  "center": [-22.935,-43.2],
+  "zoom": 12,
+  "operatingHours": "MetrôRio Lines 1, 2 and 4 run ~5:00 AM–midnight Mon–Sat and ~7:00 AM–11:00 PM Sundays/holidays; trains every 3–6 min at peak, 8–12 min late. The VLT Carioca light rail in Centro runs ~6:00 AM–midnight. No overnight rail; extended hours only for big events (e.g. Rock in Rio, New Year's Eve).",
+  "fareInfo": "MetrôRio single fare R$7.90 (frozen for 2026); pay by contactless bank card/phone at the gates or a rechargeable card. The VLT light rail and city buses use the Jaé card/app at a lower fare (~R$5) with integration discounts. SuperVia suburban trains (not on this map) have their own fare.",
+  "lines": [
+    {
+      "id": "lbonde_de_santa_teresa",
+      "name": "Santa Teresa Tram (Bondinho)",
+      "color": "#C9A400",
+      "code": "Bonde",
+      "stations": [
+        ["Dois Irmãos",-22.9351,-43.2011],
+        ["Largo do França",-22.9292,-43.1944],
+        ["Vista Alegre",-22.9282,-43.1938],
+        ["Largo do Guimarães",-22.9216,-43.186],
+        ["Largo do Curvelo",-22.9189,-43.1832],
+        ["Portinha",-22.9145,-43.1804],
+        ["Carioca",-22.9102,-43.1787]
+      ]
+    },
+    {
+      "id": "l1",
+      "name": "Metro Line 1",
+      "color": "#E77405",
+      "code": "1",
+      "stations": [
+        ["Uruguai / Tijuca",-22.9309,-43.2383],
+        ["Saens Peña / Tijuca",-22.9241,-43.2326],
+        ["São Francisco Xavier / Tijuca",-22.9208,-43.2238],
+        ["Afonso Pena / Tijuca",-22.9184,-43.2177],
+        ["Estácio",-22.9136,-43.2065],
+        ["Praça Onze",-22.9099,-43.2003],
+        ["Central do Brasil / Centro",-22.905,-43.1908],
+        ["Saara / Presidente Vargas",-22.9033,-43.1862],
+        ["Uruguaiana / Engenheiro Fernando Mac Dowell",-22.9029,-43.1818],
+        ["Carioca",-22.9076,-43.1781],
+        ["Cinelândia / Centro",-22.9109,-43.1757],
+        ["Glória",-22.9206,-43.1767],
+        ["Catete",-22.926,-43.1766],
+        ["Largo do Machado",-22.9312,-43.1777],
+        ["Flamengo",-22.9372,-43.1785],
+        ["Botafogo",-22.9504,-43.1842],
+        ["Cardeal Arcoverde - Sentido Gen. Osório / Jd. Oceânico",-22.9638,-43.1814],
+        ["Siqueira Campos / Copacabana - Sentido Gen. Osório / Jd. Ocêanico",-22.9673,-43.1874],
+        ["Cantagalo / Copacabana - Sentido Gen. Osório / Jd. Oceânico",-22.9757,-43.1945],
+        ["General Osório / Ipanema",-22.9815,-43.1966]
+      ],
+      "jp": "Metrô Rio Linha 1"
+    },
+    {
+      "id": "lvlt1",
+      "name": "VLT Carioca Line 1 (tram)",
+      "color": "#1F6FC5",
+      "code": "VLT1",
+      "stations": [
+        ["Terminal Gentileza",-22.8991,-43.2114],
+        ["Rodoviária",-22.8989,-43.2073],
+        ["Equador",-22.8979,-43.2048],
+        ["Pereira Reis",-22.8967,-43.2018],
+        ["Gamboa",-22.8979,-43.1994],
+        ["Providência",-22.8975,-43.1967],
+        ["Harmonia",-22.8957,-43.1913],
+        ["Parada dos Navios / Valongo",-22.8942,-43.1873],
+        ["Parada dos Museus",-22.896,-43.182],
+        ["São Bento",-22.899,-43.1799],
+        ["Candelária",-22.9017,-43.1789],
+        ["Sete de Setembro",-22.9053,-43.1775],
+        ["Carioca",-22.9075,-43.1767],
+        ["Cinelândia",-22.9106,-43.1755],
+        ["Antônio Carlos / MAM",-22.9114,-43.1721],
+        ["Santos Dumont",-22.9123,-43.1677]
+      ]
+    },
+    {
+      "id": "l2",
+      "name": "Metro Line 2",
+      "color": "#028F34",
+      "code": "2",
+      "stations": [
+        ["Pavuna",-22.8064,-43.3655],
+        ["Acari / Fazenda Botafogo",-22.825,-43.3493],
+        ["Coelho Neto",-22.8319,-43.3429],
+        ["Colégio",-22.8427,-43.3345],
+        ["Irajá",-22.848,-43.3233],
+        ["Vicente de Carvalho",-22.854,-43.3132],
+        ["Thomáz Coelho",-22.8626,-43.3068],
+        ["Engenho da Rainha",-22.8679,-43.2974],
+        ["Inhaúma",-22.8746,-43.2835],
+        ["Del Castilho",-22.8793,-43.2719],
+        ["Maria da Graça",-22.8815,-43.2602],
+        ["Triagem",-22.8969,-43.2445],
+        ["Maracanã",-22.9097,-43.2339],
+        ["São Cristóvão",-22.9097,-43.221],
+        ["Cidade Nova",-22.9087,-43.2063],
+        ["Central do Brasil / Centro",-22.905,-43.1908],
+        ["Saara / Presidente Vargas",-22.9033,-43.1862],
+        ["Uruguaiana / Engenheiro Fernando Mac Dowell",-22.9029,-43.1818],
+        ["Carioca",-22.9076,-43.1781],
+        ["Cinelândia / Centro",-22.9109,-43.1757],
+        ["Glória",-22.9206,-43.1767],
+        ["Catete",-22.926,-43.1766],
+        ["Largo do Machado",-22.9312,-43.1777],
+        ["Flamengo",-22.9372,-43.1785],
+        ["Botafogo",-22.9504,-43.1842]
+      ],
+      "jp": "Metrô Rio Linha 2"
+    },
+    {
+      "id": "lvlt2",
+      "name": "VLT Carioca Line 2 (tram)",
+      "color": "#3BAA35",
+      "code": "VLT2",
+      "stations": [
+        ["Praia Formosa",-22.9029,-43.2082],
+        ["Rodoviária",-22.8989,-43.2073],
+        ["Equador",-22.8979,-43.2048],
+        ["Pereira Reis",-22.8967,-43.2018],
+        ["Vila Olímpica",-22.899,-43.1997],
+        ["Central",-22.903,-43.1929],
+        ["Cristiano Ottoni / Pequena África",-22.9031,-43.1908],
+        ["Saara",-22.9059,-43.1874],
+        ["Tiradentes",-22.9066,-43.1827],
+        ["Colombo",-22.9052,-43.1781],
+        ["Praça XV",-22.9022,-43.1731]
+      ]
+    },
+    {
+      "id": "lvlt3",
+      "name": "VLT Carioca Line 3 (tram)",
+      "color": "#F1C232",
+      "code": "VLT3",
+      "stations": [
+        ["Santos Dumont",-22.9123,-43.1677],
+        ["Antônio Carlos / MAM",-22.9113,-43.1721],
+        ["Cinelândia",-22.9106,-43.1755],
+        ["Carioca",-22.9074,-43.1767],
+        ["Sete de Setembro",-22.9052,-43.1775],
+        ["Candelária",-22.9017,-43.1788],
+        ["Santa Rita / Pretos Novos",-22.9006,-43.1817],
+        ["Camerino / Rosas Negras",-22.9023,-43.1855],
+        ["Cristiano Ottoni / Pequena África",-22.9031,-43.1907],
+        ["Central",-22.9029,-43.1929]
+      ]
+    },
+    {
+      "id": "l4",
+      "name": "Metro Line 4",
+      "color": "#FFCC29",
+      "code": "4",
+      "stations": [
+        ["General Osório / Ipanema",-22.9815,-43.1966],
+        ["Nossa Senhora da Paz / Ipanema",-22.984,-43.2067],
+        ["Jardim de Alah / Leblon",-22.9837,-43.2166],
+        ["Antero de Quental / Leblon",-22.9847,-43.2243],
+        ["São Conrado",-22.9913,-43.2556],
+        ["Jardim Oceânico / Barra da Tijuca",-23.0068,-43.311]
+      ],
+      "jp": "Linha 4"
+    },
+    {
+      "id": "lvlt4",
+      "name": "VLT Carioca Line 4 (tram)",
+      "color": "#EC6F29",
+      "code": "VLT4",
+      "stations": [
+        ["Praça XV",-22.9021,-43.1731],
+        ["Colombo",-22.9052,-43.1781],
+        ["Tiradentes",-22.9066,-43.1831],
+        ["Saara",-22.9058,-43.1874],
+        ["Cristiano Ottoni / Pequena África",-22.9031,-43.1907],
+        ["Central",-22.9029,-43.1929],
+        ["Gamboa",-22.8979,-43.1994],
+        ["Santo Cristo",-22.8953,-43.2004],
+        ["Cordeiro da Graça",-22.8971,-43.2042],
+        ["Rodoviária",-22.8988,-43.2075],
+        ["Terminal Gentileza",-22.8989,-43.2112]
+      ]
+    },
+    {
+      "id": "lesfeco",
+      "name": "Corcovado Train",
+      "jp": "Trem do Corcovado",
+      "color": "#D32232",
+      "code": "ESFECO",
+      "stations": [["Cosme Velho",-22.9409,-43.1985],["Morro do Inglês",-22.9463,-43.2021],["Paineiras",-22.9466,-43.2174],["Christ the Redeemer",-22.9518,-43.2107]]
+    }
+  ],
+  "hotels": [
+    {"name":"Prodigy Santos Dumont","lat":-22.9143,"lng":-43.1666,"area":"Santos Dumont Airport","rating":4.5,"ratingCount":2960,"stars":4,"priceTier":3},
+    {"name":"Novotel RJ Santos Dumont","lat":-22.9088,"lng":-43.1693,"area":"Santos Dumont Airport","rating":4.3,"ratingCount":2257,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Copacabana Palace, A Belmond Hotel","lat":-22.967,"lng":-43.1792,"area":"Leme","rating":4.7,"ratingCount":5136,"stars":5,"priceTier":4},
+    {"name":"PortoBay Rio de Janeiro Hotel","lat":-22.9664,"lng":-43.1771,"area":"Leme","rating":4.4,"ratingCount":3779,"stars":4,"priceTier":3},
+    {"name":"Windsor Excelsior Copacabana","lat":-22.9679,"lng":-43.1799,"area":"Leme","rating":4.2,"ratingCount":2015,"stars":4,"priceTier":3},
+    {"name":"Arena Copacabana Hotel","lat":-22.969,"lng":-43.1817,"area":"Leme","rating":4.4,"ratingCount":3195,"stars":4,"priceTier":3},
+    {"name":"ibis Copacabana Posto 2","lat":-22.9648,"lng":-43.1788,"area":"Leme","rating":4.1,"ratingCount":2422,"stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"JW Marriott Hotel Rio de Janeiro","lat":-22.9723,"lng":-43.1858,"area":"Copacabana","rating":4.2,"ratingCount":2958,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Mercure Rio Boutique Copacabana","lat":-22.9721,"lng":-43.1854,"area":"Copacabana","rating":4.6,"ratingCount":686,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Windsor California Copacabana","lat":-22.9724,"lng":-43.1859,"area":"Copacabana","rating":4.4,"ratingCount":692,"stars":4,"priceTier":3},
+    {"name":"Hotel Mar Palace Copacabana","lat":-22.9689,"lng":-43.1845,"area":"Copacabana","rating":4.1,"ratingCount":1259,"stars":3,"priceTier":2},
+    {"name":"Brazuca's Hostel","lat":-22.9701,"lng":-43.1886,"area":"Copacabana","rating":4.2,"ratingCount":110,"stars":1,"priceTier":1},
+    {"name":"Hotel Fasano Rio de Janeiro","lat":-22.987,"lng":-43.1962,"area":"Arpoador","rating":4.5,"ratingCount":2048,"stars":5,"priceTier":4},
+    {"name":"Miramar by Windsor Copacabana","lat":-22.981,"lng":-43.1901,"area":"Arpoador","rating":4.7,"ratingCount":3704,"stars":5,"priceTier":4},
+    {"name":"Grand Mercure Rio de Janeiro Copacabana","lat":-22.9814,"lng":-43.1901,"area":"Arpoador","rating":4.1,"ratingCount":4846,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Windsor Martinique Copacabana","lat":-22.9807,"lng":-43.1907,"area":"Arpoador","rating":4.2,"ratingCount":1463,"stars":3,"priceTier":2},
+    {"name":"ibis Copacabana Posto 5","lat":-22.9765,"lng":-43.1918,"area":"Arpoador","rating":4.3,"ratingCount":1591,"stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Sofitel Rio de Janeiro Ipanema","lat":-22.986,"lng":-43.2074,"area":"Ipanema","rating":4.2,"ratingCount":2297,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Ipanema Inn","lat":-22.9854,"lng":-43.2074,"area":"Ipanema","rating":4.5,"ratingCount":2648,"stars":3,"priceTier":2},
+    {"name":"Margarida's Pousada","lat":-22.9827,"lng":-43.2116,"area":"Ipanema","rating":4.2,"ratingCount":172,"stars":2,"priceTier":2},
+    {"name":"Mango Tree Hostel Ipanema","lat":-22.9852,"lng":-43.2024,"area":"Ipanema","rating":4.3,"ratingCount":1646,"stars":1,"priceTier":1}
+  ],
+  "sights": [
+    {
+      "name": "Christ the Redeemer",
+      "lat": -22.9519,
+      "lng": -43.2105,
+      "note": "The 30 m Art Deco statue on Corcovado's summit, with the whole city, bay and beaches spread out below.",
+      "hours": "Daily ~8:00 AM–7:00 PM (rack train every 20–30 min)",
+      "rating": 4.6,
+      "ticketUrl": "https://www.tremdocorcovado.rio",
+      "bookAhead": true
+    },
+    {
+      "name": "Sugarloaf Mountain Cable Car",
+      "lat": -22.9549,
+      "lng": -43.1663,
+      "note": "Two glass cable cars from Praia Vermelha via Morro da Urca to the granite summit of Sugarloaf, best at sunset.",
+      "hours": "Daily ~8:00 AM–9:00 PM",
+      "rating": 4.7,
+      "ticketUrl": "https://bondinho.com.br",
+      "bookAhead": true
+    },
+    {
+      "name": "Ipanema Beach",
+      "lat": -22.9868,
+      "lng": -43.205,
+      "note": "Rio's most famous stretch of sand, with numbered lifeguard posts marking its social tribes and the Dois Irmãos peaks at the end.",
+      "hours": "Open 24 hours; keep valuables minimal",
+      "rating": 4.5
+    },
+    {
+      "name": "Copacabana Beach",
+      "lat": -22.9711,
+      "lng": -43.1822,
+      "note": "A 4 km crescent of sand behind the wave-patterned promenade, lined with kiosks and beach football.",
+      "hours": "Open 24 hours; promenade busy until late",
+      "rating": 4.3
+    },
+    {
+      "name": "Rio de Janeiro Botanical Garden",
+      "lat": -22.9676,
+      "lng": -43.2241,
+      "note": "A 19th-century garden famous for its avenue of royal palms, orchid house and toucans under Corcovado.",
+      "hours": "Daily 8:00 AM–5:00 PM",
+      "rating": 4.6,
+      "ticketUrl": "https://jbrj.gov.br"
+    },
+    {
+      "name": "Arpoador",
+      "lat": -22.9895,
+      "lng": -43.1915,
+      "note": "A rocky point between Ipanema and Copacabana where crowds applaud the sunset over the ocean.",
+      "hours": "Open 24 hours; sunset is the main event",
+      "rating": 4.6
+    },
+    {
+      "name": "Maracanã Stadium",
+      "lat": -22.9122,
+      "lng": -43.2302,
+      "note": "The legendary football stadium; take a tour of the pitch and dressing rooms or catch a Flamengo or Fluminense match.",
+      "hours": "Tours daily ~9:00 AM–5:00 PM (not on match days)",
+      "rating": 4.5,
+      "ticketUrl": "https://www.maracana.com"
+    },
+    {
+      "name": "Museum of Tomorrow",
+      "lat": -22.8944,
+      "lng": -43.1793,
+      "note": "Santiago Calatrava's skeletal museum on the revived port waterfront, exploring science and the planet's future.",
+      "hours": "Tue–Sun 10:00 AM–6:00 PM",
+      "rating": 4.5,
+      "ticketUrl": "https://museudoamanha.org.br"
+    },
+    {
+      "name": "Escadaria Selarón",
+      "lat": -22.9153,
+      "lng": -43.1791,
+      "note": "A staircase between Lapa and Santa Teresa covered in thousands of tiles from around the world by artist Jorge Selarón.",
+      "hours": "Outdoors, 24 hours; go by day",
+      "rating": 4.3
+    },
+    {
+      "name": "Centro Cultural Banco do Brasil",
+      "lat": -22.901,
+      "lng": -43.1765,
+      "note": "A grand former bank under a domed rotunda, now one of Brazil's busiest free art and exhibition centres.",
+      "hours": "Wed–Mon 9:00 AM–8:00 PM, closed Tue",
+      "rating": 4.7,
+      "ticketUrl": "https://ccbb.com.br"
+    },
+    {
+      "name": "Tijuca National Park",
+      "lat": -22.9614,
+      "lng": -43.2786,
+      "note": "One of the world's largest urban forests, with waterfalls, trails and viewpoints in the mountains above the city.",
+      "hours": "Daily ~8:00 AM–5:00 PM (to 6:00 PM in summer)",
+      "rating": 4.6
+    },
+    {
+      "name": "Parque Lage",
+      "lat": -22.9606,
+      "lng": -43.2117,
+      "note": "An Italianate mansion with a courtyard café under Corcovado, set in a forested park with grottoes.",
+      "hours": "Daily 8:00 AM–5:00 PM",
+      "rating": 4.4
+    },
+    {
+      "name": "Theatro Municipal",
+      "lat": -22.909,
+      "lng": -43.1765,
+      "note": "Rio's 1909 opera house modelled on the Paris Opéra, with gilded halls open on guided tours.",
+      "hours": "Guided tours Tue–Sat; performances most weeks",
+      "rating": 4.7,
+      "ticketUrl": "https://theatromunicipal.rj.gov.br"
+    },
+    {
+      "name": "Real Gabinete Português de Leitura",
+      "lat": -22.9055,
+      "lng": -43.1823,
+      "note": "A neo-Manueline reading room stacked floor to ceiling with Portuguese books under a stained-glass skylight.",
+      "hours": "Mon–Fri ~10:00 AM–5:00 PM",
+      "rating": 4.6
+    },
+    {
+      "name": "Mosteiro de São Bento",
+      "lat": -22.897,
+      "lng": -43.178,
+      "note": "A hilltop Benedictine monastery whose plain façade hides a church interior dripping with gilded baroque carving.",
+      "hours": "Daily ~7:00 AM–6:00 PM; Sunday 10:00 AM mass with Gregorian chant",
+      "rating": 4.7
+    },
+    {
+      "name": "AquaRio",
+      "lat": -22.893,
+      "lng": -43.1925,
+      "note": "South America's largest marine aquarium, in the port district, with a walk-through shark tunnel.",
+      "hours": "Daily 9:00 AM–5:00 PM",
+      "rating": 4.2,
+      "ticketUrl": "https://aquariomarinhodorio.com.br"
+    },
+    {
+      "name": "Copacabana Fort",
+      "lat": -22.9863,
+      "lng": -43.1871,
+      "note": "A 1914 army fort at the tip of Copacabana with an army history museum, old guns and a café facing the beach.",
+      "hours": "Tue–Sun ~10:00 AM–6:00 PM",
+      "rating": 4.4
+    },
+    {
+      "name": "Arcos da Lapa",
+      "lat": -22.9129,
+      "lng": -43.18,
+      "note": "The white 18th-century aqueduct at the heart of Lapa, Rio's samba and nightlife district, carrying the Santa Teresa tram.",
+      "hours": "Outdoors, 24 hours; busiest Thu–Sat nights",
+      "rating": 3.8
+    }
+  ],
+  "railStations": [
+    {
+      "name": "Central do Brasil",
+      "lat": -22.9031,
+      "lng": -43.1913,
+      "note": "Rio's historic rail terminus under its clock tower: SuperVia suburban trains, Metro Lines 1 and 2 and a VLT stop. Rio has no intercity passenger rail; long-distance buses leave from Rodoviária Novo Rio, ~2 km northwest (VLT Line 1).",
+      "hours": "Metro ~5:00 AM–midnight (Sun ~7:00 AM–11:00 PM); SuperVia ~4:30 AM–~10:00 PM. Quiet and best avoided on foot late at night."
+    }
+  ],
+  "airports": [
+    {
+      "name": "Rio de Janeiro/Galeão International Airport",
+      "code": "GIG",
+      "lat": -22.81,
+      "lng": -43.2506,
+      "transitNote": "No rail link. The Premium/Expresso airport bus runs to Centro, Santos Dumont and the South Zone beaches (~R$20, 60–90 min); the BRT TransCarioca reaches Metro Line 2 at Vicente de Carvalho (not recommended with luggage). Taxis/ride-share to Copacabana take ~40–60 min (~R$90–130).",
+      "hours": "Airport buses ~5:00 AM–~11:00 PM; taxis and ride-share all hours."
+    },
+    {
+      "name": "Santos Dumont Airport",
+      "code": "SDU",
+      "lat": -22.9105,
+      "lng": -43.1631,
+      "transitNote": "Downtown domestic airport on Guanabara Bay (Rio–São Paulo shuttle and short-haul flights). The VLT Carioca light rail (Line 1/2, on this map) stops at the terminal and links to Metro Line 1 at Carioca/Cinelândia in ~10 min; taxis to Copacabana ~20–30 min.",
+      "hours": "VLT ~6:00 AM–midnight; flights ~6:00 AM–11:00 PM."
+    }
+  ]
+}

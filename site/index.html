@@ -162,8 +162,8 @@
   .hover-rail{border-left-color:#8a3b12;}
 
   .transfer-legend{font-size:11px;color:var(--text-dim);margin-top:8px;line-height:1.5;}
-  .transfer-legend .ring{display:inline-block;width:9px;height:9px;border-radius:50%;background:#fff;border:2.5px solid #1a222b;vertical-align:-2px;margin-right:4px;}
-  .transfer-legend .pill{display:inline-block;width:20px;height:9px;border-radius:7px;background:#fff;border:2.5px solid #1a222b;vertical-align:-2px;margin-right:4px;}
+  .transfer-legend .ring{display:inline-block;width:9px;height:9px;border-radius:50%;background:#fff;border:1.5px solid #3b4652;vertical-align:-2px;margin-right:4px;}
+  .transfer-legend .pill{display:inline-block;width:20px;height:9px;border-radius:7px;background:#fff;border:1.5px solid #3b4652;vertical-align:-2px;margin-right:4px;}
   .transfer-legend .dash{display:inline-block;width:16px;border-top:2px dashed #555;vertical-align:3px;margin-right:4px;}
   .station-label{font-family:var(--font-ui);font-size:10px;font-weight:600;color:#1a222b;text-shadow:0 0 3px #fff,0 0 3px #fff,0 0 3px #fff;white-space:nowrap;}
   .sight-label{font-family:var(--font-display);font-size:11.5px;font-weight:600;color:#12181f;text-shadow:0 0 4px #fff,0 0 4px #fff,0 0 4px #fff;white-space:nowrap;}
@@ -178,9 +178,16 @@
   #mini-form .save{background:var(--accent);color:#fff;}
   #mini-form .cancel{background:#eee;color:#333;}
 
+  #panel-close{position:absolute;top:12px;right:12px;background:none;border:1px solid var(--line);color:var(--text-dim);border-radius:6px;width:28px;height:28px;cursor:pointer;font-size:14px;line-height:1;}
+  #panel-close:hover{color:#fff;border-color:var(--text-dim);}
+  #sidebar .brand{position:relative;}
+  #panel-toggle{cursor:pointer;font:inherit;font-size:12.5px;font-weight:600;}
+  #panel-toggle:hover{border-color:var(--text-dim);}
+  #app.panel-hidden #sidebar{display:none;}
   @media (max-width:760px){
     #sidebar{position:absolute;z-index:1300;height:100%;transform:translateX(-100%);transition:.2s;}
     #sidebar.open{transform:translateX(0);}
+    #app.panel-hidden #sidebar{display:flex;}
   }
 </style>
 </head>
@@ -189,6 +196,7 @@
 
   <aside id="sidebar">
     <div class="brand">
+      <button type="button" id="panel-close" onclick="setPanel(false)" title="Hide this panel" aria-label="Hide this panel">◀</button>
       <div class="mark">route · stay · sightsee</div>
       <h1>Transit Trip Planner</h1>
       <p>Pick a city, toggle subway lines, and find hotels within walking distance of a station — with sightseeing layered on top.</p>
@@ -277,7 +285,10 @@
       <div id="place-search-results"></div>
     </div>
     <div id="topbar">
-      <div class="pill" id="zoom-hint">🔍 Zoom in for station &amp; sightseeing labels</div>
+      <div style="display:flex;gap:10px;">
+        <button type="button" class="pill" id="panel-toggle" onclick="togglePanel()" title="Show or hide the side panel">◀ Hide panel</button>
+        <div class="pill" id="zoom-hint">🔍 Zoom in for station &amp; sightseeing labels</div>
+      </div>
     </div>
     <div id="map"></div>
     <div id="add-banner">Click anywhere on the map to drop a sightseeing pin</div>
@@ -726,24 +737,24 @@ function computeTransfers(data){
 }
 
 function drawTransfers(t){
-  // Metro-map style interchange: a white circle with a dark outline at
-  // each line's platform, joined by a white bar with a dark outline.
+  // Metro-map style interchange (like LA's Expo/Crenshaw): one white circle
+  // per platform joined by a white bar, drawn as a single shape. All dark
+  // outline pieces go down first and the white pieces on top, so only the
+  // outer edge shows a thin line; nothing shows where circles meet the bar.
+  const R = 8, BAR = 5, EDGE = 1.6, INK = '#3b4652';
+  const outlines = [], fills = [];
   t.byName.forEach(e=>{
     if(e.lines.length < 2) return;
     const ids = e.lines.map(l=>l.id);
     const spots = [];
     e.pts.forEach(q=>{ if(!spots.some(o=>haversineMeters(o.lat,o.lng,q.lat,q.lng) < 15)) spots.push(q); });
-    if(spots.length > 1){
-      const bar = spots.slice(1).map(q=>[[spots[0].lat,spots[0].lng],[q.lat,q.lng]]);
-      const outline = L.polyline(bar, {color:'#1a222b', weight:14, opacity:1, lineCap:'round', interactive:false}).addTo(map);
-      const fill = L.polyline(bar, {color:'#fff', weight:8, opacity:1, lineCap:'round', interactive:false}).addTo(map);
-      transferLayers.push({layer:outline, lineIds:ids, kind:'bar', op:1}, {layer:fill, lineIds:ids, kind:'bar', op:1});
-    }
-    spots.forEach(q=>{
-      const ring = L.circleMarker([q.lat,q.lng], {radius:7.5, weight:3, color:'#1a222b', fillColor:'#fff', fillOpacity:1, interactive:false}).addTo(map);
-      transferLayers.push({layer:ring, lineIds:ids, kind:'ring'});
+    const bar = spots.slice(1).map(q=>[[spots[0].lat,spots[0].lng],[q.lat,q.lng]]);
+    [[outlines, INK, EDGE], [fills, '#fff', 0]].forEach(([list, color, pad])=>{
+      if(bar.length) list.push({ids, make:()=>L.polyline(bar, {color, weight:BAR+2*pad, opacity:1, lineCap:'round', interactive:false})});
+      spots.forEach(q=>list.push({ids, make:()=>L.circleMarker([q.lat,q.lng], {radius:R+pad, stroke:false, fillColor:color, fillOpacity:1, interactive:false})}));
     });
   });
+  [...outlines, ...fills].forEach(o=>transferLayers.push({layer:o.make().addTo(map), lineIds:o.ids, kind:'mark'}));
   t.walks.forEach(w=>{
     const dash = L.polyline([[w.a.lat,w.a.lng],[w.b.lat,w.b.lng]], {color:'#555', weight:2.5, dashArray:'4 5', opacity:.9, interactive:false}).addTo(map);
     transferLayers.push({layer:dash, lineIds:[...w.a.lines, ...w.b.lines].map(l=>l.id), kind:'walk'});
@@ -753,7 +764,7 @@ function drawTransfers(t){
 function updateTransferVisibility(){
   transferLayers.forEach(t=>{
     const on = t.lineIds.filter(id=>activeLines.has(id)).length >= 2;
-    if(t.kind === 'ring') t.layer.setStyle({opacity:on?1:0, fillOpacity:on?1:0});
+    if(t.kind === 'mark') t.layer.setStyle({opacity:on?1:0, fillOpacity:on?1:0});
     else t.layer.setStyle({opacity:on?(t.op||.9):0});
   });
 }
@@ -774,6 +785,25 @@ function transferInfoHTML(name){
   });
   return html;
 }
+
+// Side panel: hide/show on desktop (remembered); on phones it slides over
+// the map and starts closed.
+const PANEL_HIDDEN_STORAGE_KEY = 'hopnest_panel_hidden_v1';
+const isNarrow = () => window.matchMedia('(max-width:760px)').matches;
+function panelIsShown(){
+  return isNarrow() ? document.getElementById('sidebar').classList.contains('open')
+                    : !document.getElementById('app').classList.contains('panel-hidden');
+}
+function setPanel(show){
+  if(isNarrow()) document.getElementById('sidebar').classList.toggle('open', show);
+  else {
+    document.getElementById('app').classList.toggle('panel-hidden', !show);
+    try { localStorage.setItem(PANEL_HIDDEN_STORAGE_KEY, show ? '0' : '1'); } catch(e){}
+  }
+  document.getElementById('panel-toggle').textContent = show ? '◀ Hide panel' : '☰ Show panel';
+  setTimeout(()=>map.invalidateSize(), 50);
+}
+function togglePanel(){ setPanel(!panelIsShown()); }
 
 function loadCity(cityId){
   const data = CITIES[cityId];
@@ -1317,7 +1347,7 @@ function bindHotelCardClicks(list){
 }
 
 const cityGrid = document.getElementById('city-grid');
-const REGION_ORDER = ['Asia','Europe','Americas'];
+const REGION_ORDER = ['Asia','Europe','Americas','Africa','Oceania'];
 
 // Everything a person might type to find a city: its name, country, other
 // names (local script, nicknames, old names) and airport codes/names.
@@ -1728,6 +1758,7 @@ function requestCity(){
   renderCityPicker();
 }
 
+try { setPanel(isNarrow() ? false : localStorage.getItem(PANEL_HIDDEN_STORAGE_KEY) !== '1'); } catch(e){ setPanel(!isNarrow()); }
 loadAllCities().then(()=>{
   restorePinsFromStorage();
   const sharedCity = loadSharedPinsFromUrl();

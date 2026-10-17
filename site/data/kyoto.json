@@ -1,0 +1,444 @@
+{
+  "name": "Kyoto",
+  "country": "Japan",
+  "flag": "🇯🇵",
+  "center": [35.003,135.765],
+  "zoom": 12,
+  "operatingHours": "Kyoto Municipal Subway (Karasuma and Tozai lines) runs ~5:30 AM–~11:30 PM daily, every 4–8 min by day. No all-night service. Most sightseeing in the east and west of the city relies on city buses, Keihan, Hankyu, JR and the Randen tram, which run on similar hours.",
+  "fareInfo": "Subway single fares ~¥220–360 by distance; city buses charge a flat ¥230 in the central zone (a higher visitor fare is planned for 2027 but not yet in force). Tap ICOCA, Suica or another IC card, or pay by contactless bank card on buses and at most gates. Day passes: Subway 1-Day Pass ¥800; Subway & Bus 1-Day Pass ¥1,100 (the bus-only day pass was withdrawn in 2023). JR, Keihan, Hankyu and Kintetsu charge their own fares.",
+  "lines": [
+    {
+      "id": "lk",
+      "name": "Subway Karasuma Line",
+      "jp": "京都市営地下鉄烏丸線",
+      "color": "#3CB371",
+      "code": "K",
+      "stations": [
+        ["Kokusaikaikan",35.0629,135.7852],
+        ["Matsugasaki",35.0516,135.7761],
+        ["Kitayama",35.0512,135.7652],
+        ["Kitaoji",35.0446,135.7588],
+        ["Kuramaguchi",35.0372,135.7594],
+        ["Imadegawa",35.0295,135.7594],
+        ["Marutamachi",35.0163,135.7596],
+        ["Karasuma Oike",35.01,135.7597],
+        ["Shijō",35.0025,135.7597],
+        ["Gojō",34.995,135.7598],
+        ["Kyōto",34.9862,135.7601],
+        ["Kujo",34.9792,135.7598],
+        ["Jujo",34.9726,135.7598],
+        ["Kuinabashi",34.9622,135.7571],
+        ["Takeda",34.9563,135.7561]
+      ]
+    },
+    {
+      "id": "lt",
+      "name": "Subway Tōzai Line",
+      "jp": "京都市営地下鉄東西線",
+      "color": "#FF4500",
+      "code": "T",
+      "stations": [
+        ["Rokujizo",34.934,135.7965],
+        ["Ishida",34.941,135.8044],
+        ["Daigo",34.9511,135.8107],
+        ["Ono",34.9616,135.8128],
+        ["Nagitsuji",34.9731,135.8151],
+        ["Higashino",34.9824,135.8168],
+        ["Yamashina",34.9913,135.8173],
+        ["Misasagi",34.9963,135.8012],
+        ["Keage",35.008,135.7903],
+        ["Higashiyama",35.0094,135.7792],
+        ["Sanjo Keihan",35.0092,135.7734],
+        ["Kyoto Shiyakusho-mae",35.0108,135.7683],
+        ["Karasuma Oike",35.0108,135.7591],
+        ["Nijojo-mae",35.0119,135.7497],
+        ["Nijo",35.0117,135.7411],
+        ["Nishioji-oike",35.0109,135.7301],
+        ["Uzumasa-Tenjingawa",35.0108,135.7162]
+      ]
+    },
+    {
+      "id": "ljr_nara",
+      "name": "JR Nara Line",
+      "jp": "JR奈良線",
+      "color": "#BA7C31",
+      "code": "D",
+      "stations": [
+        ["Kyoto",34.9849,135.7596],
+        ["Tofukuji",34.981,135.7699],
+        ["Inari",34.9668,135.7707],
+        ["JR Fujinomori",34.9483,135.7757],
+        ["Momoyama",34.9328,135.7712],
+        ["Rokujizo",34.9333,135.7966],
+        ["Kohata",34.9249,135.799],
+        ["Obaku",34.9127,135.8037],
+        ["Uji",34.8904,135.8007],
+        ["JR-Ogura",34.8891,135.7863],
+        ["Shinden",34.8741,135.7807],
+        ["Jōyō",34.8561,135.7808],
+        ["Nagaike",34.8424,135.7899],
+        ["Yamashiro-Aodani",34.828,135.8002],
+        ["Yamashiro-Taga",34.8174,135.8063],
+        ["Tamamizu",34.8004,135.807],
+        ["Tanakura",34.7747,135.8161],
+        ["Kamikoma",34.7504,135.8213],
+        ["Kizu",34.7359,135.825],
+        ["Narayama",34.7107,135.8105],
+        ["Nara",34.6808,135.8189]
+      ]
+    },
+    {
+      "id": "ljr_sagano",
+      "name": "JR Sagano Line (San'in)",
+      "jp": "嵯峨野線",
+      "color": "#7785C2",
+      "code": "E",
+      "stations": [
+        ["Sonobe",35.1018,135.4838],
+        ["Yoshitomi",35.0921,135.4985],
+        ["Yagi",35.0691,135.5319],
+        ["Chiyokawa",35.0486,135.5484],
+        ["Namikawa",35.0323,135.5551],
+        ["Kameoka",35.0166,135.5831],
+        ["Umahori",35.0107,135.6022],
+        ["Hozukyo",35.0231,135.6402],
+        ["Saga-Arashiyama",35.0188,135.6814],
+        ["Uzumasa",35.017,135.7012],
+        ["Hanazono",35.0187,135.7181],
+        ["Emmachi",35.0182,135.7308],
+        ["Nijo",35.0107,135.7418],
+        ["Tambaguchi",34.9943,135.7426],
+        ["Umekoji-Kyotonishi",34.9887,135.7432],
+        ["Kyoto",34.9858,135.7562]
+      ]
+    },
+    {
+      "id": "lranden_arashiyama",
+      "name": "Randen Arashiyama Line (tram)",
+      "jp": "嵐電嵐山本線",
+      "color": "#A83939",
+      "code": "A",
+      "stations": [
+        ["Arashiyama",35.0153,135.678],
+        ["Randen-Saga",35.0165,135.6814],
+        ["Rokuoin",35.017,135.6857],
+        ["Kurumazaki-jinja",35.0168,135.689],
+        ["Arisugawa",35.0152,135.6943],
+        ["Katabiranotsuji",35.0152,135.7003],
+        ["Uzumasa-Koryuji",35.0134,135.7084],
+        ["Kaikonoyashiro",35.0119,135.713],
+        ["Randen-Tenjingawa",35.0102,135.7151],
+        ["Yamanouchi",35.0083,135.7232],
+        ["Nishioji-Sanjo",35.0084,135.7311],
+        ["Sai",35.0034,135.734],
+        ["Shijo-Omiya",35.0033,135.7485]
+      ]
+    },
+    {
+      "id": "lhankyu_kyoto",
+      "name": "Hankyu Kyoto Line",
+      "jp": "阪急京都線",
+      "color": "#31B781",
+      "code": "HK",
+      "stations": [
+        ["Osaka-Umeda",34.7055,135.4986],
+        ["Juso",34.7205,135.4825],
+        ["Minamikata",34.7257,135.4997],
+        ["Sozenji",34.731,135.5101],
+        ["Awaji",34.7393,135.5168],
+        ["Kami-Shinjo",34.7503,135.533],
+        ["Aikawa",34.7577,135.5335],
+        ["Shojaku",34.7757,135.5457],
+        ["Settsushi",34.7868,135.5539],
+        ["Minami-Ibaraki",34.8024,135.5652],
+        ["Ibaraki-shi",34.8167,135.5757],
+        ["Sojiji",34.827,135.5846],
+        ["Tonda",34.8352,135.5926],
+        ["Takatsuki-shi",34.85,135.6232],
+        ["Kammaki",34.8721,135.6617],
+        ["Minase",34.8776,135.6676],
+        ["Oyamazaki",34.8915,135.6816],
+        ["Nishiyama-Tennozan",34.9132,135.6886],
+        ["Nagaoka-tenjin",34.9254,135.6926],
+        ["Nishi-muko",34.9405,135.7032],
+        ["Higashi-muko",34.9536,135.7047],
+        ["Rakusaiguchi",34.9638,135.7032],
+        ["Katsura",34.9794,135.7031],
+        ["Nishikyogoku",34.9925,135.7184],
+        ["Saiin",35.0036,135.7318],
+        ["Omiya",35.0037,135.7486],
+        ["Karasuma",35.0037,135.7605],
+        ["Kyoto Kawaramachi",35.0038,135.7696]
+      ]
+    },
+    {
+      "id": "lhankyu_arashiyama",
+      "name": "Hankyu Arashiyama Line",
+      "jp": "阪急嵐山線",
+      "color": "#2E9E6F",
+      "code": "HK",
+      "stations": [["Arashiyama",35.0101,135.6819],["Matsuo-taisha",35.0003,135.6883],["Kamikatsura",34.9903,135.6959],["Katsura",34.9789,135.7031]]
+    },
+    {
+      "id": "lkintetsu_kyoto",
+      "name": "Kintetsu Kyoto Line",
+      "jp": "近鉄京都線",
+      "color": "#FAB202",
+      "code": "B",
+      "stations": [
+        ["Kintetsu-Kyoto",34.9848,135.7577],
+        ["Toji",34.9798,135.7526],
+        ["Jujo",34.9737,135.7525],
+        ["Kamitobaguchi",34.9655,135.7525],
+        ["Takeda",34.9563,135.7563],
+        ["Fushimi",34.946,135.7615],
+        ["Kintetsu-Tambabashi",34.9385,135.7664],
+        ["Momoyamagoryōmae",34.9334,135.7656],
+        ["Mukaijima",34.915,135.7695],
+        ["Ogura",34.8928,135.7818],
+        ["Iseda",34.8819,135.7789],
+        ["Ōkubo",34.8747,135.777],
+        ["Kutsukawa",34.8648,135.7748],
+        ["Terada",34.8532,135.7721],
+        ["Tonoshō",34.8402,135.7729],
+        ["Shin-Tanabe",34.8209,135.7729],
+        ["Kōdo",34.8085,135.7785],
+        ["Miyamaki",34.7982,135.7861],
+        ["Kintetsu Miyazu",34.7916,135.7875],
+        ["Komada",34.7803,135.7895],
+        ["Shin-Hōsono",34.7603,135.7927],
+        ["Kizugawadai",34.7467,135.7961],
+        ["Yamadagawa",34.7376,135.7938],
+        ["Takanohara",34.7238,135.792],
+        ["Heijo",34.7016,135.785],
+        ["Yamato-Saidaiji",34.694,135.7828]
+      ]
+    },
+    {
+      "id": "leizan_kurama",
+      "name": "Eizan Kurama Line",
+      "jp": "叡山電鉄鞍馬線",
+      "color": "#D91235",
+      "code": "E",
+      "stations": [
+        ["Takaragaike",35.0582,135.7923],
+        ["Hachiman-mae",35.0665,135.7924],
+        ["Iwakura",35.0712,135.7866],
+        ["Kino",35.0711,135.7764],
+        ["Kyoto Seika-mae",35.0731,135.7689],
+        ["Nikenchaya",35.0778,135.7659],
+        ["Ichihara",35.0883,135.7631],
+        ["Ninose",35.0978,135.763],
+        ["Kibuneguchi",35.106,135.7638],
+        ["Kurama",35.1129,135.7722]
+      ]
+    }
+  ],
+  "hotels": [
+    {"name":"ibis Styles Kyoto Station","lat":34.9838,"lng":135.7584,"area":"Kyoto Station","rating":4,"ratingCount":1549,"stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Hotel Granvia Kyoto","lat":34.9858,"lng":135.7598,"area":"Kyoto Station","rating":4.4,"ratingCount":3834,"stars":5,"priceTier":4},
+    {"name":"Kyoto Century Hotel","lat":34.9861,"lng":135.7617,"area":"Kyoto Station","rating":4.2,"ratingCount":1260,"stars":4,"priceTier":3},
+    {"name":"Dormy Inn Premium Kyoto Station","lat":34.9875,"lng":135.7618,"area":"Kyoto Station","rating":4.4,"ratingCount":715,"stars":3,"priceTier":3},
+    {"name":"Capsule Ryokan Kyoto","lat":34.989,"lng":135.7537,"area":"Kyoto Station","rating":4.6,"ratingCount":985,"stars":1,"priceTier":1},
+    {"name":"Hotel Nikko Kansai Airport","lat":34.437,"lng":135.2432,"area":"Kansai International Airport","rating":4.3,"ratingCount":3295,"stars":4,"priceTier":3},
+    {"name":"First Cabin Kansai Airport","lat":34.4373,"lng":135.2435,"area":"Kansai International Airport","rating":4.1,"ratingCount":143,"stars":1,"priceTier":1},
+    {"name":"Osaka Airterminal Hotel","lat":34.7853,"lng":135.4388,"area":"Osaka Itami Airport","rating":4.1,"ratingCount":288,"stars":3,"priceTier":2},
+    {"name":"Hilton Garden Inn Kyoto Shijo Karasuma","lat":34.9986,"lng":135.7601,"area":"Shijo-Karasuma","rating":4.5,"ratingCount":151,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Kyoto Itoya Hotel","lat":34.9991,"lng":135.7594,"area":"Shijo-Karasuma","rating":4.4,"ratingCount":429,"stars":3,"priceTier":3},
+    {"name":"MIMARU Suites Kyoto Shijo","lat":34.9998,"lng":135.7601,"area":"Shijo-Karasuma","rating":4.9,"ratingCount":116,"stars":4,"priceTier":3},
+    {"name":"Daiwa Roynet Hotel Kyoto Shijo Karasuma","lat":35.0009,"lng":135.76,"area":"Shijo-Karasuma","rating":4.2,"ratingCount":712,"stars":3,"priceTier":2},
+    {"name":"Mitsui Garden Hotel Kyoto Shijo","lat":35.003,"lng":135.755,"area":"Shijo-Karasuma","rating":4,"ratingCount":976,"stars":3,"priceTier":2},
+    {"name":"Kyoto Granbell Hotel","lat":35.0027,"lng":135.7731,"area":"Gion","rating":4.3,"ratingCount":389,"stars":4,"priceTier":3},
+    {"name":"The Gate Hotel Kyoto Takasegawa by Hulic","lat":35.0059,"lng":135.77,"area":"Gion","rating":4.6,"ratingCount":205,"stars":4,"priceTier":4},
+    {"name":"Hotel Gion Misen","lat":35.0064,"lng":135.7731,"area":"Gion","rating":4.8,"ratingCount":287,"stars":3,"priceTier":3},
+    {"name":"Good Nature Hotel Kyoto","lat":35.0025,"lng":135.7686,"area":"Gion","rating":4.5,"ratingCount":141,"stars":4,"priceTier":3},
+    {"name":"Super Hotel Kyoto Shijokawaramachi","lat":35.0052,"lng":135.7676,"area":"Gion","rating":4.1,"ratingCount":420,"stars":2,"priceTier":2},
+    {"name":"Hilton Kyoto","lat":35.01,"lng":135.7695,"area":"Kawaramachi-Sanjo","rating":4.5,"ratingCount":122,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"The Ritz-Carlton, Kyoto","lat":35.0139,"lng":135.7709,"area":"Kawaramachi-Sanjo","rating":4.5,"ratingCount":1748,"stars":5,"priceTier":4},
+    {"name":"Hotel Okura Kyoto","lat":35.0117,"lng":135.7695,"area":"Kawaramachi-Sanjo","rating":4.4,"ratingCount":2095,"stars":5,"priceTier":3},
+    {"name":"Cross Hotel Kyoto","lat":35.0082,"lng":135.7697,"area":"Kawaramachi-Sanjo","rating":4.7,"ratingCount":732,"stars":4,"priceTier":3},
+    {"name":"Hotel Gran Ms Kyoto","lat":35.0097,"lng":135.7686,"area":"Kawaramachi-Sanjo","rating":4.1,"ratingCount":767,"stars":3,"priceTier":2}
+  ],
+  "sights": [
+    {
+      "name": "Fushimi Inari-taisha Shrine",
+      "lat": 34.9671,
+      "lng": 135.7727,
+      "note": "Head shrine of the rice deity Inari, famous for thousands of vermilion torii gates that tunnel up the wooded slopes of Mt. Inari; go early or late to beat the crowds, and allow 2–3 hours for the full loop.",
+      "hours": "Grounds open 24 hours; free",
+      "rating": 4.6
+    },
+    {
+      "name": "Kinkakuji Temple",
+      "lat": 35.0394,
+      "lng": 135.7292,
+      "note": "The Golden Pavilion, a gold-leafed Zen hall mirrored in its pond; visitors follow a one-way garden path and view it from across the water.",
+      "hours": "9:00 AM–5:00 PM daily",
+      "rating": 4.5,
+      "ticketUrl": "https://www.shokoku-ji.jp/kinkakuji/"
+    },
+    {
+      "name": "Kiyomizu-dera Temple",
+      "lat": 34.9948,
+      "lng": 135.785,
+      "note": "Hillside temple whose great wooden stage, built without nails, juts out over the trees with views across Kyoto; best in cherry-blossom and autumn-leaf seasons.",
+      "hours": "6:00 AM–6:00 PM (to ~6:30 PM in summer; later during seasonal night viewings)",
+      "rating": 4.4,
+      "ticketUrl": "https://www.kiyomizudera.or.jp/en/"
+    },
+    {
+      "name": "Arashiyama Bamboo Grove",
+      "lat": 35.017,
+      "lng": 135.6716,
+      "note": "The walking path through towering bamboo at the heart of the Arashiyama district on the city's west edge, close to Tenryu-ji and the Togetsukyo Bridge; arrive near dawn for a quiet visit.",
+      "hours": "Open 24 hours; free",
+      "rating": 4.4
+    },
+    {
+      "name": "Gion (Hanamikoji Street)",
+      "lat": 35.0026,
+      "lng": 135.7752,
+      "note": "Kyoto's best-preserved geisha district, with wooden teahouses and restaurants along stone lanes; photography is banned on Gion's private side alleys, so stick to the main streets.",
+      "hours": "Streets open 24 hours; most atmospheric at dusk",
+      "rating": 4.3
+    },
+    {
+      "name": "Nijo Castle",
+      "lat": 35.0142,
+      "lng": 135.7481,
+      "note": "The shogun's Kyoto residence, whose Ninomaru Palace has painted screens and 'nightingale' floors that chirp underfoot to warn of intruders; surrounded by moats and gardens.",
+      "hours": "8:45 AM–5:00 PM (last entry 4:00 PM); closed Tue in Jan, Jul, Aug and Dec, and Dec 29–31",
+      "rating": 4.3,
+      "ticketUrl": "https://nijo-jocastle.city.kyoto.lg.jp/"
+    },
+    {
+      "name": "Sanjusangendo Temple",
+      "lat": 34.9879,
+      "lng": 135.7716,
+      "note": "A 120 m-long wooden hall lined with 1,001 gilded statues of the thousand-armed Kannon, a striking sight in the dim interior.",
+      "hours": "8:30 AM–5:00 PM (Nov 16–Mar: 9:00 AM–4:00 PM)",
+      "rating": 4.6,
+      "ticketUrl": "https://www.sanjusangendo.jp/"
+    },
+    {
+      "name": "Nishiki Market",
+      "lat": 35.005,
+      "lng": 135.765,
+      "note": "A narrow covered street of some 100 stalls selling pickles, tofu, sweets and seafood skewers; known as 'Kyoto's kitchen', and eating while walking is discouraged.",
+      "hours": "~10:00 AM–6:00 PM; many stalls close Wed or Sun",
+      "rating": 4.2
+    },
+    {
+      "name": "Monkey Park Iwatayama",
+      "lat": 35.0095,
+      "lng": 135.678,
+      "note": "A 20-minute uphill hike in Arashiyama leads to a hilltop where some 120 wild Japanese macaques roam freely, with a view across the city.",
+      "hours": "9:00 AM–4:30 PM (to 4:00 PM Oct–Mar); closes in bad weather",
+      "rating": 4.4
+    },
+    {
+      "name": "Eikando Zenrinji Temple",
+      "lat": 35.0147,
+      "lng": 135.7944,
+      "note": "Hillside temple linked by covered walkways and a pagoda, among the most celebrated spots in Kyoto for autumn maple colour.",
+      "hours": "9:00 AM–5:00 PM (last entry 4:00 PM); evening light-ups in autumn",
+      "rating": 4.6,
+      "ticketUrl": "https://www.eikando.or.jp/"
+    },
+    {
+      "name": "Ginkakuji Temple",
+      "lat": 35.027,
+      "lng": 135.7982,
+      "note": "The Silver Pavilion, a restrained Zen villa that was never silvered, set in moss gardens with a raked sand cone; it marks the north end of the Philosopher's Path.",
+      "hours": "8:30 AM–5:00 PM (Dec–Feb: 9:00 AM–4:30 PM)",
+      "rating": 4.4,
+      "ticketUrl": "https://www.shokoku-ji.jp/ginkakuji/"
+    },
+    {
+      "name": "Sannenzaka & Ninenzaka",
+      "lat": 34.9963,
+      "lng": 135.7808,
+      "note": "Sloping stone-paved lanes of old wooden shops and teahouses that climb from Kodai-ji toward Kiyomizu-dera; busiest late morning.",
+      "hours": "Lanes open 24 hours; shops ~9:00 AM–6:00 PM",
+      "rating": 4.3
+    },
+    {
+      "name": "Tenryu-ji Temple",
+      "lat": 35.0158,
+      "lng": 135.6738,
+      "note": "Head temple of a Zen school and a World Heritage site, prized for its 14th-century pond garden that borrows the Arashiyama hills as its backdrop; the north gate leads into the bamboo grove.",
+      "hours": "Garden 8:30 AM–5:00 PM daily",
+      "rating": 4.4,
+      "ticketUrl": "https://www.tenryuji.com/en/"
+    },
+    {
+      "name": "Philosopher's Walk",
+      "lat": 35.0225,
+      "lng": 135.7948,
+      "note": "A 2 km stone path beside a cherry-lined canal between Ginkakuji and the Nanzen-ji area, with small temples and cafés along the way.",
+      "hours": "Open 24 hours; free",
+      "rating": 4.2
+    },
+    {
+      "name": "Kyoto Imperial Palace",
+      "lat": 35.0254,
+      "lng": 135.7621,
+      "note": "The former emperor's residence inside the vast Kyoto Gyoen park; walk-in visits follow a set route past the ceremonial halls and gardens, no booking needed.",
+      "hours": "9:00 AM–4:30 PM (Oct–Feb to 3:30–4:00 PM); closed Mon; free",
+      "rating": 4.1
+    },
+    {
+      "name": "To-ji Temple",
+      "lat": 34.9806,
+      "lng": 135.7478,
+      "note": "Founded in 796, home to Japan's tallest wooden pagoda (55 m) and a hall of esoteric Buddhist statues; a big flea market fills the grounds on the 21st of each month.",
+      "hours": "8:00 AM–5:00 PM daily",
+      "rating": 4.4,
+      "ticketUrl": "https://toji.or.jp/en/"
+    },
+    {
+      "name": "Nanzen-ji Temple",
+      "lat": 35.0112,
+      "lng": 135.7942,
+      "note": "A major Zen temple with a massive Sanmon gate you can climb and a red-brick Meiji aqueduct running through its grounds; the grounds are free.",
+      "hours": "8:40 AM–5:00 PM (Dec–Feb to 4:30 PM)",
+      "rating": 4.4,
+      "ticketUrl": "https://nanzenji.or.jp/en/"
+    },
+    {
+      "name": "Pontocho",
+      "lat": 35.006,
+      "lng": 135.771,
+      "note": "A lantern-lit alley of restaurants and bars squeezed between Kiyamachi and the Kamo River; in summer many open riverside dining decks.",
+      "hours": "Best ~5:00 PM–late",
+      "rating": 4.2
+    }
+  ],
+  "railStations": [
+    {
+      "name": "Kyoto Station",
+      "lat": 34.9858,
+      "lng": 135.7588,
+      "note": "The city's gateway: Tokaido Shinkansen to Tokyo (~2h 15m) and Shin-Osaka (~15 min), JR lines to Osaka, Nara and the Haruka airport express, Kintetsu trains to Nara, and the Karasuma subway line. The main city-bus terminal is out front.",
+      "hours": "Shinkansen ~6:00 AM–~11:30 PM; JR and Kintetsu ~5:00 AM–~midnight; trains run to individual timetables."
+    }
+  ],
+  "airports": [
+    {
+      "name": "Kansai International Airport",
+      "code": "KIX",
+      "lat": 34.4347,
+      "lng": 135.244,
+      "transitNote": "About 100 km away; not on the subway map. The JR Haruka limited express runs straight to Kyoto Station in ~75–80 min (~¥3,600, cheaper with the ICOCA & HARUKA discount); airport limousine buses take ~90 min (~¥2,800).",
+      "hours": "Haruka: first train ~6:30 AM, last ~10:30 PM. Later arrivals: limousine bus (last ~11:00 PM) or an airport hotel."
+    },
+    {
+      "name": "Osaka Itami Airport",
+      "code": "ITM",
+      "lat": 34.7855,
+      "lng": 135.4382,
+      "transitNote": "Osaka's domestic airport, ~45 km away; not on the subway map. Airport limousine buses reach Kyoto Station in ~55 min (~¥1,400); by rail, take the monorail and change to Hankyu or JR (~75 min).",
+      "hours": "Limousine bus ~7:00 AM–~9:30 PM, timed to flights."
+    }
+  ]
+}

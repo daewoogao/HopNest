@@ -109,9 +109,10 @@ station/airport/railway stop you tap.
 
 - **Subway lines**: real official colors, toggleable per line, station
   dots clickable.
-- **Transfers** (2026-10-16): metro-map style, as Audrey asked: a white
-  circle with a dark border at each line's platform, joined by a white
-  bar with a dark border, marks a station where you change lines inside
+- **Transfers** (2026-10-16, restyled 2026-10-17): like LA Metro's
+  Expo/Crenshaw mark: a white circle at each line's platform joined by a
+  white bar, drawn as one smooth shape with only a thin, soft grey-blue
+  outline on the outer edge (no line where circles meet the bar). It marks a station where you change lines inside
   (one label per interchange); a dashed grey line
   joins two separate stations a short walk apart. The station popup says
   which lines you can change to, or how far the walk is. Worked out in
@@ -126,7 +127,11 @@ station/airport/railway stop you tap.
   Mexico City, and batch 5 (2026-10-16): Shenzhen, Guangzhou, Xi'an,
   Busan, Kuala Lumpur, Dubai, Delhi, Munich, Budapest, Copenhagen,
   Stockholm, Athens, Brussels, San Francisco, Los Angeles, Boston,
-  Toronto, Montreal, São Paulo, Buenos Aires (45 cities).
+  Toronto, Montreal, São Paulo, Buenos Aires, and batch 6 (2026-10-17):
+  Kyoto, Macau, Chengdu, Ho Chi Minh City, Hanoi, Mumbai, Jakarta,
+  Riyadh, Doha, Jerusalem, Cairo, Dublin, Edinburgh, Florence, Miami,
+  Las Vegas, Vancouver, Rio de Janeiro, Sydney, Melbourne (65 cities).
+  City-list groups: Asia, Europe, Americas, Africa, Oceania.
 - **City picker** (search redesigned 2026-10-16): a search box that
   matches city name, country, other names (`aliases` in `cities.json`:
   local script, nicknames like NYC) and airport codes (CDG, KIX), with
@@ -485,6 +490,59 @@ they're done.
 ---
 
 ## Changelog
+
+### 2026-10-17 — batch 6: 20 more cities (65 total)
+- Audrey: next 20, picked by visitor numbers, not 5 per continent. Taken
+  from the top of the international-arrivals rankings, skipping places
+  with no city rail (Antalya, Cancún, Phuket, Pattaya, Venice, Bali,
+  Mecca). New city-list groups: Africa (Cairo) and Oceania (Sydney,
+  Melbourne).
+- Tram/monorail cities (Dublin Luas, Edinburgh, Florence, Melbourne, Las
+  Vegas monorail, Jerusalem light rail) draw those as their lines. Kyoto
+  adds JR Nara/Sagano, Hankyu, Kintetsu, Randen and Eizan Kurama to the
+  two subway lines; Sydney draws Sydney Trains T1–T9, Metro and light
+  rail (intercity/tour trains left off); Doha draws metro only.
+- Same §4 process and hotel floor (TripAdvisor ≥4.0 and ≥100 reviews,
+  within 800 m); never lowered to fill a gap. Validator: 0 errors.
+  Hotel/sight counts and gaps:
+  - Kyoto: 23 hotels/18 sights. Itami 1 hotel, KIX 2 (no brand); Gion no brand in 800 m. Keihan Main Line missing from lines (no usable OSM relation).
+  - Macau: 13 hotels/17 sights. Airport 0 hotels (none meet 4.0+100 reviews); Taipa Village 3, no budget.
+  - Chengdu: 10 hotels/16 sights. All 3 rail stations + Tianfu airport 0 hotels (nothing meeting floor in 800 m); Shuangliu 1.
+  - Ho Chi Minh City: 17 hotels/18 sights. Railway station 1 hotel; airport 2.
+  - Vancouver: 18/17. Pacific Central Station 0 hotels.
+  - Rio de Janeiro: 21/18. Central do Brasil and Galeão 0 hotels; Santos Dumont 2.
+  - Sydney: 27/18. All areas filled.
+  - Melbourne: 23/18. Airport 1 hotel; St Kilda 3. Fares note Victoria's half-price fares to 1 Jan 2027.
+  - Doha: 16/16. Airport 1 hotel; metro lines only (Red, Gold, Green).
+  - Jerusalem: 18/18. Ben Gurion 0 hotels (45 km away); Navon station 3.
+  - Cairo: 12/17. Ramses Station 0 hotels; airport 2; Giza 2.
+  - Dublin: 23/17. Airport 0 hotels (on-site ones under 4.0).
+  - Edinburgh: 22/18. Airport 0 hotels (on-site ones under 4.0).
+  - Florence: 19/17. Peretola airport 0 hotels.
+  - Miami: 20/15. Airport 0; MiamiCentral 1.
+  - Las Vegas: 18/15. Airport 0; Downtown/Fremont has no hotel meeting the floor, so no area.
+  - Hanoi: 19/18. Noi Bai airport 0 hotels.
+  - Mumbai: 22/18. CSMT 1, Mumbai Central 2. Metro Lines 2B, 4, 9 left off (opening unconfirmed); monorail suspended.
+  - Jakarta: 14/14 (most ranked attractions are malls). Gambir 2, Pasar Senen 1, Kota Tua 1, Halim station/airport 0, Soekarno–Hatta 2.
+  - Riyadh: 8/14. Both rail stations and the airport 0 hotels; Al Faisaliah 2.
+
+### 2026-10-17 — softer, seamless transfer marks
+- Audrey found the transfer mark's black outline too strong and the
+  inner lines (where each circle met the bar) ugly; asked for it to look
+  exactly like LA's Expo/Crenshaw mark. Now every outline piece is drawn
+  first and the white pieces on top, so only the outer edge has a line;
+  outline is 1.6 px #3b4652 instead of 3 px near-black. Then, per Audrey,
+  rounder: circles radius 8 px, joined by a narrow 5 px bar. Co-located
+  platforms still show a single circle (Audrey confirmed that's fine).
+
+### 2026-10-16 — hide/show the side panel
+- Audrey asked how to close the left panel; there was no way. Now a ◀
+  button in the panel's top-right corner hides it, and a "☰ Show panel"
+  pill at the top-left of the map brings it back. On desktop the choice
+  is remembered (`hopnest_panel_hidden_v1`).
+- Also fixes phones: under 760 px the panel was off-screen with no way to
+  open it. It now starts closed and slides over the map from the same
+  button.
 
 ### 2026-10-16 — transfer stations marked on the map
 - Audrey asked: at Lisbon's São Sebastião (Blue and Red lines), can you
