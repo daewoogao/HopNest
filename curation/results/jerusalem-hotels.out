@@ -1,0 +1,146 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	343668818	מלון מגדל ירושלים	Jerusalem Tower	31.7804898	35.2181220	hotel	3			
+node	366499842	Leonardo Jerusalem	Leonardo Jerusalem	31.7885647	35.2272803	hotel	4			
+node	560354900	מבוא ירושלים	Mevo Yerushalayim	31.7885708	35.2062957	hotel				
+node	560354907	קיסר	Cesar	31.7883762	35.2070962	hotel				
+node	560807172	מלון אלדן	Eldan	31.7751172	35.2214958	hotel				
+node	561072189	American Colony	American Colony	31.7897779	35.2293666	hotel				
+node	561281308	דן פנורמה	Dan Panorama	31.7727793	35.2215010	hotel				
+node	561281769	Cassia Hotel	Cassia Hotel	31.7721839	35.2225175	hotel				
+node	562633314	بيت شباب البتراء الجديدة	New Petra Hostel	31.7767913	35.2285973	hostel				http://newpetrahostel.com/booking/
+node	568360133	Legacy Hotel (YMCA)	Legacy Hotel (YMCA)	31.7870081	35.2280428	hotel				
+node	571778166	ג'רוזלם הוסטל	Jerusalem Hostel	31.7822055	35.2196090	hostel				https://www.jerusalem-hostel.com/
+node	635730100	Harmony	Harmony	31.7808594	35.2196397	hotel	3		Atlas	
+node	685517870	النزل الهندي	Indian Hospice	31.7823652	35.2336318	hostel				
+node	685536761	مستشفى الأرمنية	Armenian Hospice	31.7800647	35.2324902	hostel				
+node	701248333	Citadel Hostel	Citadel Hostel	31.7764630	35.2300342	hostel				https://citadelyouthhostel.com/
+node	708512955	"Olive Tree Hotel, Royal Plaza Jerusalem"	"Olive Tree Hotel, Royal Plaza Jerusalem"	31.7897360	35.2282241	hotel				
+node	708512958	Grand Court Hotel	Grand Court Hotel	31.7892738	35.2274720	hotel				
+node	710205516	Addar Hotel	Addar Hotel	31.7895419	35.2288949	hotel				
+node	710205517	Jerusalem Hotel	Jerusalem Hotel	31.7844598	35.2285995	hotel				https://jrshotel.com/
+node	875679326	St Andrew's Scottish Guest House	St Andrew's Scottish Guest House	31.7689644	35.2252587	hostel				
+node	1000800870	מועדון פקולטה מאיירסדורף	Maiersdorf faculty club	31.7916087	35.2444121	hotel				
+node	1366411265	Rivoli Hotel	Rivoli Hotel	31.7837808	35.2329959	hotel				
+node	1366411274	Metropole Hotel	Metropole Hotel	31.7840769	35.2326947	hotel				
+node	1366428924	New Metropole Hotel	New Metropole Hotel	31.7843346	35.2325372	hotel				
+node	1366482445	Holy Land Hotel	Holy Land Hotel	31.7845956	35.2337288	hotel				
+node	1366489008	מלון לורנס	Hotel Lawrence	31.7852550	35.2311966	hotel				
+node	1366515258	Christmas Hotel	Christmas Hotel	31.7880186	35.2299370	hotel				
+node	1366515272	Jerusalem Meridian Hotel	Ambassador Boutique	31.7882387	35.2302404	hostel				
+node	1400696494	Azzahra Hotel	Azzahra Hotel	31.7863140	35.2333109	hotel				
+node	1606190158	Panorama Hotel	Panorama Hotel	31.7733551	35.2399125	hotel				https://www.jerusalempanoramahotel.com/
+node	1685095089	בית אביטל	Beit Avital	31.7860107	35.2109692	hotel				
+node	1697824002	מלון מצודת דוד	David Citadel Hotel	31.7771343	35.2222864	hotel				
+node	1702561250	פרימה רויאל	Prima Royale	31.7720494	35.2206013	hotel		Prima		https://www.prima-hotels-israel.com/prima-royal-jerusalem-hotel
+node	1703341665	שרתון פלאזה	Sheraton Plaza	31.7773354	35.2166642	hotel				
+node	1704007892	אוויל	Awill	31.7812836	35.2191495	hotel				
+node	1704008026	הולידיי	Holiday	31.7814888	35.2167409	hotel				
+node	1708046711	גולדן ג'רוזלם	Golden Jerusalem	31.7819049	35.2201937	hotel				
+node	1720645851	מונטיפיורי	Montefiore	31.7798456	35.2150529	hotel				
+node	1723912965	פעמונים	Paamonim Jerusalem Hotel	31.7829640	35.2175707	hotel				
+node	1730674152	הר ציון	Har Tzion	31.7683209	35.2273854	hotel				
+node	1908952239	St Thomas Home	St Thomas Home	31.7847981	35.2283474	hotel				
+node	1972874298	Little House in Bakah	Little House in Bakah	31.7562432	35.2216502	hotel				
+node	2022791791	אברהם הוסטל	Falkenfahrt 2023	31.7848791	35.2156289	hostel				https://www.abrahamhostels.com
+node	2150103481	Meridian Hotel/Christmas Hotel	Meridian Hotel/Christmas Hotel	31.7880700	35.2307511	hotel				
+node	2150103486	Grand Park Hotel	Grand Park Hotel	31.7903407	35.2311214	hotel				http://www.ibis.com/gb/middle-east/index.shtml
+node	2150525992	Landmark Hotel jordan	Landmark Hotel jordan	31.7859530	35.2302318	hotel				
+node	2150545773	Legacy Hotel	Legacy Hotel	31.7862505	35.2280634	hotel				
+node	2396187857	Capital Hotel	Capital Hotel	31.7849055	35.2309121	hotel				
+node	2396187867	National Hotel	National Hotel	31.7859431	35.2318386	hotel				
+node	2400351812	فندق جبل الزيتون	Mount of Olives Hotel	31.7792442	35.2449839	hotel				
+node	2401155260	מלון סנט ג'ורג'	Saint George Hotel	31.7858608	35.2303353	hotel				
+node	2417525883	מלון אלקומנדור	Commodore Hotel Jerusalem	31.7855826	35.2437680	hotel			Commodre Hotel Jerusalem	
+node	2423800355	מלון שוק הזהב	Golden Markets Hotel	31.7830661	35.2319476	hotel				
+node	2493256218	מלון הר ציון	Mount Zion Hotel	31.7682186	35.2267246	hotel				http://www.mountzionjerusalemhotel.com
+node	2493259943	Ritz Hotel	Ritz Hotel	31.7869111	35.2319481	hotel				
+node	2602222835	רמדה ירושלים	Ramada Jerusalem	31.7834564	35.1966084	hotel				
+node	2696309509	אינטרקונטיננטל שבע הקשתות	7 Arches Hotel	31.7756574	35.2438007	hotel				
+node	2818046024	Hebron Hostel	Hebron Hostel	31.7788887	35.2310681	hostel				
+node	3243260544	Zion Hotel	Zion Hotel	31.7819938	35.2185196	hotel				https://hotelzion.com/wb/pages/home.php
+node	3930363769	Jerusalem Inn by Smart Hotels	Jerusalem Inn	31.7823087	35.2209839	hotel				http://en.smarthotels.co.il/our-hotels/jerusalem-inn/
+node	4086343903	The Post Hostel	The Post Hostel	31.7799648	35.2222900	hostel				https://theposthostel.com/
+node	4214714391	American Colony Hotel	American Colony Hotel	31.7900475	35.2295238	hotel				
+node	4323427290	מלון ניו אימפריאל	New Imperial Hotel	31.7767848	35.2280056	hotel				https://www.newimperial.com/
+node	4443280390	Gästehaus des Propstes von Jerusalem	Lutheran Hospice	31.7765003	35.2304262	hotel				https://www.guesthouse-jerusalem.com/
+node	4784614821			31.7892670	35.2324166	hotel				
+node	5326006228			31.7736008	35.2257877	hotel				
+node	5472975322	New Swedish Hostel	New Swedish Hostel	31.7767603	35.2303417	hostel				
+node	5517221925	מלון גלוריה	Gloria Hotel	31.7771965	35.2275572	hotel				https://gloria-hotel.com/
+node	5814720752	Ramsis	Ramsis	31.7835444	35.2275235	hostel				
+node	5832849094			31.7796314	35.2309304	hostel				
+node	5835976777	Golden Gate Hostel	Golden Gate Hostel	31.7801515	35.2307203	hostel				http://www.goldengate4.com/
+node	5843123186	Rich's Place actual location	Rich's Place actual location	31.7746162	35.1893117	hostel				
+node	6051373785		Leonardo Hotel	31.7885416	35.2272710	hotel				
+node	6062554486		Maison Abraham	31.7708525	35.2397168	hostel				
+node	6165145722	Kaplan Hotel	Kaplan	31.7820219	35.2200453	hotel				
+node	6380547453	Koresh Hotel	Koresh Hotel	31.7799051	35.2224683	hotel				
+node	6588013685		Royal Hotel Jerusalem	31.7830620	35.1958856	hotel				
+node	6878405685	Jeru Caps Hotel	ElShaday	31.7825815	35.2207018	hostel				
+node	6955038347	Cinema Hostel	Cinema Hostel	31.7808774	35.2177693	hostel				https://www.cinema-hostel.com/
+node	6958019196		Christmas Hotel	31.7881149	35.2299021	hostel				
+node	7069795042	חוות טור סיני	Tur Sinai Organic Farm	31.8052082	35.1891543	hotel				https://www.tursinai-organy.co.il
+node	7139854785	Hashimi	Hashimi	31.7797100	35.2309226	hotel				
+node	7276125085		Lago Suites Hotel	31.7484658	35.2127261	hotel				
+node	9206943717	Waldorf Astoria Jerusalem		31.7775819	35.2219188	hotel				
+node	9351201678	Hashimi Hotel		31.7794055	35.2309453	hotel				
+node	9515722317			31.7843991	35.2188412	hotel				
+node	9766585517	בית קטן בבקעה	Little House in Bakah	31.7561844	35.2216477	hotel				
+node	10555055309		Jaffa Gate Hostel	31.7763649	35.2292107	hostel				
+node	12815456001	Central Boutique Hotel		31.7816451	35.2209065	hotel				
+node	12913445950	New Gate Hostel		31.7801194	35.2267620	hostel			Notre Dame of Jerusalem Center	https://www.newgatehostel.com/
+node	12957411127	Nikolai Pilgrim's Hotel		31.7827012	35.2218335	hotel				
+node	12967031054	Smart hotel		31.7812623	35.2190686	hotel				
+node	13535431394	Herbert Samuel		31.7814300	35.2196300	hotel				
+node	14039962583	Brown Jerusalem		31.7673374	35.1866507	hotel				
+node	14049939785	The Sephardic House		31.7740487	35.2316874	hotel				https://www.sephardichouse.co.il/
+node	14057431743	Heritage House		31.7745835	35.2300897	hostel				https://heritage.org.il/
+node	14057431744	Schuster House		31.7744638	35.2303114	hostel				https://heritage.org.il/
+node	14067445573	Casa Nova		31.7783009	35.2275116	hostel			Franciscans	
+node	14067445574	Petrakis Inn		31.7782500	35.2277158	hotel				
+node	14088642581	מלון גלוריה	Gloria Hotel (Annex)	31.7769255	35.2276866	hotel				https://gloria-hotel.com/
+node	14108320456	Paulus Huis Guest Hostel		31.7826429	35.2302168	hostel			German Association of the Holy Land	https://paulus-haus.de/en/paulus-haus/
+way	29881411	אינטרקונטיננטל שבע הקשתות	7 Arches hotel	31.7760527	35.2440070	hotel	3			
+way	38548747	מלון המלך דוד	King David Hotel	31.7743784	35.2226341	hotel	5			
+way	44169052	ימקא	YMCA	31.7743096	35.2215584	hostel				
+way	44718472	פרימה המלכים	Prima Kings	31.7752986	35.2171553	hotel				
+way	44718473	לאונרדו פלאזה	Leonardo Plaza	31.7762975	35.2178617	hotel		Fattal	Fattal	https://www.leonardo-hotels.co.il/
+way	44860166	לב ירושלים	Lev Yerushalayim	31.7819175	35.2160635	hotel				
+way	45081548	מלון מצודת דוד	David Citadel Hotel	31.7768977	35.2233260	hotel				
+way	52890125	التكية النمساوية للعائلة المقدسة	Austrian Hospice of the Holy Family	31.7803236	35.2321352	hostel			Archdiocese of Vienna	
+way	54420258	מלון פנינת ירושלים (נטוש(	Jerusalem Pearl Hotel (abandoned)	31.7784471	35.2249828	hotel				
+way	55496091	מלון נוטרדאם סנטר	Notre Dame of Jerusalem Center (Pontifical)	31.7800022	35.2259506	hotel		Pontifical Center		https://www.notredamecenter.org/
+way	73850233	ענבל	The Inbal Jerusalem Hotel	31.7705810	35.2219328	hotel				https://www.inbalhotel.com
+way	77091271	Ambassador Hotel	Ambassador Hotel	31.7941792	35.2302452	hotel				
+way	91058357	מלון וירט	Vert	31.7851035	35.2028749	hotel				https://www.ihg.com/crowneplaza/hotels/us/en/jerusalem/jrscp/hoteldetail
+way	124551395	מלון ממילה	Mamila Hotel	31.7780948	35.2235761	hotel				
+way	126783156	Christ Church Guest House	Christ Church Guest House	31.7760768	35.2288863	hostel				https://www.cmj-israel.org/CMJ-Ministries/Christ-Church-Guest-House/Guest-House-Overview
+way	136591947	אכסניית נוער רבין		31.7735446	35.2008831	hostel				https://www.iyha.org.il/yizhak-rabin-jerusalem-hostel
+way	157293735	שרתון		31.7771582	35.2167728	hotel	5			
+way	157551044	מלון וולדורף אסטוריה ירושלים	Waldorf Astoria Jerusalem	31.7773467	35.2216124	hotel	5	Waldorf Astoria	Hilton Hotels	https://www.hilton.com/en/hotels/jrswawa-waldorf-astoria-jerusalem/?SEO_id=OTHR-EMEA-WA-JRSWAWA
+way	158062661	בית שמואל	Beit Shmuel	31.7757852	35.2239767	hotel				http://www.beitshmuel.com
+way	160318257	מלון בוטיק אגריפס	Boutique Agripas Hotel	31.7829015	35.2156051	hotel				
+way	160319388	Bezalel Hotel		31.7809159	35.2140841	hotel				
+way	163738760	וילה בראון מושבה	וילה בראון מושבה	31.7620566	35.2169229	hotel				https://brownhotels.co.il/villa-brown-moshava-hotel
+way	166574238	אריאל	Dan Boutigue Jerusalem	31.7663661	35.2262094	hotel				
+way	218578878	דן ירושלים	Dan Jerusalem	31.7975843	35.2358804	hotel				
+way	229597950	מלון יהודה		31.7500239	35.1745814	hotel				
+way	239499180	מלון רימונים ירושלים		31.7679033	35.1866997	hotel			Rimonim	https://www.rimonim.com/רימונים-ירושלים
+way	246127016	Ambassador Hotel	Ambassador Hotel	31.7942349	35.2302454	hotel	4			
+way	253461461	בית הארחה ציפורי - ירושלים	Zippori Jerusalem - Guest House	31.7720659	35.1660816	hostel				
+way	254427986	לאונרדו ירושלים	Jerusalem Gardens	31.7848107	35.1975785	hotel				
+way	254427994	מלון פארק	Prima Park	31.7852214	35.1980429	hotel				
+way	258481880	מלון שערי ירושלים	Jerusalem Gate	31.7898225	35.2008725	hotel				
+way	261381108	Waldorf Astoria		31.7774592	35.2223554	hotel	5	Waldorf Astoria		https://waldorfastoria3.hilton.com/en/hotels/israel/waldorf-astoria-jerusalem-JRSWAWA/index.html
+way	268147244	Commodore Hotel Jerusalem	Commodore Hotel Jerusalem	31.7855064	35.2437832	hotel			Commodore Management	http://www.commodore-jer.com
+way	290812330	Gloria Hotel		31.7773196	35.2276799	hotel				
+way	290812336	New Imperial Hotel	New Imperial Hotel	31.7768067	35.2280584	hotel				https://www.newimperial.com/
+way	313045115	Shepard hotel	Shepard hotel	31.7926797	35.2340449	hotel				
+way	615505514	New Palm Hostel	New Palm Hostel	31.7824625	35.2292912	hostel				http://www.newpalmhostel.com
+way	744676491	بيت الحاج إكي هومو	Ecce Homo Pilgrim House	31.7804103	35.2333059	hostel				https://www.eccehomopilgrimhouse.com/
+way	871802632			31.7840018	35.1968423	hotel				
+way	1033481301	Yirmiyahu 33 Jerusalem Hotel		31.7906057	35.2029866	hotel				
+way	1392386761			31.7745748	35.2301061	hostel				
+way	1392513727	Hebron Khan Hostel		31.7788361	35.2311676	hostel				
+way	1470870039	Theatron Hotel		31.7681077	35.2156140	hotel		Accor		
+relation	19228634	קאזה נובה	Casa Nova	31.7781787	35.2273792	hotel				

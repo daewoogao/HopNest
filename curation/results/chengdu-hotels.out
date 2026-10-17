@@ -1,0 +1,374 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	628641786		Hello Chengdu International Youth Hostel	30.6831212	104.0849977	hotel				
+node	1280361051			30.5752102	103.9728220	hostel				
+node	1287644243	正熙国际酒店	Zenec Hotel	30.6559428	104.0760818	hotel				
+node	1311904383	索菲特泰合大饭店	Sofitel	30.6498006	104.0662277	hotel		Sofitel		
+node	1401843108	宜都宾馆		30.6175121	104.0462058	hotel				
+node	1445466095	成都盛捷江畔服务公寓	Somerset Riverside Chengdu	30.6485092	104.0645426	hotel				
+node	1947168644	红花教师苑		30.6933271	104.0812066	hostel				
+node	1947168668	沙河风情		30.6874698	104.0916508	hostel				
+node	1947168669	鹏程苑		30.6866189	104.0915801	hostel				
+node	1947168670	平安馨苑		30.6857376	104.0919335	hostel				
+node	1947168671	蓝泰公寓		30.6815565	104.0913066	hostel				
+node	1947168672	现代北苑		30.6847042	104.0899192	hostel				
+node	1947168675	51号院		30.6829111	104.0930644	hostel				
+node	1947168677	阳光欣园		30.6824552	104.0899898	hostel				
+node	1947168689	城隍公寓		30.6796519	104.0874522	hostel				
+node	1947168691	锦通大厦		30.6832244	104.0830287	hostel				
+node	1949101357	新港公寓		30.6850608	104.1081991	hostel				
+node	1949126583	机车苑		30.6913901	104.1068580	hostel				
+node	1949143787	爱家馨苑		30.6878933	104.1110852	hostel				
+node	1956608354	香逸商务酒店		30.6762142	104.1215283	hotel				
+node	1958204039	星影饰品		30.6766465	104.0757885	hotel				
+node	1958204161	金地饭店	Jindi Hotel	30.6716670	104.0731175	hotel				
+node	1964355086	太极商务宾馆		30.6707176	104.0976437	hotel				
+node	1964356616	城市名流商务宾馆		30.6715343	104.0973380	hotel				
+node	1964408910	高地中心		30.6713128	104.1017046	hostel				
+node	2202088701			30.6444847	104.0461060	hotel				
+node	2440326848	西农驿站	Xinong Hotel	30.6432285	104.0503082	hotel				
+node	2534025673	成都圆和圆佛禅酒店	Buddha Zen Hotel	30.6755081	104.0706087	hotel				http://www.buddhazenhotel.com
+node	2708951129	新东方千禧大酒店	Millennium Hotel	30.6154568	104.0464841	hotel				http://www.millenniumhotels.com.cn/millenniumchengdu/
+node	2823785801		Mix Hostel	30.6813602	104.0713552	hostel				http://www.chengduhostel.com
+node	2981056891			30.6254998	104.0750748	hotel				
+node	2981056902	速8酒店	Super 8	30.6266838	104.0737245	hotel		速8酒店		
+node	2981056903		Rest Posthouse	30.6267507	104.0728417	hotel				
+node	2981319498			30.7131564	104.0090278	hotel				
+node	3036529154	成都亨睿国际青年旅舍	Chengdu Henry`s International Youth Hostel	30.6962362	104.0824454	hostel				
+node	3085278690	成都环球中心天堂洲际大饭店	InterContinental Chengdu Global Center	30.5694475	104.0611478	hotel	5	InterContinental		https://www.ihg.com/intercontinental/hotels/gb/en/chengdu/ctuic/hoteldetail
+node	3085289786	成都世纪城天堂洲际大饭店	InterContinental Century City Chengdu	30.5620773	104.0696903	hotel	5	InterContinental		https://www.ihg.com/intercontinental/hotels/gb/en/chengdu/ctuha/hoteldetail
+node	3314623176	百港国际酒店	Baigang International Hotel	30.5700533	103.9717163	hotel				
+node	3314624951	凯宾斯基酒店	Kempinski	30.6209675	104.0639366	hotel		Kempinski		
+node	3577686878	成都校友之家		30.6421058	104.0505524	hotel				
+node	3582961918	文翰宾馆		30.6396284	104.0448879	hotel				
+node	3582961923	季风青年旅舍		30.6388715	104.0462988	hostel				
+node	3614069296	金河宾馆	Jinhe Hotel	30.6635158	104.0536327	hotel				
+node	3614069299			30.6625235	104.0520722	hotel				
+node	3739911631		Chengdu Flipflop Hostel	30.6528977	104.0756088	hostel				http://www.chengduhostel.com/flipflop/
+node	3747459682	成都希尔顿酒店	Hilton Chengdu	30.5519827	104.0656563	hotel		Hilton	Hilton Worldwide	https://www3.hilton.com/en/hotels/china/hilton-chengdu-CTUCCHI/index.html?WT.mc_id=zELWAKN0APAC1HI2DMH3LocalSearch4DGGenericx6CTUCCHI
+node	4012381395	总府四川宾馆	Crowne Plaza Chengdu City Center	30.6620737	104.0752034	hotel			"China, Sichuan, Chengdu, Jinjiang, 总府街31号"	https://www.ihg.com/crowneplaza/hotels/us/en/chengdu/ctuch/hoteldetail
+node	4130220190	窝窝便利酒店	Wowo	30.6527509	104.0797576	hotel				
+node	4130220490	成都东方广场假日酒店	Holiday Inn Chengdu Oriental Plaza	30.6500459	104.0865903	hotel		Holiday Inn		
+node	4223495594	18步岛别墅	18 Bu dao	30.5469297	104.0755651	hotel				www.18budao.com
+node	4245046089		The Hotel Zen Urban Resort	30.6439606	104.0744659	hotel				
+node	4292858213	成都香格里拉大酒店	Shangri-La Hotel Chengdu	30.6453863	104.0836134	hotel				
+node	4313868489		The Loft Design Hostel and Coffee Shop	30.6702861	104.0510653	hostel				
+node	4319864590		lazy Inn Hostel	30.6779702	104.0311401	hostel				
+node	4333862090		Woke international youth hostel	30.6404462	104.0437078	hostel				
+node	4361195290		woke international youth hostel	30.6404569	104.0434558	hostel				
+node	4394324490	惟适飞鸟酒店	Wesi Cultural Hotel	30.6730824	104.0733004	hotel				
+node	4428438989		Chengdu Tianfu Sunshine Hotel	30.6700226	104.0765102	hotel				
+node	4603572889			30.6577010	104.0908223	hostel				
+node	4699401056	汉韵酒店		30.5941796	104.0591896	hotel				
+node	4745882530			30.5491560	104.0776887	hotel				
+node	4770960851	成都川港国际酒店		30.5708199	103.9731622	hotel				
+node	4771242022	亚朵酒店	ATour hotel	30.6532626	104.0533496	hotel		亚朵酒店		
+node	4772054322	Mr Panda		30.6719292	104.0654671	hostel				https://m.booking.com/hotel/cn/chengdu-mr-panda-youth.html
+node	4793349883		Nice house hostel	30.6807878	104.0564458	hotel				
+node	4804997721	成都蓉城时代酒店公寓师大店	Chengdu Rongcheng Time Apartment Shida Branch	30.5775680	104.1980465	hotel				
+node	4828030721		Summer Wheat The Past (proper location)	30.6460816	104.0768217	hotel				
+node	4924037121		business hotel	30.5799080	103.9162690	hotel				
+node	4991472824	德馨客栈	Decent Inn	30.6700757	104.0632886	hotel				
+node	5121394021		Wen Jun Mansion Hotel	30.6634189	104.0439909	hotel				
+node	5160329724		Chutian Junlin Hotel	30.6712133	104.0301339	hotel				
+node	5273688766	峨嵋雪芽大酒店		30.6801538	104.0238574	hotel				
+node	5336411860	康定酒店		30.6455185	104.0459673	hotel				
+node	5409413321		Chengdu Dreams Travel International Youth Hostel	30.6440898	104.0473402	hostel				
+node	5411303622	美丽豪酒店	Merlinhod Hotel	30.6809153	104.0460276	hotel				
+node	5469306641	7天酒店	7 Days Inn	30.6320423	104.0585426	hotel		7天酒店		
+node	5719325321	九龙鼎青年客栈	Holly‘s hostel	30.6459212	104.0444267	hostel				
+node	5849447114	汉庭	Hanting Hotel	30.6454489	104.0391222	hotel		汉庭酒店		
+node	5992993189	美居酒店（宽窄巷子店）	Hotel Mercure (Kuanzhai Alleys)	30.6648769	104.0470187	hotel		美居酒店		
+node	6019934675	维也纳酒店	Vienna Hotel	30.6611579	104.0668615	hotel		维也纳酒店		
+node	6117445162	全季酒店	Ji Hotel	30.5512048	104.0642927	hotel		全季酒店		
+node	6248739213		Holiday Inn	30.5605946	104.0558956	hotel		Holiday Inn		
+node	6277884932	城市名人酒店		30.6565291	104.0629785	hotel				
+node	6371354541	锦江之星品尚		30.7716001	104.0545667	hotel				
+node	6371354542	锦江之星	Jinjiang Inn	30.6733699	104.0699813	hotel		锦江之星		
+node	6464214388		Unikue Hotel	30.6391329	104.0295473	hotel				
+node	6576231585	成都领地希尔顿嘉悦里酒店	Canopy by Hilton Chengdu City Center	30.6583342	104.0621715	hotel		Canopy		https://www.hilton.com/en/hotels/ctulcpy-canopy-chengdu-city-centre/
+node	6576991336		Hilton Chengdu Chenghua	30.6843969	104.0977832	hotel				
+node	6649326124		Casa hotel	30.6446989	103.9993478	hotel				
+node	6750041785		CASA Chengdu Boutiqe Hotel&Spa	30.6449145	103.9991211	hotel				https://casachengduhotel.com/
+node	7099063185		Chengdu Bluecity Hotel	30.6716575	104.0521403	hotel				
+node	7155369185	ファースト		30.5699004	103.9724673	hotel				
+node	7553512490	塞家		30.6538225	104.0758085	hostel				
+node	7996236886		Xinliang Hotel	30.6563550	104.0717732	hotel				
+node	8554808519	成都十方青年客棧		30.6278174	104.0731528	hotel				
+node	8566778617	成都一转一回青年旅舍		30.6498816	104.0801668	hotel				
+node	8568509818		Kedir Chengdu home	30.7497916	103.9174102	hostel				
+node	8749005489	成都禧玥酒店		30.5514431	104.0640669	hotel		JOYA		
+node	9134665525	星程酒店		30.7122245	104.0394054	hotel				
+node	9149381695	成都金牛美居酒店	Mercure Chengdu Jinniu Wanda Plaza	30.6901539	104.0641471	hotel	4	美居酒店		https://all.accor.com/hotel/B705/index.en.shtml
+node	9151237232	7天酒店	7 Days Inn	30.6309852	104.1347971	hotel		7天酒店		
+node	9153488001	希岸酒店		30.6272297	104.1321110	hotel				
+node	9153496049	如家酒店	Home Inn	30.6124575	104.1133872	hotel		如家酒店		
+node	9315137315	嘉逸智能公寓		30.6290916	104.1338883	hotel				
+node	9385060667	美湖假日酒店		30.6156800	104.1264191	hotel				
+node	9405093692	尚公馆·水韵		30.6249741	104.1185375	hotel				
+node	9406843096	宜必思酒店	Ibis	30.6724146	104.1087695	hotel		Ibis		
+node	9458400547	近未来美术馆旅舍		30.6484280	104.0961378	hotel				
+node	9458510966	凉山宾馆		30.6456981	104.0641839	hotel				
+node	9592243245	君临逸雅酒店		30.6043818	104.0744447	hotel				
+node	10082425402	成都瑞吉酒店	The St. Regis Chengdu	30.6634959	104.0721824	hotel	5	St. Regis		https://www.marriott.com.cn/hotels/ctuxr-the-st-regis-chengdu
+node	10648225426	教育宾馆		30.6701348	104.0367739	hotel				
+node	10867999671	锦州之家·宿屿		30.5834815	103.9800718	hotel				
+node	11167155421	成都富力丽思卡尔顿酒店	"The Ritz-Carlton, Chengdu"	30.6664017	104.0675133	hotel	5	The Ritz-Carlton		https://www.ritzcarlton.com/zh-cn/hotels/cturz-the-ritz-carlton-chengdu
+node	11220621420	麦格酒店		30.6795404	103.9704621	hotel				
+node	11373735540		Rhombus Chengdu Hotel	30.6525931	104.0795747	hotel				
+node	11514143685	新华宾馆	Xinhua Hotel	30.6771729	104.0631203	hotel				
+node	11707552656	成都空港大酒店		30.5778057	103.9580211	hotel				
+node	11710927183	岷山安逸大酒店		30.6613339	104.0526652	hotel				
+node	11736375583	嘉好弗斯达酒店		30.6731901	104.0661195	hotel				
+node	11736375595	八谊宾馆		30.6742726	104.0658285	hotel				
+node	11736375721	艺锦酒店		30.6514726	104.0939866	hotel				
+node	11736786363	岷山饭店	Minshan Hotel	30.6511028	104.0645644	hotel				
+node	11736800475	锦江宾馆	Jinjiang Hotel	30.6507295	104.0621831	hotel				https://www.jjhotel.com
+node	11780301196	成都尧棠公馆		30.5664159	104.0464274	hotel				
+node	11925713535	成都锦城如家青年旅舍	Chengdu Jincheng Ruijia Youth Hostel	30.6249276	104.0633592	hostel				
+node	11925713583	华纳丽尊酒店		30.6230100	104.0606691	hotel				
+node	11990266056	成都润泽龙园酒店		30.5312681	103.9939062	hotel				
+node	11990266120	洪园乡村酒店		30.5294749	103.9867416	hotel				
+node	11992383458	成都 W 酒店	W Chengdu	30.5857409	104.0525495	hotel		W Hotels		https://www.marriott.com/en-us/hotels/ctuwh-w-chengdu/overview/
+node	11992403682	成都高新万枫酒店	Fairfield by Marriott Chengdu Hi-Tech Zone	30.5431802	104.0847762	hotel		Fairfield Inn		https://www.marriott.com.cn/hotels/ctufh-fairfield-chengdu-hi-tech-zone
+node	11992403683	成都茂业 JW 万豪酒店	JW Marriott Hotel Chengdu	30.6592725	104.0675001	hotel		JW Marriott		https://www.marriott.com/en-us/hotels/ctumj-jw-marriott-hotel-chengdu/overview/
+node	11992403686	成都 AC 酒店	AC Hotel Chengdu North	30.7695961	104.0778168	hotel		AC Hotels		https://www.marriott.com/en-us/hotels/ctuac-ac-hotel-chengdu-north/overview/
+node	12000305213	成都高新豪生大酒店	Howard Johnson by Wyndham Hi-Tech Plaza Chengdu	30.5931873	104.0664981	hotel		Howard Johnson		https://www.wyndhamhotels.com/zh-cn/hojo/chengdu-china/howard-johnson-hi-tech-plaza-chengdu/overview
+node	12000305214	成都金府华美达大酒店	Ramada by Wyndham Chengdu North	30.7194703	104.0409548	hotel		Ramada		https://www.wyndhamhotels.com/zh-cn/ramada/chengdu-china/ramada-chengdu-north/overview
+node	12000325571	成都悠泊豪生荟酒店	Howard Johnson by Wyndham Upark Business Club Chengdu	30.6067785	103.9860294	hotel		Howard Johnson		https://www.wyndhamhotels.com/zh-cn/hojo/chengdu-china/howard-johnson-upark-business-club-chengdu/overview
+node	12000325572	成都尊悦豪生酒店	Howard Johnson by Wyndham Zunyue Hotel Chengdu	30.7101127	103.9983457	hotel		Howard Johnson		https://www.wyndhamhotels.com/zh-cn/hojo/chengdu-china/howard-hohnson-zunyue-hotel-chengdu/overview
+node	12000325629	速8酒店	Super 8	30.7071933	104.1633322	hotel		速8酒店		https://www.super8.com.cn/Hotel/Detail/4230
+node	12000325630	速8酒店	Super 8	30.5690667	104.1724277	hotel		速8酒店		https://www.super8.com.cn/Hotel/Detail/4631
+node	12000325639	速8酒店	Super 8	30.7980869	103.9653403	hotel		速8酒店		
+node	12000325719	繁洲花园大酒店		30.7917649	103.9576411	hotel				
+node	12087291373	稻香民宿		30.7202535	103.9370411	hotel				
+node	12097522344	布丁酒店		30.6712693	104.0861703	hotel				
+node	12125884018	成都群光君悦酒店	Grand Hyatt Chengdu	30.6561960	104.0741107	hotel		Grand Hyatt		https://www.hyatt.com/zh-CN/hotel/china/grand-hyatt-chengdu/ctugh
+node	12182043895	维也纳国际酒店（环球中心新会展店）	Vienna International Hotel Chengdu New Global Exhibition Center	30.5498411	104.0746779	hotel		维也纳国际酒店		
+node	12246865001		Howdy Smart Hotel	30.6496450	104.0756487	hotel				
+node	12272458601		Pod Inn (Chengdu Niushikou Subway Station)	30.6433649	104.1047513	hotel				
+node	12393357401		"Hilton Garden Hotel, Kuanzhai Alley"	30.6676872	104.0443043	hotel				
+node	12444327828			30.6358216	104.0469781	hostel				
+node	12449669571	成都锦里红牌楼地铁站亚朵酒店		30.6358146	104.0321506	hotel				
+node	12451077864	小半玉林民宿		30.6322506	104.0545777	hostel				
+node	12451125751	南都酒店		30.6285775	104.0637152	hotel				
+node	12453068394	桔子酒店		30.6268587	104.0615606	hotel				
+node	12460974892	成都天晓商务酒店(锦华万达店)		30.6198516	104.0969559	hotel				
+node	12466871972	成都鑫雁商务酒店		30.6564754	103.9986257	hotel				
+node	12471266615	和颐至尚酒店(成都武侯祠省骨科医院地铁站店)		30.6544896	104.0389447	hotel				
+node	12471432637	熙蜀酒店	Xishu Garden Inn	30.6753138	104.0723206	hostel			熙蜀酒店	https://www.booking.com/hotel/cn/xishu-garden-inn-xi-shu-jiu-dian.zh-tw.html?aid=2369661&label=msn-MHZPMVY1QjM02MFr2AM8PQ-80539413994993%3Atikwd-80539589617906%3Aloc-40%3Aneo%3Amte%3Alp40%3Adec%3Aqsbooking&sid=2f5a5691f41f3bf2bca1807de3e62e1e&dest_id=1100
+node	12471445293	金科圣嘉酒店(武侯祠红牌楼店)		30.6432787	104.0248962	hotel				
+node	12473598485	全季酒店	Ji Hotel	30.6536969	104.0440691	hotel		全季酒店		
+node	12473660431	万爱情侣酒店(成都耍都店)		30.6495600	104.0542509	hotel				
+node	12473660432	VALATOMS梵拉图酒店(成都武侯祠锦里店)		30.6497244	104.0540191	hotel				
+node	12475438370	全季酒店	Ji Hotel	30.6400442	104.0604889	hotel		全季酒店		
+node	12475706703	成都博纳酒店(四川大学望江校区店)		30.6406325	104.0839299	hotel				
+node	12475706704	漫金利酒店(成都川大川音店)		30.6401773	104.0837512	hotel				
+node	12480649911	开通国际酒店(成都人民北路店)		30.6842819	104.0798086	hotel				
+node	12480744492	Steam酒店(金牛万达店)		30.6833666	104.0800671	hotel				
+node	12480745183	喆啡酒店(成都前锋路地铁站电子科大店)		30.6801814	104.0895261	hotel				
+node	12483829720	北鑫酒店(李家沱店)		30.6925440	104.0912996	hotel				
+node	12486746098	归屿ILAND艺术酒店(李家沱店)		30.6947520	104.0887468	hotel				
+node	12486746199	城市便捷酒店		30.6899539	104.0843692	hotel				
+node	12492320817	自贡宾馆(成都金牛万达梁家巷汽车站店)		30.6900039	104.0787696	hotel				
+node	12492320902	红景地酒店		30.6896226	104.0802341	hotel				
+node	12498108191	馨漫麓星空park公寓		30.5495762	104.0357656	hotel				
+node	12498362955	成都梦想家之家公寓(天府三街分店)		30.5481433	104.0354323	hotel				
+node	12500867299	成都雍湖荟主题公寓		30.5531274	104.0513626	hotel				
+node	12507294115	锦豪城市精品酒店		30.6055683	104.1419109	hotel				
+node	12512374542	维拉斯汀投影酒店(骑龙地铁站店)		30.5252087	104.0364477	hotel				
+node	12512374553	维也纳国际酒店(成都会展中心天府新区骑龙地铁站店)		30.5249915	104.0380378	hotel				
+node	12512460500	99旅馆连锁		30.6894407	104.0385947	hotel				
+node	12540962621	成都乐活尚品酒店		30.6637766	104.0385436	hotel				
+node	12541863042	瑞欣酒店(成都宽窄巷子店)		30.6774970	104.0499429	hotel				
+node	12541940046	成都来福胶泥公寓(2号店)		30.6753134	104.0541562	hotel				
+node	12543420495	成都悦惠美酒店(文殊院店)		30.6779336	104.0674444	hotel				
+node	12543420502	成都私享度假花园酒店		30.6760904	104.0651250	hotel				
+node	12543688125	成都安悦原舍酒店(春熙路天府广场店)		30.6698351	104.0677333	hotel				
+node	12543688181	成都城市之星公寓酒店		30.6701028	104.0658739	hotel				
+node	12543688296	7天酒店	7 Days Inn	30.6724553	104.0644467	hotel		7天酒店		
+node	12544008418	柠檬轻居酒店(宽窄巷子店)		30.6774292	104.0574591	hotel				
+node	12544008419	7天酒店	7 Days Inn	30.6775692	104.0575546	hotel		7天酒店		
+node	12544079836	桔子水晶成都宽窄巷子酒店		30.6740607	104.0568328	hotel				
+node	12544080062	成都锦尚花酒店(宽窄巷子店)		30.6713407	104.0576235	hotel				
+node	12544080279	成都宽窄巷子奎星楼亚朵X酒店		30.6701980	104.0539106	hotel				
+node	12545807407	成都晴天哥哥公寓		30.6650379	104.0567688	hotel				
+node	12545807755	梦之阁酒店（成都宽窄巷子人民公园地铁站店）	Shuttle International Youth Hotel	30.6622365	104.0565003	hotel				
+node	12545807844	如家酒店	Home Inn	30.6609493	104.0567719	hotel		如家酒店		
+node	12545983954	春熙宾馆		30.6579129	104.0742237	hotel				
+node	12545983958	岷山安逸大酒店(成都春熙太古里店)		30.6568985	104.0758022	hotel				
+node	12546663272	来住星辰酒店(成都春熙路339天府熊猫塔店)		30.6728919	104.0787044	hotel				
+node	12546663605	喆啡锐品酒店	James Joyce Elite Hotel	30.6708789	104.0749458	hotel				
+node	12548971389	成都一店公寓(城隍庙街分店)		30.6671735	104.0871543	hotel				
+node	12550810940	成都天雨流芳公寓(新华大道玉沙路分店)		30.6667529	104.0821952	hotel				
+node	12550811523	西姆翰墨酒店		30.6628815	104.0833711	hotel				
+node	12550811528	拾柒精品公寓(春熙路店)		30.6633676	104.0836559	hotel				
+node	12551320945	千寻青年旅舍		30.6907602	104.0439288	hostel				
+node	12551444665	云曦公馆公寓(宏顺街分店)		30.6452063	104.0939361	hotel				
+node	12551444826	宜必思尚品酒店(成都春熙太古里店)		30.6528222	104.0915739	hotel				
+node	12551444845	CHIC外星人电竞酒店(太古里店)		30.6530355	104.0929785	hotel				
+node	12551444846	ISEYA世野·设计酒店(太古里店)		30.6531177	104.0928200	hotel				
+node	12553279229	博纳斯酒店(成都万象城玉双路地铁站店)		30.6545515	104.1000184	hotel				
+node	12553893265	7天酒店	7 Days Inn	30.6302936	104.0953486	hotel		7天酒店		
+node	12555932118	悠家成都锦江店1017公寓(莲桂西路分店)		30.6382091	104.0933731	hotel				
+node	12556680988	全季酒店(成都东郊记忆店)		30.6716895	104.1181571	hotel				
+node	12560642758	宜必思酒店(成都火车东站店)		30.6464977	104.1378729	hotel				
+node	12560749947	维也纳国际酒店·宴会厅(成都火车东站西广场店)		30.6368896	104.1369702	hotel				
+node	12560899396	成都锦逸隐舍民宿		30.6368411	104.1440655	hotel				
+node	12563218180	希悦轻居酒店(火车东站西广场店)		30.6261155	104.1303946	hotel				
+node	12564905706	成都悦然民宿		30.6256217	104.1187406	hotel				
+node	12565840342	成都川师暖心公寓		30.6169506	104.1232784	hotel				
+node	12581434148	成都美丽云天国际酒店		30.6680267	104.0187068	hotel				
+node	12582224095	浣花草堂酒店		30.6640371	104.0197613	hotel				
+node	12582380081	IU酒店		30.6699626	104.0272841	hotel				
+node	12589817207	汉庭酒店	Hanting Hotel	30.6883689	104.0215076	hotel		汉庭酒店		
+node	12590090286	成都天奥宾馆		30.6960488	104.0305640	hotel				
+node	12592522694	桔子酒店		30.6875794	104.0249005	hotel				
+node	12592843494	速8酒店	Super 8	30.6927718	104.0343976	hotel		速8酒店		
+node	12592843597	成都嘉华酒店		30.6937379	104.0398682	hotel				
+node	12598250495	金牛一号酒店		30.6966341	104.0528592	hotel				
+node	12600962029	莱克精品公寓酒店		30.7189208	104.0529722	hotel				
+node	12615780375	紫都酒店		30.6185896	104.0457714	hotel				
+node	12615780792	怀希酒店		30.6105125	104.0570708	hotel				
+node	12616013624	7天酒店	7 Days Inn	30.6200870	104.0741687	hotel		7天酒店		
+node	12616013830	幻变艺术酒店		30.6144817	104.0661847	hotel				
+node	12618129462	九漏鱼青年旅舍		30.6171857	104.0700749	hotel				
+node	12618336056	路易城堡青桐酒店		30.5983190	104.0450022	hotel				
+node	12618407038	杰恩酒店		30.5804849	104.0466872	hotel				
+node	12620539579	布丁酒店		30.7045268	104.0641499	hotel				
+node	12623385182	铂舍精选酒店		30.7070791	104.0984787	hotel				
+node	12623385183	九零轻奢公寓		30.7070249	104.0983572	hotel				
+node	12623385184	光年电竞酒店		30.7070711	104.0978716	hotel				
+node	12625576032	成都遇见莫兰迪公寓		30.7139644	104.1066114	hotel				
+node	12628331481	宜必思酒店	Ibis	30.6005731	104.0345679	hotel		宜必思酒店		
+node	12628350166	青芒果青年旅舍		30.6898031	104.0347187	hostel				
+node	12638748864	冬林阳光酒店		30.5909592	104.0998408	hotel				
+node	12638805454	成都逸景假日酒店		30.5906360	104.1106874	hotel				
+node	12770373121	筱熊猫精品酒店	Xiao Panda Bontique Hotel	30.6738138	104.0753735	hotel				
+node	12770373144	自由时酒店	Free Time Hotel	30.6735759	104.0745476	hotel				
+node	12770373179	锦著酒店	Jinzhu Hotel	30.6708765	104.0735847	hotel				
+node	12770373185	金开国际公寓	Jinkai Service Apartment	30.6755687	104.0734463	hotel				
+node	12770373200	锦苑宾馆	Sofis Jinyuan Hotel	30.6794328	104.0678408	hotel		索菲斯酒店	成都索菲斯锦苑宾馆管理有限责任公司	
+node	12811615637	浣花黉台酒店		30.6623602	104.0304851	hotel				
+node	12811615680	豪阁遇上酒店		30.6695415	104.0377698	hotel			成都豪阁遇上酒店有限公司	
+node	12811615707	和颐至尚酒店		30.6680653	104.0343260	hotel				
+node	12828284408	望江宾馆		30.6293251	104.1111170	hotel				
+node	13058074283	全季酒店	Ji Hotel	30.6520051	104.0598631	hotel		全季酒店		
+node	13058074284	世代锦江国际酒店		30.6507680	104.0590220	hotel				
+node	13108794183	新兰天地酒店	Xinlan Hotel	30.6032912	104.0557632	hotel			成都新兰天地酒店管理有限公司	
+node	13161263301		Panda Hostel	30.6760012	104.0726298	hostel				
+node	13180291438	米唐青年旅社		30.6747732	104.0468361	hostel				
+node	13314329201	成都八喜青年旅舍(玉林西路省体育馆地铁站店)	baxi youth hostel	30.6361585	104.0547685	hostel				
+node	13329428584	亚朵轻居酒店	Atour Light	30.6610140	104.0793552	hotel		亚朵轻居酒店		
+node	13447803338	成都西蜀森林酒店		30.6464875	103.9551968	hotel				
+node	13543468414	隐蜀酒店		30.7246580	104.1317298	hotel				
+node	13605922901	成都太古里春熙美居酒店	Chengdu Taikoo Li Chunxi Mercure Hotel	30.6615924	104.0729801	hotel				https://all.accor.com/hotel/B1Y3/index.en.shtml
+node	13644943401	城际酒店	Intercity Hotel	30.6573467	104.0748584	hotel		IntercityHotel		
+node	13660441381	东方丽致酒店	Dongfang Lizhi Hotel	30.6565251	104.0728240	hotel				
+node	13702817520			30.6722405	104.0720902	hotel				
+node	13702817524	全季酒店	Ji Hotel	30.6724485	104.0687797	hotel		全季酒店		
+node	13755062501	时光漫步S酒店（成都宽窄巷子店）	Nostalgia S Hotel (Chengdu  KuanZhai Alley）	30.6617591	104.0487694	hotel				
+node	13757893201	瑞峰酒店	Rayfont Hotel	30.6330223	104.1427238	hotel				
+node	13942257098	川兴银利酒店-成都宽窄巷子成都宽窄巷子	Chuanxing Yinli Hotel	30.6664572	104.0427266	hotel				
+node	14030210402	瑞城名人酒店	CELEBRITY RUICHENG HOTEL	30.6729934	104.0636359	hotel				
+node	14053074701	轻居酒店	Atour Light	30.6781863	104.0396105	hotel				
+node	14053270547	丽呈东谷酒店	Rezen Dong Hotel	30.6592555	104.0597051	hotel				
+node	14053549101	西姆漫居酒店	Theme Romantic Hotel	30.6780868	104.0390726	hotel				
+node	14055403601	亚朵	Atour Hotel	30.6618267	104.0549223	hotel		亚朵酒店		
+node	14084313101	你好酒店（成都天府广场地铁站博物馆店）	Ni Hao Hotel (Chengdu Tianfu Square Subway Station Museum)	30.6595271	104.0661319	hotel		你好酒店		
+node	14124291578	成都凤凰山智选假日酒店	Holiday Inn Express Chengdu Phoenix Hill	30.7577474	104.0723639	hotel		Holiday Inn Express		https://www.ihg.com/holidayinnexpress/hotels/us/en/chengdu/ctucm/hoteldetail
+node	14124291579	成都凤凰山逸衡酒店	EVEN Hotel Chengdu Phoenix Hill	30.7576744	104.0724488	hotel		EVEN Hotels		https://www.ihg.com/evenhotels/hotels/us/en/chengdu/ctupx/hoteldetail
+node	14132832140	Chengdu KuanZhai Jin Qi Hotel		30.6647106	104.0470696	hotel				
+node	14203203401	月下熙壤酒店	Terra Art Zen Hotel (Yuexia Xirang Hotel)	30.6462697	104.0446304	hotel				
+node	14232210741	金李酒店		30.6592565	104.0660647	hotel				
+node	14232218763	亚朵	Atour Hotel	30.6587140	104.0767039	hotel		亚朵酒店		
+node	14232218764	慢喜酒店		30.6920285	104.1033820	hotel				
+node	14232223557	亚朵	Atour Hotel	30.6536248	104.0815331	hotel		亚朵酒店		
+node	14232234990	海友酒店		30.6593715	104.0659718	hotel				
+node	14232234991	汉庭酒店	Hanting Hotel	30.6593036	104.0658824	hotel		汉庭酒店		
+node	14232235475			30.6598526	104.0781037	hotel				
+node	14232235868			30.6535170	104.0752557	hotel				
+node	14232235886			30.6849914	104.0813900	hotel				
+node	14232236396			30.6529998	104.0807585	hotel				
+node	14232236397			30.6704123	104.0863764	hotel				
+node	14232237332	居舍	Upper House	30.6540180	104.0819273	hotel				
+node	14232237334			30.6667839	104.0841237	hotel				
+node	14232237761			30.6670065	104.0538852	hotel				
+node	14232237974	如时潮娃酒店		30.6592563	104.0659902	hotel				
+node	14232237975	美居酒店	Mercure	30.6605040	104.0664325	hotel		美居酒店		
+node	14232241113			30.6580849	104.0802732	hotel				
+node	14232241114			30.6863836	104.0988752	hotel				
+node	14232243365	里白酒店		30.6592181	104.0656174	hotel				
+node	14232243796	Novotel		30.6523265	104.0689006	hotel		Novotel		
+node	14232249012			30.6464725	104.0794218	hotel				
+node	14232251786			30.6600325	104.0329802	hotel				
+node	14232259497			30.6471494	104.1037767	hotel				
+node	14232264320			30.6559433	104.0574881	hotel				
+node	14232266309	汉庭酒店	Hanting Hotel	30.6595115	104.0692255	hotel		汉庭酒店		
+node	14232266444	三石酒店		30.6556763	104.0573809	hotel				
+node	14291180295	Anyee Xinliang Grand Hotel		30.6566105	104.0715044	hotel				
+node	14291835214	成都锦弘交通商务酒店		30.6481998	104.0512846	hotel				
+way	284259039	铁西大酒店		30.7614521	103.9632225	hotel				
+way	412069069			30.6154676	104.0465870	hotel				
+way	412640266	怡东国际大酒店		30.6760755	104.1369415	hotel				
+way	475635991	专家公寓		30.6341084	104.0722801	hotel				
+way	476647763	成都首座万丽酒店	Renaissance Chengdu Hotel	30.6147853	104.0640023	hotel				
+way	481376641	康普雷斯国际酒店		30.6061717	104.0599356	hotel				
+way	484309784	成都首座万豪酒店	Chengdu Marriott Hotel Financial Centre	30.5889170	104.0671460	hotel		Marriott		https://www.marriott.com.cn/hotels/ctumc-chengdu-marriott-hotel-financial-centre
+way	484351303	蓉港博尔曼酒店		30.5703277	103.9727513	hotel				
+way	484451006	家园国际酒店	Homeland hotel	30.5806713	104.0086376	hotel				
+way	484463482	西蜀人家		30.5298053	104.0361898	hotel				
+way	498650238	成都帝盛酒店	Dorsett Chengdu Hotel	30.6699767	104.0650820	hotel		Dorsett Hotel		https://www.dorsetthotels.com/dorsett-chengdu/
+way	498650273	成都睿景酒店（天府廣場寬窄巷子店）	Kew Green Hotel Chengdu	30.6602984	104.0572107	hotel				
+way	498650286	成都天府丽都喜来登饭店	Sheraton Chengdu Lido Hotel	30.6672103	104.0636773	hotel		喜来登		https://www.marriott.com.cn/hotels/ctuls-sheraton-chengdu-lido-hotel
+way	508000054	环球金融中心 1		30.5532233	104.0610878	hotel				
+way	527788539	Lazy Bones Templeside Poshpacker		30.6794679	104.0759390	hostel				http://www.chengduhostel.com
+way	584407649	京川宾馆	Jingchuan Hotel	30.6548156	104.0376864	hotel				
+way	604096318	成信招待所		30.5850086	103.9807524	hostel				
+way	607830679	百花园乡村酒店		30.5739952	104.1310598	hotel				
+way	613969451	尊煌假日酒店		30.7038690	104.1026253	hotel				
+way	621124471	腾云楼宾馆		30.6816294	104.0699996	hotel				
+way	621124473	腾云楼宾馆		30.6814875	104.0700614	hotel				
+way	621124477	西藏饭店		30.6846626	104.0691118	hotel				
+way	621124479	西藏饭店		30.6844436	104.0694075	hotel				
+way	621124485	铁道大酒店		30.6937074	104.0700634	hotel				
+way	632173975	威菲酒店		30.7515802	103.9704234	hotel				
+way	637438629	林恩国际酒店	Lyhn International Hotel	30.6630624	104.0731101	hotel				http://en.lyhnhotel.com
+way	638199461	Holiday Inn Chengdu High-Tech Center		30.7307659	103.9712605	hotel		Holiday Inn	Holiday Inn	https://www.holidayinn.com/hotels/us/en/chengdu/
+way	638199462	Crowne Plaza Chengdu West		30.7314289	103.9714048	hotel		Crowne Plaza	Crowne Plaza	https://www.ihg.com/crowneplaza/hotels/gb/en/chengdu/ctucp/hoteldetail
+way	646939840	上层名人酒店	Upper Class Celebrity Hotel	30.6781777	104.0772974	hotel				
+way	658954063	春熙华颐酒店		30.6631340	104.0738436	hotel				
+way	663399458			30.6617993	104.0690505	hotel				
+way	703298393	电子科技大学宾馆		30.6751297	104.0962072	hotel				
+way	707966149	北苑宾馆		30.6367614	104.0817220	hotel				
+way	710790259	桃源酒店		30.6326953	104.0746793	hotel				
+way	710790260	成都世外桃源酒店		30.6319401	104.0753438	hotel				
+way	711177631	红瓦宾馆		30.6381465	104.0877969	hotel				
+way	711177683	科华苑宾馆		30.6273714	104.0751447	hotel				
+way	829613968			30.6265416	104.0652496	hotel				
+way	931904295	理工宾馆		30.6780870	104.1429747	hotel				
+way	932001156	成都祥宇宾馆		30.6393949	104.0745394	hotel				
+way	1117816512	成都武侯渝江皇冠假日酒店		30.6477322	103.9799790	hotel		Crowne Plaza		https://www.ihg.com/crowneplaza/hotels/cn/zh/chengdu/ctuza/hoteldetail
+way	1245276760	成都保利辉盛坊国际公寓		30.5587352	104.0587888	hostel				
+way	1252899991	明宇尚雅饭店		30.6486065	104.0613752	hotel				
+way	1259323884	橙果酒店		30.6633993	104.0480990	hotel				
+way	1259323886	SFEEL设计师酒店		30.6631017	104.0477571	hotel				
+way	1346172598	专家公寓		30.6338992	104.0722823	hotel				
+way	1347753117	成都浣花溪智选假日酒店		30.6545280	104.0020675	hotel		Holiday Inn Express		https://www.ihg.com/holidayinnexpress/hotels/cn/zh/chengdu/ctuhe/hoteldetail
+way	1348243494			30.6547275	104.0382944	hotel				
+way	1348243495			30.6552509	104.0379836	hotel				
+way	1348243496			30.6552546	104.0371247	hotel				
+way	1348243497			30.6552280	104.0374433	hotel				
+way	1348243498			30.6552380	104.0376563	hotel				
+way	1348243499			30.6546899	104.0376988	hotel				
+way	1348243500			30.6549535	104.0370374	hotel				
+way	1348243501			30.6545748	104.0370333	hotel				
+way	1348243502			30.6543516	104.0370305	hotel				
+way	1348474263	成都昌都宾馆		30.6467033	104.0382897	hotel				
+way	1355177966	汉庭酒店(成都宽窄巷子中心店)		30.6768411	104.0508583	hotel				
+way	1355370909	如家酒店	Home Inn	30.6716834	104.0646160	hotel		如家酒店		
+way	1359558825	锦江之星	Jinjiang Inn	30.6778629	104.0297805	hotel		锦江之星		
+way	1359575104	成都天辰楼宾馆		30.6650459	104.0218456	hotel				
+way	1427552116	亚朵酒店	Atour Hotel	30.5840151	104.1892678	hotel		亚朵酒店		
+relation	18562213	天府空港悦享酒店	Joyhub Cheer Hotel	30.3127997	104.4416235	hotel				
+relation	18562216	天府空港云享酒店	Joyhub Air Hotel	30.3129768	104.4408004	hotel				
+relation	19919937	成都盛美利亚酒店		30.5776194	104.0370650	hotel				

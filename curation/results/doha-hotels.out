@@ -1,0 +1,231 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	1654108375			25.2902139	51.5401836	hostel				
+node	1684803187	Mövenpick		25.2902721	51.5445528	hotel		Mövenpick		
+node	1771161675	Golden Hotel	Golden Hotel	25.2848163	51.5375184	hotel				
+node	1771161688	Hotel Altiba	Hotel Altiba	25.2851814	51.5372231	hotel				
+node	1771161708	Jamal Hotel	Jamal Hotel	25.2848916	51.5374140	hotel				
+node	1894206780	Villa Moda Hotel	Villa Moda Hotel	25.2896339	51.5043016	hotel				
+node	2188131340	kkt	kkt	25.2728129	51.5133367	hotel				
+node	2547600630	Sheezan		25.3038015	51.4992908	hotel				
+node	2572188101	"Seraj Hotel, Wakra"		25.1567428	51.6060802	hotel				
+node	2857948923	Al Bidda Boutique Hotel - Doha		25.2895578	51.5326012	hotel				
+node	3293571188			25.2494102	51.5010204	hotel				
+node	3796931503	DoubleTree by Hilton Doha - Old Town	DoubleTree by Hilton Doha - Old Town	25.2885537	51.5444128	hotel	5	DoubleTree	Hilton	https://www.hilton.com/en/hotels/dohotdi-doubletree-doha-old-town/
+node	4021732117	Ramada Encore by Wyndham Doha	Ramada Encore Hotel	25.2803912	51.5304111	hotel		Ramada	Wyndham	http://www.ramadaencoredoha.com/
+node	4078354351	Shangri-la Hotel	Shangri-la Hotel	25.3244930	51.5336871	hotel				
+node	4119248991	Crowne Plaza Business Park	Crowne Plaza Business Park	25.2731034	51.5406891	hotel		Crowne Plaza		https://www.ihg.com/crowneplaza/hotels/us/en/doha/dohcp/hoteldetail
+node	4186778589	beverly hills West Bay	beverly hills West Bay	25.3253478	51.5369106	hotel				
+node	4224204190	Ain Khaled Accomodation	Ain Khaled Accomodation	25.2082796	51.4783940	hostel				
+node	4229402189	Gokulam Park Doha	Gokulam Park Doha	25.2877308	51.5465837	hotel				
+node	4230128190	NEMMCO Ain Khaled Accomo	NEMMCO Ain Khaled Accomo	25.2084278	51.4783711	hostel			ooredoo	https://www.nemcco.com/
+node	4232347396	البستان	Al Bustan	25.2869516	51.5454352	hotel				
+node	4233748697			25.2747120	51.4926912	hotel				
+node	4233768489	Ezdan Hotel	Ezdan Hotel	25.3186723	51.5226227	hotel				
+node	4234029892	my_place	my_place	25.2746385	51.4926621	hotel				
+node	4234453793	فندق البستان	Al bustan hotel	25.2869980	51.5457823	hotel				
+node	4236703400	Warwick hotel	Warwick hotel	25.2917616	51.4978852	hotel				
+node	4236991890	بيتنا في ابوسدرة		25.2407218	51.4213446	hostel			alwasam	
+node	4282061091	Al Sadd Suites Hotel	Al Sadd Suites Hotel	25.2860032	51.4966492	hotel				
+node	4316180595	fathayer restaurant	fathayer restaurant	25.2239295	51.4497419	hotel				
+node	4318962695	saray Musheireb Hotel	saray Musheireb Hotel	25.2826005	51.5215744	hotel				
+node	4320036892	AL-WUKAIR ACCOMODATION (NEMCCO)		25.1701410	51.5472082	hostel			Ali Keshawarz	https://www.nemcco.com/
+node	4334116416			25.2048050	51.4173900	hostel				
+node	4358685091	home	home	25.2246109	51.4700362	hostel				
+node	4362575194			25.2322346	51.4908395	hotel				
+node	4405623691		Sri Lanka hotel	25.2679853	51.4092626	hotel				
+node	4417542190	Sks 108 Bldg.	Sks 108 Bldg.	25.2662635	51.5325859	hotel				
+node	4428083065	Doha Grand Hotel	Doha Grand Hotel	25.2772189	51.5164373	hotel				
+node	4444888090	mowasalat accommodation	mowasalat accommodation	25.1895747	51.4772067	hotel				https://www.mowasalat.com/
+node	4504049390		Sharwa Hotel	25.2492725	51.4750334	hotel				
+node	4537336892	Qtrs	Qtrs	25.3765504	51.4364249	hostel				
+node	4554284591		Doha Dynasty Hotel	25.2841176	51.5380538	hotel				
+node	4569768689		Ibrahim Qtel house	25.2785583	51.5363693	hostel				
+node	4578203793	Villa gue. Al wukair		25.1628343	51.5347327	hotel				
+node	4578214891	Al wukair		25.1501470	51.5440883	hotel				
+node	4578254491	Villa gue . Al wukair		25.1629149	51.5347850	hotel				
+node	4580706789		Yusuf Ahmad Residence	25.1842540	51.5756569	hostel				
+node	4580824590		Abu Abdusshakur residence	25.1605795	51.5954542	hotel				
+node	4580884890		truth building	25.2776312	51.5468366	hotel				
+node	4584286893	سويس بل هوتيل		25.2873913	51.5402390	hotel				
+node	4590102192	MTCACA	MTCACA	25.2384692	51.4735851	hostel				
+node	4605237092	Awqaf Compund	Awqaf Compund	25.2956230	51.4981286	hostel				
+node	4605864789	لاميراج		25.2826613	51.5231525	hotel				
+node	4605864889	بريميران المدينة التعليمية	Premier Inn Hotel Education City	25.3224916	51.4293090	hotel				
+node	4620727189			25.2857920	51.5459770	hostel				
+node	4639342790	فندق سنتروروتانا		25.2845424	51.5116919	hotel				
+node	4668713791	Ummu Ghuwalina Qr Apartments Bld 70A	Ummu Ghuwalina Qr Apartments Bld 70A	25.2783533	51.5457532	hostel				
+node	4681909791		Star Hotel	25.1548336	51.5985860	hotel				
+node	4727184190	NEMCCO ACCOMODATION		25.1703326	51.5472934	hostel			Ali Keshawarz	https://www.nemcco.com/
+node	4735594390	Sapphire Plaza	Sapphire Plaza	25.2891434	51.5108367	hotel				
+node	4767035846	Salu ikka room	Salu ikka room	25.2678749	51.5469082	hotel				
+node	4787378122	محمد علي الشيبة		25.2452860	51.5336805	hotel				
+node	4813050387	Doha Dynasty Hotel	Doha Dynasty Hotel	25.2835951	51.5376097	hotel				https://www.dohadynastyhotel.com/
+node	4820070721	La Villa		25.2856834	51.5388588	hotel				
+node	4880300024	Al Shairi-Home	Al Shairi-Home	25.2554062	51.5516238	hostel				
+node	4908988622		Villa 84	25.2624775	51.5074848	hotel				
+node	4956111923			25.1723316	51.6033536	hostel				
+node	4965433621		Colombo Restaurant	25.2121324	51.5755577	hotel				
+node	5211585921	Garveys	Garveys	25.2408283	51.4528426	hotel				
+node	5414415424	قطر فندق ميلينيوم بلازا	قطر فندق ميلينيوم بلازا	25.2858657	51.5051496	hotel				
+node	5785122126	Green garden hotel		25.2842814	51.5453332	hotel				
+node	5799335956	Suraj mess		25.1401817	51.5611552	hotel				
+node	5814712753		Hatco Villa	25.1727035	51.5533033	hostel				
+node	6082675729	Crowne Plaza Doha West Bay		25.3281342	51.5327327	hotel		Crowne Plaza		https://www.ihg.com/crowneplaza/hotels/us/en/doha/dohby/hoteldetail
+node	6874429585	مرسى ملاذ كمبينسكي	Marsa Malaz Kempinski	25.3761476	51.5497217	hotel	5	Kempinski		
+node	7022059812	Holiday Inn Doha - The Business Park		25.2732167	51.5422939	hotel		Holiday Inn		https://www.ihg.com/holidayinn/hotels/us/en/doha/dohbp/hoteldetail
+node	7161285151	Oryx Airport Hotel		25.2625734	51.6138720	hotel	4			https://oryxairporthotel.com/
+node	7229481885		Premier Inn Doha Airport	25.2812540	51.5505516	hotel				
+node	7987839260	"Aleph Doha Residences, Curio Collection by Hilton"		25.3271013	51.5351626	hotel	5	Curio Collection by Hilton	Hilton	https://www.hilton.com/en/hotels/doharqq-aleph-doha-residences/
+node	8635249120		CEG International	25.2578131	51.5238629	hotel				
+node	8635249124	AF Brandon		25.2766482	51.4863123	hostel				
+node	8635305218	Quantex Qatar		25.2869659	51.5417444	hotel				
+node	8635305919	Shift WLL		25.3064190	51.4867889	hostel				
+node	8635846920	Waseef		25.2890923	51.5463866	hotel				
+node	8635852337	HEMAYA		25.2538903	51.5260922	hotel				
+node	8635856524	Ezdan Palace Hotel		25.3382269	51.4623272	hotel				
+node	8635857025		Adonis	25.2492558	51.5650648	hostel				
+node	9133977617	JW Mariott		25.3246532	51.5337086	hotel				
+node	9141007417			25.3280685	51.5295426	hotel				
+node	9442504545	فندق الشعلة	The Torch Doha	25.2622558	51.4447539	hotel				https://www.thetorchdoha.com.qa/en/default.html
+node	9661116405	Le Royal Meridien		25.4061474	51.5189273	hotel				
+node	10168998192	Embassy Suites by Hilton Doha Old Town		25.2837663	51.5405689	hotel	4	Embassy Suites	Hilton	https://www.hilton.com/en/hotels/dohemes-embassy-suites-doha-old-town/
+node	10564870940	"Katara Hills Doha, LXR Hotels & Resorts"		25.3529806	51.5238406	hotel	5	LXR Hotels & Resorts	Hilton	https://www.hilton.com/en/hotels/dohqkol-katara-hills-doha/
+node	10587024104	Najd boutique hotel		25.2864269	51.5333697	hotel				
+node	10657920446	Mina Hotel and Residences		25.3045839	51.5511308	hotel		The Torch		https://www.mina-hotel.com/
+node	10889494836	Souq Al Wakra Hotel Qatar by Tivoli		25.1738534	51.6103897	hotel				https://www.tivolihotels.com/en/souq-al-wakra-tivoli
+node	11265410684	Shaza Hotel		25.2869027	51.5404862	hotel	5			
+node	11626362759	Oryx Garden Hotel		25.2680746	51.6113500	hotel				https://oryxairporthotel.com
+node	11653010610	Velero Hotel Lusail		25.3977061	51.5176592	hotel				
+node	12208972602	Alfardan Gardens 3		25.2402839	51.4984548	hotel				http://www.danatqatar.qa
+node	12247103701	Delta Hotels City Center Doha		25.3287024	51.5362804	hotel				
+node	12299714101	C - Hotel and Suites Doha		25.2868936	51.5408779	hotel				
+node	12927772203	InterContinental Doha Beach & Spa by IHG		25.3487596	51.5293765	hotel				http://www.ihg.com
+node	12927801101	InterContinental Doha Residences by IHG		25.3473446	51.5296660	hotel				http://ihg.com
+node	13068202601	Central Inn Souq Waqif		25.2841037	51.5372753	hotel				https://centralinnsouqwaqif.qa/
+node	13105900801			25.1666813	51.5550384	hotel				
+node	13660018401	Grand Hyatt		25.3770114	51.5277219	hotel				
+node	13741077084	Fairmont Doha		25.3888398	51.5314667	hotel		Fairmont		https://www.fairmont.com/en/hotels/doha/fairmont-doha.html
+node	13741087464	Raffles Doha		25.3900616	51.5317662	hotel		Raffles		https://www.raffles.com/doha/
+node	14221817301	Marriott Marquis City Center Doha Hotel		25.3249843	51.5281223	hotel				
+way	25978039	Merweb Hotel	Merweb Hotel	25.2806941	51.5047024	hotel				
+way	103002123	Ezdan Hotel & Suites	Ezdan Hotel & Suites	25.3183486	51.5216057	hotel				http://www.ezdanhotels.com/
+way	112467215	Retaj Royale Hotel	Retaj Royale Hotel	25.2888175	51.5432936	hotel				
+way	135724338	فندق مشيرب	Hotel Musherib	25.2802807	51.5259764	hotel				
+way	137222843	ذا نِد الدوحة	The Ned Doha	25.2942533	51.5229365	hotel		Ned		https://www.thened.com/doha/
+way	145740900	Retaj Al Rayyan	Retaj Al Rayyan	25.3275910	51.5380071	hotel				
+way	150364218	La Cigale Hotel	La Cigale Hotel	25.2801450	51.5076593	hotel				
+way	150370158	Al Maha Towers	Al Maha Towers	25.3253507	51.5362696	hotel				
+way	150370160	Forty Four West Bay	Forty Four West Bay	25.3300270	51.5337679	hotel				
+way	150370164	Qabila Westbay Hotel		25.3253214	51.5379459	hotel		Mövenpick		
+way	150370229	W Doha Hotel & Residences	W Doha Hotel & Residences	25.3287624	51.5301120	hotel		W Hotels		
+way	153463362	Intercontinental Hotel West Bay	Intercontinental Hotel West Bay	25.3263563	51.5244324	hotel		InterContinental		
+way	153463368	Kempinski Residences & Suites	Kempinski Residences & Suites	25.3286049	51.5309915	hotel		Kempinski	Kempinski	
+way	153977732	Gloria Hotel	Gloria Hotel	25.2889162	51.5429561	hotel				
+way	153977745	Best Western Plus Doha	Best Western Plus Doha	25.2897699	51.5427720	hotel		Best Western Plus		
+way	153977752	Horizon Manor Hotel	Horizon Manor Hotel	25.2890660	51.5399697	hotel				https://horizonmanor.com/index.html
+way	153977753	Dana Hotel	Dana Hotel	25.2870409	51.5437381	hotel				
+way	153989035	Hyatt Regency Oryx Doha	Hyatt Regency Oryx Doha	25.2685047	51.5539575	hotel	5	Hyatt Regency	Hyatt Hotels Corporation	https://www.hyatt.com/en-US/hotel/qatar/hyatt-regency-oryx-doha/dohrd?src=corp_lclb_gmb_seo_dohrd
+way	154036829	Al Mirqab		25.2864869	51.5337168	hotel				
+way	154054027	فندق كونكورد	Concorde Hotel	25.2754631	51.5414289	hotel				
+way	156190539	The Ritz-Carlton	The Ritz-Carlton	25.3793837	51.5318379	hotel		The Ritz-Carlton		http://www.ritzcarlton.com/en/Properties/Doha
+way	156193169	شيراتون الدوحة	Sheraton Doha	25.3192033	51.5368793	hotel		Sheraton		
+way	156194992	Rixos Gulf Hotel Doha		25.2868425	51.5623857	hotel	5	Rixos Hotels		https://allinclusive-collection.com/en/hotel/rixos-gulf-hotel-doha
+way	156197890	قرية ومنتجع شرق	Sharq Village and Spa	25.2856841	51.5568411	hotel		The Ritz-Carlton	Ritz Carlton	https://www.ritzcarlton.com/en/hotels/dohsq-sharq-village-and-spa-a-ritz-carlton-hotel/overview/
+way	156211627	InterContinental Hotel	InterContinental Hotel	25.3480061	51.5295384	hotel	4	InterContinental		https://www.intercontinental.com/intercontinental/en/gb/locations/doha
+way	156242202	Grand Hyatt Doha & Villas	Grand Hyatt	25.3758446	51.5278178	hotel	5	Grand Hyatt	Hyatt	https://www.hyatt.com/grand-hyatt/en-US/dohgh-grand-hyatt-doha-hotel-and-villas
+way	158207819			25.2886324	51.5400283	hotel				
+way	158207821	Ramada Doha Old Town		25.2876000	51.5405323	hotel		Ramada		
+way	158208087			25.2869999	51.5415233	hotel				
+way	158208325			25.2870515	51.5432644	hotel				
+way	158208326	Royal Riviera Hotel Doha		25.2889862	51.5423896	hotel				
+way	158208327			25.2873382	51.5432373	hotel				
+way	158208328			25.2876949	51.5421748	hotel				
+way	158208329			25.2878526	51.5428714	hotel				
+way	158208414			25.2881021	51.5399187	hotel				
+way	158470146	Four Seasons	Four Seasons	25.3243877	51.5391393	hotel		Four Seasons		
+way	158470159	Hilton Doha	Hilton Doha	25.3261728	51.5405559	hotel	5	Hilton	Hilton	https://www.hilton.com/en/hotels/dohhdhi-hilton-doha/
+way	160192455	Millenium Hotel	Millenium Hotel	25.2833467	51.4956983	hotel				
+way	165305470	Radisson Blu Hotel	Radisson Blu Hotel	25.2725324	51.5136741	hotel		Radisson Blu		
+way	165440061	Kingsgate Hotel	Kingsgate Hotel	25.2861705	51.5386709	hotel				https://www.millenniumhotels.com/en/doha/kingsgate-hotel-doha/
+way	165487291	Diamond Hotel	Diamond Hotel	25.2813335	51.5401260	hotel				
+way	166518855	Fraser Suites Doha		25.2902237	51.5436840	hotel				
+way	220343889	Wyndham Grand Regency Doha Hotel	Wyndham Grand Regency Doha Hotel	25.2912175	51.4970640	hotel				
+way	221953230	Grand Regal	Grand Regal	25.2820469	51.5425448	hotel				
+way	239036066	The Bentley Luxury Hotel & Suites	The Bentley Luxury Hotel & Suites	25.3199743	51.5209569	hotel				
+way	240367003	Asherij Hotel	Asherij Hotel	25.2822259	51.5079997	hotel				
+way	253082619	K 108 Hotel	K 108 Hotel	25.2813254	51.5404532	hotel				https://www.k108hotel.com/
+way	253368817	Grand Suite Hotel	Grand Suite Hotel	25.2814375	51.5396035	hotel				
+way	282687996	Hyatt Residences	Hyatt Residences	25.3277614	51.5301000	hotel		Hyatt		
+way	299400108	The Curve	The Curve	25.3260001	51.5386375	hotel				https://www.thecurvehotel.qa/
+way	299539647			25.3287020	51.5362714	hotel				
+way	299542426	Magnum Hotel And Suites Westbay	Magnum Hotel And Suites Westbay	25.3293266	51.5290670	hotel		Magnum		https://magnumdoha.com/
+way	299542429	Adagio Premium ApartHotel	Adagio Premium ApartHotel	25.3246260	51.5245320	hotel		Adagio		
+way	445303321	Westin Hotel	Westin Hotel	25.2772278	51.5127380	hotel		Westin		
+way	445303322	Westin Hotel	Westin Hotel	25.2764510	51.5132184	hotel		Westin		
+way	449880839	فندق سينشري	Century Hotel	25.2856328	51.5469034	hotel				
+way	468045100			25.2888812	51.5389121	hotel				
+way	481023384			25.2892544	51.5105113	hotel				
+way	485024707	Doha Executive Suites Hotel	Doha Executive Suites Hotel	25.2804058	51.5475391	hotel				
+way	485153639	Guest Palace Hotel	Guest Palace Hotel	25.2806586	51.5440861	hotel				
+way	489459181	Luxury Apartment Hotel Royal Suites	Luxury Apartment Hotel Royal Suites	25.2791555	51.5205845	hotel			Al Safa	
+way	489599420	Gulf Paradise Hotel	Gulf Paradise Hotel	25.2818865	51.5183519	hotel				
+way	490133037		Diamond Hotel 2	25.2872861	51.5476401	hotel				
+way	490138668	Al Gassar Resort	Al Gassar Resort	25.3503254	51.5267925	hotel				
+way	490138675	The St. Regis Doha	The St. Regis Doha	25.3503053	51.5279783	hotel				
+way	490138681	The St. Regis Doha	The St. Regis Doha	25.3503032	51.5300925	hotel				
+way	490150347	Al Mourouj Inn Hotel	Al Mourouj Inn Hotel	25.2872690	51.5473056	hotel				
+way	490597735	Voco	Voco	25.3252590	51.5225583	hotel		voco		
+way	491212114	Al Nakheel	Al Nakheel	25.2842777	51.5324466	hotel				
+way	491212826	فندق رويال قطر	Royal Qatar Hotel	25.2827605	51.5327435	hotel				
+way	491378286	Qatar Palace Hotel	Qatar Palace Hotel	25.2818067	51.5318748	hotel				
+way	491380973	Grand Qatar Palace Hotel	Grand Qatar Palace Hotel	25.2805904	51.5302543	hotel				
+way	491380976	The Tower	The Tower	25.2812588	51.5300300	hotel				
+way	491423237	Mercure Grand Hotel	Mercure Grand Hotel	25.2833694	51.5278575	hotel		Mercure		
+way	491451357	Crystal Palace	Crystal Palace	25.2876559	51.5193187	hotel				
+way	491649676	Liberty Suites	Liberty Suites	25.2837434	51.5160085	hotel				
+way	491695005	Golden Ocean Hotel	Golden Ocean Hotel	25.2860076	51.5445097	hotel				https://www.goldenoceanhotel.com/
+way	492147773	Plaza Inn	Plaza Inn	25.2871913	51.5436841	hotel				
+way	492173899	Fuda Hotel	Fuda Hotel	25.2871537	51.5469737	hotel				
+way	492219378	Gulf Pearls Hotel	Gulf Pearls Hotel	25.2725516	51.5073532	hotel				
+way	524256470	Park Hyatt		25.2842334	51.5277968	hotel	5	Park Hyatt	Hyatt Hotels Corporation	https://www.hyatt.com/en-US/hotel/qatar/park-hyatt-doha/dohph
+way	614491906	Safir Hotel Doha	SAFIR HOTEL DOHA	25.2726560	51.5374350	hotel	4		SAFIR HOTELS & RESORTS	https://WWW.SAFIRHOTELS.COM
+way	684266003	Staybridge Suites Doha Lusail		25.3867101	51.5258710	hotel		Staybridge Suites		https://www.ihg.com/staybridge/hotels/us/en/doha/dohls/hoteldetail
+way	694838176	Banyan Tree Doha at La Cigale Mushaireb		25.2857899	51.5171957	hotel		Banyan Tree		https://www.banyantree.com/qatar/doha
+way	718288725	ويندام الخليج الغربي	WYNDHAM Doha West Bay	25.3224689	51.5253675	hotel		Wyndham		https://www.wyndhamdohawestbay.com/
+way	760528728	DoubleTree by Hilton Doha - Al Sadd		25.2759825	51.4981314	hotel	5		Hilton	https://www.hilton.com/en/hotels/dohsadi-doubletree-doha-al-sadd/
+way	767600376	Dusit Hotel Doha		25.3279624	51.5290849	hotel				https://www.dusit.com/dusitthani/dusitdohahotel
+way	767600377	Wyndham Grand Doha West Bay Beach		25.3300770	51.5291652	hotel		Wyndham Grand		https://wyndhamgranddohawbb.com/
+way	767600384	Waldorf Astoria Doha West Bay		25.3273609	51.5330822	hotel		Waldorf Astoria		https://www.hilton.com/en/hotels/dohnzwa-waldorf-astoria-doha-west-bay
+way	767600385	Westpac Hotel & Suites		25.3286023	51.5342074	hotel				
+way	767600390	Andaz Doha		25.3246970	51.5370044	hotel	5	ANdAZ	Hyatt	https://www.hyatt.com/andaz/dohaz-andaz-dohaz
+way	769644408	Mondrian Doha		25.3771221	51.5236275	hotel	5	sbe		https://www.morganshotelgroup.com/
+way	770705799	Grand Heritage Hotel	Grand Heritage Hotel	25.2689810	51.4385373	hotel				http://www.grandheritage.com/aspire.htm
+way	876258916	سانت ريجيس	St. Regis	25.3691997	51.5440629	hotel		St. Regis		
+way	878933437	Hotel Golden Tulip Doha		25.2897249	51.5436910	hotel		Golden Tulip		https://doha.goldentulip.com
+way	878940766	"Jouri, A Murwab Hotel"		25.2871958	51.5449895	hotel				
+way	1033911105	أبراج كتارا	Katara Towers	25.3894191	51.5312545	hotel				
+way	1033914359	Century Marina Hotel		25.3980939	51.5198077	hotel				
+way	1033916634	Cielo Hotel		25.4012364	51.5127584	hotel				https://cielohotel.qa
+way	1035290040	waterfront hotel apartments		25.4325056	51.5180773	hotel				
+way	1035338280	"Waldorf Astoria Lusail, Doha"	"Waldorf Astoria Lusail, Doha"	25.4086069	51.5209634	hotel		Waldorf Astoria		https://www.hilton.com/en/hotels/dohqtwa-waldorf-astoria-lusail-doha/
+way	1039136940			25.3643692	51.5287861	hotel				
+way	1039138254	st regis		25.3503288	51.5290287	hotel		St. Regis		
+way	1050448169	Dusit D2 Hotel	dusitD2	25.2732656	51.5155235	hotel				
+way	1091007117	DoubleTree by Hilton Doha Downtown		25.2713735	51.5132591	hotel		DoubleTree		https://www.hilton.com/en/hotels/dohnodi-doubletree-doha-downtown/
+way	1107990652	Hampton by Hilton Doha Old Town	Hampton by Hilton Doha Old Town	25.2891798	51.5459247	hotel	3	Hampton	Hilton Hotels	https://www.hilton.com/en/hotels/dohohhx-hampton-doha-old-town/
+way	1112405072	Saraya Corniche		25.2901156	51.5427812	hotel				https://www.sarayacorniche.com/
+way	1113671060			25.2804965	51.5297494	hotel				
+way	1113671061	The Town Hotel		25.2804879	51.5299928	hotel				
+way	1115391587	Royal Sherao Hotel	Royal Sherao Hotel	25.2855123	51.5473224	hotel				https://www.sherao.qa/
+way	1115399806	"The Plaza Doha, LXR Hotels & Resorts"		25.2802458	51.5511253	hotel	5	Hilton	Hilton	https://www.hilton.com/en/hotels/dohtpol-the-plaza-doha/
+way	1128022256	Four Points		25.2829197	51.5236340	hotel		Four Points by Sheraton		
+way	1150946016	The Chedi Katara		25.3635639	51.5297669	hotel		GHM		https://www.ghmhotels.com/en/katara/
+way	1196050451	"Maysan Doha, LXR Hotels & Resorts"		25.2638374	51.4330977	hotel	5	LXR Hotels & Resorts	Hilton	https://www.hilton.com/en/hotels/dohpaol-maysan-doha/
+way	1265637402	Hilton Doha The Pearl		25.3748622	51.5398641	hotel	5	Hilton		https://www.hilton.com/en/hotels/dohprhi-hilton-doha-the-pearl/
+way	1442129706	"La Maison Hotel, Doha"		25.2842830	51.5103306	hotel				https://www.lamaisondoha.com/
+way	1473287145	روزوود الدوحة	Rosewood Doha	25.3839125	51.5320324	hotel		Rosewood		
+relation	2204057	Swiss-Belhotel	Swiss-Belhotel	25.2874768	51.5401642	hotel	4	Swiss-Belhotel		
+relation	2208522	Holiday Villa Hotel & Residence	Holiday Villa Hotel & Residence	25.2644722	51.5259227	hotel				
+relation	7570209	Mandarin Oriental		25.2862171	51.5259477	hotel		Mandarin Oriental Hotel		https://www.mandarinoriental.com/en/doha/msheireb
+relation	10705010	Marsa Malaz Kempinski	Marsa Malaz Kempinski	25.3760232	51.5497092	hotel	5			https://www.kempinski.com/en/doha/marsa-malaz-kempinski-the-pearl-doha/
+relation	15402180	Al Wadi Hotel		25.2853267	51.5302365	hotel				

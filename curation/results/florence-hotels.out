@@ -1,0 +1,374 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	249264781	Hotel Ariston		43.7730923	11.2637081	hotel				
+node	262796018	Savoy		43.7717214	11.2545542	hotel	5			http://www.hotelsavoy.it/
+node	268632058	Pendini		43.7715853	11.2532724	hotel				
+node	270941651	Majestic		43.7749404	11.2512282	hotel				
+node	271147864	Berchielli		43.7691327	11.2516971	hotel				
+node	271389932	Hotel Silla		43.7648055	11.2605869	hotel	3			https://www.hotelsilla.it/
+node	271613428	Hotel Ferrucci		43.7637268	11.2741031	hotel				
+node	304977443	Hotel Donatello Firenze		43.7807298	11.2548866	hotel	3			https://hoteldonatellofirenze.com/
+node	304977475	Hotel Royal		43.7817126	11.2569979	hotel				
+node	387840957	Pensione Bencista		43.7988113	11.2976908	hotel				
+node	535167036			43.7421307	11.2866006	hotel				
+node	616615660	Hotel Brunelleschi Firenze		43.7717261	11.2558767	hotel				
+node	660479092	Hotel Pitti Palace		43.7673999	11.2525885	hotel				
+node	829334006	Guelfa		43.7776876	11.2547749	hotel				
+node	938198171	Michelangelo		43.7765868	11.2379510	hotel				
+node	938199059	Villa Medici		43.7758592	11.2422053	hotel	5			http://www.villamedicihotel.com/
+node	938199227	Hotel Indigo		43.7781129	11.2442381	hotel		Hotel Indigo		https://www.ihg.com/hotelindigo/hotels/gb/en/florence/flrvj/hoteldetail
+node	938199329	Hotel Golf		43.7790037	11.2436158	hotel				https://www.hotelgolf.it
+node	938199512	Albani		43.7769044	11.2503213	hotel				
+node	939927462	Four Seasons Hotel Firenze		43.7770174	11.2662841	hotel	5	Four Seasons		https://www.fourseasons.com/florence
+node	939929809	Regency		43.7753933	11.2680892	hotel	5			https://www.regency-hotel.com/
+node	939932877	Golden Tower		43.7706328	11.2520310	hotel	5			https://www.goldentowerhotel.it/
+node	939956959	Grand Hotel		43.7721898	11.2450237	hotel	5			www.starwood.com/grandflorence
+node	939958929	Helvetia & Bristol		43.7717275	11.2522361	hotel	5			https://collezione.starhotels.com/it/i-nostri-hotel/helvetia-e-bristol-firenze/?gclid=CjwKCAjws8yUBhA1EiwAi_tpEXlIQX1ARDiTMa2KXPXuj7Me-00hzpSpQ0_FHif4Ajsw84vO5h7tXhoCviEQAvD_BwE
+node	939960711	Montebello Splendid		43.7753884	11.2413021	hotel	5			
+node	939963818	Palazzo Firence by Baglioni Hotels & Resorts		43.7699337	11.2623755	hotel	5	Baglioni Hotels & Resorts		https://florence.baglionihotels.com/
+node	940256458	Villa la Vedetta		43.7619240	11.2695220	hotel	5			www.villalavedettahotel.com
+node	941241211	B&B Hotel Firenze Novoli		43.7977924	11.2155304	hotel	3		B&B Hotels	https://www.hotel-bb.com/it/hotel/firenze-novoli.htm
+node	942569182	AC Hotels Firenze		43.7796812	11.2371725	hotel	4	Marriott	Marriott	https://www.hotelacfirenze.com
+node	942605350	Adler Cavalieri		43.7755230	11.2457572	hotel	4			https://www.hoteladlercavalieri.com/
+node	946019555	Olimpia		43.7710608	11.2542802	hotel				
+node	946020178	Albergo Porta Rossa		43.7702114	11.2520253	hotel				
+node	946415604	Hotel Piccadilly		43.7796640	11.2547947	hotel				
+node	951562388	Diana Park Hotel		43.7863837	11.2654178	hotel				
+node	951562557	Hotel Meridiana		43.7851689	11.2652941	hotel				
+node	955723164	Sonia		43.7979006	11.2450086	hotel				
+node	1107513310	Paris		43.7735023	11.2514106	hotel	3			https://www.parishotel.it/index-it.php
+node	1242513006	B&B Hotel Firenze City Center		43.7688587	11.2713664	hotel	3	B&B Hotels	B&B Hotels	https://www.hotel-bb.com/it/hotel/firenze-city-center.htm
+node	1242513008	Grand Hotel Mediterraneo		43.7661886	11.2722576	hotel	4			https://www.hotelmediterraneo.com/
+node	1273220064	Hotel Cimabue		43.7811852	11.2588478	hotel				
+node	1273220072			43.7837593	11.2600097	hotel				
+node	1279998659	Hotel Collodi		43.7766979	11.2550264	hotel				
+node	1289104397	Hotel Duomo		43.7735832	11.2562898	hotel	3			
+node	1289104398	Hotel Fenice Palace		43.7747923	11.2561124	hotel	4			
+node	1290434689	Nizza		43.7738073	11.2509736	hotel	3			
+node	1294141007	Medici		43.7720158	11.2548755	hotel				https://www.hotelmedici.it/
+node	1302409894	Hotel Hermitage		43.7684759	11.2539488	hotel	3			
+node	1317216627	Fattoria Di Maiano		43.7937490	11.3043350	hotel				https://www.fattoriadimaiano.com/
+node	1325999158	Hotel Kraft		43.7747236	11.2412681	hotel	4			
+node	1325999205	"Anglo American Hotel Florence, Curio Collection by Hilton"		43.7751994	11.2404276	hotel	5	Hilton Hotels	Hilton Hotels	https://www.hilton.com/en/hotels/flrorqq-anglo-american-hotel-florence/
+node	1340743818	Hotel Lungarno		43.7679262	11.2515789	hotel	4			
+node	1378325283	NH Firenze		43.7757403	11.2371882	hotel				
+node	1378561366	Hotel Goldoni		43.7715133	11.2471640	hotel				
+node	1464815093	Hotel Palazzo Benci		43.7750488	11.2528188	hotel				
+node	1464864978	Hotel Monna Lisa		43.7730392	11.2627377	hotel	4			https://www.palazzomonnalisa.com/
+node	1465268482	Hotel Cerretani		43.7735187	11.2523174	hotel				
+node	1575619293	Hotel Mario		43.7777824	11.2509065	hotel				
+node	1651744616	Hotel Genzianella		43.7829192	11.2622691	hotel				http://www.benvenutihotel.it
+node	1713288169	Crocini		43.7752803	11.2379507	hotel	2			https://www.hotelcrocini.com/
+node	1719791760	Ariele		43.7755138	11.2390467	hotel	3			https://www.hotelariele.it/
+node	1758491465	Hotel Balcony		43.7733800	11.2514211	hotel				
+node	1762906369	Botticelli		43.7767639	11.2549033	hotel				
+node	1813784140	BB Repubblica	Kaitlyn hotel	43.7710801	11.2542802	hotel				
+node	1822553416	San Giorgio And Olympic		43.7752615	11.2508817	hotel				
+node	2012087371	Hotel David		43.7630146	11.2724288	hotel	3			https://www.hoteldavid.com/
+node	2072201901	Hostel dei sette santi	7 Santi Hostel	43.7808372	11.2787103	hostel				https://www.7santi.com/
+node	2322306345	Antica Torre di Via Tornabuoni		43.7698636	11.2507644	hotel				
+node	2361644444	Riverbank's		43.7669202	11.2597708	hotel				
+node	2361645053	Residence San Niccolò		43.7664030	11.2679668	hotel				
+node	2361654175	Dimora Dionisio B&B		43.7740523	11.2434812	hotel				
+node	2361677328	Casa di Annusca		43.7644994	11.2438290	hotel			Фабио	
+node	2361697709	Hotel Arno Bellariva		43.7659019	11.2750684	hotel				
+node	2361697857	Grand Hotel Minerva		43.7739053	11.2490824	hotel				
+node	2361698063	Residencia Il Giglio		43.7835633	11.2842466	hotel				
+node	2361700410	Hotel Dalmazia		43.7950681	11.2428360	hotel	2			http://www.hoteldalmazia.it/
+node	2361707066	Hotel River		43.7663930	11.2674040	hotel				
+node	2361707805	City Hotel		43.7754967	11.2518619	hotel				
+node	2361718208	Domus Florentia		43.7743986	11.2499779	hotel	4			
+node	2361722478	Hotel Universo		43.7741505	11.2500484	hotel				
+node	2361723965	Jandj Hotel	The J&J Hotel	43.7719936	11.2647886	hotel				https://jandjhotel.net/
+node	2361724912	Italiana Hotels Florence		43.7575381	11.2985798	hotel				
+node	2361729919	Locanda Daniel		43.7779424	11.2530137	hostel				
+node	2361747931	Hotel Villa Betania		43.7532936	11.2457872	hotel				
+node	2361851110	Solo Experience Hotel		43.7754668	11.2539440	hotel	4			
+node	2361852101	Portrait Firenze		43.7688217	11.2528604	hotel				
+node	2361852103	Hotel degli Orafi		43.7681139	11.2545178	hotel				https://www.hoteldegliorafi.it/
+node	2361852338	Albergo Firenze		43.7713211	11.2567268	hotel	3			https://www.hotelfirenze-fi.it/it/
+node	2361854876	Allegroitalia San Gallo Firenze		43.7850216	11.2610995	hotel				https://www.allegroitalia.it/allegroitalia-san-gallo-firenze/
+node	2361855964	Old bridge Apartment		43.7666632	11.2499165	hotel				
+node	2361860913	Boutique Hotel		43.7780793	11.2535623	hotel				
+node	2361890902	Tre Gigli		43.7738340	11.2460041	hotel				https://www.tregigli.it/public/
+node	2361893005	Hotel Jane		43.7693065	11.2749969	hotel	3			https://www.hoteljane.it/
+node	2361896795	Grand Hotel Baglioni		43.7746406	11.2506590	hotel				
+node	2361897648	Hôtel rex		43.7754767	11.2524499	hotel				
+node	2361898421	Ostello Santa Monica	Hostel Santa Monaca	43.7680076	11.2451778	hostel				https://www.ostellosantamonaca.com/
+node	2361901059	Hotel Panorama		43.7794358	11.2594914	hotel				https://www.hotelpanorama.fi.it/
+node	2361915585	Hotel Accademia		43.7752077	11.2525519	hotel				https://www.hotelaccademiafirenze.com/
+node	2361916978	Mòsì Firenze		43.7618471	11.2747586	hotel				http://www.mosifirenze.com
+node	2361917455	Gourmet B&B Villa Landucci		43.7709739	11.2810152	hotel				https://www.villalanducci.it/
+node	2361950024	Hotel Giglio		43.7810156	11.2605898	hotel				http://www.hotelgiglio.fi.it/it/homepage-it
+node	2361955294	Residenza Marotta		43.7993857	11.2459851	hotel				https://www.residenzamarotta.it
+node	2361956720	Tourist House Liberty	Tourist House Liberty	43.7793025	11.2552195	hotel				https://www.touristhouseliberty.it/
+node	2361959988	Tivoli Palazzo Gaddi		43.7741880	11.2515486	hotel	5	NH Collection Hotels		
+node	2361960161	Airbnb Firenze		43.7907112	11.2722171	hotel				
+node	2361965724	Archi Rossi Hostel		43.7782939	11.2508169	hostel				https://www.hostelarchirossi.com
+node	2375011867	Hotel Plaza Lucchesi		43.7666558	11.2631106	hotel	4			https://www.hotelplazalucchesi.it/
+node	2386478780	Albergo Giovanna		43.7775546	11.2510800	hotel				http://www.albergogiovanna.it/
+node	2457015245	Together Florence Inn		43.7522570	11.3068129	hotel				
+node	2493669194	Hotel Garden		43.7763541	11.2375778	hotel				http://www.hotelgarden.firenze.it/
+node	2924884337	B&B A Casa Di Virgilio		43.7905012	11.2439467	hotel				
+node	2960798106	Hotel Angelica		43.7772063	11.2498790	hotel				
+node	2962608033	Hotel Spagna		43.7679488	11.2260496	hotel				
+node	2974034433	Grand Hotel Adriatico		43.7739150	11.2445290	hotel	4	albergabici		https://www.hoteladriatico.it/
+node	2993551733	Hotel Toscana		43.7721180	11.2503880	hotel				
+node	2995000526	Hotel Croce di Malta		43.7734914	11.2483429	hotel				https://www.crocedimaltaflorence.com/
+node	3159365861	Alex		43.7704027	11.2085213	hotel				https://www.hotelalexfirenze.com/
+node	3200104064	Palazzo Vecchio		43.7778419	11.2498232	hotel				
+node	3212447811	Hotel Aldobrandini		43.7746387	11.2525958	hotel				
+node	3458184793	Hotel Rapallo		43.7809480	11.2554290	hotel				
+node	3471604440	Anchor		43.7726654	11.2652729	hotel				
+node	3519960039	Glimps Hotel		43.7757194	11.2598182	hotel				
+node	3591910531	Malaspina		43.7806640	11.2550851	hotel				
+node	3851961278	Milu Hotel		43.7708573	11.2514571	hotel				
+node	3851961282	Hotel de la Ville		43.7723275	11.2512277	hotel				
+node	3907862178	Plus Hostel Florence		43.7815501	11.2558159	hostel			Plus	https://plushostels.com/it/firenze
+node	4058601273	Palazzo dal Borgo		43.7737819	11.2481920	hotel	4			
+node	4154710189	Bologna		43.7691171	11.2749589	hotel	2			https://www.hotelbolognafirenze.it/
+node	4190436157	Hotel Scoti		43.7708537	11.2512607	hotel				http://www.hotelscoti.com
+node	4207280832	Giorgio		43.7753673	11.2516294	hotel				
+node	4216873537	Hotel Cardinal		43.7722097	11.2620507	hotel				https://www.hotelcardinalflorence.com
+node	4219550040	Grand Hotel Cavour		43.7711053	11.2577948	hotel				https://www.hotelcavour.com/
+node	4225328991			43.7755948	11.2596398	hostel				
+node	4227362343	Serristori Palace		43.7648661	11.2633712	hotel				
+node	4229011136	Hotel Fiorentino		43.7746180	11.2499240	hotel				
+node	4229013805	Hotel Davanzati		43.7701600	11.2529479	hotel	3			https://www.hoteldavanzati.it
+node	4231003135	Hotel Fiorentino		43.7689722	11.2599683	hotel				
+node	4237681191	Ambrogio		43.7715663	11.2661691	hotel				
+node	4239005761	Villa Olmi Firenze		43.7570458	11.3124715	hotel				
+node	4239736896	Hotel Ginori Al Duomo		43.7762523	11.2556578	hotel				
+node	4241451690	Villa Olmi Firenze		43.7573008	11.3122727	hotel				
+node	4245592089	Hotel Laurus al Duomo		43.7735180	11.2526825	hotel				
+node	4248935493	Ottaviani Terrace		43.7725891	11.2493921	hotel				
+node	4254678292	Novoli B&B		43.7892614	11.2286023	hotel				
+node	4264448106	Novoli B&B		43.7893511	11.2287094	hotel				
+node	4269910892	Hotel Ester		43.7762638	11.2507654	hotel				http://www.RoomInFlorence.com
+node	4280558308	Hotel Colomba		43.7758330	11.2564526	hotel				
+node	4285451190	Real Hotel		43.7977602	11.2046967	hotel				
+node	4349925392	Starhotels Michelangelo		43.7765905	11.2378073	hotel				
+node	4366247299	Hotel Benivieni		43.7721603	11.2564079	hotel	3			https://hotelbenivieni.it/
+node	4407216689	Piazza di San Firenze 3	Piazza do San Firenze 3	43.7701025	11.2569589	hotel				https://www.sanfirenzesuites.com/
+node	4418889250	Room Mate Isabella Hotel		43.7713774	11.2512490	hotel	4	Room Mate	Room Mate	https://room-matehotels.com/en/isabella/
+node	4418903842	Luca - Room Mate Hotel		43.7788703	11.2562308	hotel	4	Room Mate	Room Mate	https://room-matehotels.com/en/luca/
+node	4434723255	Embassy Hotel		43.7778279	11.2448904	hotel				
+node	4434723258	Santa Maria Novella		43.7733602	11.2500762	hotel				
+node	4454798191	Luxury Loft Alfani		43.7740574	11.2632129	hotel				
+node	4486722698	Forte16		43.7721376	11.2715449	hotel				
+node	4558761946	Mercure		43.7765125	11.2508491	hotel		Mercure		
+node	4571781891	Stella della casa		43.7748592	11.2463835	hotel				
+node	4688431704	Hotel Il Castagno		43.7808999	11.2717536	hotel	2			
+node	4693437693	Hotel Ambasciatori		43.7762044	11.2465684	hotel			c-hotels	
+node	4693437700	Hotel Bella Firenze		43.7764370	11.2459189	hotel				
+node	4693731980	Pensione Canada		43.7744356	11.2550135	hotel				
+node	4727953426	Residenza Vespucci		43.7710441	11.2474518	hotel				
+node	4773475063	Gallo d'oro		43.7820669	11.2619884	hotel				
+node	4791613064	Hotel la Scaletta		43.7667694	11.2514591	hotel				https://www.hotellascaletta.it/
+node	4841801023	B&B 57		43.7631510	11.2769411	hotel				
+node	4843432274	Casa Aurora		43.8015255	11.2504587	hostel				
+node	4843432275	La Colonica		43.8020953	11.2489306	hostel				
+node	4890603221	Bigi Appartments		43.7737115	11.2788181	hotel				
+node	4925487221	First of Florence	First of Florence	43.7752760	11.2574002	hotel				
+node	4928537821	Airbnb very good	Airbnb very good	43.7833901	11.2361596	hotel				
+node	4940893423	La Casa di Maria	Maria's apt	43.7704846	11.2628734	hotel				
+node	4958904821	Air BnB		43.7737198	11.2583787	hotel				
+node	4985819698	Locanda della Musica		43.7781411	11.2507872	hotel	2			http://www.locandadellamusica.it/
+node	4985819699	Hotel Azzi		43.7780779	11.2509384	hotel	3			https://www.hotelazzi.com/
+node	5000829021	B&B Gia Via Larga		43.7761355	11.2567013	hotel				
+node	5076918322	Residenza Castiglioni		43.7743844	11.2520324	hotel				
+node	5182204226	Hotel Galileo		43.7783353	11.2534215	hotel				
+node	5354821721	Spagna		43.7740039	11.2510408	hotel				
+node	5446411022	Dante & Beatrice Suites		43.7643674	11.2465266	hotel				
+node	5501131666	B&B Hotel Firenze Nuovo Palazzo di Giustizia		43.7972781	11.2207125	hotel	3	B&B Hotels	B&B Hotels	https://www.hotel-bb.com/it/hotel/firenze-nuovo-palazzo-giustizia.htm
+node	5582180858	Hotel Corte dei Medici		43.7754614	11.2534414	hotel	3			
+node	5744931921	Hotel Raffaello		43.7975447	11.2416178	hotel	4			https://www.raffaellohotel.it/
+node	5764522582	Hotel Costantini		43.7724734	11.2552609	hotel				
+node	5764522584	Rodo Hotel		43.7724691	11.2552872	hotel	3			
+node	5764522587	Hotel Bigallo		43.7725346	11.2552224	hotel	3			
+node	5813208445	Hotel L’Orologio Firenze		43.7735214	11.2502691	hotel		Hotel L’Orologio		https://www.hotelorologioflorence.com/
+node	5839184070	Villa Stanley		43.8330567	11.2142112	hotel				
+node	5865647719	Villa Tolomei		43.7598803	11.2259838	hotel				https://www.villatolomeihotel.it/
+node	5928892554	Mia Cara		43.7781672	11.2508916	hotel				
+node	5964357187	Hotel Bernini		43.7693614	11.2575861	hotel	5			
+node	5982044686	Hotel Home Florence		43.7668649	11.2679855	hotel	4			https://www.hhflorence.com
+node	6256025781	MH Florence Hotel		43.7787054	11.2450256	hotel	4		Prisma Hotel srl	https://www.mhflorencehotel.com
+node	6306664287	Soggiorno Livi		43.7761382	11.2520741	hotel				http://www.soggiornolivisleepinflorence.it
+node	6306664294	Ostello Centrale		43.7760859	11.2521089	hostel				https://ostellocentralefirenze.myadj.it/v/ostellocentralefirenze
+node	6311659695	Hotel Perseo		43.7733743	11.2536136	hotel				
+node	6311659699	Hotel Centrale		43.7739020	11.2530704	hotel				https://www.hotelcentralefirenze.it/
+node	6311659725	Firenze Number Nine Wellness Hotel		43.7743330	11.2530999	hotel				https://www.firenzenumbernine.com/
+node	6326153715			43.7689583	11.2532526	hotel				
+node	6326153717			43.7685883	11.2534162	hotel				
+node	6331457526	Hotel della Signoria		43.7693026	11.2538719	hotel				
+node	6331457533	Hotel Pierre		43.7705190	11.2539980	hotel				
+node	6331705726	Hotel Il Duca		43.7736424	11.2615945	hotel				
+node	6331788548	Hotel Liana		43.7759773	11.2682312	hotel				
+node	6334164626	Hotel Cordova		43.7817156	11.2613762	hotel				
+node	6336404952	UNA Hotel Vittoria		43.7709118	11.2343225	hotel		UNA Hotels & Resorts		
+node	6349523091	Hotel Diplomat		43.7764514	11.2462130	hotel			c-hotels	
+node	6357279992	San Firenze Suites		43.7700684	11.2573366	hotel				
+node	6384326547	Hotel Torre Guelfa		43.7692499	11.2529272	hotel				
+node	6384326551	Hotel Cestelli		43.7695718	11.2515943	hotel				
+node	6384353732	Strozzi Palace Hotel		43.7719433	11.2528969	hotel	4			
+node	6391901653	Hotel De Lanzi		43.7721856	11.2557648	hotel				
+node	6499854385	Capri Moon		43.7713689	11.2512928	hotel				
+node	6567361785	piccola piazza		43.7665296	11.2499726	hotel				
+node	6742296607	Relais La Corte di Cloris		43.7832614	11.2685722	hotel				
+node	6747107426	Il Salotto di Firenze		43.7726410	11.2545579	hotel				
+node	6919962066	Hotel Regina		43.7759912	11.2542945	hotel				https://www.hotelreginafirenze.it/
+node	6938225143	Hotel Leonardo da Vinci		43.7801527	11.2445705	hotel				
+node	6938225151	Hotel Luxor Florence		43.7799185	11.2453054	hotel				
+node	6938225152	New Hostel Florence		43.7807451	11.2443965	hostel				https://newhostelsflorence.com
+node	6951243380	Il Guelfo Bianco		43.7765775	11.2570369	hotel				https://ilguelfobianco.it/
+node	7115541916	Academy Hostel		43.7742004	11.2564802	hostel				http://www.academyhostel.eu
+node	7221358585	Residence La Contessine		43.7768096	11.2516950	hotel				
+node	7236623308	Por Santa Maria		43.7698358	11.2545678	hotel				
+node	7256350975	Alba Palace		43.7743471	11.2474028	hotel	3			https://www.hotelalbafirenze.it
+node	7285760801	Hotel Sanpaoli		43.7779589	11.2569200	hotel				http://mobile.hotelsampaoli.it/
+node	7288623777	Hotel Bavaria		43.7715589	11.2586824	hotel				https://hotelbavariafirenze.it
+node	7300138149	Hotel Villa Gabriele D'Annunzio		43.7814425	11.2987311	hotel				
+node	7304260332			43.8087216	11.3108383	hotel				https://villadeibosconi.it/
+node	7475749982	Hotel Emma		43.7838839	11.2726864	hotel				
+node	7476305413	Hotel Il Granduca		43.7793573	11.2675389	hotel				
+node	7476789810	Hotel Tourist House		43.7732687	11.2486673	hotel				
+node	7476789821	Hotel Margaret		43.7740501	11.2475637	hotel				
+node	7476789823	HHB Hotel		43.7748258	11.2464667	hotel				
+node	7476789836	Hotel Elite		43.7739795	11.2479150	hotel				
+node	7476789838	Hotel Rivoli		43.7742505	11.2472848	hotel				
+node	7476789844	Hotel Montreal		43.7746253	11.2467403	hotel				
+node	7476789853	Hotel Boccaccio		43.7750378	11.2461744	hotel				
+node	7476789854	Club Hotel		43.7753245	11.2464761	hotel				
+node	7476848418	Hotel Executive		43.7742881	11.2425036	hotel				
+node	7485085156	Hotel Unicorno		43.7723879	11.2489399	hotel				
+node	7489917802	Aida		43.7836615	11.2342632	hotel	2			
+node	7954554862	New Generation Hostel Florence Center		43.7725484	11.2456244	hostel			New Generation Hostel	https://newgenerationhostel.com
+node	7954619871	Leonardo House		43.7729725	11.2511429	hostel				https://leonardohouse.weebly.com
+node	7954684881	Emerald Fields		43.7784088	11.2526745	hostel				
+node	7954719011	Emerald Palace Hostel		43.7755835	11.2536254	hostel				https://www.emeraldpalaceflorence.site/
+node	7966076992	Vasari Palace		43.7783998	11.2505071	hotel				
+node	9073820193	Florence Dance		43.7777590	11.2528628	hostel				
+node	9224856371	Hotel Ungherese		43.7846768	11.2818631	hotel	2			https://www.hotelungherese.it/
+node	9669780029	Hotel Roma		43.7728067	11.2496440	hotel	4			https://www.hotelromaflorence.com/
+node	9773023904	Pink Wolf		43.7769408	11.2503017	hotel				
+node	9791076614			43.7798067	11.3038512	hotel				
+node	9871763717	YellowSquare Florence		43.7841504	11.2420197	hostel				https://yellowsquare.com/florence/
+node	9877353848	Relais Accademia		43.7758544	11.2577623	hotel				https://www.relaisaccademia.it/it/
+node	9897586597	Hotel Panama		43.7847306	11.2554350	hotel				https://www.hotelpanamafirenze.it/
+node	9941832117	Hotel Porta Faenza		43.7779003	11.2509178	hotel				https://www.hotelportafaenza.it/
+node	9963227817	Hotel Fiorita	Hotel Fiorita	43.7776491	11.2498390	hotel				https://www.hotelfiorita.com/
+node	9965562117	Hotel Careggi		43.7971838	11.2447316	hotel	3			https://hotelcareggi.com/
+node	9968313540	Genesio		43.7792739	11.2551991	hotel				
+node	9968514952	The Frame Hotel		43.7735966	11.2522219	hotel	4			
+node	9968514953	Hotel Giappone		43.7733521	11.2519508	hotel	1			
+node	9973350247	Hotel Burchianti		43.7743796	11.2520083	hotel				http://hotelburchianti.it
+node	9973462948	Rosso 23		43.7740179	11.2500973	hotel				https://www.hotelrosso23.com/
+node	9973462949	Garibaldi Blu		43.7740273	11.2500946	hotel				https://www.hotelgaribaldiblu.com/
+node	9975617883	Hotel Caravaggio		43.7789678	11.2540225	hotel	3			
+node	9976580858	Hotel Monica		43.7788864	11.2504867	hotel				
+node	9977590122	Santa Croce		43.7692594	11.2592579	hotel				
+node	9980072008	Ostello Bello		43.7780928	11.2509458	hostel		Ostello Bello		https://ostellobello.com/it/hostel/firenze/
+node	10021280703	Hotel Veneto		43.7784496	11.2561747	hotel	3			http://hotelvenetofirenze.com/
+node	10605617913	Toscanelli Residenza d'Epoca		43.7661172	11.2501487	hotel				https://residenzatoscanelli.com/
+node	10804728989	Hotel Centro		43.7764577	11.2556449	hotel				
+node	10863828165	Residenza La Musa Amacord		43.7674661	11.2584569	hotel				https://residenzalamusa.it/it/index.html
+node	11038055271	Hotel Palazzo Guadagni		43.7663383	11.2473602	hotel				https://www.palazzoguadagni.com/?utm_source=google&utm_medium=organic&utm_campaign=GoogleMyBusiness
+node	11229098037	25hours Hotel Piazza San Paolino		43.7727750	11.2481042	hotel				
+node	11294788269	Galileo		43.7783831	11.2534857	hotel				
+node	11468795698	Hotel le due Fontane		43.7761065	11.2604467	hotel				https://www.leduefontane.com/
+node	11534530972	Brigid B&B		43.7745977	11.2840306	hotel				
+node	11699327637	Hotel Eden		43.7786070	11.2534311	hotel				https://hoteledenfirenze.it
+node	11724021774	Hotel Albany		43.7772156	11.2501646	hotel				https://hotelalbanifirenze.com/
+node	11800114346	Villa Carlotta		43.7580559	11.2455904	hotel				https://www.hotelvillacarlotta.it/
+node	11824665033	Argentina		43.7740714	11.2428216	hotel				
+node	11892408485	B&B A Teatro		43.7698922	11.2613435	hotel				
+node	12083610593	Hotel La Fortezza		43.7835329	11.2530572	hotel				
+node	12088500069			43.7810070	11.2612800	hotel				https://gardenblue.it/
+node	12161820102	Cosmopolitan Hotel		43.7938528	11.2104708	hotel				
+node	12264497244	Hotel Nazionale		43.7779429	11.2530266	hotel				
+node	12299834118	Palazzo Tolomei - Residenza d'Epoca		43.7765742	11.2557075	hotel				
+node	12485110001	Hotel Camilla Firenze		43.7761220	11.2555906	hotel				https://www.hotelcamillafirenze.com/en/
+node	12509516952	Relais il Cestello		43.7703150	11.2435276	hotel				
+node	12623235348	Foresteria ai Servi di Maria		43.7805291	11.2778143	hostel				
+node	12640917222			43.7741591	11.2463635	hotel				
+node	12658131762	Aurum Firenze		43.7766203	11.2513274	hotel		Aurum		https://www.aurumhotels.it/
+node	12695465174	Gioia Hotel		43.7764359	11.2569295	hotel				
+node	12716591133	Hotel Balestri		43.7671855	11.2579712	hotel				
+node	12763207089	Hotel Cellai		43.7794370	11.2552504	hotel				
+node	12765804028	Hostel My Friends		43.7788650	11.2505005	hostel		hotels-of-florence.net		https://my-friends-hostel.hotels-of-florence.net
+node	12847622509	iQ Hotel Firenze		43.7807589	11.2606342	hotel				https://www.iqhotelfirenze.it
+node	12862664082	Relais Cavalcanti Guest House		43.7699190	11.2536657	hotel				https://www.relaiscavalcanti.com/
+node	12866976139	Godi Fiorenza Suite		43.7970032	11.2170960	hotel				https://godifiorenzasuite.jimdofree.com/
+node	12890601775	Morandi alla Crocetta		43.7762784	11.2628780	hotel				
+node	12901649001	Hotel Palazzo Ognissanti		43.7733980	11.2449129	hotel				https://ognissantihotel.it/
+node	12947080601	A&O Hostel Firenze Campo Di Marte		43.7770889	11.2763123	hotel		A&O		
+node	12978617254	S4 Stays		43.7813681	11.2543934	hostel				
+node	12978617255	Il Santo Stays		43.7796010	11.2527113	hostel				
+node	13107888617	Hotel Machivaelli Palace		43.7766954	11.2515302	hotel	3	Hotel Machivaelli Palace		
+node	13140727865	Hotel Alessandra		43.7692700	11.2525587	hotel				
+node	13144511905			43.7561360	11.2895219	hotel				
+node	13160245185	JR Hotels Hermes Firenze		43.7768964	11.2458035	hotel	3	JR Hotels		https://jr-hotels.com/it
+node	13160253144	Hotel delle Nazioni		43.7770845	11.2457286	hotel	3			
+node	13162149814	Teatro Luxury Apartments		43.7752202	11.2392206	hotel		Starhotels		
+node	13167415494	firenze rooms cathedral		43.7741584	11.2555195	hostel				https://firenzeroomscathedral.com/
+node	13236133744	Tornabuoni Beacci		43.7704009	11.2512046	hotel	5	Unbound Collection	Hyatt	https://www.hyatt.com/en-US/hotel/italy/il-tornabuoni/flrub
+node	13261565926	Pensione Annalena		43.7639714	11.2456203	hotel				
+node	13304347902	Leopolda		43.7806585	11.2369341	hotel				
+node	13376341457	Villa Bonelli		43.8068712	11.2974067	hotel	3			https://hotelvillabonelli.com/
+node	13393498727			43.7665249	11.2453234	hostel				
+node	13417841918	Hotel Grifone		43.7687137	11.2854980	hotel	4			https://www.hotelgrifonefirenze.it/
+node	13446968101	Hotel Jolì		43.7769453	11.2502801	hotel				https://hoteljoly.it/
+node	13459723775	The One Firenze Hotel		43.7740045	11.2433036	hotel				https://theonefirenze.com/
+node	13724856393	Aparto		43.7872486	11.2213719	hotel				
+node	13868460614	Pinocchio House Hotel		43.7773047	11.2537304	hotel				
+node	13871216501			43.7869062	11.2397054	hotel				
+node	13900985453	B&B Relais del Duomo		43.7730682	11.2538280	hotel		B&B Hotels		https://www.relaisdelduomo.it
+node	13912107427	Residenza d'epoca Pagliano		43.7709321	11.2596463	hotel				
+node	13912107428	Residenza d'epoca Numeroventi		43.7709315	11.2596769	hotel				
+node	13914588301	Hotel Dali		43.7720526	11.2605394	hotel				https://www.hoteldali.com/
+node	14099283245	Joy Hotel		43.7763250	11.2456593	hotel			c-hotels	
+node	14107189554	Casa del Garbo		43.7699554	11.2566546	hotel				https://www.casadelgarbo.it/
+node	14114627001	PopArtment		43.7843975	11.2417297	hotel				http://popartment.com
+node	14138366401	Hotel Villani		43.7721657	11.2561143	hotel				
+node	14182467702			43.7816875	11.2532491	hotel				
+node	14183191571	B&B Hotel		43.7675347	11.2524955	hotel		B&B Hotels		
+node	14196482128	Hotel Boston		43.7783803	11.2530455	hotel	3			https://hotelbostonfirenze.it/
+node	14197676212	Il Piccolo		43.7795484	11.2578870	hotel				
+node	14211321474	D'Azeglio		43.7740321	11.2695343	hotel				
+node	14211958295	The Artists' Palace		43.7748463	11.2551898	hotel				
+node	14212008163	Ad Hostel		43.7749041	11.2552117	hostel				
+node	14212012632	Spadai		43.7746553	11.2559459	hotel				
+node	14212292383	Globus Urban Hotel		43.7757803	11.2526222	hotel				
+node	14214012432	Lorena		43.7750255	11.2526375	hotel				
+node	14214522698	Axial		43.7719095	11.2551852	hotel				
+node	14214550605	Maxim		43.7718525	11.2551659	hotel				
+node	14214555015	Calzaiuoli		43.7713541	11.2554186	hotel				
+node	14225080921	Hotel Bonifacio		43.7820397	11.2577970	hotel				
+node	14235949862			43.7828191	11.2550387	hotel				
+node	14291362501	B&BKingsman		43.7758315	11.2452965	hotel				
+way	81102722	Villa Belvedere		43.7525113	11.2403861	hotel				
+way	81511696	Hotel Park Palace		43.7558551	11.2513951	hotel				
+way	83240490	Hilton Garden Inn Florence Novoli		43.7927761	11.2281428	hotel	4	Hilton Garden Inn	Hilton Hotels	https://www.hilton.com/en/hotels/flrnvgi-hilton-garden-inn-florence-novoli/?WT.mc_id=zELWAKN0EMEA1GI2DMH3LocalSearch4DGGenericx6FLRNVGI
+way	83240493	Tuscany Starhotels		43.7915719	11.2238236	hotel		Starhotels		
+way	83535810	Hotel Autopark		43.7965179	11.2191990	hotel				https://www.hotelautopark.com/
+way	111183843	La Fortezza		43.7835316	11.2530813	hotel	3			
+way	115607925	Hotel Villa Cora		43.7572680	11.2475424	hotel	5			https://www.villacora.it/
+way	119891912	Hotel Corolle		43.8048886	11.2431940	hotel	3			http://www.hotelcorolle.it/
+way	140992163	NILHOTEL		43.7990303	11.2271354	hotel	4			
+way	171998829	Ibis Firenze Nord Aeroporto		43.8103906	11.1777768	hotel		Ibis		https://www.all.accor.com/
+way	199059406	Villa San Michele		43.8027758	11.2984780	hotel				http://www.villasanmichele.com
+way	224109221	Villa Le Rondini		43.8107055	11.2775193	hotel				https://www.villalerondini.it/
+way	248560629	Villa La Stella		43.7941665	11.2831285	hotel				
+way	274268493	Re-dama hotel		43.7880777	11.2468703	hostel				
+way	305870425	Villa Il Salviatino		43.7880220	11.2972950	hotel	5L			https://salviatino.com/
+way	372159152	Hotel Franchi		43.7971876	11.2061640	hotel				
+way	386778768	Villa Aruch		43.7990008	11.2156467	hotel				https://www.villaruch.com/
+way	458297369	Dimora Salviati		43.7876349	11.2851663	hotel		Fiorino d'oro di Francesca Serraglini & C. s.a.s		https://www.dimorasalviati.it/
+way	462537274	Wyndham Garden Florence		43.7964523	11.2060667	hotel	4	Wyndham Garden		
+way	470323274	Mirage		43.7947042	11.2058823	hotel				
+way	473057270	Aparto		43.7988400	11.2361706	hotel				
+way	1124689289	Hotel Mulino di Firenze		43.7623434	11.3169846	hotel	4s			https://www.mulinodifirenze.com/
+way	1395052949	Collegio Alla Querce		43.7880315	11.2770760	hotel	5			https://aubergeresorts.com/collegioallaquerce/
+relation	1615532	"The Excelsior, a Luxury Collection Hotel"		43.7718348	11.2460497	hotel	5	The Luxury Collection	The Luxury Collection	https://www.marriott.com/en-us/hotels/flrhe-the-excelsior-a-luxury-collection-hotel-florence/overview/
+relation	2563092	Novotel Firenze Nord Aeroporto		43.8101937	11.1783473	hotel		Novotel		https://www.all.accor.com/
+relation	15740950	The Social Hub Florence Belfiore		43.7817440	11.2418725	hotel		The Social Hub		https://www.thesocialhub.co/it/firenze-belfiore/
+relation	20115113	The Social Hub Firenze Lavagnini		43.7824785	11.2532445	hotel				

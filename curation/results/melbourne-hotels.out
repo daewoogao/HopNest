@@ -1,0 +1,225 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	113541227	Rendezvous Grand Hotel Melbourne		-37.8181940	144.9636200	hotel				https://www.tfehotels.com/brands/rendezvous-hotels/rendezvous-hotel-melbourne
+node	114574448	DoubleTree by Hilton Hotel Melbourne - Flinders Street		-37.8177285	144.9653561	hotel	4.5	DoubleTree	Hilton	https://www.hilton.com/en/hotels/melfsdi-doubletree-melbourne-flinders-street/
+node	114607288	Punt Hill Apartment Hotel		-37.8170329	144.9655353	hotel				https://www.punthill.com.au/
+node	122741147	Crown Towers Hotel		-37.8224011	144.9600707	hotel				https://www.crownhotels.com.au/crown-towers-melbourne/default-en.html
+node	130015082	The Westin Melbourne		-37.8158329	144.9674248	hotel		Westin	Starwood Hotels & Resorts	http://www.westinmelbourne.com
+node	130015233	Adelphi Hotel		-37.8163090	144.9683785	hotel				
+node	131107666	Mantra on Little Bourke		-37.8144581	144.9590398	hotel			Mantra	https://www.mantra.com.au/victoria/melbourne-and-surrounds/melbourne/accommodation/hotels/mantra-on-little-bourke/
+node	145193705	Vibe Savoy Hotel		-37.8178023	144.9539372	hotel			TFE hotels	https://www.tfehotels.com/brands/vibe-hotels/vibe-savoy-hotel-melbourne
+node	145246218	Sebel Melbourne		-37.8167310	144.9612323	hotel		The Sebel		http://accorhotels.com.au/accommodation/melbourne-vic/sebel-melbourne-flinders-lane
+node	163378510	Hotel Sophia		-37.8137769	144.9542371	hotel				https://www.hotelsophia.com.au/
+node	164077659	Melbourne CBD Hotel		-37.8154676	144.9546001	hotel		Ibis	Yeh's Group	https://www.accorhotels.com/gb/hotel-3030-ibis-melbourne-little-bourke-street/index.shtml
+node	164086401	Melbourne City Backpackers		-37.8155762	144.9550620	hostel				http://www.kingstreetbackpackers.com.au
+node	174844923	Novotel Melbourne on Collins		-37.8156920	144.9649494	hotel		Novotel	Accor Hotels	https://www.novotelmelbourne.com.au/
+node	176668273	Pullman Melbourne City Centre		-37.8130077	144.9649293	hotel		Pullman	Pullman Hotels and Resorts	
+node	176681485	BreakFree Heritage on Little Bourke		-37.8129326	144.9632058	hotel				https://www.breakfree.com.au/heritage-on-little-bourke/
+node	277498563	Ibis Budget		-37.6714131	144.8551625	hotel		Ibis Budget		http://www.ibis.com/gb/hotel-5044-ibis-budget-melbourne-airport/index.shtml
+node	304150616	Ritz for Backpackers		-37.8580346	144.9809303	hostel				
+node	319157891	Downtowner on Lygon		-37.8052797	144.9663810	hotel				
+node	331163229	Travel Inn Hotel		-37.8004336	144.9681114	hotel		Best Western	Best Western	https://www.thetravelinn.com.au/
+node	450395142	Grand Hotel Melbourne		-37.8200975	144.9542549	hotel				https://www.grandhotelmelbourne.com.au/
+node	529837246	The Como Melbourne		-37.8380542	144.9962600	hotel				
+node	533626633	The Hatton Hotel		-37.8359748	144.9818760	hotel				
+node	538134820	Lyall Hotel		-37.8378902	144.9907571	hotel				
+node	538692745	Quest Windsor		-37.8510973	144.9838290	hotel				https://www.questapartments.com.au/Accommodation/82/Australia/Melbourne_Suburbs/Quest_Windsor/Welcome.aspx
+node	540519455	Melbourne Parkview Hotel		-37.8463935	144.9783282	hotel				https://viewhotels.com.au/melbourneparkviewhotel/
+node	570698885	Coffee Palace Backpackers		-37.8602776	144.9781659	hostel				
+node	575402653	Seasons Heritage Melbourne		-37.8476980	144.9789910	hotel				https://www.seasonsheritagemelbourne.com.au/
+node	580269518	Albert Park Manor		-37.8360011	144.9760863	hotel				
+node	591391653	United Backpackers		-37.8176298	144.9661635	hostel				https://unitedbackpackers.com.au/
+node	592833686	Flinders Landing Apartments		-37.8160266	144.9690557	hotel				
+node	595501879	Best Western Melbourne City Hotel		-37.8205345	144.9551367	hotel		Best Western	Best Western	https://www.bestwesternmelbourne.com.au
+node	597558756	Quest on William		-37.8149908	144.9582123	hotel				https://www.questapartments.com.au/Accommodation/56/Australia/Melbourne_CBD/Quest_On_William/Welcome.aspx
+node	598032208	Hotel Collins		-37.8146876	144.9674253	hotel				
+node	598400057	Causeway Inn on the Mall		-37.8143035	144.9641786	hotel				https://www.causeway.com.au/
+node	599928123	Hotel Lindrum		-37.8152818	144.9736037	hotel				
+node	603633123	Global Backpackers		-37.8059962	144.9585654	hostel				
+node	607756377	Flinders Station Hotel		-37.8174426	144.9643336	hostel				https://flindersbackpackers.com.au/
+node	611984580	Causeway 353 Hotel		-37.8157451	144.9630281	hotel				https://www.causeway.com.au/
+node	612015199	Ibis Budget		-37.8159210	144.9635080	hotel		Ibis Budget		http://ibisbudgethotel.ibis.com/
+node	612726069	Quest Fairfax House		-37.8156365	144.9615726	hotel				https://www.servicedapartmentsmelbourne.com/quest-fairfax-house-serviced-apartments-melbourne_2_183.php
+node	613731700	Quest on Dorcas		-37.8299580	144.9702660	hotel				https://www.questapartments.com.au/Accommodation/63/australia/melbourne_cbd_fringe/quest_on_dorcas/Welcome.aspx
+node	621048440	Citiclub Hotel		-37.8157717	144.9607223	hotel				https://www.cqmelbourne.com.au/
+node	621533164	Adina Apartment Hotel Melbourne		-37.8143488	144.9600094	hotel		Adina Hotels		https://www.adinahotels.com.au/
+node	622803015	Hotel Indigo Melbourne on Flinders		-37.8201786	144.9550026	hotel		Hotel Indigo		https://www.ihg.com/hotelindigo/hotels/us/en/melbourne/melsf/hoteldetail
+node	622819429	Alto Hotel on Bourke		-37.8163983	144.9547964	hotel				https://www.altohotel.com.au/
+node	624924103	Clarion Suites Gateway		-37.8194275	144.9595214	hotel				https://www.clarionsuitesgateway.com.au/
+node	632003870	Tolarno Hotel		-37.8601467	144.9759075	hotel				https://www.tolarnohotel.com.au
+node	652430574	Quest Royal Gardens		-37.8047550	144.9751470	hotel				https://www.questroyalgardens.com.au/
+node	659635763	Ibis Styles Kingsgate Hotel		-37.8169709	144.9557516	hotel		Ibis Styles	Accor	
+node	663532430	Mercure Melbourne Treasury Gardens		-37.8147720	144.9742430	hotel		Mercure	Accor Hotels	http://mercuremelbourne.com.au/
+node	664321499	Melbourne Connection Travellers Hostel		-37.8153727	144.9550159	hostel				http://www.melbourneconnection.com/
+node	667680172	Mantra 100 Exhibition		-37.8133608	144.9714894	hotel				
+node	706906596	Sheraton Melbourne Hotel		-37.8127011	144.9726307	hotel		Sheraton		http://www.sheratonmelbourne.com
+node	726966333	Oaks On Lonsdale		-37.8098010	144.9713530	hotel				
+node	726966501	Comfort Apartments Melbourne Central		-37.8099188	144.9708751	hotel		Choice Hotels		https://www.choicehotels.com/en-au/victoria/melbourne/comfort-inn-hotels/au971
+node	773059233	The Paramount Serviced Apartments Melbourne		-37.8118100	144.9697670	hotel				http://www.theparamount.com.au/
+node	799099786	Citadines Melbourne on Bourke		-37.8127599	144.9693633	hotel				http://www.citadines.com/
+node	836036540	Rydges Melbourne		-37.8112010	144.9706806	hotel				https://www.rydges.com/hotel/RVMELB/Rydges-Melbourne.htm
+node	836036541	Crossley Hotel		-37.8110357	144.9711420	hotel		Mercure	Mercure	
+node	844369565	Hotel Grand Chancellor Melbourne		-37.8107252	144.9684209	hotel				https://www.grandchancellorhotels.com/melbourne
+node	844369567	Mantra on Russell		-37.8113058	144.9678576	hotel				https://www.mantra.com.au/Russell
+node	990015902	Travelodge		-37.8190635	144.9502814	hotel		Travelodge		
+node	1862871256	Hotel Discovery		-37.8088493	144.9591089	hostel				http://www.hoteldiscovery.com.au
+node	2140980367	Bev & Mick's Backpackers		-37.8013640	144.9564940	hostel				
+node	2217869809	City Limits Hotel Studio Apartments		-37.8104740	144.9718180	hotel				
+node	2289929056	Punthill		-37.8380290	144.9928060	hotel				
+node	2303340433	Quest South Melbourne		-37.8331645	144.9697225	hotel				https://www.questapartments.com.au/
+node	2345092294	Drop Bear Inn		-37.8316740	144.9573781	hostel				http://dropbearinn.com.au
+node	2382183715	Bev & Mick's McMahon's Hotel		-37.8073796	144.9470005	hostel				
+node	2503401611	Home @ The Mansion		-37.8084460	144.9743010	hostel				http://www.homemansion.com.au
+node	2535971140	Hotel Urban		-37.8616415	144.9746352	hotel				
+node	2982174638	Quest Abbotsford		-37.8110200	145.0079570	hotel				https://www.questabbotsford.com.au/
+node	3343005106	Arrow on Swanston		-37.8055511	144.9633148	hotel				
+node	3369425102	Queen Victoria Hostel		-37.8055990	144.9557170	hostel				
+node	3808190239	Melbourne Central YHA		-37.8206547	144.9556598	hostel				https://www.yha.com.au/hostels/vic/melbourne-hostels/melbourne-central-hostel/
+node	3861897057	The Spencer Backpackers		-37.8096050	144.9491420	hostel				
+node	3937320444	The Cullen		-37.8467784	144.9915827	hotel			Art Series Hotels	https://www.artserieshotels.com.au/cullen/
+node	3956522200	Adara Richmond		-37.8172487	144.9950528	hotel				https://adarahotelrichmond.com.au/
+node	4091526789	Melbourne Short Stay Apartments		-37.8258770	144.9569010	hotel				
+node	4162442089	Hotel Claremont Guest House		-37.8389719	144.9934104	hotel				hotelclaremont.com
+node	4267698390	City Tempo Hotel		-37.8101504	144.9582750	hotel	4			https://citytempo.com.au/
+node	4351781132	Vibe		-37.8187935	144.9620432	hotel				
+node	4511498369	Space Hotel		-37.8076069	144.9660168	hotel	3			https://www.spacehotel.com.au
+node	4654921716	Essence Hotel Carlton		-37.8041473	144.9631106	hotel			Essence Hotels	https://www.essencehotels.com.au/carlton/
+node	4675693394	Europa Melbourne	Europa Melbourne	-37.8114121	144.9593686	hostel				
+node	4958385721	St. Jerome's Hotel	St. Jerome's Hotel	-37.8107286	144.9639641	hotel				
+node	5177851337	YTI Garden Hotel		-37.8134767	144.9614361	hotel				https://www.ytigarden.com/
+node	5430672221	Flinders backpackers		-37.8173782	144.9643717	hostel				
+node	5641123008	Parkville Hotel		-37.7955948	144.9575946	hotel				
+node	5928461724	Punt Hill Apartment Hotel		-37.8110456	144.9690149	hotel				
+node	5982185675	Elizabeth Hostel		-37.8075700	144.9604597	hostel				
+node	5988192263	InterContinental		-37.8182545	144.9579913	hotel		InterContinental		https://www.melbourne.intercontinental.com/
+node	6220765201	Tramstop14 Backpackers		-37.8029774	144.9774832	hostel				
+node	6360234792	Oaks on Williams		-37.8113776	144.9564666	hotel		Oaks Hotels and Resorts		
+node	6744999696	East Brunswick Hotel		-37.7698841	144.9722443	hotel				https://www.eastbrunswickhotel.com.au/
+node	7007941016	Pint on Punt Backpackers		-37.8548952	144.9836215	hostel				
+node	7291247088	The Larwill Studio - Art Series		-37.7946854	144.9500118	hotel				
+node	7867725262	Scape Carlton		-37.8051245	144.9628289	hostel				https://www.scape.com.au/melbourne/scape-carlton/
+node	8653731449	Quest NewQuay		-37.8142398	144.9407241	hotel		Quest		
+node	8961086656	Ovolo South Yarra		-37.8395648	144.9949260	hotel			Ovolo Hotels	https://ovolohotels.com/ovolo/south-yarra/
+node	9135519892	Tribeca Serviced Apartments		-37.8102281	144.9851786	hotel				https://www.tribecaservicedapartments.com.au
+node	9294848074	W Melbourne		-37.8181940	144.9602606	hotel		W Hotels		
+node	9294887249	Mövenpick Hotel Melbourne on Spencer		-37.8173086	144.9537168	hotel		Mövenpick		
+node	10598310130	Brady Hotels		-37.8124590	144.9608545	hotel				
+node	11057998445	"The Motley Hotel Richmond, Tapestry Collection by Hilton"		-37.8181667	144.9965236	hotel	4	Hilton	Hilton	https://www.hilton.com/en/hotels/melmrup-the-motley-hotel-richmond/
+node	11135649035	Next		-37.8134537	144.9703123	hotel		Hilton		https://nexthotelmelbourne.com/
+node	11182318147	"Oaks Hotels, Resorts & Suites"		-37.8177651	144.9580082	hotel		Oaks Hotels;Resorts & Suites		
+node	11279868109	AC Hotel Melbourne Southbank		-37.8286485	144.9499581	hotel		AC Hotel		
+node	11404814215	The Village Melbourne		-37.8088821	144.9592533	hostel				
+node	11411797866	Unilodge Swanston		-37.8103445	144.9637975	hotel				https://www.unilodge.com.au/student-accommodation-melbourne/339-swanston
+node	11411909948	Unilodge Melbourne Central		-37.8107755	144.9604223	hotel				https://www.unilodge.com.au/student-accommodation-melbourne/melbourne-central
+node	11466834913	Punthill Manhattan		-37.8149339	144.9725917	hotel				
+node	11576193213	The Sebel		-37.8138153	144.9426452	hotel		The Sebel		
+node	11605798627	Veriu		-37.8075564	144.9588044	hotel				
+node	11747692470	Meriton Suites Melbourne		-37.8168830	144.9561904	hotel				
+node	11818256998	Hotel No		-37.8180457	144.9610774	hotel				
+node	12301397398	Veriu Collingwood		-37.7993104	144.9857438	hotel				https://veriu.com.au/hotels/veriu-collingwood/
+node	12364706510	Jazz Corner Hotel		-37.8112641	144.9564210	hotel				
+node	12405372312	Hotel Sofitel		-37.8140317	144.9727909	hotel			Accor Group	http://www.sofitel-melbourne.com
+node	12418084766	Lyf		-37.8061829	144.9847055	hotel		lyf		https://www.discoverasr.com/en/lyf/australia/lyf-collingwood-melbourne
+node	12418154923	Brady Hotels		-37.8091670	144.9626909	hotel				
+node	12419061343	Crest on Park		-37.8589929	144.9728636	hotel		CHG		
+node	12457396911	Qt Melbourne		-37.8133312	144.9681465	hotel				https://www.qthotels.com/melbourne/
+node	12686718233	Holiday Inn Express		-37.8178642	144.9552939	hotel		Holiday Inn Express		
+node	13068097583	The StandardX		-37.7958849	144.9775949	hotel				https://www.standardx.com/melbourne/
+node	13192319101	Little Drifter North Melbourne		-37.8029832	144.9544857	hostel				
+node	13290671980	Holiday Inn Bourke Street Mall		-37.8145968	144.9646329	hotel		Holiday Inn		
+node	13290671986	Hotel Indigo		-37.8147261	144.9647164	hotel		Hotel Indigo		
+node	13402054932	Knightsbridge Apartments		-37.8157203	144.9868768	hotel				
+node	13495089801	In The Brick Spa And Hotel		-37.8566695	144.9842776	hotel				https://www.inthebrickspa.com.au
+node	13508431301	The Quincy		-37.8195988	144.9568612	hotel				https://quincymelbourne.com/
+node	13778393697	The Howey		-37.8149285	144.9654014	hotel				
+node	13784611113	Quest Docklands Apartment Hotel		-37.8184705	144.9478236	hotel		Quest		https://www.questapartments.com.au/properties/vic/docklands/quest-docklands
+node	13800561440	Peppers Docklands		-37.8146279	144.9470750	hotel		Accor		
+node	13894963690	Novotel		-37.8119167	144.9600981	hotel		Novotel		https://all.accor.com/hotel/A0B1/index.en.shtml
+node	13909737161	Mercure Welcome		-37.8127548	144.9646913	hotel		Mercure		https://www.mercurewelcome.com.au/
+node	13931242005	Melbourne Marriott Hotel		-37.8098101	144.9692632	hotel		Marriott		https://www.marriott.com/en-us/hotels/melmc-melbourne-marriott-hotel/overview/
+node	13931255765	Brady Hotels Jones Lane		-37.8093914	144.9686291	hotel				https://www.bradyhotels.com.au/jones-lane/
+node	14084735341	The Ritz-Carlton		-37.8146263	144.9526687	hotel		The Ritz-Carlton		https://www.ritzcarlton.com/en/hotels/melrz-the-ritz-carlton-melbourne
+node	14084735342	Dorsett Melbourne		-37.8139784	144.9532411	hotel				https://www.dorsetthotels.com/dorsett-melbourne/
+node	14152928347	The Prince Hotel		-37.8622600	144.9740421	hotel				
+way	11914778	The Langham		-37.8205762	144.9657115	hotel				https://www.langhamhotels.com/en/the-langham/melbourne/
+way	14664549	Batman’s Hill on Collins		-37.8192093	144.9546504	hotel		Quality Hotel		https://www.batmanshill.com.au
+way	16157901	Harbour View Apartments		-37.8133827	144.9518872	hotel				
+way	22931113	Grand Hyatt Melbourne		-37.8151295	144.9698776	hotel		Grand Hyatt		https://melbourne.grand.hyatt.com
+way	32943319	Windsor Hotel		-37.8119870	144.9729322	hotel				https://www.thehotelwindsor.com.au/
+way	33106429	Crowne Plaza		-37.8226595	144.9549894	hotel		Crowne Plaza		http://www.crowneplaza.com
+way	33841339	Mercure		-37.8213231	144.9652343	hotel		Mercure		
+way	38903246	Crown Promenade Hotel		-37.8239785	144.9597322	hotel				https://www.crownhotels.com.au/crown-promenade-melbourne/
+way	39306716	Mercure North Melbourne		-37.7969519	144.9502019	hotel		Mercure		https://www.accorhotels.com/gb/hotel-9270-mercure-north-melbourne/index.shtml
+way	40794407	North Melbourne Serviced Apartments		-37.7974351	144.9515586	hotel		Golden Chain		http://www.northmelbourneapartments.com/
+way	45392507			-37.8610539	144.9790761	hostel				http://www.oslohotel.com.au/
+way	45981478	Zara Apartments		-37.8338093	144.9691565	hotel				http://www.zaraapartments.com.au/
+way	46099210	Crown Metropol Hotel		-37.8257427	144.9576879	hotel				http://www.crownmetropol.com.au
+way	46203397	Le Méridien Melbourne		-37.8111662	144.9721641	hotel		Le Méridien	Marriott	https://www.marriott.com/en-us/hotels/melmd-le-meridien-melbourne/overview/
+way	46817475	The Victoria Hotel		-37.8144094	144.9672003	hotel				
+way	47121172	Exford Hotel		-37.8117767	144.9673443	hostel				https://www.exfordhotel.com.au/
+way	50504748	The Great Southern Hotel		-37.8196906	144.9548883	hotel				http://www.greatsouthernhotel.com.au/Melbourne/
+way	51757256	Pullman Melbourne on the Park		-37.8158145	144.9834963	hotel		Pullman		http://m.pullmanhotels.com/gb/hotel-9875-pullman-melbourne-on-the-park/index.shtml
+way	65071179	PARKROYAL Melbourne Airport		-37.6706803	144.8503599	hotel		PARKROYAL		https://www.panpacific.com/en/hotels-and-resorts/pr-melbourne-airport.html
+way	69965670	Gordon House Apartments		-37.8104910	144.9714935	hotel				https://gordonhouseapartments.com.au/
+way	139193205	Oaks on Market		-37.8177802	144.9608374	hotel				http://www.oakshotelsresorts.com/oaks-on-market
+way	154296947	1 Hotel Melbourne		-37.8228752	144.9502883	hotel	5	1 Hotels		https://www.1hotels.com/melbourne
+way	168117453	Atlantis Hotel		-37.8136272	144.9520121	hotel				https://www.atlantishotel.com.au/
+way	192004637	Melbourne Metropole Central Apartment Hotel		-37.8063123	144.9777359	hotel	4.5	Central Apartment Group	Central Apartment Group	https://www.metropolecentral.com.au/
+way	200238169	City Park Hotel		-37.8341835	144.9685362	hotel				https://www.cityparkhotel.com.au/
+way	220598850	Journal Student Living		-37.8052086	144.9637317	hostel				
+way	220687203	Seasons Botanic Gardens Melbourne		-37.8309857	144.9704022	hotel			Seasons Apartment Hotel Group	https://www.seasonsbotanicgardensmelbourne.com.au/
+way	223402543	Tyrian Serviced Apartments		-37.7980016	144.9776483	hotel				https://www.tyrian.com.au/
+way	225419339	Hotel Ovolo		-37.8107508	144.9719983	hotel				https://ovolohotels.com/hotels/19LBS/en/
+way	239147087	Hostel Plus Collingwood		-37.7998592	144.9911869	hostel				http://www.hostelplus.com.au/
+way	243369923	Orrong Hotel		-37.8540921	145.0118346	hotel				https://www.theorronghotel.com.au/
+way	245915081	Radisson On Flagstaff Gardens		-37.8103160	144.9561238	hotel		Radisson		
+way	245924501	Pegasus Apart'Hotel		-37.8100680	144.9570924	hotel				
+way	245936248	Nomads Melbourne		-37.8099924	144.9574889	hostel				
+way	246432560	Quest Apartments St Kilda		-37.8630650	144.9753993	hotel				https://www.questapartments.com.au/Accommodation/88/Australia/Melbourne_Suburbs/Quest_St_Kilda_Bayside/Welcome.aspx
+way	260727525	Home @ Hoddle		-37.8019737	144.9930307	hostel				http://www.homeathoddle.com.au
+way	260997166	Lyf on Elizabeth		-37.8074953	144.9596368	hotel				https://www.discoverasr.com/en/lyf/australia/lyf-on-elizabeth-melbourne
+way	262521481	Collingwood Backpackers		-37.7997046	144.9894419	hostel				http://www.collingwoodbackpackers.com/
+way	270556997	Mantra St Kilda Road		-37.8471567	144.9786759	hotel				
+way	270557002	Bayview on the Park		-37.8471211	144.9776680	hotel				
+way	272740130	Quay West Suites		-37.8204437	144.9670641	hotel		Accor		https://www.quaywestsuitesmelbourne.com.au/
+way	274203031	Amora Hotel Riverwalk		-37.8197804	145.0134392	hotel			Amora Hotels & Resorts	http://www.melbourne.amorahotels.com/
+way	306595149	Melbourne CBD Central Apartment Hotel		-37.8128677	144.9688406	hotel	4	Central Apartment Group	Central Apartment Group	https://www.melbournecbdcentral.com.au/
+way	306604273	UniLodge on Campus		-37.8062638	144.9654198	hostel				https://www.unilodge.com.au/student-accommodation-melbourne/on-campus
+way	306782098	Pullman Melbourne Albert Park		-37.8502189	144.9787978	hotel		Pullman		
+way	308155750	Melbourne South Yarra Central Apartment Hotel		-37.8373683	144.9956990	hotel	4	Central Apartment Group	Central Apartment Group	https://www.southyarracentral.com.au/
+way	308305784	Quest Moonee Valley		-37.7661705	144.9270627	hotel		Quest		
+way	310012725	Ibis Hotel Melbourne		-37.8069455	144.9612899	hotel		Ibis	Accor	https://www.ibismelbourne.com.au/
+way	310896269	City Edge		-37.8032129	144.9568560	hotel				
+way	314945360	Miami Hotel Melbourne		-37.8060985	144.9485452	hotel				https://www.themiami.com.au/
+way	321362709	Mantra on Jolimont		-37.8179852	144.9782589	hotel				
+way	329062959	Mercure Hotel		-37.8071651	144.9606679	hotel		Mercure		
+way	333401077	Bayview Eden		-37.8375675	144.9742685	hotel				https://www.bayviewhotels.com/eden/
+way	335516817	The Nunnery		-37.8022501	144.9744965	hotel				http://www.nunnery.com.au/
+way	405461615	Pan Pacific Melbourne		-37.8248052	144.9507906	hotel		Pan Pacific		
+way	427982471	Hilton Melbourne Little Queen Street		-37.8148646	144.9596052	hotel	5	Hilton	Hilton	https://www.hilton.com/en/hotels/melamhi-hilton-melbourne-little-queen-street/
+way	436339704	Melbourne Carlton Central Apartment Hotel		-37.8039358	144.9670223	hotel	4	Central Apartment Hotel		https://www.carltoncentral.com.au/
+way	475578805	Hotels Apartments Adara		-37.8104910	144.9880990	hotel				http://www.adaraeastmelbourne.com.au
+way	480338659	Ink Hotel		-37.8243932	144.9625089	hotel				
+way	511178429	Flagstaff City Inn		-37.8100924	144.9510259	hotel	3			https://www.flagstaffcityinn.com.au/
+way	511414365	Mercure Melbourne La Trobe Street		-37.8125108	144.9523997	hotel		Mercure		https://all.accor.com/hotel/B6L6/index.en.shtml
+way	531822344	Vibe Hotel Melbourne Docklands		-37.8149789	144.9380154	hotel				https://vibehotels.com/book-accommodation/melbourne/hotel-melbourne-docklands/
+way	546437508	Quest Flemington Central		-37.7868443	144.9210877	hotel				
+way	671000958	Quest Prahran		-37.8459640	144.9912843	hotel				
+way	675099834	The Olsen		-37.8378985	144.9955875	hotel				
+way	725995551	Melbourne Marriott Hotel Docklands		-37.8137153	144.9391816	hotel		Marriott		
+way	775843681	Parkmore Hotel		-37.7829380	144.9588136	hotel				https://www.parkmorehotel.com.au/
+way	819645928	Melbourne Metro YHA		-37.8030378	144.9544838	hostel			YHA	https://www.yha.com.au/hostels/vic/melbourne-hostels/melbourne-metro-hostel/
+way	893853140	City Edge South Melbourne Apartment Hotel		-37.8348363	144.9696521	hotel		City Edge		https://www.cityedge.com.au/locations/city-edge-south-melbourne/
+way	979961142	Birches Serviced Apartments		-37.8106493	144.9891182	hotel				https://www.birches.com.au
+way	993205029	Holiday Inn Melbourne Airport		-37.6718102	144.8532508	hotel		Holiday Inn		https://www.ihg.com/holidayinn/hotels/us/en/melbourne/melcr/hoteldetail
+way	1063499012	Parkville Motel		-37.7772220	144.9563701	hotel				
+way	1085526062	Magnolia Court		-37.8133616	144.9853207	hotel				
+way	1118278512	Quest East Melbourne		-37.8164376	144.9885838	hotel			Quest	
+way	1247247639	Novotel South Wharf		-37.8258496	144.9501502	hotel		Novotel		
+way	1249008353	Crown Entertainment Complex		-37.8250874	144.9583761	hotel				http://www.crowncasino.com.au
+way	1287270653			-37.8549594	144.9931474	hotel				
+way	1368026151	Brooklyn Arts Hotel		-37.8070792	144.9807442	hotel				http://www.brooklynartshotel.com.au
+way	1520584252	William T Onus Hostel		-37.7811151	144.9994795	hostel			Aboriginal Hostels Limited	https://www.ahl.gov.au/hostels/william-t-onus-hostel
+relation	5964355	Stamford Plaza Hotel		-37.8136226	144.9699227	hotel				https://www.stamford.com.au/spm
+relation	16313597	Park Hyatt		-37.8114209	144.9764914	hotel		Park Hyatt		https://www.melbourne.park.hyatt.com/
+relation	16754879	Urban Camp		-37.7864924	144.9450473	hostel				
+relation	16770920	Crowne Plaza		-37.8014078	144.9633814	hotel		Crowne Plaza		

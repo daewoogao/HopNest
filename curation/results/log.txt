@@ -180,3 +180,60 @@
 16:29:20 brussels lines ok
 16:29:52 copenhagen lines ok
 16:30:37 toronto-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 11100 bytes
+00:13:25 cairo-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 160 bytes
+00:14:01 cairo-hotels try 1 https://overpass-api.de/api/interpreter -> 200 21125 bytes
+00:14:02 chengdu-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 160 bytes
+00:14:45 chengdu-hotels try 1 https://overpass-api.de/api/interpreter -> 200 32681 bytes
+00:15:01 doha-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 21295 bytes
+00:15:02 dublin-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 160 bytes
+00:15:45 dublin-hotels try 1 https://overpass-api.de/api/interpreter -> 200 22030 bytes
+00:16:07 edinburgh-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 25926 bytes
+00:16:52 florence-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 30303 bytes
+00:17:12 hanoi-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 63609 bytes
+00:17:27 hochiminh-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 59563 bytes
+00:18:15 jakarta-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 695 bytes
+00:19:07 jakarta-hotels try 1 https://overpass-api.de/api/interpreter -> 200 52196 bytes
+00:19:26 jerusalem-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 13735 bytes
+00:19:43 kyoto-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 55509 bytes
+00:19:44 lasvegas-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 160 bytes
+00:20:30 lasvegas-hotels try 1 https://overpass-api.de/api/interpreter -> 504 695 bytes
+00:20:36 lasvegas-hotels try 2 https://overpass.private.coffee/api/interpreter -> 500 646 bytes
+00:20:45 lasvegas-hotels try 3 https://overpass.kumi.systems/api/interpreter -> 500 646 bytes
+00:21:01 lasvegas-hotels try 4 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 15745 bytes
+00:21:57 macau-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 13841 bytes
+00:22:11 melbourne-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 23598 bytes
+00:22:12 miami-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 160 bytes
+00:22:59 miami-hotels try 1 https://overpass-api.de/api/interpreter -> 200 39404 bytes
+00:23:49 mumbai-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 695 bytes
+00:24:41 mumbai-hotels try 1 https://overpass-api.de/api/interpreter -> 200 24936 bytes
+00:25:31 riodejaneiro-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 695 bytes
+00:26:19 riodejaneiro-hotels try 1 https://overpass-api.de/api/interpreter -> 200 28378 bytes
+00:26:35 riyadh-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 14890 bytes
+00:27:34 sydney-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 695 bytes
+00:27:39 sydney-hotels try 1 https://overpass-api.de/api/interpreter -> 502 534 bytes
+00:27:44 sydney-hotels try 2 https://overpass.private.coffee/api/interpreter -> 500 646 bytes
+00:27:50 sydney-hotels try 3 https://overpass.kumi.systems/api/interpreter -> 500 646 bytes
+00:27:56 sydney-hotels try 4 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 160 bytes
+00:28:36 sydney-hotels try 5 https://overpass-api.de/api/interpreter -> 200 29501 bytes
+00:29:19 vancouver-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 695 bytes
+00:30:02 vancouver-hotels try 1 https://overpass-api.de/api/interpreter -> 200 16607 bytes
+00:30:55 cairo lines ok
+00:31:13 chengdu lines ok
+00:32:19 doha lines ok
+00:33:17 dublin lines ok
+00:34:40 edinburgh lines ok
+00:35:06 florence lines ok
+00:35:55 hanoi lines ok
+00:37:09 hochiminh lines ok
+00:37:32 jakarta lines ok
+00:38:48 jerusalem lines ok
+00:39:07 kyoto lines ok
+00:40:40 lasvegas lines ok
+00:42:51 macau lines ok
+00:44:31 melbourne lines ok
+00:47:05 miami lines FAILED
+00:47:26 mumbai lines ok
+00:48:38 riodejaneiro lines ok
+00:51:39 riyadh lines ok
+00:52:31 sydney lines ok
+00:52:58 vancouver lines ok

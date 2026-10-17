@@ -1,0 +1,5 @@
+17 lines, 463 stations
+  check: Chengdu Metro Line 1: added branch to Wugensong as its own line; check it isn't a short-working or depot run
+  check: 眉山城际线: fewer than 2 named stops (under construction?), skipped; OSM relation r19206257
+  check: 成都地铁17号线（高洪方向）: fewer than 2 named stops (under construction?), skipped; OSM relation r19252990
+  check: 成都地铁17号线（机投桥方向）: fewer than 2 named stops (under construction?), skipped; OSM relation r19252991

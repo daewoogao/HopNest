@@ -1,0 +1,9 @@
+8 lines, 124 stations
+  check: Line 1 (Versova ↔ Ghatkopar): no colour tag in OSM, set the official color by hand
+  check: Line 3 (Aarey Colony ↔ Cuffe Parade): no colour tag in OSM, set the official color by hand
+  check: Line 4: no colour tag in OSM, set the official color by hand
+  check: Line 2 (Andheri West ↔ Dahisar (East)): no colour tag in OSM, set the official color by hand
+  check: Line 7 (Gundavali ↔ Dahisar (East)): no colour tag in OSM, set the official color by hand
+  check: Mumbai Metro Line 11: fewer than 2 named stops (under construction?), skipped; OSM relation r19233909
+  check: Line 2B (Chembur ↔ Mandale): no colour tag in OSM, set the official color by hand
+  check: Line 9 (Dahisar (East) ↔ Kashigaon): no colour tag in OSM, set the official color by hand

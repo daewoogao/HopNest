@@ -1,0 +1,170 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	336216070	Crowne Plaza Riyadh Palace		24.6646109	46.7117319	hotel		IHG		https://www.ihg.com/crowneplaza/hotels/us/en/riyadh/ruhrp/hoteldetail
+node	672163112	Four Seasons Hotel		24.7110370	46.6733604	hotel	5	Four Seasons		
+node	672665475	Sulaimaniah Hotel		24.7114349	46.6950791	hotel				
+node	672718649	Abha Palace		24.6913718	46.7189780	hotel				
+node	672718650	Al Mutlaq Hotel		24.7000812	46.7181402	hotel				
+node	672727261			24.6905600	46.7242990	hotel				
+node	673066529	Boudl Furnished Apartments		24.6800004	46.6928790	hotel				
+node	673591248			24.6794233	46.6931047	hotel				
+node	1056080887	Madareem Crown Hotel		24.8013802	46.7167757	hotel				
+node	1236703627	فندق موفنبيك قاسم	MOEVENPICK HOTEL QASSIM	24.6393000	46.6864000	hotel				
+node	1236703660	فندق مريوت رياض	Marriott - Riyadh	24.6470000	46.7140000	hotel				
+node	1637997607	Alwaha Palace		24.6809510	46.6892488	hotel				
+node	1640649471	Almuthana		24.6926104	46.6824445	hotel				
+node	1785827179	"Tulip Inn, Olaya House"		24.6850832	46.6888007	hotel				
+node	1785829122	Neeyaara Hotel		24.6635542	46.7302511	hotel				
+node	2134396995	"Intercontinental Hotel, Riyadh"		24.6671024	46.6913095	hotel	5	InterContinental		
+node	2191145154	Novotel Suite Riyadh Olaya		24.6844763	46.6900921	hotel		Novotel		http://www.suitenovotel.com/gb/hotel-9048-suite-novotel-riyadh-olaya
+node	2393684634	Rest Inn Suites		24.6913424	46.7034161	hotel				http://www.rest-inn.com/
+node	2561058464	فندق هولدي ان الازدهار		24.7870357	46.7117383	hotel				
+node	2561063430	فندق هولدي ان الازدهار		24.7877545	46.7137384	hotel			هولدي ان	
+node	2624508649	Royal Hotel		24.7343020	46.6650513	hotel				
+node	3177179061	Marriott Courtyard Riyadh Diplomatic Quarter		24.6663655	46.6234488	hotel				
+node	3535172193	Holiday Inn Meydan		24.6785701	46.6915593	hotel		Holiday Inn		
+node	3624150622	Vivienda Hotel Villas - Granada		24.7890376	46.7270668	hotel			Vivienda	
+node	3878565449			24.8090060	46.7786325	hotel				
+node	3935617826	أجنحة اسوار الفندقية-قرطبة		24.7959958	46.7288965	hotel				
+node	3969827673	BEST WESTERN PLUS Riyadh Hotel		24.6796137	46.7020892	hotel		Best Western Plus	Independently owned & operated	
+node	4045856760	Menaa Suites		24.7974076	46.6275040	hotel				
+node	4065296935			24.7054186	46.6770675	hotel				
+node	4210307489	المصيف هاوس		24.7756656	46.6838796	hotel				
+node	4215571190	yarmuk hotel		24.8051624	46.7933573	hotel				
+node	4215640793	فندق عبدالله عبدالعزيز الراجحي		24.6371340	46.7171190	hotel				
+node	4248162541	mansour orkida اوركيدا منصور		24.6995086	46.7184348	hotel				
+node	4253640390			24.8286258	46.8001410	hotel				
+node	4264569091	Sheraton 4 Points		24.6374750	46.7121692	hotel		Sheraton		
+node	4322674991	شقق روفان		24.7945489	46.7349892	hotel				
+node	4325313290			24.7850797	46.8225774	hotel				
+node	4339290690	Zahran Mentinanc .co		24.6827388	46.7105548	hostel				
+node	4343893489	Brezeen hotel		24.6989595	46.6400414	hotel				
+node	4356102192	درر السحاب للشقق المفروشة	Durar alsahab apartments	24.7646729	46.7658571	hotel				
+node	4369321010	Rest Night AL-Nafal		24.7827876	46.6728308	hotel				
+node	4377598590		Macsoora	24.7921793	46.7011852	hotel				
+node	4377958593	شقق البارقة	Al Barigah Hotel	24.6113027	46.7554863	hotel				
+node	4379647889	Rand		24.6980344	46.6679956	hotel				
+node	4385153589	فندق الضيافة بالرياض		24.6845103	46.7037610	hotel				
+node	4403545289			24.7656278	46.7389475	hotel				
+node	4404072991	وسن للشقق الفندقية	Wasn	24.6140203	46.7563681	hotel				
+node	4437522290	فندق نزل المها		24.5661033	46.7903372	hotel				
+node	4457482789	Alfanar housing f11		24.7046188	46.7741137	hotel				
+node	4507518089	رمادي	Ramadi	24.7986113	46.8084917	hotel				
+node	4541162139	فندق التنفيذيين		24.7743350	46.6397206	hotel				
+node	4546121292	مطار الرياض		24.9419004	46.7108868	hotel				
+node	4563978392	"Executive hotel, Riyadh"		24.7148858	46.6698492	hotel				
+node	4609680389	My room		24.8075530	46.6680251	hotel				
+node	4623873092	Mena Hotel	Mena Hotel	24.6851693	46.6881375	hotel				
+node	4714669089	House Cris	Al wazarat	24.6840844	46.7141427	hotel				
+node	4742740122	الخالدية للوحدات السكنية المفروشة		24.7535124	46.7436554	hotel				
+node	4774940431			24.8093309	46.6132095	hotel				
+node	4786179735	Al Muhaidb Tahaliya Hotel		24.6944085	46.6831536	hotel				
+node	4984078180	توبال للشقق الفندقيه		24.6877928	46.7196117	hotel				
+node	5219617826		Yardvilla	24.6630482	46.6807527	hotel				
+node	5259532923	الوسام		24.7537763	46.7444292	hotel				
+node	5259538624	دار ليند		24.7990586	46.7966725	hotel				
+node	5259584721	شقق دانة دالين المفروشة		24.7986279	46.7969192	hotel				
+node	5264538898	Sama AlQasr hotel apartments سما القصر شقق فندقية		24.6756905	46.6636955	hotel				
+node	5287776122	فندق مراحل بالرياض		24.6883593	46.8428737	hotel				
+node	5467289921	ا عوض عبدالحميد		24.7739551	46.7919133	hotel				
+node	5496599070	درر رامه للوحدات السكنية فرع 9		24.7113040	46.7027465	hotel	3	Drr Ramah9		
+node	5496628670	درر رامه للوحدات السكنية فرع 2		24.7654594	46.6684649	hotel	2	Drr Ramah 2		
+node	5496635994	درر رامه للوحدات السكنية فرع 7		24.7652516	46.6690432	hotel	2	درر رامه 7		
+node	5496642804	درر رامه للوحدات السكنية فرع1		24.7523951	46.6700347	hotel			درر رامه 1	
+node	5496645803	درر رامه للوحدات السكنية فرع 5		24.7526021	46.6698930	hotel	2	درر رامه المروج 5		
+node	5496649383	درر رامه للوحدات السكنية فرع 6		24.7528287	46.6697482	hotel	2	درر رامه المروج 6	نعم	
+node	5523656321		Ibis Olaya	24.7123353	46.6764097	hotel				
+node	5629326022			24.8481688	46.8250956	hotel				
+node	5629341921	Mamu		24.8481968	46.8250890	hotel				
+node	5719860793	درر رامه السليمانية فرع 8		24.7108631	46.7030816	hotel	3	Drr ramah 8	نعم	
+node	5719885877	درر راما السلمانية فرع8		24.7109162	46.7031214	hotel	2	2	نعم	
+node	5796115988	درر رامه 9 السليمانية		24.7113889	46.7025630	hotel	3	Drr Ramah9 Sulaimaniah	نعم	
+node	5888270985	فندق الجنوب	South Hotel	24.5995747	46.7337940	hotel				
+node	6041871785	فندق ذهب المؤنسيه		24.8288434	46.7905859	hotel				
+node	6077446768	فندق لحظة - النسيم الغربي		24.7330621	46.8219176	hotel			فندق لحظة	
+node	6358025621	برج رملة	Ramla tower	24.8093908	46.6246222	hotel				
+node	6358045989	اسكوت رافال العليا	Ascott Rafal	24.8089066	46.6262031	hotel				http://the-ascott.com
+node	6644165365	بارك هاوس للشقق المفروشة	Park House Hotel Apartments	24.7188047	46.6804981	hotel				
+node	6835188692	hard rock hotel		24.8615589	46.5880928	hotel				
+node	6868429385	رياحين الرياض للشقق المفروشة		24.6012129	46.7534106	hotel				
+node	7023344185			24.7636945	46.6839282	hotel				
+node	7064329885		Executives Hotel	24.5965634	46.7451757	hotel				
+node	7173369885	Crowne Plaza Riyadh	Crowne Plaza Riyadh Rdc Hotel & Convention	24.7385543	46.6355009	hotel				
+node	7391716722	دا الرسيل للوحدات السكنية المفروشة		24.5990100	46.7552200	hotel				
+node	7394377261	اوراد رويال للشقق المفروشة		24.7991600	46.7965800	hotel				
+node	7399415021	قلعة الجوينا للوحدات السكنية المفروشة		24.7239074	46.7673638	hotel				
+node	7432413425	hotel latifa 		24.6366930	46.7116638	hotel				
+node	7801373009	بودل		24.8107100	46.6473338	hotel				
+node	8156359174	أبراج طويق للشقق المفروشة		24.6392496	46.5531914	hotel				
+node	8308360891	Rand by Wandalus Hotel		24.7066724	46.6872491	hotel		Wandalus Hotels		
+node	8342616718		Malaz restaurant	24.6782598	46.7278361	hotel				
+node	8384312768	Hilton Garden Inn Riyadh Financial District		24.7649617	46.6548815	hotel	4	Hilton Garden Inn	Hilton	https://www.hilton.com/en/hotels/ruhskgi-hilton-garden-inn-riyadh-financial-district/?WT.mc_id=zMDEC0SA1GI2NaturalSearch3Google_LGHotelListing4DGGeneric_5LocalSearch6RUHSKGI7EN8i98626
+node	8477730984	KSU Hostel		24.7086481	46.7449965	hostel				
+node	9281031052			24.7709037	46.7682229	hotel	4			https://riyadh.goldentulip.com/
+node	9544465019	DoubleTree by Hilton Riyadh Financial District Hotel & Suites		24.7648666	46.6547368	hotel		DoubleTree	Hilton	https://www.hilton.com/en/hotels/ruhfddi-doubletree-riyadh-financial-district/
+node	9556079342	Mövenpick Hotel and Residences Riyadh		24.7639917	46.6531440	hotel		Mövenpick		
+node	9678935517	كاتارا للشقق المخدومة 2		24.8009037	46.7300941	hotel				
+node	10264093909	Art View Hotel		24.7529512	46.7225596	hotel				
+node	10683733726	Centro Waha		24.7560245	46.6533231	hotel		Hotel		
+node	10925000843		waw hotel suites	24.7479083	46.7105480	hotel				
+node	11307641930	فندق جلوريا إن	Gloria Inn Hotel	24.6308271	46.7170500	hotel				https://www.gloriainn.sa/en
+node	11545764669		Grand Plaza Hotel	24.6847672	46.7185038	hotel				https://www.booking.com/hotel/sa/grand-plaza-gulf.html
+node	11595046664	"Radisson Blu Hotel, Riyadh Convention & Exhibition Center"		24.7523077	46.7250531	hotel		Radisson Blu		https://www.radissonhotels.com/en-us/hotels/radisson-blu-riyadh-convention-center
+node	11673070470	St.Regis		24.6664186	46.6261311	hotel				
+node	12035810924	شقق فاخرة التخصصي		24.6861320	46.6753644	hotel				
+node	12083139504	"Vivienda Hotel Villas, Diplomatic Quarters"		24.6831122	46.6312089	hotel				https://vivienda.com.sa/en/destinations/riyadh/diplomatic-quarter/
+node	12360536101	فندق ميركيور العنود	Mercure Riyadh Al Anoud	24.6640945	46.7014780	hotel				https://all.accor.com/
+node	12486610238	فندق ارفاد	Erfad	24.7876830	46.6600594	hotel				https://enala.sa/hotel/erfad
+node	12573185301	Courtyard Riyadh Olaya		24.7022186	46.6786030	hotel				
+node	12849067218	فندق دايموند Diamond Hotel		24.8053248	46.6570530	hotel				
+node	12951781598	سويت هوم اجنحه فندقيه		24.6294231	46.5660882	hotel			محمد	
+node	12961215001	Sands Inn Hostel		24.6657892	46.7063234	hostel				https://www.sandsinnhostel.com/
+node	13040467601	Home		24.7400114	46.7703189	hostel				
+node	13332479701		"executives hotel, Azizia"	24.5960774	46.7454766	hotel				
+node	13362014601	Carawan Al Fahad Hotel		24.7107090	46.6706252	hotel				http://carawan-alfahad.com
+node	13477341191	Comfort Hotel		24.7069863	46.6771387	hotel	4			
+node	14178142289	Alma Hotel		24.7266636	46.6628583	hotel				
+node	14179965901	Sofitel Riyadh Hotel & Convention Centre		24.7051995	46.6544066	hotel				
+way	80264628	Riyadh Marriott		24.6858962	46.7125375	hotel	5			
+way	80345732	White Palace Hotel		24.6873740	46.7188117	hotel				
+way	83076089	Crowne Plaza - Minhal		24.6895959	46.7173114	hotel	4	Crowne Plaza		
+way	88345496	فندق وأبراج شيراتون الرياض	Sheraton Riyadh	24.7273382	46.6653544	hotel		Sheraton		
+way	115941515	Radisson Blu (SAS)		24.6707057	46.7192261	hotel		Radisson Blu		
+way	161129733	فندق السفينة الذهبية	Golden ship hotel	24.7863270	46.7310621	hotel				
+way	183915269	ريتز كارلتون		24.6658260	46.6308188	hotel				
+way	327285293	فيرمونت الرياض		24.8085111	46.7176818	hotel				
+way	328521908			24.7271482	46.6907670	hotel				
+way	329987032	Dir'iyah Palace		24.6632041	46.6278291	hotel				
+way	334204107	Hilton Riyadh Hotel & Residences		24.7851974	46.7281863	hotel	5	Hilton	Hilton	https://www.hilton.com/en/hotels/ruhchhi-hilton-riyadh-hotel-and-residences
+way	334221675	Compound		24.7877786	46.7133589	hotel				
+way	334221676	Compund		24.7865538	46.7104615	hotel				
+way	335737558	Hilton Garden Inn		24.6770690	46.6941085	hotel		Hilton Garden Inn		
+way	336073755	قصر التوت		24.6473873	46.7143860	hotel				
+way	384547358			24.8012769	46.7813790	hotel				
+way	384547359			24.8017505	46.7811524	hotel				
+way	384547361			24.7994179	46.7771519	hotel				
+way	457394638	برج رافال كمبينسي	Burj Rafal Hotel Kempinski	24.7924933	46.6326583	hotel				
+way	503362698	DoubleTree by Hilton Hotel Riyadh - Al Muroj Business Gate		24.7645215	46.6573828	hotel	4	DoubleTree	Hilton	https://www.hilton.com/en/hotels/ruhamdi-doubletree-riyadh-al-muroj-business-gate/
+way	636117353	Marriott Riyadh Diplomatic Quarter		24.6743014	46.6237110	hotel		Marriott		https://www.marriott.com/en-us/hotels/ruhdq-marriott-riyadh-diplomatic-quarter/overview/
+way	636221522	فندق راديسون بلو		24.6842332	46.6251984	hotel				
+way	636404796	كراون بلازا		24.7387824	46.6358044	hotel				
+way	672265195	هوليدي ان العليا	Holiday Inn Olaya	24.6803307	46.6904870	hotel				
+way	1012414580	Hilton Riyadh Olaya		24.7102272	46.6721862	hotel	5	Hilton	Hilton	https://www.hilton.com/en/hotels/ruhkfhi-hilton-riyadh-olaya/
+way	1077506431	Hyatt Regency Riyadh Olaya		24.6981992	46.6821164	hotel	5	Hyatt Regency	Hyatt Hotels Corporation	https://www.hyatt.com/hyatt-regency/en-US/ruhhr-hyatt-regency-riyadh-olaya
+way	1242714539	iris boutique hotel		24.7877395	46.7310481	hotel				https://www.iris.sa
+way	1255405760	Super 8 by Wyndham Al Riyadh		24.8351540	46.7353133	hotel		Wyndham		https://www.wyndhamhotels.com/super-8/al-riyadh-saudi-arabia/super-8-al-riyadh/overview
+way	1301241794			24.7042513	46.6784263	hotel				
+way	1301246320			24.7086933	46.6780322	hotel				
+way	1303654357	Hyatt Place Riyadh Al Sulaimania		24.7074022	46.7084531	hotel	4	Hyatt Place	Hyatt	https://www.hyatt.com/hyatt-place/en-US/ruhzs-hyatt-place-riyadh-sulaimania
+way	1304216328			24.7109659	46.7032477	hotel				
+way	1304220413			24.7152198	46.6749170	hotel				
+way	1304243283			24.7112960	46.7025980	hotel				
+way	1304407482			24.7013767	46.6938746	hotel				
+way	1304596180	فندق لو مريديان	Le Méridien	24.7287458	46.6680264	hotel		Le Méridien		
+way	1304796652			24.7509857	46.6651720	hotel				
+way	1306109681			24.7267782	46.6518263	hotel				
+way	1309402837	Holiday Inn		24.6839068	46.6879721	hotel		Holiday Inn		
+way	1347738701	فندق مودرست	Modrest Hotel	24.8364475	46.7519032	hotel				
+way	1380326949	رافال سكاي جاردنز	Rafal Sky Gardens	24.7302471	46.6620054	hotel				
+way	1380326953	فندق وريزيدنس موفنبيك الرياض	Mövenpick Hotel and Residences Riyadh	24.7644907	46.6535363	hotel		Mövenpick		
+way	1380326954			24.7651630	46.6546991	hotel				
+way	1380326963	فندق نارسيس	Narcissus Hotel	24.6957579	46.6834872	hotel				

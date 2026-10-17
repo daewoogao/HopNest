@@ -1,0 +1,331 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	245654643	Imperial Palace		18.9447467	72.8347180	hotel				
+node	245654709	Sharada		18.9461969	72.8274147	hotel				
+node	245654841			18.9474758	72.8355281	hotel				
+node	245655916	Cecil		18.9584010	72.8112960	hotel				
+node	245659178	Sunbeam Geeta		18.9978253	72.8184540	hotel				
+node	245659835	Vivako		19.0059000	72.8186000	hotel				
+node	245664375	Jollyland		19.0491708	72.9051478	hotel				
+node	245664752	Ghatla		19.0517387	72.9103117	hotel				
+node	245666128	Jewel of Chembur		19.0616667	72.8997266	hotel				
+node	245666538	Maruthi Mahal		19.0636369	72.8940601	hotel				
+node	245666563	Anita Mahal		19.0693839	72.8836606	hotel				
+node	245668354	Regency		19.0790449	72.8462916	hotel				
+node	245668712	Classic		19.0835527	72.8384747	hotel				
+node	245669161	Atlantic		19.0870126	72.8274729	hotel	3			
+node	245669308	Ajanta		19.0886000	72.8275000	hotel				
+node	245669365	Royal Garden		19.0894000	72.8276000	hotel				
+node	245670368	Ambassador		19.1036810	72.8754749	hotel				
+node	245671372	Leela Kempinski		19.1065748	72.8761199	hotel				
+node	245671375	Kumaria Presidency		19.1065999	72.8769001	hotel				
+node	245671517	Samraj		19.1097262	72.8594577	hotel				
+node	245671547	Sun n Sheel		19.1111949	72.8719322	hotel				
+node	245672210	Tirupati		19.1136052	72.8804798	hotel				
+node	245672458	Imperial Palace		19.1182153	72.8506224	hotel				
+node	245672493	Highway Inn		19.1175319	72.8508646	hotel				
+node	245672530	Tunga International		19.1154000	72.8720000	hotel				
+node	245673845	Babul		19.1217301	72.8318524	hotel				
+node	245675841	Dolphin View		19.1437101	72.7893756	hotel				
+node	245676011	Manisha Cottage		19.1458595	72.7895646	hotel				
+node	245677487	Blue Ballerina		19.1622000	72.7850000	hotel				
+node	245677504	Jay Prakash		19.1623000	72.8513000	hotel				
+node	245678667	The Resort		19.1743671	72.7963333	hotel				https://www.theresortmumbai.com/
+node	245678767	Anil Thakur Guest House		19.1760671	72.7966333	hotel				
+node	245681528	Rohan		19.2221778	72.8522858	hotel				
+node	279962108	seaview		19.0959916	72.8269037	hotel				
+node	296357707	Citizen Hotel		19.0956970	72.8269623	hotel				
+node	485966125	Great Punjab Hotel		18.9440303	72.8290590	hotel				
+node	665036885	Hotel Adarsh Palace		18.9487539	72.8293568	hotel				
+node	668478113	Hostel No. 5		19.1350214	72.9096978	hostel				
+node	668478125	Hostel No. 2		19.1364536	72.9125695	hostel				
+node	668478126	Hostel No. 3		19.1362317	72.9114868	hostel				
+node	668478127	Hostel No. 1		19.1362571	72.9139938	hostel				
+node	668506109	Hostel No. 11		19.1329296	72.9118107	hostel				
+node	700886292	Diamond		18.9928200	72.8486524	hotel				
+node	858643701	Hotel Mogul Palace		18.9546342	72.8354513	hotel				
+node	907757781	Hotel Shantidoot		19.0084975	72.8405638	hotel				
+node	969781592	Ratna Mahal		19.1083564	72.8587789	hotel				
+node	1234802637	City Palace		18.9382010	72.8354677	hotel				
+node	1286194734	Residency		18.9349748	72.8332409	hotel				
+node	1360144571	Sai Leela Hotel		19.1633302	72.8509569	hotel				
+node	1367092463	Pratistha		19.0539661	72.9111921	hotel				
+node	1375251414	Kamat Plaza		19.0963374	72.8545012	hotel				
+node	1392005677	Airlines International		19.0843315	72.8441532	hotel				
+node	1392005678	Apsara International		19.0797880	72.8385825	hotel				
+node	1392005681	Galaxy		19.0835291	72.8442623	hotel				
+node	1392005685	Prince Palace		19.0810431	72.8389740	hotel				
+node	1392005687	Welco		19.0805429	72.8403240	hotel				
+node	1504771680	Sea Green Hotel		18.9326798	72.8237555	hotel				
+node	1541857829	InterContinental Hotel		18.9350805	72.8241417	hotel		InterContinental		https://www.ihg.com/intercontinental/hotels/gb/en/mumbai/bomhb/hoteldetail
+node	1549970484	HBCSE Hostel		19.0425272	72.9272843	hostel				
+node	1640686125	Basant		19.1631419	72.7901798	hotel				
+node	1640686126	Bhatia Island		19.1601370	72.7851986	hotel				
+node	1640686131	Ruskon		19.1636802	72.7904156	hotel				
+node	1640686132	Vyas Wadi		19.1443977	72.7896652	hotel				
+node	1643105789	Benazeer		18.9350404	72.8335420	hotel				
+node	1643105794	Residency		18.9352854	72.8330618	hotel				
+node	1646774067	Mid Town		19.1204453	72.8448710	hotel				
+node	1650382549	Hilltop		19.0101000	72.8179021	hotel				
+node	1651404912	Malhar		19.0597045	72.8976517	hotel				
+node	1864486769	Hotel Lerida		19.2086291	72.9737343	hotel				
+node	1867631840	Residence Inn Powai		19.1346222	72.8987555	hotel				
+node	2148678028	The Westin Mumbai Garden City		19.1723617	72.8605305	hotel				
+node	2177958513	Al Haram		18.9548493	72.8346213	hotel				
+node	2177958514	Al Mazin		18.9552772	72.8370461	hotel				
+node	2290729188	Shangrila		19.0440479	72.8662694	hotel				
+node	2313139917	Ramada Powai Hotel & Convention Center		19.1359551	72.8990184	hotel			Ramada	https://ramadapowai.com/
+node	2601474291	Dragonfly		19.1109356	72.8630387	hotel				
+node	2702435809	Fortune Park Lakecity		19.2097786	72.9729516	hotel			ITC hotel group	
+node	2730461094	YMCA International House		18.9720126	72.8233555	hotel			YMCA	http://ymcabombay.com/branch/ymca-international-house/
+node	3110094391	Hotel Grand Inn		19.1177459	72.8800918	hotel				www.hotelgrandinn.co.in
+node	3125252473	Janata Hotel		19.0397857	72.9479365	hotel				
+node	3177487243			18.9468936	72.8401784	hotel				https://hotelsealord.com/
+node	3206040351	new delhi		19.0624996	72.9288123	hotel				
+node	3216971090	Sun Star Residency		18.9367764	72.8347815	hotel				
+node	3229419686	Hotel Manama		18.9394214	72.8384104	hotel				
+node	3257869203	hotel Shamlat		19.0702445	72.8398298	hotel				
+node	3286301962	Al-Moazin		18.9550484	72.8363847	hotel				
+node	3289549971	Hotel Kamaran residency		19.0776977	72.8790334	hotel				
+node	3518703303	Holiday Inn International Hotel		19.1030238	72.8872771	hotel				
+node	3529545078	Shubalaxmi		19.0460553	72.9098383	hotel				
+node	3530903071	triveni bar		19.0573437	72.8871520	hotel				
+node	3534581278	maharana hotel		19.0537540	72.8953351	hotel				
+node	3846789769	Waterstones Hotel		19.1057985	72.8771149	hotel				https://www.waterstoneshotel.com/
+node	3933987999	Svenska Design Hotel		19.1364141	72.8279989	hotel				
+node	3978019387	Hotel Kumkum		18.9648362	72.8188506	hotel				https://www.hotelkumkum.com/
+node	3978876100	Hotel Sapna		18.9572590	72.8102978	hotel				
+node	4021895998	Hotel Galaxy View (Oyo Rooms)		19.0696853	72.9011307	hotel				
+node	4113143889	The UniContinental		19.0706484	72.8398991	hotel				
+node	4133868438	Windsor		18.9365103	72.8386041	hotel				
+node	4175335548	Hotel Briteway		18.9621067	72.8214647	hotel				
+node	4232933891	Delhi Darbar		18.9614573	72.8233850	hotel				
+node	4260270146	Treebo Trend Rosewood		18.9725898	72.8157740	hotel		Treebo Trend		https://www.treebo.com/
+node	4265701092	Treebo Sea Side		19.1092536	72.8241120	hotel				https://treebohotels.com/
+node	4286138995	Empire Hotel		18.9614685	72.8176559	hotel				
+node	4294055489	The Leela		19.1092433	72.8737582	hotel				
+node	4294951430	Kumkum		18.9651501	72.8189355	hotel				
+node	4310354082	Grand Residency Hotel		19.0617235	72.8325298	hotel				
+node	4326463190	Hotel Aviva		19.0997138	72.8880248	hostel				
+node	4336602535	JW Marriott Mumbai Sahar		19.1031373	72.8777603	hotel	5	JW Marriott	Marriott Hotels	
+node	4358605289		Anjali Homestay	19.1096573	72.8634444	hostel				
+node	4364302047	Backpacker Panda Appetite - Mumbai		19.1112515	72.8660859	hostel				https://backpackerpanda.com
+node	4427845095	Ramee Guestline Hotel		19.0170997	72.8445771	hotel				
+node	4439195499		Traveller's Inn	18.9361645	72.8379118	hostel				
+node	4474843292		China garden	18.9638442	72.8070363	hotel				
+node	4509939489		Hotel Sheetal Inn	18.9382222	72.8356604	hotel				
+node	4509948589		Hotel Kalapi	18.9372661	72.8374777	hotel				
+node	4512547390	"Hindi, Gujarati, English"	Hotel Aircraft International	19.0957683	72.8519019	hotel				http://www.hotelaircraft.in
+node	4514854091		Hotel Silver Moon	18.9535914	72.8369265	hotel				
+node	4514854290		Hotel Saim Palace	18.9527049	72.8364049	hotel				
+node	4540676592		Silver Moon	18.9531707	72.8369622	hotel				
+node	4585304003		AMAR PUNJAB HOTEL	19.1964684	72.9620918	hotel				
+node	4585662789		welcome guest house	18.9761073	72.8340603	hostel				
+node	4597396890		Hotel Tip Top	18.9588476	72.8170580	hotel				
+node	4671995490		New Residency Park	18.9533720	72.8360106	hotel				
+node	4702930290		A.K. International Hotel	18.9358721	72.8379330	hotel				
+node	4706749389			18.9577778	72.8366546	hostel				
+node	4718063489	Nirvana Residences		19.0782212	72.8300971	hotel	3		1589 Hotels	
+node	4770888821		Aashiyana dormitory	18.9373119	72.8338028	hotel				
+node	4811086425			19.1047950	72.8442760	hostel				
+node	4844717532		Girgaon palace	18.9549619	72.8209014	hotel				
+node	4844717541		Hotel Ashray	19.0453464	72.8646654	hotel				
+node	4878938456	Hostel 16 C Wing		19.1377420	72.9131065	hostel				
+node	5001072621		Shehnai Hall	19.1956943	72.9619634	hotel				
+node	5090926921		Bombay Backpackers Airport	19.1006019	72.8435376	hostel				
+node	5158606722		Ramada	19.1363896	72.8990514	hotel				
+node	5174623522			18.9535927	72.8369408	hotel				
+node	5273490736	Kempinski Leela		19.1091030	72.8741445	hotel		Kempinski		
+node	5304695028		Liberty hotel	18.9618494	72.8229955	hotel				
+node	5341866121		Bliss comfort	19.1174860	72.8802536	hotel				
+node	5352114284	Lalit Mumbai		19.1054069	72.8757789	hotel				
+node	5454216635			18.9479384	72.8406448	hotel				
+node	5570447821		Milan Guest House	18.9605019	72.8208036	hostel				
+node	5938043785		Kanara Catholic Association	19.0532539	72.8284156	hostel				
+node	5942782826	Hotel Alpha International		19.0899612	72.8385790	hotel				
+node	5963331285		Locomo OG Hostel	19.0997030	72.8451763	hostel				http://locomo.world
+node	5972234786		Amfrid Sequeira Mansion	19.0365497	72.8445767	hostel				
+node	5980826393		Fab magnet hotel	19.1004366	72.8915848	hotel				
+node	6072360585		Hotel Check Inn Andheri	19.1078871	72.8596788	hotel				
+node	6185592087		The Mirador Hotel	19.1108946	72.8605783	hotel				https://www.themirador.com/
+node	6185698086		Hotel Al Mehraj (correct location)	18.9556766	72.8369019	hotel				
+node	6187201038		Blossom Dormitory	19.1013126	72.8905981	hostel				
+node	6226480987	Hotel Blue Pearl Residency		19.0962586	72.8947104	hotel				
+node	6229440187		Anantha Executive Suites	19.1385003	72.9303859	hotel				
+node	6796225585		Hotel Meriton	19.0986249	72.8923000	hotel				https://www.hotelmeriton.in/
+node	6801919195	Red House Hostel		19.1256443	72.9194954	hotel				
+node	6801919197	"Powai Dormitory, Gold Finance, Manappuram"		19.1258078	72.9194489	hostel				
+node	6810831557	Rodas - An Ecotel Hotel		19.1185925	72.9116829	hotel	3			https://www.fernhotels.com/rodas-an-ecotel-hotel-mumbai#
+node	6865999285		Sai Palace Hotel	19.1154575	72.8602512	hotel				
+node	7045173523	Hotel Linkway		19.0650925	72.8349580	hotel				https://hotellinkway.com/
+node	7193739486		Amber Palace Hotel	18.9623451	72.8287891	hotel				
+node	7920057609	Hotel Sunny		19.0639301	72.8961413	hotel				
+node	8032208496	Nap Manor Hostels		19.0822013	72.8473955	hostel				https://napmanorhostels.com/
+node	8219843151	Elphinstone Hotel		18.9485110	72.8406170	hotel				
+node	8447999692	Park Inn		19.0555671	72.8243892	hotel		Park Inn		
+node	9139686416	Hotel Astro		19.1407730	72.8201608	hotel				
+node	9139716438	Hotel Yashodha Residency		19.1412475	72.8197980	hotel				
+node	9139716443	De Classico Hotel		19.1410159	72.8199890	hotel				
+node	9141434908	Deluxe Comfort		19.1373163	72.8231538	hotel				
+node	9141434909	Rigga Inn		19.1369647	72.8232270	hotel				
+node	9141434910	Hotel Signature Inn		19.1373666	72.8231089	hotel				
+node	9141434911	Art Hotel		19.1370297	72.8231836	hotel				
+node	10173118717		Treebo Trip Heraa International	18.9618192	72.8194832	hotel				
+node	10226892317	Mumbai Staytion Hostel		19.1102735	72.8818577	hostel				
+node	10242157433	Landmark Residency		19.1910591	72.8417740	hotel				https://www.tripadvisor.in/Hotel_Review-g304554-d6033440-Reviews-Landmark_Residency-Mumbai_Maharashtra.html
+node	10246465510		Forrest Hostels	19.0646957	72.8498540	hostel				
+node	10715797457	Blue Bells Residency-Mumbai Airport		19.1052359	72.8613339	hotel		Blue Bells Resdency-Mumbai Airport		
+node	10767848892	Hotel Sunshine Lodging		19.1261081	72.8933908	hotel				
+node	10929744305		Astropods	19.1090204	72.8562068	hotel				
+node	11055333401	Al Fatah		18.9506798	72.8347614	hotel				
+node	11136085505			19.0968574	72.8932337	hostel				
+node	11217394316	Hotel Indigo		19.1073069	72.8595802	hotel		Hotel Indigo		
+node	11445773994	Hotel Regal International		19.1012257	72.8846060	hotel				
+node	11445777740	Hotel Dwarka		19.0849255	72.8872426	hotel				
+node	11445806040	Mirages		19.1089323	72.8767860	hotel				
+node	11449429773	Hotel home town		19.0523856	72.8666168	hotel				
+node	11451989748	Amigo Hotel		19.0247267	72.8355588	hotel				
+node	11465204240	Hotel Heraa		18.9392416	72.8383645	hotel				
+node	11521060369		Solo Backpacker	19.0576726	72.8386726	hostel				
+node	11530321946	Vagad Student Hostel		19.1438319	72.8310718	hostel				
+node	11609355462	Alfa Executive		19.1189559	72.8416903	hotel				https://hotelalfaexecutive.com/
+node	11757650169		ZEST STAYS 1054 (ANDHERI WEST)	19.1425757	72.8323115	hostel				
+node	11873385169		Mabrook Dormitory	19.1016152	72.8899963	hostel				
+node	12223944101	Prakash Inn		19.0988777	72.8812339	hotel				
+node	12249980901	T24 Retro		19.0971738	72.8542691	hotel				https://t24retro.in
+node	12298890609	Ship Hotel		18.9396583	72.8385217	hotel				
+node	12346531475	Hotel Metro Palace	Hotel Metro Palace	19.0563315	72.8342536	hotel				
+node	12389467101	"Ginger Mumbai, Andheri East"	"Ginger Mumbai, Andheri East"	19.1160634	72.8503185	hotel				https://www.gingerhotels.com/ginger-mumbai-andheri-east
+node	12397200851	ibis Mumbai Vikhroli		19.1203432	72.9252049	hotel		Ibis		https://all.accor.com
+node	12475496774	Naaz Executive Hotel		19.0921691	72.8830998	hotel				https://www.naazexecutive.com/
+node	12551453022	Meluha		19.1178090	72.9109627	hotel	5			
+node	12632124454	Hotel Kalpana Elite		19.0772101	72.8788131	hotel				
+node	12635328075	Sagar Restaurant		19.0667221	72.8792666	hotel				
+node	12821439801	Townhouse Oak Times Square Le Western		19.1078771	72.8828176	hotel				
+node	12848913164	Juhu Bliss Inn	Juhu Bliss Inn	19.1065178	72.8263207	hotel				
+node	12961068219	Hotel Elite 59		19.1128634	72.8771578	hotel				
+node	12988852001	Ginger Andheri MIDC		19.1285143	72.8688705	hotel				
+node	13058306162	Theory9		19.0592035	72.8350556	hostel				https://www.theory9.in/bandra-serviced-apartment/
+node	13116847501	Krishna Palace		18.9621909	72.8132853	hotel				
+node	13380799814	Hotel Sai Palace Grand		19.1893206	72.8353197	hotel				
+node	13426652001		Locomo Express	19.0766810	72.8358371	hostel				https://locomo.world/
+node	13458602405	Tunga International		19.1177096	72.8652148	hotel				
+node	13513485602	Signature Inn Dormitory		19.1019587	72.8903914	hostel				
+node	13594636874	Diamond		19.0610148	72.9003077	hotel				
+node	13968027769	West Line		19.1268402	72.8367912	hotel				
+node	14058526741	Hotel Cilantro Park		19.1245968	72.8469065	hotel				
+node	14098560936	New Vasantashram	New Vasantashram	18.9466809	72.8323601	hostel				https://www.hotelnewvasantashram.com/
+node	14213578563	Hotel Starlight		19.1260349	72.8562559	hotel				
+way	27036055	JW Marriott		19.1018231	72.8260370	hotel		JW Marriott		
+way	38833386	Regency Hotel		18.9540192	72.7980855	hotel				
+way	39165067	Hotel Shalimar		18.9640534	72.8060732	hotel				
+way	39354898	Hotel Sea Princess	Hotel Sea Princess	19.0931831	72.8278496	hotel				
+way	40309557	Hotel Marine Plaza		18.9311659	72.8230972	hotel				https://www.hotelmarineplaza.com/
+way	40772065	Sahara Star		19.0956289	72.8539896	hotel				
+way	40819147	ITC Grand Maratha		19.1039305	72.8697754	hotel				
+way	40819205	Hilton Mumbai International Airport		19.1043735	72.8709317	hotel	5	Hilton	Hilton	https://www.hilton.com/en/hotels/bomaphi-hilton-mumbai-international-airport/?WT.mc_id=zELWAKN0APAC1HI2DMH3LocalSearch4DGGenericx6BOMAPHI
+way	46717565	West End Hotel		18.9405653	72.8274895	hotel				https://www.westendhotelmumbai.com/
+way	46721513	ITC Grand Central		18.9982254	72.8382792	hotel				
+way	50880774	Grand Hotel		18.9361901	72.8408238	hotel				
+way	54929165	"InterContinental Marine Drive, Mumbai"		18.9349915	72.8243065	hotel		InterContinental		
+way	55375575	SPCE boys hostel		19.1260118	72.8351779	hostel				
+way	74143794	Taj Lands End	Taj Lands End	19.0435761	72.8196888	hotel	5	Taj	Taj Group	https://www.tajhotels.com/en-in/hotels/taj-lands-end-mumbai
+way	102537882	Grand Sarowar Premiere		19.1733651	72.8457301	hotel				
+way	113721904	Hotel City Point		19.0170072	72.8480067	hotel				
+way	124990238	Imperial Grand Palace		19.1509951	72.8922424	hotel				
+way	137835197	Hotel Astoria		18.9323429	72.8271333	hotel				
+way	183155889	Domino's		19.2058512	72.9769845	hotel		Domino's		
+way	192537217	Bawa International		19.0965360	72.8537710	hotel				
+way	192537218	Ibis		19.0967033	72.8534871	hotel		Ibis		
+way	192537219	Hotel Transit		19.0973754	72.8548909	hotel				
+way	195072877	CETTM Hostel (MTNL Guesthouse)		19.1176986	72.9147825	hostel				
+way	204705451	The Retreat		19.1540120	72.7877553	hotel				
+way	206478063	The Westin Mumbai Powai Lake		19.1344790	72.9012523	hotel	5	Westin	Marriott	https://www.marriott.com/en-us/hotels/bomww-the-westin-mumbai-powai-lake/overview/
+way	206478064	The Westin Mumbai Powai Lake		19.1349198	72.9019419	hotel		Westin		https://www.marriott.com/en-us/hotels/bomww-the-westin-mumbai-powai-lake/overview/
+way	230784901	Sukh Hotel	Sukh Hotel	19.1069269	72.8260941	hotel				
+way	250277057	Mphil/Ph.D Ladies Hostel		19.0434785	72.9118706	hostel				
+way	250280952	Men's Hostel - 3		19.0432458	72.9117137	hostel				
+way	255362201	Manuel Gonsalves Ladies Hostel	Manuel Gonsalves Ladies Hostel	19.0565554	72.8294609	hostel				
+way	257072951	Hotel Bawa Continental		19.1006361	72.8276014	hotel				
+way	257073211	Hotel Juhu Plaza	Hotel Juhu Plaza	19.1095129	72.8246562	hotel				
+way	257073252	Sun-n-Sand		19.1094930	72.8241002	hotel				https://www.sunnsandhotel.com/mumbai.html
+way	289511930	Amrapali Working Womens Hostel		19.0678080	72.8943540	hostel				
+way	297139849	SP Jain Hostel		19.1247831	72.8338916	hostel				
+way	307395968	Janata Hotel		19.0397378	72.9479220	hotel				
+way	315277080	al-farook hotel		19.0388658	72.9465409	hotel				
+way	315345642	Hotel Bahri Residency		19.0516971	72.9010606	hotel			Bahri's	https://www.bahriresidency.com/Default.asp
+way	315440399	dosti hotel		19.0386760	72.9495571	hotel				
+way	352928006	RVG Girls' Hostel		19.1689400	72.8678089	hostel				https://rvgef.org/
+way	352993153	"Lakeside Chalet, Mumbai - Marriott Executive Apartments"		19.1328522	72.8996992	hotel		Marriott Executive Apartments		https://www.marriott.com/en-us/hotels/bomer-lakeside-chalet-mumbai-marriott-executive-apartments/overview/
+way	353172660	KBP Boys Hostel		19.0702005	72.8597946	hostel				
+way	353175693	Hotel Oriental Aster		19.1079740	72.8616013	hotel				
+way	353184523	Garware Collage Canteen		19.0734396	72.8568222	hotel				
+way	353351811	The Ambassador	The Ambassador	18.9337715	72.8248033	hotel	4			https://ambassadorindia.com/the-ambassador-mumbai/
+way	353351814	Chateau Windsor Hotel	Chateau Windsor Hotel	18.9337230	72.8251769	hotel				https://www.chateauwindsor.com/
+way	353364868	The Sahil Hotel		18.9687453	72.8236491	hotel	3			
+way	353367135	Hyatt Centric		19.0916948	72.8280549	hotel		Hyatt Centric		https://www.hyatt.com/hyatt-centric/mumct-hyatt-centric-juhu-mumbai
+way	353378215	FabHotel RK International		19.0855585	72.8843164	hotel				
+way	353378227	Baluben And Jagjiwan Mulji Hostel For Women		19.0843621	72.8829899	hostel				
+way	353378709	Shangrila		19.0434996	72.8654332	hotel				
+way	353789529	Tata Memorial Hospital Post Graduate's Hostel		19.0366481	72.9101256	hostel				
+way	353815444	Hotel Shalimar		19.1891665	72.8497745	hotel		Hotel Shalimar		https://hotelshalimar.net/
+way	354029367	New Zealand Hostel		19.1522314	72.8723843	hostel				
+way	354228648	Kohinoor Building		19.0168910	72.8293393	hotel				https://www.kohinoorhotels.com/kohinoor_prabhadevi
+way	355404264	IBIS		19.2077702	72.9639231	hotel	3	Ibis	Accor	
+way	356259087	Hotel Jewel Palace	Hotel Jewel Palace	19.0697478	72.8381658	hotel				
+way	356531671	Kohinoor Continental		19.1123953	72.8680665	hotel				
+way	357042474	Hotel Bawa Suites	Hotel Bawa Suites	19.0691727	72.8334104	hotel				
+way	357186658	Bloom Boutique	Bloom Boutique	19.0668306	72.8302277	hotel				
+way	357187124	Hotel T-Junction		19.0471693	72.8526399	hotel				
+way	357364448	Mumbai University Canteen		19.0707868	72.8590611	hotel				
+way	357405699	Hotel Linkway		19.0650903	72.8348496	hotel				https://hotellinkway.com/
+way	357472274	Ramee Guestline Hotel Khar	Ramee Guestline Hotel Khar	19.0680106	72.8375643	hotel				
+way	357472411	Royal Inn	Royal Inn	19.0679238	72.8340432	hotel	3			
+way	358888240	Hyatt Regency		19.1037348	72.8712810	hotel		Hyatt Regency		
+way	359983627	Juhu Residency Boutique Hotel		19.1011649	72.8274295	hotel				
+way	373368298	NIUS Hostel		19.0421486	72.9271423	hostel			HBCSE	
+way	402645524	Four Seasons Hotel		18.9942040	72.8203935	hotel		Four Seasons	Four Seasons Hotels Limited	https://www.fourseasons.com/mumbai
+way	430412674	Sofitel		19.0676972	72.8688016	hotel		Sofitel		https://www.sofitel-mumbai-bkc.com/
+way	430412677	Trident Hotel		19.0666901	72.8679188	hotel				
+way	434887935	Hotel Lucky	Hotel Lucky	19.0538941	72.8376457	hotel				
+way	457922231	Taj Santacruz Mumbai		19.0926852	72.8543788	hotel	5	Taj	Taj Hotels Resorts and Palaces	https://taj.tajhotels.com/en-in/taj-santacruz-mumbai/
+way	635488341	The St. Regis Mumbai		18.9941376	72.8240431	hotel			Starwood Hotels & Resorts	
+way	753875937	The Oberoi		18.9270024	72.8206042	hotel	5	Oberoi		
+way	753875938	"Trident, Nariman-Point"		18.9276399	72.8210332	hotel	5	Trident		
+way	765936595	Horn Ok Please Hostel Mumbai		19.0544134	72.8351609	hostel			Horn Ok Please Hostel	
+way	779986715	Ramada Plaza Palm Grove		19.0985808	72.8268319	hotel		Ramada		
+way	793256158			19.0838324	72.8447917	hotel				
+way	816592155	Training School Hostel		19.0338883	72.9251473	hostel			Department of Atomic Energy	
+way	905319551	HBNI Hostel		19.0374403	72.9242731	hostel				
+way	905319552			19.0369237	72.9240673	hostel				
+way	905319553	Post Graduate's Hostel		19.0363287	72.9241777	hostel				
+way	946761592	Satkar Residency		19.2060291	72.9656641	hotel				
+way	1052052211	Ashtavakra Hostel		19.0465164	72.8735664	hostel			Somaiya Ayurvihar	
+way	1075183332	Janata Tawa Grill		19.0761643	72.8778380	hotel				
+way	1126153531	The Emerald Hotel And Serviced Apartments		19.0931749	72.8286869	hotel				
+way	1172329669	Taj The Trees		19.0928533	72.9217172	hotel		Taj		
+way	1226336536	Juhu Hotel	Juhu Hotel	19.1033393	72.8253706	hotel				
+way	1226401264	Hotel Beach Garden		19.0980007	72.8274067	hotel				
+way	1253560102	Radisson Blu Mumbai International Airport		19.1101739	72.8789651	hotel		Radisson Blu		https://www.radissonhotels.com/en-us/hotels/radisson-blu-mumbai-airport
+way	1253560109	Lemon Tree Premier Mumbai International Airport		19.1082470	72.8822827	hotel				
+way	1329025332	Hotel Amber Paramount		19.1364248	72.8202795	hotel				
+way	1338609056	"Aurika By Lemon Tree Hotels, Mumbai"		19.1033398	72.8630869	hotel				
+way	1387274671	Hotel Beach Crown	Hotel Beach Crown	19.1032790	72.8270952	hotel				
+way	1388705902	Maitreyi Hostel		19.0728388	72.8970642	hostel			Somaiya Vidyavihar	
+way	1388706920	Sandipani Hostel		19.0726564	72.8969473	hostel			Somaiya Vidyavihar	
+way	1390028816	K J Somaiya Polytechnic Hostel		19.0726447	72.8994004	hostel				
+way	1410368282	Hotel Rangsharda		19.0511950	72.8322599	hotel				
+way	1411408611	Aurika Hotel by Lemon Tree		19.1033948	72.8630142	hotel				
+way	1412645298	Novotel		19.1103174	72.8753684	hotel		Novotel		
+way	1416900451	Hotel Avon Ruby		19.0152652	72.8445541	hotel				
+way	1443028725	Hotel Cliffton		19.1361487	72.8481625	hotel				
+way	1456254872	Courtyard by Marriott Mumbai International Airport	Courtyard by Marriott Mumbai International Airport	19.1139244	72.8642712	hotel		Courtyard		
+way	1458027980	Hotel Suba International		19.1062542	72.8603527	hotel				
+way	1460184997	The Hosteller		19.1044117	72.8593561	hostel				
+way	1471138511	Bloom Hotel		19.1101487	72.8535236	hotel		Bloom Hotel		
+way	1478056950	ibis Mumbai BKC		19.0740231	72.8689411	hotel		Ibis		https://all.accor.com/hotel/6830/index.en.shtml
+way	1483365509	Hotel Adarsh Baug		18.9513403	72.8278597	hotel				
+way	1489064963	Hotel Orient Regency	Hotel Orient Regency	18.9619956	72.8226485	hotel				https://hotelorientregency.com/
+way	1537194072	New Girls Hostel University of Mumbai		19.0671781	72.8596338	hostel				
+way	1562122427	Brown Inn		19.0756600	72.8784440	hotel				
+relation	5274796	Savitridevi Phule Mahila Chhatralaya (Ladies Hostel)		18.9500791	72.8191810	hostel			Government	
+relation	5289224	Savitribai Phule Girls Hostel		19.0731116	72.8596625	hostel				

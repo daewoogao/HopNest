@@ -1,0 +1,566 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	299441374	ホテルグランヴィア京都	Hotel Granvia Kyoto	34.9858426	135.7598191	hotel	5			https://www.granvia-kyoto.co.jp
+node	304484248	リーガロイヤルホテル京都	Rihga Royal Hotel Kyoto	34.9862057	135.7524872	hotel				
+node	304484262	京都新阪急ホテル		34.9874746	135.7577206	hotel				
+node	311766379	ハイアットリージェンシー 京都	Hyatt Regency Kyoto	34.9886103	135.7737055	hotel				
+node	313221287	Kiyomizu Youth Hostel		34.9947832	135.7803380	hostel				
+node	601836465	ホテル法華クラブ京都	Hotel Hokke Club Kyoto	34.9874608	135.7587809	hotel				
+node	601837053	ザ・サウザンド キョウト	THE THOUSAND KYOTO	34.9865001	135.7615609	hotel				https://www.keihanhotels-resorts.co.jp/the-thousand-kyoto/
+node	601837055	京都 センチュリー ホテル	Kyoto Century Hotel	34.9860822	135.7616536	hotel				https://www.keihanhotels-resorts.co.jp/kyoto-centuryhotel/
+node	810067048	ファーストキャビン京都烏丸 (First Cabin Kyoto Karasuma)	First Cabin Kyoto-Karasuma	35.0013908	135.7602386	hostel				
+node	810650905	東横イン五条烏丸 (Toyoko Inn)		34.9986459	135.7595479	hotel				
+node	830809923	アパホテル京都駅堀川通	APA Hotel Horikawadori	34.9866583	135.7535750	hotel				
+node	830809924	アパホテル	APA Hotel	34.9864173	135.7550647	hotel		アパホテル		
+node	924675163	京都花宿 (Hana Hostel Kyoto)		34.9897331	135.7605644	hotel			J-Hoppers	
+node	1224217739	Petit Hôtel Pension Kyoto		35.0296243	135.7504392	hotel				
+node	1311881060	然林房		35.0546160	135.7290212	hotel				
+node	1363730335	J Hoppers		34.9794215	135.7614913	hostel				
+node	1422963155	Mimaru 京都 新町三条		35.0093080	135.7563300	hotel				https://mimaruhotels.com/jp/hotel/shinmachi-sanjo/
+node	1662746689	ホテル日航関西空港	Hotel Nikko Kansai Airport	34.4370454	135.2431522	hotel				https://www.nikkokix.com/
+node	1682446801	Tour Club Kyoto		34.9906736	135.7543914	hotel				
+node	1826792510	ホテル京阪 京都 グランデ	Hotel Keihan Kyoto Grande	34.9835851	135.7608635	hotel		Hotel Keihan		https://www.hotelkeihan.co.jp/kyoto/
+node	1854928858	スーパーホテル	Super Hotel Karawamachi	35.0050025	135.7680091	hotel				
+node	1937397945	ホテルブライトンシティ	Hotel Brighton City	34.9913865	135.8168290	hotel				
+node	2116169980	R&Bホテル京都駅八条口		34.9830361	135.7594780	hotel				
+node	2365751839	スマイルホテル京都四条	Smile Hotel (Kyoto Shijo)	35.0033468	135.7546131	hotel				https://smile-hotels.com/hotels/show/kyotoshijo
+node	2503697554	Jam Hostel		35.0049067	135.7724751	hotel				
+node	2510114313	ホテル チェックイン 四条烏丸		35.0055753	135.7599692	hotel				
+node	2674310775	旅館 さんき		34.9926470	135.7437000	hotel				
+node	2674324441	松栄		34.9923440	135.7443290	hotel				
+node	2691296677	ブライトンホテル	Brighton Hotel Kyoto	35.0245870	135.7557450	hotel			Brighton Hotels	https://www.brightonhotels.co.jp/kyoto/
+node	2789981138	京湯元 ハトヤ瑞鳳閣		34.9868666	135.7549750	hotel				https://www.kyoto-hatoya.jp/
+node	2961154840	サクラテラス	SAKURA TERRACE Hotel	34.9798710	135.7594200	hotel				https://sakuraterrace.jp/
+node	2991605933	京都東急ホテル	Kyoto Tokyu Hotel	34.9951413	135.7516852	hotel				https://www.kyoto-h.tokyuhotels.co.jp/
+node	3064536433	京都プラザホテル	Kyoto Plaza Hotel	34.9812560	135.7534820	hotel				
+node	3068499750	白河院		35.0139092	135.7876033	hotel			日本私立学校振興・共済事業団	https://www.hotelgp-kyoto.com/shirakawain/
+node	3137582929	GUESTHOUSE地球号		35.0258347	135.7764540	hostel				
+node	3259701361	加茂川館		35.0090983	135.7709616	hotel				
+node	3337057131	東横イン	Toyoko Inn	34.9945287	135.7489355	hotel		東横イン		
+node	3518389965	ドーミーインプレミアム京都駅前	Dormy Inn Premium Kyoto Ekimae	34.9874601	135.7617839	hotel				
+node	3521850089	Hostel HARUYA Aqua		34.9885376	135.7486717	hostel				
+node	3607062593	Guesthouse Origami		35.0011460	135.7550780	hostel				
+node	3645503959	Hotel Station Kyoto 西館		34.9894222	135.7602555	hotel				
+node	3779970797	Piece Hostel Kyoto		34.9835580	135.7620716	hostel	2			http://www.piecehostel.com/kyoto/en/
+node	4107707115	增井家		34.9977160	135.7713459	hotel				
+node	4122130689	The lower east nine hostel 		34.9793922	135.7601431	hostel				
+node	4125686690	519 Kitakinomotochō		35.0086117	135.7786232	hotel				
+node	4134752594	Peace House Sakura		34.9957402	135.7732981	hostel				http://www.osaka-guest-house.com/kyoto/
+node	4143884293	Hotel Anteroom Kyoto		34.9753984	135.7587787	hotel				
+node	4151038489	サクラテラスザ・ギャラリー	Sakura terrace gallery	34.9827888	135.7584609	hotel				https://www.sakuraterrace-gallery.jp/
+node	4197389154	ナインアワーズ京都	9hours Kyoto	35.0026307	135.7667774	hostel				https://ninehours.co.jp/kyoto/
+node	4199874889	o Yafo		34.9943943	135.7554318	hotel				
+node	4205580708	Ryokan Nakajimaya 		35.0022552	135.7625827	hostel				
+node	4206105090	CMM Monthly Mansions Horikawa Sanjou 堀川三条		35.0081367	135.7514207	hotel				
+node	4223141489	Tomato Guest House		34.9869090	135.7518266	hostel				http://kyoto.ihostelz.com/enindex.html
+node	4225072197	京都汉娜宾馆		35.0195855	135.7476749	hotel				
+node	4259599859	Piece Hostel Sanjo		35.0080462	135.7652048	hostel				https://piecehostel.com/sanjo/jp
+node	4264486914	京紫		35.0355103	135.7363826	hostel				
+node	4267761399	Hotel Gran Ms Kyoto		35.0096970	135.7685520	hotel				https://granms.jp/
+node	4268106294	Hotel Chatelet Inn Kyoto		35.0110995	135.7559546	hotel				https://www.chatelet.jp/
+node	4269013789	Sakura Urushi tei		34.9999731	135.7641262	hotel				
+node	4269870191	アルモントホテル京都	Almont Hotel Kyoto	34.9833835	135.7639467	hotel				
+node	4335289102	ゲストハウス糸屋	Guesthouse Itoya	35.0300858	135.7454086	hostel				http://kyoto-itoya.com/
+node	4421690095	時遊人	Guest house Jiyu-jin	34.9949598	135.7611998	hostel				http://www.0757085177.com/english.html
+node	4450301191	ホテルグレイスリー 京都三条	Hotel Gracery Kyoto Sanjo	35.0075211	135.7673230	hotel				https://gracery.com/kyoto/
+node	4467936289	Marion		35.0101779	135.7703629	hotel				
+node	4478933693		Oil Street Guest House	35.0317207	135.7535341	hostel				https://www.oilstreetkyoto.com/
+node	4505616991			34.9898649	135.7545242	hotel				
+node	4551239594	Shiraume		35.0053292	135.7735443	hotel				
+node	4563417477	ユニゾイン 京都河原町四条		35.0069676	135.7686114	hotel				
+node	4607726060	Daiwa Roynet Hotel		34.9887101	135.7594526	hotel				
+node	4681267368	ザ プリンス 京都宝ヶ池	The Prince Kyoto Takaragaike	35.0626990	135.7807556	hotel	3.5	Autograph Collection Hotels		https://www.marriott.com/hotels/travel/ukyak-the-prince-kyoto-takaragaike-autograph-collection/
+node	4686773893	和泉屋旅館		34.9907708	135.7533850	hotel				
+node	4686773898	旅館あづまや		34.9906448	135.7533906	hotel				
+node	4698815290		airbnb dan and co	35.0090531	135.7700265	hostel				
+node	4743134425			35.0015038	135.7798494	hotel				
+node	4744341222	コミカプ京都	Comicap Kyoto	35.0053412	135.7675419	hotel				
+node	4761754622	Lund House	Lund House	35.0453355	135.7850136	hotel				
+node	4761911855	Khaosan Guesthouse		35.0021901	135.7667508	hostel				
+node	4761918522	Khaosan Theater		35.0068366	135.7662644	hostel				
+node	4766260362	ホテルエクセレンス京都駅八条口	Hotel Excellence Kyoto Station Hachijo	34.9835230	135.7540546	hotel	2			http://excellence.mollette.jp/%e4%ba%ac%e9%83%bd%e9%a7%85%e5%85%ab%e6%9d%a1%e5%8f%a3%e5%ba%97/
+node	4768905036		Guest House Rinn	34.9873823	135.7533708	hostel				
+node	4795303523	IMAYA Hostel Kyoto	IMAYA Hostel Kyoto	35.0114437	135.7558430	hostel				
+node	4813050121	Mitsui Garden Hotel Kyoto Shijo		35.0030109	135.7549679	hotel	4		Mitsui Garden	https://www.gardenhotels.co.jp/eng/kyoto-shijo/
+node	4896347865	都シティ近鉄京都駅	Miyako City Kintetsu Kyoto Station	34.9848136	135.7574061	hotel				https://www.miyakohotels.ne.jp/kyoto-station/
+node	4905252634		Kyoto Morris Hostel	35.0156825	135.7678529	hostel				
+node	4917100021	五条ゲストハウス別館	Gojo guest house annex	34.9982140	135.7758003	hostel				
+node	5005273424	一条Premium		35.0264794	135.7505520	hotel				http://ivy.free-jp
+node	5010312270	相鉄Fresca Inn Kyoto Shijo		35.0024671	135.7588807	hotel				
+node	5049770422	Gion united hotel		34.9985710	135.7714032	hotel				
+node	5085959347	Petit Hotel Racine Home		34.9927139	135.7609601	hotel				
+node	5086047335	たびやホテル	Tabiya Hotel	35.0026442	135.7664131	hotel				
+node	5132372223		Kyoto airbnb	34.9966801	135.7556052	hotel				
+node	5166754480	清水山荘		34.9977119	135.7813477	hotel				
+node	5272804388	レディースホテル西陣		35.0339458	135.7498191	hotel				
+node	5273633881	京都シティーホテル		35.0308747	135.7515761	hotel				
+node	5279762880	イビススタイルズ京都ステーション	Hotel Ibis Styles Kyoto	34.9837508	135.7583895	hotel		Ibis Styles		
+node	5382306135	エコアンドテック京都		35.0086992	135.7814808	hotel				
+node	5382326728	梵居		35.0089277	135.7788249	hostel				
+node	5382328145	宿はる屋	Hostel HARUYA KYOTO	35.0087597	135.7789331	hotel				
+node	5382328146	沖のまちやど	Guesthouse OKI's Inn	35.0086864	135.7789159	hotel				
+node	5382338310	稲荷 院		35.0074233	135.7783506	hotel				
+node	5382345666	ジャパニングホテル東山三条		35.0081657	135.7788346	hotel				
+node	5382365633	HIGASHIYAMA 恵庵		35.0088094	135.7813274	hotel				
+node	5393194046	Len Kyoto Kawaramachi		34.9986956	135.7673244	hostel				
+node	5393194047	Bochi bochi karasuma		34.9916610	135.7616955	hostel				
+node	5393194051	サイ・ホテル	Sai Hotel	34.9968855	135.7653309	hotel				
+node	5393194053	Aoi Hotel Kyoto		35.0015565	135.7697368	hotel				
+node	5502387921	Kyoto station base		34.9788085	135.7614725	hostel				
+node	5504886328	ふくざわ		34.9939117	135.7550472	hotel				
+node	5537301289	First Cabin Kyoto Kawaramachi Sanyo		35.0091025	135.7687315	hotel				https://first-cabin.jp/en/hotels/25
+node	5561316934	アークホテル	Arc Hotel	35.0034638	135.7477580	hotel				
+node	5561327945			35.0027188	135.7499863	hotel				
+node	5561362921			35.0035807	135.7479406	hotel				
+node	5568334521		Expo hostel	35.0367084	135.7465277	hotel				https://www.expohostel.info/
+node	5729555123	グリッズ河原町	GRIDS Kawaramachi	35.0047402	135.7648774	hostel				
+node	5800568353		grand japaning hotel central omita	35.0027405	135.7529713	hotel				
+node	5807851134	Santiago Guesthouse		34.9944753	135.7757858	hostel				https://santiago-guesthouse-jp.book.direct/en-gb
+node	5809700876	器（utsuwa）designed hostel		34.9864432	135.7697929	hotel	2	器（utsuwa）	株式会社ロクヨン	
+node	5903245455	ホテルエクセレンス円町駅前	Hotel Excellence Enmachi Ekimae	35.0183785	135.7324358	hotel				
+node	6003055788	アゴーラプレイス 京都二条		35.0172743	135.7525236	hotel				
+node	6015473051	カプセルホテル漫遊堂		35.0373614	135.7814126	hostel				http://www.manyudo.co.jp
+node	6023948485		MARIKOJIKAIKAN	35.0267687	135.7772661	hostel				
+node	6158006185			34.9830036	135.7642137	hostel				
+node	6208421224	Kyoto Inn Gion The Second		35.0005488	135.7761165	hotel				
+node	6360431688	Gate 80		35.0174778	135.7424608	hotel				
+node	6371162886			34.9900573	135.7534219	hotel				
+node	6407821261	静鉄ホテルプレジオ	Shizutetsu Hotel Prezio	35.0115594	135.7603593	hotel				https://www.hotel-prezio.co.jp/kyoto-karasumaoike/
+node	6407821262	ABホテル 京都四条堀川		35.0040454	135.7524972	hotel				
+node	6413871585	IRORI		34.9913906	135.7613957	hotel				
+node	6415343885	旅館こうろ	Ryokan Kohro	35.0075557	135.7633611	hotel				
+node	6634563210	Aman Kyoto		35.0503473	135.7312298	hotel		Aman		https://www.aman.com/resorts/aman-kyoto
+node	6657161175	Park Hyatt Kyoto		34.9989890	135.7810481	hotel		Park Hyatt		https://www.hyatt.com/en-US/hotel/japan/park-hyatt-kyoto/itmph
+node	6679599752	Rak Kiyomizu		34.9967337	135.7749803	hostel				https://rak-kyoto-hostel.com/
+node	6702423825	onsen		34.9903533	135.7476625	hotel				
+node	6702423834	"京都市下京区綾大宮町 66番地, 600-8383, Japan"	Hotel Meldia Kyotoshijoomiya	35.0014533	135.7489240	hotel				
+node	6702423841	APA Hotel Kyoto Gojo Omiya		34.9965976	135.7493780	hotel				
+node	6702423848	Oyo		34.9922288	135.7477801	hotel				
+node	6737206433	静鉄ホテルプレジオ京都四条		35.0050729	135.7549003	hotel				https://www.hotel-prezio.co.jp/
+node	6796484086	千丸		35.0185990	135.7427627	hotel				
+node	6821845672	IL Verde Kyoto Hotel		34.9913264	135.7643794	hotel				https://hotel-ilverde.com/
+node	6832313486	M’s hotel	M's Kyoto Information Center	34.9873597	135.7607156	hotel				https://kyohotel.jp/
+node	6869698446	Kyogura Tofukuji		34.9836243	135.7702706	hotel				https://kyoguratofukuji.jphotel.site/en
+node	7005276944	Ace Hotel Kyoto		35.0096330	135.7604641	hotel		Ace Hotel		
+node	7279975885	鹿麓 席	Roku Roku	35.0210421	135.7955763	hostel				
+node	7366091185	ブリエ京都丹波口	Briller Kyoto Tambaguchi	35.0000333	135.7408676	hotel				https://serviced-accommodation-947.business.site/
+node	7366128285		Matabi Stay Gojo	34.9960217	135.7564001	hotel				
+node	7393597696	Vegan Minshuku Sanbiki Neko		34.9853931	135.7796922	hotel				https://www.veganminshuku3neko.com/
+node	7428574567	ホテルヴィスキオ京都 by GRANVIA	HOTEL VISCHIO KYOTO by GRANVIA	34.9834469	135.7594632	hotel		Granvia		https://www.hotelvischio-kyoto.jp/
+node	7944169506	ホテル本能寺	Hotel Honnoji	35.0105768	135.7683322	hotel				
+node	8179936344	ザ・ゲートホテル京都高瀬川 by HULIC	The Gate Hotel Takesegawa by Hulic	35.0059032	135.7699705	hotel	4		Hulic	https://go-gate-hotel.reservation.jp/en/hotels/gate-kyoto
+node	8293234415	フォションホテル京都	Fauchon L’Hôtel Kyoto	34.9984901	135.7676417	hotel		Fauchon		https://hotelfauchonkyoto.com/
+node	8840587666	ダイワロイネットホテル京都テラス八条東口	Daiwa Roynet Hotel	34.9842238	135.7614466	hotel				
+node	8886451183	堀川イン		35.0090689	135.7522288	hotel				
+node	8971351383	ホテルビスタプレミオ京都 和邸		35.0062784	135.7563882	hotel				
+node	8979318486	CANDEO Hotels		35.0072793	135.7589056	hotel				
+node	8979320565	三井ガーデンホテル京都新町別邸		35.0066230	135.7568322	hotel				
+node	8979987977	TOMMY RICH INN KYOTO		35.0093235	135.7648876	hotel				
+node	9013252177	ザ ロイヤルパークホテル 京都梅小路	The Royal Park Hotel Kyoto Umekoji	34.9880950	135.7443465	hotel				
+node	9168997527	"ROKU KYOTO, LXR Hotels & Resorts"		35.0477278	135.7346119	hotel		LXR	Hilton	https://www.hilton.com/en/hotels/itmolol-roku-kyoto/
+node	9502781369	ホテル京阪京都八条口	Hotel Keihan Kyoto Hachijoguchi	34.9808582	135.7613236	hotel				https://kyoto-h.hotelkeihan.co.jp/
+node	9509890208	京都シティガーデンズホテル		34.9803956	135.7643284	hotel				
+node	9527378447	The JUNEI Hotel		34.9919306	135.7695392	hotel				
+node	9706484317	湯河原		35.0026185	135.7741944	hotel				
+node	9841314153	さわや本店	SAWAYA	35.0184105	135.7768013	hotel				https://sawaya.kyoto/
+node	9914783532	変なホテル 京都八条口駅前		34.9842314	135.7619252	hotel				
+node	10225323485	OMO3京都東寺		34.9802579	135.7533922	hotel		星野リゾート		https://hoshinoresorts.com/ja/hotels/omo3kyototoji/
+node	10225323911	OMO5京都祇園	OMO5 Kyoto Gion	35.0040300	135.7768562	hotel		星野リゾート		https://hoshinoresorts.com/ja/hotels/omo5kyotogion/
+node	10225323912	OMO5京都三条	OMO5 Kyoto Sanjo	35.0092158	135.7685392	hotel		星野リゾート		https://hoshinoresorts.com/ja/hotels/omo5kyotosanjo/
+node	10236485075	お宿はち		34.9904726	135.7617786	hostel				
+node	10236629687	KUU		34.9908955	135.7604721	hotel				
+node	10236661553	伊香詰所		34.9899772	135.7605159	hotel				
+node	10245722672	ホテル エルシエント京都八条口	Hotel Elcient Kyoto Hachijoguchi	34.9837208	135.7613269	hotel		Hotel Elcient		https://www.elcient.com/kyoto/
+node	10651448949	The Millennials		35.0074688	135.7689125	hostel				https://www.themillennials.jp
+node	10680318105	ビージェイファミリーハウス	BJ Family House	34.9901041	135.7643889	hotel				
+node	10680318205	憩の家	Ikoi-no-ie	34.9940386	135.7570539	hotel				https://ikoinoie.jphotel.site/ja/
+node	10696154610	富久家		35.0013876	135.7780893	hotel				
+node	10696154612	石塀小路夢庵		35.0010213	135.7791377	hotel				
+node	10696154618	松春		35.0013282	135.7798643	hotel				
+node	10697348776	聖護院御殿荘		35.0197045	135.7801602	hotel				
+node	10697348778	京町家聖護院		35.0192719	135.7815025	hotel				
+node	10700333591	KAGANHOTEL - 河岸ホテル -	KAGANHOTEL	34.9902813	135.7404471	hotel			株式会社めい	https://kaganhotel.com/
+node	10700826595	丸福樓		34.9917647	135.7662681	hotel				https://marufukuro.com/
+node	10741049006	慶有魚·高濑川		34.9938093	135.7659742	hotel				
+node	10743239600	ホテル 平安の森 京都		35.0168722	135.7891729	hotel				
+node	10752211005		Nest Hotel Kyoto Shijokarasuma	35.0007991	135.7580328	hotel				https://nesthotel.co.jp
+node	10763167107	ホテルエクセレンス京都駅西	Hotel Excellence Kyoto Station West	34.9849609	135.7533336	hotel				
+node	10764792805		Hostel Inn Kyoto Gion	35.0061530	135.7759431	hotel				
+node	10771414305		Oakwood hotel Oike	35.0114420	135.7650950	hotel				
+node	10804243540	R&B Hotel Kyoto Shijo Kawaramachi		35.0011861	135.7688693	hotel	3			
+node	10808890371	Rakucho Ryokan		35.0448205	135.7673107	hotel				
+node	10874220286	Ayome 文月		34.9893446	135.7397583	hostel				
+node	10970411503	職員会館　かもがわ		35.0156355	135.7707676	hotel				
+node	11036836699	Hyatt Place Kyoto		35.0155093	135.7593045	hotel		Hyatt Place		
+node	11036878408	ホテルマンデー京都丸太町	Hotel Monday Kyoto Marutamachi	35.0160296	135.7593287	hotel				
+node	11048940905			35.0090611	135.7445082	hotel				
+node	11050409805		Hotel in the green	34.9530340	135.7470486	hotel				
+node	11057828326	Hostel Sui Kyoto		35.0338720	135.7446924	hostel				
+node	11127498579	しづや	Shizuya	34.9896799	135.7644849	hostel				https://www.shizuya-kyoto.com/
+node	11133798739	DoubleTree by Hilton Kyoto Higashiyama		34.9951616	135.7695842	hotel	4	DoubleTree by Hilton		https://www.hilton.com/en/hotels/itmhadi-doubletree-kyoto-higashiyama/?SEO_id=OTHR-APAC-DI-ITMHADI
+node	11209351337		Wise Owl Hostels	34.9829057	135.7535344	hostel				
+node	11223706840			35.0504831	135.7337985	hotel				
+node	11229816201	リーガグラン京都	RIHGA GRAN KYOTO	34.9822004	135.7600354	hotel				
+node	11229816202	HOTEL The M's KYOTO		34.9821109	135.7613226	hotel				
+node	11229816209	相鉄フレッサイン 京都駅八条口		34.9828397	135.7608819	hotel		Sotetsu Fresa Inn		
+node	11229816215	MIMARU京都 STATION		34.9842347	135.7617009	hotel				
+node	11229816238	京都クリスタルホテルⅡ		34.9842093	135.7648645	hotel				
+node	11304349669	Hotel M's Plus Shijo Omiya		35.0037302	135.7477718	hotel				
+node	11350763469	エクセレンス	Hotel Excellence	34.9873219	135.7537504	hotel				
+node	11369981369			34.9824157	135.7601943	hotel				
+node	11381041770	Comfort Hotel Kyoto Horigawagojo		34.9955535	135.7528440	hotel				
+node	11389914569	京乃宿 清水五条 呉竹荘	Kuretake Inn	34.9946964	135.7726190	hotel				https://kuretake-inn.com/
+node	11429264535	ファーストキャビン	FIRST CABIN	35.0168948	135.7522950	hotel				https://first-cabin.jp/hotels/kyotonijoujou/
+node	11461823572	Waka・京都河原町ホテル	Waka ・Kyōto Kawaramachi Hotel	35.0012938	135.7685498	hotel				
+node	11462062964	蘇影		34.9990432	135.7659397	hotel				
+node	11462161238	MUSO		34.9988092	135.7657419	hotel				
+node	11499464213	TOKA KYOTO HOTEL		34.9970832	135.7653613	hotel				
+node	11738651469		Stay SAKURA Kyoto Gyoen East	35.0210747	135.7692158	hotel				
+node	11747510584	松葉屋旅館		34.9922368	135.7608222	hotel				
+node	11813705770		Super Hotel Kyoto Shijokawaramachi	35.0051954	135.7676072	hotel				
+node	11815905964	メルキュール 京都ステーション	Mercure Kyoto Station	34.9883486	135.7536730	hotel	4	Mercure		https://all.accor.com/hotel/B4F4/index.de.shtml
+node	11816397997	Tokyu Stay		35.0092069	135.7589910	hotel				
+node	11818620114	Hostel Otro Mundo		35.0226728	135.7422613	hostel				
+node	11821840269		Hotel Forza Kyoto Shijo Kawaramachi	35.0035324	135.7653794	hotel				https://www.hotelforza.jp/kyotoshijo/en/
+node	11872244069			34.9910409	135.7611650	hotel				
+node	11886321469			34.9797822	135.7627710	hotel				
+node	11886473670	rihga place hotel		35.0009758	135.7580478	hotel				
+node	11932658269	The Pocket Hotel Karasuma Gojo		34.9964780	135.7603688	hotel				
+node	12076083347	アーバン京都駅西	Urban Kyoto Eki Nishi	34.9886054	135.7522184	hotel				
+node	12076083353	エリートイン京都駅	Elite Inn Kyoto Station	34.9886594	135.7523607	hotel				
+node	12094830225	京恋 錦	GUEST HOUSE KYO-KOI NISHIKI	35.0049018	135.7521165	hotel			株式会社MM	
+node	12094830234	APA GARDEN COURT 烏丸錦		35.0047461	135.7544195	hotel				
+node	12094830253	Comfort INN		35.0048019	135.7575098	hotel				
+node	12105529222	MONday		34.9890304	135.7522535	hotel				
+node	12119110673	Room & Bed Fun Stay - KYOTO		35.0156453	135.7678798	hotel				
+node	12137332606	変なホテルプレミア京都 五条烏丸	Henn na Hotel Premier Kyoto Gojo Karasuma	34.9959337	135.7579439	hotel		Watermark		https://www.hennnahotel.com/kyoto-gojo/
+node	12142252272	Hotel RESOL		35.0006723	135.7579494	hotel				
+node	12142635001	京王プレリアホテル京都烏丸五条	Keio Prelia Hotel Karasuma Gojo	34.9983128	135.7595155	hotel				https://www.keioprelia.co.jp/kyoto/
+node	12174290010	IZUTSU HOTEL		35.0082092	135.7688498	hotel				
+node	12179977225	レフ京都八条口		34.9831766	135.7577436	hotel		ベッセルホテルズ		https://www.vessel-hotel.jp/ref/kyoto/
+node	12319018989	VIA INN Prime Kyotoeki Hachijoguchi		34.9832911	135.7586925	hotel		VIA INN PRIME		https://www.viainn.com/kyoto-h/
+node	12319018990	ホテル京阪 京都駅南	Hotel Keihan Kyoto Ekiminami	34.9838185	135.7576974	hotel		Hotel Keihan		
+node	12330047501	Stay Sakura Kyoto Gion North		35.0107057	135.7781100	hotel				https://en.stay-sakura.com/gionkita
+node	12347803001	Tassel Hotel Sanjo Shirakawa		35.0094381	135.7807891	hotel				
+node	12422063267	HIZ		35.0136614	135.7571346	hotel				
+node	12515588570			34.9801366	135.7610075	hotel				
+node	12543177078	RAKURO Kyoto by THE SHARE HOTELS	RAKURO Kyoto by THE SHARE HOTELS	35.0172038	135.7584591	hotel				https://www.thesharehotels.com/rakuro/
+node	12730143539	松本旅館		34.9873891	135.7581680	hotel				
+node	12749348039	ザ・ひらまつ京都		35.0094188	135.7579257	hotel				
+node	12749358135	MIMARU		35.0093395	135.7564679	hotel				
+node	12749654641	アーバンホテル京都二条プレミアム	Urban Hotel Kyoto Nijo Premium	35.0151307	135.7423992	hotel		Urban Hotel		https://uh-urban.com/nijo/
+node	12896066202		The Hedistar Hotel Kyoto Nijo	35.0093130	135.7514570	hotel				
+node	12896066401		Hotel Japanesque Kyoto Station Zequu Annex	34.9824639	135.7640537	hotel				
+node	12997301511	Laonn Inn		35.0030681	135.7730026	hotel				
+node	13022441230	ファーストキャビン関西空港		34.4372805	135.2435226	hotel				
+node	13038701323	The Residence		35.0141504	135.7420558	hotel				
+node	13093811110	慶有魚 東棟		34.9936797	135.7740922	hotel			（株）慶有魚	
+node	13093811111	慶有魚 西棟		34.9936923	135.7740433	hotel			（株）慶有魚	
+node	13135641310			35.0108404	135.7491970	hotel				
+node	13140236187	風・舎	Machiya fu sha	34.9929979	135.7706275	hostel				
+node	13140261531	侘助		34.9932479	135.7702781	hostel				
+node	13140261532	五条町家		34.9932468	135.7703277	hostel				
+node	13176275673	杉 着物の宿		34.9947448	135.7664954	hotel				
+node	13176493302	近江屋		34.9921767	135.7613073	hotel				
+node	13202478901	FRESA INN		34.9962824	135.7644537	hotel				https://en.sotetsu-hotels.com/fresa-inn/karasuma/
+node	13235587196	Koko Hotel		35.0002550	135.7585288	hotel				
+node	13253703667	Kyoto Gion Hotel		35.0048604	135.7752603	hotel				
+node	13269635901		Dash Living Gojo	34.9940590	135.7582926	hotel				http://dash.co
+node	13350802501	ASAI Kyoto Shijo		34.9987814	135.7604236	hotel				
+node	13355590156	Rakuten Stay		34.9842405	135.7644556	hotel				
+node	13369794402		Smart Place Inn Kyoto Nijojo Horikawa	35.0077827	135.7497727	hotel				http://smart-place-inn.jp
+node	13388213772	hotel livemax		35.0175579	135.7482998	hotel				
+node	13420494108	SO KYOTO FUSHIMI INARI		34.9670802	135.7685655	hotel				
+node	13525221867	柚子屋旅館	Yuzuya Ryokan	35.0032485	135.7774139	hotel				https://yuzuyaryokan.com/
+node	13525254387	南禅寺参道 菊水	Nanzenji Sando Kikusui Ryokan	35.0104598	135.7891207	hotel				https://kyoto-kikusui.com
+node	13525355729	岩戸山ホステル	IWATOYAMA HOSTEL	35.0008729	135.7568136	hostel				
+node	13576149223	ゲストハウス 弁慶		34.9929551	135.7642634	hostel				
+node	13594931469	不思議な宿		34.9941538	135.7611435	hotel				
+node	13620324103	谷町君HOTEL京都駅東29		34.9906298	135.7689439	hotel				
+node	13634384004	Stay Sakura Kyoto Kiyomizu Gojo		34.9963872	135.7765203	hotel				
+node	13664350901	エスペリアホテル京都	S-Peria Hotel Kyoto	34.9964940	135.7449330	hotel				
+node	13664351001	京都ガーデンパレス	Kyoto garden Palace	35.0230332	135.7589384	hotel				https://www.hotelgp-kyoto.com/
+node	13681527602	Kokonoe machiya		35.0214132	135.7460225	hotel				https://www.kokonoemachiya.com/hotel
+node	13689042626	Takasegawa Bettei		34.9910946	135.7656347	hotel				
+node	13689085628	Toyoko Inn Kyoto Shijo Omiya		35.0037640	135.7473637	hotel				
+node	13797401371	Gozan hotel		35.0094823	135.7754793	hotel				
+node	13850866601	&haku		35.0149662	135.7589984	hotel				
+node	13908708984	Tune Stay Kyoto		34.9891084	135.7562328	hotel				https://www.tune-stay.com/
+node	13927654099	梅小路ポテル京都		34.9874223	135.7457306	hotel				
+node	13945018001	旅寛HOSTEL祇園	Ryokan Hostel Gion	35.0068701	135.7743713	hostel				https://www.ryokanhostel.com/
+node	13947194954	Enso Machiya		35.0282361	135.7489824	hotel				https://ensomachiya.com/
+node	13947554717	琥珀 APARTMENT HOTEL KYOTO		34.9956946	135.7654320	hotel				
+node	13955686219	ともり	TOMORI	34.9922622	135.7659427	hotel				
+node	13955686220		visit Kyoto	34.9928013	135.7659399	hotel				
+node	13977379103	REST COLLECTION Jingu Nijo Kyoto		35.0143960	135.7752014	hotel				
+node	14061142701	ホップイン京都四条大宮	Hop Inn Kyoto Shijo Omiya	35.0037123	135.7464577	hotel				https://www.hopinnhotel.com/our-hotels/hop-inn-kyoto-shijo-omiya
+node	14102267178	京の宿 清水 想		34.9981186	135.7782480	hotel				
+node	14114111631	MIMARU		35.0069429	135.7520763	hotel				
+node	14124844131			35.0178219	135.7478551	hostel				
+node	14156715326	THE HOTEL HIGASHIYAMA		35.0089250	135.7837859	hotel				
+node	14158776601	Premium Apartment Monday Goji		34.9962781	135.7643690	hotel				
+node	14196400742	東横イン	Toyoko Inn	35.0038262	135.7607228	hotel		東横イン		
+node	14218821433	ホテルグランバッハ京都セレクト		35.0034472	135.7658350	hotel				
+node	14253895458	ホテルウィングインターナショナル　プレミアム京都三条	KOKO HOTEL Kyoto Sanyo	35.0100027	135.7758965	hotel		KOKO HOTELS		https://www.koko-hotels.com/kyoto_sanjo/
+node	14280256884	住 京都小川生薬 Villa		35.0124513	135.7534908	hotel				
+way	99523789	グリーンリッチホテル	Green Rich Hotel	34.9796836	135.7563202	hotel				https://greenrichhotels.jp/kyoto/
+way	100142003	花園会館	Hanazono Kaikan	35.0213016	135.7220360	hotel				
+way	105022872	Hotel Gimmond	Hotel Gimmond	35.0104932	135.7622473	hotel				
+way	105022873	三井ガーデンホテル京都三条	Mitsui Garden Hotel Kyoto Sanjo	35.0080872	135.7587211	hotel				
+way	105022875	Hotel Monterey Kyoto		35.0077571	135.7592281	hotel				
+way	120374257	京都タワーホテル	Kyoto Tower Hotel	34.9875208	135.7593251	hotel	4		京阪ホテルズ&リゾーツ	
+way	162566055	ベッセルホテルカンパーナ京都五条	Vessel Hotel Campana Kyoto Gojo	34.9958862	135.7612790	hotel				
+way	162699013	The One Five Kyoto Shijo		35.0038484	135.7513939	hotel				
+way	177456128	Nishiyama Ryokan		35.0130903	135.7662572	hotel				https://www.ryokan-kyoto.com/
+way	188463109	APAホテル京都駅前中央口		34.9879475	135.7608619	hotel				
+way	188463132	Hotel Tetora		34.9830080	135.7535028	hotel				
+way	188463208	Kyoto Tower Hotel Annex		34.9880887	135.7565532	hotel				https://www.kyoto-towerhotel-annex.jp/
+way	190894783	京都トラベラーズイン (Kyoto Travellers Inn)	Kyoto Travellers Inn	35.0116263	135.7839694	hotel				https://www.k-travelersinn.com/
+way	191034989	京都 梅小路 花伝抄	La Vista	34.9885795	135.7425265	hotel		dormy hotels & resorts		https://dormy-hotels.com/resort/hotels/umekoji_kadensho/
+way	191036292	ホテル Emion 京都		34.9894598	135.7423199	hotel				
+way	205418513	Budget Inn Kyoto		34.9886435	135.7536985	hotel			Tourclub Co. Ltd.	http://www.budgetinnjp.com/
+way	205418526			34.9879281	135.7612271	hotel				
+way	205418613	New Ginkaku Inn		34.9888273	135.7608598	hotel				
+way	205418661	旅館 京舞イン	Machiya Inns & Hotels	34.9870819	135.7618509	hotel				
+way	205732363	MIMARU SUITES 京都四条	MIMARU SUITES KYOTO SHIJO	34.9998293	135.7600924	hotel	4			https://mimaruhotels.com/en/hotel/suites-kyoto-shijo
+way	205732410	Kyoto ITOYA		34.9991287	135.7593889	hotel				http://itoyahotel.com/
+way	205732464	sequence Kyoto Gojo		34.9979469	135.7594395	hotel				https://www.sequencehotels.com/kyoto-gojo/
+way	205732519	Karasuma Kyoto Hotel		35.0018725	135.7592114	hotel		Kyoto Hotel		https://www.hotel.kyoto/karasuma/
+way	205732523	Daiwa Roynet Hotel Kyoto Shijo Karasuma		35.0008696	135.7600359	hotel				
+way	205732542	Hilton Garden Inn Kyoto Shijo Karasuma		34.9985719	135.7600640	hotel	3	Hilton Garden Inn	Hilton	https://www.hilton.com/en/hotels/itmkygi-hilton-garden-inn-kyoto-shijo-karasuma/
+way	205741168	RESI STAY Gojozaka	RESI STAY Gojozaka	34.9943140	135.7739338	hotel				https://resistay.jp/
+way	205741264	ホテルアベスト グランデ京都清水	Hotel ABEST Grande Kyoto Kiyomizu	34.9951956	135.7690070	hostel				
+way	205741372	ホテル エスノグラフィー清水五条		34.9918544	135.7741886	hotel				
+way	205748844	ホーム・ステイ・椛 四条 京都	Homm Stay Nagi Shijo Kyoto	35.0040760	135.7538271	hotel	4		banyangroup	https://www.hommhotels.com/hotels/homm-stay-nagi-shijo-kyoto
+way	205748961	ホテルエムズエスト四条烏丸	Hotel M's Est Shijo Karasuma	35.0032704	135.7613161	hotel				
+way	205749090	Comfort INN		35.0048040	135.7575102	hotel				
+way	205862708	京都ホテルオークラ	Hotel Okura Kyoto	35.0116890	135.7694834	hotel	5	Okura Hotels & Resorts		https://www.okura-nikko.com/japan/kyoto/hotel-okura-kyoto/
+way	205862760	ロテル･デ･フルール京極		35.0081796	135.7680171	hotel				
+way	205862942	CROSS HOTEL KYOTO		35.0082055	135.7696681	hotel		ORIX HOTELS & RESORTS (オリックス ホテルズ＆リゾーツ)		https://go-ohr.reservation.jp/en/hotels/ohr-xkyoto
+way	205863184	Hilton Kyoto		35.0099586	135.7694858	hotel	5	Hilton	Hilton	https://www.hilton.com/en/hotels/itmhihi-hilton-kyoto/
+way	205878149	御所西京都平安ホテル		35.0243727	135.7587936	hotel				
+way	256443652	俵屋旅館	Tawaraya Ryokan	35.0101680	135.7659408	hotel				https://the-tawaraya.jp/
+way	256613945	旅館京の宿石原 (Ryokan Kyō no yado Ishihara)		35.0099856	135.7641859	hotel				
+way	258764957	リノホテル		35.0026759	135.7316789	hotel				
+way	260544704	鈴　五条壬生川東		34.9941500	135.7463219	hotel				
+way	262533641	ホテルビスタプレミオ京都［河原町通］	Hotel Vista Premio Kyoto Kawaramachi St.	35.0078567	135.7681246	hotel	3			https://kyoto-kawaramachi.hotel-vista.jp/
+way	262820178	Comfort Suites	Comfort Hotel ERA Kyoto Toji	34.9791110	135.7528823	hotel		Comfort Suites		
+way	268192643	ANAクラウンプラザホテル京都	ANA Crowne Plaza Kyoto	35.0126841	135.7527569	hotel	4			https://www.anacpkyoto.com/
+way	268192645	Hotel The Mitsui Kyoto		35.0132657	135.7527558	hotel			"Mitsui Fudosan Resort Management Co., Ltd."	https://www.hotelthemitsui.com/ja/kyoto/
+way	273248217	Terrace Kiyomizu Kyoto		34.9950034	135.7773943	hotel				
+way	273254465	The Royal Park Canvas - Kyoto Nijo		35.0107078	135.7431151	hotel				https://www.royalparkhotels.co.jp/canvas/kyotonijo/
+way	275176292	The Hotel Seiryu Kyoto Kiyomizu		34.9974567	135.7794629	hotel			"Prince Hotels, Inc."	https://www.seiryukiyomizu.com/
+way	275176312	アパホテル	APA Hotel Gion	35.0035163	135.7761660	hotel		アパホテル		
+way	288051617	桜庵	the b Kyoto Sanjo	35.0095701	135.7752092	hotel				
+way	288051661	ドミトリー•三条		35.0095011	135.7744232	hotel				
+way	288051802	ルーマプラザ		35.0035863	135.7742389	hotel				
+way	288479800	Rinn Niomon（鈴ホテル 仁王門）		35.0116793	135.7779711	hotel				https://rinn-kyomachi.com/en/list/rinn-niomon/
+way	288574539	ホテルオークラ京都 岡崎別邸	Hotel Okura Kyoto Okazaki Bettei	35.0169726	135.7879791	hotel	4	オークラニッコーホテルズ		https://okazakibettei.hotelokurakyoto.com
+way	288730427	Minn Sanjo		35.0096307	135.7758905	hotel				
+way	289028537	京都花ホテル	HANA HOTEL	35.0096153	135.7750585	hotel				
+way	289633032	FUFU Kyoto		35.0114580	135.7860607	hotel				
+way	290087122	京料理とお庭の宿 八千代	Garden Ryokan Yachiyo	35.0110003	135.7888463	hotel				https://kyoto-ryokan.co.jp/
+way	291541709	HOTEL MASTAY　神宮道		35.0095789	135.7830526	hotel				
+way	292177634	南禅会館	Nanzen Building	35.0114969	135.7907619	hotel				
+way	292303567	Rinn Shirakawa South (鈴ホテル 白川南)		35.0083136	135.7793567	hotel				https://rinn-kyomachi.com/en/list/rinn-shirakawa-south/
+way	292363976	ゲストハウス 雅順		35.0091764	135.7833259	hostel				
+way	292368458	Hotel Material		35.0096498	135.7845880	hotel				
+way	292368527	旅館せいしん庵		35.0098589	135.7849895	hotel				
+way	292409976	Capsule Ryokan Kyoto		34.9890237	135.7536603	hotel			Tour Club Co.Ltd	
+way	338084370	Four Seasons Hotel		34.9908114	135.7758910	hotel		Four Seasons		
+way	356052332	鶴清		34.9967693	135.7678145	hotel				
+way	356609942		Hotel Sunday Brunch	35.0003017	135.7764220	hotel				
+way	356686437	Rinn Gion Kenninji (鈴ホテル 祇園建仁寺)		35.0011873	135.7726713	hotel				https://rinn-kyomachi.com/en/list/rinn-gion-kenninji/
+way	357496941	ホテルささりんどう	Sasarindo Kyoto Hotel	35.0032278	135.7737249	hotel				
+way	369477822	Hearton Hotel Kyoto		35.0118256	135.7606880	hotel				
+way	370673879	鈴　夷之町		34.9933572	135.7619278	hotel				
+way	370684022	ホテル・アンドルームス	Hotel Androoms	34.9889855	135.7571848	hotel				
+way	419205774	バンヤンツリー・東山 京都	Banyan Tree Higashiyama Kyoto	34.9984159	135.7833439	hotel	5			https://www.banyantree.com/japan/kyoto
+way	425662558	京都 一円相ゲストハウス	Kyoto IchiEnSou Guest House	35.0031515	135.7732945	hostel				http://www.ichiensou.com/
+way	456122938	和順会館	Chion-In Wajun-Kaikan	35.0045792	135.7803718	hotel				
+way	456808766	Caesar Gion Kyoto		34.9982923	135.7760304	hotel			Caesar Park Hotels & Resorts	https://www.caesarpark.com.tw/en/location-detail/56/
+way	457365863	ホテル ザ セレスティン京都祇園	The Celestine Hotel Gion	34.9985143	135.7736963	hotel	5			https://go-gardenhotels.reservation.jp/en/hotels/cel001
+way	457365875	Rinn Kitagomon(鈴 ホテル 北御門)		34.9982740	135.7715204	hotel				https://rinn-kyomachi.com/en/list/rinn-kitagomon/
+way	460866617	ゲストハウスキョウト	Guest House Kyoto	34.9881993	135.7502120	hotel				
+way	463026859	insomnia KYOTO OIKE	insomnia KYOTO OIKE	35.0114028	135.7581866	hotel	3			https://www.inso-mnia.com/kyoto
+way	471649118	三交イン 京都八条口	Sanco-Inn Kyotohachijoguchi	34.9837013	135.7589144	hotel				
+way	471649133	ダイワロイネットホテル京都八条口	Daiwa Roynet Hotel	34.9816328	135.7600087	hotel				https://www.daiwaroynet.jp/kyoto-hachi/
+way	483500486	Rinn Gion Kenninji Villa（鈴ホテル 祇園建仁寺別邸）		35.0013137	135.7727038	hotel				https://rinn-kyomachi.com/list/rinn-gion-kenninji-villa/
+way	507684934	Rinn Kamiebisu		34.9864137	135.7506092	hotel		鈴ホテル		https://rinn-kyomachi.com/en/list/rinn-kamiebisu/
+way	509639269	ホリデイ・イン京都五条	Holiday Inn Kyoto Gojo by IHG	34.9966669	135.7575858	hotel	4			https://www.ihg.com/holidayinn/hotels/us/en/kyoto/ukygo/hoteldetail
+way	528208308	鈴 九条藤ノ木 西 (Rinn Kujo Fujinoki West)		34.9838431	135.7508961	hotel				西九条藤ノ木町
+way	531132903	鈴　梅小路		34.9851113	135.7499621	hotel				
+way	531132915	Rinn Kyoto Station West（鈴ホテル 京都駅西）		34.9849404	135.7505523	hotel				https://rinn-kyomachi.com/en/list/rinn-kyoto-station-west/
+way	534193871	ソウ		35.0023590	135.7771556	hotel				
+way	534193972	Hotel 侑楽 京八坂		35.0016597	135.7813200	hotel				
+way	534587129	御宿 野乃 京都七条	Onyado Nono Kyoto Shichijo	34.9886535	135.7623610	hotel		御宿 野乃	共立メンテナンス	
+way	536519481	Rinn Kyoto Station（鈴ホテル 京都駅前）		34.9873730	135.7539817	hotel				https://rinn-kyomachi.com/en/list/rinn-kyoto-station-3/
+way	537432083	ホテルエクセレンス円町駅前		35.0183554	135.7324690	hotel				
+way	538631630			35.0167415	135.7536662	hotel				
+way	538858927	AKARI二条城		35.0163259	135.7524878	hotel				
+way	541458044	Kabin Minamiza		35.0030131	135.7727288	hotel				https://kabinhotel.xyz/kabin/minamiza/
+way	542246341	鈴 京都宮川筋 hitotose 穐 -Aki-		35.0000326	135.7710987	hotel				https://rinn-kyomachi.com/en/list/hitotose-aki/
+way	542246377	Rinn Miyagawacho Grande (鈴ホテル 宮川町グランデ)		35.0006821	135.7713958	hotel				https://rinn-kyomachi.com/en/list/rinn-miyagawacho-grande/
+way	542763979	ホテルレガスタ京都東山三条	LEGASTA Kyoto Higashiyama Sanjo	35.0096998	135.7784385	hotel				https://hotel-legasta.com/higashiyama-sanjo/
+way	543097544	えん		34.9888980	135.7661658	hostel				
+way	543306550	The Westin Miyako Kyoto		35.0084204	135.7879237	hotel		Westin		
+way	543512310	Rinn Kyoto Gion Shinbashi		35.0055224	135.7761468	hotel				
+way	544554781	MARU 和泉屋町		34.9999212	135.7690584	hotel				
+way	544566505	蘇影	SO-EI	34.9943430	135.7715126	hotel				
+way	546339378	京都第一ホテル	Kyoto Dai-ichi Hotel	34.9796677	135.7570420	hotel				
+way	546444755	"Hotel SHE,"		34.9771754	135.7593745	hotel				
+way	546592529	kyoto Riverview House 京楽		34.9984938	135.7683716	hotel				
+way	546830341	Hotel Seiki Kyoto Station		34.9813225	135.7599443	hotel				
+way	548135899	Rinn 四季十楽	Rinn Shiki Juraku	35.0203804	135.7532083	hotel				https://rinn-kyomachi.com/en/list/rinn-shiki-juraku/
+way	548247489	鈴 プレミアム 二条城北（Rinn Premium Nijo Castle North）		35.0174668	135.7474993	hotel				https://rinn-kyomachi.com/en/list/rinn-premium-nijo-castle-north/
+way	548697928	NAZUNA		35.0147132	135.7535293	hotel				
+way	548964230	yoin hotel kyoto gion（余韻ホテル京都祇園）		35.0050204	135.7760226	hotel				https://rinn-kyomachi.com/en/list/yoin-hotel-kyoto-gion/
+way	549102794	Hostel Ginkakujiホステル銀閣寺		35.0270240	135.7912257	hostel			株式会社FUNSQUARE	https://hostelginkakuji.com
+way	550342431	RC HOTEL 京都八坂	RC Hotel Kyoto Yasaka	34.9979632	135.7797182	hotel				https://rchotelkyoto.com
+way	550639257	旅館吉川	Ryokan Yoshikawa	35.0102951	135.7647827	hotel				
+way	550639332	トモヤレジデンスホテル京都 二条高倉	Tomoya Residence Hotel Kyōto Nijō Takakura	35.0138896	135.7620781	hotel				https://www.tomoyaresidencehotel.net/en/
+way	550651114	旅館柊家		35.0103449	135.7654946	hotel				
+way	550668822	炭屋旅館		35.0082261	135.7659093	hotel				
+way	550668869	TSUGU 京都三条 by THE SHARE HOTELS	Tsugu Kyoto Sanjo by THE SHARE HOTELS	35.0087967	135.7638142	hotel				https://www.thesharehotels.com/tsugu/
+way	550678124	Hotel Canata Kyoto		35.0127204	135.7522502	hotel				
+way	562243184	日和ステイ京都鴨川	HIYORI STAY KYOTO KAMOGAWA	34.9925705	135.7682360	hotel				
+way	565250639	鈴 花屋町 朝霧（Rinn Hanayacho Asagiri）		34.9918028	135.7464672	hotel				https://rinn-kyomachi.com/en/list/rinn-hanayacho-asagiri/
+way	565258722	KYOTO PEDAL　cycle hotel		34.9816622	135.7431992	hotel				
+way	565337770	鈴 突抜		34.9921182	135.7487334	hotel				
+way	565465669	グランツケイ京都駅	GLANZKEI Kyoto Station	34.9821711	135.7559275	hotel				https://glanzkei.co.jp/
+way	565472520	京都クリスタルホテルⅢ	Kyoto Crystal Hotel Ⅲ	34.9820773	135.7643965	hostel				
+way	565479974	The Point Kyoto Station South		34.9823666	135.7626292	hotel			+81 75-574-7255	
+way	568614142	鈴 月輪 (Rinn Tsukinowa)		34.9980204	135.7776912	hotel				https://rinn-kyomachi.com/en/list/rinn-tsukinowa-west/
+way	568702305	Hotel Kyoto Sanjo Ohashi		35.0102573	135.7736456	hotel				
+way	569146316	アパホテル京都駅東３０５		34.9878078	135.7615257	hotel				
+way	569146368	旅館　日本館		34.9887284	135.7581588	hotel				
+way	569154973	三井ガーデンホテル京都駅前	Mitsui Garden Hotel Kyoto Station	34.9869004	135.7614113	hotel				https://www.gardenhotels.co.jp/kyoto-station/
+way	569383598	お宿　いしちょう	Oyado Ishicho	35.0157003	135.7702771	hotel				http://www.ishicho.co.jp
+way	569383600	石長　松菊園	Ishicho Shogikuen	35.0153658	135.7701262	hotel				http://www.shogikuen.co.jp
+way	569423559	鈴 プレミアム 飛雲（Rinn Premium Hiun）		34.9902717	135.7561276	hotel				https://rinn-kyomachi.com/en/list/rinn-premium-hiun-3/
+way	569423575	鈴　町家久遠		34.9901288	135.7561441	hotel				https://rinn-kyomachi.com/en/list/kuon-hotel-kyoto-shichijo/
+way	569649036	羽う座 京都五条烏丸		34.9953883	135.7592132	hotel				
+way	569708164	hotel tou nishinotoin kyoto	Hotel Tou Nishinotoin Kyoto	34.9920024	135.7554411	hotel				
+way	569779379	アーバンイン京都 河原町通		34.9922264	135.7645096	hotel				
+way	569913565	鈴 プレミアム 光輝（Rinn Premium Koki）		34.9953432	135.7532458	hotel				https://rinn-kyomachi.com/en/list/rinn-premium-koki-west/
+way	569913668	鈴　西若松		34.9940828	135.7539213	hotel				
+way	569913672	鈴 六条町家		34.9942104	135.7538402	hotel				
+way	570009631	鈴 天神町 (Rinn Tenjincho)		34.9931914	135.7616397	hotel				https://rinn-kyomachi.com/en/list/rinn-tenjincho/
+way	570019923	京宿ロマン館	Kyo-Yado Roman-Kan	34.9937153	135.7560759	hotel				https://www.nagomi-romankan.com
+way	570023026	アクロス京都七条鴨川御苑		34.9894431	135.7656795	hotel				
+way	570023027	WANDER		34.9895330	135.7659410	hotel				
+way	570030671	Kyoto Gojo Villa		34.9943400	135.7669067	hotel				
+way	570030750	Genji Kyoto 源氏京都	Genji Kyoto	34.9933529	135.7668893	hotel				https://genjikyoto.com/
+way	570030859	絆		34.9936363	135.7627911	hostel				
+way	570031230	hotel Bell・Kyoto（ホテルベル京都）		34.9930438	135.7608707	hotel				https://rinn-kyomachi.com/en/list/hotel-bell-kyoto/
+way	571019993	Rinn Gion Shirakawa (鈴ホテル 祇園白川)		35.0061670	135.7726278	hotel				https://rinn-kyomachi.com/en/list/rinn-gion-shirakawa/
+way	571492426	Rinn Gion Hana touro (鈴ホテル 祇園花とうろ)		35.0027235	135.7740539	hotel				https://rinn-kyomachi.com/en/list/rinn-gion-hana-touro/
+way	571492496	グランベルホテル京都		35.0027195	135.7731058	hotel				
+way	571492561	四条河原町温泉 空庭テラス京都 別邸	Soraniwa Terrace Kyoto Bettei	35.0025134	135.7697144	hotel	5			https://shijo-bettei.jp/
+way	575065231	華・陶然居		34.9936821	135.7745364	hotel				
+way	576361411	No.6 Nijyo		35.0108306	135.7466753	hotel				https://no6nijyo.eraten.jp
+way	576361645	Moxy Kyoto		35.0100387	135.7429861	hotel		Moxy		https://www.marriott.com/en-us/hotels/ukyox-moxy-kyoto/
+way	576805857	Hotel Tavinos 京都		34.9963929	135.7663371	hotel				
+way	578067364	Stay SAKURA Kyoto 朱雀大路		35.0076642	135.7428549	hotel				
+way	579840985	ホーム・ステイ・椛 三条 京都	Homm Stay Nagi Sanjo Kyoto	35.0091728	135.7553597	hotel	3			https://www.hommhotels.com/hotels/homm-stay-nagi-sanjo-kyoto
+way	579993878	MIMARU京都 新町三条ANNEX		35.0091644	135.7563971	hostel				
+way	580152339	東横INN京都二条城南	Toyoko Inn	35.0077700	135.7521796	hotel		東横イン		
+way	580917527	ORI Rokkaku		35.0067671	135.7525885	hotel				https://kabinhotel.xyz/ori/rokkaku/
+way	581053977	Rinn Shijo Nishinotoin（鈴ホテル 四条西洞院）		35.0062352	135.7550418	hotel				https://rinn-kyomachi.com/en/list/rinn-shijo-nishinotoin/
+way	581240627	APA GARDEN COURT 烏丸錦		35.0047585	135.7544171	hotel				
+way	581621455	ザ ロイヤルパークホテル 京都三条	The Royal Park Hotel Kyoto Sanjo	35.0090754	135.7694863	hotel				https://www.royalparkhotels.co.jp/en/the/kyotosanjo/
+way	583073741	My K House		34.9996631	135.7683242	hotel				https://mykhouse.kyoto/
+way	583496110	ゲストハウス　亮		35.0083976	135.7370366	hostel				
+way	583871870	アーバンホテル京都		34.9614121	135.7679013	hotel				
+way	585103098	Rakuten STAY		35.0010099	135.7683638	hotel				
+way	585103167	Rakuten STAY URBAN Teramashi		35.0008800	135.7666871	hotel				
+way	585714382	京都旅館平新	Traditional Japanese Ryokan Hirashin Kyoto	35.0059464	135.7615704	hotel				http://www.hirashin.co.jp/
+way	586135659	鈴 四条町家（Rinn Shijo Machiya）		35.0025545	135.7538598	hotel				https://rinn-kyomachi.com/en/list/rinn-shijo-machiya/
+way	586763570	Stay Sakura Kyoto Shijo Karasuma		35.0009249	135.7554182	hotel				https://en.stay-sakura.com/shijokarasuma
+way	586952121	イビススタイルズ京都四条	Ibis Styles Kyōto Shijō	35.0034088	135.7556874	hotel	3	Ibis Styles		
+way	587057457	IMU HOTEL KYOTO	IMU HOTEL KYOTO	35.0012002	135.7568940	hotel				https://imuhotel.jp/en/
+way	587269734	Wayfarer Shin		34.9991223	135.7565217	hotel				https://kabinhotel.xyz/wayfarer/shin/
+way	587270038	MIMARU京都 西洞院高辻	MIMARU KYOTO NISHINOTOIN TAKATSUJI	35.0005553	135.7549087	hotel				https://mimaruhotels.com/en/hotel/nishinotoin-takatsuji
+way	587502198	M's Hotel		34.9975862	135.7577314	hotel				
+way	587502412	R.STAR HOSTEL		34.9979936	135.7583561	hostel				http://rstar-hostel.com
+way	587786333	鈴　万寿寺		34.9975653	135.7541443	hotel				
+way	587947563	KIORI HOTEL 寺町		34.9998626	135.7666893	hotel				
+way	588239984	Gojo-Muromachi Japan Hotel		34.9974017	135.7583527	hotel				
+way	588507663	ザ ブラッサム 京都	The Blossom Kyoto	34.9966068	135.7620773	hotel	4			https://www.jrk-hotels.co.jp/en/Kyoto/
+way	588507722	Garner Hotel Kyoto Shijo Karasuma by IHG		34.9987081	135.7598906	hotel				https://www.ihg.com/garner-hotels/hotels/us/en/kyoto/ukysk/hoteldetail
+way	588661639	ホテルAMANEK京都河原町五条		34.9966971	135.7663558	hotel				
+way	591853608	鈴 プレミアム 風雅 北・南（Rinn Premium Fuga）		35.0186540	135.7420534	hotel				https://rinn-kyomachi.com/list/rinn-premium-fuga-north-south/
+way	595107008	TSUKIMI		35.0014967	135.7784489	hotel				
+way	595547507	鈴 清水ヴィラ (Rinn Kiyomizu Villa)		34.9956503	135.7721099	hotel				https://rinn-kyomachi.com/en/list/rinn-kiyomizu-villa/
+way	597426236	Prince Smart Inn		35.0034481	135.7510199	hotel		Prince Smart Inn		
+way	597859730	Rinn Horikawa Gojo (鈴ホテル 堀川五条)		34.9970553	135.7519516	hotel				https://rinn-kyomachi.com/en/list/rinn-horikawa-gojo/
+way	603902850	東福寺町家 桜と月		34.9785230	135.7708337	hostel				
+way	604286785	瑜・東福寺		34.9792212	135.7698407	hostel				
+way	604286817	お宿　東福寺２		34.9797430	135.7698960	hostel				
+way	604286820	お宿　東福寺		34.9797757	135.7698944	hostel				
+way	657645637	HOTEL MUSSE	Hotel Musse	35.0061107	135.7689355	hotel				
+way	679632462	京都ユウベルホテル		34.9734873	135.7609700	hotel				
+way	701367076	GOOD NATURE STATION		35.0025277	135.7685944	hotel				https://goodnaturestation.com/
+way	720177306	Kyoto Yura Hotel MGallery		35.0089380	135.7739984	hotel		MGallery		https://www.accorhotels.com/gb/hotel-B2Z1-kyoto-sanjo-hotel-mgallery-opening-april-2019/index.shtml
+way	722300346	MAJA HOTEL KYOTO		35.0077939	135.7642255	hostel				https://www.maja-hotel.com/
+way	723332124		Hotel LiVEMAX Kyoto Kamogawae	34.9940220	135.7665341	hotel				
+way	746312661	平岡靴商		34.9467712	135.7582137	hostel				
+way	746312733	HOPE TREE 京都		34.9467167	135.7581465	hostel				
+way	747034056	祇園佐の		35.0018085	135.7793385	hotel				
+way	749134679	京と家　月の湯　別館		34.9483476	135.7670827	hostel				
+way	809963559	ビリケン新葵橋		35.0331731	135.7704724	hostel				
+way	831207344	旅館 からたち		34.9689041	135.7694992	hotel				
+way	832055414	Zen Kyoto Apartment Hotel		34.9580288	135.7573861	hotel				
+way	863416893	MIMARU APARTMENT HOTEL		34.9951650	135.7665502	hotel				
+way	891528957	シックスセンシズ 京都	Six Senses Kyoto	34.9910614	135.7739929	hotel	5	Six Senses		https://www.sixsenses.com/en/hotels-resorts/asia-the-pacific/japan/kyoto/
+way	1021070798	Prince Smart Inn Kyoto Sanjo		35.0094098	135.7666478	hotel		Prince Smart Inn		
+way	1052243689	RESI STAY		34.9951825	135.7599213	hotel		RESIDENTIAL STAYING		https://resistay.jp/
+way	1073305813	The Chapter Kyoto		35.0139961	135.7693270	hotel				https://www.marriott.com/en-us/hotels/osakt-the-chapter-kyoto-a-tribute-portfolio-hotel/overview/
+way	1081802237	都ホテル 京都八条	Miyako Hotel Kyoto Hachijo	34.9836370	135.7558949	hotel				
+way	1081802259	チサン プレミアム 京都九条	Chisun Premium Kyoto Kujo	34.9806182	135.7638573	hostel				
+way	1109594413	安心お宿　京都四条烏丸店		35.0023387	135.7618862	hotel			株式会社ＮＳグループ	
+way	1110224072	ザ・町家えびすや	THE MACHIYA EBISUYA	34.9993998	135.7645283	hotel				https://www.machiya-inn-japan.com/kyoto/ebisuya-machiya/
+way	1110224078	Kabin Kyoto		34.9997238	135.7645430	hotel	4		Kabin	https://kabinhotel.xyz/kabin/kyoto/
+way	1110224105	Kabin Taka		35.0004021	135.7652102	hotel				https://kabinhotel.xyz/kabin/taka/
+way	1110224189	Kabin Koji		35.0003344	135.7645862	hotel			Kabin	https://kabinhotel.xyz/kabin/koji/
+way	1149041612	ホテルリソル 京都 河原町三条	Kyoto Kawaramachi Sanjo	35.0078240	135.7695016	hotel	3			https://en.www.resol-hotel.jp/kyoto-k/
+way	1149049603	リッチモンドホテルプレミア京都四条	Richmond Hotel Premier	35.0041153	135.7543154	hotel				https://richmondhotel.jp/kyoto-shijo/
+way	1150785467	ブリリア京都松ヶ崎		35.0522413	135.7891518	hotel				
+way	1150785469			35.0517025	135.7887630	hotel				
+way	1212061137	ORI Kyoto		35.0020163	135.7534199	hotel				https://kabinhotel.xyz/ori/kyoto/
+way	1214019496	Kabin Machi		35.0019273	135.7657797	hotel			Kabin	https://kabinhotel.xyz/hotel/kabin-kyoto/
+way	1224656741	Gion Misen		35.0064100	135.7731379	hotel				
+way	1224707010	ラ・ジェント・ホテル京都二条	La'gent Hotel Kyoto Nijo	35.0160357	135.7428000	hotel		La'gent		https://lagent.jp/kyotonijo/
+way	1238883842	HOTEL ARU KYOTO 三条木屋町通り		35.0085738	135.7700629	hotel				
+way	1238987842	鈴 プレミアム 薫風（Rinn Premium Kunpu）		34.9918093	135.7535993	hotel				https://rinn-kyomachi.com/en/list/rinn-premium-kunpu/
+way	1238988673	鈴 プレミアム 八重（Rinn Premium Yae）		34.9938412	135.7542836	hotel				https://rinn-kyomachi.com/en/list/rinn-premium-yae/
+way	1239013498	鈴 宮川町 椿 (Rinn Miyagawacho Tsubaki)		34.9979770	135.7700565	hotel				https://rinn-kyomachi.com/en/list/rinn-miyagawa-cho-tsubaki/
+way	1239022990	鈴 祇園八坂前 (Rinn Gion Yasakamae)		35.0053111	135.7773014	hotel				https://rinn-kyomachi.com/location/rinn_gionyasakamae/
+way	1239029684	鈴 九条藤ノ木 中 (Rinn Kujo Fujinoki Central)		34.9838644	135.7510184	hotel				https://rinn-kyomachi.com/en/list/rinn-kujo-fujinoki-naka/
+way	1239035552	鈴 万里小路（Rinn Marikoji）		35.0011380	135.7639174	hotel				https://rinn-kyomachi.com/en/list/rinn-marikoji/
+way	1265057634	三井ガーデンホテル京都河原町浄教寺		35.0029289	135.7672290	hotel				
+way	1266710842	サンライズ スイーツ	Sunrise Suites	34.9789893	135.7489740	hotel				
+way	1282412101	DoubleTree by Hilton Kyoto Station		34.9839762	135.7628960	hotel	4	DoubleTree	Hilton	https://www.hilton.com/en/hotels/itmksdi-doubletree-kyoto-station
+way	1289857191	Wayfarer Gojo		34.9968911	135.7656663	hotel				https://kabinhotel.xyz/wayfarer/gojo/
+way	1294925517	Wayfarer Kyoto Shijo		35.0010450	135.7550442	hotel				https://kabinhotel.xyz/wayfarer/kyoto-shijo/
+way	1318120702	ABホテル 京都四条堀川		35.0040505	135.7524989	hotel				
+way	1334754342	アビタホテル　京都　鴨川		34.9919426	135.7681276	hotel				
+way	1353102592	ステイサクラ 京都二条四季		35.0183071	135.7385067	hotel				
+way	1393351797	HOTEL 宇多野京都別墅		35.0248492	135.7093323	hotel			ホテルニューアワジ	https://www.hotel-utanokyoto.com/
+way	1394513220	京都ユウベルホテル		34.9735664	135.7608436	hotel				
+way	1394513221	京都ユウベルホテル	Kyoto U-BELL Hotel	34.9736003	135.7612788	hotel				https://kyoto-ublhotel.jp/
+way	1409360683	HOTEL KANSO		34.9794275	135.7665071	hotel				
+way	1436351143	京都 御室 花伝抄		35.0278066	135.7130861	hotel		共立リゾート	共立メンテナンス	https://dormy-hotels.com/resort/hotels/omuro_kadensho/
+way	1437128159	アリストンホテル京都十条		34.9705399	135.7607767	hotel				
+way	1458173192	K's House Kyoto		34.9898364	135.7648986	hostel				
+way	1473536338	ゲストハウス 弁慶		34.9929579	135.7642795	hostel				
+way	1474894084	ヴィラ三条室町・京都	Villa Sanjo Muromachi Kyoto	35.0090603	135.7578284	hotel	4			https://sanjo-muromachi.net/en
+way	1474897972	ホテルリングス京都	Hotel Rings Kyoto	35.0065075	135.7634488	hotel				https://www.hotel-rings.com/
+way	1495069534	Minn 烏丸五条		34.9934468	135.7620518	hotel				
+way	1525978375			34.9874284	135.7545242	hotel				
+relation	4731197	懐石近又 (Kaiseki Kinmata)		35.0047393	135.7661531	hotel				
+relation	7100575	ザ・リッツ・カールトン京都	The Ritz Carlton Kyoto	35.0138830	135.7708526	hotel	5			https://www.ritzcarlton.com/en/hotels/ukyrz-the-ritz-carlton-kyoto/overview/
+relation	16999490	ソラリア西鉄ホテル 京都プレミア 三条鴨川	Solaria Nishitetsu Hotel Kyoto Premier Sanjo Kamogawa	35.0105693	135.7709159	hotel				https://solaria-kyoto.nnr-h.com/
+relation	20173275		Hotel Resol Trinity Kyoto Oikefuyacho	35.0116914	135.7660753	hotel	3			https://go-resol-hotel.reservation.jp/en/hotels/trinity-kyoto
+relation	20184025	Nazuna 京都 御所	Nazuna Kyoto Gosho Ryokan	35.0159053	135.7570919	hotel				https://www.nazuna.co/property/nazuna-kyoto-gosho/
+relation	20184120	三井ガーデンホテル京都三条プレミア	Mitsui Garden Hotel Kyoto Sanjo Premier	35.0082631	135.7620032	hotel	5			https://www.gardenhotels.co.jp/kyoto-sanjo-premier
+relation	20184203	デュシタニ 京都	Dusit Thani Kyoto	34.9918955	135.7548157	hotel	5	Dusit Thani		

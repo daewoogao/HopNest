@@ -1,0 +1,122 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	1846251586			22.1934277	113.5353647	hotel				
+node	2390671455	Ole Tai Sam Un		22.1951033	113.5374059	hotel				
+node	2850219537	San Va Hospedaria		22.1945473	113.5373865	hotel				https://www.sanvahotel.com/
+node	3212331564	澳門十六浦索菲特酒店 Hotel Sofitel Macau De Ponte 16	Sofitel Macau At Ponte 16	22.1976264	113.5360570	hotel	5			http://www.sofitel.com
+node	4258605392	假期酒店 Hotel Holiday	Hotel Holiday	22.1976069	113.5436442	hostel				
+node	4537841150	澳門之家 Home of Macau	Home of Macau	22.1934626	113.5363434	hotel		UNG	Honolulu THS Enterprises Limited	http://www.unghotel.com
+node	5034997925	澳門麗思卡爾頓酒店 The Ritz-Carlton Macau	The Ritz-Carlton Macau	22.1464061	113.5544439	hotel		The Ritz-Carlton		
+node	5847660385	嘉明別墅	Villa Ka Meng	22.1961710	113.5377001	hotel				
+node	6132786085	Vila Universal		22.1948774	113.5373273	hotel				
+node	6994218476	澳門JW萬豪酒店 Hotel JW Marriott Macau	JW Marriott Hotel Macau	22.1467262	113.5555382	hotel		JW Marriott		
+node	8246624290	御匾峰 Estúdios Paiza	Paiza Lofts	22.1430525	113.5603820	hotel				
+node	8246624291	澳門大倉酒店 Hotel Okura Macau	Hotel Okura Macau	22.1493080	113.5523193	hotel		Hotel Okura		
+node	8246624292	澳門悅榕莊 Banyan Tree Macau	Banyan Tree Macau	22.1484385	113.5528182	hotel		Banyan Tree		
+node	9002870538	葡京人酒店 Lisboeta Hotel	Lisboeta Hotel	22.1405828	113.5728037	hotel				
+node	9002870539	澳門范思哲酒店 Palazzo Versace Macau	Palazzo Versace Macau	22.1435878	113.5730588	hotel				
+node	9546592380	LINE FRIENDS Presents Casa de Amigo	LINE FRIENDS Presents Casa de Amigo	22.1410046	113.5732096	hotel		LINE FRIENDS		
+node	9546592381	Maison L’OCCITANE	Maison L’OCCITANE	22.1413807	113.5727780	hotel		L’OCCITANE		
+node	9546592382	THE KARL LAGERFELD	THE KARL LAGERFELD	22.1439120	113.5748874	hotel				
+node	9623350150	倫敦人御園	Londoner Court	22.1474991	113.5657341	hotel				https://hk.londonermacao.com/
+node	9926505208	希尔顿逸林酒店		22.1375936	113.5402760	hotel		希尔顿		
+node	10083939677	澳門理工大學南岸宿舍 Residência Nam Ngon de Universidade Politécnica de Macau	Nam Ngon Hostel of Macao Polytechnic University	22.1906429	113.5530901	hostel			澳門理工大學	
+node	10083939678	澳門理工大學南方宿舍 Residência Nam Fong de Universidade Politécnica de Macau	Nam Fong Hostel of Macao Polytechnic University	22.1930568	113.5526126	hostel			澳門理工大學	
+node	10083939679	明德樓宿舍 Residência Edifício Meng Tak	Meng Tak Building Hostel	22.1942129	113.5521379	hostel				
+node	11268400166	澳門城市大學懷情樓宿舍		22.1966766	113.5387209	hostel				
+node	11268400167	澳門城市大學廣成宿舍		22.1953759	113.5370117	hostel			澳門城市大學	
+node	11268419250	澳門理工大學南成宿舍 Residência Nam Seng de Universidade Politécnica de Macau	Nam Seng Hostel of Macao Polytechnic University	22.1926658	113.5481601	hostel				
+node	11268432180	澳門城市大學南園宿舍		22.1924697	113.5502438	hostel			澳門城市大學	
+node	11268432181	澳門城市大學新華邨宿舍		22.1921319	113.5507118	hostel			澳門城市大學	
+node	11281836125	W Hotels	W Hotels Macau - Studio City	22.1419788	113.5602315	hotel		W Hotels		https://www.marriott.com/en-us/hotels/mfmwh-w-macau-studio-city/overview/
+node	11612554765	YOHO金銀島酒店 YOHO Treasure Island Hotel	YOHO Treasure Island Hotel	22.1870282	113.5431535	hotel				
+node	13440036623	澳門上葡京綜合度假村		22.1446368	113.5734163	hotel				
+node	13679896101	葡京酒店		22.1898232	113.5440662	hotel				
+way	164195448	澳門金沙 Sands Macau	Sands Macau	22.1915551	113.5548271	hotel				https://www.sandsmacao.com/
+way	192095878	新濠鋒酒店 Altira	Altira	22.1617365	113.5550311	hotel	5			https://www.altiramacau.com/
+way	192095890	頤居 Nüwa	Nüwa	22.1498117	113.5653267	hotel				
+way	192095893	銀河酒店 Hotel Galáxia	Galaxy Hotel	22.1503679	113.5536395	hotel				
+way	192095896	金皇冠中國大酒店 Hotel China Coroa D'Ouro	Golden Crown China Hotel	22.1588969	113.5740498	hotel	4			https://www.htlchina.com.mo/
+way	192095897	澳門君悅酒店 Grand Hyatt Macau	Grand Hyatt Macau	22.1487195	113.5679425	hotel		Grand Hyatt		
+way	192095900	幻宇 REM Hotel	REM Hotel	22.1484398	113.5660062	hotel				
+way	192095909	皇庭海景酒店 Pousada Marina - Infante	Royal Infante Harbour View Hotel	22.1497031	113.5505050	hotel	4			https://www.pousadamarinainfante.com/
+way	192095910	麗景灣藝術酒店 Regency Art Hotel	Regency Art Hotel	22.1621955	113.5536536	hotel				
+way	192095917	澳門威尼斯人酒店 The Venetian Macao	The Venetian Macao	22.1481832	113.5608823	hotel	5			https://www.venetianmacao.com/
+way	192095964	百老匯酒店 Hotel Broadway	Broadway Hotel	22.1455348	113.5516685	hotel	5			
+way	192096088	L座公寓式酒店 Guest House	Guest House	22.1508232	113.5676196	hotel				
+way	192179908	澳門雅辰酒店 ARTYZEN Grand Lapa Macau	ARTYZEN Grand Lapa Macau	22.1924942	113.5532647	hotel	5			https://www.grandlapa.com/
+way	192179922	澳門文華東方酒店 Mandarin Oriental Macau	Mandarin Oriental Macau	22.1842701	113.5469664	hotel				
+way	192179929	永利 Wynn	Wynn	22.1882912	113.5459435	hotel	5			
+way	192179934	萬利酒店 Encore	Encore	22.1878970	113.5477949	hotel	5			
+way	192179994	澳門凱旋門酒店 Hotel L'arc Macau	L'Arc Hotel Macau	22.1885843	113.5486689	hotel	5			
+way	192182405	新葡京酒店 Hotel Grand Lisboa	Grand Lisboa Hotel	22.1909967	113.5433705	hotel				
+way	192184196	新麗華酒店 Hotel Sintra	Sintra Hotel	22.1910682	113.5414422	hotel				
+way	205784373	新東方置地酒店 New Orient Landmark Hotel		22.1912669	113.5486315	hotel				
+way	205784375	新東方置地酒店 New Orient Landmark Hotel	New Orient Landmark Hotel	22.1912218	113.5485676	hotel				
+way	205784420	華都酒店 Waldo Hotel & Casino		22.1932682	113.5529809	hotel	3			https://www.waldohotel.com/
+way	205784468	富豪酒店 Praça Beverly	Beverly Plaza	22.1910381	113.5457301	hotel				
+way	205784478	總統酒店 Hotel Presidente		22.1903189	113.5469298	hotel				
+way	205784481	帝濠酒店 Emperor Hotel Macau	Emperor Hotel Macau	22.1910327	113.5479769	hotel				
+way	205784511	澳門假日酒店 Holiday Inn Macau	Holiday Inn Macau	22.1913608	113.5473971	hotel		Holiday Inn		
+way	206823868	十六浦綜合娛樂度假村 Ponte 16	Ponte 16 Resort Macau	22.1971983	113.5359496	hotel				https://www.ponte16.com.mo/
+way	229205169	鷺環海天度假酒店	"Grand Coloane Resort , Macau Golf & Country Club"	22.1259016	113.5771581	hotel	5S			https://www.grandcoloane.com/
+way	231345559	濠璟酒店 Riviera Hotel Macau	Riviera Hotel Macau	22.1862055	113.5353349	hotel	3			https://riviera-macau.hotel-rn.com/
+way	279991094	新新酒店 Hotel Sun Sun	Sun Sun Hotel	22.1937589	113.5361308	hotel	3			
+way	279991100	京悅賓館 Keng Iut Pensão		22.1936469	113.5363512	hotel	2	22.9		
+way	279991106	英京酒店 Hotel London	London Hotel	22.1936826	113.5362785	hotel	2			http://www.olelondonhotel.com/
+way	289598406	聚賢樓 Pousada da Universidade de Macau (N1)	UM Guest House (N1)	22.1336945	113.5455373	hotel				https://srs.sao.um.edu.mo/um-guest-house/
+way	305388012	皇家金堡酒店 Casa Real Hotel	Casa Real Hotel	22.1967194	113.5536869	hotel	4			https://www.casarealhotel.com.mo/
+way	314945808	"海運商業中心,萬事發酒店 Centro Comercial Oceano, Macau Masters Hotel"		22.1948810	113.5356901	hotel	2			http://www.mastershotel-macau.com/
+way	315140065	藝舍 Hotels		22.1938250	113.5359931	hotel	3			
+way	315140076	濠江酒店 Hotel Hou Kong	Hou Kong Hotel	22.1949993	113.5363125	hotel	2			
+way	322859468	住宿教學樓 Educational Residence	Educational Residence	22.1643175	113.5565967	hotel			澳門旅遊大學 Universidade de Turismo de Macau	https://www.eresidence.utm.edu.mo/
+way	327578499	勵庭海景酒店 Harbourview Hotel	Harbourview Hotel	22.1907680	113.5561007	hotel	4			http://www.harbourviewhotelmacau.com/
+way	331222106	君怡酒店 Grandview Hotel		22.1572117	113.5520444	hotel				http://www.grandview-hotel.com/
+way	331222111	駿龍酒店 Hotel Grande Dragão		22.1576288	113.5508799	hotel				www.taipasquare.com.mo
+way	331666137	澳門盛世酒店 Hotel Inn Macau	Inn Hotel Macau	22.1565972	113.5604022	hotel	3			http://www.hoteltaipa.com/
+way	334639367	金寶來酒店 Hotel Tesouro	Treasure Hotel	22.1579578	113.5735593	hotel				
+way	335249717	智選假日酒店 Holiday Inn Express	Holiday Inn Express	22.1924391	113.5477878	hotel		Holiday Inn Express		
+way	346900297	英皇娛樂酒店 Grand Emperor Hotel	Grand Emperor Hotel	22.1905619	113.5408649	hotel	3			https://www.grandemperor.com/
+way	347053205	東望洋酒店 Hotel Guia	Hotel Guia	22.1959113	113.5485609	hotel	3			https://www.hotelguiamacau.com/
+way	347053229	金灣賓館 Praia Dourada		22.1907372	113.5450867	hotel	2			
+way	347579912	望廈迎賓館 Pousada de Mong-Há		22.2065272	113.5489306	hotel				http://www.ift.edu.mo/EN/Pousada/Home/Index/240
+way	347579947	澳門城悅酒店 City Viva Hotel (Macau)	City Viva Hotel (Macau)	22.1930623	113.5520009	hotel	3			http://www.macaulkf.com/
+way	347579966	維多利亞酒店 The Victoria Hotel	The Victoria Hotel	22.2100212	113.5486109	hotel	3			https://www.mo-victoria.com/
+way	376509793	澳門雅詩閣 Ascott Macau	Ascott Macau	22.1869956	113.5492856	hotel	4			https://www.the-ascott.com/en/china/macau/ascott_macau.html
+way	378286618	"澳門康萊德酒店，澳門倫敦人酒店 Conrad Hotel Macao, The Londoner Hotel"	"Conrad Hotel Macao, The Londoner Hotel"	22.1463386	113.5654921	hotel	4			https://hk.londonermacao.com/
+way	378286619	倫敦人名匯邦德樓2 Londoner Grand Bond (Tower 2)	Londoner Grand Bond (Tower 2)	22.1441878	113.5655900	hotel	5	喜來登 Sheraton		https://hk.londonermacao.com/
+way	378286620	"御匾名匯，倫敦人名匯貝凱樓1 Paiza Grand, Londoner Grand Baker (Tower I)"	"Paiza Grand, Londoner Grand Baker (Tower I)"	22.1453582	113.5654494	hotel	5	Conrad		https://www.hilton.com/en/hotels/mfmcsci-conrad-macao/
+way	380360822	利澳酒店 Rio Hotel	Rio Hotel	22.1928359	113.5498767	hotel				
+way	389178768	新濠影匯酒店 Hotel Studio City	Studio City Hotel	22.1410088	113.5622611	hotel				
+way	391316016	京都酒店 Hotel Metrópole	Metropole Hotel	22.1922655	113.5402830	hotel				
+way	397915628	新中央酒店 Hotel Central		22.1941974	113.5391003	hotel	2			
+way	398850672			22.1966059	113.5367763	hotel	2			
+way	398850678	國際酒店 Grande Hotel	Grande Hotel	22.1963988	113.5366892	hotel				
+way	398850719	東亞酒店 East Asia Hotel	East Asia Hotel	22.1965170	113.5373581	hotel	2			
+way	406013571	港灣大酒店 Hotel Porto Grande	Grand Harbour Hotel	22.2026771	113.5376673	hotel	3			
+way	422413329	星際酒店 Starworld Hotel	Starworld Hotel	22.1897422	113.5480516	hotel	5			https://www.starworldmacau.com/
+way	424248204	四季名薈 Grande Suítes do Four Seasons	The Grand Suites at Four Seasons	22.1463761	113.5618527	hotel		Four Seasons		
+way	424248227	澳門四季酒店 Four Seasons Hotel Macau	Four Seasons Hotel Macau	22.1455111	113.5617719	hotel	5	Four Seasons		https://www.fourseasons.com/macau
+way	427420964	澳門維景酒店 Metropark Hotel Macau		22.1922203	113.5482885	hotel				
+way	441917249	永利皇宮酒店 Wynn Palace Hotel	Wynn Palace Hotel	22.1476788	113.5712028	hotel	5		Wynn	http://www.wynnpalace.com/
+way	442462676	澳門巴黎人酒店 O Parisiense Macau  Hotel	The Parisian Macao Hotel	22.1436909	113.5607362	hotel	3			
+way	442794468	"澳門瑞吉酒店，倫敦人御園 St. Regis Macao, Londoner Court"	The St. Regis Macao	22.1475409	113.5656376	hotel	5			https://hk.londonermacao.com/
+way	461397706	富華粵海酒店 Fu Hua Guang Dong Hotel	Fu Hua Guang Dong Hotel	22.2024222	113.5469652	hotel				
+way	484946408	聖地牙哥古堡酒店 Pousada de São Tiago		22.1826846	113.5307132	hotel				
+way	489433326	新金門賓館 Pensão New Golden Gate		22.2047605	113.5469682	hotel				
+way	490712175	富城賓館 Pension Forson		22.1960808	113.5367599	hotel				
+way	514463209	卡爾酒店 Hotel Caravel		22.1980304	113.5372842	hotel				
+way	541654963	YOHO荷里活羅斯福酒店 YOHO Hollywood Roosevelt	YOHO Hollywood Roosevelt	22.1551503	113.5436840	hotel	5			https://themacauroosevelt.com/
+way	596591805	怡富酒店 I Fu Hotel		22.1974150	113.5371789	hotel				
+way	605485397	澳門美高梅 MGM Macau	MGM Macau	22.1855807	113.5482995	hotel				
+way	609387455	摩珀斯酒店 Morpheus Hotel	Morpheus Hotel	22.1498342	113.5665882	hotel				
+way	657879731	"新東方商務賓館(南座) Penso Comercial Pensão Comercial, Ala Sul"		22.1956501	113.5375631	hotel				
+way	667429625	澳門金沙酒店 Sands Macao Hotel	Sands Macao Hotel	22.1907736	113.5553168	hotel				
+way	747484368	美獅美高梅 MGM Cotai	MGM Cotai	22.1451400	113.5682236	hotel				
+way	999617567	君樂皇府公寓式酒店 Hotel-Apartamento Marina Fantasma	Phantom Apartment Hotel	22.1490249	113.5508355	hotel				
+way	999617568	英倫遊艇會酒店 Hotel Marina Clube de Inglaterra	England Marina Club Hotel	22.1489720	113.5503055	hotel				
+way	1136872236	澳門銀河萊佛士	Raffles at Galaxy Macau	22.1489514	113.5551626	hotel		萊佛士		https://www.galaxymacau.com/zh-hant/hotels/raffles-galaxy-macau/
+way	1190152649	新東方商務賓館(北座) Ala Norte da Pensão Comercial San Tung Fong		22.1958929	113.5373094	hotel				
+way	1209273741	澳門安達仕酒店	Andaz Macau	22.1452699	113.5569220	hotel				https://www.galaxymacau.com/zh-hant/hotels/andaz-macau/
+way	1249374776			22.1872101	113.5428479	hotel				
+relation	9857449	御龍酒店 Royal Dragon Hotel	Royal Dragon Hotel	22.1934454	113.5502225	hotel				
+relation	10387812	海立方娛樂場	Casino Oceanus	22.1968924	113.5557348	hotel				https://www.oceanus-macau.com/

@@ -1,0 +1,213 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	135571850	West County Hotel		53.3514644	-6.3559151	hotel				https://www.westcountyhotel.ie/
+node	249430780	Clifton Court Hotel		53.3480011	-6.2579869	hotel				
+node	278857697	Avalon House		53.3395516	-6.2663430	hostel				
+node	284164035	Clayton Hotel	Clayton Hotel	53.3256584	-6.2249092	hotel			Dalata	
+node	339209506	Cliff Town House		53.3392400	-6.2571721	hotel				https://cliff.ie/clifftownhouse/
+node	366363184	The Westbury Hotel		53.3414135	-6.2615173	hotel	5			https://www.doylecollection.com/hotels/the-westbury-hotel
+node	416470365	Times Hostel		53.3354420	-6.2645588	hostel				
+node	471861768	Ashling Hotel	Ashling Hotel	53.3480605	-6.2909033	hotel				https://www.ashlinghotel.ie/
+node	475352446	Hampton Hotel		53.3258072	-6.2428691	hotel	4			https://www.hamptonhotel.ie/
+node	638382332	Drury Court Hotel		53.3412375	-6.2644824	hotel	3			http://www.drurycourthotel.com/
+node	665527437	Morehampton Townhouse		53.3252487	-6.2405140	hotel				https://www.morehamptontownhouse.com/
+node	702796902	The Spencer		53.3478944	-6.2432261	hotel			Fitzpatrick Hotels	https://www.thespencerhotel.com/
+node	739756781	Camden Street Hotel		53.3360839	-6.2654717	hotel				https://www.camdenstreethotel.com
+node	739798511	Camden Court Hotel		53.3333305	-6.2648274	hotel				https://www.camdencourthotel.com/
+node	791435842	Charleville Lodge		53.3591782	-6.2798550	hotel				https://charlevillelodge.ie/
+node	914052282	Russell Court Hotel		53.3359730	-6.2635504	hotel				https://www.russellcourthotel.ie/
+node	975221972	Trinity Lodge		53.3420570	-6.2567590	hotel				https://www.trinitylodge.com/
+node	1100112521	Wellington Hotel		53.3456093	-6.2648760	hotel				
+node	1308975830	Travelodge Rathmines		53.3250640	-6.2648471	hotel		Travelodge	Travelodge	https://www.travelodge.ie/hotels/286/Dublin-City-Centre-Rathmines-hotel
+node	1341079423	Generator Hostel Dublin		53.3483874	-6.2776750	hostel				https://staygenerator.com/hostels/dublin
+node	1386564343	The Dergvale Hotel		53.3561708	-6.2605496	hotel				
+node	1426100413	Portobello Hotel		53.3303293	-6.2638126	hotel				http://www.portobellohotel.ie/
+node	1430127332	Maldron Hotel Smithfield		53.3496665	-6.2787922	hotel	3	Maldron Hotels	Dalata	https://www.maldronhotelsmithfield.com
+node	1431043165	Fleet Street Hotel		53.3458680	-6.2598070	hotel				https://www.fleethoteltemplebar.com/
+node	1484694624	Kinlay House		53.3437653	-6.2697266	hostel				https://www.kinlaydublin.ie/
+node	1498471155	Citi Hostel		53.3323866	-6.2633845	hostel				https://citihostels.com/
+node	1505143168	Fitzwilliam Hotel		53.3393579	-6.2614846	hotel				https://www.fitzwilliamhoteldublin.com/
+node	1685982683	Academy Plaza Hotel		53.3524883	-6.2599639	hotel		Best Western	Best Western	https://www.academyplazahotel.ie/
+node	1711793159	Gibson Hotel		53.3486217	-6.2282654	hotel				https://www.thegibsonhotel.ie/
+node	2178778432	Caulfield's Hotel		53.3582953	-6.2625520	hotel				
+node	2394107078	Beresford Hotel		53.3499359	-6.2526717	hotel				
+node	2419698916	The Morgan Hotel		53.3458031	-6.2609251	hotel				https://www.themorgan.com/
+node	2419815829	Leonardo Hotel Dublin Parnell Street		53.3515707	-6.2630611	hotel		Leonardo Hotels		https://www.leonardohotels.co.uk/hotels/dublin/parnell-street
+node	2421986837	StayCity Apartments		53.3442787	-6.2772059	hotel		Staycity		https://www.staycity.com/dublin/augustine
+node	2531563570	The Dublin Central Hostel		53.3563694	-6.2658648	hostel				
+node	2574552912	The Oliver St. John Gogarty Hostel & Penthouse Apartments		53.3453301	-6.2617470	hostel			Gogarty's	https://www.gogartys.ie/hostel/
+node	2579029460			53.3556031	-6.2644268	hostel				
+node	2579036747	Backpackers Ireland		53.3555143	-6.2641318	hostel				
+node	2579089712	Lyndon House B&B		53.3562178	-6.2598630	hostel				http://www.lyndonhouse.net/
+node	2996942850	Radisson Blu Royal Hotel		53.3408194	-6.2683423	hotel	4	Radisson	Radisson	http://www.radissonblu.ie/royalhotel-dublin
+node	2997543391	Kellys Hotel & Bar		53.3419525	-6.2646020	hotel				https://www.kellysdublin.com/
+node	3005525287	Arlington Hotel		53.3473057	-6.2608069	hotel				https://www.arlington.ie/
+node	3040139012	Uppercross House Hotel		53.3208516	-6.2652094	hotel				https://uppercrosshousehotel.com/
+node	3137631830	Travelodge		53.3966667	-6.2635055	hotel		Travelodge		https://www.travelodge.ie/hotels/378/Dublin-Airport-South-hotel
+node	3162664039	Harrington House Hostel		53.3322897	-6.2677776	hostel				http://harringtonhousedublin.weebly.com/
+node	3475951378	Sky Backpackers		53.3474492	-6.2612489	hostel				https://www.skybackpackers.com/
+node	3802726493	The Temple Bar Lane		53.3451323	-6.2642123	hostel				https://www.templebarlane.com
+node	4149992791	Temple Bar Inn		53.3457077	-6.2597289	hotel	3			https://www.templebarinn.com/
+node	4281177295	The Times		53.3457503	-6.2575790	hostel				https://college.timeshostels.com/
+node	4396634489	O'Shea's	O'Shea's	53.3508843	-6.2543097	hotel				
+node	4451119901	Garden Lane Backpackers		53.3410449	-6.2768871	hostel			Canbe	https://www.canbe.ie/garden-lane-hostel.html
+node	4523147799	Holiday Inn Express Dublin		53.3522024	-6.2609094	hotel	3.5	Holiday Inn Express		https://www.ihg.com/holidayinnexpress/hotels/gb/en/dublin/dblct/hoteldetail
+node	4794468121	海泽布鲁克旅馆	Hazelbrook	53.3517169	-6.2548350	hostel				
+node	4940498423			53.3476107	-6.2693061	hostel				
+node	5301569914	The Gate Hotel		53.3527985	-6.2606167	hotel				
+node	5585368933	Ripley Court Hotel		53.3513185	-6.2516225	hotel				
+node	5623110090	The Draper Rooms		53.3383751	-6.2433298	hotel				
+node	6124072885	Dublin City aparthotel by	Dublin City aparthotel by theKeyCollections	53.3576458	-6.2568685	hotel				
+node	6128203807	The Clarence Hotel		53.3453516	-6.2668314	hotel	4			https://theclarence.ie/
+node	6177177264	The Mercantile		53.3440643	-6.2638575	hotel				https://www.mercantilehotel.ie/
+node	6204440122	The Dean Hotel		53.3351601	-6.2635631	hotel				https://thedean.ie/
+node	6257799732	Fitzsimons Hotel		53.3455979	-6.2652535	hotel				https://www.fitzsimonshotel.com
+node	8490974009	The Grafton Hotel		53.3408489	-6.2639376	hotel				https://www.the-grafton-hotel.com
+node	9334463470	Abbey Hotel		53.3479585	-6.2624752	hotel				
+node	9722372034	Gardiner House		53.3576704	-6.2597150	hostel			Canbe Hospitality	https://www.canbe.ie/gardiner-house-hostel.html
+node	9749126074			53.3507214	-6.2517182	hostel				
+node	9849789317	Hotel		53.3492545	-6.2291508	hotel				
+node	9866508317	Silver Eagle		53.2954315	-6.2544271	hostel				
+node	9873277924	Yugo Ardcairn House		53.3511304	-6.2794345	hostel				
+node	10002723241	The Leeson Lodge		53.3317681	-6.2531142	hotel	3			https://www.theleesonlodge.com/
+node	10032072940	Four Courts Hostel		53.3449765	-6.2739019	hostel				
+node	10765861105	Zanzibar Locke		53.3466018	-6.2640485	hotel				https://www.lockeliving.com/en/dublin/zanzibar-locke
+node	11291298744	Motel One Dublin		53.3480726	-6.2637029	hotel		Motel One		https://www.motel-one.com/en/hotels/dublin/hotel-dublin/
+node	11291834310	Trinity Townhouse Hotel		53.3420584	-6.2565120	hotel				
+node	11395582290	Clink i Lár		53.3477706	-6.2642344	hostel				https://www.clinkhostels.com/clink-i-lar/
+node	11617477536	"Staycity Aparthotels, Dublin City Centre"		53.3483945	-6.2699439	hotel		Staycity		https://www.staycity.com/dublin/city-centre
+node	11780636798	Ruby Molly Hotel & Bar		53.3479646	-6.2702163	hotel		Ruby		https://www.ruby-hotels.com/en/destinations/dublin/ruby-molly
+node	11901254038	Premier Inn The Liberties		53.3381956	-6.2776286	hotel		Premier Inn		https://www.premierinn.com/gb/en/hotels/republic-of-ireland/dublin/dublin/dublin-city-centre-the-liberties.html
+node	12114522902	Leevin Hostel		53.3546687	-6.2606080	hostel				https://leevinhostel.com/
+node	12136026901	"Beckett Locke, North Docks"		53.3480200	-6.2296895	hotel				https://www.lockeliving.com/en/dublin
+node	12165471598	Four Courts Hostel		53.3449924	-6.2740338	hotel				
+node	12695448301	Premier Inn		53.3462353	-6.2501445	hotel		Premier Inn		https://www.premierinn.com/gb/en/home.html
+node	12759268962	Auberge click i lar		53.3478111	-6.2642797	hostel				
+node	13020261535	Leevin Hostel Mountjoy		53.3558441	-6.2683412	hostel				
+node	13087442456	Point a Hotel		53.3440233	-6.2771000	hotel				
+node	13324659764	Parnell Corner Apartments		53.3520680	-6.2644946	hotel		City Break Apartments		https://www.citybreakapartments.com/
+node	13723101001	NYX Hotel Dublin Christchurch		53.3442912	-6.2680320	hotel				https://www.nyx-hotels.com/dublin/nyx-hotel-dublin-christchurch
+node	13835966903	The Chancery		53.3416653	-6.2678983	hotel				https://www.thechanceryhotel.ie
+node	13973009938	Destiny Student - Ardee Point		53.3382522	-6.2783085	hotel		Destiny Student		https://destinystudent.com/accommodation/dublin/ardee-point-dublin/
+node	14027191457	"Staycity Aparthotels, Dublin, City Quay"		53.3464641	-6.2518807	hotel		Staycity		https://www.staycity.com/de/dublin/city-quay
+node	14124252393	No. 31		53.3332307	-6.2529498	hotel				https://www.number31.ie/
+node	14133490903	The Dawson Hostel		53.3404007	-6.2586913	hostel				
+way	25512470	Clayton Hotels		53.4265554	-6.2321818	hotel		Clayton Hotels		
+way	25638884	Hilton Dublin		53.3311967	-6.2594218	hotel	4	Hilton	Hilton	https://www.hilton.com/en/hotels/dubduhn-hilton-dublin
+way	27121128	Hilton Dublin Airport		53.4039206	-6.1797954	hotel	4	Hilton	Hilton	https://www.hilton.com/en/hotels/dubaphi-hilton-dublin-airport/?WT.mc_id=zELWAKN0EMEA1HI2DMH3LocalSearch4DGGenericx6DUBAPHI
+way	27366928	Travelodge		53.3803380	-6.3549312	hotel		Travelodge		https://www.travelodge.co.uk/hotels/228/Dublin-Phoenix-Park-hotel
+way	30754679	Clayton Hotel Burlington Road		53.3306836	-6.2488392	hotel	4		Clayton Hotels	https://www.claytonhotelburlingtonroad.com/
+way	42526596	Davenport Hotel		53.3416049	-6.2497762	hotel			O'Callaghan Hotels	https://www.davenporthotel.ie/
+way	42779094	Hilton Dublin Kilmainham		53.3425083	-6.3083667	hotel	4	Hilton	Hilton	https://www.hilton.com/en/hotels/dubkmhi-hilton-dublin-kilmainham/?WT.mc_id=zELWAKN0EMEA1HI2DMH3LocalSearch4DGGenericx6DUBKMHI
+way	44707922	The Alex Hotel Dublin		53.3418564	-6.2489533	hotel			O'Callaghan Hotels	https://www.thealexhotel.ie
+way	47916913	Clontarf Castle		53.3648064	-6.2068820	hotel	4			https://www.clontarfcastle.ie/
+way	53372947	Conrad Dublin		53.3350109	-6.2571852	hotel	5	Conrad	Hilton Worldwide	https://www.hilton.com/en/hotels/dubhcci-conrad-dublin/
+way	56015394	InterContinental Dublin		53.3267544	-6.2261801	hotel		InterContinental	IHG	https://www.ihg.com/intercontinental/hotels/gb/en/dublin/dblic/hoteldetail
+way	57362812	Grand Canal Hotel		53.3380039	-6.2378059	hotel	3			https://www.grandcanalhotel.com/
+way	70542603	Bonnington Hotel		53.3774542	-6.2460001	hotel			McGettigan Hotels	https://www.bonningtondublin.com/
+way	71462115	Radisson St Helen's		53.3050437	-6.2057961	hotel		Radisson	Carlson Hotels	https://www.radissonblu.com/en/sthelenshotel-dublin
+way	72094432	Schoolhouse Hotel		53.3374026	-6.2393776	hotel	4			https://www.schoolhousehotel.com/
+way	77692486	Maldron Hotel Pearse Street		53.3433941	-6.2435412	hotel	4	Maldron Hotels	Dalata	https://www.maldronhotelpearsestreet.com
+way	84867339	Talbot Hotel Stillorgan	Talbot Hotel Stillorgan	53.2949971	-6.2024988	hotel	4		Talbot	https://www.talbothotelstillorgan.com/
+way	102694943	The Ferryman		53.3460084	-6.2407017	hotel				https://www.theferrymantownhouse.ie
+way	102694950	The Marker		53.3445483	-6.2390838	hotel				https://www.anantara.com/en/the-marker-dublin
+way	102694962	Clayton Hotel Cardiff Lane		53.3453543	-6.2411844	hotel	4	Clayton Hotels	Clayton Hotels	https://www.claytonhotelcardifflane.com/
+way	109246505	Mespil Hotel		53.3332681	-6.2462857	hotel	4			https://www.mespilhotel.com/
+way	110402719	Herbert Park Hotel		53.3282241	-6.2326086	hotel				
+way	125371210	The Dean Docklands		53.3473630	-6.2325542	hotel				https://themayson.ie/
+way	128521538	Pembroke Town House		53.3325636	-6.2377825	hotel				https://www.pembroketownhouse.ie/
+way	132975194	Dublin Skylon Hotel		53.3727000	-6.2534939	hotel	4	Brian McEniff Hotels		https://www.dublinskylonhotel.com/
+way	146485705	Lansdowne Hotel		53.3321670	-6.2413292	hotel			Lansdowne Hotel	https://www.lansdownehotel.ie/
+way	155787972	The Dylan		53.3337746	-6.2422166	hotel				
+way	191892918	Handel's Hotel		53.3441029	-6.2696727	hotel	3		Handel’s Hotel	https://handelshotel.ie/
+way	227766037	Abbey Court		53.3474813	-6.2604043	hostel				
+way	227767346	Leonardo Hotel Dublin Christchurch		53.3427709	-6.2706057	hotel	4	Leonardo Hotels		https://www.leonardo-hotels.com/dublin/leonardo-hotel-dublin-christchurch
+way	228195482	Ashfield House		53.3462527	-6.2574908	hostel				
+way	228313892	Trinity City Hotel		53.3452925	-6.2544004	hotel	4			https://www.trinitycityhotel.com/
+way	228460497	Express by Holiday Inn		53.4044747	-6.2447098	hotel				
+way	228762915	"The Morrison Dublin, Curio Collection by Hilton"		53.3465201	-6.2660770	hotel	5	Curio Collection by Hilton	Hilton	https://www.hilton.com/en/hotels/dubtmqq-the-morrison-dublin/
+way	230132669	Hard Rock Hotel Dublin		53.3441012	-6.2683232	hotel		Hard Rock Hotel		https://www.hardrockhotels.com/dublin/
+way	230132670	Harding Hotel		53.3439210	-6.2698674	hotel				
+way	231245953	Merrion Hotel		53.3385056	-6.2527757	hotel				https://www.merrionhotel.com/
+way	231250677	The Mont Hotel		53.3415838	-6.2507111	hotel			O'Callaghan Hotels	https://www.themonthotel.ie/
+way	233096991	Hollybrook Hotel		53.3664649	-6.2183699	hotel				
+way	233487757	Isaac's		53.3500163	-6.2531998	hostel				https://www.isaacs.ie/
+way	233487789	Backpackers Citi Hostel Dublin		53.3501674	-6.2537440	hostel				https://backpackersireland.com/
+way	233489906	Globetrotters Tourist Hotel		53.3503294	-6.2545232	hotel				
+way	233790937	Wynn's Hotel		53.3483609	-6.2588190	hotel				https://www.wynnshotel.ie/
+way	234452803	Premier Inn		53.3415993	-6.2649040	hotel		Premier Inn		https://www.premierinn.com/gb/en/hotels/republic-of-ireland/dublin/dublin/dublin-city-centre-temple-bar.html
+way	235543190	Clayton Hotel Charlemont		53.3306406	-6.2614954	hotel		Clayton		https://www.claytonhotelcharlemont.com/
+way	236323849	Carlton Hotel		53.4152855	-6.2405984	hotel	4	Carlton		https://www.carlton.ie/
+way	249574669	Fitzwilliam Townhouse		53.3365597	-6.2490031	hotel				https://www.fitzwilliamtownhouse.com/
+way	249671444	Longfields Hotel		53.3371262	-6.2490886	hotel				
+way	249752634	Baggot Court Townhouse		53.3353740	-6.2473012	hotel				https://www.baggotcourt.com/
+way	250522977	The Address Connolly		53.3519849	-6.2503210	hotel				https://www.theaddressconnolly.com/
+way	250718210	Cassidy's Hotel		53.3532521	-6.2613864	hotel				https://www.cassidyshotel.com/
+way	250734260	Barry's Hotel		53.3552221	-6.2626909	hotel				https://www.barryshotel.com/
+way	251668342	Walton's Hotel		53.3549541	-6.2636331	hotel				http://www.thecastlehotelgroup.com/WaltonsHotel/index.php
+way	251717994	Hotel 7		53.3551335	-6.2628491	hotel	3		Dalata	https://www.hotel7dublin.com/
+way	251722063	Castle Hotel		53.3548684	-6.2632831	hotel				https://www.castle-hotel.ie/
+way	252546144	City Manor Accommodation		53.3514240	-6.2546366	hostel				
+way	252546149	Maple Hotel	Maple Hotel	53.3511378	-6.2544374	hotel				
+way	252807615	The Belvedere Hotel		53.3551021	-6.2621147	hotel	3		Dalata	https://www.belvederehoteldublin.com/
+way	252809421	Egali Hostel		53.3535294	-6.2597618	hostel				
+way	264741798	Brooks Hotel		53.3415340	-6.2635937	hotel	4			https://www.brookshotel.ie/
+way	268550898	The Westin Dublin		53.3456118	-6.2583756	hotel		Westin		https://www.marriott.com/en-us/hotels/dubwi-the-westin-dublin/
+way	274036080	Abigail's Hostel		53.3462610	-6.2611338	hostel				https://abigailshostel.com/
+way	275480354	Stauntons on the Green		53.3366372	-6.2598130	hotel				https://www.stauntonsonthegreen.ie/
+way	277857855	Temple Bar Hotel		53.3458828	-6.2603035	hotel				https://www.templebarhotel.com/
+way	279048390	Merrion Hotel Extension		53.3381366	-6.2523875	hotel				
+way	280181973	Royal Exchange Hotel		53.3444715	-6.2671138	hotel				
+way	280190799	Harcourt Hotel		53.3344711	-6.2627779	hotel				https://www.harcourthotel.ie/
+way	280956287	Jackson Court Hotel		53.3354118	-6.2636531	hotel				https://www.jackson-court.ie/
+way	280989759	Leeson Inn Downtown		53.3341117	-6.2552748	hotel				
+way	281142255	Hotel St George		53.3538506	-6.2623837	hotel				http://www.hotel-st-george.ie/
+way	281357157	Apache Hostel		53.3444132	-6.2645960	hostel				
+way	281357164	Riverhouse Hotel		53.3445855	-6.2646187	hotel				
+way	281669753	Dublin Citi Hotel		53.3443649	-6.2634801	hotel				https://dublincitihotel.com/
+way	284857269	Blooms Hotel		53.3447460	-6.2621826	hotel				https://www.blooms.ie/
+way	294423416	Wren Hotel		53.3434230	-6.2624721	hotel				https://www.wrenhotel.ie/
+way	295381997	Maldron Hotel Parnell Square		53.3543505	-6.2663765	hotel		Maldron Hotels		https://www.maldronhotelparnellsquare.com
+way	301181894	Point A Hotel Parnell Street		53.3515903	-6.2626258	hotel				https://www.pointahotels.com/our-hotels/dublin-parnell-street/
+way	303043528	The Spencer		53.3481043	-6.2433167	hotel				
+way	314866466	The Bram Stoker		53.3586650	-6.1922049	hotel				
+way	316971224	Hotel RIU Plaza The Gresham Dublin		53.3516367	-6.2602718	hotel	4	RIU	RIU Hotels & Resorts	https://www.riu.com/en/hotel/ireland/dublin/hotel-riu-plaza-the-gresham-dublin/
+way	334663493	Roxford Lodge		53.3354109	-6.2370983	hotel				http://www.roxfordlodge.com
+way	339374431	Jacob's Inn		53.3507289	-6.2517099	hostel				https://www.jacobsinn.com/
+way	370218813	Sheldon Park Hotel		53.3295889	-6.3438319	hotel		Best Western	Best Western	http://www.sheldonpark.ie/
+way	408633626	The Green Hotel		53.3374147	-6.2632999	hotel			O'Callaghan	https://www.thegreenhotel.ie/
+way	447789109	Aloft Hotel		53.3370611	-6.2756792	hotel		Aloft		https://www.marriott.com/hotels/travel/dubal-aloft-dublin-city/
+way	466002408	Temple Bar Lane		53.3451662	-6.2641452	hotel				
+way	466918379	Hyatt Centric The Liberties Dublin		53.3388510	-6.2739263	hotel	4	Hyatt Centric	Hyatt	https://www.hyatt.com/hyatt-centric/en-US/dubct-hyatt-centric-the-liberties-dublin
+way	472789981	Maldron Hotel Kevin Street		53.3382326	-6.2718255	hotel	4	Maldron Hotels	Dalata	https://www.maldronhotelkevinstreet.com/
+way	507464909	Devlin Hotel		53.3234747	-6.2508872	hotel			Press Up Hospitality Group	https://thedevlin.ie/
+way	524741797	Marlin Hotel		53.3399652	-6.2647810	hotel	4			https://www.marlinhotel.ie/
+way	572926875	Travelodge Plus		53.3460192	-6.2515142	hotel		Travelodge		https://www.travelodge.co.uk/hotels/679/Dublin-City-Centre-hotel
+way	611618176	Paramount Hotel		53.3447211	-6.2677904	hotel				https://www.paramounthotel.ie/
+way	626692410	The Hendrick Smithfield		53.3479699	-6.2809411	hotel		The Hendrick		https://www.hendrickdublin.ie/
+way	662507864	Phoenix Park Hotel		53.3483102	-6.2947183	hotel				
+way	670557666	Hampton by Hilton Dublin City Centre		53.3471057	-6.2726802	hotel	3	Hampton		https://www.hilton.com/en/hotels/dubbihx-hampton-dublin-city-centre/
+way	696901427	Spire Hostel		53.3498661	-6.2582825	hostel				
+way	727480439	Maples Hotel		53.3663205	-6.2653206	hotel				http://www.mapleshousehotel.ie/
+way	740958706	Moxy		53.3492493	-6.2583437	hotel		Moxy		https://www.marriott.com/hotels/travel/dubox-moxy-dublin-city/
+way	777293282	StayCity Dublin Castle		53.3415490	-6.2698250	hotel		Staycity		https://www.staycity.com/dublin/dublin-castle
+way	862492375	Hilton Garden Inn Dublin City Centre		53.3481894	-6.2468058	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/dubchgi-hilton-garden-inn-dublin-city-centre/
+way	934639318	Dylan Suites		53.3337356	-6.2425333	hotel				
+way	1075585870	Chester House		53.3602499	-6.2754493	hostel				
+way	1106032719	The Samuel Hotel		53.3485177	-6.2362121	hotel				https://www.thesamuelhotel.com/
+way	1107230082	Premier Inn Dublin City Centre (North Docklands) Hotel		53.3501097	-6.2302749	hotel		Premier Inn		
+way	1111104489	Maldron Hotel Merrion Road	Maldron Hotel Merrion Road	53.3125249	-6.2022585	hotel	4	Maldron Hotel		https://www.maldronhotelmerrionroad.com/
+way	1113091100	NYX Hotel Dublin		53.3303561	-6.2657826	hotel		Leonardo		https://www.nyx-hotels.co.uk/dublin-portobello/
+way	1124468773	easyHotel Dublin City Centre		53.3477305	-6.2830993	hotel		easyHotel		https://www.easyhotel.com/hotels/republic-of-ireland/dublin/dublin-city-centre
+way	1125061503	Travelodge Dublin Stephen's Green		53.3395367	-6.2639933	hotel		Travelodge		https://www.travelodge.ie/hotels/560/Dublin-Stephens-Green-hotel
+way	1126371199	Sandymount Hotel		53.3331623	-6.2242130	hotel				https://www.sandymounthotel.ie
+way	1183507912	Dublin One		53.3597747	-6.2603184	hotel		The iNUA Collection		https://dublinonehotel.com
+way	1262961085	"Staycity Aparthotels, Dublin, Mark Street"		53.3450888	-6.2517257	hotel		Staycity		https://www.staycity.com/dublin/mark-street
+way	1280966368	Moxy Dublin Docklands		53.3578220	-6.2336127	hotel		Moxy		https://www.marriott.com/en-us/hotels/dubxd-moxy-dublin-docklands/overview/
+way	1372195356	Metro Hotel		53.4008240	-6.2639308	hotel				https://www.metrohoteldublinairport.com/
+way	1382325167	Maldron Hotel		53.3629016	-6.2516522	hotel		Maldron	Dalata Hotel Group	https://www.maldronhotels.com/new-hotels/
+way	1382748962	Crowne Plaza Hotel Northwood		53.4045161	-6.2455518	hotel		Crowne Plaza		https://www.cpireland.crowneplaza.com/crowne-plaza-dublin-northwood/
+way	1512628994	citizenM Dublin St Patrick's		53.3395256	-6.2690091	hotel		Marriott		https://www.marriott.com/en-us/hotels/dubsp-citizenm-dublin-st-patricks/overview/
+relation	1836390	Croke Park Hotel		53.3607007	-6.2542248	hotel				https://www.doylecollection.com/hotels/the-croke-park-hotel
+relation	7878361	Maldron Hotel Dublin Airport		53.4274595	-6.2342027	hotel	4	Maldron Hotels	Dalata	https://www.maldronhoteldublinairport.com
+relation	17766643	Buswell's Hotel		53.3405574	-6.2558011	hotel				https://www.buswells.ie/en/
+relation	17816371	Shelbourne Hotel		53.3391063	-6.2556860	hotel				https://www.theshelbourne.com/

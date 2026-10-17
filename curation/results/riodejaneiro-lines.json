@@ -1,0 +1,187 @@
+[
+  {
+    "id": "lbonde_de_santa_teresa",
+    "name": "Bonde de Santa Teresa",
+    "color": "#FFD700",
+    "code": "",
+    "stations": [
+      ["Dois Irmãos",-22.9351,-43.2011],
+      ["Largo do França",-22.9292,-43.1944],
+      ["Vista Alegre",-22.9282,-43.1938],
+      ["Largo do Guimarães",-22.9216,-43.186],
+      ["Largo do Curvelo",-22.9189,-43.1832],
+      ["Portinha",-22.9145,-43.1804],
+      ["Carioca",-22.9102,-43.1787]
+    ]
+  },
+  {
+    "id": "l1",
+    "name": "Metrô Rio Linha 1",
+    "color": "#E77405",
+    "code": "1",
+    "stations": [
+      ["Uruguai / Tijuca",-22.9309,-43.2383],
+      ["Saens Peña / Tijuca",-22.9241,-43.2326],
+      ["São Francisco Xavier / Tijuca",-22.9208,-43.2238],
+      ["Afonso Pena / Tijuca",-22.9184,-43.2177],
+      ["Estácio",-22.9136,-43.2065],
+      ["Praça Onze",-22.9099,-43.2003],
+      ["Central do Brasil / Centro",-22.905,-43.1908],
+      ["Saara / Presidente Vargas",-22.9033,-43.1862],
+      ["Uruguaiana / Engenheiro Fernando Mac Dowell",-22.9029,-43.1818],
+      ["Carioca",-22.9076,-43.1781],
+      ["Cinelândia / Centro",-22.9109,-43.1757],
+      ["Glória",-22.9206,-43.1767],
+      ["Catete",-22.926,-43.1766],
+      ["Largo do Machado",-22.9312,-43.1777],
+      ["Flamengo",-22.9372,-43.1785],
+      ["Botafogo",-22.9504,-43.1842],
+      ["Cardeal Arcoverde - Sentido Gen. Osório / Jd. Oceânico",-22.9638,-43.1814],
+      ["Siqueira Campos / Copacabana - Sentido Gen. Osório / Jd. Ocêanico",-22.9673,-43.1874],
+      ["Cantagalo / Copacabana - Sentido Gen. Osório / Jd. Oceânico",-22.9757,-43.1945],
+      ["General Osório / Ipanema",-22.9815,-43.1966]
+    ]
+  },
+  {
+    "id": "l1",
+    "name": "VLT Carioca",
+    "color": "#888888",
+    "code": "1",
+    "stations": [
+      ["Terminal Gentileza",-22.8991,-43.2114],
+      ["Rodoviária",-22.8989,-43.2073],
+      ["Equador",-22.8979,-43.2048],
+      ["Pereira Reis",-22.8967,-43.2018],
+      ["Gamboa",-22.8979,-43.1994],
+      ["Providência",-22.8975,-43.1967],
+      ["Harmonia",-22.8957,-43.1913],
+      ["Parada dos Navios / Valongo",-22.8942,-43.1873],
+      ["Parada dos Museus",-22.896,-43.182],
+      ["São Bento",-22.899,-43.1799],
+      ["Candelária",-22.9017,-43.1789],
+      ["Sete de Setembro",-22.9053,-43.1775],
+      ["Carioca",-22.9075,-43.1767],
+      ["Cinelândia",-22.9106,-43.1755],
+      ["Antônio Carlos / MAM",-22.9114,-43.1721],
+      ["Santos Dumont",-22.9123,-43.1677]
+    ]
+  },
+  {
+    "id": "l2",
+    "name": "Metrô Rio Linha 2",
+    "color": "#028F34",
+    "code": "2",
+    "stations": [
+      ["Pavuna",-22.8064,-43.3655],
+      ["Acari / Fazenda Botafogo",-22.825,-43.3493],
+      ["Coelho Neto",-22.8319,-43.3429],
+      ["Colégio",-22.8427,-43.3345],
+      ["Irajá",-22.848,-43.3233],
+      ["Vicente de Carvalho",-22.854,-43.3132],
+      ["Thomáz Coelho",-22.8626,-43.3068],
+      ["Engenho da Rainha",-22.8679,-43.2974],
+      ["Inhaúma",-22.8746,-43.2835],
+      ["Del Castilho",-22.8793,-43.2719],
+      ["Maria da Graça",-22.8815,-43.2602],
+      ["Triagem",-22.8969,-43.2445],
+      ["Maracanã",-22.9097,-43.2339],
+      ["São Cristóvão",-22.9097,-43.221],
+      ["Cidade Nova",-22.9087,-43.2063],
+      ["Central do Brasil / Centro",-22.905,-43.1908],
+      ["Saara / Presidente Vargas",-22.9033,-43.1862],
+      ["Uruguaiana / Engenheiro Fernando Mac Dowell",-22.9029,-43.1818],
+      ["Carioca",-22.9076,-43.1781],
+      ["Cinelândia / Centro",-22.9109,-43.1757],
+      ["Glória",-22.9206,-43.1767],
+      ["Catete",-22.926,-43.1766],
+      ["Largo do Machado",-22.9312,-43.1777],
+      ["Flamengo",-22.9372,-43.1785],
+      ["Botafogo",-22.9504,-43.1842]
+    ]
+  },
+  {
+    "id": "l2",
+    "name": "VLT Carioca",
+    "color": "#888888",
+    "code": "2",
+    "stations": [
+      ["Praia Formosa",-22.9029,-43.2082],
+      ["Rodoviária",-22.8989,-43.2073],
+      ["Equador",-22.8979,-43.2048],
+      ["Pereira Reis",-22.8967,-43.2018],
+      ["Vila Olímpica",-22.899,-43.1997],
+      ["Central",-22.903,-43.1929],
+      ["Cristiano Ottoni / Pequena África",-22.9031,-43.1908],
+      ["Saara",-22.9059,-43.1874],
+      ["Tiradentes",-22.9066,-43.1827],
+      ["Colombo",-22.9052,-43.1781],
+      ["Praça XV",-22.9022,-43.1731]
+    ]
+  },
+  {
+    "id": "l2",
+    "name": "Line 2",
+    "color": "#FFD700",
+    "code": "2",
+    "stations": [["Largo das Neves",-22.9163,-43.1917],["Largo do Guimarães",-22.9216,-43.186],["Largo do Curvelo",-22.9189,-43.1832],["Portinha",-22.9145,-43.1804],["Carioca",-22.9102,-43.1787]]
+  },
+  {
+    "id": "l3",
+    "name": "VLT Carioca",
+    "color": "#F1C232",
+    "code": "3",
+    "stations": [
+      ["Santos Dumont",-22.9123,-43.1677],
+      ["Antônio Carlos / MAM",-22.9113,-43.1721],
+      ["Cinelândia",-22.9106,-43.1755],
+      ["Carioca",-22.9074,-43.1767],
+      ["Sete de Setembro",-22.9052,-43.1775],
+      ["Candelária",-22.9017,-43.1788],
+      ["Santa Rita / Pretos Novos",-22.9006,-43.1817],
+      ["Camerino / Rosas Negras",-22.9023,-43.1855],
+      ["Cristiano Ottoni / Pequena África",-22.9031,-43.1907],
+      ["Central",-22.9029,-43.1929]
+    ]
+  },
+  {
+    "id": "l4",
+    "name": "Linha 4",
+    "color": "#FFCC29",
+    "code": "4",
+    "stations": [
+      ["General Osório / Ipanema",-22.9815,-43.1966],
+      ["Nossa Senhora da Paz / Ipanema",-22.984,-43.2067],
+      ["Jardim de Alah / Leblon",-22.9837,-43.2166],
+      ["Antero de Quental / Leblon",-22.9847,-43.2243],
+      ["São Conrado",-22.9913,-43.2556],
+      ["Jardim Oceânico / Barra da Tijuca",-23.0068,-43.311]
+    ]
+  },
+  {
+    "id": "l4",
+    "name": "VLT Carioca",
+    "color": "#EC6F29",
+    "code": "4",
+    "stations": [
+      ["Praça XV",-22.9021,-43.1731],
+      ["Colombo",-22.9052,-43.1781],
+      ["Tiradentes",-22.9066,-43.1831],
+      ["Saara",-22.9058,-43.1874],
+      ["Cristiano Ottoni / Pequena África",-22.9031,-43.1907],
+      ["Central",-22.9029,-43.1929],
+      ["Gamboa",-22.8979,-43.1994],
+      ["Santo Cristo",-22.8953,-43.2004],
+      ["Cordeiro da Graça",-22.8971,-43.2042],
+      ["Rodoviária",-22.8988,-43.2075],
+      ["Terminal Gentileza",-22.8989,-43.2112]
+    ]
+  },
+  {
+    "id": "lesfeco",
+    "name": "Corcovado Train",
+    "jp": "Trem do Corcovado",
+    "color": "#D32232",
+    "code": "ESFECO",
+    "stations": [["Cosme Velho",-22.9409,-43.1985],["Morro do Inglês",-22.9463,-43.2021],["Paineiras",-22.9466,-43.2174],["Christ the Redeemer",-22.9518,-43.2107]]
+  }
+]

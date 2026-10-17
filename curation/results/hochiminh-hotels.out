@@ -1,0 +1,774 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	837179279	Khách Sạn Tân Hải Long 3		10.7719103	106.7037420	hotel				
+node	943230070	Khách Sạn Riverside Saigon	Riverside Hotel	10.7738686	106.7063202	hotel				
+node	946794517	Khách Sạn Moonlight		10.7804454	106.7075254	hotel				
+node	1063799175	Khách Sạn 64		10.7673604	106.6937183	hotel			Madame Cuc's	
+node	1063804286	Khách Sạn Sao Nam		10.7687973	106.6942749	hotel				
+node	1063804290	Khách Sạn Hà Vy		10.7665393	106.6912556	hotel				
+node	1063811183	Khách Sạn Cô Lợi		10.7620278	106.6929627	hotel				
+node	1063816041	Khách Sạn Dragon Palace		10.7689864	106.6941859	hotel				
+node	1063817100	Khách Sạn Liên Hà		10.7679206	106.6948493	hotel				
+node	1124626713	Khách Sạn Rạng Đông		10.7721535	106.6917301	hotel				
+node	1340954934	Khách Sạn Mifuki Boutique		10.7718577	106.6951014	hotel				
+node	1354004591	Khách Sạn Saigon Sports 3		10.7685951	106.6944090	hotel				
+node	1378905236	Thuan Thien Hotel		10.7717128	106.6956525	hotel				
+node	1561811973	Khách Sạn 4 Roses		10.7673047	106.6790131	hotel				
+node	1739970443	Khách Sạn Vườn Sài Gòn		10.7724651	106.6709900	hotel				
+node	1833691664	Khách Sạn Saigon Mini 5		10.7665297	106.6918613	hotel				
+node	1985346325	Khách Sạn Metropole		10.7740734	106.7055809	hotel				
+node	1997154830	Khách Sạn Windsor Plaza Sài Gòn		10.7580070	106.6732829	hotel				https://www.windsorplazahotel.com/
+node	2036596285	Grand Hotel		10.7736280	106.7059110	hotel				
+node	2068659847	Khách Sạn Hoàng Hải Long	Dragon Hotel	10.7715128	106.6942511	hotel	3			http://hoanghailonghotel.com/
+node	2103831053	Khách Sạn Đại Huy Hoàng		10.7672409	106.6909759	hotel				
+node	2158751787	Khách Sạn Thanh Quỳnh		10.7986593	106.6879678	hotel				
+node	2267949127	Khách Sạn Grand Silverland		10.7736782	106.6970086	hotel				
+node	2267949128	Khách Sạn Hà My		10.7738995	106.6969013	hotel				
+node	2268280866	Khách Sạn A&EM	A&EM Saigon Hotel	10.7740997	106.6969013	hotel				
+node	2268280927	Khách Sạn Kelly		10.7741841	106.6970301	hotel				
+node	2268280973	Khách Sạn King		10.7799281	106.7039394	hotel				
+node	2276291868	Khách Sạn Northern		10.7774795	106.7051917	hotel				https://www.northernhotel.com.vn/
+node	2276291869	Khách Sạn White Lotus		10.7776953	106.7055012	hotel				
+node	2276291870	Khách Sạn Aquari		10.7773747	106.7053540	hotel				
+node	2286005141	Khách Sạn New Star		10.7788392	106.7048113	hotel				
+node	2286005143	Khách Sạn Royal Lotus		10.7789255	106.7041427	hotel				
+node	2286005144	Khách Sạn Hoa Sen		10.7775096	106.7057021	hotel				
+node	2286005145	Khách Sạn Ngọc Minh		10.7771111	106.7054161	hotel				
+node	2286005148	Khách Sạn King Star		10.7780677	106.7041264	hotel				
+node	2286005150	Khách Sạn Cherry		10.7790247	106.7050932	hotel				
+node	2286005152	Khách Sạn May		10.7778185	106.7007546	hotel				
+node	2286005159	Khách Sạn Sun Flower		10.7790752	106.7046764	hotel				
+node	2286005160	Khách Sạn Medal		10.7791543	106.7049719	hotel				
+node	2286005164	Khách Sạn Silverland Jolie		10.7774137	106.7058193	hotel				
+node	2286005166	Khách Sạn Oscar		10.7747783	106.7033841	hotel				
+node	2393618974	Khách Sạn Hoàng Gia		10.7719734	106.6929079	hotel				
+node	2434814803	Khách Sạn Lucky Star		10.7275001	106.7066161	hotel				
+node	2476392981	Khách Sạn Little Saigon Boutique		10.7746121	106.7002663	hotel				http://www.littlesaigon.com.vn
+node	2593669468	Khách Sạn Quang Trung 2		10.8420194	106.6436402	hotel				http://quangtrunghotel.com/
+node	2614395016	Khách Sạn Đức Minh		10.7518784	106.6740794	hotel				
+node	2646624973	Khách Sạn Saigon River		10.7753807	106.7047107	hotel				http://www.saigonriverhotel.com
+node	2663845444	Khách Sạn Elegant		10.7697367	106.6882034	hotel				http://www.eleganthotel.vn/
+node	2926929601	Khách Sạn Ramana		10.7877340	106.6777247	hotel				
+node	2927363201	Khách Sạn Asian Ruby		10.7717040	106.6955520	hotel				
+node	2931144501	Khách Sạn Roseland Point		10.7718290	106.7037550	hotel				
+node	2931146001	Khách Sạn Âu Lạc	Au Lac Charner Hotel	10.7720930	106.7036766	hotel	3			
+node	2933722691	Khách Sạn Tư Trung		10.8441378	106.6398967	hotel				
+node	3183954535	Tan Hoang Long Hotel		10.7747990	106.7041338	hotel				http://www.tanhoanglong-hotel.com/
+node	3208604561	Khách Sạn Green		10.7920270	106.6782660	hotel				
+node	3212141008	Khách Sạn Vàng Anh		10.7979061	106.6897753	hotel				
+node	3227801938	Khách Sạn New Epoch		10.7769893	106.6834978	hotel				
+node	3235645533	Khách Sạn Hồng Vy		10.7868488	106.6930765	hotel				
+node	3235649458	Khách Sạn Liên Phương	EverGreen	10.7876735	106.6920492	hotel				
+node	3235651896	Khách Sạn A25		10.7874048	106.6923764	hotel				
+node	3247376712	Khách Sạn PT		10.7991889	106.6843965	hotel				
+node	3250483385	Khách Sạn Lại Trần		10.8033255	106.7159306	hotel				
+node	3253193981	Khách Sạn Somerset Vista		10.8046099	106.7510716	hotel				
+node	3256598177	Khách Sạn PP BackPackers		10.7673302	106.6908055	hotel				http://ppbackpackers.com.vn/
+node	3257722044	Khách Sạn Sunny		10.7923680	106.6882328	hotel				
+node	3261127378	Khách Sạn Yellow House Saigon		10.7648733	106.6955744	hotel				
+node	3319583926	Circle K	Circle k	10.7694431	106.7000459	hotel		Circle K		http://www.signaturesaigonhotel.com/
+node	3324706843	Khách Sạn Aston		10.7672561	106.6938225	hotel				
+node	3372131193	Khách Sạn An An		10.7677791	106.6945052	hotel				
+node	3372132837	Khách Sạn Saigon Sports		10.7678134	106.6945911	hotel				
+node	3372136320	Khách Sạn Yến Trang 2		10.7682818	106.6939965	hotel				
+node	3372144541	Khách Sạn Hạnh Phúc		10.7678727	106.6948070	hotel				
+node	3473953367	Khách Sạn Beautiful		10.7681899	106.6940516	hotel				
+node	3473953368	Khách Sạn Kiên		10.7681000	106.6941120	hotel				
+node	3473955574	Khách Sạn Cam		10.7683559	106.6939604	hotel				
+node	3474017277	Khách Sạn Lan Anh		10.7681847	106.6937352	hotel				
+node	3606992724	Khách Sạn EdenStar Sài Gòn		10.7718739	106.6900291	hotel				
+node	3623141993	Khách Sạn Hoàng Oanh	Hoang Oanh Hotel	10.8071100	106.6766930	hotel				
+node	3623255796	Khách Sạn Ngọc Vàng	Ngoc Vang Hotel	10.8068746	106.6766023	hotel				
+node	3623474893	Khách Sạn Ngọc Châu	Ngoc Chau Hotel	10.8041413	106.6839271	hotel				
+node	3625601694	Khách Sạn Văn Khang	Van Khang Hotel	10.8080348	106.6742571	hotel				
+node	3625601696	Khách Sạn Hương Mai 2	Hương Mai 2 Hotel	10.8072996	106.6753438	hotel				
+node	3626052600	Khách Sạn Ngọc Vũ	Ngoc Vu Hotel	10.8064603	106.6775558	hotel				
+node	3654066993	Khách Sạn Sông Thương		10.8056323	106.6779387	hotel				
+node	3654067007	Khách Sạn Trăng Mật		10.8062988	106.6769728	hotel				
+node	3764254757	Khách Sạn N Dung		10.7687425	106.6940811	hotel				
+node	3806605582	Khách Sạn Long		10.7666690	106.6896699	hotel				https://facebook.com/pages/Long-Guesthouse-Long-Hostel/222369797850812
+node	3806622351	Khách Sạn Khói		10.7667992	106.6896673	hotel				
+node	3806835482	Khách Sạn The Reverie SaiGon		10.7738731	106.7048650	hotel				
+node	3938880925	Khách Sạn GK Central		10.7744943	106.6975843	hotel				https://gkcentralhotel.com/
+node	3945869998	Khách Sạn The Town House 50		10.7717535	106.6897307	hotel				
+node	4069903577	Khách Sạn Cap Town		10.7720610	106.6952015	hotel				
+node	4117199797	Khách Sạn 4 Sao New Pacific	NEW PACIFIC HOTEL	10.7838400	106.6828613	hotel				www.newpacific.vn
+node	4121579923	Khách Sạn Eden Garden 2		10.7682418	106.6945397	hotel				http://www.edengardenhotel2.com
+node	4143264008	KnK Inn (Homestay) Sports Pub Rooftop Garden		10.7643179	106.6953625	hostel				https://www.knkinn.com
+node	4169434089	Suite Backpackers Inn		10.7676399	106.6943165	hotel				
+node	4193379889	Khách Sạn Cinnamon		10.7715127	106.6923183	hotel				
+node	4210808389	Khách Sạn Hong Kong Kaiteki		10.7678485	106.6947713	hotel				
+node	4213710995	Khách Sạn Ava 2		10.7647192	106.6950915	hotel				
+node	4214872291	Khách Sạn Vinh		10.7685232	106.6933350	hostel			Vinh Hostel	
+node	4214941891	Khách Sạn Sunrise Central		10.7737761	106.6969229	hotel	3			https://www.sunrisecentralhotel.com
+node	4224939598	Khách Sạn Hương Sen		10.7751112	106.7044078	hotel				
+node	4242359812	Khách Sạn Misu Home		10.7609409	106.6876518	hostel				
+node	4242786289	Khách Sạn Compass Park View		10.7723839	106.6929389	hotel				
+node	4250039390	Khách sạn Đức Vương	Duc Vuong Hotel	10.7657620	106.6909500	hotel				https://ducvuonghotel.com
+node	4254655893	Khách Sạn Lê Duy		10.7707620	106.6936694	hotel			LE DUY	leduyhotel.com.vn
+node	4256038989	Khách Sạn Cát Huy		10.7665690	106.6902920	hotel				
+node	4259725089	Khách Sạn Green Ruby		10.8110069	106.6665074	hotel				
+node	4259829690			10.7678510	106.6943900	hotel				
+node	4267020994	Khách Sạn Town House 373		10.7664642	106.6901077	hostel				
+node	4271032089	Khách Sạn Inn Saigon		10.7687943	106.6905611	hostel				
+node	4278389491	Khách Sạn Lan Anh		10.8438296	106.6563217	hotel				
+node	4283458193	Khách Sạn Mai Yến		10.7817062	106.6683810	hotel				
+node	4283882989	Khách Sạn 68		10.7679462	106.6950983	hotel				
+node	4283890192	Khách Sạn Saga		10.7770203	106.7046434	hotel				
+node	4301481889			10.8401540	106.6300785	hostel				
+node	4302054289	Khách Sạn Himalaya Phoenix Saigon		10.7705584	106.6930431	hostel				
+node	4310532689			10.7670652	106.6896754	hostel				
+node	4312456291	Khách Sạn Inter Nos		10.8052883	106.7340427	hotel				
+node	4316938489	Khách Sạn Quy Thanh		10.7724577	106.6941960	hotel				
+node	4329767988	Khách Sạn The Spring		10.7789420	106.7030687	hotel				https://www.springhotelvietnam.com/
+node	4333190490	Khách Sạn Yến		10.7682867	106.6941009	hotel				
+node	4335923590	Khách Sạn Blue River 2		10.7664022	106.6996139	hotel				
+node	4337995789	Nhà Khách Thanh		10.7673350	106.6932500	hotel				
+node	4360863889	Khách Sạn Hoàng Liên		10.7721656	106.6907311	hotel				
+node	4367701489			10.7929360	106.6657152	hostel				
+node	4380268159	Khách Sạn Hoàng Long		10.7331880	106.6901635	hotel	1		Khách Sạn Hoàng Long	
+node	4394277991	Khác Sạn Minh Minh Tâm		10.7709448	106.6726000	hotel				
+node	4394277992	Khách Sạn Phương Anh		10.7677440	106.6711983	hotel				
+node	4397106801	Khách Sạn Phương Anh		10.7710751	106.6701285	hotel				
+node	4399059692	Khách Sạn Huy Lộc 1		10.7658141	106.6746366	hotel				
+node	4401172307	Khách Sạn Bel Ami		10.7869069	106.6531977	hotel				
+node	4428428898	Nhà Khách Sunny		10.7676412	106.6926997	hostel				
+node	4430291274	Khách Sạn Đất Phù Sa		10.8270428	106.7348122	hotel				
+node	4451886590	Mát Xa Phụng Thuỷ		10.8249336	106.7144464	hotel				
+node	4460443992	Khách Sạn Saigon Friends	Saigon Friends Hostel	10.7696409	106.6920702	hostel				
+node	4465517090	Nhà Khách Ngọc Thảo		10.7679030	106.6925854	hostel				
+node	4468090696	Khách Sạn Viễn Đông		10.7680600	106.6937200	hotel				
+node	4471001000		Sky Center hostel	10.7598563	106.6931922	hostel				
+node	4499234590	Khách Sạn 373 Townhouse		10.7665686	106.6899483	hostel				
+node	4530261654	Khách Sạn Anpha Boutique		10.7728676	106.6970150	hotel				https://www.anphaboutiquehotel.com/
+node	4548750091	Khách Sạn Lê Ngân Phụng	Le Ngan Phung hotel	10.7994489	106.6912420	hotel				
+node	4555513291	Khách Sạn Phú Lộc		10.7985073	106.6580964	hotel				
+node	4555513292	Khách Sạn Liva		10.7983973	106.6581407	hotel				
+node	4559392491			10.8075553	106.6471114	hostel				
+node	4576658289		Phan Long Hotel	10.7722836	106.6938245	hotel				
+node	4598094590	Khách Sạn Eden Garden		10.7681620	106.6945829	hotel				http://www.edengardenhotel.com
+node	4601742491	Khách Sạn Green Suites	Green Suites Hotel	10.7650428	106.6912251	hotel				http://www.greensuiteshotel.com
+node	4605398390	Khách Sạn Nguyệt Vân		10.7617934	106.6914060	hotel				
+node	4605838990	Khách Sạn Hà Oanh		10.8387690	106.6716016	hotel				
+node	4612104689	Pearl Central Hotel		10.7756897	106.7049251	hotel				
+node	4625280796	Hotel Saigon		10.7781086	106.7061218	hotel				
+node	4625634692			10.7807214	106.6511674	hostel				
+node	4631739393		Phamgi	10.7723697	106.7704287	hotel				
+node	4633806989	Khách Sạn Liberty Sài Gòn		10.7379585	106.7300522	hotel				
+node	4666365689	Phòng trọ		10.8443202	106.7611931	hostel				
+node	4675217599	Khách Sạn Thanh Long	thanh pho ho chi minh	10.7704304	106.6509360	hotel				
+node	4675298491	Khách Sạn Phong Phú		10.7653838	106.6464589	hotel				
+node	4675324889	Khách Sạn Hồng Nam		10.7661099	106.6423358	hotel				
+node	4675324989	Khách sạn Phương Vy	Phuong Vy Hotel	10.7629047	106.6584279	hotel				
+node	4675324990	Khách Sạn Kim Hương	tphcm	10.7592294	106.6562423	hotel				
+node	4675325089	Khách sạn Phương Loan	Phuong Loan Hotel	10.7633120	106.6591468	hotel				
+node	4682386491	Khách Sạn Ngọc Thanh Vân	Ngoc Thanh Van Hotel	10.8299632	106.6416087	hotel			Công Ty TNHH TM Siêu Cường Việt Nam	http://xxx-perfume.vn
+node	4690069290		Lucy Saigon Hotel	10.7672885	106.6905532	hotel				
+node	4702527500	Khách Sạn Thanh Vy	tphcm	10.7704573	106.6508045	hotel				
+node	4702528090	Khách Sạn Thanh Loan	tphcm	10.7659087	106.6446124	hotel				
+node	4703397492		Cheerful House	10.7704087	106.6938447	hotel				
+node	4703402190		Golden Wind Hotel	10.7681141	106.6929690	hotel				
+node	4706148389	Jovia Hotel		10.7736320	106.6964836	hotel				
+node	4708271589	Khách Sạn Lee		10.7677146	106.6944025	hotel				
+node	4713002589	Khách Sạn Beautiful Saigon 3		10.7681309	106.6941523	hotel				
+node	4714346191	Khách Sạn Saigon Backpackers		10.7666131	106.6897420	hostel				
+node	4716032289	Khách Sạn Le Le		10.7689685	106.6941923	hotel				
+node	4716084691	thuận đức	Thuan Duc Hotel	10.7678112	106.6929571	hotel				
+node	4737528521		Luci's house Hostel	10.7693881	106.6910069	hostel				
+node	4737705428	Khách Sạn - Bar SIGOONG		10.7642722	106.6953956	hostel				
+node	4767366626	Khách Sạn Phong Phú		10.7639963	106.6618047	hotel				
+node	4768905043		Ky Na	10.7578896	106.6535177	hotel				
+node	4769451222			10.7947150	106.7371725	hostel				
+node	4770705423	Khách Sạn Tyna		10.7637329	106.6954621	hotel				
+node	4781333222		Vy da Backpacker 2	10.7654622	106.6954373	hostel				
+node	4801159434		PP BackPackers	10.7670526	106.6908447	hostel				
+node	4804324721		Saigon Cosy Hotel	10.7697000	106.6921347	hotel				
+node	4808931292	Khách Sạn Sakura Saigon	Sakura Hostel Saigon	10.7702587	106.6928106	hostel				
+node	4810932163	Khách Sạn Ruby River		10.7695809	106.7001775	hotel				
+node	4815270223	Khách Sạn Saigon Backpackers - Cống Quỳnh		10.7663255	106.6894493	hostel				
+node	4818288522		FI House	10.7908576	106.7048590	hotel				
+node	4831809622	Khách Sạn California		10.7625023	106.6927382	hotel			Tom Crawford	
+node	4836654587		Funny Guesthouse	10.7674429	106.6911223	hotel				
+node	4838600629	Khách Sạn Hạnh		10.8148677	106.7095655	hotel				
+node	4838619825			10.8037587	106.7093065	hotel				
+node	4838623522			10.8160992	106.7119289	hotel				
+node	4838623524			10.8143274	106.7098817	hotel				
+node	4841251220	Khách Sạn Snow House		10.7666652	106.6897823	hostel			Snow House Hostel	
+node	4846792121		Minnie & Beau Hotel	10.7680268	106.6930627	hotel				
+node	4855613962	Khách Sạn Little Brick		10.7721864	106.6903094	hotel				
+node	4865605121	@HOME	home	10.8141238	106.7209561	hotel		@HOME		
+node	4875439724	Khách Sạn C Central		10.7677198	106.6946223	hotel				
+node	4903854231	Cho Thuê Căn Hộ Khách Sạn An Nhiên 1		10.7913245	106.6976414	hotel				
+node	4904672321	Khách Sạn Duy Tân		10.7346023	106.6736535	hotel				
+node	4919148221	Khách Sạn Bed Station		10.7668813	106.6937385	hostel				
+node	4919152721	Khách Sạn Lily's		10.7668923	106.6937910	hotel				
+node	4921560321	Khách Sạn Graceful Saigon		10.7670171	106.6931591	hostel				
+node	4930733021			10.7571597	106.7027569	hostel				
+node	4934692021	Khách Sạn Bùi Viện		10.7656473	106.6909530	hostel				
+node	4945518723		Bui Vien Hostel	10.7656374	106.6908578	hostel				
+node	4953509843	Khách Sạn Fullmoon		10.7687039	106.6938307	hotel				
+node	4958749023	Khách Sạn Song Anh		10.7735060	106.6983461	hotel				
+node	4982337921	Khách Sạn & Cafe Like	The Like Hostel & Cafe	10.7702780	106.6897844	hostel			Thich Tran	https://www.facebook.com/Like-Hostel-Cafe-1856085248051410/
+node	4982574354	Khách Sạn Sasa		10.7667087	106.6939549	hotel				
+node	4984787346	Khách Sạn Alleyway		10.7684410	106.6877961	hostel				
+node	5021248568	Khách Sạn Minh Tâm		10.8021474	106.6471412	hotel	3			
+node	5033848321	Khách Sạn Platinum		10.7719161	106.6955768	hotel				
+node	5040316799	Khách Sạn Sunland		10.7622555	106.6961083	hotel				sunlandhotel.vn
+node	5063292824			10.8509375	106.6389526	hostel				
+node	5070470422	Khách Sạn Uyên Anh		10.8128240	106.6683754	hotel				
+node	5087568412	Camelia Central Saigon Hotel		10.7761911	106.7048364	hotel	3			
+node	5134726829			10.7728811	106.7035116	hotel				
+node	5154306121	Khách Sạn Lan Anh		10.7681195	106.6936453	hotel				
+node	5156418122	Khách Sạn Vitamin Smile		10.7646806	106.6950369	hostel				
+node	5171270524	Khách Sạn Elios		10.7682017	106.6926014	hotel				
+node	5177410121	Khách Sạn Lê Duy		10.7705422	106.6940110	hotel				
+node	5179756421	Khách Sạn Lala		10.7666012	106.6898714	hostel				
+node	5181409924		Prague hôtel	10.7685461	106.6941990	hotel				
+node	5212694442	Căn hộ cho thuê	Apartment for rent	10.7491045	106.6417544	hostel				
+node	5219275422	Khách Sạn Phát		10.7640661	106.6409571	hotel				
+node	5219805621			10.7715163	106.6973599	hotel				https://www.facebook.com/OMGSAIGON
+node	5247153223	Khách sạn The Myst Đồng Khởi	The Myst Dong Khoi	10.7747222	106.7053977	hotel				
+node	5265545121	Khách Sạn Vietnam Guide Home		10.7621381	106.6883249	hostel				
+node	5267154421	Khách Sạn K2		10.7658748	106.6910519	hostel				
+node	5270986521		S Phuot coffee	10.8209044	106.6784355	hostel				
+node	5273765221			10.8301756	106.6287178	hostel				
+node	5274814121	Nhà Khách Tao Đàn		10.7748122	106.6974154	hotel				
+node	5291462621	Khách Sạn Thanh Liêm		10.7677464	106.6933762	hotel				
+node	5291676521	Khách Sạn Trung Nam		10.7489831	106.6884727	hotel				
+node	5295219923		Full House Hostel real location	10.7675665	106.6930177	hostel				
+node	5304711822	Khách Sạn Cat		10.7714872	106.6963045	hotel				
+node	5306526021	Khách Sạn Ngọc Linh 2		10.7670212	106.6907062	hotel				
+node	5308161122	Khách Sạn Cao Sơn		10.7976719	106.6902386	hotel				
+node	5316003321		Ngoc hue	10.7623260	106.6927709	hotel				
+node	5328786821		Vien Ngoc Xanh 1 Hotel	10.7975558	106.6637571	hotel				
+node	5330376621	Khách Sạn Hoàng Ngân		10.7714947	106.6900677	hotel				https://www.hoangnganhotel.com.vn/
+node	5331271922	Khách Sạn Queen Ann		10.7710074	106.6894162	hotel				
+node	5339563221			10.7666349	106.6986517	hostel				
+node	5345118862			10.7961873	106.6593080	hotel				
+node	5348448221		Vy da backpacker hostel 2	10.7655911	106.6956238	hostel				
+node	5349532622			10.7966460	106.6649830	hotel				
+node	5350664478			10.7923607	106.6931656	hotel				
+node	5350664482	Khách Sạn Du Xuân		10.7922033	106.6912585	hotel				
+node	5352824753			10.7809165	106.6696037	hotel				
+node	5367463221			10.7555974	106.6908402	hostel				
+node	5388350821		In The Woods Hostel	10.7692911	106.6920311	hostel				
+node	5403567021	Khách Sạn Khói 2		10.7663971	106.6901566	hotel				
+node	5404586822	Khách Sạn Hotel Des Arts Saigon	Hotel des Arts	10.7820238	106.6971407	hotel				https://www.accorhotels.com/gb/hotel-9231-hotel-des-arts-saigon-mgallery-collection/index.shtml
+node	5409166922	Khách Sạn Giang Sơn 2	Giang Son Hotel 2	10.7671880	106.6908866	hotel				
+node	5412272024	Khách Sạn Rou		10.7652660	106.6953264	hostel			Tran Thanh Quang - CEO	https://www.rou.vn/
+node	5413506721	Khách Sạn Stuck In Saigon		10.7685825	106.6875906	hostel				
+node	5413989621		Bali B Hotel	10.7664626	106.6961990	hotel				
+node	5416626132		The Cozi House - Hostel & Coffee	10.7705759	106.6895046	hostel				http://www.thecozihouse.com
+node	5419915324		Anh sao xanh	10.7737099	106.6287175	hotel				
+node	5434955021	Khách Sạn Aloha Saigon		10.7666260	106.6911933	hotel				
+node	5456293321	Khách Sạn Vỹ Dạ	Vy Da Backpackers Hostel	10.7750390	106.6977604	hostel				
+node	5458117021	Nhà Khách Kings Valley		10.7876494	106.6812643	hostel				
+node	5461043622	Khách Sạn Punto		10.7662730	106.6952375	hostel				http://www.puntohostels.com
+node	5468383325		Blessing Central Hotel	10.7718426	106.6956728	hotel				http://www.hongthienloc2hotel.com
+node	5474419726		Phu Thanh Hotel	10.8101546	106.6273560	hotel				
+node	5500075523	Khách Sạn Silverland Yến	Silverland Yen Hotel	10.7743130	106.6961892	hotel				
+node	5513665621	Khách Sạn Thiên Hải		10.7722708	106.6951346	hotel				
+node	5530844922		In The Woods hostel	10.7694510	106.6915296	hostel				
+node	5547548921	Khách Sạn Khánh Nguyên		10.7714370	106.6621087	hotel				
+node	5559613621			10.7723407	106.6946954	hotel				
+node	5563186922	Khách Sạn NoGias		10.7604422	106.6932257	hotel				
+node	5563482621		Mi Linh	10.8152151	106.6681756	hotel				
+node	5566149721	Khách Sạn DaBlend		10.7612274	106.6667533	hostel				
+node	5574941824		sleeping capsules	10.8174626	106.6651745	hostel				
+node	5593839721		mrs Hangs Homestay	10.7455281	106.6836791	hotel				
+node	5598915596			10.7717046	106.6724610	hotel				
+node	5598915618	Khách Sạn Minh Hiếu		10.7725544	106.6720547	hotel				
+node	5598915619	Khách Sạn Linh Giang 2		10.7729391	106.6718683	hotel				
+node	5598915620	Khách Sạn Hoa Hướng Dương		10.7729891	106.6718280	hotel				
+node	5598916097	Khách Sạn Ánh Dương		10.7729443	106.6711467	hotel				
+node	5598916098	Khách Sạn Ngọc Yên		10.7728179	106.6709121	hotel				
+node	5598916099	Khách Sạn Đức Thiện		10.7727480	106.6704896	hotel				
+node	5598916100	Khách Sạn Minh Hải		10.7727072	106.6703998	hotel				
+node	5598916278			10.7728798	106.6697037	hotel				
+node	5598916279			10.7727915	106.6695280	hotel				
+node	5598916285	Khách Sạn Yến Trang 2		10.7733672	106.6688682	hotel				
+node	5601242521	Nhà Khách Ms.Hai		10.7673930	106.6926917	hostel				
+node	5604416521	Khách Sạn City House		10.7948549	106.6721246	hotel				
+node	5614467122	Khách Sạn A&EM		10.7792577	106.7047379	hotel				
+node	5635256921		La Hostel Central	10.7739483	106.7053365	hostel				
+node	5658332722	Khách Sạn Comfortable Nguyễn Trãi		10.7631948	106.6857375	hotel				
+node	5666140121	Khách Sạn Dung Xuyên		10.7733384	106.6709384	hostel				
+node	5744397028	Khách Sạn Bùi Viện		10.7666219	106.6919821	hotel				
+node	5746654221		Winston hotel.	10.8185502	106.7190600	hotel				
+node	5774244952	Khách Sạn White Lion		10.7689872	106.6832351	hotel	3			
+node	5783076654		Tôi’s Travel Home Central	10.7716454	106.6920732	hostel				
+node	5802910122	Khách Sạn Nguyễn Hương		10.7976475	106.7301158	hotel				
+node	5808281356		Bunker Bed & Breakfast	10.7903094	106.6987006	hotel				
+node	5814596553	Khách Sạn Emi		10.7978669	106.6566413	hostel				
+node	5842004787	Khách Sạn Thiên Tú		10.7670326	106.6935716	hotel				
+node	5872611085	Khách Sạn S Phuot Airport		10.8075213	106.6663145	hostel				
+node	5922563987	Khách Sạn Tagahome		10.7614729	106.6982129	hotel				
+node	5928682490		Dorm24h Hostel	10.7656945	106.6913989	hostel				
+node	5929867739	Khách Sạn Jan Central Park		10.7701082	106.6932297	hostel				
+node	5947837685	Khách Sạn Blue River		10.7674193	106.6911990	hotel				
+node	6052692798	Khách Sạn Phan Anh Backpackers	Phan Anh Backpackers Hostel	10.7667685	106.6894425	hostel				
+node	6059038924	Khách Sạn Bích Duyên		10.7674363	106.6911432	hotel				http://bichduyenhotel.net/
+node	6101656885	Khách Sạn Tesla		10.7660154	106.6906175	hostel				
+node	6122963355	YÊN Living Binh Thanh		10.7973141	106.7082817	hotel				https://www.rustycompass.com/vietnam-travel-guide-233/ho-chi-minh-city-4/hotels-15/lief-hotel-saigon-1094
+node	6123051886		Luxury Apartments	10.8101703	106.6653804	hotel				
+node	6124381090	Khách Sạn Thanh Tùng		10.7967439	106.6260862	hotel				
+node	6124516478	Khách Sạn OYO 111 Apa Saigon		10.7912595	106.6900134	hotel		OYO		
+node	6124578085	Nhà Khách Saigon Home		10.7654300	106.6992368	hostel				
+node	6137146375	Khách Sạn Camila		10.8063890	106.6648704	hotel				
+node	6150821986	Khách Sạn Thái Anh 1		10.7972794	106.6893767	hotel				
+node	6150831685	Khách Sạn Thái Anh 2	HOTEL THAI ANH 2	10.7971736	106.6886218	hotel				
+node	6163353085		Mia	10.7691883	106.6981470	hotel				
+node	6169956027	Khách Sạn Sophia		10.7802793	106.7036344	hotel				
+node	6177470885	Khách Sạn Nana	Nana hotel	10.8453139	106.6714791	hotel				
+node	6207920753	Khách Sạn Dola		10.7656334	106.6912519	hostel				
+node	6270763989	Khách Sạn Cống Quỳnh		10.7662999	106.6895561	hostel				
+node	6279929585			10.7633454	106.6906927	hostel				
+node	6290480085		Tam Hostel	10.7741959	106.6961127	hostel				
+node	6297144199	Khách Sạn Saigon Park		10.7703459	106.6920769	hotel				
+node	6301541187	Khách Sạn May May		10.7801485	106.7057753	hotel				
+node	6315388810	Sao Mai Hotel		10.7702718	106.6883571	hotel				
+node	6315390297			10.7643210	106.6873879	hotel				
+node	6315390431		Hangout	10.7671762	106.6895866	hostel				
+node	6315395286			10.7655098	106.6903729	hostel				
+node	6315672392	Khách Sạn Horizon		10.7633850	106.6958906	hotel				
+node	6315672452		Universe	10.7572847	106.6862138	hotel				
+node	6315672810		Rovina	10.7586090	106.6736941	hotel				
+node	6315672884	Khách Sạn Athena	Athena	10.7777390	106.6649274	hotel				
+node	6315672892			10.7578469	106.6738923	hotel				
+node	6315672901	Jan Hostel	Nest	10.7661636	106.6932995	hotel				
+node	6315679798			10.7920388	106.6784461	hotel				
+node	6315683504			10.7917384	106.6770505	hotel				
+node	6315685200			10.7653432	106.6984494	hotel				
+node	6315685998			10.7594298	106.6711459	hotel				
+node	6315686291		Polygon	10.7739439	106.6968218	hotel				
+node	6315686489		Sanouva	10.7732567	106.6962078	hotel				
+node	6315686603	Khách Sạn Cựu Kim Sơn		10.7945622	106.6668275	hotel				
+node	6315686803			10.7597446	106.6723293	hotel				
+node	6315687805		Lucky	10.7915006	106.6892722	hotel				
+node	6315687991			10.7652456	106.6820150	hotel				
+node	6315688488	Khách Sạn Xena	Xena	10.7605270	106.6727398	hotel				
+node	6315688497			10.7666640	106.6773211	hotel				
+node	6315690593			10.7874256	106.6712563	hotel				
+node	6315691885		Asian Ru0by select	10.7698393	106.6883020	hotel				
+node	6318125511	Khách Sạn & Spa Alagon D'antique		10.7718456	106.6940841	hotel				
+node	6318125514		TD Central Hotel	10.7724614	106.6950674	hotel				
+node	6318125515		Lavender Boutique	10.7727404	106.6951937	hotel				
+node	6319111453	Khách Sạn Sơn Tùng		10.7649857	106.6948400	hotel				
+node	6336845787	Khách Sạn Mismo		10.8486506	106.6783323	hotel				
+node	6337053079	Thorn Tong Hotel		10.7701631	106.6995835	hotel	3			
+node	6342279487	Khách Sạn Spotlight		10.7662792	106.6897361	hotel				
+node	6342764685		Green Tea	10.7910933	106.6805516	hotel				
+node	6345750785		asian kitchen hotel	10.7687436	106.6937783	hotel				
+node	6355906490		Quiet Hostel Saigon	10.7694945	106.6874406	hostel				
+node	6361692985	Nhà Khách QMQ		10.7669309	106.7009128	hotel			Ms Linh	https://m.facebook.com/419554571863425/posts/553665381785676?sfns=mo
+node	6390336985	Nhà Khách Jackma		10.8100828	106.7171685	hostel				
+node	6468374666	Khách Sạn R.Lane		10.7630941	106.6931283	hostel				
+node	6468374670	Khách Sạn Mai Lan		10.8139160	106.6696783	hotel				
+node	6544500359	Khách Sạn Anh Duy		10.7692252	106.7025594	hotel				
+node	6586158585	Khách Sạn 939		10.7651365	106.6973847	hostel				
+node	6690584913	Khách Sạn Saigon Center		10.7680905	106.6949631	hostel				
+node	6698952589		Saigon Smile Hostel	10.7677947	106.6929243	hostel				
+node	6702078203	Khách Sạn Tân Bình		10.8258527	106.6329719	hotel				
+node	6712441023			10.7786469	106.6350898	hotel				
+node	6724555964	Khách Sạn Bảo Đăng		10.7760318	106.6408150	hotel				
+node	6724681367	Khách Sạn Di Tân		10.7760035	106.6414993	hotel				
+node	6724770920	Khách Sạn Phương Phi		10.7801007	106.6441027	hotel				
+node	6732564075	Khách Sạn Đầm Sen		10.7696717	106.6378713	hotel				
+node	6732564076	Khách Sạn Thanh Trinh		10.7696006	106.6378927	hotel				
+node	6735631023	Khách Sạn Chùy Ngọc		10.7770522	106.6306635	hotel				
+node	6735631024	Khách Sạn Hoàng Quân		10.7771243	106.6307566	hotel				
+node	6757123989	Khách Sạn Eden		10.8402192	106.6627622	hotel				
+node	6757384432	Khách Sạn Hiền Hòa		10.8423313	106.6583566	hotel				
+node	6757384433	Khách Sạn Vẫn Thỉnh		10.8423432	106.6582493	hotel				
+node	6759753424	Khách Sạn Quỳnh Vân		10.8384048	106.6729787	hotel				
+node	6770635810	Khách Sạn A&E		10.8352028	106.6812882	hotel				
+node	6772848755	Khách Sạn Ánh Linh		10.8361617	106.6809958	hotel				
+node	6789376903			10.8280786	106.6855281	hotel				
+node	6810811489		Spiced - Coliving + Coworking Space (Formerly Start Campus)	10.7954229	106.7327231	hostel				http://spiced.vn
+node	6815031385	Khách Sạn Common inn		10.7718218	106.6938178	hostel				
+node	6924913885	K&T Hotel		10.7673461	106.6935238	hotel				
+node	6975271787	Khách Sạn Saigon Old Town		10.7678584	106.6928607	hostel				
+node	7003610585		The Art - Nice to Home Saigon	10.7613313	106.6933571	hostel				
+node	7025492986	Khách Sạn Ailen Garden		10.7672307	106.6909594	hotel				
+node	7031040086		Green House	10.7910218	106.7008912	hostel				
+node	7043024785	Khách Sạn Saigon Center		10.7652183	106.6977844	hostel				
+node	7055623285	Khách Sạn Hoàng Hà		10.7965151	106.6726903	hotel				
+node	7062420885	Cà Phê - Khách Sạn M.O.M		10.7651932	106.6952692	hostel				https://www.booking.com/hotel/vn/mom-hostel-amp-cafe.en-gb.html
+node	7070055725	Khách Sạn Jungle House		10.7665399	106.6898554	hostel				https://jungle-house-vn.book.direct/en-gb
+node	7094702392	Khách sạn La Vela Sài Gòn		10.7889207	106.6855343	hotel				
+node	7109127689		TD Central Hotel	10.7722865	106.6949798	hotel				
+node	7125483786	Khách Sạn Linh Đan	Linh Dan Hotel	10.7965324	106.6895008	hotel				http://hotellinhdan.com
+node	7138773787	Khách Sạn Sài Gòn 1979	Hotel Saigon 1979	10.7662437	106.6895683	hostel				
+node	7143808386	Khách Sạn Willhome		10.7656460	106.6858803	hostel				
+node	7165684985		A-in Hôtel del Luna	10.7649652	106.6950050	hotel				
+node	7180702385	Khách Sạn Anh Thiên	Anh Thien	10.7747710	106.6973558	hotel				
+node	7239180627	Khách Sạn Condodo		10.7605439	106.6916969	hotel				https://condodo.com/
+node	7239206161	Khách Sạn Condodo		10.7698305	106.6894930	hotel				https://condodo.com/
+node	7244573685	Khách Sạn Bsun		10.7618556	106.6886942	hotel				
+node	7249751985	Khách Sạn Travel Home		10.7676544	106.6932483	hotel				
+node	7259887283	Khách Sạn Hello SaiGon		10.7716836	106.6809315	hotel				
+node	7273856285		springhotel	10.7793313	106.7027864	hotel				
+node	7304943912	Khách Sạn Holiday Inn & Suites Saigon Airport		10.8017599	106.6550628	hotel		Holiday Inn		
+node	7312304285	Khách Sạn Đông Du		10.7768621	106.7051283	hotel				
+node	7418417985		Language Exchange Hostel 2	10.7715714	106.6846093	hostel				
+node	7961633588	Khách Sạn Icon 36		10.7714838	106.6899718	hotel				
+node	8011848385		Quans place	10.8099138	106.7150025	hostel				
+node	8038943885	Khách Sạn Ly Ly 2		10.8217497	106.6310491	hotel				
+node	8038982486	Khách Sạn Amura		10.8246228	106.7192371	hotel				
+node	8038982487	Khách Sạn Hoàng Long Sơn		10.8245977	106.7192812	hotel				
+node	8038997285	Khách Sạn Thiên pHÚ		10.8252293	106.7191422	hotel				
+node	8038997385	Khách Sạn Nguyễn Anh		10.8248123	106.7192850	hotel				
+node	8039111085	Khách Sạn Hưng Triệu		10.8275867	106.7181674	hotel				
+node	8039133586	Khách Sạn Thiên Hồng Phúc		10.8270574	106.7176726	hotel				
+node	8039136185	Khách Sạn Kim Thư		10.8270309	106.7176342	hotel				
+node	8057387285	Khách Sạn Bạch Mai		10.8315047	106.7246300	hotel				
+node	8057387785	Nhà Nghỉ Bích Vân		10.8313509	106.7245940	hotel				
+node	8149539318	Khách Sạn Eden		10.8483789	106.6569026	hotel				
+node	8363996572	Khách Sạn Hải Vân		10.7409435	106.7050279	hotel				facebook.com/hotelhaivan
+node	9584806614	Khách Sạn Citadines Regency Saigon		10.7844410	106.6947174	hotel				
+node	9584814610	Khách Sạn Central Palace		10.7755718	106.6971940	hotel				
+node	9584824717	Khách Sạn Novotel Saigon Centre		10.7845677	106.6960555	hotel				
+node	9584833419	Khách Sạn Rosa & Spa	Rosa Hotel & Spa	10.7745115	106.6965738	hotel				
+node	9584833420	Khách Sạn Ruby Saigon Suites		10.7723717	106.6964369	hotel				
+node	9584833431	Khách Sạn Sila Urban Living		10.7810853	106.6904895	hotel				
+node	9584833438	Khách Sạn MGallery Des Arts Saigon		10.7821904	106.6972726	hotel				
+node	9584833451	Khách Sạn Minh Tâm		10.7743567	106.6782085	hotel				
+node	9584833467	Khách Sạn Wink		10.7911345	106.7003425	hotel				
+node	9584833493	Khách Sạn Vy Vy Airport		10.8004224	106.6625757	hotel				
+node	9585149608	Khách Sạn Ngọc Linh		10.8189144	106.6966866	hotel				
+node	9585162927	Trạm Xe Bus Khách Sạn Liberty 2		10.7709142	106.7002657	hotel				
+node	9585162928	Khách Sạn The Odys Boutique		10.7696637	106.7001165	hotel				
+node	9585525539	Khách Sạn The S		10.7672451	106.6897626	hotel				
+node	9585525540	Khách Sạn Harmony Sài Gòn & Spa		10.7720196	106.6901036	hotel				
+node	9585525541	Khách Sạn A25		10.7690622	106.6901102	hotel				
+node	9585835371	Khách sạn Saigon Garden Hill Apartment & Resort		10.8150232	106.6865550	hotel				
+node	9585983490	Khách sạn Common Inn		10.8028798	106.7326826	hotel				
+node	9587113811	Khách Sạn M Sài Gòn		10.7733584	106.7018286	hotel				
+node	9587269854	Khách sạn Grand Sài Gòn		10.7741702	106.7053896	hotel				
+node	9587269857	Khách Sạn The Reverie Sài Gòn		10.7733278	106.7050390	hotel				
+node	9587309945	iBis Sai Gon Airport Hotel		10.8131695	106.6659262	hotel		Ibis		
+node	9587489374	Khách Sạn Bông Sen Sài Gòn		10.7751171	106.7038852	hotel				
+node	9587536839	Khách Sạn La Galerie		10.7390958	106.6911466	hotel				
+node	9587536841	Khách Sạn 1001 Đêm		10.7387061	106.6905687	hotel				
+node	9605292917	Khách Sạn Gia Long King		10.7718491	106.6939136	hotel				
+node	9671248630	Khách Sạn Madam Cuc 127		10.7660695	106.6895890	hotel				
+node	9861698518		city backpackers hostel	10.7708830	106.6930931	hostel				
+node	9984827219	C central hôtel de Tham bui vien walking street		10.7676463	106.6939116	hotel				
+node	9985120517	Calista Sai gon hotel		10.7723776	106.6948546	hotel				
+node	10041056008	City Backpackers Hostel		10.7707059	106.6930564	hostel				
+node	10115640432	Khách sạn Cali		10.7985659	106.6884303	hotel				
+node	10130469161	Saigon CuCu Hostel		10.7619359	106.6895690	hostel				
+node	10133005171	LA LA Land Hostel		10.7655249	106.6910729	hostel				https://www.tripadvisor.com/Hotel_Review-g293925-d17603214-Reviews-Home_Away_Home_Hostel-Ho_Chi_Minh_City.html
+node	10158711218	NATURAL HOUSE hostel		10.7633355	106.6782640	hostel				
+node	10286921109	Saigon Gao Hostel		10.7665962	106.6898057	hostel				
+node	10288696809	ICON Saigon - LifeStyle Design Hotel		10.7769449	106.7045389	hotel				
+node	10295994210	Hoter BINH MINH LE LAI		10.7695042	106.6923012	hotel				
+node	10296011710			10.7694721	106.6922949	hotel				
+node	10302052409	Rustic Maison		10.7918414	106.6944484	hotel				
+node	10538327809	grand Eastin hotel		10.7961172	106.6730680	hotel				
+node	10562292708	LEHA Saigon Hotel		10.8060049	106.6638135	hotel	5	LE HANG		grouplehahotels.com
+node	10572348809	Thuy Huong Homestay		10.7671521	106.7006496	hotel				
+node	10589461306		Nu Hotel	10.7679641	106.6950467	hotel				
+node	10706803505	SINGITA SAIGON Boutique Hotel		10.7710357	106.6894844	hotel				
+node	10736243173	Thian Hai		10.7726641	106.6948719	hotel				
+node	10741323906	Adora Art Hotel		10.7730745	106.6959112	hotel				
+node	10747303153	Hostel TK24B/9		10.7568374	106.6892893	hostel			Miss Xuan	
+node	10869576305		Vy Da Central market hostel	10.7726980	106.6971883	hostel				
+node	10870507978	Hostel TK24B/9Bis Ben Chuong Duong		10.7569369	106.6894286	hostel				
+node	10886452005		Giang Hotel	10.7682575	106.6941143	hotel				
+node	10918050505		Cabana Hotel Saigon - 47A Nguyen Trai	10.7704811	106.6923844	hotel				
+node	11009716706	KS Kim Ngân		10.7869690	106.6378238	hotel				
+node	11024112305		Grandma Lu Hostel	10.7650749	106.6950821	hostel				
+node	11025884605		Grandma Lu Hostel	10.7893514	106.6752263	hostel				
+node	11027685675	Viet Dream Hostel		10.7669644	106.6928145	hostel				
+node	11122888706		Lan Sai Gon	10.7675054	106.6988314	hostel				
+node	11200752863	Hotel Sai Gon		10.7679172	106.6942428	hotel				
+node	11263873438			10.7668787	106.6911435	hotel				
+node	11296507269	H79 Hotel		10.8006565	106.6601291	hotel				
+node	11308870517	Hai Nam boutique hotel		10.7737170	106.6988967	hotel				https://hainamboutiquehotel.com/
+node	11332720856	Hai Nam Boutique Hotel		10.7737570	106.6987775	hotel				https://hainamboutiquehotel.com/
+node	11364877769		Start House Coliving	10.8155618	106.6686176	hostel				https://www.booking.com/hotel/vn/sh-capsule-3-min-walk-to-the-airport.en-gb.html
+node	11395309769		Signature Le Thanh Ton	10.7820980	106.7043529	hotel				
+node	11395311869	Signature by M Village		10.7806029	106.7043160	hotel				
+node	11415835651	Hotel Tân Thiên Hương	Tan Thien Huong Hotel	10.8456706	106.7460109	hotel				
+node	11430487156	9 Hostel&Suites		10.7700587	106.6936894	hostel				
+node	11433413570		Thao Nhi Hotel	10.7684618	106.6939234	hotel				
+node	11435503426	Northern Hostel		10.7666165	106.6916243	hostel				
+node	11494719178	D Home		10.7740387	106.6979752	hotel				
+node	11515767084	PIANO HOTEL		10.7676887	106.6985509	hotel				
+node	11515767085	Khách sạn Bến Thành Boutique		10.7681926	106.6981792	hotel				
+node	11515795248	Khách Sạn YẾN TRANG 3		10.7717216	106.6691280	hotel				
+node	11515795249	Hanz Mymy Hotel		10.7715567	106.6687986	hotel				
+node	11515795250	Kat in Love		10.7714149	106.6688378	hotel				
+node	11515846157	Azumaya Hotel Thái Văn Lung1		10.7794999	106.7045205	hotel				https://azumayavietnam.com/ja/
+node	11515855856	Hạnh long 2 HOTEL		10.7530744	106.6733125	hotel				
+node	11515870721	Hotel Micasa		10.7370103	106.6906687	hotel				
+node	11515870722	Avatar 2 Hotel		10.7374707	106.6906300	hotel				
+node	11515870723	HÙNG PHÁT HOTEL		10.7376777	106.6915845	hotel				
+node	11515870724	Venice hotel		10.7379628	106.6915888	hotel				
+node	11515870725	Venice 1 Hotel		10.7372743	106.6900561	hotel				
+node	11515870726	Khách Sạn Sao Mai		10.7371877	106.6892585	hotel				
+node	11515870727	Khách Sạn Hoàng Gia		10.7369485	106.6910930	hotel				
+node	11515870728	Khách sạn Sa Rang		10.7367338	106.6910985	hotel				
+node	11515870729	Hotel Lily 2		10.7359023	106.6928133	hotel				
+node	11515870730	Khách Sạn Kim Ngân		10.7359295	106.6925727	hotel				
+node	11517878469		Giang Son Hotel	10.7673289	106.6910480	hotel				
+node	11517957369		Queen hotel	10.8123809	106.6670294	hotel				
+node	11524968469		Spring House	10.7683566	106.6926787	hotel				
+node	11527617757	Khách Sạn Hoa Bảo	Hotel Hoa Bảo	10.8316791	106.6869173	hotel				
+node	11527617758	Hotel Sao Mai		10.8269564	106.6910689	hotel				
+node	11533096030	California Hotel Saigon		10.7747630	106.6965162	hotel				
+node	11533096031	Blue Diamond Hotel		10.7746826	106.6966479	hotel				
+node	11533096032	COCHIN ZEN HOTEL		10.7746249	106.6967387	hotel				
+node	11533096033	Adora Hotel		10.7745428	106.6968579	hotel				
+node	11533096034	Sam Hotel & Apartments		10.7744946	106.6964444	hotel				
+node	11533096035	Cosmo Central Hotel		10.7743549	106.6965740	hotel				
+node	11545371575	Home Tea An		10.8116844	106.6676996	hostel				
+node	11640349669	Cozy Midnight Hotel		10.7736838	106.6967595	hotel				
+node	11676270270	KTX - SLEEP BOOX		10.8273489	106.6866470	hostel				
+node	11730496071			10.8173012	106.6773878	hostel				
+node	11730501169			10.8173878	106.6777379	hostel				
+node	11752893629	Indochine Castle		10.7683468	106.6972800	hotel				
+node	11771157069			10.7730165	106.6957093	hotel				
+node	11782344870	Covent Garden Hotel		10.7744813	106.6964092	hotel				
+node	11817779488			10.7918039	106.7030724	hotel				
+node	11827013648	Cherry Hotel & Appartments		10.8026601	106.6437627	hotel				
+node	11896649069	Celine Living		10.7736925	106.6856236	hotel				
+node	12017194273	LaCa Hostel		10.7674167	106.6930310	hostel				
+node	12049412669	Hưng Thành		10.7992310	106.6575611	hotel				
+node	12297055401	Saigon Cozy2 At Bui Vien Walking Street		10.7677522	106.6924769	hotel				https://www.booking.com/hotel/vn/saigon-cozy2-at-bui-vien-walking-street.de.html
+node	12300683628	Bin Bin 11		10.7749988	106.7513416	hotel				
+node	12327812901	Alagón City		10.7715372	106.6943158	hotel				https://alagonhotels.com/
+node	12345317801	Saigon Europe Hotel & Spa		10.7677236	106.6937316	hotel				
+node	12347802901	Base Backpacker		10.7650330	106.6948788	hostel				https://basebackpackers.asia/
+node	12348265962	Bin Bin Hotel		10.7788397	106.7526733	hotel				
+node	12348270418	H & H Hotel		10.7825652	106.7533710	hotel				
+node	12348311526	ABC Hotel		10.7823715	106.7535094	hotel				
+node	12373757201	Swan Hotel		10.7733073	106.7568308	hotel				
+node	12422885323		Bui Vien Street Hostel	10.7682303	106.6943986	hostel				
+node	12424554203	Saigon Chill Hostel		10.7681723	106.6947541	hostel				
+node	12454286901		Hera Luxury Hotel - Tan Son Nhat Airport	10.8077648	106.6638546	hotel				
+node	12470563501	Saigon Rooftops Hostel		10.7621408	106.6925809	hostel				
+node	12475137502	A&Em Art Hotel		10.7717219	106.6951574	hotel				
+node	12475292501	Lantern Hotel		10.7694108	106.6922050	hotel				https://neo-hospitality.com/
+node	12477658464	Cát Phúc		10.7939625	106.6416284	hotel				
+node	12477658465	Ngọc Hoa Mai		10.7941013	106.6418291	hotel				
+node	12477658466	Nam Anh 3		10.7931054	106.6413146	hotel				
+node	12528272801	Hidden Hogwarts		10.7666299	106.6914829	hotel				
+node	12595578801	419 Hotel		10.7723166	106.6943146	hotel				
+node	12614286201	"Saigon Authentic Alley Hostel - BF, Gym, Billiard"		10.7585318	106.7005999	hostel				
+node	12654268684	The Airport Hotel		10.8099052	106.6656340	hotel				
+node	12654306229	Ciao Saigon 2		10.8097275	106.6656742	hotel				
+node	12692795748	Hotel Indigo Saigon The City		10.7823526	106.7052238	hotel		Hotel Indigo		https://www.ihg.com/hotelindigo/hotels/us/en/ho-chi-minh-city/sgnsc/hoteldetail
+node	12876361501	Hato Hotel		10.7722106	106.7027278	hotel				
+node	12948990101	KunKin Garden Aparthotel		10.7906887	106.7156545	hotel				
+node	12990807330	Khách Sạn Nguyêt Hà		10.7971252	106.6917685	hotel				
+node	13042672164	Haven Hut		10.7619950	106.6934228	hotel				
+node	13075096192	Queen Ann Hotel		10.7711701	106.6895681	hotel				
+node	13077472201	Saigon Authentic Hostel		10.7591502	106.6994968	hostel				
+node	13084313801	M Village		10.7900051	106.6931974	hotel				
+node	13161585201	The Signature Hotel		10.7717327	106.6926339	hotel				
+node	13206822602	AN CHI HOTEL		10.7944046	106.6727454	hotel				https://www.anchihotel.com/home
+node	13235862201	Nexus House Retreat Lang Bao Chi		10.8092849	106.7340996	hotel				https://nexushouse.vn/en/
+node	13235963101	Panda Garden Hotel & Apartment		10.8051680	106.7427342	hotel				https://in.trip.com/hotels/ho-chi-minh-city-hotel-detail-125782372/panda-garden-hotel-apartment/
+node	13243225501	Soul Station		10.8207778	106.6914144	hotel				
+node	13247925433			10.7423734	106.7398284	hostel				
+node	13300070614	Chez Mimosa Petite		10.7660469	106.6954498	hotel		Chez Mimosa		https://chezmimosa.com/chez-mimosa-petite/
+node	13305569267	A25		10.7690034	106.6943093	hotel				
+node	13307615810	Liberty Hotel		10.7686869	106.6935624	hotel				
+node	13307615812	A25		10.7686487	106.6935126	hotel				
+node	13316047801	Cubicity ton that tung		10.7704155	106.6876545	hotel				
+node	13335192401	Acnos Hotel		10.7706314	106.6939594	hotel				https://acnoshotel.com/
+node	13348074001		The 93 Hostel	10.7744114	106.6962027	hostel				
+node	13359419301	THANH LONG HOTEL		10.8057484	106.6653548	hotel				
+node	13396887402	V&M		10.7627722	106.6763492	hotel				
+node	13432410601	Kim's studio		10.7724964	106.6856438	hotel				
+node	13437487226	N3 Opera Residence Hotel		10.7780366	106.7058719	hotel		Hotel Indigo		
+node	13472550602	Vika Homestay		10.7862732	106.6994902	hostel				
+node	13473315701	Minh Hoàng Hotel		10.8008919	106.6446269	hotel				
+node	13475939981	Signy House		10.7939193	106.6884701	hotel				
+node	13478239302	Swan Boutique Hotel		10.7758767	106.7589068	hotel				
+node	13504181620	DNM Hospitality		10.8041275	106.7301078	hotel		Căn hộ dịch vụ và khách sạn		https://dnmhospitality.com/
+node	13504233437	CHOWA HOME by DNM Hospitality		10.8040971	106.7301967	hotel	3	Serviced apartment & hotel		https://dnmhospitality.com/
+node	13504330100	GO VILLA by DNM Hospitality		10.8018869	106.7346611	hotel		Căn hộ dịch vụ và khách sạn		https://dnmhospitality.com/
+node	13508174801	Amango Home Brand 5		10.7894223	106.6933267	hostel				
+node	13532747401	K&T hotel Sân Bay TSN-150m Từ Nhà Ga T3		10.8069918	106.6480228	hotel				
+node	13535838801	AOINN		10.7625121	106.6966516	hostel				
+node	13565873302	Bandlive Backpacker Hostel		10.7645557	106.6879275	hostel				
+node	13565874301	Northern hostel 2 - Bui Vien Walking Street		10.7664161	106.6906993	hostel				
+node	13568617953	Annie House		10.7719801	106.6934172	hotel				
+node	13598152837	Vien Dong Hotel		10.7681027	106.6922764	hotel				
+node	13608627568	Lá Hotel Trương Công Định		10.7938601	106.6402180	hotel				
+node	13623567412	Tản Đà Hotel		10.7511414	106.6647121	hotel				
+node	13662057801	Titi Hotel		10.7680245	106.6943045	hotel				
+node	13684364388	Song Kim		10.7527396	106.6589957	hotel				
+node	13701879495	Aule hostel		10.7703615	106.6927417	hostel				
+node	13713978101	Half Coffee N Dorm		10.7911043	106.7121261	hostel				
+node	13754786003	Diamond rainbow - Language Exchange 3		10.7647309	106.6855763	hostel				
+node	13754826602	Mimosa		10.7678268	106.6859438	hotel				
+node	13757796401	Language exchange 1		10.7707119	106.6841802	hostel				
+node	13760236301	Đại Bình Minh		10.7371068	106.7282065	hostel				
+node	13953242228	Homy Stay		10.7788917	106.6630389	hotel				
+node	14000642110	Trân Châu Hotel		10.7655055	106.7068924	hotel				
+node	14006259792	Ánh Dương Hotel		10.7662115	106.7061819	hotel	2			
+node	14030833001	Quang Hoa Hotel		10.8046479	106.6642521	hotel				
+node	14069845101	Roof Tiles		10.7937030	106.6757769	hostel				
+node	14085073801	Roseland sweet hotel		10.7788899	106.7049117	hotel				
+node	14089176592	Babylon Garden Serviced Apartment		10.7903507	106.6955208	hotel		apartment		https://babylonapartment.com/
+node	14098262601	Ru Ri Homestay		10.8111449	106.6645075	hotel				
+node	14161791822	Hotel Tuấn Phát		10.7690430	106.6318980	hotel				
+node	14213936001	Nature House Homestay		10.8368503	106.7258220	hotel				
+node	14276088901	KAT SaiGon Hotel & apartment		10.7879522	106.7041814	hotel				
+node	14282198401	T Zone House		10.7553112	106.6783214	hostel				
+way	39598465	Khách sạn Caravelle Saigon		10.7761871	106.7036454	hotel	5		Caravelle Saigon	
+way	39598474	Khách sạn Rex Sài Gòn	Rex Hotel Saigon	10.7755862	106.7011060	hotel	5		Saigontourist	https://www.rexhotelsaigon.com
+way	39598491	Khách sạn Sofitel Plaza Saigon	Sofitel Plaza	10.7839813	106.7026056	hotel				http://www.sofitel.com/gb/hotel-2077-sofitel-saigon-plaza/index.shtml
+way	138673259	Khách sạn Palace Saigon		10.7745258	106.7036586	hotel				
+way	140703174	Khách sạn Equatorial		10.7633463	106.6791927	hotel				
+way	165395836	New World Hotel		10.7708179	106.6949125	hotel				
+way	165491081	Khách Sạn Sheraton Saigon	Sheraton Saigon Grand Opera Hotel	10.7758237	106.7039738	hotel				
+way	165520768	Khách sạn & Suites JW Marriott Sài Gòn	JW Marriott Hotel and Suites Saigon	10.7811859	106.7006048	hotel		JW Marriott		https://www.marriott.com/en-us/hotels/sgnjs-jw-marriott-hotel-and-suites-saigon/overview/
+way	186545012	Sherwood Residence		10.7824793	106.6929425	hotel				
+way	187895161	Prince Hotel Saigon		10.7729368	106.7040731	hotel				
+way	193142007		Liberty Central Hotel	10.7740392	106.7062327	hotel				
+way	193142021	Khách sạn Renaissance Riverside Sài Gòn		10.7743593	106.7062212	hotel				
+way	193142038	Majestic Hotel	Majestic Hotel	10.7729445	106.7059606	hotel	5			http://www.majesticsaigon.com.vn/
+way	193142046	Khách Sạn Novotel Saigon Centre		10.7843254	106.6960155	hotel		Novotel	Accor	https://www.novotel-saigon-centre.com/
+way	196546229	Khách Sạn SGN Parkroyal		10.7995324	106.6681043	hotel				https://www.parkroyalhotels.com/en/hotels/vietnam/saigon/parkroyal/index.html
+way	196546231	Vissai Saigon Hotel		10.7988628	106.6708373	hotel				http://www.starcitysaigon.com
+way	198265272	Orchids Hotel		10.7811829	106.6955689	hotel				
+way	231055017	Capri by Fraser		10.7304210	106.7234410	hotel				https://www.frasershospitality.com/vi/vietnam/ho-chi-minh-city/capri-by-fraser-ho-chi-minh-city/
+way	262966596	Khách Sạn Eastin Grand Sài Gòn	Eastin Grand Hotel Saigon	10.7962641	106.6731295	hotel	5			
+way	263311748	Saigon Star Hotel		10.7752121	106.6905019	hotel				
+way	263444621	Khách sạn Kỳ Hòa	Ky Hoa Hotel	10.7728545	106.6742662	hotel				
+way	263502849	Liberty 4		10.7679969	106.6923563	hotel				
+way	263502874	Continental Saigon Hotel		10.7757521	106.7046095	hotel				
+way	264548275	Victory Hotel		10.7804728	106.6934739	hotel	3			http://victoryhotel.com.vn/vi-VN/HCMCDefault.aspx
+way	287478465	Khách sạn Park Hyatt Sài Gòn	Park Hyatt Saigon	10.7775555	106.7032506	hotel	5			https://www.saigon.park.hyatt.com/
+way	289926575	Khách sạn Liberty 2	Liberty 2 Hotel	10.7707146	106.7002761	hotel				
+way	289968621	Khách sạn Nikko Saigon		10.7643130	106.6830061	hotel	5			https://www.hotelnikkosaigon.com.vn/
+way	289968643	A&EM		10.7719162	106.6953372	hotel				
+way	292076575	Khách sạn Liberty Central Sài Gòn CityPoint		10.7746821	106.7006099	hotel				
+way	302293102	Nhà khách Phương Nam		10.7616112	106.6852124	hotel				
+way	302293114	Nhà khách Phương Nam		10.7626556	106.6861397	hotel				
+way	326846290	Khách Sạn Viễn Đông		10.7678519	106.6919380	hotel				
+way	327192432	Khách sạn Phú Thọ	Phú Thọ Hotel	10.7623507	106.6576695	hotel				https://phuthohotel.com.vn/
+way	393652059			10.7785006	106.7025990	hotel				
+way	409004249	Bay Hotel		10.7808007	106.7069264	hotel				https://www.bayhotelhcm.com/
+way	409116783	Khách sạn Silverland Sankyo		10.7816460	106.7053628	hotel				
+way	419478165	Khách sạn Tân Thủ Đô		10.7539031	106.6582115	hotel				
+way	440707744	Saigon Hanoi Hotel		10.7943042	106.6759527	hotel	3			http://saigonhanoihotel.vn/
+way	461455823	Aristo Hotel		10.7809817	106.6947518	hotel				
+way	465297303	Pullman Saigon Centre		10.7642446	106.6917021	hotel		Pullman		
+way	465318257	Khách Sạn Lotte Legend	LOTTE HOTEL SAIGON	10.7789032	106.7065957	hotel				https://www.lottehotel.com/saigon-hotel/en.html
+way	493174172	Tan Son Nhat Hotel		10.8061094	106.6685879	hotel				
+way	493567433	Hotel L'Odeon	Hotel L'Odeon	10.7308651	106.7077397	hotel	3.5			https://www.hotelodeon.vn/
+way	494693841	Elios Hotel		10.7681702	106.6925742	hotel				
+way	498534146	KS Dong Phuong 11 storeys		10.7874155	106.6643339	hotel			Dong Phuong	
+way	505037221	ÊMM HOTEL SAIGON		10.7848549	106.6906705	hotel				https://emmhotels.com/en/hotels/emm-hotel-saigon
+way	585932740	Khách Sạn Cường Thanh 2		10.7727571	106.6698369	hotel				
+way	683697158	Khách sạn Cảng Sài Gòn		10.7657174	106.7066856	hotel				
+way	695895016	Royal Hotel Saigon		10.7744510	106.7024300	hotel				
+way	716914311	Hotel Hạo Thành		10.7588624	106.6532347	hotel				
+way	716914312	Hotel Thanh Hoa Kiều		10.7588193	106.6535856	hotel				
+way	716914313	Hotel 173		10.7578346	106.6533629	hotel				
+way	717286109	Khách Sạn An Tĩnh		10.7640876	106.6554260	hotel				
+way	718489620			10.7771354	106.6307645	hotel				
+way	718503404	Hotel 88		10.7759086	106.6333984	hotel				
+way	718518989	Hotel Tây Nguyên		10.7680340	106.6276706	hotel				
+way	719049543	Sky Star Hotel		10.8407268	106.6503794	hotel				
+way	719049545	Khách Sạn Sao Mai Xanh		10.8411466	106.6509931	hotel				
+way	719482705	Hotel Hoa Bảo		10.8430383	106.6644638	hotel				
+way	726762754	Khách sạn Minh Châu	Minh Chau Hotel	10.7784921	106.6728808	hotel			Phu Nguyen	http://minhchauhotel.com
+way	727014718	Khách Sạn Bonita		10.7799386	106.6684437	hotel				
+way	727014729	MHome Pandora		10.7735388	106.6750890	hotel				
+way	737948715	Aurora Serviced Apartments		10.7760302	106.6900816	hotel				
+way	741084351	Hilton Saigon		10.7750613	106.7057003	hotel		Hilton	Hilton	https://www.hilton.com/en/hotels/sgnhihi-hilton-saigon/
+way	748630923	Sherwood Suites		10.7824640	106.6924284	hotel				https://www.sherwoodsuites.vn/
+way	750360514	TTC Tân Bình Hotel		10.8003961	106.6616175	hotel		TTC		
+way	801958369	Khách Sạn Mường Thanh Sài Gòn Centre		10.7841970	106.7005324	hotel				www.saigoncentre.muongthanh.vn
+way	802069397	Pastel Inn Saigon		10.7778999	106.6981876	hotel				
+way	802069404	Nhà khách Bộ Giao thông Vận tải		10.7778574	106.6973994	hotel				
+way	802104995	Silverland Central		10.7716563	106.6973852	hotel	3			
+way	802104998	Silverland Central		10.7718773	106.6972524	hotel				
+way	802105000	Khách Sạn Gia Huy		10.7718480	106.6966592	hotel				
+way	802105001	Queen Central		10.7718782	106.6967082	hotel				
+way	802105003	Cochin Sang Hotel		10.7719295	106.6967753	hotel				https://cochinsaigonhotels.com/
+way	802105004	Saigon Pink 2		10.7719474	106.6968043	hotel				
+way	802105005	Gia Huy Hotel		10.7720050	106.6969022	hotel				
+way	802105006	Alagon Western Hotel		10.7719744	106.6968504	hotel				
+way	802105008	Khách Sạn Aluna		10.7717807	106.6965584	hotel				
+way	802105034	Norfolk Hotel		10.7747806	106.6999527	hotel				
+way	802157422	Thien Tung		10.7703093	106.6995764	hotel				
+way	804047525	Silverland Charner		10.7721792	106.7034795	hotel				
+way	804925986	Khách Sạn Xuân Hương		10.7800068	106.7040336	hotel				
+way	804925987	Silverland Hotel and Spa		10.7801224	106.7038609	hotel				
+way	806860829	hotel Đại Nam		10.7684217	106.6961769	hotel				
+way	807138075	Regal Luxury		10.7688619	106.6984023	hotel				
+way	807138076	Đình Phát		10.7689687	106.6983243	hotel				
+way	807138079	Khách sạn Lotus Central Saigon		10.7692010	106.6975804	hotel				
+way	820801081	Khách sạn Le Méridien Sài Gòn	Le Meridien Saigon	10.7799374	106.7072890	hotel				
+way	846918265	Khách sạn Trường Thắng		10.7640546	106.6898910	hotel				
+way	1042136099	Villa Sông Sài Gòn		10.8157159	106.7339469	hotel				https://villasong.com/
+way	1042233074	Tràng An Hotel		10.8111851	106.7137569	hotel				
+way	1042578069	Hoàng Triều Entertainment	Hoang Trieu Entertainment	10.7307952	106.7082831	hotel				
+way	1042820548	Khách Sạn Đệ Nhất		10.7961996	106.6601696	hotel				
+way	1042829468	Khách Sạn Iris		10.8063996	106.6642145	hotel				
+way	1042881028	Bach Suites Saigon		10.7824213	106.6966019	hotel				https://www.thebachsuites.com/
+way	1152739363	Acnos Grand Hotel	Le Duy Grand Hotel	10.7756818	106.6860382	hotel				leduygrandhotel.com.vn
+way	1152853668	Khách sạn Minh Khang	Minh Khang Hotel	10.7747837	106.6888601	hotel				
+way	1153040544	Khách sạn Minh Tâm		10.7797713	106.6927951	hotel				
+way	1153472354	Au Lac Legend Hotel		10.7809328	106.6958797	hotel				
+way	1153818775	Khách Sạn Sonnet Saigon		10.7766983	106.6912637	hotel				
+way	1153818777	Hong Hac Hotel Boutique		10.7765037	106.6914616	hotel				
+way	1154088054	Khách Sạn Mai House Saigon	Mai House Saigon Hotel	10.7818752	106.6915468	hotel				https://maihouse.com.vn/
+way	1218853057	Sotetsu Grand Fresa Saigon		10.7825537	106.7049307	hotel				
+way	1225035804	Khách sạn Đức Minh	Duc Minh Hotel	10.7953745	106.6595707	hotel				
+way	1234026236	Khách sạn SoLex	SoLex Hotel & Apartment	10.8010748	106.6425236	hotel	3			
+way	1238737217	Sunny Saigon		10.7678870	106.6939562	hotel				
+way	1273247317	Cozy Hotel HCM		10.7909601	106.7048274	hotel				
+way	1273609118	Thinh Gia Phat Hotel		10.8048268	106.6474958	hotel				
+way	1348765572	LAGUNA Hotel		10.7322652	106.7074350	hotel				
+way	1350675522	Park Hill		10.7308593	106.7074916	hotel	2.5			
+way	1353139944	BLESSED Hotel & Bistro		10.7334765	106.7087240	hotel				
+way	1356240615	Mia Saigon Luxury Boutique Hotel		10.8099887	106.7511040	hotel				
+way	1362893365	Le Saigon Hotel		10.8093918	106.6654657	hotel				https://www.lesaigonhotel.com/
+way	1463053987	Lệ Quỳnh		10.7549964	106.6791743	hotel				
+way	1463054047	La Doma		10.7553392	106.6802603	hotel				
+way	1463680059	Wisely Hotel		10.7564674	106.6808720	hotel				
+way	1463878471	Bạn Tôi		10.7560424	106.6801024	hotel				
+way	1469350414	Thượng Hải		10.7537319	106.6663869	hotel				
+way	1472036876	Lam Kinh		10.7545084	106.6680908	hotel				
+way	1486116585	Viễn Đông		10.7514874	106.6654611	hotel				
+way	1487437458	Sao Mai		10.7530221	106.6558892	hotel				
+way	1487437472	Thuận Phùng Hưng		10.7530077	106.6555755	hotel				
+way	1488638555	Ngoc Minh		10.7674420	106.6913411	hotel				
+way	1488638559	Palago Hotel		10.7676779	106.6912728	hotel				
+way	1488642657	Khách Sạn E		10.7673510	106.6914945	hotel				
+way	1488642658			10.7673137	106.6914596	hotel				
+way	1489501129	Mai Phai		10.7684176	106.6929851	hotel				
+way	1489501130			10.7683734	106.6929424	hotel				
+way	1489506037			10.7685410	106.6935551	hotel				
+way	1489506038			10.7686041	106.6934960	hotel				
+way	1491399151	Thanh Ngọc		10.7527323	106.6585503	hotel				
+way	1492074388	Lệ Ái		10.7531460	106.6590856	hotel				
+way	1493380374	Trung Mai		10.7528584	106.6591951	hotel				
+way	1524313577	Đồng Khánh Hotel		10.7532138	106.6717211	hotel				
+way	1525476290	Celia		10.7544449	106.6769441	hotel				
+way	1525684367	Hoang Phi		10.7675003	106.6908576	hotel				
+way	1526459726	"Rêve Ho Chi Minh City, Vignette Collection by IHG"		10.7703449	106.7005713	hotel				
+way	1526462888	IconSphere Hotel		10.7697284	106.7013823	hotel				
+way	1526475314	Suzu Saigon Hotel		10.7812989	106.7063775	hotel				
+way	1530022326	Nam Hy		10.7560430	106.6761446	hotel				
+way	1530466356	Nguyên Long		10.7553161	106.6761460	hotel				
+way	1536253289	MT House		10.7534047	106.6730860	hotel				
+way	1536253298	Bonka		10.7537137	106.6742711	hotel				
+way	1538958790	Ngân Hà		10.7530603	106.6682598	hotel				
+way	1540713702	Bát Đạt		10.7525665	106.6650262	hotel				
+way	1543155942	Hoàng Nam		10.7523250	106.6670582	hotel				
+way	1545385128	Arc-en-Ciel		10.7521167	106.6646430	hotel				
+way	1549755891	Hotel 68		10.7597450	106.6336053	hotel				
+way	1563852313	Salute Saigon Hotel and Spa		10.7725668	106.6947584	hotel				
+way	1563941385	Văn Hoa		10.7516033	106.6647037	hotel				
+relation	2204742	Khách sạn Continental Sài Gòn	Hotel Continental Saigon	10.7770224	106.7026230	hotel			Saigontourist	
+relation	14666596	Lotus Boutique;Văn phòng Công chứng Sài Gòn	Saigon Notary Office	10.7682986	106.6983332	hotel				
+relation	15578837	Khách sạn Tân Sơn Nhất		10.8007099	106.6708589	hotel				

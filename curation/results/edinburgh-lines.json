@@ -1,0 +1,33 @@
+[
+  {
+    "id": "ledinburgh_trams",
+    "name": "Edinburgh Trams",
+    "color": "#888888",
+    "code": "",
+    "stations": [
+      ["Newhaven",55.98,-3.1887],
+      ["Ocean Terminal",55.9805,-3.1773],
+      ["Port of Leith",55.978,-3.1659],
+      ["The Shore",55.9748,-3.167],
+      ["Foot of the Walk",55.9707,-3.1712],
+      ["Balfour Street",55.9653,-3.1763],
+      ["McDonald Road",55.9606,-3.1816],
+      ["Picardy Place",55.9567,-3.1871],
+      ["St Andrew Square",55.9544,-3.1922],
+      ["Princes Street",55.9517,-3.1982],
+      ["West End",55.9484,-3.2121],
+      ["Haymarket",55.9458,-3.22],
+      ["Murrayfield Stadium",55.9419,-3.2375],
+      ["Balgreen",55.938,-3.2526],
+      ["Saughton",55.9322,-3.276],
+      ["Bankhead",55.9288,-3.2942],
+      ["Edinburgh Park Station",55.9273,-3.3074],
+      ["Edinburgh Park Central",55.9316,-3.3147],
+      ["Gyle Centre",55.9382,-3.3187],
+      ["Edinburgh Gateway",55.9404,-3.3221],
+      ["Gogarburn",55.9379,-3.3327],
+      ["Ingliston Park & Ride",55.94,-3.3544],
+      ["Edinburgh Airport",55.9476,-3.3605]
+    ]
+  }
+]

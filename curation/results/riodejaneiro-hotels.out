@@ -1,0 +1,343 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	322765863	Hotel Fagundes Varela		-22.8999684	-43.1143159	hotel				
+node	331954898			-22.9643453	-43.1770607	hotel				
+node	331956610	Royal Rio Palace Hotel		-22.9643370	-43.1784874	hotel	4			https://royalrio.com.br/
+node	340473485	Hotel Riazor		-22.9262485	-43.1767661	hotel				
+node	412310724	Copacabana Praia Hotel		-22.9869257	-43.1899271	hotel	4			
+node	416979537	Hostel Sun Rio		-22.9497179	-43.1825019	hostel				http://www.sunriohostel.com.br/
+node	422077020	Hostel Flamengo		-22.9261177	-43.1791104	hostel				
+node	431013589	Windsor Florida Hotel		-22.9271554	-43.1761669	hotel				
+node	431750137	Hospedaria Glória		-22.9224416	-43.1773063	hostel				
+node	431750143	Hotel Oásis do Catete		-22.9225252	-43.1773209	hotel	1			
+node	450799276	Hotel Galícia		-22.9106615	-43.1872932	hotel				https://www.hotelgalicia.com.br/
+node	452657821	Riale Imperial Flamengo		-22.9273152	-43.1768644	hotel				
+node	452657840	Vitória		-22.9264561	-43.1767750	hotel				
+node	479091125	Motel Emoção		-22.8798828	-43.3547239	hotel				
+node	502863752	Windsor Guanabara Hotel		-22.9010321	-43.1795544	hotel				
+node	507684840	Hotel Novo Mundo		-22.9252036	-43.1732739	hotel				
+node	512847984	Hotel La Costa		-22.9142993	-43.1826263	hotel				
+node	512852947	Love Time Hotel		-22.9220847	-43.1765722	hotel				
+node	512860156	Elegance		-22.9283620	-43.1747683	hotel				
+node	512869193	Challon Motel		-22.9208354	-43.1806023	hotel				
+node	512871642	Diamond Hotel		-22.9175068	-43.1773673	hotel				
+node	512873877	Hotel Barão do Flamengo		-22.9328109	-43.1766602	hotel				
+node	512887703	Hotel Serrano		-22.9308802	-43.1804064	hotel				
+node	527082940	Hotel Inglês		-22.9253222	-43.1736816	hotel	2			http://www.hotelingles.com.br/
+node	529748996	Atlântico Copacabana		-22.9667761	-43.1862122	hotel				
+node	529749005	Apa Hotel		-22.9665351	-43.1829688	hotel	3			
+node	529749011	Yellow Mellow		-22.9662289	-43.1806192	hostel				
+node	529749016	Ibiza Copacabana Hotel		-22.9632989	-43.1762731	hotel				
+node	529749017	Che Lagarto Hostel		-22.9640650	-43.1784469	hostel				https://www.chelagarto.com/index.php/pt/component/chelagarto/hostels/24-hostel-copacabana.html
+node	529749019	Hotel Porto Bay Rio Internacional		-22.9663889	-43.1770799	hotel				
+node	529749029	Windsor Hotel Leme		-22.9631073	-43.1696988	hotel				
+node	529749030	Acapulco Copacabana Hotel		-22.9640820	-43.1732446	hotel				http://www.acapulcohotel.com.br/
+node	529749032	Real Residence Hotel		-22.9607575	-43.1751239	hotel				https://circuscircuseua.com
+node	529749037	Novotel Leme		-22.9620932	-43.1685341	hotel		Novotel		https://all.accor.com/hotel/B205/index.en.shtml
+node	535870384	Cabana Copa		-22.9627949	-43.1809701	hostel				
+node	535871274	Cidade Maravilhosa Hostel		-22.9191926	-43.1796947	hostel				http://cidademaravilhosahostel.com.br/
+node	535873883	The Mango Tree		-22.9851511	-43.2024369	hostel				
+node	535879680	Lemon Spirit		-22.9852030	-43.2203478	hostel				
+node	557558198	Fairmont Rio de Janeiro Copacabana		-22.9859438	-43.1893310	hotel		Fairmont		
+node	557558281	Atlantis Hotel Copacabana		-22.9867260	-43.1921806	hotel				
+node	557558361	Augusto's Copacabana		-22.9759282	-43.1916779	hotel			Augusto´s Hotéis	
+node	557558551	Bandeirantes		-22.9707403	-43.1890821	hotel				
+node	557558655	Toledo		-22.9714357	-43.1855373	hotel				
+node	559645116	Dora Residence		-22.9128806	-43.1838607	hotel				
+node	559645225	Hotel Monte Castelo		-22.9198325	-43.1790216	hotel				https://www.hotelmontecastelo.com.br/
+node	559645234	Vovó House Hotel Geriátrico		-22.9172701	-43.1809843	hotel				
+node	559645237	Guesthouse Casa Amarela		-22.9162329	-43.1835168	hostel				
+node	592598087	Hotéis OK		-22.9113066	-43.1765566	hotel				
+node	592598131	Windsor Astúrias		-22.9116545	-43.1764953	hotel				https://www.windsorhoteis.com.br/pt-br/loca.asp?hid=59
+node	635991438	Hotel Rio Lisboa		-22.9288574	-43.1779283	hotel				
+node	635991451	Petit Rio Hotel		-22.9287586	-43.1784111	hotel				https://petitriohotel.com.br/
+node	704970808	Art Hostel Rio		-22.9240870	-43.1765891	hostel				http://www.arthostelrio.com/
+node	704970846	Hostel República		-22.9260040	-43.1777746	hostel				https://www.hostelrepublica.com.br/
+node	704978377	Ferreira Viana		-22.9268437	-43.1758703	hotel				
+node	704978396	Regina		-22.9277035	-43.1745722	hotel				https://www.hotelregina.com.br/
+node	704978397	Beija Flor		-22.9274418	-43.1741429	hotel				http://www.hotelbeijaflor.com.br/
+node	704992216	Caxambú		-22.9280591	-43.1746870	hotel				
+node	704992217	Mengo Palace		-22.9282864	-43.1751483	hotel				
+node	819332299	Éden Motel		-22.9252196	-43.2308274	hotel				
+node	819646440	Hotel Saionará		-22.9116781	-43.2133499	hotel				
+node	819646538	Hotel Málaga		-22.9126940	-43.2138045	hotel				
+node	836915410	Rio Rockers		-22.9692298	-43.1901139	hostel				http://www.riorockers.com.br/
+node	836977642	Paysandú Hotel		-22.9338773	-43.1751550	hotel				https://www.paysanduhotel.com.br/
+node	857747397	Rio Backpackers		-22.9740854	-43.1938803	hostel				https://riobackpackers.com/
+node	885782000	Royalty Copacabana		-22.9659857	-43.1845857	hotel	4			http://www.royaltycopacabana-hotel.com/
+node	885782008	King George		-22.9630221	-43.1806912	hostel				
+node	892159613	Arena		-22.9689948	-43.1817135	hotel				https://www.arenahotel.com.br/
+node	892159651	Astoria Copacabana		-22.9662486	-43.1832370	hotel				http://www.astoriacopacabanahotel.com/
+node	892159791	Oceano Copacabana		-22.9697258	-43.1831190	hotel	4			http://www.oceanohotel.com.br/
+node	914639098	São Jorge		-22.9156626	-43.1872996	hotel				
+node	921294740	Hotel Arpoador		-22.9879365	-43.1937983	hotel	4	Hotel Arpoador	Grupo Arpoador	https://www.hotelarpoador.com/
+node	946673775	Único		-22.9289213	-43.1756649	hotel				http://www.unicohotel.com.br/
+node	946673777	Rondônia Palace		-22.9287830	-43.1760511	hotel				https://www.hotelrondonia.com.br/
+node	1007228748	Alpha Hostel		-22.9496871	-43.1823406	hostel				
+node	1007229016	El Misti Hostel		-22.9497563	-43.1826733	hostel				
+node	1007268968	JW Marriot Hotel		-22.9722595	-43.1857716	hotel				
+node	1031254747	Hostel Vila Carioca		-22.9508270	-43.1859350	hostel				http://vilacarioca.com.br/
+node	1105680068	Hilton Rio de Janeiro Copacabana		-22.9645008	-43.1732925	hotel		Hilton	Windsor	https://www.windsorhoteis.com.br/
+node	1219014500	Terrasse Hostel		-22.9854017	-43.2009420	hostel				
+node	1326409438	Hotel Atlântico Business Centro		-22.9113569	-43.1769281	hotel			Atlantico	
+node	1333950986	Rio Ritz		-22.9735346	-43.1901177	hostel				http://www.rioritz.com.br/
+node	1411279733	Rio's Hotel		-22.9072636	-43.1815853	hotel				
+node	1555954385	Portinari Design Hotel		-22.9831940	-43.1906400	hotel				http://www.portinaridesignhotel.com
+node	1743572839			-22.9085518	-43.1080416	hotel				
+node	1746255488	Megare Motel		-22.8945430	-43.2966010	hotel				
+node	1852461113	Tower Icarai Hotel		-22.9120021	-43.1085856	hotel				
+node	1854763257	LimeTime Hostel		-22.9512239	-43.1874746	hostel				www.standfasthostel.com
+node	1885880564	Mirador		-22.9686449	-43.1890949	hotel				
+node	1898416801	Hotel Scorial		-22.9298251	-43.1793378	hotel				
+node	1920415496	Hotel de Trânsito da Marinha		-22.9361544	-43.1081903	hotel				
+node	2012130910	Mar Palace Hatel Copacabana		-22.9688960	-43.1845000	hotel				
+node	2170086998	Copinha Hostel		-22.9619421	-43.1764868	hostel				http://www.copinhahostel.com.br/
+node	2182536361	Copacabana Flat Hotel Residência		-22.9768298	-43.1919973	hotel				
+node	2184276224	Grand Mercure Rio de Janeiro Copacabana		-22.9813984	-43.1901178	hotel				
+node	2184276665	Orla Hotel		-22.9850742	-43.1896517	hotel				
+node	2184276778	Copacabana Rio Hotel		-22.9826181	-43.1911947	hotel				
+node	2318479113	El Misti Rio		-22.9676165	-43.1868037	hostel				https://www.elmistihostelrio.com/
+node	2318497672	Monsieur Le-Blond Apart Hotel		-22.9828078	-43.2238017	hotel				
+node	2328359256	Manga Hostel		-22.9125104	-43.1821247	hostel				
+node	2333211871	Casa Blanca		-22.9095621	-43.1834043	hotel				
+node	2333211872	Castelo		-22.9094247	-43.1834507	hotel				
+node	2379186715	Botanic Hostel		-22.9612829	-43.2141478	hostel				http://botanichostel.com/
+node	2422329208	Hostel in Rio		-22.9352420	-43.1797667	hostel				
+node	2439413043	Hercu's Hostel		-22.9642038	-43.1903067	hostel				
+node	2486714799	Trianon		-22.8877834	-43.1225656	hotel				
+node	2486753814	Ponte Nova		-22.8882484	-43.1229686	hotel				
+node	2499008957	Hotel Americano		-22.9157181	-43.1787868	hotel				
+node	2503450358	Casa da Escada		-22.9155496	-43.1797493	hostel				
+node	2578101833	Copacabana Praia Hotel		-22.9866141	-43.1900470	hotel	4			http://www.copacabanapraiahotel.com.br/pt/index.php
+node	2620450709	Linx Galeão Hotel		-22.8173294	-43.2370461	hotel		Wish		https://www.grupowish.com/en/linx-galeao-by-wish
+node	2632915310	Miramar		-22.9809795	-43.1901165	hotel			Windsor	
+node	2747719898	Windsor Palace		-22.9701022	-43.1844198	hotel				
+node	2781780959	Matianellu hostel		-22.9739491	-43.1932682	hostel				http://hostels.cloudbeds.com/
+node	2791824078	El misti hostel copacabana		-22.9723643	-43.1924165	hostel				http://www.elmisticopacabana.com/
+node	2860840702	Hotel Brás		-22.9308756	-43.1812268	hotel				
+node	2873717101	El Misti House Copacabana		-22.9683700	-43.1867497	hostel			El Misti hostel e pousada	https://www.elmistihouse.com/
+node	2893594777	Bamboo Rio Hostel		-22.9684873	-43.1906823	hostel				http://bamboorio.com/
+node	2893615289	Brazuca's Hostel		-22.9701475	-43.1886331	hostel				http://brazucashostel.com/
+node	2893632910	Casa Karioca		-22.9737762	-43.1940801	hostel				
+node	2893680888	Che Lagarto Hostel Ipanema		-22.9845255	-43.2140947	hostel			Che Lagarto	https://www.chelagarto.com/index.php/pt/component/chelagarto/hostels/4-hostel-ipanema.html
+node	2893691776	Che Lagarto Suites Santa Clara		-22.9664932	-43.1920860	hostel				https://www.chelagarto.com/index.php/pt/component/chelagarto/hostels/3-suites-copacabana-santa-clara.html
+node	2930741243	Casa Beleza		-22.9235229	-43.1894238	hotel				https://www.casabeleza.com/
+node	2934595501	Walk on the beach hostel		-22.9716844	-43.1906909	hostel				
+node	2973399324	Hotel Midway		-22.9092272	-43.1847521	hotel				https://www.midwayhotel.com.br/
+node	3012123881	Hotel Astoria Palace		-22.9683060	-43.1801884	hotel				https://www.astoriapalace.com.br/
+node	3012123882	Hotel Atlantico Praia		-22.9662865	-43.1768303	hotel				https://www.atlanticopraia.com.br/
+node	3199109033	Arosa Rio Hotel		-22.9127010	-43.1908308	hotel				http://www.arosariohotel.com/
+node	3247930634	Hotel 1900		-22.9288223	-43.1780926	hotel				http://www.hotel1900.com.br
+node	3372286335	Villa Budget Hostel		-22.9674486	-43.1864405	hostel				https://www.villabudgethostel.com.br/site/
+node	3489660146	Clubhouse Rio		-22.9818285	-43.1960462	hotel			Oasis Collection	
+node	3708742127	Atlântico Palace		-22.9847835	-43.1913243	hotel				http://www.atlanticopalace.com.br
+node	3750579825	Copacabana Mar Hotel		-22.9650730	-43.1787580	hotel				
+node	3750581425	Ibis		-22.9648200	-43.1788210	hotel		Ibis		
+node	3764588662	Kriok Hostel		-22.9206251	-43.1794810	hostel				https://www.kariok.com.br/
+node	3798474012	Térèze		-22.9216906	-43.1880122	hotel				https://www.tereze.com.br/
+node	3816134252	Ipanema Beach House		-22.9831448	-43.2088432	hostel				
+node	4007959387	The Maze		-22.9276685	-43.1837505	hostel				https://jazzrio.com/
+node	4118983090	casa del mar		-22.9682388	-43.1866711	hostel				
+node	4119263289	CLH Suites Che Lagarto		-22.9679522	-43.1891991	hotel				
+node	4175095298	Pouso Real		-22.9123899	-43.1835634	hotel				
+node	4175095601	Andorinha		-22.9123980	-43.1840727	hotel				
+node	4175101291	Estadual		-22.9123515	-43.1834098	hotel				
+node	4197843293	Villa Santana		-22.9095402	-43.1887325	hotel				http://www.hostelvillasantana.com.br
+node	4197910089	H Rio		-22.9105264	-43.1883820	hotel				
+node	4203405980	atelier hostel		-22.9154286	-43.1796173	hostel				
+node	4207088003	Discovery Hostel		-22.9205416	-43.1773840	hostel				
+node	4210678294	Sante Hostel		-22.9225499	-43.1881489	hostel				
+node	4215431968	Hostel Pousada Favelinha		-22.9292169	-43.1924407	hostel				
+node	4215431970	Mercure		-22.9871054	-43.1907078	hotel		Mercure		
+node	4223061989	villa rica		-22.9166210	-43.1778656	hotel				
+node	4223560893	Vilamar Copacabana		-22.9759377	-43.1905530	hotel				
+node	4225406992	Chill on the beach Hostel		-22.9727688	-43.1892746	hostel				
+node	4235670691	Fatima		-22.9656045	-43.1787205	hotel				
+node	4251840700	Massapê Rio Hostel		-22.9102603	-43.1839067	hostel				massaperiohostel.com
+node	4257951792	Hotel Carioca		-22.9105848	-43.1840927	hotel				
+node	4257959790	Granada Hotel		-22.9114988	-43.1837738	hotel				
+node	4258551091	Hotel Esperança		-22.9091208	-43.1837499	hotel				
+node	4264205089	South America Copacabana Hotel		-22.9835392	-43.1932506	hotel				
+node	4264678980	Megara Hotel		-22.8951208	-43.2966551	hotel				
+node	4264679594	Hotel Aymoré		-22.9113825	-43.1883392	hotel				
+node	4269622089	DaysInn Rio de Janeiro Lapa		-22.9132971	-43.1861817	hotel				https://www.wyndhamhotels.com/pt-br/days-inn/rio-de-janeiro-brazil/days-inn-rio-de-janeiro-lapa/overview
+node	4275376289			-22.9162527	-43.1810612	hotel				
+node	4293334868	Mirasol Hotel		-22.9654354	-43.1791180	hotel				
+node	4293707273	Zii Hotel		-22.9489369	-43.1835165	hotel				https://www.ziihotel.com/
+node	4303506296	EasyGoing Hostel		-22.9249823	-43.1799640	hostel				
+node	4366984589	Santinhas de Santa		-22.9216720	-43.1868756	hotel				
+node	4423384191	Ibis Budget		-22.9732801	-43.1900132	hotel		Ibis Budget		
+node	4439877689	Rio Aeroporto Hotel		-22.8113015	-43.2520450	hotel				
+node	4446519232	Ibis Copacabana Posto 5		-22.9764997	-43.1917564	hotel			Ibis (Accor Hotels)	
+node	4505375694	Itajubá Hotel		-22.9113680	-43.1763007	hotel				https://itajuba-null.riodejaneiro-hotels.net/pt/
+node	4527198120	Hotel Lips		-22.9108380	-43.1769934	hotel				
+node	4548498252	Hostel Vertical		-22.9550719	-43.1824387	hostel				
+node	4584745291			-22.9523862	-43.1761567	hotel				
+node	4626514192	Ocean Hostel Ipanema	Ocean Hostel Ipanema	-22.9836638	-43.2011679	hostel				
+node	4698287691	ROYAL	regency	-22.9291565	-43.1779452	hostel				
+node	4704651211	Pousada baron garden	Hostel baron garden	-22.9231263	-43.1750559	hotel				https://www.barongarden.com/
+node	4715668389	Hotel Atlântico Prime	Hotel Atlântico Prime	-22.9131593	-43.1857686	hotel				https://atlanticoprime.com.br/
+node	4731178522	Sugar Lofy		-22.9179199	-43.1810613	hotel				
+node	4875670624	American Flat		-22.9589014	-43.2004430	hotel				
+node	4892992600	Alma de Santa Guest House		-22.9219936	-43.1830115	hostel				https://www.almadesanta.com/
+node	4898558022	Yes Brasil	Yes Brasil	-22.9810568	-43.1971521	hostel				
+node	4964520569	Organic Hostel		-22.9092719	-43.1718217	hostel				
+node	5088755833	Cruz de Ouro Hotel		-22.9112174	-43.1910928	hotel				
+node	5090291410	Senado Rio Hotel		-22.9103467	-43.1881370	hotel				
+node	5093488010	Hotel Primor		-22.9074733	-43.1853679	hotel				
+node	5093496124	Hotel Hostal		-22.9082713	-43.1847751	hotel				
+node	5093497477	Hotel Gomes Freire		-22.9090224	-43.1844586	hotel				
+node	5093510387	Hotel Monte Alegre		-22.9151198	-43.1875486	hotel				
+node	5108396721			-22.9830864	-43.1956066	hotel				
+node	5135634652	The Villa		-22.9345724	-43.1952838	hotel				
+node	5142775777	Viña del mar		-22.9160422	-43.1786677	hotel				
+node	5177284825	Xanadu Hotel		-22.9022076	-43.2179754	hotel				
+node	5325557221		Mambembe Hostel	-22.9162053	-43.1809290	hostel				
+node	5354297822	Vila Galé		-22.9144475	-43.1846574	hotel				
+node	5355427944	Casa Nova Hotel		-22.9146266	-43.1837975	hotel				https://www.casanovahotel.com.br/
+node	5357096148	Babilonia Río Hostel		-22.9600813	-43.1704785	hostel				
+node	5362457922	Ibis Rio porto atlantico		-22.8971034	-43.2021053	hotel		Ibis		
+node	5385775021	m santinhas de santa	hostel	-22.9236436	-43.1876644	hostel				
+node	5396198235	Valentina Rio Hotel		-22.9020506	-43.1771815	hostel				
+node	5445739428	Tupiniquim Hostel Rio de Janeiro		-22.9548016	-43.1865622	hostel				
+node	5538861052	Copa Hostel		-22.9736187	-43.1900628	hostel				http://www.copahostel.com.br
+node	5702500016	Kazar Rio		-22.9155268	-43.2078668	hostel				
+node	5778983154	Golden hotel empresa gol		-22.9221185	-43.1744019	hotel				
+node	5790263726	Rio Like a Carioca apartaments		-22.9651022	-43.1745717	hotel	5	Rio Like a Carioca	Victor Menezes	https://riolikeacarioca.wixsite.com/riolikeacarioca
+node	5882840685	Nobile Hotel Copacabana Design		-22.9649807	-43.1799967	hotel				
+node	5908079064	Margarida's Pousada		-22.9826738	-43.2115915	hostel				
+node	5919498385		Lighthouse Hostel	-22.9838139	-43.2011414	hostel				
+node	6285247986			-22.9241483	-43.1769159	hostel				
+node	6315712085	Hostel do Tucano		-22.9437901	-43.2004260	hostel				
+node	6541064391	Aquarela do Leme		-22.9605992	-43.1701764	hostel				https://www.aquareladoleme.com/
+node	7011114290	Terra Brasilis (bonne adresse)		-22.9174242	-43.1820993	hotel				
+node	7015115999	Carnaval Rio Hostel		-22.9153941	-43.1953033	hostel				
+node	7124643485	Arosa Río Hotel		-22.9127468	-43.1911776	hotel				
+node	7187687087	Copa Kawana Hostel & Suítes		-22.9657388	-43.1888707	hostel			Recepção	http://www.copakawanahostel.com
+node	7211382415	Hostel Rio Casa da Cacaia e do Henrique		-22.9203885	-43.1854084	hostel				
+node	7777425355	Hotel Caricia		-22.8720352	-43.3447223	hotel				
+node	8151563218	Hotel Angrense		-22.9715071	-43.1881426	hotel				https://www.angrensehotel.com.br/index.php
+node	8151563221	Pousada Salse		-22.9714702	-43.1878638	hotel				
+node	8788618817			-22.9086611	-43.1695847	hotel				
+node	9204957291	Brasileranza Hostel		-22.9067442	-43.1299956	hostel				
+node	9257110612	Selina		-22.9142981	-43.1785715	hotel		Selina		
+node	9350239817	Hotel Alameda		-22.9193957	-43.1783317	hotel				
+node	9743843467	MATIZ NITERÓI DESIGN HOTEL		-22.9121434	-43.1078856	hotel				
+node	9879773521	Regency copacabana		-22.9698993	-43.1887279	hotel				
+node	10000820818	Hostel Maresias do Leme		-22.9603956	-43.1696945	hostel				
+node	10000820819	Hostel 53Dº		-22.9154444	-43.1795927	hostel				
+node	10016655417	Maracanã Hostel		-22.9152648	-43.2286736	hostel				https://maracanahostelvilaisabel.com.br/
+node	10726083946	Le Chateau Lapa - BoutiqueGastroArte Hotel		-22.9133312	-43.1817452	hotel				
+node	11062747005	Windsor Martinique		-22.9806739	-43.1906869	hotel				
+node	11139954562	Hostel Varandas do Maracanã		-22.9139505	-43.2314760	hostel				https://hostelvarandasdomaracana.negocio.site/
+node	11139954563	Hostel Estação Maracanã		-22.9153863	-43.2303295	hostel				https://www.hostelestacaomaracana.com.br/
+node	11139954564	República Maracanã		-22.9130025	-43.2334417	hostel				https://www.facebook.com/repmaracana/
+node	11139954567	ImoWeMo - Maracanã APTO		-22.9151870	-43.2321392	hostel				
+node	11394924269	Aurora Rio Hostel		-22.9544853	-43.1940689	hostel				
+node	11397571771	Ipanema Club Hostel		-22.9855608	-43.2054888	hostel				
+node	11531498569		Arena Copacabana Hotel	-22.9690752	-43.1818161	hotel				
+node	11915867470	Chez Georges		-22.9224808	-43.1859736	hotel				
+node	11959152077	Real Palace Hotel		-22.9648634	-43.1781484	hotel				
+node	12066567691	Argentina Hotel		-22.9367077	-43.1751211	hotel				
+node	12091058329	Riale Imperial Flamengo		-22.9271653	-43.1768541	hotel	3			https://rialehoteis.com.br/hoteis/riale-imperial-flamengo/
+node	12094180040	Janeiro Hotel		-22.9864469	-43.2228937	hotel				https://tidd.ly/4ce3A1x
+node	12207721101	Hostel Centro RJ		-22.9091173	-43.1782908	hostel				
+node	12360334402	Hostel Princess Copacabana		-22.9643294	-43.1744052	hostel				
+node	12386158201	Les Jardins de Rio Boutique Hotel		-22.9410707	-43.2062429	hotel				https://www.lesjardinsderio.com.br/pt/index.html
+node	12417351901	Casa Geranio		-22.9169853	-43.1817910	hotel				
+node	12472866508	Hospedagem Municipal		-22.9066152	-43.1840047	hostel				
+node	12529855293	Rio Claro		-22.9284795	-43.1770436	hotel				
+node	12612647101	Conforto em Copacabana- 100m da praia - BR1307 Z4		-22.9644369	-43.1794703	hotel				
+node	12618217601	Pine Travel HQ - for luggage storage		-22.9800621	-43.1909303	hotel				
+node	12692491298	Windsor California Copacabana Hotel		-22.9724292	-43.1858625	hotel				
+node	12752638701	Hotel Windsor California		-22.9724179	-43.1858702	hotel				
+node	13146835627	Mercure Rio Boutique Copacabana		-22.9720627	-43.1854350	hotel	4			https://all.accor.com/
+node	13160938367	Excelsior		-22.9679082	-43.1798586	hotel				
+node	13528656002	Cocos Hostel		-22.9704439	-43.1879483	hostel				
+node	13532853801	Casa Igba		-22.9164265	-43.1804817	hotel				
+node	13533165501	Hostelling 284		-22.9841538	-43.2034234	hostel				
+node	13643893702	Santa Vista Rio		-22.9347929	-43.1952513	hotel				https://santavistario.com/
+node	13759826902	Hotel Villa Rica		-22.9161202	-43.1781815	hotel				
+node	13772871393	Gaia		-22.9540171	-43.1863041	hostel				
+way	44871094	Hotel Panda		-22.9494348	-43.1923354	hotel				
+way	49857356	Corinto Hotel		-22.9221445	-43.2485025	hotel	5			https://corintohotel.com.br/
+way	132987439	Hotel Cantareira		-22.9010795	-43.1311103	hotel				
+way	182091010			-22.9032901	-43.1347442	hotel				
+way	182115722	Niterói Palace Hotel		-22.8980424	-43.1241505	hotel				
+way	184967306	Mercure		-22.9032613	-43.1347660	hotel				
+way	185307434	H Niterói		-22.9046648	-43.1219318	hotel				https://hniteroi.com.br/
+way	206935581	Hotel Best Western Plus Copacabana Design Hotel		-22.9650829	-43.1799174	hotel				
+way	210232751	Diplomata		-22.9618537	-43.1761578	hotel				http://www.hoteldiplomatacopacabana.com.br/
+way	210235881	Windsor Plaza		-22.9628306	-43.1751947	hotel				https://www.windsorhoteis.com.br/br/hoteis/windsor-plaza/4/apresentacao.aspx
+way	228409983	Ibis Rio de Janeiro Botafogo		-22.9529475	-43.1852184	hotel		Ibis	Accor Hotels	http://www.ibis.com/pt-br/hotel-7547-ibis-rio-de-janeiro-botafogo-opening-june-2013/index.shtml
+way	253657652	Contemporâneo Hostel		-22.9484501	-43.1860279	hostel				https://contemporaneohostel.com.br/
+way	259760384	Hotel Glória - Anexo		-22.9236797	-43.1733155	hotel				
+way	270842385	Ibis Santos Dumont		-22.9085270	-43.1693556	hotel	3	Ibis		http://www.ibis.com/pt-br/hotel-5691-ibis-rio-de-janeiro-santos-dumont/index.shtml
+way	284851138	Gallant Hotel		-22.9127465	-43.2105322	hotel				https://gallant.com.br/
+way	286526452	Rio's Presidente Hotel		-22.9077901	-43.1823579	hotel				
+way	286526454	Ibis Rio de Janeiro Centro		-22.9077076	-43.1818888	hotel		Ibis		http://www.ibis.com/gb/hotel-5534-ibis-rio-de-janeiro-centro/index.shtml
+way	286526455	Ibis Budget Rio de Janeiro Centro		-22.9073756	-43.1819038	hotel		Ibis Budget		https://www.accorhotels.com/de/hotel-5521-ibis-budget-rio-de-janeiro-centro/index.shtml
+way	286529757	Pestana Rio Atlântica		-22.9749580	-43.1879978	hotel				https://www.pestana.com/en/hotel/pestana-rio
+way	297367213	SofitelSofitel Rio de Janeiro Ipanema		-22.9859523	-43.2074004	hotel		Sofitel	Sofitel	https://www.accorhotels.com/pt/hotel-8941-caesar-park-rio-de-janeiro-ipanema-managed-by-sofitel/index.shtml
+way	322770915	Savoy Othon Travel		-22.9773838	-43.1902926	hotel				
+way	325797564	Marina All Suites		-22.9867663	-43.2227457	hotel			Hotéis Marina	https://www.marinaallsuites.com.br/allsuites/portugues/index.asp
+way	325804413	Fasano		-22.9870136	-43.1962262	hotel			Grupo Fasano	https://www.fasano.com.br/hotelaria/hotel/2
+way	357286152	Rio Othon Palace		-22.9774125	-43.1892080	hotel				https://www.othon.com.br/en/hoteis/hotel-em-copacabana/rio-othon-palace
+way	369994575	Bossa Nova Mall		-22.9144534	-43.1664395	hotel			Saphyr	https://www.saphyr.com.br/
+way	429948296	Mar Ipanema Hotel		-22.9841153	-43.2111345	hotel				
+way	429950067	Everest Park Hotel		-22.9856780	-43.2073630	hotel				www.everest.com.br
+way	429950595	Ipanema Inn		-22.9854442	-43.2073631	hotel				https://www.ipanemainn.com.br/
+way	430257408	Rio Ipanema Hotel Residência		-22.9844120	-43.1971542	hotel				
+way	432963769	Vila Galé		-22.9139710	-43.1850287	hotel	4			https://www.vilagale.com/pt/hoteis/rio-de-janeiro/vila-gale-rio-de-janeiro
+way	432965137	Rede Andrade Lapa Hotel		-22.9145968	-43.1888413	hotel				https://redeandradelapa.com.br/
+way	432965593	Paraguai Hotel		-22.9107365	-43.1901567	hotel				
+way	432969361	La Costa		-22.9146563	-43.1822845	hotel		3		
+way	432969441	Books Hostel		-22.9145986	-43.1826289	hostel				https://bookshostel.com/
+way	432969919	Rio Aplauso Hostel		-22.9149667	-43.1822950	hostel				http://www.rioaplausohostel.com.br/
+way	434833254	Porto House		-22.9007982	-43.2025425	hostel				
+way	442826149	Villa Leonor		-22.9165694	-43.1897788	hotel				https://www.villaleonor.com/
+way	456028391	Arena Leme Hotel		-22.9620118	-43.1666365	hotel				https://www.arenahotel.com.br/
+way	473167373	Hotel Atlântico Rio		-22.9760238	-43.1932039	hotel	4			
+way	488122569	Tiki Hostel		-22.9804650	-43.1975758	hostel				
+way	488125126	Pousada Casa del Angel		-22.9810292	-43.1961896	hotel				
+way	488127254			-22.9832734	-43.1949443	hotel				
+way	488127255			-22.9833066	-43.1949624	hotel				
+way	624273829	Arena Ipanema Hotel		-22.9877601	-43.1926731	hotel				https://www.arenahotel.com.br/
+way	632251684	Hotel Ibis Nova América		-22.8771739	-43.2707985	hotel		Ibis		
+way	871096278	"MODERNISTAS, HOSPEDAGEM E ARTE E ANEXO GALERIA DE ARTE"		-22.9202949	-43.1873331	hotel				
+way	980250584	Hotel Central		-22.8954599	-43.1234740	hotel				
+way	991725295	Mercure Hotel		-22.9525708	-43.1898680	hotel	5	Mercure		http://www.mercure.com/pt/hotel-5629-mercure-rio-de-janeiro-botafogo-hotel/index.shtml
+way	997262013	Real Hotel		-22.9539065	-43.1932793	hotel				
+way	997751143	Novotel		-22.9454688	-43.1829502	hotel		Novotel		https://all.accor.com/hotel/9631/index.pt.shtml
+way	997751144	Ibis Budget Hotel		-22.9453572	-43.1834858	hotel		Ibis Budget		https://all.accor.com/hotel/9600/index.pt.shtml
+way	997751166	Hotel Bambina		-22.9456328	-43.1851071	hotel				
+way	998441298	Hostel Cafofo		-22.9399386	-43.1804259	hotel				
+way	998441460	Cultura Carioca		-22.9399824	-43.1804968	hostel				http://www.albergueculturacarioca.com.br/
+way	998441593	Hotel Yoo2 Rio de Janeiro		-22.9427431	-43.1816121	hotel			Intercity Hotels	
+way	1000399059	Mercure Botafogo Mourisco		-22.9517327	-43.1818988	hotel		Mercure		
+way	1000399664	Farfalla São Manuel		-22.9537076	-43.1826136	hostel				
+way	1028772981	Novotel Santos Dumont		-22.9087630	-43.1693226	hotel	4	Novotel		http://www.novotel.com/pt-br/hotel-6522-novotel-rj-santos-dumont-/index.shtml
+way	1040897071	Augusto's Rio Copa Hotel		-22.9615968	-43.1749095	hotel				https://augustoshoteis.com.br
+way	1041988845			-22.9650540	-43.1797725	hotel				
+way	1041988846			-22.9652464	-43.1797065	hotel				
+way	1041988847			-22.9653615	-43.1796348	hotel				
+way	1041988848			-22.9654942	-43.1795564	hotel				
+way	1041988849			-22.9661412	-43.1791396	hotel				
+way	1041988850			-22.9659373	-43.1792605	hotel				
+way	1041988851			-22.9656133	-43.1794892	hotel				
+way	1041988852			-22.9657183	-43.1794256	hotel				
+way	1041988853			-22.9658247	-43.1793612	hotel				
+way	1041988854			-22.9666210	-43.1797737	hotel				
+way	1041988855			-22.9664518	-43.1796679	hotel				
+way	1041988856			-22.9663704	-43.1795494	hotel				
+way	1046333322	Hotel Scorial		-22.9298141	-43.1792938	hotel				
+way	1046531926			-22.8172316	-43.2369779	hotel				
+way	1051817393	Prodigy Santos Dumont		-22.9143280	-43.1666443	hotel				
+way	1052309769	Hotel Cristóvão		-22.9062998	-43.2182676	hotel				
+way	1064530624	Matiz Niteróí Design Hotel		-22.9122294	-43.1078232	hotel				
+way	1188777988	Villa 25		-22.9313226	-43.1803121	hostel				
+way	1352878859	Hotel Cápsula Residenziale		-22.9001999	-43.1303544	hotel				https://hotelresidenziale.com.br/
+way	1492416580	B&B HOTEL Rio de Janeiro Norte		-22.8878275	-43.2846942	hotel		B&B Hotels		https://www.hotel-bb.com/pt/hotel/rio-de-janeiro-norte
+relation	13387850	Do Samba Hostel		-22.9480846	-43.1846065	hostel				
+relation	13930843	Hotel Atlantico Star		-22.9614316	-43.1750004	hotel	3			http://www.atlanticostar.com.br/
+relation	16787562	B&B Hotel Santos Dumont		-22.9106397	-43.1710748	hotel		B&B Hotels		https://www.hotel-bb.com/pt/hotel/santos-dumont
+relation	18369001	Hotel Copacabana Palace		-22.9670112	-43.1791682	hotel	5	Belmond		https://www.belmond.com/pt-br/copacabana-palace-rio-de-janeiro/

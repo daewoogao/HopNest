@@ -1,0 +1,3 @@
+5 lines, 54 stations
+  check: Kalayang Bandar Udara: no colour tag in OSM, set the official color by hand
+  check: MRT East-West Line: fewer than 2 named stops (under construction?), skipped; OSM relation r18663751

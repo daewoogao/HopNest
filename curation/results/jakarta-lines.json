@@ -1,0 +1,91 @@
+[
+  {
+    "id": "lbk",
+    "name": "Jabodebek LRT Bekasi Line",
+    "color": "#0E6938",
+    "code": "BK",
+    "stations": [
+      ["Jatimulya",-6.2641,107.0217],
+      ["Bekasi Barat",-6.2529,106.9904],
+      ["Cikunir 2",-6.2546,106.9632],
+      ["Cikunir 1",-6.2566,106.9519],
+      ["Jatibening Baru",-6.2577,106.9279],
+      ["Halim",-6.2459,106.8873],
+      ["Cawang",-6.2459,106.8712],
+      ["Ciliwung",-6.2434,106.864],
+      ["Cikoko",-6.2434,106.8571],
+      ["Pancoran",-6.2421,106.8385],
+      ["Kuningan",-6.2288,106.8332],
+      ["Rasuna Said",-6.2216,106.8323],
+      ["Setiabudi",-6.2093,106.8303],
+      ["Dukuh Atas Bank Syariah Indonesia",-6.2048,106.8255]
+    ]
+  },
+  {
+    "id": "lcb",
+    "name": "Jabodebek LRT Cibubur Line",
+    "color": "#20409A",
+    "code": "CB",
+    "stations": [
+      ["Dukuh Atas Bank Syariah Indonesia",-6.2049,106.8255],
+      ["Setiabudi",-6.2093,106.8302],
+      ["Rasuna Said",-6.2216,106.8322],
+      ["Kuningan",-6.2288,106.8332],
+      ["Pancoran",-6.2422,106.8385],
+      ["Cikoko",-6.2435,106.8571],
+      ["Ciliwung",-6.2435,106.864],
+      ["Cawang",-6.2459,106.8712],
+      ["Taman Mini",-6.2929,106.8805],
+      ["Kampung Rambutan",-6.3096,106.8844],
+      ["Ciracas",-6.3238,106.8866],
+      ["Harjamukti",-6.3739,106.8957]
+    ]
+  },
+  {
+    "id": "lkalayang",
+    "name": "Kalayang Bandar Udara",
+    "color": "#888888",
+    "code": "Kalayang",
+    "stations": [["Terminal 3",-6.1199,106.6651],["Terminal 2",-6.1232,106.6529],["Train Station",-6.1273,106.6531],["Terminal 1",-6.1301,106.6561]]
+  },
+  {
+    "id": "lm",
+    "name": "MRT North-South Line",
+    "color": "#CE0037",
+    "code": "M",
+    "stations": [
+      ["Lebak Bulus Bank Syariah Indonesia",-6.2893,106.7749],
+      ["Fatmawati Indomaret",-6.2925,106.7925],
+      ["Cipete Raya TUKU",-6.2784,106.7973],
+      ["Haji Nawi",-6.2667,106.7973],
+      ["Blok A VISA",-6.2558,106.7972],
+      ["Blok M BCA",-6.2444,106.7982],
+      ["ASEAN Headquarters",-6.2388,106.7985],
+      ["Senayan Mastercard",-6.2268,106.8025],
+      ["Istora Mandiri",-6.2224,106.8087],
+      ["Bendungan Hilir",-6.2151,106.818],
+      ["Setiabudi Astra",-6.2091,106.8218],
+      ["Dukuh Atas BNI",-6.2008,106.8228],
+      ["Bundaran HI Bank Jakarta",-6.1918,106.8231]
+    ]
+  },
+  {
+    "id": "ls",
+    "name": "LRT Jakarta",
+    "color": "#F16227",
+    "code": "S",
+    "stations": [
+      ["Manggarai",-6.2087,106.8459],
+      ["Proklamasi",-6.202,106.8505],
+      ["Matraman",-6.195,106.8602],
+      ["Pramuka",-6.192,106.8711],
+      ["Rawamangun",-6.1932,106.8828],
+      ["Velodrome",-6.1919,106.8912],
+      ["Equestrian",-6.1834,106.8914],
+      ["Pulomas",-6.1771,106.8936],
+      ["Boulevard Selatan",-6.169,106.9],
+      ["Boulevard Utara Summarecon Mall",-6.1593,106.9061],
+      ["Kelapa Gading",-6.1574,106.9141]
+    ]
+  }
+]

@@ -1,0 +1,136 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	4121993867	Skylofts at MGM Grand		36.1023654	-115.1688720	hotel				http://www.skyloftsmgmgrand.com
+node	4122949642	Monterey Grand Manor		36.1056729	-115.1595323	hotel				
+node	4880389190	Extended Stay America		36.1124503	-115.1894599	hotel		Extended Stay America		https://www.extendedstayamerica.com/hotels/nv/las-vegas/valley-view
+node	4943165697	Residence Inn Las Vegas South		36.0831107	-115.1827980	hotel		Residence Inn		
+node	7740624678	Home2 Suites by Hilton Las Vegas Convention Center		36.1263116	-115.1464620	hotel		Home2 Suites		
+node	8996759333	Las Vegas Hilton at Resorts World		36.1351620	-115.1666672	hotel		Hilton		https://www.hilton.com/en/hotels/lashhhh-las-vegas-hilton-at-resorts-world/
+node	8996759334	Conrad Las Vegas at Resorts World		36.1344816	-115.1656573	hotel		Conrad		https://www.hilton.com/en/hotels/lascdci-conrad-las-vegas-at-resorts-world/
+node	8996759335	Crockfords Las Vegas		36.1348091	-115.1659160	hotel		LXR		
+node	11200730137			36.0986416	-115.1640485	hotel				
+node	11870193458	Days Inn		36.0982723	-115.1641423	hotel		Days Inn		https://www.wyndhamhotels.com/days-inn/las-vegas-nevada/days-inn-las-vegas-airport-near-the-strip/overview
+node	13770197469	AC Hotel by Marriott Las Vegas Symphony Park		36.1695277	-115.1533783	hotel		AC Hotel		https://www.marriott.com/en-us/hotels/laspa-ac-hotel-las-vegas-symphony-park/overview/
+node	13903667931	Harrah's Las Vegas		36.1197957	-115.1715090	hotel		Caesars Entertainment		https://www.caesars.com/harrahs-las-vegas
+way	25723909	Bellagio Las Vegas	Bellagio Las Vegas	36.1131121	-115.1768773	hotel			MGM Resorts International	https://bellagio.mgmresorts.com/en.html
+way	27523549	Gold Coast Hotel & Casino		36.1167019	-115.1929240	hotel			"W Flamingo Rd,"	
+way	27831695	Park MGM		36.1047131	-115.1762968	hotel				https://parkmgm.mgmresorts.com
+way	27858544	Luxor Las Vegas	Luxor Las Vegas	36.0954709	-115.1758043	hotel				https://www.luxor.com/en.html?ecid=GMB_Hotel_Luxor#/
+way	27858550	Mandalay Bay Resort & Casino		36.0920140	-115.1748144	hotel		MGM Resorts		https://mandalaybay.mgmresorts.com
+way	27897911	Hilton Vacation Club Polo Towers Las Vegas		36.1065230	-115.1708487	hotel		Hilton		
+way	27910891	Encore Las Vegas		36.1294560	-115.1647264	hotel				
+way	33959894	Treasure Island Hotel and Casino		36.1245746	-115.1715061	hotel				https://www.treasureisland.com/
+way	33962963	Mardi Gras Hotel & Casino		36.1254611	-115.1537794	hotel				https://www.mardigrasinn.com/
+way	33974140	Paris Las Vegas		36.1122234	-115.1706739	hotel				http://www.parislasvegas.com
+way	38618747	Tahiti Suites		36.0587379	-115.1700242	hotel				
+way	52175576	Aria Resort & Casino	Aria Resort & Casino	36.1070177	-115.1776548	hotel				http://www.arialasvegas.com/
+way	52194829	Waldorf Astoria Las Vegas		36.1062276	-115.1742739	hotel		Waldorf Astoria	Hilton Worldwide	https://www.waldorfastorialasvegas.com/
+way	61239326	The Vanderpump Las Vegas Hotel & Casino - A Caesars Rewards Destination		36.1151041	-115.1716550	hotel		Caesars		https://www.caesars.com/vanderpump-hotel
+way	95223229	The Carriage House		36.1073667	-115.1680260	hotel				http://www.carriagehouselasvegas.com
+way	111380666	Trump International Hotel Las Vegas		36.1294988	-115.1726497	hotel				https://www.trumphotels.com/las-vegas
+way	115080290	Park MGM	Park MGM	36.1047337	-115.1752444	hotel				https://parkmgm.mgmresorts.com
+way	115661793	New York New York Hotel and Casino	New York New York Hotel and Casino	36.1021538	-115.1745923	hotel			MGM International	https://newyorknewyork.mgmresorts.com
+way	115672893	Caesars Palace	Caesars Palace	36.1166247	-115.1766530	hotel				https://www.caesars.com/caesars-palace
+way	115768623	Hilton Grand Vacations at the Flamingo		36.1166745	-115.1689592	hotel		Hilton Grand Vacations		
+way	115771295	The LINQ Hotel + Experience		36.1183503	-115.1711504	hotel				https://www.caesars.com/linq
+way	116761428	Flamingo Las Vegas	Flamingo Las Vegas	36.1164220	-115.1714963	hotel				https://www.caesars.com/flamingo-las-vegas/
+way	116770006	Hotel MGM Grand Las Vegas	Hotel MGM Grand Las Vegas	36.1027124	-115.1698497	hotel				http://www.mgmgrand.com
+way	116867081	Horseshoe Las Vegas Hotel & Casino - A Caesars Rewards Destination		36.1134826	-115.1689115	hotel				
+way	116876230	Rio All Suite Hotel and Casino		36.1175325	-115.1873397	hotel				http://www.riolasvegas.com
+way	118347176	W Las Vegas		36.0930958	-115.1773313	hotel		W Hotels		https://www.marriott.com/en-us/hotels/lasdl-w-las-vegas/overview/
+way	118361200	Oyo Casino Hotel		36.0996916	-115.1674780	hotel		OYO		https://www.hooterscasinohotel.com/
+way	118363803	Holiday Inn Express & Suites Las Vegas - E Tropicana		36.0994612	-115.1651657	hotel		Holiday Inn Express & Suites		https://www.ihg.com/holidayinnexpress/hotels/us/en/las-vegas/lasta/hoteldetail
+way	118366175	Candlewood Suites Las Vegas - E Tropicana		36.0982238	-115.1651337	hotel		Candlewood Suites		
+way	128622185	Harrah's Showroom	Harrah's Las Vegas	36.1193194	-115.1710518	hotel				http://www.harrahslasvegas.com
+way	130628950	The Rita Suites		36.1301037	-115.1610953	hotel				https://ritasuites.vegas/
+way	132157010	The D Las Vegas		36.1695492	-115.1427038	hotel			Derek Stevens	https://www.thed.com/
+way	133757429	"Virgin Hotels Las Vegas, Curio Collection by Hilton"		36.1095515	-115.1544996	hotel		Virgin Hotels		https://virginhotelslv.com/
+way	133897094	"Bluegreen Vacations Club 36, an Ascend Collection Resort"		36.1026707	-115.1561784	hotel				https://www.choicehotels.com/nevada/las-vegas/ascend-hotels/nv105?mc=llgoxxpx
+way	134068317	Fontainebleau Resort & Casino		36.1375855	-115.1595367	hotel				https://www.fontainebleaulasvegas.com/
+way	134691921	Westgate Las Vegas Resort & Casino		36.1356402	-115.1516168	hotel				
+way	134795273	The Cosmopolitan of Las Vegas		36.1101790	-115.1740800	hotel				https://www.cosmopolitanlasvegas.com
+way	134921373	Planet Hollywood Resort and Casino		36.1100774	-115.1712974	hotel			Caesars Entertainment Corporation	https://www.caesars.com/planet-hollywood
+way	134949402	Nobu Hotel at Caesars Palace		36.1167079	-115.1751898	hotel		Caesars Entertainment		https://www.caesars.com/nobu-caesars-palace
+way	135020970	The Westin Las Vegas Hotel		36.1152263	-115.1656956	hotel		Westin		http://www.westinvegas.com/
+way	135028668	The Signature at MGM Grand		36.1066382	-115.1665385	hotel				
+way	135298867	Platinum Hotel and Spa		36.1138235	-115.1630023	hotel				
+way	135332959	Circus Circus Las Vegas		36.1376786	-115.1650626	hotel				https://www.circuscircus.com/
+way	135453935	Sahara Las Vegas Hotel & Casino		36.1423354	-115.1565378	hotel				https://saharalasvegas.com/
+way	135456188	The Strat		36.1476979	-115.1562840	hotel				https://stratospherehotel.com/
+way	159968980	Candlewood Suites Las Vegas		36.1158084	-115.1533555	hotel		Candlewood Suites		
+way	180584269	The Palazzo		36.1241811	-115.1681620	hotel			Las Vegas Sands	https://www.palazzo.com/
+way	181282568	Best Western Plus Casino Royale-Center Strip		36.1206270	-115.1716010	hotel		Best Western Plus	Best Western	https://www.bestwestern.com/en_US/book/hotels-in-las-vegas/best-western-plus-casino-royale%e2%80%93center-strip/propertyCode.29087.html
+way	204714496	John E. Carson Hotel		36.1679388	-115.1404572	hotel				
+way	205497576	Residence Inn Las Vegas Hughes Center		36.1158366	-115.1559031	hotel		Residence Inn		https://www.marriott.com/lashh
+way	205501268	Wynn Las Vegas		36.1266511	-115.1656312	hotel				https://www.wynnlasvegas.com/
+way	206151446	Golden Nugget Las Vegas		36.1698106	-115.1453597	hotel				https://www.goldennugget.com/LasVegas/
+way	206291994	Four Queens		36.1700614	-115.1437577	hotel				
+way	207630732	Bridger Inn Hotel Las Vegas		36.1690639	-115.1476407	hotel				
+way	207630735	Bridger Inn Hotel Las Vegas		36.1686477	-115.1479190	hotel				
+way	221669606	Hyatt Place		36.1070177	-115.1510117	hotel		Hyatt Place		https://www.hyatt.com/hyatt-place/en-US/laszl-hyatt-place-las-vegas
+way	234895887	Bungalows Hostel		36.1559733	-115.1500382	hostel				
+way	276427192	Shalimar Hotel of Las Vegas		36.1548686	-115.1494767	hotel				
+way	276427203	Marriott's Grand Chateau		36.1074282	-115.1692212	hotel		Marriott Vacation Club	Marriott Vacation Club	https://www.marriott.com/hotels/travel/lasvg-marriotts-grand-chateau/
+way	295292594	Sin City Hostel		36.1566507	-115.1493282	hostel				
+way	296778998	Best Western McCarran Inn		36.0998226	-115.1487055	hotel		Best Western		https://www.bestwestern.com/en_US/book/hotels-in-las-vegas/best-western-mccarran-inn/propertyCode.29058.html
+way	308291918	Silver Sevens Hotel & Casino		36.1137975	-115.1527272	hotel				
+way	313762432	Las Vegas Marriott		36.1318958	-115.1572050	hotel		Marriott	Marriott	
+way	313762434	Springhill Suites by Marriott Las Vegas Convention Center		36.1351097	-115.1555269	hotel		SpringHill Suites		https://www.marriott.com/hotels/travel/laspr-springhill-suites-las-vegas-convention-center/
+way	329178205	Embassy Suites by Hilton Las Vegas		36.1109202	-115.1512493	hotel		Embassy Suites		https://www.hilton.com/en/hotels/laseses-embassy-suites-las-vegas/
+way	331347632	Embassy Suites by Hilton Convention Center Las Vegas		36.1240009	-115.1539039	hotel		Embassy Suites		https://www.hilton.com/en/hotels/lascces-embassy-suites-convention-center-las-vegas/
+way	331347684	Courtyard Las Vegas Convention Center		36.1302435	-115.1558839	hotel		Courtyard	Marriot	https://www.marriott.com/lasch
+way	345028470	Las Vegas Desert Club Resort		36.1176106	-115.1616663	hotel		Holiday Inn Club Vacations	Holiday Inn Club Vacations	https://m.ihg.com/hotels/holidayinnclubvacations/us/en/hoteldetail/lascv
+way	364843230	Travelodge Las Vegas		36.1375430	-115.1627687	hotel		Travelodge		https://www.wyndhamhotels.com/travelodge/las-vegas-nevada/travelodge-las-vegas/overview
+way	364846548	Nirvana Hotel		36.0918124	-115.1720615	hotel				
+way	367811002	Holiday Inn Express Las Vegas - South		36.0847869	-115.1847993	hotel		Holiday Inn Express		
+way	367814096	Staybridge Suites Las Vegas		36.0853235	-115.1835421	hotel		Staybridge Suites		
+way	367814603	Fairfield Inn & Suites Las Vegas Stadium Area		36.0845093	-115.1832016	hotel		Fairfield Inn & Suites		https://www.marriott.com/lasfs
+way	367814604	Courtyard by Marriott Las Vegas Stadium Area		36.0837705	-115.1829456	hotel		Courtyard		https://www.marriott.com/lascy
+way	397861154	Tuscany Suites & Casino		36.1131545	-115.1602554	hotel				
+way	410366570	Siegel Suites Select Convention Center		36.1326029	-115.1612328	hotel				
+way	431504486	TownePlace Suites Las Vegas Stadium District		36.1003078	-115.1820884	hotel		TownePlace Suites		https://www.marriott.com/lastw
+way	431504492	Hampton Inn Tropicana		36.0996213	-115.1835432	hotel		Hampton		https://www.hilton.com/en/hotels/lasinhx-hampton-tropicana/
+way	494974482	Homewood Suites by Hilton Las Vegas City Center		36.1060742	-115.1818467	hotel		Homewood Suites		
+way	494974483	Hilton Garden Inn		36.1051880	-115.1818513	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/laslggi-hilton-garden-inn-las-vegas-city-center/
+way	502624676	Four Seasons Hotel Las Vegas		36.0908077	-115.1744680	hotel		Four Seasons		https://www.fourseasons.com/lasvegas/
+way	510516348	Fortune Hotel & Suites		36.1136917	-115.1582132	hotel			Fortune Hotel	https://www.fortunelasvegas.com/
+way	565876914	Fairfield Inn		36.1197061	-115.1541343	hotel		Fairfield Inn		https://www.marriott.com/lasfi
+way	568622622	Wyndham Desert Blue		36.1222479	-115.1837732	hotel		Wyndham		https://www.extraholidays.com/las-vegas-nevada/wyndham-desert-blue
+way	587100035	Ahern		36.1443108	-115.1608262	hotel				
+way	698199401	Palace Station		36.1424608	-115.1749693	hotel		Station Casinos		
+way	714967057	Serene		36.1073884	-115.1541403	hotel				
+way	790044913	Home2 Suites by Hilton Las Vegas City Center		36.0997390	-115.1820357	hotel		Home2 Suites		https://www.hilton.com/en/hotels/lastaht-home2-suites-las-vegas-city-center/
+way	829268216	Hampton Inn & Suites Las Vegas Convention Center		36.1264354	-115.1466375	hotel		Hampton Inn & Suites		https://www.hilton.com/en/hotels/lassvhx-hampton-suites-las-vegas-convention-center/
+way	835388241	Tru by Hilton Las Vegas Airport		36.0648670	-115.1626551	hotel		Tru		
+way	835388242	Homewood Suites by Hilton Las Vegas Airport		36.0648074	-115.1617796	hotel		Homewood Suites		
+way	955659686	La Quinta Inn & Suites by Wyndham LV Tropicana Stadium		36.1005892	-115.1905113	hotel		La Quinta Inn & Suites		
+way	972129019	Resorts World Las Vegas		36.1336887	-115.1664305	hotel				https://www.rwlasvegas.com
+way	1017290143	DoubleTree by Hilton Las Vegas East Flamingo		36.1155802	-115.1511772	hotel		DoubleTree		https://www.hilton.com/en/hotels/lasevdt-doubletree-las-vegas-east-flamingo/
+way	1036271486	Park Inn by Radisson		36.0977908	-115.1820345	hotel		Park Inn		
+way	1036273646	DoubleTree by Hilton Hotel Las Vegas Airport		36.0583624	-115.1448332	hotel		DoubleTree		https://www.hilton.com/en/hotels/laschdt-doubletree-las-vegas-airport/
+way	1213435842	The English Hotel		36.1612393	-115.1522884	hotel				
+way	1235856356			36.1545395	-115.1522865	hotel				
+way	1425377785	Americana Apartments		36.1070308	-115.1577334	hotel				
+way	1444629631	Emerald Suites		36.1225587	-115.1529261	hotel				
+way	1503485948	Jockey Club		36.1102200	-115.1753782	hotel			Jockey Club	
+way	1515696421	Spark by Hilton		36.0655101	-115.1627615	hotel		Spark by Hilton		
+way	1554649018	Renaissance Las Vegas Hotel		36.1273605	-115.1540581	hotel		Renaissance		https://www.marriott.com/en-us/hotels/lasbr-renaissance-las-vegas-hotel/overview/
+way	1559198495	The Club LAS		36.0860097	-115.1338191	hotel				
+relation	1631815	Desert Rose Resort		36.0980680	-115.1675115	hotel				https://www.shellhospitality.com/Desert-Rose-Resort
+relation	4646933	The Diplomat Apartment		36.1263306	-115.1539397	hotel				
+relation	5342155	"Elara, a Hilton Grand Vacations Club"		36.1087093	-115.1687190	hotel				https://www.phtowers.com/
+relation	6022477	The Mansion at MGM Grand		36.1032211	-115.1710851	hotel				
+relation	6138874	Aztec Inn		36.1461126	-115.1564826	hotel				
+relation	6138876	Hilton Grand Vacations Suites - Las Vegas (Convention Center)		36.1397960	-115.1525631	hotel		Hilton Grand Vacations		
+relation	6138877	Hilton Grand Vacations on the Boulevard		36.1397545	-115.1607589	hotel		Hilton Grand Vacations		
+relation	6138878	Residence Inn Las Vegas Convention Center		36.1310407	-115.1559125	hotel		Residence Inn		https://www.marriott.com/lasnv
+relation	6138879	Wyndham Grand Desert		36.1070899	-115.1610717	hotel		Wyndham Grand		
+relation	6138881	Howard Johnson Tropicana		36.0986160	-115.1657814	hotel		Howard Johnson		
+relation	6138882	Travelodge Las Vegas Airport North/Near the Strip		36.0982718	-115.1644778	hotel		Travelodge		
+relation	6139942	La Quinta Inn & Suites Las Vegas Airport N Conv.		36.1171213	-115.1539244	hotel		La Quinta Inn & Suites		
+relation	6139943	Red Roof Inn Las Vegas		36.1100470	-115.1516369	hotel		Red Roof Inn		
+relation	7655651	Palms	palms	36.1144040	-115.1959218	hotel				
+relation	7770314	The Venetian Las Vegas		36.1217005	-115.1694338	hotel			Las Vegas Sands	https://www.venetian.com/
+relation	8086330	Excalibur Hotel & Casino	Excalibur Hotel & Casino	36.0988646	-115.1755221	hotel				https://www.excalibur.com/
+relation	19188218	Fontainebleau Las Vegas		36.1375855	-115.1595367	hotel		Fountainebleau		https://nubizsolution.wixstudio.com/bwaltd/project-detail/fontainebleau-las-vegas
+relation	20155511	Element by Marriott Las Vegas Symphony Park		36.1695401	-115.1532784	hotel		Element		https://www.marriott.com/en-us/hotels/laspe-element-las-vegas-symphony-park/overview/
+relation	20214578	Vdara Hotel & Spa		36.1094251	-115.1779921	hotel			MGM Resorts	https://vdara.mgmresorts.com

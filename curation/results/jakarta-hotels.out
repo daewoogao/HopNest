@@ -1,0 +1,684 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	316174532	Mercure Hotel Ancol		-6.1223774	106.8365693	hotel				
+node	356176999	The Dharmawangsa		-6.2533599	106.8052625	hotel				https://www.the-dharmawangsa.com/
+node	494903786	Jakarta Airport Hotel		-6.1225393	106.6526285	hotel				
+node	824317972	Tator		-6.1857560	106.8291834	hotel				
+node	824318256	Guest House		-6.1832948	106.8297472	hostel				
+node	1394577147	Aston Rasuna		-6.2192714	106.8365341	hotel				
+node	2400155117	The Westin Jakarta		-6.2238064	106.8335263	hotel		Westin		
+node	2465991274	Antoni		-6.1510827	106.8175389	hotel				
+node	2560831705	C One		-6.1724023	106.8632249	hotel				
+node	3200484852	The Packer Lodge		-6.1460841	106.8149068	hostel				
+node	3453477575	Grand batik inn		-6.1499002	106.8274618	hotel				
+node	3495097793	The Grove Suites by GRAND ASTON;The Grove Suites		-6.2173821	106.8343518	hotel				https://www.astonhotelsinternational.com/en/hotel/view/44/the-grove-suites-by-grand-aston
+node	3697659035	Djody Hotel		-6.1856391	106.8292240	hotel				
+node	3697659038	Istana Ratu		-6.1836685	106.8296820	hotel				
+node	3697659042	Wisma Delima		-6.1838017	106.8296497	hostel				
+node	3733197625	iHome Residence		-6.1883600	106.8197450	hotel				
+node	3768283373	Marriott Executive Apartments		-6.2084117	106.8225199	hotel		Marriott Executive Apartments		
+node	3908156184	Grand Whiz Hotel		-6.1533567	106.8968100	hotel				
+node	3947167679	Hotel Ciputra		-6.1679987	106.7866990	hotel				
+node	4047404719	Alinda Hotel		-6.1841333	106.8289567	hotel				
+node	4047414769	Bloem Steen Hostel		-6.1847168	106.8300866	hostel				
+node	4117884489	Sunlake Hotel		-6.1469573	106.8796579	hotel				
+node	4130191290	봉사장님집		-6.2272512	106.7365317	hotel				
+node	4146090277	Golden Crown	Golden crown	-6.1423676	106.8171774	hotel				
+node	4146179927	Pop! Hotel Tebet - Jakarta		-6.2329730	106.8447543	hotel				
+node	4146360260	Grand Hyatt Jakarta		-6.1938028	106.8224472	hotel		Grand Hyatt		
+node	4146540889	Hotel Borobudur Jakarta		-6.1723652	106.8344121	hotel				
+node	4146620226	Fave Hotel Wahid Hasyim		-6.1870817	106.8205212	hotel				
+node	4146902684	Fave Hotel PGC Cililitan		-6.2623759	106.8649190	hotel				
+node	4146911672	Favehotel Melawai Blok M		-6.2444589	106.8014773	hotel				
+node	4148231421	Classic Hotel		-6.1620637	106.8297224	hotel				
+node	4148239589	Artotel		-6.2215263	106.8150855	hotel		Artotel		
+node	4148591295	B Fashion Hotel		-6.1818293	106.7921331	hotel				
+node	4150315475	Orchardz Hotel		-6.1471302	106.8359908	hotel				
+node	4150325789	Illigals Hotel & Club		-6.1521554	106.8175552	hotel				
+node	4150335401	Orchardz hotel Jayakarta		-6.1426200	106.8289390	hotel				
+node	4150942398	Veranda Hotel		-6.2395907	106.7858187	hotel				
+node	4152570010	Amaris Hotel Thamrin City		-6.1945344	106.8179660	hotel				
+node	4152838881	Whiz		-6.1883111	106.8366862	hotel				
+node	4152945513	Fashion Hotel		-6.1491207	106.8351860	hotel				
+node	4153027368	Amaris Hotel Dr. Susilo Grogol		-6.1658280	106.7963622	hotel				
+node	4153070740	Hotel 88 (Grogol)		-6.1659373	106.7907957	hotel				
+node	4153071165	Amaris Hotel Mangga Besar		-6.1494978	106.8188916	hotel				
+node	4154586989	Amaris Hotel Pancoran		-6.2474683	106.8432049	hotel				
+node	4154591777	Amaris Hotel Panglima Polim 2		-6.2522772	106.7975410	hotel				
+node	4154596712	Amaris Hotel Dr. Satrio Kuningan		-6.2255740	106.8296474	hotel				
+node	4154598318	Amaris Hotel Panglima Polim		-6.2462701	106.7988528	hotel				
+node	4154598482	Amaris Hotel Pasar Baru		-6.1604629	106.8372104	hotel				
+node	4154609847	Amaris Hotel Season City		-6.1541867	106.7958958	hotel				
+node	4154616055	Whiz Prime Hotel		-6.1532452	106.8924587	hotel				
+node	4154644988	Hotel 88 Mangga Besar VIII		-6.1508468	106.8256577	hotel				
+node	4154649037	Hotel 88 Mangga Besar Raya		-6.1483780	106.8288888	hotel				
+node	4154650597	Hotel 88 Mangga Besar 62		-6.1491442	106.8237398	hotel				
+node	4154687138	Fave Hotel Jakarta Gatot Subroto		-6.2273731	106.8200559	hotel				
+node	4154698489	Favehotel Kelapa Gading		-6.1612776	106.9077413	hotel		Favehotel		
+node	4154902642	Fave Hotel LTC Glodok Jakarta		-6.1459050	106.8161388	hotel				
+node	4154959694	Favehotel Pasar Baru		-6.1599734	106.8359328	hotel				
+node	4154979724	favehotel Puri Indah		-6.1828896	106.7512565	hotel				
+node	4155363675	The Ritz-Carlton Jakarta		-6.2237809	106.8098165	hotel		The Ritz-Carlton		
+node	4155390096	Hotel Indonesia Kempinski		-6.1952375	106.8221687	hotel				
+node	4155442603	Harris Suites fX Sudirman - Jakarta		-6.2253018	106.8038892	hotel				
+node	4155475227	NEO Hotel Tendean - Jakarta		-6.2387753	106.8176696	hotel				
+node	4155480689	NEO Hotel Melawai - Jakarta		-6.2456454	106.7981983	hotel				
+node	4183652794	Orchrdz Hotel Industri		-6.1480963	106.8364213	hotel				
+node	4186283160	Sawana Suites		-6.2084968	106.8059879	hotel				www.sawanasuites.com
+node	4198510244	Hostel 35		-6.1851011	106.8284757	hostel				
+node	4225209089	Hotel Lautze Indah		-6.1573337	106.8348533	hotel				
+node	4234972933	58 Guest House		-6.2747766	106.7450407	hotel				
+node	4235064769	Alexis Hotel		-6.1319079	106.8238060	hotel				
+node	4235065052	Gran Mahakam Hotel		-6.2447780	106.7951832	hotel				
+node	4235107389	Grand Tjokro Jakarta		-6.1653050	106.7818709	hotel				
+node	4235108589	eL Hotel Royale Jakarta		-6.1524272	106.8956182	hotel		eL Hotel Royale Jakarta		https://jakarta.el-hotels.com/
+node	4235118008	Green Bamboo Residence		-6.2185042	106.8259285	hotel				
+node	4235122239	Sofyan Inn Tebet		-6.2368755	106.8444296	hotel				
+node	4235234965	Aston Cengkareng City Hotel		-6.1370492	106.7333441	hotel				
+node	4235242220	Aston Pluit Hotel & Residence		-6.1242991	106.7950506	hotel				
+node	4235245502	Audah Guesthouse Syariah		-6.2103227	106.8261143	hostel				
+node	4235288201	DoubleTree by Hilton Jakarta Kemayoran		-6.1411172	106.8536513	hotel		DoubleTree		https://www.hilton.com/en/hotels/jktkedi-doubletree-jakarta-kemayoran/
+node	4240703813	Hotel Astika		-6.1489029	106.8251598	hotel				
+node	4240713403	Hotel Gren Alia Prapatan		-6.1806421	106.8380919	hotel				
+node	4240721689	Hotel Kristal		-6.2838069	106.7908115	hotel				
+node	4240726809	Hotel Mercure Jakarta Kota		-6.1490679	106.8171008	hotel				
+node	4240740429	Hotel Pasar Baru		-6.1651784	106.8345601	hotel				
+node	4240741892	Puri Kwitang Hotel		-6.1816280	106.8402865	hotel				
+node	4240747048	Hotel Salemba Jakarta		-6.1913991	106.8505699	hotel				
+node	4240748795	Swiss Bell Hotel Mangga Besar		-6.1495738	106.8341053	hotel				
+node	4240755630	Hotel Sentral		-6.1921696	106.8647274	hotel				
+node	4240757098	Hotel Santika Premiere Slipi Jakarta		-6.1984667	106.8025222	hotel		Santika Indonesia Hotels & Resorts		
+node	4240763005	Hotel Travel		-6.1510786	106.8259886	hotel				
+node	4240832859	U Stay Hotel Mangga Besar		-6.1489985	106.8334861	hotel		Hotel		
+node	4240988340	Cabin Hotel Sunter		-6.1479927	106.8881984	hotel				
+node	4241041551	Casa Living		-6.2072342	106.8262619	hostel				
+node	4241069279	Cipta Hotel Pancoran		-6.2473090	106.8431966	hotel				
+node	4241108183	Cosmo Amaroossa Hotel		-6.2764538	106.8086077	hotel				
+node	4242653860	Golden Boutique Hotel Melawai		-6.2470308	106.7987360	hotel				
+node	4242679440	Topaz Hotel & Residence		-6.2168561	106.8265810	hotel				
+node	4243802509	Twin Plaza Hotel		-6.1826158	106.7971419	hotel				
+node	4243838379	P Hotel		-6.1921400	106.8673581	hotel				
+node	4243950991	V Hotel		-6.2418880	106.8446608	hotel				
+node	4244058137	Red Planet Hotel Pasar Baru Red Planet Hotel		-6.1601527	106.8344530	hotel				
+node	4244063985	MaxOne Hotel Pemuda		-6.1927035	106.8807842	hotel				
+node	4244126015	Le Grandeur Mangga Dua		-6.1370926	106.8258294	hotel				
+node	4244133290	Horison Ultima Menteng		-6.1864527	106.8366672	hotel				
+node	4244143733	Putri Duyung Ancol		-6.1218229	106.8409833	hotel				
+node	4244149676	Gading Indah Hotel		-6.1599436	106.9174531	hotel				
+node	4244162982	Alpine Hotel		-6.1556857	106.8366324	hotel				
+node	4244169494	Zuri Express Mangga Dua by ZHM Zuri Express Hotel Jakarta - Mangga Dua		-6.1396224	106.8253242	hotel				
+node	4244182011	The Bellezza Suites		-6.2213906	106.7817984	hotel				
+node	4244184827	Sommerset Berlian Jakarta		-6.2234396	106.7817469	hotel				
+node	4245714333	Sheraton Grand Jakarta Gandaria City Hotel		-6.2452177	106.7830538	hotel		Sheraton		
+node	4245900332	The Hermitage		-6.1982609	106.8380931	hotel				
+node	4245905429	Safin Inn Cipete		-6.2669213	106.8027478	hotel				
+node	4248047234	Bimasena		-6.2526701	106.8038100	hotel				
+node	4255705089	Prasada Mansion		-6.2133920	106.8218783	hotel				
+node	4255706925	The Acacia Hotel		-6.1889819	106.8472349	hotel				
+node	4255735082	Wisma Shinta		-6.2140252	106.8750837	hostel				
+node	4255791675	Hotel Nuansa Bali Anyer		-6.2113234	106.8590718	hotel				
+node	4261951412	Hotel Santika Kelapa Gading		-6.1500853	106.9027610	hotel		Santika Indonesia Hotels & Resorts		
+node	4271328490	Wisma PGI		-6.1921322	106.8331329	hotel				
+node	4288913489	Hotel Zenrooms Hayam Wuruk		-6.1659018	106.8214024	hotel				
+node	4407613526	Fraser Place		-6.2153730	106.8293768	hotel				
+node	4456383812	Hotel Novotel Gajah Mada		-6.1473040	106.8157261	hotel		Novotel		
+node	4607562297	BeATKers Jakarta Club House		-6.2289462	106.8392659	hostel			Rifai Zein	
+node	4736136421	Hotel Yello Harmoni	Yello Hotel Harmoni	-6.1642812	106.8211005	hotel		Yello Hotels		https://yellohotelharmoni.com/
+node	4780218922	Wonderloft		-6.1365583	106.8125970	hostel				
+node	5078323622	Hotel Sunter Paradise		-6.1315369	106.8636644	hotel				
+node	5104653533	Rawa tengah		-6.1749654	106.8572297	hotel				
+node	5105271641	d'ARCICI Hotel Sunter		-6.1318082	106.8637760	hotel				
+node	5185653437	Ro & Vi Hotel		-6.1560681	106.8185331	hotel				
+node	5185990338	Aone Hotel		-6.1869521	106.8279353	hotel				
+node	5225840221	Groove suite		-6.1897753	106.8277106	hotel				
+node	5315765522	Rosmida House	Rosmida House	-6.1447840	106.7319446	hostel				
+node	5316007424	Harum Manis Home		-6.1452213	106.7318471	hostel				
+node	5366959623			-6.1504631	106.7318131	hostel				
+node	5459176874	Kamar Keluarga		-6.1911585	106.8194036	hostel				
+node	5567983135	Kitara Hotel		-6.1868135	106.8200516	hotel				
+node	5680762921	LeGreen Suite		-6.2339067	106.8436052	hotel				
+node	5692560922	Pancoran China Town Point		-6.1408072	106.8134899	hotel				
+node	5748309720	Novotel Jakarta Mangga Dua Square		-6.1381756	106.8318856	hotel		Novotel		
+node	5880403786	OYO 107 Kusuma Kemang Suite		-6.2541388	106.8137475	hotel				https://www.oyorooms.com/36932-budget-oyo-107-kusuma-kemang-suite-jakarta
+node	5895415766	The Nyaman Jakarta		-6.2370184	106.8497366	hotel	2			https://thenyaman.com/
+node	6031728187	Park 5 Cilandak		-6.2962603	106.7992443	hotel				
+node	6063583430	Holiday Inn Express Jakarta Matraman		-6.2029493	106.8577566	hotel		Holiday Inn Express		
+node	6174506118	Hotel Kuretakeso Kemang		-6.2540413	106.8142681	hotel	3S	Kuretake-inn	PT Kuretakeso Hotel Indonesia	https://www.kuretakesoindonesia.com/
+node	6180683186	Pharmin		-6.1831505	106.8129454	hotel				
+node	6183188685	myhotel		-6.1455430	106.8164972	hotel				
+node	6183552897	Hotel Santika Premiere		-6.1494327	106.8172602	hotel		Santika Indonesia Hotels & Resorts		
+node	6187462924	Ketapang Recidences		-6.1604307	106.8120001	hotel				
+node	6187462999	ibis Styles Jakarta Gajah Mada		-6.1602206	106.8179255	hotel				
+node	6190345386	Fortuna		-6.1414572	106.8136396	hotel				
+node	6201125788	Simple Inn		-6.1868772	106.8180528	hotel				
+node	6201125790	Juno		-6.1874058	106.8172930	hotel				
+node	6201153988	Afindo		-6.1872932	106.8168157	hotel				
+node	6203331097	Amaris		-6.1657308	106.7963528	hotel				http://www.amarishotel.com
+node	6203331205	Posto Domire		-6.1656883	106.7965637	hotel				http://postodomire.com
+node	6210484292	RedDoorz	RedDoorz	-6.1719369	106.7931508	hotel		RedDoorz		
+node	6210484489	FM1 Boutique Hotel		-6.1722950	106.7901088	hotel				
+node	6210486485	Gloria Suites		-6.1670065	106.7952928	hotel				https://www.gloria-suites.com/
+node	6213078997	Arsonia Orchid		-6.2042613	106.8051904	hotel				
+node	6213079087	Sotis Residence		-6.2034367	106.8060557	hotel				
+node	6213079093	WIR		-6.1906694	106.8067185	hotel				
+node	6213079587	Gani		-6.1890396	106.8089658	hotel				
+node	6213079605	n1		-6.1889873	106.8094595	hotel				
+node	6213082785	Alma		-6.1884023	106.8088194	hotel				
+node	6216235386	Celvasha		-6.1832257	106.8120116	hotel				https://celvashahotel.com/
+node	6218997089	PAX		-6.2054300	106.8584198	hotel				
+node	6219015589	Atlantic		-6.1980410	106.8517270	hotel				
+node	6219027186	Capsule		-6.1939400	106.8383381	hotel				
+node	6219120486	Hotel Cikini	Hotel Cikini	-6.1923614	106.8390114	hotel				
+node	6219674086	Fraser Residence		-6.1848840	106.8343942	hotel				
+node	6219674089	Dreamtel		-6.1875770	106.8307504	hotel				http://dreamteljakarta.com
+node	6219674093	Erian		-6.1874526	106.8292115	hotel				
+node	6219674099	Ashley Tang		-6.1855784	106.8248133	hotel			Ashley Hotel Group	https://ashleyhotelgroup.com/ashley-tang/
+node	6219674490	Cipta		-6.1874489	106.8286599	hotel				
+node	6219674491	Aloft Jakarta Wahid Hasyim	Aloft Jakarta Wahid Hasyim	-6.1863149	106.8272149	hotel		Aloft		
+node	6222915386	Rail Transit Suite		-6.1778398	106.8311164	hotel				
+node	6222917589	Maxim		-6.1801721	106.8406750	hotel				
+node	6226491085	d'prima hotel		-6.2454783	106.7989138	hotel				
+node	6230131390	Banggalawa		-6.2864649	106.8436197	hotel				
+node	6230792785	Fiducia		-6.2691359	106.8466054	hotel				
+node	6236228587	Flamenco		-6.1648051	106.8101772	hotel				
+node	6239453290	Reddoorz Plus Thamrin	RedDoorz	-6.2008995	106.8235909	hotel		RedDoorz		
+node	6239456599	Pullman Jakarta		-6.1932995	106.8238110	hotel		Pullman		
+node	6239457089	Hotel Indonesia Kempinski		-6.1957290	106.8224515	hotel				
+node	6239515792	Clover Residence		-6.2194979	106.8202089	hotel				
+node	6239516685	Upscale Suites	Upscale Suites	-6.2164999	106.8194447	hotel				
+node	6239570888	Manhattan		-6.2251292	106.8311718	hotel				
+node	6239570891	Amaris		-6.2255290	106.8296498	hotel				
+node	6239627210	Fortune		-6.2121616	106.8173695	hotel				
+node	6239627902	RedDoorz	RedDoorz	-6.1958216	106.8146163	hotel		RedDoorz		
+node	6239627903	Quds		-6.1944934	106.8140962	hotel				
+node	6239627904	Caravan		-6.1934933	106.8141793	hotel				
+node	6239627910	Nusantara Indah		-6.1917964	106.8145315	hotel				
+node	6239705185	Avissa Suites		-6.2211973	106.8216463	hotel				
+node	6249660499	Sofyan		-6.2368356	106.8446662	hotel				
+node	6249689390	Amaris		-6.2348018	106.8446135	hotel				
+node	6249714152	Yello		-6.2105730	106.8453263	hotel				
+node	6249749270	Ambhara Hotel Jakarta		-6.2433604	106.8032870	hotel		Ambhara Hotel Jakarta		https://ambharahotel.com/
+node	6249961595	Alltrue Lite Hotel		-6.1900181	106.8477689	hotel				
+node	6249961898	Marcopolo		-6.1954230	106.8370849	hotel				
+node	6249962508	Rivoli		-6.1840621	106.8441053	hotel				https://www.rivolihoteljakarta.com/
+node	6249962515	Amaris Hotel	Amaris	-6.1832631	106.8436135	hotel				https://www.amarishotel.com
+node	6249969816	Lumire		-6.1759600	106.8404313	hotel				
+node	6250013990	Atriam Senen		-6.1780323	106.8412476	hotel				
+node	6251156289	Oyo 208 G. House		-6.1587655	106.8338458	hotel		OYO		
+node	6251484088	Fuxion Inn		-6.1637673	106.8236263	hotel				
+node	6251489633	Fiducia		-6.1688421	106.8152823	hotel				https://www.hotelfiducia.com/
+node	6251501290	Royal		-6.1664086	106.8280238	hotel				
+node	6251576911	OYO N Hotel		-6.1688521	106.8206064	hotel				
+node	6251979489	Amaris		-6.1676093	106.8298558	hotel				https://amarishotel.com/
+node	6252022087	Sriwijaya Hotel		-6.1688048	106.8298873	hotel				http://www.sriwijayahotel.com
+node	6255540689	Mustika		-6.1725745	106.8410616	hotel				
+node	6255540697	N2		-6.1674266	106.8397727	hotel				
+node	6255570302	Prima Indah		-6.1592763	106.8388619	hotel				
+node	6255570303	Borobudur		-6.1595768	106.8388050	hotel				
+node	6255570306	K-Style		-6.1595808	106.8394996	hotel				
+node	6255570389	Amaris		-6.1605317	106.8369466	hotel				
+node	6255570391	Golden Boutique		-6.1582088	106.8380451	hotel				
+node	6255570405	G7 Grand		-6.1612949	106.8450456	hotel				
+node	6255753289	Prima Indah		-6.1430221	106.8339641	hotel				
+node	6255753492	OYO Oekude		-6.1454151	106.8350497	hotel				
+node	6255759991	d’Prima		-6.1341930	106.8322301	hotel				
+node	6259702288	Four Seasons	Four Seasons	-6.2326611	106.8194693	hotel		Four Seasons		
+node	6259968425	Amaris		-6.1824881	106.8159851	hotel				
+node	6259968426	Tugu Asri		-6.1816953	106.8153808	hotel				
+node	6260013697	Millenium		-6.1825219	106.8168547	hotel				
+node	6274252603	D Hotel		-6.2054958	106.8343267	hotel				
+node	6274289690	Menteng I		-6.1903043	106.8358867	hotel				
+node	6274289705	Citadines		-6.2195593	106.8321188	hotel				
+node	6274289709	TreeHouse Suites		-6.2147890	106.8281047	hotel				
+node	6274290297	Godila		-6.1918952	106.8358373	hotel				
+node	6284561392	Feodora		-6.1658920	106.7899123	hotel				
+node	6285109185	Griya Permai		-6.1345851	106.7935543	hotel				
+node	6285125185	Tematik		-6.1317587	106.7930344	hotel				
+node	6302854089	Ilham		-6.1701833	106.8472551	hotel				
+node	6302863685	Senen Indah		-6.1733301	106.8447098	hotel				
+node	6326911085	Plaza		-6.1382841	106.8279046	hotel				
+node	6372263715	Ayaka Suites		-6.2210362	106.8241716	hotel	3			https://www.ayakasuites.com/
+node	6393443186	Koja Elok		-6.1144804	106.8941998	hotel				
+node	6393446598	Nite & Day		-6.1673193	106.8084624	hotel				https://www.niteanddayhotels.com
+node	6393446800	RedDoorz	RedDoorz	-6.1671027	106.8080489	hotel		RedDoorz		
+node	6883882909	Hotel Antara		-6.1660512	106.8331336	hotel				
+node	6894284985	D'prima Hotel		-6.1291317	106.6578108	hotel				
+node	6948594589	Harris Hotels		-6.2246544	106.8038686	hotel				
+node	7246511036	Hotel Balairung		-6.1999809	106.8548906	hotel				
+node	7661765137	"Four Points by Sheraton Jakarta, Thamrin"		-6.1881464	106.8226494	hotel		Four Points by Sheraton		
+node	8404604210	Kost Bandara Soekarno Hatta		-6.1291769	106.6298252	hotel				
+node	9277273063	38 Prima Hotel		-6.2427957	106.8014996	hotel		38 Prima Hotel		
+node	9329553482	Yuan Garden Hotel Pasar Baru		-6.1630955	106.8323987	hotel				
+node	9332953071	RedDoorz Apartment @ Pasar Baru Mansion		-6.1629599	106.8322411	hotel		RedDoorz		
+node	9561584417	Hotel Raden		-6.1903354	106.8435369	hotel				
+node	9602860617	True Blue Hotel		-6.1922862	106.8421040	hotel				
+node	9645107438	Hotel Horison Ciledug		-6.2368126	106.7468109	hotel				
+node	9684703226	I Home Residence		-6.1880390	106.8182265	hotel				
+node	9684718517	Hotel Mustika		-6.1898013	106.8129075	hotel				
+node	9684888138	Hotel Stanley		-6.1873858	106.8277370	hotel				
+node	9691454434	Royal City Hotel		-6.1719654	106.8082685	hotel				
+node	9725593433	Fortune Hotel SPA & Lounge		-6.2537202	106.8001343	hotel				
+node	9728722812	Wow! Hotel Mangga Besar		-6.1485666	106.8222476	hotel				
+node	9728839761	Env Room - Red Doorz Mangga Besar 2		-6.1504865	106.8208296	hotel				
+node	9729474712	D'Prima Hotel ITC Mangga Dua		-6.1385808	106.8223449	hotel				https://www.facebook.com/dprimahotelitcmanggadua/
+node	9729535923	Hotel 55 B&B		-6.1412157	106.8225609	hotel				
+node	9731429865	Hotel Holiday Inn Express		-6.1270664	106.7905636	hotel				
+node	9737229669	Hotel STC Senayan		-6.2276297	106.7988447	hotel				
+node	9748481979	Aloft Jakarta Simatupang		-6.2917317	106.8161961	hotel				
+node	9751290050	Hotel All Sedayu Kelapa Gading		-6.1520522	106.8918648	hotel				
+node	9753774961	Hotel & Spa Malioboro Jakarta		-6.1630853	106.8194475	hotel				
+node	9756142291	The 101 Hotel		-6.2539123	106.8018157	hotel		The 101		
+node	9756270981	Fave Hotel Pluit Junction		-6.1264489	106.7914030	hotel				
+node	9832891798	Rumah Kost Carani 1		-6.1910634	106.7955817	hostel				
+node	9855156480	The Orient Jakarta		-6.2157683	106.8161664	hotel				https://www.theorienthoteljakarta.com
+node	9868528110	RoomMe		-6.2021547	106.8263313	hostel				
+node	9884070115	Hotel Sutasoma		-6.2538505	106.7981078	hotel				
+node	9905258877	Kos Pondok Ungu		-6.2766569	106.8139843	hostel				
+node	9914289260	Kos Ghina		-6.2751047	106.8151111	hostel				
+node	10101669200	Best Western Premier		-6.2445572	106.8755794	hotel		Best Western Premier		
+node	10300640965	Ibis Styles		-6.1392761	106.8318098	hotel		Ibis Styles		
+node	10554223948	Konko Hostel		-6.1830545	106.8325274	hostel				
+node	10657116982	Konko Hostel		-6.1830395	106.8325209	hostel				
+node	10739453321	Fontana Hotel		-6.2382109	106.7714347	hotel				
+node	10804650512	Digital Airport Hotel		-6.1179890	106.6675982	hotel				https://digitalairporthotel.com/
+node	10866123981	Paseban Cemara 1		-6.1914055	106.8527686	hotel				
+node	10913969167	Grand Orchardz Hotel		-6.1485222	106.8385847	hotel				
+node	11106161805	Airy rooms/ wisma		-6.2229816	106.7780708	hotel				
+node	11234894267	Rà Premiere		-6.2936419	106.8022559	hotel				
+node	11291283247	Grand Dafam Ancol		-6.1296127	106.8294212	hotel				https://www.granddafam.com/hotel-collections/grand-dafam-ancol-jakarta
+node	11415319630	Urbanview Hotel Kota Tua Jakarta		-6.1315449	106.8088245	hotel				https://www.reddoorz.com/id-id
+node	11442859123	Sunbreeze Hotel		-6.2232425	106.7906829	hotel				
+node	11780179869	PassGo Thamrin (capsules)		-6.2004327	106.8206848	hotel				
+node	11804015369	Wisma Multi 88		-6.1881323	106.8204528	hotel				
+node	11917143869	Bobopod Thamrin		-6.2019038	106.8233944	hostel				
+node	11982413121	Sunlake Waterfront Hotel Resort & Convention		-6.1470447	106.8794521	hotel				
+node	12056633369	HOTEL MUTIARA Kota Tua		-6.1406291	106.8142112	hotel				
+node	12119805754	W Home Reserva | Setiabudi		-6.2069676	106.8245617	hotel		W Hotels		
+node	12123881101	Oyo near Mall of Indonesia		-6.1543351	106.8967551	hotel				
+node	12193852337	MAIA HOTEL JAKARTA		-6.1936647	106.8170532	hotel				https://www.booking.com/Share-hYhBUn
+node	12412704864	Grand Whiz Poins Simatupang Jakarta		-6.2899244	106.7776299	hotel				
+node	12467028660	Flamenco Urban Living		-6.1795852	106.8165879	hotel				
+node	12657715052	Slipi Inn Palmerah		-6.2074181	106.7935929	hotel				
+node	12701948149	Cove Casa Kebalen		-6.2342502	106.8168160	hostel				
+node	12713288001	Ibis Hotel		-6.1923332	106.8417257	hotel		Ibis		
+node	12738860095	QUBE HOTEL by 98hospitality		-6.1693391	106.9071598	hotel				https://qubehotel.id
+node	12748680772	Apartemen Green Pramuka by AHF Pro		-6.1896941	106.8734679	hotel		AHF Pro		https://wa.me/ahfpro
+node	12885289105	Grand Thamrin Hotel		-6.1960249	106.8202315	hotel				
+node	12898645562	Grand Thamrin Hotel		-6.1960851	106.8202648	hotel				
+node	12977421922	Harris Vertu Hotel Harmoni		-6.1643157	106.8207105	hotel		Harris Hotels		https://vertuharmonijakarta.com/
+node	13037650568	Kost Windy		-6.1819885	106.8624145	hotel				
+node	13195355802	dafamExpress		-6.1852758	106.8293690	hotel				
+node	13195356006	Paragon		-6.1864650	106.8314665	hotel				
+node	13197743201	Ashley Tanah Abang		-6.1868289	106.8172854	hotel				
+node	13350364901	Bobopod Juanda		-6.1672554	106.8309702	hostel				
+node	13361120901	d'primahotel Harmoni Jakarta - Hayam Wuruk		-6.1648372	106.8207753	hotel				
+node	13372132501	Luxeur Setiabudi		-6.2074990	106.8244361	hotel				
+node	13449345401	Burgundy 5 Kos Eksekutif		-6.1638521	106.8366032	hostel				http://kos-burgundy.com
+node	13527672901	RedDoorz		-6.2335962	106.7933858	hotel				
+node	13603042883	Jingga Kost		-6.1793824	106.7844674	hostel				
+node	13603042884	Liana Lie Kosan		-6.1789323	106.7844445	hostel				
+node	13603063806	Kost Humming Homes		-6.1798003	106.7863108	hostel				
+node	13603063808	Monggo Mampir (Kostel & Cafe)		-6.1791530	106.7854265	hotel				https://www.monggo-mampir.com/
+node	13607953790	ZIPKOS MY LOVE 64		-6.1837195	106.7835941	hostel				https://zipkos.id/jakarta/kost-my-love-64
+node	13620619877	Super OYO 1487 Residence Khoe		-6.1703986	106.7831715	hotel	2			https://www.oyorooms.com/h/79740?latitude=-6.17041&longitude=106.7832&locale=id
+node	13718734441	RoomMe Menteng Welerie 7		-6.2011800	106.8249264	hotel				https://roomme.id/
+node	13718790342	Odua Thamrin Jakarta		-6.2025022	106.8251262	hotel				https://www.topotels.com/oduathamrin/
+node	13718814287	Kendal Suites		-6.2025406	106.8252795	hostel				
+node	13725759857	Saka Hotel & Apartment Bukit Asam		-6.2592601	106.8342350	hotel				
+node	13736295077	Holiday Inn Express		-6.1435962	106.8451829	hotel				
+node	13736829903	Hotel Banyuwangi Sinters		-6.1620449	106.8310936	hotel				
+node	13741826001	Business Hotel		-6.1749935	106.8024595	hotel				
+node	13758140401	Shakti Capsule Hotel		-6.1636635	106.8221051	hotel				
+node	13780234501	Hotel Andalus		-6.1876454	106.8404201	hotel				
+node	13800677805	D'Paseban RedDoorz		-6.1906842	106.8531496	hotel				
+node	13839967315	Griya Dutama Meruya (ss)		-6.1963985	106.7332350	hostel				
+node	13949213701	Hotel Dariza Jaya		-6.1813045	106.9097070	hotel				
+node	14242652101	Swiss-belexpress Cideng		-6.1735538	106.8118283	hotel				
+way	48031280	Ibis Jakarta Arcadia		-6.1867536	106.8260487	hotel	3	Ibis		https://all.accor.com/hotel/1734/index.en.shtml
+way	48036305	Le Méridien Jakarta		-6.2131070	106.8189009	hotel	5	Le Méridien		
+way	104760635	JW Marriott Hotel Jakarta	JW Marriott Hotel Jakarta	-6.2270735	106.8271963	hotel		JW Marriott		
+way	119539682	Hotel Kaisar		-6.2530887	106.8415076	hotel				
+way	119540851	Hotel Maharadja		-6.2406889	106.8248570	hotel				
+way	119772921	ARTOTEL Gelora Senayan Jakarta		-6.2232567	106.8028489	hotel		ARTOTEL		https://artotelgelorasenayan.com
+way	119784711	Lumire Hotel		-6.1759807	106.8403805	hotel	4			https://www.lumirehotel.com/
+way	119919347	Hotel Mulia Senayan		-6.2151737	106.7969925	hotel				
+way	120495765	Mutiara Hotel		-6.2263278	106.8665772	hotel				
+way	120503978	Grand Menteng		-6.1999859	106.8552436	hotel	3			
+way	120555911	Hotel Oasis Amir		-6.1744257	106.8390309	hotel	4			https://www.oasisamir.com/
+way	120691230	Pullman		-6.1932248	106.8238191	hotel	5	Pullman	AccorHotels	
+way	120691324	"Keraton at The Plaza, a Luxury Collection Hotel, Jakarta"		-6.1929460	106.8214911	hotel				
+way	120827500	Smart Hotel		-6.2000292	106.8225481	hotel				
+way	120827522	All Seasons Hotel		-6.2013957	106.8221882	hotel				
+way	120908550	Kimaya Slipi Jakarta by Harris		-6.1993188	106.7992654	hotel	3	Kimaya by Harris		https://www.thekimayahotels.com/jakarta
+way	121129296	Oakwood Suites		-6.2075142	106.8274447	hotel				
+way	121158378	Gran Meliá Jakarta		-6.2350245	106.8302127	hotel		Meliá		
+way	121195902	Park Hotel		-6.2440972	106.8756097	hotel				
+way	121523132	Hotel Puri Mega		-6.1935117	106.8609607	hotel				
+way	121551458	Golden Boutique Hotel		-6.1583296	106.8380166	hotel				
+way	121551478	Hotel Mustika Senen		-6.1725884	106.8411450	hotel				
+way	121551488	Hotel Bintang Baru		-6.1644405	106.8379635	hotel				
+way	121551492	OYO Townhouse 2 Hotel Gunung Sahari		-6.1556034	106.8369058	hotel	3	OYO		
+way	121706050	Hotel Redtop	Redtop Hotel & Convention Center	-6.1634393	106.8272803	hotel				https://www.redtophotel.com/
+way	121706052	Hotel Borobudur		-6.1720825	106.8357893	hotel				http://www.hotelborobudur.com/
+way	121706082	Hotel Ascott		-6.1948691	106.8185315	hotel				
+way	121986328			-6.1640292	106.8188271	hotel				
+way	121986332	The Jayakarta SP Hotel & Spa		-6.1475015	106.8172813	hotel		Jayakarta		https://jayakartahotelsresorts.com/en/hotel/the-jayakarta-sp-jakarta-hotel-spa
+way	122152174	Merlyn Park Hotel		-6.1659832	106.8153551	hotel				
+way	122152282	Hotel Bidakara Jakarta		-6.2402320	106.8417654	hotel				
+way	122160075	Holiday Inn Jakarta Gajah Mada		-6.1452548	106.8147505	hotel		Holiday Inn	IHG	
+way	123536066	Hotel Maharani		-6.2461884	106.8265649	hotel				
+way	123620142	AI Hotel		-6.1998215	106.8225902	hotel				
+way	128632410	Ibis Budget Hotels Menteng		-6.1967108	106.8289286	hotel		Ibis Budget		
+way	134012922	Asyana Kemayoran Jakarta		-6.1650552	106.8417831	hotel				https://asyanahotels.com/
+way	154078995	Nam Centre		-6.1547538	106.8464097	hotel				
+way	154830205	Hotel Cempaka Jaya		-6.1306409	106.8985826	hotel	3		PD Wisata Niaga Jaya	
+way	154832862	Best Western		-6.1398921	106.8272800	hotel		Best Western		
+way	154836217	HOTEL COIN		-6.1384739	106.8627757	hotel				
+way	154838001	Elista Group		-6.1085761	106.9171513	hotel				
+way	154856491	Cipondoh		-6.1141873	106.9174504	hotel				
+way	155097765	Hotel/Wisma Utan Panjang		-6.1687226	106.8516210	hotel				
+way	155110126	Hotel Caravan		-6.1934847	106.8141624	hotel				
+way	155110265	Juno Hotel		-6.1874640	106.8173020	hotel				
+way	155110269	hotel nusantara		-6.1919876	106.8142186	hotel	1			
+way	155111143	Hotel Bungur Indah		-6.1733459	106.8449706	hotel				
+way	155112556	Hotel Alia Cikini		-6.1909262	106.8378250	hotel				
+way	155112976	Morrissey Hotel		-6.1869095	106.8291856	hotel	4			
+way	155112978	Margot		-6.1838403	106.8298218	hotel	3			
+way	155116027	Le Grandeur		-6.1371473	106.8254323	hotel	5			
+way	155252913	Hotel Olimpic		-6.1473096	106.8226305	hotel				
+way	155942744	Hotel Mega Matra		-6.2067481	106.8594902	hotel				
+way	155950044	Alia		-6.2145564	106.8631977	hotel	3			
+way	155951036	HOTEL RENSA		-6.2215818	106.9082605	hotel				
+way	155956674	Hotel Pondok Tirta		-6.2501236	106.8807974	hotel				
+way	156270988			-6.1244948	106.7984183	hotel				
+way	156830044	Amaris Hotel Tendean		-6.2398326	106.8269345	hotel				
+way	156919768	Bamboo Inn Cafe Kota Bambu Selatan		-6.1859780	106.8006975	hotel				
+way	156920986	Hotel Mustika		-6.1467938	106.8152149	hotel	3			
+way	156922433	hotel pitagiri		-6.2064739	106.7909744	hotel	1			
+way	156926457	Aston Kartika Grogol Hotel & Conference Center		-6.1672045	106.7922229	hotel				
+way	157354389	Hotel Amoscozy		-6.2455166	106.7990940	hotel	4			
+way	157354391	Hotel Boutiq		-6.2451879	106.7986253	hotel	3			
+way	157354393	Hotel Melawai		-6.2456508	106.7996335	hotel	3			
+way	157360362	Grand Mahakam		-6.2444400	106.7953393	hotel				
+way	157362877	Hotel WIN		-6.2463183	106.7977426	hotel				
+way	157507848	RedDoorz Hotel		-6.1846601	106.8295768	hotel		RedDoorz		
+way	157507849	Bloem Steem		-6.1847898	106.8298464	hotel				
+way	157507850	Karisha		-6.1849341	106.8294551	hotel				
+way	159695814	Swiss-Belhotel Pondok Indah		-6.2876748	106.7797594	hotel		Swiss-Belhotel		https://www.swiss-belhotel.com/id-id/swiss-belhotel-pondok-indah
+way	180782273	Hotel JS Luwansa		-6.2229187	106.8332239	hotel				
+way	192807622	Royal Kuningan Hotel		-6.2067135	106.8303751	hotel				
+way	197726844	Hostel Graha Wisata Remaja		-6.2995903	106.8897906	hostel			TMII	
+way	208651829	Hotel Menteng 2		-6.1954250	106.8402898	hotel				
+way	211037884	Hotel Travellers		-6.1468218	106.8314678	hotel	3.5			https://www.travellersjakarta.com/
+way	216477876	Grand Kemang Hotel		-6.2559941	106.8110162	hotel				
+way	216480108	Amaris Hotel La Codefin Kemang		-6.2559080	106.8129651	hotel				
+way	219866669	Grand Cemara Hotel		-6.1874998	106.8302812	hotel				
+way	229124388	Swiss-Belresidences		-6.2138524	106.8370581	hotel		Swiss-Belresidences		
+way	229773651	Ascott Sudirman Jakarta		-6.2226055	106.8198906	hotel		Fraser Suites		https://setiabudi-jakarta.frasershospitality.com/en/accommodation.html
+way	234872101	Hotel Harris Tebet	HARRIS Hotel Tebet	-6.2229181	106.8480146	hotel				
+way	277662900	Pullman Hotel Jakarta Central Park		-6.1782186	106.7899089	hotel		Pullman		
+way	283741816	Hotel Cempaka Sari		-6.1720307	106.8614293	hotel				
+way	287210292	Hotel Bintang Wisata Mandiri		-6.1898081	106.8443454	hotel				
+way	287210425	Blue Sky Pandurata Boutique Hotel		-6.1895544	106.8448030	hotel				https://www.blue-sky.co.id/hotel/blue-sky-hotel-pandurata
+way	292990655	Favehotel Wahid Hasyim		-6.1872660	106.8205187	hotel				https://www.favehotels.com/hotellist/eng/14/favehotel-wahid-hasyim
+way	303431173	Clay Hotel		-6.2006947	106.8236879	hotel				
+way	305821124	Hotel Diradja		-6.2397373	106.8201784	hotel				
+way	312175317	Hotel Aston Bellevue Radio Dalam		-6.2639491	106.7884052	hotel				
+way	313773638	Kosenda Hotel		-6.1872698	106.8217485	hotel				
+way	317753794	Artotel		-6.1887801	106.8248044	hotel				https://www.artotelindonesia.com/jakarta
+way	334982527	Shangri-La Hotel		-6.2030805	106.8188032	hotel			Shangri-La	
+way	335049211	Hotel Kawanua		-6.1771237	106.8748988	hotel				
+way	336963224	Arion Suites Hotel Kemang		-6.2561713	106.8152113	hotel				https://arionsuiteshotelkemang.com/
+way	336963225	Kemang Icon		-6.2552191	106.8150221	hotel		Alila	Alila	
+way	338595548	Dreamtel		-6.1876552	106.8307497	hotel				
+way	373155319	Hotel Ibis Style Jakarta Simatupang		-6.2916023	106.8014568	hotel				
+way	374263985	Mandarin Oriental		-6.1960514	106.8237353	hotel		Mandarin Oriental Hotel	AccorHotels	https://www.mandarinoriental.com/jakarta/
+way	376203150	Green Apple Residence		-6.1854417	106.8192942	hostel				
+way	380531360	Holiday Inn Express Jakarta Wahid Hasyim		-6.1872546	106.8219963	hotel		Holiday Inn Express		
+way	402029402	Ibis Styles Hotels Sunter		-6.1405268	106.8858642	hotel		Ibis Styles		
+way	421491608	DoubleTree by Hilton Hotel Jakarta		-6.1987141	106.8434016	hotel	5	DoubleTree	Hilton	https://www.hilton.com/en/hotels/jktdidi-doubletree-jakarta-diponegoro/
+way	421492364	Hotel Gren Alia Cikini	Gren Alia Cikini	-6.1923970	106.8382529	hotel				
+way	421492366	Ibis Budget Jakarta Cikini		-6.1915014	106.8387592	hotel		Ibis Budget		https://all.accor.com/hotel/6594/index.id.shtml
+way	442212875	Horison Arcadia Mangga Dua		-6.1382052	106.8227350	hotel	3	Arcadia by Horison	Metropolitan Garden Management	http://www.horison-group.com/hotelDetail?id=5
+way	453889312	Pax Hotel		-6.2053585	106.8584488	hotel				
+way	460901031	Manhattan Hotel		-6.2252021	106.8313136	hotel				
+way	462689292	Hotel Sukabumi		-6.2103264	106.8595062	hotel				
+way	473314057	Vasaka Hotel Jakarta		-6.2456382	106.8746447	hotel				
+way	473314060	Harper Hotel MT. Haryono		-6.2453145	106.8723644	hotel	4			
+way	473314065	Sentra Hotel Cawang		-6.2469107	106.8728064	hotel				
+way	481713087	Hotel Studio One		-6.2015114	106.8209384	hotel				
+way	481715986	GoKosTel W3		-6.2014680	106.8254734	hostel				
+way	481740139	Guest House Setiabudi Barat 8		-6.2081925	106.8245503	hotel				
+way	481918523	Kost Setiabudi Sultan Agung 26 Residence		-6.2061494	106.8374117	hostel				
+way	481927901	YELLO Hotel		-6.2105873	106.8453304	hotel		Yellow		https://www.discoverasr.com/en/yello
+way	481974640	Azka Hotel		-6.2121330	106.8586887	hotel				
+way	482128275	Adotel Tebet Timur		-6.2407191	106.8555631	hotel				
+way	482135253	favehotel	favehotel	-6.2272960	106.8195801	hotel	3			https://www.favehotels.com/en/hotel/view/20/favehotel-gatot-subroto
+way	482135255	Hotel Kartika Chandra		-6.2277451	106.8192798	hotel		Kartika Chandra		http://www.kartikachandra.com/
+way	482138519	Hotel Citra		-6.2420754	106.8489423	hotel				
+way	482147096	Sagitarius Hotel & Spa		-6.2010681	106.8219295	hotel				
+way	482155887	Landra At Sudirman		-6.2092616	106.8246686	hotel				
+way	482163990	Red Doorz Plus Karet Pedurenan 3		-6.2192590	106.8268753	hotel		RedDoorz		
+way	482164020	De 80's Genteng Ijo		-6.2195571	106.8260739	hostel				
+way	482173144	Reddoorz Setiabudi Tengah		-6.2093902	106.8270021	hotel		RedDoorz		
+way	482178235	ARTOTEL Casa Kuningan		-6.2347315	106.8269136	hotel		ARTOTEL		https://artotelgroup.com/hotels/artotel-casa/kuningan
+way	482186787	Hotel Des Indes Menteng		-6.1972722	106.8282315	hotel				
+way	482191020	Sakura Terrace		-6.2097588	106.8268795	hotel				
+way	482810070	Marcopolo hotel		-6.1954151	106.8371494	hotel				
+way	482961096	Novotel Jakarta Cikini		-6.1955308	106.8406948	hotel		Novotel		https://all.accor.com/hotel/9799/index.en.shtml
+way	483079612	The Sultan Hotel Jakarta		-6.2182995	106.8097331	hotel	5	The Sultan	Singgasana Hotels & Resort	https://www.sultanjakarta.com
+way	483341290	Hotel Monopoli		-6.2561275	106.8099206	hotel				
+way	483342386	RedDoorz Plus Near Lippo Mall Kemang 2		-6.2617770	106.8148171	hotel		RedDoorz		
+way	483346712	Hotel Liberta		-6.2563223	106.8124040	hotel				
+way	483401800	Cemara hotel		-6.1875070	106.8289840	hotel			Nursalmi	
+way	483401803	Cipta Hotel		-6.1875610	106.8286661	hotel				
+way	483404450	Amaris Hotel Tebet		-6.2348524	106.8446300	hotel				
+way	483407253	Jambuluwuk Thamrin Hotel		-6.1909483	106.8245336	hotel				
+way	483409283	The Ritz-Carlton Jakarta		-6.2285315	106.8271268	hotel	5	The Ritz-Carlton	Ritz-Carlton	https://www.ritzcarlton.com/en/hotels/indonesia/jakarta
+way	483574343	Daima Norwood		-6.1940050	106.8373796	hotel				
+way	483574401	Hotel Mega Cikini		-6.1940241	106.8387266	hotel				
+way	483574406	Mercure Hotel Cikini	Mercure Hotel Cikini	-6.1944098	106.8388458	hotel		Mercure		https://all.accor.com/hotel/A1K6/index.en.shtml
+way	483579563	P Hotel		-6.1917332	106.8673903	hotel				
+way	483581851	POP! Hotel Kemang Jakarta		-6.2548954	106.8089339	hotel				
+way	483581917	Sotis Hotel Kemang Jakarta		-6.2548863	106.8092281	hotel				
+way	483587368	Hostel Bintang Kejora		-6.1850009	106.8276984	hotel				
+way	483591630	Hotel Sari Pacific Jakarta		-6.1856589	106.8239706	hotel	5	Sari Pacific	Sarinah	https://www.saripacificjakarta.com
+way	484462758	Wisma Tebet Raya		-6.2295299	106.8528154	hotel				
+way	484638671	Swiss-Belresidences		-6.2553589	106.8558721	hotel		Swiss-Belresidences		
+way	484671840	OYO 169 Kuningan 21		-6.2243077	106.8203473	hotel		OYO		
+way	484858383	Hotel New Idola		-6.1948076	106.8611968	hotel				
+way	484859533	An Hotel Jakarta		-6.2228045	106.8232598	hotel				
+way	484874638	Swiss Belinn		-6.1872462	106.8208556	hotel				
+way	484874640	Verse Luxe Hotel		-6.1873370	106.8213542	hotel				
+way	485252700	Dafam Express Jaksa Jakarta		-6.1854489	106.8293678	hotel				
+way	485259183	Hotel Nostoi Jakarta Selatan		-6.2152723	106.8257974	hotel				https://www.nostoiliving.com/
+way	485260427	Rasuna Icon		-6.2207603	106.8289497	hotel				
+way	485776730	Griya Rasuna Karet Kuningan		-6.2221283	106.8285354	hotel				
+way	485868920	The Tavia — Heritage Hotel		-6.1736631	106.8609141	hotel				
+way	486026369	Hotel Saleh		-6.1938205	106.8671849	hotel				
+way	487245729	The Nine Residence Kuningan		-6.2203193	106.8221920	hotel				
+way	487246679	Avissa Suites		-6.2210768	106.8215804	hotel				
+way	487350864	Hotel Daily Inn Plaza Warly		-6.1771770	106.8753601	hotel				
+way	487355454	Max One Hotel Sabang		-6.1841976	106.8246135	hotel		MaxOne		
+way	488404265	Sofyan Hotel Cut Meutia		-6.1876199	106.8343186	hotel	3		Sofyan Hotel	
+way	489264705	Cipta Hotel		-6.2558913	106.8281743	hotel				
+way	489503170	Terraz Tree Hotel		-6.2407726	106.8223149	hotel				https://www.terraztree.com
+way	489543941	Brawijaya Apartment		-6.2500385	106.8087635	hostel				
+way	490044542	St. Regis		-6.2065126	106.8276714	hotel		St. Regis		
+way	490837350	Cordela Hotel Senen Jakarta		-6.1835504	106.8427154	hotel				
+way	490837351	Ibis		-6.1833661	106.8425442	hotel		Ibis		
+way	491537586	Amaris Hotel La Codefin Kemang		-6.2564135	106.8129652	hotel				
+way	491544399	Hotel Jati		-6.1821488	106.8145995	hotel				
+way	492249776	Hotel Harapan Jaya		-6.1827773	106.8462158	hotel				
+way	492518311	Leisure Inn Arion Hotel		-6.1938896	106.8865239	hotel				
+way	492691447	Golden Sky		-6.1209789	106.7894165	hotel				
+way	492692586	Ozone Hotel & Eatery		-6.1128665	106.7526200	hotel				
+way	492705012	n3 hotel		-6.1610161	106.8122654	hotel				
+way	492886416	Discovery Hotel		-6.1258852	106.8310677	hotel				
+way	492902112	Hotel Ashley Sabang		-6.1841207	106.8245516	hotel				
+way	493558513	Hotel Trinity Jakarta		-6.1625583	106.8163028	hotel				
+way	493576253	Shakti Hotel Jakarta		-6.1650445	106.8196775	hotel				
+way	493647994	Hotel Tiga Nur		-6.1861536	106.8480519	hotel				
+way	494044848	Shalva Hotel		-6.1933998	106.8163407	hotel				
+way	494047101	Hotel Losari Roxy		-6.1662066	106.8094366	hotel				
+way	494051916	Ana Hotel		-6.1934946	106.8189308	hotel				
+way	494051917	Hotel Grand Picasso		-6.1936848	106.8185496	hotel				
+way	494110482	Bobobox Pods Tanah Abang		-6.1752627	106.8124336	hotel				
+way	494146758			-6.2133860	106.8220994	hotel				
+way	495320568	Hotel Focus		-6.1878180	106.8166368	hotel				
+way	495324437	Hotel Ashley		-6.1874860	106.8270915	hotel				
+way	495324458	Hotel Akmani		-6.1874953	106.8256592	hotel				
+way	495324477	Oria Hotel		-6.1875243	106.8262833	hotel				https://oriahotel.com/
+way	495324488	Hotel Tamarin Jakarta		-6.1875943	106.8268203	hotel				https://www.tamarinhoteljakarta.com/
+way	495380282	Blue Sky Hotel		-6.1999325	106.8019503	hotel				
+way	495402133	Airy Eco Palmerah		-6.1942615	106.7874968	hotel				
+way	495579329	Hotel Eightin Jakarta		-6.2152057	106.8130308	hotel				
+way	497054895	Hotel Arthama Jakarta		-6.1874236	106.8183976	hotel				
+way	497054909	Wisma Davinci Sabrina		-6.1884741	106.8181579	hotel		Wisma Davinci Group		www.wismadavinci.com
+way	497054910	Wisma Davinci Sabrina 2		-6.1886129	106.8178973	hotel		Wisma DAvinci Group		www.wismadavinci.com
+way	497085072	Guest House Samana Residence		-6.2005608	106.8107634	hotel				
+way	497092837	OYO 101 Apple Platinum		-6.1851109	106.8193995	hotel		OYO		
+way	497105904	Millennium Hotel Sirih Jakarta		-6.1826864	106.8168724	hotel	4	Millennium		
+way	497126773	Hotel Dragon Inn		-6.1588199	106.8458289	hotel				
+way	497132082	Lynt Hotel Jakarta		-6.1688638	106.8111406	hotel				
+way	497132083	Merlyn Park Hotel		-6.1661113	106.8155072	hotel				
+way	497546930	favehotel Zainul Arifin		-6.1604866	106.8164682	hotel				
+way	497609299	RedDoorz		-6.2037404	106.7830093	hotel				
+way	497614372	Roomme		-6.2044810	106.7831795	hotel				
+way	497629045	Hotel Budi		-6.1644014	106.8519812	hotel				
+way	498186162	Amaris Hotel Juanda		-6.1674206	106.8299158	hotel				https://santika.com/indonesia/jakarta/amaris-hotel-juanda-jakarta/
+way	498186170	Grand Mercure Jakarta Harmoni		-6.1601165	106.8199518	hotel		Grand Mercure	Accor Hotels	http://www.mercure.com/gb/hotel-8535-grand-mercure-jakarta-harmoni/location.shtml
+way	498186175	Quality Hotel Jakarta		-6.1651778	106.8295195	hotel				
+way	498435417	Hotel Oak Tree Urban Mahakam Jakarta		-6.2452981	106.7958019	hotel				
+way	498441913	Airy Kebayoran Lama Seha 6 Jakarta		-6.2292587	106.7801695	hotel				
+way	498495870	The Falatehan Hotel By Safin		-6.2430868	106.8012792	hotel				
+way	498511668	Swiss-Belinn Hotel Simatupang		-6.2903826	106.7791170	hotel				
+way	498511672	Hotel Mercure Jakarta Simatupang		-6.2908265	106.7800108	hotel				
+way	498514394	Hotel Tulip Gunung		-6.2324605	106.7938752	hotel				
+way	498711638	Newton Residence		-6.1637823	106.8139909	hotel				
+way	498987384	Hotel Grandhika Iskandarsyah		-6.2444468	106.8040267	hotel				
+way	499209228	Liberty Hotel		-6.1999889	106.8223268	hotel				
+way	500574525	Amaris Hotel Slipi		-6.1834669	106.7976249	hotel				
+way	501610433	Hotel Emporium	Emporium Hotel	-6.1647473	106.8261152	hotel				
+way	501610442	Hotel Luminor Pecenongan	Luminor Pecenongan Hotel	-6.1645010	106.8260964	hotel				https://www.waringinhospitality.com/en/hotel/luminor-hotel-pecenongan
+way	501899731	Somerset		-6.2110879	106.8134816	hotel	4		The Ascott Limited	
+way	501985351	Verse Lite Hotel		-6.1612847	106.8169333	hotel				
+way	502254126	Ibis Jakarta Harmoni		-6.1604702	106.8199235	hotel		Ibis		
+way	502560951	Fieris Hotel Rawamangun		-6.1979138	106.8902042	hotel				
+way	503918227	Hotel Fiducia Pondok Gede		-6.2914730	106.8849568	hotel				
+way	504682669	RedDoorz		-6.1886759	106.7872891	hotel		RedDoorz		
+way	504690257	Little Amaroossa Residence		-6.2776639	106.8046603	hotel				
+way	504950160	Hotel Alia Heritage Pasar Baru		-6.1647643	106.8353024	hotel				https://hotelaliaheritage.com/
+way	504962353	Hotel Pop!		-6.1602423	106.8337818	hotel				
+way	505190792	G7 Hotel		-6.1593866	106.8358464	hotel				
+way	505195680	Heef Hotel		-6.1603010	106.8329165	hotel				
+way	505437719	3Tranches Home Cilandak		-6.2883858	106.8000111	hotel				
+way	505459842	Rà Suites		-6.2913272	106.7957474	hotel				
+way	505505372	OYO 1111 Passer Baroe Inn		-6.1630630	106.8306258	hotel		OYO		
+way	505743908	Hotel Orchardz		-6.1438148	106.8287490	hotel	3.5			https://orchardzhotel.com/branch-home/Jayakarta/2
+way	505770165	Hotel California		-6.1486822	106.8276056	hotel				
+way	505788776	Reddoorz Trend Hotel		-6.1484274	106.8311782	hotel		RedDoorz		
+way	505788790	Win Premier Hotel		-6.1482597	106.8332126	hotel				
+way	506387494	Hotel Kalisma KS Tubun		-6.1892932	106.8085037	hotel				
+way	506586867	Hotel Bunga Bunga		-6.1667565	106.8320446	hotel				
+way	506639392	Red Star Hotel		-6.1518945	106.8257517	hotel				
+way	506869238	Grand Sahid Jaya		-6.2108494	106.8197859	hotel	5	Sahid	Hotel Sahid Jaya International	https://grandsahidjaya.com/
+way	507129230	Hotel Grand Batik Inn		-6.1489868	106.8271895	hotel				
+way	509124044	Hotel Delua		-6.1489597	106.8259104	hotel				
+way	509124058	Bold Hotel		-6.1498730	106.8259352	hotel				
+way	509124059	Hotel Arwana		-6.1496842	106.8259179	hotel				
+way	509130586	Sumi Hotel		-6.1492744	106.8243268	hotel				
+way	509130627	Infiniti Hotel		-6.1497924	106.8246966	hotel				
+way	509134521	Ghurfati Hotel Jakarta		-6.1523620	106.8228108	hotel				
+way	510340974	Hotel Maven Fatmawati		-6.2660476	106.7976223	hotel				
+way	510396475	Best Western Plus Kemayoran Hotel		-6.1609114	106.8529655	hotel		Best Western Plus		
+way	510491597	Hotel Hollywood		-6.1507907	106.8202316	hotel				
+way	510491657	Hotel Penthouse		-6.1513854	106.8224448	hotel				
+way	510674853	Kos Benda 10		-6.2749577	106.8157971	hostel				
+way	510680056	Rumanami Cilandak Timur		-6.2747895	106.8170070	hotel				
+way	511603922	Kost GisLanLan		-6.1797153	106.7846068	hostel				
+way	511604055	Noto Kost (Kos Tanjung Duren)		-6.1797706	106.7840473	hostel				
+way	511604405	Tanjung Duren Inn		-6.1823276	106.7848356	hotel	2			https://www.agoda.com/en-gb/tanjung-duren-inn/hotel/jakarta-id.html?cid=1720055&ds=Fc2u7vNxs7CONOpO
+way	511613155	Hotel Permai		-6.1498426	106.8197932	hotel				
+way	511617334	Hotel Manggis Inn		-6.1414783	106.8202041	hotel				
+way	511927917	Swiss-Belinn Kemayoran		-6.1494483	106.8504772	hotel				
+way	511934532	Grand Mercure Jakarta Kemayoran		-6.1538072	106.8495767	hotel				
+way	512603808	Everyday Smart Hotel Mayestik		-6.2419782	106.7898809	hotel				
+way	513514528	Alila SCBD		-6.2254535	106.8083048	hotel		Alila		
+way	514055477	Urbanview Hotel		-6.1724764	106.7828655	hotel				
+way	514055486	Rukita D'Laurel - Kost Coliving		-6.1730644	106.7825165	hostel				https://www.rukita.co/place/rukita-d'laurel-tanjung-duren
+way	514126261	1O1 URBAN Jakarta Glodok Kota Tua		-6.1434527	106.8144321	hotel		1O1 URBAN Hotels		https://www.101urbanhotels.com/jakartaglodokkotatua
+way	518162645	All Nite & Day Hotel Kebon Jeruk		-6.1961636	106.7637960	hotel				
+way	519894362	MP Hotel Kelapa Gading		-6.1478085	106.8980482	hotel				
+way	520195009	Kost Duren Inn		-6.1689913	106.7823997	hostel				https://linktr.ee/KostDurenInn
+way	520195094	Dorothea Residence		-6.1694091	106.7820747	hotel	2	OYO		
+way	520195349	Stanley Inn		-6.1693403	106.7825998	hostel				
+way	520195353	Tanjung Duren Residence		-6.1695702	106.7831780	hotel				
+way	520211793	Hotel Suba		-6.1660563	106.7842205	hotel				
+way	520271830	Permai Hotel		-6.1148655	106.8920952	hotel				
+way	521128040	Edson Residence Kost House		-6.1734518	106.7806298	hostel				https://www.instagram.com/edsonresidence
+way	521128197	Simbarsono Kost		-6.1745293	106.7801431	hostel				
+way	521136330	OYO 784 Hotel Bulevar		-6.1741643	106.7875234	hotel		OYO		
+way	521136877	Supernova Zone II		-6.1834984	106.7877448	hotel				
+way	521136887	Kos Ibu Titin		-6.1830553	106.7877513	hostel				
+way	521466388	Harlys Residence		-6.1741114	106.7951216	hotel				
+way	521744398	Hotel NEO Mangga Dua Square		-6.1356557	106.8311671	hotel				
+way	522005618	T63		-6.1700770	106.7965933	hotel				
+way	523567567	OYO 106 Sarkawi Residence		-6.2426186	106.7812165	hotel		OYO		
+way	523937806	Kost joyful 3		-6.1592056	106.7705025	hostel				
+way	525492746	Hotel Mercure Jakarta Grogol		-6.1616716	106.7718166	hotel		Ibis		
+way	525515345	Aurora Hotel		-6.1363360	106.7981232	hotel				
+way	526041486	Hotel NEO+ Kebayoran		-6.2379724	106.7782151	hotel				
+way	526041767	Naomi Residence Kebayoran		-6.2367076	106.7790346	hotel				
+way	526249104	ATT Hotel & Cafe		-6.1437458	106.7776751	hotel				
+way	528609041	Hotel Zia Sanno		-6.1240516	106.7984072	hotel				
+way	528630520	Hotel 88 Fatmawati		-6.2630540	106.7965733	hotel				
+way	528658842	Reddoorz Kapuk Business Park		-6.1278778	106.7429566	hotel				
+way	528667369	MK House SCBD		-6.2286704	106.8109741	hotel				
+way	528669777	RedDoorz Premium Ampera Raya 2		-6.2791104	106.8213079	hotel				
+way	529341836	Goodrich Suites		-6.2644627	106.8087091	hotel	5			
+way	529345225	Airy Eco Kebayoran Baru Blok S Senayan 87 Jakarta		-6.2376795	106.8168956	hotel				
+way	529345226	Airy Eco Kebayoran Baru Blok S Senayan 87 Jakarta		-6.2380714	106.8169825	hotel				
+way	529349648	Kencana Guest House		-6.2369141	106.8171542	hotel				
+way	529381673	Kyriad Hotel Fatmawati		-6.2606090	106.7969303	hotel		Kyriad		
+way	529395214	Hariston Hotel		-6.1371949	106.7879609	hotel				
+way	539176973	Liberta Hub Blok M Jakarta		-6.2429030	106.8020772	hotel				
+way	539176975	D'Cozie Hotel By Prasanthi		-6.2426034	106.8020696	hotel				
+way	539176991	Hotel Sotis		-6.2425951	106.8014050	hotel				
+way	598559931	POP! Hotel Kelapa Gading - Jakarta		-6.1558808	106.9091380	hotel		Pop! Hotel		
+way	655780514	Ayana Midplaza Jakarta Hotel		-6.2089979	106.8196078	hotel	5			
+way	657098272	Oakwood Premier Cozmo		-6.2275129	106.8254108	hotel	5	Oakwood		
+way	659613480	Raffles Hotel Ciputra World		-6.2241507	106.8239317	hotel	5	Raffles	Accor Hotels	https://www.raffles.com/jakarta/
+way	659806385	Hotel Losari Blok M		-6.2442574	106.7984039	hotel				
+way	659806400	Hotel Dharmein		-6.2439942	106.7995425	hotel				https://dharmeinhotel.com/
+way	659806410	M Hotel Jakarta		-6.2442431	106.7997707	hotel				
+way	662237523	Grand Tropic Hotel & Apartment		-6.1717728	106.7877534	hotel		Grand Tropic		https://www.grandtropic.com/
+way	666481669	Tondi		-6.2019233	106.8234838	hotel				
+way	668630194	Ibis Styles Jakarta Tanah Abang		-6.1836636	106.8151708	hotel		Ibis Styles		
+way	669240567			-6.1490153	106.8174480	hotel				
+way	669240569			-6.1490739	106.8171060	hotel				
+way	684767705	Hotel Citradream Bintaro		-6.2717714	106.7410431	hotel				
+way	714792318	InterContinental Hotel Pondok Indah		-6.2647861	106.7827215	hotel		InterContinental		
+way	747480169	Anara Hotel		-6.1196916	106.6623962	hotel	4		Angkasa Pura II	https://www.anara.id
+way	852568591	Mercure	Mercure	-6.1099686	106.7407442	hotel		Mercure		
+way	852568592	Swissôtel		-6.1083664	106.7405281	hotel		Swissôtel		
+way	914545526	Mendjangan Mansion		-6.2432828	106.8325806	hotel				
+way	924734336	Anara Hotel		-6.1170305	106.6692021	hotel				
+way	1050185304	Hotel Menara Peninsula	Menara Peninsula	-6.1899944	106.7981285	hotel				
+way	1098239295	Hotel Alamanda		-6.1905383	106.8066433	hotel				
+way	1136347571	Mega		-6.2014910	106.8443350	hotel				
+way	1188471213	Hotel Suite Aryaduta		-6.2201765	106.8161358	hotel				
+way	1282469318	Mercure Hotel		-6.2396539	106.8307884	hotel		Mercure		
+way	1324974777	1O1 URBAN Jakarta Kelapa Gading		-6.1573908	106.8944871	hotel		1O1 URBAN by PHM Hotels		https://https//www.1o1urbanhotels.com/jakartakelapagading
+way	1329898117	MaxOneHotels.com @ Platinum Hayam Wuruk Jakarta		-6.1645902	106.8207081	hotel		MaxOneHotels.com		
+way	1331402886	HARRIS Hotel & Conventions Kelapa Gading		-6.1574086	106.9100883	hotel				
+way	1395678432	Mövenpick Hotel Jakarta City Centre		-6.1657618	106.8260614	hotel		Mövenpick		https://all.accor.com/hotel/C0Q3/index.id.shtml
+way	1416868060	Hotel Cemara	Cemara Hotel	-6.1875080	106.8272982	hotel				
+way	1467112004	D'Prima Hotel		-6.2284467	106.8282690	hotel				
+way	1543953345	Mega Anggrek Hotel		-6.1851682	106.7899557	hotel				
+relation	6999578	Sheraton Jakarta Soekarno-Hatta Airport		-6.1207503	106.6791219	hotel	5	Sheraton	Sheraton	
+relation	7226187	Mercure Jakarta Batavia Hotel		-6.1323629	106.8100361	hotel		Mercure		
+relation	8386148	Hotel Mercure Sabang		-6.1823584	106.8249737	hotel		Mercure		
+relation	8386188	Hotel Aryaduta		-6.1816138	106.8353298	hotel	5	Aryaduta		
+relation	8671954	The Nyaman Jakarta		-6.2370334	106.8497188	hotel	2			https://thenyaman.com/
+relation	14717268	Fairmont Jakarta		-6.2220895	106.7988692	hotel	5	Fairmont	Fairmont Hotels and Resorts	https://www.fairmont.com/jakarta/
+relation	21206583	Luminor Hotel		-6.1483643	106.8232465	hotel				

@@ -1,0 +1,33 @@
+[
+  {"id":"lhengqin","name":"Hengqin Line","jp":"橫琴線 Linha de Hengqin","color":"#B82A3C","code":"Hengqin","stations":[["Hengqin",22.1407,113.5449],["Lotus",22.139,113.5595]]},
+  {
+    "id": "lseac_pai_van",
+    "name": "Seac Pai Van Line",
+    "jp": "澳門輕軌石排灣線 Linha de Seac Pai Van",
+    "color": "#8966C3",
+    "code": "Seac Pai Van",
+    "stations": [["Seac Pai Van",22.1315,113.5619],["Union Hospital",22.1379,113.5632]]
+  },
+  {
+    "id": "ltaipa",
+    "name": "Taipa Line",
+    "jp": "氹仔線 Linha da Taipa",
+    "color": "#96C93C",
+    "code": "Taipa",
+    "stations": [
+      ["Taipa Ferry Terminal",22.163,113.5741],
+      ["Airport",22.1593,113.5747],
+      ["MUST",22.1529,113.5708],
+      ["Cotai East",22.1481,113.5692],
+      ["East Asian Games",22.1422,113.5686],
+      ["Union Hospital",22.1387,113.563],
+      ["Lotus",22.1397,113.5597],
+      ["Cotai West",22.1453,113.5578],
+      ["Pai Kok",22.1509,113.5543],
+      ["Stadium Station",22.1546,113.5519],
+      ["Jockey Club",22.1571,113.547],
+      ["Ocean",22.1581,113.5412],
+      ["Barra",22.1839,113.5294]
+    ]
+  }
+]

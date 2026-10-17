@@ -1,0 +1,24 @@
+[
+  {
+    "id": "ll1",
+    "name": "Line 1 (Ho Chi Minh City Metro)",
+    "color": "#0079B8",
+    "code": "L1",
+    "stations": [
+      ["Suoi Tien Terminal",10.8796,106.8141],
+      ["National University",10.8663,106.8012],
+      ["High Tech Park",10.859,106.7888],
+      ["Thu Duc",10.8464,106.7716],
+      ["Binh Thai",10.8327,106.7639],
+      ["Phuoc Long",10.8214,106.7582],
+      ["Rach Chiec",10.8086,106.7552],
+      ["An Phu",10.8022,106.7422],
+      ["Thao Dien",10.8005,106.7336],
+      ["Tan Cang",10.7986,106.7233],
+      ["Van Thanh Park",10.7961,106.7155],
+      ["Ba Son",10.7821,106.7083],
+      ["Opera House",10.7756,106.7021],
+      ["Ben Thanh",10.7709,106.6975]
+    ]
+  }
+]

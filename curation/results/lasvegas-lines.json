@@ -1,0 +1,17 @@
+[
+  {
+    "id": "lm",
+    "name": "Las Vegas Monorail",
+    "color": "#133D8C",
+    "code": "M",
+    "stations": [
+      ["MGM Grand",36.1027,-115.1677],
+      ["Horseshoe/Paris Las Vegas",36.1124,-115.1674],
+      ["Caesar's Palace/Flamingo",36.1162,-115.1685],
+      ["Harrah's & The LINQ",36.1187,-115.1684],
+      ["Convention Center",36.1295,-115.1544],
+      ["Westgate",36.1372,-115.1529],
+      ["Sahara",36.1424,-115.1546]
+    ]
+  }
+]

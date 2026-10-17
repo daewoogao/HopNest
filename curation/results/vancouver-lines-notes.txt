@@ -1,0 +1,3 @@
+5 lines, 84 stations
+  check: Canada Line: added branch to YVR–Airport as its own line; check it isn't a short-working or depot run
+  check: Expo Line: added branch to Production Way–University as its own line; check it isn't a short-working or depot run

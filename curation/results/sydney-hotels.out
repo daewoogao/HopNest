@@ -1,0 +1,309 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	18370032	Hotel Hacienda		-33.8890533	151.2007617	hostel				https://hotelhacienda.com.au/
+node	18531982	The Coogee Bay Hotel		-33.9211620	151.2562402	hotel				
+node	18548804	High Cross Randwick by Sydney Lodges		-33.9183041	151.2414354	hotel				
+node	20827868	CB Hotel		-33.8783450	151.2071584	hotel				
+node	20827872	Hotel Ibis Sydney World Square		-33.8775890	151.2077378	hotel		Ibis		https://www.ibissydneyworldsquare.com.au/
+node	20930153	The Great Southern Hotel		-33.8809492	151.2045392	hotel				
+node	20930428	ibis Styles Central Sydney		-33.8782635	151.2108765	hotel		Ibis Styles		
+node	20930434	Harry's	Hotel Harry	-33.8785321	151.2113105	hotel				https://hotelharry.com.au/
+node	20930440	Regency Hyde Park		-33.8762230	151.2093070	hotel				
+node	20930463	Hotel Stellar		-33.8777654	151.2119392	hotel				
+node	20930464	Song Hotel Sydney		-33.8773313	151.2116286	hostel				https://www.songhotels.com.au/
+node	20930465	Oakes Hotel		-33.8765855	151.2124197	hotel				https://www.oakshotels.com/en/oaks-hyde-park-plaza
+node	20930513	Pensione Hotel		-33.8782228	151.2055004	hotel				
+node	20930517	Capitol Square Hotel		-33.8793280	151.2059154	hotel				
+node	20930540	Budget Accomodation		-33.8807541	151.2046902	hostel				
+node	20954604	Alison Lodge		-33.9123210	151.2377628	hotel				
+node	20955004	Noah's Backpackers		-33.8948169	151.2730077	hostel				
+node	20958887	The Wool Merchant		-33.8729966	151.1967551	hotel				
+node	20959202	Harbour View Hotel		-33.8567424	151.2073640	hotel				
+node	20979894	QT Bondi		-33.8894867	151.2757071	hotel				https://www.qthotelsandresorts.com/bondi-beach
+node	20979913	Hotel Bondi		-33.8897800	151.2751159	hotel				
+node	20979932	Bondi Beachside Inn		-33.8906062	151.2743990	hotel				
+node	20979956	Six Ways Apartments		-33.8887189	151.2704054	hotel				
+node	20980057	Ravesi's Hotel		-33.8911667	151.2735120	hotel				
+node	20980083	Bondi Backpackers		-33.8914052	151.2734397	hostel				
+node	26627266	Ibis Sydney Darling Harbour		-33.8710866	151.1979692	hotel		Ibis	accor	http://www.ibis.com/gb/hotel-1757-ibis-sydney-darling-harbour/index.shtml
+node	26627267	Novotel Sydney on Darling Harbour		-33.8720358	151.1977762	hotel		Novotel	accor	https://www.novoteldarlingharbour.com.au/
+node	26637626	Mercure Sydney Airport		-33.9344767	151.1571571	hotel		Mercure		
+node	28376154	Novotel Sydney Brighton Beach		-33.9601836	151.1558135	hotel				
+node	99719932	Ovolo Hotel		-33.8689519	151.2202911	hotel				https://ovolohotels.com/ovolo/woolloomooloo/
+node	251469156	Alison Private Hotel		-33.9130875	151.2405077	hotel				
+node	251691844	Nesuto		-33.8705001	151.2216082	hotel				https://www.nesuto.com/woolloomooloo
+node	410403272	Sheraton on the Park		-33.8717322	151.2099196	hotel		Sheraton		
+node	481375842	ADGE Hotel		-33.8802690	151.2139552	hotel				
+node	573802843	The Sydney Boulvevard Hotel		-33.8740369	151.2166129	hotel	4			https://sydneyboulevard.com.au/
+node	665510127	Adina Apartment Hotel		-33.8686369	151.2025267	hotel		Adina Hotels		https://www.adinahotels.com/hotel/sydney-darling-harbour/
+node	835526704	The Village Bondi Beach		-33.8912661	151.2715377	hostel			The Village	https://thevillagehostels.com.au/hostel/bondi-beach/
+node	836112329	Base Backpackers Sydney		-33.8731671	151.2050059	hostel				https://www.stayatbase.com/
+node	1095964196	Kogarah Hotel		-33.9632192	151.1328221	hotel				https://www.kogarahhotel.com.au
+node	1117739823	Amora Hotel		-33.8644990	151.2063897	hotel				
+node	1160951397	Hughenden Boutique Hotel		-33.8889435	151.2335490	hotel				https://thehughenden.com/
+node	1160951401	Sofitel Wentworth Sydney		-33.8655042	151.2110194	hotel		Sofitel		
+node	1269970224	Freeway Hotel		-33.8142290	151.1860874	hotel				
+node	1343062770	Billabong Gardens		-33.8939578	151.1818704	hostel				
+node	1460569528	Manly backpackers hostel		-33.7954476	151.2855279	hostel				
+node	1460581339	The Darling		-33.8693455	151.1955449	hotel				
+node	1566705890	Mantra Sydney Central		-33.8790255	151.2051592	hotel				
+node	1649722761	Novotel Sydney City Centre		-33.8648204	151.2053697	hotel		Novotel		
+node	1650823213	Original Backpacker		-33.8725452	151.2228739	hostel				
+node	1833317177	The Imperial		-33.8864837	151.1941839	hostel				
+node	1833317180	The Green Room		-33.8846044	151.1962756	hotel				
+node	1839843411	Sleeping With The Enemy		-33.8796463	151.1983294	hostel				
+node	1927757498	Hotel Diplomat		-33.8751163	151.2234645	hotel				
+node	2282310086	Swissotel Sydney		-33.8707364	151.2072969	hotel		Swissôtel		
+node	2365228928	The Abbey on King		-33.8992674	151.1775277	hostel				
+node	2449047495	St James Hotel		-33.8711323	151.2096112	hotel				
+node	2524997066	Pullman Sydney Hyde Park		-33.8761891	151.2124868	hotel		Pullman		https://www.pullmansydneyhydepark.com.au/
+node	2573959557	Royal Pacific Hotel		-33.8085948	151.1782310	hotel				royalpacifichotel.com.au
+node	2744297154	DeVere Hotel		-33.8708575	151.2254334	hotel				https://www.devere.com.au/
+node	2789619449	Cambridge Lodge		-33.8957586	151.1672092	hostel				https://cambridgelodge.com.au/
+node	3147054966	QT Sydney		-33.8709373	151.2076595	hotel				https://www.qtsydney.com.au
+node	3172924629	Summer House Backpackers		-33.8742038	151.2191759	hostel				http://www.summerhousebackpackers.com/
+node	3198387298	Meriton Serviced Apartments Campell Street		-33.8790167	151.2057959	hotel			Meriton	
+node	3278506050	Empire Hotel Annandale		-33.8876350	151.1681061	hotel				
+node	3278547645	The Whitehouse Hotel		-33.8880771	151.1592682	hotel				clarencehotel.com.au
+node	3283348642	Adina apartment hotel		-33.8743123	151.2051720	hotel		Adina Hotels		
+node	3283348643	Belvedere Hotel		-33.8743876	151.2054368	hotel				
+node	3374315677	Fraser Suites		-33.8748387	151.2054872	hotel				
+node	3380879547	North Ryde Guest House		-33.7864370	151.1203773	hotel				
+node	3476205574	790 on George Backpackers		-33.8814160	151.2049321	hostel				https://www.790ongeorge.com.au
+node	3947217368	Meriton Serviced Apartments Zetland		-33.9076277	151.2125134	hotel				
+node	3949642058	Park Regis City Centre		-33.8733569	151.2087238	hotel				https://www.parkregiscitycentre.com.au/
+node	3949642060	Summer House Sydney City		-33.8753796	151.2073131	hostel				
+node	3998849514	Rydges		-33.8771528	151.2075498	hotel				
+node	4017564289	Central Private Hotel		-33.8849798	151.2083244	hotel				
+node	4017564489	Central Hotel		-33.8853176	151.2073172	hotel				
+node	4021093194	World Square Hostel		-33.8763231	151.2065564	hostel				
+node	4021093195	Rydges World Square		-33.8767065	151.2073638	hotel				
+node	4021094090	Tequila Sunrise		-33.8778440	151.2053976	hostel				
+node	4027298792	Sydney Central Inn		-33.8791325	151.2073435	hotel				
+node	4032643491	Hotel 57		-33.8843847	151.2103139	hotel				
+node	4055985397	The Maisonette Hotel		-33.8690966	151.2251762	hotel				https://www.themaisonette.com.au/
+node	4057788795	YEHS Hotel Sydney Harbour Suites		-33.8726729	151.2042159	hotel				https://sydneyhotelharboursuites.com.au
+node	4184365609	Goldsborough Apartment Hotel		-33.8738322	151.1972728	hotel				https://www.minorhotels.com/en/oaks/oaks-goldsbrough-apartments
+node	4201269109	Meriton Serviced Apartments		-33.7753984	151.1217847	hotel				
+node	4208541290	Quest at Olympic park		-33.8516832	151.0625723	hotel				
+node	4242639798	Hotel Concord		-33.8478374	151.0861798	hotel				
+node	4242649706	Molly Malone's Irish Tavern		-33.8858282	151.2074506	hotel				
+node	4252292392	Castlereagh Boutique Hotel		-33.8725877	151.2091176	hotel				https://www.thecastlereagh.com.au/
+node	4334201391	Rydges Darling Square		-33.8760618	151.2048386	hotel				
+node	4346518096	PodBed Backpacker Accommodation		-33.8710323	151.2250880	hostel				
+node	4361946597	Maze Backpackers		-33.8784755	151.2071585	hostel				
+node	4375372789	Martin		-33.9691735	151.1502499	hostel				
+node	4396883989	City resort hostel	City resort hostel	-33.8732168	151.2173192	hostel				
+node	4444799090	Arts Hotel	Arts Hotel	-33.8828654	151.2204081	hotel				
+node	4469722689	Secret Garden Backpackers	Secret Garden Backpackers	-33.8898398	151.2061924	hostel				
+node	4518067889	Paula's	Paula's	-33.9273818	151.1987899	hostel				
+node	4660895889			-33.9241486	151.2437309	hostel				
+node	4706664890	Sydney City Hostels	Mountbatten hotel	-33.8804630	151.2046310	hostel				
+node	4776795230	UniLodge @ UNSW		-33.9120313	151.2230787	hostel				https://www.unilodge.com.au/student-accommodation-sydney/unsw
+node	4945164274	Siesta Sydney		-33.8670538	151.2040910	hotel				https://siestasydney.com.au/
+node	5007847321	Rooftop travellers lodge	Rooftop travellers lodge	-33.8795680	151.1866538	hostel			Rooftop travellers lodge	https://www.rooftoptravellerslodge.com/
+node	5234561321	Morgan's Boutique		-33.8766947	151.2219279	hotel				
+node	5306309493	Holiday Inn Darling Harbour		-33.8777900	151.2036153	hotel		Holiday Inn		https://www.hidarlingharbour.com/
+node	5382760653	Hunters Hill Hotel		-33.8337050	151.1450022	hotel				https://www.huntershillhotel.com.au/
+node	5406616421	Mantra Hotel		-33.8644033	151.2076711	hotel				
+node	5494268400	Milson Serviced Apartments		-33.8472637	151.2114061	hotel				https://www.milsonsa.com.au/
+node	5555376267	Kirkton Hotel		-33.8768324	151.2209656	hotel				
+node	5584499315	Quality Hotel CKS Sydney Airport		-33.9345918	151.1556492	hotel				
+node	5774184757	The Sebel		-33.7974255	151.1823758	hotel		The Sebel		https://www.thesebelresidencechatswood.com.au/
+node	5872769353	Veriu		-33.9144169	151.2402143	hotel				
+node	5892457733	Adina Apartment Hotel		-33.8897256	151.2718424	hotel				
+node	6475339285			-33.8838965	151.1963958	hostel				
+node	6863206204	Larmont Sydney by Lancomore		-33.8756348	151.2227987	hotel				https://larmontsydney.com.au
+node	6982460134	Home Backpackers		-33.8810509	151.2089276	hostel				
+node	7019222885			-33.8839523	151.1963297	hostel				
+node	7097433449	Meriton Suits North Sydney		-33.8404764	151.2096114	hotel		Meriton Suits		
+node	7624457025	Meriton Suites		-33.9243862	151.1906989	hotel				
+node	8302746959	Marco Polo Motor Inn Sydney		-33.8880932	151.1420303	hotel		Marco Polo Motor Inn Sydney		https://www.marcopolosydney.com.au
+node	8404138747	The Ultimo		-33.8806846	151.2033905	hotel				
+node	8813073076	Mantra Chatswood		-33.7962664	151.1799279	hotel				
+node	9313190685	Veriu Camperdown		-33.8856761	151.1805647	hotel			Veriu	
+node	9935141307	Penshurst Hotel		-33.9650563	151.0880250	hotel				https://www.penshursthotel.com.au/contact/
+node	10003952717	Vibe Hotel		-33.8752065	151.2041760	hotel				
+node	10184992038	The Sebel Sydney Martin Place		-33.8685126	151.2109510	hotel		The Sebel		https://all.accor.com/hotel/B980/index.en.shtml?goto=fiche_hotel&code_hotel=B980
+node	10200866985	Four Points		-33.8846326	151.1992505	hotel	4.5	Four Points by Sheraton	Sheraton	https://www.marriott.com/en-us/hotels/sydcf-four-points-by-sheraton-sydney-central-park/overview/
+node	10290549111	Shakespeare Hotel		-33.8876320	151.2111485	hotel				https://www.shakespearehotel.com.au/
+node	10708124291	Hotel Challis		-33.8690189	151.2246867	hotel				https://hotelchallispottspoint.com/
+node	10736373908	Sydney Central Hotel		-33.8818643	151.2028277	hotel	4	Ascott Limited		https://www.discoverasr.com/en/others/australia/sydney-central-hotel
+node	10815691359	Mad Monkey Downtown		-33.8731852	151.2242057	hostel				https://www.madmonkey.com.au/locations/australia/sydney/mad-monkey-downtown
+node	10978994705	Aiden by Best Western		-33.8702838	151.1976086	hotel		Aiden		https://aidendarlingharbour.com.au
+node	11005477576	Greenacre Hotel		-33.9071646	151.0570293	hotel				
+node	11009755906	Central Studio Hotel Sydney		-33.8827468	151.2036929	hostel				
+node	11074271931	Crowne Plaza		-33.8734989	151.1046755	hotel		Crowne Plaza		
+node	11128838789	Mad Monkey Potts Point		-33.8722751	151.2242156	hostel				https://www.madmonkey.com.au/locations/australia/sydney/mad-monkey-potts-point
+node	11151764194	Big Hostel		-33.8803183	151.2090757	hostel				
+node	11172984793	Spicers		-33.8716466	151.2230320	hotel				https://spicersretreats.com/retreats/spicers-potts-point/
+node	11185597229	The Illinois Hotel		-33.8725906	151.1258633	hotel				
+node	11195397238	The Fullerton Hotel		-33.8678680	151.2077229	hotel				https://www.fullertonhotels.com/fullerton-hotel-sydney
+node	11211796584	New SilkRoad Apartments		-33.9239312	151.1881166	hotel				
+node	11250417338	Col James Student Accomodation		-33.8912054	151.1988920	hostel				
+node	11264779169	The Pacific House	The Pacific House	-33.8715107	151.2167325	hostel				https://www.thepacifichouse.com
+node	11296628896	Yehs Hotel Sydney QVB		-33.8724279	151.2063351	hotel	3			
+node	11337042569	Quality Inn Sunshine Haberfield		-33.8828786	151.1341265	hotel				https://www.choicehotels.com/new-south-wales/haberfield/quality-inn-hotels/au932?mc=llgoxxap
+node	11397369148	No.9 Springfield		-33.8729731	151.2235714	hotel				https://9springfield.com/
+node	11524009599	W Hotel		-33.8734056	151.2021027	hotel		W Hotels		https://www.marriott.com/en-us/hotels/sydwh-w-sydney/overview/
+node	11524053686	Sydney Harbour YHA		-33.8600790	151.2071014	hostel				https://www.yha.com.au/hostels/nsw/sydney-surrounds/sydney-harbour/
+node	11532673813	Mad Monkey East Side		-33.8737033	151.2238272	hostel				https://www.madmonkey.com.au/locations/australia/sydney/mad-monkey-east-side
+node	11532673814	Mad Monkey Kings Cross		-33.8736170	151.2242010	hostel				https://www.madmonkey.com.au/locations/australia/sydney/mad-monkey-kings-cross
+node	11833963843			-33.8758556	151.2256879	hotel				
+node	11865408791	Nesuto		-33.8886867	151.2002667	hotel				
+node	12184028775	Ace Hotel		-33.8788467	151.2099659	hotel		Ace Hotel	Seibu Prince Hotels & Resorts	https://acehotel.com/sydney/
+node	12193456056	Urban Nomad		-33.8721688	151.2228920	hostel				
+node	12247270257	Kimpton Margot Sydney		-33.8751735	151.2077432	hotel		Kimpton		https://www.ihg.com/kimptonhotels/hotels/us/en/kimpton-hotel-sydney-australia/sydkm/hoteldetail
+node	12308821401	The Tank Stream Sydney		-33.8654080	151.2085390	hotel				
+node	12385346990	London Plane Backpackers		-33.8730217	151.2227381	hostel				https://www.londonplane.com.au/
+node	12385346994	Highfield		-33.8728293	151.2227631	hotel				https://www.highfieldhotel.com.au/
+node	12404147234	Vibe Hotel North Sydney		-33.8377462	151.2064251	hotel				https://vibehotels.com/book-accommodation/sydney/hotel-north-sydney/
+node	12404245133	Dalziel Lodge		-33.8317751	151.2054232	hostel				
+node	12405562364	Mad Monkey Bayswater		-33.8759827	151.2253667	hostel				https://www.madmonkey.com.au/locations/australia/sydney/mad-monkey-bayswater
+node	12463793364	Wildlife Retreat at Taronga		-33.8433025	151.2440235	hotel				https://taronga.org.au/sydney-zoo/wildlife-retreat
+node	12624032049	Sydney Rison Hotel		-33.8842566	151.2018939	hotel				https://riseonhotel.com.au
+node	12635670903	YEHS Hotel CBD		-33.8758935	151.2047832	hotel				https://yehshotel.com.au/sydneycbd/
+node	12638716704	Best Western PLUS Camperdown Suites		-33.8861375	151.1788758	hotel				
+node	12663589601	Nate's Place Backpackers		-33.8748046	151.2182737	hostel				
+node	12715391814	The Jensen		-33.8693745	151.2253106	hotel				https://thejensenpottspoint.com/
+node	12813043935	Tequila Sunrise		-33.8718901	151.2236671	hostel				https://tequilasunrisehostels.com
+node	12944115908	Eastend Lodge		-33.8744266	151.2246235	hotel				
+node	12953739554	Broadway X Scape		-33.8839410	151.1971239	hotel				
+node	13002823901	Little National Hotel		-33.8656847	151.2050555	hotel				https://littlenationalhotel.com.au/sydney/
+node	13011224584	Urban Nomad		-33.8742546	151.2229008	hostel				
+node	13016230937	The Kings Hotel		-33.8735220	151.2235773	hotel				
+node	13080110018	Homi Central		-33.8845384	151.2022838	hotel				
+node	13109321038	Central Perk		-33.8743750	151.2231223	hostel				
+node	13109360601	Megaboom Hotel		-33.8698792	151.2059420	hotel				
+node	13208375101	The Palace Hotel		-33.8425144	151.1074590	hotel				https://www.palacehotelmortlake.com.au/
+node	13253266284	Y Suites On Margaret		-33.8937041	151.1996577	hotel				
+node	13288375720	Spice On Broadway		-33.8843980	151.2016525	hotel				
+node	13373156313	Ibis Budget		-33.8499387	151.0621687	hotel		Ibis Budget		
+node	13509406101			-33.8817768	151.1975492	hotel				https://vulcanhotel.com.au
+node	13509427201	Mrs Banks Hotel		-33.8856176	151.2278650	hotel				https://mrsbankshotel.com.au
+node	13509537403	Crystalbrook Albion Hotel		-33.8827881	151.2117341	hotel				https://www.crystalbrookcollection.com/albion
+node	13660367862	Mad Monkey Broadway		-33.8853315	151.1946711	hostel				https://www.madmonkey.com.au/locations/australia/sydney/mad-monkey-broadway
+node	13817065011	Link2 Student Living		-33.8799579	151.1996736	hostel				https://link2.com.au
+node	13927715001	Haberfield Hotel		-33.8783206	151.1309814	hotel				https://www.haberfieldhotel.com.au/
+node	13927723901	Holiday Inn Express Sydney Macquarie Park		-33.7809233	151.1200424	hotel				https://www.ihg.com/holidayinnexpress/hotels/us/en/sydney/sydmp/hoteldetail
+node	13928784001	lyf Bondi Junction		-33.8931736	151.2514226	hotel		lyf		https://www.discoverasr.com/en/lyf/australia/lyf-bondi-junction-sydney
+node	13928818901	Citadines Walker North Sydney		-33.8384707	151.2086210	hotel				https://citadineswalkernorthsydney.com-hotel.info/
+node	13928818902	Citadines Walker North Sydney		-33.8384707	151.2086210	hotel				https://www.discoverasr.com/en/citadines/australia/citadines-walker-north-sydney
+node	13930035301	Veriu Macquarie Park		-33.7862091	151.1269998	hotel				https://veriu.com.au/hotels/veriu-macquarie-park/
+node	13930384001	Avonmore on the Park Boutique Hotel		-33.9123719	151.2411433	hotel				https://www.avonmoreonthepark.com.au
+node	13973539588	Quest		-33.8356914	151.2078159	hotel				https://www.questapartments.com.au/properties/nsw/north-sydney/quest-north-sydney
+node	14006172851	The Lands by Capella		-33.8637120	151.2099506	hotel				https://capellahotels.com/en/capella-sydney/thelands
+node	14006172852	Capella Sydney		-33.8636480	151.2106852	hotel				https://capellahotels.com/en/capella-sydney
+node	14047910275	Hotel Azzurro		-33.8796910	151.2095529	hotel				
+node	14157193850	City Budget Hotel		-33.8798249	151.2161814	hotel				
+way	5664766	IBIS Budget Enfield		-33.8871468	151.0713836	hotel		Ibis Budget	IBIS Budget Accor Hotels	http://accorhotels.com.au/hotel/ibis-budget-enfield
+way	23717454	Pullman Quay Grand Sydney		-33.8608518	151.2129269	hotel		Pullman		https://www.accorhotels.com/gb/hotel-8779-pullman-quay-grand-sydney-harbour/index.shtml
+way	23717495	Novotel Rockford Darling Harbour		-33.8774349	151.2026932	hotel		Novotel		
+way	50540253	Australian Hotel		-33.8597000	151.2070428	hotel				
+way	73552749	North Sydney Hotel		-33.8306626	151.2082509	hotel				
+way	97718879	ibis Budget		-33.9145965	151.1778587	hotel		Ibis Budget		https://all.accor.com/hotel/2699/index.en.shtml
+way	148387967	Lakeside Hotel & Conference Centre		-33.7712892	151.1160502	hotel				https://www.hotel.mgsm.com.au/executive-accommodation
+way	152423825	The Langham Sydney		-33.8605022	151.2034595	hotel		The Langham		http://www.langhamhotels.com/en/the-langham/sydney/
+way	152760665	Pier One Sydney		-33.8541750	151.2081001	hotel		Autograph Collection		https://pieronesydneyharbour.com.au
+way	152761368	Park Hyatt Sydney		-33.8560000	151.2094224	hotel		Park Hyatt		
+way	173158030	Aspire Hotel		-33.8803836	151.1985751	hotel				
+way	173172204	Veriu Central		-33.8792526	151.2094484	hotel				
+way	173172264	Vibe Hotel		-33.8787665	151.2095882	hotel				https://vibehotels.com/hotel/sydney
+way	173542965	Grace Hotel		-33.8689862	151.2056756	hotel				https://gracehotel.com.au/
+way	175378655	Adina Apartment Hotel Sydney Central		-33.8836279	151.2041711	hotel		Adina Hotels		https://www.adinahotels.com/en/apartments/sydney-central/
+way	175378656	Wake Up! Sydney Central		-33.8823554	151.2047015	hostel				https://wakeup.com.au/
+way	188105512	YHA Sydney Central		-33.8816602	151.2053294	hostel		YHA	YHA Australia	https://www.yha.com.au/hostels/nsw/sydney-surrounds/sydney-central-backpackers-hostel
+way	196622136	ParkRoyal Darling Harbour Sydney		-33.8736004	151.2035672	hotel		PARKROYAL		https://www.parkroyalhotels.com/en/hotels-resorts/australia/darling-harbour-sydney.html
+way	206458041	Courtyard by Marriott North Ryde		-33.7831647	151.1297216	hotel		Courtyard		https://www.marriott.com.au/hotels/travel/sydry-courtyard-sydney-north-ryde/
+way	223337007	Ibis		-33.9281135	151.1867891	hotel		Ibis		
+way	223939736	Killara Hotel & Suites		-33.7719399	151.1611573	hotel				https://www.killarasuites.com.au/
+way	242789804	Quest Sydney Olympic Park		-33.8506335	151.0624816	hotel				
+way	249659096	Coogee Bay Boutique Hotel		-33.9212987	151.2556250	hotel				
+way	252380363	Coogee Sands Hotel and Apartments		-33.9186924	151.2579857	hotel				
+way	270316692	Hilton Sydney		-33.8718174	151.2076057	hotel	5	Hilton	Hilton	https://www.hilton.com/en/hotels/sydhitw-hilton-sydney/
+way	286266187	Agincourt Hotel		-33.8837407	151.2022344	hotel				
+way	287001179	Ibis		-33.8483054	151.0675733	hotel		Ibis		
+way	308370068	Banksia Hotel		-33.9452085	151.1419246	hotel				
+way	320262638	Hotel Pullman at Sydney Olympic Park		-33.8487798	151.0680523	hotel	5	Pullman	Pullman	http://www.pullmanhotels.com/gb/hotel-6411-pullman-at-sydney-olympic-park/index.shtml
+way	335687066	Sydney Harbour Marriott Hotel		-33.8628693	151.2093763	hotel		Marriott	Marriott	https://www.marriott.com/hotels/travel/sydmc-sydney-harbour-marriott-hotel-at-circular-quay/
+way	335696949	Holiday Inn Old Sydney		-33.8581324	151.2087422	hotel		Holiday Inn		https://www.ihg.com/holidayinn/hotels/us/en/sydney/sydgs/hoteldetail
+way	335697864	Shangri-La Hotel		-33.8612947	151.2065754	hotel		Shangri-La		
+way	345233016	Novotel		-33.8479095	151.0675766	hotel		Novotel	Novotel	
+way	352700702	Adina Apartment Hotel		-33.9254229	151.1877160	hotel		Adina Hotels		https://www.adinahotels.com.au/
+way	353176460	Harbour Rocks Hotel		-33.8596472	151.2081453	hotel	5			https://www.harbourrocks.com.au/
+way	353199691	The Russell Boutique Hotel		-33.8605069	151.2083032	hotel				https://www.therussell.com.au/
+way	369353794	Mercure Hotel		-33.8842531	151.2030216	hotel	4	Mercure	Accor	http://mercuresydney.com.au
+way	384247253	Rydges	Rydges	-33.9343403	151.1656347	hotel	4	Rydges		
+way	387741349	Hotel Coronation		-33.8733733	151.2076744	hotel				
+way	387741684	Meriton Suites Pitt Street		-33.8742248	151.2077232	hotel				
+way	387782064	InterContinental Hotel		-33.8629399	151.2124103	hotel		InterContinental		
+way	409035079	Adina Grand		-33.8653336	151.2075570	hotel		Adina Hotels		
+way	409035105	Mantra on Kent		-33.8717102	151.2046929	hotel		Mantra		https://www.mantraonkent.com.au/
+way	409035210	Radisson Plaza Hotel		-33.8653574	151.2090082	hotel		Radisson		
+way	426966792	Stamford Plaza		-33.9311742	151.1855672	hotel				https://www.stamford.com.au/ssa
+way	449133889	Silkari		-33.7951317	151.1846162	hotel				
+way	459015422	Mercure Sydney Macquarie		-33.7723950	151.1168702	hotel		Mercure		
+way	471983688	Ibis King Street Wharf		-33.8666781	151.2027529	hotel		Ibis		https://www.accorhotels.com/gb/hotel-6412-ibis-sydney-king-street-wharf/index.shtml
+way	477239070	Four Seasons Hotel		-33.8616794	151.2076580	hotel	5	Four Seasons		https://www.fourseasons.com/sydney/
+way	477593546	Hyde Park Inn		-33.8760735	151.2093046	hotel				https://hydeparkinn.com.au/
+way	485295787	Holiday Inn Darling Harbour	Holiday Inn Darling Harbour	-33.8783072	151.2035588	hotel		Holiday Inn		
+way	485656099	Sofitel Sydney Darling Harbour		-33.8726892	151.1986261	hotel		Sofitel		https://www.sofitelsydneydarlingharbour.com.au/
+way	506610233	View Sydney		-33.8415008	151.2084797	hotel				https://viewhotels.com.au/sydney/
+way	507700591	Quest		-33.7976053	151.1859180	hotel			Quest	
+way	521226316	Travelodge		-33.9280086	151.1857414	hotel		Travelodge		
+way	523094462	Hotel Concorde		-33.8476982	151.0861733	hotel				
+way	541968516	Astral Tower		-33.8679091	151.1947412	hotel				
+way	543831143	Rydges North Sydney		-33.8342861	151.2090573	hotel		Rydges		https://www.rydges.com/accommodation/sydney-nsw/north-sydney/
+way	547023488	Crowne Plaza Sydney Darling Harbour		-33.8738342	151.2044664	hotel		Crowne Plaza		https://www.ihg.com/crowneplaza/hotels/us/en/sydney/sydsh/hoteldetail
+way	547858893	Crowne Plaza Sydney Airport		-33.9261365	151.1878995	hotel		Crowne Plaza		
+way	548918508	Caption By Hyatt		-33.8801842	151.2057690	hotel		Caption by Hyatt		https://www.hyatt.com/caption-by-hyatt/en-US/sydcp-caption-by-hyatt-central-sydney
+way	548918539	Central Studio Hotel		-33.8826901	151.2036915	hotel				https://centralstudiohotel.com/
+way	552029268	Manly Pacific		-33.7954118	151.2870142	hotel		MGallery		https://manlypacific.com.au/
+way	552141771	"West Hotel Sydney, Curio Collection by Hilton"		-33.8675536	151.2032107	hotel	4.5	Curio Collection	Hilton	
+way	552506132	The Sebel		-33.7994304	151.2893477	hotel		The Sebel		https://www.thesebel.com/new-south-wales/the-sebel-sydney-manly-beach/
+way	556160676	The Urban Newtown		-33.8987992	151.1763438	hotel				
+way	556579416	ibis budget Sydney East		-33.8751475	151.2200548	hotel		Ibis Budget		https://all.accor.com/hotel/5675/index.en.shtml
+way	556580512	East Hyde Park Backpackers		-33.8731968	151.2172041	hostel				
+way	557316578	Sydney Potts Point Central Apartment Hotel		-33.8732821	151.2232267	hotel		Central Apartment Group	Central Apartment Group	https://www.sydneypottspointcentral.com.au/
+way	560421397	Hotel Rockdale		-33.9534438	151.1372016	hotel				https://www.hotelrockdale.com.au/
+way	567195532	Club Wyndham		-33.7999471	151.2894369	hotel		Club Wyndham		
+way	577867604	Ibis Budget		-33.9328096	151.1875194	hotel		Ibis Budget		
+way	577867605	Mantra Hotel		-33.9326881	151.1870869	hotel				
+way	578649797	Meriton Suites Waterloo		-33.8981373	151.2150453	hotel		Meriton		https://www.meritonsuites.com.au/our-hotels/nsw/eastern-sydney/waterloo/
+way	581013658	Crown Sydney Hotel Resort		-33.8624169	151.2010549	hotel				https://www.crownhotels.com.au/sydney/crown-towers
+way	586230525	Meriton Suites Chatswood		-33.7988567	151.1796051	hotel		Meriton		https://www.meritonsuites.com.au/our-hotels/nsw/northern-sydney/chatswood/
+way	590884726	Manly Paradise		-33.7960049	151.2873361	hotel				
+way	595366550	Uno Hotel		-33.8736828	151.2247696	hotel				
+way	600225336	Rydges Camperdown		-33.8870154	151.1791669	hotel		Rydges	TAJ Hotels Australia Pty Ltd	https://www.rydges.com/accommodation/sydney-nsw/camperdown/
+way	604081108	28 Hotel		-33.8848248	151.2028327	hotel				https://www.28hotel.com.au
+way	605418957	The Village		-33.8897144	151.2040116	hostel				
+way	621407554	SKYE Suites		-33.8683284	151.2048612	hotel	5	SKYE		https://skyesydney.com.au
+way	624149197	Beach Road Hotel		-33.8861952	151.2725980	hotel				
+way	625857040	Oaks Sydney North Ryde Suites		-33.7949324	151.1438157	hotel		Oaks		https://www.oakshotels.com/en/oaks-sydney-north-ryde-suites
+way	641032690	Studio 8 Residences		-33.8135597	151.1065923	hotel				
+way	641384215	Napoleon on Kent		-33.8646502	151.2038003	hotel				
+way	644263884	Value Suites Green Square		-33.9069748	151.2019013	hotel				
+way	675906786	The Branksome Hotel		-33.9316454	151.1905400	hotel				
+way	675906787			-33.9310541	151.1872510	hotel		Quest		
+way	680018019	Grand National Hotel		-33.8864530	151.2318665	hotel				
+way	684486196	Avoca Randwick by Sydney Lodges		-33.9193499	151.2410572	hotel				
+way	684486210	Perouse Randwick by Sydney Lodges		-33.9187617	151.2420406	hotel				
+way	699077448	Ashfield Manor Hotel		-33.8886387	151.1330057	hotel				
+way	796700834	Town and Country Hotel		-33.9105519	151.1755620	hotel				
+way	805165233			-33.9313475	151.1875333	hotel		Citadines		
+way	821658697	Hyatt Regency Sydney		-33.8699034	151.2032630	hotel		Hyatt Regency		https://sydney.regency.hyatt.com
+way	827615169	The Village Glebe		-33.8744047	151.1823631	hostel				https://thevillagehostels.com.au/hostel/glebe/
+way	831608602	The Savoy Hotel		-33.8766003	151.2421297	hotel				https://www.savoyhotel.com.au/
+way	831756191	Best Western Haven Glebe		-33.8773853	151.1847332	hotel		Best Western		https://www.havenhotel.com.au/
+way	926614758	Bondi Hub		-33.8943893	151.2603110	hotel				
+way	996509141	Eastwood Furnished Apartments		-33.7888499	151.0828814	hotel				https://eastwood-furnished-apartments.com.au/
+way	1076058395	Kingsgrove Hotel		-33.9409686	151.1016044	hotel				https://kingsgrovehotel.com.au/
+way	1081380899	Quest Apartments		-33.7880251	151.1275166	hotel				https://www.questapartments.com.au/properties/nsw/macquarie-park/quest-macquarie-park/overview/
+way	1093276382	Mortdale Hotel		-33.9717220	151.0801894	hotel				
+way	1186649302	Holiday Inn Potts Point		-33.8743185	151.2219040	hotel		Holiday Inn		https://www.ihg.com/holidayinn/hotels/us/en/sydney/sydas/hoteldetail
+way	1271073272	Mariners Court Hotel		-33.8707232	151.2220552	hotel				https://marinerscourt.com.au
+way	1276782923	Garden Lodge Sydney		-33.8882341	151.1432281	hostel				https://www.swissgarden.com/
+way	1324219607	Mercure Sydney Manly Warringah		-33.7603119	151.2766887	hotel		Mercure		
+way	1479635128	Anderledy		-33.8393935	151.2056523	hotel				https://www.marymackillopplace.org.au/stay/anderledy/
+way	1528752829	Airport Hotel		-33.9394396	151.1473239	hotel				https://www.airporthotelsydney.com.au/
+way	1548048270	Glenferrie Lodge Sydney		-33.8501358	151.2182385	hotel	4			https://glenferrielodge.com/
+relation	16256094	InterContinental Sydney Double Bay		-33.8760110	151.2432778	hotel	5	InterContinental		https://doublebay.intercontinental.com

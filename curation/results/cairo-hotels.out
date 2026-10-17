@@ -1,0 +1,247 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	366451946	فندق لونشان	Hotel Longchamps	30.0638579	31.2191142	hotel	3			
+node	366456417	فندق أم كلثوم	Om Kalthoom Hotel	30.0645602	31.2159286	hotel				
+node	387488353	بنسيون روما	Pension Roma	30.0515136	31.2445470	hotel				
+node	412052344	لو مريديان هليوبوليس	Le Méridien Heliopolis	30.0913076	31.3363092	hotel				
+node	412052757	بارون	Baron Hotel	30.0860300	31.3315200	hotel				
+node	474812093	جراند حيات	Grand Hyatt	30.0348063	31.2276294	hotel		Grand Hyatt		
+node	621486721	شهرزاد	Shehrazad	30.0567280	31.2154322	hotel				
+node	679752615	فندق بيروت	Hotel Beirut	30.0932510	31.3278928	hotel				
+node	710683812	Stay Inn Hotel	Stay Inn Hotel	29.9912794	31.1370891	hotel				https://pyramids.stayinn-hotel.com
+node	820771851	Barcelo Cairo Pyramids Hotel	Barcelo Cairo Pyramids Hotel	29.9996360	31.1763862	hotel			Barcelo	https://www.barcelo.com/en-ww/barcelo-cairo-pyramids/
+node	961972426	نوفوتيل	Novotel	30.1213508	31.4021440	hotel		Novotel		
+node	988610125	Pharaohs	Pharaohs	30.0422436	31.2185122	hotel				
+node	1230228193	Safir Hotel		30.0351353	31.2134030	hotel				
+node	1246793872	طيبة روز	Tiba Rose	30.0751838	31.3377856	hotel				
+node	1246793874	جراند طيبة روز هوتيل	Grand Tiba Rose Hotel	30.0767343	31.3387190	hotel				
+node	1259516879	فندق توليب	Tulip Hotel	30.0472868	31.2388287	hostel				
+node	1259516961	Select Hotel		30.0512468	31.2433736	hostel				
+node	1454018630	Horus House Hotel		30.0637719	31.2192726	hotel				www.horushotel.4t.com
+node	1772672568	Freedom Hostel	Freedom Hostel	30.0482665	31.2425402	hostel				
+node	1920566709	King Hotel		30.0409859	31.2143830	hotel				
+node	3208478104	Tiap Hous		30.0416081	31.2140328	hotel				
+node	3208478105	Nouran		30.0400118	31.2141061	hotel				
+node	3243384545	Wake Up Cairo Hostel		30.0504314	31.2359592	hostel				http://www.wakeupcairohostel.com/
+node	3516825690	Arabian Nights		30.0486398	31.2672675	hotel				http://arabiannightshotel.com/
+node	3887776725	Le Méridien Cairo Airport		30.1137185	31.3953464	hotel	5	Le Méridien		https://www.marriott.com/en-us/hotels/caiam-le-meridien-cairo-airport/overview/
+node	4240749489	star plaza guest house		30.0391947	31.2055397	hotel				
+node	4266796119	دار الدفاع الجوي	Air Defense House	30.0759354	31.3379696	hotel				
+node	4314492990	الشغل	Work	30.0852714	31.3379249	hotel				
+node	4351743523	My home		30.0930635	31.1797531	hotel				
+node	4357451500		Home	30.1040924	31.3174194	hostel				
+node	4433387789	اشرف	Ashraf	30.1293965	31.2740908	hotel				
+node	4510321192		Memar Almorshedy	29.9858670	31.3212088	hotel				
+node	4514230292			30.1042079	31.2104254	hotel				
+node	4563419799	عمارتنا	emartna	30.0763180	31.3359479	hotel				
+node	4563709491	Regent House Hotel		30.0489990	31.2396366	hotel				
+node	4695099990	HolydIes		30.0592210	31.2074897	hotel				
+node	4709618092	عماد بكري		30.0916178	31.3242652	hostel				
+node	4723141799	دار المركبات		30.0648749	31.2878045	hotel				
+node	4742798123	منزل رمضان الاغا الفلسطينى		30.0443420	31.2135852	hostel				
+node	4770200624	فندق لاڤي	Lavie Hotel	30.0525959	31.2418231	hotel				
+node	4770480921	Lavie Hotel	Lavie Hotel	30.0526148	31.2417690	hotel				
+node	4784804721	لي لي	Ly ly	30.0525168	31.2424756	hotel				
+node	4973314121	منزلي مصر		30.0446059	31.1976980	hotel				
+node	5038586521		Pyramids Inn Hostel	29.9681218	31.1461740	hostel				
+node	5106330523	جمعية فنادق الشباب المصري	Youth Hotel	30.0275393	31.2243921	hotel				
+node	5244623721		Tiba Pyramids Hotel	29.9865912	31.1414737	hotel				
+node	5361109421	فندق ميركور		29.9868340	31.1337285	hotel				
+node	5394515422		Cheops Pyramid In	29.9758937	31.1412990	hotel				
+node	5436561721	الشقة		30.0652102	31.2036454	hostel				
+node	5485417021	بيروت		30.0932549	31.3278123	hotel				
+node	5832149164	pyramids family inn		29.9775111	31.1437447	hotel				
+node	5832154285	pyramids Overlook Inn		29.9757860	31.1403401	hotel			Adel	
+node	5860416101	Golden Carven Hotel		30.0880091	31.3388201	hotel				https://goldencarvenhotel.website/
+node	6084570485		Egypt CC Travel (real)	29.9725574	31.1429137	hostel				
+node	6139159686	هوليداي ان	Holiday Inn	29.9606675	31.2478985	hotel			IHG	
+node	6165843385		Lagoona	29.9568667	31.1536378	hotel				
+node	6168936585		Trio Hotel Caroline Crillon	30.0527729	31.1949468	hotel				
+node	6239385052	Best View Pyramids Hotel		29.9734817	31.1420605	hotel				https://www.bestviewpyramidshotel.com/
+node	6259174685		The Square Boutique Hotel	30.0472745	31.2389540	hotel				
+node	6312152085		Hayat	29.9753361	31.1413339	hotel				
+node	6331646401	Atlantis Pyramids Inn		29.9759431	31.1401736	hotel				
+node	6346617880	Pyramids plateau inn		29.9760233	31.1418150	hotel		Pyramids plateau inn		
+node	6431487733	The Shepherd Hotel		30.0420866	31.2318770	hotel				
+node	6536532864	The Guard Hotel		30.0833403	31.3797771	hotel				
+node	6536546164	Le Riad Hotel de Charme		30.0521855	31.2617601	hotel				
+node	6579734868	Le Ciel Hotel		30.0813387	31.3238370	hotel				
+node	6585956388	شقة شمر		30.0102194	31.2255497	hostel				
+node	6594875119	Villa Belle Epoque	Villa Belle Epoque	29.9595817	31.2631143	hotel	4			https://villabelleepoque.com/
+node	6634280473	Sultan Hostel		30.0531640	31.2416694	hostel				
+node	6634280474	Venice Hosokawaya		30.0531844	31.2416087	hostel				
+node	6681475881	Castle Hotel		30.0430704	31.2416318	hotel				
+node	6778648886	صبحي		30.0845709	31.1855018	hotel				
+node	6778846385	نهر النيل		29.9570684	31.2501664	hotel				
+node	6787788585	جاردنيا برميدز هوستيل	Gardenia pyramids Hotel	29.9855962	31.1455764	hostel			Mohamed	
+node	6805993617	nada		30.0191201	31.1854226	hostel				
+node	6901222885		Asrama Baharu Wilayah Persekutuan	30.0505473	31.3242076	hostel				
+node	6901240985		Asrama Darul Aman 1	30.0508399	31.3249020	hostel				
+node	6980925686		Nema Inn pyramids	29.9757572	31.1416903	hotel				
+node	6988039624	Crown Hotel		30.0485916	31.2432594	hotel				
+node	7014933688	فندق نيو وان سيزون	NEW ONE SEASON	30.0495905	31.2400194	hotel		عمارة حلواني العبد		https://new-one-season.cairo-hotels-eg.com/ar/#contact
+node	7033569885		Limitless Hostel	30.0485859	31.2438134	hostel				http://www.limitlesshostel.com
+node	7128432885	Dahab Hostel	Dahab Hostel	30.0481266	31.2373954	hostel				https://www.dahabhostel.com/
+node	7172008385	جاردنيا هوستيل	Gardenia Hostel	30.0508193	31.2405190	hostel			Abdelaziz Manzour	
+node	7438310285	منزل ابو حسونة		30.1608334	31.2314892	hostel				
+node	7657462185		Cosmopolitan Hotel	30.0477060	31.2403433	hotel				
+node	7666925600	"Marriott Mena House, Cairo"		29.9858579	31.1327491	hotel		Marriott		
+node	7876522885	جوهرة الهرم	Gawharet Al Ahram	29.9913412	31.1541730	hotel				
+node	8298209617	بيت دكتوره		29.9758687	31.1038223	hostel				
+node	8310858877	New eliet pyramids view hotel		29.9877428	31.1327273	hotel				
+node	8402354134	Horus Guest House Pyramids		29.9742200	31.1421914	hotel				
+node	9013933057	Royal pyramids Inn		29.9740365	31.1414565	hotel				
+node	9013933062	Pyramids View apartment		29.9742409	31.1415906	hotel				
+node	9013933086	Gardenia Pyramids Hostel		29.9852361	31.1445437	hostel				
+node	9013933088	Pyramids Inn		29.9727205	31.1438038	hotel				
+node	9306445768	Suisse Hotel		30.0482677	31.2373404	hotel				
+node	9306445771	Vienna Hostel		30.0481549	31.2372965	hostel				https://hotel-5094.business.site/
+node	9611046298		Panorama Pyramids Inn	29.9744838	31.1411272	hotel	3			https://www.booking.com/hotel/eg/panorama-pyramids-inn.html
+node	9612802978	فندق فور سيزون نايل بلازا القاهره	Four Seasons Hotel Cairo at Nile Plaza	30.0362273	31.2293727	hotel	5	Four Seasons		https://www.fourseasons.com/caironp
+node	9612949911	ذا غابرييل هوتيل	The Gabriel Hotel	30.1031938	31.3863450	hotel				https://gabrielhotelcairo.website/
+node	9721400843	Almadiafa - المضيفه	Almadiafa	30.0472654	31.2353043	hotel				
+node	9838004886	Cairo World Trade Center Hotel & Residences		30.0643123	31.2281499	hotel				https://wtccairohotel.com/
+node	9891603808	Le Riad Pyramids Hotel		29.9906676	31.1308122	hotel				
+node	10005216803	براسبيل	Brassbell	30.0517845	31.2417950	hotel				https://www.brassbell.net
+node	10006974472	مارفل ستون هوتل	Marvel Stone Hotel	29.9749036	31.1415167	hotel				
+node	10072890543	Seven Eleven Heru Pyramids View Hotel		29.9540856	31.1439583	hotel				https://sevenelevenhotel.business.site
+node	10147400718	Capo Pyramid		29.9710150	31.1428806	hostel				
+node	10250117310	Pyramids Loft Guesthouse		29.9759480	31.1435767	hotel				
+node	10250117311	City Hostel		30.0537395	31.2481125	hotel				
+node	10309196509		TuT pyramids view	29.9726784	31.1411976	hotel				
+node	10677660945	Castle Hostel		30.0506428	31.2361651	hostel				
+node	10694272502	Gresham Hotel		30.0485745	31.2387148	hotel				
+node	10712782905	Holy Sheet Hostel		30.0471853	31.2401119	hostel				
+node	10725928505		Cairo Nights House 6th flr	30.0508967	31.2437137	hostel				
+node	10933640206	Tahrir Plaza Suites Hotel		30.0486474	31.2348627	hotel				
+node	10968927505	Pyramids Park Resort Cairo		30.0006064	31.1160362	hotel				https://pyramidsparkresort.com/
+node	11161691150	Cleopatra Hotel		30.0462969	31.2353548	hotel				
+node	11182007437	Safir Hotel		30.0353398	31.2138502	hotel				
+node	11286432370		Pyramids Planet Hotel	29.9614768	31.1079449	hotel				
+node	11327602169		Central Cairo	30.0508356	31.2422026	hotel				
+node	11330723569			30.0479524	31.2414625	hotel				
+node	11341798569		Eileen Hotel Cairo	30.0459882	31.2394293	hotel				
+node	11429117069		Atlas international hotel	30.0483875	31.2462697	hotel				
+node	11461735569		Centro Cairo Hotel	30.0507737	31.2421843	hotel				
+node	11516268069		Meramees Hostel	30.0467597	31.2403257	hostel				
+node	11693072808	فندق نور الصباح	Nour Elsabah	30.0474934	31.2621557	hotel				
+node	11983462264	Cairo View Hotel		30.0470566	31.2438855	hotel				
+node	12260442801	Holy Sheet Plus Hotel		30.0497049	31.2391747	hotel				
+node	12322990002	City Centre pyramids wiew		29.9776662	31.1439891	hotel				
+node	12323023501	Garden pyramid wiew		29.9824783	31.1396343	hotel				
+node	12330914002	Sidi Hamad Pyramids View		29.9785486	31.1403523	hotel				
+node	12330971901	MARK-pyramids view		29.9789745	31.1415937	hotel				
+node	12441152601	Nour Hotel		30.0511736	31.2407799	hotel				
+node	12450887603	Hotel Golden Plaza		30.0511614	31.2407713	hotel				
+node	12450888303	Cheers Hostel		30.0511722	31.2407544	hostel				
+node	12455548214	Arena Pyramids View		29.9780483	31.1423507	hotel				
+node	12543578828	The President Hotel		30.0676342	31.2195827	hotel				
+node	12626719011	Pyramids Boutique Hotel		29.9890020	31.1345843	hotel				
+node	12671011601		Sphinx Pyramid Hotel	30.1248614	31.2480692	hostel				
+node	12945396001	Hostgram		30.0492861	31.2392566	hotel				
+node	13171651911	جويل بلازا		29.9733591	31.2350144	hotel				
+node	13177658003	Radisson		30.1094789	31.3822040	hotel				
+node	13336038906	pyramids sunshine inn		29.9440963	31.1616804	hotel				
+node	13336041806	Happy View Inn		29.9678816	31.1457095	hotel				
+node	13336041901	pyramids sunrise inn		29.9523266	31.1564447	hotel				
+node	13336042003	Pyramids Plateau		29.9681291	31.1462618	hotel				
+node	13336042901	Gardenia		29.9642950	31.1486271	hotel				
+node	13336042907	Almas Pyramids		29.9657537	31.1476925	hotel				
+node	13336042908	Remal Pyramids		29.9663548	31.1472960	hotel				
+node	13337090424	Pyramids Palace View		29.9685217	31.1464976	hotel				
+node	13397561245	Atlantis Hotel		30.0495245	31.2400351	hotel		Atlantis Hotel		https://www.facebook.com/Atlantis.cai.hotel
+node	13398263936	Soft Hotel		30.0502026	31.2392179	hotel				
+node	13437212140	agri hotel		29.9759879	31.1447913	hotel				
+node	13439393982	Pyramids Yard Hotel	Pyramids Yard Hotel	29.9895730	31.1370386	hotel				
+node	13439394000	The Home Hotel Pyramids Inn		29.9869345	31.1351488	hotel				
+node	13439398210	Grand Museum Hotel		29.9903684	31.1308122	hotel				
+node	13439398231	Pyramids Pride Inn		29.9902021	31.1311445	hotel				
+node	13439398246	Pyramid Front Hotel	Pyramid Front Hotel	29.9895035	31.1373089	hotel				https://pyramidfront.com
+node	13439398260	Alfouad Hotel & Spa		29.9912900	31.1278909	hotel				
+node	13633987501	Elegance Grand City Hotel		30.0368832	31.2326038	hotel				
+node	13735379301	Pyramids Spiritual Gate		29.9771203	31.1440363	hotel				
+node	13748042775	Lucky Hostel		30.0480651	31.2430454	hostel				
+node	14006843801	Sama Hotel		30.0534812	31.2427289	hotel				
+node	14107819945	Pyramisa Suites Hotel	Pyramisa Suites Hotel	30.0378956	31.2180126	hotel				https://www.pyramisahotels.com
+node	14110615201	Kemet Pyramids View Hotel		29.9748776	31.1450651	hotel				
+node	14110615202	Royal Town Hotel		30.0450058	31.2364565	hotel				
+node	14122359783	Pyramids Charm Hotel	Pyramids Charm Hotel	29.9896131	31.1370810	hotel				
+node	14124621395	Golden Tulip Narmer Pyramids Hotel	Golden Tulip Narmer Pyramids Hotel	29.9997425	31.1743077	hotel				https://www.goldentulip.com
+node	14124652732	Europa Hotel	Europa Hotel	30.0010068	31.1774257	hotel				
+node	14124691173	Aracan Pyramids Hotel	Aracan Pyramids Hotel	29.9959319	31.1647627	hotel				https://aracan.ca
+node	14148267227	The Muse Pyramids Inn	The Muse Pyramids Inn	29.9899418	31.1358895	hotel				https://www.themusepyramids.com
+node	14231718474	Pyramids Gate Hotel		29.9761372	31.1437793	hotel				https://pyramidsgatehotel.com/
+way	25465419	بورتو هليوبوليس	Porto Heliopolis	30.0826996	31.3486250	hotel				
+way	25563233	سكاوت هوتيل	Scout Hotel	30.0748458	31.3146857	hotel				
+way	30925785	النيل	"The Nile Ritz-Carlton, Cairo"	30.0459281	31.2326432	hotel				
+way	34206875	Waldorf Astoria Cairo Heliopolis	Waldorf Astoria Cairo Heliopolis	30.1072008	31.3661276	hotel	5	Waldorf Astoria	Hilton	
+way	34206985	نوفوتيل مطار القاهرة	Novotel Cairo Airport	30.1209262	31.4018905	hotel				
+way	34208695	فندق وكازينو سونيستا	Sonesta Hotel and Casino Cairo	30.0788729	31.3175935	hotel				
+way	34209840	كونكورد السلام	Concorde Al-Salam	30.1236741	31.3481364	hotel				
+way	34879875	Cairo Pyramids Hotel		29.9929829	31.1261503	hotel				https://hrewards.com/en/cairo-pyramids-hotel
+way	39411085	فندق الزمالك لضباط القوات المسلحة	Zamalek Hotel For Armed Forces Officers	30.0614782	31.2193260	hotel				
+way	52043839	تريومف	Triumph Plaza Hotel	30.0861756	31.3059431	hotel				https://triumphhotel.com/
+way	53329747	فندق العربي	Al-Arabi	30.0108446	31.2229892	hotel				
+way	53658188	Radisson Blu Hotel		30.1063904	31.3752188	hotel		Radisson Blu		
+way	53659494	Le Passage		30.1215223	31.4005476	hotel				
+way	97833850	فندق شيراتون القاهرة	Sheraton Cairo Hotel & Casino	30.0389021	31.2199059	hotel				https://www.marriott.com/en-us/hotels/caisi-sheraton-cairo-hotel-and-casino/overview/
+way	97937694	فندق سوفيتل كايرو داون تاون	Sofitel Cairo	30.0654375	31.2281900	hotel	5	Sofitel		
+way	97941695	نوفوتيل	Novotel Hotel Cairo El Borg	30.0445008	31.2265526	hotel		Novotel		
+way	98066729	Heritage Hostel		30.0476892	31.2349030	hostel				
+way	98244315	cecilia		30.0430028	31.2392865	hostel				
+way	98248192	Sofitel	Sofitel Al-Gezirah Cairo	30.0387315	31.2246175	hotel		Sofitel		https://www.sofitel-cairo-nile-elgezirah.com/
+way	99840768	فندق أوروبا	Europe Hotel	30.0211935	31.2747507	hotel				
+way	102571506	كتراكت بيراميدز ريزورت	Cataract Pyramids Resort	29.9647735	31.1793018	hotel				
+way	183820456	Hilton Cairo Heliopolis	Hilton Cairo Heliopolis	30.1061699	31.3645591	hotel	5	Hilton	Hilton	https://www.hilton.com/en/hotels/caihehi-hilton-cairo-heliopolis/
+way	210753816	Royal Residence Hotel Suites & Apartments		29.9583095	31.2692185	hotel				
+way	213182648	ماريوت القاهرة	Cairo Marriott Hotel & Omar Khayyam Casino	30.0570861	31.2245591	hotel		1064		
+way	241108720	Hilton Cairo Zamalek Residences		30.0676192	31.2225849	hotel	4	Hilton	Hilton	https://www.hilton.com/en/hotels/caizrhi-hilton-cairo-zamalek-residences
+way	273246248	"Fairmont Nile City Hotel, Cairo"		30.0719646	31.2277431	hotel		Fairmont		https://www.fairmont.com/nilecity
+way	284336559	فندق هوليداي إن	Holiday Inn Citystars	30.0739301	31.3439957	hotel		Holiday Inn	سيتى ستارز مول	https://www.ihg.com/holidayinn/hotels/us/en/cairo/croeg/hoteldetail
+way	284336566	فندق إنتركونتننتال	Inter Continental Citystars Cairo Hotel	30.0724893	31.3472863	hotel			سيتى ستارز مول	https://www.ihg.com/intercontinental/hotels/gb/en/cairo/crohc/hoteldetail
+way	305528992	Holiday Inn Maadi Cairo		29.9610012	31.2482349	hotel	5	Holiday Inn	Holiday Inn	
+way	305531262	Maadi Hotel		29.9592708	31.2513287	hotel	3			https://www.maadihotel.com/
+way	361766543	فندق تيبا روز بلازا	Tiba Rose Plaza Hotel	30.0200070	31.3759424	hotel				
+way	361766544			30.0204941	31.3755067	hotel				
+way	369973983	فندق إيزيس	Isis Hotel	30.0395196	31.3296188	hotel				
+way	377216127	أواسيس هوتيل	Jaz Pyramids Resort	30.0140631	31.1035697	hotel				http://www.oasis.com.eg/
+way	448968312	النبيلة		30.0590450	31.2077621	hotel				
+way	455470536	فندق الماسة	Al Masa Hotel	30.0613960	31.3175279	hotel				https://www.almasa-nasrcity.com
+way	455482109	فندق ونادي النصر للقوات المسلحة		30.0700628	31.3237297	hotel				
+way	463715762	Royal Marshal Hotel	Royal Marshal Hotel	30.0869706	31.3005940	hotel				http://royal-marshal-hotel.cairo-hotels-eg.com
+way	495070290	أوديون	Odeon	30.0505534	31.2386335	hotel				
+way	519168447	فندق مايفير	Mayfair Hotel	30.0594240	31.2210051	hotel				
+way	534925200	غولدن توليب فلامينكو	Golden Tulip Flamenco Hotel	30.0658578	31.2160186	hotel				
+way	686194627	The Shepherd Hotel		30.0421371	31.2318789	hotel				
+way	767656902	cairo view hostel		30.0530066	31.2417073	hostel				
+way	767656909	كرلتون	Roof Carlton	30.0531588	31.2410337	hotel				
+way	768007961	indiana Hôtel		30.0435941	31.2171778	hotel				
+way	768018735	إنتركونتيننتال سميراميس	"InterContinental Cairo Semiramis, an IHG Hotel"	30.0428367	31.2323407	hotel	5	InterContinental		https://www.ihg.com/intercontinental/hotels/gb/en/cairo/croha/hoteldetail
+way	768636297	Sara Inn		30.0466184	31.2390761	hotel				
+way	768977205	Amin Hotel		30.0453864	31.2396777	hotel				
+way	768980716	Capital Hotel		30.0482428	31.2397683	hotel				
+way	768980717		Valencia	30.0487861	31.2395983	hotel				
+way	768980735		Valencia	30.0494938	31.2406800	hostel				
+way	769165197	hotel Velvet 1915		30.0492689	31.2390810	hotel				
+way	769165198	Gresham	Gresham	30.0491284	31.2392852	hotel				
+way	769795140	فندق أوزيريس	Hotel Osiris	30.0425472	31.2415411	hotel				http://hotelosiris.over-blog.com
+way	772271288	Windsor		30.0534322	31.2457425	hotel				
+way	772279724		El Shams	30.0502274	31.2427826	hotel				
+way	775146050	Tonsy Hotel		30.0394400	31.2180216	hotel				
+way	886679336	Gawharet Al Ahram Hotel		29.9912168	31.1544209	hotel				
+way	921104571	Tivoli Plaza		30.0785799	31.3480979	hotel				
+way	990578898		family palace hotel	30.0521972	31.2445168	hotel				
+way	1044737936	Great Pyramids Inn	Pyramids View Inn	29.9748486	31.1411664	hotel	3			https://pyramidsviewinn.com
+way	1103538570	عمارات البترول		30.0670555	31.2055853	hostel				
+way	1120307180			30.0626674	31.3306628	hotel				
+way	1121902316	Pharoah Egypt Hotel		30.0626475	31.2075846	hotel				
+way	1181891972	Steigenberger Pyramids Cairo		29.9938529	31.1252858	hotel				https://hrewards.com/en/steigenberger-pyramids-cairo
+way	1210025266	Pearl Hotel		29.9565521	31.2595558	hotel	3			
+way	1221946920	فندق لافاندولا	Lavanaula Hotal	30.0162934	31.3757036	hotel				
+way	1223154882	فندق ستايبريدج سويتس	Staybridge Suites Hotel	30.0722976	31.3463828	hotel			سيتى ستارز مول	
+way	1426072856	Hilton Cairo Grand Nile		30.0341892	31.2268028	hotel		Hilton		https://www.hilton.com/en/hotels/caignhi-cairo-grand-nile/
+way	1426448354	The St. Regis Cairo		30.0628399	31.2278054	hotel				
+relation	10706115	فيكتوريا	Victoria	30.0566864	31.2458174	hotel	2			
+relation	10736855	فندق كمبنسكي النيل القاهرة	Kempinski Nile Hotel Garden City Cairo	30.0387203	31.2306762	hotel	5			https://www.kempinski.com/en/cairo/nile-hotel/
+relation	19527069	Hilton Cairo Nile Maadi		29.9864084	31.2303264	hotel		Hilton		https://www.hilton.com/en/hotels/cainmhi-hilton-cairo-nile-maadi/
+relation	19531723	فور سيزونز	Four Seasons Hotel Cairo at The First Residence	30.0241191	31.2172539	hotel		Four Seasons		https://www.fourseasons.com/cairofr/
+relation	19531749	Ramses Hilton		30.0505495	31.2319741	hotel	5	Hilton	Hilton	https://www.hilton.com/en/hotels/cairhtw-ramses-hilton/

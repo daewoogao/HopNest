@@ -1,0 +1,374 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	1244384627	Miami International Airport Hotel		25.7950032	-80.2789563	hotel				
+node	3839885174	Palmer House		25.7821926	-80.1311651	hotel				
+node	4142568497	Residences at Bayside - by Elite City Stays		25.7769570	-80.1886936	hotel				
+node	4142767900			25.7830955	-80.1303970	hotel				
+node	4189839489	Ocean Blue Hostel		25.7796047	-80.1309328	hostel				
+node	4189849002	Loft Hostel		25.7790567	-80.1319952	hostel				
+node	4190800389	freehand		25.8008910	-80.1297065	hostel				
+node	4492451789	airbnb	airbnb	25.8438870	-80.1264463	hostel				
+node	4841845534			25.8098428	-80.2040771	hotel				
+node	4980786159	The Hall SouthBeach		25.7872715	-80.1306932	hotel				
+node	5111900624	Casa Trinidad at #1		25.7646813	-80.2185834	hostel				
+node	5448684622	Rock Hostel		25.7850123	-80.1307046	hostel				
+node	5529687321	Miami Beach International Hostel		25.7814620	-80.1311904	hostel				
+node	6037322124	The Setai Ocean Suites		25.7954564	-80.1282576	hotel				https://www.thesetaihotel.com/
+node	6085573553	Miami Sun Hotel		25.7766610	-80.1921793	hotel				https://www.themiamisunhotel.com/
+node	6091344219	Arlo Wynwood		25.7984634	-80.1956016	hotel				https://arlohotels.com/wynwood/
+node	6181555985			25.7861329	-80.1308307	hotel				
+node	9170248720	"The Gabriel Miami Downtown, Curio Collection by Hilton"		25.7852140	-80.1899305	hotel		Curio Collection		
+node	9173724327	Hyatt Centric Brickell Miami		25.7610141	-80.1906291	hotel		Hyatt Centric		
+node	9177017397	Hyatt Centric Brickell Miami		25.7629207	-80.1904641	hotel		Hyatt Centric		
+node	9188647952	Kimpton EPIC Hotel		25.7706352	-80.1891300	hotel		Kimpton		
+node	9488542817			25.7960142	-80.1920242	hostel				
+node	9586789117	Yotel Miami		25.7774350	-80.1897088	hotel		YOTEL		
+node	10612936199	Yotel Miami		25.7764295	-80.1897375	hotel		YOTEL		https://www.yotel.com/en/hotels/yotel-miami
+node	10612936200	Yotelpad Miami		25.7764014	-80.1896463	hotel		YOTEL		
+node	11109195105	Staybridge Suites		25.7992278	-80.2553018	hotel		Staybridge Suites		
+node	11233630737	Onyx Hotel Miami Airport		25.8084581	-80.2789032	hotel				
+node	11879279064	Home2 Suites		25.7815005	-80.2867131	hotel		Home2 Suites		https://www.hilton.com/en/hotels/miaaaht-home2-suites-miami-airport-south-blue-lagoon/
+node	11879279065	Comfort Inn & Suites		25.7711848	-80.1917720	hotel		Comfort Inn & Suites		https://www.choicehotels.com/florida/south-miami/rodeway-inn-hotels
+node	13017351902	Sonder		25.7918030	-80.1417548	hotel				http://marriot.com
+node	13044530953	Blue Little Havana		25.7715506	-80.2203944	hostel				
+node	13119896902	Donatella Boutique Hotel		25.7850580	-80.1311645	hotel				https://donatellahotel.com/
+node	13527565701	Viajero Hostels Miami		25.7822134	-80.1315438	hostel				https://www.viajerohostels.com/en/destinations-eeuu/miami-south-beach/
+node	13970963943	Angler's Hotel		25.7760530	-80.1341119	hotel				https://www.anglershotelmiami.com
+node	14181669697	Boulan South Beach		25.7964050	-80.1292794	hotel				https://www.boulanmiami.com/
+node	14240157604	citizenM Miami Brickell		25.7646609	-80.1929647	hotel				
+node	14262159665	citizenM Miami South Beach		25.7902347	-80.1417589	hotel		citizenM		https://www.marriott.com/en-us/hotels/miazs-citizenm-miami-south-beach/overview/
+way	89640206	1 Hotel South Beach		25.7991762	-80.1269293	hotel				https://www.1hotels.com/south-beach
+way	100348830	Loews Miami Beach Hotel		25.7894143	-80.1293442	hotel			Loews	
+way	100348831			25.7888142	-80.1292432	hotel				
+way	100457586	Hilton Bentley Miami/South Beach		25.7696829	-80.1323668	hotel		Hilton	Hilton	
+way	110155605	The Gates Hotel South Beach		25.7997267	-80.1281992	hotel				https://www.gatessouthbeach.com/
+way	117913336	Marriott Stanton South Beach		25.7704493	-80.1322617	hotel		Marriott		
+way	150573936	Hampton Inn Miami Airport East		25.8057098	-80.2632430	hotel		Hampton		https://hamptoninn3.hilton.com/en/hotels/florida/hampton-inn-miami-airport-east-MIAAEHX/index.html
+way	158621124	SpringHill Suites		25.7869863	-80.2105200	hotel		SpringHill Suites		https://www.marriott.com/miahd
+way	160459231	Courtyard Miami Airport		25.7847453	-80.2622357	hotel		Courtyard		https://www.marriott.com/miacs
+way	186576326	Extended Stay America - Miami - Airport - Miami Springs		25.8089828	-80.2830202	hotel		Extended Stay America		https://www.extendedstayamerica.com/hotels/fl/miami/miami-springs-airport
+way	192637335	"The Standard Spa, Miami Beach"		25.7922792	-80.1493124	hotel				https://www.standardhotels.com/miami/properties/miami-beach
+way	204197048	Holiday Inn Port of Miami Downtown		25.7778908	-80.1888269	hotel		Holiday Inn	Harald Halmer Svensen	
+way	207799793	"The Ritz-Carlton, South Beach"		25.7911821	-80.1290251	hotel		The Ritz-Carlton		https://www.ritzcarlton.com/en/hotels/miami/south-beach
+way	207799797	San Juan Hotel South Beach		25.7919190	-80.1302740	hotel				
+way	207940948	Gale South Beach		25.7921248	-80.1302587	hotel				
+way	212737820	Sheraton Miami Airport Hotel & Executive Meeting Center		25.7944926	-80.2594313	hotel		Sheraton		
+way	254346618	La Quinta Inn & Suites Miami Airport East		25.8058066	-80.2623464	hotel		La Quinta Inn & Suites		https://www.wyndhamhotels.com/laquinta/miami-florida/la-quinta-miami-airport-east/overview
+way	254346670	Embassy Suites by Hilton Miami International Airport		25.8065987	-80.2615809	hotel		Embassy Suites		https://www.hilton.com/en/hotels/miaspes-embassy-suites-miami-international-airport/
+way	255213722	Bal Harbour Quarzo Hotel		25.8989737	-80.1250362	hotel				https://www.quarzohotel.com/
+way	255394172	The Julia Hotel		25.7729564	-80.1336832	hotel				https://www.atminehospitality.com/
+way	255394175	Hotel Shelley		25.7790092	-80.1323559	hotel			South Beach Group Hotels	https://hotelshelley.com/
+way	255394176	Hotel Casa Coloretta		25.7733141	-80.1340731	hotel				
+way	255394199			25.7712914	-80.1354708	hotel				
+way	255394204			25.7709027	-80.1378707	hotel				
+way	255394209	The Savoy Hotel		25.7737240	-80.1316937	hotel				
+way	255394219	Whitelaw Hotel		25.7784570	-80.1324857	hotel			South Beach Group Hotels	https://www.whitelawhotel.com/
+way	255394222	Local House Hotel		25.7734445	-80.1324834	hotel				https://sense-south-beach-hotel.miamibeachfl-hotel.com/en/
+way	255394242	Chesterfield Hotel & Suites		25.7790283	-80.1317181	hotel			South Beach Group Hotels	https://www.thechesterfieldhotel.com/
+way	255394258			25.7712820	-80.1357974	hotel				
+way	255394286	The Fountain Condo Vacation Rentals		25.7730866	-80.1352436	hotel				
+way	255394287	Majestic Hotel		25.7766635	-80.1317684	hotel				https://www.majesticsouthbeach.com/
+way	255394305	Jetset Franklin		25.7792788	-80.1323084	hotel				
+way	255394320	Blanc Kara		25.7711002	-80.1334479	hotel				
+way	255394352			25.7712828	-80.1355803	hotel				
+way	255394360	"The Gabriel Miami South Beach, Curio Collection by Hilton"		25.7765191	-80.1318033	hotel				
+way	255394411	Park Central Hotel		25.7763719	-80.1318326	hotel				http://www.theparkcentral.com/
+way	255394427	The Brooklyn South Beach		25.7728151	-80.1351986	hotel				
+way	255394472	Hotel Saint Augustine		25.7731717	-80.1341109	hotel				
+way	255402002	Casa Boutique Hotel		25.7848661	-80.1323582	hotel				
+way	255402008	Deco Walk		25.7797593	-80.1310950	hostel				http://www.decowalkhostel.com/
+way	255402018	The Clifton South Beach Hotel		25.7848356	-80.1305950	hotel				http://www.cliftonmiamibeach.com/
+way	255402029	Suites On South Beach		25.7846526	-80.1312363	hotel				
+way	255402047	The Shepley Hotel		25.7849215	-80.1311955	hotel				https://theshepleyhotel.com/
+way	255402051	Azure Luxury Suites		25.7831541	-80.1314721	hotel				
+way	255402104	Ocean Drive Studios Beach Front		25.7809763	-80.1308145	hotel				
+way	255402160	Kasa La Flora Miami Beach		25.7835597	-80.1314050	hotel		Kasa		https://kasa.com/properties/kasa-la-flora-miami-beach
+way	255402190	Ocean Reef Suites		25.7823771	-80.1316157	hotel				https://oceanreefsuites.com/
+way	255402236	Cavalier Hotel		25.7843720	-80.1301938	hotel				https://cavaliersouthbeach.com/
+way	255402267	Fairwind Hotel Miami		25.7807587	-80.1319802	hotel				
+way	255402268	The Marlin		25.7830100	-80.1314929	hotel				https://www.themarlinhotel.com
+way	255402270	Wynwood South Beach Hotel		25.7814640	-80.1311930	hotel				
+way	255410012	The President Hotel South Beach		25.7859888	-80.1304042	hotel				https://www.presidentsouthbeach.com/
+way	255410036	Nassau Suite Hotel		25.7858758	-80.1310541	hotel				https://nassausuite.com/
+way	255410067	The Odyssey of South Beach Hotel		25.7861451	-80.1310069	hotel				https://www.odysseysouthbeachhotel.com/
+way	255410083	Riviere South Beach Hotel		25.7862898	-80.1309850	hotel				http://www.rivierehotel.com/
+way	255427145	Greenview		25.7915793	-80.1314957	hotel				
+way	255427182	James		25.7919769	-80.1310927	hotel				
+way	255437899	Marseilles Beachfront Hotel		25.7931928	-80.1290236	hotel				
+way	255437905	Alden Hotel Miami Beach		25.8058356	-80.1258052	hotel				
+way	255437948	Plymouth Hotel		25.7967718	-80.1306058	hotel				https://www.theplymouth.com/
+way	255437954	Riviera Hotel & Suites South Beach		25.7958522	-80.1306244	hotel			South Beach Group Hotels	https://www.rivierahotelsouthbeach.com/
+way	255467208	EVEN Hotel Miami - Airport		25.7994053	-80.2524442	hotel		EVEN Hotels		https://www.ihg.com/evenhotels/hotels/us/en/miami/mianw/hoteldetail
+way	258238120	Hôtel Gaythering		25.7905850	-80.1439343	hotel				https://www.gaythering.com/
+way	259854641	Tradewinds Apartment Hotel		25.8003296	-80.1293232	hotel			South Beach Group Hotels	https://www.tradewindsapartmenthotel.com/
+way	262990050	Mondrian South Beach Hotel		25.7819215	-80.1427314	hotel				http://mondriansouthbeach.com/?utm_source=google-gmb&utm_medium=organic&utm_campaign=gmb&y_source=1_MTUzNjE4ODctNzE1LWxvY2F0aW9uLmdvb2dsZV93ZWJzaXRlX292ZXJyaWRl
+way	263075233	The Balfour Hotel		25.7731182	-80.1325653	hotel				https://www.thebalfourmiamibeach.com
+way	263592315	Kimpton Surfcomber Hotel		25.7929191	-80.1289517	hotel		Kimpton		https://www.surfcomber.com/
+way	263592316	The Raleigh		25.7937102	-80.1289703	hotel				https://raleighhotel.com/
+way	263592317	The Richmond		25.7934908	-80.1288675	hotel				
+way	263592318	South Seas		25.7933397	-80.1288881	hotel				
+way	263592319	SLS South Beach		25.7925945	-80.1290959	hotel		SLS Hotels & Residences		https://slshotels.com/south-beach/
+way	263592326	Delano South Beach		25.7921216	-80.1291755	hotel				
+way	263592327	National		25.7918532	-80.1289618	hotel		National		https://nationalhotel.com/
+way	263592328	Sagamore Hotel South Beach		25.7916041	-80.1289120	hotel				http://www.sagamorehotel.com/
+way	268373081	Townhouse Hotel Miami		25.7952992	-80.1288839	hotel				https://www.townhousehotel.com/
+way	276999175	Albion Hotel South Beach		25.7910372	-80.1311154	hotel				
+way	277037899	Urbanica The Kaskades South Beach		25.7921264	-80.1311021	hotel				
+way	281694152	Browns Hotel		25.7699194	-80.1332500	hotel				
+way	287377089	Hilton Garden Inn		25.7511864	-80.2036916	hotel		Hilton Garden Inn	Hilton	https://www.hilton.com/en/hotels/miakbgi-hilton-garden-inn-miami-brickell-south/
+way	288310687	The Catalina Hotel & Beach Club		25.7931251	-80.1299882	hotel			South Beach Group Hotels	https://www.catalinahotel.com/
+way	290631073	Selina Miami Gold Dust		25.8461272	-80.1849372	hotel		Selina		https://www.selina.com/usa/miami-gold-dust/
+way	296968437	W Miami		25.7687390	-80.1895967	hotel		W Hotels		https://www.marriott.com/en-us/hotels/miawm-w-miami/overview/
+way	298433277	The Vagabond Hotel		25.8428917	-80.1839483	hotel				http://www.thevagabondhotel.com/
+way	300241285	Four Seasons Hotel Miami		25.7589918	-80.1920516	hotel		Four Seasons		https://www.fourseasons.com/miami/
+way	300247850	JW Marriott		25.7625235	-80.1913219	hotel		JW Marriott		https://www.marriott.com/en-us/hotels/miajw-jw-marriott-miami/overview/
+way	300267003	InterContinental Miami		25.7724205	-80.1854690	hotel		InterContinental		https://www.icmiamihotel.com/
+way	300492235			25.7602236	-80.1891918	hotel				
+way	300510114	JW Marriott Miami		25.7605359	-80.1909757	hotel		JW Marriott		
+way	301712972	Hotel Victor		25.7823221	-80.1305366	hotel				https://hotelvictorsouthbeach.com/
+way	305951385	"The Ritz-Carlton Key Biscayne, Miami"		25.6915437	-80.1579229	hotel		The Ritz-Carlton	Ritz-Carlton	
+way	306038208	Beach Haus Key Biscayne		25.6903323	-80.1603153	hotel				http://www.beachhaus.net/
+way	319676190	Ithaca of South Beach Hotel		25.7756785	-80.1324574	hotel				
+way	320954132	Silver Sands Beach Resort		25.6955726	-80.1573274	hotel				
+way	321579397	The Mantell Plaza		25.8008118	-80.1281274	hotel				
+way	337798930	River Park Hotel & Suites Downtown/Convention Center		25.7709902	-80.1917852	hotel				https://river-park-suites-hotel-miami.com/
+way	337803266	The Betsy South Beach		25.7865045	-80.1298693	hotel				https://www.thebetsyhotel.com/
+way	375788365	Little River Canoe Outposts		25.8527494	-80.1959510	hostel				
+way	379999522	Posh South Beach Hostel		25.7786080	-80.1324450	hostel			South Beach Group Hotels	http://www.poshsouthbeach.com
+way	380002543	Metropole South Beach		25.7761270	-80.1323507	hotel			South Beach Group Hotels	https://metropolesouthbeach.com/
+way	380002771	Sunbrite Apartments		25.7847342	-80.1344753	hotel			South Beach Group Hotels	https://www.sunbriteapartments.com/
+way	380002882	Lincoln Arms Suites		25.7941080	-80.1311737	hotel		Lincoln	South Beach Group Hotels	https://lincolnarmssuites.com/
+way	380005809	Sapphire South Beach Hotel		25.7879500	-80.1402508	hotel			South Beach Group Hotels	http://www.sapphiresouthbeach.com
+way	380861898	Avalon Hotel		25.7769544	-80.1317066	hotel				https://www.avalonhotel.com/default-en.html
+way	380861901	Beacon Hotel		25.7771597	-80.1316575	hotel				https://www.beaconsouthbeach.com/
+way	380861902	Boulevard Hotel		25.7776009	-80.1315617	hotel				http://boulevardhotelsouthbeach.com/
+way	380861903	Cardozo Hotel South Beach		25.7841599	-80.1302275	hotel				https://www.cardozohotel.com/
+way	380861904	Casa Grande Suite Hotel		25.7787463	-80.1313115	hotel				https://www.casagrandesuitehotel.com/
+way	380861905	Penguin Hotel		25.7858752	-80.1299604	hotel				http://www.crescentsuites.com/
+way	380861906	"Marriott Vacation Club Pulse, South Beach"		25.7855317	-80.1300071	hotel		Marriott Vacation Club		http://www.edgewatersouthbeach.com/
+way	380861913	McAlpin Hotel		25.7861418	-80.1299204	hotel		Hilton Grand Vacations		
+way	380861916	Ocean Five Hotel		25.7739866	-80.1323697	hotel				https://www.oceanfive.com/
+way	380861917	Pelican Hotel		25.7785468	-80.1313562	hotel				https://pelicanhotel.com/
+way	380861919	Beach Park Hotel		25.7757521	-80.1319789	hotel				https://www.beachparkmiami.com/
+way	380861927	Leslie Hotel		25.7835573	-80.1303143	hotel				https://www.lesliehotel.com/
+way	380861934	Crescent Hotel		25.7860096	-80.1299401	hotel				
+way	380861935	Ocean Plaza Hotel		25.7862789	-80.1298984	hotel				
+way	380861937	Shore Park Hotel		25.7784085	-80.1313834	hotel				
+way	380861939	Waldorf Towers Hotel		25.7790920	-80.1312405	hotel				https://www.waldorftowersmiami.com/
+way	380861941	Starlite Hotel		25.7777344	-80.1315338	hotel				https://www.starlitehotel.com/
+way	380861943	The Barbizon		25.7754041	-80.1320604	hotel				http://www.floridasouthbeachrentals.com/
+way	380861944	The Carlyle		25.7837875	-80.1302798	hotel				https://www.carlyleoceandrive.com/
+way	380861945	The Century Hotel		25.7704483	-80.1331379	hotel				https://www.centurymiamibeach.com/
+way	380861949	The Fritz Hotel		25.7752023	-80.1321094	hotel				http://www.thefritzhotel.com/
+way	380861954	Eurostars Winter Haven		25.7853226	-80.1300461	hotel		Eurostars		https://www.eurostarshotels.co.uk/eurostars-winter-haven.html
+way	380875533	The Villa Casa Casuarina		25.7820232	-80.1306316	hotel				https://vmmiamibeach.com/
+way	380875534	Congress Hotel South Beach		25.7811107	-80.1308008	hotel				https://www.congresshotelsouthbeach.com/
+way	380875535			25.7812497	-80.1307748	hotel				
+way	380875540	Edison Hotel		25.7802978	-80.1309753	hotel				http://edisonhotelsouthbeach.com/
+way	380875541	Hotel Breakwater South Beach		25.7799703	-80.1310525	hotel				http://breakwaterhotelsouthbeach.com/
+way	381111094	Tropics Hotel		25.7885272	-80.1308034	hotel				https://www.atminehospitality.com/
+way	381111139	Henrosa Hotel		25.7867765	-80.1302820	hotel				https://www.henrosahotel.com/
+way	381111140	Beach Plaza Hotel		25.7854018	-80.1304980	hotel				https://www.beachplazahotel.com/
+way	381126191	Dorset Hotel		25.7928435	-80.1300403	hotel				
+way	381126194	Prime Hotel Claremont		25.7925653	-80.1300670	hotel				http://www.relaispatrizi.com/
+way	381126195	The Redbury South Beach		25.7936693	-80.1299497	hotel				https://theredbury.com/southbeach/
+way	396424880	DoubleTree by Hilton Miami Airport & Convention Center		25.7786332	-80.3100808	hotel		DoubleTree		https://www.hilton.com/en/hotels/miamadt-doubletree-miami-airport-and-convention-center/
+way	396424893	Hyatt Place Miami Airport-East		25.8063397	-80.2629995	hotel		Hyatt Place		https://www.hyatt.com/en-US/hotel/florida/hyatt-place-miami-airport-east/miaze
+way	396761183	"The Landon, Ascend Hotel Collection"		25.8875461	-80.1297945	hotel				
+way	406694445	Ponce De Leon Hotel		25.7562147	-80.2585719	hotel				
+way	411892062	The Setai Miami Beach		25.7958943	-80.1286498	hotel				https://www.thesetaihotel.com/
+way	416703864	Treehouse Studio Hotel		25.8408347	-80.1846022	hotel				https://www.treehousehotelmiami.com/
+way	420188871	Sleep Inn Miami Airport		25.8086606	-80.2844537	hotel		Sleep Inn		https://www.choicehotels.com/florida/miami-springs/sleep-inn-hotels/fl817
+way	420188878	Best Western Plus Miami Airport North Hotel & Suites		25.8087433	-80.2855905	hotel		Best Western Plus		https://www.bestwestern.com/en_US/book/miami/hotel-rooms/best-western-plus-miami-airport-north-hotel-suites/propertyCode.10388.html
+way	432846809	Fairfield Inn & Suites Miami Airport South		25.7827792	-80.2632153	hotel		Fairfield Inn & Suites		https://www.marriott.com/miapt
+way	433295469	Geneva Hotel		25.7880433	-80.1308493	hotel				
+way	433295494	Parisian Hotel		25.7879056	-80.1308573	hotel				
+way	433295731	Villa Paradiso Apartment Hotel		25.7858094	-80.1304418	hotel				
+way	435234136	Pine Tree Gardens Inn		25.8063238	-80.1285146	hotel				
+way	435234526	New Yorker Miami Hotel		25.8360225	-80.1844225	hotel				https://www.thenewyorkermiami.com
+way	435236351	Iberostar Waves		25.7959598	-80.1309462	hotel		Iberostar Hotels & Resorts		https://www.iberostar.com/eu/hotels/miami/iberostar-waves-miami-beach/
+way	435236734	Sherbrooke All Suites Hotel		25.7794349	-80.1316273	hotel				
+way	435237341	Hampton Inn & Suites by Hilton - Miami/Brickell-Downtown		25.7622414	-80.1942133	hotel		Hampton Inn & Suites		https://www.hilton.com/en/hotels/miabvhx-hampton-suites-miami-brickell-downtown/
+way	435237380	Harrison Hotel		25.7735899	-80.1328925	hotel				
+way	435237499	David William Hotel Condo Association		25.7476598	-80.2695035	hotel				
+way	435237864	Hotel Astor		25.7805040	-80.1332735	hotel				https://www.roami.com/destinations/miami-beach/68bd45d4846c200042b3f4f0?
+way	435238107	Holiday Inn Miami-International Airport		25.8092119	-80.2635666	hotel		Holiday Inn		https://www.ihg.com/holidayinn/hotels/us/en/miami-springs/miaia/hoteldetail
+way	435376300	Rivera Hotel Apartments		25.7962801	-80.1303231	hotel				
+way	435377336	Residence Inn Miami Coconut Grove 3		25.7311416	-80.2386594	hotel		Residence Inn		
+way	435379040	Residence Inn Miami Coconut Grove		25.7308891	-80.2388302	hotel		Residence Inn		
+way	435379080	Sonesta Miami Airport		25.7811603	-80.2648920	hotel		Sonesta		https://www.sonesta.com/sonesta-hotels-resorts/fl/miami/sonesta-miami-airport/
+way	435379565	Hotel Belleza		25.7976844	-80.1317792	hotel				https://www.bellezahotel.com/
+way	435389172	Villa Italia South Beach Miami		25.7734891	-80.1346950	hotel				
+way	435391246	DoubleTree		25.8480645	-80.2085422	hotel		DoubleTree		
+way	435519287	Orange - Hotel Suites		25.7733610	-80.1352134	hotel				
+way	435532156	Kasa Impala		25.7834306	-80.1314258	hotel		Kasa		https://kasa.com/properties/kasa-impala-miami-beach
+way	435532186	Hampton		25.7385255	-80.2392913	hotel		Hampton		https://www.hilton.com/en/hotels/miacghx-hampton-miami-coconut-grove-coral-gables/
+way	435536547	Freehand Miami		25.8045403	-80.1263598	hotel				https://freehandhotels.com/miami/
+way	435539003	Palihouse Miami Beach		25.8069714	-80.1250460	hotel				
+way	435540119	Abbey Hotel		25.7965548	-80.1300946	hotel				
+way	435540571	Homewood Suites by Hilton Miami-Airport/Blue Lagoon		25.7816738	-80.2845274	hotel		Homewood Suites		https://www.hilton.com/en/hotels/miablhw-homewood-suites-miami-airport-blue-lagoon/
+way	435541690	Jurny suites Miami Beach		25.7791300	-80.1323365	hotel				
+way	435566273	Palm Tree Club Miami Hotel		25.8490200	-80.1482604	hotel				https://www.palmtreeclubmiami.com/
+way	435568088	Travelodge Miami Biscayne Bay		25.8247922	-80.1865479	hotel		Travelodge		https://www.wyndhamhotels.com/travelodge/miami-florida/travelodge-miami/overview
+way	435568127	"Life House, South of Fifth"		25.7725893	-80.1331112	hotel				https://www.atminehospitality.com/
+way	435568881	The Cove Hotel by Renzzi		25.7753168	-80.1344933	hotel				https://thecovebyrenzzi.com/book-now/
+way	435568987	Kenmore Village Hotel		25.7817594	-80.1332096	hotel				https://www.kenmorevillagehotel.com/
+way	435575285	The Goodtime Hotel		25.7762963	-80.1334281	hotel		Marriott		https://www.marriott.com/en-us/hotels/miasx-the-goodtime-hotel-miami-beach-a-tribute-portfolio-hotel/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0
+way	435575298	Liberty Park Hotel - South Beach		25.7963949	-80.1296336	hotel				https://www.libertyparkhotel.com/
+way	435576127	Courtyard Apartments Part of the Oasis Casita Collection		25.7881230	-80.1379373	hotel				https://www.oasiscasitacollection.com/resorts/miami-beach/oasis/courtyard-apartments/
+way	435577870	Ocean Place		25.7715563	-80.1328966	hotel				
+way	435578202	Grand Beach Hotel Bay Harbor		25.8872503	-80.1290214	hotel				
+way	435578344	The Tony Hotel South Beach		25.7783052	-80.1318787	hotel				https://www.thetonyhotel.com/
+way	435578408	Pullman Miami Airport Hotel		25.7818451	-80.2918148	hotel		Pullman		https://www.pullman-miami-airport.com/
+way	435578688	Renzzi On The Beach		25.7802638	-80.1343425	hotel				https://renzzionthebeach.com
+way	435583521	Haddon Hall Hotel		25.7874698	-80.1308667	hotel				
+way	435584104	"Royal Palm South Beach Miami, a Tribute Portfolio Resort 2"		25.7879351	-80.1294415	hotel				
+way	435584949			25.7790759	-80.3038317	hotel				
+way	435585833	Casa Gaby Apartments Part of the Oasis Casita Collection		25.7812626	-80.1387556	hotel				https://www.oasiscasitacollection.com/resorts/miami-beach/oasis/casa-gaby-apartments/
+way	435586625	Roami at The Palace		25.8056286	-80.1883413	hotel				https://www.roami.com/destinations/miami/68a7f56ff16fe300107e87d7
+way	435587482	Blue Moon Hotel		25.7801534	-80.1320949	hotel				
+way	435587625	Ramada Miami Springs/Miami International Airport		25.8083879	-80.2781401	hotel		Ramada		https://www.wyndhamhotels.com/ramada/miami-springs-florida/ramada-miami-springs-miami-international-airport/overview
+way	435587753	The Colony Hotel		25.7774697	-80.1315931	hotel				https://colonymiami.com/
+way	435729134	Executive Airport Hotel		25.7839900	-80.3050937	hotel				http://executiveairporthotel.com/
+way	435729903	Extended Stay America Hotel Miami - Brickell - Port of Miami		25.7610538	-80.1988452	hotel		Extended Stay America		
+way	435731256	Casa Victoria Orchid Hotel		25.7870586	-80.1332359	hotel				
+way	435731596	Cadet Hotel		25.7925625	-80.1304356	hotel				
+way	435732432	Runway Inn Miami Airport Hotel		25.8087599	-80.2730740	hotel				
+way	435733155	Iberostar Waves Berkeley Shore		25.7896434	-80.1306097	hotel		Iberostar Hotels & Resorts		https://www.iberostar.com/eu/hotels/miami/iberostar-waves-berkeley-shore/
+way	435736848	Crowne Plaza South Beach - Z Ocean Hotel		25.7865308	-80.1303070	hotel		Crowne Plaza		
+way	435737161	Residence Inn Miami Coconut Grove 2		25.7305801	-80.2391524	hotel		Residence Inn		
+way	435737396	Lorraine Hotel		25.8024906	-80.1258304	hotel				https://lorrainehotel.con
+way	435740177	Hispaniola Apartments Part of the Oasis Casita Collection		25.7870346	-80.1343662	hotel				https://www.oasiscasitacollection.com/resorts/miami-beach/oasis/hispaniola-apartments/
+way	435747736	Essex House Hotel		25.7807360	-80.1313516	hotel				
+way	435748190	Hotel Ocean		25.7825215	-80.1315904	hotel				
+way	435748874	Days Inn by Wyndham Miami Airport North		25.8083483	-80.2750365	hotel		Days Inn		https://www.wyndhamhotels.com/days-inn/miami-florida/days-inn-miami-airport-north/overview
+way	435805398	Dorchester Miami Beach Hotel & Suites		25.7948601	-80.1298253	hotel				
+way	435805729	Pestana Miami South Beach		25.7943055	-80.1304164	hotel				
+way	435805765	Gables Inn		25.7218373	-80.2674353	hotel				
+way	435806734	Hampton Inn & Suites by Hilton Miami Airport South Blue Lagoon		25.7790132	-80.2879388	hotel		Hampton Inn & Suites		https://www.hilton.com/en/hotels/miahshx-hampton-suites-miami-airport-south-blue-lagoon/
+way	435807813	Crowne Plaza South Beach - Z Ocean Hotel		25.7870550	-80.1300600	hotel		Crowne Plaza		
+way	435808547	"The Ritz-Carlton Coconut Grove, Miami"		25.7302841	-80.2382231	hotel		The Ritz-Carlton		
+way	435808887	OYO Hotel Coral Gables - Miami Airport		25.7638874	-80.2718811	hotel		OYO		
+way	435809108	COMO Metropolitan Miami Beach		25.8004376	-80.1261387	hotel				
+way	435845136	Aqua Hotel Miami Beach		25.7882532	-80.1308259	hotel				https://www.aquamiami.com/
+way	435845448	Barlington Hotel		25.7750993	-80.2174437	hotel				
+way	435845557	EB Hotel Miami		25.8088434	-80.2661679	hotel				https://www.ebhotels.com/miami
+way	435845922	1818 Meridian House		25.7941329	-80.1370217	hotel				
+way	435847358	Best Western Plus Windsor Inn		25.8888059	-80.1645621	hotel		Best Western Plus		https://www.bestwestern.com/en_US/book/hotels-in-north-miami/best-western-plus-windsor-inn/propertyCode.10349.html
+way	435847493			25.7821987	-80.1316692	hotel				
+way	435847740	Courtyard Miami Downtown/Brickell Area		25.7722465	-80.1906261	hotel		Courtyard		https://www.marriott.com/miadt
+way	435848192	Hyatt House Miami Airport		25.7812273	-80.2895867	hotel		Hyatt House		https://www.hyatt.com/https://www.hyatt.com/hyatt-house/en-US/miaxm-hyatt-house-miami-airport
+way	435848608	International Inn on the Bay		25.8512922	-80.1440066	hotel				https://www.internationalinnonthebay.xyz/
+way	435879990	Harrison Hotel		25.7737817	-80.1339775	hotel				
+way	435880495	Hotel Miami Springs inn		25.8087979	-80.2724310	hotel				
+way	435882584	Beds & Drinks		25.7916917	-80.1310893	hotel				
+way	435883203			25.7786319	-80.3037412	hotel				
+way	435883645	Mare Azur Design District Luxury Apartments		25.8131245	-80.1868655	hotel				
+way	436030689	Miami River Inn by Renzzi		25.7721262	-80.2017580	hotel				
+way	436033096			25.7712862	-80.1356867	hotel				
+way	436034255	Courtyard Miami Coral Gables		25.7538494	-80.2624582	hotel		Courtyard		https://www.marriott.com/miagb
+way	436039254	W South Beach		25.7975375	-80.1274930	hotel		W Hotels		https://www.marriott.com/en-us/hotels/miaws-w-south-beach/overview/
+way	436041675	Sunflower Villa		25.7799239	-80.1370739	hotel				
+way	436108420	Residence Inn Miami Airport		25.7838466	-80.2617432	hotel		Residence Inn		https://www.marriott.com/miaas
+way	436108438	SpringHill Suites Miami Downtown/Medical Center		25.7869434	-80.2105168	hotel		SpringHill Suites		
+way	436109639	Hotel Indigo Miami Brickell		25.7636985	-80.1969976	hotel		Hotel Indigo		
+way	436109931	Comfort Suites Miami Airport North		25.8089044	-80.2750458	hotel		Comfort Suites		https://www.choicehotels.com/florida/miami-springs/comfort-suites-hotels/flb13
+way	436109989	Element Miami International Airport		25.7995149	-80.2536942	hotel		Element		https://www.marriott.com/en-us/hotels/miael-element-miami-international-airport/overview/
+way	436122706	Best Western Premier Miami International Airport Hotel & Suites Coral Gables		25.7712746	-80.2628239	hotel		Best Western Premier		https://www.bestwestern.com/en_US/book/hotel-rooms.10384.html
+way	436125443	SpringHill Suites Miami Airport South		25.7768969	-80.3064958	hotel		SpringHill Suites		https://www.marriott.com/mialg
+way	436125890	Tru by Hilton Miami Airport South Blue Lagoon		25.7815072	-80.2865276	hotel		Tru		https://www.hilton.com/en/hotels/miabnru-tru-miami-airport-south-blue-lagoon/
+way	436126072	Aloft Miami Brickell		25.7641073	-80.1970204	hotel		Aloft		
+way	436126837	Regency Hotel		25.7818205	-80.2649088	hotel				
+way	436126942	Prime Hotel		25.7697723	-80.1332867	hotel				
+way	450843045	Aloft Coral Gables		25.7476969	-80.2630899	hotel		Aloft		https://www.marriott.com/en-us/hotels/miacl-aloft-coral-gables/overview/
+way	463472248	YVE Hotel Miami		25.7760687	-80.1882537	hotel				https://www.yvehotelmiami.com/
+way	463472269	Leamington Hotel		25.7754833	-80.1884043	hotel				
+way	467892170	Eurostars Langford		25.7736361	-80.1914075	hotel		Eurostars		https://www.eurostarshotels.com/eurostars-langford.html
+way	468023497	Miami Marriott Biscayne Bay		25.7908809	-80.1859865	hotel		Marriott		
+way	468023506	Opera Suites & Marina		25.7924194	-80.1871186	hotel				
+way	468023508	Hilton Miami Downtown		25.7909644	-80.1882466	hotel		Hilton		https://www.hilton.com/en/hotels/miadthf-hilton-miami-downtown/
+way	468023519	Doubletree by Hilton Grand Hotel Biscayne Bay		25.7915535	-80.1862338	hotel		DoubleTree		https://www.hilton.com/en/hotels/miabsdt-doubletree-grand-hotel-biscayne-bay/
+way	480483651	Holiday Inn Express & Suites Miami Airport East		25.7998795	-80.2634575	hotel		Holiday Inn Express & Suites		https://www.ihg.com/holidayinnexpress/hotels/us/en/miami/miaex/hoteldetail
+way	481296589	The Loft Hotel		25.7803605	-80.1320491	hotel				
+way	481296590	Viscay Hotel		25.7805020	-80.1320298	hotel				
+way	481296592	Stardust Hotel		25.7796845	-80.1322057	hotel				
+way	481296594	Princess Ann Hotel		25.7798180	-80.1321721	hotel				
+way	481296596	Hotel Chelsea		25.7802976	-80.1333117	hotel				https://thehotelchelsea.com/
+way	483323074	KAYAK Miami Beach		25.7987003	-80.1304890	hotel				
+way	483323075	Ansonia Hotel South Beach		25.7966301	-80.1302964	hotel				
+way	483481831	The Mutiny Hotel		25.7272542	-80.2399506	hotel				
+way	564984247	Hyatt Centric South Beach Miami		25.7894273	-80.1307215	hotel		Hyatt Centric		https://www.hyatt.com/thompson-hotels/en-us/miath-thompson-south-beach
+way	567457236	Hilton Garden Inn Miami South Beach		25.8058190	-80.1249367	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/miasbgi-hilton-garden-inn-miami-south-beach/
+way	567675306	Bentley South Beach		25.7749366	-80.1321605	hotel				https://thebentleyhotel.com/
+way	586107955	Residence Inn Miami Beach South Beach		25.7923845	-80.1422054	hotel		Residence Inn		https://www.marriott.com/hotel-info/miach-residence-inn-miami-beach-south-beach/experience-miami/ssunhb3/home-page.mi
+way	590909927	Nautilus Sonesta Miami Beach		25.7944439	-80.1288032	hotel		Sonesta Hotels And Resorts		https://www.sonesta.com/nautilus-sonesta-miami-beach
+way	602698097			25.7691071	-80.1350059	hotel				
+way	637613167	Homewood Suites by Hilton Miami Downtown/Brickell		25.7584768	-80.1987758	hotel		Homewood Suites		https://www.hilton.com/en/hotels/miadbhw-homewood-suites-miami-downtown-brickell/
+way	640170845	L’Etoile Apartments Part of the Oasis Casita Collection		25.7881968	-80.1356471	hotel				https://www.oasiscasitacollection.com/resorts/miami-beach/oasis/letoile-apartments/
+way	640953799	The Kent Hotel		25.7823884	-80.1309831	hotel				
+way	640953833	El Paseo Hotel		25.7870860	-80.1320351	hotel				https://kasa.com/properties/kasa-el-paseo-miami-beach?propertyType=&petsAllowed=&parking&bedCount=1&bedroomCount=0&bathroomCount=1&amenities=&adultGuestCount=1&childGuestCount=0&infantGuestCount=0&travelingForBusiness=false
+way	640954025	Royal Hotel South Beach		25.7777665	-80.1336532	hotel				
+way	646126751	Abae Hotel		25.7829579	-80.1418581	hotel				
+way	672180622	AC Hotel by Marriott Miami Beach		25.8053833	-80.1253157	hotel		AC Hotel		
+way	688392280	Clevelander South Beach Hotel and Bar		25.7807309	-80.1308833	hotel				https://www.clevelander.com/
+way	773014393	Hampton Inn & Suites Miami Midtown		25.8091561	-80.1901094	hotel		Hampton Inn & Suites		https://www.hilton.com/en/hotels/miamihx-hampton-suites-miami-wynwood-design-district/
+way	773014394	AC Hotel Miami Wynwood		25.8088256	-80.1898883	hotel		AC Hotel		https://www.marriott.com/en-us/hotels/miaaw-ac-hotel-miami-wynwood/overview/
+way	773014395	Hyde Midtown Miami		25.8087318	-80.1920546	hotel				
+way	812641424	AC Miami Hotel Downtown & Element Miami Downtown		25.7668301	-80.1959946	hotel		marriott		
+way	813418712	"EAST, Miami"		25.7666582	-80.1927652	hotel				https://www.easthotels.com/en/miami/
+way	824657501	The Altair Bay Harbor Hotel		25.8862053	-80.1335524	hotel				
+way	827412347	President Villa Miami Beach		25.7861803	-80.1303762	hotel				https://www.presidentvillamiami.com/
+way	827412350	Esmé Miami Beach		25.7867775	-80.1321037	hotel				
+way	827740924	Kimpton Hotel Palomar South Beach		25.7927405	-80.1416780	hotel		Kimpton		
+way	828252897	Urbanica Euclid		25.7741861	-80.1352265	hotel				
+way	828252912	Fisher Island Club		25.7634133	-80.1388739	hotel				https://www.fisherislandclub.com/
+way	834820514	Novotel Miami Brickell		25.7598872	-80.1970665	hotel		Novotel		
+way	836936423	Radisson RED Miami Airport		25.7993120	-80.2514782	hotel		Radisson RED		https://www.choicehotels.com/florida/miami/radisson-red-hotels/flj13
+way	836936426	Staybridge Suites Miami International Airport		25.7992285	-80.2557740	hotel		Staybridge Suites		https://www.ihg.com/staybridge/hotels/us/en/miami/miats/hoteldetail
+way	845822381	Wyndham Garden Miami International Airport		25.8084784	-80.2767989	hotel		Wyndham Garden		https://www.wgmia.com/
+way	916266981	Courtyard Miami Coconut Grove		25.7314687	-80.2360044	hotel		Courtyard		https://www.marriott.com/miagv
+way	917283053	"Royal Palm South Beach Miami, a Tribute Portfolio Resort"		25.7884027	-80.1293817	hotel				
+way	917307896	Miami Airport Marriott		25.7840931	-80.2629747	hotel				
+way	917311823	Shelborne South Beach		25.7941661	-80.1288575	hotel				https://www.shelborne.com/
+way	917700559	Fortune House Hotel		25.7594371	-80.1909301	hotel				https://www.fortunehousehotel.com/
+way	917742178	Courtyard Miami Beach South Beach		25.7880795	-80.1321784	hotel		Courtyard		https://www.marriott.com/miacb
+way	917757542	Dream South Beach		25.7821600	-80.1310361	hotel				
+way	918531380	Comfort Inn & Suites Miami International Airport		25.8087508	-80.2737008	hotel		Comfort Inn & Suites		https://www.choicehotels.com/florida/miami-springs/comfort-inn-hotels/flc83
+way	918546296	"Hotel Arya, BW Premier Collection"		25.7272419	-80.2406523	hotel				https://www.hotelaryacg.com/
+way	918550558	TownePlace Suites Miami Airport		25.7828765	-80.2626081	hotel		TownePlace Suites		https://www.marriott.com/hotels/travel/miasa-towneplace-suites-miami-airport/
+way	919039904	Four Points by Sheraton Coral Gables		25.7352389	-80.2576062	hotel		Four Points by Sheraton		
+way	919072632	Moxy Miami South Beach		25.7797946	-80.1327249	hotel		Moxy		
+way	920631116	Candlewood Suites Miami International Airport - 36th St		25.8079173	-80.2958260	hotel		Candlewood Suites		https://www.ihg.com/candlewood/hotels/us/en/virginia-gardens/vgccw/hoteldetail?cm_mmc=GoogleMaps-_-CW-_-US-_-VGCCW
+way	933174532	Four Seasons Hotel Miami		25.7587692	-80.1915269	hotel		Four Seasons		https://www.fourseasons.com/miami/
+way	936262144	Mare Azur by Grand Bay		25.8485463	-80.1733364	hotel				
+way	936264331	Orchid House		25.7850454	-80.1310985	hotel				
+way	936323302	"Hotel Colonnade Coral Gables, Autograph Collection"		25.7501438	-80.2576786	hotel				
+way	947769472	Tru		25.7588042	-80.2026451	hotel		Tru		https://www.hilton.com/en/hotels/miaruru-tru-miami-west-brickell/
+way	952486637	The Elser Hotel Miami		25.7787287	-80.1891973	hotel		Preferred Hotels & Resorts		https://www.theelserhotel.com/
+way	954745206	"DUA Miami, Autograph Collection"		25.7610816	-80.1937908	hotel		Autograph Collection		https://www.marriott.com/en-us/hotels/miabk-dua-autograph-collection/overview/
+way	954745217	SLS LUX Brickell		25.7661313	-80.1929286	hotel				https://slshotels.com/lux-brickell/
+way	972089559	Mr. C Miami - Coconut Grove		25.7273082	-80.2421835	hotel				https://www.mrccoconutgrove.com/
+way	992921584	Hyatt Regency Miami		25.7706408	-80.1905876	hotel		Hyatt Regency	Hyatt	https://miami.regency.hyatt.com/
+way	993169129	JW Marriott Marquis Miami		25.7713042	-80.1891694	hotel		JW Marriott		https://www.marriott.com/en-us/hotels/miamj-jw-marriott-marquis-miami/overview/
+way	1000446156	Commodore Inn the Grove		25.7272710	-80.2448392	hotel				
+way	1000738180	Clinton Hotel South Beach		25.7787749	-80.1328781	hotel				https://clintonsouthbeach.com/
+way	1099905230	Loews Coral Gables Hotel		25.7446285	-80.2576888	hotel				https://www.loewshotels.com/coral-gables
+way	1185200181	"Brickell Arch, a Luxury Collection Hotel, Miami"		25.7604344	-80.1913326	hotel		The Luxury Collection		https://www.marriott.com/en-us/hotels/miald-brickell-arch-a-luxury-collection-hotel-miami/overview/
+way	1198194462	citizenM Miami Worldcenter		25.7815351	-80.1907612	hotel		citizenM		https://www.citizenm.com/hotels/united-states/miami/miami-worldcenter
+way	1536710733	Palm Tree Club Miami		25.8489506	-80.1483343	hotel				https://www.palmtreeclubmiami.com/
+relation	6163075	Crest Hotel Suites		25.7914351	-80.1310886	hotel				
+relation	6457728	Hyatt Regency Coral Gables		25.7518641	-80.2557451	hotel		Hyatt Regency		https://www.hyatt.com/hyatt-regency/en-US/coral-hyatt-regency-coral-gables
+relation	6474399	Mayfair House Hotel & Garden		25.7286363	-80.2409872	hotel				https://www.mayfairhousemiami.com/
+relation	7132815	Red Roof PLUS+ Miami Airport		25.8051196	-80.2633388	hotel		Red Roof Inn		https://www.redroof.com/property/fl/miami/RRI255
+relation	8889255	Holiday Inn Express		25.7768551	-80.3074548	hotel		Holiday Inn Express		https://www.ihg.com/holidayinnexpress/hotels/us/en/miami/mialm/hoteldetail
+relation	13417021	Dunns-Josephine Hotel		25.7841587	-80.1999749	hotel				
+relation	13417477	Hotel Ocean South Beach		25.7833496	-80.1303636	hotel				https://hotelocean.com/
+relation	13421207	Lennox Miami Beach		25.7952660	-80.1297852	hotel				
+relation	13421427	Urbanica The Meridian Hotel		25.7741007	-80.1363499	hotel				https://www.meridianhotelmiami.com/
+relation	13446290	Clarion Inn & Suites Miami International Airport		25.8081288	-80.2822575	hotel		Clarion		https://www.choicehotels.com/florida/miami-springs/clarion-hotels/fl818
+relation	13457403	Miami Princess Hotel		25.7829972	-80.2647983	hotel				
+relation	13463840	Aladdin Hotel Miami		25.8104800	-80.2653643	hotel				
+relation	13471331			25.7961024	-80.1292697	hotel				
+relation	13471764	Executive Presidente Hotel		25.8107494	-80.2633520	hotel				
+relation	15969518	The Mercury Hotel		25.7700599	-80.1343208	hotel				
+relation	16342244	Hilton Miami Airport Blue Lagoon		25.7822538	-80.2785458	hotel		Hilton		https://www.hilton.com/en/hotels/miaahhh-hilton-miami-airport-blue-lagoon/
+relation	17832433	Extended Stay America - Miami - Airport - Blue Lagoon		25.7786063	-80.3038149	hotel		Extended Stay America		https://www.extendedstayamerica.com/hotels/fl/miami/airport-blue-lagoon

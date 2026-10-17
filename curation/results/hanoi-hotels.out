@@ -1,0 +1,805 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	335641430	Khách Sạn Đức Thái		21.0340035	105.8471444	hotel				
+node	442031782	Khách Sạn Prince		21.0273109	105.8435309	hotel				
+node	442033049	Somerset Grand Hanoi		21.0258326	105.8463672	hotel	5	Somerset		https://www.discoverasr.com/en/somerset-serviced-residence/vietnam/somerset-grand-hanoi
+node	446033479	Thành Công		21.0137437	105.8132213	hotel				
+node	707253009	Khách Sạn Đông Á		21.0353948	105.8533211	hotel				
+node	707253042	Thu Giang Guest House		21.0316783	105.8479749	hotel				
+node	708488307	Real Darling Cafe Guesthouse		21.0326388	105.8495639	hotel				
+node	708488311	Khách Sạn Classic 2		21.0346495	105.8517404	hotel				
+node	708488313	Khách Sạn Indochina Queen		21.0354757	105.8527489	hotel				
+node	708488315	Khách Sạn Hanoi Backpackers		21.0293871	105.8480711	hotel				
+node	708488335	Khách Sạn Hanoi Phoenix II		21.0354506	105.8525879	hotel				
+node	708488337	Phu Hoa	Phu Hoa Tourist Guest House	21.0334478	105.8500291	hotel				
+node	708488339	Khách Sạn Little Hanoi Diamond		21.0336770	105.8476149	hotel				
+node	708488342	Khách Sạn Little Hanoi	Little Hanoi Deluxe Hotel	21.0349399	105.8469714	hotel				https://www.littlehanoideluxehotel.com/
+node	708488343	Prince Hotel		21.0347507	105.8516905	hotel				
+node	708488382	Khách Sạn Classic		21.0328310	105.8539652	hotel				
+node	708488383	Prince 57 Hotel		21.0326352	105.8539615	hotel				
+node	708488386	Khách Sạn Hanoi Youth		21.0331149	105.8504878	hotel				
+node	708488387	Tien Thuy Hotel		21.0321235	105.8549831	hotel				
+node	708488388	Khách Sạn Hanoi Gecko 2		21.0334005	105.8524400	hotel				
+node	708630499	Khách Sạn Golden Lotus		21.0308292	105.8493639	hotel				
+node	708630512	Zephyr Hotel		21.0256167	105.8514292	hotel				
+node	708695655	Khách Sạn Bạch Tùng Điệp		21.0329471	105.8479960	hotel				
+node	708695656	Khách Sạn Camellia		21.0335880	105.8528240	hotel				
+node	708695657	Khách Sạn Hanoi Gecko III		21.0336704	105.8473559	hotel				
+node	708695659	The Drift Backpackers Hostel		21.0191472	105.8484037	hotel				
+node	708698000	Khách Sạn Maison D'Hanoi		21.0311045	105.8494873	hotel				
+node	724829065		Hanoi Balcony Hotel	21.0302108	105.8566089	hotel		Vietcombank	Vietcombank	
+node	779155034	Rising Dragon		21.0324116	105.8539573	hotel				
+node	779155036	Khách Sạn Hanoi Elegance 2		21.0346906	105.8535697	hotel				
+node	779155037	Sunshine Palace		21.0350341	105.8533618	hotel				
+node	779155042	Khách Sạn Joseph's		21.0282816	105.8483502	hotel				
+node	779155047	Khách Sạn Boutique		21.0379401	105.8518102	hotel				
+node	779155050	Khách Sạn Blue Star		21.0336734	105.8474742	hotel				
+node	779155052	Khách Sạn Hanoi Cozy 2		21.0327548	105.8537342	hotel				
+node	922396410	Sheraton Hanoi		21.0597444	105.8320123	hotel		Sheraton		
+node	963611948	Khách Sạn Thaison I		21.0305739	105.8564189	hotel				
+node	969250535	Khách Sạn Hà Nội Emerald		21.0339948	105.8535544	hotel				
+node	969250543	Sunshine 2		21.0343564	105.8533288	hotel				
+node	969250546	Khách Sạn Especen		21.0333592	105.8537508	hotel				
+node	969250553	Khách Sạn Bamboo		21.0331185	105.8537687	hotel				
+node	969250573	Khách Sạn Golden Wings		21.0340122	105.8532958	hotel				
+node	969250577	Khách Sạn Friendly		21.0347247	105.8533643	hotel				
+node	969250580			21.0332207	105.8537611	hostel				
+node	969250583	Khách Sạn Hoà Bình Palace		21.0330675	105.8539845	hotel				
+node	969250584	Khách Sạn Allura		21.0338753	105.8536358	hotel				
+node	969250591	Khách Sạn Golden Wings II		21.0341376	105.8535652	hotel				
+node	970139609			21.0323364	105.8527534	hotel				
+node	970139640	Salute Hotel		21.0319667	105.8540409	hotel				
+node	970139670			21.0323440	105.8525425	hotel				
+node	970139680	Phú Long Hotel		21.0323049	105.8534066	hotel				
+node	970139684	Khách Sạn Hanoi A1		21.0320927	105.8536784	hotel				
+node	973960998	Khách Sạn Indochina		21.0315137	105.8547329	hotel				
+node	973961006	Khách Sạn Asia Palace		21.0317015	105.8556478	hotel				
+node	973961026	Khách Sạn Gia Bảo Grand		21.0314953	105.8549091	hotel				
+node	973961077	Khách Sạn Hanoi Elegance		21.0314996	105.8548440	hotel				
+node	973961090	Khách Sạn Hanoi Happy		21.0314439	105.8552823	hotel				
+node	973961107	Khách Sạn Boss		21.0314436	105.8552453	hotel				
+node	976474319	Khách Sạn Astoria		21.0292242	105.8454081	hotel				
+node	977647354	Trang An		21.0321562	105.8502600	hotel				
+node	977668026	Khách Sạn Nam Hải		21.0312401	105.8472175	hotel				
+node	977668073	PAN		21.0286011	105.8437682	hotel				
+node	993037587	Khách Sạn Hanoi Stars		21.0337024	105.8542552	hotel				
+node	993037609	Khách Sạn Bảo Anh		21.0294692	105.8479138	hotel				
+node	993037656	Rose Hotel		21.0311286	105.8472821	hotel				
+node	993037690	Trung Nam Hải		21.0295460	105.8479124	hotel				
+node	993037702	Nhà Khách Hanoi Brother Inn		21.0336722	105.8474267	hostel				
+node	993037727	Khách Sạn Hanoi Backpackers Palace		21.0336742	105.8475063	hotel				
+node	997997446	Khách Sạn Hanoi Spark		21.0323652	105.8547395	hotel				
+node	997997591	Khách Sạn Cozy		21.0324325	105.8537078	hotel				
+node	997997878	Khách Sạn Asia Palace	Aquarius Legend Hotel	21.0324639	105.8544065	hotel				http://www.aquariuslegendhotel.com
+node	997997893	Khách Sạn Hanoi Orchid		21.0327409	105.8539635	hotel				
+node	998227347	Khách Sạn Hanoi Elegance		21.0319655	105.8481020	hotel				
+node	998227765	Khách Sạn Charming		21.0319242	105.8479383	hotel				
+node	998227908	Khách Sạn Hanoi Eclipse		21.0328812	105.8495832	hotel				
+node	1000087537	Vanmieu Hotel		21.0266394	105.8370864	hotel				
+node	1051500347	Khách Sạn Hanoi Deluxe		21.0346071	105.8472826	hotel				
+node	1378877102	Khách Sạn Heart		21.0315071	105.8505621	hotel				
+node	1378877103	Khách Sạn Golden Sunrise		21.0314747	105.8502460	hotel				
+node	1388459780	Khách Sạn Morning Star		21.0317073	105.8507545	hotel				
+node	1388459783	Win Hotel		21.0314317	105.8502016	hotel				
+node	1388478348	Royal Hotel		21.0295866	105.8349908	hotel	1			
+node	1491593858	Especen Hotel		21.0290550	105.8485059	hotel			"Tran My Anh., Pte"	http://www.especen.vn
+node	1589474694	Silk Path		21.0288266	105.8445490	hotel				
+node	1637382217	Rising Dragon Villa		21.0345522	105.8474998	hotel				www.risingdragonhotel.com
+node	1814462730	Khách Sạn Little Hanoi 2		21.0272638	105.8509070	hostel				
+node	1968198294	Khách Sạn Golden LakeView		21.0315942	105.8507125	hotel				
+node	2055346105	Hanoi Blue Sky		21.0378367	105.8472526	hotel				
+node	2184629072	Khách Sạn Calypso Grand		21.0344421	105.8462418	hotel	3			
+node	2197076897	Khách Sạn La Dolce Vita		21.0337977	105.8491788	hotel				
+node	2244975458	Khách Sạn Danly		21.0326893	105.8088142	hotel				
+node	2255900926	Khách Sạn Mai		21.0332046	105.8460310	hotel				
+node	2256217982	Khách Sạn Green Diamond		21.0340919	105.8515126	hotel				
+node	2256217986	Media Central		21.0341357	105.8513362	hotel				
+node	2256217988	Khách Sạn Asian Ruby		21.0346357	105.8520580	hotel				
+node	2256217989	Khách Sạn Hanoi Moment		21.0346758	105.8497899	hotel				
+node	2256217991	Nhà Hàng Essence		21.0345271	105.8520370	hotel				
+node	2259067317	Khách Sạn Indochina Queen II		21.0346794	105.8482222	hotel				
+node	2259067319	Oscar Hotel		21.0333615	105.8479638	hotel				
+node	2259067322	Quoc Hoa Hanoi Hotel		21.0338392	105.8476882	hotel				
+node	2259067323	Khách Sạn Golden Sun Palace		21.0326664	105.8496242	hotel				
+node	2259067324	Victory Hotel		21.0329421	105.8502358	hotel				
+node	2259067325	Rainbow Hotel	Zesty Hotel	21.0348688	105.8495282	hotel				http://www.hanoizestyhotel.com
+node	2259067326	Khách Sạn A25		21.0331192	105.8477167	hotel				
+node	2259067327			21.0335655	105.8500019	hotel				
+node	2308781226	Khách Sạn Đông Thanh		21.0344220	105.8463831	hotel	3			
+node	2308781236	Ngog Mai Hotel		21.0344071	105.8464358	hotel	3			
+node	2310501025	Khách Sạn First Eden		21.0417959	105.8451291	hotel				
+node	2366843101	Khách Sạn Green Park		21.0171605	105.8486380	hotel	3			
+node	2367214441			21.0235107	105.8449269	hotel				
+node	2415953203	Khách Sạn Hanoi Holiday Silver		21.0295372	105.8488609	hotel				
+node	2446633202	Khách Sạn Hanoi 3B		21.0342102	105.8535067	hotel				
+node	2446633698	Khách Sạn Friendly Backpacker		21.0346404	105.8544732	hotel				
+node	2476338243	Khách Sạn Golden Cyclo		21.0305670	105.8455170	hotel				
+node	2478242282	Khách Sạn Art Trendy		21.0349537	105.8480111	hotel				http://www.arttrendyhotel.com/
+node	2478249568	Tu Linh Palace Hotel		21.0364254	105.8470343	hotel				http://www.tulinhpalacehotel.com/
+node	2545040256	Khách Sạn Cầu Giấy		21.0325542	105.7992324	hotel				
+node	2575726464	Santa Barbara Hotel		21.0411871	105.8444866	hotel				
+node	2579706614	Khách Sạn Hồ Hoàn Kiếm		21.0305634	105.8495539	hotel				
+node	2587514012	Khách Sạn Moon View		21.0428210	105.8428755	hotel				
+node	2859940472	Khách Sạn Marriotte Ibiz City Hotel		21.0347635	105.8518089	hotel				
+node	2921270061	Nhà Khách Madam Moon 2		21.0315703	105.8506713	hotel				
+node	2921270062	Nhà Khách Hanoi Guesthouse		21.0344162	105.8535098	hotel				
+node	3062711999	Khách Sạn Golden Time 2		21.0307922	105.8547077	hostel				
+node	3182140621	Khách Sạn Hanoi Golden Moon		21.0327085	105.8545846	hotel				https://hanoigoldenmoonhotel.com
+node	3189922818	Khách Sạn Medallion		21.0360324	105.8532614	hotel				
+node	3222752022	Lavender Central Hotel		21.0337956	105.8530368	hotel				
+node	3222754248	Oriental Suites Hotel		21.0330899	105.8510332	hotel				
+node	3276917865	Khách Sạn Art Boutique		21.0323445	105.8469581	hotel				
+node	3281423761	Hanoi La Palm Premier Hotel & Spa	Hanoi La Palm Premier Hotel and Spa	21.0325304	105.8493275	hotel				https://www.hanoilapalmpremier.com/
+node	3281563428	Nhà Khách May De Ville Backpacker		21.0342697	105.8520063	hostel				maydevillebackpackershostel.com
+node	3298495261	The Palmy Hotel & Spa		21.0305847	105.8501334	hotel				
+node	3378118401	Khách Sạn Aurora		21.0349803	105.8531725	hotel				
+node	3474537336	Tirant Hotel		21.0331407	105.8524023	hotel				https://www.tiranthotel.com/
+node	3475213093	Khách Sạn Hanoi Holiday Gold		21.0317751	105.8482993	hotel				
+node	3514148625	Khách Sạn Box		21.0360900	105.8525434	hotel				
+node	3552583291	Khách Sạn Little Hanoi 1		21.0349064	105.8469543	hostel				
+node	3565070798	Nhà Khách Green Hanoi Backpackers		21.0294153	105.8489147	hostel				
+node	3575187927	Street Backpackers Hostel		21.0296822	105.8490443	hostel				
+node	3712966972	Khách Sạn Hanoi Light		21.0284128	105.8500004	hostel				www.hanoilighthostel.com
+node	3778314445	Khách Sạn Rendezvous		21.0331384	105.8470696	hotel				
+node	3824249684	Khách Sạn Camel City		21.0353948	105.8525004	hotel				
+node	3972522953	Khách Sạn Mercure		21.0261665	105.8416648	hotel		Mercure	Accor Group	
+node	4016191396	Khách Sạn Hanoi Rocks		21.0359034	105.8499502	hostel				
+node	4049502243	Nhà Khách Hanoi Lucky		21.0352497	105.8474960	hotel				
+node	4115444917	Khách Sạn Ga		21.0343472	105.8526691	hostel				
+node	4136040289	Khách Sạn Hanoi Imperial		21.0312566	105.8499980	hotel				
+node	4149586389			21.0348225	105.8455716	hotel				
+node	4150313090	Khách Sạn Blues		21.0349105	105.8536082	hostel				
+node	4164297190	Khách Sạn Golden Diamond		21.0391927	105.8511387	hotel				
+node	4170717717	Khách Sạn Central Backpackers		21.0304607	105.8488039	hostel				
+node	4170721790	Khách Sạn Le Petit		21.0302942	105.8489131	hotel				
+node	4172441594	Splendid Star Grand Hotel		21.0291318	105.8487007	hotel				
+node	4178588391	Skyline Hotel		21.0335223	105.8524153	hotel				
+node	4180512948	Khách Sạn New Amely & Resident		21.0290827	105.7692590	hotel				
+node	4182850034	Symphony Hotel		21.0322714	105.8487166	hostel				
+node	4182923406	Khách Sạn Hanoi Old Town		21.0368350	105.8497883	hotel				
+node	4186477289	Nhà Khách Hanoi Culture		21.0349310	105.8474364	hostel				
+node	4189800290	Khách Sạn Hanoi Traveller		21.0318635	105.8483885	hostel				hanoitravellerhostel.com
+node	4191091592	Khách Sạn Central Backpackers - Old Town		21.0376823	105.8520814	hostel				
+node	4198645830	Khách Sạn Hanoi Alibaba		21.0327185	105.8537322	hotel				
+node	4210723204	Khách Sạn Và Spa Matilda Boutique		21.0345574	105.8535202	hotel				
+node	4239914897	Khách Sạn Hanoi Serenity Diamond		21.0344096	105.8467548	hotel				https://www.serenitydiamondhotel.com/
+node	4240467000	Oasis Hotel		21.0210013	105.8183853	hotel				
+node	4241602192	Khách Sạn Luxury		21.0300134	105.8481407	hotel				
+node	4246353913	Khách Sạn Hanoi Pho		21.0314853	105.8457736	hostel				
+node	4253373189	Khách Sạn La Siesta	La Siesta Classic Ma May	21.0342811	105.8533216	hotel				
+node	4257008401	Khách Sạn Hanoi Party Backpacker		21.0330335	105.8460897	hotel				
+node	4264124598	Khách Sạn Family Transit		21.2167372	105.7810839	hotel				
+node	4264278693	Nhà Khách Happy Moon		21.0382343	105.8470258	hostel				
+node	4267811489	Khách Sạn Somerset Grand Hà Nội		21.0262404	105.8458094	hotel				
+node	4272783089	Khách Sạn Central Backpackers		21.0406073	105.8486956	hostel				
+node	4278275294	Riverside		21.0338284	105.8540754	hotel				
+node	4278776791	Nhà Khách Nexy	Nexy Hostel	21.0326122	105.8501435	hostel				https://nexyhostels.com/
+node	4279278593	Hanoi Backpackers Hostel Downtown		21.0360740	105.8532099	hostel				https://www.vietnambackpackerhostels.com/
+node	4281623092	Vietnam backpackers hostel		21.0295297	105.8484496	hostel				
+node	4295564389	Khách Sạn Apt Ez		21.0293318	105.8437457	hotel				
+node	4312340299	Smart Hotel		21.0325525	105.7898087	hotel				
+node	4315103859	Khách Sạn Hanoi Street		21.0292917	105.8438984	hotel				
+node	4318026789	Khách Sạn Camellia 4		21.0347412	105.8512580	hotel				http://www.camelliahotelhanoi.com
+node	4333617101	Khách Sạn Box		21.0360245	105.8524028	hotel				
+node	4345394192	Khách Sạn Asia Backpacker		21.0339514	105.8516392	hostel				
+node	4348062890	Khách Sạn Hanoi Friends Inn		21.0350153	105.8470454	hotel				
+node	4355016890	Gowhere Hanoi		21.0259464	105.8379641	hostel				
+node	4359588089		Hanoi Serene Hotel	21.0319863	105.8476813	hotel				http://hanoiserenehotel.com
+node	4364331493	Khách Sạn Toàn Thắng		21.0812430	105.9056850	hotel				
+node	4365693690	Khách Sạn Hanoi Old Centre		21.0314694	105.8504970	hotel				
+node	4375610192	Khách Sạn Hà Nội 123		21.0265829	105.8424048	hotel				
+node	4385152889		Thang Long Opera Hotel	21.0282603	105.8573670	hotel				http://www.thanglongoperahotel.com
+node	4398845990	Khách Sạn B&B		21.0322584	105.8549018	hotel				
+node	4411074592	Khách Sạn Hanoi Old Quarter Boutique		21.0368593	105.8524202	hotel				http://hanoioldquarterboutique.com
+node	4439900527	Khách Sạn Hanoi Charm		21.0328950	105.8501494	hotel	3			
+node	4460389166	Tomodachi House		21.0295113	105.8439755	hotel				
+node	4470226889	Khách Sạn Lele & Frog	Hotel Lele & Frog	21.0297333	105.8442960	hotel				www.lefroghotel.com
+node	4481098089	Old Quarter View Hanoi Hostel		21.0346395	105.8509525	hostel				http://oldquarterviewhanoihostel.com
+node	4489676491	Khách Sạn Luxury Backpacker		21.0293883	105.8481465	hostel				
+node	4504141890	Nhà Lâm		21.0612905	105.8638221	hostel			Tổng thống	
+node	4504142090	nhà cô Hường		21.0608539	105.8638136	hostel				
+node	4504143990	nhà Der		21.0631262	105.8786810	hostel				
+node	4504307390	Khách Sạn La Siesta Trendy	Mojito Bar & Lounge	21.0322779	105.8457887	hotel				http://www.hanoilasiestahotel.com
+node	4511223211			21.0293065	105.8481951	hotel				
+node	4511225597	Khách Sạn Golden Snake		21.0292494	105.8481334	hotel				
+node	4512973689		Le Foyer	21.0329803	105.8523362	hotel				
+node	4525766290	Khashc Sạn Fantasea		21.0326210	105.8466932	hotel				
+node	4530597794	Khach Sạn Sao Băng		21.0028522	105.8667059	hotel				
+node	4550957992	Pod hotel Hanoi		21.0371003	105.8511156	hotel				
+node	4551132303	Khách sạn Bình Minh		21.0260095	105.8160956	hotel				
+node	4569680690	Khách Sạn Green Street		21.0356102	105.8533151	hotel				
+node	4571188296	Khách Sạn Hanoi Heart		21.0327685	105.8504022	hotel				
+node	4571208189			21.0327962	105.8537365	hostel				
+node	4579850989	Thanh Binh Hotel	Thanh Binh Hotel	21.0328004	105.8514379	hotel				
+node	4583594698			21.0341135	105.8522803	hostel				
+node	4591961189	Khách Sạn Emerald Waters & Spa		21.0349625	105.8503869	hotel				
+node	4596558896	Nhà trọ bác Hoà		20.9685224	105.7949389	hostel				
+node	4599235590			21.0323920	105.8539570	hotel				
+node	4676361991	Khách Sạn Legacy		21.0358438	105.8512432	hotel				
+node	4683648690		Hanoi Romance Hotel	21.0334153	105.8523080	hotel				http://hanoiromacehotel.com
+node	4683696370			21.0208257	105.8245525	hotel				
+node	4701408789	Zim's hotel		21.0349695	105.8511866	hostel				
+node	4701521789	Khách Sạn Hoa Trà		21.0353254	105.8493216	hotel				
+node	4706155559	Khách Sạn Hanoi Impressive		21.0285359	105.8482354	hotel	3			
+node	4710547589		Camella Hotel	21.0304522	105.8484482	hotel				
+node	4717648290	Soft pillow hostel		21.0292555	105.8437402	hostel				http://www.softpillowhostel.com
+node	4737914985	North Hotel №2		21.0315599	105.8478692	hostel				
+node	4739119253	Khách Sạn Hanoi Focus		21.0328135	105.8500162	hotel				
+node	4739119260	Khách Sạn Prince		21.0327666	105.8500458	hotel				
+node	4750972245	Nhà Khách Flipside		21.0336712	105.8473904	hostel				
+node	4772145823	Khách Sạn Golden Holiday		21.0358209	105.8478557	hotel				
+node	4775081836	Khách Sạn Hanoi Fantasy	Hanoi Fantasy Hotel	21.0324764	105.8482285	hotel				
+node	4790944154	Nova		21.0320494	105.8469688	hotel				
+node	4806907721	Khách Sạn Airbnb		21.0226110	105.8594376	hotel				
+node	4819304021			20.9912402	105.8260567	hostel				
+node	4828071522	Khách Sạn Morning		21.0316062	105.8507332	hotel				
+node	4831901623	Khách Sạn Hanoi Massive		21.0295534	105.8485250	hostel				http://www.hanoimassivehostel.com
+node	4841433822	Khách Sạn Hanoi Old Quarter Backpackers		21.0372109	105.8508312	hostel				
+node	4846769221	Nhà cậu hùng		20.9822823	105.8757746	hostel				
+node	4865619021		Gecko Garden Hostel	21.0338788	105.8515838	hostel				
+node	4885382321	Khách Sạn Amorito		21.0318940	105.8540481	hotel				
+node	4914056121	Khách Sạn Hanoi Winter		21.0376685	105.8518264	hostel				
+node	4917004727		Hanoi city backpackers hostel	21.0342653	105.8474548	hostel				
+node	4920374921		Republik Backpackers Hostel	21.0393861	105.8465532	hostel				
+node	4924408244	Khách Sạn Dragon Hotel Airport		21.2189546	105.7833584	hotel				
+node	4943380823	Khách Sạn Hanoi		21.0278391	105.8214573	hotel				
+node	4961571023	Hanoi Panda Hotel	Hanoi Panda Hotel	21.0337894	105.8549910	hotel				
+node	4968881229	Khách Sạn Đức Hiếu		21.2191012	105.7839653	hotel				
+node	4969921723		Hanoi Asia Guest house	21.0344268	105.8482017	hostel				
+node	5013888021	Khách Sạn Ats		21.0200525	105.8601709	hotel				
+node	5072875423			21.0342418	105.8519196	hostel				
+node	5073135422	Diamond Legend Hotel	Diamond Legend Hotel	21.0370377	105.8472405	hotel				
+node	5087681921	Maya Boutique Hotel		21.0369127	105.8524040	hotel				
+node	5102649622	Paradise Boutique Hotel		21.0339811	105.8524431	hotel				
+node	5132817724	Khách Sạn Cầu Am 1		20.9738541	105.7781610	hotel				
+node	5137326825	Khách Sạn Hanoi Sky		21.0290494	105.8433260	hotel				
+node	5172225321	Serene Boutique		21.0351499	105.8474121	hotel				
+node	5175030522		Real Hanoi Hotel	21.0335130	105.8525019	hotel				
+node	5175843821			20.9909954	105.7923290	hostel				
+node	5175843921	trung văn		20.9910797	105.7926402	hostel				
+node	5187979822	Pillow Backpacker Hostel		21.0343615	105.8521987	hostel				
+node	5202732021	Pillow backpacks hostel		21.0348099	105.8520355	hostel				
+node	5212075122	Rising Dragon Villa Hotel 43A Bat Su Street		21.0346090	105.8475127	hotel				
+node	5248429921	Khách Sạn Hanoi Nostalgia		21.0347800	105.8530341	hotel				
+node	5257947824	Khách Sạn Hanoi Bella Rosa		21.0321562	105.8533235	hotel				
+node	5286250123	Nhà Khách Hanoi Lucky 2		21.0365271	105.8468653	hotel				
+node	5289738322			21.0322443	105.8544266	hotel				
+node	5314296021		Mai Charming Hotel and Spa	21.0306413	105.8486075	hostel				https://hanoimaicharminghotel.com/
+node	5329314823	Khác Sạn Cocoon Inn		21.0355063	105.8503886	hostel				https://cocooninn.com/
+node	5352433022	Khách Sạn My Youth		21.0349068	105.8537923	hostel				
+node	5353997224	Nhà Khách Dreamcatcher		21.0212785	105.8474164	hotel				
+node	5358175516	Khách Sạn Golden Charm		21.0329310	105.8497236	hotel				
+node	5360149042	Khách Sạn Bodega		21.0294113	105.8457184	hotel				
+node	5377676221	녹 칸 장보	Rosegarden residense	21.0250184	105.8186070	hotel				
+node	5380786521	Khách Sạn An		21.0367493	105.8521171	hotel				
+node	5382107823	Nova Luxury Hotel		21.0358507	105.8472106	hotel				
+node	5382848421		Hanoi Capella Hotel	21.0313991	105.8549407	hotel				
+node	5391632021	V Hostel		21.0362786	105.8503540	hostel				
+node	5396064221		Hanoi Backpackers Hostel	21.0342996	105.8547732	hostel				
+node	5398122121	Khách Sạn BB's		21.0363629	105.8527973	hotel				
+node	5398202825		Summer Place Hotel	21.0330997	105.8448419	hotel				
+node	5400593422		Cheetah Hostel	21.0339443	105.8514421	hostel				
+node	5403146633		Lantern Dorm	21.0343919	105.8535109	hostel				
+node	5404939931	Khách Sạn Helios Legend	Helios Legend Hotel	21.0333758	105.8459461	hotel				
+node	5412026823	Khách Sạn Hanoi Golden		21.0363074	105.8509473	hotel				
+node	5413473222	Khách Sạn Hanoi La Storia		21.0357127	105.8477210	hotel				https://www.hanoilastoriahotel.com/
+node	5413473223		Noble & Swan boutique hotel	21.0326769	105.8462814	hotel				http://www.nobleandswanboutiquehotel.com
+node	5415670922	Khách Sạn Hanoi Cristina		21.0353443	105.8541414	hotel				
+node	5417683122	Khách Sạn Douceur de l'aube		21.0431653	105.8441778	hotel				
+node	5418467365		La Siesta Central Hotel & Spa	21.0319322	105.8535289	hotel				https://www.hanoilasiestacentralhotel.com
+node	5418806221	Khách Sạn Emerald Waters & Spa		21.0314700	105.8535125	hotel				
+node	5421708023	Khách Sạn Bedgasm		21.0279261	105.8498530	hostel				
+node	5421715221	Khách Sạn Daisy	Daisy Hostel	21.0362853	105.8478584	hostel				
+node	5421874221	Signature Inn		21.0359663	105.8477799	hostel				
+node	5428092921		Splendid Holiday Hotel	21.0291837	105.8487890	hotel				
+node	5428471977	Khách Sạn Inearth		21.0325773	105.7873161	hotel				
+node	5430505722		Hanoï sincerity guest house	21.0331270	105.8503996	hotel				
+node	5436236121		Hanoi Prime Center Hotel	21.0352994	105.8454773	hostel				
+node	5436562223	Skylark boutique		21.0400107	105.8451439	hotel				
+node	5439290821			21.0308430	105.8503621	hotel				
+node	5441866821		May Hostel	21.0317165	105.8484557	hostel				
+node	5446801923	Khách Sạn Golden Sun Villa		21.0303268	105.8497191	hotel				
+node	5447338021	Khách sạn Somerset	Somerset hotel	21.0667456	105.8261090	hotel				
+node	5464364523		Hanoi Grandeur Hotel & Spa	21.0405774	105.8476545	hotel				https://hanoigrandeurhotel.com/
+node	5468107122	Khách Sạn La Belle Vie		21.0429057	105.8439397	hotel				
+node	5475502221		Sunny Hotel 1	21.0275724	105.8127702	hotel				
+node	5485635752	Khách Sạn Ngọc Lan		21.0173030	105.8264037	hotel				
+node	5485667564	Khách Sạn Blue 29		21.0237006	105.8205593	hotel				
+node	5485733315	Khách Sạn Quê Hương		20.9734660	105.8364802	hotel				
+node	5485751848			21.0278387	105.8406823	hotel				
+node	5485752201	Nhà Nghỉ Hải Thành		21.0271207	105.8402648	hotel				
+node	5485825282	Khách Sạn Hanoi Emotion		21.0292439	105.8343303	hotel				
+node	5492620821	Quang Hiep Hotel		21.0365315	105.8530672	hotel				
+node	5506485721		INTER Hotel	21.0337072	105.8111568	hotel				
+node	5509704523	Khách Sạn Hanoi Boutique		21.0363923	105.8504145	hotel				
+node	5520567229	Khách Sạn Hanoi Passion Suite		21.0378996	105.8523642	hotel				
+node	5545705822	Khách Sạn TravelBox	TravelBox dorm sweet dorm	21.0346972	105.8513194	hostel			Thao Phoebe	https://m.facebook.com/TRAVELBOXVN/
+node	5548258790	Khách Sạn Hanoi Central		21.0308044	105.8459023	hostel				
+node	5558193886	Thanh Son Noi Bai Airport Hotel		21.2152249	105.7810611	hotel				
+node	5579902324			21.0270133	105.8503468	hotel				
+node	5595716821	Khách Sạn Antique Angel		21.0357504	105.8475761	hotel				
+node	5601071834	Khách Sạn CucKu		21.0510661	105.8447043	hotel				
+node	5603834621	Ubytování hanoi		21.0408460	105.8199832	hostel				
+node	5610559110	Nhà Khách Dream Backpacker		21.0353698	105.8478291	hostel				
+node	5647614722	The First Pub & Hostel		21.0304001	105.8486990	hostel				
+node	5689369738	Little Charm		21.0340354	105.8492262	hostel				
+node	5712600182	Khách Sạn Centre Point Hà Nội		21.0314469	105.8504580	hotel				https://www.centrepointhanoihotel.com/
+node	5713788598	The Artisan Lakeview Hotel		21.0314959	105.8505427	hotel				
+node	5729394303	Khách Sạn Hanoi Stella		21.0320281	105.8555718	hotel				
+node	5734019421	Khách Sạn Backpackers Downtown		21.0360970	105.8532381	hostel				https://www.vietnambackpackerhostels.com/
+node	5745711121	Khách Sạn & Căn Hộ Lyn Luxury		21.0607878	105.8193781	hotel				
+node	5751898322	Khách Sạn Babylon Garden Inn		21.0370800	105.8509872	hostel				
+node	5762649353	Khách Sạn Dinh		21.0231777	105.8531269	hotel				
+node	5773128953		golden sun	21.0300850	105.8498880	hotel				
+node	5778191360		Golden Moon Suite Hotel	21.0320854	105.8482032	hotel				
+node	5782158555	Khách Sạn 7 Fridays Westlake		21.0623479	105.8288443	hotel				
+node	5802924853	Khách Sạn Hanoi Gratitude		21.0298151	105.8461839	hotel				
+node	5831753286	Khách Sạn Koka		21.0351659	105.8534747	hostel				
+node	5863648892	Khách Sạn Hanoi Friendly House		21.0686025	105.8077767	hotel				http://www.exoland-travel.com
+node	5872666589	QUTANG HANOI DREAM HOMESTAY		21.0313498	105.8439540	hostel				
+node	5885354566	Hanoi Hotel Royal		21.0347188	105.8539766	hotel				
+node	5898266185	Nhà Khách H&H		21.0367650	105.8478292	hostel				
+node	5899591785	Khách Sạn D'annam		21.0332291	105.8502009	hostel				
+node	5905618085	Tony house hostel		21.0672179	105.8115302	hostel				
+node	5910676086		Hanoi backpackersuite hostel	21.0347904	105.8455126	hostel				
+node	5922228685	Hanoi Buddy		21.0339687	105.8486278	hotel				
+node	5942206187	Nhà ông bà Viễn		20.9930611	105.7927198	hostel				
+node	5942230793	Nhà a Thận HN		21.0250694	105.7965584	hostel				
+node	6015847285		HD house	21.2183128	105.7825183	hotel				
+node	6026828495	May Flower		21.0370283	105.8480140	hotel	3			
+node	6052696094		Hanoi Prime Center Hotel	21.0353950	105.8455078	hotel				
+node	6052883188	@HOME		21.0365304	105.8283403	hotel		@HOME		
+node	6065336685		The Tent B&B Hanoi Opera	21.0224176	105.8590972	hotel				
+node	6065635287	Khách Sạn Chân Cầm		21.0302872	105.8484761	hotel				
+node	6082646385	Joye Hotel		21.0347504	105.8518391	hotel			"hai lan Co,.ltd"	
+node	6094307685	Shendo’s Penthouse	Shendo’s Hometel	21.0293399	105.8378576	hostel			Nguyen Thi Thu Le	
+node	6104782098	Hanoi Little Town		21.0370945	105.8485393	hotel				https://www.hanoilittletown.com/
+node	6151703587		Mimi Homestay	21.0230844	105.8474052	hotel				
+node	6170852485	Phòng khép kín	APARTMENT- GUEST HOUSE	21.0228490	105.8613124	hostel			Private	
+node	6220816275	Khách Sạn Backy		21.0336279	105.8550515	hostel				www.phostelvietnam.com
+node	6229701186		AZ Hanoi Hostel	21.0336692	105.8473126	hostel				http://azhostel.com
+node	6260985085	Khách Sạn Mỹ Vân		21.0179262	105.8544434	hotel				https://myhotel.net.vn/
+node	6261853685		Hanoi Golden Moon Guesthouse & Travel (ATTENTION THIEFS)	21.0344718	105.8465951	hostel				
+node	6283080285	Khách Sạn Hằng My		21.0324960	105.8492523	hotel				
+node	6292679285	Khách Sạn Green House		21.0216680	105.8622819	hostel				
+node	6313704085		Hang bac backpacker hostel	21.0340048	105.8513944	hotel				
+node	6320954686	Khách Sạn Hanoi Lavender		21.0285285	105.8436510	hotel				
+node	6326577290		Legia’s Hostel	21.0212159	105.8567074	hostel				
+node	6337134386	Khách Sạn Kalon		21.0115753	105.8588794	hotel				
+node	6354051486	Khách Sạn Lemon		21.0419661	105.8437014	hotel				
+node	6361078787	Khách Sạn Boss Legend		21.0322493	105.8548553	hotel				
+node	6363620555	Serenity Villa		21.0299970	105.8483610	hotel	3			
+node	6403211385	Khách Sạn Banana Inn		21.0349556	105.8508710	hostel				
+node	6403391500	Khách Sạn Conifer Grand		21.0289149	105.8482786	hotel				
+node	6419638685			21.0048061	105.8066122	hotel				
+node	6431958485	Queen Hotel		21.0294309	105.8484873	hotel				
+node	6440095786		A Letter Home	21.0470486	105.8451953	hotel				
+node	6448940988		Hang Bac Backpackers Hostel (real location)	21.0338113	105.8514867	hostel				
+node	6474264590	Khách Sạn Hanoi High Five		21.0335662	105.8547989	hostel				
+node	6503512985	22land Residence Hotel		21.0303106	105.8473701	hotel				
+node	6558883028	OYO 210 Saki Hotel		21.0329883	105.7875764	hotel		OYO		
+node	6602474039	Khách Sạn HC Old Quarter View House		21.0285134	105.8481091	hotel				
+node	6602474634	Khách Sạn Halley		21.0325766	105.8503083	hostel				
+node	6645043509	Khách Sạn Dragon		21.0351480	105.7714799	hotel				
+node	6645043510	Khách Sạn Hoàng Anh		21.0357833	105.7716425	hotel				
+node	6661487936	Khách Sạn A25		21.0400754	105.8448084	hotel				
+node	6662719076		Hanoi Train Station Hostel	21.0231678	105.8435190	hostel				
+node	6667986238	Khách Sạn A25		21.0512205	105.8411459	hotel				
+node	6670224364	Khách Sạn Adamas Hanoi		21.0421740	105.8456896	hotel				
+node	6670313706	Khách Sạn Hải Nam		21.0419654	105.8468758	hotel				
+node	6670313710	Thang Long Espana Hotel		21.0422934	105.8451417	hotel				
+node	6685245981	SkyLark Hotel		21.0399953	105.8452644	hotel				http://www.skylarkhotel.com.vn
+node	6696440785	Khách Sạn & Căn Hộ Newstyle		21.0111646	105.8083433	hotel				
+node	6732510285	Khách Sạn Hestia Legend		21.0414530	105.8449333	hotel				
+node	6742138874	Tam hotel		21.0453769	105.8412648	hotel				
+node	6742138879	Khách Sạn A25		21.0456555	105.8420458	hotel				
+node	6742139185	Khách Sạn Bảo Sơn Gold		21.0460589	105.8421231	hotel				
+node	6751775088	Nhà Khách Happy Feet		21.0353391	105.8523831	hostel				
+node	6815226585		burrow	21.0323561	105.8488498	hotel				
+node	6815422385		burrow	21.0325340	105.8488690	hotel				
+node	6818210325	Lotte Hotel Hanoi		21.0321679	105.8124934	hotel	5	Lotte Hotels & Resorts		https://www.lottehotel.com/hanoi-hotel/en.html
+node	6818682285		zostay hostel	21.0344659	105.8547224	hotel				
+node	6836082185		burrow	21.0327964	105.8487175	hostel				
+node	6856374385		Hanoi Old town guest palace	21.0314154	105.8480094	hostel				
+node	6884103544	Sunway Hanoi		21.0162522	105.8571655	hotel				
+node	6885394612	Khách Sạn Âu Cơ Art Classic		21.0295393	105.8481716	hotel				http://www.aucoartclassichotel.com/
+node	6957677996	Khách Sạn An Phú 1		21.0299774	105.7750391	hotel				
+node	6957677997	Khách Sạn An Phú 2		21.0301758	105.7753454	hotel				
+node	6957687286	Khách Sạn La Maison D'orient	Maison d'Orient	21.0298354	105.8485193	hotel				
+node	6957697085	Khách Sạn An Phú 3		21.0291122	105.7755266	hotel				
+node	7042362985	Khách Sạn & Spa Acoustic	Acoustic Hotel & Spa	21.0276503	105.8446362	hotel				
+node	7043634685			21.0355630	105.8477231	hotel				
+node	7055939854	Nhà nghỉ Huyền Trang		21.0348971	105.7895133	hostel				
+node	7057418786		Hola Homestay	21.0430457	105.8492155	hostel				
+node	7113679185		Iris Legend Hotel	21.0294104	105.8483412	hotel				
+node	7116908885		Hanoi Luxury House and Travel Hotel	21.0397150	105.8490243	hotel				
+node	7158887785		La Hause	21.0018844	105.8529176	hotel				
+node	7162699508	Khách Sạn & Spa Alise		21.0304675	105.8564879	hotel				
+node	7162705032	Khách Sạn Prince II		21.0348148	105.8511981	hotel				
+node	7162723700	Khách Sạn Buffalo	Buffalo Hostel	21.0347401	105.8512850	hostel				
+node	7162736840	Khách Sạn Light		21.0197709	105.8622336	hotel				
+node	7162740368	The Q Boutique		21.0346916	105.8542148	hotel				
+node	7162747201	Khách Sạn Á Đông		21.0348414	105.8515157	hotel				
+node	7162751291	Khách Sạn A25		21.0347222	105.8514189	hotel				
+node	7162752619	Parkside Sunline Hotel		21.0083920	105.8472847	hotel				
+node	7162755065	Khách Sạn Hanoi Elpis		21.0318801	105.8556062	hotel				
+node	7162770672	340-342 Trần Khát Chân		21.0093405	105.8582953	hotel				
+node	7176398082	Khách Sạn Lucky 3		21.0300647	105.8469646	hotel				
+node	7176456240	Khách Sạn Lucky		21.0311450	105.8491386	hotel				
+node	7176459836	Khách Sạn Church Boutique		21.0315287	105.8496467	hotel				
+node	7176600661	Khách Sạn Lavender Old Quarter		21.0352883	105.8459120	hotel				
+node	7176682312	Khách Sạn La Cascada House		21.0395688	105.8494053	hotel				
+node	7176893522	Silk Queen Hotel		21.0315778	105.8493740	hotel				
+node	7178800460	Tabalo Hostel		21.0359005	105.8496943	hostel				
+node	7189869615	Smile Homestay & Hostel		21.0294343	105.8482727	hostel				
+node	7189874896	Khách Sạn Charming		21.0332502	105.8479433	hotel				
+node	7202784584	Khách Sạn Cozy		21.0388162	105.8463983	hotel				
+node	7216005385	RedDoorz @ Tong Duy Tan		21.0292875	105.8436695	hostel				
+node	7252867388		Starry9 Hostel - The Culture Lab	21.0293870	105.8437600	hostel				
+node	7611149785		SAO hostel	21.0132814	105.8190772	hostel				
+node	8347333308	"nhom6,T01-29,nhà trọ"		21.0773057	105.7741765	hostel				
+node	8347367203	"nhom6,T01-28, nhà trọ"		21.0773152	105.7743502	hostel				
+node	8347370592	"nhom6,T01-18, nhà trọ"		21.0770022	105.7733783	hostel				
+node	8347373736	"nhom6,T01-30, nhà trọ"		21.0772500	105.7740262	hostel				
+node	8348016046			21.0824819	105.7783900	hostel				
+node	8360860813			21.0805412	105.7781199	hostel				
+node	8360865726			21.0811806	105.7780116	hostel				
+node	8360887104			21.0806638	105.7781360	hostel				
+node	8360898181			21.0814619	105.7782892	hostel				
+node	8906131846	Khách Sạn Hana		21.0362810	105.8082493	hotel				
+node	9237323778	Khu Nhà Ở Bộ Quốc Phòng		21.0319495	105.8922913	hostel				
+node	9584549986	Khách Sạn New Sky Airport		21.2148821	105.7813644	hotel				https://newskyairporthotel.com/
+node	9584753988	Khách Sạn Anatole Hà Nội		21.0281503	105.8497388	hotel				
+node	9584753989	Khách Sạn Solaria Hà Nội		21.0301863	105.8504246	hotel				
+node	9585059112	Khách Sạn - Căn Hộ Bảo Hùng		21.0334194	105.7880569	hotel				
+node	9586984258	Khách sạn La Siesta Premium		21.0331348	105.8539771	hotel				
+node	9671606210	Khách Sạn Hoa Dương		21.0338425	105.8552115	hotel				
+node	9671646477	Charming Moon Hotel		21.0332723	105.8518686	hotel				
+node	9711463817		Hanoi Media Hotel & Spa	21.0318307	105.8540486	hotel				
+node	9738428517	Khu tập thể 23B Hàng Tre	23B Hang Tre Street Dormitory	21.0321451	105.8556616	hostel				
+node	9805222043	Le Jardin Hotel & Spa		21.0430496	105.8438519	hotel				
+node	9823699117	Peridot Grand Luxury Boutique Hotel		21.0330476	105.8462971	hotel				
+node	9857562788	Somerset Hoa Binh Hanoi		21.0465195	105.7950819	hotel	4			
+node	9931528178	GM Premium Hotel		21.0307612	105.8481999	hotel		GM Hospitality Group		https://gmpremiumhotel.com
+node	9931530122	Hai Bay		21.0308515	105.8485437	hotel				https://haibayhotel.com
+node	9931531021			21.0795675	105.8187938	hotel				
+node	9931536430	Anova Hotel		21.2045086	105.8296141	hotel				
+node	9931536922	Mina Hotel & Spa		21.0361526	105.8517615	hotel				
+node	9980248117	Khách sạn Grand Plaza Hanoi	Grand Plaza Hanoi Hotel	21.0074185	105.7968704	hotel	5			https://grandplazahanoi.com/
+node	10028210817	Hotel Hoàng Thắng		20.9858290	105.8840380	hotel				
+node	10044381091	Aira Boutique Hotel		21.0306236	105.8418157	hotel	3			
+node	10069701117		22Land Residence Hotel	21.0309521	105.8493198	hotel				
+node	10091245619			21.2168229	105.7811348	hotel				
+node	10129254617	Bendecir Hotel & Spa		21.0312405	105.8555918	hotel				
+node	10148901417		28 Oldtown Backpackers Hostel	21.0367389	105.8516347	hostel				
+node	10184990517	Western Skyline Hotel		21.0035223	105.7804708	hotel				
+node	10185041317	The Noble Swan Hotel & Spa		21.0302329	105.8479992	hotel				
+node	10214059316	Nhà trọ 68		21.0810981	105.7722487	hostel				
+node	10214061247	Nhà trọ Nam Anh		21.0806239	105.7722737	hostel				
+node	10239936609		Gallant Hotel	21.0140699	105.8642173	hotel				
+node	10246318510	Paragon		21.2189594	105.7830978	hotel				
+node	10251810712		Hanoi Lotus hôtel	21.0344833	105.8474409	hotel				
+node	10261461409		Golden Sun Hotel Trendy	21.0311589	105.8500711	hotel				https://www.goldensunhoteltrendy.com/
+node	10284320409	Khách sạn Lieber		20.9699561	105.7854278	hotel				
+node	10292189433	Hanoi Aria Central Hotel & Spa		21.0268455	105.8416146	hotel				https://hanoiariacentralhotel.com/
+node	10299976921	Feliz hostel		21.0338255	105.8527109	hostel				
+node	10572313210		La sinfonia majesty hotel spa	21.0321322	105.8538075	hotel				
+node	10577066041	Top Floor Hostel		21.0277295	105.8451111	hostel				https://www.airbnb.com/rooms/788814985434360928
+node	10601668708	Nhà Phố Hà Nội 437 Hồng Hà Sinsoledad		21.0364800	105.8542595	hotel				https://www.facebook.com/profile.php?id=100008393852508
+node	10678548054	The Bloom		21.0329620	105.7874104	hotel				
+node	10683479305		Gia Thinh Hotel	21.0334999	105.8534863	hotel				
+node	10715945005	Drift Backpackers Hostel	Drift Backpackers Hostel	21.0288070	105.8485993	hostel				https://driftbackpackershostel.com/
+node	10727223012	Le Jardin Haute Courture		21.0431314	105.8433319	hotel				
+node	10728833552	Madelise Palace Hotel		21.0355170	105.8504510	hotel				
+node	10728892690	Trang Trang Hotel		21.0325862	105.8530341	hotel				
+node	10728896842	Tryst Apartment Hotel		21.0425731	105.8445670	hotel				
+node	10728900395	Re Hostel		21.0334942	105.8525800	hostel				
+node	10728916547	San Grand Hotel		21.0327824	105.8529466	hotel				
+node	10728923839	Garden Golf		21.0421931	105.8429991	hotel				
+node	10728944112	Hotel 64		21.0433828	105.8429850	hotel				
+node	10728948081	Aviary Hanoi Hotel		21.0334289	105.8523436	hotel				
+node	10778918205		Aquamarine Hotel & Travel	21.0327423	105.8504093	hotel				
+node	10786405193	Hanowood Homestay		21.0210019	105.8468208	hostel				
+node	10815708690			21.0414498	105.8282915	hotel				
+node	10872860005		Hanoi High Five hostel	21.0334204	105.8548044	hotel				
+node	10899908665	Holiday Suites Hotel&Spa		21.0367433	105.8523734	hotel				https://www.hotels.com/ho390409/hanoi-holiday-diamond-hotel-hanoi-vietnam/
+node	11002188606			21.0323207	105.8547447	hotel				
+node	11009488105	Suddha Boutique Hotel		21.0296316	105.8489580	hotel				
+node	11047767705		Hanoi Center Silk Classic Hotel & Travel	21.0346438	105.8474933	hotel				
+node	11049145305		The One Hostel	21.0366717	105.8474221	hostel				https://onehostels.com/
+node	11061842092	Beryl Signature Hotel and Travel		21.0288522	105.8462316	hotel				
+node	11061850414	Golden Legend Diamond Hotel		21.0302537	105.8481420	hotel				
+node	11085187215	L7 Hotels by Lotte West Lake Hanoi		21.0748062	105.8123756	hotel		Lotte Hotels & Resorts	Lotte Hotels & Resorts	https://www.lottehotel.com/westlakehanoi-l7/en.html
+node	11223334137			21.0318432	105.8490159	hotel				
+node	11270646569		Shining Central Hotel	21.0314862	105.8552357	hotel				https://shiningcentralhotel.com
+node	11282667569		delica hôtel	21.0325541	105.8491611	hotel				
+node	11464509469			21.0344128	105.8469619	hotel				
+node	11492061469	Golden Silk Hotel		21.0314609	105.8493899	hotel				
+node	11521920515	Azumaya Linh Lang		21.0364602	105.8104645	hotel				
+node	11521920524			21.0349689	105.8146973	hotel				
+node	11541845669		MOTOGO	21.2199586	105.7819887	hostel				https://motogohostel.com/
+node	11542261269		Hanvet Boutique Hotel	21.0293411	105.8483228	hotel				http://hanoihanvethotel.com
+node	11563431192	Nhà nghỉ Minh Vũ		21.0453466	105.7845821	hostel				
+node	11563448505	Nhà nghỉ Thủy Tiên		21.0457341	105.7844441	hostel				
+node	11564316621	Nhà nghỉ Sao Mai		21.0450362	105.7846101	hostel				
+node	11564435579	Nhà nghỉ Hạ Vy 2		21.0447268	105.7855260	hostel				
+node	11564608174	Nhà nghỉ Nhuệ Giang		21.0446009	105.7857891	hostel				
+node	11564724762	Nhà nghỉ Đại Dương		21.0444944	105.7861678	hostel				
+node	11564724763	Nhà nghỉ Đình Phùng		21.0443369	105.7859323	hostel				
+node	11568544194	Nhà nghỉ Hải Yến		21.0443874	105.7846306	hostel				
+node	11573034197	Nhà nghỉ Hoa Hồng		21.0424022	105.7872974	hostel				
+node	11573034200	NNT Hotel		21.0422792	105.7869705	hotel				
+node	11573034202	Hotel An Hưng		21.0441975	105.7861397	hotel				
+node	11573034203	Nhà nghỉ Sơn Thuỷ		21.0441967	105.7860589	hostel				
+node	11573034206	HANA Stay		21.0427389	105.7870023	hotel				
+node	11586911187	Nhà nghỉ Minh Hà		21.0434583	105.7860567	hostel				
+node	11586911188	Nhà nghỉ Quang Vinh		21.0434049	105.7860048	hostel				
+node	11586915420	Nhà nghỉ Hạ Vy		21.0455221	105.7846706	hostel				
+node	11586915427	Minh Long Hotel		21.0449513	105.7860471	hostel				
+node	11586915428	Nhà nghỉ Hoa Quỳnh		21.0456828	105.7858379	hostel				
+node	11586961131	Mai Villa		21.0424110	105.7865747	hostel				
+node	11586987538	Nhà nghỉ Mai Xuân		21.0450759	105.7835132	hostel				
+node	11596710470		Perfect Hotel	20.9756951	105.7807645	hotel				
+node	11617825369	Au Coeur d'Hanoi Hotel		21.0323850	105.8537954	hotel				
+node	11625397938	Ngọc Linh Hotel		21.0141617	105.8503075	hotel				
+node	11626792971	ZEDD HOTEL HA NOI		21.0104971	105.7976913	hotel				
+node	11626792972	Khách sạn Seoul		21.0095995	105.7958703	hotel				
+node	11651495673	NT Elysian Hotel		21.0371792	105.8518554	hotel				
+node	11652508537	Amira Hotel		21.0364617	105.8507594	hotel				
+node	11655425918	The Comb Hostel	The Comb Hanoi Hostel	21.0380213	105.8478468	hostel				
+node	11659474554	The Castle Hotel		21.0408740	105.8690893	hotel				
+node	11659487761	Cristina Center Hotel		21.0369629	105.8523607	hotel				
+node	11662355242	Esalen Hotel		21.0354774	105.7861144	hotel				
+node	11662381213	Thuỳ Ngư Hotel		21.0351680	105.7855773	hotel				
+node	11662704844	Toa Nha Allure		21.0353492	105.8529411	hotel				
+node	11670991360	Kingdom Hotel		21.0350202	105.8530150	hotel				
+node	11671689931	Khach San	May de Ville Legend Hotel	21.0364933	105.8516265	hotel				
+node	11671713724	Hanoi Boutique Hotel		21.0362491	105.8504830	hotel				
+node	11671719716	Classy Boutique Hotel		21.0360741	105.8487942	hotel				
+node	11671720191	Amira Hotel Hanoi		21.0363065	105.8507373	hotel				
+node	11671721836	Carillon Boutique Hotel		21.0359308	105.8477681	hotel				
+node	11671746794	Vacanza Premier Hotel		21.0353571	105.8481543	hotel				
+node	11671756132	Sol Flora		21.0354901	105.8479426	hotel				
+node	11671832253	Golden Sail Hotel		21.0357668	105.8515879	hotel				
+node	11671847841	Classy Holiday Hotel		21.0352693	105.8488745	hotel				
+node	11672512300	Golden Rooster Hotel		21.0359648	105.8471292	hotel				
+node	11675039169		20 Hotel & Appartment	21.0345820	105.8292804	hotel				https://20hotel.vn/
+node	11683982776	Khách sạn An	An Hotel	21.0396246	105.8477139	hotel				
+node	11683982778	Hà Nội Posh Boutique	Hanoi Posh Boutique Hotel	21.0398034	105.8477526	hotel				https://hanoiposhboutiquehotel.com/
+node	11830292769		FTE Ba Dinh Hotel	21.0387239	105.8072450	hotel				https://ftehanoihotel.com/
+node	11843072470	Royal Palace Hotel		21.0299524	105.8466987	hotel				
+node	11843395974		Grandiose Hotel & Spa	21.0351581	105.8146465	hotel				http://grandiosehotels.com
+node	11878359669	Amara	Amara Hanoi Hotel	21.0329655	105.8498347	hotel			Beryl Hanoi Hotel Group	https://amarahanoihotel.com
+node	11929979969	Libré Homestay Đào Tấn		21.0342202	105.8057862	hotel				
+node	12014368969			21.0339833	105.8512956	hostel				
+node	12066544200	Scent Premium		21.0313517	105.8503184	hotel				
+node	12089281969	Golden Sail Hotel & Spa		21.0357637	105.8515223	hotel				
+node	12109756801	Minasi premium Hotel		21.0421882	105.8455857	hotel				
+node	12167178301	Lakeside House 2		21.0358146	105.8278108	hotel				
+node	12196276101	A25 Hotel - 23 Quan Thanh		21.0412233	105.8444571	hotel				
+node	12215413704	"Amazing stay- homestay, city view, near center Hanoi, NK Cau Giay"	"Amazing stay- homestay, city view, near center Hanoi, NK Cau Giay"	21.0190151	105.8012974	hotel				
+node	12215653101	Era Apartment Nguyễn Khánh Toàn		21.0391221	105.8011718	hotel				https://www.booking.com/Share-zI9RBL
+node	12218907906	Romantique de Hanoi Hôtel		21.0347201	105.8475343	hotel				
+node	12273016220	Blue Home Homestay		21.0362031	105.7991975	hotel				
+node	12277048825	InterContinental Hanoi Landmark72		21.0169899	105.7836904	hotel	5	InterContinental		https://landmark72.intercontinental.com/
+node	12293358790	Era Apartment Khuc Thua Du		21.0340693	105.7930895	hotel				
+node	12364658199	Chios Hotel		21.2152600	105.7802923	hotel				
+node	12364692457	Vinh Son Noi Bai Hotel		21.2154114	105.7806681	hotel				
+node	12364700787	Kawasaki Hotel		21.2161425	105.7807798	hotel				
+node	12364703923	Duc Hieu Hotel		21.2155089	105.7804720	hotel				
+node	12364705317	Indochina Airport Hotel		21.2150309	105.7806597	hotel				
+node	12364716622	Khach San Bao Long Hotel		21.2153875	105.7805498	hotel				
+node	12364734891	The King Hotel		21.2139844	105.7821205	hotel				
+node	12378781668	NB Hostel		21.0629684	105.8276932	hostel				
+node	12378781669	Euphoria Hotel / Label6 Studio		21.0631866	105.8275990	hotel				
+node	12407023001	Silk Hanoi Moment Hotel & Spa		21.0317882	105.8483705	hotel				
+node	12420688803	Airport Classic Hotel		21.2048187	105.8292477	hotel				http://airportclassichotel.com
+node	12420688804	22Land Residence Hotel 2		21.0458397	105.8049916	hotel				https://22landresidence.com/
+node	12420714001	22Housing Moon Westlake Residence		21.0527053	105.8124844	hotel				https://22housing.com/
+node	12420718801	DE LA SOIE Hotel & Travel		21.0323531	105.8514105	hotel				
+node	12434838541		Thanh Huong 99	21.2183250	105.7818931	hotel				
+node	12434838560	Anh Duong Hotel		21.2182876	105.7824734	hotel				
+node	12461035801	My House Hotel		21.0094118	105.8581140	hotel				
+node	12496022959	Atlantis Motel & Apartment		21.0300999	105.8369980	hotel				
+node	12512384501	Singita Classy Boutique Hotel & Travel		21.0326087	105.8463273	hotel				
+node	12529008901	Hanoi Capsule Station		21.0389702	105.8513162	hostel				
+node	12560551902	Hanoi EcoStay 2		21.0353470	105.8525470	hostel				
+node	12644777401	Hong Ngoc Dynastie Hotel & Spa		21.0315321	105.8483464	hotel				https://hongngochotels.com/dynastie
+node	12680899336	Lushstay		21.0233166	105.8433082	hotel				
+node	12706572680	Royal Hotel		21.0522035	105.8390415	hotel				
+node	12768212202	AMI Old Quarter hotel		21.0324091	105.8487216	hotel				
+node	12809567001		Hanoi Old town guest palace	21.0313574	105.8474956	hotel				
+node	12809605201		Sonata Premier Hotel & Spa	21.0336825	105.8472950	hotel				
+node	12850301901	Golden Art Hotel		21.0350169	105.8476197	hotel				
+node	12877143123	Nesta - The Grand Haonam		21.0239821	105.8262223	hotel				
+node	12901622201	Sen Grand Hotel & Spa		21.0394455	105.8024641	hotel				
+node	12972950401	Rebel Rooster Hostel Hanoi		21.0295960	105.8440677	hostel				https://rebelroosterhostel.com/
+node	13033490183	Hotel Old Quarter 1961		21.0304911	105.8559205	hotel				
+node	13033490184	Madelise Hanoi View Hotel		21.0276700	105.8393626	hotel				
+node	13039615003	Dream Premium Hotel & Spa		21.0278110	105.8420516	hotel				
+node	13063799865	Lhana		21.0273418	105.8398980	hotel				
+node	13068195727	Amber Hotel		21.0353378	105.8524268	hotel				https://hanoiamberhotel.com/
+node	13070151888	Hanoi Amber Hotel		21.0353134	105.8522786	hotel				https://hanoiamberhotel.com/
+node	13073739902	Eliana Premio Hotel		21.0298343	105.8463000	hotel				
+node	13088011801			21.0356103	105.8507001	hotel				
+node	13186286001		Hanoi EcoStay 1	21.0349885	105.8511664	hostel				
+node	13191821401	Huong’s Family Homestay		21.0316117	105.8444998	hostel				https://huongs-family-homestay.hanoi-hotels.org/en/
+node	13286864016	May De Ville Crown Hotel		21.0347367	105.8526837	hotel				
+node	13293932001			21.0376120	105.8459807	hotel				
+node	13293932003			21.0320627	105.8476362	hotel				
+node	13293932101			21.0320070	105.8476244	hotel				
+node	13293932301			21.0321298	105.8476373	hotel				
+node	13294043101			21.0320704	105.8478310	hotel				
+node	13340146538	Sword Lake Hotel and Spa		21.0327552	105.8500609	hotel				
+node	13340704391	Hoang Gia Motel		21.0035790	105.7796583	hotel				
+node	13369025401	Maison Maravelle		21.0302006	105.8504973	hotel				
+node	13379888759	Sảnh Chính - Khách Sạn Kim Liên		21.0078434	105.8387968	hotel				
+node	13390877668	Elirina		21.0280695	105.8373212	hotel				
+node	13390915699	Ancient Lane		21.0317484	105.8476001	hotel				
+node	13390932634	Hôtel du Palace		21.0307328	105.8481585	hotel				
+node	13441716201		"Tropical Heights House, Maison Nha"	21.0469568	105.8413207	hotel				https://maps.app.goo.gl/Tz9dXK4siZJ99mbD6
+node	13459713501	Cocoon Old Quater Hotel		21.0360943	105.8524499	hotel				
+node	13475498201	Solo hostel Hanoi		21.0356133	105.8534222	hostel				
+node	13495355401	Proverb Hotel Hanoi		21.0350169	105.8475137	hotel				https://proverbhotel.com/
+node	13528963801	Hanoi Chic Boutique Hotel		21.0342443	105.8473800	hotel				https://www.chicboutiquehotelhanoi.com/
+node	13531432204	Hanoi Graceful Hotel		21.0342718	105.8477229	hotel				
+node	13531432208	Queen Light Hotel		21.0342613	105.8478042	hotel				
+node	13536421742	D'Lux Hotel		21.0494166	105.8654986	hotel				https://dluxhotel.com/
+node	13592363501	wanderlust station		21.0433162	105.8430930	hostel				
+node	13597583902	Ba Dinh Le rêveur Homestay		21.0376835	105.8309681	hotel				
+node	13605453103			21.0123058	105.8470248	hostel				
+node	13605535301	A25		21.0324502	105.8480244	hotel				
+node	13608772201	Dreamer hostel		21.0330742	105.8441569	hostel				
+node	13608967001	Hanoi railway capsule		21.0330388	105.8440521	hostel				
+node	13631246204			21.0483040	105.8781737	hotel				
+node	13632874408	Anova 2 hotel		21.2047678	105.8300054	hotel				
+node	13634381904	Coco Hotel Hanoi		21.0146706	105.8044349	hotel				
+node	13640062502	Hướng Dương Apartments		21.0187978	105.8000884	hotel				
+node	13641170901	Minasi HanoiOi Lakeside Hotel		21.0242693	105.8509827	hotel				https://minasihotels.com/hotel/hanoioi-hotel-in-hanoi/
+node	13646102302	Airport classic hotel 2		21.2055075	105.8297978	hotel				
+node	13684815109	Love Vietnam		21.0335020	105.8512710	hostel				
+node	13686189401	Van Anh Hotel		21.2183459	105.7822468	hotel				
+node	13744629501	A25 Hotel - 88 Nguyễn Khuyến		21.0282507	105.8391712	hotel				https://a25hotel.com/khach-san-tai-phuong-van-mieu-quoc-tu-giam/a25-hotel-88-nguyen-khuyen-p1074.html
+node	13747116301	The Q Hotel		21.0427087	105.8444000	hotel				https://theqhotel.com.vn
+node	13751833601	Hanoi Grandeur Hotel & Spa		21.0406444	105.8476069	hotel				
+node	13821030101	Oriana Restaurant		21.0314531	105.8547921	hotel				
+node	13895710221	Hanoi Wanderlust Hostel & Travel		21.0306935	105.8480399	hostel				https://wanderlusthostels.com/
+node	13948051801	Hanoi Central Pod Hostel		21.0341804	105.8538557	hostel				
+node	13954845101	NINE HOUSING		21.0343773	105.8069741	hotel				
+node	13960092080	L'heritage Hotel & Restaurant		21.0353434	105.8471656	hotel				
+node	14054774704	Keypad		21.0361697	105.8487664	hotel				
+node	14085348003		Maya Central Hotel & Spa	21.0353410	105.8489984	hotel				
+node	14090981802	Hotel Emerald Waters Classy		21.0330730	105.8524768	hotel				
+node	14090987501	Hotel Emerald Waters Classy		21.0330730	105.8524768	hotel				
+node	14143620801	Maison Nhã		21.0566670	105.8207172	hotel				
+node	14213766401			20.9738267	105.8526056	hotel				
+node	14227299701	L'AMANT		21.0328594	105.8543524	hotel				
+node	14246964401		Hanoi Capital Premium Hotel	21.0285222	105.8481815	hotel				
+node	14262321053	L'Heritage Premium Hanoi Central		21.0386649	105.8459612	hotel				https://heritagehanoi.com/premium/home.html
+node	14269565201	May de ville		21.0359780	105.8517697	hotel				
+node	14277160801			21.0373776	105.8455890	hotel				
+node	14283209405	Hoang		21.0283635	105.8427364	hotel				
+way	37933051	Hilton Hanoi Opera		21.0232729	105.8578828	hotel	5	Hilton	Hilton	https://www.hilton.com/en/hotels/hanhitw-hilton-hanoi-opera/
+way	180082250	Capital Garden		21.0155445	105.8132142	hotel				
+way	196084599	Khách sạn Fraser Suites Hà Nội		21.0639793	105.8277697	hotel	5			https://www.frasershospitality.com/vi/vietnam/hanoi/fraser-suites-hanoi/
+way	199299464	Khách sạn Fortuna	Fortuna Hotel Hanoi	21.0214223	105.8177290	hotel				https://fortuna.vn/
+way	199299480	Khách sạn Lake Side		21.0276105	105.8180354	hotel				http://www.lakesidehotel.com.vn/
+way	200543135	Pullman Hanoi		21.0298599	105.8288524	hotel	5	Pullman		https://pullman-hanoi.com/
+way	222427943	Hotel de l'Opera Hanoi		21.0244864	105.8555817	hotel	5		Accor	https://hoteldelopera.com/
+way	231049358	The Hanoi Club Hotel & Residences		21.0520871	105.8368109	hotel	4			https://www.thehanoiclub.com/
+way	242518339	Spoon Hotel		21.0312362	105.8453186	hotel				http://www.spoonhotel.com/
+way	242518342	Rising Dragon Estate Hotel		21.0312489	105.8453537	hotel				http://risingdragonhotel.com
+way	243997500			21.0383908	105.8283775	hotel				
+way	258038371			21.0358525	105.8184498	hotel				
+way	321329256	InterContinental Hanoi Westlake	InterContinental Hanoi Westlake	21.0585025	105.8315803	hotel	5	InterContinental		http://hanoi.intercontinental.com/
+way	323367738	La Passion Classic Hotel	Mon Regency Hotel	21.0395742	105.8469553	hotel				https://www.monregencyhotel.com
+way	333582981	Elegant Suites Westlake		21.0620008	105.8247619	hotel		Elegant Suites		https://elegantsuites.com/westlake/home.htm
+way	406403953	Khách sạn JW Marriott Hà Nội	JW Marriott Hanoi Hotel	21.0074655	105.7828764	hotel		JW Marriott		
+way	451544215	Hilton Garden Inn Hanoi		21.0195610	105.8551143	hotel	4	Hilton Garden Inn	Hilton	https://www.hilton.com/en/hotels/hanopgi-hilton-garden-inn-hanoi
+way	479019014	Sheraton Hanoi Hotel	Sheraton Hanoi Hotel	21.0596530	105.8316418	hotel		Sheraton		https://www.marriott.com/en-us/hotels/hanhs-sheraton-hanoi-hotel/overview/
+way	487952969	Home Hotel		21.0551858	105.8356528	hotel		@HOME		
+way	533838197	Hyatt Regency West Hanoi		21.0275236	105.7671753	hotel		Hyatt Regency		
+way	570572149	Grand Vista Hanoi		21.0254441	105.8215388	hotel				
+way	570586943	Khách sạn Bảo Sơn		21.0244944	105.8103306	hotel				
+way	581439613	Hotel du Monde		21.0409243	105.8776646	hotel				
+way	593624717	Khách sạn Adonis	Adonis Hotel Hanoi	21.0179958	105.8476817	hotel	3			http://adonishotel.com.vn/
+way	642106059	Khách Sạn Rex Hanoi		21.0332140	105.8522115	hotel				
+way	643142345	Sofitel Legend Metropole Hà Nội		21.0255960	105.8559891	hotel	5	Sofitel		https://www.sofitel-legend-metropole-hanoi.com/vi/
+way	675775507	Flower Garden Hotel		21.0432559	105.8435765	hotel	3			https://www.flowergardenhotel.com.vn/en
+way	698018247	Army Hotel		21.0401404	105.8424375	hotel	4			http://armyhotel.com.vn/
+way	698018254	Royal Gate Hotel		21.0424691	105.8402973	hotel				
+way	698273203	Khách sạn Khăn Quàng Đỏ		21.0396198	105.8192396	hotel				
+way	699905188	Somerset West Lake Hà Nội		21.0440916	105.8184443	hotel				
+way	700654143	Chalcedony Hotel		21.0421697	105.8469164	hotel				
+way	700654144	Dong Anh Hotel		21.0421070	105.8473806	hotel				
+way	700654147	Moonview Hotel		21.0409497	105.8475812	hotel				
+way	700671947	Hong Ngoc		21.0427777	105.8441232	hotel				
+way	700671964	Thien Thai		21.0420341	105.8458148	hotel				
+way	700840710	MK Premier Boutique Hotel		21.0359624	105.8511175	hotel				
+way	701605966	Apricot Hotel		21.0281230	105.8507266	hotel				
+way	704134598	Mövenpick		21.0248118	105.8440751	hotel		Mövenpick		
+way	704147259	Conifer Boutique Hotel		21.0251691	105.8571853	hotel	4			
+way	704147367	Khách sạn Mường Thanh Grand Hà Nội		21.0233219	105.8476390	hotel				
+way	710176318	Khách sạn Cây Xoài	Mango Hotel	21.0250287	105.8412824	hotel	3			https://mangohotel.vn/
+way	711515189	Hanoi E Central Hotel		21.0314616	105.8553340	hotel				https://www.hanoiecentralhotel.com/
+way	813186627	Khách sạn Kim Liên		21.0075353	105.8387549	hotel				
+way	842628260	Meliá Hà Nội		21.0245454	105.8484140	hotel		Meliá		https://www.melia.com/vi/hotels/vietnam/hanoi/melia-hanoi/index.htm
+way	847053725	Khách Sạn Novotel Suites	Novotel Suites Hanoi	21.0303207	105.7853872	hotel		Novotel		
+way	849263196	Hotel du Parc Hanoi		21.0179144	105.8420625	hotel	5			https://hotelduparchanoi.com/
+way	849686739	Wyndham Garden Hanoi Hotel		20.9839283	105.7716872	hotel		Wyndham Garden		https://wyndhamgardenhanoi.com/
+way	850419282	Novotel Hanoi Thai Ha		21.0099361	105.8239529	hotel	5	Novotel		https://novotelhanoithaiha.com
+way	854938909	TQT Hotel		21.0212893	105.8433039	hotel				https://tqthotel.com
+way	854938911	Khách sạn Công đoàn Việt Nam	Trade Union Hotel	21.0207784	105.8441127	hotel				
+way	856872189	Khách sạn Mercure Hanoi La Gare		21.0262369	105.8417000	hotel	4	Mercure		
+way	863234974	Eden Hotel		21.0119877	105.8499499	hotel				
+way	874492976	Khách sạn Hà Nội		21.0275051	105.8215386	hotel				
+way	874492978	Dolce by Wyndham Hanoi Golden Lake		21.0295367	105.8210903	hotel	5		Wyndham	https://dolcehanoigoldenlake.com/
+way	891177225	Roygent Parks Hanoi		21.0020332	105.7934676	hotel		Roygent Parks		
+way	897564809	Nhà trọ		21.0851994	105.7716247	hostel				
+way	897569524	Nhà trọ		21.0809657	105.7723572	hostel				
+way	898227948	Nhà Trọ		21.0851461	105.7713978	hostel				
+way	898540592	Atlanta Residences		21.0161445	105.8579776	hotel	3			
+way	898540593	Sunway Hanoi		21.0160827	105.8571724	hotel				
+way	898540594	La Casa Hanoi Hotel		21.0162265	105.8572851	hotel				
+way	899520311			21.0682266	105.7781031	hostel				
+way	901157578	Nhà trọ		21.0850088	105.7716564	hostel				
+way	901160430	"H38, Nhóm 6"		21.0840355	105.7721534	hostel				
+way	905067707	Khách sạn Mường Thanh Grand Hà Nội	Muong Thanh Grand Hanoi Hotel	20.9694460	105.8269639	hotel		Mường Thanh Hospitality		https://grandhanoi.muongthanh.com/
+way	906098536	Hanoi Sky Hotel		20.9990146	105.8333308	hotel				
+way	927982492			21.0707620	105.7708586	hostel				
+way	977482378	ATS Hotel		21.0218698	105.8594504	hotel				
+way	1114709960	Dream Hotel and Apartment		21.0175360	105.8289544	hotel				
+way	1114998166	Khánh sạn Sao Mai	Sao Mai Boutique Hotel	21.0260231	105.8344451	hotel				
+way	1118112032	Bespoke Hotel		21.0289008	105.8450045	hotel				
+way	1133351590			20.9982927	105.9038603	hotel				
+way	1133351591			20.9983299	105.9032969	hotel				
+way	1133351598			20.9997239	105.9041651	hotel				
+way	1163446993	Nhà khách Bộ Quốc phòng		21.0442690	105.8163924	hotel				
+way	1166051668	Khu căn hộ dịch vụ PARKROYAL Hà Nội	PARKROYAL Serviced Suites Hanoi	21.0455837	105.8146043	hotel		PARKROYAL		
+way	1169249140	Nhà khách Bộ Quốc Phòng		21.0497051	105.8133614	hotel				
+way	1197730154	Grand Mercure Hanoi		21.0276735	105.8334543	hotel		Grand Mercure		https://www.grandmercurehanoi.com/
+way	1205265959	A25 Hotel & Spa		21.0005508	105.8710018	hotel	4			https://a25hotel.com/
+way	1210652053			20.9989692	105.9039434	hotel				
+way	1210652054			20.9972160	105.9030427	hotel				
+way	1211217613	Tru by Hilton Hanoi Station		21.0238575	105.8417223	hotel	4			https://www.hilton.com/en/hotels/handsru-tru-hanoi-station/
+way	1213238768	Khách Sạn Cầu Giấy		21.0325401	105.8003673	hotel				
+way	1213759508	Nhà khách Chùa Hà		21.0367166	105.7957792	hostel				
+way	1218064008	Saigon Sun Hotel		21.0171240	105.8316562	hotel				https://saigonsunhotel.com.vn/
+way	1233984096	Capella Hanoi		21.0257275	105.8568118	hotel	5	Capella Hotels & Resorts		https://capellahotels.com/en/capella-hanoi
+way	1234036435	Khách sạn Hồng Hà	Hong Ha Hotel	21.0276214	105.8580516	hotel	3			https://honghahotel.vn/
+way	1234095141	Golden Time Hostel		21.0282640	105.8558008	hostel				
+way	1235442375	Ohana Hotel		21.0124220	105.8506494	hotel				
+way	1235566729	Blue Hanoi Hotel		21.0129907	105.8508459	hotel			"H&H Management Co., LTD"	http://bluehanoihotel.com/
+way	1235776391	A25 Hotel		21.0131235	105.8508488	hotel	2			https://a25hotel.com
+way	1239043534	A25 Hotel		21.0150007	105.8495728	hotel	2			https://a25hotel.com/
+way	1246805133	Nesta Boutique Hotel Hanoi		21.0130732	105.8476354	hotel	3	Nesta Hotel		https://nestahotel.com.vn/en/hotel/nesta-boutique-hotel-hanoi-126
+way	1247039155	Khách sạn Hà Nội Daewoo	Hanoi Daewoo Hotel	21.0309521	105.8116136	hotel	5			https://www.daewoohotel.com/
+way	1247335555	My Linh Hotel		21.0157161	105.8496914	hotel	3			
+way	1249181218	Night Hotel		21.0157089	105.8500040	hotel	2.5			
+way	1249564977	Khách sạn Emerald Hà Nội	Emerald Hanoi Hotel	21.0165496	105.8501873	hotel	3			https://www.emeraldhotelhanoi.com/
+way	1249564981	Blau Hotel		21.0166489	105.8501915	hotel	3			
+way	1252904115	A25 Hotel		21.0179276	105.8475668	hotel	2			https://a25hotel.com/khach-san-tai-ha-noi/%20khach-san-a25-57-quang-trung-khach-san-quan-hai-ba-trung/1052
+way	1253517128	Khách sạn Midori Boutique Hanoi	Midori Boutique Hotel Hanoi	21.0164392	105.8505280	hotel	4			https://midoriboutiquehotel.vn/
+way	1275213498	Victoria Hotel		21.0036064	105.7798114	hotel				
+way	1287008824	King's Hotel Dịch Vọng		21.0305802	105.7925035	hotel				
+way	1305255009	Hyatt Centric Hanoi Centre		21.0308501	105.8313656	hotel		Hyatt Centric		https://www.hyatt.com/hyatt-centric/en-US/hanct-hyatt-centric-hanoi-centre
+way	1322868437	A&D Luxury Hotel		21.0152220	105.8004416	hotel				
+way	1322901900	MyHome Hotel		21.0151442	105.8017514	hotel				
+way	1322901903	King's Hotel Trung Yên		21.0152381	105.8016554	hotel				
+way	1323563776			21.0256758	105.8393122	hotel				
+way	1361726206	May De Ville Corner Hotel		21.0188249	105.8565087	hotel				https://maydevillecornerhotel.com/
+way	1370926541	De Syloia		21.0195487	105.8563475	hotel	2			https://www.desyloia.com/
+way	1370926542	The Lapis Hà Nội		21.0196613	105.8559497	hotel				
+way	1382551018	Fraser Residence Hà Nội		21.0669283	105.7886093	hotel				
+way	1395136949	Khách sạn Dusit Cung điện Từ Hoa	Dusit Le Palais Tu Hoa Hanoi	21.0765870	105.8201624	hotel				
+way	1450066149	Kecho Legacy Hotel		21.0334205	105.8529220	hotel				https://kecholegacyhotel.com/
+way	1457984453	Nhà khách 151 Lê Duẩn		21.0217077	105.8417582	hotel				
+way	1497495677	An Nguyen Building		21.0449179	105.8411366	hotel				
+way	1497610110	Pan Pacific Hanoi		21.0496450	105.8399510	hotel	5	Pan Pacific		https://www.panpacific.com/en/hotels-and-resorts/pp-hanoi.html
+way	1507463640	Khách sạn Bảo Ngọc Định công	Bao Ngoc Hotel Dinh Cong	20.9861796	105.8319838	hotel				
+way	1534620610	Khách sạn Thể Thao		21.0014354	105.8029166	hotel				
+way	1536248871	Elegant Suites Central		21.0209226	105.8474410	hotel				
+way	1561939734			21.0631621	105.8276659	hotel				
+relation	11771976	Khách sạn Thắng Lợi		21.0558491	105.8329430	hotel				https://thangloihotel.brghospitality.vn/
+relation	16827239	Khách sạn Hoà Bình		21.0220747	105.8536964	hotel				
+relation	21390457	La Sinfonía del Rey Hotel & Spa		21.0311547	105.8541135	hotel				https://www.lasinfoniadelreyhotel.com/
+relation	21422149	Trung tâm Hội nghị 37 Hùng Vương		21.0329815	105.8354518	hotel			Văn phòng Chính phủ	https://nhakhachchinhphu.com/

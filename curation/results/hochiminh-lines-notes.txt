@@ -1,0 +1,7 @@
+  attempt 1 failed (https://maps.mail.ru/osm/tools/overpass/api/interpreter answered 504: <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:), retrying
+1 lines, 14 stations
+  check: Line 2: fewer than 2 named stops (under construction?), skipped; OSM relation r17504372
+  check: Bến Thành - Tham Lương: fewer than 2 named stops (under construction?), skipped; OSM relation r21239293

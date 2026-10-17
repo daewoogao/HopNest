@@ -1,0 +1,133 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	526720285	DoubleTree by Hilton North Vancouver		49.3129695	-123.0264757	hotel		DoubleTree		https://hinorthvancouver.com/
+node	638748345	L' Hermitage		49.2805221	-123.1169670	hotel				https://www.lhermitagevancouver.com/
+node	638750749	Sandman Hotel Vancouver City Centre		49.2790272	-123.1134047	hotel				http://www.sandmanhotels.ca/hotels/vancouver-city-centre/
+node	638750750	YWCA Hotel / Residence / Hotel Willo		49.2783703	-123.1131003	hotel		YWCA		https://www.ywcavan.org/hotel
+node	638750751	Georgian Court Hotel		49.2780805	-123.1136590	hotel				https://georgiancourthotelvancouver.com/
+node	638751995	Hampton Inn & Suites by Hilton Vancouver-Downtown		49.2779070	-123.1139870	hotel		Hampton	Hilton	https://www.hilton.com/en/hotels/yvrhshx-hampton-suites-vancouver-downtown/
+node	638771016	Holiday Inn and Suites Downtown		49.2785193	-123.1255478	hotel		Holiday Inn		https://www.holidayinnvancouverdowntown.com/
+node	652956533	Rosedale on Robson Suite Hotel		49.2783489	-123.1162220	hotel				https://www.rosedaleonrobson.com/
+node	652992171	Century Plaza Hotel and Spa		49.2808331	-123.1270521	hotel				https://www.century-plaza.com/
+node	652994289	The Sutton Place Hotel		49.2829580	-123.1242760	hotel				https://www.suttonplace.com/hotels/sutton-place-hotel-vancouver-van
+node	778656966	Hampton Inn Vancouver Airport		49.1922149	-123.1274500	hotel		Hampton		http://www.hamptoninn-vancouver.com/
+node	883378920	Blue Horizon Hotel		49.2864636	-123.1272550	hotel	3			https://bluehorizonhotel.com/
+node	910187940	Fairmont Pacific Rim		49.2882413	-123.1170987	hotel	5	Fairmont		https://www.fairmont.com/pacificrim
+node	911592824	Fairmont Waterfront		49.2872705	-123.1136340	hotel		Fairmont		https://www.fairmont.com/waterfront
+node	912958393	Pan Pacific Vancouver		49.2878972	-123.1130480	hotel	5	Pan Pacific		https://www.panpacific.com/en/hotels-and-resorts/pp-vancouver.html
+node	1187566965	Opus		49.2745800	-123.1224820	hotel				https://vancouver.opushotel.com/en-us
+node	1782907725	Westin Bayshore		49.2921331	-123.1291350	hotel		Westin		https://www.marriott.com/hotels/travel/yvrwi-the-westin-bayshore-vancouver/
+node	1842891704	Samesun Vancouver		49.2789510	-123.1232110	hostel			Samesun	https://samesun.com/vancouver-hostel/
+node	2189068422	Days Inn		49.1926370	-123.1277313	hotel		Days Inn	Wyndham Hotels and Resorts	https://www.wyndhamhotels.com/en-ca/days-inn/richmond-british-columbia/days-inn-vancouver-airport/overview
+node	2254143974	Holiday Inn Express Vancouver-Metrotown (Burnaby)	Holiday Inn Express Vancouver-Metrotown (Burnaby)	49.2264758	-123.0043014	hotel		Holiday Inn Express		https://www.ihg.com/holidayinnexpress/hotels/us/en/burnaby/yvrbm/hoteldetail
+node	2490635042	Hotel Belmont Vancouver		49.2789156	-123.1227879	hotel		Comfort Inn		https://www.hotelbelmont.ca/
+node	2630499163	Sandman Signature Vancouver Airport Hotel & Resort		49.1876688	-123.1099702	hotel			Sandman	https://www.sandmanhotels.com/signature-vancouver-airport
+node	2806779042	Seymour Hostel		49.2839749	-123.1142170	hostel			Cambie	https://www.cambiehostels.com/downtown-hostel
+node	3487930121	Blu Hotel		49.2781605	-123.1144590	hotel				https://hotelbluvancouver.com/
+node	3594983734	Gastown Hostel		49.2831072	-123.1091290	hostel			Cambie	https://cambiehostels.com
+node	3703503799	Tropicana Suite Hotel		49.2877656	-123.1292409	hotel				https://www.tropicanavancouver.com/
+node	3707239292	Executive Hotels & Real Estate		49.2788990	-123.1252220	hotel				https://www.executivehotels.net/
+node	3733886692	Times Square Suites Hotel		49.2917164	-123.1355903	hotel	5			https://www.timessquaresuites.com/
+node	3743637091	Level		49.2781552	-123.1223940	hotel				https://stayinglevel.com/destinations/vancouver/seymour/
+node	3789313502	Hotel At The Waldorf		49.2814894	-123.0743320	hotel				https://www.hotelatthewaldorf.ca/
+node	3897533448	Danny's Inn		49.2832450	-123.1094244	hotel				
+node	3945299557	WorldMark Vancouver - The Canadian		49.2797517	-123.1257400	hotel				
+node	4124432512	Element Vancouver Metrotown		49.2306150	-123.0038540	hotel		Element		https://www.marriott.com/hotels/travel/yvrel-element-vancouver-metrotown
+node	4281289326	Hyatt Regency Vancouver		49.2851852	-123.1206380	hotel		Hyatt Regency	Hyatt	https://vancouver.regency.hyatt.com/
+node	4350970090			49.1934276	-123.1063407	hotel				
+node	4401335669	C&N Backpackers Central Station		49.2751624	-123.0996088	hostel			C&N Backpackers	https://www.cnnbackpackers.com/
+node	4401366512	St Clair Hotel-Hostel		49.2826907	-123.1142231	hostel				https://www.stclairvancouver.com/
+node	4524247293	Delta Burnaby Hotel and Conference Centre		49.2565918	-123.0064516	hotel	4	Delta Hotels	Marriott	https://deltahotels.marriott.com/
+node	4728685394	New Royal Inn Hotel		49.2046687	-122.9265336	hotel				
+node	4971550342	The Westin Wall Centre Vancouver Airport		49.1907689	-123.1332647	hotel		Westin		https://www.marriott.com/hotels/travel/yvrwc-the-westin-wall-centre-vancouver-airport/
+node	5304513656	JW Marriott Parq Vancouver		49.2753903	-123.1127660	hotel		JW Marriott		https://www.marriott.com/hotels/travel/yvrjw-jw-marriott-parq-vancouver/
+node	5304513657	"The Douglas, Autograph Collection"		49.2757138	-123.1139417	hotel				https://www.marriott.com/hotels/travel/yvrps-the-douglas-autograph-collection/
+node	7103890821	The Queens Hotel		49.1844544	-122.9498350	hotel				https://queenshotel.ca/
+node	7103918308	The Lodge at Fortius Sport & Health		49.2513009	-122.9674826	hotel				https://www.fortiussport.com/accommodation/
+node	7108567702	Radisson Hotel Vancouver Airport		49.1850533	-123.1355390	hotel		Radisson		https://www.radissonhotels.com/en-us/hotels/radisson-vancouver-airport
+node	7110365109	Hilton Vancouver Metrotown		49.2288848	-123.0043620	hotel	4	Hilton		https://www.hilton.com/en/hotels/yvrvmhf-hilton-vancouver-metrotown/
+node	7132464452	Auberge Hotel Vancouver		49.2865686	-123.1152580	hotel				https://www.aubergevancouver.com/
+node	7132474094	Paradox Hotel Vancouver		49.2869250	-123.1240507	hotel		Paradox Hotels & Resorts		https://www.paradoxhotels.com/vancouver
+node	7132483329	Exchange Hotel Vancouver		49.2856155	-123.1157080	hotel				https://www.exchangehotelvan.com/
+node	7140612025	Embarc Vancouver		49.2805081	-123.1254040	hotel				https://www.diamondresorts.com/destinations/property/Embarc-Vancouver
+node	7140625973	Divya Sutra Suites on Robson Downtown Vancouver		49.2884061	-123.1304030	hotel				
+node	7140634033	Grand Park Hotel & Suites		49.2761123	-123.1283603	hotel				https://www.grandparkdowntownvancouver.com/
+node	7141210836	Skwachàys Lodge		49.2809751	-123.1061430	hotel				https://skwachays.com/
+node	7141251865	Holiday Inn Vancouver-Centre (Broadway)		49.2635214	-123.1204390	hotel		Holiday Inn		https://www.ihg.com/holidayinn/hotels/us/en/vancouver/yvrbw/hoteldetail
+node	7141325848	Patricia Hotel		49.2814701	-123.0951511	hotel				https://www.patriciahotel.ca/
+node	7141465280	Rosellen Suites at Stanley Park		49.2921694	-123.1413710	hotel				https://www.rosellensuites.com/
+node	7141795338	Lonsdale Quay Hotel		49.3102749	-123.0819210	hotel				https://lonsdalequayhotel.com/
+node	7636909085	Burnaby Rentals Hostel		49.2270271	-122.9377581	hostel				
+node	8736677474	Coast Metro Vancouver Hotel		49.2576600	-123.0231680	hotel				https://www.coasthotels.com/coast-metro-vancouver-hotel
+node	8842576677	Executive Suites Hotel & Conference Centre Burnaby		49.2675700	-123.0106465	hotel				http://www.executivehotelburnaby.com/
+node	9111144756	Fairmont Vancouver Airport		49.1947350	-123.1759761	hotel		Fairmont		https://www.fairmont.com/vancouver-airport-richmond
+node	11342321739	Sonder at Revival		49.2884423	-123.1387610	hotel		Sonder		https://www.sonder.com/en-ca/destinations/vancouver/VAN-COMO1771-329/c31094?sleeps=1
+node	12737324864	Vogue Hotel		49.2785224	-123.1238337	hotel				https://thevoguehotel.com/
+node	13337962093	Rosedale Condominiums		49.2783235	-123.1161052	hotel				https://www.westgateresorts.com/hotels/canada/british-columbia/vancouver/vi-at-rosedale-on-robson/
+node	13943722772	Luminaire Hotel & Suites		49.2042784	-123.1396295	hotel				
+node	13954697172	The Parker Hotel Vancouver		49.2761381	-123.1302108	hotel		Executive Hotels & Resorts		https://www.executivehotels.net/vancouver-downtown-boutique-hotel/
+node	14190667501	Hotel Modo		49.2779735	-123.1251992	hotel				https://hotelmodo.ca/
+way	61699309	Holiday Inn Express Vancouver Airport - Richmond		49.1924769	-123.1198209	hotel		Holiday Inn Express		https://www.ihg.com/holidayinnexpress/hotels/us/en/richmond/yvria/hoteldetail
+way	61699310	"Abercorn Hotel, Trademark Collection by Wyndham"		49.1916679	-123.1208527	hotel				https://www.wyndhamhotels.com/trademark/richmond-british-columbia/abercorn-hotel/overview
+way	62329967	Sandman Hotel Vancouver Airport		49.1913660	-123.1143918	hotel				http://www.sandmanhotels.ca/hotels/vancouver-airport/
+way	91998136	Hyatt Vancouver Downtown Alberni		49.2857303	-123.1237762	hotel		Hyatt	Hyatt	http://www.hyattvancouverdowntownalberni.com/
+way	104912350	Best Western Premier Chateau Granville Hotel & Suites & Conference Centre		49.2777301	-123.1246716	hotel		Best Western Premier	Best Western	https://www.chateaugranville.com/
+way	119943680	Granville Island Hotel		49.2694906	-123.1310548	hotel				https://www.granvilleislandhotel.com/
+way	128059890	The Sunset Hotel West End		49.2800779	-123.1324359	hotel				https://www.sunsetinn.com/
+way	138641345	St. Regis Hotel		49.2829955	-123.1159071	hotel		St. Regis		https://www.stregishotel.com/
+way	138867328	Rosewood Hotel Georgia		49.2835501	-123.1190450	hotel		Rosewood		https://www.rosewoodhotels.com/en/hotel-georgia-vancouver
+way	139571554	Fairmont Hotel Vancouver		49.2837717	-123.1211093	hotel		Fairmont	The Fairmont	https://www.fairmont.com/hotel-vancouver/
+way	143682581	Metropolitan Hotel Vancouver		49.2840106	-123.1183233	hotel				https://www.marriott.com/hotels/travel/yvrbr-metropolitan-hotel-vancouver/
+way	156133587	Holiday Inn Vancouver Airport - Richmond		49.1836323	-123.1043126	hotel		Holiday Inn		https://www.ihg.com/holidayinn/hotels/us/en/richmond/yvrap/hoteldetail
+way	156416444	Accent Inns Vancouver Airport		49.1853263	-123.1069783	hotel	2		Accent Inn	https://www.accentinns.com/locations/vancouver-airport-hotel/
+way	158264078	Best Western Plus Burnaby Hotel		49.2246365	-122.9858208	hotel		Best Western Plus		https://www.bestwestern.com/en_US/book/hotels-in-burnaby/best-western-plus-burnaby-hotel/propertyCode.62024.html
+way	159260927	Happy Day Inn		49.2262419	-122.9362372	hotel			Royal West Management Ltd	https://www.happydayinn.com/
+way	159456324	Grand Park Hotel Vancouver Airport		49.1776077	-123.1312573	hotel			Grand Park Vancouver Airport Hotel	https://www.grandparkhotelvancouverairport.com/
+way	163950355	Pinnacle Hotel at the Pier		49.3105545	-123.0790177	hotel				https://www.pinnaclepierhotel.com/
+way	181355203	Pinnacle Hotel Harbourfront		49.2885159	-123.1207359	hotel				https://www.pinnacleharbourfronthotel.com/
+way	223089077	Marriott Pinnacle Downtown		49.2879593	-123.1208253	hotel		Marriott		https://www.marriott.com/hotels/travel/yvrdt-vancouver-marriott-pinnacle-downtown-hotel/
+way	223089121	Coast Coal Harbour Hotel by APA		49.2883540	-123.1221925	hotel				https://www.coasthotels.com/hotels/bc/vancouver/coast-coal-harbour-hotel/
+way	240895668	Sandman Suites Vancouver on Davie		49.2810291	-123.1327531	hotel				http://www.sandmanhotels.ca/hotels/vancouver-davie-street/
+way	296358812	Aboriginal Patients’ Lodge		49.2630667	-123.0780239	hotel			Lu’ma	https://www.lnhs.ca/aboriginal-patients-lodge
+way	299585390	Columbia Hotel		49.2820964	-123.1024825	hotel				
+way	301874786	Kingston Hotel		49.2808096	-123.1173509	hotel				https://www.kingstonhotelvancouver.com/
+way	301875551	Moda Hotel		49.2793959	-123.1204145	hotel				http://www.modahotel.ca/
+way	305206587	Quality Inn & Suites Downtown Vancouver		49.2771132	-123.1268478	hotel		Quality Inn & Suites		https://www.qualityinndowntownvancouver.com/
+way	305364815	Residence Inn Vancouver Downtown		49.2778280	-123.1285228	hotel		Residence Inn	"Marriott International, Inc."	https://www.marriott.com/hotels/travel/yvrdr-residence-inn-vancouver-downtown/
+way	305364816	The Landis Hotel & Suites		49.2780745	-123.1281680	hotel				https://www.landissuitesvancouver.com/
+way	305365217	Wedgewood Hotel & Spa		49.2823646	-123.1227725	hotel				https://www.wedgewoodhotel.com/
+way	310614125	Barclay Hotel		49.2873295	-123.1296734	hotel				https://www.barclayhotel.ca/
+way	311210094	Best Western Plus Sands		49.2868846	-123.1408507	hotel		Best Western Plus	Best Western	https://www.bestwestern.com/en_US/book/vancouver/hotel-rooms/best-western-plus-sands/propertyCode.62025.html
+way	311569754	Greenbrier Hotel		49.2880057	-123.1294615	hotel				https://www.greenbrierhotel.com/
+way	311624707	Lord Stanley Suites On The Park		49.2931414	-123.1353316	hotel				https://www.lordstanley.com/suites/
+way	312692187	English Bay Hotel		49.2876527	-123.1408748	hotel				https://englishbayhotel.com/
+way	316424785	The Como Hotel		49.2891259	-123.1397885	hotel				https://www.thecomohotel.com/
+way	316424818	Sylvia Hotel		49.2886685	-123.1424417	hotel				https://sylviahotel.com/
+way	317010758	Days Inn		49.2863204	-123.1168694	hotel		Days Inn		https://www.daysinnvancouver.com/
+way	324900227	Easter Seals House		49.2501664	-123.1280070	hotel		Easter Seals	Easter Seals	https://www.eastersealsbcy.ca/easter-seals-house/
+way	343689213			49.1912804	-123.1143160	hotel				
+way	343689214			49.1912501	-123.1131036	hotel				
+way	357715841	La Quinta Inn Vancouver Airport		49.1777331	-123.1271730	hotel		La Quinta Inn		https://www.wyndhamhotels.com/laquinta/richmond-british-columbia/la-quinta-inn-vancouver-airport/overview
+way	357996612	Cassandra Hotel		49.2360393	-123.0396269	hotel				https://www.cassandrahotel.ca/
+way	363651936			49.2872164	-123.1140958	hotel				
+way	372781912	Victorian Hotel		49.2824064	-123.1121366	hotel				https://victorianhotel.ca/
+way	390908516	Grand Union Hotel		49.2816502	-123.1068463	hotel				
+way	391330819	Delta Hotels Vancouver Downtown Suites		49.2841473	-123.1126680	hotel		Delta Hotels	Delta	https://www.marriott.com/hotels/travel/yvrdv-delta-hotels-vancouver-downtown-suites/
+way	397338520	Best Western Plus Vancouver Airport Hotel		49.2047915	-123.1308374	hotel		Best Western Plus		
+way	454701368	Fairmont Vancouver Airport Hotel		49.1951951	-123.1754200	hotel		Fairmont		https://m.fairmont.com/vancouver-airport-richmond/
+way	576857642	SureStay		49.3248331	-123.1210737	hotel		SureStay		https://www.bestwestern.com/en_US/book/hotels-in-north-vancouver/surestay-by-best-western-north-vancouver-capilano/propertyCode.52063.html
+way	617484484	Loden Hotel		49.2875820	-123.1231648	hotel				https://theloden.com/
+way	684240028	Carmana Hotel		49.2857277	-123.1249902	hotel				https://www.carmanahotel.com/
+way	694792930	Hilton Vancouver Downtown		49.2798648	-123.1169260	hotel		Hilton		https://www.hilton.com/en/hotels/yvrwghh-hilton-vancouver-downtown/
+way	706528898	Azur Legacy Collection Hotel		49.2858953	-123.1162200	hotel				
+way	709063517	Seaside Hotel		49.3097140	-123.0786449	hotel				https://seasidehotelvancouver.com
+way	813804038	The Hotel at River Rock		49.1959430	-123.1264156	hotel				https://riverrock.com/richmond-hotel/
+way	984829528	Versante Hotel		49.1922608	-123.1313975	hotel				
+way	1091649708	Hostelling International		49.2796836	-123.1328645	hostel		Hostelling International		https://www.hihostels.ca/vancouverdowntown
+way	1102208404	Le Soleil Hotel and Suites		49.2853081	-123.1183154	hotel				https://www.hotellesoleil.com/vancouver/home/
+way	1225568410	Hyatt Place		49.2245944	-123.0027580	hotel		Hyatt Place		https://www.hyatt.com/hyatt-place/en-US/yvrzb-hyatt-place-vancouver-metrotown
+way	1320352976	Atrium Hotel Vancouver		49.2814313	-123.0452544	hotel		Independent		https://www.atriumhotelvancouver.com/
+way	1363418927	Sheraton Vancouver Wall Centre Hotel		49.2803114	-123.1262671	hotel	4	Sheraton	Sheraton	https://www.marriott.com/en-us/hotels/yvrws-sheraton-vancouver-wall-centre/overview/
+way	1381049832	Red Roof PLUS+ Vancouver Airport		49.1915112	-123.1132810	hotel		Red Roof PLUS+		https://www.redroofyvr.com/
+way	1394068404	Ambassador Hotel		49.2767449	-123.1262219	hotel				http://hotelambassador.ca/
+relation	3219248	The Burrard		49.2797612	-123.1275203	hotel				https://www.theburrard.com/
+relation	6713647	Radisson Blu Vancouver Airport Hotel & Marina		49.1909441	-123.1403307	hotel		Radisson Blu		https://www.radissonhotelsamericas.com/en-us/hotels/radisson-blu-vancouver-airport

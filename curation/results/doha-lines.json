@@ -1,0 +1,122 @@
+[
+  {
+    "id": "lblue_line",
+    "name": "Line Blue Line",
+    "color": "#888888",
+    "code": "Blue Line",
+    "stations": [
+      ["Education City Stadium - North",25.3126,51.4243],
+      ["Education City Stadium - East",25.3122,51.4272],
+      ["Qatar Academy - South",25.3131,51.4301],
+      ["NorthNest",25.3139,51.4322],
+      ["Qatar Academy - East",25.3159,51.4313],
+      ["Qatar Academy - North",25.3163,51.4284],
+      ["Academy Green Spine",25.315,51.4271],
+      ["Education City Stadium - East",25.3122,51.4272],
+      ["Education City Stadium - North",25.3128,51.4242]
+    ]
+  },
+  {
+    "id": "lgold",
+    "name": "Metro Gold Line",
+    "jp": "الخط الذهبي للمترو",
+    "color": "#F9B428",
+    "code": "Gold",
+    "stations": [
+      ["Al Aziziyah",25.2576,51.4442],
+      ["Sport City",25.2594,51.4525],
+      ["Al Waab",25.2675,51.4689],
+      ["Al Sudan",25.2727,51.4851],
+      ["Joaan",25.2807,51.4969],
+      ["Al Sadd",25.2825,51.505],
+      ["Bin Mahmoud",25.2804,51.5149],
+      ["Msheireb (Gold Line)",25.2827,51.5258],
+      ["Souq Waqif",25.2865,51.5362],
+      ["National Museum",25.2847,51.5493],
+      ["Ras Bu Abboud",25.279,51.5709]
+    ]
+  },
+  {
+    "id": "lgreen",
+    "name": "Metro Green Line",
+    "jp": "الخط الأخضر للمترو",
+    "color": "#009530",
+    "code": "Green",
+    "stations": [
+      ["Al Mansoura",25.2705,51.535],
+      ["Msheireb (Green Line)",25.2828,51.5254],
+      ["Al Bidda (Green Line)",25.2912,51.52],
+      ["The White Palace",25.2925,51.506],
+      ["Hamad Hospital",25.2906,51.5005],
+      ["Al Messila",25.2932,51.484],
+      ["Al Rayyan Al Qadeem",25.3014,51.4609],
+      ["Al Shaqab",25.3094,51.4532],
+      ["Qatar National Library",25.3194,51.4418],
+      ["Education City",25.3171,51.4261],
+      ["Al Riffa",25.3243,51.348]
+    ]
+  },
+  {
+    "id": "lred",
+    "name": "Metro Red Line",
+    "jp": "الخط الأحمر للمترو",
+    "color": "#E2251C",
+    "code": "Red",
+    "stations": [
+      ["Lusail QNB",25.415,51.4876],
+      ["Qatar University",25.3823,51.493],
+      ["Legtaifiya",25.3707,51.5248],
+      ["Katara",25.3621,51.5217],
+      ["Al Qassar",25.3501,51.5239],
+      ["DECC",25.323,51.5277],
+      ["West Bay",25.3152,51.5198],
+      ["Corniche",25.3078,51.5154],
+      ["Al Bidda (Red Line)",25.2913,51.5202],
+      ["Msheireb (Red Line)",25.2829,51.5256],
+      ["Al Doha Al Jadeda",25.2748,51.5396],
+      ["Umm Ghuwailina",25.2694,51.5494],
+      ["Al Matar Al Qadeem",25.2633,51.558],
+      ["Oqba Ibn Nafie",25.2497,51.5667],
+      ["Free Zone",25.2285,51.5783],
+      ["Ras Bu Fontas",25.2115,51.5865],
+      ["Al Wakra",25.1931,51.5962]
+    ]
+  },
+  {
+    "id": "lyellow_line",
+    "name": "Education City Tram (Yellow Line)",
+    "color": "#888888",
+    "code": "Yellow Line",
+    "stations": [
+      ["Al Shaqab",25.3081,51.4516],
+      ["SouthNest",25.3099,51.4499],
+      ["Oxygen Park",25.3131,51.4482],
+      ["Education City Mosque",25.3159,51.4465],
+      ["Al Khater House",25.3167,51.4439],
+      ["Multaqa",25.3164,51.4418],
+      ["2015",25.3163,51.4366],
+      ["Ceremonial Gate",25.3166,51.4338],
+      ["NorthNest",25.3139,51.4322],
+      ["Qatar Academy - South",25.3132,51.4301],
+      ["Education City Stadium - East",25.3122,51.4272],
+      ["Education City Stadium - North",25.3128,51.4242]
+    ]
+  },
+  {
+    "id": "l4",
+    "name": "Line ترام:مشيرب",
+    "color": "#888888",
+    "code": "ترام:مشيرب",
+    "stations": [
+      ["Wadi Mushayrib",25.2843,51.5273],
+      ["Galleria",25.285,51.5291],
+      ["Mushayrib Prayer Ground",25.2865,51.5299],
+      ["Heritage Quarter",25.2869,51.5294],
+      ["Al-Baraha",25.2869,51.5271],
+      ["Sahat Al-Masjid",25.2871,51.5256],
+      ["Al Kahraba Street",25.2858,51.5248],
+      ["Al Mariah st",25.2843,51.5255],
+      ["Sahat Al Nakheel",25.2834,51.5249]
+    ]
+  }
+]

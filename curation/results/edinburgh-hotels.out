@@ -1,0 +1,232 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	36608318	Edinburgh Central Youth Hostel		55.9598589	-3.1832586	hostel	5		SYHA	https://www.syha.org.uk/where-to-stay/lowlands/edinburgh-central.aspx
+node	49333949	Bruntsfield Hotel		55.9381557	-3.2059285	hotel		Best Western		https://www.thebruntsfield.co.uk/
+node	49334495	Braid Hills Hotel		55.9170545	-3.2126453	hotel				
+node	248480014	Britannia Hotel Edinburgh		55.9505742	-3.2223415	hotel		Britannia Hotels	Britannia Hotels	
+node	249967014	The Inn On The Mile		55.9500405	-3.1873006	hotel				https://www.theinnonthemile.co.uk/
+node	319980717	Peffermill House		55.9326021	-3.1487334	hotel				
+node	331289907	Prestonfield House		55.9366417	-3.1570870	hotel				https://www.prestonfield.com/
+node	348599554	Premier Inn Leith Waterfront		55.9828280	-3.1956747	hotel	3	Premier Inn	Premier Inn	https://www.premierinn.com/gb/en/hotels/scotland/lothian/edinburgh/edinburgh-leith-waterfront.html
+node	433719424	Grove House Hotel		55.9432241	-3.2114035	hotel				
+node	448296176	Edinburgh Backpackers Hostel		55.9506243	-3.1884978	hostel				https://hoppo.com/
+node	448296177	St Christopher's Inn		55.9509244	-3.1902691	hostel		St Christopher's Inn		https://www.st-christophers.co.uk/edinburgh/original-hostel
+node	462614212	Holiday Inn Express Edinburgh-Waterfront		55.9788008	-3.1794679	hotel		Holiday Inn Express		
+node	482352333	Ardmillan Hotel		55.9382982	-3.2261235	hotel				https://www.ardmillanhotel.com/
+node	499994547	Black Ivy		55.9374659	-3.2026956	hotel				https://weareblackivy.com/
+node	511213007	Apex Edinburgh International		55.9469485	-3.1965174	hotel		Apex Hotels	Apex Hotels	
+node	511213016	Apex Edinburgh City		55.9473807	-3.1953726	hotel		Apex Hotels	Apex Hotels	
+node	558161188	Holiday Inn Express Edinburgh City Centre		55.9571525	-3.1862835	hotel		Holiday Inn Express		https://www.ihg.com/holidayinnexpress/hotels/gb/en/edinburgh/edbpp/hoteldetail
+node	574812212	Malmaison		55.9778416	-3.1685724	hotel		Malmaison	Malmaison	
+node	581870354	Le Monde		55.9534973	-3.1960943	hotel				https://lemondehotel.co.uk/
+node	597360334	High Street Hostel		55.9499443	-3.1862509	hostel			MacBackpackers	https://www.scotlandstophostels.com/
+node	634807886	DoubleTree by Hilton Hotel Edinburgh City Centre		55.9457056	-3.2034912	hotel	4	DoubleTree	Hilton	https://www.hilton.com/en/hotels/ediccdi-doubletree-edinburgh-city-centre/?WT.mc_id=zELWAKN0EMEA1DT2DMH3LocalSearch4DGGenericx6EDICCDI
+node	634830273	Premier Inn		55.9449778	-3.2001704	hotel		Premier Inn		https://www.premierinn.com/gb/en/hotels/scotland/lothian/edinburgh/edinburgh-city-centre-lauriston-place.html
+node	634830274	Novotel		55.9451010	-3.1996608	hotel		Novotel		http://www.novotel.com/
+node	639106651	Castle Rock Hostel		55.9482058	-3.1959365	hostel			MacBackpackers	https://www.castlerockedinburgh.com/
+node	709317023	Ten Hill Place		55.9463681	-3.1836097	hotel				https://www.tenhillplace.com/
+node	720598336	Hot-el Apartments		55.9868668	-3.1895813	hotel				https://www.hot-el-apartments.com/edinburgh-waterfront-apartments/
+node	736217622	Leonardo Royal Hotel Edinburgh		55.9511304	-3.1861772	hotel		Leonardo Royal Hotel		https://www.leonardohotels.co.uk/hotels/edinburgh
+node	736217624	Hilton Edinburgh Carlton		55.9507512	-3.1875224	hotel	4	Hilton	Hilton	https://www.hilton.com/en/hotels/edicahi-hilton-edinburgh-carlton/
+node	766789128	The Salisbury		55.9378000	-3.1771354	hotel	4			
+node	913817590	Apex Waterloo Place Hotel		55.9539155	-3.1869471	hotel	4	Apex Hotels	Apex Hotels	
+node	913817614	Travelodge Edinburgh Central Waterloo Place		55.9537287	-3.1876317	hotel		Travelodge	Travelodge	https://www.travelodge.co.uk/hotels/428/Edinburgh-Central-Waterloo-Place-hotel
+node	913823197	Radisson Blu Hotel		55.9500898	-3.1869155	hotel	4	Radisson Blu	Radisson	https://www.radissonhotels.com/en-us/hotels/radisson-blu-edinburgh
+node	913845489	Edinburgh Marriott Holyrood Hotel		55.9508785	-3.1768975	hotel	4	Marriott	Marriott	https://www.marriott.com/en-gb/hotels/edimh-edinburgh-marriott-hotel-holyrood/overview/
+node	1015120699	Ocean Apartments		55.9860880	-3.1883351	hotel				https://oceanservicedapts.com/index.php
+node	1100564615	Lady Nairne Premier Inn		55.9465009	-3.1374093	hotel		Premier Inn		https://www.premierinn.com/gb/en/hotels/scotland/lothian/edinburgh/edinburgh-east.html
+node	1101900217	The Glasshouse		55.9565335	-3.1852170	hotel				https://www.theglasshousehotel.co.uk/
+node	1367318911	Edinburgh Metro		55.9485892	-3.1858373	hostel			SYHA	
+node	1414295326	Travelodge Rose Street		55.9527031	-3.1979799	hotel		Travelodge		https://www.travelodge.co.uk/hotels/419/Edinburgh-Central-Rose-Street-hotel
+node	1514368130	Mount Royal Hotel		55.9526076	-3.1943562	hotel	3	The Unlimited Collection		
+node	1514368157	The Old Waverley Hotel		55.9528411	-3.1930191	hotel	3			https://www.oldwaverley.co.uk/
+node	1514368191	Hotel Indigo		55.9532098	-3.1908189	hotel	3	Hotel Indigo		https://www.ihg.com/hotelindigo/hotels/gb/en/edinburgh/edini/hoteldetail
+node	1631995150	Safestay		55.9484945	-3.1904331	hostel				
+node	1683845414	Hotel du Vin		55.9459979	-3.1902770	hotel				https://www.hotelduvin.com/locations/edinburgh/
+node	1782951140	Travelodge Edinburgh Central Queen Street		55.9544345	-3.2000121	hotel		Travelodge		https://www.travelodge.co.uk/hotels/543/Edinburgh-Central-Queen-Street-hotel
+node	1849610106	Fraser Suites Edinburgh		55.9500000	-3.1919145	hotel				https://edinburgh.frasershospitality.com/
+node	1888818927	Nira Caledonia		55.9567336	-3.2071902	hotel				https://niracaledonia.com/en/
+node	1888822708	The Bonham Hotel		55.9514264	-3.2158032	hotel				http://www.townhousecompany.com/thebonham/
+node	1925396114	Radisson Collection Royal Mile Edinburgh		55.9490912	-3.1927585	hotel		Radisson Collection	Radisson	https://www.radissoncollection.com/en/royalmile-hotel-edinburgh
+node	1977943225	EasyHotel Prince Street West		55.9508649	-3.2044736	hotel		easyHotel		https://www.easyhotel.com/hotels/united-kingdom/edinburgh/edinburgh
+node	1977943352	Premier Inn		55.9509648	-3.2039000	hotel		Premier Inn		https://www.premierinn.com/gb/en/hotels/scotland/lothian/edinburgh/edinburgh-city-centre-princes-street.html
+node	1977943409	Four Points Flex		55.9496554	-3.2089364	hotel		Four Points by Sheraton		https://www.cityroomz.com/
+node	2065644783	Hotel Ceilidh-Donia		55.9360093	-3.1684203	hotel				https://www.hotelceilidh-donia.co.uk/
+node	2092946372	Cumberland Hotel		55.9461291	-3.2279670	hotel				http://www.corstorphinehotels.co.uk/
+node	2093315714	Roseate		55.9460624	-3.2290493	hotel				https://thedunstane.com/
+node	2093330451	Murrayfield Hotel		55.9456220	-3.2434720	hotel				https://themurrayfieldhotel.co.uk/
+node	2093333458	Hampton Hotel		55.9456666	-3.2429277	hotel		Belhaven Pubs		https://www.belhaven.co.uk/pubs/midlothian/hampton-hotel
+node	2096781318	Grosvenor Gardens Hotel		55.9465750	-3.2197080	hotel				
+node	2101796925	Thistle Hotel		55.9502843	-3.2173278	hotel	3			https://www.edinburghthistlehotel.com/
+node	2101796969	The Chester Residence		55.9505558	-3.2171107	hotel	5			https://www.chester-residence.com/
+node	2112474985	The Grassmarket Hotel		55.9480061	-3.1947461	hotel				http://www.thegrassmarkethotel.co.uk/
+node	2114339827	Rabble		55.9539687	-3.2006755	hotel				https://www.rabbleedinburgh.co.uk/
+node	2136096058	Motel One Edinburgh-Royal		55.9506466	-3.1916009	hotel		Motel One		https://www.motel-one.com/en/hotels/edinburgh/hotel-edinburgh-royal/
+node	2142701018	Frederick House Hotel		55.9533335	-3.2009235	hotel	3			https://www.frederickhousehotel.com/
+node	2164008675	Regent House Hotel		55.9575692	-3.1881677	hotel				
+node	2164008690	Hotel Indigo		55.9563582	-3.1885555	hotel		Hotel Indigo		
+node	2164008692	The Place		55.9564995	-3.1901304	hotel				https://yorkplace-edinburgh.co.uk/
+node	2164008693	York House Hotel		55.9560308	-3.1902611	hotel				
+node	2164008696	28 York Place		55.9564128	-3.1906527	hotel				http://28yorkplace.com/
+node	2265830372	The Valentine		55.9416658	-3.2044478	hotel				https://www.the-valentine.com/
+node	2323807227	Ibis		55.9496209	-3.1880081	hotel		Ibis		https://all.accor.com/hotel/2039/index.en.shtml
+node	2339288065	The Scotsman Hotel		55.9510822	-3.1885303	hotel				http://www.thescotsmanhotel.co.uk/
+node	2340611086	Holyrood Aparthotel		55.9509801	-3.1784655	hotel				https://www.holyroodaparthotel.com/
+node	2342839055	Rutland Hotel		55.9498822	-3.2078619	hotel				https://www.therutlandhotel.com/
+node	2423026575	Northumberland Hotel		55.9279967	-3.1679145	hotel				https://www.thenorthumberlandhotel.co.uk/
+node	2423026609	Kildonan Lodge Hotel		55.9285894	-3.1685115	hotel	4			https://www.kildonanlodgehotel.co.uk/
+node	2423488313	Princes Street Hostel		55.9536228	-3.1903412	hostel				https://princesstreethostel.com/
+node	2431224343	Cairn Hotel		55.9585469	-3.1823212	hotel			Cairn Hotel Group	https://www.cairnedinburgh.com/
+node	2441578930	New Town Hotel		55.9561378	-3.1923111	hotel				https://www.newtownhotel.co.uk/
+node	2441578931	Terrace Hotel		55.9566583	-3.1757382	hotel				
+node	2441578933	24 Royal Terrace		55.9567040	-3.1777193	hotel				https://www.24royalterrace.co.uk/
+node	2441578935	voco		55.9567232	-3.1785488	hotel		voco		https://www.ihg.com/voco/hotels/gb/en/edinburgh/edits/hoteldetail
+node	2441578939	Abbey Hotel		55.9567552	-3.1800090	hotel				http://abbeyhoteledinburgh.wix.com/abbeyhoteledinburgh
+node	2493195222	Merith House Hotel		55.9691733	-3.1640520	hotel				https://www.merithhousehotel.co.uk/
+node	2500820439	Culane House Hotel		55.9690805	-3.1647961	hotel				https://www.culanehousehotel.co.uk/
+node	2509564664	Eliza House		55.9468672	-3.2176887	hotel				
+node	2596307944	Ellwyn Hotel		55.9565168	-3.1354126	hotel				
+node	2697752626	Playfair House Hotel		55.9580154	-3.1812105	hotel				https://www.playfairhousehotel.co.uk/
+node	2762190957	Rosehall Hotel		55.9362117	-3.1696713	hotel				https://www.rosehallhotel.co.uk/
+node	2821301782	Seahaven Hotel		55.9485913	-3.0962438	hotel				
+node	2863300834	Cheval Old Town Chambers		55.9501484	-3.1911760	hotel				https://www.chevalcollection.com/cheval-old-town-chambers/
+node	2878890614	Albany Hotel		55.9572474	-3.1900540	hotel				
+node	2903892577	Motel One Edinburgh-Princes		55.9535218	-3.1900347	hotel		Motel One		https://www.motel-one.com/en/hotels/edinburgh/hotel-edinburgh-princes/
+node	2914150541	Kick Ass Hostels		55.9478579	-3.1930360	hostel				
+node	2915812863	Parliament House Hotel		55.9541797	-3.1861379	hotel				https://parliamenthouse-hotel.co.uk/
+node	2933524719	Edinburgh House Hotel		55.9665295	-3.1818506	hotel				
+node	2934740297	Royal Mile Mansions		55.9504080	-3.1879255	hotel				
+node	2973367149	St. Christopher’s Inn - Edinburgh Old Town		55.9511497	-3.1904074	hostel		St Christopher's Inn	St. Christopher’s Inn	
+node	3090583237	The Salvation Army Life House		55.9490962	-3.1834959	hostel				https://www.salvationarmy.org.uk/edinburgh-city
+node	3090592311	Royal Mile Apartments		55.9497259	-3.1916695	hotel				
+node	3090592313	St. Giles Apartments		55.9497748	-3.1914254	hotel				
+node	3112300374	Kick Ass Hostels		55.9467134	-3.1977749	hostel				https://kickasshostels.co.uk/
+node	3112300387	The Guards Hotel		55.9463486	-3.2172558	hotel				https://www.guardshotel.co.uk
+node	3112300388	The Hostel		55.9462505	-3.2174856	hostel				
+node	3112300389	Travelodge Haymarket		55.9479107	-3.2219923	hotel		Travelodge		https://www.travelodge.co.uk/hotels/353/Edinburgh-Haymarket-hotel
+node	3141574108	Ibis Styles		55.9545707	-3.1947750	hotel	3	Ibis Styles	Accor	https://all.accor.com/hotel/9058/index.en.shtml
+node	3154533664	Abbot's House Hotel		55.9729694	-3.1638663	hotel				
+node	3154788161	Adelphi Hotel		55.9717997	-3.1618162	hotel				
+node	3184533246	Code		55.9525481	-3.1994589	hostel				
+node	3228039350	Gleneagles Townhouse		55.9541224	-3.1916382	hotel				https://gleneagles.com/townhouse/
+node	3289928684	Princes Street Suites		55.9535124	-3.1867818	hotel				
+node	3314584768	Calton Hill Rockhouse		55.9543238	-3.1853388	hotel				https://rockhouse-edinburgh.com/
+node	3395119179	Number 11 Brunswick Street Hotel		55.9587316	-3.1796076	hotel				https://www.11brunswickst.co.uk/
+node	3501891711	Claremont Hotel		55.9639093	-3.1918721	hotel				http://www.claremont-hotel.co.uk/
+node	3571733641	Travelodge Cameron Toll		55.9269468	-3.1668049	hotel		Travelodge		https://www.travelodge.co.uk/hotels/418/Edinburgh-Cameron-Toll-hotel
+node	3647451379	Westend Hotel		55.9496243	-3.2185163	hotel				https://www.thewestendhotel.co.uk/
+node	3829313127	Missionaries of Charity		55.9619253	-3.1834011	hostel				
+node	3939946855	Edinburgh City Suites		55.9468660	-3.2137791	hotel				https://www.edinburghcitysuites.com/
+node	3939946856	Fountain Court Apartments - Morrison		55.9462716	-3.2136041	hotel		Fountain Court Apartments		https://www.fountaincourtapartments.com/apartments/morrison/
+node	3940108855	The Edinburgh Residence		55.9509339	-3.2175700	hotel	5		Town House Company	http://www.townhousecompany.com/theedinburghresidence/
+node	3941445048	Sheraton Hotel		55.9470042	-3.2077083	hotel		Sheraton		
+node	4020389089	Argyle Backpackers		55.9384664	-3.1911763	hostel				https://www.argyle-backpackers.com/
+node	4044919894	hub by Premier Inn		55.9513880	-3.1832725	hotel		Premier Inn		https://www.premierinn.com/gb/en/hotels/scotland/lothian/edinburgh/hub-edinburgh-royal-mile.html
+node	4044919895	Premier Inn		55.9513722	-3.1839686	hotel		Premier Inn		https://www.premierinn.com/gb/en/hotels/scotland/lothian/edinburgh/edinburgh-city-centre-royal-mile.html
+node	4083011627	The Raeburn		55.9594990	-3.2148247	hotel				https://www.theraeburn.com/
+node	4209076889	Just Sleep Hostel		55.9709616	-3.1869451	hostel				https://justsleephostel.co.uk/
+node	4235574999	The Murrayfield House		55.9456929	-3.2426429	hotel				http://www.themurrayfieldhouse.co.uk/
+node	4244664443	Kingsview		55.9416026	-3.2067728	hostel				
+node	4244664444	Light House Hostel		55.9416858	-3.2062462	hostel				http://www.lighthousehostel.co.uk/
+node	4273139417	Holiday Inn Express		55.9558060	-3.2430358	hotel		Holiday Inn Express	Holiday Inn	
+node	4286676103	Bobby's Bunkhouse		55.9478540	-3.1913064	hostel				http://www.bobbysbunkhouse.co.uk/
+node	4298824218	McNair Hotel		55.9718582	-3.1618951	hotel				
+node	4411428220	Edinburgh Whisky House Hotel		55.9454750	-3.2287513	hotel				https://hampton.1stedinburghhotels.com
+node	4423915885	No 6 West Coates Hotel		55.9459995	-3.2300712	hotel				https://www.no6westcoates.co.uk/
+node	4450873238	Piries Hotel		55.9463218	-3.2212645	hotel				
+node	4456196039	Twin Lions Hotel		55.9446378	-3.2548101	hotel				http://twinlionshotel.co.uk/
+node	4456530124	Premier Inn		55.9567303	-3.1892635	hotel		Premier Inn		
+node	4469405704	No. 32 Hotel		55.9472818	-3.2213394	hotel				
+node	4539385642	Victoria Park House Hotel		55.9732270	-3.1915231	hotel				https://www.vphotel.co.uk/
+node	4539409062	KM Central		55.9459093	-3.1837876	hotel				https://kenneth-mackenzie.edinburgh-hotel.org/en/
+node	4563936894	The Inn Place		55.9505004	-3.1896217	hotel				https://theinnplaceedinburgh.co.uk/
+node	4586918090	Courtyard - Marriott Edinburgh		55.9573190	-3.1846975	hotel		Courtyard	Marriott	https://www.marriott.co.uk/hotels/travel/edicy-courtyard-edinburgh/
+node	4587601021	Adagio Aparthotel		55.9510841	-3.1820719	hotel		Adagio		https://www.adagio-city.com/gb/hotel-9289-aparthotel-adagio-edinburgh-royal-mile/index.shtml
+node	4743750055	Virgin Hotels Edinburgh		55.9484316	-3.1929943	hotel		Virgin Hotels	Virgin Hotels	https://virginhotels.com/edinburgh/
+node	4773735649	YMCA Scotland		55.9496489	-3.2081899	hostel				https://www.ymcascotland.org/
+node	4931590140	The Lane		55.9276557	-3.2084015	hotel				https://www.lanehotel.co.uk/
+node	4932417633	Fountain Court EQ2		55.9418273	-3.2083900	hotel				https://www.fountaincourtapartments.com/
+node	4947557977	Destiny Student Murano		55.9620981	-3.1778293	hotel				https://destinystudent.com/accomodation/murano-edinburgh/
+node	5736587722	Destiny Student Brae House		55.9555913	-3.1711000	hotel				https://thestudenthousingcompany.com/locations/edinburgh/brae-house/
+node	5836105085	Rooms at GPO		55.9742974	-3.1671575	hotel	3			
+node	6118714229	21212		55.9567385	-3.1806732	hotel				https://www.21212rooms.co.uk/
+node	6256675776	Royal Mile Backpackers		55.9505167	-3.1861700	hostel				https://royalmilebackpackers.com/
+node	6856854749	CODE - THE COURT		55.9494491	-3.1898402	hostel				https://www.codehostels.com/
+node	6939356670	Mono Suites		55.9488514	-3.1871784	hotel				https://monosuitesedinburgh.co.uk/
+node	7232579027	House of Gods		55.9485867	-3.1873776	hotel				https://www.houseofgodshotel.com/
+node	9137552782	Forth House		55.9574949	-3.1871721	hotel			Supercity Aparthotels	https://www.supercityuk.com/edinburgh/
+node	9233395475	Smith Place Hotel		55.9674523	-3.1738894	hotel				https://www.smithplacehotel.com/
+node	9461167785	Premier Inn		55.9528889	-3.1956160	hotel		Premier Inn	Premier Inn	https://www.premierinn.com/gb/en/hotels/scotland/lothian/edinburgh/edinburgh-city-centre-waverley.html
+node	9724871781	Hanover 71 Suites		55.9539530	-3.1971326	hotel				https://hanover71suites.com/
+node	10226495531	Roomzzz Aparthotel		55.9544824	-3.1876236	hotel				https://www.roomzzz.com/aparthotels/edinburgh
+node	10300455914	ALTIDO Haymarket		55.9462349	-3.2194598	hotel				
+node	11250857723	The Baxter Hostel		55.9536592	-3.1903348	hostel				https://www.thebaxterhostel.com/
+node	11250857724	Haystack Hostel		55.9536254	-3.1902968	hostel				https://www.haystackhostel.com/
+node	11671817586	Tynecastle Park Hotel		55.9391219	-3.2312282	hotel		Heart of Midlothian		https://tynecastleparkhotel.com/
+node	11854186105	100 Princes Street		55.9515935	-3.2001376	hotel			The Red Carnation Hotel Collection	
+node	12091041983	The Residence		55.9478410	-3.1913596	hostel				
+node	12297510563	Oyo St Andrews		55.9691810	-3.1737744	hotel		OYO		https://www.oyorooms.com/gb/52312/
+node	12372245008	Stay Central		55.9483212	-3.1899498	hotel				https://staycentral.co.uk/
+node	12655753509	New Town Rooms		55.9607359	-3.2014432	hotel				https://newtownrooms.com/
+node	13694676449	Old Town Chambers		55.9498687	-3.1908838	hotel		Autograph Collection		
+node	13723799116	No. 53 Frederick Street		55.9538922	-3.2006284	hotel				https://53frederickstreet.com/
+node	13961998901	Grosvenor Suites		55.9481277	-3.2180948	hotel				
+node	14099322965	Destiny Student – Shrubhill		55.9629542	-3.1790558	hotel		Destiny Student		https://destinystudent.com/accommodation/edinburgh/shrubhill/
+node	14174203844	Stay Hush		55.9514254	-3.1785306	hotel				https://www.stayhush.com
+node	14206194888	NYX Hotel Edinburgh		55.9511719	-3.1868372	hotel				https://www.nyx-hotels.co.uk/edinburgh/nyx-hotel-edinburgh
+node	14213988101	MEININGER Hotel Edinburgh Haymarket		55.9456645	-3.2243748	hotel				http://meininger-hotels.com
+node	14224676501	Meininger Hotel		55.9456632	-3.2243425	hotel				
+way	27279524	The Scott		55.9381485	-3.1712725	hotel	4		University of Edinburgh Hospitality & Events Collection	https://www.uoecollection.com/hotels/the-scott/
+way	27279529	The Scholar		55.9385878	-3.1716197	hotel			University of Edinburgh Hospitality & Events Collection	https://www.uoecollection.com/hotels/the-scholar/
+way	29241963	Premier Inn		55.9350174	-3.0949808	hotel		Premier Inn		https://www.premierinn.com/gb/en/hotels/scotland/lothian/edinburgh/edinburgh-a1-newcraighall.html
+way	29254012	Kings Manor Hotel		55.9443411	-3.0957297	hotel		Best Western		https://www.kingsmanor.com/
+way	37524905	Norton House Hotel		55.9327418	-3.3840908	hotel				https://www.handpickedhotels.co.uk/nortonhouse
+way	42102518	Travelodge Edinburgh Central		55.9496850	-3.1838089	hotel		Travelodge	Travelodge	https://www.travelodge.co.uk/hotels/205/Edinburgh-Central-hotel
+way	42248839	Holiday Inn Express Edinburgh-Royal Mile		55.9492869	-3.1846349	hotel		Holiday Inn Express		https://www.ihg.com/holidayinnexpress/hotels/gb/en/edinburgh/edbrm/hoteldetail
+way	42556518	Ibis Edinburgh Centre South Bridge		55.9484183	-3.1870223	hotel		Ibis	AccorHotels	https://all.accor.com/hotel/8484/index.en.shtml
+way	60712790	Residence Inn		55.9438390	-3.1928586	hotel		Residence Inn	Marriott	
+way	60962883	Holiday Inn Edinburgh		55.9429183	-3.2673571	hotel		Holiday Inn	Holiday Inn	
+way	60963445	Leonardo Hotel Edinburgh Murrayfield		55.9557040	-3.2798288	hotel				
+way	70954996	BrewDog Edinburgh Doghouse		55.9512957	-3.1828208	hotel				https://drink.brewdog.com/uk/doghouse-edinburgh-hotel
+way	73088677	Edinburgh Grand		55.9539012	-3.1912762	hotel		The Luxury Collection	Marriott	https://www.marriott.com/en-gb/hotels/edilg-the-edinburgh-grand-a-luxury-collection-hotel-edinburgh/overview/
+way	98964607	Ocean Mist		55.9767523	-3.1697201	hotel				https://www.oceanmistleith.com
+way	101594285	Leonardo Boutique Hotel Edinburgh City		55.9443635	-3.2009016	hotel		Leonardo Boutique		https://www.edinburghcityhotel.com/
+way	103163117	Belford Hostel		55.9509268	-3.2205227	hostel				https://www.edinburghhostels.com/belford-hostel-edinburgh.html
+way	123129052	POINT.a		55.9462247	-3.2106651	hotel				https://www.pointahotels.com/our-hotels/edinburgh/
+way	123564624	hub by Premier Inn (Haymarket)		55.9467872	-3.2130718	hotel		Premier Inn		
+way	125368325	Four Points		55.9462113	-3.2229358	hotel		Four Points by Sheraton		https://www.marriott.com/edifp
+way	130148044	"The Caledonian Edinburgh, Curio Collection by Hilton"		55.9495574	-3.2074836	hotel	5	Curio Collection	Hilton	https://www.hilton.com/en/hotels/ednchqq-the-caledonian-edinburgh/
+way	135463876	The Resident		55.9512791	-3.2127290	hotel		The Resident		https://www.residenthotels.com/edinburgh/
+way	175512117	The Hoxton		55.9470018	-3.2171074	hotel		The Hoxton		https://thehoxton.com/edinburgh/
+way	195738266	Garner By IHG		55.9461419	-3.2182639	hotel	3			https://www.ihg.com/garner-hotels/hotels/us/en/edinburgh/edihm/hoteldetail
+way	203676493	Meininger		55.9455664	-3.2245206	hotel				https://www.meininger-hotels.com/
+way	207671614	Mercure Edinburgh Haymarket		55.9438353	-3.2095320	hotel	4	Mercure	Mercure Hotels	https://all.accor.com/hotel/9448/index.en.shtml
+way	217338686	White Lady		55.9430955	-3.2824957	hotel			Wetherspoons	
+way	231036855	Travelodge		55.9385400	-3.3930361	hotel		Travelodge		https://www.travelodge.co.uk/hotels/408/Edinburgh-Airport-Ratho-Station-hotel
+way	233821645	Premier Inn		55.9422316	-3.4055670	hotel		Premier Inn		https://www.premierinn.com/gb/en/hotels/scotland/lothian/edinburgh/edinburgh-airport-m9-jct1.html
+way	279584659	Park View House Hotel		55.9687649	-3.1653239	hotel				
+way	290139267	Malmaison Edinburgh City		55.9548779	-3.1941556	hotel		Malmaison		https://www.malmaison.com/locations/edinburgh-city/
+way	292053486	a&o Hostel		55.9491381	-3.1860666	hostel	5	A&O		https://www.aohostels.com/en/edinburgh/
+way	296272096	Ibis Budget Edinburgh Park		55.9376619	-3.3197132	hotel		Ibis Budget		https://all.accor.com/hotel/8710/index.en.shtml
+way	304658010	YOTEL Edinburgh		55.9532957	-3.2058718	hotel		YOTEL	Yotel	https://www.yotel.com/en/hotels/yotel-edinburgh
+way	309554379	Angels Share Hotel		55.9507387	-3.2077659	hotel				
+way	312063969	hub by Premier Inn		55.9525508	-3.1976623	hotel		Premier Inn	Premier Inn	https://www.premierinn.com/gb/en/hotels/scotland/lothian/edinburgh/hub-edinburgh-rose-street.html
+way	314580067	The InterContinental Edinburgh - The George		55.9541280	-3.1964679	hotel		InterContinental	InterContinental	https://www.ihg.com/intercontinental/hotels/gb/en/edinburgh/edigs/hoteldetail
+way	314588394	Kimpton Charlotte Square Hotel		55.9516303	-3.2058137	hotel		Kimpton	Kimpton	https://www.kimptoncharlottesquare.com/
+way	354315309	Park View House Hotel		55.9689282	-3.1656363	hotel				https://parkviewhousehotel.co.uk/
+way	374449640	Hampton by Hilton Edinburgh West End		55.9427037	-3.2121203	hotel	3	Hampton	Hilton	https://www.hilton.com/en/hotels/edifbhx-hampton-edinburgh-west-end/
+way	390991238	Leonardo Hotel Edinburgh Haymarket		55.9453802	-3.2134417	hotel		Leonardo Royal Hotel	Leonardo Hotels	https://www.leonardo-hotels.com/leonardo-royal-hotel-edinburgh
+way	391238339	Staycity Edinburgh		55.9433675	-3.2127883	hotel		Staycity		https://www.staycity.com/edinburgh/west-end/
+way	471970456	Village Hotel		55.9679253	-3.2344224	hotel		Village Hotels		https://www.village-hotels.co.uk/hotels/edinburgh/
+way	616305960	Market Street Hotel		55.9509212	-3.1897473	hotel				https://www.marketstreethotel.co.uk/
+way	655660131	Hampton by Hilton Edinburgh Airport		55.9447101	-3.3627490	hotel	3	Hampton	Hilton	https://www.hilton.com/en/hotels/edihxhx-hampton-edinburgh-airport/
+way	675874283	Fingal		55.9792022	-3.1690980	hotel				https://www.fingal.co.uk/
+way	682097308	Moxy Edinburgh Airport		55.9437999	-3.3622385	hotel			Marriott	https://www.marriott.co.uk/hotels/maps/travel/ediox-moxy-edinburgh-airport/
+way	746467951	Wilde Aparthotel - Edinburgh Grassmarket		55.9470418	-3.2000008	hotel		Staycity	Staycity	https://www.staycity.com/wilde/edinburgh/grassmarket
+way	764576218	Moxy Edinburgh Fountainbridge		55.9426232	-3.2106367	hotel		Moxy	Mariott	https://www.marriott.com/hotels/travel/ediof-moxy-edinburgh-fountainbridge/
+way	854436697	W Hotel		55.9549227	-3.1889987	hotel				https://www.marriott.com/en-us/hotels/ediwh-w-edinburgh/overview/
+way	1009347253	Voco Hotel Edinburgh-Haymarket		55.9467612	-3.2115889	hotel		voco	IHG	https://www.ihg.com/voco/hotels/gb/en/edinburgh/edits/hoteldetail
+way	1507470523	The Four Sisters		55.9426527	-3.2079861	hotel		The Four Sisters		https://www.thefoursisters.co.uk
+way	1540220740	Haymarket Hotel		55.9463669	-3.2220128	hotel				https://www.haymarket-hotel.co.uk/
+relation	1435914	DoubleTree by Hilton Hotel Edinburgh Airport		55.9438302	-3.3592000	hotel	4	DoubleTree	Hilton	https://www.hilton.com/en/hotels/ediapdi-doubletree-edinburgh-airport/
+relation	12745923	Holiday Inn Express Edinburgh Airport		55.9434971	-3.3748345	hotel		Holiday Inn Express		
+relation	14213049	Balmoral Hotel		55.9528387	-3.1895107	hotel				

@@ -1,0 +1,61 @@
+[
+  {
+    "id": "lt1",
+    "name": "T1 Leonardo",
+    "color": "#254395",
+    "code": "T1",
+    "stations": [
+      ["Careggi - Ospedale",43.8033,11.2466],
+      ["Morgagni - Università",43.7995,11.2439],
+      ["Dalmazia",43.7956,11.2405],
+      ["Pisacane",43.7932,11.244],
+      ["Leopoldo",43.7913,11.2472],
+      ["Muratori - Stazione Statuto",43.7882,11.2494],
+      ["Statuto",43.7857,11.2507],
+      ["Strozzi - Fallaci",43.7834,11.2519],
+      ["Fortezza",43.7805,11.2495],
+      ["Valfonda - Stazione Santa Maria Novella",43.7766,11.2493],
+      ["Alamanni - Stazione Santa Maria Novella",43.7761,11.247],
+      ["Porta al Prato - Leopolda (Parco della Musica)",43.7773,11.2386],
+      ["Cascine (Olmi - Carlo Monni)",43.777,11.2327],
+      ["Paolo Uccello (Arno)",43.7754,11.2287],
+      ["Sansovino",43.7747,11.2252],
+      ["Batoni",43.7741,11.2213],
+      ["Talenti",43.7736,11.217],
+      ["Federiga (Foggini)",43.7715,11.2119],
+      ["Arcipressi (Ronco Corto)",43.7675,11.2092],
+      ["Nenni - Torregalli (Lupi di Toscana)",43.7641,11.198],
+      ["Aldo Moro",43.7619,11.1873],
+      ["Resistenza (Pantin)",43.758,11.1822],
+      ["De André (Ciliegi)",43.7548,11.179],
+      ["Villa Costanza",43.7551,11.1741]
+    ]
+  },
+  {
+    "id": "lt2",
+    "name": "T2 Vespucci",
+    "color": "#5D3988",
+    "code": "T2",
+    "stations": [
+      ["San Marco Università",43.7776,11.2586],
+      ["La Marmora Orto Botanico",43.7811,11.2619],
+      ["Libertà Parterre",43.7843,11.2622],
+      ["Lavagnini Poliziano",43.783,11.2576],
+      ["Lavagnini Fortezza",43.782,11.2533],
+      ["Fortezza",43.7805,11.2495],
+      ["Valfonda - Stazione Santa Maria Novella",43.7766,11.2493],
+      ["Alamanni - Stazione Santa Maria Novella",43.7761,11.247],
+      ["Rosselli",43.7789,11.2451],
+      ["Belfiore",43.782,11.243],
+      ["Redi",43.7853,11.2423],
+      ["Ponte all'Asse",43.7867,11.2397],
+      ["Buonsignori - Liceo Da Vinci",43.7886,11.2346],
+      ["San Donato - Università",43.7907,11.2266],
+      ["Novoli - Regione Toscana",43.7921,11.2233],
+      ["Novoli - Torre degli Agli",43.7943,11.218],
+      ["Novoli - Palazzi Rossi",43.7963,11.2139],
+      ["Guidoni",43.7997,11.2084],
+      ["Peretola Aeroporto",43.803,11.2025]
+    ]
+  }
+]
