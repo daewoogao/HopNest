@@ -1,0 +1,887 @@
+@lat	@lon	name	name:en	tourism	stars
+37.4870490	127.0509470	신세계리조트	Sinsegye Resort Hotel	hotel	
+37.0422230	126.5273370	떼라쎄리조트	Dderasse Resort Hotel	hotel	
+37.0508240	126.5038520	대호리조트	Daeho Resort Hotel	hotel	
+37.5154730	127.0322840	일성콘도미니엄	Ilseong Condominium	hotel	
+37.5017058	127.0408370	대명리조트	Daemyeong Resort Hotel	hotel	
+37.4987060	127.0315040	풍림리조트	Pungnim Resort Hotel	hotel	
+37.5440587	126.9528662	명성콘도	Myeongseong Condominium	hotel	
+37.5095330	127.0331290	리솜리조트	Risom Resort Hotel	hotel	
+37.5242346	127.0267499	현성리조트	Hyeonseong Resort Hotel	hotel	
+37.5807130	127.0221000	충주호리조트	Chungjuho Resort Hotel	hotel	
+37.5194570	127.0400500	샤인빌리조트	Syainbil Resort Hotel	hotel	
+37.5095381	127.0331547	오션캐슬리조트	Ocean Castle Resort Hotel	hotel	
+37.5455150	126.9445810	일성콘도미니엄	Ilseong Condominium	hotel	
+37.5016498	127.0406450	(주)대명콘도	Daemyeong Condominium	hotel	
+37.5008610	127.0404910	대명콘도	Daemyeong Condominium	hotel	
+37.5194713	127.0352151	두산큐벡스라데나콘도	Dusankyubekseuradena Condominium	hotel	
+37.5074360	127.0592410	제주신안에버리스 골프리조트	Jejusinanebeoriseu Golf Resort Hotel	hotel	
+37.5558439	126.9228600	렛츠고리조트	Let's go Resort Hotel	hotel	
+37.6288430	127.0576820	오리엔트리조트	Orienteu Resort Hotel	hotel	
+37.8854470	126.8770980	파주실버타운리조트	Paju Silver Town Resort Hotel	hotel	
+37.5225260	127.0198720	지엘에스리조트	Jieleseu Resort Hotel	hotel	
+37.1871530	126.9839820	라비돌리조트	Rabidol Resort Hotel	hotel	
+37.6021060	127.0621750	호텔라하		hotel	
+37.7653510	126.9638190	송추유스호스텔	Songchu Youth Hostel	hostel	
+37.5584172	126.9909827	서울유스호스텔	Seoul Youth Hostel	hostel	
+37.7007486	126.8935031	고양유스호스텔	Goyang Youth Hostel	hostel	
+37.8253077	127.1454023	광림 유스호스텔	Gwangnim Youth Hostel	hostel	
+37.7390680	126.9807170	샬롬유스호스텔	Syallom Youth Hostel	hostel	
+38.0639670	127.0490470	연천유스호스텔	Yeoncheon Youth Hostel	hostel	
+37.5557170	127.1112810	W서울워커힐호텔	W Seoul Walkerhill Hotel	hotel	
+37.4871150	127.0127680	호텔 아트	Hotel Ateu	hotel	
+37.5021190	127.0391486	샘호텔	Saem Hotel	hotel	
+37.5679320	126.9781150	뉴서울호텔	New Seoul Hotel	hotel	
+37.5765490	126.9898180	시티파크호텔	City Park Hotel	hotel	
+37.5068512	127.1008593	레이크호텔	Lake Hotel	hotel	
+37.5051660	127.0570190	이비스앰배서더호텔	Ibis Ambassador Hotel	hotel	
+37.5057820	127.0273640	다이네스티관광호텔	Daineseuti Tourist Hotel	hotel	
+37.5290561	127.1348471	발리관광호텔	Bali Tourist Hotel	hotel	
+37.5376880	127.0775570	호텔티파니	Hotel Tipani	hotel	
+37.5109952	127.0314063	뉴 힐탑 관광호텔	New Hiltap Tourist Hotel	hotel	
+37.5123340	127.0496100	자이언트 호텔	Giant Hotel	hotel	
+37.5541920	126.8517010	뉴 리젠트 호텔	New Regent Hotel	hotel	
+37.5026970	127.0402640	맥스호텔	Maekseu Hotel	hotel	
+37.5691670	127.0505080	시티팔레스 관광호텔	City Palleseu Tourist Hotel	hotel	
+37.5604550	127.0047730	호텔와이드	Hotel Waideu	hotel	
+37.5546940	126.8523620	콘티넨탈호텔	Continental Hotel	hotel	
+37.5756480	126.9982870	서울대병원 원남별관	SNUH Wonnam building	hotel	
+37.5068350	127.0527670	시네마호텔	Cinema Hotel	hotel	
+37.6091400	126.9301590	노블레스호텔	Nobless Hotel	hotel	
+37.5739867	126.9881472	크라운호텔	Crown Hotel	hotel	
+37.5149940	127.1077250	짬호텔	Jjam Hotel	hotel	
+37.5273910	127.0295390	팝그린호텔	Pap Green Hotel	hotel	
+37.5679950	126.9781160	뉴 서울 호텔	New Seoul Hotel	hotel	
+37.5341760	127.0918470	동서울 관광호텔	Dong Seoul Tourist Hotel	hotel	
+37.5491095	126.8784699	베스트웨스턴 나이아가라호텔	Best Western Naiagara Hotel	hotel	
+37.5687674	126.9928615	센추럴 관광호텔	Central Tourist Hotel	hotel	
+37.5290550	127.1348500	엘에이 관광호텔	Elei Tourist Hotel	hotel	
+37.5548760	126.8525280	호텔 노스탈자	Hotel Noseutalja	hotel	
+37.5698980	126.9751440	에스호텔	Eseu Hotel	hotel	
+37.5823460	127.0212180	브라운 관광호텔	Beuraun Tourist Hotel	hotel	
+37.5625858	126.9203940	호텔비케이닷컴		hotel	
+37.5627820	127.0589090	호텔탑	Hotel Tap	hotel	
+37.5718801	127.0042599	투호텔	Tu Hotel	hotel	
+37.5115509	127.0314877	힐탑관광호텔	Hiltap Tourist Hotel	hotel	
+37.5701298	127.0155393	바티카호텔	Vatica Hotel	hotel	
+37.4940910	127.1190460	켈리포니아관광호텔	Kelliponia Tourist Hotel	hotel	
+37.5659030	127.0032630	뉴천지 관광호텔	New Cheonji Tourist Hotel	hotel	
+37.5603650	126.9836290	뉴오리엔탈호텔	New Oriental Hotel	hotel	
+37.5707317	127.0721505	경남관광호텔	Gyeongnam Tourist Hotel	hotel	
+37.5546940	126.8523500	뉴콘디넨탈호텔	New Kondinental Hotel	hotel	
+37.5106150	127.0179000	호텔사랑	Hotel Sarang	hotel	
+37.5021940	127.0382570	M호텔	M Hotel	hotel	
+37.5360450	127.1381300	발리호텔	Balli Hotel	hotel	
+37.5531700	126.8512640	드림호텔	Deurim Hotel	hotel	
+37.5968178	127.0892986	테마호텔	Theme Hotel	hotel	
+37.4999780	127.0317590	젤리호텔	Jelli Hotel	hotel	
+37.5879220	127.0429660	송림호텔	Songnim Hotel	hotel	
+37.5757600	126.9967713	고궁호텔	Gogung Hotel	hotel	
+37.4995300	127.0353548	스타호텔	Star Hotel	hotel	
+37.5273190	127.0295060	영진호텔	Yeongjin Hotel	hotel	
+37.5709960	126.9895640	호텔누누	Hotel Nunu	hotel	
+37.4874830	126.9296660	한려호텔	Hannyeo Hotel	hotel	
+37.5211180	126.9054960	도우호텔	Dou Hotel	hotel	
+37.5411250	126.8414340	테마호텔	Theme Hotel	hotel	
+37.5722720	126.9892410	톰지호텔	Tomji Hotel	hotel	
+37.5066655	127.0518190	타라호텔	Tara Hotel	hotel	
+37.5691060	127.0688830	동경호텔	Donggyeong Hotel	hotel	
+37.5630650	127.0054400	영빈호텔	Yeongbin Hotel	hotel	
+37.5718310	126.9892700	대성호텔	Daeseong Hotel	hotel	
+37.5490250	126.9103280	호텔이화	Hotel Ihwa	hotel	
+37.5961692	127.0900045	호텔메이	Hotel Mei	hotel	
+37.5767000	126.9895440	노블호텔	Noble Hotel	hotel	
+37.5719990	127.0069740	세화호텔	Sehwa Hotel	hotel	
+37.5765390	126.9897840	씨티호텔	City Hotel	hotel	
+37.6548062	127.0576050	리츠호텔	Rits Hotel	hotel	
+37.5674430	126.9841100	우석호텔	Useok Hotel	hotel	
+37.5172864	127.0196369	모리호텔	Mori Hotel	hotel	
+37.5730800	126.9888230	호텔켓츠	Hotel Ketcheu	hotel	
+37.5088450	127.0371430	호텔야자	Hotel YAJA	hotel	
+37.5150350	127.1083130	실론호텔	Sillon Hotel	hotel	
+37.5154030	127.1081500	라자호텔	Raja Hotel	hotel	
+37.5482480	126.9110410	준희빈호텔	Junhuibin Hotel	hotel	
+37.6182904	127.0766653	호텔시네마	Hotel Cinema	hotel	
+37.5708959	127.0103087	동대문호텔	Eastern Hotel	hotel	
+37.5153750	127.1092250	호텔쉐르빌	Hotel Swereubil	hotel	
+37.5153050	127.1095430	코스모호텔	Koseumo Hotel	hotel	
+37.5074542	127.0354918	호텔발트	Hotel Balt	hotel	
+37.6537340	127.0511000	론스타호텔	Ron Star Hotel	hotel	
+37.4903800	127.0327540	보은장호텔	Boeunjang Hotel	hotel	
+37.5679265	126.9694791	코모도호텔	Komodo Hotel	hotel	
+37.5006830	127.0874680	코리아호텔	Korea Hotel	hotel	
+37.6549520	127.0581120	세피아호텔	Sepia Hotel	hotel	
+37.5653020	126.9678380	바비앵호텔	Babiaeng Hotel	hotel	
+37.5965070	127.0894030	미라지호텔	Miraji Hotel	hotel	
+37.4947820	127.0365990	아담스호텔	Adamseu Hotel	hotel	
+37.5692020	126.9906190	둘로스호텔	Dulloseu Hotel	hotel	
+37.5046729	127.0542328	메이저호텔	Major Hotel	hotel	
+37.5058200	127.0297950	서라벌호텔	Seorabeol Hotel	hotel	
+37.5848460	127.0504220	플라워호텔	Flower Hotel	hotel	
+37.5653020	126.9678380	바비엔호텔	Babien Hotel	hotel	
+37.4788260	126.8909040	MIND관광호텔	MIND Tourist Hotel	hotel	
+37.5614360	127.0607490	제이제이호텔	Jeijei Hotel	hotel	
+37.5153420	127.1084900	씨에스타호텔	Siesta Hotel	hotel	
+37.5512600	126.8634040	그린월드호텔	Green World Hotel	hotel	
+37.5732840	126.9884800	Hotel Biz Jongno-Insadong	Hotel Biz Jongno-Insadong	hotel	
+37.5067830	127.0329950	코스모스호텔	Cosmos Hotel	hotel	
+37.5187530	127.0266860	하일랜드호텔	Haillaendeu Hotel	hotel	
+37.5613180	127.0607160	제이제이호텔	Jeijei Hotel	hotel	
+37.5310320	126.9688860	호텔스파피아	Hotel Seupapia	hotel	
+37.5660040	126.9677370	조선비치호텔	Joseon Beach Hotel	hotel	
+37.5535990	126.9167700	유양관광호텔	Yuyang Tourist Hotel	hotel	
+37.5130170	127.0261720	그린관광호텔	Green Tourist Hotel	hotel	
+37.5565690	126.9822990	남산힐호텔	Namsan Hill Hotel	hotel	
+37.5292540	126.8466070	호텔라스베가스	Hotel Las Vegas	hotel	
+37.5156750	127.1095950	호텔비엔더블유	Hotel Biendeobeulyu	hotel	
+37.5342080	127.1334100	코리아관광호텔	Korea Tourist Hotel	hotel	
+37.5435026	126.9527178	제주선샤인호텔	Jeju Sunshine Hotel	hotel	
+37.4716925	126.8975807	이사벨관광호텔	Isabel Tourist Hotel	hotel	
+37.5624360	126.9729370	아시아월드호텔	Asia World Hotel	hotel	
+37.5037404	127.0428501	수안보상록호텔	Suanbosangnok Hotel	hotel	
+37.5658760	127.0032290	뉴천지관광호텔	New Cheonji Tourist Hotel	hotel	
+37.5066740	127.0518190	클레오파트라호텔	Keulleopateura Hotel	hotel	
+37.5063040	127.0339640	베네치아관광호텔	Benechia Tourist Hotel	hotel	
+37.4971630	126.9860910	방배르네상스호텔	Bangbae Renaissance Hotel	hotel	
+37.5048900	127.0473740	서귀포리조트호텔	Seogwiporijoteu Hotel	hotel	
+37.5653020	126.9678380	바비엥스위트호텔	Babiengseuwiteu Hotel	hotel	
+37.5150350	127.1083130	오양관광실론호텔	Oyanggwangwangsillon Hotel	hotel	
+37.5131220	127.0312390	프리미엄강남호텔	Premium Gangnam Hotel	hotel	
+37.5330950	127.0907960	성류파크관광호텔	Seongnyu Park Tourist Hotel	hotel	
+37.6094372	126.9320242	벨라지오관광호텔	Bellajio Tourist Hotel	hotel	
+37.5961160	126.9987720	국제스카이웨이호텔	International Skyway Hotel	hotel	
+37.5616129	126.9750559	호텔신라삼성프라자	Hotel Sillasamseong Plaza	hotel	
+37.6551734	127.0593457	(주)노블레스관광호텔 (Nobless Tourist Hotel)	Nobless Tourist Hotel	hotel	
+37.5727810	126.9970800	(주)교원나라제주호텔	Gyowonnarajeju Hotel	hotel	
+37.6010150	127.0330240	호텔홀리데이인성북서울	Hotel Holiday Inn Seongbuk Seoul	hotel	
+37.5597820	127.0040570	(주)파라다이스비치호텔 (Paradise Beach Hotel)	Paradise Beach Hotel	hotel	
+37.6010150	127.0330240	홀리데이인성북서울호텔	Holiday Inn Seongbuk Seoul Hotel	hotel	
+37.5615090	127.0597740	준호텔	Jun Hotel	hotel	
+37.5063500	127.0518460	호텔썬	Hotel Sseon	hotel	
+37.5696250	126.9152140	CF호텔	CF Hotel	hotel	
+37.5011704	127.0411093	호텔예스	Hotel Yeseu	hotel	
+37.6544750	127.0575459	호텔 럭스	Hotel LUXE	hotel	
+37.5027480	127.0398220	맨하탄호텔	Maenhatan Hotel	hotel	
+37.5824160	127.0198350	유니온호텔	Union Hotel	hotel	
+37.6340470	127.0227730	라이프호텔	Raipeu Hotel	hotel	
+37.5618230	127.0710340	호텔벤쿠버	Hotel Benkubeo	hotel	
+37.5050890	127.0351770	엠유엘호텔	Emyuel Hotel	hotel	
+37.5014942	127.0416593	호텔베리식스	Hotel Berisikseu	hotel	
+37.4868010	127.0128850	아이엠티2호텔	Aiemti 2 Hotel	hotel	
+37.5156750	127.1095950	호텔비엠더블유	Hotel Biemdeobeulyu	hotel	
+37.5621850	126.9731560	호텔레스	Hotel Reseu	hotel	
+37.5614420	127.0603980	엘호텔	El Hotel	hotel	
+37.5155750	127.1094710	톰지호텔	Tomji Hotel	hotel	
+37.6107920	127.0307570	호텔빅토리아	Hotel Victoria	hotel	
+37.6071870	127.0779800	도그텔 애견호텔	Dogeutel Aegyeon Hotel	hotel	
+37.5205620	127.0286770	호텔선샤인	Hotel Sunshine	hotel	
+37.4938810	127.1186520	가락호텔	Garak Hotel	hotel	
+37.4958450	127.0298790	호텔쿤타	Hotel Kunta	hotel	
+37.4536000	126.6022580	이츠관광호텔	Icheu Tourist Hotel	hotel	
+37.5158445	126.7218188	부평 관광호텔	Bupyeong Tourist Hotel	hotel	
+37.7262780	126.6973160	위너스호텔	Wineoseu Hotel	hotel	
+37.7646780	126.7759436	윈저호텔	Winsor Hotel	hotel	
+37.7764600	126.6875820	호텔위즈	Hotel With	hotel	
+37.7773080	126.6876920	I.M.T 호텔	I.M.T Hotel	hotel	
+37.7642594	126.7723818	호텔세띠앙	Hotel Seddiang	hotel	
+37.7806100	126.6864640	부띠끄엠호텔	Buddiggeuem Hotel	hotel	
+37.8838390	126.8017000	호텔테마	Hotel Theme	hotel	
+37.8862510	126.8093690	미라지호텔	Miraji Hotel	hotel	
+37.7773080	126.6876920	칼튼호텔	Carlton Hotel	hotel	
+37.7259250	126.6931020	유로호텔	Yuro Hotel	hotel	
+37.7769930	126.6869480	스카이호텔	Sky Hotel	hotel	
+37.9011480	127.0575340	유림 관광호텔	Yurim Tourist Hotel	hotel	
+37.9103010	127.0572590	동두천관광호텔	Dongducheon Tourist Hotel	hotel	
+37.8967160	127.0487100	월드호텔	World Hotel	hotel	
+37.9079780	127.0519430	시마호텔	Sima Hotel	hotel	
+37.9108080	127.0576270	동두천관광호텔	Dongducheon Tourist Hotel	hotel	
+37.9658269	127.1955209	아도니스호텔	Adoniseu Hotel	hotel	
+37.7726860	127.1612670	유로호텔	Yuro Hotel	hotel	
+37.7302910	126.9508170	에버그린관광호텔	Ebeo Green Tourist Hotel	hotel	
+37.7766530	126.9408080	로얄호텔	Royal Hotel	hotel	
+37.7493590	126.9672870	호텔궁전	Hotel Gungjeon	hotel	
+37.7274426	126.9751371	호텔샤넬	Hotel Syanel	hotel	
+37.7755010	126.9409610	버킹검호텔	Beokinggeom Hotel	hotel	
+37.7900911	126.9540289	퍼시픽호텔	Pacific Hotel	hotel	
+37.7756030	126.9503480	갤러리호텔	Gallery Hotel	hotel	
+37.7413931	127.0473459	헤드원호텔	Hedeuwon Hotel	hotel	
+37.7417870	127.0472660	호텔컴인	Hotel Keomin	hotel	
+37.7422425	127.0525821	워커힐호텔	Walkerhill Hotel	hotel	
+37.7094380	127.1109600	골드관광호텔	Goldeu Tourist Hotel	hotel	
+37.7066150	127.1190810	뉴대도호텔	New Daedo Hotel	hotel	
+37.4850570	126.7866510	뉴프린스관광호텔	New Prince Tourist Hotel	hotel	
+37.5026786	126.7633723	코보스호텔	Hotel Koboseu	hotel	
+37.5029664	126.7634782	호텔시티		hotel	
+37.4965509	126.7765789	모리호텔	Mori Hotel	hotel	
+37.5028749	126.7640308	호텔에스알	Hotel SR	hotel	
+37.4730929	126.7984818	호텔베이커리	Hotel Beikeori	hotel	
+37.4590600	126.8742160	쉘브르호텔	Swelbeureu Hotel	hotel	
+37.4598100	126.8753580	호텔노블레스	Hotel Nobless	hotel	
+37.3904450	126.8050940	벨라지오호텔	Bellajio Hotel	hotel	
+37.3378430	126.7498690	시흥관광호텔	Siheung Tourist Hotel	hotel	
+37.3997540	126.9762430	센트럴관광호텔	Central Tourist Hotel	hotel	
+37.3997450	126.9762200	센트럴관광호텔	Central Tourist Hotel	hotel	
+37.3981438	126.9225369	뉴코리아관광호텔	New Korea Tourist Hotel	hotel	
+37.3981946	126.9224840	(주)삼원프라자호텔 (Samwon Plaza Hotel)	Samwon Plaza Hotel	hotel	
+37.3935420	126.9300080	소그노호텔	Sogeuno Hotel	hotel	
+37.3980375	126.9226674	삼원프라자호텔	Samwon Plaza Hotel	hotel	
+37.3801290	126.9755270	라무르호텔	Ramureu Hotel	hotel	
+37.0848000	126.9103310	월드관광호텔	World Tourist Hotel	hotel	
+37.2037210	126.9834340	그린피아관광호텔		hotel	
+37.1163230	126.8754670	제이스호텔	Jeiseu Hotel	hotel	
+37.1466280	126.8724640	세화호텔	Sehwa Hotel	hotel	
+37.0972380	126.8364740	그린월드호텔	Green World Hotel	hotel	
+37.1284630	126.8595420	화성스파빌호텔	Hwaseongseupabil Hotel	hotel	
+37.2891593	127.0994662	윈져캐슬 관광호텔	Windsor Castle Tourist Hotel	hotel	
+37.2471400	127.2120620	리즈빌호텔	Rijeubil Hotel	hotel	
+37.2337886	127.2093927	호텔컬리넌 용인	Hotel Cullinan Yongin	hotel	
+37.2685480	127.1048520	에이스호텔	Ace Hotel	hotel	
+37.1454900	127.0731260	럭셔리관광호텔	Luxury Tourist Hotel	hotel	
+37.1455000	127.0721120	제이스호텔	Jeiseu Hotel	hotel	
+37.1454810	127.0731030	럭셔리호텔	Luxury Hotel	hotel	
+37.1436900	127.0700070	닉스폭스호텔	Nikseupokseu Hotel	hotel	
+36.9953487	127.1127070	가보호텔	Gabo Hotel	hotel	
+36.9942370	127.0832650	캐슬호텔	Castle Hotel	hotel	
+37.0760600	127.0546580	경기관광호텔	Gyeonggi Tourist Hotel	hotel	
+36.9784316	126.9217151	호텔캐슬	Hotel Castle	hotel	
+37.0567230	127.1671530	프라다관광호텔	Peurada Tourist Hotel	hotel	
+37.6355570	126.4950030	호텔임페리얼	Hotel Imperieol	hotel	
+37.6351450	126.4909550	종로아카데미호텔	Jongnoakademi Hotel	hotel	
+37.2594880	127.0313421	Ibis Ambassador Suwon		hotel	
+37.5037983	127.0048872	JW 메리어트 호텔 서울	JW Marriott Seoul	hotel	5
+37.2737131	127.0182183	Regency Hotel		hotel	
+37.4832669	126.8989811	베스트웨스턴 프리미어구로호텔	Best Western Premier Guro Hotel Seoul	hotel	
+37.4864881	127.0140982	Centro		hotel	
+37.5012353	127.0354040	Mercure		hotel	
+37.5104412	126.9095009	우신호텔		hotel	
+37.9768991	126.5529367	개성민속려관	Kaesong Folk Hotel	hotel	
+37.3852675	127.1210473	호텔갤러리	Hotel Gallery	hotel	
+37.5652265	126.9224555	Whitetail Backpacker & Hostel		hostel	
+37.5624224	126.9697206	Fraser Place Central		hotel	
+37.5689427	126.9919694	GS Hotel		hotel	
+37.5515438	126.9157501	The Win Boutique Hotel	The Win Boutique Hotel	hotel	
+37.5298367	126.8396857	닉스호텔		hotel	
+37.5693271	126.9890292	호텔 더 디자이너스 종로	Hotel The Designers	hotel	3
+37.5455259	126.9258532	V mansion		hostel	
+37.5059841	126.7572127	부천 호텔(Bucheon Hotel)		hotel	
+37.5054244	126.7495653	고려호텔	Goryeo Hotel	hotel	
+37.2180517	127.0785666	Bell Hotel		hotel	
+37.2647973	127.0320724	The Hotel Bon		hotel	
+37.5531570	126.9153660	Cocoon Stay		hostel	
+37.5597994	127.0131042	Kimchee Dongdaemun2		hostel	
+37.3893854	126.6440701	오크우드 프리미어 인천	Oakwood Premier	hotel	
+37.5567797	126.9820193	힐하우스호텔	Hill House Hotel	hotel	
+37.5256864	126.9030788	하이서울 유스호스텔	Hi SEOUL YOUTH HOSTEL	hotel	
+37.5584082	126.9859867	LOOKHOME Myeongdong		hotel	
+37.3430312	126.7362945	J-Top		hotel	
+37.5692714	126.9909795	Hotel Ri[an]		hotel	
+37.5693286	126.9898656	Hotel Sheel		hotel	
+37.5695058	126.9907945	Khaosan Story Mini hotel		hostel	
+37.5685175	126.9907066	7 Street Hotel Seoul		hotel	
+37.5624384	126.9853541	솔라리아 니시테츠 호텔 서울 명동	Solaria Nishitetsu Hotel Seoul Myeongdong	hotel	
+37.5645876	126.9852156	호텔스카이파크 센트럴 명동점	Hotel Skypark Central	hotel	
+37.5065297	127.0306708	강남 패밀리 호텔		hotel	
+37.5749970	126.9895361	서울 53 호텔		hotel	
+37.5742042	126.9884920	이비스 앰배서더 인사동	Ibis Ambassador Insadong	hotel	
+37.9269266	126.6197870	송악프라자	Songak Plaza	hotel	
+37.5726390	126.9991873	호텔앳홈	Hotel At Home	hotel	
+37.5855403	127.0293400	Anam Hostel		hostel	
+37.4142872	126.6551986	라마다송도호텔 (Ramada Songdo Hotel)		hotel	
+37.5834674	127.0293636	Korea Guest House		hotel	
+37.4817093	126.9236217	1		hotel	
+37.6168914	126.9242088	Pencil 5 Seoul Hostel		hostel	
+37.5749673	126.9812106	서머셋팰리스서울	Somerset Palace Hotel	hotel	
+37.5526241	126.9226752	홍대프라자고시텔		hostel	
+37.5527453	126.9232814	펌킨게스트하우스	pumpkin guesthouse	hostel	
+37.5590373	126.9199239	Mr. Comma Guesthouse		hostel	
+37.5498145	126.9217573	스페이스 비		hostel	
+37.5597944	126.9225546	Seoulwise		hostel	
+37.5670081	126.9913726	스타즈호텔 명동1호점	Staz Hotel Myeongdong 1	hotel	
+37.4391956	126.4607094	Incheon airport hotel car park		hotel	
+37.5607963	126.9651250	Kimchee Downtown		hostel	
+37.5607375	126.9794892	호텔코지	Hotel Cozy	hotel	
+37.5300519	126.8412883	Mate		hotel	
+37.5625845	126.9927286	Tmark Hotel Myeongdong		hotel	3
+37.5575180	126.9837593	보듬게스트하우스서울타워	"Bodeum Stay Guesthouse, Myeongdong"	hostel	
+37.5650332	126.9924939	Hotel Bene		hotel	
+37.5716407	127.0033589	Kimchee Dongdaemun Guesthouse		hostel	
+37.4388936	126.4629784	Incheon Airport Egarak Residence		hotel	
+37.3895753	126.9330093	IRUDA		hotel	
+37.5610311	126.9846860	르와지르 호텔 서울	LOISIR HOTEL SEOUL	hotel	
+37.4727422	126.5976527	호텔 월미도		hotel	
+37.4409273	126.7096937	구월호텔		hotel	
+37.2630571	127.0646938	Dream Vill		hotel	
+37.4523726	126.7023704	프롬에이치 센트릭호텔 인천점	From H Centric Hotel Incheon	hotel	
+37.3022878	126.8638049	新羅城飯店		hostel	
+37.5984911	127.0548740	I-HOUSE I		hostel	
+37.5939103	127.0571546	I-HOUSE II		hostel	
+37.4455970	126.7034213	호텔라트리	Hotel La Tree	hotel	
+37.5175183	126.9028113	Courtyard Seoul Times Square		hotel	
+37.5619250	126.9983449	코코하우스	Coco Hausa	hostel	
+37.4167923	126.6511436	Motel Diva		hotel	
+37.5588832	126.9839811	7호텔	7 Hotel	hotel	
+37.4159317	126.9169237	CS프리미어 호텔		hotel	
+37.5641319	126.9855618	Royal Hotel Seoul		hotel	
+37.7438114	126.4900221	아삭아삭순무민박	asacasacguesthouse	hostel	
+37.3973839	127.1105061	코트야드 바이 메리어트 서울 판교	Courtyard by Marriott Seoul Pan-gyo branch	hotel	
+37.2025766	127.0732356	신라스테이 동탄	Shilla Stay Dongtan	hotel	4
+37.5623513	126.9783532	호텔 문	MOON hotel&guesthouse	hotel	
+37.3864282	127.1222595	노블레스호텔	Hotel Noblessse	hotel	
+37.3860952	127.1215339	메이트호텔	Mate Hotel	hotel	
+37.3854879	127.1201143	SR호텔	Hotel SR	hotel	
+37.5594344	126.9252161	Brownie guesthouse	Brownie guesthouse	hostel	
+37.5478673	126.9583923	코업시티하우스 공덕	Co-op Cityhouse Gongdeok	hotel	
+37.4856370	126.9042174	Shilla Stay Guro	Shilla Stay Guro	hotel	
+36.9928059	127.0864953	평택관광호텔		hotel	
+37.1007264	126.9076188	호빙하우스		hotel	
+37.3020629	126.8500059	서원호텔	Seowon Hotel	hotel	
+37.4751349	126.9531335	드림고시텔	Dream Hostel	hostel	
+37.5343255	126.9743811	Hause Itaewon	Hause Itaewon	hostel	
+37.5113883	127.0998877	롯데호텔월드	Lotte Hotel World	hotel	
+37.2453202	127.0149884	네팔 셀터	Nepal Shelter	hostel	
+37.4161647	126.6514741	알리스위트 호텔	R. Lee Suite Hotel	hotel	
+37.5589456	126.9851732	레드게스트하우스	Red Guest House Hotel	hotel	
+37.5715432	127.0034145	Hotel Seul		hotel	
+37.5594940	126.9258407	Seoul i guesthouse	Seoul i guesthouse	hostel	
+37.5595860	126.9278049	Stay ForU Hongdae	StayForU Hongdae	hostel	
+37.5745871	126.9968647	호텔제로	Zero Seoul	hotel	
+37.5247714	126.7558221	성진금속		hotel	
+37.3965182	127.1125786	호텔 신축 공사장		hostel	
+37.2683757	126.9991948	노보텔 앰버서더 수원	Novotel Ambassador Suwon	hotel	
+37.5692877	126.9911219	Hotel Ri[an]		hotel	
+37.8090521	126.7578060	호텔씨씨	Hotel cc241번길	hotel	
+37.5487935	126.9235245	Together Guesthouse		hostel	
+37.5548205	126.9303371	Lux Guesthouse		hostel	
+37.5710652	127.0108971	밀레니엄고시원		hostel	
+37.5785080	127.0277859	VIP고시원		hostel	
+37.5139923	127.0357796	Imperial Palace		hotel	
+37.5687926	127.0077601	호텔 스카이파크 킹스타운 동대문	Hotel Skypark Kingstown Dongdaemun	hotel	
+37.5447608	126.9506748	롯데시티호텔 마포	Lotte City Hotel Mapo	hotel	
+37.5617250	127.0677310	Hotel Noblesse & Meridian		hotel	
+37.5320995	126.9610704	그랜드 머큐어 앰배서더 서울 용산	Grand Mercure Ambassador Seoul Yongsan	hotel	
+37.5265284	127.1450336	Сеул		hotel	
+37.5125735	127.1028174	시그니엘 서울	Signiel Seoul	hotel	5
+37.5664312	127.0045359	노보텔앰배서더서울	Novotel Ambassador Seoul	hotel	
+37.5659673	126.9930949	Girls Generation Hostel		hostel	
+37.4000061	126.4208699	테스코 홈플러스아카데미		hotel	
+37.5601340	126.9713038	ramada Suites		hotel	
+37.5602740	126.9230392	우와게스트하우스	UWA GUESTHOUSE	hostel	
+37.4904395	126.7219285	토요코인 (ToyoKo Inn)		hotel	
+37.2690298	127.0066180	The Suite place		hotel	
+37.4901472	126.5816174	Echeon HQ		hotel	
+37.5716103	127.0000922	24 Guesthouse		hostel	
+37.5637662	127.0057192	호텔더디자이너스		hotel	
+37.5636853	126.9801549	Crown Park		hotel	
+37.5648318	126.9237637	Pajamaparty Guesthouse		hostel	
+37.4504501	126.4546219	Transit Hotel		hotel	
+37.5685773	126.9890942	서울게스트하우스	Seoul guesthouse foreigners only	hostel	
+37.5555153	126.9203491	The-Ore		hotel	
+37.5728182	126.9898709	HOTEL SEINE		hotel	
+37.5734864	126.9918513	Tong Tong Hotel		hotel	
+37.5723520	126.9897022	Hotel 2 Heaven		hotel	
+37.5352908	126.9982368	Imperial Palace Boutique Hotel Itaewon		hotel	
+37.5614994	126.9214846	스튜디오 41 서올 코리아	studio 41st	hostel	
+37.5613672	126.9845905	Ekonomy Hotel		hotel	
+37.5547727	126.9741041	K Pop Hotel		hotel	
+37.5333071	127.0845666	Hotel Peanut		hotel	
+37.2646264	127.0279210	Alex Hotel		hotel	
+37.4976572	127.0295785	강남 센트럴 푸르지오 시티	Gangnam Central Purugio City	hostel	
+37.5408555	126.8907701	TOV		hotel	
+37.2674599	127.0301666	Holiday Inn Express		hotel	
+37.5595945	126.9848234	Dong do hotel		hotel	
+37.5553271	127.1101533	그랜드 워커힐 서울	Grand WalkerHill Seoul	hotel	
+37.5543623	127.1112212	비스타 워커힐 서울	Vista WalkerHill Seoul	hotel	
+37.5565426	126.9485975	민게스트	Mingeasthouse	hostel	
+37.5599353	126.8353991	호텔 엠펠리체	Hotel M-FELICE	hotel	
+37.5600276	126.9795778	L'ESCAPE HOTEL		hotel	
+37.5616945	127.0608369	JJ호텔		hotel	
+37.6476615	127.0112104	영호텔		hotel	
+37.6045938	127.0247711	문화여인숙2F         한울.수정		hostel	
+37.5940150	127.0173478	호텔로데오		hotel	
+37.2671036	127.0286433	SILK		hotel	
+37.2674190	127.0290548	BLYi		hotel	
+37.2667688	127.0275082	DIAMOND		hotel	
+37.4742688	126.6215318	호텔아띠		hotel	
+37.4373033	126.4556711	파라다이스시티 호텔 & 리조트	Paradise City Hotel & Resort	hotel	
+37.4369933	126.4577810	파라다이스시티 아트 파라디소	Paradise City Art Paradiso	hotel	
+37.5553622	126.9223807	머큐어 앰버서더 호텔 홍대	Mecure Ambassader Hotel Hongdae	hotel	
+37.3889920	126.7399656	황제호텔		hotel	
+37.3889034	126.7403122	PLUS		hotel	
+37.7114802	127.1871780	호텔그램		hotel	
+37.5221347	127.0195590	라까사호텔	La Casa Hotel	hotel	
+37.5213160	127.0191617	애인호텔		hotel	
+37.4795201	126.8887559	호텔해담채 가산	HOTEL HAEDAMCHAE GASAN	hotel	
+37.5631749	126.9782624	토마스호텔	Hotel Tomas	hotel	
+37.5631227	126.9780479	Travelodge Myeongdong City Hall	Travelodge Myeongdong City Hall	hotel	
+37.5817183	127.0476715	호텔 더 디자이너스 청량리	Hotel The Designers Cheongnyangni	hotel	
+37.2865375	127.2165073	Ramada Yongin		hotel	
+37.2870127	127.2158251	Q Hotel		hotel	
+37.2569232	127.1515761	흥국생명연수원		hostel	
+37.7417560	126.9512509	그레이캐슬 펜션	Grey Castle Pension	hotel	
+37.4050519	126.6280345	더노벰버스테이인송도랜드마크	The Novemberstay in Songdo-Landmark	hotel	
+37.5578004	126.9301880	아담여관		hostel	
+37.5587786	126.9295105	야코리아호스텔 홍대점		hostel	
+37.5569593	126.9325528	우산속풍경		hostel	
+37.5540477	126.9314006	태양고시텔		hostel	
+37.5642914	127.0661295	White Hotel		hotel	
+37.7895228	127.1658451	부띠끄호텔락		hotel	
+37.7725435	127.1642991	수목원호텔		hotel	
+37.7722638	127.1643168	쟈스민		hotel	
+37.7960569	127.1646714	호텔갤러리		hotel	
+37.4988697	126.9982349	모텔 서래		hotel	
+37.6934238	127.2215786	레이크무인호텔		hotel	
+37.5536504	126.9143000	Inno Guesthouse		hostel	
+37.5612297	126.9868853	L7 명동	L7 Myeongdong	hotel	
+37.5045345	127.0437906	야코리아호스텔 강남	Ya Korea Hostel Gangnam	hostel	
+37.5611701	126.9215105	버즈네스트호스텔 홍대	Hongdae Birdsnest Hostel	hostel	
+37.4131653	127.0978036	나인트리 프리미어 호텔 서울 판교	Nine Tree Premier Hotel Seoul Pangyo	hotel	
+37.5033820	127.0415998	Josun Palace		hotel	
+37.3808185	127.1039857	DoubleTree by Hilton Seoul Pangyo		hotel	5
+37.5582738	126.9865101	오요루프탑호스텔	OYO Rooftop Hostel	hostel	
+37.5570623	126.9385067	로컬프렌즈 호텔 신촌점		hotel	
+37.3803799	127.1046931	DoubleTree by Hilton Seoul Pangyo Residences		hotel	
+37.5613251	126.9958927	HOTEL DOMA		hotel	
+37.5531081	126.9219297	Jin's paradise hostel	Jin's prarise hostel	hostel	
+37.5655633	126.9894710	Four Points by Sheraton Josun		hotel	
+37.5206828	127.0189577	리츠호텔		hotel	
+37.5569402	126.8677620	JK블라썸호텔		hotel	
+37.5418159	126.9482176	로이넷 호텔	Roynet Hotel	hotel	3
+37.5145606	126.9084093	I sleep alone		hotel	
+37.5651052	126.9836210	메트로호텔	Metro Hotel Myeongdong	hotel	
+37.5653978	127.0240767	토요코인 서울동대문2	Toyoko Inn Seoul Dongdaemun 2	hotel	
+37.6184577	126.4618699	남취당의 한옥이야기펜션		hotel	
+37.5016920	127.1097883	Corner Hotel		hotel	
+37.4820498	127.1239533	호텔 파크하비오	Hotel Park Habio	hotel	
+37.5333251	126.9949502	G Guest House Itaewon		hostel	
+37.5608723	126.9913479	디어스 명동	Dears Myeongdong	hotel	
+37.1854187	127.0979327	저스트슬립호텔 동탄역점		hotel	
+37.5585617	126.9806127	Hotel Mido Myeongdong		hotel	
+37.5468892	127.0462829	호텔 아우프글렛	Hotel Aufglet	hotel	
+37.4771213	126.9805581	SR Hotel Sadang		hotel	
+37.5513827	126.9101804	포시즌하우스 서울		hotel	
+37.4691609	126.4343424	Darakhyu Capsule Hotel		hotel	
+37.5372038	126.9443228	호텔 나루 서울 엠갤러리	Hotel Naru Seoul - MGallery	hotel	
+37.4057350	126.6291929	UH FLAT 더 송도	UH Flat the Songdo	hotel	4
+37.5927568	127.0185808	DH네상스호텔	DH Naissance Tourist Hotel	hotel	
+37.5709168	127.0146473	호텔가온골든파크	Hotel Gaon Golden Park	hotel	
+37.5568756	126.9386150	dreaming hostel		hostel	
+37.2870393	127.0138541	호텔도노	Dono Hotel	hotel	
+37.5156111	127.0600021	Hotel in 9		hotel	
+37.5643321	126.9840218	호텔28 명동	Hotel 28 Myeongdong	hotel	
+37.4613431	126.8971337	MD호텔		hotel	
+37.3795831	127.1155184	Hotel JJ		hotel	
+37.5688621	126.9884804	Lemong Hotel		hotel	
+37.5763524	126.9899489	Coups Hotel		hotel	
+37.5675769	126.9808906	호텔미드시티명동	Hotel Midcity Myeong Dong	hotel	
+37.5689454	126.9847438	엠지 호텔 종각		hotel	
+37.5567846	126.9771693	케이팝 서울타워		hotel	
+37.5693683	126.9863220	헤리티지31호텔		hotel	
+37.5692429	126.9882097	종로 부티크k호텔		hotel	
+37.5638254	126.9799359	Seoul Cube Meyongdong		hostel	
+37.5646838	127.0089605	토요코인호텔	Toyoko INN	hotel	
+37.5651368	127.0022647	glory inn		hotel	
+37.5630378	127.0321133	k-grand hostel dongdaemun		hostel	
+37.4724152	126.8953418	88 Hotel		hotel	
+37.4682706	126.4360740	Incheon Terminal 2 Transit Hot		hotel	
+37.5611216	127.0055880	PIPE Hostel DDP		hostel	
+37.3677066	126.9446659	AC 호텔 서울금정	AC Hotel Seoul Geumjeong	hotel	
+37.4994112	127.0354726	강남 스테이(GANGNAM STAY)		hotel	
+37.5050810	127.0542861	Hotel Cullinan Jongno Daechi		hotel	
+37.5762410	126.9889599	J.HillHouse		hotel	
+37.5576721	126.9266770	홀리데이인 익스프레스	Holiday Inn Express	hotel	
+37.5664295	126.8254635	머큐어 서울 마곡		hotel	
+37.5584301	126.9851425	Olive Hostel Myeongdong		hotel	
+37.2625822	127.0357650	Four Pointsu by Sheraton Suwon		hotel	
+37.2698506	126.9996624	J		hotel	
+37.4688934	126.6256652	Sono		hotel	
+37.5054696	126.8840702	THE LINK SEOUL		hotel	
+37.7077137	127.0486365	그레이 호텔		hotel	
+37.6037288	127.0621418	제이앤파크호텔 동대문		hotel	
+37.5733123	127.0193158	Hotel DM Dongdaemun		hotel	
+37.5083691	126.6451291	호텔원티드 인천 청라		hotel	
+37.5065595	126.8853578	라마다서울신도림호텔	RAMADA SEOUL SINDORIM	hotel	
+37.3089079	126.8282843	호텔박스		hotel	
+37.3085427	126.8311700	에비뉴나인호텔		hotel	
+37.5052169	127.0501609	Positive Hotel		hotel	
+37.5651721	127.0026995	베이튼 서울 동대문 호텔	Baiton Seoul Dongdaemun Hotel	hotel	
+37.5630683	126.9239955	Roi Guisthouse		hotel	
+37.4721772	126.8952561	88호		hotel	
+37.5110727	127.0811702	파로스호텔	Hotel Pharos	hotel	
+37.5109391	127.0813901	포레스타2 호텔	Hotel Forestar 2	hotel	
+37.5112226	127.0837483	라몬호텔	Hotel Ramon	hotel	
+37.5112041	127.0842428	윈호텔	Hotel Wynn	hotel	
+37.5112067	127.0843962	호텔 플러스	Hotel Plus	hotel	
+37.5112375	127.0834266	MW호텔	MW Hotel	hotel	
+37.5638320	126.8027024	롯데시티호텔 김포공항	Lotte City Hotel Gimpo Airport	hotel	
+37.5057026	127.0517173	L7 강남	L7 Gangnam	hotel	
+37.1761753	126.6225170	호텔제부도		hotel	
+37.2826452	126.4618444	영흥36패밀리		hotel	
+37.2711689	126.4487110	인썸		hotel	
+37.5729863	126.9873217	오라카이 인사동 스위츠	Orakai Insadong Suites	hotel	
+37.5615760	126.9847093	Savoy		hotel	
+37.5613163	126.9841466	Skyparki		hotel	
+37.5761200	126.9988248	Mayplace Hotel		hotel	
+37.5593093	126.9851687	OYO Myeongdong 6 Hostel		hotel	
+37.5706731	126.9753522	포시즌스호텔 서울	Four Season Hotel SEOUL	hotel	
+37.5604866	126.9719348	Hotel Modak Namdaemun		hotel	
+37.5547322	126.9356106	브라운스위트 신촌센트럴		hotel	
+37.5561072	126.9373107	호텔라싸		hotel	
+37.2150302	126.6042181	새중앙교회대부도수양관		hotel	
+37.4257839	126.4207045	Hotel Hue Loft		hotel	
+37.5569867	126.9424475	신촌자이엘라		hostel	
+37.5745450	126.9832069	Nine Tree by Parnas		hotel	
+37.5568257	126.9420717	굿타임호텔		hotel	
+37.5635339	126.9988024	The capsule - Myeongdong		hotel	
+37.5660006	126.9930891	Friends Residence		hostel	
+37.7498267	127.0720664	라트리 호텔		hotel	
+37.5619993	126.9854787	Sleepbox Myeongdong		hostel	
+37.2315440	126.5608529	더헤븐 리조트		hotel	
+37.5562702	126.9167315	Local Stitch Creator Town Seogyo		hotel	
+37.4265575	126.4212391	Benikea Hotel		hotel	
+37.5640140	127.0152803	Roaming TIger Hostel		hostel	
+37.5563323	126.9379224	밀하우스		hotel	
+37.5565357	126.9382666	바론드호텔		hotel	
+37.5568089	126.9383345	스테이더디자이너스신촌		hostel	
+37.5564834	126.9376149	호텔 퍼스트스테이 홍대		hotel	
+37.5566827	126.9379876	가을호텔 신촌점		hotel	
+37.5571193	126.9378983	포레스타 신촌점		hotel	
+37.5274055	126.7116926	이상한호텔		hotel	
+37.3036802	126.7382730	더하운드 반달섬2		hotel	
+37.5728767	126.9900365	Zen Seoul Stay		hotel	
+37.5585237	126.9423140	아리움2차오피스텔		hostel	
+37.5575813	126.9426007	월 호텔		hotel	
+37.5573090	126.9424404	에버에잇 레지던스		hotel	
+37.5570118	126.9431954	서울 그랜드호스텔 이대		hostel	
+37.5573439	126.9433720	Beyond Suite		hotel	
+37.5213848	126.8968901	STAY AND YOU		hotel	
+37.5565184	126.9397009	URBAN HOTEL&PLAY 신촌점		hotel	
+37.5813826	126.9868918	휴앤휴		hotel	
+37.5674023	127.0074354	하이동대문호스텔		hostel	
+37.5815694	126.9863086	해인정한옥부티크호텔		hotel	
+37.5826340	126.9874342	The Prima Hotel Hanok Dambakjae Gyedong		hotel	
+37.5563098	126.9425601	에이치에비뉴호텔 이대점	H Avenue Hotel	hotel	
+37.5171160	127.0198560	About Stay		hotel	
+37.5656991	126.9289076	스테이홍대		hotel	
+37.5569346	126.9384021	APL Hotel		hotel	
+37.2668429	126.5621620	호텔오투비		hotel	
+37.5537238	126.9358006	피터캣호텔		hotel	
+37.5535826	126.9360585	라뉘호텔		hotel	
+37.5533929	126.9363815	와이호텔		hotel	
+37.2675146	126.5605558	송림장		hotel	
+37.5056780	127.0295200	도미인 서울 강남	Dormy Inn Seoul Gangnam	hotel	
+37.2744933	126.5666838	꿈의궁전		hotel	
+37.2855386	126.5731109	대부도관광호텔 마리나		hotel	
+37.2848756	126.5728876	어반아일랜드		hotel	
+37.5662976	126.9963222	국도호텔		hotel	
+37.5764289	126.9986056	서울대병원 넥슨어린이통합케어지원센터 도토리하우스	NEXON Children's Integrated Care Center (Dotorihouse)	hotel	
+37.5766823	126.9910579	SULLA STAY		hotel	
+37.5723895	126.9874582	N285호텔		hotel	
+37.5712607	126.9852507	호텔통안단테		hotel	
+37.5715618	127.0129157	블랙호텔		hotel	
+37.5615600	126.9827331	르 메리디앙 서울 명동	"Le Méridien Seoul, Myeongdong"	hotel	
+37.5617012	126.9826430	목시 서울 명동	"Moxy Seoul, Myeongdong"	hotel	
+37.5012875	127.0354999	AC Hotel Seoul Gangnam		hotel	
+37.5621145	126.9846905	K그랜드호텔명동		hotel	
+37.5087005	127.0220559	W-hostel		hotel	
+37.5548941	126.9265081	Hithere Guesthouse		hostel	
+37.5403607	127.2155054	호텔씨엘		hotel	
+37.5401061	127.2131774	루시호텔		hotel	
+37.5402424	127.2133396	연 호텔		hotel	
+37.5404117	127.2134890	호텔바움		hotel	
+37.5091309	127.0606904	그랜드 인터콘티넨탈 호텔 서울	Grand InterContinental Seoul Parnas	hotel	
+37.5128223	127.0572554	웨스틴 서울 파르나스	The Westin Seoul Parnas	hotel	
+37.5109858	127.0581060	오크우드 프리미어 코엑스센터 서울	"Oakwood Premier Coex Center, Seoul"	hotel	5
+37.5086298	127.0641676	파크 하얏트	Park Hyatt	hotel	
+37.2535122	127.0725582	랜드마크 호텔	Hotel Landmark	hotel	
+36.9875787	126.4427762	서산수리조트 W1		hotel	5
+36.9897251	126.4416681	Winchest Hotel W1		hotel	5
+36.9921876	126.4433007	서산수리조트		hotel	5
+36.9913609	126.4417628	Winchest Hotel W1		hotel	5
+36.9894018	126.4414145	Winchest Hotel W1		hotel	5
+37.0788574	127.0509259	베니키아호텔아시아	Benikea Hotel Asia	hotel	
+37.5652286	126.9806329	롯데호텔서울	Lotte Hotel	hotel	
+37.5041363	127.0046539	JW 메리어트 호텔 서울	JW Marriott Hotel Seoul	hotel	
+37.2776866	127.0325745	라마다호텔 중부대로 - Ramada Plaza by Wyndham Suwon - 라마다 프라자 수원	Ramada Plaza Suwon	hotel	
+37.2544604	127.0752667	Hotel Amour		hotel	
+37.2546076	127.0753974	심포니 호텔	Hotel Symphony	hotel	
+37.5347517	126.9938019	헤밀턴 호텔	Hamilton Hotel	hotel	
+37.2539393	126.4858120	비치클럽펜션	Beach Club Pansion	hostel	
+37.0785981	127.0527480	송탄관광호텔		hotel	
+37.5395639	126.9975000	그랜드하얏트 호텔	Grand Hyatt Seoul	hotel	
+37.5646476	126.9780607	더플라자호텔	The Plaza Hotel	hotel	
+37.5679633	126.9780959	뉴서울호텔		hotel	
+37.5655616	126.9793625	프레지던트호텔	President Hotel	hotel	
+37.9786920	126.5646127	Janamsan Hotel (자남산려관)		hotel	
+37.4742679	126.8688710	광명 JS 부티크 호텔	Gwangmyeong JS Boutique Hotel	hotel	
+37.5289103	126.8430230	앤프라 레지던스		hostel	
+37.5290476	126.8473422	호텔드어반		hotel	
+37.5299741	126.8408810	메이트 관광호텔		hotel	
+37.5051114	126.7489973	폴라리스호텔(Pollariseu Hotel)	Pollariseu Hotel	hotel	
+37.5614311	126.9879975	세종호텔	Sejong Hotel	hotel	
+37.5597094	126.9854214	퍼시픽호텔	Pacific Hotel	hotel	
+37.5542926	126.9211663	라이즈	RYSE	hotel	
+37.5532750	126.9197099	베니키아프리미어 메리골드호텔		hotel	
+37.5523426	126.9181712	보보호텔	BOBO HOTEL	hotel	
+37.4947329	127.0183018	프로비스타호텔 (Peuro Vista Hotel)	Peuro Vista Hotel	hotel	
+37.5494626	126.9070822	강변장 Motel		hotel	
+37.3881575	126.6408870	오라카이 송도파크호텔	Orakai Songdo Park Hotel	hotel	
+37.3905869	126.6373477	송도센트럴파크호텔	Songdo Central Park Hotel	hotel	
+37.5581936	126.9796616	뉴코리아호텔	New Korea Hotel	hotel	
+37.5488927	126.9094683	남경호텔		hotel	
+37.5488122	126.9101783	남경장호텔	Namkyong Hotel	hotel	
+37.5490116	126.9105268	남경장호텔	Namkyong Hotel	hotel	
+37.5488677	126.9107574	써클호텔	Hotel Circle	hotel	
+37.3845758	126.6387012	호텔 스카이파크 인천송도		hotel	
+37.4761917	127.0466387	호텔데님	Hotel Denim	hotel	
+37.5617449	126.9842474	사보이호텔	SAVOY HOTEL	hotel	
+37.5617157	126.9854289	미조호텔		hotel	
+37.5636859	126.9850098	소테츠 프레사 인 서울 명동	Sotetsu Fresa Inn Seoul Myeong-dong	hotel	
+37.5533813	126.9363117	24		hotel	
+37.5531513	126.9359727	19		hotel	
+37.5261123	127.0535996	Blue Pearl		hotel	
+37.5274090	127.0366398	프린세스 호텔	Princess Hotel	hotel	
+37.5704203	127.0088158	JW 메리어트 동대문 스퀘어	JW Marriott Dongdaemun Square Seoul	hotel	
+37.5669566	127.0064097	ECONOMY HOTEL		hotel	
+37.5651693	127.0062690	에비뉴모텔	Avenue Motel	hotel	
+37.5641435	127.0088136	이비스버젯 앰배서더	Ambassador Seoul Dongdaemun	hotel	
+37.5669379	126.9879997	롯데시티호텔 명동	Lotte City Hotel Myeong-dong	hotel	
+37.5620296	126.9882690	헨나호텔 서울 명동	Henn na Hotel Seoul Myeongdong	hotel	
+37.5616558	126.9871285	더그랜드호텔	The Grand Hotel Myeongdong	hotel	
+37.8984186	126.7316931	캠프그리브스 유스호스텔		hostel	
+37.4262447	126.4217728	파크우드 호텔	Parkwood Hotel	hotel	
+37.5586239	126.9809314	렉스호텔	Rek Hotel	hotel	
+37.5682306	126.9766528	호텔코리아나	Hotel Koreana	hotel	
+37.5604751	126.9718711	라마다호텔앤스위트 서울남대문	"Ramada Hotel and Suites, Seoul Namdaemun"	hotel	
+37.5613652	126.9765122	프레이저플레이스	Fraser Namdaemun	hotel	
+37.5660436	126.9963413	베스트 웨스턴 프리미어 호텔 국도	Best Western Premier Hotel Kukdo	hotel	
+37.4383392	126.4597822	베스트 웨스턴  인천에어포트 호텔	Best Western Premier Incheon Airport Hotel	hotel	
+37.3866917	127.1241494	리젠시호텔	Hotel Regency	hotel	
+37.4405857	126.4575550	그랜드 하얏트 인천	Grand Hyatt Incheon	hotel	
+37.6626155	126.7501620	SONO CALM 2		hotel	
+37.5320034	126.9618671	노보텔 앰배서더 서울 용산	NOVOTEL ambassador Seoul Yongsan	hotel	
+37.5319858	126.9621546	서울드래곤시티	Seoul Dragon City	hotel	
+37.2058380	127.0746693	Ramada	Ramada Hotel Dongtan	hotel	
+37.3673430	127.1073149	칼튼호텔		hotel	
+37.3675114	127.1067336	글로리아호텔		hotel	
+37.6094806	126.9751855	킴스관광호텔		hotel	
+37.5478395	126.8186307	메이필드호텔	Mayfield Hotel	hotel	5S
+37.5326176	126.7353732	반도호텔		hotel	
+37.4973777	126.8459712	호텔 베르누이		hotel	
+37.6629008	126.7672583	부티크호텔케이		hotel	
+37.5935577	127.0165727	아리랑힐호텔		hotel	
+37.5095968	127.0642872	부티크 호텔 XYM	Boutique Hotel XYM	hotel	
+37.5611133	126.8395040	SR호텔		hotel	
+37.5479252	126.8780550	골든서울호텔	Golden Seoul Hotel	hotel	
+37.4250349	126.4283152	네스트호텔	Nest Hotel	hotel	
+37.5407139	126.9484164	베스트웨스턴 프리미어 서울가든호텔	Best Western Premier Seoul Garden Hotel	hotel	4
+37.5731003	126.9833828	The Prima Hotel Jongno	The Prima Hotel Jongno	hotel	3
+37.3079053	126.8489283	아우라관광호텔		hotel	
+37.5253666	126.9266335	Conrad Seoul	Conrad Seoul	hotel	5
+37.5138278	127.1061904	Sofitel	Sofitel Ambassador Seoul Hotel & Serviced Residences	hotel	5
+37.5254898	127.0288978	ANdAZ		hotel	5
+37.5727195	126.9811031	신라스테이 광화문	Shilla Stay Gwanghwamun	hotel	
+37.2614872	127.0346246	밸류 하이엔드 호텔	Value High End Hotel	hotel	
+37.5706627	126.9753659	포시즌스호텔 서울	Four Season Hotel SEOUL	hotel	
+37.6544782	127.0575458	호텔 럭스	Hotel LUXE	hotel	
+37.4739411	126.5985457	호텔 루비		hotel	
+37.5730224	126.9847333	썬비호텔	Hotel Sun Bee	hotel	
+37.5734501	126.9846998	세림호텔	Serim Hotel	hotel	
+37.5749658	126.9846435	Insa Hostel		hostel	
+37.5622700	127.0068149	Summit Hotel	Summit Hotel	hotel	
+37.5616620	126.9893327	Ibis Styles	ibis Styles Ambassador Seoul Myeongdong	hotel	
+37.6250311	126.4872197	강화로얄호스텔	Ganghwa Royal Hostel & Waterpark	hotel	
+37.5641229	126.9986516	치선호텔서울명동	Chisun Hotel Seoul MyeongDong	hotel	
+37.3730263	127.0219356	바라산자연휴양림		hostel	
+37.6306292	126.8311681	페이지호텔		hotel	
+37.6379587	126.8340108	카르마호텔		hotel	
+37.6315678	126.8329414	화정호텔		hotel	
+37.6576879	126.7562155	K-컬쳐벨리 호텔/공연장 신축공사		hotel	
+37.5597951	126.8358833	마곡인터시티 서울 호텔	InterCity Seoul	hotel	
+37.5597539	126.8363181	더퍼스트스테이 호텔	The First Stay Hotel	hotel	
+37.5557367	126.9216279	롯데호텔 L7홍대	L7 Hongdae	hotel	
+37.6466377	127.1251506	호텔더메이	Hotel the May	hotel	
+37.5724767	126.9842158	아미드호텔 서울	Amid Hotel Seoul	hotel	3
+37.5724055	126.9872031	도미인 Express 서울인사동	Dormy Inn EXPRESS SEOUL Insadong	hotel	
+37.6243748	126.8355206	호텔넘버25		hotel	
+37.5088624	127.0645737	글래드호텔	GLAD Hotel	hotel	
+37.5670139	126.8294849	Marriott	Courtyard by Marriott Seoul Botanic Park	hotel	
+37.5642769	126.9856152	로얄호텔서울		hotel	
+37.5648951	126.9850996	호텔스카이파크 명동2호점		hotel	
+37.6149444	126.8337940	고양호텔유지		hotel	
+37.6678839	126.7489444	S2 특급호텔용지		hotel	
+37.6619577	126.7509081	SONO CALM		hotel	
+37.6389899	126.6838755	호텔 ARISU		hotel	
+37.5385201	126.8934103	위브스위트 선유 파크사이드		hotel	
+37.4859421	127.0328065	Hilton Garden Inn Seoul Gangnam		hotel	
+37.5153772	127.1143639	그리스호텔		hotel	
+37.5158397	127.1136070	초이스모텔		hotel	
+37.5156862	127.1138405	호텔2.4		hotel	
+37.5155625	127.1143382	홀리데이호텔		hotel	
+37.5161100	127.1137265	LaTREE HOTEL		hotel	
+37.5159806	127.1137004	아테네호텔		hotel	
+37.5159917	127.1109331	까사호텔		hotel	
+37.5158680	127.1109504	머니호텔		hotel	
+37.5163255	127.1109266	아이다호텔		hotel	
+37.5161678	127.1107746	IMT모텔		hotel	
+37.5317568	126.9813022	드래곤 힐 랏지	Dragon Hill Lodge	hotel	
+37.5301819	126.9252489	여의도호텔		hotel	
+37.5302906	126.9219656	켄싱턴호텔여의도 Kensington Hotel Yoido		hotel	
+37.5301813	126.9206427	코보스호텔		hotel	
+37.5303508	126.9204826	호텔벤허		hotel	
+37.5282614	126.9200636	더 코노셔 레지던스 & 살롱 드 여의도		hotel	
+37.5274120	126.9172554	글래드여의도호텔		hotel	
+37.5221750	127.1165334	서울올림픽파크텔	Seoul Olympic Parktel	hotel	4
+37.1069979	127.0971246	화랑관	Hwarang-gwan	hostel	
+37.1076796	127.0974662	무봉관	Moobong-gwan	hostel	
+37.5582694	126.9111889	Apple tree guest house		hostel	
+37.5571437	126.9187256	아만티호텔웨딩		hotel	
+37.5174740	126.9089447	호텔 GMS	Hotel GMS	hotel	
+37.5705819	126.9853259	서울YMCA관광호텔		hotel	
+37.5622228	126.9818818	알로프트 서울 명동	Aloft Seoul Myeongdong	hotel	
+37.5571148	126.9748276	Hotel Manu		hotel	
+37.2373139	127.0735993	엠스테이호텔		hotel	
+37.6537078	126.7778540	라트리호텔		hotel	
+37.5052077	127.0969731	ZU:M		hotel	
+37.3270651	126.8013404	라성관광호텔		hotel	
+37.3145171	126.7989914	호텔 스퀘어	Hotel Square	hotel	
+37.6094535	126.9320333	벨라지오관광호텔		hotel	
+36.9914555	126.9127529	로얄관광호텔	Royal Tourist Hotel	hotel	
+37.5648074	127.0079457	소테츠 호텔즈 더 스프라지르 서울 동대문	Sotetsu Hotel The Splaisir Seoul Dongdaemun	hotel	
+37.5648405	126.9957191	PJ호텔	PJ Hotel	hotel	
+37.2613211	127.0249159	미르호텔		hotel	
+37.5600491	126.9911605	오리엔스호텔앤레지던스	Oriens Hotel & Residences	hotel	
+37.5608021	126.9912693	호텔더블에이	Hotel Double A	hotel	
+37.5606916	126.9870028	호텔 마흐리트	Hotel Marguerite	hotel	
+37.2871176	127.1053093	그레이스호텔		hotel	
+37.5596750	126.9794413	레스케이프 호텔	Lescape Hotel	hotel	
+37.5110634	127.0794695	폼호텔	Hotel Form	hotel	
+37.5048943	127.0880589	잠실관광호텔	Jam Sil Tourist Hotel	hotel	
+37.5108242	127.0797948	칸호텔		hotel	
+37.5111668	127.0797197	히트호텔	HIT Hotel	hotel	
+37.5110753	127.0818300	호텔더캐슬 신천점	Hotel The Castle	hotel	
+37.5109434	127.0816502	포레스타1 호텔	Hotel Forestar 1	hotel	
+37.5110441	127.0822086	라비앙호텔	Hotel Lavieen	hotel	
+37.5100495	127.0805652	상주호텔	Hotel Sangju	hotel	
+37.5089114	127.0576156	유리엔호텔		hotel	
+37.6013174	126.7858232	Ramada		hotel	
+37.7122066	127.1877772	호텔하비비		hotel	
+37.7120024	127.1876058	JD관광호텔		hotel	
+37.7117769	127.1874571	호텔나인		hotel	
+37.5170988	126.9093241	페어필드 바이 메리어트 서울	Fairfield by Marriot Seoul	hotel	
+37.5386905	126.8930546	유니언호텔	Union Hotel	hotel	
+37.5553138	126.9223846	Mercure Ambassador Seoul Hongdae		hotel	
+37.5622842	126.9738345	ENA Suite Hotel		hotel	
+37.5048575	127.0413327	신라스테이	Shilla Stay	hotel	
+37.5037930	126.9156014	해군호텔		hotel	
+37.5616466	126.9768429	호텔 그레이스리 서울	Hotel Gracery Seoul	hotel	
+37.4919076	127.0300755	토요코인 서울강남	Toyoko Inn Seoul Gangnam	hotel	
+37.4894679	127.0301829	신라스테이 서초	Shillia Stay Seocho	hotel	
+37.5251760	126.9290499	페어몬트 앰배서더 서울	Fairmont Ambassador Seoul	hotel	
+37.4490823	127.0546352	오라카이 청계산호텔		hotel	
+37.5202936	127.0285318	Four Points by Sheraton		hotel	
+37.4682312	127.1438726	밀리토피아 호텔		hotel	
+37.5569403	126.8675894	JK블라썸호텔		hotel	
+37.2845286	127.0575822	코트야드 바이 메리어트	Courtyard by Marriott	hotel	
+37.7156339	126.7618798	호텔시에나		hotel	
+37.5584618	126.9785567	보코 서울 명동		hotel	4
+37.6475997	126.8750913	호텔더윈		hotel	
+37.4655923	126.7096321	베스트웨스턴 인천로얄호텔		hotel	
+37.5674328	127.0018629	Hotel U5		hotel	
+37.4191803	126.8831081	테이크호텔		hotel	
+37.6766336	126.7484308	라트리호텔		hotel	
+37.6765657	126.7486033	호텔마블		hotel	
+37.6764844	126.7487764	보보호텔		hotel	
+37.6764053	126.7489369	룩소르호텔		hotel	
+37.6750724	126.7480067	럭셔리호텔	Luxury Hotel	hotel	
+37.6447196	126.7872311	발렌타인호텔		hotel	
+37.6443101	126.7870261	앙띠브호텔		hotel	
+37.6441381	126.7871771	호텔미라벨		hotel	
+37.6436398	126.7858764	카프리		hotel	
+37.6435446	126.7860056	BS호텔		hotel	
+37.6420828	126.7887192	호텔캘리포니아		hotel	
+37.6418231	126.7882949	필그린호텔		hotel	
+37.6417029	126.7884753	호텔로젠하임		hotel	
+37.6415743	126.7886523	호텔클레오파트라		hotel	
+37.5674745	126.9943172	호텔 더 보타닉	Hotel The Botanik	hotel	
+37.5719069	126.9982079	호텔 아트리움	Atrium Hotel	hotel	
+37.5663138	127.0043807	노보텔 앰배서더 서울 동대문	Novotel Ambassador Seoul Dongdaemun	hotel	
+37.6921008	126.7627239	발렌타인호텔		hotel	
+37.6920971	126.7624565	캐리호텔		hotel	
+37.6921008	126.7622371	드림캐슬호텔		hotel	
+37.6921113	126.7620240	호텔니꼬		hotel	
+37.6921105	126.7617867	사이버21호텔		hotel	
+37.6915231	126.7621369	호텔미카사		hotel	
+37.6908231	126.7623010	호텔K		hotel	
+37.6899596	126.7628023	아바타호텔	Abata Hotel	hotel	
+37.2820597	126.4874159	우성리조트		hotel	
+37.5012286	126.9334834	핸드픽트호텔	Handpicked Hotel & Collection	hotel	
+37.6188997	126.5328833	강화궁		hotel	
+37.5979921	127.0937828	호텔스타 상봉		hotel	
+37.5981731	127.0937494	코안도르 호텔		hotel	
+37.3931926	126.6328698	홀리데이인 인천송도	Holiday Inn IncheonSongdo	hotel	
+37.5643590	126.9908959	나인트리호텔 명동2	NINE TREE PREMIER HOTEL MYEONGDONG II	hotel	
+37.2253256	127.1041391	비엔호텔	Bien Hotel	hotel	
+37.2255665	127.1043539	아미부띠끄호텔	Ami Boutique Hotel	hotel	
+37.5977499	127.1360275	첼로호텔		hotel	
+37.9698559	126.5405041	역전려관	Yokton Hotel	hotel	
+37.5101970	126.9236531	공군호텔		hotel	
+37.4934408	127.0281900	강남아르누보씨티	Gangnam Artnouveau City	hotel	
+37.5942209	127.0784884	라코지스테이서울		hotel	
+37.5651523	126.9667961	신라스테이 서대문	Shilla Stay Seodaemun	hotel	
+37.5813447	126.9855297	The Prima Hotel Hanok Dambakjae Gahoe		hotel	
+37.7900949	126.9540334	퍼시픽호텔		hotel	
+37.6404594	126.6842018	Hotel Assem	Hotel Assem	hotel	
+37.6183817	127.0768345	W호텔		hotel	
+37.5663781	127.0019119	Travelodge		hotel	
+37.5746380	126.9894879	호텔다다인사		hotel	
+37.5764279	126.9895918	호텔 아비숑		hotel	
+37.5767030	126.9896298	노블호텔		hotel	
+37.5750901	126.9896034	호텔 피터캣	Petercat Hotel Insadong	hotel	
+37.5240127	127.0484874	호텔엔트라	Entra Hotel	hotel	
+37.6481280	126.8739389	어반이스트호텔		hotel	
+37.5625473	126.9906344	Travelodge		hotel	
+37.5342359	126.9963540	Nouvelle Seoul		hotel	
+37.5185405	127.0179677	더리버사이드호텔		hotel	
+37.5751525	126.9894020	더가든호텔	The garden hotel	hotel	
+37.5666007	126.9893079	Travelodge Myeongdong Euljiro		hotel	
+37.6385724	126.5519786	약암홍염천관광호텔		hotel	
+37.6510910	127.0357231	소피아호텔		hotel	
+37.4812455	126.4201653	이비스 스타일 앰배서더 인천 에어포트	ibis Styles Ambassador Incheon Airport	hotel	
+37.4768238	127.0459112	호텔컬리넌 개포		hotel	
+37.5659364	127.0027835	Ramada		hotel	
+37.7187091	126.8997667	린호텔		hotel	
+37.6564373	126.8315080	호텔첼시		hotel	
+37.6563773	126.8313268	스테이월호텔		hotel	
+37.6564824	126.8310680	트라움호텔		hotel	
+37.6567742	126.8309368	XYM호텔		hotel	
+37.6569281	126.8307372	넘버25호텔		hotel	
+37.6570562	126.8305463	호텔라엘르 고양일산본점		hotel	
+37.5177363	126.9119841	토요코인 서울 영등포	TOYOKO INN Seoul Yeongdeongpo	hotel	
+37.7472548	126.9460979	파인힐호텔	Painhil Hotel	hotel	
+37.4541078	126.4178900	Hotel Ora		hotel	
+37.3242045	127.1022130	아스트로호텔		hotel	
+37.3243395	127.1021518	호텔문라이즈		hotel	
+37.7887734	126.6888437	Q Hotel		hotel	
+37.5143622	127.0204912	렉스관광호텔		hotel	
+37.2398240	126.5286597	아르카노 호텔		hotel	
+37.2339382	126.5377950	섬민박		hotel	
+37.2343519	126.5378544	크루즈펜션		hotel	
+37.2344491	126.5378614	삼정민박		hotel	
+37.2347813	126.5373078	천복식당민박		hotel	
+37.2340320	126.5359065	휴펜션		hotel	
+37.2454883	126.5298224	해피하우스		hotel	
+37.2455340	126.5297081	그곳펜션민박		hotel	
+37.2477252	126.5265753	Resthe 호텔		hotel	
+37.2483852	126.5247375	라메르 호텔		hotel	
+37.2810906	126.4887892	라온제나힐		hotel	
+37.2809817	126.4854491	십리포땅끝민박		hotel	
+37.2626611	126.4693646	스테이새샘		hotel	
+37.2779965	126.4716803	인너하임퀸하우스		hotel	
+37.3200821	126.6803853	Wave M Hotel East		hotel	
+37.6088117	126.9560099	자하문호텔		hotel	
+37.5944051	127.0586877	호텔 모우		hotel	
+37.5899590	127.0736484	더자바호텔		hotel	
+37.5051336	127.0288910	노보텔 앰배서더 서울 강남	Novotel Ambassador Gangnam	hotel	
+37.3902084	126.6454784	쉐라톤 인천호텔	Sheraton Incheon	hotel	
+37.5601350	127.0023641	앰배서더 서울 풀만 호텔	The Ambassador Seoul - A Pullman Hotel	hotel	
+37.6002779	126.7927691	호텔마리나베이서울		hotel	

@@ -1,0 +1,773 @@
+@lat	@lon	name	name:en	tourism	stars
+52.5114646	13.4078027	Park Plaza Wallstreet		hotel	4
+52.5122494	13.4087883	Living Hotel Großer Kurfürst		hotel	4
+52.5125444	13.4103351	art’otel Berlin Mitte		hotel	
+52.5120824	13.4082495	Living Hotel Berlin-Mitte		hotel	4
+52.5195175	13.4028297	Radisson Collection Hotel Berlin		hotel	
+52.5131672	13.4051935	Novotel Berlin Mitte		hotel	
+52.5226997	13.3882776	Hotel Neuer Fritz Berlin		hotel	3
+52.5213429	13.3884680	Meliá Berlin		hotel	4
+52.5195761	13.3888965	NH Collection		hotel	4S
+52.5182281	13.3874995	Maritim proArte Hotel Berlin		hotel	
+52.4874625	13.4257580	Grand Hostel Berlin Urban		hostel	3
+52.5105304	13.3889847	NH Collection Berlin Mitte am Checkpoint Charlie		hotel	
+52.5081971	13.3724841	Grand Hyatt Berlin		hotel	5
+52.5693849	13.3296063	Hotel Larat		hotel	
+52.4890701	13.3165059	B&B Hotel		hotel	
+52.5048415	13.3845953	Ibis Budget		hotel	
+52.5045858	13.3833431	Novotel Suites Berlin City Potsdamer Platz		hotel	
+52.5158768	13.3886042	The Westin Grand Berlin		hotel	5
+52.5115420	13.3914622	Hotel Gendarm		hotel	
+52.5121031	13.3925395	Hilton Berlin		hotel	5
+52.5645531	13.3275914	Bärlin		hotel	
+52.5117290	13.4136544	Bob W.		hotel	
+52.5032550	13.3860243	Three Little Pigs		hostel	
+52.4342237	13.1908097	Hotel und Rasthof Grunewald		hotel	3
+52.5025050	13.3317935	Dorint Kurfürstendamm		hotel	
+52.3889786	13.4985679	Holiday Inn Berlin Airport – Conference Centre		hotel	
+52.5290575	13.4181101	Hotel ibis Berlin Mitte		hotel	
+52.5103196	13.2680576	Hotel Villa Kastania Berlin		hotel	
+52.4468121	13.4377895	Schloss Britz		hotel	
+52.4980285	13.3864680	acama		hostel	
+52.5357100	13.2730289	Mercure Hotel Berlin City West		hotel	
+52.5096116	13.4462984	SunFlower Hostel		hostel	
+52.4017265	13.2592215	Hoteltow		hotel	
+52.4349590	13.3332311	Haus Gotland		hotel	
+52.5281094	13.3886240	Eastener Hostel		hostel	
+52.5281189	13.3891103	Green Eggs and Ham		hostel	
+52.5244513	13.3917571	Heart of Gold Hostel Berlin		hostel	
+52.5159353	13.4400393	Pegasus Hostel Berlin		hostel	
+52.5293564	13.4567669	Vienna House Easy by Wyndham		hotel	
+52.3622465	13.4283782	Best Western Premier Airporthotel Fontane Berlin		hotel	
+52.5288621	13.4288050	Victor's Residenz-Hotel Berlin Mitte		hotel	4
+52.5347495	13.4061413	Kastanienhof		hotel	3S
+52.5293842	13.4012578	The Circus Hotel		hotel	
+52.5231612	13.3839993	Hotel Amelie		hotel	3
+52.5216849	13.3795451	Arte Luise Kunsthotel		hotel	3
+52.5226092	13.3820948	Residenz am Deutschen Theater		hotel	
+52.3535108	13.3076509	Ringhotel Großbeeren		hotel	3
+52.4569569	13.2934766	Seminaris CampusHotel Berlin		hotel	
+52.4933637	13.1969766	Seehotel Grunewald		hotel	
+52.5174645	13.3369336	Hansablick Garni		hotel	3
+52.4842635	13.5265451	Hotel Karlshorst		hotel	
+52.5231771	13.3585761	Central Inn		hotel	
+52.5018517	13.3852631	Holiday Inn Express Hotel Berlin City Centre		hotel	
+52.4320179	13.3050686	Morgenland		hotel	
+52.5008758	13.3486634	Titanic Comfort Kurfürstendamm		hotel	
+52.5021387	13.3036273	Residency NO7		hotel	
+52.4932640	13.5766494	Hotel Hildebrandt		hotel	
+52.5367728	13.6332717	Hotel Amadeus Royal		hotel	
+52.5291066	13.3173284	Alfa Hotel Berlin		hotel	
+52.4885210	13.3578712	Hotel Pension Delta		hotel	
+52.5001278	13.3121555	Come Inn Berlin Kurfürstendamm Opera		hotel	3
+52.3882187	13.5069077	Albergo Hotel Berlin		hotel	
+52.3653901	13.5572409	Pension Zur Hecke		hotel	
+52.3734040	13.6194711	Port Inn Hotel		hotel	
+52.5110978	13.3760721	Berlin Marriott Hotel		hotel	
+52.5085921	13.3934241	Mercure Hotel + Residenz Berlin Checkpoint Charlie		hotel	4
+52.5382679	13.2040032	Hotel Benn		hotel	
+52.5378823	13.2023839	Hotel Herbst		hotel	
+52.4588993	13.3846660	Pension Oase		hotel	
+52.5490904	13.4585512	Hotel Albertin		hotel	
+52.4654868	13.4421464	OYO Hotel Bohemia		hotel	
+52.5381657	13.2070013	Hotel Lindenufer		hotel	
+52.5332581	13.1981318	Hotel Ibis Berlin Spandau		hotel	
+52.5319633	13.3783166	Arena Rooms Mitte		hotel	
+52.5366885	13.2064803	Hotel Altstadt Spandau		hotel	
+52.4372687	13.4630698	Leonardo Hotel		hotel	
+52.5376793	13.6034424	hotelhellemitte		hotel	3
+52.4373090	13.4624329	Hotel Atlantic		hotel	
+52.3678915	13.5646300	ibis budget Berlin Airport Schoenefeld		hotel	
+52.5133386	13.4695756	U Inn Berlin Hostel		hostel	
+52.5231368	13.3460873	Ameron Hotel Abion Spreebogen Berlin		hotel	
+52.5235317	13.3064214	PLAZA INN Berlin-Charlottenburg		hotel	
+52.5288530	13.4021260	easyHotel Berlin		hotel	
+52.5257861	13.4040637	Hotel Casa Camper Berlin		hotel	
+52.4876523	13.4208734	Hotel Ludwig van Beethoven		hotel	3
+52.5059380	13.3440988	Hotel Pullman Berlin Schweizerhof		hotel	
+52.5459093	13.4942010	"Hotel ""Alte Feuerwache"""		hotel	
+52.5090550	13.6150560	Hotel-Pension Draheim		hotel	
+52.5139327	13.4676121	Kiez Pension		hotel	
+52.5433902	13.5086407	Apart-Hotel Ferdinand		hotel	
+52.5330618	13.3280036	Sickinger Hof		hotel	3
+52.5311543	13.3861563	THE GATE GARDEN HOTEL		hotel	
+52.5535624	13.4059557	Corner Hostel		hostel	
+52.4562628	13.3212357	Hotel Steglitz International		hotel	4
+52.5104691	13.3867069	Café-Hotel M68		hotel	
+52.4820065	13.4307977	Erlanger Hof		hotel	3
+52.5510043	13.4054010	Frosch-Hostel		hostel	
+52.5093500	13.4980588	Hotel Nova		hotel	
+52.5026474	13.3433717	Pension Classic		hotel	
+52.5466549	13.2107275	centrovital SPA & Sport Hotel		hotel	
+52.5018944	13.4910187	Pension Adamshof		hotel	
+52.5020409	13.4911061	Pension Zum Lichtenberger		hotel	
+52.4899518	13.3117360	Albergo City Hotel		hotel	
+52.5412857	13.3474654	Gästehaus Axel Springer		hotel	
+52.5056020	13.3295758	Motel One Berlin-Ku'Damm		hotel	2
+52.5273327	13.4234078	Leonardo Royal Hotel Berlin Alexanderplatz		hotel	
+52.5105784	13.2699208	Hotel Aster an der Messe		hotel	3
+52.5158216	13.4601868	Hotel Bolgerini Inn		hotel	
+52.5035375	13.3241078	Hecker's Hotel		hotel	
+52.5260934	13.5297257	ibis budget Berlin Ost		hotel	1
+52.5340287	13.3415699	Hotel garni Aaberna		hotel	
+52.5078731	13.3278873	Hotel Indigo Berlin Ku'damm		hotel	
+52.5268482	13.4106511	St Christopher's Inn Berlin - Alexanderplatz		hostel	
+52.4991370	13.3214359	Adagio Berlin Kurfürstendamm		hotel	
+52.5055039	13.3155273	EnergieHotel		hotel	3
+52.5151820	13.3977084	Arcotel John F Berlin		hotel	
+52.5340650	13.4090960	Hotel Birgit		hotel	
+52.4149405	13.4970289	Novi Sad		hotel	
+52.5049196	13.3388488	Palace Berlin		hotel	5
+52.5208390	13.3272975	Select Hotel Style Berlin		hotel	
+52.4219844	13.4889609	Hotel Guzulka		hotel	
+52.4287713	13.4796300	Hotel Süden		hotel	
+52.4439782	13.2901345	Hotel-Pension Dahlem		hotel	
+52.5086075	13.4516109	Hotel Klassik Berlin		hotel	3
+52.5625426	13.4280347	Hotel Sedes		hotel	
+52.4905503	13.3334135	Pension Güntzel		hotel	
+52.5128076	13.3046434	Leonardo Hotel Berlin		hotel	3
+52.5040782	13.3241970	NH Berlin Kurfürstendamm		hotel	
+52.5132636	13.4602876	Hotel Hauptstadtperle		hotel	
+52.5005569	13.2943054	Aspria Spa + Sporting Club + Hotel		hotel	
+52.5477676	13.4282310	Holiday Inn Berlin City Center East - Prenzlauer Allee		hotel	
+52.5064330	13.3064175	Hotel Domicil		hotel	
+52.4893934	13.3077634	villa konstanz		hotel	
+52.4999681	13.4178492	Comebackpackers		hostel	
+52.6060410	13.6190803	Aragon		hotel	
+52.4997128	13.4277322	baxpax Kreuzberg Hostel		hostel	
+52.5213063	13.4054689	Wunderflats		hostel	
+52.5296271	13.3837474	H+ Hotel Berlin Mitte		hotel	
+52.4882904	13.2771572	Hotel St.-Michaels-Heim		hotel	
+52.4980721	13.3861421	Meininger Hotel Berlin Tempelhofer Ufer		hostel	3
+52.5358273	13.3768179	City 54 Hotel und Hostel		hostel	
+52.5283713	13.3367270	Amstel House Berlin		hostel	
+52.5096029	13.3226826	Novum Hotel Gates		hotel	3
+52.3988167	13.4421552	Haus Belger		hotel	
+52.4939465	13.3333509	Hyperion Hotel Berlin		hotel	
+52.5263017	13.3924959	martas Hotel Berlin-Mitte		hotel	3
+52.4818284	13.5175447	Mit-Mensch		hotel	
+52.5046180	13.4479619	Michelberger Hotel		hotel	
+52.5378623	13.4823363	Sandino Hostel Berlin		hostel	
+52.5089383	13.3738661	The Mandala Hotel		hotel	
+52.5687886	13.2092991	Waldschänke		hotel	
+52.5021232	13.2971737	Landmark eco Hotel Berlin		hotel	
+52.5264542	13.3880761	Märkischer Hof		hotel	
+52.5254865	13.3915391	Hotel 38		hotel	
+52.5321956	13.3445073	Hotel MOA Berlin		hotel	4
+52.4987301	13.4260957	Vier Jahreszeiten		hotel	
+52.4938094	13.3878805	Metropol Hostel		hostel	
+52.5255613	13.4146506	H4 Hotel Berlin-Alexanderplatz		hotel	4
+52.5040256	13.4474728	Industriepalast Hostel		hostel	
+52.5186505	13.4398295	Hotel Pension Reiter		hostel	
+52.3848442	13.1953792	Sonneneck		hotel	
+52.5069489	13.2838011	hotel messe		hotel	
+52.5101719	13.2808671	Brandies Hotel Berlin Messe		hotel	3
+52.5069569	13.3002109	Cityblick		hotel	
+52.5101425	13.2799904	Hotel Amelie		hotel	
+52.5095308	13.2783242	Motel Blue Messe		hotel	
+52.4211028	13.3919700	Hotel Landhaus Alpinia		hotel	
+52.4912721	13.3852632	Hotel Transit		hotel	
+52.4814535	13.5171639	Mit-Mensch		hotel	
+52.5328665	13.4130785	Meininger		hotel	
+52.5117115	13.4013208	Cosmo		hotel	
+52.5117040	13.3914281	Hotel Gendarm nouveau		hotel	
+52.5047317	13.3841345	ibis Berlin City Potsdamer Platz		hotel	
+52.5085671	13.3024638	Hotel Pension Arta		hotel	
+52.5053388	13.3016512	Art Hotel Charlottenburger Hof		hotel	
+52.5063100	13.3021078	Adam		hotel	2
+52.5059783	13.3021646	Hôtel Atrium Charlottenburg		hotel	3
+52.5061608	13.3021367	Birth City Hotel		hotel	
+52.5089426	13.2698262	Ivbergs Hotel		hotel	
+52.4962091	13.4262102	Regenbogenfabrik Hostel		hostel	
+52.5024306	13.3676051	Hotel Tagungshaus Tiergarten		hotel	
+52.5059789	13.2341921	Gästehaus Rosemarie Reichwein		hostel	
+52.5114689	13.4557335	Sketch		hotel	
+52.5409145	13.2066638	Brauhaus Spandau		hotel	
+52.4030813	13.5856947	Hotel Waldzeit		hotel	
+52.5098733	13.3459642	SO/ Berlin Das Stue		hotel	5
+52.5234094	13.3319791	Les Nations		hotel	3
+52.5451996	13.4115815	1a pension apartment berlin		hotel	
+52.5203890	13.3892504	Eurostars Berlin		hotel	
+52.5253146	13.4143711	H2 Hotel Berlin-Alexanderplatz		hotel	
+52.5436232	13.4187217	Lette 'm Sleep		hostel	
+52.5341399	13.4302131	Melarose		hotel	
+52.5287179	13.4248441	Alex Hotel		hotel	
+52.5376759	13.2660994	Hotel Siemensstadt		hotel	
+52.5504980	13.6362694	Hönower Hof		hotel	
+52.4988532	13.3078294	Xantener Eck		hotel	
+52.5487127	13.4109214	t&c apartments		hotel	
+52.5093913	13.4516028	Goldmarie		hotel	
+52.5330010	13.4016720	Midi Inn		hotel	
+52.4893403	13.3468492	Happy Hotel Berlin		hostel	
+52.4641067	13.3848349	Limehome		hotel	
+52.5124379	13.4505118	Hotel Comenius		hotel	2
+52.4409639	13.5760347	Seminar- und Gästehaus Flussbad Gartenstraße		hostel	
+52.5473373	13.4111965	City Guesthouse Pension Berlin		hotel	
+52.4993608	13.3051184	Louisas Place		hotel	
+52.5157914	13.3940671	Hotel de Rome		hotel	5
+52.5001758	13.3522905	Aparthotel Christie		hotel	
+52.5852456	13.4286973	Pankow		hotel	
+52.4485735	13.6088156	Spreeidyll		hotel	
+52.5082298	13.3919856	ABRI Apartments Berlin-Mitte		hotel	
+52.5023125	13.4870742	Midel Hostel		hostel	
+52.4882553	13.3620787	The Berlincity		hostel	
+52.4754661	13.3287833	Pension Senta		hotel	
+52.5313186	13.4179143	Myer's Hotel		hotel	4
+52.5106118	13.3915889	Garner Hotel Berlin - Gendarmenmarkt by IHG		hotel	
+52.4990579	13.3448471	Hotel artim		hotel	
+52.3967135	13.5404826	Meininger Berlin Airport		hotel	3S
+52.5087811	13.4622961	BackpackerBerlin		hostel	
+52.5083450	13.4049510	Grimm's Hotel		hotel	
+52.5300574	13.6356484	Pension Breitenfeldt Berlin Greifswalder Straße		hotel	
+52.5249418	13.3922827	Meininger Hotels		hostel	
+52.5237640	13.4173693	Premier Inn Berlin Alexanderplatz		hotel	
+52.5028800	13.3131630	Art Nouveau		hotel	
+52.5238133	13.4178901	Generator Berlin Alexanderplatz		hostel	
+52.5295164	13.3891035	Honigmond Hotel		hotel	
+52.5283989	13.3912518	Hotel Adelante		hotel	
+52.4971869	13.3539293	Pension Michele		hotel	
+52.5269425	13.3621018	martas		hostel	
+52.5411795	13.5545230	Hotel Pension Blumenbach		hotel	
+52.5001968	13.3147386	Hotel Castell Berlin		hotel	
+52.5003294	13.3151486	Kima		hotel	
+52.5025419	13.3238646	Hotel Leonardo		hotel	
+52.5021684	13.3275296	Hotel Pension Fasanen Haus		hotel	
+52.5023055	13.3272088	Hotel Augusta		hotel	
+52.5009762	13.3287100	Henri Hotel Berlin		hotel	
+52.4486206	13.6238572	Bölsche Hotel		hotel	
+52.5100832	13.3021475	Amary City Residence		hotel	
+52.4968861	13.3238309	Max Brown		hotel	
+52.4995482	13.3250413	Hotel Seifert		hotel	
+52.4983729	13.3170821	Boutique Hotel Kerlin		hotel	3
+52.5177766	13.4686653	Pension Regenbogen		hotel	
+52.4986398	13.3514182	Hotel Sachsenhof		hotel	
+52.5039397	13.3218142	Hotel Vivaldi		hotel	3
+52.4984330	13.3071801	Hotel Maison am Adenauerplatz		hotel	3
+52.5041728	13.3161301	Hotel Pension Elegia		hotel	
+52.5023606	13.3135217	Hotel Alte Galerie		hotel	
+52.5026269	13.3221968	Q!		hotel	
+52.4951266	13.4210362	Hotel Prens		hotel	
+52.5147773	13.4661815	B&B Hotel Berlin City-Ost		hotel	
+52.4892520	13.4263848	Hüttenpalast		hotel	
+52.4966468	13.3083890	Hotel Pension Margrit		hotel	
+52.4957427	13.3087693	Provocateur		hotel	
+52.4654573	13.3262635	Anna 1908		hotel	
+52.4989472	13.3122264	numastay		hotel	
+52.4991188	13.3128213	Citadines		hotel	
+52.4978088	13.3121386	Europa City		hotel	
+52.5079787	13.3991588	Lebensquelle		hotel	
+52.5121850	13.3048987	Goodman's Living		hotel	
+52.5112517	13.5869836	CVJM Hostel - Jugend Gästehaus Kaulsdorf		hostel	
+52.5375960	13.1864235	Kallmeyer		hotel	
+52.5263877	13.3901295	Calma Berlin Mitte		hotel	
+52.4996770	13.3226356	Park Plaza Berlin		hotel	
+52.5049304	13.3851932	relexa hotel Stuttgarter Hof Berlin		hotel	4
+52.5449865	13.5717730	Parkhotel Marzahn		hotel	3
+52.5109782	13.2207572	Alecsa Hotel am Olympiastadion		hotel	
+52.5862186	13.3197001	Hotel Bongard		hotel	
+52.4944396	13.3840629	Pension Kreuzberg		hotel	
+52.4947732	13.4193397	Lekkerurlaub		hostel	
+52.5000150	13.3097569	City Hotel am Kurfürstendamm		hotel	3
+52.5057300	13.3207210	Sir Savigny		hotel	
+52.4477735	13.3052104	Hotel Enzian		hotel	
+52.4952599	13.6111688	Zum Ziehbrunnen		hotel	
+52.5094291	13.2773806	enjoy hotel am Studio		hotel	
+52.5051636	13.3008775	Happy go Lucky		hostel	
+52.4783230	13.3305360	Hotel Atlas		hotel	
+52.3954499	13.4428934	Hotel4Hufen		hotel	
+52.5016365	13.3212851	Hollywood Media Hotel		hotel	4
+52.4898639	13.4237472	Hotel am Hermannplatz		hotel	
+52.4910469	13.3879601	Sarotti-Höfe		hotel	
+52.4239685	13.4392994	Hotel Buckow		hotel	
+52.5057255	13.3039494	City Pension Berlin		hotel	
+52.5057392	13.3044971	Hotel AI Königshof		hotel	
+52.5057347	13.3042146	Hotel Abendstern		hotel	
+52.5065799	13.3036488	Hotel Spreewitz		hotel	
+52.5065785	13.3059069	Best Western Hotel Kantstraße Berlin		hotel	
+52.5251174	13.3438082	Hotel Tiergarten		hotel	3
+52.5047020	13.3667324	Hotel Potsdamer Hof Berlin Am Potsdamer Platz		hotel	
+52.5121325	13.4490492	Nu Wave Hotel		hotel	3
+52.5110729	13.3186097	Pension Brinn		hotel	
+52.4769165	13.3756036	Appartements Eisemann		hotel	
+52.6012969	13.5193625	Hotel Lindenberger Hof		hotel	
+52.4671592	13.4370793	Motel Plus Berlin		hotel	
+52.5080890	13.3263736	Roomers Berlin		hotel	
+52.5008139	13.3213821	Mercure Hotel Chateau		hotel	
+52.4949205	13.3261183	Dream Apartments		hotel	
+52.5422740	13.4996756	Eastpax Hostel		hostel	
+52.5270903	13.4076704	Flower's Boardinghause		hotel	
+52.5232037	13.4012754	Hotel Hackescher Markt		hotel	
+52.5223005	13.4040710	Adina Apartment Hotel Berlin Hackescher Markt		hotel	
+52.5668016	13.3843081	Kolo 77		hotel	
+52.5097552	13.3975828	Adina Apartment Hotel Berlin Checkpoint Charlie		hotel	4
+52.5249401	13.4481310	sly Berlin		hotel	
+52.5362517	13.1899515	Elifim		hotel	
+52.5530834	13.4139110	Hotel 103		hotel	
+52.5445427	13.4121730	Flow		hostel	
+52.5422120	13.4117837	Zarenhof		hotel	4
+52.5296822	13.3803602	Garden Living		hotel	
+52.5048494	13.4446050	Holiday Inn Berlin - City East Side		hotel	
+52.5041057	13.3257086	Hotel Eden am Zoo		hotel	
+52.5048831	13.3848607	relexa hotel conference		hotel	
+52.5595970	13.3865450	Inn Berlin		hostel	
+52.5486068	13.4515617	Green-Hostel		hostel	
+52.5506494	13.4113690	Pension Marie		hotel	
+52.4109094	13.4028892	Hotel Obergfell		hotel	
+52.5006146	13.3369116	Bernstein		hotel	
+52.5301648	13.4019426	The Circus Hostel		hostel	
+52.5001530	13.3705835	Flottwell Berlin Hotel & Residenz am Park		hotel	
+52.5226579	13.3865833	Leonardo Berlin Mitte	Leonardo Hotel Berlin Mitte	hotel	4
+52.4703508	13.3344508	Madflats		hotel	
+52.4984517	13.3845263	Grand Hostel Berlin Classic		hostel	
+52.5035603	13.3290084	Hotel Zoo		hotel	
+52.5087802	13.4240743	A&O Hotel and Hostel Berlin Mitte		hostel	
+52.5227794	13.3829623	Apart Hotel Residenz Am Deutschen Theater		hotel	
+52.5069965	13.2945431	Quentin Boutique Hotel		hotel	
+52.4181936	13.5802882	Ambassador-Berlin-Grünau		hotel	3
+52.5058302	13.3189959	Cortina		hotel	
+52.5156457	13.3036450	Hotel Haubach		hotel	
+52.5099668	13.3809398	Motel One Potsdamer Platz		hotel	
+52.5171697	13.4064925	Nikolai Residence		hotel	
+52.5004566	13.3428708	Safestay Berlin Kurfürstendamm		hotel	3
+52.5008246	13.3291182	The Hoxton		hotel	
+52.5033965	13.3343863	Upper Room Hotel		hotel	
+52.5055837	13.3329108	Waldorf Astoria Berlin		hotel	5
+52.5032507	13.3887301	Pension Galerie		hotel	
+52.3997708	13.5552351	Hotel & Restaurant Plovdiv		hotel	
+52.4958929	13.3602709	Hotel Palacina		hotel	
+52.5158245	13.3899782	Clipper City Home		hotel	
+52.5285655	13.3888609	Hotel Novalis		hotel	2
+52.5076171	13.3990079	Tagungshaus Alte Feuerwache		hostel	
+52.4736275	13.4588496	Estrel Berlin		hotel	4
+52.4965245	13.3478926	Hotel Ambiente		hotel	
+52.4462828	13.5153085	B&B HOTEL Berlin-Adlershof		hotel	
+52.5097544	13.3994858	Courtyard by Marriott Berlin Mitte		hotel	
+52.5296805	13.4249151	Adele Designhotel		hotel	
+52.5001863	13.3194778	Bleibtreu Berlin		hotel	
+52.5060814	13.4159286	NH Berlin Kreuzberg		hotel	4
+52.5077242	13.3883977	Garner Hotel Berlin Mitte		hotel	4
+52.5255657	13.4044505	The Weinmeister		hotel	
+52.4974926	13.3388817	Arco Hotel		hotel	3
+52.4978249	13.3248340	Bella		hotel	
+52.5510987	13.4640358	Flüchtlingsheim		hostel	
+52.5011118	13.3274319	Hotel-Pension Funk		hotel	
+52.5322802	13.4191593	ackselhaus & bluehome		hotel	
+52.5251341	13.3913966	Generator Berlin Mitte		hostel	
+52.5236245	13.3900616	Hotel Dietrich-Bonhoeffer-Haus		hotel	
+52.4849942	13.3545462	Hotel Schöneberg		hotel	3
+52.5015937	13.3856171	NH Berlin Potsdamer Platz		hotel	
+52.5144643	13.3909521	"Hotel Luc, Autograph Collection"		hotel	
+52.5070051	13.4689504	A&O Berlin Friedrichshain		hotel	
+52.4430687	13.3849206	Appartments und private Zimmervermietungen B. Jahn		hotel	
+52.4875812	13.3234863	Gasteiner Hof		hotel	
+52.5055640	13.3235891	Pension Peters		hotel	
+52.4975188	13.3176980	Kleist		hotel	
+52.5146557	13.5273552	Qbe Hotel Heizhaus Berlin		hotel	
+52.5098372	13.4474236	Kiez Hostel Berlin		hostel	
+52.5385474	13.3754027	Eigenart Appartements		hotel	
+52.4995833	13.3231678	Hotel-Pension Charlottenburg		hotel	
+52.4328728	13.5321892	ADAPT APARTMENTS Berlin GmbH		hotel	
+52.5049527	13.5817183	Hotel B1 Tourist		hotel	
+52.4865185	13.2973100	Amadeus Central		hotel	
+52.6054505	13.3152315	Pension Berl Inn		hotel	
+52.5017651	13.3648518	Arabel Design		hotel	
+52.4997165	13.3220332	abba Berlin hotel		hotel	4
+52.4988119	13.3467497	B&B Hôtel		hotel	
+52.4977029	13.3493411	Gunia		hotel	
+52.4992905	13.3478779	Mercure Hotel Berlin Zentrum		hotel	
+52.4983882	13.3483276	Quentin Design Berlin Hotel		hotel	
+52.4976945	13.3493864	TOM's House		hotel	
+52.5486879	13.2566359	Hotel und City-Camping Berlin Siemensstadt		hotel	
+52.5060024	13.3136280	Artus Apartments Berlin		hotel	
+52.5605768	13.3761650	Prens Apartments		hostel	
+52.5015552	13.3646277	Villa Amadeus		hotel	
+52.5035466	13.3657885	Alper Hotel am Potsdamer Platz		hotel	
+52.5027272	13.3650070	B&B Hotel Berlin-Potsdamer Platz		hotel	2
+52.5014206	13.3538927	CVJM - Haus Schöneberg		hostel	
+52.5040668	13.3661999	Quentin XL		hotel	
+52.5034040	13.3662568	Lulu Guldsmeden		hotel	3
+52.5011463	13.3628868	Hotel Delta		hotel	
+52.4962906	13.3616898	Hotel Potsdamer Inn		hotel	3
+52.4974167	13.3622962	Hotel City B		hotel	3
+52.5001030	13.3241385	Amaryl City-Hotel am Kurfürstendamm		hotel	
+52.5018412	13.3226443	PLAZA Premium Berlin Kurfürstendamm		hotel	
+52.5001153	13.3231833	Mark Apart Hotel		hotel	3
+52.5302608	13.4011350	ibis Styles Berlin Mitte		hotel	
+52.5146914	13.2799403	Queen’s Park Hotel		hotel	
+52.5379821	13.4105832	Hotel Oderberger		hotel	
+52.4207446	13.4907565	Zur Post		hostel	
+52.5201558	13.6169900	Pension Werner		hotel	
+52.5555034	13.3438178	Rehberge		hotel	
+52.5434967	13.3633966	Arena Inn		hotel	
+52.5371709	13.3971527	Raja Jooseppi Resort		hotel	
+52.5314025	13.4252221	Hotel Transit Loft		hotel	
+52.5002404	13.3493552	Hotel Zu Hause		hotel	
+52.4958077	13.4433000	JETpak ALTERNATIVE		hostel	
+52.4984971	13.4311208	36 Rooms		hostel	
+52.5046291	13.3243832	nh hotel kurfurstendamm		hotel	
+52.5120728	13.4512473	Hotel 26		hotel	
+52.5009644	13.3424779	Mercure Berlin Wittenbergplatz		hotel	
+52.5254525	13.3291398	Excellent Apartments		hotel	
+52.5025581	13.3058814	12Monkeys		hostel	
+52.4840670	13.5257771	Die Botschaft		hotel	
+52.5049538	13.3330993	Motel One		hotel	
+52.4020963	13.2591961	Diana		hotel	
+52.4903310	13.3305183	Homaris Westside		hotel	
+52.5583037	13.3392658	Hotel de France		hotel	3
+52.5490807	13.3824018	Citylight Hotel		hotel	2
+52.5305610	13.4074100	Pension Mädchenkammer	Maid Chamber's Hostel	hostel	
+52.5094009	13.2676595	Hotel VITA Berlin		hotel	
+52.5415075	13.4090104	Linnen		hotel	
+52.5001731	13.3151479	Midi-Inn City West		hotel	
+52.5280511	13.3638603	Hotel Rossi		hotel	
+52.4969360	13.3072420	Yggotel Spurv		hotel	
+52.5402432	13.3811836	East West Hostel		hostel	
+52.5020573	13.4169903	Orania		hotel	
+52.4987527	13.4460051	Die Fabrik		hostel	
+52.5060110	13.5178093	Hotel Dada Art Berlin		hotel	
+52.5262160	13.3008679	Aparotel Berlin		hotel	3
+52.5037273	13.3239245	Hommage à Magritte		hotel	
+52.4904432	13.3769808	Berlin Surf Hostel		hostel	
+52.4941523	13.3602134	Coffee Inn Hostel		hostel	
+52.5324385	13.4272336	Old Town Hotel		hotel	
+52.5245961	13.4098329	Lux 11		hotel	
+52.5542790	13.4329370	Pension Bigus		hotel	
+52.4990505	13.3998484	The Yard		hotel	
+52.5264498	13.3443412	Meininger Hotel Berlin Tiergarten		hotel	
+52.5086021	13.4339384	Hotel Schulz		hotel	
+52.5048892	13.4411735	Hotel Indigo		hotel	
+52.5633832	13.3774674	Pension Lette Eck		hotel	
+52.5038501	13.3745107	High Park		hotel	
+52.4475324	13.5787695	Hotel Kubrat an der Spree		hotel	
+52.4154603	13.3190401	Pension pamina		hotel	
+52.5050831	13.4412569	Hampton by Hilton Berlin City East Side Gallery		hotel	3
+52.5732300	13.2232569	Boutique Hotel Fährhaus		hotel	
+52.3927539	13.5012006	Campanile		hotel	
+52.5291058	13.3800589	Miniloft Mitte Apartment Hotel		hotel	
+52.4633916	13.4683478	Hostel Classic Plus		hostel	
+52.4804439	13.4350482	Aparthotel Thüringer Hof		hotel	
+52.5514119	13.4427705	Odin Pension Berlin		hotel	
+52.4852509	13.3850434	Columbia		hotel	
+52.5644566	13.3778066	On Hostel 24		hostel	
+52.5612477	13.3769155	New Hostel		hostel	
+52.5001769	13.3760022	aletto Hotel Potsdamer Platz		hotel	
+52.5647052	13.3268143	Hostel am Kurti		hostel	
+52.4929325	13.3295959	Hotel Pension Spree		hotel	
+52.5292395	13.4254907	Gold Palais Hotel		hotel	
+52.4950300	13.3099752	W22		hotel	
+52.4312191	13.5710697	Neohostel		hotel	
+52.5236086	13.3909504	St. Christopher's Inn		hostel	
+52.4797870	13.4318526	Karibuni		hotel	
+52.5197746	13.3263128	the niu Flash		hotel	
+52.5198579	13.3263718	Candlewood Suites by IHG		hotel	
+52.4978490	13.3132384	Hotel - Pension Bregenz		hotel	
+52.4544813	13.5163491	Hotel - Pension Schäfer		hotel	3
+52.5644147	13.3777813	On Hotel 24		hostel	
+52.5625718	13.3778080	Nena Hostel		hostel	
+52.5110230	13.2864096	Pension am Kaiserdamm		hostel	
+52.5474204	13.6379313	Hotel Richter´s Hof		hotel	
+52.5550023	13.3870409	Wyndham Garden Berlin Mitte		hotel	
+52.4687878	13.3852228	Big City Hostel		hostel	
+52.5325833	13.2100873	Garner Hotel Berlin - Spandau by IHG		hotel	
+52.4571962	13.5405454	Jugendgästehaus Köpenicker Kanusportclub		hostel	
+52.5315817	13.3282694	Gikon		hostel	
+52.5056340	13.3803246	Numa Vonder		hotel	
+52.5607952	13.3708787	Vanessa Prinz		hotel	
+52.4283554	13.3707656	IB Wohnheim		hostel	
+52.4177809	13.3147181	Jugendgästehaus Lichterfelde		hostel	
+52.5291516	13.4020396	Apartment Rosenthal Residence		hotel	
+52.5109866	13.2929373	Hotel Kaiser		hotel	
+52.5404874	13.2623438	Holiday Inn Berlin City West		hostel	
+52.5239814	13.3945066	Telegraphenamt		hotel	
+52.5095201	13.3627532	Gästehaus		hotel	
+52.5061478	13.3118402	Savi		hotel	
+52.4956000	13.3300815	Premier Inn Berlin City Wilmersdorf		hotel	
+52.5317478	13.3666101	Urban Loft		hotel	
+52.5269463	13.3699087	Hotel Romy by Amano		hotel	
+52.5640039	13.3229611	PREMIUM Hostel		hostel	
+52.5156483	13.3323459	KPM Hotel & Residences		hotel	
+52.5715942	13.4040685	The Base Berlin ONE		hotel	
+52.5506723	13.3922786	Ocak Hotel		hotel	
+52.5253504	13.3417594	harry's home Berlin		hotel	
+52.5126315	13.4507179	Hotel Comenius		hotel	
+52.5057219	13.5021553	Squat Deluxe Berlin		hostel	
+52.5074621	13.2973266	Wilmina		hotel	
+52.5059400	13.4376576	Locke at East Side Gallery		hotel	
+52.4940807	13.4250583	Minimal No. 43		hostel	
+52.4938537	13.4255357	Minimal No. 41		hostel	
+52.5580802	13.3741700	Yess Hostel		hostel	
+52.5176892	13.3859349	Château Royal		hotel	
+52.5244983	13.4524568	EBERTY		hotel	
+52.5104390	13.3968580	Space Night		hostel	
+52.4300811	13.4779961	Hotel Nest		hotel	
+52.5034615	13.3475706	Hotel Sylter Hof		hotel	
+52.5223758	13.4040111	MM:NT Berlin Lab		hotel	
+52.4998288	13.3708870	B&B HOTEL Berlin-Kreuzberg		hotel	
+52.4973176	13.2869013	Novum Hotel Kronprinz Berlin		hotel	4
+52.5238485	13.3996705	Nook		hotel	
+52.5019694	13.3314215	H10 Berlin Ku'damm		hotel	4
+52.5035472	13.3582598	Residenz Begaswinkel		hotel	
+52.5430116	13.4386484	Central		hostel	
+52.5040657	13.4712242	Jugendherberge Berlin-Ostkreuz		hostel	
+52.5123925	13.4098920	art'otel		hotel	
+52.5625062	13.3777594	Nena Hostels		hostel	
+52.5644680	13.3272575	Hostel am Kurtti		hostel	
+52.5543073	13.4572600	Living Hotel Weißensee		hotel	4
+52.5270362	13.3411650	Apple City Hotel		hotel	
+52.5250835	13.5305960	Ootel.com Hotel & Hostel		hostel	
+52.4785441	13.3534193	the niu Dwarf		hotel	
+52.5129080	13.4663023	Numa Berlin Friedrichshain		hotel	
+52.4639833	13.4443307	Bellman Hotel		hotel	
+52.5285287	13.4098401	AMANO Home		hotel	
+52.5275002	13.3451836	Wallyard Concept Hostel		hostel	
+52.5486171	13.4516179	Grand Inn Hotel Weißensee		hotel	
+52.5558073	13.2097069	qnorke		hotel	
+52.5218143	13.4851683	Good Morning+ Berlin City East		hotel	3
+52.5122448	13.4167984	Living in the box		hostel	
+52.5329010	13.2136239	Hotel Queen’s Residenz		hotel	
+52.4947218	13.3092397	Hotel Ambert		hotel	
+52.4996623	13.3216135	Scandic Charlottenburg		hotel	
+52.5016798	13.4905099	Chill Inn Berlin		hostel	
+52.5069603	13.2801104	Ibis Berlin Messe		hotel	
+52.5055845	13.3548516	Sheraton Berlin Grand Hotel Esplanade		hotel	
+52.5834625	13.2872030	Hotel am Borsigturm		hotel	4
+52.5046707	13.3319536	Azimut Hotel Berlin Kurfürstendamm		hotel	3
+52.5277678	13.4156560	Soho House Berlin		hotel	
+52.4659702	13.5444123	Umweltzentrum Fuchsbau		hostel	
+52.4922774	13.2381684	Kinder- und Jugenderholungsstätte Teufelssee		hostel	
+52.4326104	13.1851952	DJH Berlin-Wannsee		hostel	
+52.5441769	13.4161442	Old Town Hostel		hostel	
+52.5315132	13.4107757	Hostel Pfefferbett		hostel	
+52.5228447	13.4127883	Park Inn by Radisson Berlin-Alexanderplatz		hotel	
+52.5232212	13.4086096	Motel One		hotel	
+52.5215989	13.4041455	Alexander Plaza		hotel	
+52.5508857	13.5461748	Don-Bosco-Zentrum Berlin		hostel	
+52.4437170	13.5697511	NYX Hotel Berlin Köpenick by Leonardo Hotels		hotel	
+52.5243463	13.4484241	New Berlin		hotel	4
+52.3985474	13.5412002	Loginn Hotel Berlin Airport		hotel	
+52.5292897	13.3996500	Hotel MANI by AMANO		hotel	3
+52.5624844	13.3549202	Victor's Residenz Hotel Berlin-Tegel		hotel	3S
+52.5271087	13.3847383	Hotel Aquino		hotel	
+52.5039087	13.3293823	Lindner Hotel Berlin Am Ku'damm		hotel	4
+52.5037252	13.3270945	Hotel Bristol Berlin		hotel	
+52.5678670	13.3308604	Good Morning Berlin City West		hotel	3
+52.5257606	13.3657297	Motel One Berlin-Hauptbahnhof		hotel	
+52.5276813	13.5674336	Haus Pro-social		hotel	
+52.5106982	13.4008590	Motel One Berlin-Spittelmarkt		hotel	
+52.5392065	13.4981371	A&O Berlin Kolumbus		hotel	
+52.4988710	13.3090566	Quentin Berlin am Kurfürstendamm		hotel	
+52.5056319	13.3378992	25hours Hotel Bikini Berlin		hotel	
+52.5026860	13.3353667	DoubleTree by Hilton Berlin Ku'damm		hotel	
+52.4998409	13.3343926	Hotel Arrival		hotel	
+52.5041703	13.3421991	Air in Berlin		hotel	
+52.5039062	13.3407246	Crowne Plaza Berlin City Centre		hotel	4
+52.5014225	13.3313921	Radisson RED		hotel	
+52.5004066	13.3340595	Dormero Berlin Ku'damm		hotel	
+52.5000615	13.3382003	Scandic Berlin Kurfürstendamm		hotel	
+52.4962264	13.3203472	Hotel Bellevue		hotel	
+52.5684476	13.1953723	Hotel Christophorus		hotel	
+52.3742711	13.2627152	Hammers Landhotel		hotel	
+52.4049750	13.1868356	B&B Hotel Berlin-Dreilinden		hotel	
+52.4044196	13.1870794	Hotel Ibis Berlin Dreilinden		hotel	
+52.5105459	13.2960696	B&B Hôtel		hotel	
+52.4655706	13.2708450	Jetpak		hostel	
+52.5747221	13.3581427	ibis Berlin City Nord		hotel	2
+52.5229411	13.4367712	NH Berlin Alexanderplatz		hotel	
+52.5297015	13.4555855	Generator Berlin Prenzlauer Berg		hostel	
+52.5759449	13.2954567	Central Hotel		hotel	
+52.5167385	13.4253636	Singer109		hostel	
+52.5334823	13.5174880	Comfort Hotel Lichtenberg		hotel	
+52.4879274	13.3107609	Jugendbildungsstätte Kaubstraße		hostel	
+52.4844135	13.3081676	enjoy hotel Berlin City Messe		hotel	
+52.5404791	13.2620204	Holiday Inn Berlin City-West		hotel	4
+52.5528250	13.4125605	Bornholmer Hof		hotel	
+52.3669695	13.3159148	KomfortHotel Großbeeren		hotel	
+52.4537636	13.2729783	Apartment Hotel Dahlem		hotel	0
+52.5432077	13.4747538	Herberge Fritz-Lesch-Straße		hostel	
+52.5085427	13.3243292	Townhouse Berlin		hotel	
+52.4935885	13.4853609	Das Andere Haus VIII		hotel	
+52.5073674	13.3639339	JW Marriott Hotel Berlin		hotel	
+52.4585899	13.3167909	Hotel Ravenna		hotel	
+52.4639602	13.3169723	Eckstein		hotel	
+52.4296781	13.3011502	Aparion Apartments Berlin		hotel	
+52.5100655	13.4050859	Premier Inn - Berlin City Spittelmarkt Hotel		hotel	
+52.3922163	13.5183063	IntercityHotel Berlin Airport Area North		hotel	
+52.4664677	13.3949151	Hotel Berliner Bär		hotel	3
+52.5242447	13.3677303	Meininger Berlin Hauptbahnhof		hostel	3
+52.4366245	13.4641291	Premier Inn Berlin City Süd Hotel		hotel	3
+52.5242078	13.5358661	Hotel Grand Inn		hotel	
+52.5237186	13.4162146	St Christopher's Berlin Alexanderplatz Hotel		hotel	
+52.4587537	13.5131735	ibis Styles Berlin Treptow		hotel	4
+52.4896147	13.3283616	Carolinenhof		hotel	3
+52.5071491	13.2888550	Ringhotel Seehof Berlin		hotel	
+52.5099870	13.4295716	Me and All Hotel Berlin East Side		hotel	3
+52.4862206	13.5348201	Allee-Hotel Berlin		hotel	
+52.4663500	13.5469679	"FEZ-Berlin, Bungalowdorf Nord"		hostel	
+52.4260367	13.6410475	Müggelseeperle		hotel	
+52.5343494	13.3447566	Main Station Hotel & Hostel		hostel	
+52.5031685	13.5846178	"HW Hotel ""Haus am Niederfeld"""		hotel	
+52.5032487	13.5819731	Hotel B1		hotel	
+52.4785345	13.4265453	Mercure Hotel Berlin Tempelhof		hotel	
+52.5460200	13.5109605	Hotel Molks		hotel	
+52.5088383	13.3881787	Gat Point Charlie		hotel	
+52.5004366	13.5204516	Abacus Tierpark Hotel		hotel	4
+52.5008985	13.3873838	limehome Berlin Stresemannstraße		hotel	
+52.4997039	13.3420212	Axel Hotel		hotel	
+52.5034058	13.4455168	East Side Hotel		hotel	
+52.5334686	13.4107237	EastSeven Berlin Hostel		hostel	
+52.4958035	13.3036775	Garner Hotel		hotel	
+52.4843085	13.2822704	Studentenhotel Hubertusallee		hotel	
+52.5354629	13.3867338	Lazarus Gästehaus		hotel	
+52.5358076	13.3890006	Hotel Grenzfall		hotel	3
+52.5320677	13.3801484	Hostel Ballhaus Berlin		hostel	
+52.5396528	13.4020335	Hotel 4 Youth		hotel	
+52.4990803	13.3343625	Sana Hotel Berlin		hotel	
+52.5766707	13.3932241	Solitaire Hotel		hotel	
+52.5226836	13.3468806	Abion Villa		hotel	
+52.5156664	13.4118720	Holiday Inn Express Alexanderplatz		hotel	
+52.5057862	13.6315141	ibis budget Berlin Hoppegarten		hotel	
+52.4913100	13.2835002	Haus Bismarck		hotel	
+52.5046856	13.3752450	Scandic Berlin Potsdamer Platz		hotel	
+52.5010947	13.4508476	nhow Berlin		hotel	4
+52.5015789	13.3831304	Hotel Berlin Potsdamer Platz		hotel	
+52.5163929	13.3108552	Arktur City Hotel		hotel	
+52.5082660	13.2457566	Westlife Apart Hotel Berlin		hotel	
+52.4582326	13.4476597	Centro Park Hotel Berlin Neukölln		hotel	4
+52.5102170	13.4041856	Titanic Comfort Hotel Berlin Mitte		hotel	
+52.5294246	13.3797143	Hotel Berlin Mitte by Campanile		hotel	
+52.5890530	13.4310184	Businesshotel Berlin		hotel	
+52.5282653	13.4028275	Hotel Amano		hotel	
+52.4021244	13.2400463	Ginn Hotels		hotel	
+52.4957593	13.4000330	Hotel Johann		hotel	
+52.5046507	13.3227089	June Six		hotel	
+52.4980908	13.4468422	Minimal hostel		hostel	
+52.4389688	13.3006710	ApartHotel Landhaus Lichterfelde		hotel	
+52.5033371	13.3704338	Fjord Hotel Berlin		hotel	
+52.5557087	13.3799659	mk hotel berlin		hotel	
+52.4393301	13.2294908	Hotel Landhaus Schlachtensee		hotel	
+52.4238388	13.1980395	Robert-Tillmanns-Haus		hotel	
+52.5497793	13.3846239	Moxy Berlin Humboldthain Park		hotel	
+52.5084185	13.3485652	Pestana Berlin Tiergarten		hotel	
+52.4561994	13.6115411	Hotel-Pension Mendau		hotel	
+52.4937705	13.3613620	Lindemann's		hotel	
+52.5231266	13.4003232	monbijou hotel		hotel	
+52.5207914	13.4583631	Almansi Hostel		hostel	
+52.4700945	13.3377317	"Hotel Friedenau, Das Literaturhotel Berlin"		hotel	
+52.5237577	13.3838708	B&B Hotel Berlin-Mitte		hotel	
+52.5028989	13.3446321	Ibis Budget		hotel	
+52.4309035	13.3285963	Miles Hotel Berlin		hotel	
+52.4315953	13.5348669	Dorint Adlershof		hotel	3
+52.4306515	13.4911485	Apartmenthaus Petunie		hotel	
+52.4325712	13.5343244	Airporthotel Berlin - Adlershof		hotel	3
+52.5252146	13.4212342	ibis budget Berlin Alexanderplatz		hotel	
+52.5040815	13.3470883	Premier Inn Berlin City Centre Hotel		hotel	
+52.5060592	13.3483784	Hotel Lützow		hotel	2
+52.5141193	13.5844597	Hostel Delisa		hostel	
+52.5220190	13.3841570	martas Hotel Albrechtshof Berlin		hotel	3
+52.5139481	13.4050099	Capri by Fraser Hotel		hotel	
+52.4545132	13.4513011	Hotel am Buschkrugpark		hotel	2
+52.5522042	13.3604918	Steps Hotel		hotel	
+52.4730332	13.2707831	Abenteuerzentrum im Grunewald		hostel	
+52.4892100	13.3954526	Matzbach		hotel	
+52.5053819	13.3586713	Gästehaus Pumpe		hostel	
+52.4323843	13.4724080	Hotel M-Pire		hotel	
+52.4483114	13.3848740	City Pension Sanader		hotel	
+52.4976173	13.3604361	Novum Aldea Berlin Zentrum		hotel	4
+52.5063467	13.3952808	mondrian suites hotel		hotel	
+52.5025931	13.3446306	Ibis Berlin Kurfuerstendamm		hotel	
+52.5048992	13.3631460	DJH Berlin International		hostel	
+52.5272357	13.3703938	Amano Grand Central		hotel	
+52.5271033	13.3701050	Ibis Berlin Hauptbahnhof		hotel	
+52.5031072	13.4437761	Western Comfort		hostel	
+52.5029089	13.4443355	Eastern Comfort		hotel	
+52.4744432	13.4398656	Karl Marx Hostel		hostel	
+52.4234108	13.4856853	Hotel am Zwickauer Damm		hotel	
+52.5031081	13.3728164	Grimm's		hotel	
+52.5504884	13.6361278	Hotel Landhaus Hönow		hotel	2
+52.5230569	13.4009642	Hotel ZOE		hotel	
+52.5052649	13.6018504	Wendland		hotel	
+52.5104793	13.5913916	Hotel Azur		hotel	
+52.5582458	13.3802256	BIG MAMA		hotel	
+52.5063013	13.3298734	aletto Hotel Kudamm		hotel	
+52.5285212	13.4089116	Numa		hotel	
+52.5033493	13.3924951	Miniloft		hotel	
+52.3745077	13.5416929	B&B Hotel Berlin-Airport		hotel	
+52.5303179	13.4182794	limehome		hotel	
+52.5102177	13.4333413	IntercityHotel Berlin Ostbahnhof		hotel	3
+52.4617586	13.2741297	Schullandheim Josef Lenz		hostel	
+52.5052704	13.6060939	Hotel an der Weide		hotel	
+52.4440556	13.5688356	Bett & Buch		hotel	
+52.5005227	13.6482807	Hotel City Green Hoppegarten		hotel	
+52.5043786	13.4974838	HOLI Hostel & Hotel		hostel	
+52.5348997	13.4502650	Lodgecity Berlin		hostel	
+52.5003918	13.3468798	Hotel Riu Plaza Berlin		hotel	4
+52.5136031	13.4819944	iStay by NH Berlin CIty Ost		hotel	4
+52.5268303	13.4876081	H24 Hotel DXC - Gästehaus DONG XUAN		hotel	
+52.5324942	13.3817761	Titanic Chaussee Berlin		hotel	
+52.5490888	13.6354435	Hönow Hotel		hotel	
+52.4979108	13.3601044	Novum Style Hotel Aldea		hotel	
+52.5110452	13.4299525	Moxy Berlin Ostbahnhof		hotel	3
+52.5143847	13.3313527	B&B Hotel Berlin-Tiergarten		hotel	2
+52.5149041	13.3946751	Titanic Gendarmenmarkt Berlin		hotel	
+52.5469607	13.3517598	Jugendgästehaus Mitte		hostel	
+52.5473492	13.3523627	Smarthostel Berlin		hostel	
+52.5415734	13.3720199	Hotel Graf Pückler		hotel	
+52.5330153	13.3807676	INNSiDE Berlin Mitte		hotel	4
+52.5310814	13.3839017	HSH Hotel Apartments Mitte		hotel	
+52.5305751	13.3814743	Mercure Hotel Berlin City		hotel	
+52.5221571	13.3848604	martas Hotel Allegra Berlin		hotel	3
+52.5495035	13.3842045	AC Hotel Berlin Humboldthain Park		hotel	
+52.5292771	13.3642517	A&O Berlin Hauptbahnhof		hostel	
+52.5200561	13.3562604	Motel One Berlin-Bellevue		hotel	
+52.5258593	13.3882929	Arcotel Velvet Berlin		hotel	
+52.5429989	13.3390657	Virchow-Gästehaus der Charité		hotel	
+52.5416691	13.3280325	AWO Refugim (Flüchtlingsheim)		hotel	
+52.5336700	13.3841954	Cube Lodges		hotel	
+52.5291446	13.2098465	SensCity Hotel Berlin Spandau		hotel	
+52.4928285	13.3791228	Ginn City & Lounge Yorck Berlin		hotel	
+52.5049589	13.3261847	Hampton by Hilton Berlin City West		hotel	3
+52.5247940	13.4188035	Hampton by Hilton Berlin City Centre Alexanderplatz		hotel	3
+52.5544505	13.4571244	Living Hotel Weißensee		hotel	
+52.5083056	13.4362647	Meininger Hotel Berlin East Side Gallery		hostel	
+52.5174243	13.4152060	B&B Hotel Berlin-Alexanderplatz		hotel	
+52.5358960	13.5602010	Hotel-Engelke		hotel	
+52.5197824	13.4124695	Motel One		hotel	
+52.4984685	13.5635874	East West Hotel		hostel	
+52.5001922	13.3527457	numa | Drift Rooms & Apartments		hotel	
+52.4449935	13.5783049	Hotel Alter Markt		hotel	
+52.4427006	13.5699774	Hotel am Schloss Köpenick		hotel	
+52.4900677	13.4804828	Jugendbegegnungsstätte Spreeinsel		hostel	
+52.5024577	13.3478251	Motel One Berlin-Tiergarten		hotel	
+52.5104092	13.3752260	The Ritz-Carlton		hotel	5
+52.3969725	13.5311698	Hotel Garni El-Condor		hotel	
+52.5030192	13.3893662	Garner Checkpoint Charlie		hotel	
+52.3959380	13.2683206	Grimm's Berlin-Potsdam		hotel	
+52.5411038	13.5545637	Hotel Pension Blumenbach		hotel	
+52.5965088	13.3466767	Hotel Garni Wilhelmsruher Damm		hotel	
+52.5162364	13.5199065	Ağa's Hotel		hotel	
+52.5284520	13.3776025	Adina Apartment Hotel Berlin Mitte		hotel	
+52.5095032	13.4312444	AMANO		hotel	
+52.4609605	13.4444779	Ibis Hotel		hotel	3
+52.5037345	13.3446241	Sorat Hotel Berlin		hotel	
+52.3754764	13.5436518	Moxy Berlin Airport		hotel	
+52.3962083	13.5398270	Premier Inn		hotel	
+52.5042895	13.4972786	HOLI Hostel & Hotel		hostel	
+52.5168001	13.4174868	The Social Hub		hotel	
+52.3986546	13.5420306	ibis Berlin Airport		hotel	
+52.4803932	13.2743507	Schlosshotel im Grunewald		hotel	
+52.3857418	13.6408213	Projekt-& Begegnungsstätte (PBS)		hostel	
+52.5266984	13.3442001	Meininger Hotel Tiergarten		hotel	
+52.5036553	13.3517224	"Hotel Berlin, Berlin"		hotel	
+52.3639400	13.5117472	Steigenberger Airport Hotel Berlin		hotel	
+52.3642055	13.5128669	IntercityHotel Berlin Airport BER Terminal 1+2		hotel	
+52.5072545	13.3454112	InterContinental Berlin		hotel	
+52.5155764	13.3803341	Adlon Kempinski		hotel	5
+52.4730810	13.4596556	Estrel Hotel		hotel	4
+52.5258671	13.3878522	Amo by Amano		hotel	
+52.4135524	13.5692503	City Green Berlin		hotel	
+52.5114758	13.4157770	Catalonia Berlin-Mitte		hotel	
+52.5236393	13.3667109	IntercityHotel Berlin Hauptbahnhof		hotel	4
+52.5236418	13.3677274	Steigenberger Hotel Am Kanzleramt		hotel	
+52.5013498	13.4742676	Habyt - The Waterfront		hotel	
+52.5042256	13.4115315	Motel One Berlin-Mitte		hotel	
+52.5144471	13.4767083	the niu Hide		hotel	

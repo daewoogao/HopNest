@@ -1,0 +1,401 @@
+@lat	@lon	name	name:en	tourism	stars
+19.4160949	-99.1718864	Condesa DF		hotel	
+19.3949068	-99.1758289	FlowSuites WTC		hotel	
+19.3959735	-99.1742328	Fiesta Americana		hotel	
+19.3941568	-99.1755041	Suites del Parque		hotel	
+19.3975164	-99.1726710	Hotel Vermont		hotel	
+19.4019612	-99.1775435	Hotel Kali Escandón		hotel	
+19.4313772	-99.1668948	Bristol		hotel	
+19.4299764	-99.1345745	Hampton Inn		hotel	
+19.3022050	-99.1657913	Fiesta Inn Periférico Sur		hotel	
+19.3442863	-99.1447144	Hotel Finisterre		hotel	5
+19.3438704	-99.1446919	Hotel Montreal		hotel	4
+19.4075155	-99.1361545	Hotel Mexicali		hotel	
+19.4759371	-99.1387880	Hotel Brasillia		hotel	
+19.4813404	-99.0692196	Antenas		hotel	
+19.4141271	-99.1548313	Hotel Benidorm		hotel	
+19.3139970	-99.2209990	Camino Real		hotel	
+19.3679743	-99.1625043	Holiday Inn		hotel	
+19.4270334	-99.1711657	Hotel Reforma		hotel	
+19.2811050	-99.1726187	Inn Sur		hotel	
+19.4623007	-99.1430407	Hotel Suido		hotel	
+19.4366015	-99.1328413	Hostel Amigo Suites Downtown		hostel	
+19.4682743	-99.1261112	Hotel Modelo		hotel	
+19.4703022	-99.1324933	"Hotel Faro (Hotel love, ""hotel de paso"")"		hotel	
+19.4665620	-99.1194095	Hotel Olympo		hotel	
+19.4684498	-99.1167568	Hotel Ferry		hotel	
+19.4299193	-99.1369075	Hotel Isabel		hotel	
+19.5407448	-99.2178326	Hotel Atenco		hotel	
+19.5391879	-99.2000535	Fiesta Inn		hotel	
+19.3033100	-99.2003730	Hotel Royal Pedregal		hotel	
+19.4175726	-99.1668247	Hostel Home		hostel	
+19.4183659	-99.1672784	Hostel 333		hostel	
+19.4104494	-99.1756387	Hotel María Condesa		hotel	
+19.4148957	-99.1549380	Hotel Marbella		hotel	
+19.4139538	-99.1552095	Hotel Estadio		hotel	
+19.4338058	-99.1378811	Hotel Ritz		hotel	
+19.4352020	-99.1336030	Hostel Mundo Joven Catedral		hostel	
+19.4356304	-99.1335944	Mexico City Hostel	Hostal Mexico City	hostel	
+19.5329322	-99.0468087	Hotel Roma		hotel	
+19.3960739	-99.1720085	Hotel Novit		hotel	
+19.4752730	-99.1756157	Hotel Rosinante		hotel	
+19.4748906	-99.1817671	Hotel Villas Coloniales		hotel	
+19.4287764	-99.1312007	Hotel Patria		hotel	
+19.4349224	-99.1478120	One Ciudad de México Alameda		hotel	
+19.4558550	-99.1634575	Hotel Jacarandas		hotel	
+19.4218921	-99.0771411	NH Mexico City Airport T2		hotel	5
+19.2761655	-99.1675785	Paraíso del Sur		hotel	
+19.2768358	-99.1673234	Villa Nueva		hotel	
+19.2764664	-99.1674434	Costa del Sur		hotel	
+19.4367495	-99.1713922	Hotel del Prado		hotel	
+19.4335756	-99.1306817	Hotel Moneda		hotel	
+19.4180025	-99.0180402	Rojo Hotel		hotel	
+19.4348737	-99.1602179	Hotel Astor		hotel	
+19.3999692	-99.1518857	Hotel Garage Esperanza		hotel	
+19.4019788	-99.1454074	Hotel Reforma		hotel	
+19.4315417	-99.1569188	Emporio Reforma		hotel	
+19.4469359	-99.1621400	Casa del Estudiante Duranguense		hotel	
+19.4168795	-99.1725888	Villa Condesa		hotel	
+19.4250914	-99.1782819	Fiesta Americana		hotel	
+19.4248948	-99.1772030	Contempo Suites		hotel	
+19.4246138	-99.1645787	Hotel Suites Amberes		hotel	
+19.3857362	-99.1759184	Hotel El Greco		hotel	
+19.3870734	-99.1756207	Hotel Beverly		hotel	
+19.4007013	-99.1558706	Hotel Plaza Delta		hotel	
+19.4250428	-99.1775466	Wyndham Garden		hotel	
+19.4380782	-99.1374738	Hotel Atlanta		hotel	
+19.4237167	-99.1558721	Hotel Puebla		hotel	
+19.3887152	-99.1366748	Hotel Harabe		hotel	
+19.3629035	-99.1423827	Hotel Alpes		hotel	
+19.3808808	-99.1403617	Hotel Tlalpan		hotel	
+19.4365505	-99.1336007	Hotel Azores		hotel	
+19.4378477	-99.1359774	F Hotel		hotel	
+19.4247462	-99.1558188	La Querencia DF		hotel	
+19.3958016	-99.1746693	Holiday inn		hotel	
+19.4329711	-99.1343673	Best Western Hotel Majestic		hotel	4
+19.4187951	-99.1381207	Hôtel Fabiola		hotel	
+19.4823485	-99.1145646	Hotel Madero		hotel	
+19.4358286	-99.1338962	Hostal Historico		hostel	
+19.4287507	-99.1937649	Dominion Corporate Suites		hotel	
+19.4237282	-99.1438694	Hotel Catalina		hotel	
+19.4378526	-99.2099521	Gemalto Polanco		hotel	
+19.5398875	-99.1949928	Hotel La Hacienda		hotel	
+19.4099685	-99.1786730	Hostel de Condesa		hostel	
+19.4318193	-99.1466891	Massiosare El Hostel		hostel	
+19.4365659	-99.1687808	Hotel Plaza Belices		hotel	
+19.4097575	-99.1629715	La Mansion		hotel	
+19.3840815	-99.1392464	Hotel Princesa		hotel	
+19.5235703	-99.2277246	City Express Plus		hotel	
+19.4683567	-99.1403896	Nvo Laredo		hotel	
+19.3027677	-99.1656410	One		hotel	
+19.3207082	-99.1383690	Hotel Real del Sur		hotel	
+19.2859739	-99.1475201	City Express Plus Periférico Sur Tlalpan		hotel	
+19.4230123	-99.1643963	Segovia Regency		hotel	4
+19.4304094	-99.1325453	Zocalo Rooms	Zocalo Rooms	hotel	
+19.4365013	-99.1304444	Casa San Ildefonso		hotel	
+19.4361914	-99.1297162	Hotel Templo Mayor		hotel	
+19.4298939	-99.1327841	Roble		hotel	
+19.4329486	-99.1453126	Hotel Metropol		hotel	4
+19.3701250	-99.1418547	Parador Real		hotel	
+19.3670984	-99.1451633	Pequeño apartamento	Little appartment	hostel	
+19.4332341	-99.1252562	Continental		hotel	
+19.4860872	-99.1236829	Hotel Hot		hotel	
+19.4425107	-99.1555094	Holiday Inn Buenavista		hotel	
+19.4476020	-99.1532966	City Express Buenavista		hotel	
+19.4547767	-99.1970237	Hotel Hipodromo		hotel	
+19.3077079	-99.1259703	Casa Renta		hostel	
+19.3132688	-99.1242279	Casa Padres Margarita		hotel	
+19.4169898	-99.1582955	Metro Hostal Boutique		hostel	
+19.4380222	-99.1535390	펜션 아미고		hostel	
+19.4300827	-99.1368674	Hostal Amigo		hostel	
+19.5293965	-99.2257960	Centro de integración juvenil A.C Tlalnepantla		hostel	
+19.4094308	-99.1666371	Paraíso		hotel	
+19.3912317	-99.1314781	La Venta		hotel	
+19.4299816	-99.1707626	Rio 44		hostel	
+19.4127976	-99.1564045	Casa Blanca		hotel	
+19.4162387	-99.1720137	Hotel Condesa		hotel	
+19.4315917	-99.1353380	NH Collection Mexico City Centro Histórico		hotel	
+19.4462828	-99.1469724	Hotel Lepanto		hotel	
+19.3415379	-99.1720554	Omega 254		hotel	
+19.4244203	-99.1306949	Hotel Único SA de CV		hotel	
+19.4041812	-99.1844373	Hotel Ermita		hotel	
+19.4716188	-99.1400610	Hotel Turismo		hotel	
+19.4291697	-99.1929463	FlowSuites Polanco		hotel	
+19.4181499	-99.1590540	Hotel Milán		hotel	
+19.5368416	-99.2037348	Hotel villaporticos		hotel	
+19.5204309	-99.2299069	Hotel Parque Satelite		hotel	
+19.4338757	-99.1345995	Balcón del Zócalo		hotel	
+19.3499316	-99.1511662	Hotel Villas		hotel	
+19.4385059	-99.1482429	Managua		hotel	
+19.4386256	-99.1478030	San Fernando		hotel	
+19.4303338	-99.1344888	Casa Pepe		hotel	
+19.4256625	-99.1723556	St. Regis Mexico City		hotel	5
+19.3867536	-99.1394170	Hotel Condesa		hotel	
+19.4345016	-99.1470672	Fiesta Inn Centro Histórico		hotel	
+19.4342335	-99.1450314	Hotel San Francisco		hotel	
+19.4303044	-99.1405528	Hotel El Salvador		hotel	
+19.4338373	-99.1342979	Zócalo Central		hotel	
+19.4750567	-99.1111625	Hotel Esla		hotel	
+19.4284045	-99.1688114	Hotel del Ángel		hotel	
+19.4271620	-99.1927936	Hyatt Regency		hotel	
+19.4273458	-99.1935967	Intercontinental Presidente Chapultepec		hotel	
+19.4272041	-99.1949834	Marriott		hotel	
+19.4808966	-99.2203497	Metro B (Las armas)		hotel	
+19.4306643	-99.1715471	Armonik Suites		hotel	
+19.4261792	-99.1376261	Hostal Ciudad de México		hostel	
+19.4302987	-99.1360753	Hotel Montecarlo		hotel	
+19.3778080	-99.0241592	Hotel Villas		hotel	
+19.5141493	-99.1350117	Ticoman		hotel	
+19.4439778	-99.1492897	Hotel Eco		hotel	
+19.4432055	-99.1570837	Gilbert		hotel	
+19.4316432	-99.1978117	Las Alcobas		hotel	
+19.4005884	-99.0988089	Holiday Inn Express México Aeropuerto	Holiday Inn Express Mexico Aeropuerto	hotel	
+19.4298300	-99.1463601	Hotel Centra2	Centra2 Hotel	hotel	
+19.4202346	-99.1444750	Hotel		hotel	
+19.4334602	-99.1259387	Hotel Mexico Mexico nuevo		hostel	
+19.5293409	-99.0788878	Hotel Santa Clara		hotel	
+19.4544753	-99.1290596	Hotel Universal		hotel	
+19.4164100	-99.1468855	Hotel Polo		hotel	
+19.3589352	-99.1432982	Hotel Castillo		hotel	
+19.3495584	-99.1465372	Jardines de Churubusco		hotel	
+19.3487587	-99.1463280	Las Flores		hotel	
+19.4114317	-99.1315063	Julio		hostel	
+19.3979570	-99.1956197	Casa Tochán		hostel	
+19.4638064	-99.1301733	Cafemin		hostel	
+19.4219778	-99.1607517	Servicio Jesuita a Migrantes México		hostel	
+19.4005887	-99.1840931	Programa Casa Refugiados		hostel	
+19.4284989	-99.1469799	Kali Ciudadela		hotel	
+19.4329089	-99.1385759	Hotel Principal		hotel	
+19.4388201	-99.1396106	Hotel Diligencias		hotel	
+19.4035702	-99.1784664	Hotel & Villas Patriotismo		hotel	
+19.4081646	-99.0032830	Hotel Aurora		hotel	
+19.3996831	-99.1696173	Hotel Rey		hotel	
+19.4316956	-99.1899174	Hotel Habita		hotel	
+19.4136978	-99.0107314	Hotel Medellin		hotel	
+19.3659886	-99.1884936	Liebe Hotel & Villas		hotel	
+19.4409501	-99.1148802	Hotel San Alfonso		hotel	
+19.4879827	-99.1520198	Courtyard Mexico City Vallejo		hotel	
+19.4073053	-99.1557726	Hotel California		hotel	
+19.4239552	-99.1757289	"The Ritz-Carlton, Mexico City"		hotel	5
+19.4100086	-99.1898748	Hotel Lira		hotel	
+19.3669741	-99.1711234	Hotel María Rico		hotel	
+19.4144918	-99.1364875	Hotel Goya		hotel	
+19.4401377	-99.1447465	CASA MX alameda		hostel	
+19.4332250	-99.1444063	Mexico hostel		hostel	
+19.5397825	-99.2155272	Fiesta Americana Satélite		hotel	
+19.4277509	-99.1351814	Hostal Regina	Hostel Regina	hostel	
+19.4365743	-99.0820006	izZzleep - Hospedaje inteligente - Hotel Aeropuerto Terminal 1		hotel	
+19.4209993	-99.1393678	Hotel Cadena		hotel	
+19.4140450	-99.1670467	Amsterdam apartamento C		hostel	
+19.4513838	-99.0924534	Casa Azul		hotel	
+19.3582423	-99.1290617	Hotel Argos		hotel	
+19.4029697	-99.1848102	Hotel Ambos Mundo		hotel	
+19.4413002	-99.0787075	Hostel México DF Airport		hostel	
+19.3810302	-99.1402770	Hotel Econo Express		hotel	
+19.4414478	-99.1395648	Hotel Emperador		hotel	
+19.4588943	-99.1287522	Hotel Bellini		hotel	
+19.4669194	-99.1432501	Hotel Naciones		hotel	
+19.4745588	-99.1383379	Cfntal Norte		hotel	
+19.4457264	-99.1486520	Hotel Norte		hotel	
+19.4289591	-99.1456165	Hotel San Diego		hotel	
+19.3552104	-99.1647314	Hostal Cuija Coyoacán		hotel	
+19.4535295	-99.2190406	Fiesta Americana		hotel	
+19.3556696	-99.1055006	Hotel Lasa Garage		hotel	
+19.4112106	-99.1722752	Hotel Parque México Suites		hotel	
+19.3590970	-99.1430019	Hotel Castillo		hotel	
+19.4118045	-99.1755377	Casa Condesa		hotel	
+19.3645068	-99.1829136	Fiesta Inn Insurgentes Sur		hotel	
+19.4255023	-99.1561453	Wanderlust District	Wanderlust District Hostel	hostel	
+19.4269785	-99.1507365	HOM Balderas		hostel	
+19.4249519	-99.1706618	Suites Capri Reforma 410		hotel	
+19.4346584	-99.1355678	Juarez		hotel	
+19.5379987	-99.1935017	San Isidro		hotel	
+19.4325540	-99.1464730	Hotel Fleming		hotel	
+19.4208008	-99.1566010	Colimazi		hotel	
+19.4220688	-99.1438904	Faro		hotel	
+19.4305567	-99.1376000	Punto MX		hotel	
+19.4357717	-99.1330672	Hotel Catedral		hotel	
+19.4213059	-99.1682083	Roomies Hostel Cibeles		hostel	
+19.4440430	-99.1364266	Hotel Guadalajara		hotel	
+19.4367982	-99.1328385	Hostel Amigo Suites		hostel	
+19.4109052	-99.1723187	FlowSuites Condesa		hotel	
+19.3944574	-99.1736254	Izzzleep Hotel		hotel	
+19.4464967	-99.1909862	Hotel Pensil		hotel	
+19.3881640	-99.1392660	Hotel Harare		hotel	
+19.4101721	-99.1357027	Hotel MAGA		hotel	
+19.4126894	-99.1561250	Hotel Escala		hotel	
+19.4399080	-99.0781700	Oasis Airport		hotel	
+19.4333557	-99.1462493	City Express by Marriott Ciudad de México Alameda		hotel	
+19.4287426	-99.1349627	Apapacho Hostel		hostel	
+19.3659475	-99.1673318	City Express Plus		hotel	
+19.4231414	-99.1669290	Hotel pf suites		hotel	2
+19.4190112	-99.1669500	Casa Cibeles by Lumina		hostel	
+19.4365414	-99.1304074	Viajero CDMX Centro		hostel	
+19.4353780	-99.2003538	Singular Goldsmith		hotel	
+19.4054585	-99.1596177	Colmena Tonala		hotel	
+19.4304697	-99.1631212	Hotel Exe Suites Reforma		hotel	
+19.4351439	-99.1328504	Circulo Mexicano		hotel	
+19.4177770	-99.1668399	Hostel Home		hostel	
+19.4453441	-99.1481208	Dharma		hotel	
+19.4356000	-99.1484276	Hotel B Urban Xaman		hotel	5
+19.4406431	-99.1378116	MX garibaldi		hostel	
+19.4261192	-99.1576730	Benedicta		hotel	
+19.4259957	-99.1316188	Hotel Parque		hotel	
+19.4279283	-99.1621129	City Express by Marriott Ciudad de México EBC Reforma		hotel	
+19.4351212	-99.1662053	Hotel Black		hotel	
+19.4310367	-99.1602408	Casa Kanabrí Hostal Boutique		hostel	
+19.4661822	-99.2257749	Hotel Valle de Mexico Toreo		hotel	
+19.4337529	-99.1355272	MX zócalo		hotel	
+19.4323991	-99.1354462	Casa Herrmann		hotel	
+19.4340694	-99.1357174	Hotel Canada Central		hotel	
+19.4340783	-99.1358300	Hotel Rioja		hotel	
+19.4340053	-99.1362735	Hotel Gillow		hotel	
+19.4295807	-99.1330363	Casa de la Luz		hotel	
+19.4163673	-99.1751813	Condesa Suites		hotel	
+19.3892403	-99.0123749	Blue Hill		hotel	
+19.4229300	-99.1742051	Four Seasons Hotel Mexico City		hotel	5
+19.4351241	-99.1647540	Hotel Muy		hotel	
+19.4222711	-99.1711429	Sevilla Venue		hotel	
+19.4361923	-99.1568707	Hotel Arizona		hotel	3
+19.4254955	-99.1378843	Hotel Menara		hotel	
+19.4322694	-99.1346800	Gran Hotel Ciudad de México		hotel	
+19.4186425	-99.1646245	ULIV		hotel	
+19.5087385	-99.0379869	ABCentral		hotel	
+19.4370621	-99.1359285	Hotel Cuba		hotel	
+19.4195762	-99.1551906	Stanza Hotel CDMX		hotel	
+19.4366147	-99.1326239	hotel Colmena		hotel	
+19.4024088	-99.0973606	WeEnjoy Hotels Aeropuerto CDMX		hotel	
+19.3141173	-99.2212628	Camino Real		hotel	
+19.4354420	-99.0853020	Camino Real Aeropuerto		hotel	
+19.3958401	-99.1747100	Holiday Inn Express		hotel	
+19.4282132	-99.1671457	Sheraton María Isabel		hotel	5
+19.4362989	-99.1476716	Hotel Fontán Reforma		hotel	4
+19.4352748	-99.1509654	Barceló México Reforma		hotel	
+19.4322691	-99.1547343	Fiesta Americana Reforma		hotel	
+19.4336592	-99.1542515	Le Méridien Mexico City		hotel	
+19.4330449	-99.1564123	Sevilla Palace		hotel	
+19.5328788	-99.0468154	Roma		hotel	
+19.4816429	-99.0517440	Hotel Neza		hotel	
+19.4263084	-99.1667822	City Express Plus by Marriott Reforma El Ángel		hotel	4
+19.4003041	-99.1708823	Fiesta Inn Insurgentes Viaducto		hotel	
+19.4250374	-99.1737889	Hotel Marquis Reforma		hotel	5
+19.4250397	-99.1678044	Galería Plaza Reforma		hotel	4
+19.4287228	-99.1660413	Sofitel Hotel Mexico City		hotel	5
+19.4277079	-99.1641745	Marriott Mexico City Reforma Hotel		hotel	4
+19.4291860	-99.1615426	Holiday Inn Express Mexico Reforma		hotel	
+19.4332409	-99.1535837	Hotel Imperial Reforma		hotel	
+19.3647410	-99.1822510	City Express		hotel	
+19.4345173	-99.1462783	Hilton Mexico City Reforma		hotel	
+19.3835307	-99.0755425	Krystal Urban Aeropuerto Ciudad de México		hotel	4
+19.3966560	-99.1856271	"Hotel Courtyard by Marriott, Cd. de México Revolución"		hotel	
+19.3806315	-99.1770746	El Diplomático		hotel	3
+19.4952021	-99.2141769	Hotel Villa del Parque - Armas		hotel	
+19.4376354	-99.1504197	Ramada Reforma		hotel	
+19.4281314	-99.1975820	Suites Obelisk		hotel	
+19.3822349	-99.0783440	Plaza Abastos		hotel	
+19.3786221	-99.0952231	Fiesta Inn		hotel	
+19.4060857	-99.1192075	Holiday Inn Express & Suites		hotel	
+19.3018491	-99.1895614	Radisson Paraiso Hotel Mexico City		hotel	
+19.4242524	-99.1649901	Hotel NH Collection Mexico City Reforma		hotel	
+19.4238824	-99.1647168	Hotel Century Reforma		hotel	
+19.4255908	-99.1693206	Capri Suites - Reforma Ángel		hotel	
+19.4311748	-99.1567291	Hotel Premier		hotel	
+19.4337295	-99.1567429	Hotel Plaza Madrid		hotel	4
+19.4370064	-99.1214588	Hotel Seoul		hotel	
+19.3632711	-99.1432449	Holiday Inn Coyoacán		hotel	
+19.3778411	-99.1866964	Hotel Pasadena		hotel	3
+19.4292164	-99.1242626	Hotel Tampico		hotel	
+19.2819956	-99.1242933	Plaza Vaqueritos		hotel	
+19.3879404	-99.1866211	Holiday Inn Ciudad de México Trade Center		hotel	
+19.3413615	-99.1821472	Hotel & Suites		hotel	
+19.3429681	-99.1817355	Hotel Centro Diana		hotel	
+19.3752470	-99.1861502	Hotel Corona Real		hotel	
+19.4308955	-99.1235668	Hotel Hispano		hotel	
+19.5238803	-99.2284757	City Express		hotel	
+19.4041239	-99.1844261	Hotel Ermita		hotel	
+19.3554504	-99.1043258	Hotel Atenas Plaza		hotel	
+19.4018384	-99.1373271	Hotel Aranjuez		hotel	
+19.4280276	-99.1787543	Camino Real		hotel	
+19.4292806	-99.1787172	Hotel City Express Suites Anzures		hotel	
+19.4271304	-99.1953745	W Mexico City		hotel	
+19.4287862	-99.2005749	Hotel Polanco		hotel	
+19.4670796	-99.1105456	Hotel Metropólitan		hotel	
+19.4896476	-99.0465906	Hotel Del Valle		hotel	
+19.4935333	-99.0529631	Hotel & Villas Sfera		hotel	
+19.3973626	-98.9980020	Hotel Palacio		hotel	
+19.5365119	-99.0273727	Hotel & Villas Aztlán		hotel	
+19.4623123	-99.1772420	Panamá		hotel	
+19.3529443	-98.9625690	Hotel Zafiro		hotel	
+19.4332488	-99.0894513	We Hotel Aeropuerto		hotel	
+19.5142698	-99.1346867	Hotel Ticoman Plaza		hotel	
+19.4368840	-99.0821873	Marriott Courtyard		hotel	
+19.4269690	-99.1325495	Hotel Castropol		hotel	
+19.4383793	-99.1559147	Hotel La Joya		hotel	
+19.5388617	-99.2033062	Hotel Crowne Plaza Tlalnepantla		hotel	
+19.4343034	-99.1352563	Hotel Washington		hotel	
+19.4343336	-99.1354917	Hotel Zamora		hotel	
+19.4617243	-99.1213208	Hotel Circuito		hotel	
+19.4864095	-99.1179229	Hotel Misterios		hotel	
+19.4920887	-99.0543717	Veloo		hotel	
+19.4851450	-99.0481621	Hotel Dos2		hotel	
+19.3928776	-99.1722644	Krystal Grand Suites Insurgentes		hotel	4
+19.5225047	-99.2286216	Krystal Satelite María Barbara		hotel	4
+19.4239520	-99.1640958	Hotel Royal Zona Rosa		hotel	
+19.4257305	-99.1640454	Eurostars Zona Rosa Suites		hotel	
+19.4230798	-99.1702588	Suites Capri Sevilla		hotel	
+19.4285021	-99.1603387	Capsule Hostel		hostel	
+19.4266560	-99.1610697	Mansion Havre		hotel	
+19.4307398	-99.1572661	Hotel El Ejecutivo		hotel	
+19.4309007	-99.1568662	MC Suites Mexico City		hotel	
+19.4304743	-99.1553983	Casa Prim		hotel	
+19.4285628	-99.1581499	Holiday Inn Express & Suites Mexico Zona Reforma		hotel	
+19.4272405	-99.1597191	Hotel del Principado		hotel	
+19.4273781	-99.1572201	Hostal Juarez		hostel	
+19.4419774	-99.1400713	Hotel Magnolia		hotel	
+19.4426032	-99.1399763	Hotel MX Lagunilla		hotel	
+19.4362911	-99.1510466	Hotel Plaza Revolución		hotel	
+19.4350404	-99.1548226	Hotel Palace		hotel	
+19.4334718	-99.1578013	Hotel Regente City		hotel	
+19.4362313	-99.1507145	Suites DF Hostel		hostel	
+19.4178053	-99.1675343	Hotel Maison México Roma		hotel	5
+19.4375115	-99.1421244	Hotel Hidalgo		hotel	3
+19.4386212	-99.1418648	Hotel Covandonga		hotel	
+19.4156164	-99.1659248	Hotel Roosevelt		hotel	
+19.4230866	-99.1601602	Hotel Embassy		hotel	
+19.4268591	-99.1303407	Hotel Regina		hotel	
+19.4283419	-99.1364214	Hotel Niza		hotel	
+19.4306356	-99.1386571	Barrio Downtown Mexico City Hostel		hotel	
+19.4269621	-99.1414714	Hotel Virreyes		hotel	
+19.4393015	-99.1370464	Hotel Sonora		hotel	
+19.4332350	-99.1423832	Hotel Marlowe		hotel	
+19.4390436	-99.1413192	Hotel Dos Naciones		hotel	
+19.4407128	-99.1405074	Hotel Riva Palacio		hotel	
+19.4270995	-99.1723663	Casa Inn Business Hotel Mexico		hotel	
+19.4042996	-99.1453418	Hotel Oslo		hotel	
+19.4121813	-99.1497210	Alberge Santa Maria		hostel	
+19.4339906	-99.1610586	Hotel Mallorca		hotel	
+19.4332716	-99.1605592	Hotel Sevilla		hotel	
+19.4315229	-99.1631522	Hotel Maria Cristina		hotel	
+19.4387399	-99.1493264	Hotel Mónaco Ciudad de México		hotel	
+19.4400772	-99.1540032	Hotel Mala Vecindad		hotel	
+19.4577027	-99.1272806	Hotel Panorama		hotel	
+19.4561558	-99.1291305	Holiday Inn Express México Basílica		hotel	
+19.4570730	-99.1290088	Hotel Villa Hermosa		hotel	
+19.4569387	-99.1286066	Villa del Mar		hotel	
+19.4247619	-99.1337299	Hotel Flamencos		hotel	
+19.4143378	-99.1352839	Gran Hotel Amazonas		hotel	
+19.4130393	-99.1289145	Quinta Bugambilias		hotel	
+19.4427135	-99.1425294	Hotel Las Américas		hotel	
+19.4175430	-99.0934102	Hotel MX Aeropuerto		hotel	
+19.4190718	-99.0972991	Hotel Duque		hotel	
+19.4197220	-99.0983356	Hotel Puente		hotel	
+19.4328797	-99.0896803	Hotel Aeropuerto		hotel	
+19.4308821	-99.0978448	Hotel Planet		hotel	
+19.4595046	-99.2220097	Courtyard by Marriott Mexico City Toreo		hotel	
+19.4228693	-99.0955777	City Express		hotel	
+19.4352222	-99.1154801	Hotel MX Congreso		hotel	
+19.4269793	-99.1080488	Hotel Cima		hotel	
+19.4348172	-99.1537017	Hotel Casa Blanca		hotel	
+19.4248773	-99.1640943	Hotel Geneve Mexico City		hotel	4
+19.4130180	-99.0905312	Hotel Orion		hotel	
+19.4092962	-99.0792139	Hotel Zaragoza Inn Boutique		hotel	

@@ -1,0 +1,658 @@
+@lat	@lon	name	name:en	tourism	stars
+41.3759505	2.1670539	Hotel Millenni		hotel	4
+41.3751971	2.1682509	Hotel Barcelona Universal		hotel	4
+41.3747759	2.1661966	Hotel Paral·lel		hotel	2
+41.3516118	2.0904489	Novotel Cornella		hotel	
+41.3939068	2.1568633	Catalonia Diagonal Centro		hotel	4
+41.3802157	2.1539506	Villa Emilia		hotel	
+41.3728426	2.1661693	Hostal Barcelona		hotel	
+41.3796661	2.1752410	Hostal Kabul		hostel	
+41.3813647	2.1727626	Pensión Las Flores		hotel	
+41.3842853	2.1705638	Hotel Royal		hotel	4
+41.4011223	2.1829564	Hotel Glòries		hotel	
+41.3960634	2.1794666	Hotel Ayre Casp		hotel	1
+41.3846255	2.1681611	Hosteria Grau		hotel	2
+41.3962081	2.1609608	Hotel Sir Victor		hotel	4
+41.3942863	2.1617800	Hotel Suites Avenue		hotel	5
+41.3717119	2.1808851	Eurostars Grand Marina		hotel	5
+41.3850332	2.1707068	Hotel Continental		hotel	1
+41.3870001	2.1684561	H10 Catalunya Plaza		hotel	3
+41.3908058	2.1660695	Club 29		hotel	
+41.3897100	2.1655726	Hotel Continental Palacete		hotel	
+41.3893464	2.1212331	AC Marriott Victoria Suites		hotel	
+41.3760378	2.1440163	Hostal Baler		hostel	
+41.3800510	2.1710093	Leonardo Hotel Las Ramblas		hotel	3
+41.3908992	2.1706621	Atrium Palace		hotel	
+41.3837596	2.1782779	Hotel Suizo		hotel	
+41.3746695	2.1706835	INNSiDE by Meliá Barcelona Apolo		hotel	4
+41.3751599	2.1688148	Auto Hogar		hotel	
+41.3836207	2.1707631	Le Méridien Barcelona		hotel	
+41.3933159	2.1660451	Barcelona City Hotel(Hotel Universal)		hotel	
+41.3803276	2.1791762	Hostal Baires		hostel	
+41.3854111	2.1660268	Grupotel Gravina Hotel		hotel	
+41.3853032	2.1655507	chic&basic Reding Hotel		hotel	
+41.3862014	2.1711443	Olivia Plaza Hotel		hotel	
+41.3804713	2.1707294	Center Ramblas		hostel	
+41.3809414	2.1531619	Atenea Calabria		hotel	
+41.3762298	2.1571681	Evenia Rocafort		hotel	3
+41.3873794	2.1604124	AXEL Hotel		hotel	4
+41.3796666	2.1734692	Ideal Youth Hostel		hostel	
+41.3795792	2.1344573	Alberguinn - Sants Youth Hostel		hostel	
+41.3944811	2.1723148	Mediterranean Youth Hostel		hostel	
+41.3733630	2.1473387	Ayre Hotel Gran Via		hotel	
+41.3814535	2.1738688	Hotel Inglés		hotel	1
+41.3819104	2.1707337	Hostal la Palmera		hotel	2
+41.3788851	2.1547217	Aparthotel Eric Vökel Gran Vía Suites		hotel	
+41.3870752	2.1723258	Hotel Denit		hotel	
+41.4156176	2.1464272	Barcelona Xanascat		hostel	
+41.3890859	2.1429632	Casual Colours Barcelona	Casual Colours Barcelona	hotel	
+41.3958561	2.1609782	Hotel Paseo de Gracia		hotel	3
+41.3910913	2.1593029	Hotel Balmes		hotel	4
+41.3918188	2.1567870	Hotel Granados 83		hotel	4
+41.3926948	2.1563470	Room Mate Emma Hotel		hotel	3
+41.3760514	2.1204985	Hotel Madanis Liceo		hotel	
+41.3767668	2.1213892	Hotel Madanis		hotel	
+41.3747600	2.1608854	Hotel Concordia		hotel	4
+41.3824340	2.1623751	Apartaments Casanova		hotel	
+41.3824642	2.1623216	Hostal Centric		hotel	
+41.4060153	2.1447934	Hostal Putxet		hotel	
+41.3863262	2.1681968	Hotel Catalonia Plaça Catalunya		hotel	4
+41.3874373	2.1680369	Hotel Ginebra		hotel	1
+41.3918486	2.1573697	Hotel América Barcelona		hotel	4
+41.3811573	2.1764010	Catalonia Avinyó		hotel	
+41.4000137	2.1515004	Via Augusta		hotel	2
+41.3814493	2.1271459	NH Barcelona Stadium		hotel	
+41.3842359	2.1843645	Park Hotel Barcelona		hotel	3
+41.4047213	2.1728228	Ayre Hotel Rosellón		hotel	
+41.3755271	2.1483738	Catalonia Barcelona Plaza		hotel	4
+41.4139882	2.1776964	Hotel Sant Pau		hotel	2
+41.3924648	2.1727542	Grupotel Gran Via 678		hotel	4
+41.3940651	2.1982123	Bed and Beach		hotel	
+41.3860573	2.1657768	Hotel Jazz		hotel	3
+41.3738006	2.1694581	Pensión Peiró et Hostal Apolo		hostel	
+41.3910970	2.1682549	HCC St. Moritz		hotel	4S
+41.3856916	2.1659374	Hotel MidMost Barcelona		hotel	4
+41.3931756	2.1631439	Majestic Residence		hotel	
+41.3943122	2.1598783	Murmuri Residence		hotel	
+41.3601004	2.1077184	Aura Park		hotel	
+41.3771034	2.1752358	Pillow One Hostal		hostel	
+41.3895385	2.1490319	Hotel U232		hotel	
+41.3806730	2.1714569	Hotel Sant Agusti		hotel	
+41.3997255	2.1775408	Hotel Sant Antoni		hotel	
+41.3983332	2.1757625	Hotel Aranea		hotel	3
+41.4153600	2.1770324	Hostal Canigó		hostel	
+41.3752421	2.1556479	HCC Lugano		hotel	3
+41.4017429	2.1477414	Pol & Grace Hotel		hotel	4
+41.3947875	2.1434626	Arc hotel Irla		hotel	
+41.3989308	2.1885275	TwentyTu Hi-Tech Hostel		hostel	
+41.3850716	2.1706820	Hotel Toledano		hotel	
+41.3850165	2.1707250	Pension Capitol		hostel	2
+41.3958434	2.1717061	Hostal Ona Barcelona		hostel	
+41.3846716	2.1567590	Angla Boutique Apartments		hotel	
+41.3819404	2.1459613	Catalonia Roma		hotel	3
+41.4020085	2.1714626	Castro Exclusive Residences		hotel	
+41.3804476	2.1798650	Hotel Hesperia Metropol		hotel	
+41.3846890	2.1680910	Pension 45		hotel	
+41.3801084	2.1758452	Roma Reial		hotel	1
+41.3973173	2.1592150	Casa Gracia		hostel	
+41.3845819	2.1378928	NH Sants		hotel	
+41.3811962	2.1639930	Hotel Ronda House		hotel	
+41.3815341	2.1449734	Hotel Sercotel Abbot		hotel	
+41.3939364	2.1481999	Hostal Petit Príncep		hotel	
+41.3887472	2.1717477	Bypillow Mothern Barcelona		hotel	
+41.3938151	2.1713230	Hotel Praktik Garden		hotel	
+41.3913182	2.1775740	Black Swan Hostel		hostel	
+41.3905193	2.1763374	Hip Karma Hostel		hostel	
+41.4058831	2.1715350	Sagrada Familia		hotel	3
+41.4141911	2.1448420	Catalonia Park Güell		hotel	
+41.3788810	2.1393317	Barceló Sants		hotel	4
+41.3960791	2.1653755	Hostal Boutique Khronos		hotel	
+41.3731526	2.1698857	Nuevo Triunfo		hotel	
+41.3912296	2.1702500	Hotel Indigo		hotel	
+41.3885941	2.1712563	Hotel Catalonia Square		hotel	
+41.3822737	2.1806803	Hotel Colonial		hotel	4
+41.3825823	2.1658879	Acta BCN 40		hotel	
+41.3702217	2.1441553	BCN Montjuïc		hotel	3
+41.3874990	2.1365404	NH Les Corts		hotel	3
+41.4103950	2.1397386	Hotel Bertran		hotel	3
+41.3909371	2.1657885	Safestay Passeig de Gracia Barcelona		hostel	
+41.3922038	2.1585614	Olivia Balmes Hotel		hotel	
+41.3815376	2.1742127	Hotel Condal		hotel	
+41.3777588	2.1783804	Barcelona Dreams		hotel	
+41.3991439	2.1625978	Generator Barcelona		hostel	1
+41.3848137	2.1701720	Hotel Lloret		hotel	
+41.3832795	2.1685386	Casa Camper Barcelona		hotel	
+41.3834541	2.1726849	Hostal Fina		hotel	
+41.3789792	2.1748135	Hotel Ramblas		hotel	
+41.3802428	2.1700638	Hotel Alba		hotel	
+41.3808920	2.1715146	Hostal R. Ramos		hotel	
+41.3724255	2.1462078	Hotel Brick		hotel	
+41.3781000	2.1786200	Gran Hotel Medinaceli		hotel	
+41.3847031	2.1665445	Meson Castilla		hotel	2
+41.3859352	2.1729133	Hostal Lausanne		hostel	
+41.3883372	2.1645363	Hotel Sansi Diputació		hotel	
+41.4032657	2.1583154	Sant Jordi Gracia		hostel	
+41.3982162	2.1682084	Hostal Felipe II		hostel	
+41.4020841	2.1756718	MH Apartments		hotel	
+41.3853275	2.1716056	Hotel Nouvel		hotel	
+41.3999982	2.1453390	Mercure Barcelona Condor		hotel	
+41.3733921	2.1682438	Hotel Coronado		hotel	1
+41.4007751	2.1724889	Hotel ibis Barcelona Centro		hotel	
+41.3810300	2.1727130	Hotel Moderno		hotel	
+41.3831220	2.1778220	Gran Hotel Barcino		hotel	4
+41.3866209	2.1659173	Sleep Green		hostel	
+41.3737145	2.1691313	HelloBCN Hostel		hostel	
+41.3759099	2.1547587	MH Apartments Urban		hotel	
+41.3741557	2.1659815	Mambo Tango Youth Hostel		hostel	
+41.3968512	2.1660039	Hostel Bruc Barcelona		hostel	
+41.3892056	2.1725408	H10 Urquinaona Plaza		hotel	
+41.3750200	2.1724969	Serhs del port		hotel	
+41.3716581	2.1664682	Hotel Brummell		hotel	
+41.3794595	2.1750386	Rambla Apartments		hotel	
+41.3861529	2.1548520	Barcelona Century Hotel		hotel	
+41.3860100	2.1610310	AKO Aparthotel		hotel	
+41.3910726	2.1843702	Alberg Arc House		hostel	
+41.3793737	2.1750662	Hotel Cuatro Naciones		hotel	
+41.3809586	2.1304142	Room018BCN		hostel	
+41.3897583	2.1744395	Bed and Art		hostel	
+41.3999413	2.1188271	Residencia Albergue Studios		hostel	
+41.3921304	2.1703366	Hotel Victoria Palace		hotel	
+41.3964422	2.1285763	Hotel Catalonia Castellnou		hotel	3
+41.3765984	2.1727042	Andante Hotel		hotel	3
+41.3964142	2.1638765	Factory Gardens Hostel Barcelona		hostel	
+41.3799172	2.1715062	BCN Home		hotel	
+41.3849938	2.1666554	Hotel Ciutat Vella		hotel	
+41.4110737	2.1865397	Catalonia Atenas		hotel	
+41.3881318	2.1601834	Cram		hotel	
+41.3945072	2.1632409	Alma Barcelona Hotel		hotel	
+41.3945800	2.1624325	Hotel Royal Passeig de Gracia		hotel	
+41.3905236	2.1850885	Ant Hostel		hostel	
+41.3956432	2.1495177	Hotel Condado		hotel	
+41.3949998	2.1470158	Zenit Hotel		hotel	
+41.3996791	2.1620120	BCN Sport Hostels		hostel	
+41.3905627	2.1633115	HCC Taber		hotel	3
+41.4078298	2.1597093	Bedcelona Gràcia Hostel		hostel	
+41.3741305	2.1603242	Hostal Elkano		hostel	
+41.4106317	2.1731362	Hotel Medicis		hotel	
+41.3949865	2.1503717	Appartamento		hotel	
+41.3912477	2.1692974	Hostal Barcelona Centro		hotel	
+41.3920786	2.1704837	sant jordi alberg hostel		hostel	
+41.3729061	2.1720069	Hotel Grums		hotel	
+41.3837765	2.1800369	chic&basic Habana Hoose Hotel		hotel	3
+41.3842048	2.1797277	Safestay Barcelona Gothic		hostel	
+41.3968730	2.1771920	Hola Hostal Eixample		hostel	
+41.3878529	2.1620362	Casa de Ana		hostel	
+41.3847987	2.1847029	Pension Ciudadela		hostel	
+41.3806299	2.1796776	new york		hostel	
+41.4020879	2.1756287	Miam		hotel	
+41.3835014	2.1310551	08028 Apartments		hotel	
+41.3847897	2.1625305	TOC Hostel Barcelona		hostel	
+41.3986999	2.1541323	Ding dong Express		hotel	
+41.3810160	2.1791818	Gothic Cathedral Apartments		hotel	
+41.3952787	2.1797494	Napols Apart;Aparthotel Nàpols		hotel	
+41.3802479	2.1694741	Airbnb2		hotel	
+41.3815707	2.1837722	H10 Hotel Port Vell		hotel	
+41.3826847	2.1570763	BCN Urban Hotels del Comte		hotel	
+41.3964790	2.1451730	Hostal Alogar		hostel	2
+41.3963515	2.1660691	Room Mate Carla Hotel		hotel	4
+41.3784902	2.1780553	Canton		hotel	
+41.3898262	2.1661232	Hotel Eurostars Cristal Palace		hotel	4
+41.3810414	2.1086899	Torre Melina Gran Meliá		hotel	
+41.3926659	2.1736765	Ella hostel		hotel	
+41.3935976	2.1729418	LivingRoom City Center Hostel		hostel	
+41.4086998	2.1569834	casa de Chiara		hotel	
+41.3852690	2.1019996	abba Garden hotel		hotel	4
+41.3889040	2.1776473	Casa		hostel	
+41.3937398	2.1700769	Fabrizzio's Petit		hostel	
+41.3927154	2.1674921	Renaissance Barcelona Hotel		hotel	
+41.4105824	2.1364924	ABaC		hotel	5
+41.3926038	2.1693250	Barcelona Central Garden		hostel	
+41.4078874	2.1852929	Hotel Catalonia Sagrada Familia		hotel	
+41.3876521	2.1602093	Aribau		hostel	
+41.3830791	2.1701799	Turin Hotel		hotel	
+41.4072815	2.1761705	Mh Apartments Family		hotel	
+41.4032300	2.1270863	Hotel Catalonia Mikado		hotel	3
+41.3944096	2.1654247	Hotel Claris		hotel	
+41.3856442	2.1664581	Hotel Lleó		hotel	3
+41.3882720	2.1403872	Marina apt		hostel	
+41.3772740	2.1440026	Hotel Suites		hotel	
+41.4113950	2.1733487	Hotel Everest		hotel	
+41.3823086	2.1705179	Curious		hotel	
+41.3963077	2.1700203	Hotel Europark		hotel	
+41.3960188	2.1611271	Hotel Actual Boutique		hotel	3
+41.3786643	2.1377134	Meeting Point Hostels		hostel	
+41.3849042	2.1710061	Depto BCN		hotel	
+41.4051112	2.1542890	Residences Erasmus Gracia		hotel	
+41.3839080	2.1714279	Citadines		hotel	
+41.3730289	2.1459815	Hotel Azul		hotel	
+41.3800248	2.1714338	Hostal La Terrassa		hotel	
+41.3938311	2.1675530	od Barcelona		hotel	
+41.3901640	2.1845713	Motel One		hotel	
+41.3964473	2.1639204	The Loft Hostel		hostel	
+41.3523017	2.1334505	Travelodge L'Hospitalet		hotel	
+41.3890624	2.1658933	Hotel Praktik Rambla		hotel	
+41.3911105	2.1709701	BUHO Boutique Hotel		hotel	
+41.3758204	2.1709462	Sound hostel		hostel	
+41.3770603	2.1774263	Pillow by Ramblas		hotel	
+41.3809593	2.1748767	Hostel Sun and Moon		hostel	
+41.3893171	2.1624013	Hotel Praktik Vinoteca		hotel	
+41.3888147	2.1759261	Yurbban Passage Hotel & Spa		hotel	
+41.3790983	2.1560884	Axel TWO Barcelona		hotel	
+41.3796673	2.1748841	Hotel Fornos		hotel	
+41.3944017	2.1501533	Wilson Boutique Hotel		hotel	
+41.3860937	2.1754224	H10 Madison		hotel	4S
+41.3815136	2.1734483	May Ramblas Hotel		hotel	
+41.3860095	2.1778381	The Barcelona EDITION		hotel	
+41.3961575	2.1551795	Hotel Balmoral		hotel	4
+41.3926865	2.1720252	Gran Hotel Havana		hotel	4
+41.3825837	2.1400785	Hotel abba Sants		hotel	
+41.3977681	2.1657002	Hotel Ibis Styles Barcelona Centre		hotel	
+41.3858693	2.1664574	Hotel Pelayo Barcelona		hotel	1
+41.3814673	2.1734600	Hostal Paris		hotel	1
+41.3843154	2.1784312	H10 Montcada		hotel	3
+41.3720490	2.1368469	SmartRoom		hotel	
+41.3892381	2.1740196	Hostal Mayerling Centro		hostel	
+41.3877858	2.1676540	H10 Metrepolitian		hotel	
+41.4047461	2.1597627	Jam		hostel	
+41.3810806	2.1534319	128 magatzem		hotel	
+41.3833098	2.1778095	Hotel Jaume I		hotel	
+41.3834038	2.1781998	Hotel Gótico		hotel	
+41.3822821	2.1757084	Hotel El Call		hotel	
+41.3820096	2.1764309	Hotel Rialto		hotel	
+41.3991742	2.1656224	Hotel Well and Come		hotel	4
+41.3961883	2.1613595	Hotel Limonaia		hotel	2
+41.3775734	2.1135678	Senator		hotel	
+41.3971552	2.1758100	Sehrs Carlit		hotel	
+41.3833373	2.1793149	Exe Hotel Laietana Palace		hotel	
+41.3722175	2.1575575	La França Travellers		hotel	
+41.3909971	2.1963474	UNITE hotel		hostel	
+41.3885915	2.1445052	freehostels		hostel	
+41.3935483	2.1505631	Guitart Grand Passage		hotel	4
+41.3890429	2.1566210	The Corner		hotel	
+41.3916188	2.1592877	Hotel Barcelona Center		hotel	
+41.3894095	2.1564945	Best Western Premier Hotel Dante		hotel	4
+41.3920504	2.1570335	H10 art gallery hotel		hotel	
+41.3842163	2.1619248	Caledonian		hotel	3
+41.3906916	2.1410813	Dream Cube Hostel		hostel	
+41.3878804	2.1512933	Acacia		hotel	
+41.3838586	2.1847211	Hotel Ciutadella Barcelona		hotel	
+41.3894606	2.1837346	Hotel Ciudadela Parc		hotel	
+41.3815204	2.1740616	Hotel Palermo		hotel	
+41.3849213	2.1627957	La casa de Antonio Boutique Rooms		hotel	
+41.3945690	2.1565496	Hotel Ohla Eixample		hotel	5
+41.4062969	2.1835060	No Limit Hostel Graffiti		hostel	
+41.4109807	2.1856144	Leonardo Boutique Hotel Barcelona Sagrada Familia		hotel	
+41.4097979	2.1790486	Sant Jordi Hostel Sagrada Familia		hostel	
+41.4109656	2.1732084	htop BCN City		hotel	2
+41.3984358	2.1843854	BarcelonaGO Hotel & Apartments		hotel	
+41.4030116	2.1783408	Alberg Barcelona and You		hostel	
+41.4012585	2.1733663	Hotel Boutique Hostemplo		hotel	
+41.3746635	2.1156626	El Hotelito		hotel	
+41.4100292	2.1484688	Rocket Hostels Gràcia		hostel	
+41.4123891	2.1565666	Factory Hostels Barcelona		hostel	
+41.3959537	2.1774708	Alberg Des Artistes		hostel	
+41.3971347	2.1762373	Alberg Bed And Bike		hostel	
+41.3928313	2.1655105	Room Mate Anna Hotel		hotel	4
+41.3931876	2.1615252	"Alexandra Barcelona Hotel, Curio Collection by Hilton"		hotel	4
+41.3937566	2.1622420	Monument Hotel		hotel	5
+41.3910761	2.1791439	Born Barcelona Hostel		hostel	
+41.3905815	2.1775756	360 Hostel Arts & Culture		hostel	
+41.3915881	2.1774502	360 Hostel Barcelona		hostel	
+41.3924183	2.1741019	Alberg Don Moustache		hostel	
+41.3934332	2.1725889	Alberg Fabrizzios Terrace Barcelona		hostel	
+41.3937064	2.1712241	Backpackers		hostel	
+41.3968574	2.1690730	Azul B&B		hostel	
+41.3981551	2.1685044	Primavera Hostel		hostel	
+41.3964349	2.1662057	Bruc & Bruc		hostel	
+41.3972708	2.1615078	Diagonal House		hostel	
+41.4014134	2.1583049	Hip Hostel Barcelona		hostel	
+41.3814235	2.1754532	Fernando		hostel	
+41.3852926	2.1753521	Itaca		hostel	
+41.3885511	2.1675546	Korea Hostel		hostel	
+41.3867537	2.1663425	Alternative Creative Youth Hostel		hostel	
+41.3878350	2.1643576	EcoZentric		hotel	
+41.3890983	2.1650789	Hostel Plaza Catalunya		hostel	
+41.3918263	2.1664847	No Limit Hostel Central		hostel	
+41.3915430	2.1631914	Art City Hostel		hostel	
+41.3906443	2.1625056	The Buda House		hostel	
+41.3904420	2.1609601	Sant Jordi Hostel Rock Palace		hostel	
+41.3934247	2.1644837	Lenin Hostel		hostel	
+41.3956717	2.1584212	The Central House		hostel	
+41.4001932	2.1512570	Blue Barcelona 2		hostel	
+41.3737418	2.1742950	Onefam Ramblas Hostel Barcelona		hostel	
+41.3737681	2.1740858	Pars Teatro Hostel		hostel	
+41.3815990	2.1606445	Tailor's Hostel		hostel	
+41.3817539	2.1587887	The Bird House		hostel	
+41.3846195	2.1600252	Onefam Batlló Hostel Barcelona		hostel	
+41.3899881	2.1599356	Casa del Mediterráneo		hostel	
+41.3903624	2.1592623	Casa Kessler Barcelona		hostel	
+41.3831717	2.1753925	Hotel Neri Relais & Chateaux		hotel	5
+41.3830356	2.1753870	Hotel Neri Apartments		hotel	
+41.3774559	2.1388988	Hotel AC Sants	AC Marriott Sants	hotel	
+41.3895404	2.1663491	유로스타		hotel	
+41.3802623	2.1695221	Residencia d’Investigadors		hotel	
+41.3813445	2.1765999	Hostal Levante		hostel	
+41.3834955	2.1598349	Hostal Live Barcelona		hotel	
+41.3755050	2.1729039	Hotel Casa Lit Barcelona by Ona		hotel	
+41.3860199	2.1099293	Allotjament Logístico-militar Caserna del Bruc		hostel	
+41.3846595	2.1637078	Hostal Delfos		hotel	
+41.3990835	2.2006312	Acta Voraport		hotel	
+41.3853060	2.1307335	Hostal Liwi		hostel	
+41.3846550	2.1698283	Hostal Pension Dani		hostel	
+41.3781838	2.1431066	Hotel Transit		hotel	
+41.3899890	2.1695249	Hotel Granvia		hotel	
+41.3893000	2.1664400	Onix Rambla		hotel	
+41.3880202	2.1731612	H10 Cubik		hotel	4S
+41.3787000	2.1787300	Hotel Catalonia Port		hotel	
+41.3856540	2.1255386	Catalonia Rigoletto		hotel	4
+41.3907533	2.1694134	Almanac		hotel	
+41.3856379	2.1668151	Hotel Catalonia Ramblas		hotel	
+41.3879310	2.1693922	BLESS Barcelona		hotel	5
+41.3852411	2.1645554	chic&basic Tallers Hostel		hostel	
+41.3849281	2.1776182	Gran Hotel Central		hotel	5
+41.3743048	2.1303808	Onefam Sants Hostel Barcelona		hostel	
+41.3905581	2.1726186	Hotel Negresco Princess		hotel	
+41.3894964	2.1622058	Hostal Eden		hostel	
+41.3825810	2.1789657	Mercer Hotel Barcelona		hotel	5
+41.3970672	2.1513108	The Moods Oasis		hotel	3
+41.3939200	2.1579908	Mihlton Hotel		hotel	
+41.3809379	2.1720314	Catalonia Boquería		hotel	
+41.3852978	2.1722188	Kimpton Vividora Barcelona		hotel	5
+41.3930991	2.1545161	The Mirror		hotel	4S
+41.3861192	2.1745588	Hotel Catalonia Magdalenes		hotel	4
+41.3981521	2.1493985	Aparthotel Mariano Cubí		hotel	4
+41.3825174	2.1739864	el Jardi		hotel	
+41.3904676	2.1608958	Rock Palace Hostel		hostel	
+41.3915708	2.1729390	Hotel Constanza		hotel	
+41.4097579	2.2098626	Hotel BestPrice Diagonal		hotel	
+41.3961679	2.1623261	HO Casa Mimosa		hotel	
+41.4074419	2.1673153	Sensation authentic gracia		hotel	
+41.3840234	2.1407756	Ideal Sants		hostel	
+41.3768921	2.1747892	Sixties Rambla		hotel	
+41.3634752	2.0745575	Hostal Cornellà		hotel	
+41.3764311	2.1763921	Residencia Militar Cristóbal Colón		hotel	
+41.3930349	2.1247017	Bonanova Park Hotel		hotel	
+41.3771879	2.1238292	Onefam Les Corts Hostel Barcelona		hostel	
+41.4008224	2.1500431	HG City Suites		hotel	
+41.3827359	2.1818974	Samy Home		hostel	
+41.3775051	2.1724749	Hostal Be Ramblas		hotel	
+41.3777945	2.1715367	Hotel Barbara		hotel	
+41.3464590	2.1081439	Apartamentos Hesperia Fira		hotel	
+41.3793667	2.1679794	Abba Rambla Hotel		hotel	
+41.3829722	2.1700470	Hotel Silken Ramblas		hotel	
+41.3867622	2.1824047	chic&basic Born Boutique Hotel		hotel	3
+41.3857883	2.1651393	chic&basic Lemon Hotel		hotel	2
+41.3870440	2.1835261	chic&basic Zoo Hotel		hostel	1
+41.3742483	2.1681456	Bedmates		hostel	
+41.3858809	2.1810222	Hotel Ciutat de Barcelona		hotel	
+41.3843976	2.1844891	Hostal Orleans		hostel	
+41.3879092	2.1334542	Alberg Hostel Barcelona Pere Tarrés		hostel	
+41.4144621	2.1898181	Arcelon Hotel		hotel	
+41.3929699	2.1576856	Lumine suites		hostel	
+41.3929601	2.1576608	Lumine suites		hostel	
+41.3980962	2.1648070	Hotel Occidental		hotel	
+41.3802340	2.1728806	Opera Ramblas Hostal		hotel	2
+41.3770113	2.1498718	Hitel Onix Fira		hotel	
+41.4014828	2.1484599	Aparthotel Augusta		hotel	
+41.3933715	2.1617658	Ciudad		hotel	
+41.4060521	2.1529257	Residència Erasmus Gràcia		hotel	
+41.3838885	2.1640108	Antiga Casa Buenavista		hotel	
+41.4054665	2.1361386	Aparthotel Bonanova		hotel	
+41.3916621	2.1639098	One Shot		hotel	
+41.3790899	2.1741666	Happy Apartments		hotel	
+41.3986858	2.1623957	Catalonia Gràcia		hotel	4
+41.3984020	2.1844093	Green House Hotel		hotel	
+41.3907552	2.1717059	ambitbcn		hotel	4
+41.3800278	2.1714306	Hostal La Terrassa		hostel	
+41.3737695	2.1175201	Casa Barcelo Camp Nou Hostel		hostel	
+41.4097290	2.1608472	Hotel BESTPRICE Gracia		hotel	
+41.4064392	2.1672502	Alberg Be Barcelona Sagrada Familia		hostel	
+41.3774109	2.1645065	Paraiso Hostel		hostel	
+41.3606470	2.1331662	Hotel Radha		hotel	
+41.3855252	2.1665115	Hotel Lleó		hotel	3
+41.3992644	2.1582731	Hostal Mozart		hostel	
+41.3895101	2.1729406	Hostal Sant Carlo		hotel	
+41.3800192	2.1748754	DO: Plaça Reial		hotel	
+41.3798875	2.1618769	Hotel Balkonis		hotel	
+41.3791798	2.1429258	Moxy Barcelona		hotel	4
+41.3970619	2.1598447	Hoteles Catalonia		hotel	
+41.3942639	2.1774213	Hotel Sercotel Caspe		hotel	
+41.3889064	2.1760708	Yurban Hotel		hotel	3
+41.3775379	2.1779726	La Pau hotel boutique		hotel	
+41.4185862	2.1872493	Amistat City Hostel Barcelona		hostel	
+41.3794318	2.1761042	Barcelona House Hotel		hotel	
+41.3919228	2.1751590	Hostal Girona		hotel	
+41.4099113	2.2044589	The Social Hub - Hotel		hotel	
+41.3790549	2.1683944	Abba Rambla Hotel		hotel	
+41.3794399	2.1664080	Casa Gardenia		hostel	
+41.3867739	2.1674428	Exe Plaza Catalunya Hotel		hotel	
+41.3853173	2.1696053	Hotel Monegal		hotel	
+41.3868549	2.1666284	H10 Universitat		hotel	
+41.3903290	2.1592377	Piulet Hostel		hostel	
+41.3819710	2.1733633	BYPILLOW 20		hotel	
+41.3778837	2.0847104	Hostal Lami		hotel	
+41.4157319	2.1852197	Limehome		hotel	
+41.3893768	2.1717595	Hostal Goya		hotel	
+41.3732828	2.1657641	HeyLola! Hostel		hostel	
+41.3907886	2.1672359	Hostal Oliva		hostel	
+41.4153404	2.1770330	Hostal Sant Pau		hostel	
+41.4047251	2.1388882	Hotel Sant Gervasi		hotel	
+41.3683392	2.1328158	Hostal Nova Barcelona		hotel	
+41.3990724	2.2077190	Lugarus Beach		hotel	
+41.3815125	2.1785926	Pensión Coral		hostel	
+41.3921553	2.1537647	Casa Barceló Hostel		hostel	
+41.3779254	2.1782141	Hostal Portugal		hostel	
+41.3999177	2.1840505	SM Hotel Teatre Auditori		hotel	
+41.3906238	2.1214398	Upper Diagonal Hotel		hotel	
+41.3658965	2.1302549	Hotel Serennia Fira Gran Via		hotel	
+41.3862810	2.1648430	Casa Luz		hotel	
+41.3811206	2.1814183	Duquesa Suites		hotel	
+41.3741326	2.1655237	Hostal Oliveta		hotel	
+41.3796312	2.1724606	Hotel Peninsular		hotel	
+41.3819522	2.1641518	H La Paloma Boutique		hotel	
+41.4149987	2.1878775	Easy Hotel		hotel	
+41.3908557	2.1724369	Hotel Vasanta		hotel	
+41.3936149	2.1743230	Casa Bonay		hotel	
+41.3792077	2.1542415	Hotel Chi		hotel	
+41.3609176	2.1282526	Hostelfly Fira Barcelona		hostel	
+41.3770440	2.1179047	Alguer Hotel		hotel	
+41.3849955	2.1699680	Yurbban Ramblas		hotel	
+41.3801419	2.1728300	Dàlia Rambles		hotel	
+41.3813464	2.1739565	Petit Palace Boquería Garden		hotel	4
+41.4048236	2.1288657	Vilana Hotel		hotel	
+41.3731693	2.1375501	Live and Dream		hotel	
+41.3776957	2.1729045	Hostal Be Ramblas		hostel	
+41.4087977	2.1479231	Hotel Ronda Lesseps		hotel	4
+41.3854737	2.1717139	Hotel Catalunya		hotel	
+41.3868899	2.1962221	Hotel Arts		hotel	
+41.3790266	2.1696373	Barceló Raval		hotel	
+41.4053004	2.1962274	Four Points by Sheraton Barcelona Diagonal		hotel	
+41.3153761	2.0825055	Centre Esplai		hostel	
+41.4035943	2.1902748	The Hoxton		hotel	
+41.4037938	2.1911824	Novotel Barcelona City		hotel	
+41.3809706	2.1455678	H10 Itaca		hotel	
+41.3845918	2.1611683	Urbany Hostel BCN GO		hostel	
+41.3790475	2.1502096	chic&basic Velvet Hotel		hotel	3
+41.3870266	2.1594605	Aramunt Aparthotel		hotel	
+41.3767601	2.1525324	Hotel Vilamari		hotel	4
+41.3836127	2.1517343	Hotel Viladomat		hotel	3
+41.3766284	2.1505433	B - Hotel		hotel	
+41.3842649	2.1607454	H10 Casanova		hotel	
+41.3826407	2.1909960	Campus de Mar		hostel	
+41.3829987	2.1848134	Hotel Oasis		hotel	
+41.3827695	2.1714977	Hotel Bagués		hotel	5
+41.3981710	2.1581244	Hotel Casa Fuster		hotel	5
+41.3796485	2.1424958	Nobu Hotel Barcelona		hotel	5
+41.3593858	2.0661816	NH Cornellà	Sercotel Cornellà Barcelona	hotel	
+41.3752370	2.0742138	Hesperia Sant Just		hotel	4
+41.3487315	2.0821403	Ibis Cornella		hotel	
+41.3482183	2.0827517	Travelodge Barcelona Cornellà Fira		hotel	
+41.3765089	2.1212927	Apartamentos Turisticos Madanis		hotel	
+41.3999534	2.1301539	Atiram Hotels Tres Torres		hotel	3
+41.4003924	2.1297381	Hotel Primero Primera		hotel	4
+41.3931486	2.1926963	H10 Marina Barcelona		hotel	
+41.4061291	2.2007993	Meliá Barcelona Sky		hotel	4
+41.3833652	2.1708667	Hotel 1898		hotel	4
+41.3833332	2.1737908	H10 racó del pi		hotel	3
+41.3870336	2.1742042	Ohla Barcelona		hotel	5
+41.3913912	2.1717913	Palace Hotel Barcelona		hotel	
+41.3836345	2.1852025	Hotel Santa Marta		hotel	2
+41.3969037	2.1924307	Sallés Hotel Pere IV		hotel	4
+41.3974015	2.1919815	ZT Hotel & Spa Villa Olímpica Suites		hotel	4
+41.3975241	2.1891127	Naitly Barcelona Poblenou		hotel	
+41.3959529	2.2008927	Best 4 Barcelona		hotel	4
+41.4004044	2.2057300	Zero Barcelona		hostel	
+41.4125019	2.2091687	Hotel Barcelona Condal Mar Affiliated By Meliá		hotel	4
+41.3865845	2.1839970	K+K Hotel Picasso		hotel	
+41.3807537	2.1773098	Arai		hotel	
+41.4125117	2.1349319	Barcelona Pool House		hotel	
+41.3860694	2.1516132	Zenit Borrell		hotel	4
+41.3768727	2.1459001	Pestana Arena Hotel		hotel	4
+41.3895244	2.1473520	Petit Palace Aston		hotel	3
+41.3897089	2.1471165	Petit Palace Junior		hotel	2
+41.3911305	2.1419534	Hotel Melià Barcelona		hotel	
+41.3860138	2.1654420	ITC Barcelona		hotel	2
+41.3855236	2.1569975	Acevi Villaroel		hotel	
+41.3810535	2.1550107	Leonardo Hotel Barcelona Gran Via		hotel	3
+41.3880982	2.1566566	Petit Palace Trencadis		hotel	4
+41.3941712	2.1597924	Murmuri Boutique Hotel		hotel	
+41.3920680	2.1561019	BCN Urban Hotels Gran Rosellon		hotel	
+41.3921433	2.1554084	Evenia Rosselló		hotel	
+41.3841044	2.1631192	Splendid Hotel		hotel	
+41.3857637	2.1406391	NH Sants Center		hotel	
+41.3940871	2.1533797	Hotel Astoria		hotel	
+41.3887153	2.1654729	Petit Palace Museum		hotel	4
+41.3831467	2.1410088	Medium City		hotel	
+41.3840305	2.1618455	Petit Palace Eixample		hotel	4
+41.3923167	2.1622851	HCC Regente		hotel	4
+41.3927260	2.1617334	Mosaic by Ona Hotels		hotel	
+41.3750800	2.1354692	Hostal Sans		hotel	
+41.3516826	2.1319707	Meininger Barcelona Fira Gran Vía		hotel	
+41.3563659	2.1231232	Hotel Renaissance Barcelona Fira		hotel	
+41.3519153	2.1204327	Eurohotel Gran Via Fira		hotel	4
+41.3989020	2.2024508	Hotel ILUNION Barcelona		hotel	4
+41.3250714	2.0870730	Hotel Sallés Ciutat del Prat		hotel	
+41.3283939	2.0928078	Mucha Masia Hostel Rural-Urbà		hotel	
+41.3807768	2.1740341	Hotel Flor Parks		hotel	
+41.3814885	2.1432911	"Via Sants Hotel Barcelona, Tapestry Collection by Hilton"		hotel	
+41.3815505	2.1432082	"Via Sants Hotel Barcelona, Tapestry Collection by Hilton"		hotel	
+41.3460588	2.1085129	Hyatt Regency Barcelona Tower		hotel	5
+41.3174922	2.0743216	BAH Barcelona Airport Hotel		hotel	4
+41.3125723	2.0684835	INNSiDE by Meliá Barcelona Aeroport		hotel	4
+41.3523805	2.1273022	Alexandre Fira Congress		hotel	4
+41.3591198	2.1324385	Hotel SB Plaza Europa		hotel	
+41.3862359	2.1675898	St. Christopher's Inn		hostel	
+41.3859697	2.1683566	Hotel Pulitzer		hotel	4
+41.3859502	2.1681817	Hotel Regina		hotel	
+41.3876869	2.1716928	Room Mate Pau Hotel		hotel	3
+41.3750680	2.0722542	Novotel Barcelona Sant Joan Despi		hotel	4
+41.3769813	2.1748391	Hotel chic&basic Ramblas		hotel	
+41.4040035	2.1697283	Hotel Barcelona 1882		hotel	
+41.4069310	2.1864086	Urbany Hostel Barcelona		hostel	
+41.3857926	2.1950055	Hotel Sofitel		hotel	
+41.3772482	2.0789903	Sercotel Porta Barcelona		hotel	
+41.3918048	2.1779516	NH Collection Barcelona Podium		hotel	4
+41.3998924	2.2011858	Travelodge Poblenou		hotel	
+41.3936719	2.1685745	Hotel Catalonia Eixample 1864		hotel	4
+41.3981350	2.1923659	NH Diagonal Center		hotel	3
+41.4021751	2.1911507	Hotel SB Glow		hotel	4
+41.4001296	2.1908484	Golden Hotel Barcelona		hotel	4
+41.4010210	2.1942334	Ibis Plza. Glòries 22		hotel	
+41.3950837	2.1592487	Gallery		hotel	4
+41.3948498	2.1932868	Ibis		hotel	2
+41.4136103	2.1349349	Hotel Torre Macaya		hotel	
+41.3979930	2.1584548	Hotel Suites Center Barcelona		hotel	
+41.3591110	2.1269345	Ona Living Barcelona		hotel	
+41.4005610	2.1786668	Hotel Eurostars Gaudí		hotel	4
+41.3871493	2.1813291	Residència d'estudiants		hostel	
+41.3901459	2.1797920	Hotel Rec Barcelona - Adults Only	Hotel REC	hotel	
+41.3801274	2.0568627	CityPark Sant Just		hotel	4
+41.4000658	2.1645600	Yeah Barcelona Hostel		hostel	
+41.3934448	2.1116252	Hotel Sansi		hotel	
+41.3860847	2.1231723	Grand Hyatt Barcelona		hotel	5
+41.3284701	2.1128585	ALFA Aeropuerto		hotel	
+41.3962071	2.1629689	The One		hotel	
+41.3754888	2.1897602	equity point sea		hostel	
+41.3904548	2.1263616	Hotel Husa Arenas		hotel	
+41.3936820	2.1640883	Majestic Hotel & Spa		hotel	5
+41.4017276	2.1976981	Holiday Inn		hotel	
+41.3861001	2.1291278	Hotel Atenea		hotel	
+41.3886867	2.1315596	Hilton Barcelona		hotel	4
+41.3937310	2.1991089	SB Icaria Barcelona		hotel	
+41.3889569	2.1361587	Hotel NH Constança		hotel	
+41.4076033	2.1596013	Le Palacete		hotel	
+41.3754055	2.1248767	Arya Stadium Hotel 3 by Madanis		hotel	
+41.3754247	2.1244949	Résidence Pierre et Vacances Barcelona Sants		hotel	
+41.3799172	2.1804170	Hotel Duquesa de Cardona		hotel	4
+41.3802345	2.1806710	Serras Hotel Barcelona		hotel	5
+41.3785388	2.1793869	Hotel Soho House		hotel	4
+41.3890784	2.1671982	El Avenida Palace		hotel	4
+41.3876813	2.1733614	HCC Montblanc		hotel	3
+41.3854227	2.1728315	Catalonia Portal de l'Àngel		hotel	3
+41.3934798	2.1624817	Condes de Barcelona		hotel	4
+41.3780866	2.1729548	Hotel onix liceo		hotel	
+41.3778718	2.1719501	Hostal Sant Ramón		hostel	1
+41.4072776	2.1443515	Hotel Catalonia Park Putxet		hotel	
+41.3608601	2.1294342	easyHotel Barcelona Fira		hotel	
+41.3770667	2.1888698	Hotel Best Western Hotel 54 Barceloneta		hotel	4
+41.3558526	2.1269855	Hampton by Hilton Barcelona Fira Gran Via		hotel	3
+41.4006885	2.2088684	Eurohotel Diagonal Port		hotel	
+41.4015335	2.2100945	Catalonia Barcelona Beach		hotel	
+41.3655914	2.1306962	Ikonik Lex		hotel	4
+41.3989515	2.2008374	Voraport. Actahoteld		hotel	
+41.3993572	2.2003382	Hotel Paxton		hotel	4
+41.4081934	2.1857749	Hotel Albéniz		hotel	
+41.3594498	2.1330745	AC Hotel Som		hotel	3
+41.3704424	2.0584756	Fonda Chavarria		hostel	
+41.3916679	2.1719081	"Cotton House Hotel, Autograph Collection"		hotel	
+41.3879413	2.1784420	Musik Boutique Hotel		hotel	
+41.3848966	2.1752301	Hotel Barcelona Catedral		hotel	4
+41.3822822	2.1731330	Apartaments Ciutat Vella		hotel	3
+41.3859068	2.1810013	Hotel Ciutat de Barcelona		hotel	3
+41.3890801	2.1699032	ME Hotel		hotel	
+41.3809652	2.1795844	The Wittmore		hotel	5
+41.3861483	2.1541091	NH Barcelona Eixample		hotel	3
+41.3755067	2.1476425	Hotel Occidental Barcelona 1929		hotel	
+41.3572954	2.1385871	Leonardo Royal Hotel		hotel	
+41.4013371	2.1564872	La Casa del Sol		hotel	3
+41.3725793	2.1548334	InterContinental Barcelona		hotel	5
+41.4032495	2.1233661	Ikonik Anglí		hotel	4
+41.4089857	2.1972413	LabTwentytwo		hotel	
+41.3722274	2.1650956	Onefam Paralelo Hostel Barcelona		hostel	
+41.3894638	2.1747580	Vincci Gala		hotel	4
+41.3860313	2.1763807	Hotel ILUNION Almirante		hotel	4
+41.3959779	2.1813205	Hotel ILUNION Auditori		hotel	3
+41.4102149	2.1695902	Hotel ILUNION Bel Art		hotel	4
+41.3246008	2.0939185	AirHostel Barcelona		hotel	
+41.3210242	2.0934720	Hostal Cal Siles		hotel	
+41.3296787	2.1009347	AeroHotel Barcelona Airport		hotel	
+41.3304780	2.0983975	Hostal Carlos III		hotel	
+41.3907018	2.1658892	Hotel Club 29		hotel	
+41.3970451	2.1957171	Ibis budget Barcelona Center		hotel	
+41.3934795	2.1459395	Hotel Vincci Mae		hotel	4
+41.3942495	2.1489668	Hesperia Presidente		hotel	4
+41.3756073	2.1481752	Catalonia Barcelona Plaza		hotel	4
+41.3702763	2.1714007	Hotel Miramar Barcelona		hotel	5
+41.4106671	2.1373378	la Rotonda		hotel	
+41.3843072	2.1712864	Hotel Serhs Rivoli Rambla		hotel	
+41.3776403	2.1135721	Hotel ILUNION Les Corts Spa		hotel	4
+41.3982401	2.2044762	Hostal Poblenou B&B	hostal Poblenou	hostel	1
+41.4021845	2.1510548	Aparthotel Silver		hotel	
+41.3968664	2.1583142	El Palauet Barcelona		hotel	5
+41.3894626	2.1663520	NH Gran Hotel Calderón		hotel	5
+41.3913824	2.1669072	Mandarin Oriental		hotel	5
+41.3930105	2.1645943	Sixtytwo		hotel	
+41.3797232	2.1739900	Hotel Oriente		hotel	
+41.3790101	2.1738311	Hotel Gaudí		hotel	
+41.3798959	2.1730066	Hotel Espanya		hotel	4
+41.3908444	2.1712370	ICON BCN		hotel	4
+41.3911745	2.1718768	Hotel Roger de Llúria		hotel	
+41.3914760	2.1763305	Romm Mate Gerard		hotel	
+41.3848559	2.1746132	Hotel Catalonia Catedral		hotel	4
+41.3850410	2.1756471	Hotel Colon		hotel	4
+41.3897169	2.1801899	Hotel Catalònia Born		hotel	
+41.3824870	2.1909591	Alberg Campus del Mar		hostel	
+41.3768314	2.1501749	Ofelias Hotel		hotel	4
+41.3208313	2.1010422	Blauet		hotel	
+41.3299777	2.1000009	Sercotel Barcelona el Prat		hotel	
+41.3687241	2.1900490	W Barcelona		hotel	5

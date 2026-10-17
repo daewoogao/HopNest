@@ -1,0 +1,653 @@
+@lat	@lon	name	name:en	tourism	stars
+45.4813614	9.4269510	Hotel El Paso		hotel	2
+45.4920557	9.1477207	Hotel Morfeo Milano		hotel	4
+45.4942847	9.4124791	Hotel Visconti		hotel	
+45.4905702	9.1619042	Hotel Boutique Duomo		hotel	4
+45.4725392	9.1440243	Best Western Hotel Astoria		hotel	3
+45.5103598	9.4255510	Hotel Gama		hotel	
+45.4659559	9.1922395	Sina de la Ville		hotel	4
+45.4662081	9.1587534	Hotel Capitol		hotel	4
+45.4962610	9.1794476	Hotel Ares		hotel	3
+45.4637703	9.1539053	Amalfi		hotel	2
+45.4708689	9.1565256	MiniHotel Tiziano		hotel	4
+45.4797878	9.1963935	Principe di Savoia		hotel	5S
+45.4768221	9.1967233	NH Milano Touring		hotel	4
+45.4007438	9.1497356	NH conference hotel		hotel	
+45.4802756	9.1932355	Heart Hotel Milano		hotel	4
+45.4867899	9.1573812	Enterprise Hotel		hotel	4
+45.4995245	9.2061485	iH Hotels Milano Gioia		hotel	4
+45.4803731	9.2017370	Hotel Repubblica		hotel	1
+45.4810952	9.2030484	Hotel delle Nazioni		hotel	3
+45.4817053	9.2036284	Hotel Mennini		hotel	3
+45.5505092	9.1776429	Albergo Del Ponte		hotel	2
+45.4888335	9.2031875	Demo'		hotel	3
+45.4896359	9.2006662	Crowne Plaza Milan City		hotel	4
+45.4887269	9.1830526	Holiday Inn Milano Garibaldi		hotel	4
+45.4630676	9.1978864	NH Collection Milano President		hotel	5
+45.4853848	9.2117393	Doria Grand Hotel		hotel	4
+45.4946406	9.1419987	Best Western Hotel Mirage		hotel	4
+45.5200366	9.1923330	Hotel Ornato		hotel	3
+45.4487958	9.2036849	Hotel Piacenza		hotel	3
+45.4846785	9.1624289	Hotel Losanna		hotel	3
+45.4855142	9.1641205	Unahotels Scandinavia		hotel	4
+45.4897311	9.1549824	Regency Hotel		hotel	4
+45.4611333	9.1911546	Hotel Brunelleschi		hotel	4
+45.4694140	9.1953020	Four Seasons		hotel	5
+45.4672525	8.8799029	Excelsior		hotel	
+45.5013007	8.9349433	Hotel Rosy		hotel	
+45.4715874	9.2275238	Hotel Citta' Studi		hotel	3
+45.4933440	9.1436417	Bel Sit		hotel	2
+45.4936766	9.1440952	Hotel Accursio		hotel	3
+45.4728232	9.1445199	Hotel Miu		hotel	2
+45.4609080	9.1886889	Hotel dei Cavalieri		hotel	4
+45.4826479	9.2034008	Hotel Berna		hotel	4
+45.4813891	9.2039800	Hotel Mediolanum		hotel	4
+45.4471825	9.2091529	Best Western Hotel Major		hotel	4
+45.5814834	8.9495209	Poli		hotel	4
+45.6315007	9.1306467	Hotel San Carlo		hotel	3
+45.5555250	9.3046827	Hotel Sporting		hotel	
+45.5285635	9.2711220	Corona		hotel	
+45.6017497	8.9104771	Albergo Ristorante Roma		hotel	
+45.6005252	8.8861692	Hotel Pagoda		hotel	
+45.5940031	8.9278838	Welcome Hotel		hotel	
+45.4904124	9.1528075	Hotel Berlino		hotel	3
+45.4637146	9.1387585	Hotel Fioralba		hotel	2
+45.4792133	9.2101991	Best Western Hotel City		hotel	4
+45.4642102	9.1961443	Galileo		hotel	4
+45.4644571	9.1952874	Hotel Ambasciatori		hotel	4
+45.4824961	9.2027862	Hotel Bolzano		hotel	3
+45.4856640	9.1612625	Piccolo Hotel		hotel	3
+45.4672963	9.1847222	Antica Locanda dei Mercanti		hotel	4
+45.4471527	9.2069388	Grand Visconti Palace		hotel	4
+45.4470652	9.1516493	Verso verde		hotel	
+45.5331778	9.1710849	Hotel Da Vinci		hotel	4
+45.4802093	9.1495414	Hotel Portello		hotel	4
+45.4878692	9.2028501	43 Station Hotel		hotel	3
+45.5104925	9.1744920	Acca Palace		hotel	4
+45.5359266	9.1975358	Hotel Neo		hotel	
+45.5578852	8.9477267	Hotel del Riale		hotel	4
+45.5372215	9.1931629	Al Vecchio Mulino		hotel	
+45.6276327	8.7110406	Sheraton Milan Malpensa Airport Hotel & Conference Centre		hotel	
+45.4861640	9.2001268	Hilton Milan		hotel	4
+45.4849077	9.1983039	Duo Milan Porta Nuova		hotel	4
+45.4631056	9.1883935	Hotel Rio		hotel	3
+45.4782928	9.2017763	ibis Milano centro		hotel	3
+45.4656506	9.1778515	King Mokinba Hotel		hotel	4
+45.4738362	9.2240932	Hotel Dieci		hotel	4
+45.4198630	9.4011877	Albergo Rosita		hotel	
+45.4802637	9.2132661	Hotel Napoleon		hotel	4
+45.4676350	9.2268035	Hotel Susa		hotel	3
+45.4685138	9.1833756	Unahotels Cusani		hotel	4
+45.5053268	9.2055666	Hotel Greco		hotel	2
+45.4373432	9.2104530	Hotel Rex		hotel	3
+45.4831661	9.2034252	Atlantic Hotel		hotel	4
+45.6284266	9.2055675	Hotel Amalfi		hotel	2
+45.4838780	9.2213361	Hotel Aspromonte		hotel	3
+45.4638794	9.1940241	Starhotels Rosa Grand Hotel		hotel	4
+45.4580657	9.1914371	Hotel Ascot		hotel	4
+45.4636285	9.1853083	Hotel Gran Duca di York		hotel	3
+45.4841717	9.2213311	Hotel Florence		hotel	3
+45.4840386	9.2213300	Hotel Tirreno		hotel	1
+45.4502429	9.1606212	nhow Milano		hotel	4
+45.4804596	9.2117570	UNAHOTELS Galles Milano		hotel	4
+45.4782737	9.1997936	Baviera Mokinba Hotels		hotel	4
+45.4785666	9.2042002	WorldHotel Casati 18		hotel	4
+45.4751174	9.2061488	Hotel Fenice		hotel	3
+45.4794481	9.2078367	Hotel Nettuno		hotel	1
+45.4699226	9.1924982	Grand Hotel Et De Milan		hotel	5L
+45.4612342	9.2269339	Hotel Rossovino		hotel	2
+45.4726681	9.1943755	Hotel Cavour		hotel	4
+45.4747329	9.2059672	Hotel Mercure Milano Centro		hotel	4
+45.4502107	9.1697420	Art Hotel Navigli		hotel	4
+45.4532848	9.1844790	New generation Hostel Navigli		hostel	
+45.4532344	9.1805175	Hotel Milano Navigli		hotel	3
+45.5237971	9.0374228	Italiana Hotels - Milan Rho Fair		hotel	
+45.4841736	9.2222264	Mia Aparthotel		hotel	1
+45.4843703	9.2239491	Hotel Montecarlo		hotel	3
+45.4590966	9.0683096	Hotel Silver		hotel	4
+45.6222713	9.0170261	Hotel della Rotonda		hotel	4
+45.4785522	9.2000480	Hotel Sempione		hotel	3
+45.4849688	9.2273418	Ambra		hotel	1
+45.4719819	9.2076314	Roxy Hotel		hotel	3
+45.4522736	9.2150185	MEC Hotel		hotel	3
+45.5006951	9.1443732	Radisson Blu Hotel		hotel	4
+45.4510665	9.1921213	QC Room		hotel	4
+45.4586125	9.1879080	Sonder Missori		hotel	3
+45.4606852	9.1811069	Ostello Bello		hostel	
+45.4841838	9.2333436	Hotel Vienna		hotel	3
+45.4827602	9.1864205	Tocq Hotel Milano		hotel	4
+45.4602395	9.1658179	Hotel Sant'Ambroeus		hotel	3
+45.4838640	9.2363907	Hotel Gamma		hotel	3
+45.4843966	9.2335555	Hotel Lugano		hotel	3
+45.5868965	9.2761625	Antica Trattoria dell'Uva		hotel	3
+45.5854681	9.2740590	Locanda San Paolo		hotel	
+45.5847683	9.2758364	Albergo Ristorante Fantello		hotel	2
+45.5012679	9.2214832	Hotel Nuovo Metro'		hotel	3
+45.4630365	9.1883675	Hotel La Madonnina		hotel	3
+45.4633181	9.1883932	Unahotels Maison Milano		hotel	4
+45.4652280	9.1912446	Straf Hotel		hotel	4
+45.4655497	9.1913912	The Gray		hotel	5
+45.4883031	9.2045571	Albert Hotel		hotel	3
+45.4878879	9.2039924	Hotel Central Station		hotel	1
+45.4881943	9.2015953	Best Western Madison Hotel		hotel	4
+45.5619088	9.0275626	Hotel Litta Palace		hotel	
+45.4824609	9.1757479	Leonardo Hotel		hotel	4
+45.4777589	9.2031432	Hotel Sanpi Milano		hotel	4
+45.4531418	9.1789612	Aethos Milan		hotel	4
+45.4742219	9.2077862	Eurohotel		hotel	3
+45.4987906	9.1661657	Hotel Sunflower		hotel	4
+45.4791849	9.1458654	Melià Milano		hotel	5
+45.5408782	8.8126295	Hotel Scià On Martin		hotel	
+45.4740024	9.1960177	Hotel Manin		hotel	4
+45.4205544	9.2589615	Santa Barbara Hotel		hotel	
+45.4854966	9.2200787	Hotel Sara		hotel	2
+45.6034884	9.4187599	Hotel Prestige		hotel	4
+45.4835638	9.2155610	HD Hotel Milano		hotel	3
+45.4866718	9.2994585	Piccolo Hotel A casa tua		hotel	
+45.4521241	9.1757625	Maison Borella		hotel	4
+45.5056493	9.1786761	Hotel Brivio		hotel	2
+45.4762321	9.1841228	Garibaldi Palace		hotel	3
+45.4770811	9.1844946	Urban Hive		hotel	4
+45.4839671	9.2076329	Hotel Andreola Central		hotel	4
+45.4651551	9.1867772	Palazzo Cordusio Gran Meliá		hotel	
+45.4315186	8.7357254	Hotel Moderno		hotel	
+45.4674045	9.1842451	Hotel London		hotel	2
+45.4794092	9.2033543	Hotel Arno		hotel	1
+45.4705667	9.1930102	Armani Hotel Milano		hotel	5L
+45.4636231	9.1868743	Hotel Spadari al Duomo		hotel	4
+45.4776350	9.2015517	NH Machiavelli		hotel	4
+45.4692053	9.1984661	The Carlton Milano		hotel	
+45.4832684	9.1814658	Hotel San Guido		hotel	3
+45.4642109	9.2185729	Hotel La Caravella		hotel	2
+45.4847028	9.2327536	Hostel Colours		hostel	
+45.4937519	9.2168987	Hotel Venini		hotel	3
+45.4755225	9.1922616	New Generation Hostel Urban Brera		hostel	
+45.4846834	9.1628174	Gogol'Ostello		hostel	
+45.4908467	9.1711766	Meininger Milan Garibaldi		hostel	
+45.5002873	9.1425149	Milan Suite Hotel		hotel	4
+45.6225574	9.0364551	Hotel Cyrano		hotel	
+45.4840952	9.2009145	Hotel Auriga		hotel	4
+45.4821264	9.1986565	Hotel Marconi		hotel	4
+45.4738753	9.2067172	Sheraton Diana Majestic		hotel	4
+45.4772201	9.2255237	Hotel Leonardo da Vinci		hotel	1
+45.5295686	9.2291257	Hotel St. John		hotel	4
+45.5269787	9.2294943	B&B Hotel Milano - Sesto San Giovanni		hotel	3
+45.5247112	9.0440741	Hotel Esperia		hotel	3
+45.4676987	9.2802231	Fasthotel Milano Linate		hotel	
+45.4771542	9.2054184	Hotel St. George		hotel	4
+45.4564997	9.1685672	Mercure Milano Solari		hotel	4
+45.6315524	9.1113496	Groane Hotel Residence		hotel	
+45.4832273	9.2213628	Hotel Trentina		hotel	2
+45.4853521	9.2194546	Hotel Malta		hotel	1
+45.4850254	9.2194339	Hotel Adler		hotel	3
+45.4855389	9.2292325	Galla		hotel	1
+45.4777221	9.1988509	Aparthotel Casa Mia		hotel	2
+45.4794180	9.1961835	Hotel Melià Il Duca		hotel	5
+45.4795392	9.1952090	Windsor Hotel		hotel	4
+45.4830725	9.2030407	Hotel Flora		hotel	3
+45.4834460	9.2085280	Hotel Scarlatti		hotel	
+45.4704726	9.2226666	Hotel Viva Milano		hotel	3
+45.4366739	9.1718160	Hotel Dei Fiori		hotel	3
+45.5140956	9.2988620	Hotel Arcobaleno		hotel	
+45.6106489	8.8458999	Hotel Mazzini		hotel	
+45.4838746	9.2097900	Hotel Calypso		hotel	1
+45.4817559	9.2081076	Hotel Eden		hotel	2
+45.4818583	9.2079237	Hotel Mondial		hotel	2
+45.4816435	9.2078380	Grand Hostel Coconut		hostel	
+45.4824480	9.2081637	Hotel Charly		hotel	2
+45.4817419	9.2076600	Hotel Mazzini		hotel	3
+45.4823560	9.2090137	Hotel Paradiso		hotel	2
+45.4816897	9.2082372	Hotel Salerno		hotel	3
+45.4819700	9.2076980	Hotel 2000		hotel	2
+45.4822637	9.2089370	The Best Hotel		hotel	2
+45.5330934	9.2298337	Hotel Nuovo Rondò		hotel	3
+45.4830691	9.2051835	Keb Hotel Vitruvio		hotel	3
+45.4833761	9.2029625	Just Hotel		hotel	4
+45.4825641	9.2037536	Hotel Boston		hotel	2
+45.4829671	9.2041416	Hotel Colombia		hotel	4
+45.4833685	9.2032498	Smart Hotel Milano		hotel	3
+45.4836296	9.2047004	Spice Hotel		hotel	3
+45.4838059	9.2034199	Glam Hotel		hotel	4
+45.4829679	9.2030663	Hotel Garda		hotel	3
+45.4832506	9.2029902	Hotel Bernina		hotel	3
+45.4826332	9.2031277	Hotel Canova		hotel	3
+45.6381132	8.7057351	First Hotel		hotel	4
+45.4780585	9.2091844	Hotel Teco		hotel	3
+45.4779514	9.2094350	Starhotels Ritz		hotel	4
+45.5023104	9.2015709	Hotel Bicocca		hotel	1
+45.4421209	9.2880844	NH hoteles		hotel	
+45.4435641	9.2878893	Maxim hotel - motel		hotel	
+45.4069549	9.3582170	Raya		hotel	4
+45.4574898	9.1919471	Uptown Palace		hotel	4
+45.4573757	9.1910934	Hotel Canada		hotel	3
+45.4580557	9.1923042	Lloyd Hotel		hotel	4
+45.4836835	9.1050710	Cascina Bellaria		hostel	
+45.4900361	9.2055894	Hotel Terminal		hotel	3
+45.4752081	9.1447722	Hotel Le Querce		hotel	2
+45.4733994	9.1911115	Palazzo Parigi		hotel	5
+45.5118515	9.1749225	Hotel New Salus		hotel	1
+45.4772413	9.2016550	Hotel Brianza		hotel	3
+45.4889186	9.2098669	Guest House Brianza Room		hostel	
+45.4836049	9.2039309	AV Boutique Hotel		hotel	2
+45.4635486	9.2069192	Bianca Maria Palace Hotel		hotel	4
+45.4854527	9.2232978	Hotel San Francisco		hotel	3
+45.4582226	9.2047312	QUO Hostel		hostel	
+45.4808263	9.2074676	Hotel Due Giardini & Depandance		hotel	2
+45.4884410	9.2101987	Hotel Soperga		hotel	3
+45.4883752	9.2098354	Milano Vintage Hotel		hotel	1
+45.4873315	9.2237631	Hotel Lombardia		hotel	4
+45.4803563	9.2029742	Hotel Ferton		hotel	3
+45.4673954	9.1861840	Hotel Star		hotel	3
+45.4700904	9.1892977	Bulgari Hotel Milano		hotel	5
+45.4694631	9.1909801	Mandarin Oriental Milano		hotel	5S
+45.4642098	9.1819850	Hotel Vecchia Milano		hotel	3
+45.4854667	9.2213185	Hotel Astrid		hotel	2
+45.5943518	8.9272740	Milano		hotel	
+45.4971137	9.1457489	Star Hostel		hostel	
+45.4822113	9.2397340	Mio Hostel		hostel	
+45.4651195	9.1893543	Room Mate Giulia Hotel		hotel	4
+45.4649448	9.1893721	TownHouse Duomo Milano		hotel	5
+45.4657526	9.1893633	Galleria Vik Milano		hotel	5
+45.4528070	9.2917516	Campus Fideuram		hotel	
+45.4868113	9.0590396	B&B Expo Milano		hotel	
+45.4794329	9.2090800	Ibis Styles Milano Centro		hotel	3
+45.4917873	9.1664871	Hotel Bogart 2		hotel	3
+45.4671478	9.1824420	Genius Hotel Downtown		hotel	3
+45.4516684	9.1818804	Hotel La Vignetta		hotel	1
+45.4759959	9.1663323	Lancaster Hotel		hotel	3
+45.5845063	9.2717406	Hotel Karol		hotel	3
+45.4858721	9.2206173	Hotel 26		hotel	
+45.5054333	9.2066574	Flower Hostel		hostel	
+45.4529583	9.1961593	Crivi's Hotel		hotel	4
+45.4831325	9.1673605	Hotel Mignon		hotel	1
+45.4538536	9.1708286	Hotel Minerva		hotel	3
+45.5905666	8.9193270	Al corso		hotel	3
+45.5326036	9.2286143	Hotel Europa		hotel	3
+45.4628112	9.1695565	B&B Hotel Milano Sant'Ambrogio		hotel	3
+45.4825293	9.0910049	Hotel San Siro Fiera		hotel	3
+45.4811909	9.2078163	Hotel Rallye		hotel	2
+45.4806803	9.2065282	Hotel Bagliori		hotel	3
+45.4880443	9.2245386	Hotel Catalani		hotel	2
+45.4847319	9.1596511	Hotel Nasco		hotel	4
+45.4929938	9.2176985	Euro Inn		hotel	2
+45.4525437	9.1670327	Hotel Magna Pars		hotel	5
+45.5347788	9.2267454	Hotel Bristol		hotel	2
+45.4520473	9.2496322	Collini Rooms		hotel	3
+45.4631498	9.1836214	Santa Marta Suites		hotel	4
+45.4623346	9.1814375	Hotel Mentana		hotel	4
+45.4913932	9.1926867	Hotel Zara Milano		hotel	3
+45.4781831	9.2025662	Hotel Merano		hotel	4
+45.4428261	9.3859999	Ibis Styles		hotel	
+45.4847103	9.1627264	Parma Hotel		hotel	2
+45.4794022	9.2098064	"Puccini Hotel Milan, Tapestry Collection by Hilton"		hotel	4
+45.4826055	9.2238686	Oasi Village Hotel		hotel	3
+45.4859772	9.2351382	Hotel Iride		hotel	2
+45.5044890	9.2463296	Hotel Adam		hotel	4
+45.5557203	8.9464665	Hotel Domus		hotel	3
+45.4708783	9.1840372	Tne Unique Hotel		hotel	5
+45.4829770	9.2227779	Hotel Piola		hotel	2
+45.4672070	9.1841760	Palazzo Segreti		hotel	4
+45.4772360	9.2081371	Aurora		hotel	1
+45.4657856	9.1691020	Antica Locanda Leonardo		hotel	3
+45.4673930	9.1868050	Clerici Boutique Hotel		hotel	4
+45.4821875	9.2163982	Hotel Aurelia		hotel	2
+45.4859149	9.2197351	Hotel Nizza		hotel	2
+45.4859149	9.2196634	Hotel Paola		hotel	1
+45.5025567	9.1618637	Hotel Valganna		hotel	3
+45.4720229	9.1479695	Hotel Domenichino		hotel	3
+45.4814783	9.2033065	B&B Hotel Milano Central Station		hotel	3
+45.4595643	9.1797242	Hotel Regina		hotel	4
+45.4595211	9.1769569	Hotel Pierre		hotel	5
+45.4863501	9.2387273	Meininger Milano Lambrate		hostel	
+45.5286103	9.2280664	Hotel Bert		hotel	3
+45.4916715	9.2159119	Hotel Siro		hotel	1
+45.4943979	9.2163609	Hug Milano		hostel	
+45.4787864	9.1446108	Montebianco Mokinba Hotels		hotel	4
+45.4812971	9.1441494	Lido Hotel		hotel	3
+45.4806615	9.1438436	Hotel Oro Blu		hotel	3
+45.4823205	9.2173873	Old Milano House		hostel	
+45.4824086	9.2173879	Lion Hostel		hostel	
+45.4823622	9.2173864	Scacco Matto		hostel	
+45.4924354	9.2065949	Biocity Hotel		hotel	3
+45.5931170	8.9174639	Albergo Cristallo		hotel	2
+45.5932005	9.2293149	Antica Locanda		hotel	2
+45.4796422	9.2115480	Hotel Demidoff		hotel	3
+45.4669450	9.2804190	L'Orchidea		hostel	
+45.6328050	8.8618772	D120		hotel	4
+45.5108638	9.2484924	Convertini		hotel	2
+45.4507833	9.2034429	Five		hotel	3
+45.5567532	9.4350400	Albergo Roma		hotel	
+45.4627218	9.2045697	Hotel Pavone		hotel	3
+45.5266681	9.2128837	Starhotels Tourist		hotel	4
+45.4549549	9.1537357	Hotel des Etrangers		hotel	3
+45.6018581	8.9205851	Legnano		hotel	2
+45.4692392	9.2219665	Hotel Carlo Goldoni		hotel	2
+45.4973554	9.1807236	J24 Hotel		hotel	4
+45.4645538	9.1394944	Hotel Emmy		hotel	1
+45.4640399	9.1633514	Hotel Panizza		hotel	3
+45.4684379	9.1550231	Hotel Wagner		hotel	4
+45.4607835	9.1893098	Hotel The Square Milano Duomo		hotel	4
+45.4559634	9.1872445	Petit Palais		hotel	4
+45.4748330	9.1511433	Hotel Campion		hotel	3
+45.5563010	9.0755352	Hotel Moon Palace		hotel	4
+45.5721667	8.9601788	Expo Hotel Milan		hotel	
+45.4418908	9.1759682	Hotel Marte		hotel	2
+45.4771542	9.2061615	Hotel Kennedy		hotel	1
+45.4771742	9.2061156	Hotel San Tomaso		hotel	1
+45.4534737	9.2247235	Molise 2		hotel	3
+45.4517642	9.2058249	Unahotels Mediterraneo		hotel	4
+45.4511719	9.2078088	Hotel di Porta Romana		hotel	3
+45.4752966	9.1532864	Hotel Fiera Congressi		hotel	3
+45.5067094	9.1959970	Novotel Milano Nord Ca' Granda		hotel	4
+45.5648042	9.0305628	Golf Hotel		hotel	
+45.4421821	9.2175880	Brenta		hotel	2
+45.4868639	9.2017530	NYX Hotel Milan		hotel	4
+45.4508286	9.1947501	JR Hotels Bocconi Milano		hotel	4
+45.4993955	9.2230602	H21		hotel	3
+45.4634714	9.1884012	ODSweet Hotel		hotel	4
+45.4641609	9.2033209	Babila Hostel		hostel	
+45.5442499	9.0623899	Hotel Fiera Rho		hotel	
+45.5941334	9.0644764	Hotel del Ponte		hotel	3
+45.5040861	9.2410547	Hotel Trento		hotel	1
+45.4689354	9.2257722	Hotel Mayorca		hotel	3
+45.4529524	9.2050849	YellowSquare Milano	YellowSquare Milan	hostel	
+45.5756999	9.0962866	Residence San Prospero		hotel	2
+45.5790759	9.1182051	Hotel Villa San Carlo Borromeo		hotel	
+45.4656854	9.1917188	The Street Milano Duomo		hotel	4
+45.4705158	9.2174828	Hotel Ideale		hotel	3
+45.4589615	9.1877174	Radisson Collection Hotel Palazzo Touring Club Milan		hotel	5
+45.4552820	9.1676205	Savona 18 Suites		hotel	4
+45.4370601	9.1643853	Plus Welcome Milano		hotel	4
+45.4709603	9.2535433	Hotel Seven Rooms Milano		hotel	2
+45.5138270	9.1194771	The Hub Hotel		hotel	4
+45.5023395	9.1620398	Hotel Bovisa		hotel	2
+45.4379007	9.2001385	Hotel Liguria		hotel	2
+45.4832365	9.2157875	Hotel San Biagio		hotel	1
+45.4645331	9.1395023	Hotel Gambara		hotel	1
+45.4794360	9.2033863	Hotel Eva		hotel	1
+45.4915242	9.1668917	Hotel Bogart		hotel	2
+45.4775305	9.2019158	Hotel Siena		hotel	2
+45.4767991	9.2030254	Hotel Porta Venezia		hotel	2
+45.4692388	9.2218970	Golden Milano Hotel		hotel	3
+45.4693557	9.2140106	Magville Hotel		hotel	4
+45.4692384	9.2218609	La Felicita'		hotel	1
+45.4692406	9.2219304	Royal		hotel	3
+45.4682205	9.2074416	Chateau Monfort		hotel	5
+45.4435797	9.2163846	Hotel del Sud		hotel	1
+45.4672257	9.2018747	Hotel Indigo Milan		hotel	4
+45.4666344	9.1568086	Hotel Metro'		hotel	3
+45.4623415	9.2191929	Hotel Midtown		hotel	1
+45.4620380	9.2182645	Hotel America		hotel	1
+45.4642415	9.1945200	Hotel Nuovo Milano		hotel	1
+45.4656233	9.2163585	Hotel Poma		hotel	3
+45.4655917	9.2165608	Hotel Castelletto		hotel	2
+45.4654567	9.2194676	Hotel Delizia		hotel	2
+45.4673662	9.1850179	Hotel Milano Castello		hotel	3
+45.4673424	9.1849392	B&B Hotel Milano City Center Duomo		hotel	3
+45.4781292	9.1884156	Antica Locanda Solferino		hotel	2
+45.4847382	9.1995101	Unahotels Maison Century		hotel	4
+45.4816395	9.1886795	Milano Verticale UNA Esperienze		hotel	4
+45.4856147	9.2233695	Hotel Acapulco		hotel	1
+45.4783086	9.2205149	21 House of Stories - Milano Città Studi		hotel	3
+45.4825233	9.1968250	Palazzo Cornalia		hotel	4
+45.4640859	9.2089295	Fifty House		hotel	5
+45.4976688	9.1743699	Hotel Blaise & Francis		hotel	4
+45.4838183	9.2037563	HD8 Hotel Milano		hotel	4
+45.4587902	9.2091366	Hotel 10 Keys		hotel	4
+45.4863833	9.1988267	Innside Milano Torre Galfa		hotel	4
+45.4841381	9.2011662	IQ Hotel Milano		hotel	4
+45.4702704	9.1954104	Hotel Manzoni		hotel	4
+45.4632726	9.1873133	Matilde Boutique Hotel		hotel	4
+45.4403265	9.1919596	MI Hotel		hotel	4
+45.4713780	9.1964607	Senato Hotel Milano		hotel	4
+45.4668075	9.1920595	The Corner Duomo Hotel		hotel	4
+45.4754827	9.2067279	Ai Suma Hotel		hotel	3
+45.4632952	9.2102036	Hotel Vittoria		hotel	4
+45.4508343	9.2005144	Hotel Arco Romana		hotel	3
+45.4347803	9.1840997	Sechi Hotel		hotel	3
+45.4617375	9.2070426	Hotel Cinque Giornate		hotel	3
+45.4892372	9.2028051	Hotel Club Milano		hotel	3
+45.4158232	9.2399856	Hotel Borgo Nuovo		hotel	3
+45.4911426	9.1624257	Hotel Corallo		hotel	3
+45.4675038	9.1537654	Hotel Fiorella		hotel	3
+45.4282643	9.1770313	Hotel Giardino		hotel	3
+45.4849496	9.2210076	Hotel City 20		hotel	3
+45.4878497	9.2039828	Hotel Metropoli		hotel	3
+45.4914836	9.2228719	Hotel Giacosa		hotel	3
+45.4878689	9.2039876	Hotel Ada		hotel	2
+45.4842444	9.2155270	Hotel Stradivari		hotel	3
+45.4879117	9.2039916	Hotel Folen		hotel	3
+45.4810154	9.1748536	Ming Hao Hotel		hotel	3
+45.5106979	9.1757130	Hotel Igiban		hotel	3
+45.5190211	9.2239128	Il Girasole		hotel	3
+45.4652292	9.1932710	AHD Rooms		hotel	1
+45.4638788	9.1870608	Victor Boutique Hotel		hotel	1
+45.4795413	9.2088069	Hotel Due Giardini Dependance		hotel	1
+45.4872692	9.2100384	Hotel Virgilio		hotel	2
+45.4836305	9.2039289	Ih Hotels Milano Centrale Guest House		hotel	3
+45.4942666	9.2088424	Hotel Centrale		hotel	1
+45.4929945	9.2177449	Hotel Down Town		hotel	1
+45.4694936	9.2175501	Hotel Capri		hotel	1
+45.4692345	9.2066757	Hotel Atena		hotel	2
+45.4659952	9.2170096	Hotel Dateo		hotel	2
+45.4654847	9.2087583	Hotel Dover		hotel	2
+45.4873648	9.2317712	Hotel Adelchi		hotel	1
+45.4859765	9.2290116	Hotel Alba		hotel	1
+45.4848791	9.2213361	Hotel Sabatino		hotel	2
+45.4853591	9.2213196	Hotel New Milan		hotel	1
+45.4848189	9.2213350	Hotel Viola		hotel	1
+45.4817200	9.2137316	Hotel del Sole		hotel	1
+45.4893769	9.2242282	Lux Hotel Durante		hotel	2
+45.4871202	9.2191116	Hotel Loreto		hotel	2
+45.4355713	9.2083886	Hotel Alessander		hotel	2
+45.4666590	9.2269012	Hotel San Giovanni		hotel	1
+45.5059820	9.1360381	Hotel Amico		hotel	1
+45.5017272	9.1388974	Hotel Oregon		hotel	1
+45.4400872	9.2249776	Hotel Corvetto		hotel	1
+45.4426253	9.1761614	Hotel Mercurio		hotel	2
+45.4629014	9.1532129	My Hotel Milano		hotel	4
+45.4949879	9.1440039	Hotel Sorrento		hotel	1
+45.4414271	9.2234075	Hotel Lucania		hotel	1
+45.5060985	9.1884815	Hotel Sicilia		hotel	1
+45.6255225	8.6974921	Hotel Villa Malpensa		hotel	4
+45.4774937	9.2102143	Ostelzzz		hostel	
+45.4628388	9.2119791	Hotel XXII Marzo		hotel	2
+45.6038733	9.2297804	Regency hotel		hotel	
+45.4928498	9.2281739	Downtown Nolo Guesthouse		hostel	
+45.5406936	9.1030288	Hotel Ristorante Al Mulino		hotel	2
+45.5965337	8.9228088	Hotel Madonna		hotel	
+45.5487419	9.2267788	Hotel York		hotel	2
+45.4691451	9.1973105	The Couper Sant'Andrea		hotel	4
+45.4765649	9.1821107	Vmaison Hotel Milano		hotel	5
+45.4617413	9.1883269	M20 Boutique Hotel		hotel	3
+45.4686615	9.1740884	Cadorna Luxury Hotel		hotel	1
+45.4632250	9.1887883	Sheva Boutique Hotel		hotel	1
+45.4827425	9.2030857	Hotel Berna - Tower		hotel	3
+45.4870255	9.2286872	Boutique Hotel Martini 17		hotel	3
+45.4409412	9.1728516	B&B Hotel Milano La Spezia		hotel	4
+45.4824199	9.1527481	NH Collection Milano CityLife		hotel	4
+45.5395807	9.0498895	Hotel Fiera Milano		hotel	
+45.4665030	9.2797031	Linate Residence		hotel	
+45.4917808	9.2189648	Milano Affittacamere		hotel	
+45.4719431	9.2019241	Casa Cipriani		hotel	
+45.4589035	9.1623420	Piccola Casa di San Giuseppe		hostel	
+45.4337097	9.1896037	Quark Hotel Milano		hotel	
+45.4559046	9.1876933	Radisson Collection Santa Sofia		hotel	
+45.4509462	9.1780292	21 House of Stories Navigli		hotel	
+45.5262766	9.3952486	Hotel Senator		hotel	4
+45.5016246	8.8578538	Il corallo		hotel	
+45.4392714	9.1671685	Cascina Moncucco IULM		hotel	
+45.4693825	9.2142080	TownHouse 33		hotel	4
+45.4802042	9.2472250	Camplus Lambrate		hotel	
+45.4513140	9.2114823	Un Posto a Milano - Foresteria		hotel	
+45.4771692	9.2054511	AXYHOTELS InnStyle Milano		hotel	
+45.5619281	8.9695151	Locanda del Villoresi		hotel	
+45.4286200	9.2544697	Foresteria Autostazione San Donato		hotel	
+45.4505899	9.2142397	T7		hotel	
+45.4747324	9.1965334	The Plein Hotel		hotel	
+45.4853378	9.2187928	Panda Hostel		hostel	
+45.5924731	9.2715087	Hotel de la Ville		hotel	4
+45.4184522	9.1784305	Casa da Suite Fraschini		hotel	
+45.4878752	9.2039358	Hotel Midway		hotel	
+45.6072759	8.8456667	Tower Hotel		hotel	4
+45.4443074	9.1159711	iH Hotels Milano Lorenteggio		hotel	4
+45.4496777	9.1669048	Combo		hostel	
+45.4966817	9.1883593	Bed and Breakfast Casa Titta		hotel	
+45.4446922	9.2119296	Madama Hostel Bistrot		hostel	
+45.5552485	9.2279209	Hotel Lincoln		hotel	
+45.4168662	9.1227119	MC2 Smart Room		hotel	
+45.5137797	9.2027233	Hotel CXMilan I Bicocca		hotel	
+45.4671253	9.1430061	Antares Hotel Rubens		hotel	4
+45.4858962	9.2019566	Excelsior Hotel Gallia		hotel	5
+45.4404582	9.1996106	Hotel Apollo		hotel	2
+45.4436079	9.2070251	Zambala Luxury Apartments		hotel	
+45.4838622	9.1408959	HI Ostello Milan		hostel	
+45.5465103	9.3391377	Rocco		hotel	3
+45.5493728	9.3456175	Residence Isabella		hotel	3
+45.4661105	9.2840447	Air Hotel Linate		hotel	4
+45.3957447	9.2113164	AccA Hotel		hotel	
+45.4404846	9.1987677	Garden Hotel		hotel	2
+45.4873372	9.2167878	Palazzo Loreto		hotel	
+45.4973631	9.1808548	Hotel Kira Suites		hotel	
+45.5802916	9.1731582	Best Western		hotel	4
+45.4915333	9.2228369	Hotel Lume		hotel	
+45.5240792	9.1734594	Chs Milano residence		hotel	
+45.4610230	9.1541335	Milan Marriott Hotel		hotel	4
+45.4438307	9.1529924	iH Hotels Milano Watt 13		hotel	4
+45.4783606	9.1033794	Sheraton Milano San Siro		hotel	4
+45.5310920	9.2168357	"Grand Hotel Villa Torretta Milan Sesto, Curio Collection by Hilton"		hotel	4
+45.4987024	9.1903920	Hotel Contessa Jolanda		hotel	4
+45.4505587	9.2906670	Belstay Milano Linate		hotel	
+45.4727419	9.1924022	Casa Baglioni - Milan		hotel	
+45.4026494	9.1401879	Hotel Royal Garden		hotel	4
+45.5123568	9.1787480	Eco Hotel Milano		hotel	3
+45.5024237	9.2219280	Best Western Antares Hotel Concorde		hotel	4
+45.4480517	9.1986076	Palladio		hotel	1
+45.5016847	9.2273237	Ramada Plaza Milano		hotel	4
+45.4711957	9.0773476	Idea Hotel Milano San Siro		hotel	4
+45.6011926	8.9459930	UNA Hotel Malpensa		hotel	4
+45.5723451	9.3364968	Mercure		hotel	
+45.4736613	9.1467531	Hotel Amendola Fiera		hotel	1
+45.5051036	9.2614031	Hotel Rafael		hotel	4
+45.5374817	9.2307204	Grand Hotel Barone Di Sassj		hotel	4
+45.5734573	9.0597036	Hotel Quattro Strade		hotel	
+45.5729504	9.0603343	Virginia Palace Hotel		hotel	
+45.5499662	9.2572876	Hotel Duca Di Mantova		hotel	
+45.4810448	9.1900027	Avani Hotel Palazzo Moscova		hotel	4
+45.4814071	9.1919435	NH Collection Milano Porta Nuova		hotel	4
+45.6369970	8.7092074	Idea Hotel Milano Malpensa Airport		hotel	4
+45.5238332	9.2311271	AC Hotel Milano Sesto		hotel	4
+45.5225455	9.1634258	OstellOlinda		hostel	
+45.4950833	9.1417852	Hotel Raffaello		hotel	4
+45.5348304	9.1245117	Domina Milano Fiera		hotel	4
+45.4870106	9.0307394	Best Western plus Le Favaglie		hotel	4
+45.5748457	8.9533620	AS Hotel Sempion Fiera		hotel	4
+45.5526484	9.2420246	Holiday Inn Milan Nord-Zara		hotel	
+45.4774372	9.2982565	Hotel Riviera		hotel	
+45.5901333	9.2484752	B&B Hotel Milano - Monza		hotel	3
+45.4605208	9.1812895	Hotel Ariston		hotel	3
+45.5015268	9.2676018	NH Hotel Milano 2		hotel	4
+45.4178780	9.2573435	UNAHOTELS The One Milano		hotel	4
+45.5483307	9.2189778	Cosmo Hotel Palace		hotel	
+45.4482613	9.2574838	Novotel Milano Linate Aeroporto		hotel	4
+45.4079386	9.1529599	H2C Hotel Milanofiori		hotel	4
+45.6222918	9.0169913	della rotonda		hotel	
+45.6229278	9.0284657	StarHotel Grand Milan		hotel	
+45.4862204	9.2252518	Ca'Grande		hotel	1
+45.5568488	9.2156334	Hotel Villa Ghirlanda		hotel	3
+45.5277346	9.2677040	Sporting		hotel	3
+45.5379667	9.2194178	Bb Hotels Smarthotel Re Milano Nord		hotel	
+45.6357779	8.8655402	Mo.om Hotel Motel		hotel	4
+45.5796850	9.2731883	Hotel Royal Falcone		hotel	4
+45.5819501	9.2763780	Nine Hotel		hotel	3
+45.5040199	9.1055743	Bonola		hotel	2
+45.5904274	9.2552274	Hotel Ristorante Mosca		hotel	3
+45.4708196	8.9041828	Diamante		hotel	
+45.4024118	9.2503467	Majestic		hotel	
+45.5827871	9.2496560	AS Hotel Monza		hotel	4
+45.5623032	9.2430243	Best Western Monza e Brianza Palace		hotel	4
+45.5923544	9.2535529	Helios Hotel		hotel	4
+45.4858688	8.9985864	Hotel Novara		hotel	
+45.4328094	9.2649803	AN Hotel Milano San Donato		hotel	4
+45.4834546	9.1666205	Hotel Mozart		hotel	4
+45.5999630	9.2363703	Hotel Re		hotel	3
+45.6039594	9.2301618	Hotel Regency		hotel	4
+45.4846858	9.2072792	Starhotels Echo		hotel	4
+45.4845983	9.2064997	Hotel Bristol		hotel	4
+45.4862487	9.2307824	Hotel Chopin		hotel	1
+45.4945405	9.0221118	Peralba Autohotel		hotel	
+45.5002365	9.1380137	DoubleTree by Hilton Hotel Milan		hotel	4
+45.5746103	9.2698913	Albergo Ristorante Il Girasole		hotel	
+45.4080724	9.2706405	Hotel Delta		hotel	
+45.5835276	8.7226603	Malpensa Inn		hotel	4
+45.6206002	9.0248993	Ostello di Saronno		hostel	
+45.6302230	9.3307905	BorgoLecco Hotel		hotel	3
+45.5416774	9.2368791	Abacus Hotel		hotel	4
+45.5114967	9.1241883	Voco Milan - Fiere		hotel	4
+45.5148818	9.1160604	Klima Hotel Milano Fiere		hotel	4
+45.4189320	9.1571321	Hotel Alga		hotel	3
+45.4236301	9.0636333	Hotel Eur		hotel	4
+45.5763404	9.4182041	AS Hotel		hotel	
+45.6192165	8.8487096	Hotel Hortensia		hotel	3
+45.5923579	9.2349266	Hotel Imperial Residence		hotel	3
+45.6052139	9.1393362	AS Hotel Limbiate Fiera		hotel	4
+45.4378188	9.2309078	Starhotels Business Palace		hotel	4
+45.4787429	9.1992950	The Westin Palace		hotel	5S
+45.5342430	9.1056743	Phi Hotel Milano		hotel	4
+45.6124684	9.2355698	Albergo Alla Passeggiata		hotel	3
+45.4853292	9.1831071	AC Hotel Milano		hotel	4
+45.4852870	9.2070649	Starhotels Anderson		hotel	4
+45.4843630	9.2051177	Mini Hotel Aosta		hotel	3
+45.4842057	9.2054105	Ostello Bello Grande		hostel	3
+45.5962258	8.9331853	Hotel 2C		hotel	3
+45.5020712	9.0870462	Atahotel Expo Fiera		hotel	4
+45.4817834	9.2028120	Hotel Mythos		hotel	3
+45.6009586	9.3622888	Cosmo Hotel Torri Vimercate		hotel	4
+45.5256220	9.2152371	Hotel degli Arcimboldi		hotel	4
+45.5629955	9.0306966	ibis Milano Fiera		hotel	
+45.5801213	9.4166176	Devero Hotel		hotel	4
+45.4842982	9.1987525	Hyatt Centric Milan Centrale		hotel	4
+45.4267374	9.0713661	Hotel Goldenmile Milan		hotel	
+45.4322136	9.0661096	Hotel Blu Visconti		hotel	3
+45.4316021	9.0502913	Hotel Le Moran		hotel	4
+45.4177749	9.0551816	Hotel Carmen		hotel	3
+45.4185830	9.0529518	Hotel Tiffany Milano		hotel	4
+45.6095860	9.3298436	La Bergamina		hotel	4
+45.6091836	9.3296599	La Bergamina		hotel	3
+45.4832995	9.1775650	Hotel VIU Milan		hotel	5
+45.4577504	9.2145781	Hotel Perugino		hotel	3
+45.4262615	9.2988211	Borromeo Residence		hotel	
+45.4359783	9.2354411	Hotel Mistral		hotel	3
+45.4477586	9.0305914	Hotel Mulino Grande		hotel	4
+45.4837915	9.1649421	City Life Hotel Poliziano		hotel	4
+45.4803679	9.1236340	B&B Hotel Milano San Siro		hotel	3
+45.4424950	9.0945656	Albergo Parini		hotel	1
+45.4805414	9.1601202	Admiral Hotel		hotel	4
+45.5237452	9.3378454	Residence Le Querce		hotel	4
+45.5064754	9.1969784	a&o Milano Ca Granda		hotel	3
+45.5056408	9.2466609	Agape Hotel		hotel	3
+45.5617485	9.2256001	Woodhouse Hotel		hotel	
+45.5058094	9.3801956	Il Griso		hotel	2
+45.6295954	9.1475938	Hotel Parco Borromeo		hotel	4
+45.4633228	9.1547004	Villa Giovanna		hotel	1
+45.4640278	9.1547423	Hotel Calais		hotel	1
+45.4866463	9.1738028	B&B Hotel Milano Cenisio Garibaldi		hotel	3
+45.5663021	9.3993713	Albergo Brioschi		hotel	
+45.4913870	9.2399465	Nu Hotel Milano		hotel	4
+45.4482566	9.1187128	Amedia Hotel Milano		hotel	
+45.6006601	9.1765648	Golfetto		hotel	3
+45.6241099	9.0164317	Just Hotel Saronno		hotel	
+45.5174040	9.0764990	Hotel NH Milano Fiera		hotel	4
+45.4659013	9.2818849	Moxy Milan Linate Airport		hotel	
+45.6210005	9.2162590	St. John Residence Hotel		hotel	
+45.5512567	9.0901916	Hotel La Torretta		hotel	3
+45.4029292	9.2494311	Majestic		hotel	
+45.4211110	9.2526961	Crowne Plaza Milan Linate		hotel	4
+45.5262563	8.7818633	Hotel da Mariuccia		hotel	
+45.5162114	9.2274491	Hilton Garden Inn Milan North		hotel	4
+45.6352319	9.3030123	Villa Mattioli		hotel	4
+45.4480130	9.1984050	Palladio		hotel	1
+45.4613176	8.7239172	Hotel Manfredi		hotel	
+45.5901062	9.3260466	Euro Hotel Residence Monza		hotel	4
+45.6296945	8.8398509	Hotel Pineta		hotel	4
+45.6275187	8.7003481	TRIBE Milano Malpensa		hotel	
