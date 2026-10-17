@@ -1,0 +1,18 @@
+28 lines, 580 stations
+  check: 阪急電鉄京都本線: fewer than 2 named stops (under construction?), skipped; OSM relation r1872143
+  check: Thunderbird: no colour tag in OSM, set the official color by hand
+  check: Sagano Scenic Line (Torokko Saga -> Torokko Kameoka): no colour tag in OSM, set the official color by hand
+  check: Limited Express Haruka (Kyoto <=> Kansai-Airport): no colour tag in OSM, set the official color by hand
+  check: Nozomi: no colour tag in OSM, set the official color by hand
+  check: Kodama: no colour tag in OSM, set the official color by hand
+  check: まいづる: no colour tag in OSM, set the official color by hand
+  check: きのさき: no colour tag in OSM, set the official color by hand
+  check: JR Tōkaidō Main Line: added branch to Abekawa as its own line; check it isn't a short-working or depot run
+  check: Eizan Main Line: no colour tag in OSM, set the official color by hand
+  check: 長等山トンネル: fewer than 2 named stops (under construction?), skipped; OSM relation r19143197
+  check: 逢坂山トンネル: fewer than 2 named stops (under construction?), skipped; OSM relation r19198777
+  check: 近鉄特急しまかぜ (京都 <=> 賢島): fewer than 2 named stops (under construction?), skipped; OSM relation r19960363
+  check: 近鉄特急あをによし (大阪難波 <=> 京都): fewer than 2 named stops (under construction?), skipped; OSM relation r20104824
+  check: 近鉄特急 (京都 <=> 近鉄奈良): fewer than 2 named stops (under construction?), skipped; OSM relation r20104827
+  check: Kintetsu Limited Express (Kyoto <=> Kashiharajingu-mae): no colour tag in OSM, set the official color by hand
+  check: 近鉄特急 (京都 <=> 賢島): fewer than 2 named stops (under construction?), skipped; OSM relation r20104833

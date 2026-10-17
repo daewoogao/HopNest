@@ -237,3 +237,5 @@
 00:51:39 riyadh lines ok
 00:52:31 sydney lines ok
 00:52:58 vancouver lines ok
+00:54:49 kyoto-rail lines ok
+00:55:09 miami lines ok
