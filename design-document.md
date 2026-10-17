@@ -109,9 +109,10 @@ station/airport/railway stop you tap.
 
 - **Subway lines**: real official colors, toggleable per line, station
   dots clickable.
-- **Transfers** (2026-10-16): metro-map style, as Audrey asked: a white
-  circle with a dark border at each line's platform, joined by a white
-  bar with a dark border, marks a station where you change lines inside
+- **Transfers** (2026-10-16, restyled 2026-10-17): like LA Metro's
+  Expo/Crenshaw mark: a white circle at each line's platform joined by a
+  white bar, drawn as one smooth shape with only a thin, soft grey-blue
+  outline on the outer edge (no line where circles meet the bar). It marks a station where you change lines inside
   (one label per interchange); a dashed grey line
   joins two separate stations a short walk apart. The station popup says
   which lines you can change to, or how far the walk is. Worked out in
@@ -485,6 +486,14 @@ they're done.
 ---
 
 ## Changelog
+
+### 2026-10-17 — softer, seamless transfer marks
+- Audrey found the transfer mark's black outline too strong and the
+  inner lines (where each circle met the bar) ugly; asked for it to look
+  exactly like LA's Expo/Crenshaw mark. Now every outline piece is drawn
+  first and the white pieces on top, so only the outer edge has a line;
+  outline is 1.6 px #3b4652 instead of 3 px near-black. Co-located
+  platforms still show a single circle (Audrey confirmed that's fine).
 
 ### 2026-10-16 — hide/show the side panel
 - Audrey asked how to close the left panel; there was no way. Now a ◀

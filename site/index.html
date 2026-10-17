@@ -162,8 +162,8 @@
   .hover-rail{border-left-color:#8a3b12;}
 
   .transfer-legend{font-size:11px;color:var(--text-dim);margin-top:8px;line-height:1.5;}
-  .transfer-legend .ring{display:inline-block;width:9px;height:9px;border-radius:50%;background:#fff;border:2.5px solid #1a222b;vertical-align:-2px;margin-right:4px;}
-  .transfer-legend .pill{display:inline-block;width:20px;height:9px;border-radius:7px;background:#fff;border:2.5px solid #1a222b;vertical-align:-2px;margin-right:4px;}
+  .transfer-legend .ring{display:inline-block;width:9px;height:9px;border-radius:50%;background:#fff;border:1.5px solid #3b4652;vertical-align:-2px;margin-right:4px;}
+  .transfer-legend .pill{display:inline-block;width:20px;height:9px;border-radius:7px;background:#fff;border:1.5px solid #3b4652;vertical-align:-2px;margin-right:4px;}
   .transfer-legend .dash{display:inline-block;width:16px;border-top:2px dashed #555;vertical-align:3px;margin-right:4px;}
   .station-label{font-family:var(--font-ui);font-size:10px;font-weight:600;color:#1a222b;text-shadow:0 0 3px #fff,0 0 3px #fff,0 0 3px #fff;white-space:nowrap;}
   .sight-label{font-family:var(--font-display);font-size:11.5px;font-weight:600;color:#12181f;text-shadow:0 0 4px #fff,0 0 4px #fff,0 0 4px #fff;white-space:nowrap;}
@@ -737,24 +737,24 @@ function computeTransfers(data){
 }
 
 function drawTransfers(t){
-  // Metro-map style interchange: a white circle with a dark outline at
-  // each line's platform, joined by a white bar with a dark outline.
+  // Metro-map style interchange (like LA's Expo/Crenshaw): one white circle
+  // per platform joined by a white bar, drawn as a single shape. All dark
+  // outline pieces go down first and the white pieces on top, so only the
+  // outer edge shows a thin line; nothing shows where circles meet the bar.
+  const R = 7, BAR = 12, EDGE = 1.6, INK = '#3b4652';
+  const outlines = [], fills = [];
   t.byName.forEach(e=>{
     if(e.lines.length < 2) return;
     const ids = e.lines.map(l=>l.id);
     const spots = [];
     e.pts.forEach(q=>{ if(!spots.some(o=>haversineMeters(o.lat,o.lng,q.lat,q.lng) < 15)) spots.push(q); });
-    if(spots.length > 1){
-      const bar = spots.slice(1).map(q=>[[spots[0].lat,spots[0].lng],[q.lat,q.lng]]);
-      const outline = L.polyline(bar, {color:'#1a222b', weight:14, opacity:1, lineCap:'round', interactive:false}).addTo(map);
-      const fill = L.polyline(bar, {color:'#fff', weight:8, opacity:1, lineCap:'round', interactive:false}).addTo(map);
-      transferLayers.push({layer:outline, lineIds:ids, kind:'bar', op:1}, {layer:fill, lineIds:ids, kind:'bar', op:1});
-    }
-    spots.forEach(q=>{
-      const ring = L.circleMarker([q.lat,q.lng], {radius:7.5, weight:3, color:'#1a222b', fillColor:'#fff', fillOpacity:1, interactive:false}).addTo(map);
-      transferLayers.push({layer:ring, lineIds:ids, kind:'ring'});
+    const bar = spots.slice(1).map(q=>[[spots[0].lat,spots[0].lng],[q.lat,q.lng]]);
+    [[outlines, INK, EDGE], [fills, '#fff', 0]].forEach(([list, color, pad])=>{
+      if(bar.length) list.push({ids, make:()=>L.polyline(bar, {color, weight:BAR+2*pad, opacity:1, lineCap:'round', interactive:false})});
+      spots.forEach(q=>list.push({ids, make:()=>L.circleMarker([q.lat,q.lng], {radius:R+pad, stroke:false, fillColor:color, fillOpacity:1, interactive:false})}));
     });
   });
+  [...outlines, ...fills].forEach(o=>transferLayers.push({layer:o.make().addTo(map), lineIds:o.ids, kind:'mark'}));
   t.walks.forEach(w=>{
     const dash = L.polyline([[w.a.lat,w.a.lng],[w.b.lat,w.b.lng]], {color:'#555', weight:2.5, dashArray:'4 5', opacity:.9, interactive:false}).addTo(map);
     transferLayers.push({layer:dash, lineIds:[...w.a.lines, ...w.b.lines].map(l=>l.id), kind:'walk'});
@@ -764,7 +764,7 @@ function drawTransfers(t){
 function updateTransferVisibility(){
   transferLayers.forEach(t=>{
     const on = t.lineIds.filter(id=>activeLines.has(id)).length >= 2;
-    if(t.kind === 'ring') t.layer.setStyle({opacity:on?1:0, fillOpacity:on?1:0});
+    if(t.kind === 'mark') t.layer.setStyle({opacity:on?1:0, fillOpacity:on?1:0});
     else t.layer.setStyle({opacity:on?(t.op||.9):0});
   });
 }
