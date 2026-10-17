@@ -168,6 +168,10 @@ station/airport/railway stop you tap.
   railway icon draws its walk-radius circle. Tapping elsewhere on the map
   clears all open circles. Tapping the same icon again also clears just
   that one.
+- **Revealed hotels stay (decided 2026-10-17)**: a click-to-reveal hotel
+  that any circle has shown stays on the map and in the hotel list (light
+  green) after the circle closes, until the page reloads. The star filter
+  still applies to it.
 - **Color logic**: default/curated hotels = light green diamond always.
   Hotels revealed by a **subway** station's circle = dark green (spotlight).
   Hotels revealed by an **airport/rail** circle = light green (treated as
@@ -183,7 +187,9 @@ station/airport/railway stop you tap.
   (curated or click-to-reveal) is within the walk radius of the clicked
   point and live search is off, a card lists the **3 nearest always-
   visible curated hotels** (stars, area, walk time up to 2 km, otherwise
-  km) — tapping one flies to it and opens its popup — plus a **"Search
+  km; picks respect the star filter) — the map flies to fit the station
+  and those 3 hotels above the card, so they're visible on the map, not
+  just listed; tapping one flies to it and opens its popup — plus a **"Search
   all hotels near <station>"** button linking to a Booking.com search for
   that station and city (new tab). $0, no backend; the link is where an
   affiliate ID goes later. Closes with ×, a map tap, or the next
@@ -491,14 +497,16 @@ they're done.
 
 ## Changelog
 
-### 2026-10-17 — nearest-hotel picks stay on the map
-- Audrey: when a station has no hotels within walking distance, the box
-  lists the 3 nearest recommended hotels; those should show on the map
-  and stay there. Now each of the 3 gets a name tag on its pin and a
-  dashed blue line from the station, and the map zooms to fit them. Tags
-  stay for every station clicked until you switch city (the dashed lines
-  show only for the latest station); tagged hotels show even if the star
-  filter would hide them. Free: uses the saved hotel list, no live lookup.
+### 2026-10-17 — revealed and suggested hotels stay on the map
+- Audrey: hotels that only appear when you click a station should stay
+  on the map; the 3 nearest picks in the "no hotels nearby" card should
+  show on the map too. Free: stored data only, no live lookup.
+- Click-to-reveal hotels now stay on the map and in the list after their
+  station circle closes (until reload).
+- Nearest-hotels card: the map flies to fit the station plus the 3 picks,
+  kept clear of the card; each pick gets a name tag and a dashed blue
+  line from the station. Tags stay for every station clicked until you
+  switch city (lines only for the latest). Picks follow the star filter.
 
 ### 2026-10-17 — batch 6: 20 more cities (65 total)
 - Audrey: next 20, picked by visitor numbers, not 5 per continent. Taken

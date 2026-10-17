@@ -380,6 +380,9 @@ let sightMarkers = [];
 let airportMarkers = [];
 let railStationMarkers = [];
 let stationCircles = new Map(); // marker -> circle
+// Click-to-reveal hotels a station circle has shown at least once. They stay
+// on the map and in the list after the circle closes, until reload.
+let revealedIds = new Set();
 let pinnedIds = new Set(); // hotel AND sight _id's the user has pinned — in-memory only, resets on reload
 
 function isPinned(h){ return pinnedIds.has(h._id); }
@@ -996,7 +999,6 @@ function markNearestPicks(lat, lng, picks){
       nearestPickTags.set(h, tag);
     }
   });
-  map.fitBounds(L.latLngBounds([[lat,lng], ...picks.map(x=>[x.h.lat,x.h.lng])]).pad(0.25), {maxZoom: Math.max(map.getZoom(), 14)});
   render();
 }
 
@@ -1006,10 +1008,11 @@ function markNearestPicks(lat, lng, picks){
 function showNearestHotelsFallback(stationName, lat, lng){
   const data = CITIES[currentCityId];
   const nearest = data.hotels
-    .filter(h => h.curated!==false)
+    .filter(h => h.curated!==false && (selectedStars.size===0 || selectedStars.has(h.stars)))
     .map(h => ({h, d:haversineMeters(lat,lng,h.lat,h.lng)}))
     .sort((a,b)=> a.d-b.d)
     .slice(0,3);
+
   const distLabel = d => d <= 2000 ? `${Math.max(1,Math.round(d/WALK_SPEED_M_PER_MIN))} min walk` : `${(d/1000).toFixed(1)} km away`;
   const place = /station|airport|terminal/i.test(stationName) ? stationName : `${stationName} Station`;
   const bookingUrl = 'https://www.booking.com/searchresults.html?ss=' + encodeURIComponent(`${place}, ${data.name}`);
@@ -1021,6 +1024,13 @@ function showNearestHotelsFallback(stationName, lat, lng){
     ${nearest.map((x,i)=>`<div class="fb-row" data-i="${i}"><div class="fb-name">${x.h.name}</div><div class="fb-meta">${x.h.stars?'★'.repeat(x.h.stars)+' · ':''}${x.h.area||''} · ${distLabel(x.d)}</div></div>`).join('')}
     <a class="fb-book" href="${bookingUrl}" target="_blank" rel="noopener">Search all hotels near ${stationName} ↗</a>`;
   el.classList.add('fallback','show');
+  // Bring the suggested hotels into view next to the clicked station, so
+  // the card's three picks are visible on the map, not just listed. Bottom
+  // padding keeps them clear of the card itself.
+  if(nearest.length && map.getSize().x>0){
+    const pts = [[lat,lng], ...nearest.map(x=>[x.h.lat,x.h.lng])];
+    map.flyToBounds(L.latLngBounds(pts), {paddingTopLeft:[50,70], paddingBottomRight:[50, el.offsetHeight+40], maxZoom:16, duration:.6});
+  }
   el.querySelector('#fb-close').onclick = hideSearchBanner;
   markNearestPicks(lat, lng, nearest);
   el.querySelectorAll('.fb-row').forEach(row=>{
@@ -1239,16 +1249,18 @@ function render(){
     const pinned = isPinned(h);
     const {inCircle, dark} = hotelCircleStatus(h, circles);
     const starMatch = selectedStars.size===0 || selectedStars.has(h.stars);
+    if(inCircle && !curated) revealedIds.add(h._id);
+    const revealed = revealedIds.has(h._id);
 
     let show, color;
     if(circles.length>0){
-      show = curated || inCircle || pinned;
+      show = curated || inCircle || pinned || revealed;
       color = inCircle ? (dark ? HOTEL_DARK_GREEN : HOTEL_LIGHT_GREEN) : HOTEL_LIGHT_GREEN;
     } else {
-      show = curated || pinned;
+      show = curated || pinned || revealed;
       color = HOTEL_LIGHT_GREEN;
     }
-    show = pinned || nearestPickTags.has(h) || (show && starMatch);
+    show = pinned || (show && starMatch);
 
     if(show){
       if(!map.hasLayer(marker)) marker.addTo(map);
@@ -1322,7 +1334,8 @@ function renderHotelList(stations){
       circles.forEach(c=>{ const d=haversineMeters(h.lat,h.lng,c.lat,c.lng); if(d<bestD){bestD=d; best=c;} });
       const {inCircle, dark} = hotelCircleStatus(h, circles);
       const curated = h.curated!==false;
-      return {h, circle:best, dist:bestD, inCircle, dark, curated, pinned:isPinned(h)};
+      const curatedOrRevealed = curated || revealedIds.has(h._id);
+      return {h, circle:best, dist:bestD, inCircle, dark, curated:curatedOrRevealed, pinned:isPinned(h)};
     }).filter(x=> (x.inCircle || x.curated || x.pinned) && (x.pinned || selectedStars.size===0 || selectedStars.has(x.h.stars)))
       .sort((a,b)=> (b.inCircle-a.inCircle) || (b.pinned-a.pinned) || a.dist-b.dist);
 
@@ -1342,7 +1355,7 @@ function renderHotelList(stations){
   listHeader.style.display = 'none';
   const scored = data.hotels.map(h=>{
     const {station,dist} = nearestStation(h.lat,h.lng,stations);
-    return {h, station, dist, curated: h.curated!==false, pinned: isPinned(h)};
+    return {h, station, dist, curated: h.curated!==false || revealedIds.has(h._id), pinned: isPinned(h)};
   }).filter(x=>x.station && (x.curated || x.pinned) && (x.pinned || selectedStars.size===0 || selectedStars.has(x.h.stars))).sort((a,b)=> (b.pinned-a.pinned) || a.dist-b.dist);
 
   if(scored.length===0){
