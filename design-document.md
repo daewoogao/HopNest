@@ -491,6 +491,15 @@ they're done.
 
 ## Changelog
 
+### 2026-10-17 — nearest-hotel picks stay on the map
+- Audrey: when a station has no hotels within walking distance, the box
+  lists the 3 nearest recommended hotels; those should show on the map
+  and stay there. Now each of the 3 gets a name tag on its pin and a
+  dashed blue line from the station, and the map zooms to fit them. Tags
+  stay for every station clicked until you switch city (the dashed lines
+  show only for the latest station); tagged hotels show even if the star
+  filter would hide them. Free: uses the saved hotel list, no live lookup.
+
 ### 2026-10-17 — batch 6: 20 more cities (65 total)
 - Audrey: next 20, picked by visitor numbers, not 5 per continent. Taken
   from the top of the international-arrivals rankings, skipping places

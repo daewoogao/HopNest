@@ -118,6 +118,7 @@
   .fb-row{padding:7px 8px;border-radius:8px;cursor:pointer;background:var(--panel-2);margin-bottom:5px;}
   .fb-row:hover{outline:1px solid var(--accent);}
   .fb-name{font-size:12.5px;font-weight:600;}
+  .pick-tag{display:inline-block;white-space:nowrap;background:#fff;color:#14202b;border:1.5px solid #1a6fd1;border-radius:999px;padding:2px 8px;font-size:11.5px;font-weight:600;box-shadow:0 1px 4px rgba(0,0,0,.25);cursor:pointer;}
   .fb-meta{font-size:11px;color:var(--text-dim);}
   .fb-book{display:block;text-align:center;margin-top:8px;padding:8px;border-radius:8px;background:var(--accent);color:#fff;font-size:12.5px;font-weight:600;text-decoration:none;}
 
@@ -636,6 +637,7 @@ function clearCityLayers(){
   Object.values(lineLayers).forEach(l=>{ map.removeLayer(l.poly); l.stationMarkers.forEach(m=>map.removeLayer(m)); l.stationLabels.forEach(m=>map.removeLayer(m)); });
   lineLayers = {};
   transferLayers.forEach(t=>map.removeLayer(t.layer)); transferLayers = [];
+  clearNearestPicks(true);
   hotelMarkers.forEach(h=>map.removeLayer(h.marker)); hotelMarkers=[];
   sightMarkers.forEach(s=>{ map.removeLayer(s.marker); map.removeLayer(s.label); }); sightMarkers=[];
   airportMarkers.forEach(a=>{ map.removeLayer(a.marker); map.removeLayer(a.label); }); airportMarkers=[];
@@ -973,6 +975,31 @@ function showSearchBanner(text, autoHideMs){
 }
 function hideSearchBanner(){ document.getElementById('search-banner').classList.remove('show'); }
 
+// Hotels suggested by the "nearest hotels" box get a name tag on the map and
+// stay marked for the rest of the visit to this city (cleared on city
+// change); only the latest station's dashed links are redrawn per click.
+let nearestPickTags = new Map(); let nearestPickLinks = [];
+function clearNearestPicks(all){
+  nearestPickLinks.forEach(l=>map.removeLayer(l)); nearestPickLinks = [];
+  if(all){ nearestPickTags.forEach(t=>map.removeLayer(t)); nearestPickTags.clear(); }
+}
+function markNearestPicks(lat, lng, picks){
+  clearNearestPicks(false);
+  picks.forEach((x,i)=>{
+    const h = x.h;
+    const link = L.polyline([[lat,lng],[h.lat,h.lng]], {color:'#1a6fd1', weight:2.5, dashArray:'5 6', opacity:.85, interactive:false}).addTo(map);
+    nearestPickLinks.push(link);
+    if(!nearestPickTags.has(h)){
+      const tag = L.marker([h.lat,h.lng], {zIndexOffset:3000, icon:L.divIcon({className:'', iconAnchor:[-10,10], html:
+        `<div class="pick-tag">🏨 ${h.name}</div>`})}).addTo(map);
+      tag.on('click', ()=> selectSearchResult({type:'hotel', ref:h, lat:h.lat, lng:h.lng, name:h.name}));
+      nearestPickTags.set(h, tag);
+    }
+  });
+  map.fitBounds(L.latLngBounds([[lat,lng], ...picks.map(x=>[x.h.lat,x.h.lng])]).pad(0.25), {maxZoom: Math.max(map.getZoom(), 14)});
+  render();
+}
+
 // Shown instead of a dead-end message when a clicked spot has no stored
 // hotels within the walk radius and live search is off: the nearest
 // always-visible hotels, plus a Booking.com search for that station.
@@ -995,6 +1022,7 @@ function showNearestHotelsFallback(stationName, lat, lng){
     <a class="fb-book" href="${bookingUrl}" target="_blank" rel="noopener">Search all hotels near ${stationName} ↗</a>`;
   el.classList.add('fallback','show');
   el.querySelector('#fb-close').onclick = hideSearchBanner;
+  markNearestPicks(lat, lng, nearest);
   el.querySelectorAll('.fb-row').forEach(row=>{
     row.onclick = ()=>{
       const h = nearest[+row.dataset.i].h;
@@ -1220,7 +1248,7 @@ function render(){
       show = curated || pinned;
       color = HOTEL_LIGHT_GREEN;
     }
-    show = pinned || (show && starMatch);
+    show = pinned || nearestPickTags.has(h) || (show && starMatch);
 
     if(show){
       if(!map.hasLayer(marker)) marker.addTo(map);
