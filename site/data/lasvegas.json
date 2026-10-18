@@ -1,0 +1,194 @@
+{
+  "name": "Las Vegas",
+  "country": "USA",
+  "flag": "🇺🇸",
+  "center": [36.12,-115.17],
+  "zoom": 13,
+  "operatingHours": "The Las Vegas Monorail runs along the east side of the Strip from MGM Grand to SAHARA (7 stations, ~15 min end to end, every 4–8 min): Mon 7:00 AM–12:00 AM, Tue–Thu 7:00 AM–2:00 AM, Fri–Sun 7:00 AM–3:00 AM. Free resort trams link Bellagio–Aria–Park MGM (~8:00 AM–2:00 AM) and Mandalay Bay–Luxor–Excalibur (~10:00 AM–12:00 AM). RTC's Deuce bus runs the Strip to Downtown 24 h.",
+  "fareInfo": "Monorail single ride $6 ($5.50 online), 24-hour pass $15 ($13.45 online), 2-day $26, 3-day $32 (2026); buy at station machines or in the monorail app and tap at the gates. RTC buses (Deuce, SDX) use separate tickets in the rideRTC app: 2-hour pass ~$6, 24-hour ~$8.",
+  "lines": [
+    {
+      "id": "lm",
+      "name": "Las Vegas Monorail",
+      "color": "#133D8C",
+      "code": "M",
+      "stations": [
+        ["MGM Grand",36.1027,-115.1677],
+        ["Horseshoe/Paris Las Vegas",36.1124,-115.1674],
+        ["Caesar's Palace/Flamingo",36.1162,-115.1685],
+        ["Harrah's & The LINQ",36.1187,-115.1684],
+        ["Convention Center",36.1295,-115.1544],
+        ["Westgate",36.1372,-115.1529],
+        ["Sahara",36.1424,-115.1546]
+      ]
+    }
+  ],
+  "hotels": [
+    {"name":"Hilton Grand Vacations Club Flamingo Las Vegas","lat":36.1167,"lng":-115.1689,"area":"Center Strip","rating":4.2,"ratingCount":2813,"stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Best Western Plus Casino Royale, Center Strip","lat":36.1206,"lng":-115.1716,"area":"Center Strip","rating":4,"ratingCount":3352,"stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"The Platinum Hotel & Spa","lat":36.1138,"lng":-115.163,"area":"Center Strip","rating":4.5,"ratingCount":4225,"stars":4,"priceTier":3},
+    {"name":"The Venetian Resort Las Vegas","lat":36.1217,"lng":-115.1694,"area":"Center Strip","rating":4.3,"ratingCount":36729,"stars":5,"priceTier":4},
+    {"name":"Caesars Palace","lat":36.1166,"lng":-115.1766,"area":"Center Strip","rating":4.1,"ratingCount":33673,"stars":4,"priceTier":4},
+    {"name":"Elara, a Hilton Grand Vacations Club","lat":36.1087,"lng":-115.1687,"area":"South Strip","rating":4.3,"ratingCount":8808,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Holiday Inn Express & Suites Las Vegas - E Tropicana","lat":36.0995,"lng":-115.1651,"area":"South Strip","rating":4.3,"ratingCount":113,"stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"The Carriage House","lat":36.1074,"lng":-115.168,"area":"South Strip","rating":4.5,"ratingCount":2725,"stars":3,"priceTier":3},
+    {"name":"New York-New York Hotel & Casino","lat":36.1022,"lng":-115.1745,"area":"South Strip","rating":4,"ratingCount":33584,"stars":4,"priceTier":2},
+    {"name":"Skylofts at MGM Grand","lat":36.1024,"lng":-115.1688,"area":"South Strip","rating":4.7,"ratingCount":728,"stars":5,"priceTier":4},
+    {"name":"Courtyard by Marriott Las Vegas Convention Center","lat":36.1302,"lng":-115.1558,"area":"Convention Center","rating":4.5,"ratingCount":689,"stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Las Vegas Marriott","lat":36.1319,"lng":-115.1572,"area":"Convention Center","rating":4.2,"ratingCount":924,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Renaissance Las Vegas Hotel","lat":36.1274,"lng":-115.154,"area":"Convention Center","rating":4.2,"ratingCount":2574,"stars":4,"priceTier":3,"brandAnchor":true},
+    {
+      "name": "SpringHill Suites by Marriott Las Vegas Convention Center",
+      "lat": 36.1351,
+      "lng": -115.1555,
+      "area": "Convention Center",
+      "rating": 4.3,
+      "ratingCount": 1166,
+      "stars": 3,
+      "priceTier": 2,
+      "brandAnchor": true
+    },
+    {"name":"Westgate Las Vegas Resort & Casino","lat":36.1356,"lng":-115.1516,"area":"Convention Center","rating":4.2,"ratingCount":10918,"stars":4,"priceTier":2},
+    {"name":"Fontainebleau Las Vegas","lat":36.1376,"lng":-115.1595,"area":"North Strip","rating":4.2,"ratingCount":2096,"stars":5,"priceTier":4},
+    {"name":"Hilton Grand Vacations Club on the Las Vegas Strip","lat":36.1397,"lng":-115.1607,"area":"North Strip","rating":4.1,"ratingCount":7497,"stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Hilton Grand Vacations Club Paradise Las Vegas","lat":36.1398,"lng":-115.1525,"area":"North Strip","rating":4.3,"ratingCount":2972,"stars":3,"priceTier":3,"brandAnchor":true}
+  ],
+  "sights": [
+    {
+      "name": "Fountains of Bellagio",
+      "lat": 36.1126,
+      "lng": -115.1739,
+      "note": "Free water-and-light shows choreographed to music on the lake in front of the Bellagio, the Strip's signature spectacle.",
+      "hours": "Shows every 30 min from 3:00 PM (12:00 PM weekends), every 15 min 8:00 PM–12:00 AM; free",
+      "rating": 4.7
+    },
+    {
+      "name": "Fremont Street Experience",
+      "lat": 36.1706,
+      "lng": -115.1432,
+      "note": "Downtown's pedestrian street of old-school casinos under a LED canopy that comes alive with hourly light shows, with a zipline overhead.",
+      "hours": "Street always open; canopy shows hourly ~6:00 PM–1:00 AM",
+      "rating": 4.2
+    },
+    {
+      "name": "Bellagio Conservatory & Botanical Garden",
+      "lat": 36.1129,
+      "lng": -115.1758,
+      "note": "A glass-roofed atrium off the Bellagio lobby with elaborate floral displays that change with each season; free.",
+      "hours": "Open 24 hours; free",
+      "rating": 4.7
+    },
+    {
+      "name": "High Roller",
+      "lat": 36.1176,
+      "lng": -115.1683,
+      "note": "A 167 m observation wheel at the end of the LINQ Promenade, with 30-minute rides in glass cabins (some with an open bar).",
+      "hours": "~12:00 PM–12:00 AM daily (hours vary)",
+      "rating": 4.5,
+      "ticketUrl": "https://www.caesars.com/linq/things-to-do/high-roller"
+    },
+    {
+      "name": "The Las Vegas Strip",
+      "lat": 36.1162,
+      "lng": -115.1745,
+      "note": "Six kilometres of Las Vegas Boulevard lined with themed mega-resorts, free shows and replicas from Venice to Paris, best walked at night.",
+      "hours": "Always open",
+      "rating": 4.4
+    },
+    {
+      "name": "The Mob Museum",
+      "lat": 36.1728,
+      "lng": -115.141,
+      "note": "The National Museum of Organized Crime and Law Enforcement in a 1933 federal courthouse downtown, with a basement speakeasy and distillery.",
+      "hours": "9:00 AM–9:00 PM daily",
+      "rating": 4.5,
+      "ticketUrl": "https://themobmuseum.org"
+    },
+    {
+      "name": "The Neon Museum",
+      "lat": 36.1771,
+      "lng": -115.1353,
+      "note": "A boneyard of rescued casino signs north of downtown, best seen on an evening tour when the restored signs are lit.",
+      "hours": "Daily ~2:00 PM to ~10:00 PM–12:00 AM (seasonal); timed entry",
+      "rating": 4.4,
+      "ticketUrl": "https://www.neonmuseum.org",
+      "bookAhead": true
+    },
+    {
+      "name": "The STRAT Tower (SkyPod)",
+      "lat": 36.1475,
+      "lng": -115.1566,
+      "note": "The tallest observation tower in the US at 350 m, with indoor and outdoor decks and thrill rides hanging off the top.",
+      "hours": "Sun–Thu ~10:00 AM–1:00 AM, Fri–Sat to 2:00 AM",
+      "rating": 4.3,
+      "ticketUrl": "https://thestrat.com"
+    },
+    {
+      "name": "Titanic: The Artifact Exhibition",
+      "lat": 36.0955,
+      "lng": -115.1761,
+      "note": "Recovered artefacts and full-scale room recreations from RMS Titanic, including a section of its hull, inside the Luxor.",
+      "hours": "~10:00 AM–8:00 PM daily",
+      "rating": 4.5
+    },
+    {
+      "name": "The LINQ Promenade",
+      "lat": 36.1173,
+      "lng": -115.1702,
+      "note": "An open-air pedestrian street of bars, restaurants and shops between the Strip and the High Roller.",
+      "hours": "Promenade always open; venues ~11:00 AM–late",
+      "rating": 4.4
+    },
+    {
+      "name": "Pinball Hall of Fame",
+      "lat": 36.0857,
+      "lng": -115.1717,
+      "note": "A huge non-profit arcade of playable pinball and arcade machines from the 1950s onward, at the south end of the Strip near the Welcome sign.",
+      "hours": "Sun–Thu 10:00 AM–11:00 PM, Fri–Sat 10:00 AM–12:00 AM",
+      "rating": 4.5
+    },
+    {
+      "name": "Eiffel Tower Viewing Deck",
+      "lat": 36.1125,
+      "lng": -115.172,
+      "note": "A half-scale Eiffel Tower at Paris Las Vegas whose 46-storey deck looks straight across at the Bellagio fountains.",
+      "hours": "~2:00 PM–12:00 AM daily (hours vary)",
+      "rating": 4.4
+    },
+    {
+      "name": "Welcome to Fabulous Las Vegas Sign",
+      "lat": 36.082,
+      "lng": -115.1728,
+      "note": "The 1959 neon 'Welcome' sign in the median of Las Vegas Boulevard south of the Strip, with a small parking lot for photos.",
+      "hours": "Open 24 hours; free",
+      "rating": 4.3
+    },
+    {
+      "name": "The Atomic Museum",
+      "lat": 36.1145,
+      "lng": -115.149,
+      "note": "A Smithsonian affiliate east of the Strip telling the story of nuclear testing in the Nevada desert, with a simulated test in the Ground Zero Theater.",
+      "hours": "~10:00 AM–5:00 PM daily",
+      "rating": 4.3,
+      "ticketUrl": "https://nationalatomictestingmuseum.org"
+    },
+    {
+      "name": "Las Vegas Arts District (18b)",
+      "lat": 36.159,
+      "lng": -115.153,
+      "note": "Eighteen blocks between the Strip and downtown packed with galleries, vintage shops, craft breweries and taquerias, liveliest on First Friday.",
+      "hours": "Galleries ~12:00–6:00 PM; bars late"
+    }
+  ],
+  "railStations": [],
+  "airports": [
+    {
+      "name": "Harry Reid International Airport",
+      "code": "LAS",
+      "lat": 36.084,
+      "lng": -115.1537,
+      "transitNote": "No rail link: the monorail stops ~2 km short at MGM Grand. Taxis and rideshares reach the Strip in 10–20 min; RTC bus CX (Centennial Express) from Terminal 1 and 3 runs up the Strip to Downtown in ~30–45 min (not on the map).",
+      "hours": "Airport buses run ~24 h on the CX/109 routes; monorail at MGM Grand opens 7:00 AM."
+    }
+  ]
+}

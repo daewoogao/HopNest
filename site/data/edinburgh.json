@@ -1,0 +1,250 @@
+{
+  "name": "Edinburgh",
+  "country": "United Kingdom",
+  "flag": "🇬🇧",
+  "center": [55.953,-3.189],
+  "zoom": 12,
+  "operatingHours": "Edinburgh Trams (one line, Newhaven–Leith–Princes Street–Haymarket–Airport) run ~5:00 AM–~12:00 AM Mon–Sat and ~6:30 AM–~12:00 AM Sun, every ~7 min by day and 10–15 min in the evening. No metro; Lothian buses fill the gaps and night buses run all night.",
+  "fareInfo": "City Zone single £2.40, return £4.60, DAYticket £6.00 (from 22 Feb 2026); tap a contactless card or phone on the platform reader and daily capping applies (~£5.70). Airport Zone tickets are extra: single ~£7.50, return ~£10.50, Network DAY £14.00. Lothian bus tickets are valid on trams in the City Zone (not to the airport). Buy before boarding: at stop machines, with the Transport for Edinburgh app, or by contactless.",
+  "lines": [
+    {
+      "id": "ledinburgh_trams",
+      "name": "Edinburgh Trams (Newhaven ↔ Airport)",
+      "color": "#B5121B",
+      "code": "Tram",
+      "stations": [
+        ["Newhaven",55.98,-3.1887],
+        ["Ocean Terminal",55.9805,-3.1773],
+        ["Port of Leith",55.978,-3.1659],
+        ["The Shore",55.9748,-3.167],
+        ["Foot of the Walk",55.9707,-3.1712],
+        ["Balfour Street",55.9653,-3.1763],
+        ["McDonald Road",55.9606,-3.1816],
+        ["Picardy Place",55.9567,-3.1871],
+        ["St Andrew Square",55.9544,-3.1922],
+        ["Princes Street",55.9517,-3.1982],
+        ["West End",55.9484,-3.2121],
+        ["Haymarket",55.9458,-3.22],
+        ["Murrayfield Stadium",55.9419,-3.2375],
+        ["Balgreen",55.938,-3.2526],
+        ["Saughton",55.9322,-3.276],
+        ["Bankhead",55.9288,-3.2942],
+        ["Edinburgh Park Station",55.9273,-3.3074],
+        ["Edinburgh Park Central",55.9316,-3.3147],
+        ["Gyle Centre",55.9382,-3.3187],
+        ["Edinburgh Gateway",55.9404,-3.3221],
+        ["Gogarburn",55.9379,-3.3327],
+        ["Ingliston Park & Ride",55.94,-3.3544],
+        ["Edinburgh Airport",55.9476,-3.3605]
+      ]
+    }
+  ],
+  "hotels": [
+    {"name":"Hilton Edinburgh Carlton","lat":55.9507,"lng":-3.1875,"area":"Edinburgh Waverley","rating":4.1,"ratingCount":3040,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hotel Indigo Edinburgh - Princes Street","lat":55.9532,"lng":-3.1908,"area":"Edinburgh Waverley","rating":4.2,"ratingCount":741,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"The Balmoral Hotel","lat":55.9528,"lng":-3.1895,"area":"Edinburgh Waverley","rating":4.6,"ratingCount":5849,"stars":5,"priceTier":4},
+    {"name":"Motel One Edinburgh-Princes","lat":55.9535,"lng":-3.19,"area":"Edinburgh Waverley","rating":4.4,"ratingCount":1822,"stars":3,"priceTier":2},
+    {"name":"Travelodge Edinburgh Central Waterloo Place","lat":55.9537,"lng":-3.1876,"area":"Edinburgh Waverley","rating":4,"ratingCount":3078,"stars":2,"priceTier":2},
+    {"name":"Radisson Collection Hotel, Royal Mile Edinburgh","lat":55.9491,"lng":-3.1928,"area":"Old Town","rating":4.4,"ratingCount":3653,"stars":4,"priceTier":4,"brandAnchor":true},
+    {"name":"Apex City of Edinburgh Hotel","lat":55.9474,"lng":-3.1954,"area":"Old Town","rating":4.3,"ratingCount":4303,"stars":4,"priceTier":3},
+    {"name":"Apex Grassmarket Hotel","lat":55.9469,"lng":-3.1965,"area":"Old Town","rating":4.1,"ratingCount":2282,"stars":4,"priceTier":3},
+    {"name":"Wilde Aparthotels Edinburgh Grassmarket","lat":55.947,"lng":-3.2,"area":"Old Town","rating":4.7,"ratingCount":1890,"stars":4,"priceTier":3},
+    {"name":"Castle Rock Hostel","lat":55.9482,"lng":-3.1959,"area":"Old Town","rating":4.5,"ratingCount":2105,"stars":1,"priceTier":1},
+    {"name":"InterContinental Edinburgh The George","lat":55.9541,"lng":-3.1965,"area":"New Town","rating":4.4,"ratingCount":3054,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Kimpton Charlotte Square","lat":55.9516,"lng":-3.2058,"area":"New Town","rating":4.5,"ratingCount":1527,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"The Caledonian Edinburgh, Curio Collection by Hilton","lat":55.9496,"lng":-3.2075,"area":"New Town","rating":4.4,"ratingCount":6756,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"ibis Styles Edinburgh St Andrew Square","lat":55.9546,"lng":-3.1948,"area":"New Town","rating":4.5,"ratingCount":3314,"stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"hub by Premier Inn Edinburgh City Centre (Rose Street)","lat":55.9526,"lng":-3.1977,"area":"New Town","rating":4.5,"ratingCount":2533,"stars":3,"priceTier":2},
+    {"name":"voco Edinburgh - Haymarket","lat":55.9468,"lng":-3.2116,"area":"Haymarket","rating":4.4,"ratingCount":471,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Sheraton Grand Hotel & Spa, Edinburgh","lat":55.947,"lng":-3.2077,"area":"Haymarket","rating":4.4,"ratingCount":4180,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"The Hoxton, Edinburgh","lat":55.947,"lng":-3.2171,"area":"Haymarket","rating":4.5,"ratingCount":232,"stars":4,"priceTier":3},
+    {"name":"Point A Hotel Edinburgh Haymarket","lat":55.9462,"lng":-3.2107,"area":"Haymarket","rating":4.4,"ratingCount":1167,"stars":2,"priceTier":2},
+    {"name":"Holiday Inn Express Edinburgh - Leith Waterfront","lat":55.9788,"lng":-3.1795,"area":"Leith","rating":4.1,"ratingCount":2003,"stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Ocean Mist Leith","lat":55.9768,"lng":-3.1697,"area":"Leith","rating":4.9,"ratingCount":877,"stars":4,"priceTier":3},
+    {"name":"Fingal","lat":55.9792,"lng":-3.1691,"area":"Leith","rating":4.9,"ratingCount":1392,"stars":5,"priceTier":4}
+  ],
+  "sights": [
+    {
+      "name": "The Real Mary King's Close",
+      "lat": 55.95,
+      "lng": -3.1904,
+      "note": "Guided tours led by costumed characters through a warren of 17th-century streets sealed beneath the City Chambers on the Royal Mile.",
+      "hours": "Tours ~9:30 AM–9:00 PM daily (shorter in winter)",
+      "rating": 4.5,
+      "ticketUrl": "https://www.realmarykingsclose.com",
+      "bookAhead": true
+    },
+    {
+      "name": "Edinburgh Castle",
+      "lat": 55.9486,
+      "lng": -3.1999,
+      "note": "The fortress on an extinct volcano above the city, home to the Scottish Crown Jewels, the Stone of Destiny and the one o'clock gun.",
+      "hours": "9:30 AM–6:00 PM Apr–Sep, 9:30 AM–5:00 PM Oct–Mar; last entry 1 h before close",
+      "rating": 4.4,
+      "ticketUrl": "https://www.edinburghcastle.scot",
+      "bookAhead": true
+    },
+    {
+      "name": "Arthur's Seat",
+      "lat": 55.9441,
+      "lng": -3.1618,
+      "note": "The 251 m summit of an ancient volcano in Holyrood Park, a steep 45-minute hike from the Palace for a sweeping view over the city and the Firth of Forth.",
+      "hours": "Open 24 hours",
+      "rating": 4.7
+    },
+    {
+      "name": "Royal Yacht Britannia",
+      "lat": 55.9823,
+      "lng": -3.177,
+      "note": "The Queen's former floating residence, moored at Ocean Terminal in Leith, where you walk from the royal apartments to the engine room and crew quarters.",
+      "hours": "~9:30 AM–4:30 PM daily (to ~5:00 PM in summer)",
+      "rating": 4.7,
+      "ticketUrl": "https://www.royalyachtbritannia.co.uk"
+    },
+    {
+      "name": "National Museum of Scotland",
+      "lat": 55.947,
+      "lng": -3.1893,
+      "note": "A free museum covering Scottish history, world cultures, natural history and science, with Dolly the sheep and a rooftop terrace view of the castle.",
+      "hours": "10:00 AM–5:00 PM daily; free",
+      "rating": 4.7,
+      "ticketUrl": "https://www.nms.ac.uk"
+    },
+    {
+      "name": "Johnnie Walker Princes Street",
+      "lat": 55.95,
+      "lng": -3.2062,
+      "note": "An eight-floor whisky experience in a former department store at the west end of Princes Street, with tasting tours and a rooftop bar facing the castle.",
+      "hours": "Tours ~10:00 AM–8:00 PM daily; rooftop bar later",
+      "rating": 4.9,
+      "bookAhead": true
+    },
+    {
+      "name": "Camera Obscura and World of Illusions",
+      "lat": 55.949,
+      "lng": -3.1957,
+      "note": "A Victorian rooftop camera obscura that projects live views of the city, above five floors of hands-on optical illusions just below the castle.",
+      "hours": "~9:00 AM–8:00 PM daily (later in summer)",
+      "rating": 4.6,
+      "ticketUrl": "https://www.camera-obscura.co.uk"
+    },
+    {
+      "name": "Palace of Holyroodhouse",
+      "lat": 55.9527,
+      "lng": -3.1722,
+      "note": "The King's official residence in Scotland at the foot of the Royal Mile, with Mary Queen of Scots' chambers and the ruined Holyrood Abbey.",
+      "hours": "9:30 AM–6:00 PM Apr–Oct, 9:30 AM–4:30 PM Nov–Mar (closed Tue–Wed in winter and during royal visits)",
+      "rating": 4.5,
+      "ticketUrl": "https://www.rct.uk/visit/palace-of-holyroodhouse"
+    },
+    {
+      "name": "Royal Mile",
+      "lat": 55.9503,
+      "lng": -3.1866,
+      "note": "The Old Town's spine, running downhill from the castle to Holyrood past closes, churches, pubs and street performers.",
+      "hours": "Street, always open; shops ~10:00 AM–6:00 PM",
+      "rating": 4.5
+    },
+    {
+      "name": "Calton Hill",
+      "lat": 55.9551,
+      "lng": -3.1822,
+      "note": "A short climb from Princes Street to the unfinished National Monument and Nelson Monument, the classic free sunset view over the city.",
+      "hours": "Open 24 hours",
+      "rating": 4.6
+    },
+    {
+      "name": "The Scotch Whisky Experience",
+      "lat": 55.9488,
+      "lng": -3.1964,
+      "note": "A barrel-ride introduction to whisky-making next to the castle esplanade, ending in a tasting beside a vast collection of bottles.",
+      "hours": "~10:00 AM–6:00 PM daily",
+      "rating": 4.5,
+      "ticketUrl": "https://www.scotchwhiskyexperience.co.uk"
+    },
+    {
+      "name": "Dean Village",
+      "lat": 55.9524,
+      "lng": -3.2178,
+      "note": "A former mill village of stone houses tucked in the Water of Leith gorge, a ten-minute walk from the West End.",
+      "hours": "Neighbourhood, always open",
+      "rating": 4.5
+    },
+    {
+      "name": "Royal Botanic Garden Edinburgh",
+      "lat": 55.9653,
+      "lng": -3.209,
+      "note": "Seventy acres of gardens north of Stockbridge with a rock garden, Chinese hillside and skyline views; entry to the gardens is free.",
+      "hours": "10:00 AM–6:00 PM Mar–Sep, to 5:00 PM Feb/Oct, to 4:00 PM Nov–Jan; glasshouses closed for restoration",
+      "rating": 4.6,
+      "ticketUrl": "https://www.rbge.org.uk"
+    },
+    {
+      "name": "Princes Street Gardens",
+      "lat": 55.9507,
+      "lng": -3.2005,
+      "note": "Gardens in the old loch valley beneath the castle, with the Ross Fountain and the Christmas market in winter.",
+      "hours": "Daily ~7:00 AM–dusk (to 10:00 PM in summer)",
+      "rating": 4.5
+    },
+    {
+      "name": "St Giles' Cathedral",
+      "lat": 55.9495,
+      "lng": -3.1909,
+      "note": "The High Kirk of Edinburgh on the Royal Mile, with a crown-shaped spire and the carved Thistle Chapel; entry is free.",
+      "hours": "Mon–Sat 10:00 AM–6:00 PM (to 5:00 PM in winter), Sun 1:00–5:00 PM",
+      "rating": 4.5
+    },
+    {
+      "name": "Scottish National Gallery",
+      "lat": 55.9509,
+      "lng": -3.1959,
+      "note": "A free gallery on the Mound holding Scottish and European masters from Raphael and Titian to Raeburn and Monet.",
+      "hours": "10:00 AM–5:00 PM daily; free",
+      "rating": 4.5,
+      "ticketUrl": "https://www.nationalgalleries.org"
+    },
+    {
+      "name": "Grassmarket",
+      "lat": 55.9475,
+      "lng": -3.196,
+      "note": "An old cattle-market square under the castle crag, lined with pubs and a Saturday street-food market, and the bottom of colourful Victoria Street.",
+      "hours": "Square, always open; pubs to ~1:00 AM",
+      "rating": 4.4
+    },
+    {
+      "name": "Scott Monument",
+      "lat": 55.9524,
+      "lng": -3.1933,
+      "note": "A 61 m Gothic spire on Princes Street honouring Sir Walter Scott; 287 narrow steps lead to galleries looking over Waverley and the Old Town.",
+      "hours": "~10:00 AM–7:00 PM Apr–Sep, ~10:00 AM–4:00 PM Oct–Mar",
+      "rating": 4.4
+    }
+  ],
+  "railStations": [
+    {
+      "name": "Edinburgh Waverley",
+      "lat": 55.952,
+      "lng": -3.189,
+      "note": "Edinburgh's main station in the valley between the Old and New Towns: LNER, Lumo and CrossCountry to London King's Cross (~4h20m), Avanti to Birmingham, ScotRail to Glasgow (~50 min), Stirling, Inverness and Aberdeen, plus the Caledonian Sleeper. The Princes Street and St Andrew Square tram stops are a 3–5 min walk up the steps.",
+      "hours": "Station open ~4:30 AM–~1:00 AM; trains run to individual timetables. Trams ~5:00 AM–~12:00 AM."
+    },
+    {
+      "name": "Haymarket",
+      "lat": 55.9458,
+      "lng": -3.2184,
+      "note": "Edinburgh's second station, 1.5 km west of Waverley: most ScotRail services to Glasgow, Fife, Aberdeen and Inverness and many LNER/CrossCountry trains stop here, and the Haymarket tram stop is right outside.",
+      "hours": "Station open ~5:00 AM–~12:30 AM; trains run to individual timetables. Trams ~5:00 AM–~12:00 AM."
+    }
+  ],
+  "airports": [
+    {
+      "name": "Edinburgh Airport",
+      "code": "EDI",
+      "lat": 55.95,
+      "lng": -3.363,
+      "transitNote": "The tram (on the map) runs from the stop outside the terminal to Haymarket in ~25 min and Princes Street in ~35 min, every ~7 min (Airport Zone fare ~£7.50 single). Airlink 100 bus to Waverley takes ~30 min and runs 24 h (not on the map).",
+      "hours": "Trams: first ~5:00 AM (~6:30 AM Sun), last ~11:45 PM. Airlink 100 runs 24 h."
+    }
+  ]
+}

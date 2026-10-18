@@ -1,0 +1,214 @@
+{
+  "name": "Honolulu",
+  "country": "USA",
+  "flag": "🇺🇸",
+  "center": [21.31,-157.89],
+  "zoom": 12,
+  "operatingHours": "Skyline rail runs daily ~4:00 AM–10:30 PM, every ~10 min, on its 13 open stations from East Kapolei to Kahauiki (Middle Street–Kalihi Transit Center) via the airport and Pearl Harbor. It does not yet reach Downtown, Ala Moana or Waikiki (Civic Center extension due ~2031); TheBus covers those, some routes 24 hours.",
+  "fareInfo": "Skyline and TheBus share fares: $3 adult per ride on a HOLO card (card $2) with free transfers for 2.5 hours; fares cap at $7.50/day and $80/month (2026). Tap the HOLO card at the station gate before boarding.",
+  "lines": [
+    {
+      "id": "lskyline",
+      "name": "Skyline",
+      "color": "#134574",
+      "code": "S",
+      "stations": [
+        ["East Kapolei",21.3454,-158.0511],
+        ["University of Hawaiʻi at West Oʻahu",21.3586,-158.0512],
+        ["Ho'opili",21.3669,-158.0453],
+        ["West Loch",21.3782,-158.0227],
+        ["Waipahu Transit Center",21.3841,-158.0038],
+        ["Leeward Community College",21.3943,-157.9856],
+        ["Pearl Highlands",21.3965,-157.9795],
+        ["Pearlridge",21.3839,-157.9471],
+        ["Aloha Stadium",21.3709,-157.934],
+        ["Joint Base Pearl Harbor–Hickam",21.3521,-157.9354],
+        ["Daniel K. Inouye International Airport",21.3338,-157.921],
+        ["Lagoon Drive",21.3328,-157.9013],
+        ["Middle Street–Kalihi Transit Center",21.3327,-157.8889]
+      ]
+    }
+  ],
+  "hotels": [
+    {"name":"Embassy Suites by Hilton Waikiki Beach Walk","lat":21.2791,"lng":-157.8316,"area":"Waikiki","rating":4.5,"ratingCount":5394,"stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Hilton Garden Inn Waikiki Beach","lat":21.2789,"lng":-157.8251,"area":"Waikiki","rating":4.2,"ratingCount":2778,"stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"OUTRIGGER Reef Waikiki Beach Resort","lat":21.2783,"lng":-157.8328,"area":"Waikiki","rating":4.5,"ratingCount":8779,"stars":4,"priceTier":3},
+    {"name":"Halekulani Hotel","lat":21.278,"lng":-157.8319,"area":"Waikiki","rating":4.6,"ratingCount":3903,"stars":5,"priceTier":4},
+    {"name":"Hostelling International Waikiki","lat":21.2765,"lng":-157.8244,"area":"Waikiki","rating":4.1,"ratingCount":245,"stars":1,"priceTier":1},
+    {"name":"The Modern Honolulu (Hilton Vacation Club)","lat":21.2844,"lng":-157.8388,"area":"Ala Moana","rating":4.4,"ratingCount":5143,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Prince Waikiki","lat":21.2862,"lng":-157.84,"area":"Ala Moana","rating":4.7,"ratingCount":5487,"stars":4,"priceTier":4},
+    {"name":"Ilikai Hotel & Luxury Suites","lat":21.2843,"lng":-157.8385,"area":"Ala Moana","rating":4.2,"ratingCount":2997,"stars":3,"priceTier":3},
+    {"name":"The Equus","lat":21.2866,"lng":-157.8392,"area":"Ala Moana","rating":4.4,"ratingCount":2365,"stars":3,"priceTier":2},
+    {"name":"AC Hotel Honolulu","lat":21.3094,"lng":-157.8599,"area":"Downtown Honolulu","rating":4,"ratingCount":49,"stars":4,"priceTier":3,"brandAnchor":true}
+  ],
+  "sights": [
+    {
+      "name": "Diamond Head State Monument",
+      "lat": 21.2637,
+      "lng": -157.8058,
+      "note": "An extinct volcanic crater whose steep summit trail ends at old military bunkers with a sweeping view over Waikiki.",
+      "hours": "Daily 6 AM–6 PM (last entry ~4:30 PM); timed entry + parking reservation required for non-residents",
+      "rating": 4.6,
+      "ticketUrl": "https://gostateparks.hawaii.gov/diamondhead",
+      "bookAhead": true
+    },
+    {
+      "name": "Pearl Harbor National Memorial",
+      "lat": 21.3676,
+      "lng": -157.9392,
+      "note": "The National Park Service visitor centre and museums telling the story of the 7 December 1941 attack.",
+      "hours": "Visitor center daily 7 AM–5 PM",
+      "rating": 4.7,
+      "ticketUrl": "https://www.nps.gov/perl"
+    },
+    {
+      "name": "USS Arizona Memorial",
+      "lat": 21.3649,
+      "lng": -157.95,
+      "note": "A white memorial straddling the sunken battleship, reached by Navy shuttle boat after a short film at the visitor centre.",
+      "hours": "Programs daily ~8 AM–3:30 PM every ~15 min; boats may be cancelled in high wind",
+      "rating": 4.7,
+      "ticketUrl": "https://www.nps.gov/perl",
+      "bookAhead": true
+    },
+    {
+      "name": "ʻIolani Palace",
+      "lat": 21.3068,
+      "lng": -157.859,
+      "note": "The restored 1880s home of Hawaii's last monarchs, the only royal palace on US soil.",
+      "hours": "Tue–Sat 9 AM–4 PM; closed Sun–Mon",
+      "rating": 4.6,
+      "ticketUrl": "https://www.iolanipalace.org",
+      "bookAhead": true
+    },
+    {
+      "name": "Waikiki Beach",
+      "lat": 21.2766,
+      "lng": -157.827,
+      "note": "Honolulu's famous hotel-lined crescent of sand, good for gentle surf lessons and sunset views of Diamond Head.",
+      "hours": "Open 24 hours",
+      "rating": 4.2
+    },
+    {
+      "name": "Hanauma Bay Nature Preserve",
+      "lat": 21.269,
+      "lng": -157.6938,
+      "note": "A sheltered volcanic-crater bay with a coral reef, Oahu's best-known snorkelling spot (about 25 min east of Waikiki).",
+      "hours": "Wed–Sun ~6:45 AM–4 PM; closed Mon–Tue; online reservation required; temporary closures for sewer works expected into 2027",
+      "rating": 4.4,
+      "bookAhead": true
+    },
+    {
+      "name": "Manoa Falls",
+      "lat": 21.3247,
+      "lng": -157.8012,
+      "note": "A muddy rainforest walk at the head of Manoa Valley to a tall, thin waterfall (pin at trailhead; falls ~1.3 km up).",
+      "hours": "Trail daily dawn–dusk; paid parking at trailhead",
+      "rating": 4.4
+    },
+    {
+      "name": "Bishop Museum",
+      "lat": 21.333,
+      "lng": -157.8711,
+      "note": "Hawaii's state museum of natural and cultural history, with royal heirlooms in the grand Hawaiian Hall and a planetarium.",
+      "hours": "Daily 9 AM–5 PM",
+      "rating": 4.5,
+      "ticketUrl": "https://www.bishopmuseum.org"
+    },
+    {
+      "name": "Battleship Missouri Memorial",
+      "lat": 21.3624,
+      "lng": -157.9539,
+      "note": "The battleship on whose deck Japan's WWII surrender was signed, moored on Ford Island near the Arizona.",
+      "hours": "Daily ~8 AM–4 PM; shuttle from Pearl Harbor visitor center",
+      "rating": 4.7,
+      "ticketUrl": "https://ussmissouri.org"
+    },
+    {
+      "name": "Aloha Stadium Swap Meet & Marketplace",
+      "lat": 21.372,
+      "lng": -157.929,
+      "note": "A big open-air flea market of souvenirs, aloha shirts and snacks, now in the stadium's lower parking lot near Hālawa Skyline station.",
+      "hours": "Wed & Sat 8 AM–3 PM, Sun 6:30 AM–3 PM; $2 entry (cash)",
+      "rating": 4.2
+    },
+    {
+      "name": "U.S. Army Museum of Hawaii",
+      "lat": 21.2797,
+      "lng": -157.8343,
+      "note": "A free military history museum inside a 1911 coastal artillery battery at Fort DeRussy, steps from the beach.",
+      "hours": "Tue–Sat ~10 AM–5 PM; free",
+      "rating": 4.5
+    },
+    {
+      "name": "Ala Moana Beach Park",
+      "lat": 21.2897,
+      "lng": -157.8486,
+      "note": "A long, calm, reef-protected beach park popular with local families, with lawns and picnic spots opposite Ala Moana Center.",
+      "hours": "Daily ~4 AM–10 PM",
+      "rating": 4.3
+    },
+    {
+      "name": "Pearl Harbor Aviation Museum",
+      "lat": 21.3591,
+      "lng": -157.9617,
+      "note": "Historic WWII hangars on Ford Island displaying warplanes, with bullet holes from the 1941 attack still in the windows.",
+      "hours": "Daily ~8 AM–4 PM; shuttle from Pearl Harbor visitor center",
+      "rating": 4.4,
+      "ticketUrl": "https://www.pearlharboraviationmuseum.org"
+    },
+    {
+      "name": "USS Bowfin Submarine Museum & Park",
+      "lat": 21.3691,
+      "lng": -157.9386,
+      "note": "A WWII submarine you can climb through, plus a museum of undersea warfare beside the Pearl Harbor visitor centre.",
+      "hours": "Daily ~7 AM–5 PM",
+      "rating": 4.6,
+      "ticketUrl": "https://www.bowfin.org"
+    },
+    {
+      "name": "National Memorial Cemetery of the Pacific",
+      "lat": 21.3122,
+      "lng": -157.8462,
+      "note": "A military cemetery set inside Punchbowl Crater, with a memorial and lookout over downtown.",
+      "hours": "Daily 8 AM–5:30 PM (to 6:30 PM Mar–Sep); free",
+      "rating": 4.7
+    },
+    {
+      "name": "Honolulu Museum of Art",
+      "lat": 21.304,
+      "lng": -157.8486,
+      "note": "Hawaii's largest art museum, with Asian, Pacific and Western collections around peaceful courtyards; Shangri La tours leave from here.",
+      "hours": "Wed–Sun ~10 AM–6 PM (to 9 PM Fri–Sat); closed Mon–Tue",
+      "rating": 4.6,
+      "ticketUrl": "https://honolulumuseum.org"
+    },
+    {
+      "name": "Magic Island",
+      "lat": 21.2858,
+      "lng": -157.8487,
+      "note": "A man-made peninsula with a calm lagoon and a free sunset spot looking back along the Waikiki skyline.",
+      "hours": "Daily ~4 AM–10 PM",
+      "rating": 4.5
+    },
+    {
+      "name": "Saturday Farmers' Market KCC",
+      "lat": 21.2709,
+      "lng": -157.801,
+      "note": "A lively Saturday-morning market of local produce and island food stalls on the Kapiʻolani Community College campus below Diamond Head.",
+      "hours": "Saturdays ~7:30–11 AM only",
+      "rating": 4.1
+    }
+  ],
+  "railStations": [],
+  "airports": [
+    {
+      "name": "Daniel K. Inouye International Airport",
+      "code": "HNL",
+      "lat": 21.3245,
+      "lng": -157.9251,
+      "transitNote": "Skyline's Lelepaua (Airport) station, on this map, sits by Terminal 2 and links via a walkway from the terminal parking garage, but rail doesn't reach Waikiki: take the W Line bus (TheBus, limited-stop, ~45–60 min, $3 HOLO; luggage must fit on your lap or under the seat) or a taxi/rideshare (~$45–60, 25–40 min).",
+      "hours": "Skyline: first train ~4:00 AM, last ~10:30 PM"
+    }
+  ]
+}

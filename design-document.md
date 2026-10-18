@@ -109,9 +109,10 @@ station/airport/railway stop you tap.
 
 - **Subway lines**: real official colors, toggleable per line, station
   dots clickable.
-- **Transfers** (2026-10-16): metro-map style, as Audrey asked: a white
-  circle with a dark border at each line's platform, joined by a white
-  bar with a dark border, marks a station where you change lines inside
+- **Transfers** (2026-10-16, restyled 2026-10-17): like LA Metro's
+  Expo/Crenshaw mark: a white circle at each line's platform joined by a
+  white bar, drawn as one smooth shape with only a thin, soft grey-blue
+  outline on the outer edge (no line where circles meet the bar). It marks a station where you change lines inside
   (one label per interchange); a dashed grey line
   joins two separate stations a short walk apart. The station popup says
   which lines you can change to, or how far the walk is. Worked out in
@@ -126,7 +127,13 @@ station/airport/railway stop you tap.
   Mexico City, and batch 5 (2026-10-16): Shenzhen, Guangzhou, Xi'an,
   Busan, Kuala Lumpur, Dubai, Delhi, Munich, Budapest, Copenhagen,
   Stockholm, Athens, Brussels, San Francisco, Los Angeles, Boston,
-  Toronto, Montreal, São Paulo, Buenos Aires (45 cities).
+  Toronto, Montreal, São Paulo, Buenos Aires, and batch 6 (2026-10-17):
+  Kyoto, Macau, Chengdu, Ho Chi Minh City, Hanoi, Mumbai, Jakarta,
+  Riyadh, Doha, Jerusalem, Cairo, Dublin, Edinburgh, Florence, Miami,
+  Las Vegas, Vancouver, Rio de Janeiro, Sydney, Melbourne. Batch 7 (US, 2026-10-18):
+  Seattle, Philadelphia, San Diego, New Orleans, Atlanta. Batch 8 (US, 2026-10-18):
+  Portland, Honolulu, Denver, Dallas, Baltimore, Minneapolis–Saint Paul, Salt Lake City, Houston, Phoenix, St. Louis, Pittsburgh, Charlotte (82 cities).
+  City-list groups: Asia, Europe, Americas, Africa, Oceania.
 - **City picker** (search redesigned 2026-10-16): a search box that
   matches city name, country, other names (`aliases` in `cities.json`:
   local script, nicknames like NYC) and airport codes (CDG, KIX), with
@@ -163,6 +170,10 @@ station/airport/railway stop you tap.
   railway icon draws its walk-radius circle. Tapping elsewhere on the map
   clears all open circles. Tapping the same icon again also clears just
   that one.
+- **Revealed hotels stay (decided 2026-10-17)**: a click-to-reveal hotel
+  that any circle has shown stays on the map and in the hotel list (light
+  green) after the circle closes, until the page reloads. The star filter
+  still applies to it.
 - **Color logic**: default/curated hotels = light green diamond always.
   Hotels revealed by a **subway** station's circle = dark green (spotlight).
   Hotels revealed by an **airport/rail** circle = light green (treated as
@@ -178,7 +189,9 @@ station/airport/railway stop you tap.
   (curated or click-to-reveal) is within the walk radius of the clicked
   point and live search is off, a card lists the **3 nearest always-
   visible curated hotels** (stars, area, walk time up to 2 km, otherwise
-  km) — tapping one flies to it and opens its popup — plus a **"Search
+  km; picks respect the star filter) — the map flies to fit the station
+  and those 3 hotels above the card, so they're visible on the map, not
+  just listed; tapping one flies to it and opens its popup — plus a **"Search
   all hotels near <station>"** button linking to a Booking.com search for
   that station and city (new tab). $0, no backend; the link is where an
   affiliate ID goes later. Closes with ×, a map tap, or the next
@@ -485,6 +498,204 @@ they're done.
 ---
 
 ## Changelog
+
+### 2026-10-18 — batch 8: more US cities overnight (82 total)
+- Audrey asked for as many more US cities as possible overnight. Added so
+  far: Portland (MAX Blue/Red/Green/Yellow/Orange, Streetcar NS/A/B).
+- Gaps: Portland airport hotels are shuttle or Cascade Station hotels
+  1.6-2.8 km out; Union Station 4 picks; Nob Hill 3; MAX Green Line's
+  downtown segment and Blue Line's Gateway-Ruby Junction segment are
+  missing from OSM.
+- Honolulu: Skyline (East Kapolei to Middle Street; airport served, not
+  yet Downtown or Waikiki), with Waikiki as an off-rail area. Gaps:
+  airport 0 hotels (none rated 4.0+); Downtown 1; Ala Moana 4.
+- Denver: RTD A Line (airport), B/G/N commuter lines and D/E/H/L/R/W
+  light rail; Amtrak lines left off. Gaps: airport 1 hotel (Westin);
+  RiNo 2; Downtown no budget pick.
+- Dallas: DART Red/Blue/Green/Orange light rail, M-Line trolley, Dallas
+  Streetcar; the Silver Line commuter rail (opened 2025) is not drawn
+  yet. Gaps: DFW 2 hotels and Love Field 2 shuttle hotels; Union Station
+  3; Uptown picks all luxury; no budget picks at Union Station or the
+  Arts District.
+- Baltimore: Metro SubwayLink and Light RailLink (BWI and Glen Burnie
+  branches). Gaps: Penn Station 1 hotel (no light-rail stop drawn
+  there); BWI hotels are shuttle hotels 2.3-2.8 km out; Inner Harbor 3.
+- Minneapolis–Saint Paul: METRO Blue and Green light rail (Twin Cities).
+  Gaps: airport hotels are 3 shuttle hotels about 2-3 km out; Saint Paul
+  Union Depot 1; University 2.
+- Salt Lake City: TRAX Blue/Red/Green and S-Line streetcar. Gaps: Salt
+  Lake Central 1 hotel; airport hotels are 3 shuttle hotels 2.2-2.9 km
+  out; The Gateway has no budget pick.
+- Houston: METRORail Red/Green/Purple (no airport rail). Gaps: Amtrak
+  station 0 hotels; IAH 1 (terminal Marriott); Museum District 1; Space
+  Center Houston is 40 km out, car needed.
+- Phoenix: Valley Metro A/B light rail, Tempe Streetcar, PHX Sky Train.
+  Gaps: airport hotels are around the 44th St Sky Train interchange
+  (none on airport grounds); Midtown 3.
+- St. Louis: MetroLink Red (airport) and Blue. Gaps: Gateway Station 2;
+  Central West End 1; Delmar Loop 1; Downtown has no budget pick.
+- Pittsburgh: The T Red/Blue/Silver light rail (airport by 28X bus, not
+  drawn). Gaps: airport hotels are 3 shuttle hotels 2-3 km out; North
+  Shore has no tier-4 pick; only 2 neighbourhood areas on the T.
+- Charlotte: LYNX Blue light rail and CityLYNX Gold streetcar (airport
+  by bus, not drawn). Gaps: Amtrak station 0 hotels; airport hotels are
+  4 shuttle hotels 2.7-3.2 km out; University City 2.
+
+### 2026-10-18 — station clicks always pull in nearby hotels
+- Audrey: in Seattle, a station with any curated pick in walking distance
+  showed no map-data hotels. Now every station click (like sight clicks)
+  lists all hotels in walking distance: our picks first (sunflower, rated),
+  then OpenStreetMap hotels, regardless of whether picks are nearby.
+
+### 2026-10-18 — batch 7: five more US cities (70 total)
+- Audrey asked for more US cities. Added the most-visited US cities with
+  real city rail that weren't on the site: Seattle (Link 1/2, Monorail,
+  two streetcars), Philadelphia (SEPTA L, B, T1-T5 trolleys, PATCO;
+  suburban D/M lines and NJ River Line left off), San Diego (Trolley
+  Blue/Orange/Green/Copper), New Orleans (St. Charles, Canal x2,
+  Riverfront streetcars; Rampart line missing in OSM), Atlanta (MARTA
+  Red/Gold/Blue/Green, Atlanta Streetcar). Each has curated hotels and
+  sights plus the OpenStreetMap hotel layer. Orlando skipped (no city rail).
+- Gaps: Atlanta Peachtree Station 0 hotels; Seattle airport 2; Philadelphia
+  30th Street 2 (no brand/budget) and PHL 2 shuttle hotels ~2.5 km out;
+  San Diego airport hotels 1.7-2.2 km out (free shuttles) and Mission
+  Valley 3; New Orleans airport 1 shuttle hotel, Union Passenger Terminal 2.
+  Philadelphia and New Orleans show every street stop on trolley lines.
+
+### 2026-10-18 — second station click hides its hotels
+- Audrey: clicking the same station again should hide the hotels it
+  showed, like a toggle. Turning a station's walk circle off now also
+  removes its map-data hotels, the hotel card and any dashed lines (only
+  when that station was the last lookup). Clicking again brings them back.
+- Same for sights (Audrey): a second click on a sight closes its popup and
+  hides its hotels, card and dashed walk circle.
+- Station dots were hard to hit (Audrey): each clickable station now has an
+  invisible 16px ring around its dot that takes the same click. Dots
+  went from 5px to 6px radius (Audrey). The ring stays invisible when
+  lines are toggled.
+- Clicking a station no longer opens its popup (Audrey); it only shows the
+  walk circle and the hotel card. Airports and rail stations keep theirs.
+  Clicking empty map (which already turned station circles off) now also
+  hides the station's hotels and card.
+
+### 2026-10-18 — kawaii hotel icon
+- Audrey asked for a Japanese cartoon-style hotel logo that reads
+  instantly as "hotel". Six options drawn (A smiling hotel, B sleepy bed,
+  C little inn, D desk bell, E room key, F ryokan). Map-data hotels now
+  show B3, the sleepy bed: a kitty-eared sleeper tucked under a blanket
+  with "zz", head redrawn per Audrey (pink
+  blanket = hotel, mint = hostel), anchored at its base. Replaces the bed
+  badge; the card legend shows the same icon.
+- Curated picks: Audrey asked for an oil-paint style; nine options drawn
+  (Monet M1-M3, Van Gogh V1-V3, Sisley S1-S3). Chosen: V3, a Van Gogh
+  sunflower with an "H" on swirling blue, in a gold ring. Replaces the
+  green diamond; 28px normally, 34px inside a walk circle, pin badge kept.
+  Served as one data-URI image so many markers stay light.
+- Sights: Audrey asked for a more fun Van Gogh-style icon; nine pin options
+  drawn (Van Gogh P1-P3, Sisley Q1-Q3, Renoir R1-R3). Chosen: P2, a map pin
+  with a painted yellow camera on Starry Night swirls and a gold rim
+  (warm red version for traveller-added sights). Replaces the plain
+  blue/red pins.
+
+### 2026-10-17 — hotel card out of the way; hotels near sights
+- Audrey: the hotel list covered the map after a station click. The card
+  now docks top-right on desktop (bottom on phones, max ~38% height),
+  shows 3 rows with "Show all", and has a fold button (–) that shrinks it
+  to its title. The map frames the hotels beside the card, not under it.
+- Audrey: clicking a sight should show hotels around it too. Opening a
+  sight now draws a dashed walk circle around it and lists hotels within
+  the walk time: our picks first (★, rated), then OpenStreetMap hotels
+  (unrated). Free, same saved data.
+- Changing the walk time (slider or preset) re-runs the hotel lookup for
+  the last clicked station or sight, so a station with nothing at 10 min
+  can find hotels at 15 min; the dashed nearest-pick lines are removed.
+- No hotels at all (picks or map data) within the walk time: no more
+  dashed lines to far-away picks (Audrey). The card says "No hotels within
+  N min walk" and offers longer-walk buttons (15/20 min, up to the slider
+  max) that re-run the lookup, plus the Booking.com search link.
+- Map-data hotels show as a small rounded "bed" badge (lavender for
+  hotels, peach for hostels) instead of grey dots, per Audrey.
+
+### 2026-10-17 — every station shows hotels in walking distance (free)
+- Audrey expected a station click to find real hotels within walking
+  distance, not the far-away nearest picks. Live search stays off (no
+  backend to hide a paid API key). Audrey chose "saved map data": every
+  OpenStreetMap hotel/hostel across each city's whole rail area is saved
+  in site/data/osm/<city>.json ([lat, lng, name, stars or 0, hostel 0/1];
+  65 files, ~1.8 MB total, loaded only on first station click). Hotels we
+  already picked are left out.
+- Station click with no picks in walking distance: grey dots for every
+  saved hotel in the walk circle, a card listing the nearest 5 with walk
+  times ("not yet rated by us"), each popup links to Booking.com for
+  prices and reviews; the map frames them clear of the card. Dots stay
+  until the city changes. If even OSM has none, the old card with the 3
+  nearest picks shows.
+- Rebuild: curation/queries <city>-osmall.overpassql (station extent +
+  ~1.3 km), then build_osm step (§4).
+
+### 2026-10-17 — revealed and suggested hotels stay on the map
+- Audrey: hotels that only appear when you click a station should stay
+  on the map; the 3 nearest picks in the "no hotels nearby" card should
+  show on the map too. Free: stored data only, no live lookup.
+- Click-to-reveal hotels now stay on the map and in the list after their
+  station circle closes (until reload).
+- Nearest-hotels card: the map flies to fit the station plus the 3 picks,
+  kept clear of the card; each pick gets a name tag and a dashed blue
+  line from the station. Tags stay for every station clicked until you
+  switch city (lines only for the latest). Picks follow the star filter.
+
+### 2026-10-17 — batch 6: 20 more cities (65 total)
+- Audrey: next 20, picked by visitor numbers, not 5 per continent. Taken
+  from the top of the international-arrivals rankings, skipping places
+  with no city rail (Antalya, Cancún, Phuket, Pattaya, Venice, Bali,
+  Mecca). New city-list groups: Africa (Cairo) and Oceania (Sydney,
+  Melbourne).
+- Tram/monorail cities (Dublin Luas, Edinburgh, Florence, Melbourne, Las
+  Vegas monorail, Jerusalem light rail) draw those as their lines. Kyoto
+  adds JR Nara/Sagano, Hankyu, Kintetsu, Randen and Eizan Kurama to the
+  two subway lines; Sydney draws Sydney Trains T1–T9, Metro and light
+  rail (intercity/tour trains left off); Doha draws metro only.
+- Same §4 process and hotel floor (TripAdvisor ≥4.0 and ≥100 reviews,
+  within 800 m); never lowered to fill a gap. Validator: 0 errors.
+  Hotel/sight counts and gaps:
+  - Kyoto: 23 hotels/18 sights. Itami 1 hotel, KIX 2 (no brand); Gion no brand in 800 m. Keihan Main Line missing from lines (no usable OSM relation).
+  - Macau: 13 hotels/17 sights. Airport 0 hotels (none meet 4.0+100 reviews); Taipa Village 3, no budget.
+  - Chengdu: 10 hotels/16 sights. All 3 rail stations + Tianfu airport 0 hotels (nothing meeting floor in 800 m); Shuangliu 1.
+  - Ho Chi Minh City: 17 hotels/18 sights. Railway station 1 hotel; airport 2.
+  - Vancouver: 18/17. Pacific Central Station 0 hotels.
+  - Rio de Janeiro: 21/18. Central do Brasil and Galeão 0 hotels; Santos Dumont 2.
+  - Sydney: 27/18. All areas filled.
+  - Melbourne: 23/18. Airport 1 hotel; St Kilda 3. Fares note Victoria's half-price fares to 1 Jan 2027.
+  - Doha: 16/16. Airport 1 hotel; metro lines only (Red, Gold, Green).
+  - Jerusalem: 18/18. Ben Gurion 0 hotels (45 km away); Navon station 3.
+  - Cairo: 12/17. Ramses Station 0 hotels; airport 2; Giza 2.
+  - Dublin: 23/17. Airport 0 hotels (on-site ones under 4.0).
+  - Edinburgh: 22/18. Airport 0 hotels (on-site ones under 4.0).
+  - Florence: 19/17. Peretola airport 0 hotels.
+  - Miami: 20/15. Airport 0; MiamiCentral 1.
+  - Las Vegas: 18/15. Airport 0; Downtown/Fremont has no hotel meeting the floor, so no area.
+  - Hanoi: 19/18. Noi Bai airport 0 hotels.
+  - Mumbai: 22/18. CSMT 1, Mumbai Central 2. Metro Lines 2B, 4, 9 left off (opening unconfirmed); monorail suspended.
+  - Jakarta: 14/14 (most ranked attractions are malls). Gambir 2, Pasar Senen 1, Kota Tua 1, Halim station/airport 0, Soekarno–Hatta 2.
+  - Riyadh: 8/14. Both rail stations and the airport 0 hotels; Al Faisaliah 2.
+
+### 2026-10-17 — softer, seamless transfer marks
+- Audrey found the transfer mark's black outline too strong and the
+  inner lines (where each circle met the bar) ugly; asked for it to look
+  exactly like LA's Expo/Crenshaw mark. Now every outline piece is drawn
+  first and the white pieces on top, so only the outer edge has a line;
+  outline is 1.6 px #3b4652 instead of 3 px near-black. Then, per Audrey,
+  rounder: circles radius 8 px, joined by a narrow 5 px bar. Co-located
+  platforms still show a single circle (Audrey confirmed that's fine).
+
+### 2026-10-16 — hide/show the side panel
+- Audrey asked how to close the left panel; there was no way. Now a ◀
+  button in the panel's top-right corner hides it, and a "☰ Show panel"
+  pill at the top-left of the map brings it back. On desktop the choice
+  is remembered (`hopnest_panel_hidden_v1`).
+- Also fixes phones: under 760 px the panel was off-screen with no way to
+  open it. It now starts closed and slides over the map from the same
+  button.
 
 ### 2026-10-16 — transfer stations marked on the map
 - Audrey asked: at Lisbon's São Sebastião (Blue and Red lines), can you

@@ -1,0 +1,244 @@
+{
+  "name": "Jerusalem",
+  "country": "Israel",
+  "flag": "🇮🇱",
+  "center": [31.78,35.215],
+  "zoom": 12,
+  "operatingHours": "Light rail Red Line runs ~5:30 AM–~midnight Sunday–Thursday, every ~5–10 min. On Friday service ends ~2–3 PM before Shabbat and resumes Saturday evening ~1 hour after Shabbat ends. The Green Line is opening in stages from 2026–2027; check the operator for current sections.",
+  "fareInfo": "A single urban ride costs ~₪8 (2025 tariff) and includes free transfers between light rail and city buses for 90 minutes with a Rav-Kav card or a payment app (Rav-Kav Online, Moovit). Rav-Kav cards are sold at the Central Bus Station and light-rail ticket machines. The airport train is a separate Israel Railways fare.",
+  "lines": [
+    {
+      "id": "ll1",
+      "name": "Light Rail Red Line",
+      "jp": "הרכבת הקלה בירושלים - הקו האדום",
+      "color": "#E2231A",
+      "code": "R",
+      "stations": [
+        ["Central Station",31.7884,35.2025],
+        ["Kiryat Moshe",31.7862,35.1982],
+        ["HeHaluts",31.7828,35.1917],
+        ["Denya Square",31.7806,35.1883],
+        ["Yefe Nof",31.7769,35.1851],
+        ["Mount Herzl",31.7708,35.1816],
+        ["Shmaryahu Levin",31.7687,35.1777],
+        ["Kiryat HaYovel – West",31.767,35.1745],
+        ["HaMifletset Playground",31.762,35.1716],
+        ["Henrietta Szold – East",31.7598,35.1679],
+        ["Kiryat Menahem",31.76,35.1642],
+        ["Ora Junction",31.757,35.16],
+        ["Medical School",31.7642,35.1513],
+        ["Hadassah Ein Kerem",31.7647,35.1476],
+        ["Mahane Yehuda",31.786,35.2114],
+        ["HaDavidka",31.7846,35.2152],
+        ["Jaffa – Center",31.7828,35.2183],
+        ["City Hall",31.7797,35.2238],
+        ["Damascus Gate",31.7825,35.2279],
+        ["Shivtei Israel",31.7865,35.2272],
+        ["Shim'on HaTsadik",31.793,35.2264],
+        ["Ammunition Hill",31.7992,35.2321],
+        ["Giv'at HaMivtar",31.8055,35.2343],
+        ["A-Sahal",31.8112,35.2328],
+        ["Shu'afat",31.8144,35.2299],
+        ["Beit Hanina",31.8197,35.2291],
+        ["Yekutiel Adam",31.8193,35.2393],
+        ["Pisgat Ze'ev – Center",31.8237,35.2376],
+        ["Sayeret Dukhifat",31.8261,35.2402],
+        ["Hel Ha'Avir",31.829,35.2384],
+        ["Moshe Dayan – North",31.8334,35.2347],
+        ["Mazal Kashat",31.8373,35.2342],
+        ["Yitzhak Tabenkin",31.8381,35.2374],
+        ["Neve Ya'akov – North",31.841,35.2402],
+        ["HaTurim",31.7879,35.2068]
+      ]
+    }
+  ],
+  "hotels": [
+    {"name":"Caesar Premier Jerusalem","lat":31.7884,"lng":35.2071,"area":"Jerusalem–Yitzhak Navon","rating":4.7,"ratingCount":2435,"stars":4,"priceTier":3},
+    {"name":"Prima Park Hotel","lat":31.7852,"lng":35.198,"area":"Jerusalem–Yitzhak Navon","rating":4,"ratingCount":1208,"stars":4,"priceTier":3},
+    {"name":"Ramada by Wyndham Jerusalem","lat":31.7835,"lng":35.1966,"area":"Jerusalem–Yitzhak Navon","rating":4.3,"ratingCount":792,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Waldorf Astoria Jerusalem","lat":31.7775,"lng":35.2224,"area":"Old City","rating":4.5,"ratingCount":2062,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"David Citadel Hotel","lat":31.7771,"lng":35.2223,"area":"Old City","rating":4.6,"ratingCount":3855,"stars":5,"priceTier":4},
+    {"name":"Pontifical Institute Notre Dame of Jerusalem Center","lat":31.78,"lng":35.226,"area":"Old City","rating":4.5,"ratingCount":1407,"stars":4,"priceTier":3},
+    {"name":"Christ Church Guest House","lat":31.7761,"lng":35.2289,"area":"Old City","rating":4.4,"ratingCount":501,"stars":3,"priceTier":2},
+    {"name":"The Post Hostel Jerusalem","lat":31.78,"lng":35.2223,"area":"Old City","rating":4.5,"ratingCount":806,"stars":1,"priceTier":1},
+    {"name":"Herbert Samuel Jerusalem","lat":31.7814,"lng":35.2196,"area":"City Center","rating":4.5,"ratingCount":1578,"stars":5,"priceTier":4},
+    {"name":"Bezalel Hotel - an Atlas Boutique Hotel","lat":31.7809,"lng":35.2141,"area":"City Center","rating":4.8,"ratingCount":1708,"stars":4,"priceTier":3},
+    {"name":"Paamonim Hotel Jerusalem","lat":31.783,"lng":35.2176,"area":"City Center","rating":4.1,"ratingCount":788,"stars":3,"priceTier":2},
+    {"name":"Abraham Jerusalem","lat":31.7849,"lng":35.2156,"area":"City Center","rating":4.5,"ratingCount":2797,"stars":2,"priceTier":1},
+    {"name":"Cinema Hostel Jerusalem","lat":31.7809,"lng":35.2178,"area":"City Center","rating":4.3,"ratingCount":160,"stars":2,"priceTier":1},
+    {"name":"The American Colony Hotel","lat":31.79,"lng":35.2295,"area":"East Jerusalem","rating":4.6,"ratingCount":2143,"stars":5,"priceTier":4},
+    {"name":"Leonardo Hotel Jerusalem","lat":31.7886,"lng":35.2273,"area":"East Jerusalem","rating":4.2,"ratingCount":2877,"stars":4,"priceTier":3},
+    {"name":"Olive Tree Hotel","lat":31.7897,"lng":35.2282,"area":"East Jerusalem","rating":4.1,"ratingCount":1123,"stars":4,"priceTier":3},
+    {"name":"Jerusalem Hotel","lat":31.7845,"lng":35.2286,"area":"East Jerusalem","rating":4.2,"ratingCount":399,"stars":3,"priceTier":2},
+    {"name":"Azzahra Hotel & Restaurant","lat":31.7863,"lng":35.2333,"area":"East Jerusalem","rating":4.5,"ratingCount":153,"stars":3,"priceTier":2}
+  ],
+  "sights": [
+    {
+      "name": "Old City of Jerusalem",
+      "lat": 31.7775,
+      "lng": 35.231,
+      "note": "The walled city of under 1 km², divided into Muslim, Christian, Jewish and Armenian quarters and holding sites sacred to all three Abrahamic faiths; enter by Jaffa Gate or Damascus Gate.",
+      "hours": "Open 24 hours; individual sites keep their own hours",
+      "rating": 4.8
+    },
+    {
+      "name": "Western Wall",
+      "lat": 31.7767,
+      "lng": 35.2345,
+      "note": "The surviving retaining wall of the Second Temple platform, Judaism's holiest place of prayer, with a large open plaza and separate men's and women's sections.",
+      "hours": "Plaza open 24 hours; security check at entrances; modest dress",
+      "rating": 4.7
+    },
+    {
+      "name": "Church of the Holy Sepulchre",
+      "lat": 31.7784,
+      "lng": 35.2296,
+      "note": "The church shared by several Christian denominations over the traditional sites of Jesus's crucifixion (Golgotha) and tomb (the Edicule); expect queues for the tomb.",
+      "hours": "~5:00 AM–~8:00 PM in summer, to ~7:00 PM in winter",
+      "rating": 4.5
+    },
+    {
+      "name": "Temple Mount / Haram al-Sharif",
+      "lat": 31.778,
+      "lng": 35.2354,
+      "note": "The raised compound holding the Dome of the Rock and Al-Aqsa Mosque; non-Muslim visitors may walk the grounds at set times via the Mughrabi Gate, but not enter the buildings.",
+      "hours": "Non-Muslim visits ~7:30–11:00 AM and ~1:30–2:30 PM Sun–Thu (shorter in winter); closed Fri, Sat and Muslim holidays; subject to change at short notice",
+      "rating": 4.3
+    },
+    {
+      "name": "Via Dolorosa",
+      "lat": 31.78,
+      "lng": 35.232,
+      "note": "The processional route of the 14 Stations of the Cross through the Old City lanes, from near Lions' Gate to the Church of the Holy Sepulchre.",
+      "hours": "Open streets; Franciscan procession on Friday afternoons",
+      "rating": 4.4
+    },
+    {
+      "name": "Church of Saint Anne",
+      "lat": 31.7811,
+      "lng": 35.2365,
+      "note": "A plain 12th-century Crusader church near Lions' Gate famous for its acoustics, next to the excavated Pools of Bethesda.",
+      "hours": "~8:00 AM–noon and ~2:00–5:00 PM Mon–Sat",
+      "rating": 4.6
+    },
+    {
+      "name": "Tower of David Museum",
+      "lat": 31.7763,
+      "lng": 35.2283,
+      "note": "The citadel by Jaffa Gate, now a museum of the city's 4,000-year history with rampart views over the Old City and an evening light show.",
+      "hours": "~9:00 AM–5:00 PM Sun–Thu and Sat, to ~2:00 PM Fri",
+      "rating": 4.5,
+      "ticketUrl": "https://www.tod.org.il/en/"
+    },
+    {
+      "name": "City of David",
+      "lat": 31.7744,
+      "lng": 35.2353,
+      "note": "An archaeological park on the ridge just south of the Old City walls, with excavations of the ancient city and the walk-through water channel of Hezekiah's Tunnel.",
+      "hours": "~8:00 AM–5:00 PM Sun–Thu (to 7:00 PM in summer), to ~2:00 PM Fri; closed Sat",
+      "rating": 4.6,
+      "ticketUrl": "https://www.cityofdavid.org.il/en",
+      "bookAhead": true
+    },
+    {
+      "name": "Mount of Olives",
+      "lat": 31.7784,
+      "lng": 35.2442,
+      "note": "The ridge east of the Old City with the classic panoramic view over the Dome of the Rock and the walls, above the world's oldest continuously used Jewish cemetery.",
+      "hours": "Viewpoint open all day; churches on the slope keep their own hours",
+      "rating": 4.6
+    },
+    {
+      "name": "Garden of Gethsemane & Church of All Nations",
+      "lat": 31.7795,
+      "lng": 35.2398,
+      "note": "Ancient olive trees at the foot of the Mount of Olives, beside the mosaic-fronted Church of All Nations built over the rock where Jesus is said to have prayed.",
+      "hours": "~8:00 AM–noon and ~2:30–5:00 PM (to 6:00 PM in summer)",
+      "rating": 4.6
+    },
+    {
+      "name": "The Garden Tomb",
+      "lat": 31.7839,
+      "lng": 35.2299,
+      "note": "A quiet garden north of Damascus Gate with a rock-cut tomb that some Protestants consider the burial site of Jesus, run by a British charity.",
+      "hours": "~8:30 AM–5:30 PM Mon–Sat; closed Sun except for services",
+      "rating": 4.7
+    },
+    {
+      "name": "Yad Vashem",
+      "lat": 31.7741,
+      "lng": 35.1754,
+      "note": "Israel's World Holocaust Remembrance Center on Mount Herzl: a prism-shaped history museum, the Hall of Names and the Children's Memorial. Not suitable for children under 10.",
+      "hours": "~9:00 AM–5:00 PM Sun–Thu, to ~2:00 PM Fri; closed Sat and Jewish holidays",
+      "rating": 4.8,
+      "ticketUrl": "https://www.yadvashem.org/visiting.html",
+      "bookAhead": true
+    },
+    {
+      "name": "Israel Museum",
+      "lat": 31.7726,
+      "lng": 35.2041,
+      "note": "The national museum, home of the Dead Sea Scrolls in the Shrine of the Book, a 1:50 model of Second Temple-era Jerusalem, and large archaeology and art wings.",
+      "hours": "10:00 AM–5:00 PM Sun, Mon, Wed, Thu, Sat; 4:00–9:00 PM Tue; 10:00 AM–2:00 PM Fri",
+      "rating": 4.8,
+      "ticketUrl": "https://www.imj.org.il/en"
+    },
+    {
+      "name": "Mahane Yehuda Market",
+      "lat": 31.7853,
+      "lng": 35.2121,
+      "note": "The city's main produce market, loud and crowded before Shabbat, whose shuttered stalls turn into bars and small restaurants at night.",
+      "hours": "~8:00 AM–7:00 PM Sun–Thu, to ~3:00 PM Fri, closed Sat; bars open late",
+      "rating": 4.6
+    },
+    {
+      "name": "Ben Yehuda Street",
+      "lat": 31.7814,
+      "lng": 35.2172,
+      "note": "The pedestrian spine of downtown West Jerusalem, lined with cafés, souvenir shops and street musicians, busiest on Saturday night after Shabbat.",
+      "hours": "Open streets; shops ~9:00 AM–late, mostly closed Fri afternoon–Sat",
+      "rating": 4.4
+    },
+    {
+      "name": "Jerusalem Biblical Zoo",
+      "lat": 31.7468,
+      "lng": 35.1781,
+      "note": "A large hillside zoo around a lake, focused on animals mentioned in the Bible and endangered species of the region.",
+      "hours": "~9:00 AM–6:00 PM Sun–Thu, shorter hours Fri and Sat",
+      "rating": 4.7
+    },
+    {
+      "name": "The First Station",
+      "lat": 31.7671,
+      "lng": 35.2246,
+      "note": "The restored Ottoman-era railway terminus turned into an open-air hub of restaurants, weekend events and the start of the Railway Park walking and cycling path.",
+      "hours": "Open daily; restaurants ~10:00 AM–late"
+    },
+    {
+      "name": "Haas Promenade",
+      "lat": 31.7581,
+      "lng": 35.2275,
+      "note": "A stone promenade in Armon HaNatziv with a free sweeping view over the Old City, the Mount of Olives and the Judean Desert, best at sunset.",
+      "hours": "Open 24 hours"
+    }
+  ],
+  "railStations": [
+    {
+      "name": "Jerusalem–Yitzhak Navon",
+      "lat": 31.7884,
+      "lng": 35.2027,
+      "note": "Jerusalem's main rail station, deep underground beside the Central Bus Station: high-speed trains to Ben Gurion Airport (~20 min) and Tel Aviv (~35 min). Connects to the light-rail Red Line at the Central Station stop.",
+      "hours": "Trains ~5:30 AM–~midnight Sun–Thu; no service from Friday afternoon until Saturday night (Shabbat)."
+    }
+  ],
+  "airports": [
+    {
+      "name": "Ben Gurion Airport",
+      "code": "TLV",
+      "lat": 32.0004,
+      "lng": 34.8706,
+      "transitNote": "About 45 km west of Jerusalem. Israel Railways trains from the Terminal 3 station reach Jerusalem–Yitzhak Navon in ~20–25 min (separate fare, ~₪20; not part of the light-rail map), then change to the Red Line. Shared taxis (sherut) run when trains don't, including Shabbat.",
+      "hours": "Airport–Jerusalem trains ~5:00 AM–~midnight Sun–Thu, every ~30 min; no trains Friday afternoon to Saturday night."
+    }
+  ]
+}

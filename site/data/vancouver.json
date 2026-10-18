@@ -1,0 +1,339 @@
+{
+  "name": "Vancouver",
+  "country": "Canada",
+  "flag": "🇨🇦",
+  "center": [49.2827,-123.1207],
+  "zoom": 12,
+  "operatingHours": "SkyTrain (Expo, Millennium and Canada lines) runs ~5:00 AM–1:15 AM Mon–Fri, ~6:00 AM–1:15 AM Sat and ~7:00 AM–12:15 AM Sun/holidays; trains every 2–6 min by day, 6–10 min late evening. NightBus routes cover the overnight gap.",
+  "fareInfo": "From 1 July 2026 a one-zone adult fare is C$2.85 by Compass card or tap-to-pay (contactless card/phone) and C$3.50 cash; SkyTrain uses 1–3 zones on weekdays until 6:30 PM and one zone on evenings/weekends, with 90-minute transfers. Journeys starting at the YVR SkyTrain stations add a C$6.50 AddFare (~C$11 total to downtown). A Compass DayPass is ~C$12.",
+  "lines": [
+    {
+      "id": "lcanada_line",
+      "name": "SkyTrain Canada Line",
+      "color": "#009AC8",
+      "code": "Canada Line",
+      "stations": [
+        ["Richmond–Brighouse",49.1681,-123.1364],
+        ["Lansdowne",49.1747,-123.1364],
+        ["Aberdeen",49.1839,-123.1363],
+        ["Capstan",49.1895,-123.1315],
+        ["Bridgeport",49.1955,-123.126],
+        ["Marine Drive",49.2096,-123.1169],
+        ["Langara-49th Avenue",49.2265,-123.1163],
+        ["Oakridge-41st Avenue",49.2331,-123.1161],
+        ["King Edward",49.2493,-123.1153],
+        ["Broadway-City Hall",49.2629,-123.1148],
+        ["Olympic Village",49.2666,-123.1154],
+        ["Yaletown-Roundhouse",49.2745,-123.1221],
+        ["Vancouver City Centre",49.282,-123.1189],
+        ["Waterfront",49.2856,-123.1133]
+      ]
+    },
+    {
+      "id": "lcanada_line_b1",
+      "name": "SkyTrain Canada Line (branch to YVR–Airport)",
+      "color": "#009AC8",
+      "code": "Canada Line",
+      "stations": [
+        ["Waterfront",49.2857,-123.1135],
+        ["Vancouver City Centre",49.282,-123.119],
+        ["Yaletown-Roundhouse",49.2742,-123.1218],
+        ["Olympic Village",49.2666,-123.1155],
+        ["Broadway-City Hall",49.2629,-123.1148],
+        ["King Edward",49.2491,-123.1153],
+        ["Oakridge-41st Avenue",49.2331,-123.1162],
+        ["Langara-49th Avenue",49.2265,-123.1163],
+        ["Marine Drive",49.2096,-123.117],
+        ["Bridgeport",49.1956,-123.1261],
+        ["Templeton",49.1967,-123.1464],
+        ["Sea Island Centre",49.1931,-123.158],
+        ["YVR–Airport",49.1942,-123.1784]
+      ]
+    },
+    {
+      "id": "lexpo_line",
+      "name": "SkyTrain Expo Line",
+      "color": "#0060A9",
+      "code": "Expo Line",
+      "stations": [
+        ["King George",49.1828,-122.8446],
+        ["Surrey Central",49.1895,-122.8478],
+        ["Gateway",49.1989,-122.8505],
+        ["Scott Road",49.2045,-122.8741],
+        ["Columbia",49.2048,-122.9063],
+        ["New Westminster",49.2014,-122.9127],
+        ["22nd Street",49.2001,-122.9489],
+        ["Edmonds",49.2122,-122.9593],
+        ["Royal Oak",49.2201,-122.9885],
+        ["Metrotown",49.2258,-123.0038],
+        ["Patterson",49.2298,-123.0127],
+        ["Joyce–Collingwood",49.2384,-123.0318],
+        ["29th Avenue",49.2442,-123.0458],
+        ["Nanaimo",49.2483,-123.0559],
+        ["Commercial–Broadway",49.2619,-123.0691],
+        ["Main Street–Science World",49.2732,-123.1003],
+        ["Stadium–Chinatown",49.2794,-123.1092],
+        ["Granville",49.2835,-123.116],
+        ["Burrard",49.2858,-123.1198],
+        ["Waterfront",49.2861,-123.1121]
+      ]
+    },
+    {
+      "id": "lexpo_line_b1",
+      "name": "SkyTrain Expo Line (branch to Production Way–University)",
+      "color": "#0060A9",
+      "code": "Expo Line",
+      "stations": [
+        ["Production Way–University",49.2534,-122.9182],
+        ["Lougheed Town Centre",49.2484,-122.8969],
+        ["Braid",49.2333,-122.8829],
+        ["Sapperton",49.2245,-122.8896],
+        ["Columbia",49.2048,-122.9063],
+        ["New Westminster",49.2014,-122.9127],
+        ["22nd Street",49.2001,-122.9489],
+        ["Edmonds",49.2122,-122.9593],
+        ["Royal Oak",49.2201,-122.9885],
+        ["Metrotown",49.2258,-123.0038],
+        ["Patterson",49.2298,-123.0127],
+        ["Joyce–Collingwood",49.2384,-123.0318],
+        ["29th Avenue",49.2442,-123.0458],
+        ["Nanaimo",49.2483,-123.0559],
+        ["Commercial–Broadway",49.2619,-123.0691],
+        ["Main Street–Science World",49.2732,-123.1003],
+        ["Stadium–Chinatown",49.2794,-123.1092],
+        ["Granville",49.2835,-123.116],
+        ["Burrard",49.2858,-123.1198],
+        ["Waterfront",49.2861,-123.1121]
+      ]
+    },
+    {
+      "id": "lmillennium_line",
+      "name": "SkyTrain Millennium Line",
+      "color": "#FFD520",
+      "code": "Millennium Line",
+      "stations": [
+        ["Lafarge Lake–Douglas",49.2853,-122.7919],
+        ["Lincoln",49.2804,-122.7941],
+        ["Coquitlam Central",49.2751,-122.8014],
+        ["Inlet Centre",49.2772,-122.8277],
+        ["Moody Centre",49.278,-122.846],
+        ["Burquitlam",49.2612,-122.8901],
+        ["Lougheed Town Centre",49.2485,-122.8968],
+        ["Production Way–University",49.2535,-122.9181],
+        ["Lake City Way",49.2546,-122.939],
+        ["Sperling–Burnaby Lake",49.2592,-122.9639],
+        ["Holdom",49.2648,-122.9821],
+        ["Brentwood Town Centre",49.2664,-123.0017],
+        ["Gilmore",49.265,-123.0135],
+        ["Rupert",49.2608,-123.0329],
+        ["Renfrew",49.2589,-123.0456],
+        ["Commercial–Broadway",49.263,-123.0684],
+        ["VCC–Clark",49.2658,-123.079]
+      ]
+    }
+  ],
+  "hotels": [
+    {"name":"Fairmont Vancouver Airport","lat":49.1947,"lng":-123.176,"area":"Vancouver International Airport","rating":4.6,"ratingCount":5101,"stars":4,"priceTier":4,"brandAnchor":true},
+    {
+      "name": "The Westin Wall Centre, Vancouver Airport",
+      "lat": 49.1908,
+      "lng": -123.1333,
+      "area": "Vancouver International Airport",
+      "rating": 4.3,
+      "ratingCount": 1244,
+      "stars": 4,
+      "priceTier": 3,
+      "brandAnchor": true
+    },
+    {
+      "name": "Holiday Inn Express Vancouver Airport - Richmond",
+      "lat": 49.1925,
+      "lng": -123.1198,
+      "area": "Vancouver International Airport",
+      "rating": 4.3,
+      "ratingCount": 1076,
+      "stars": 3,
+      "priceTier": 2,
+      "brandAnchor": true
+    },
+    {"name":"Fairmont Waterfront","lat":49.2873,"lng":-123.1136,"area":"Gastown & Waterfront","rating":4.5,"ratingCount":4808,"stars":4,"priceTier":4,"brandAnchor":true},
+    {"name":"Delta Hotels Vancouver Downtown Suites","lat":49.2841,"lng":-123.1127,"area":"Gastown & Waterfront","rating":4.4,"ratingCount":1909,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Exchange Hotel Vancouver","lat":49.2856,"lng":-123.1157,"area":"Gastown & Waterfront","rating":4.7,"ratingCount":2968,"stars":4,"priceTier":4},
+    {"name":"Skwachàys Lodge","lat":49.281,"lng":-123.1061,"area":"Gastown & Waterfront","rating":4.5,"ratingCount":574,"stars":3,"priceTier":3},
+    {"name":"Victorian Hotel","lat":49.2824,"lng":-123.1121,"area":"Gastown & Waterfront","rating":4.3,"ratingCount":1558,"stars":2,"priceTier":2},
+    {"name":"Hyatt Regency Vancouver","lat":49.2852,"lng":-123.1206,"area":"Downtown","rating":4.4,"ratingCount":6888,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Fairmont Hotel Vancouver","lat":49.2838,"lng":-123.1211,"area":"Downtown","rating":4.2,"ratingCount":5247,"stars":4,"priceTier":4},
+    {"name":"Wedgewood Hotel & Spa","lat":49.2824,"lng":-123.1228,"area":"Downtown","rating":4.8,"ratingCount":4126,"stars":5,"priceTier":4},
+    {"name":"Executive Hotel Le Soleil","lat":49.2853,"lng":-123.1183,"area":"Downtown","rating":4.6,"ratingCount":3523,"stars":4,"priceTier":3},
+    {"name":"Blue Horizon Hotel","lat":49.2865,"lng":-123.1273,"area":"Downtown","rating":4.5,"ratingCount":3974,"stars":3,"priceTier":3},
+    {"name":"OPUS Vancouver","lat":49.2746,"lng":-123.1225,"area":"Yaletown","rating":4.7,"ratingCount":4321,"stars":4,"priceTier":4},
+    {"name":"Best Western Premier Chateau Granville Hotel & Suites","lat":49.2777,"lng":-123.1247,"area":"Yaletown","rating":4.2,"ratingCount":2227,"stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Residence Inn by Marriott Vancouver Downtown","lat":49.2778,"lng":-123.1285,"area":"Yaletown","rating":4.5,"ratingCount":1624,"stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Hampton Inn and Suites by Hilton, Downtown Vancouver","lat":49.2779,"lng":-123.114,"area":"Yaletown","rating":4.5,"ratingCount":2596,"stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Hotel Willo","lat":49.2784,"lng":-123.1131,"area":"Yaletown","rating":4.6,"ratingCount":3658,"stars":2,"priceTier":2}
+  ],
+  "sights": [
+    {
+      "name": "Stanley Park",
+      "lat": 49.3017,
+      "lng": -123.1417,
+      "note": "A 400-hectare rainforest peninsula beside downtown, ringed by the seawall and dotted with beaches, lagoons and old-growth cedars.",
+      "hours": "Open 24 hours; best by daylight",
+      "rating": 4.7
+    },
+    {
+      "name": "Granville Island Public Market",
+      "lat": 49.2727,
+      "lng": -123.135,
+      "note": "The covered food hall at the heart of Granville Island's artist studios and docks, reached by tiny Aquabus ferries from downtown.",
+      "hours": "Daily 9:00 AM–6:00 PM",
+      "rating": 4.5,
+      "ticketUrl": "https://granvilleisland.com"
+    },
+    {
+      "name": "Vancouver Aquarium",
+      "lat": 49.3007,
+      "lng": -123.1309,
+      "note": "Canada's largest aquarium, inside Stanley Park, with sea otters, Pacific coast habitats and a rescued-marine-mammal focus.",
+      "hours": "Daily ~9:30 AM–5:00 PM (later in summer)",
+      "rating": 4.4,
+      "ticketUrl": "https://www.vanaqua.org"
+    },
+    {
+      "name": "Gastown Steam Clock",
+      "lat": 49.2844,
+      "lng": -123.1089,
+      "note": "A steam-powered clock that whistles every quarter-hour on the cobbled main street of Gastown, the city's oldest quarter.",
+      "hours": "Outdoors, 24 hours",
+      "rating": 4.1
+    },
+    {
+      "name": "Museum of Anthropology at UBC",
+      "lat": 49.2694,
+      "lng": -123.2594,
+      "note": "A glass-walled Arthur Erickson building holding monumental Northwest Coast totem poles and Bill Reid's carvings, on the UBC campus.",
+      "hours": "Daily 10:00 AM–5:00 PM, Thu to 9:00 PM; closed Mon mid-Oct–mid-May",
+      "rating": 4.6,
+      "ticketUrl": "https://moa.ubc.ca"
+    },
+    {
+      "name": "Canada Place",
+      "lat": 49.2888,
+      "lng": -123.1111,
+      "note": "The sail-roofed cruise terminal on the harbour, with a free waterfront promenade looking to the North Shore mountains and FlyOver Canada inside.",
+      "hours": "Promenade open 24 hours; FlyOver Canada ~10:00 AM–9:00 PM",
+      "rating": 4.3
+    },
+    {
+      "name": "VanDusen Botanical Garden",
+      "lat": 49.2389,
+      "lng": -123.13,
+      "note": "A 22-hectare garden of lakes, a hedge maze and plants from every continent, with a winter Festival of Lights.",
+      "hours": "Daily ~10:00 AM–4:00 PM in winter, to ~7:00 PM in summer",
+      "rating": 4.6,
+      "ticketUrl": "https://vandusengarden.org"
+    },
+    {
+      "name": "Vancouver Seawall",
+      "lat": 49.295,
+      "lng": -123.1355,
+      "note": "A 28 km waterfront path for walking and cycling that loops Stanley Park and runs on to English Bay, False Creek and Kitsilano.",
+      "hours": "Open 24 hours (separate bike and foot lanes)",
+      "rating": 4.8
+    },
+    {
+      "name": "Queen Elizabeth Park & Bloedel Conservatory",
+      "lat": 49.2418,
+      "lng": -123.1126,
+      "note": "The city's highest point, with quarry gardens, skyline views and a domed tropical conservatory full of free-flying birds.",
+      "hours": "Park 24 hours; conservatory daily ~10:00 AM–5:00 PM",
+      "rating": 4.6,
+      "ticketUrl": "https://vancouver.ca/parks-recreation-culture/bloedel-conservatory.aspx"
+    },
+    {
+      "name": "Science World",
+      "lat": 49.2734,
+      "lng": -123.1038,
+      "note": "A hands-on science centre inside the geodesic dome at the end of False Creek, steps from Main Street SkyTrain.",
+      "hours": "Daily 10:00 AM–5:00 PM (to 6:00 PM in summer)",
+      "rating": 4.2,
+      "ticketUrl": "https://www.scienceworld.ca"
+    },
+    {
+      "name": "Kitsilano Beach",
+      "lat": 49.2747,
+      "lng": -123.154,
+      "note": "A lively sandy beach with volleyball courts, a long saltwater pool in summer and views back to downtown.",
+      "hours": "Open 6:00 AM–10:00 PM",
+      "rating": 4.4
+    },
+    {
+      "name": "English Bay Beach",
+      "lat": 49.2865,
+      "lng": -123.143,
+      "note": "The West End's city beach, known for its sunsets, the laughing-men sculptures and summer fireworks.",
+      "hours": "Open 6:00 AM–10:00 PM",
+      "rating": 4.5
+    },
+    {
+      "name": "Vancouver Public Library, Central Library",
+      "lat": 49.2797,
+      "lng": -123.1157,
+      "note": "A Colosseum-like library building with a free rooftop garden offering views over downtown.",
+      "hours": "~10:00 AM–8:00 PM Mon–Thu, shorter hours Fri–Sun; rooftop garden seasonal",
+      "rating": 4.5
+    },
+    {
+      "name": "Brockton Point Totem Poles",
+      "lat": 49.299,
+      "lng": -123.1206,
+      "note": "A cluster of carved First Nations totem poles on the Stanley Park seawall, the province's most visited outdoor landmark.",
+      "hours": "Outdoors, 24 hours",
+      "rating": 4.3
+    },
+    {
+      "name": "The Marine Building",
+      "lat": 49.2875,
+      "lng": -123.1173,
+      "note": "A 1930 Art Deco tower whose lobby is a riot of brass, sea creatures and stained glass.",
+      "hours": "Lobby open ~business hours Mon–Fri",
+      "rating": 4.6
+    },
+    {
+      "name": "Dr. Sun Yat-Sen Classical Chinese Garden",
+      "lat": 49.2796,
+      "lng": -123.1037,
+      "note": "A Ming-style scholar's garden of pavilions, jade-green ponds and rockery in Chinatown, with a free public park next door.",
+      "hours": "~10:00 AM–4:30 PM in winter, longer in summer",
+      "rating": 3.9,
+      "ticketUrl": "https://vancouverchinesegarden.com"
+    },
+    {
+      "name": "Spanish Banks",
+      "lat": 49.2766,
+      "lng": -123.216,
+      "note": "A long, quiet tidal beach west of Kitsilano with free sunset views across English Bay to downtown and the North Shore mountains.",
+      "hours": "Open 6:00 AM–10:00 PM",
+      "rating": 4.6
+    }
+  ],
+  "railStations": [
+    {
+      "name": "Pacific Central Station",
+      "lat": 49.2733,
+      "lng": -123.0979,
+      "note": "Vancouver's intercity station: VIA Rail's Canadian to Jasper and Toronto, Amtrak Cascades to Seattle and Portland, plus intercity coaches. Main Street–Science World SkyTrain (Expo Line) is a 3-minute walk across Thornton Park.",
+      "hours": "Station opens ~6:00 AM–9:30 PM around departures; Amtrak ~2 trains/day, VIA ~2–3 trains/week."
+    }
+  ],
+  "airports": [
+    {
+      "name": "Vancouver International Airport",
+      "code": "YVR",
+      "lat": 49.1951,
+      "lng": -123.1779,
+      "transitNote": "The Canada Line (on the SkyTrain map) runs from YVR–Airport station, between the domestic and international terminals, to Waterfront downtown in ~25 min, every ~6–8 min; single fares pay a C$6.50 AddFare (~C$11). Taxis use flat-rate zones (~C$35–45 downtown, ~25 min).",
+      "hours": "Canada Line: first train ~5:00 AM (later on Sun), last ~1:00 AM. Late arrivals: taxi/rideshare or the N10 night bus."
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "name": "Florence",
+  "country": "Italy",
+  "flag": "🇮🇹",
+  "center": [43.771,11.254],
+  "zoom": 13,
+  "operatingHours": "Tramvia lines T1 (Villa Costanza–Santa Maria Novella–Careggi) and T2 (Airport–Santa Maria Novella–San Marco) run ~5:00 AM–~12:30 AM daily, to ~2:00 AM on Fri and Sat nights; every 4–5 min at peak, 10–12 min early and late. No metro; trams skirt the pedestrian historic centre, which is best walked.",
+  "fareInfo": "One 90-minute ticket covers tram and Autolinee Toscane buses: €2.00 from 1 Aug 2026 (was €1.70), the same whether bought at stop machines, in the at bus app or by tapping a contactless card or phone on the on-board reader. Validate paper tickets on boarding. 10-ride carnet ~€15.50; no day pass (the Firenze Card+ add-on includes 72 h of transit). The airport tram costs the normal fare.",
+  "lines": [
+    {
+      "id": "lt1",
+      "name": "T1 Leonardo",
+      "color": "#254395",
+      "code": "T1",
+      "stations": [
+        ["Careggi - Ospedale",43.8033,11.2466],
+        ["Morgagni - Università",43.7995,11.2439],
+        ["Dalmazia",43.7956,11.2405],
+        ["Pisacane",43.7932,11.244],
+        ["Leopoldo",43.7913,11.2472],
+        ["Muratori - Stazione Statuto",43.7882,11.2494],
+        ["Statuto",43.7857,11.2507],
+        ["Strozzi - Fallaci",43.7834,11.2519],
+        ["Fortezza",43.7805,11.2495],
+        ["Valfonda - Stazione Santa Maria Novella",43.7766,11.2493],
+        ["Alamanni - Stazione Santa Maria Novella",43.7761,11.247],
+        ["Porta al Prato - Leopolda (Parco della Musica)",43.7773,11.2386],
+        ["Cascine (Olmi - Carlo Monni)",43.777,11.2327],
+        ["Paolo Uccello (Arno)",43.7754,11.2287],
+        ["Sansovino",43.7747,11.2252],
+        ["Batoni",43.7741,11.2213],
+        ["Talenti",43.7736,11.217],
+        ["Federiga (Foggini)",43.7715,11.2119],
+        ["Arcipressi (Ronco Corto)",43.7675,11.2092],
+        ["Nenni - Torregalli (Lupi di Toscana)",43.7641,11.198],
+        ["Aldo Moro",43.7619,11.1873],
+        ["Resistenza (Pantin)",43.758,11.1822],
+        ["De André (Ciliegi)",43.7548,11.179],
+        ["Villa Costanza",43.7551,11.1741]
+      ]
+    },
+    {
+      "id": "lt2",
+      "name": "T2 Vespucci",
+      "color": "#5D3988",
+      "code": "T2",
+      "stations": [
+        ["San Marco Università",43.7776,11.2586],
+        ["La Marmora Orto Botanico",43.7811,11.2619],
+        ["Libertà Parterre",43.7843,11.2622],
+        ["Lavagnini Poliziano",43.783,11.2576],
+        ["Lavagnini Fortezza",43.782,11.2533],
+        ["Fortezza",43.7805,11.2495],
+        ["Valfonda - Stazione Santa Maria Novella",43.7766,11.2493],
+        ["Alamanni - Stazione Santa Maria Novella",43.7761,11.247],
+        ["Rosselli",43.7789,11.2451],
+        ["Belfiore",43.782,11.243],
+        ["Redi",43.7853,11.2423],
+        ["Ponte all'Asse",43.7867,11.2397],
+        ["Buonsignori - Liceo Da Vinci",43.7886,11.2346],
+        ["San Donato - Università",43.7907,11.2266],
+        ["Novoli - Regione Toscana",43.7921,11.2233],
+        ["Novoli - Torre degli Agli",43.7943,11.218],
+        ["Novoli - Palazzi Rossi",43.7963,11.2139],
+        ["Guidoni",43.7997,11.2084],
+        ["Peretola Aeroporto",43.803,11.2025]
+      ]
+    }
+  ],
+  "hotels": [
+    {"name":"Mercure Florence Center","lat":43.7765,"lng":11.2508,"area":"Firenze Santa Maria Novella","rating":4.2,"ratingCount":1344,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hotel Indigo Florence","lat":43.7781,"lng":11.2442,"area":"Firenze Santa Maria Novella","rating":4.3,"ratingCount":113,"stars":4,"priceTier":3,"brandAnchor":true},
+    {
+      "name": "The Excelsior, a Luxury Collection Hotel, Florence",
+      "lat": 43.7718,
+      "lng": 11.246,
+      "area": "Firenze Santa Maria Novella",
+      "rating": 4.6,
+      "ratingCount": 2117,
+      "stars": 5,
+      "priceTier": 4,
+      "brandAnchor": true
+    },
+    {"name":"C-Hotels Ambasciatori","lat":43.7762,"lng":11.2466,"area":"Firenze Santa Maria Novella","rating":4.3,"ratingCount":2690,"stars":4,"priceTier":3},
+    {"name":"Ostello Bello Firenze","lat":43.7781,"lng":11.2509,"area":"Firenze Santa Maria Novella","rating":4.1,"ratingCount":281,"stars":1,"priceTier":1},
+    {"name":"Hotel Il Tornabuoni","lat":43.7704,"lng":11.2512,"area":"Duomo","rating":4.8,"ratingCount":601,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Brunelleschi Hotel","lat":43.7717,"lng":11.2559,"area":"Duomo","rating":4.7,"ratingCount":4344,"stars":4,"priceTier":3},
+    {"name":"Hotel Spadai","lat":43.7747,"lng":11.2559,"area":"Duomo","rating":4.9,"ratingCount":2991,"stars":4,"priceTier":3},
+    {"name":"Grand Hotel Cavour","lat":43.7711,"lng":11.2578,"area":"Duomo","rating":4.2,"ratingCount":2991,"stars":4,"priceTier":3},
+    {"name":"Hotel Bavaria","lat":43.7715,"lng":11.2587,"area":"Duomo","rating":4,"ratingCount":600,"stars":2,"priceTier":2},
+    {"name":"Bernini Palace Hotel","lat":43.7694,"lng":11.2576,"area":"Santa Croce","rating":4.6,"ratingCount":1792,"stars":5,"priceTier":4},
+    {"name":"Plaza Hotel Lucchesi","lat":43.7666,"lng":11.2631,"area":"Santa Croce","rating":4.5,"ratingCount":2189,"stars":4,"priceTier":3},
+    {"name":"Hotel Balestri","lat":43.7672,"lng":11.258,"area":"Santa Croce","rating":4.5,"ratingCount":545,"stars":4,"priceTier":3},
+    {"name":"Hotel Santa Croce","lat":43.7692,"lng":11.2593,"area":"Santa Croce","rating":4.6,"ratingCount":1149,"stars":3,"priceTier":2},
+    {"name":"Hotel Cardinal of Florence","lat":43.7722,"lng":11.2621,"area":"Santa Croce","rating":4.1,"ratingCount":474,"stars":3,"priceTier":2},
+    {"name":"Hotel Lungarno","lat":43.7679,"lng":11.2516,"area":"Oltrarno","rating":4.8,"ratingCount":2488,"stars":5,"priceTier":4},
+    {"name":"Hotel Palazzo Guadagni","lat":43.7663,"lng":11.2474,"area":"Oltrarno","rating":4.7,"ratingCount":1562,"stars":3,"priceTier":3},
+    {"name":"Hotel La Scaletta al Ponte Vecchio","lat":43.7668,"lng":11.2515,"area":"Oltrarno","rating":4.4,"ratingCount":1925,"stars":3,"priceTier":3},
+    {"name":"B&B Hotel Firenze Pitti Palace al Ponte Vecchio","lat":43.7674,"lng":11.2526,"area":"Oltrarno","rating":4.3,"ratingCount":3117,"stars":3,"priceTier":2}
+  ],
+  "sights": [
+    {
+      "name": "Piazzale Michelangelo",
+      "lat": 43.7629,
+      "lng": 11.265,
+      "note": "A hilltop terrace south of the Arno with a bronze David copy and the classic panorama of the Duomo, bridges and Tuscan hills, busiest at sunset.",
+      "hours": "Open 24 hours",
+      "rating": 4.7
+    },
+    {
+      "name": "Uffizi Gallery",
+      "lat": 43.7678,
+      "lng": 11.2553,
+      "note": "The Medici's former offices, now one of the world's great art museums, with Botticelli's Birth of Venus and rooms of Leonardo, Raphael and Caravaggio.",
+      "hours": "Tue–Sun 8:15 AM–6:30 PM; closed Mon",
+      "rating": 4.6,
+      "ticketUrl": "https://www.uffizi.it",
+      "bookAhead": true
+    },
+    {
+      "name": "Florence Cathedral (Duomo) and Brunelleschi's Dome",
+      "lat": 43.7731,
+      "lng": 11.256,
+      "note": "The Gothic cathedral of Santa Maria del Fiore and its red-brick dome, climbed by 463 steps to a gallery under the frescoed vault and a rooftop view.",
+      "hours": "Cathedral Mon–Sat ~10:15 AM–3:45 PM (free); dome climb ~8:15 AM–7:30 PM by timed slot",
+      "rating": 4.6,
+      "ticketUrl": "https://duomo.firenze.it",
+      "bookAhead": true
+    },
+    {
+      "name": "Galleria dell'Accademia",
+      "lat": 43.7768,
+      "lng": 11.2586,
+      "note": "Home of Michelangelo's David and his unfinished Prisoners, plus Florentine Gothic paintings and a hall of plaster casts.",
+      "hours": "Tue–Sun 8:15 AM–6:50 PM; closed Mon",
+      "rating": 4.6,
+      "ticketUrl": "https://www.galleriaaccademiafirenze.it",
+      "bookAhead": true
+    },
+    {
+      "name": "Mercato Centrale",
+      "lat": 43.7764,
+      "lng": 11.2534,
+      "note": "San Lorenzo's 19th-century iron-and-glass market: butchers and produce stalls on the ground floor, a food hall of Tuscan counters upstairs.",
+      "hours": "Food hall daily ~9:00 AM–12:00 AM; ground-floor market Mon–Sat ~7:00 AM–2:00 PM",
+      "rating": 4.3
+    },
+    {
+      "name": "Piazza della Signoria",
+      "lat": 43.7696,
+      "lng": 11.2558,
+      "note": "Florence's civic square, an open-air sculpture gallery with the Neptune Fountain, a copy of David and the Loggia dei Lanzi.",
+      "hours": "Open 24 hours",
+      "rating": 4.7
+    },
+    {
+      "name": "Ponte Vecchio",
+      "lat": 43.768,
+      "lng": 11.2531,
+      "note": "The medieval bridge lined with goldsmiths' shops, topped by the Vasari Corridor that linked the Medici palaces.",
+      "hours": "Bridge always open; shops ~10:00 AM–7:00 PM",
+      "rating": 4.3
+    },
+    {
+      "name": "Basilica of Santa Croce",
+      "lat": 43.7686,
+      "lng": 11.2622,
+      "note": "A vast Franciscan church holding the tombs of Michelangelo, Galileo and Machiavelli, Giotto frescoes and Brunelleschi's Pazzi Chapel.",
+      "hours": "Mon–Sat 9:30 AM–5:30 PM, Sun 12:30–5:45 PM",
+      "rating": 4.7,
+      "ticketUrl": "https://www.santacroceopera.it"
+    },
+    {
+      "name": "Palazzo Vecchio",
+      "lat": 43.7693,
+      "lng": 11.2563,
+      "note": "The fortress-like town hall on Piazza della Signoria, with the huge Hall of the Five Hundred, Medici apartments and the Arnolfo tower climb.",
+      "hours": "Museum ~9:00 AM–7:00 PM daily (Thu to 2:00 PM)",
+      "rating": 4.6,
+      "bookAhead": true
+    },
+    {
+      "name": "Palazzo Pitti and Boboli Gardens",
+      "lat": 43.7651,
+      "lng": 11.25,
+      "note": "The Medici's grand palace across the Arno, with the Palatine Gallery's Raphaels, royal apartments and the terraced Boboli Gardens behind.",
+      "hours": "Palace Tue–Sun 8:15 AM–6:30 PM; Boboli daily 8:15 AM to dusk (closed 1st and last Mon of month)",
+      "rating": 4.4,
+      "ticketUrl": "https://www.uffizi.it"
+    },
+    {
+      "name": "Basilica di San Miniato al Monte",
+      "lat": 43.7595,
+      "lng": 11.265,
+      "note": "A Romanesque church with a green-and-white marble facade above Piazzale Michelangelo, where monks sing Gregorian vespers at dusk.",
+      "hours": "~9:30 AM–1:00 PM and ~3:00–7:00 PM daily; free",
+      "rating": 4.7
+    },
+    {
+      "name": "Giotto's Bell Tower",
+      "lat": 43.7729,
+      "lng": 11.2556,
+      "note": "The marble-clad campanile beside the Duomo, 414 steps with no lift, giving the best close-up view of Brunelleschi's dome.",
+      "hours": "~8:15 AM–7:45 PM daily",
+      "rating": 4.7,
+      "ticketUrl": "https://duomo.firenze.it",
+      "bookAhead": true
+    },
+    {
+      "name": "Museo Galileo",
+      "lat": 43.7677,
+      "lng": 11.2563,
+      "note": "The Medici scientific collection by the Arno: Galileo's telescopes, globes, clocks and instruments, and the scientist's preserved fingers.",
+      "hours": "9:30 AM–6:00 PM daily, Tue to 1:00 PM",
+      "rating": 4.3,
+      "ticketUrl": "https://www.museogalileo.it"
+    },
+    {
+      "name": "Museo Nazionale del Bargello",
+      "lat": 43.7704,
+      "lng": 11.2582,
+      "note": "A medieval prison and police headquarters, now Italy's finest Renaissance sculpture museum, with Donatello's bronze David and works by Michelangelo.",
+      "hours": "~8:45 AM–6:00 PM; closed Tue (hours vary)",
+      "rating": 4.6
+    },
+    {
+      "name": "Medici Chapels",
+      "lat": 43.7749,
+      "lng": 11.2534,
+      "note": "The Medici mausoleum behind San Lorenzo: an inlaid-marble Chapel of the Princes and Michelangelo's New Sacristy with his Dawn, Dusk, Night and Day.",
+      "hours": "~8:15 AM–6:50 PM; closed Tue",
+      "rating": 4.5
+    },
+    {
+      "name": "Basilica of Santa Maria Novella",
+      "lat": 43.7745,
+      "lng": 11.2493,
+      "note": "A Dominican church by the main station with an Alberti facade, Masaccio's Trinity and frescoed cloisters.",
+      "hours": "Mon–Sat ~9:00 AM–5:30 PM (Fri from 11:00 AM), Sun 12:00–5:30 PM",
+      "rating": 4.5,
+      "ticketUrl": "https://www.smn.it"
+    },
+    {
+      "name": "Mercato di Sant'Ambrogio",
+      "lat": 43.7697,
+      "lng": 11.2655,
+      "note": "A neighbourhood market east of Santa Croce, cheaper and more local than Mercato Centrale, with produce stalls outside and a trattoria inside.",
+      "hours": "Mon–Sat ~7:00 AM–2:00 PM",
+      "rating": 4.4
+    }
+  ],
+  "railStations": [
+    {
+      "name": "Firenze Santa Maria Novella",
+      "lat": 43.7764,
+      "lng": 11.2481,
+      "note": "Florence's main station on the edge of the old centre: Frecciarossa and Italo high-speed trains to Rome (~1h30m), Bologna (~35 min), Milan (~1h55m) and Venice (~2h10m), plus regional trains to Pisa, Lucca and Siena. Tram T1 (Stazione Alamanni) and T2 (Unità) stop alongside, and the Duomo is a 10-min walk.",
+      "hours": "Station open ~4:15 AM–~1:30 AM; trains run to individual timetables. Trams ~5:00 AM–~12:30 AM."
+    }
+  ],
+  "airports": [
+    {
+      "name": "Florence Airport Peretola",
+      "code": "FLR",
+      "lat": 43.81,
+      "lng": 11.2051,
+      "transitNote": "Tram T2 (on the map) runs from the stop in front of the terminal to Santa Maria Novella (Unità) in ~20 min and on to San Marco in ~30 min, every 5–10 min, normal fare. Many travellers fly into Pisa (PSA) instead: the PisaMover shuttle and a train reach Santa Maria Novella in ~1h15m (not on the map).",
+      "hours": "Tram T2: first ~5:00 AM, last ~12:30 AM (~2:00 AM Fri–Sat)."
+    }
+  ]
+}

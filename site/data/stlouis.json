@@ -1,0 +1,278 @@
+{
+  "name": "St. Louis",
+  "country": "USA",
+  "flag": "🇺🇸",
+  "center": [38.635,-90.24],
+  "zoom": 12,
+  "operatingHours": "MetroLink Red and Blue Lines run ~4:00 AM–~1:00 AM daily, every ~12–15 min by day and ~20–30 min evenings and weekends. No overnight service.",
+  "fareInfo": "$2.50 single ride; a One-Day Pass ($5) covers MetroLink and Metro buses. Buy at station vending machines (cards accepted) or in the Transit app, and validate before boarding — there are no turnstiles but fare checks are common. Children 5–12 and seniors with a permit pay half; under 5 ride free.",
+  "lines": [
+    {
+      "id": "lblue",
+      "name": "MetroLink Blue Line",
+      "color": "#0072CE",
+      "code": "Blue",
+      "stations": [
+        ["Shrewsbury-Lansdowne I-44",38.5935,-90.3194],
+        ["Sunnen",38.6078,-90.3303],
+        ["Maplewood-Manchester",38.6144,-90.3315],
+        ["Brentwood I-64",38.6287,-90.338],
+        ["Richmond Heights",38.6351,-90.3422],
+        ["Clayton",38.6456,-90.3396],
+        ["Forsyth",38.649,-90.3279],
+        ["University City-Big Bend",38.6515,-90.3145],
+        ["Skinker",38.6492,-90.2998],
+        ["Forest Park-DeBaliviere",38.6477,-90.2843],
+        ["Central West End",38.6358,-90.2618],
+        ["Cortex",38.6336,-90.2509],
+        ["Grand",38.6294,-90.2351],
+        ["Union Station",38.6266,-90.2066],
+        ["Civic Center",38.6246,-90.2032],
+        ["Stadium",38.6237,-90.1944],
+        ["8th & Pine",38.6279,-90.1927],
+        ["Convention Center",38.6302,-90.1892],
+        ["Laclede's Landing",38.6294,-90.1836],
+        ["East Riverfront",38.6284,-90.1747],
+        ["5th & Missouri",38.6251,-90.1593],
+        ["Emerson Park",38.6286,-90.1367],
+        ["Jackie Joyner-Kersee Center",38.6231,-90.1241],
+        ["Washington Park",38.6135,-90.0947],
+        ["Fairview Heights",38.5933,-90.0476]
+      ]
+    },
+    {
+      "id": "lred",
+      "name": "MetroLink Red Line",
+      "color": "#DA291C",
+      "code": "Red",
+      "stations": [
+        ["Lambert Airport Terminal 1",38.7412,-90.3647],
+        ["Lambert Airport Terminal 2",38.7363,-90.3564],
+        ["North Hanley",38.7199,-90.3152],
+        ["UMSL North",38.7128,-90.3062],
+        ["UMSL South",38.7049,-90.3051],
+        ["Rock Road",38.6849,-90.3014],
+        ["Wellston",38.6681,-90.2983],
+        ["Delmar Loop",38.6555,-90.2945],
+        ["Forest Park-DeBaliviere",38.6477,-90.2843],
+        ["Central West End",38.6358,-90.2618],
+        ["Cortex",38.6336,-90.2509],
+        ["Grand",38.6294,-90.2351],
+        ["Union Station",38.6266,-90.2066],
+        ["Civic Center",38.6246,-90.2032],
+        ["Stadium",38.6237,-90.1944],
+        ["8th & Pine",38.6279,-90.1927],
+        ["Convention Center",38.6302,-90.1892],
+        ["Laclede's Landing",38.6294,-90.1836],
+        ["East Riverfront",38.6284,-90.1747],
+        ["5th & Missouri",38.6251,-90.1593],
+        ["Emerson Park",38.6286,-90.1367],
+        ["Jackie Joyner-Kersee Center",38.6231,-90.1241],
+        ["Washington Park",38.6135,-90.0947],
+        ["Fairview Heights",38.5933,-90.0476],
+        ["Memorial Hospital",38.5575,-90.0154],
+        ["Swansea",38.5358,-89.987],
+        ["Belleville",38.522,-89.9747],
+        ["College",38.5163,-89.9196],
+        ["Shiloh-Scott",38.539,-89.879]
+      ]
+    }
+  ],
+  "hotels": [
+    {"name":"Marriott St. Louis Airport","lat":38.7375,"lng":-90.3687,"area":"St. Louis Lambert International Airport","rating":4.1,"ratingCount":1732,"stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Hyatt Select St. Louis Airport","lat":38.7342,"lng":-90.3562,"area":"St. Louis Lambert International Airport","rating":4.4,"ratingCount":201,"stars":3,"priceTier":3},
+    {"name":"Drury Inn & Suites St. Louis Airport","lat":38.7377,"lng":-90.3637,"area":"St. Louis Lambert International Airport","rating":4.4,"ratingCount":537,"stars":3,"priceTier":2},
+    {"name":"Holiday Inn Express & Suites St Louis Airport by IHG","lat":38.7327,"lng":-90.3524,"area":"St. Louis Lambert International Airport","rating":4.2,"ratingCount":245,"stars":2,"priceTier":2},
+    {"name":"Pear Tree Inn St. Louis Airport","lat":38.7383,"lng":-90.3708,"area":"St. Louis Lambert International Airport","rating":4.2,"ratingCount":564,"stars":2,"priceTier":2},
+    {
+      "name": "St. Louis Union Station Hotel, Curio Collection by Hilton",
+      "lat": 38.6291,
+      "lng": -90.2077,
+      "area": "Gateway Station",
+      "rating": 4.1,
+      "ratingCount": 4435,
+      "stars": 4,
+      "priceTier": 3,
+      "brandAnchor": true
+    },
+    {"name":"Drury Plaza Hotel St. Louis Union Station","lat":38.6279,"lng":-90.2102,"area":"Gateway Station","rating":4.5,"ratingCount":1154,"stars":3,"priceTier":3},
+    {"name":"Hilton Pennywell St. Louis at the Arch","lat":38.6273,"lng":-90.1883,"area":"Downtown","rating":4.7,"ratingCount":487,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"The Westin St. Louis","lat":38.6237,"lng":-90.195,"area":"Downtown","rating":4.4,"ratingCount":2194,"stars":4,"priceTier":3},
+    {"name":"Magnolia Hotel St. Louis, a Tribute Portfolio Hotel","lat":38.63,"lng":-90.1922,"area":"Downtown","rating":4.5,"ratingCount":1355,"stars":4,"priceTier":3},
+    {"name":"Drury Plaza Hotel St. Louis at the Arch","lat":38.6247,"lng":-90.1886,"area":"Downtown","rating":4.6,"ratingCount":2817,"stars":3,"priceTier":3},
+    {"name":"Embassy Suites by Hilton St. Louis Downtown","lat":38.6306,"lng":-90.1901,"area":"Downtown","rating":4.3,"ratingCount":2001,"stars":3,"priceTier":3},
+    {"name":"Hampton Inn St. Louis-Downtown (At the Gateway Arch)","lat":38.6302,"lng":-90.1865,"area":"Laclede's Landing","rating":4.4,"ratingCount":2444,"stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Four Seasons Hotel St. Louis","lat":38.6339,"lng":-90.1849,"area":"Laclede's Landing","rating":4.6,"ratingCount":1920,"stars":5,"priceTier":4},
+    {"name":"Pear Tree Inn St. Louis Convention Center","lat":38.6312,"lng":-90.1884,"area":"Laclede's Landing","rating":4.4,"ratingCount":864,"stars":2,"priceTier":2},
+    {"name":"Home2 Suites by Hilton St. Louis/Forest Park","lat":38.6312,"lng":-90.2603,"area":"Central West End","rating":4.4,"ratingCount":823,"stars":2,"priceTier":2,"brandAnchor":true},
+    {"name":"Moonrise Hotel","lat":38.6557,"lng":-90.2987,"area":"Delmar Loop","rating":4.5,"ratingCount":1467,"stars":4,"priceTier":3}
+  ],
+  "sights": [
+    {
+      "name": "Gateway Arch",
+      "lat": 38.6247,
+      "lng": -90.1848,
+      "note": "Eero Saarinen's 630-ft stainless-steel arch; tiny tram pods climb inside each leg to a windowed viewing deck, with a free westward-expansion museum underneath.",
+      "hours": "Museum & tram 9:00 AM–6:00 PM daily (to 8:00 PM Fri–Sat in summer); last tram 1 h before close; grounds 5 AM–11 PM",
+      "rating": 4.4,
+      "ticketUrl": "https://www.gatewayarch.com",
+      "bookAhead": true
+    },
+    {
+      "name": "City Museum",
+      "lat": 38.6336,
+      "lng": -90.2006,
+      "note": "A converted shoe warehouse turned into a giant climbable playground of salvaged tunnels, slides, caves and a rooftop Ferris wheel, for kids and adults alike.",
+      "hours": "10:00 AM–6:00 PM Wed–Thu & Sun, to 9:00 PM Fri–Sat; usually closed Mon–Tue",
+      "rating": 4.7,
+      "ticketUrl": "https://citymuseum.org"
+    },
+    {
+      "name": "Saint Louis Zoo",
+      "lat": 38.6348,
+      "lng": -90.2905,
+      "note": "One of America's top free zoos, spread over Forest Park with penguins, big cats, a sea-lion basin and an apes house.",
+      "hours": "9:00 AM–4:00 PM daily (Oct–Dec); longer hours in summer. Free entry",
+      "rating": 4.7,
+      "ticketUrl": "https://www.stlzoo.org"
+    },
+    {
+      "name": "Missouri Botanical Garden",
+      "lat": 38.614,
+      "lng": -90.259,
+      "note": "A 79-acre garden founded in 1859, famous for its geodesic Climatron rainforest dome and a large Japanese garden.",
+      "hours": "9:00 AM–5:00 PM daily",
+      "rating": 4.8,
+      "ticketUrl": "https://www.missouribotanicalgarden.org"
+    },
+    {
+      "name": "Cathedral Basilica of Saint Louis",
+      "lat": 38.6425,
+      "lng": -90.2549,
+      "note": "A Romanesque-Byzantine cathedral whose domes and walls hold one of the world's largest collections of mosaics.",
+      "hours": "7:00 AM–5:00 PM daily; guided tours Mon–Fri 10 AM–3 PM",
+      "rating": 4.9
+    },
+    {
+      "name": "Busch Stadium",
+      "lat": 38.6226,
+      "lng": -90.1928,
+      "note": "Home of the St. Louis Cardinals, with the Arch framed beyond the outfield and Ballpark Village bars next door.",
+      "hours": "Cardinals home games Apr–Sep; stadium tours on selected days",
+      "rating": 4.7,
+      "ticketUrl": "https://www.mlb.com/cardinals"
+    },
+    {
+      "name": "Forest Park",
+      "lat": 38.637,
+      "lng": -90.286,
+      "note": "A 1,300-acre park bigger than Central Park, home of the 1904 World's Fair and now the zoo, art and history museums and the Muny.",
+      "hours": "6:00 AM–10:00 PM daily",
+      "rating": 4.8
+    },
+    {
+      "name": "Saint Louis Art Museum",
+      "lat": 38.6393,
+      "lng": -90.2944,
+      "note": "A free art museum in the 1904 World's Fair Palace of Fine Arts, strong on German Expressionism, American art and ancient collections.",
+      "hours": "10:00 AM–5:00 PM Tue–Sun, to 9:00 PM Fri; closed Mon. Free",
+      "rating": 4.7,
+      "ticketUrl": "https://www.slam.org"
+    },
+    {
+      "name": "Saint Louis Science Center",
+      "lat": 38.6287,
+      "lng": -90.2706,
+      "note": "A hands-on science museum with a planetarium and a glass bridge over I-64 where you can clock passing cars with radar guns.",
+      "hours": "9:30 AM–4:30 PM Mon & Wed–Sat, 11:00 AM–4:30 PM Sun; closed Tue. Free general entry",
+      "rating": 4.4,
+      "ticketUrl": "https://www.slsc.org"
+    },
+    {
+      "name": "Anheuser-Busch Brewery",
+      "lat": 38.599,
+      "lng": -90.2125,
+      "note": "The historic Budweiser brewery in Soulard, with red-brick 19th-century buildings, Clydesdale stables and tastings at the end of the tour.",
+      "hours": "Tours 11:00 AM–5:00 PM daily; biergarten to 6:00 PM",
+      "rating": 4.5,
+      "ticketUrl": "https://www.budweisertours.com"
+    },
+    {
+      "name": "The Fabulous Fox Theatre",
+      "lat": 38.6339,
+      "lng": -90.2316,
+      "note": "An opulent 1929 movie palace in Grand Center, restored as the city's main venue for touring Broadway shows and concerts.",
+      "hours": "Box office and show times vary by performance",
+      "rating": 4.7,
+      "ticketUrl": "https://www.fabulousfox.com"
+    },
+    {
+      "name": "Missouri History Museum",
+      "lat": 38.6453,
+      "lng": -90.2858,
+      "note": "A free museum in Forest Park telling the St. Louis story, from the 1904 World's Fair to Charles Lindbergh's Spirit of St. Louis.",
+      "hours": "10:00 AM–5:00 PM daily, to 8:00 PM Tue. Free",
+      "rating": 4.4,
+      "ticketUrl": "https://mohistory.org"
+    },
+    {
+      "name": "Old Courthouse",
+      "lat": 38.6257,
+      "lng": -90.1893,
+      "note": "The domed 1860s courthouse where the Dred Scott case began, reopened in 2025 after renovation with new galleries on the fight for freedom.",
+      "hours": "9:00 AM–5:00 PM daily. Free",
+      "rating": 4.4
+    },
+    {
+      "name": "Citygarden",
+      "lat": 38.6262,
+      "lng": -90.1955,
+      "note": "A free downtown sculpture park with splash fountains and works by artists like Fernand Léger and Tom Otterness.",
+      "hours": "~6:00 AM–10:00 PM daily. Free",
+      "rating": 4.5
+    },
+    {
+      "name": "Soulard Farmers Market",
+      "lat": 38.6112,
+      "lng": -90.2005,
+      "note": "A bustling market hall operating since 1779, with produce, spices, butchers and street-food stalls in the old French Soulard district.",
+      "hours": "8:00 AM–5:00 PM Wed–Sat; closed Sun–Tue",
+      "rating": 4.3
+    },
+    {
+      "name": "Tower Grove Park",
+      "lat": 38.606,
+      "lng": -90.256,
+      "note": "A Victorian strolling park with whimsical painted pavilions, ponds and ruins, beside the Botanical Garden; Saturday farmers market in season.",
+      "hours": "~6:00 AM–10:00 PM daily",
+      "rating": 4.6
+    },
+    {
+      "name": "The Delmar Loop",
+      "lat": 38.6557,
+      "lng": -90.303,
+      "note": "A lively strip of bars, music venues and diners such as Blueberry Hill, with the St. Louis Walk of Fame stars set in the sidewalk.",
+      "hours": "Shops and venues vary; liveliest evenings",
+      "rating": 3.9
+    }
+  ],
+  "railStations": [
+    {
+      "name": "Gateway Station",
+      "lat": 38.6243,
+      "lng": -90.2045,
+      "note": "St. Louis's Amtrak and Greyhound hub (Gateway Transportation Center): Lincoln Service to Chicago (~5h 30m), Missouri River Runner to Kansas City (~5h 40m) and the Texas Eagle to Dallas/San Antonio. Civic Center MetroLink (Red and Blue) is next door.",
+      "hours": "Station open ~5:00 AM–midnight. Amtrak trains run to individual timetables."
+    }
+  ],
+  "airports": [
+    {
+      "name": "St. Louis Lambert International Airport",
+      "code": "STL",
+      "lat": 38.743,
+      "lng": -90.364,
+      "transitNote": "The MetroLink Red Line (shown on map) stops at both Lambert Airport Terminal 1 and Terminal 2 and reaches Civic Center (for Gateway Station) in ~30 min and 8th & Pine downtown in ~35 min for the standard $2.50 fare.",
+      "hours": "Red Line from the airport: first ~4:15 AM, last ~12:30 AM. Late arrivals need a taxi or rideshare (~25 min downtown)."
+    }
+  ]
+}

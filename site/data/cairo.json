@@ -1,0 +1,334 @@
+{
+  "name": "Cairo",
+  "country": "Egypt",
+  "flag": "🇪🇬",
+  "center": [30.044,31.236],
+  "zoom": 12,
+  "operatingHours": "Cairo Metro (Lines 1, 2 and 3) runs ~5:00 AM–~1:00 AM daily, to ~2:00 AM during Ramadan. Trains every ~3–6 min at peak, longer late evening. Each train has women-only carriages (usually the middle cars). Line 4 to Giza is under construction (planned 2028).",
+  "fareInfo": "Fares depend on the number of stations (from 27 March 2026): up to 9 stations EGP 10, up to 16 EGP 12, up to 23 EGP 15, more than 23 EGP 20. Buy a single magnetic ticket at the station window for each trip; stored-value and subscription cards are also sold. No metro serves the airport or the Pyramids.",
+  "lines": [
+    {
+      "id": "l1",
+      "name": "Metro Line 1",
+      "color": "#0000FF",
+      "code": "1",
+      "stations": [
+        ["Helwan",29.8499,31.3341],
+        ["Ain Helwan",29.8626,31.325],
+        ["Helwan University",29.869,31.3204],
+        ["Wadi Hof",29.8794,31.3134],
+        ["Hadayeq Helwan",29.8972,31.304],
+        ["Al-Maasara",29.9061,31.2997],
+        ["Tora El-Asmant",29.9258,31.2877],
+        ["Kozzika",29.9361,31.2817],
+        ["Tora El-Balad",29.9463,31.2736],
+        ["Thakanat El-Maadi",29.9528,31.2634],
+        ["Maadi",29.9598,31.2581],
+        ["Hadayek El Maadi",29.9701,31.2506],
+        ["Dar Al-Salam",29.982,31.2422],
+        ["Al-Zahraa",29.9954,31.2313],
+        ["Mar Girgis",30.0059,31.2295],
+        ["Al-Malek Al-Saleh",30.0177,31.2312],
+        ["Sayyeda Zeinab",30.0293,31.2353],
+        ["Saad Zaghloul",30.0366,31.2381],
+        ["Sadat",30.0444,31.2356],
+        ["Nasser",30.0536,31.2388],
+        ["Orabi",30.0574,31.2427],
+        ["Shuhada",30.0618,31.2466],
+        ["Ghamra",30.069,31.2647],
+        ["Al-Demerdash",30.0773,31.2778],
+        ["Manshiet Al-Sadr",30.0822,31.2878],
+        ["Kobri Al-Qobba",30.087,31.2938],
+        ["Hammamat Al-Qobba",30.0904,31.2981],
+        ["Saray Al-Qobba",30.0981,31.3047],
+        ["Hadayeq Al-Zaitoun",30.1052,31.3099],
+        ["Helmeyet Al-Zaitoun",30.1143,31.3139],
+        ["El-Matareyya",30.1214,31.3139],
+        ["Ain Shams",30.1311,31.319],
+        ["Ezbet en Nakhl",30.1393,31.3245],
+        ["Al Marj",30.1521,31.3357],
+        ["New El-Marg",30.1636,31.3382]
+      ]
+    },
+    {
+      "id": "l2",
+      "name": "Metro Line 2",
+      "jp": "الخط الثاني",
+      "color": "#FF7000",
+      "code": "2",
+      "stations": [
+        ["Al-Mounib",29.9812,31.212],
+        ["Sakiat Mekki",29.9955,31.2086],
+        ["Omm El Misryeen",30.0051,31.208],
+        ["Giza",30.0106,31.2071],
+        ["Faisal",30.0173,31.2041],
+        ["Cairo University",30.026,31.2012],
+        ["Behooth",30.0357,31.2003],
+        ["Dokki",30.0382,31.212],
+        ["Opera",30.042,31.2252],
+        ["Sadat",30.0438,31.2346],
+        ["Mohamed Naguib",30.0454,31.2444],
+        ["Attaba",30.0524,31.2469],
+        ["Shuhada",30.0619,31.246],
+        ["Massara",30.071,31.2451],
+        ["Rawd El-Farag",30.0806,31.2454],
+        ["Sainte Teresa",30.0883,31.2454],
+        ["Al-Khalafawy",30.0978,31.2455],
+        ["Al-Mezallat",30.1041,31.2462],
+        ["Koliet El-Zeraa",30.1138,31.2487],
+        ["Shobra Al-Kheima",30.1241,31.2435]
+      ]
+    },
+    {
+      "id": "l3",
+      "name": "Metro Line 3",
+      "jp": "الخط الثالث",
+      "color": "#00AF23",
+      "code": "3",
+      "stations": [
+        ["Adly Mansour",30.147,31.4216],
+        ["El Haykestep",30.1439,31.4048],
+        ["Omar Ebn Elkhatab",30.1404,31.3945],
+        ["Qubaa",30.1348,31.3841],
+        ["Hesham Barakat",30.131,31.3731],
+        ["El Nozha",30.1281,31.3605],
+        ["El Shams Club",30.1223,31.3439],
+        ["Alf Maskan subway station",30.1181,31.3398],
+        ["Heliopolis subway station",30.108,31.3381],
+        ["Haroun",30.1011,31.3327],
+        ["Al Ahram",30.0913,31.3265],
+        ["Koleyet El Banat",30.0837,31.3288],
+        ["Stadium",30.073,31.3174],
+        ["Cairo Fairground",30.0733,31.3011],
+        ["Abbassia",30.0728,31.2841],
+        ["Abdou Pasha",30.0654,31.2765],
+        ["El Geish",30.0623,31.268],
+        ["Bab el Shaaria",30.0537,31.2559],
+        ["Attaba subway station",30.0528,31.2493],
+        ["Nasser",30.0535,31.2388],
+        ["Masbero",30.0555,31.2322],
+        ["Safaa Hegazy",30.0624,31.2225],
+        ["Kit-kat",30.0668,31.213],
+        ["Sudan",30.0698,31.2053],
+        ["Imbaba",30.0759,31.2076],
+        ["Al-Bohy",30.0821,31.2105],
+        ["Al-Kawmeiah",30.0932,31.2089],
+        ["Ring Road",30.0964,31.1996],
+        ["El-Dabaa Axis Metro Station (Rod El-Farag Axis)",30.1019,31.1842]
+      ]
+    },
+    {
+      "id": "l3_b1",
+      "name": "Metro Line 3 (branch to Cairo University)",
+      "jp": "الخط الثالث",
+      "color": "#00AF23",
+      "code": "3",
+      "stations": [
+        ["Cairo University",30.0249,31.2014],
+        ["Bulaq Al-Dakrour",30.0375,31.1955],
+        ["Gamet El Dowel",30.0509,31.1997],
+        ["Wadi El Nile",30.0585,31.201],
+        ["Al-Tawfikia",30.0651,31.2022],
+        ["Kit-kat",30.0668,31.213],
+        ["Safaa Hegazy",30.0624,31.2225],
+        ["Masbero",30.0555,31.2322],
+        ["Nasser",30.0534,31.2388],
+        ["Attaba subway station",30.0527,31.2493],
+        ["Bab el Shaaria",30.0537,31.2559],
+        ["El Geish",30.0623,31.268],
+        ["Abdou Pasha",30.0654,31.2765],
+        ["Abbassia",30.0728,31.2841],
+        ["Cairo Fairground",30.0733,31.3012],
+        ["Stadium",30.0729,31.3174],
+        ["Koleyet El Banat",30.0837,31.3288],
+        ["Al Ahram",30.0913,31.3265],
+        ["Haroun",30.1011,31.3328],
+        ["Heliopolis subway station",30.108,31.3382],
+        ["Alf Maskan subway station",30.1181,31.3399],
+        ["El Shams Club",30.1223,31.344],
+        ["El Nozha",30.1281,31.3605],
+        ["Hesham Barakat",30.1309,31.3731],
+        ["Qubaa",30.1347,31.3841],
+        ["Omar Ebn Elkhatab",30.1404,31.3945],
+        ["El Haykestep",30.1439,31.4049],
+        ["Adly Mansour",30.1469,31.4216]
+      ]
+    }
+  ],
+  "hotels": [
+    {"name":"Le Méridien Cairo Airport","lat":30.1137,"lng":31.3953,"area":"Cairo International Airport","rating":4.4,"ratingCount":1997,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Le Passage Cairo Hotel & Casino","lat":30.1215,"lng":31.4005,"area":"Cairo International Airport","rating":4.5,"ratingCount":4977,"stars":5,"priceTier":3},
+    {"name":"InterContinental Cairo Semiramis by IHG","lat":30.0428,"lng":31.2323,"area":"Downtown","rating":4.4,"ratingCount":4607,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"The Nile Ritz-Carlton, Cairo","lat":30.0459,"lng":31.2326,"area":"Downtown","rating":4.3,"ratingCount":1402,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Kempinski Nile Hotel Cairo","lat":30.0387,"lng":31.2307,"area":"Downtown","rating":4.8,"ratingCount":7084,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Ramses Hilton","lat":30.0505,"lng":31.232,"area":"Downtown","rating":4.3,"ratingCount":7060,"stars":5,"priceTier":3,"brandAnchor":true},
+    {"name":"Dahab Hostel","lat":30.0481,"lng":31.2374,"area":"Downtown","rating":4.5,"ratingCount":674,"stars":1,"priceTier":1},
+    {"name":"Cairo Marriott Hotel","lat":30.0571,"lng":31.2246,"area":"Zamalek","rating":4.5,"ratingCount":5413,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Hilton Cairo Zamalek Residences","lat":30.0676,"lng":31.2226,"area":"Zamalek","rating":4.6,"ratingCount":3195,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Flamenco Hotel Cairo","lat":30.0659,"lng":31.216,"area":"Zamalek","rating":4.1,"ratingCount":853,"stars":4,"priceTier":3},
+    {"name":"Best View Pyramids Hotel","lat":29.9735,"lng":31.1421,"area":"Giza Pyramids","rating":4.7,"ratingCount":2452,"stars":3,"priceTier":2},
+    {"name":"Horus Guest House Pyramids View","lat":29.9742,"lng":31.1422,"area":"Giza Pyramids","rating":4.4,"ratingCount":119,"stars":2,"priceTier":2}
+  ],
+  "sights": [
+    {
+      "name": "Egyptian Museum",
+      "lat": 30.0478,
+      "lng": 31.2336,
+      "note": "The pink neoclassical museum on Tahrir Square holding the world's largest collection of pharaonic antiquities; many Tutankhamun pieces have moved to the Grand Egyptian Museum, but the halls remain packed with statues, coffins and papyri.",
+      "hours": "~9:00 AM–5:00 PM daily",
+      "rating": 4.5
+    },
+    {
+      "name": "Khan el-Khalili",
+      "lat": 30.0477,
+      "lng": 31.2623,
+      "note": "The medieval bazaar of Islamic Cairo, a warren of lanes selling brass lamps, spices, perfume and silver, with the historic El Fishawy café at its edge.",
+      "hours": "Most shops ~10:00 AM–~11:00 PM; quieter Sunday mornings",
+      "rating": 4.1
+    },
+    {
+      "name": "Sharia al-Muizz",
+      "lat": 30.05,
+      "lng": 31.2613,
+      "note": "The main street of Fatimid Cairo, a pedestrianised stretch of mosques, madrasas and Mamluk mansions such as the Qalawun complex, especially atmospheric when lit at night.",
+      "hours": "Open street; individual monuments ~9:00 AM–5:00 PM",
+      "rating": 4.6
+    },
+    {
+      "name": "Al-Azhar Mosque",
+      "lat": 30.0457,
+      "lng": 31.2627,
+      "note": "Founded in 970, one of the oldest mosques in Cairo and the seat of Al-Azhar University, with a broad marble courtyard and five minarets from different eras.",
+      "hours": "Visits ~9:00 AM–~9:00 PM outside prayer times; modest dress, headscarves for women",
+      "rating": 4.5
+    },
+    {
+      "name": "Al-Azhar Park",
+      "lat": 30.0405,
+      "lng": 31.2646,
+      "note": "A landscaped hilltop park built on a former rubbish mound, with fountains, gardens, a lakeside café and views over the minarets of Islamic Cairo to the Citadel.",
+      "hours": "~9:00 AM–~10:00 PM daily",
+      "rating": 4.5
+    },
+    {
+      "name": "Citadel of Saladin & Mosque of Muhammad Ali",
+      "lat": 30.0287,
+      "lng": 31.2599,
+      "note": "Saladin's 12th-century hilltop fortress, crowned by the Ottoman-style Alabaster Mosque of Muhammad Ali, with terraces looking over the whole city.",
+      "hours": "~8:00 AM–5:00 PM daily",
+      "rating": 4.5,
+      "ticketUrl": "https://egymonuments.gov.eg"
+    },
+    {
+      "name": "Mosque-Madrasa of Sultan Hassan",
+      "lat": 30.0319,
+      "lng": 31.2567,
+      "note": "A huge 14th-century Mamluk mosque and school below the Citadel, with soaring iwans around a central courtyard; the Al-Rifai Mosque stands directly opposite.",
+      "hours": "~8:00 AM–5:00 PM daily",
+      "rating": 4.6
+    },
+    {
+      "name": "Mosque of Ibn Tulun",
+      "lat": 30.0289,
+      "lng": 31.2494,
+      "note": "Cairo's oldest intact mosque (879), a vast arcaded courtyard with an unusual spiral-staired minaret; the Gayer-Anderson Museum adjoins it.",
+      "hours": "~8:00 AM–5:00 PM daily",
+      "rating": 4.6
+    },
+    {
+      "name": "Museum of Islamic Art",
+      "lat": 30.0447,
+      "lng": 31.2528,
+      "note": "One of the largest Islamic art collections anywhere, with ceramics, woodwork, metalwork and manuscripts from across the Islamic world.",
+      "hours": "~9:00 AM–5:00 PM daily",
+      "rating": 4.6
+    },
+    {
+      "name": "The Hanging Church",
+      "lat": 30.0053,
+      "lng": 31.2302,
+      "note": "Cairo's best-known Coptic church, built above the gatehouse of the Roman Babylon Fortress and reached by a stair from the street, in the Coptic quarter of Old Cairo.",
+      "hours": "~9:00 AM–4:00 PM daily",
+      "rating": 4.5
+    },
+    {
+      "name": "Coptic Museum",
+      "lat": 30.006,
+      "lng": 31.2306,
+      "note": "The world's largest collection of Coptic Christian art, from textiles and icons to carved wood and early manuscripts, inside the old Roman fortress walls.",
+      "hours": "~9:00 AM–5:00 PM daily",
+      "rating": 4.4
+    },
+    {
+      "name": "National Museum of Egyptian Civilization",
+      "lat": 30.0083,
+      "lng": 31.248,
+      "note": "A modern museum in Fustat tracing Egypt from prehistory to today; its underground Royal Mummies Hall displays the pharaohs moved here in 2021.",
+      "hours": "~9:00 AM–6:00 PM daily",
+      "rating": 4.6,
+      "ticketUrl": "https://nmec.gov.eg"
+    },
+    {
+      "name": "Cave Church (Monastery of St. Simon)",
+      "lat": 30.0335,
+      "lng": 31.278,
+      "note": "A cluster of churches carved into the Mokattam cliffs above Manshiyat Naser, including an amphitheatre-like main church seating thousands.",
+      "hours": "~8:00 AM–5:00 PM daily; services Sunday",
+      "rating": 4.6
+    },
+    {
+      "name": "Manial Palace",
+      "lat": 30.0274,
+      "lng": 31.2298,
+      "note": "The early-20th-century palace of Prince Mohamed Ali Tewfik on Roda Island, mixing Ottoman, Moorish and Persian styles amid banyan-shaded gardens.",
+      "hours": "~9:00 AM–5:00 PM daily",
+      "rating": 4.5
+    },
+    {
+      "name": "Cairo Tower",
+      "lat": 30.0459,
+      "lng": 31.2243,
+      "note": "A 187 m lattice-patterned tower on Gezira Island from 1961, with an open-air observation deck over the Nile and, on clear days, the Pyramids.",
+      "hours": "~9:00 AM–midnight daily",
+      "rating": 3.9
+    },
+    {
+      "name": "Pyramids of Giza",
+      "lat": 29.9792,
+      "lng": 31.1342,
+      "note": "The last surviving wonder of the ancient world: the pyramids of Khufu, Khafre and Menkaure and the Great Sphinx on the desert plateau, ~18 km southwest of Tahrir (listed under Giza on TripAdvisor).",
+      "hours": "~7:00 AM–5:00 PM daily (later in summer)",
+      "rating": 4.6,
+      "ticketUrl": "https://egymonuments.gov.eg"
+    },
+    {
+      "name": "Grand Egyptian Museum",
+      "lat": 29.995,
+      "lng": 31.1193,
+      "note": "The vast new museum near the Pyramids, fully opened in November 2025, showing the complete Tutankhamun collection and a colossal statue of Ramesses II in the atrium.",
+      "hours": "~9:00 AM–6:00 PM daily, later on some evenings",
+      "rating": 4.6,
+      "ticketUrl": "https://gem.eg",
+      "bookAhead": true
+    }
+  ],
+  "railStations": [
+    {
+      "name": "Ramses Station",
+      "lat": 30.0626,
+      "lng": 31.2467,
+      "note": "Cairo's main railway station, with Egyptian National Railways trains to Alexandria (~2.5 h), Luxor and Aswan (sleeper trains leave from Giza station). Connected to Al Shohadaa metro interchange on Lines 1 and 2.",
+      "hours": "Trains around the clock by timetable; metro at Al Shohadaa ~5:00 AM–~1:00 AM."
+    }
+  ],
+  "airports": [
+    {
+      "name": "Cairo International Airport",
+      "code": "CAI",
+      "lat": 30.112,
+      "lng": 31.4,
+      "transitNote": "About 20 km northeast of downtown; no metro or rail link on this map. Taxis and ride-hailing take ~40–60 min to Tahrir depending on traffic; airport shuttle buses connect Terminals 1, 2 and 3.",
+      "hours": "Airport open 24 hours; taxis and ride-hailing available at all times."
+    }
+  ]
+}

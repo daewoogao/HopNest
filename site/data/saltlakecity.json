@@ -1,0 +1,316 @@
+{
+  "name": "Salt Lake City",
+  "country": "USA",
+  "flag": "🇺🇸",
+  "center": [40.7608,-111.891],
+  "zoom": 12,
+  "operatingHours": "TRAX (Blue, Red, Green lines) runs ~5:00 AM–~11:30 PM Mon–Sat, every ~15 min on weekdays; Sunday service is reduced (~every 20–30 min, ending earlier). The S-Line streetcar runs ~5:30 AM–~11:00 PM, every ~15–20 min. FrontRunner commuter rail has no Sunday service. No all-night rail.",
+  "fareInfo": "Flat $2.50 one-way on TRAX, the S-Line, buses and FrontRunner's base fare (2026), with 2 hours of transfers; day pass $5. Tap a contactless card/phone or FAREPAY card at the platform validators, or buy in the Transit app; the airport ride costs the same $2.50. Downtown TRAX stations (~Salt Lake Central to Courthouse) are in the Free Fare Zone. UTA has proposed raising the base fare to $3, likely in 2027.",
+  "lines": [
+    {
+      "id": "l701",
+      "name": "TRAX Blue Line",
+      "color": "#004A97",
+      "code": "Blue",
+      "stations": [
+        ["Salt Lake Central",40.7617,-111.9082],
+        ["Old GreekTown",40.765,-111.9058],
+        ["Planetarium",40.7669,-111.9025],
+        ["Arena",40.7693,-111.9001],
+        ["Temple Square",40.7693,-111.8943],
+        ["City Center",40.7675,-111.8912],
+        ["Gallivan Plaza",40.7631,-111.8912],
+        ["Courthouse",40.7588,-111.8911],
+        ["600 South",40.7552,-111.8911],
+        ["900 South",40.7501,-111.8969],
+        ["Ballpark",40.7419,-111.8969],
+        ["Central Pointe",40.7241,-111.8969],
+        ["Millcreek",40.7004,-111.897],
+        ["Meadowbrook",40.6873,-111.8966],
+        ["Murray North",40.6765,-111.8941],
+        ["Murray Central",40.6596,-111.8957],
+        ["Fashion Place West",40.6331,-111.8984],
+        ["Midvale Fort Union",40.6188,-111.8984],
+        ["Midvale Center",40.61,-111.8927],
+        ["Historic Sandy",40.5891,-111.8858],
+        ["Sandy Expo",40.581,-111.8864],
+        ["Sandy Civic Center",40.5703,-111.8845],
+        ["Crescent View",40.5446,-111.8785],
+        ["Kimballs Lane",40.5359,-111.8719],
+        ["Draper Town Center",40.5255,-111.8588]
+      ]
+    },
+    {
+      "id": "l703",
+      "name": "TRAX Red Line",
+      "color": "#BE2036",
+      "code": "Red",
+      "stations": [
+        ["University Medical Center",40.7699,-111.8392],
+        ["Fort Douglas",40.7641,-111.8365],
+        ["University South Campus",40.7601,-111.84],
+        ["Stadium",40.7593,-111.8522],
+        ["900 East",40.7607,-111.8667],
+        ["Trolley",40.7607,-111.8735],
+        ["Library",40.7607,-111.885],
+        ["Courthouse",40.7588,-111.8911],
+        ["600 South",40.7552,-111.8911],
+        ["900 South",40.7501,-111.8969],
+        ["Ballpark",40.7419,-111.8969],
+        ["Central Pointe",40.7241,-111.8969],
+        ["Millcreek",40.7004,-111.897],
+        ["Meadowbrook",40.6873,-111.8966],
+        ["Murray North",40.6765,-111.8941],
+        ["Murray Central",40.6596,-111.8957],
+        ["Fashion Place West",40.633,-111.8985],
+        ["Bingham Junction",40.6171,-111.916],
+        ["Historic Gardner",40.6078,-111.9249],
+        ["West Jordan City Center",40.6048,-111.937],
+        ["2700 West Sugar Factory Road",40.599,-111.9574],
+        ["Jordan Valley",40.5947,-111.9723],
+        ["4800 West Old Bingham Highway",40.5813,-112.0047],
+        ["5600 West Old Bingham Highway",40.5687,-112.0249],
+        ["South Jordan Parkway",40.5582,-112.0247],
+        ["South Jordan Downtown",40.5496,-112.0195],
+        ["Daybreak Parkway",40.5437,-112.0138]
+      ]
+    },
+    {
+      "id": "l704",
+      "name": "TRAX Green Line",
+      "color": "#2EB566",
+      "code": "Green",
+      "stations": [
+        ["Airport",40.7843,-111.9821],
+        ["1940 West North Temple",40.7715,-111.9456],
+        ["Power",40.7715,-111.9334],
+        ["Fairpark",40.7715,-111.9237],
+        ["Jackson/Euclid",40.7715,-111.9143],
+        ["North Temple Bridge/Guadalupe",40.7716,-111.9044],
+        ["Arena",40.7693,-111.9001],
+        ["Temple Square",40.7693,-111.8943],
+        ["City Center",40.7675,-111.8912],
+        ["Gallivan Plaza",40.7631,-111.8912],
+        ["Courthouse",40.7588,-111.8911],
+        ["600 South",40.7552,-111.8911],
+        ["900 South",40.7501,-111.8969],
+        ["Ballpark",40.7419,-111.8969],
+        ["Central Pointe",40.7241,-111.8969],
+        ["River Trail",40.7198,-111.9239],
+        ["Redwood Junction",40.7112,-111.9404],
+        ["Decker Lake",40.7042,-111.9487],
+        ["West Valley Central",40.6944,-111.96]
+      ]
+    },
+    {
+      "id": "l720",
+      "name": "S-Line Streetcar",
+      "color": "#7A7A7A",
+      "code": "S",
+      "stations": [
+        ["Fairmont",40.7228,-111.8616],
+        ["Sugarmont",40.7228,-111.8652],
+        ["700 East",40.7228,-111.8717],
+        ["500 East",40.7223,-111.8772],
+        ["300 East",40.7223,-111.8824],
+        ["South Salt Lake City",40.7223,-111.8902],
+        ["Central Pointe",40.7235,-111.8968]
+      ]
+    }
+  ],
+  "hotels": [
+    {"name":"Homewood Suites by Hilton Salt Lake City-Downtown","lat":40.7624,"lng":-111.9034,"area":"Salt Lake Central","rating":4.1,"ratingCount":1258,"stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Hyatt Place Salt Lake City Airport","lat":40.7709,"lng":-112.0018,"area":"Salt Lake City International Airport","rating":4,"ratingCount":1126,"stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Comfort Suites Salt Lake City Airport","lat":40.7732,"lng":-111.9506,"area":"Salt Lake City International Airport","rating":4.3,"ratingCount":432,"stars":2,"priceTier":2},
+    {
+      "name": "Holiday Inn Express & Suites Salt Lake City-Airport East",
+      "lat": 40.774,
+      "lng": -111.9503,
+      "area": "Salt Lake City International Airport",
+      "rating": 4,
+      "ratingCount": 270,
+      "stars": 2,
+      "priceTier": 2,
+      "brandAnchor": true
+    },
+    {"name":"Hyatt Place Salt Lake City/Downtown/The Gateway","lat":40.7708,"lng":-111.903,"area":"The Gateway","rating":4.3,"ratingCount":1556,"stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Hyatt House Salt Lake City/Downtown","lat":40.7666,"lng":-111.9001,"area":"The Gateway","rating":4.4,"ratingCount":862,"stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Le Méridien Salt Lake City Downtown","lat":40.7663,"lng":-111.8993,"area":"The Gateway","rating":4.5,"ratingCount":330,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Element by Marriott Salt Lake City Downtown","lat":40.7663,"lng":-111.8988,"area":"The Gateway","rating":4.7,"ratingCount":256,"stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Courtyard by Marriott Salt Lake City Downtown","lat":40.7669,"lng":-111.901,"area":"The Gateway","rating":4.3,"ratingCount":231,"stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Hyatt Regency Salt Lake City","lat":40.7656,"lng":-111.8946,"area":"Temple Square","rating":4.4,"ratingCount":1046,"stars":4,"priceTier":4,"brandAnchor":true},
+    {"name":"Salt Lake Marriott Downtown at City Creek","lat":40.7676,"lng":-111.8931,"area":"Temple Square","rating":4,"ratingCount":1007,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Kimpton Hotel Monaco Salt Lake City","lat":40.7647,"lng":-111.8917,"area":"Temple Square","rating":4.3,"ratingCount":1579,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Holiday Inn Express Salt Lake City Downtown","lat":40.7646,"lng":-111.8946,"area":"Temple Square","rating":4,"ratingCount":486,"stars":2,"priceTier":2,"brandAnchor":true},
+    {"name":"Hilton Salt Lake City Center","lat":40.7639,"lng":-111.8933,"area":"Downtown","rating":4.1,"ratingCount":2010,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"The Grand America Hotel","lat":40.7574,"lng":-111.8897,"area":"Downtown","rating":4.7,"ratingCount":2193,"stars":5,"priceTier":4},
+    {"name":"Little America Hotel","lat":40.7577,"lng":-111.892,"area":"Downtown","rating":4.2,"ratingCount":2694,"stars":4,"priceTier":3},
+    {"name":"Hampton Inn Salt Lake City-Downtown","lat":40.76,"lng":-111.899,"area":"Downtown","rating":4.4,"ratingCount":1236,"stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Crystal Inn Hotel & Suites Salt Lake City-Downtown","lat":40.7592,"lng":-111.8981,"area":"Downtown","rating":4.3,"ratingCount":1556,"stars":3,"priceTier":2}
+  ],
+  "sights": [
+    {
+      "name": "Temple Square",
+      "lat": 40.7697,
+      "lng": -111.892,
+      "note": "Ten-acre headquarters campus of The Church of Jesus Christ of Latter-day Saints, with gardens, historic buildings and a new visitors' center (opened July 2026). Free; the temple itself is still behind renovation fencing.",
+      "hours": "Grounds 7:00 AM–10:00 PM daily",
+      "rating": 4.5
+    },
+    {
+      "name": "Natural History Museum of Utah",
+      "lat": 40.7643,
+      "lng": -111.8227,
+      "note": "Copper-clad museum on the foothills above the university, known for its dinosaur hall and sweeping valley views.",
+      "hours": "10:00 AM–5:00 PM daily, till 9:00 PM Wed",
+      "rating": 4.7,
+      "ticketUrl": "https://nhmu.utah.edu"
+    },
+    {
+      "name": "Salt Lake Tabernacle",
+      "lat": 40.7705,
+      "lng": -111.8935,
+      "note": "1867 domed hall with famously sharp acoustics and a giant pipe organ; home of the Tabernacle Choir's Sunday broadcast.",
+      "hours": "Daily ~9:00 AM–9:00 PM; Music & the Spoken Word Sun 9:30 AM (free)",
+      "rating": 4.6
+    },
+    {
+      "name": "Tracy Aviary",
+      "lat": 40.7448,
+      "lng": -111.8757,
+      "note": "One of the oldest public bird parks in the US, set inside Liberty Park, with free-flight shows and walk-through habitats.",
+      "hours": "9:00 AM–5:00 PM daily",
+      "rating": 4.5,
+      "ticketUrl": "https://tracyaviary.org"
+    },
+    {
+      "name": "Cathedral of the Madeleine",
+      "lat": 40.7697,
+      "lng": -111.8796,
+      "note": "Romanesque-Gothic Catholic cathedral from 1909 with a vividly painted interior and stained glass.",
+      "hours": "Open daily between services (~7:00 AM–6:00 PM); free",
+      "rating": 4.7
+    },
+    {
+      "name": "Utah State Capitol",
+      "lat": 40.7774,
+      "lng": -111.8882,
+      "note": "Neoclassical domed capitol on Capitol Hill with marble halls, free tours and views down State Street.",
+      "hours": "Mon–Fri 7:00 AM–8:00 PM, Sat–Sun 8:00 AM–6:00 PM; free",
+      "rating": 4.5
+    },
+    {
+      "name": "Salt Lake Temple",
+      "lat": 40.7705,
+      "lng": -111.8916,
+      "note": "The six-spired granite temple that took 40 years to build. Closed for seismic renovation; public tours run only during the April 5–October 1, 2027 open house, by free timed reservation.",
+      "hours": "Closed for renovation; open-house tours Apr 5–Oct 1, 2027 (Mon–Sat 8:40 AM–8:00 PM, Sun noon–8:00 PM)",
+      "rating": 4.4,
+      "ticketUrl": "https://www.templesquare.org",
+      "bookAhead": true
+    },
+    {
+      "name": "Utah's Hogle Zoo",
+      "lat": 40.7503,
+      "lng": -111.8146,
+      "note": "Hillside zoo at the mouth of Emigration Canyon with a polar bear and African savanna exhibits.",
+      "hours": "~9:00 AM–5:00 PM daily (to 6:00 PM in summer)",
+      "rating": 4.1,
+      "ticketUrl": "https://www.hoglezoo.org"
+    },
+    {
+      "name": "Clark Planetarium",
+      "lat": 40.7667,
+      "lng": -111.903,
+      "note": "Space science center at The Gateway with free exhibit floors plus a dome theater and IMAX screen.",
+      "hours": "~10:30 AM–evening daily, later Fri–Sat; exhibits free, shows ticketed",
+      "rating": 4.3,
+      "ticketUrl": "https://clarkplanetarium.org"
+    },
+    {
+      "name": "This Is The Place Heritage Park",
+      "lat": 40.7524,
+      "lng": -111.8156,
+      "note": "Living-history pioneer village and monument where Brigham Young's party first saw the valley in 1847.",
+      "hours": "~9:00 AM–5:00 PM Mon–Sat, closed Sun; village fully staffed mainly in summer",
+      "rating": 4.4,
+      "ticketUrl": "https://www.thisistheplace.org"
+    },
+    {
+      "name": "Ensign Peak",
+      "lat": 40.7886,
+      "lng": -111.8876,
+      "note": "Short, steep half-mile hike from the Avenues to a summit viewpoint over downtown and the Great Salt Lake.",
+      "hours": "Trail open dawn–dusk; free",
+      "rating": 4.6
+    },
+    {
+      "name": "Salt Lake City Public Library",
+      "lat": 40.7608,
+      "lng": -111.8848,
+      "note": "Moshe Safdie's curving glass main library, with a walkable rooftop garden and city views.",
+      "hours": "Mon–Thu 9:00 AM–9:00 PM, Fri–Sat 9:00 AM–6:00 PM, Sun 1:00–5:00 PM",
+      "rating": 4.6
+    },
+    {
+      "name": "Liberty Park",
+      "lat": 40.7457,
+      "lng": -111.8743,
+      "note": "The city's big Victorian-era park, with a pond, paddle boats in summer, tennis courts and Tracy Aviary.",
+      "hours": "Open daily, early morning to ~11:00 PM; free",
+      "rating": 4.5
+    },
+    {
+      "name": "Church History Museum",
+      "lat": 40.7708,
+      "lng": -111.8952,
+      "note": "Free museum on the west side of Temple Square covering Latter-day Saint history, art and pioneer artifacts.",
+      "hours": "~10:00 AM–6:00 PM Mon–Sat, closed Sun; free",
+      "rating": 4.6
+    },
+    {
+      "name": "Conference Center",
+      "lat": 40.7726,
+      "lng": -111.8925,
+      "note": "Huge 21,000-seat church assembly hall with free tours to a rooftop garden of native plants and meadow grasses.",
+      "hours": "Daily ~9:00 AM–9:00 PM, free tours",
+      "rating": 4.7
+    },
+    {
+      "name": "Memory Grove Park",
+      "lat": 40.774,
+      "lng": -111.8865,
+      "note": "Shaded ravine park with war memorials and a creekside path that leads up City Creek Canyon.",
+      "hours": "Open daily dawn–dusk; free",
+      "rating": 4.5
+    },
+    {
+      "name": "Red Butte Garden",
+      "lat": 40.7665,
+      "lng": -111.8245,
+      "note": "University of Utah botanical garden and arboretum in the foothills, with themed gardens, trails and a summer concert series.",
+      "hours": "Daily, ~9:00 AM–5:00 PM in autumn/winter (to ~7:30 PM in summer)",
+      "rating": 4.7,
+      "ticketUrl": "https://redbuttegarden.org"
+    }
+  ],
+  "railStations": [
+    {
+      "name": "Salt Lake Central",
+      "lat": 40.7617,
+      "lng": -111.9082,
+      "note": "Intermodal hub: Amtrak's California Zephyr (Chicago–Denver–Emeryville), FrontRunner commuter rail to Ogden and Provo, and the western terminus of TRAX Blue Line (on this map). ~15 min by TRAX to Temple Square.",
+      "hours": "Zephyr calls late at night (~11 PM westbound, ~3:30–4 AM eastbound); TRAX ~5:00 AM–~11:30 PM"
+    }
+  ],
+  "airports": [
+    {
+      "name": "Salt Lake City International Airport",
+      "code": "SLC",
+      "lat": 40.785,
+      "lng": -111.981,
+      "transitNote": "TRAX Green Line (on this map) leaves from the ground-level station just east of the terminal (exit door 1A); ~20–25 min to Temple Square/City Center downtown for $2.50, every ~15 min. Taxi or rideshare ~$25–35, about 15 min.",
+      "hours": "Green Line: first train ~5:00 AM, last ~11:00 PM (shorter on Sundays)"
+    }
+  ]
+}

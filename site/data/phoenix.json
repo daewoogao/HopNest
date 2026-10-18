@@ -1,0 +1,309 @@
+{
+  "name": "Phoenix",
+  "country": "USA",
+  "flag": "🇺🇸",
+  "center": [33.4484,-112.074],
+  "zoom": 12,
+  "operatingHours": "Valley Metro Rail (A and B lines) runs ~4:00 AM–~midnight daily, every ~12–20 min, with later trains (~2:00 AM) on Friday and Saturday nights. The Tempe Streetcar runs ~5:00 AM–~11:00 PM (shorter hours on Sundays). PHX Sky Train runs 24 h, every ~3–5 min.",
+  "fareInfo": "Light rail and buses: $2 per ride, $4 for a 1-day pass (2026). Tap a Copper card or the Valley Metro app and fares cap at $4/day, $20/week and $64/month; paper tickets from platform machines. Tempe Streetcar: $1 per 45-minute ride, counted toward the same caps. PHX Sky Train is free.",
+  "lines": [
+    {
+      "id": "la",
+      "name": "Valley Metro A Line",
+      "color": "#448BCD",
+      "code": "A",
+      "stations": [
+        ["Downtown Phoenix Hub/Jefferson Street",33.4471,-112.0741],
+        ["3rd Street/Jefferson",33.4463,-112.0689],
+        ["12th St/Jefferson",33.4472,-112.0552],
+        ["24th St/Jefferson",33.4472,-112.0288],
+        ["38th St/Washington",33.4481,-111.9994],
+        ["44th St/Washington",33.4481,-111.9875],
+        ["50th St/Washington",33.4469,-111.9746],
+        ["Priest Dr/Washington",33.4417,-111.9559],
+        ["Center Pkwy/Washington",33.4378,-111.9463],
+        ["Mill Ave/3rd St",33.4275,-111.9402],
+        ["Veterans Way/College Ave",33.426,-111.9355],
+        ["University Dr/Rural Rd",33.4204,-111.9266],
+        ["Dorsey/Apache Blvd",33.4147,-111.9164],
+        ["McClintock/Apache Blvd",33.4147,-111.9076],
+        ["Smith-Martin/Apache Blvd",33.4148,-111.9003],
+        ["Price-101 Fwy/Apache Blvd",33.4148,-111.8877],
+        ["Sycamore/Main St",33.4148,-111.8705],
+        ["Alma School/Main St",33.4149,-111.8548],
+        ["Country Club/Main St",33.4151,-111.8384],
+        ["Center/Main St",33.4151,-111.8302],
+        ["Mesa Dr/Main St",33.415,-111.8217],
+        ["Stapley Dr/Main St",33.4152,-111.8027],
+        ["Gilbert Road/Main Street",33.4153,-111.7904]
+      ]
+    },
+    {
+      "id": "lb",
+      "name": "Valley Metro B Line",
+      "color": "#F58D20",
+      "code": "B",
+      "stations": [
+        ["Baseline/Central Avenue",33.3784,-112.0732],
+        ["Southern/Central Ave",33.392,-112.0733],
+        ["Roeser/Central Ave",33.3994,-112.0733],
+        ["Broadway/Central Ave",33.4064,-112.0733],
+        ["Pioneer/Central Ave",33.4184,-112.0734],
+        ["Buckeye/Central Ave",33.4366,-112.0737],
+        ["Lincoln/Central Ave",33.4419,-112.0738],
+        ["Downtown Phoenix Hub/Central Avenue",33.4481,-112.0739],
+        ["Washington/Central Ave",33.4492,-112.0739],
+        ["Van Buren/Central Ave",33.4523,-112.0739],
+        ["Roosevelt/Central Avenue",33.4597,-112.0738],
+        ["McDowell/Central Ave",33.4651,-112.0738],
+        ["Encanto/Central Ave",33.4741,-112.0738],
+        ["Thomas/Central Ave",33.4816,-112.0737],
+        ["Osborn/Central Avenue",33.4872,-112.0738],
+        ["Indian School/Central Ave",33.4961,-112.0737],
+        ["Campbell/Central Avenue",33.5018,-112.0737],
+        ["Central Ave/Camelback",33.5088,-112.0757],
+        ["7th Ave/Camelback",33.5094,-112.0838],
+        ["19th Ave/Camelback",33.5096,-112.0993],
+        ["Montebello/19th Ave",33.521,-112.0997],
+        ["Glendale/19th Avenue",33.538,-112.0996],
+        ["Northern/19th Ave",33.5526,-112.0996],
+        ["19th Ave/Dunlap",33.5674,-112.1013],
+        ["25th Ave/Dunlap",33.5676,-112.1118],
+        ["Mountain View/25th Ave",33.5734,-112.1121],
+        ["Metro Parkway",33.5752,-112.1189]
+      ]
+    },
+    {
+      "id": "lpst",
+      "name": "PHX Sky Train",
+      "color": "#6A8EAE",
+      "code": "SkyTrain",
+      "stations": [
+        ["44th Street",33.4469,-111.9899],
+        ["East Economy Parking",33.4345,-111.9855],
+        ["Terminal 4",33.4348,-111.9987],
+        ["Terminal 3",33.4348,-112.0106],
+        ["24th Street",33.4353,-112.0332],
+        ["Rental Car Center",33.4307,-112.0447]
+      ]
+    },
+    {
+      "id": "ls",
+      "name": "Tempe Streetcar",
+      "color": "#9BB14F",
+      "code": "S",
+      "stations": [
+        ["Marina Heights / Rio Salado Pkwy",33.4294,-111.9327],
+        ["Hayden Ferry / Rio Salado Pkwy",33.4301,-111.9382],
+        ["Tempe Beach Park / Rio Salado Pkwy",33.4295,-111.9416],
+        ["3rd St / Ash Ave",33.4273,-111.943],
+        ["5th St / Ash Ave",33.4251,-111.9434],
+        ["University Dr / Ash Ave",33.4223,-111.9425],
+        ["9th Street/Mill Avenue",33.4208,-111.94],
+        ["11th St / Mill Ave",33.418,-111.94],
+        ["College Ave / Apache Blvd",33.4147,-111.9352],
+        ["Paseo Del Saber / Apache Blvd",33.4147,-111.9292],
+        ["Rural Rd / Apache Blvd",33.4147,-111.9252],
+        ["Dorsey / Apache Bvd",33.4147,-111.9171]
+      ]
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Crowne Plaza Phoenix Airport - PHX by IHG",
+      "lat": 33.4488,
+      "lng": -111.9885,
+      "area": "Phoenix Sky Harbor International Airport",
+      "rating": 4.2,
+      "ratingCount": 1687,
+      "stars": 3,
+      "priceTier": 3,
+      "brandAnchor": true
+    },
+    {"name":"Radisson Hotel Phoenix Airport","lat":33.4533,"lng":-111.9863,"area":"Phoenix Sky Harbor International Airport","rating":4.1,"ratingCount":1510,"stars":3,"priceTier":3},
+    {"name":"Aloft Phoenix-Airport","lat":33.4486,"lng":-111.9859,"area":"Phoenix Sky Harbor International Airport","rating":4,"ratingCount":797,"stars":3,"priceTier":3},
+    {"name":"Hampton Inn Phoenix-Airport North","lat":33.455,"lng":-111.9865,"area":"Phoenix Sky Harbor International Airport","rating":4,"ratingCount":1200,"stars":3,"priceTier":2},
+    {"name":"Hyatt Regency Phoenix","lat":33.4499,"lng":-112.0718,"area":"Downtown Phoenix","rating":4.1,"ratingCount":4287,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Kimpton Hotel Palomar Phoenix CityScape","lat":33.4475,"lng":-112.0732,"area":"Downtown Phoenix","rating":4.6,"ratingCount":1780,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"The Westin Phoenix Downtown","lat":33.4517,"lng":-112.0732,"area":"Downtown Phoenix","rating":4.5,"ratingCount":1085,"stars":4,"priceTier":3},
+    {"name":"Hampton Inn & Suites Phoenix Downtown","lat":33.4521,"lng":-112.0729,"area":"Downtown Phoenix","rating":4.5,"ratingCount":452,"stars":3,"priceTier":2},
+    {"name":"Downtown Phoenix Hotel (Best Western)","lat":33.4517,"lng":-112.0798,"area":"Downtown Phoenix","rating":4.2,"ratingCount":925,"stars":3,"priceTier":2},
+    {"name":"Tempe Mission Palms, a Destination by Hyatt","lat":33.4265,"lng":-111.9388,"area":"Downtown Tempe","rating":4.4,"ratingCount":3165,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"AC Hotel Phoenix Tempe/Downtown","lat":33.431,"lng":-111.9373,"area":"Downtown Tempe","rating":4.6,"ratingCount":633,"stars":3,"priceTier":3},
+    {"name":"Canopy by Hilton Tempe Downtown","lat":33.4222,"lng":-111.9377,"area":"Downtown Tempe","rating":4.5,"ratingCount":251,"stars":4,"priceTier":3},
+    {"name":"Residence Inn Tempe Downtown/University","lat":33.425,"lng":-111.9373,"area":"Downtown Tempe","rating":4.5,"ratingCount":414,"stars":3,"priceTier":3},
+    {"name":"Vib Hotel by Best Western Phoenix-Tempe","lat":33.4251,"lng":-111.9441,"area":"Downtown Tempe","rating":4.6,"ratingCount":123,"stars":3,"priceTier":2},
+    {"name":"Embassy Suites by Hilton Phoenix Downtown North","lat":33.4807,"lng":-112.0722,"area":"Midtown Phoenix","rating":4.3,"ratingCount":1191,"stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Hampton Inn Phoenix-Midtown-Downtown Area","lat":33.4824,"lng":-112.0774,"area":"Midtown Phoenix","rating":4.3,"ratingCount":871,"stars":3,"priceTier":2},
+    {"name":"Fairfield Inn & Suites Phoenix Midtown","lat":33.476,"lng":-112.0745,"area":"Midtown Phoenix","rating":4.3,"ratingCount":417,"stars":2,"priceTier":2}
+  ],
+  "sights": [
+    {
+      "name": "Desert Botanical Garden",
+      "lat": 33.4619,
+      "lng": -111.9447,
+      "note": "Fifty-plus acres of cacti, agaves and desert wildflowers on looping trails among the red buttes of Papago Park.",
+      "hours": "Daily from 7:00 AM; usually closes ~8:00 PM (to 10:00 PM on event nights)",
+      "rating": 4.7,
+      "ticketUrl": "https://dbg.org",
+      "bookAhead": true
+    },
+    {
+      "name": "Musical Instrument Museum",
+      "lat": 33.6675,
+      "lng": -111.9787,
+      "note": "Thousands of instruments from every country, with headsets that play each exhibit as you walk up; far north Phoenix, no rail link.",
+      "hours": "9:00 AM–5:00 PM daily",
+      "rating": 4.9,
+      "ticketUrl": "https://mim.org"
+    },
+    {
+      "name": "Camelback Mountain",
+      "lat": 33.5147,
+      "lng": -111.9616,
+      "note": "Phoenix's signature peak: a steep, rocky scramble to the summit via the Echo Canyon or Cholla trails. Start early and carry plenty of water.",
+      "hours": "Trails sunrise–sunset; trailhead lots fill early",
+      "rating": 4.6
+    },
+    {
+      "name": "Heard Museum",
+      "lat": 33.4736,
+      "lng": -112.0736,
+      "note": "A leading museum of American Indian art and cultures, with Hopi katsina dolls, jewelry and a courtyard café.",
+      "hours": "10:00 AM–4:00 PM daily (closed Mon Jun–Aug)",
+      "rating": 4.6,
+      "ticketUrl": "https://heard.org"
+    },
+    {
+      "name": "Hole in the Rock",
+      "lat": 33.4563,
+      "lng": -111.9453,
+      "note": "A short climb to a wind-carved opening in a red sandstone butte, framing a classic sunset view over the city.",
+      "hours": "Papago Park ~5:00 AM–11:00 PM daily; free",
+      "rating": 4.4
+    },
+    {
+      "name": "Phoenix Zoo",
+      "lat": 33.4525,
+      "lng": -111.9493,
+      "note": "A large non-profit zoo in Papago Park with an Arizona desert trail, orangutans and a giraffe feeding deck.",
+      "hours": "9:00 AM–4:00 PM daily (hours shift seasonally; ZooLights evenings in winter)",
+      "rating": 4.2,
+      "ticketUrl": "https://www.phoenixzoo.org"
+    },
+    {
+      "name": "Chase Field",
+      "lat": 33.4453,
+      "lng": -112.0667,
+      "note": "Home of the Arizona Diamondbacks, with a retractable roof, air conditioning and a pool beyond the outfield wall.",
+      "hours": "MLB game days late Mar–Sep; ballpark tours on select days",
+      "rating": 4.5,
+      "ticketUrl": "https://www.mlb.com/dbacks/tickets"
+    },
+    {
+      "name": "Phoenix Art Museum",
+      "lat": 33.467,
+      "lng": -112.0728,
+      "note": "The Southwest's largest art museum, spanning Western American, Asian, fashion and modern collections plus miniature period rooms.",
+      "hours": "Wed & Fri 10:00 AM–8:00 PM, Thu & Sat 10:00 AM–5:00 PM, Sun noon–5:00 PM; closed Mon–Tue",
+      "rating": 4.4,
+      "ticketUrl": "https://phxart.org"
+    },
+    {
+      "name": "South Mountain Park and Preserve",
+      "lat": 33.3354,
+      "lng": -112.0787,
+      "note": "One of the largest city parks in the US, with desert trails, petroglyphs and the drive up to Dobbins Lookout for a panorama of the Valley.",
+      "hours": "Trails 5:00 AM–11:00 PM; roads and lots 5:00 AM–7:00 PM",
+      "rating": 4.6
+    },
+    {
+      "name": "Wrigley Mansion",
+      "lat": 33.5227,
+      "lng": -112.026,
+      "note": "A 1930s hilltop mansion built by chewing-gum magnate William Wrigley Jr., now known for guided tours and its restaurant with city views.",
+      "hours": "Tours and dining by reservation; hours vary",
+      "rating": 4.3,
+      "ticketUrl": "https://wrigleymansion.com",
+      "bookAhead": true
+    },
+    {
+      "name": "Children's Museum of Phoenix",
+      "lat": 33.4509,
+      "lng": -112.0649,
+      "note": "Three floors of hands-on play for kids up to about age ten, inside a restored 1913 schoolhouse downtown.",
+      "hours": "9:00 AM–4:00 PM daily",
+      "rating": 4.6,
+      "ticketUrl": "https://childrensmuseumofphoenix.org"
+    },
+    {
+      "name": "Hall of Flame Museum of Firefighting",
+      "lat": 33.4474,
+      "lng": -111.9531,
+      "note": "Hundreds of fire engines, from hand-pulled pumpers to modern rigs, plus a memorial to fallen firefighters.",
+      "hours": "Tue–Sat 10:00 AM–6:00 PM (last entry 5:00 PM); closed Sun–Mon",
+      "rating": 4.7,
+      "ticketUrl": "https://www.hallofflame.org"
+    },
+    {
+      "name": "Piestewa Peak",
+      "lat": 33.5473,
+      "lng": -112.021,
+      "note": "A popular, steep summit trail in the Phoenix Mountains Preserve with 360-degree views across the city.",
+      "hours": "Trails 5:00 AM–11:00 PM; parking 5:00 AM–7:00 PM",
+      "rating": 4.6
+    },
+    {
+      "name": "St. Mary's Basilica",
+      "lat": 33.4506,
+      "lng": -112.0703,
+      "note": "Phoenix's oldest Catholic parish, a 1914 Mission Revival church with large stained-glass windows, visited by Pope John Paul II in 1987.",
+      "hours": "Open daily for Mass and visits; hours vary",
+      "rating": 4.5
+    },
+    {
+      "name": "Rosson House Museum",
+      "lat": 33.4498,
+      "lng": -112.0661,
+      "note": "A restored 1895 Victorian house in Heritage Square, shown on guided tours of early Phoenix life.",
+      "hours": "Guided tours ~Wed–Sun, ~10:00 AM–3:00 PM",
+      "rating": 4.6
+    },
+    {
+      "name": "Arizona Science Center",
+      "lat": 33.4486,
+      "lng": -112.0664,
+      "note": "Interactive science exhibits, a planetarium and a giant-screen theater, next to Heritage Square downtown.",
+      "hours": "Tue–Sun 10:30 AM–4:00 PM; open select Mondays",
+      "rating": 4.1,
+      "ticketUrl": "https://www.azscience.org"
+    },
+    {
+      "name": "Tempe Town Lake",
+      "lat": 33.43,
+      "lng": -111.942,
+      "note": "A lake on the Salt River beside Tempe Beach Park, with paths, boat rentals and sunset views, a short walk from the streetcar.",
+      "hours": "Paths open daily; Tempe Beach Park ~5:00 AM–midnight",
+      "rating": 4.2
+    },
+    {
+      "name": "Roosevelt Row",
+      "lat": 33.4583,
+      "lng": -112.0664,
+      "note": "Downtown Phoenix's walkable arts district of murals, galleries, bars and small restaurants, liveliest on First Friday evenings.",
+      "hours": "Street open 24 h; First Fridays ~6:00–10:00 PM",
+      "rating": 4
+    }
+  ],
+  "railStations": [],
+  "airports": [
+    {
+      "name": "Phoenix Sky Harbor International Airport",
+      "code": "PHX",
+      "lat": 33.4343,
+      "lng": -112.0116,
+      "transitNote": "Free PHX Sky Train (on the map) from Terminals 3 and 4 to the 44th St/Washington light rail station in ~5–10 min, then the A Line to downtown Phoenix (~15–20 min) or downtown Tempe (~15 min); $2 ride. Taxi/rideshare to downtown ~15 min.",
+      "hours": "Sky Train 24 h. Light rail from 44th St: first ~4:00 AM, last ~midnight (~2:00 AM Fri & Sat nights)."
+    }
+  ]
+}

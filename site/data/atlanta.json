@@ -1,0 +1,358 @@
+{
+  "name": "Atlanta",
+  "country": "USA",
+  "flag": "🇺🇸",
+  "center": [33.771,-84.388],
+  "zoom": 12,
+  "operatingHours": "MARTA rail runs ~4:45 AM–1:00 AM on weekdays and ~6:00 AM–1:00 AM on weekends and holidays (every ~10–12 min, ~20 min early, late and on weekends). The Atlanta Streetcar loops downtown ~6:00 AM–11:00 PM (to ~1:00 AM Fri–Sat, from ~9:00 AM Sun).",
+  "fareInfo": "$2.50 per MARTA trip (2026), paid by tapping a contactless bank card or phone wallet at the gates, or a Breeze card or the Breeze app (new fare system since March 2026); transfers within 3 hours are free when you tap with the same card. Unlimited Breeze passes from 1 day (~$9) to 7 days (~$24). The Atlanta Streetcar has been fare-free in recent years.",
+  "lines": [
+    {
+      "id": "latlanta_streetcar",
+      "name": "Atlanta Streetcar",
+      "color": "#7F3F98",
+      "code": "S",
+      "stations": [
+        ["Centennial Olympic Park",33.7594,-84.392],
+        ["Luckie at Cone",33.7581,-84.3904],
+        ["Park Place",33.7551,-84.3882],
+        ["Hurt Park",33.7545,-84.3854],
+        ["Sweet Auburn Market",33.7544,-84.38],
+        ["Edgewood at Hillard",33.7544,-84.3763],
+        ["King Historic District",33.7555,-84.3749],
+        ["Dobbs Plaza",33.7556,-84.3788],
+        ["Auburn at Piedmont",33.7556,-84.382],
+        ["Woodruff Park",33.756,-84.3882],
+        ["Peachtree Center",33.7581,-84.3876],
+        ["Carnegie at Spring",33.7595,-84.3897],
+        ["Centennial Olympic Park",33.7594,-84.392]
+      ]
+    },
+    {
+      "id": "lblue",
+      "name": "MARTA Blue Line",
+      "color": "#0274BA",
+      "code": "B",
+      "stations": [
+        ["Hamilton E. Holmes",33.7545,-84.47],
+        ["West Lake",33.7533,-84.4453],
+        ["Ashby",33.7564,-84.4174],
+        ["Vine City",33.7565,-84.404],
+        ["SEC District",33.7561,-84.3976],
+        ["Five Points",33.7539,-84.3916],
+        ["Georgia State",33.7502,-84.386],
+        ["King Memorial",33.75,-84.3754],
+        ["Inman Park/Reynoldstown",33.7578,-84.3523],
+        ["Edgewood/Candler Park",33.7619,-84.3399],
+        ["East Lake",33.7651,-84.3129],
+        ["Decatur",33.7746,-84.2961],
+        ["Avondale",33.7751,-84.2822],
+        ["Kensington",33.7726,-84.2519],
+        ["Indian Creek",33.7698,-84.2297]
+      ]
+    },
+    {
+      "id": "lgold",
+      "name": "MARTA Gold Line",
+      "color": "#F67705",
+      "code": "G",
+      "stations": [
+        ["Doraville",33.9031,-84.2802],
+        ["Chamblee",33.8875,-84.3064],
+        ["Brookhaven",33.8602,-84.3393],
+        ["Lenox",33.8457,-84.3578],
+        ["Lindbergh Center",33.8227,-84.3696],
+        ["Arts Center",33.7891,-84.3874],
+        ["Midtown",33.7811,-84.3863],
+        ["North Avenue",33.7726,-84.387],
+        ["Civic Center",33.7665,-84.3875],
+        ["Peachtree Center",33.7595,-84.3876],
+        ["Five Points",33.7539,-84.3917],
+        ["Garnett",33.748,-84.3964],
+        ["West End",33.736,-84.4137],
+        ["Oakland City",33.7169,-84.4253],
+        ["Lakewood/Fort McPherson",33.7002,-84.429],
+        ["East Point",33.6771,-84.4407],
+        ["College Park",33.6517,-84.4489],
+        ["Airport",33.6407,-84.4463]
+      ]
+    },
+    {
+      "id": "lgreen",
+      "name": "MARTA Green Line",
+      "color": "#009544",
+      "code": "Gr",
+      "stations": [
+        ["Bankhead",33.7722,-84.429],
+        ["Ashby",33.7564,-84.4174],
+        ["Vine City",33.7565,-84.404],
+        ["SEC District",33.7561,-84.3976],
+        ["Five Points",33.7539,-84.3916],
+        ["Georgia State",33.7502,-84.386],
+        ["King Memorial",33.75,-84.3754],
+        ["Inman Park/Reynoldstown",33.7578,-84.3523],
+        ["Edgewood/Candler Park",33.7619,-84.3399],
+        ["Avondale",33.7751,-84.2822]
+      ]
+    },
+    {
+      "id": "lred",
+      "name": "MARTA Red Line",
+      "color": "#CC0000",
+      "code": "R",
+      "stations": [
+        ["North Springs",33.9451,-84.3573],
+        ["Sandy Springs",33.9322,-84.3521],
+        ["Dunwoody",33.9213,-84.3444],
+        ["Medical Center",33.9108,-84.3515],
+        ["Buckhead",33.849,-84.3685],
+        ["Lindbergh Center",33.8227,-84.3696],
+        ["Arts Center",33.7891,-84.3874],
+        ["Midtown",33.7811,-84.3863],
+        ["North Avenue",33.7726,-84.387],
+        ["Civic Center",33.7665,-84.3875],
+        ["Peachtree Center",33.7595,-84.3876],
+        ["Five Points",33.7539,-84.3917],
+        ["Garnett",33.748,-84.3964],
+        ["West End",33.736,-84.4137],
+        ["Oakland City",33.7169,-84.4253],
+        ["Lakewood/Fort McPherson",33.7002,-84.429],
+        ["East Point",33.6771,-84.4407],
+        ["College Park",33.6517,-84.4489],
+        ["Airport",33.6407,-84.4461]
+      ]
+    }
+  ],
+  "hotels": [
+    {"name":"The Candler Hotel Atlanta, Curio Collection by Hilton","lat":33.7569,"lng":-84.388,"area":"Downtown","rating":4.8,"ratingCount":1745,"stars":4,"priceTier":4,"brandAnchor":true},
+    {"name":"Hotel Indigo Atlanta Downtown by IHG","lat":33.7603,"lng":-84.3878,"area":"Downtown","rating":4.4,"ratingCount":587,"stars":3,"priceTier":3},
+    {"name":"The American Hotel Atlanta Downtown, Tapestry Collection by Hilton","lat":33.7593,"lng":-84.3901,"area":"Downtown","rating":4.3,"ratingCount":1288,"stars":3,"priceTier":3},
+    {"name":"Courtland Grand Hotel","lat":33.759,"lng":-84.3833,"area":"Downtown","rating":4.1,"ratingCount":4557,"stars":4,"priceTier":3},
+    {"name":"Hampton Inn & Suites Atlanta-Downtown","lat":33.7588,"lng":-84.3897,"area":"Downtown","rating":4,"ratingCount":1608,"stars":3,"priceTier":2},
+    {
+      "name": "Signia by Hilton Atlanta Georgia World Congress Center",
+      "lat": 33.7589,
+      "lng": -84.4012,
+      "area": "Centennial Olympic Park",
+      "rating": 4.5,
+      "ratingCount": 616,
+      "stars": 4,
+      "priceTier": 4,
+      "brandAnchor": true
+    },
+    {"name":"Glenn Hotel, Autograph Collection","lat":33.757,"lng":-84.393,"area":"Centennial Olympic Park","rating":4.8,"ratingCount":1025,"stars":4,"priceTier":3},
+    {"name":"Embassy Suites by Hilton Atlanta at Centennial Olympic Park","lat":33.7607,"lng":-84.3946,"area":"Centennial Olympic Park","rating":4.2,"ratingCount":1800,"stars":3,"priceTier":3},
+    {"name":"Hilton Garden Inn Atlanta Downtown","lat":33.762,"lng":-84.3956,"area":"Centennial Olympic Park","rating":4.1,"ratingCount":2387,"stars":3,"priceTier":2},
+    {"name":"Hyatt Place Atlanta / Centennial Park","lat":33.7625,"lng":-84.396,"area":"Centennial Olympic Park","rating":4,"ratingCount":823,"stars":3,"priceTier":2},
+    {"name":"Renaissance Atlanta Midtown Hotel","lat":33.7783,"lng":-84.3878,"area":"Midtown","rating":4.4,"ratingCount":1648,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Loews Atlanta Hotel","lat":33.7833,"lng":-84.3833,"area":"Midtown","rating":4.5,"ratingCount":3341,"stars":4,"priceTier":4},
+    {"name":"Hyatt Centric Midtown Atlanta","lat":33.7814,"lng":-84.383,"area":"Midtown","rating":4,"ratingCount":1433,"stars":4,"priceTier":3},
+    {"name":"Georgia Tech Hotel and Conference Center","lat":33.7764,"lng":-84.389,"area":"Midtown","rating":4.5,"ratingCount":1372,"stars":3,"priceTier":3},
+    {"name":"AC Hotel by Marriott Atlanta Midtown","lat":33.7864,"lng":-84.3859,"area":"Midtown","rating":4.3,"ratingCount":143,"stars":3,"priceTier":3},
+    {"name":"InterContinental Buckhead Atlanta by IHG","lat":33.8454,"lng":-84.3678,"area":"Buckhead","rating":4.5,"ratingCount":4564,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"The Westin Buckhead Atlanta","lat":33.8483,"lng":-84.3653,"area":"Buckhead","rating":4.4,"ratingCount":1399,"stars":4,"priceTier":3},
+    {"name":"Hotel Colee, Atlanta Buckhead, Autograph Collection","lat":33.8479,"lng":-84.3662,"area":"Buckhead","rating":4.5,"ratingCount":624,"stars":4,"priceTier":3},
+    {"name":"Embassy Suites by Hilton Atlanta Buckhead","lat":33.8443,"lng":-84.3687,"area":"Buckhead","rating":4.2,"ratingCount":540,"stars":3,"priceTier":3},
+    {"name":"Element by Marriott Atlanta Buckhead","lat":33.8495,"lng":-84.3757,"area":"Buckhead","rating":4.6,"ratingCount":385,"stars":3,"priceTier":2},
+    {
+      "name": "Atlanta Airport Marriott Gateway",
+      "lat": 33.6443,
+      "lng": -84.4554,
+      "area": "Hartsfield-Jackson Atlanta International Airport",
+      "rating": 4.3,
+      "ratingCount": 1601,
+      "stars": 4,
+      "priceTier": 3,
+      "brandAnchor": true
+    },
+    {"name":"Renaissance Atlanta Airport Gateway Hotel","lat":33.643,"lng":-84.4564,"area":"Hartsfield-Jackson Atlanta International Airport","rating":4.3,"ratingCount":438,"stars":4,"priceTier":3},
+    {
+      "name": "SpringHill Suites by Marriott Atlanta Airport Gateway",
+      "lat": 33.6438,
+      "lng": -84.4575,
+      "area": "Hartsfield-Jackson Atlanta International Airport",
+      "rating": 4.1,
+      "ratingCount": 665,
+      "stars": 3,
+      "priceTier": 2
+    },
+    {"name":"Renaissance Concourse Atlanta Airport Hotel","lat":33.6538,"lng":-84.4271,"area":"Hartsfield-Jackson Atlanta International Airport","rating":4,"ratingCount":1838,"stars":4,"priceTier":3}
+  ],
+  "sights": [
+    {
+      "name": "Georgia Aquarium",
+      "lat": 33.7634,
+      "lng": -84.3951,
+      "note": "One of the world's largest aquariums, where whale sharks and manta rays glide past a huge viewing window in the Ocean Voyager gallery, plus beluga whales, dolphin and sea lion shows.",
+      "hours": "Daily, usually ~9:00 AM–9:00 PM (varies by date; last entry 30 min before close)",
+      "rating": 4.5,
+      "ticketUrl": "https://www.georgiaaquarium.org",
+      "bookAhead": true
+    },
+    {
+      "name": "World of Coca-Cola",
+      "lat": 33.7627,
+      "lng": -84.3927,
+      "note": "The soft-drink giant's own museum on Pemberton Place, with the secret-formula vault, a vintage ad gallery and a tasting room pouring around 100 drinks from around the world.",
+      "hours": "Daily ~10:00 AM–7:00 PM, later on Fri–Sun (closed Thanksgiving and Christmas)",
+      "rating": 4,
+      "ticketUrl": "https://www.worldofcoca-cola.com"
+    },
+    {
+      "name": "Atlanta Botanical Garden",
+      "lat": 33.79,
+      "lng": -84.3733,
+      "note": "A 30-acre garden beside Piedmont Park with a treetop canopy walk, an orchid house, the Cascades Garden and giant living plant sculptures; the Garden Lights show runs on winter evenings.",
+      "hours": "Tue–Sun 9:00 AM–~7:00 PM (seasonal; closed Mon); Garden Lights evenings mid-Nov–mid-Jan",
+      "rating": 4.6,
+      "ticketUrl": "https://atlantabg.org"
+    },
+    {
+      "name": "Fox Theatre",
+      "lat": 33.7726,
+      "lng": -84.3856,
+      "note": "A lavish 1929 movie palace in Moorish and Egyptian style, with a starry 'night sky' ceiling, that now hosts Broadway tours and concerts; see it at a show or on a guided tour.",
+      "hours": "Open for performances; guided tours on select mornings (check schedule)",
+      "rating": 4.7,
+      "ticketUrl": "https://www.foxtheatre.org"
+    },
+    {
+      "name": "Centennial Olympic Park",
+      "lat": 33.7606,
+      "lng": -84.3932,
+      "note": "The green heart of downtown, built for the 1996 Olympics, with the Fountain of Rings splash fountain and the aquarium, Coca-Cola museum and civil rights center on its edges. Free.",
+      "hours": "Daily 7:00 AM–11:00 PM",
+      "rating": 4.2
+    },
+    {
+      "name": "Martin Luther King Jr. National Historical Park",
+      "lat": 33.7553,
+      "lng": -84.373,
+      "note": "Dr. King's Sweet Auburn neighbourhood: his birth home (reopened July 2026 after restoration), Ebenezer Baptist Church, the visitor center exhibits and the tomb he shares with Coretta Scott King. Free.",
+      "hours": "Visitor center daily ~9:00 AM–5:00 PM; birth home by free ranger-led tour, limited spaces",
+      "rating": 4.6
+    },
+    {
+      "name": "National Center for Civil and Human Rights",
+      "lat": 33.7639,
+      "lng": -84.3934,
+      "note": "A moving museum that links the American civil rights movement to today's global human rights struggles; its lunch-counter sit-in simulation is unforgettable. Reopened in 2025 after a major expansion.",
+      "hours": "Tue–Sat 10:00 AM–5:00 PM, Sun 12:00–5:00 PM (last entry 4:00 PM; closed Mon)",
+      "rating": 4.8,
+      "ticketUrl": "https://www.civilandhumanrights.org"
+    },
+    {
+      "name": "Zoo Atlanta",
+      "lat": 33.7341,
+      "lng": -84.3709,
+      "note": "A mid-sized zoo in historic Grant Park known for its large gorilla troop and giant pandas' legacy, plus elephants, tigers and a reptile house.",
+      "hours": "Mon–Fri 9:00 AM–5:00 PM, Sat–Sun 9:00 AM–6:00 PM",
+      "rating": 4.2,
+      "ticketUrl": "https://zooatlanta.org"
+    },
+    {
+      "name": "Piedmont Park",
+      "lat": 33.7851,
+      "lng": -84.3738,
+      "note": "Midtown's big park, with a lake, wide lawns facing the skyline, a Saturday green market and a link onto the BeltLine. Free.",
+      "hours": "Daily 6:00 AM–11:00 PM",
+      "rating": 4.6
+    },
+    {
+      "name": "Atlanta History Center",
+      "lat": 33.8424,
+      "lng": -84.3862,
+      "note": "A 33-acre Buckhead campus with the restored Cyclorama battle painting, Civil War and Southern history galleries, the 1928 Swan House mansion and an 1860s farm.",
+      "hours": "Daily ~10:00 AM–5:30 PM, Sun from 12:00 PM",
+      "rating": 4.6,
+      "ticketUrl": "https://www.atlantahistorycenter.com"
+    },
+    {
+      "name": "High Museum of Art",
+      "lat": 33.7901,
+      "lng": -84.3856,
+      "note": "The Southeast's leading art museum, in white Richard Meier and Renzo Piano buildings, strong on American art, folk and self-taught artists, photography and major touring shows.",
+      "hours": "Tue–Sat 10:00 AM–5:00 PM (Fri till 9:00 PM), Sun 12:00–5:00 PM, closed Mon",
+      "rating": 4.5,
+      "ticketUrl": "https://high.org"
+    },
+    {
+      "name": "Jimmy Carter Presidential Library & Museum",
+      "lat": 33.7666,
+      "lng": -84.3561,
+      "note": "A museum of the 39th president's life, from Plains peanut farm to the White House and his Nobel Peace Prize work, with a full-size Oval Office replica and a Japanese garden.",
+      "hours": "Mon–Sat 9:00 AM–4:45 PM, Sun 12:00–4:45 PM",
+      "rating": 4.6,
+      "ticketUrl": "https://www.jimmycarterlibrary.gov"
+    },
+    {
+      "name": "Ponce City Market",
+      "lat": 33.7726,
+      "lng": -84.3655,
+      "note": "A vast 1920s Sears warehouse reborn as a food hall and shopping hub on the BeltLine, with a rooftop fairground, mini-golf and skyline views.",
+      "hours": "Food hall daily ~8:00 AM–10:00 PM; rooftop hours vary",
+      "rating": 4.3
+    },
+    {
+      "name": "Center for Puppetry Arts",
+      "lat": 33.7928,
+      "lng": -84.3891,
+      "note": "America's largest puppetry museum, home to the Jim Henson collection of Muppets alongside puppets from around the world, plus daily family shows.",
+      "hours": "Tue–Fri 9:00 AM–5:00 PM, Sat 10:00 AM–5:00 PM, Sun 12:00–5:00 PM, closed Mon",
+      "rating": 4.5,
+      "ticketUrl": "https://puppet.org"
+    },
+    {
+      "name": "Oakland Cemetery",
+      "lat": 33.7486,
+      "lng": -84.3714,
+      "note": "Atlanta's oldest cemetery, a Victorian garden of ornate mausoleums and old oaks where Margaret Mitchell and Maynard Jackson rest, with skyline views. Free to wander; guided tours on weekends.",
+      "hours": "Daily dawn–dusk (~8:00 AM–7:00 PM, earlier in winter)",
+      "rating": 4.6
+    },
+    {
+      "name": "College Football Hall of Fame",
+      "lat": 33.76,
+      "lng": -84.3953,
+      "note": "An interactive shrine to American college football with a wall of helmets from every school, game-day exhibits and an indoor field where you can try kicking and passing drills.",
+      "hours": "Daily 10:00 AM–5:00 PM (last ticket 4:30 PM; may close for events)",
+      "rating": 4.5,
+      "ticketUrl": "https://www.cfbhall.com"
+    },
+    {
+      "name": "Atlanta BeltLine Eastside Trail",
+      "lat": 33.769,
+      "lng": -84.363,
+      "note": "A popular paved walking and cycling path on an old rail corridor, lined with street murals, breweries and patios between Piedmont Park, Ponce City Market and Inman Park. Free.",
+      "hours": "Open 24 hours (busiest evenings and weekends)",
+      "rating": 4.6
+    },
+    {
+      "name": "Sweet Auburn Curb Market",
+      "lat": 33.7543,
+      "lng": -84.38,
+      "note": "A historic municipal market from 1924 where butchers and produce stalls share space with soul food, Caribbean and other cheap lunch counters, a short walk from the King sites.",
+      "hours": "Mon–Sat ~8:00 AM–6:00 PM (vendor hours vary); limited on Sun",
+      "rating": 4.5
+    }
+  ],
+  "railStations": [
+    {
+      "name": "Peachtree Station",
+      "lat": 33.7997,
+      "lng": -84.3919,
+      "note": "Atlanta's small Amtrak station on Peachtree Street in Brookwood Hills, served only by the Crescent (New York–Washington–Atlanta–New Orleans), one train each way daily. No MARTA rail link: Arts Center station is ~1.3 km away by bus 110, taxi or rideshare.",
+      "hours": "Station open ~7:00 AM–9:30 PM; northbound Crescent departs mornings, southbound evenings."
+    }
+  ],
+  "airports": [
+    {
+      "name": "Hartsfield-Jackson Atlanta International Airport",
+      "code": "ATL",
+      "lat": 33.6405,
+      "lng": -84.444,
+      "transitNote": "MARTA's Red and Gold Lines (shown on map) start at Airport station, inside the Domestic Terminal by baggage claim, and reach Five Points in ~17 min and Midtown in ~25 min for the standard $2.50 fare. From the International Terminal, ride the free Plane Train to the Domestic Terminal. The free ATL SkyTrain links the terminal to the rental-car center and Gateway Center hotels.",
+      "hours": "First train ~4:45 AM (~6:00 AM weekends), last ~1:00 AM; no overnight trains."
+    }
+  ]
+}
