@@ -132,7 +132,7 @@ station/airport/railway stop you tap.
   Riyadh, Doha, Jerusalem, Cairo, Dublin, Edinburgh, Florence, Miami,
   Las Vegas, Vancouver, Rio de Janeiro, Sydney, Melbourne. Batch 7 (US, 2026-10-18):
   Seattle, Philadelphia, San Diego, New Orleans, Atlanta. Batch 8 (US, 2026-10-18):
-  Portland (71 cities).
+  Portland, Honolulu (72 cities).
   City-list groups: Asia, Europe, Americas, Africa, Oceania.
 - **City picker** (search redesigned 2026-10-16): a search box that
   matches city name, country, other names (`aliases` in `cities.json`:
@@ -499,13 +499,16 @@ they're done.
 
 ## Changelog
 
-### 2026-10-18 — batch 8: more US cities overnight (71 total)
+### 2026-10-18 — batch 8: more US cities overnight (72 total)
 - Audrey asked for as many more US cities as possible overnight. Added so
   far: Portland (MAX Blue/Red/Green/Yellow/Orange, Streetcar NS/A/B).
 - Gaps: Portland airport hotels are shuttle or Cascade Station hotels
   1.6-2.8 km out; Union Station 4 picks; Nob Hill 3; MAX Green Line's
   downtown segment and Blue Line's Gateway-Ruby Junction segment are
   missing from OSM.
+- Honolulu: Skyline (East Kapolei to Middle Street; airport served, not
+  yet Downtown or Waikiki), with Waikiki as an off-rail area. Gaps:
+  airport 0 hotels (none rated 4.0+); Downtown 1; Ala Moana 4.
 
 ### 2026-10-18 — station clicks always pull in nearby hotels
 - Audrey: in Seattle, a station with any curated pick in walking distance

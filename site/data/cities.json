@@ -69,5 +69,6 @@
   "sandiego": {"name":"San Diego","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["SAN","SD"]},
   "neworleans": {"name":"New Orleans","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["NOLA","MSY","Big Easy"]},
   "atlanta": {"name":"Atlanta","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["ATL","Hotlanta"]},
-  "portland": {"name":"Portland","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["PDX","Rose City"]}
+  "portland": {"name":"Portland","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["PDX","Rose City"]},
+  "honolulu": {"name":"Honolulu","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["HNL","Oahu","Waikiki","Hawaii"]}
 }
