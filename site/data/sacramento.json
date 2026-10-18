@@ -1,0 +1,283 @@
+{
+  "name": "Sacramento",
+  "country": "USA",
+  "flag": "🇺🇸",
+  "center": [38.578,-121.493],
+  "zoom": 12,
+  "operatingHours": "SacRT light rail runs ~4:00–5:00 AM to ~midnight daily. Blue and Gold lines run every 15 min most of the day (every 30 min early and late; Gold Line east of Sunrise mixes 15- and 30-min service). The Green Line runs weekdays only, every 30 min. No overnight service.",
+  "fareInfo": "Basic fare $2.50 per ride, Daily Pass $7, Monthly Pass $100 (2026); seniors 62+ and riders with disabilities pay half. Students TK–12 ride free with a RydeFreeRT pass. Pay by tapping a contactless bank card or phone on the platform validators, with a regional Connect Card, or with the Transit Connect app (the ZipPass app closed on July 1, 2026). The Route 142 airport bus charges the same $2.50.",
+  "lines": [
+    {
+      "id": "lblue",
+      "name": "SacRT Blue Line",
+      "color": "#0072CE",
+      "code": "Blue",
+      "stations": [
+        ["Cosumnes River College",38.4541,-121.4183],
+        ["Center Parkway",38.4589,-121.4303],
+        ["Franklin",38.4633,-121.449],
+        ["Meadowview",38.4836,-121.4671],
+        ["Florin",38.4982,-121.4716],
+        ["47th Avenue",38.5124,-121.476],
+        ["Fruitridge",38.526,-121.4802],
+        ["City College",38.5426,-121.4854],
+        ["4th Avenue/Wayne Hultgren",38.5519,-121.4882],
+        ["Broadway",38.56,-121.4877],
+        ["16th Street",38.5701,-121.49],
+        ["13th Street",38.5711,-121.4938],
+        ["Archives Plaza",38.5744,-121.4943],
+        ["8th & Capitol",38.5775,-121.4977],
+        ["St. Rose of Lima Park",38.5796,-121.4955],
+        ["Cathedral Square",38.5787,-121.4921],
+        ["12th & I",38.5816,-121.4899],
+        ["Alkali Flat/La Valentina",38.586,-121.4879],
+        ["Globe",38.6031,-121.4654],
+        ["Arden/Del Paso",38.6062,-121.4563],
+        ["Royal Oaks",38.606,-121.4474],
+        ["Swanston",38.6081,-121.4391],
+        ["Marconi/Arcade",38.6217,-121.4243],
+        ["Roseville Road",38.6384,-121.4015],
+        ["Watt/I-80 West",38.6431,-121.394],
+        ["Watt/I-80",38.645,-121.3836]
+      ]
+    },
+    {
+      "id": "lgold",
+      "name": "SacRT Gold Line",
+      "color": "#F2A900",
+      "code": "Gold",
+      "stations": [
+        ["Sacramento Valley Station",38.5844,-121.4994],
+        ["7th & I/County Center",38.5826,-121.4969],
+        ["7th & Capitol",38.5783,-121.4987],
+        ["8th & O",38.5756,-121.499],
+        ["Archives Plaza",38.5744,-121.4948],
+        ["13th Street",38.5708,-121.493],
+        ["16th Street",38.5698,-121.489],
+        ["23rd Street",38.5665,-121.4786],
+        ["29th Street",38.5644,-121.4707],
+        ["39th Street",38.5605,-121.4566],
+        ["48th Street",38.5582,-121.4484],
+        ["59th Street",38.5546,-121.4353],
+        ["University/65th Street",38.5524,-121.4268],
+        ["Power Inn",38.5473,-121.407],
+        ["College Greens",38.5471,-121.3928],
+        ["Watt/Manlove",38.5542,-121.3725],
+        ["Starfire",38.5596,-121.3616],
+        ["Tiber",38.5642,-121.3525],
+        ["Butterfield",38.5673,-121.3462],
+        ["Mather Field/Mills",38.585,-121.3107],
+        ["Zinfandel",38.5953,-121.2898],
+        ["Cordova Town Center",38.5989,-121.2826],
+        ["Sunrise",38.607,-121.2661],
+        ["Hazel",38.6306,-121.2117],
+        ["Iron Point",38.645,-121.1897],
+        ["Glenn/Robert G Holderness",38.6637,-121.1836],
+        ["Historic Folsom",38.6763,-121.1807]
+      ]
+    },
+    {
+      "id": "lgreen",
+      "name": "SacRT Green Line",
+      "color": "#00A651",
+      "code": "Green",
+      "stations": [
+        ["13th Street",38.5711,-121.4938],
+        ["Archives Plaza",38.5744,-121.4943],
+        ["8th & Capitol",38.5775,-121.4977],
+        ["8th & K",38.5804,-121.4965],
+        ["8th & H/County Center",38.583,-121.4953],
+        ["7th & Richards/Township 9",38.5966,-121.4928]
+      ]
+    }
+  ],
+  "hotels": [
+    {
+      "name": "The Exchange Sacramento, Curio Collection by Hilton",
+      "lat": 38.5822,
+      "lng": -121.5017,
+      "area": "Sacramento Valley Station",
+      "rating": 4.7,
+      "ratingCount": 479,
+      "stars": 4,
+      "priceTier": 4,
+      "brandAnchor": true
+    },
+    {"name":"Kimpton Sawyer Hotel","lat":38.5815,"lng":-121.4994,"area":"Sacramento Valley Station","rating":4.4,"ratingCount":631,"stars":4,"priceTier":4,"brandAnchor":true},
+    {"name":"AC Hotel Sacramento","lat":38.5822,"lng":-121.4969,"area":"Sacramento Valley Station","rating":4.9,"ratingCount":200,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Holiday Inn Sacramento Downtown - Arena","lat":38.5819,"lng":-121.5024,"area":"Sacramento Valley Station","rating":4,"ratingCount":831,"stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Hyatt Regency Sacramento","lat":38.5777,"lng":-121.4907,"area":"Downtown & Capitol","rating":4.2,"ratingCount":3809,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"The Citizen Hotel, Autograph Collection","lat":38.5801,"lng":-121.4939,"area":"Downtown & Capitol","rating":4.2,"ratingCount":1232,"stars":4,"priceTier":4,"brandAnchor":true},
+    {
+      "name": "Residence Inn by Marriott Sacramento Downtown at Capitol Park",
+      "lat": 38.5765,
+      "lng": -121.487,
+      "area": "Downtown & Capitol",
+      "rating": 4.5,
+      "ratingCount": 1249,
+      "stars": 3,
+      "priceTier": 3,
+      "brandAnchor": true
+    },
+    {"name":"Inn Off Capitol Park, an Ascend Collection Hotel","lat":38.5735,"lng":-121.4875,"area":"Downtown & Capitol","rating":4.4,"ratingCount":164,"stars":3,"priceTier":2},
+    {"name":"HI Sacramento Hostel","lat":38.5829,"lng":-121.4928,"area":"Downtown & Capitol","rating":4.2,"ratingCount":138,"stars":1,"priceTier":1},
+    {"name":"The Fort Sutter Hotel Sacramento, Tapestry Collection by Hilton","lat":38.5703,"lng":-121.4711,"area":"Midtown","rating":4.7,"ratingCount":190,"stars":4,"priceTier":3,"brandAnchor":true}
+  ],
+  "sights": [
+    {
+      "name": "California State Railroad Museum",
+      "lat": 38.5848,
+      "lng": -121.504,
+      "note": "Restored locomotives and Pullman cars fill a vast hall at the old Central Pacific terminus, including a sleeping car that gently rocks as if under way.",
+      "hours": "10:00 AM–5:00 PM daily, last entry 4:30 PM (closed Thanksgiving, Dec 25, Jan 1)",
+      "rating": 4.8,
+      "ticketUrl": "https://www.californiarailroad.museum"
+    },
+    {
+      "name": "Old Sacramento",
+      "lat": 38.5826,
+      "lng": -121.5048,
+      "note": "Gold Rush–era riverfront blocks of wooden boardwalks, brick saloons and candy shops, with the Delta King paddle-steamer moored alongside.",
+      "hours": "Streets open 24 hours; most shops ~10:00 AM–6:00 PM",
+      "rating": 4.1
+    },
+    {
+      "name": "Crocker Art Museum",
+      "lat": 38.5771,
+      "lng": -121.5058,
+      "note": "California's oldest public art museum, joining an ornate Victorian gallery to a modern wing of Californian painting, ceramics and global art.",
+      "hours": "Wed–Sun 10:00 AM–5:00 PM, Thu to 9:00 PM; closed Mon–Tue",
+      "rating": 4.7,
+      "ticketUrl": "https://www.crockerart.org"
+    },
+    {
+      "name": "California State Capitol Museum",
+      "lat": 38.5766,
+      "lng": -121.4934,
+      "note": "The domed 1874 Capitol, where restored historic offices and a rotunda sit alongside the working legislature; free hourly guided tours.",
+      "hours": "Mon–Fri 9:00 AM–5:00 PM; closed weekends and most holidays (the annex next door is under reconstruction)",
+      "rating": 4.6,
+      "ticketUrl": "https://capitolmuseum.ca.gov"
+    },
+    {
+      "name": "Leland Stanford Mansion State Historic Park",
+      "lat": 38.5762,
+      "lng": -121.4979,
+      "note": "The opulent Italianate home of railroad baron and governor Leland Stanford, seen only on guided tours and still used for state receptions.",
+      "hours": "10:00 AM–5:00 PM; guided tours hourly 10:00 AM–4:00 PM, may be cancelled for official events (call ahead)",
+      "rating": 4.6
+    },
+    {
+      "name": "California Automobile Museum",
+      "lat": 38.5704,
+      "lng": -121.5117,
+      "note": "Some 150 cars span the Model T to modern muscle and electric vehicles in a riverside warehouse south of Old Sacramento.",
+      "hours": "Wed–Mon 10:00 AM–5:00 PM, last entry 4:00 PM; closed Tue",
+      "rating": 4.5,
+      "ticketUrl": "https://www.calautomuseum.org"
+    },
+    {
+      "name": "Sutter's Fort State Historic Park",
+      "lat": 38.5725,
+      "lng": -121.4712,
+      "note": "A reconstructed 1840s adobe trading fort, the settlement that grew into Sacramento, with period workshops and living-history days.",
+      "hours": "10:00 AM–5:00 PM daily (closed Thanksgiving, Dec 25, Jan 1)",
+      "rating": 4.2
+    },
+    {
+      "name": "Capitol Park",
+      "lat": 38.5759,
+      "lng": -121.4895,
+      "note": "Forty acres of trees from around the world behind the Capitol, with a rose garden, a cactus garden and the California Vietnam Veterans Memorial.",
+      "hours": "Open daily, dawn to dusk",
+      "rating": 4.5
+    },
+    {
+      "name": "Cathedral of the Blessed Sacrament",
+      "lat": 38.5785,
+      "lng": -121.4927,
+      "note": "An 1889 Italian Renaissance–style cathedral on K Street whose restored dome and painted interior are among the grandest in the West.",
+      "hours": "Open daily ~7:00 AM–6:00 PM; closed to sightseeing during services",
+      "rating": 4.7
+    },
+    {
+      "name": "Sacramento Zoo",
+      "lat": 38.5398,
+      "lng": -121.5038,
+      "note": "A compact 14-acre zoo in William Land Park with giraffes, red pandas, lemurs and big cats along shaded paths.",
+      "hours": "9:00 AM–4:00 PM daily",
+      "rating": 4,
+      "ticketUrl": "https://www.saczoo.org"
+    },
+    {
+      "name": "Fairytale Town",
+      "lat": 38.5414,
+      "lng": -121.5013,
+      "note": "A storybook playland across from the zoo where children climb through nursery-rhyme sets and meet farm animals.",
+      "hours": "Mar–Oct daily 9:00 AM–4:00 PM; Nov–Feb Thu–Sun 10:00 AM–4:00 PM",
+      "rating": 4.3,
+      "ticketUrl": "https://www.fairytaletown.org"
+    },
+    {
+      "name": "McKinley Park",
+      "lat": 38.5768,
+      "lng": -121.4628,
+      "note": "A leafy East Sacramento park centred on a rose garden of over a thousand bushes, with a pond, a pool and shaded lawns.",
+      "hours": "Open daily, dawn to dusk; roses peak Apr–May",
+      "rating": 4.5
+    },
+    {
+      "name": "William Land Park",
+      "lat": 38.538,
+      "lng": -121.4985,
+      "note": "The city's big green park, with ponds, a rock garden, a golf course and the zoo and Fairytale Town tucked inside.",
+      "hours": "Open daily ~5:00 AM–10:30 PM",
+      "rating": 4.6
+    },
+    {
+      "name": "Tower Bridge",
+      "lat": 38.5803,
+      "lng": -121.5083,
+      "note": "A gold-painted 1935 vertical-lift bridge over the Sacramento River, best seen at dusk from the Old Sacramento riverfront.",
+      "hours": "Open 24 hours to walkers and cyclists",
+      "rating": 4.1
+    },
+    {
+      "name": "Sacramento History Museum",
+      "lat": 38.5838,
+      "lng": -121.5051,
+      "note": "Gold-panning displays and printing-press demonstrations in a replica 1854 city hall, and the starting point for tours under Old Sacramento's raised streets.",
+      "hours": "Museum open daily ~10:00 AM–5:00 PM; Underground tours daily from ~10:30 AM",
+      "rating": 4.3,
+      "ticketUrl": "https://www.historicoldsac.org",
+      "bookAhead": true
+    },
+    {
+      "name": "Midtown Farmers Market",
+      "lat": 38.5756,
+      "lng": -121.4813,
+      "note": "A Saturday street market along 20th Street in Midtown's Lavender Heights, mixing farm stalls with food vendors and buskers.",
+      "hours": "Saturdays 8:00 AM–1:00 PM, year-round",
+      "rating": 4.9
+    }
+  ],
+  "railStations": [
+    {
+      "name": "Sacramento Valley Station",
+      "lat": 38.5848,
+      "lng": -121.5005,
+      "note": "Restored 1926 depot at the north edge of Old Sacramento. Amtrak's Capitol Corridor (to the Bay Area), Gold Runner (to Bakersfield, with bus links south), Coast Starlight and California Zephyr stop here. The Gold Line light rail starts at the platform beside the depot.",
+      "hours": "Station open ~5:00 AM–~11:30 PM; light rail ~4:30 AM–~midnight. Amtrak runs to its own timetable."
+    }
+  ],
+  "airports": [
+    {
+      "name": "Sacramento International Airport",
+      "code": "SMF",
+      "lat": 38.6956,
+      "lng": -121.5908,
+      "transitNote": "Not on light rail (the planned Green Line extension is unbuilt). SacRT Route 142 Airport Express bus serves Terminals A and B and runs to downtown Sacramento (Sacramento Valley Station, Convention Center, Capitol Park) in ~30 min for $2.50; Yolobus 42A/42B also link the airport to downtown. Taxi or rideshare ~20 min, ~$35–50.",
+      "hours": "Route 142: hourly, ~5:15 AM–~10:30 PM daily"
+    }
+  ]
+}
