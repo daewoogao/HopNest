@@ -497,6 +497,12 @@ they're done.
 
 ## Changelog
 
+### 2026-10-18 — second station click hides its hotels
+- Audrey: clicking the same station again should hide the hotels it
+  showed, like a toggle. Turning a station's walk circle off now also
+  removes its map-data hotels, the hotel card and any dashed lines (only
+  when that station was the last lookup). Clicking again brings them back.
+
 ### 2026-10-18 — kawaii hotel icon
 - Audrey asked for a Japanese cartoon-style hotel logo that reads
   instantly as "hotel". Six options drawn (A smiling hotel, B sleepy bed,

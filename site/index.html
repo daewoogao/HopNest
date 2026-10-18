@@ -938,6 +938,7 @@ function toggleStationCircle(dot, lat, lng, name, line){
     stationCircles.delete(dot);
     clearTimeout(dot._autoCloseTimer);
     dot.closePopup();
+    clearHotelLookupFor(name);
     render();
     return;
   }
@@ -958,6 +959,7 @@ function toggleAmenityCircle(markerKey, lat, lng, name, kind, circleColor){
     stationCircles.delete(markerKey);
     clearTimeout(markerKey._autoCloseTimer);
     markerKey.closePopup();
+    clearHotelLookupFor(name);
     render();
     return;
   }
@@ -1166,6 +1168,14 @@ function rerunHotelQuery(){
     if(q.sight) showOsmHotelsNear(q.name, q.lat, q.lng, {sight:true});
     else maybeFetchLiveHotels(q.name, q.lat, q.lng);
   }, 350);
+}
+
+// Clicking a station again turns its circle off; also hide the hotels that
+// click showed (map-data hotels, the hotel card and any dashed lines).
+function clearHotelLookupFor(name){
+  if(!lastHotelQuery || lastHotelQuery.sight || lastHotelQuery.name !== name) return;
+  lastHotelQuery = null; clearTimeout(rerunHotelTimer);
+  clearOsmHotels(); clearNearestPicks(false); hideSearchBanner();
 }
 
 function maybeFetchLiveHotels(stationName, lat, lng){
