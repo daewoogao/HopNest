@@ -85,5 +85,6 @@
   "buffalo": {"name":"Buffalo","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["BUF","Niagara","New York State"]},
   "cincinnati": {"name":"Cincinnati","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["CVG","Cincy","Ohio"]},
   "milwaukee": {"name":"Milwaukee","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["MKE","Brew City","Wisconsin"]},
-  "cleveland": {"name":"Cleveland","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["CLE","The Land","Ohio"]}
+  "cleveland": {"name":"Cleveland","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["CLE","The Land","Ohio"]},
+  "norfolk": {"name":"Norfolk","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["ORF","Hampton Roads","Virginia Beach","Virginia"]}
 }
