@@ -91,5 +91,6 @@
   "tucson": {"name":"Tucson","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["TUS","Old Pueblo","Arizona"]},
   "kansascity": {"name":"Kansas City","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["MCI","KC","Missouri"]},
   "sanjose": {"name":"San Jose","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["SJC","Silicon Valley","Santa Clara","California"]},
-  "austin": {"name":"Austin","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["AUS","ATX","Texas"]}
+  "austin": {"name":"Austin","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["AUS","ATX","Texas"]},
+  "tampa": {"name":"Tampa","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["TPA","Tampa Bay","Florida"]}
 }
