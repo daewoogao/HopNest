@@ -77,5 +77,6 @@
   "minneapolis": {"name":"Minneapolis–Saint Paul","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["MSP","Twin Cities","Saint Paul","St Paul","Minnesota"]},
   "saltlakecity": {"name":"Salt Lake City","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["SLC","Utah"]},
   "houston": {"name":"Houston","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["IAH","HOU","Space City","Texas"]},
-  "phoenix": {"name":"Phoenix","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["PHX","Tempe","Arizona"]}
+  "phoenix": {"name":"Phoenix","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["PHX","Tempe","Arizona"]},
+  "stlouis": {"name":"St. Louis","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["STL","Saint Louis","Missouri"]}
 }
