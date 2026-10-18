@@ -1,0 +1,225 @@
+{
+  "name": "Tucson",
+  "country": "USA",
+  "flag": "🇺🇸",
+  "center": [32.2226,-110.9747],
+  "zoom": 12,
+  "operatingHours": "Sun Link streetcar runs ~7:00 AM–~10:00 PM Mon–Wed, until ~2:00 AM Thu–Sat (late service while the University of Arizona is in session), and ~8:00 AM–~8:00 PM Sun; every ~10–15 min on weekdays, ~20–30 min on weekends. End to end takes ~30 min.",
+  "fareInfo": "Sun Link and all Sun Tran buses are fare-free (since 2020, still free in 2026; the city has set no date to bring fares back). Just board — no ticket or card needed.",
+  "lines": [
+    {
+      "id": "lsun_link",
+      "name": "Sun Link Streetcar",
+      "color": "#00A0AF",
+      "code": "S",
+      "stations": [
+        ["Helen Street & Warren Avenue",32.2373,-110.9464],
+        ["2nd Street & Cherry Avenue",32.2339,-110.9476],
+        ["2nd Street & Olive Road",32.2338,-110.9554],
+        ["University Boulevard & 3rd Avenue",32.2317,-110.9645],
+        ["4th Avenue & 5th Street",32.2298,-110.9657],
+        ["4th Avenue & 7th Street",32.2271,-110.9656],
+        ["Granada Avenue & Cushing Street",32.2177,-110.9777],
+        ["Congress Street & 6th Avenue",32.222,-110.9684],
+        ["Congress Street & Stone Avenue",32.2219,-110.9711],
+        ["Congress Street & Church Avenue",32.2217,-110.9727],
+        ["Congress Street & Granada Avenue",32.2214,-110.9757],
+        ["Cushing Street & Avenida del Convento",32.2177,-110.9843],
+        ["Avenida del Convento & Congress Street",32.22,-110.9853]
+      ]
+    }
+  ],
+  "hotels": [
+    {"name":"Hampton Inn Tucson-Airport","lat":32.1253,"lng":-110.9338,"area":"Tucson International Airport","rating":4.4,"ratingCount":1159,"stars":2,"priceTier":2,"brandAnchor":true},
+    {"name":"La Quinta Inn & Suites by Wyndham Tucson Airport","lat":32.1247,"lng":-110.9335,"area":"Tucson International Airport","rating":4.1,"ratingCount":1206,"stars":2,"priceTier":2},
+    {"name":"Country Inn & Suites by Radisson, Tucson Airport, AZ","lat":32.131,"lng":-110.9332,"area":"Tucson International Airport","rating":4.3,"ratingCount":1113,"stars":2,"priceTier":2},
+    {"name":"Hilton Garden Inn Tucson Airport","lat":32.1331,"lng":-110.9252,"area":"Tucson International Airport","rating":4.3,"ratingCount":801,"stars":3,"priceTier":3},
+    {"name":"TownePlace Suites by Marriott Tucson Airport","lat":32.1323,"lng":-110.9301,"area":"Tucson International Airport","rating":4.4,"ratingCount":274,"stars":2,"priceTier":2},
+    {"name":"The Blenman Inn","lat":32.2191,"lng":-110.9699,"area":"Tucson Amtrak Station","rating":4.9,"ratingCount":485,"stars":3,"priceTier":3},
+    {"name":"Hampton Inn Tucson Downtown","lat":32.2196,"lng":-110.9704,"area":"Tucson Amtrak Station","rating":4.1,"ratingCount":56,"stars":2,"priceTier":2,"brandAnchor":true},
+    {"name":"DoubleTree by Hilton Tucson Downtown Convention Center","lat":32.2174,"lng":-110.9733,"area":"Downtown Tucson","rating":4.8,"ratingCount":300,"stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"The Leo Kent Hotel, Tucson, A Tribute Portfolio Hotel","lat":32.2215,"lng":-110.972,"area":"Downtown Tucson","rating":4.8,"ratingCount":557,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Home2 Suites by Hilton Tucson Downtown","lat":32.2198,"lng":-110.9707,"area":"Downtown Tucson","rating":4.1,"ratingCount":76,"stars":2,"priceTier":2},
+    {"name":"El Presidio Inn Bed and Breakfast","lat":32.2255,"lng":-110.9759,"area":"Downtown Tucson","rating":4.9,"ratingCount":358,"stars":3,"priceTier":3},
+    {"name":"Graduate by Hilton Tucson","lat":32.2328,"lng":-110.9577,"area":"University of Arizona","rating":4.7,"ratingCount":460,"stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Tucson Marriott University Park","lat":32.2325,"lng":-110.9583,"area":"University of Arizona","rating":4,"ratingCount":1179,"stars":3,"priceTier":3}
+  ],
+  "sights": [
+    {
+      "name": "Arizona-Sonora Desert Museum",
+      "lat": 32.2439,
+      "lng": -111.1681,
+      "note": "Part zoo, part botanical garden, part natural-history museum: two miles of desert paths with mountain lions, hummingbirds and raptor free-flight demos. West of town over Gates Pass, no transit.",
+      "hours": "Oct–May 8:30 AM–5:00 PM; summer from 7:30 AM (Saturday evening hours Jun–Aug)",
+      "rating": 4.8,
+      "ticketUrl": "https://www.desertmuseum.org"
+    },
+    {
+      "name": "Mt. Lemmon Scenic Byway",
+      "lat": 32.369,
+      "lng": -110.7136,
+      "note": "A 27-mile climb up the Catalina Highway from saguaro desert to pine forest, with Windy Point Vista as the classic stop; the summit is often 20°F cooler than the city.",
+      "hours": "Open 24 h; upper road can close for snow or ice in winter",
+      "rating": 4.8
+    },
+    {
+      "name": "Sabino Canyon Recreation Area",
+      "lat": 32.3101,
+      "lng": -110.8221,
+      "note": "A desert canyon in the Santa Catalina foothills with a narrated tram, creek crossings and trails such as Seven Falls; northeast Tucson, no rail link.",
+      "hours": "Area open daily dawn–dusk; visitor center ~8:00 AM–4:30 PM; tram runs ~9:00 AM–4:00 PM",
+      "rating": 4.7,
+      "ticketUrl": "https://www.sabinocanyon.com"
+    },
+    {
+      "name": "Pima Air and Space Museum",
+      "lat": 32.1389,
+      "lng": -110.8687,
+      "note": "One of the world's largest aircraft collections, with 400-plus planes in hangars and on an 80-acre outdoor field, from a Wright Flyer replica to a Boeing 787.",
+      "hours": "9:00 AM–5:00 PM daily (last admission ~3:30 PM)",
+      "rating": 4.7,
+      "ticketUrl": "https://pimaair.org"
+    },
+    {
+      "name": "Mission San Xavier del Bac",
+      "lat": 32.107,
+      "lng": -111.008,
+      "note": "The 'White Dove of the Desert', a still-active 1790s Spanish mission church on the Tohono O'odham Nation with a richly painted baroque interior; free to visit.",
+      "hours": "Church ~7:00 AM–5:00 PM daily (closed to sightseers during Mass)",
+      "rating": 4.6
+    },
+    {
+      "name": "Saguaro National Park",
+      "lat": 32.2531,
+      "lng": -111.2061,
+      "note": "Forests of giant saguaro cacti in two districts on either side of Tucson; pinned at the Red Hills Visitor Center in the west, while the east (Rincon Mountain) district has the Cactus Forest Drive loop.",
+      "hours": "Roads open sunrise–sunset; visitor centers ~9:00 AM–5:00 PM",
+      "rating": 4.7,
+      "ticketUrl": "https://www.nps.gov/sagu"
+    },
+    {
+      "name": "Richard F. Caris Mirror Lab",
+      "lat": 32.2287,
+      "lng": -110.9478,
+      "note": "The University of Arizona workshop under the football stadium that casts and polishes giant telescope mirrors; seen only on small guided tours.",
+      "hours": "Guided tours by reservation only, typically Mon–Sat",
+      "rating": 4.9,
+      "bookAhead": true
+    },
+    {
+      "name": "Tucson Botanical Gardens",
+      "lat": 32.2489,
+      "lng": -110.91,
+      "note": "Sixteen compact themed gardens in midtown, from cactus and succulent beds to a tropical butterfly house.",
+      "hours": "Daily ~7:30 AM–4:30 PM (earlier opening in summer)",
+      "rating": 4.4,
+      "ticketUrl": "https://tucsonbotanical.org"
+    },
+    {
+      "name": "Gates Pass",
+      "lat": 32.2226,
+      "lng": -111.1003,
+      "note": "A winding mountain pass in Tucson Mountain Park whose overlook is the city's favorite spot to watch the sun set behind saguaro-studded ridges; free.",
+      "hours": "Overlook open dawn–dusk",
+      "rating": 4.7
+    },
+    {
+      "name": "The Gaslight Theatre",
+      "lat": 32.2214,
+      "lng": -110.8411,
+      "note": "A family-friendly melodrama theater on the east side, with booing-the-villain musical parodies, live band and popcorn.",
+      "hours": "Shows Tue–Sun evenings plus weekend matinees",
+      "rating": 4.7,
+      "ticketUrl": "https://thegaslighttheatre.com",
+      "bookAhead": true
+    },
+    {
+      "name": "Tohono Chul",
+      "lat": 32.3383,
+      "lng": -110.9821,
+      "note": "A peaceful 49-acre desert garden and gallery in the northwest, with shaded trails, a tearoom and native wildlife.",
+      "hours": "8:00 AM–5:00 PM daily",
+      "rating": 4.6,
+      "ticketUrl": "https://tohonochul.org"
+    },
+    {
+      "name": "Reid Park Zoo",
+      "lat": 32.208,
+      "lng": -110.92,
+      "note": "A compact, well-kept city zoo with elephants, giraffes you can feed and a South American section, set in midtown's Reid Park.",
+      "hours": "~9:00 AM–4:00 PM daily (earlier hours in summer)",
+      "rating": 4.4,
+      "ticketUrl": "https://reidparkzoo.org"
+    },
+    {
+      "name": "The Mini Time Machine Museum of Miniatures",
+      "lat": 32.2722,
+      "lng": -110.896,
+      "note": "An enchanting museum of dollhouses, room boxes and tiny worlds spanning three centuries, including a whimsical enchanted-forest gallery.",
+      "hours": "Tue–Sat 10:00 AM–4:00 PM, Sun 12:00–4:00 PM; closed Mon",
+      "rating": 4.6,
+      "ticketUrl": "https://theminitimemachine.org"
+    },
+    {
+      "name": "DeGrazia Gallery in the Sun",
+      "lat": 32.3077,
+      "lng": -110.9087,
+      "note": "The adobe home, chapel and gallery that artist Ted DeGrazia built by hand in the foothills, filled with his colorful Southwestern paintings.",
+      "hours": "10:00 AM–4:00 PM daily",
+      "rating": 4.7,
+      "ticketUrl": "https://degrazia.org"
+    },
+    {
+      "name": "University of Arizona",
+      "lat": 32.2319,
+      "lng": -110.9535,
+      "note": "A leafy campus on the Sun Link line with Old Main, the grassy Mall, and free-to-cheap museums such as the Arizona State Museum and the Center for Creative Photography.",
+      "hours": "Campus open at all times; museum hours vary",
+      "rating": 4.6
+    },
+    {
+      "name": "Presidio San Agustín del Tucsón Museum",
+      "lat": 32.2235,
+      "lng": -110.9738,
+      "note": "A reconstructed corner of the 1775 Spanish fort where Tucson began, with adobe walls, living-history days and a downtown Turquoise Trail walk starting nearby.",
+      "hours": "Thu–Sun ~10:00 AM–3:00 PM (seasonal; check before visiting)",
+      "rating": 4.5,
+      "ticketUrl": "https://www.tucsonpresidio.com"
+    },
+    {
+      "name": "Mercado San Agustín",
+      "lat": 32.2197,
+      "lng": -110.9853,
+      "note": "A Sonoran-style courtyard market at the west end of the streetcar line with bakeries, cafés and taco spots; local flavor pick.",
+      "hours": "Shops ~10:00 AM–6:00 PM; restaurants and bars into the evening",
+      "rating": 4
+    },
+    {
+      "name": "Fourth Avenue",
+      "lat": 32.2287,
+      "lng": -110.9656,
+      "note": "Tucson's bohemian strip of vintage shops, murals, dive bars and patios between downtown and campus, right on the Sun Link line; local flavor pick for evenings.",
+      "hours": "Shops ~10:00 AM–6:00 PM; bars until ~2:00 AM",
+      "rating": 3.9
+    }
+  ],
+  "railStations": [
+    {
+      "name": "Tucson Amtrak Station",
+      "lat": 32.2231,
+      "lng": -110.9667,
+      "note": "Restored 1907 depot downtown on Toole Ave, next to Hotel Congress; Amtrak's Sunset Limited/Texas Eagle (Los Angeles–New Orleans/Chicago), 3 trains a week each way. ~5 min walk to the Congress St & 6th Ave Sun Link stop.",
+      "hours": "Trains call late evening/night; station open around train times only. Sun Link ~7:00 AM–~10:00 PM (later Thu–Sat)"
+    }
+  ],
+  "airports": [
+    {
+      "name": "Tucson International Airport",
+      "code": "TUS",
+      "lat": 32.1161,
+      "lng": -110.941,
+      "transitNote": "Not on the streetcar map. Free Sun Tran Route 25 from the terminal curb runs up Park Ave to the Ronstadt Transit Center downtown in ~45 min (every ~30–60 min). Taxi/rideshare ~15–20 min, ~$25–40. Airport hotels run free shuttles.",
+      "hours": "Route 25: first bus ~5:30 AM, last ~7:00–8:00 PM (shorter on weekends)"
+    }
+  ]
+}

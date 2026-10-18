@@ -87,5 +87,6 @@
   "milwaukee": {"name":"Milwaukee","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["MKE","Brew City","Wisconsin"]},
   "cleveland": {"name":"Cleveland","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["CLE","The Land","Ohio"]},
   "norfolk": {"name":"Norfolk","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["ORF","Hampton Roads","Virginia Beach","Virginia"]},
-  "sacramento": {"name":"Sacramento","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["SMF","Sac","California"]}
+  "sacramento": {"name":"Sacramento","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["SMF","Sac","California"]},
+  "tucson": {"name":"Tucson","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["TUS","Old Pueblo","Arizona"]}
 }

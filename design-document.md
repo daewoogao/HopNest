@@ -133,7 +133,7 @@ station/airport/railway stop you tap.
   Las Vegas, Vancouver, Rio de Janeiro, Sydney, Melbourne. Batch 7 (US, 2026-10-18):
   Seattle, Philadelphia, San Diego, New Orleans, Atlanta. Batch 8 (US, 2026-10-18):
   Portland, Honolulu, Denver, Dallas, Baltimore, Minneapolis–Saint Paul, Salt Lake City, Houston, Phoenix, St. Louis, Pittsburgh, Charlotte. Batch 9 (US, 2026-10-18):
-  Detroit, Buffalo, Cincinnati, Milwaukee, Cleveland, Norfolk, Sacramento (89 cities).
+  Detroit, Buffalo, Cincinnati, Milwaukee, Cleveland, Norfolk, Sacramento, Tucson (90 cities).
   City-list groups: Asia, Europe, Americas, Africa, Oceania.
 - **City picker** (search redesigned 2026-10-16): a search box that
   matches city name, country, other names (`aliases` in `cities.json`:
@@ -500,7 +500,7 @@ they're done.
 
 ## Changelog
 
-### 2026-10-18 — batch 9: more US cities (89 total)
+### 2026-10-18 — batch 9: more US cities (90 total)
 - Audrey asked for more US cities with rail or streetcars.
 - Detroit: QLINE streetcar and People Mover loop (both free). Gaps:
   Amtrak station 0 hotels; Cultural Center 1; Midtown 2; most DTW hotels
@@ -525,6 +525,9 @@ they're done.
   (the nearest shuttle hotels are ~7 km out, too far to list); Midtown
   1; Valley Station has no budget pick; new Dos Rios station missing
   from OSM.
+- Tucson: Sun Link streetcar (fare-free). Gaps: Amtrak station 2;
+  University 2; airport hotels are shuttle hotels 1.2-2.4 km out; many
+  top sights (Saguaro, Desert Museum, Mt. Lemmon) need a car.
 
 ### 2026-10-18 — batch 8: more US cities overnight (82 total)
 - Audrey asked for as many more US cities as possible overnight. Added so
