@@ -499,10 +499,11 @@ they're done.
 
 ### 2026-10-18 — kawaii hotel icon
 - Audrey asked for a Japanese cartoon-style hotel logo that reads
-  instantly as "hotel". Map-data hotels now show as a smiling little
-  building with a red "H" sign, rosy cheeks and a door (yellow = hotel,
-  sky blue = hostel), anchored at its base. Replaces the bed badge; the
-  card legend shows the same icon. Our curated picks keep the green diamond.
+  instantly as "hotel". Six options drawn (A smiling hotel, B sleepy bed,
+  C little inn, D desk bell, E room key, F ryokan). Map-data hotels now
+  show B, the sleepy bed: a sleeping face under a blanket with "zz" (pink
+  blanket = hotel, mint = hostel), anchored at its base. Replaces the bed
+  badge; the card legend shows the same icon. Our curated picks keep the green diamond.
 
 ### 2026-10-17 — hotel card out of the way; hotels near sights
 - Audrey: the hotel list covered the map after a station click. The card
