@@ -68,5 +68,6 @@
   "philadelphia": {"name":"Philadelphia","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["Philly","PHL"]},
   "sandiego": {"name":"San Diego","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["SAN","SD"]},
   "neworleans": {"name":"New Orleans","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["NOLA","MSY","Big Easy"]},
-  "atlanta": {"name":"Atlanta","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["ATL","Hotlanta"]}
+  "atlanta": {"name":"Atlanta","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["ATL","Hotlanta"]},
+  "portland": {"name":"Portland","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["PDX","Rose City"]}
 }
