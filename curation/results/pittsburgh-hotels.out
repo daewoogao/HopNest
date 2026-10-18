@@ -1,0 +1,74 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	4095602841			40.4475615	-79.9374389	hotel				
+node	4095602843	Hyatt House Pittsburgh / Bloomfield / Shadyside		40.4569390	-79.9392804	hotel		Hyatt House		https://www.hyatt.com/en-us/hotel/pennsylvania/hyatt-house-pittsburgh-bloomfield-shadyside/pitxp
+node	4095602844	Ace Hotel Pittsburgh		40.4613129	-79.9261652	hotel				
+node	4491752379	Fairmont Pittsburgh		40.4414817	-80.0018083	hotel		Fairmont		https://www.fairmont.com/pittsburgh/
+node	4591599398	Parador Inn		40.4514967	-80.0179848	hotel				
+node	7086777648	EVEN Hotels		40.4392274	-79.9983088	hotel		EVEN Hotels		
+node	7106287100	Hilton Garden Inn		40.4402268	-80.0016139	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/pitfagi-hilton-garden-inn-pittsburgh-downtown/
+node	9039190459	Traveler's Rest		40.4292152	-79.9935093	hotel				
+node	9901520717	"Joinery Hotel Pittsburgh, Curio Collection by Hilton"		40.4375929	-79.9989083	hotel		Curio		https://www.joineryhotel.com/
+node	13033992102	Stay Pittsburgh		40.4372898	-80.0002198	hotel				https://staypittsburgh.com
+node	13853091301	The Inn on Negley		40.4533493	-79.9314937	hotel				
+node	13900338921	TRYP - Pittsburgh/Lawrenceville		40.4694075	-79.9628627	hotel		TRYP		
+node	13903168258	Comfort Inn & Suites		40.4544751	-79.9963529	hotel		Comfort Inn & Suites		https://www.choicehotels.com/pennsylvania/washington/comfort-inn-hotels
+way	43047817	Sheraton Pittsburgh Hotel at Station Square		40.4347322	-80.0063142	hotel		Sheraton		
+way	125393459	Omni William Penn Hotel		40.4406094	-79.9965861	hotel			Omni Hotels & Resorts	https://www.omnihotels.com/hotels/pittsburgh-william-penn
+way	130358199	Cambria Hotel Pittsburgh - Downtown		40.4401562	-79.9878961	hotel		Cambria Hotel		https://www.cambriapgh.com/
+way	167411637	Family House		40.4557298	-79.9400505	hotel				https://www.familyhouse.org/tour-homes-shadyside.php
+way	167411841	Courtyard Pittsburgh Shadyside		40.4559983	-79.9397066	hotel		Courtyard		https://www.marriott.com/hotels/travel/pitok-courtyard-pittsburgh-shadyside/
+way	202674560	Bridgestreet The Encore on 7th		40.4441445	-80.0009974	hotel				https://www.theencoreon7th.com/
+way	203529133	Holiday Inn Express & Suites Pittsburgh-South Side		40.4299311	-79.9890113	hotel		Holiday Inn Express & Suites		https://www.hiexpress.com/hotels/de/de/pittsburgh/pitxs/hoteldetail
+way	222405386	Wyndham Grand Pittsburgh Downtown		40.4417114	-80.0064281	hotel		Wyndham Grand		http://www.wyndham.com/hotels/pennsylvania/pittsburgh/wyndham-grand-pittsburgh-downtown/hotel-overview
+way	222720928	Embassy Suites by Hilton Pittsburgh Downtown		40.4412233	-79.9982409	hotel		Embassy Suites		https://www.hilton.com/en/hotels/pitsmes-embassy-suites-pittsburgh-downtown/
+way	225522907	Residence Inn Pittsburgh North Shore		40.4479728	-80.0072272	hotel		Residence Inn		https://www.marriott.com/pitrn
+way	225522911	SpringHill Suites North Shore		40.4485814	-80.0046744	hotel		SpringHill Suites		https://www.marriott.com/pitns
+way	248423999	Pittsburgh Marriott City Center		40.4397391	-79.9922001	hotel				https://www.marriott.com/en-us/hotels/pitdt-pittsburgh-marriott-city-center/overview/
+way	273895381	Holiday Inn Express Hotel & Suites Pittsburgh West		40.4245228	-80.0418721	hotel				
+way	282851312	Homewood Suites by Hilton Pittsburgh Downtown		40.4480468	-79.9898847	hotel		Homewood Suites		
+way	289905598	DoubleTree by Hilton Hotel & Suites Pittsburgh Downtown		40.4405202	-79.9940330	hotel		DoubleTree		https://www.hilton.com/en/hotels/pitdtdt-doubletree-hotel-and-suites-pittsburgh-downtown/
+way	289905599	Hampton Inn & Suites Pittsburgh-Downtown		40.4471304	-79.9923778	hotel		Hampton Inn & Suites		https://www.hilton.com/en/hotels/pitdnhx-hampton-suites-pittsburgh-downtown/
+way	300462451	Hyatt Regency Pittsburgh International Airport		40.4963232	-80.2599394	hotel		Hyatt Regency		https://www.hyatt.com/en-us/hotel/pennsylvania/hyatt-regency-pittsburgh-international-airport/pitap
+way	313039535	DoubleTree by Hilton Hotel Pittsburgh-Green Tree		40.4187232	-80.0591717	hotel		DoubleTree		https://doubletree3.hilton.com/en/hotels/pennsylvania/doubletree-by-hilton-hotel-pittsburgh-green-tree-PITGTDT/index.html
+way	323751618	Hampton Inn Pittsburgh University/Medical Center		40.4360066	-79.9630133	hotel		Hampton		https://www.hilton.com/en/hotels/pitokhx-hampton-pittsburgh-university-medical-center/
+way	363389286	Kimpton Hotel Monaco Pittsburgh		40.4413727	-79.9962770	hotel		Kimpton		
+way	377868179	Crowne Plaza Pittsburgh West-Green Tree		40.4203583	-80.0566078	hotel				
+way	395358223	Hampton Inn & Suites		40.4070672	-79.9201293	hotel		Hampton Inn & Suites		https://www.hilton.com/en/hotels/pitwhhx-hampton-suites-pittsburgh-waterfront-west-homestead/
+way	395358224	Courtyard by Marriott Pittsburgh West Homestead/Waterfront		40.4058507	-79.9208583	hotel		Courtyard		https://www.marriott.com/en-us/hotels/pithw-courtyard-pittsburgh-west-homestead-waterfront/overview/
+way	402396762	Comfort Inn & Suites		40.4199196	-80.0302575	hotel		Comfort Inn & Suites		https://www.choicehotels.com/pennsylvania/washington/comfort-inn-hotels
+way	402396763	Days Inn Pittsburgh		40.4191469	-80.0303101	hotel		Days Inn		https://www.wyndhamhotels.com/days-inn/pittsburgh-pennsylvania/days-inn-pittsburgh/overview
+way	414739426	The Inn on Mexican War Streets		40.4545200	-80.0131330	hotel				
+way	434941306	La Quinta Inn Pittsburgh Airport		40.5078939	-80.2225916	hotel		La Quinta Inn	Wyndham Hotels and Resorts	https://www.wyndhamhotels.com/laquinta/moon-township-pennsylvania/la-quinta-inn-pittsburgh-airport/overview
+way	440116460	Hotel Indigo		40.4623164	-79.9249040	hotel		Hotel Indigo	InterContinental Hotels Group	http://www.hotelindigo.com/
+way	442184519	SpringHill Suites Marriott		40.3826677	-80.0436533	hotel		SpringHill Suites		https://www.marriott.com/pitle
+way	452605816	The Westin Convention Center Pittsburgh		40.4442880	-79.9947098	hotel		Westin		
+way	462549612	DoubleTree by Hilton Hotel Pittsburgh Airport		40.5090655	-80.2243964	hotel		DoubleTree		https://www.hilton.com/en/hotels/pitardt-doubletree-pittsburgh-airport/
+way	463232688			40.5037902	-80.2218392	hotel				
+way	491155669	Hyatt House Pittsburgh South Side		40.4283779	-79.9639369	hotel		Hyatt House		https://www.hyatt.com/en-us/hotel/pennsylvania/hyatt-house-pittsburgh-south-side/pitxs
+way	523053929	Hampton Inn Pittsburgh/Greentree		40.4193297	-80.0538066	hotel		Hampton	Hilton	https://www.hilton.com/en/hotels/pitgnhx-hampton-pittsburgh-greentree/
+way	535397530	The Inn Pittsburgh		40.4042628	-80.0413226	hotel				
+way	535398524	Residence Inn		40.4381881	-79.9621200	hotel		Residence Inn		https://www.marriott.com/pitrd
+way	535897313	Hilton Garden Inn Pittsburgh University Place		40.4393341	-79.9595561	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/pitucgi-hilton-garden-inn-pittsburgh-university-place/
+way	536995066	The Priory		40.4524201	-79.9982055	hotel				
+way	543156474	Courtyard Pittsburgh University Center		40.4461877	-79.9546471	hotel		Courtyard		https://www.marriott.com/en-us/hotels/pityu-courtyard-pittsburgh-university-center/overview/
+way	544809212	Pittsburgh Airport Inn & Suites		40.5080028	-80.2243815	hotel				
+way	545166298	Holiday Inn Express & Suites Pittsburgh North Shore		40.4488535	-80.0041332	hotel		Holiday Inn Express & Suites		https://www.ihg.com/holidayinnexpress/hotels/us/en/pittsburgh/pitns/hoteldetail
+way	545280741	Mansions On Fifth Hotel		40.4481183	-79.9383551	hotel				https://mansionsonfifth.com/
+way	556279331			40.4547645	-80.0132023	hotel				
+way	646504164	Stay Alfred at 1627 on The Strip		40.4494731	-79.9869227	hotel				
+way	660298983	AC Hotel by Marriott Pittsburgh Downtown		40.4457666	-79.9935445	hotel		AC Hotel		
+way	665322197	Drury Plaza Hotel Pittsburgh Downtown		40.4429863	-79.9950391	hotel				https://www.druryhotels.com/locations/pittsburgh-pa/drury-plaza-hotel-pittsburgh-downtown
+way	670750360	Courtyard Pittsburgh Downtown		40.4445245	-79.9966243	hotel		Courtyard		https://www.marriott.com/pitcy
+way	759668753	Fairfield Inn & Suites		40.4366099	-79.9996758	hotel		Fairfield Inn & Suites		https://www.marriott.com/pitdf
+way	786082158	Hotel Indigo		40.4311984	-79.9599185	hotel		Hotel Indigo		https://www.ihg.com/hotelindigo/hotels/us/en/pittsburgh/pitgh/hoteldetail
+way	864276926	The Oaklander Hotel		40.4451661	-79.9548736	hotel		Autograph Collection	Concord Hospitality	
+way	964387647	The Landing Hotel		40.4464493	-80.0206380	hotel				https://thelandinghotelpgh.com/
+relation	3995364	Hyatt Regency Pittsburgh International Airport		40.4966237	-80.2598320	hotel		Hyatt Regency		https://pittsburghairport.hyatt.com/
+relation	6154883	Courtyard		40.4980163	-80.2063299	hotel		Courtyard		
+relation	6182770	Quality Inn		40.5005822	-80.2095723	hotel		Quality Inn		
+relation	6182771	Suburban Studios		40.5007585	-80.2101089	hotel		Suburban Studios		
+relation	6184487	Sheraton Pittsburgh Airport Hotel		40.5018702	-80.2100237	hotel		Sheraton		
+relation	6435485	Embassy Suites Hotel		40.4948169	-80.2043058	hotel		Embassy Suites		
+relation	6703240	The Westin Convention Center Pittsburgh		40.4442880	-79.9947098	hotel		Westin		http://www.westinpittsburgh.com/
+relation	10505859	"The Atterbury Hotel, Autograph Collection"		40.4438040	-80.0022754	hotel		Autograph Collection		https://www.marriott.com/en-us/hotels/pitkd-the-atterbury-hotel-autograph-collection/overview/
+relation	18247850	Hyatt Place Pittsburgh North Shore		40.4466785	-80.0088281	hotel		Hyatt Place		https://pittsburghnorthshore.place.hyatt.com/en/hotel/home.html

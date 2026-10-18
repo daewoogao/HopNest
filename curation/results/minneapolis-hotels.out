@@ -1,0 +1,75 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	2093790844	W Minneapolis - The Foshay		44.9747168	-93.2719142	hotel		W Hotels		http://www.wminneapolishotel.com
+node	2093832071	Hyatt Place Minneapolis/Downtown		44.9740555	-93.2660003	hotel		Hyatt Place		http://hyattplaceminneapolisdowntown.com
+node	3624150279	Residence Inn Minneapolis Downtown/City Center		44.9761837	-93.2741682	hotel		Residence Inn		https://www.marriott.com/hotels/travel/mspri-residence-inn-minneapolis-downtown-city-center
+node	5794676451	Hyatt Regency Minneapolis		44.9710301	-93.2778937	hotel		Hyatt Regency	Hyatt Corporation	https://www.hyatt.com/en-US/hotel/minnesota/hyatt-regency-minneapolis/msprm
+node	10938393782	Four Seasons Hotel		44.9816300	-93.2693556	hotel		Four Seasons		https://www.fourseasons.com/minneapolis/
+node	12256431632	Midwest Hotel		44.9603130	-93.1890350	hotel				
+node	12919709245	Cambria Hotel Minneapolis Downtown		44.9768718	-93.2791328	hotel		Cambria Hotel		https://www.choicehotels.com/minnesota/minneapolis/cambria-hotels/mn206
+node	12919709246	Fairfield Inn & Suites Minneapolis Downtown		44.9766338	-93.2797015	hotel		Fairfield Inn & Suites		https://www.marriott.com/en-us/hotels/mspfd-fairfield-inn-and-suites-minneapolis-downtown/overview/
+node	13976329959	Canopy by Hilton Minneapolis Mill District		44.9767716	-93.2588517	hotel		Canopy	Hilton	
+node	14039704393	Alma		44.9837460	-93.2481091	hotel				https://www.almampls.com/hotel
+way	27346710	Lofton Hotel		44.9789033	-93.2750908	hotel				https://www.hilton.com/en/hotels/mspupup-the-lofton-hotel/
+way	27346715	Minneapolis Marriott City Center		44.9776871	-93.2734938	hotel		Marriott		https://www.marriott.com/hotels/travel/mspcc-minneapolis-marriott-city-center/
+way	28490028	Holiday Inn Express Minneapolis Downtown Convention Center		44.9710874	-93.2718666	hotel		Holiday Inn Express		https://www.ihg.com/holidayinnexpress/hotels/us/en/minneapolis/mspdt/hoteldetail
+way	28490035	"Hotel Ivy, a Luxury Collection Hotel, Minneapolis"		44.9713967	-93.2726780	hotel		The Luxury Collection		https://www.marriott.com/en-us/hotels/msplc-hotel-ivy-a-luxury-collection-hotel-minneapolis/overview/
+way	28490639	Hilton Minneapolis		44.9725952	-93.2729564	hotel		Hilton	Hilton	
+way	29080581	"Rand Tower Hotel, Minneapolis, a Tribute Portfolio Hotel"		44.9773359	-93.2695538	hotel		Marriott		https://www.marriott.com/en-us/hotels/msptr-rand-tower-minneapolis-a-tribute-portfolio-hotel/overview/
+way	30056630	Graduate by Hilton Minneapolis		44.9742287	-93.2294528	hotel		Graduate	Graduate Hotels	https://www.hilton.com/en/hotels/mspgmgu-graduate-minneapolis/
+way	39713009	Courtyard Minneapolis Downtown		44.9737938	-93.2478105	hotel		Courtyard	Marriott	https://www.marriott.com/hotels/travel/mspdc-courtyard-minneapolis-downtown
+way	45066437	DoubleTree Suites by Hilton Hotel Minneapolis		44.9732362	-93.2767332	hotel		DoubleTree		https://www.hilton.com/en/hotels/msplsdt-doubletree-suites-minneapolis-downtown/
+way	45758924	Hewing Hotel		44.9849469	-93.2725195	hotel				https://hewinghotel.com
+way	48816164	Residence Inn at the Depot		44.9798859	-93.2614396	hotel		Residence Inn		https://www.marriott.com/mspmw
+way	60613336	Radisson RED Minneapolis Downtown		44.9768378	-93.2602995	hotel		Radisson RED		https://www.radissonhotels.com/en-us/hotels/radisson-red-minneapolis-downtown
+way	62006964	"Emery, Autograph Collection"		44.9782213	-93.2669159	hotel		Autograph Collection		https://www.marriott.com/en-us/hotels/mspak-emery-autograph-collection/overview/
+way	62334789	University Inn		44.9831056	-93.2414295	hotel				https://www.universityinnmn.com
+way	63619638	Normandy Inn & Suites		44.9730017	-93.2672452	hotel		Best Western		
+way	63619639	Hilton Garden Inn Minneapolis Downtown		44.9702336	-93.2698514	hotel		Hilton Garden Inn	Hilton	https://hiltongardeninn3.hilton.com/en/hotels/minnesota/hilton-garden-inn-minneapolis-downtown-MSPCNGI/index.html
+way	65740834	DoubleTree by Hilton Hotel Minneapolis - Park Place		44.9686861	-93.3508659	hotel		DoubleTree		https://doubletree3.hilton.com/en/hotels/minnesota/doubletree-by-hilton-hotel-minneapolis-park-place-MSPPHDT/index.html
+way	80313504	Nicollet Island Inn		44.9858872	-93.2605107	hotel				https://www.nicolletislandinn.com/
+way	81049120	Aloft Minneapolis		44.9765837	-93.2550459	hotel		Aloft		http://www.aloftminneapolis.com
+way	81140446	Days Inn		44.9742754	-93.2216791	hotel		Days Inn	Wyndham Hotels and Resorts	https://www.wyndhamhotels.com/
+way	83672519	Embassy Suites		44.8603397	-93.2219599	hotel		Embassy Suites		https://www.hilton.com/en/hotels/mspapes-embassy-suites-minneapolis-airport/
+way	89381829	Moxy Minneapolis Uptown		44.9481630	-93.2941139	hotel		Moxy		https://moxy-hotels.marriott.com/hotels/minneapolis-uptown
+way	98613247	Hyatt Place Minneapolis Airport-South		44.8609139	-93.2268409	hotel		Hyatt Place		https://www.hyatt.com/en-us/hotel/minnesota/hyatt-place-minneapolis-airport-south/mspza
+way	119539505	Towne Place Suites Minneapolis Downtown		44.9871497	-93.2743366	hotel		TownePlace Suites	Marriott	https://www.marriott.com/hotels/travel/mspts-towneplace-suites-minneapolis-downtown
+way	125240679	Hilton Garden Inn Minneapolis University Area		44.9708948	-93.2222869	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/msputgi-hilton-garden-inn-minneapolis-university-area/
+way	125694246	Quality Inn		44.9575488	-93.1831110	hotel		Quality Inn		https://www.choicehotels.com/minnesota/saint-paul/quality-inn-hotels/mn232
+way	145295965	Hampton		44.8605827	-93.2304041	hotel		Hampton		
+way	145295970	Hilton Minneapolis/St. Paul Airport Mall of America		44.8609302	-93.2184910	hotel		Hilton		https://www3.hilton.com/en/hotels/minnesota/hilton-minneapolis-st-paul-airport-mall-of-america-MSPAHHF/index.html
+way	148018361	Country Inn & Suites		45.0234770	-93.1658215	hotel		Country Inn & Suites		https://www.radissonhotels.com/en-us/hotels/country-inn-roseville-mn
+way	148396413	Days Inn		45.0183746	-93.1864919	hotel		Days Inn		
+way	148396416	Radisson		45.0173486	-93.1854307	hotel		Radisson		
+way	148396485	Holiday Inn Express Roseville-St. Paul		45.0226064	-93.1933483	hotel		Holiday Inn Express		https://www.ihg.com/holidayinnexpress/hotels/us/en/roseville/mspro/hoteldetail
+way	148397065	Courtyard		45.0288460	-93.1901454	hotel		Courtyard	Marriott	https://www.marriott.com/hotels/maps/travel/msprl-courtyard-minneapolis-st-paul-roseville
+way	156909956	"The Marquette Hotel, Curio Collection by Hilton"		44.9763238	-93.2714838	hotel		Curio Collection	Hilton Worldwide	http://www.marquettehotel.com/
+way	156909962	Hotel Indigo Minneapolis Downtown		44.9762012	-93.2696259	hotel		Hotel Indigo		https://www.ihg.com/hotelindigo/hotels/us/en/minneapolis/mspdg/hoteldetail
+way	156912892	The Westin Minneapolis		44.9777503	-93.2702225	hotel		Westin		https://www.starwoodhotels.com
+way	156974227	The Chambers Hotel		44.9759417	-93.2770335	hotel		MCR Hotels		https://www.chambershoteldowntown.com/
+way	167015125	Homewood Suites		44.9692568	-93.3470296	hotel		Homewood Suites		https://homewoodsuites3.hilton.com/en/hotels/minnesota/homewood-suites-by-hilton-minneapolis-st-louis-park-at-west-end-MSPLPHW/index.html
+way	167038301	SpringHill Suites		44.9697044	-93.3561070	hotel		SpringHill Suites		https://www.marriott.com/hotels/travel/mspsl-springhill-suites-minneapolis-west-st-louis-park
+way	198988798	Hampton Inn & Suites Minneapolis/Downtown		44.9775370	-93.2769093	hotel		Hampton Inn & Suites		https://www.hilton.com/en/hotels/mspmdhx-hampton-suites-minneapolis-downtown/
+way	198992899	Fairfield Inn & Suites		45.0329179	-93.1901676	hotel		Fairfield Inn		https://www.marriott.com/msprv
+way	199132255	SpringHill Suites		44.8612276	-93.2319720	hotel		SpringHill Suites		https://www.marriott.com/mspms
+way	201785479			44.8967050	-93.2162661	hotel				
+way	354742163	Hyatt Centric Downtown Minneapolis		44.9759777	-93.2688235	hotel		Hyatt Centric		https://www.hyatt.com/hyatt-centric/mspct-hyatt-centric-downtown-minneapolis
+way	410084640	Ramada		44.9718762	-93.3610128	hotel		Ramada		https://www.wyndhamhotels.com/ramada/golden-valley-minnesota/ramada-golden-valley-minneapolis/overview?CID=LC:RA::GGL:RIO:National:03652&iata=00093796
+way	461227726	Embassy Suites by Hilton Minneapolis Downtown		44.9788243	-93.2728228	hotel		Embassy Suites		https://www.hilton.com/en/hotels/mspsses-embassy-suites-minneapolis-downtown/
+way	479624444	AC Hotel by Marriott Minneapolis West End		44.9695845	-93.3441614	hotel		AC Hotel		https://www.marriott.com/hotels/travel/mspaw-ac-hotel-minneapolis-west-end/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2
+way	508003905	Townplace Suites by Mariott		44.9688967	-93.3565045	hotel		TownePlace Suites		https://www.marriott.com/mspls
+way	613598897	Elliot Park Hotel		44.9720511	-93.2664612	hotel		Autograph Collection		https://www.marriott.com/en-us/hotels/mspad-elliot-park-hotel-autograph-collection/overview/
+way	623274253	Montrose Moderne		44.9475054	-93.1964806	hotel				https://www.montrosemoderne.com/
+way	676151826	Hampton Inn & Suites		44.9711671	-93.2167390	hotel		Hampton Inn & Suites	Hilton	https://www.hilton.com/en/hotels/mspuahx-hampton-suites-minneapolis-university-area/
+way	711683043	Intercontinental Hotel Minneapolis-St Paul Airport		44.8794657	-93.2014374	hotel		InterContinental		https://www.intercontinentalmsp.com/
+way	784522049			45.0239310	-93.1867454	hotel				
+way	900175940	Element Minneapolis Downtown		44.9840126	-93.2792202	hotel		Element		
+way	941828949	AC Hotel by Marriott Minneapolis Downtown		44.9801040	-93.2713159	hotel		AC Hotel		https://www.marriott.com/en-us/hotels/mspar-ac-hotel-minneapolis-downtown/overview/
+way	965744176	avid Hotel Roseville- Minneapolis North		45.0322685	-93.1900783	hotel		avid Hotel		
+way	1028566546	Home2 Suites		44.9713749	-93.2171501	hotel		Home2 Suites		https://www.hilton.com/en/hotels/msptcht-home2-suites-minneapolis-university-area/
+way	1226061672	Crowne Plaza Suites		44.8582291	-93.2221591	hotel		Crowne Plaza		
+way	1393147765	The Depot Renaissance Minneapolis Hotel		44.9803072	-93.2628578	hotel				https://www.marriott.com/en-us/hotels/mspdd-renaissance-minneapolis-hotel-the-depot/overview/
+way	1393159125	The Royal Sonesta Minneapolis Downtown		44.9770257	-93.2736063	hotel		Radisson Blu		https://www.sonesta.com/us/minnesota/minneapolis/royal-sonesta-minneapolis-downtown
+way	1394814185	Sheraton Minneapolis Downtown Convention Center		44.9704360	-93.2770838	hotel		Sheraton		https://www.marriott.com/en-us/hotels/mspsd-sheraton-minneapolis-downtown-convention-center/overview/
+relation	1632175	Delta Hotels by Marriott		45.0024617	-93.2131586	hotel				
+relation	12995455	Residence Inn Minneapolis St. Paul/Roseville		45.0310389	-93.1897591	hotel		Residence Inn		
+relation	16220859	Holiday Inn Express & Suites		44.9715559	-93.3564789	hotel		Holiday Inn Express & Suites		https://www.ihg.com/holidayinnexpress/hotels/us/en/minneapolis/mspwe/hoteldetail?cm_mmc=GoogleMaps-_-EX-_-US-_-MSPWE

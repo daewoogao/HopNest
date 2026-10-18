@@ -1,0 +1,4 @@
+3 lines, 44 stations
+  check: METRORail Red Line: no colour tag in OSM, set the official color by hand
+  check: METRORail Green Line: no colour tag in OSM, set the official color by hand
+  check: METRORail Purple Line: no colour tag in OSM, set the official color by hand

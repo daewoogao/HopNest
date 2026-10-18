@@ -1,0 +1,61 @@
+[
+  {
+    "id": "lblue",
+    "name": "LYNX Blue Line",
+    "color": "#888888",
+    "code": "Blue",
+    "stations": [
+      ["UNC Charlotte–Main",35.3122,-80.7333],
+      ["JW Clay Boulevard/UNC Charlotte",35.3105,-80.7456],
+      ["McCullough",35.3008,-80.7531],
+      ["University City Boulevard",35.2865,-80.7612],
+      ["Tom Hunter",35.2776,-80.7664],
+      ["Old Concord Road",35.2596,-80.7729],
+      ["Sugar Creek",35.2514,-80.7933],
+      ["36th Street",35.249,-80.8067],
+      ["25th Street",35.2415,-80.8175],
+      ["Parkwood",35.2367,-80.8236],
+      ["9th Street",35.2295,-80.8353],
+      ["7th Street",35.2271,-80.8385],
+      ["CTC/Arena",35.2252,-80.8411],
+      ["3rd Street/Convention Center",35.2237,-80.8432],
+      ["Brooklyn Village",35.2211,-80.8475],
+      ["Carson",35.2186,-80.8512],
+      ["Bland Street",35.2156,-80.8555],
+      ["East/West Boulevard",35.2117,-80.8593],
+      ["New Bern",35.1996,-80.8692],
+      ["Scaleybark",35.1906,-80.8752],
+      ["Woodlawn",35.1753,-80.879],
+      ["Tyvola",35.1627,-80.8776],
+      ["Archdale",35.1527,-80.8776],
+      ["Arrowood",35.1353,-80.8763],
+      ["Sharon Road West",35.1192,-80.8823],
+      ["I-485/South Boulevard",35.1066,-80.8829]
+    ]
+  },
+  {
+    "id": "lgold",
+    "name": "CityLynx Gold Line",
+    "color": "#FECE0C",
+    "code": "Gold",
+    "stations": [
+      ["CTC/Arena",35.2244,-80.8398],
+      ["Davidson Street",35.2227,-80.8378],
+      ["McDowell Street",35.221,-80.8358],
+      ["CPCC Central Campus",35.2176,-80.8314],
+      ["Elizabeth & Hawthorne",35.2135,-80.8264],
+      ["Hawthorne & 5th Street",35.2138,-80.8246],
+      ["Johnson & Wales",35.2334,-80.8506],
+      ["Gateway Station",35.2313,-80.8479],
+      ["Mint Street",35.2296,-80.8459],
+      ["Irwin Avenue",35.2349,-80.8527],
+      ["Hawthorne & 8th",35.2165,-80.8212],
+      ["Hawthorne & 5th Street",35.2138,-80.8245],
+      ["French Street",35.246,-80.8569],
+      ["Johnson C. Smith University",35.243,-80.8584],
+      ["Bruns Avenue",35.2399,-80.8585],
+      ["Wesley Heights",35.2373,-80.8588],
+      ["Tryon Street",35.2274,-80.8434]
+    ]
+  }
+]

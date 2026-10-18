@@ -1,0 +1,87 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	4162822441	Residence Inn Charlotte South at I-77/Tyvola Road		35.1580246	-80.8897196	hotel		Residence Inn		
+node	4162822457	Extended Stay America - Charlotte - Airport		35.1808772	-80.8925470	hotel		Extended Stay America		
+node	6582866216	Residence Inn		35.1814576	-80.9137430	hotel		Residence Inn		https://www.marriott.com/cltwe
+node	6582866217	Fairfield Inn		35.1816602	-80.9141472	hotel		Fairfield Inn		https://www.marriott.com/cltfs
+node	9111862565	AC Hotel by Marriott Charlotte City Center		35.2253154	-80.8414502	hotel		AC Hotel		
+node	9187447868	Tru Charlotte Airport Lake Pointe		35.1957020	-80.9154840	hotel		Tru		
+node	9187447869	Hampton Inn & Suites Charlotte Airport Lake Pointe		35.1958949	-80.9156932	hotel		Hampton Inn & Suites		https://www.hilton.com/en/hotels/cltlphx-hampton-suites-charlotte-airport-lake-pointe/
+node	9634125371	Kimpton Tryon Park Hotel		35.2262379	-80.8465493	hotel		Kimpton		
+way	94405127	Residence Inn		35.2270776	-80.8495084	hotel		Residence Inn		https://www.marriott.com/cltru
+way	120628262	Hyatt Place Charlotte Downtown		35.2225970	-80.8410870	hotel		Hyatt Place		https://www.hyatt.com/en-us/hotel/north-carolina/hyatt-place-charlotte-downtown/cltzu
+way	248673598	Quality Inn Airport South	Studio 6 Charlotte NC - Airport South	35.1801215	-80.8835790	hotel		Quality Inn		https://www.choicehotels.com/north-carolina/charlotte/quality-inn-hotels/nc780
+way	316444306	Courtyard Charlotte Airport North		35.2396755	-80.9405257	hotel		Courtyard		https://www.marriott.com/cltca
+way	316892874	Hampton Inn and Suites Charlotte Airport		35.2384028	-80.9387466	hotel		Hampton Inn & Suites		https://www.hilton.com/en/hotels/cltathx-hampton-suites-charlotte-airport/
+way	323193188	The VanLandingham Estate		35.2294483	-80.8077288	hotel				
+way	339590149	Sheraton Charlotte Airport Hotel		35.2374796	-80.9227114	hotel		Sheraton	Starwood Hotels	
+way	380092604	"The Ritz-Carlton, Charlotte"		35.2261491	-80.8414748	hotel		The Ritz-Carlton		
+way	380092605	Hilton Charlotte Uptown		35.2239118	-80.8437606	hotel		Hilton		https://charlotteuptown.hilton.com
+way	381222610	Sheraton Charlotte Hotel		35.2165050	-80.8375867	hotel		Sheraton		https://www.marriott.com/hotels/travel/cltws-sheraton-charlotte-hotel/
+way	381222611	Le Méridien Charlotte		35.2169102	-80.8385063	hotel		Le Méridien		https://www.marriott.com/hotels/travel/cltmd-le-meridien-charlotte/
+way	381222614	Fairfield Inn & Suites Charlotte Uptown		35.2186633	-80.8361346	hotel		Fairfield Inn & Suites		https://www.marriott.com/cltut
+way	397369787	Charlotte Marriott City Center		35.2280258	-80.8435288	hotel				
+way	397372377	The Westin Charlotte		35.2217519	-80.8472572	hotel		Westin	The Westin Hotels	https://www.marriott.com/en-us/hotels/cltcw-the-westin-charlotte/
+way	398591600	The Dunhill Hotel		35.2288901	-80.8411522	hotel				
+way	432917121	Hyatt Place Charlotte Airport/Lake Pointe		35.1822257	-80.9192150	hotel		Hyatt Place		https://www.hyatt.com/en-us/hotel/north-carolina/hyatt-place-charlotte-airport-lake-pointe/cltzt
+way	432917792	Hyatt Place Charlotte Airport/Tyvola Road		35.1912991	-80.9223554	hotel		Hyatt Place		https://www.hyatt.com/en-us/hotel/north-carolina/hyatt-place-charlotte-airport-billy-graham-parkway/cltzo
+way	432919239	Sonesta Charlotte Executive Park		35.1594467	-80.8898401	hotel		Sonesta		https://www.sonesta.com/sonesta-hotels-resorts/nc/charlotte/sonesta-charlotte-executive-park/
+way	470006679	Wyndham Garden Charlotte Executive Park		35.1589819	-80.8869548	hotel		Wyndham Garden	"Wyndham Hotels and Resorts, LLC"	https://www.wyndhamhotels.com/wyndham-garden/charlotte-north-carolina/wyndham-garden-charlotte-airport-southeast/overview
+way	484755656	SpringHill Suites Charlotte Uptown		35.2264003	-80.8392279	hotel		SpringHill Suites	Marriot	https://www.marriott.com/cltsd
+way	492457174	Four Points by Sheraton Charlotte (Permanently Closed)		35.1788823	-80.8785802	hotel		Four Points by Sheraton	Four Points by Sheraton	
+way	497518465	The Duke Mansion		35.2014975	-80.8274755	hotel				
+way	500204487	Omni Charlotte Hotel		35.2262153	-80.8428520	hotel			Omni Hotels & Resorts	https://www.omnihotels.com/hotels/charlotte
+way	500727932	Embassy Suites by Hilton Charlotte Uptown		35.2219781	-80.8425865	hotel		Embassy Suites		https://www.hilton.com/en/hotels/cltmles-embassy-suites-charlotte-uptown/
+way	500736208	Hyatt House Charlotte/Center City		35.2241877	-80.8390722	hotel		Hyatt House	Hyatt	https://www.hyatt.com/hyatt-house/en-us/cltxd-hyatt-house-charlotte-center-city
+way	500736212	Holiday Inn Center City		35.2273392	-80.8401602	hotel		Holiday Inn		
+way	545317236	Courtyard Charlotte Airport/Billy Graham Parkway		35.1797106	-80.8887884	hotel		Courtyard		https://www.marriott.com/cltsw
+way	557366581	Radisson Hotel Charlotte Airport		35.1821965	-80.8849955	hotel		Radisson		https://www.radissonhotels.com/en-us/hotels/radisson-charlotte-airport
+way	575068615	La Quinta Inn & Suites Charlotte Airport North		35.2411258	-80.9206164	hotel		La Quinta Inn & Suites		https://www.wyndhamhotels.com/laquinta/charlotte-north-carolina/la-quinta-charlotte-airport-north/overview
+way	575068620	Quality Inn & Suites Airport		35.2397211	-80.9173821	hotel		Quality Inn & Suites		
+way	575068621	Microtel Inn & Suites by Wyndham Charlotte Airport		35.2410843	-80.9215477	hotel		Microtel Inn & Suites		
+way	606469946	Holiday Inn Express & Suites		35.2146381	-80.8592840	hotel		Holiday Inn Express & Suites		
+way	672495802	InTown Suites Extended Stay		35.1859785	-80.8890569	hotel				
+way	695677597	Hilton Garden Inn Charlotte Uptown		35.2206667	-80.8429395	hotel		Hilton Garden Inn	Hilton	https://hiltongardeninn3.hilton.com/en/hotels/north-carolina/hilton-garden-inn-charlotte-uptown-CLTUPGI/
+way	695677600	Hampton Inn Charlotte-Uptown		35.2201212	-80.8424078	hotel		Hampton		https://hamptoninn3.hilton.com/en/hotels/north-carolina/hampton-inn-charlotte-uptown-CLTUTHX/
+way	695751577	Home2 Suites by Hilton		35.2202544	-80.8454478	hotel		Home2 Suites		
+way	700952433	Home2 Suites by Hilton Charlotte Airport		35.2393410	-80.9380932	hotel		Home2 Suites		https://www.hilton.com/en/hotels/cltaiht-home2-suites-charlotte-airport/
+way	764344186	Best Western Sterling Hotel & Suites		35.1773893	-80.8805179	hotel		Best Western		https://www.bestwestern.com/en_US/book/hotels-in-charlotte/best-western-sterling-hotel-suites/propertyCode.34147.html
+way	764516575	Days Inn Woodlawn Road Near Carowinds		35.1780992	-80.8833370	hotel		Days Inn	Wyndham Hotels and Resorts	https://www.wyndhamhotels.com/days-inn/charlotte-north-carolina/days-inn-charlotte-woodlawn-near-carowinds/overview
+way	765295963	Hilton Garden Inn		35.1992668	-80.9166178	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/cltrtgi-hilton-garden-inn-charlotte-airport/
+way	833697144	Days Inn		35.2773245	-80.7948250	hotel		Days Inn		
+way	833931131	Red Roof Inn Charlotte - University		35.2795013	-80.7954563	hotel		Red Roof Inn		
+way	833931136	Quality Inn		35.2804522	-80.7915283	hotel		Quality Inn		
+way	833931140	Clarion Pointe		35.2806780	-80.7906320	hotel		Clarion Pointe		
+way	833931143	Days Inn Charlotte North-Speedway-UNCC-Research Park		35.2813716	-80.7923849	hotel		Days Inn		
+way	835603874	Grand Bohemian Hotel Charlotte		35.2281193	-80.8447487	hotel		Autograph Collection		https://www.marriott.com/en-us/hotels/cltak-grand-bohemian-charlotte-autograph-collection/overview/
+way	835603881	Aloft Charlotte Airport		35.1840653	-80.9169336	hotel		Aloft		
+way	836535411	Golden Green Hotel		35.2030853	-80.7921487	hotel				
+way	836626793	Independence Place of Charlotte		35.2025535	-80.7838171	hotel				
+way	836963264	The Morehead Inn		35.2098090	-80.8415392	hotel				
+way	837432663	DoubleTree by Hilton South Charlotte Tyvola		35.1606747	-80.8891264	hotel		Hilton		https://www.hilton.com/en/hotels/cltcedt-doubletree-south-charlotte-tyvola/
+way	837432694	Extended Stay America - Charlotte - Tyvola Rd.		35.1643062	-80.8915961	hotel		Extended Stay America		
+way	837432697	"Home2 Suites by Hilton Charlotte I-77 South, NC"		35.1652094	-80.8921809	hotel		Home2 Suites		https://www.hilton.com/en/hotels/clttght-home2-suites-charlotte-i-77-south-nc/
+way	837432698	Wingate by Wyndham Charlotte Airport South/ I-77 Tyvola		35.1652169	-80.8934717	hotel		Wingate		
+way	837432704	Extended Stay America - Charlotte - Tyvola Rd. - Executive Park		35.1568053	-80.8894998	hotel		Extended Stay America		
+way	838824054	Hilton Charlotte Airport		35.1881590	-80.9149282	hotel		Hilton		
+way	838831180	HYATT House Charlotte Airport		35.1786145	-80.8925190	hotel		Hyatt House	Hyatt	
+way	838831181	La Quinta Inn & Suites Charlotte Airport South		35.1791955	-80.8920009	hotel		La Quinta Inn & Suites	Wyndham Hotels and Resorts	https://www.wyndhamhotels.com/laquinta/charlotte-north-carolina/la-quinta-charlotte-airport-south/overview
+way	838831186	Sleep Inn Billy Graham Parkway		35.1797054	-80.8930032	hotel		Sleep Inn		https://www.choicehotels.com/south-carolina/rock-hill/quality-inn-hotels
+way	838831192	Embassy Suites by Hilton Charlotte		35.1800896	-80.8910741	hotel		Embassy Suites		https://www.hilton.com/en/hotels/clttyes-embassy-suites-charlotte/
+way	849531384	Four Points by Sheraton Charlotte Airport		35.2370438	-80.9184959	hotel		Four Points by Sheraton		https://www.marriott.com/en-us/hotels/cltpa-four-points-charlotte-airport/overview/
+way	849531385	SpringHill Suites Charlotte Airport		35.2370990	-80.9175700	hotel		SpringHill Suites		https://www.marriott.com/cltsa
+way	849531388	Comfort Suites Airport		35.2359295	-80.9197384	hotel		Comfort Suites		https://www.choicehotels.com/south-carolina/rock-hill/quality-inn-hotels
+way	914883427			35.1958817	-80.9154855	hotel				
+way	948973303	Courtyard Charlotte City Center		35.2255941	-80.8446822	hotel		Courtyard		https://www.marriott.com/cltup
+way	957366566	Woodspring Suites Charlotte - University Research Park		35.2850272	-80.7682528	hotel		WoodSpring Suites		
+way	985188329	The Ivey's Hotel		35.2283665	-80.8426582	hotel				
+way	1046738979	JW Marriott Charlotte		35.2226486	-80.8479942	hotel		JW Marriott		https://www.marriott.com/en-us/hotels/cltjw-jw-marriott-charlotte/overview/
+way	1047474962	Homewood Suites by Hilton Charlotte Uptown First Ward		35.2293848	-80.8371692	hotel		Homewood Suites		
+way	1156989615	AC Hotel by Marriott Charlotte SouthPark		35.1567500	-80.8299056	hotel		AC Hotel		
+way	1189773827	Element		35.2199872	-80.8459194	hotel		Element		
+way	1233223578	Staybridge Suites Charlotte Airport Area - Tyvola		35.1658107	-80.8919549	hotel		Staybridge Suites		
+way	1278651307			35.1958106	-80.9146287	hotel				
+way	1395873674	WoodSpring Suites		35.1916607	-80.9214924	hotel		WoodSpring Suites		
+way	1499786346	Residence Inn Charlotte City Center		35.2251781	-80.8415581	hotel		Residence Inn		
+relation	6187179	Holiday Inn Charlotte-Airport Conference Center		35.2395937	-80.9384808	hotel		Holiday Inn		
+relation	15638033	Charlotte Marriott SouthPark		35.1567785	-80.8311609	hotel				
+relation	20454106	Aloft Charlotte City Center		35.2253870	-80.8425476	hotel		Aloft		

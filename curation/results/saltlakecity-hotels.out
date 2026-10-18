@@ -1,0 +1,75 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	2341505164	Hampton Inn & Suites Salt Lake City/University-Foothill Dr.		40.7406365	-111.8258780	hotel		Hampton Inn & Suites		https://www.hilton.com/en/hotels/slcfhhx-hampton-suites-salt-lake-city-university-foothill-dr/
+node	2363198904	Anniversary Inn		40.7690400	-111.8714164	hotel				
+node	4099940717	SureStay		40.7466241	-111.8899865	hotel		SureStay		https://www.bestwestern.com/en_US/book/hotels-in-salt-lake-city/surestay-by-best-western-salt-lake-city-downtown/propertyCode.53080.html
+node	9814840939	evo Hotel		40.7547486	-111.9032326	hotel				https://campus.evo.com/evo-hotel/
+node	11032961093	Le Méridien		40.7662663	-111.8992743	hotel		Le Méridien		
+node	11447482824	University Guest House & Conference Center		40.7668854	-111.8356257	hotel			University of Utah Conference & Event Management	https://www.universityguesthouse.com/
+node	11883762567	Minute Suites		40.7859557	-111.9826915	hotel				
+node	12216305567	Asher Adams		40.7693565	-111.9030261	hotel		Autograph Collection		https://www.marriott.com/en-us/hotels/slcau-asher-adams-autograph-collection/overview/
+node	14181122137	Element		40.7662692	-111.8988303	hotel		Element		
+way	31553521	Salt Lake Marriott Downtown at City Creek		40.7676435	-111.8931306	hotel		Marriott		https://www.marriott.com/en-us/hotels/slcut-salt-lake-marriott-downtown-at-city-creek/overview/
+way	33192533	Hilton Salt Lake City Center		40.7639362	-111.8932581	hotel		Hilton		https://www.hilton.com/en/hotels/slccchh-hilton-salt-lake-city-center/
+way	33195045	Radisson		40.7689722	-111.8978762	hotel		Radisson		https://www.radissonhotels.com/en-us/hotels/radisson-salt-lake-city-downtown
+way	35920329			40.7568407	-111.8921294	hotel				
+way	35920348			40.7567935	-111.8933906	hotel				
+way	35920356			40.7571676	-111.8933750	hotel				
+way	35920366			40.7578705	-111.8931401	hotel				
+way	35920390	Little America Hotel Salt Lake City		40.7577420	-111.8919564	hotel		Grand America Hotels & Resorts		
+way	35963691	DoubleTree Suites by Hilton Hotel Salt Lake City		40.7568639	-111.8946814	hotel		DoubleTree		https://www.hilton.com/en/hotels/slcwsdt-doubletree-suites-salt-lake-city-downtown/
+way	39610884	Hyatt Place Salt Lake City - Downtown		40.7707748	-111.9029676	hotel		Hyatt Place	Hyatt	https://www.hyatt.com/en-us/hotel/utah/hyatt-place-salt-lake-city-downtown-the-gateway/slczd
+way	63939849	Sonesta Simply Suites Salt Lake City Airport		40.7721284	-111.9527399	hotel		Sonesta Simply Suites		https://www.sonesta.com/sonesta-simply-suites/ut/salt-lake-city/sonesta-simply-suites-salt-lake-city-airport/
+way	63939907	Radisson Hotel Salt Lake City Airport		40.7709736	-111.9523081	hotel		Radisson		https://www.choicehotels.com/utah/salt-lake-city/radisson-hotels/ut300
+way	63939908	Patient and Family Housing		40.7723851	-111.9506009	hotel			University of Utah Healthcare	https://healthcare.utah.edu/locations/patient-family-housing/
+way	63939909	Comfort Suites Airport		40.7732331	-111.9506018	hotel		Comfort Suites	Choice Hotels International	https://www.choicehotels.com/utah/salt-lake-city/comfort-suites-hotels/ut053?source=gyxt
+way	86563820	Microtel Inn & Suites by Wyndham Salt Lake City Airport		40.7700635	-112.0028223	hotel		Microtel Inn & Suites	Wyndham Hotels	https://www.wyndhamhotels.com/microtel/salt-lake-city-utah/microtel-salt-lake-city-airport/overview?CID=LC:MT::GGL:RIO:National:28073&iata=00065402
+way	120059387	The Avenues Hostel		40.7719358	-111.8763771	hostel				https://www.saltlakehostel.com/
+way	154725015	Holiday Inn Express & Suites Salt Lake City West Valley		40.7048003	-111.9516261	hotel		Holiday Inn		https://www.ihg.com/holidayinnexpress/hotels/us/en/west-valley-city/wvchi/hoteldetail
+way	164827887	Hyatt Place Salt Lake City Airport		40.7708976	-112.0017740	hotel		Hyatt Place	Hyatt	https://www.hyatt.com/en-US/hotel/utah/hyatt-place-salt-lake-city-airport/slcza
+way	172543265	Kimpton Hotel Monaco Salt Lake City		40.7646845	-111.8917345	hotel		Kimpton	Kimpton Hotels	https://www.monaco-saltlakecity.com/
+way	172843738	Residence Inn Salt Lake City Downtown		40.7620584	-111.8992461	hotel		Residence Inn	Marriott	https://www.marriott.com/slcri
+way	218669461	Hyatt House Salt Lake City/Downtown		40.7665657	-111.9001257	hotel		Hyatt House	Hyatt	https://saltlakecitydowntown.house.hyatt.com/en/hotel/home.html
+way	223923170	Salt Lake City Marriott City Center		40.7643071	-111.8886534	hotel		Marriott		https://www.marriott.com/en-us/hotels/slccc-salt-lake-city-marriott-city-center/overview/
+way	223924058	Homewood Suites by Hilton Salt Lake City - Downtown		40.7624426	-111.9033533	hotel		Homewood Suites		https://www.hilton.com/en/hotels/slchwhw-homewood-suites-salt-lake-city-downtown/
+way	224011694	Fairfield Inn and Suites Salt Lake City Downtown		40.7612091	-111.8955882	hotel		Fairfield Inn & Suites	Marriott	https://www.marriott.com/slcfd
+way	224014497	Holiday Inn Express Salt Lake City Downtown		40.7646317	-111.8945904	hotel		Holiday Inn Express		https://www.ihg.com/holidayinnexpress/hotels/us/en/salt-lake-city/slccc/hoteldetail
+way	224014499	Peery Hotel		40.7631536	-111.8944795	hotel				
+way	224060026	Crystal Inn Hotel & Suites Salt Lake City - Downtown		40.7592009	-111.8981224	hotel		Crystal Inn		https://www.crystalinnsaltlake.com/
+way	224520317	The Kimball at Temple Square		40.7727939	-111.8904408	hotel				https://www.thekimball.com/
+way	226294921	SpringHill Suites Salt Lake City Downtown		40.7557287	-111.8990018	hotel		SpringHill Suites		https://www.marriott.com/slcsh
+way	226294922	Hilton Garden Inn Salt Lake City Downtown		40.7568751	-111.8983360	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/slcdwgi-hilton-garden-inn-salt-lake-city-downtown/
+way	226317169	Park Inn by Radisson		40.7569596	-111.8962761	hotel		Park Inn		
+way	226317415	Comfort Inn		40.7581478	-111.8954705	hotel		Comfort Inn		https://www.choicehotels.com/utah/west-valley-city/comfort-inn-hotels
+way	230129743	Anniversary Inn		40.7589385	-111.8628945	hotel				https://anniversaryinn.com/5th_south/
+way	230766861	La Quinta Inn & Suites Salt Lake City Airport		40.7727821	-112.0083777	hotel		La Quinta Inn & Suites	La Quinta	https://www.wyndhamhotels.com/laquinta/salt-lake-city-utah/la-quinta-salt-lake-city-airport/overview
+way	242760782	Extended Stay America - Salt Lake City - Sugar House		40.7246441	-111.8561363	hotel		Extended Stay America		
+way	251849362	Holiday Inn Express & Suites Salt Lake City-Airport East		40.7739920	-111.9502776	hotel		Holiday Inn Express & Suites	IHG	https://www.ihg.com/holidayinnexpress/hotels/us/en/salt-lake-city/slcut/hoteldetail
+way	298890172	Hampton Inn Salt Lake City Central		40.7268365	-111.9380442	hotel		Hampton		https://www.hilton.com/en/hotels/slcrrhx-hampton-salt-lake-city-central/
+way	313189954	Hampton Inn Salt Lake City-Downtown		40.7599546	-111.8990438	hotel		Hampton		https://www.hilton.com/en/hotels/slcdthx-hampton-salt-lake-city-downtown/
+way	357488922	Best Western West Valley Inn		40.6957859	-111.9490384	hotel		Best Western		https://www.bestwestern.com/en_US/book/hotels-in-west-valley-city/best-western-west-valley-inn/propertyCode.45097.html
+way	364942946	WoodSpring Suites Salt Lake City		40.6974150	-111.9376150	hotel		WoodSpring Suites		
+way	368634236	Comfort Inn West Valley - Salt Lake City South		40.6988611	-111.9491325	hotel		Comfort Inn		https://www.choicehotels.com/utah/west-valley-city/comfort-inn-hotels
+way	368634240	Country Inn & Suites		40.6981605	-111.9478760	hotel		Country Inn & Suites		https://www.radissonhotels.com/en-us/hotels/country-inn-west-valley-city-ut
+way	368634247	Crystal Inn Hotel & Suites		40.6998040	-111.9494487	hotel				https://www.crystalinnwestvalley.com/
+way	368634248	Extended Stay America		40.6997181	-111.9512166	hotel		Extended Stay America		
+way	368634255	Sleep Inn West Valley City - Salt Lake City South		40.6975310	-111.9488027	hotel		Sleep Inn		https://www.choicehotels.com/utah/salt-lake-city/sleep-inn-hotels/ut051
+way	396754573	Courtyard Salt Lake City Downtown		40.7668582	-111.9009639	hotel		Courtyard	Marriott	https://www.marriott.com/slccd
+way	407976178	Comfort Inn & Suites		40.7174340	-111.8871941	hotel		Comfort Inn & Suites		
+way	415553656	Metropolitan Inn		40.7576595	-111.8944870	hotel				
+way	420886354	Embassy Suites by Hilton Salt Lake West Valley City		40.6960878	-111.9609233	hotel		Embassy Suites		https://embassysuites3.hilton.com/en/hotels/utah/embassy-suites-by-hilton-salt-lake-west-valley-city-SLCSMES/index.html
+way	554455053	Home2 Suites by Hilton Salt Lake City - East		40.7199958	-111.8119294	hotel		Home2 Suites		https://www.hilton.com/en/hotels/slceaht-home2-suites-salt-lake-city-east/
+way	595951404	The Belvedere		40.7684753	-111.8877113	hotel				
+way	619262651	SpringHill Suites Salt Lake City Sugar House		40.7228365	-111.8549802	hotel		SpringHill Suites		https://www.marriott.com/slcso
+way	621512977	InTown Suites		40.7005593	-111.8921228	hotel				https://www.intownsuites.com/extended-stay-hotels/utah/salt-lake-city/south-11/
+way	638610273	AC Hotel by Marriott Salt Lake City Downtown		40.7647058	-111.8974233	hotel		AC Hotel		
+way	777170200	TownePlace Suites Salt Lake City Downtown		40.7645991	-111.8953154	hotel		TownePlace Suites		https://www.marriott.com/slctd
+way	920356288	SpringHill Suites Salt Lake City West Valley		40.6926326	-111.9528964	hotel		SpringHill Suites		https://www.marriott.com/en-us/hotels/slcsv-springhill-suites-salt-lake-city-west-valley/overview/
+way	939637900	Spiking Tourist Lodge		40.7086143	-111.8887615	hotel				
+way	939714536	"My Place Hotel - Salt Lake City/West Valley City, UT"		40.7049779	-111.9504557	hotel				https://www.myplacehotels.com/locations/my-place-hotel-west-valley-city-ut
+way	1117261600			40.7662428	-111.8989721	hotel				
+way	1146465801	Little America Hotel Salt Lake City		40.7573872	-111.8925298	hotel		Little America Hotel		https://saltlake.littleamerica.com/
+way	1150797303	Hyatt Regency Salt Lake City		40.7656237	-111.8946022	hotel		Hyatt Regency		https://www.hyatt.com/en-US/hotel/utah/hyatt-regency-salt-lake-city/slcrs
+way	1302990546	Salt Lake City Marriott University Park		40.7591739	-111.8304724	hotel				
+relation	6144703	Grand America Hotel		40.7573549	-111.8896608	hotel				
+relation	19355447			40.7693860	-111.9031555	hotel				
+relation	19669121	"Asher Adams, Autograph Collection"		40.7693860	-111.9031555	hotel				

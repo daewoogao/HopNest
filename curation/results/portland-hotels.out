@@ -1,0 +1,86 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	6474219631	The Nines		45.5190452	-122.6780020	hotel				https://www.thenines.com/
+node	11040478247	Lolo Pass		45.5227127	-122.6492526	hostel				
+node	11359472229	KEX		45.5238125	-122.6614094	hostel				
+node	12662177543	The Hoxton		45.5233927	-122.6747363	hotel		The Hoxton		
+node	13414771122	The Ritz-Carlton		45.5208898	-122.6811900	hotel		The Ritz-Carlton		https://www.ritzcarlton.com/en/hotels/pdxrz-the-ritz-carlton-portland/
+way	31722133	Hotel Vintage		45.5208001	-122.6784786	hotel			Kimpton	https://www.hotelvintage-portland.com/
+way	31732580	The Bidwell		45.5203827	-122.6787013	hotel		Marriott	Marriott	https://www.marriott.com/en-us/hotels/pdxct-the-bidwell-marriott-portland/overview/
+way	39335799	Shilo Inn Rose Garden		45.5338019	-122.6632068	hotel		Shilo Inn		
+way	39335845	Crowne Plaza Hotel		45.5335953	-122.6644031	hotel		Crowne Plaza		
+way	39563050	Inn at the Convention Center		45.5298379	-122.6611845	hotel				
+way	39563128	Hotel Eastlund		45.5304524	-122.6611698	hotel				
+way	39944833	Crystal Hotel		45.5227808	-122.6834487	hotel		McMenamins	McMenamins	
+way	52059549	Hilton		45.5175474	-122.6800238	hotel		Hilton		
+way	52085638	The Benson		45.5217763	-122.6787032	hotel			Coast Hotels	https://www.bensonhotel.com/
+way	52135008	White Eagle		45.5407895	-122.6754583	hotel		McMenamins	McMenamins	
+way	74113627	Residence Inn		45.5062824	-122.6730571	hotel		Residence Inn	Marriott	https://www.marriott.com/pdxri
+way	107395120	Tiny Digs		45.5262012	-122.6385087	hotel				https://www.tinydigshotel.com/
+way	114786133	Hyatt Place Portland Airport/Cascade Station		45.5739713	-122.5628454	hotel		Hyatt Place	Hyatt	https://www.hyatt.com/en-us/hotel/oregon/hyatt-place-portland-airport-cascade-station/pdxza
+way	114786134	Aloft Portland Airport at Cascade Station		45.5732538	-122.5607966	hotel		Aloft	Starwood	
+way	114916057	Residence Inn Portland Airport at Cascade Station		45.5780195	-122.5667321	hotel		Residence Inn		https://www.marriott.com/pdxap
+way	115716398	Hampton		45.5825453	-122.5736226	hotel		Hampton		https://www.hilton.com/en/hotels/pdxaphx-hampton-portland-airport/
+way	115716425	Red Lion Hotels		45.5744265	-122.5789711	hotel		Red Lion Hotels		
+way	115716446	Embassy Suites		45.5796831	-122.5720815	hotel		Embassy Suites		https://www.hilton.com/en/hotels/pdxeses-embassy-suites-portland-airport/
+way	147096813	Inn at Northrup Station		45.5314862	-122.6934819	hotel				https://www.northrupstation.com/
+way	152294627	Royal Sonesta		45.5198923	-122.6773747	hotel		Royal Sonesta		
+way	152294641	Marriott		45.5126168	-122.6759000	hotel		Marriott		https://www.marriott.com/hotels/travel/pdxor-portland-marriott-downtown-waterfront/
+way	152298040	Paramount Hotel		45.5181481	-122.6817074	hotel				https://www.portlandparamount.com/
+way	152298044	Dossier Hotel		45.5199976	-122.6800829	hotel				https://dossierhotel.com
+way	152299845	Embassy Suites		45.5220593	-122.6740789	hotel		Embassy Suites	Hilton	https://www.hilton.com/en/hotels/pdxpses-embassy-suites-portland-downtown/
+way	152299846	Courtyard by Marriott Portland City Center		45.5213197	-122.6769608	hotel		Courtyard by Marriott	Marriott	
+way	207100291	The Society		45.5246903	-122.6737083	hotel				https://thesocietyhotel.com/
+way	207289456	Canopy by Hilton		45.5263328	-122.6805285	hotel		Canopy		
+way	228408530	Hampton		45.5255032	-122.6796577	hotel		Hampton	Hilton	https://www.hilton.com/en/hotels/pdxpdhx-hampton-suites-portland-pearl-district/
+way	257208381	Hotel Grand Stark		45.5191538	-122.6610771	hotel				
+way	300547753	Aladdin Inn & Suites		45.4606275	-122.7084727	hotel				https://aladdininnandsuites.com/
+way	325839397	RiverPlace		45.5113173	-122.6742396	hotel		Kimpton	Kimpton	https://www.riverplacehotel.com/
+way	328431256	River's Edge Hotel		45.4901469	-122.6720085	hotel		Tapestry Collection		
+way	339214426	Banfield Studios		45.5340807	-122.6237244	hotel		OYO		https://www.oyorooms.com/us/302613/
+way	343870832	University Place		45.5070176	-122.6807345	hotel			Portland State University	https://www.uplacehotel.com/
+way	343870874	Downtown Value Inn		45.5115241	-122.6811573	hotel				http://www.downtownvalueinn.com/
+way	352222088	Silver Cloud Inn		45.5366851	-122.7013508	hotel				
+way	353691834	Sentinel		45.5205989	-122.6825969	hotel				https://www.sentinelhotel.com/
+way	365949573	The Georgia Hotel		45.5227027	-122.6828281	hotel				
+way	367188371	Kenton Hotel		45.5833126	-122.6852564	hotel				
+way	367901521	Holiday Inn Express		45.5372721	-122.6996374	hotel		Holiday Inn Express		
+way	368197813	Country Inn & Suites		45.5743696	-122.5831295	hotel		Country Inn & Suites		https://www.radissonhotels.com/en-us/hotels/country-inn-portland-airport-or
+way	368197963	Holiday Inn Portland-Airport		45.5653250	-122.5758840	hotel		Holiday Inn	Atrium Hospitality LP	https://www.ihg.com/holidayinn/hotels/us/en/reservation
+way	371785331	The Clyde Hotel		45.5220125	-122.6816161	hotel				
+way	371785336	Moxy		45.5209405	-122.6819809	hotel		Moxy		https://www.marriott.com/hotels/travel/pdxox-moxy-portland-downtown/
+way	374186517	Hotel Lucia		45.5210584	-122.6783367	hotel				https://hotellucia.com/
+way	389137046	Porter Hotel		45.5137430	-122.6772019	hotel		Curio Collection	Hilton Hotels	https://www.theporterhotel.com/
+way	391487047	Hi-Lo		45.5201919	-122.6750546	hostel		Hostelling International	Marriott	https://www.hi-lo-hotel.com/
+way	400015226	The Heathman Hotel		45.5171439	-122.6811323	hotel				https://www.heathmanhotel.com/
+way	409713255	Caravan		45.5593312	-122.6548633	hotel				https://tinyhousehotel.com/
+way	414012651	Radisson Hotel Portland Airport		45.5688868	-122.5827627	hotel		Radisson		https://www.radissonhotels.com/en-us/hotels/radisson-portland-airport
+way	422293712	The Duniway		45.5178443	-122.6787016	hotel		Hilton		
+way	453669507	Hotel deLuxe		45.5209838	-122.6877150	hotel				https://www.hoteldeluxeportland.com/
+way	471680420	Hyatt House		45.5074324	-122.6736236	hotel		Hyatt House		https://www.hyatt.com/en-us/hotel/oregon/hyatt-house-portland-downtown/pdxxd
+way	482586313	Hotel Vance		45.5144404	-122.6826633	hotel		Marriott	Marriott	https://www.marriott.com/hotels/travel/pdxtx-hotel-vance-portland-a-tribute-portfolio-hotel/
+way	549801376	Jupiter Next		45.5226981	-122.6563657	hotel				https://www.jupiterhotel.com/the-next
+way	555591282	"AC Hotel by Marriott Portland Downtown, OR"		45.5170391	-122.6758339	hotel		AC Hotel	Marriott	https://www.marriott.com/hotels/travel/pdxar-ac-hotel-portland-downtown-or/
+way	677783188	Hyatt Centric		45.5208352	-122.6832160	hotel		Hyatt Centric		https://www.hyatt.com/hyatt-centric/en-US/pdxct-hyatt-centric-downtown-portland
+way	681313851	The Mark Spencer Hotel		45.5221715	-122.6824835	hotel				https://markspencer.com/
+way	682144345	Holiday Inn Express & Suites Portland Airport - Cascade Station		45.5779820	-122.5688164	hotel		Holiday Inn Express		https://www.ihg.com/holidayinnexpress/hotels/us/en/portland/pdxai/hoteldetail
+way	687908098	Harlow Hotel		45.5264461	-122.6782799	hotel				https://harlowhotelpdx.com/
+way	693712595	Hotel Rose		45.5173722	-122.6732698	hotel		Staypineapple		https://www.staypineapple.com/hotel-rose-portland-or
+way	753567425	Home2 Suites by Hilton Portland Airport OR		45.5737436	-122.5790307	hotel		Home2 Suites		https://www.hilton.com/en/hotels/pdxaiht-home2-suites-portland-airport-or/
+way	775179238	Hyatt Regency		45.5304814	-122.6627119	hotel		Hyatt Regency		https://www.hyatt.com/en-us/hotel/oregon/hyatt-regency-portland-at-the-oregon-convention-center/pdxrp
+way	1019228174	La Quinta Inn & Suites Portland NW		45.5531695	-122.7307623	hotel		La Quinta Inn & Suites		https://www.lq.com/en
+way	1097585029	Residence Inn		45.5312122	-122.6797278	hotel		Residence Inn	Marriott	https://www.marriott.com/pdxpd
+way	1106269249	Portland INN		45.5813177	-122.6608545	hotel				
+way	1108833464	The Hotel Zags Portland		45.5139419	-122.6807668	hotel				
+way	1135596453	Portland Super Value Inn		45.5608795	-122.6828037	hotel				
+way	1138188255	Courtyard		45.5325814	-122.6611582	hotel		Courtyard		https://www.marriott.com/hotels/travel/pdxcl-courtyard-portland-downtown-convention-center/
+way	1138188256	DoubleTree		45.5307703	-122.6555961	hotel		DoubleTree	Hilton	https://www.hilton.com/en/hotels/rllc-dt-doubletree-portland/
+way	1138188829	Quality Inn		45.5318784	-122.6611413	hotel		Quality Inn		
+way	1282024820	SureStay		45.5056813	-122.6824892	hotel		SureStay	Best Western Hotels and Resorts	https://www.bestwestern.com/en_US/book/hotels-in-portland/surestay-hotel-by-best-western-portland-city-center/propertyCode.52078.html
+way	1410840608	Tru by Hilton Portland Airport		45.5745165	-122.5799681	hotel		Tru		https://www.hilton.com/en/hotels/pdxarru-tru-portland-airport/
+way	1421770576	Cambria Hotel		45.5240819	-122.6794450	hotel		Cambria Hotel		https://www.cambriapearl.com/
+way	1481650955	Northwest Portland International Hostel and Guesthouse		45.5260555	-122.6898386	hostel				https://www.nwportlandhostel.com/
+relation	3972818	Budget Lodge		45.4622621	-122.7044121	hotel				
+relation	12226748	Kennedy School		45.5644998	-122.6300151	hotel		McMenamins		
+relation	12728364	Sheraton Portland Airport		45.5831573	-122.5752453	hotel		Sheraton		
+relation	16630214	Park Lane Suites & Inn		45.5222047	-122.6954394	hotel				
+relation	20993430	Jupiter Hotel		45.5225511	-122.6571728	hotel				https://jupiterhotel.com/

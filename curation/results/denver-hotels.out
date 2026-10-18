@@ -1,0 +1,90 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	2794063559			39.7404089	-104.9074276	hotel				
+node	3004357257	The Crawford Hotel		39.7533607	-105.0000236	hotel				https://www.thecrawfordhotel.com
+node	3397735845	11th Avenue Hotel and Hostel		39.7340899	-104.9872137	hostel				
+node	3445143641	Ember Hostel		39.7300838	-104.9839910	hostel			Ember Hostel	https://www.emberhostels.com/
+node	4463557801	Hostel Fish		39.7526176	-104.9919174	hostel				https://hostelfish.com/
+node	5207452858	AC Hotel Denver Downtown		39.7443613	-104.9938880	hotel		AC Hotel		
+node	11217060696	The Slate Denver		39.7411293	-104.9950846	hotel		Hilton		https://www.hilton.com/en/hotels/denvrup-the-slate-denver/
+node	12921700752	Tru by Hilton / Home2 Suites by Hilton		39.7454818	-104.9943791	hotel		Tru		
+node	13027735327	Hotel Indigo		39.7555869	-104.9999366	hotel		Hotel Indigo		https://www.ihg.com/hotelindigo/hotels/us/en/denver/denws/hoteldetail
+node	13676022401	Flora House Denver		39.7389205	-104.9631012	hotel				https://florahousedenver.com/
+node	14030355838	The All Inn Hotel		39.7403719	-104.9520220	hotel				https://theallinnhotel.com/
+way	52868555	Hyatt Regency Denver at Colorado Convention Center		39.7434431	-104.9935673	hotel		Hyatt Regency		https://www.hyatt.com/en-US/hotel/colorado/hyatt-regency-denver-at-colorado-convention-center/dencc
+way	53085855	Hilton Denver City Center		39.7471695	-104.9904675	hotel		Hilton		https://www.hilton.com/en/hotels/dencyhh-hilton-denver-city-center/
+way	53086013	Newhouse Hotel		39.7397808	-104.9832198	hotel				https://newhousemanagement.net/newhouse-hotel
+way	58456161	Holiday Inn Express Denver Downtown by IHG		39.7444788	-104.9883972	hotel		Holiday Inn Express		https://www.ihg.com/holidayinnexpress/hotels/us/en/denver/dende/hoteldetail
+way	58457847	Hampton		39.7455674	-104.9852504	hotel		Hampton		https://www.hilton.com/en/hotels/dendthx-hampton-suites-denver-downtown/
+way	79670921	Park Inn by Radisson		39.7234561	-105.0805625	hotel		Park Inn		
+way	89782110	Courtyard by Marriott Denver Downtown		39.7467474	-104.9948517	hotel		Courtyard		https://www.marriott.com/en-us/hotels/dencd-courtyard-denver-downtown/overview/
+way	114312226	Embassy Suites by Hilton Denver Downtown Convention Center		39.7441238	-104.9947666	hotel		Embassy Suites		https://www.hilton.com/en/hotels/deneses-embassy-suites-denver-downtown-convention-center/
+way	123421291	The Oxford Hotel		39.7521737	-104.9993256	hotel				https://www.theoxfordhotel.com
+way	129172251	TownePlace Suites by Marriott Denver Downtown		39.7267416	-104.9884651	hotel		TownePlace Suites		https://www.marriott.com/en-us/hotels/dencb-towneplace-suites-denver-downtown/overview/
+way	129486081	the Curtis Denver - a DoubleTree by Hilton Hotel		39.7457933	-104.9970543	hotel		DoubleTree	Hilton	https://www.hilton.com/en/hotels/denchdt-the-curtis-denver/
+way	131552271	Days Inn Denver Downtown		39.7397661	-104.9757361	hotel		Days Inn		https://www.wyndhamhotels.com/days-inn/denver-colorado/days-inn-denver-downtown/overview
+way	134539404	Courtyard Denver Cherry Creek		39.6907575	-104.9420857	hotel		Courtyard		https://www.marriott.com/dench
+way	157717716	Hampton Inn		39.6997163	-104.9389664	hotel		Hampton		https://www.hilton.com/en/hotels/dencchx-hampton-suites-denver-cherry-creek/
+way	192431054			39.7102251	-104.9358876	hotel				
+way	192431057			39.7098977	-104.9360638	hotel				
+way	192436108	Staybridge Suites Denver-Cherry Creek		39.7068955	-104.9377451	hotel		Staybridge Suites		
+way	204318993	Comfort Inn & Suites Stapleton		39.7822360	-104.9045218	hotel		Comfort Inn & Suites		https://www.choicehotels.com/colorado/louisville/quality-inn-hotels
+way	204319037	Best Western Plus Executive Residency Denver-Central Park		39.7805564	-104.9044081	hotel		Best Western Plus		https://www.bestwestern.com/en_US/book/denver/hotel-rooms/best-western-plus-executive-residency-denver-central-park-hotel/propertyCode.06194.html
+way	205677873	Renaissance Denver Hotel & Conference Center		39.7698821	-104.9039786	hotel		Renaissance		https://www.marriott.com/hotels/travel/densa-renaissance-denver-central-park-hotel/
+way	233551460	The Acoma House		39.7342628	-104.9884763	hotel				https://www.theacomahouse.com/
+way	276420577	DoubleTree by Hilton Hotel Denver		39.7629197	-104.9043939	hotel		DoubleTree	Hilton	https://www.hilton.com/en/hotels/rldv-dt-doubletree-denver/
+way	297095170	The Cambridge		39.7412267	-104.9844691	hotel				
+way	301184039	Hyatt Place Denver/Downtown		39.7415522	-104.9928978	hotel		Hyatt Place	Hyatt	https://www.hyatt.com/hyatt-place/en-us/denzd-hyatt-place-denver-downtown
+way	301484050	Hampton Inn & Suites Denver-Speer Boulevard		39.7568683	-105.0155365	hotel		Hampton Inn & Suites		https://www.hilton.com/en/hotels/dencohx-hampton-suites-denver-speer-boulevard/
+way	303086183	"Magnolia Hotel Denver, a Tribute Portfolio Hotel"		39.7467960	-104.9923649	hotel		Tribute Portfolio		
+way	304567966	Aloft Denver Downtown		39.7449485	-104.9947508	hotel		Aloft		
+way	312901511	Fairfield Inn & Suites Denver Downtown		39.7567195	-105.0148652	hotel		Fairfield Inn & Suites		https://www.marriott.com/denfd
+way	315707988	the Art Hotel		39.7358325	-104.9877869	hotel				https://www.thearthotel.com/
+way	318911509	"The Jacquard, Autograph Collection"		39.7197826	-104.9518693	hotel		Autograph Collection		
+way	320151522	DoubleTree by Hilton Denver Central Park		39.7735533	-104.9017421	hotel		DoubleTree		https://www.hilton.com/en/hotels/densndt-doubletree-denver-central-park/
+way	320155153	Courtyard Denver Central Park		39.7759458	-104.9023497	hotel		Courtyard		https://www.marriott.com/denca
+way	334481657	The Patterson Inn		39.7334636	-104.9814399	hotel				https://pattersoninn.com/
+way	335248800	Halcyon		39.7203898	-104.9574096	hotel				
+way	335858815	Comfort Suites Near Denver Downtown		39.7265290	-105.0239811	hotel		Comfort Suites		https://www.choicehotels.com/colorado/louisville/quality-inn-hotels
+way	348668321	The Westin Denver International Airport		39.8475826	-104.6738739	hotel		Westin		https://www.marriott.com/hotels/hotel-information/denaw-the-westin-denver-international-airport/
+way	357601227	Clarion Hotel Denver Central		39.7831009	-104.9908856	hotel		Clarion		
+way	383178424	Staybridge Suites Denver - Central Park		39.7861343	-104.8940783	hotel		Staybridge Suites		
+way	385065958	Hyatt House		39.7089984	-105.0788465	hotel		Hyatt House		https://www.hyatt.com/en-us/hotel/colorado/hyatt-house-denver-lakewood-at-belmar/denxl
+way	439497678	Ramble Hotel		39.7572577	-104.9865265	hotel				
+way	457999212	"The Ritz-Carlton, Denver"		39.7501539	-104.9918662	hotel		The Ritz-Carlton		https://www.ritzcarlton.com/en/hotels/denrz-the-ritz-carlton-denver/overview/
+way	458000574	Residence Inn Denver City Center		39.7482876	-104.9921809	hotel		Residence Inn		https://www.marriott.com/denrd
+way	458001294	Hilton Garden Inn		39.7427023	-104.9932266	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/denddgi-hilton-garden-inn-denver-downtown/?SEO_id=GMB-GI-DENDDGI
+way	458001295	Sonesta Denver Downtown		39.7422898	-104.9919504	hotel		Sonesta		https://www.sonesta.com/sonesta-hotels-resorts/co/denver/sonesta-denver-downtown/
+way	458038539	"The Brown Palace Hotel and Spa, Autograph Collection"		39.7441077	-104.9878678	hotel		Autograph Collection		https://www.brownpalace.com
+way	480043000	Element Denver Downtown East		39.7374301	-104.9938079	hotel		Element		
+way	514920443	Residence Inn Denver Cherry Creek		39.7050853	-104.9383299	hotel		Residence Inn		https://www.marriott.com/denrs
+way	554392402	Western Hills Motel		39.7407024	-105.0517741	hotel				
+way	633657613	Limelight Hotel		39.7531363	-105.0020004	hotel		Limelight Hotels		https://www.limelighthotels.com/denver
+way	633993800	Hotel Teatro		39.7460611	-104.9985306	hotel				https://www.hotelteatro.com/
+way	634016306	The Westin Denver Downtown		39.7488269	-104.9956269	hotel		Westin		https://www.marriott.com/en-us/hotels/denwi-the-westin-denver-downtown/overview/
+way	694429892	DoubleTree by Hilton Denver Cherry Creek		39.7080023	-104.9412030	hotel		DoubleTree		https://www.hilton.com/
+way	722945230	The Rally Hotel at McGregor Square		39.7552300	-104.9961579	hotel				https://www.therallyhotel.com/
+way	759947624	Savnnah Suites		39.8139094	-105.0539325	hotel				
+way	802061442	Vib		39.7708158	-104.9776618	hotel		Vib		
+way	826562221	Hyatt Place Denver-Cherry Creek		39.6955316	-104.9386103	hotel		Hyatt Place		https://www.hyatt.com/en-US/hotel/colorado/hyatt-place-denver-cherry-creek/denzc?src=corp_lclb_gmb_seo_denzc
+way	913408871	"Hotel Clio, a Luxury Collection Hotel, Denver Cherry Creek"		39.7189637	-104.9554381	hotel		The Luxury Collection		https://www.marriott.com/hotels/travel/denld-hotel-clio-a-luxury-collection-hotel-denver-cherry-creek/
+way	913759386	Radisson Hotel Denver Central		39.7854490	-104.9911740	hotel		Radisson		
+way	913771242	Homewood Suites by Hilton Denver Downtown-Convention Center		39.7431449	-104.9926182	hotel		Homewood Suites		
+way	914720938	Hilton Garden Inn Denver Union Station		39.7576738	-104.9993885	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/denungi-hilton-garden-inn-denver-union-station/
+way	914909567	Le Méridien Denver Downtown		39.7441140	-104.9939218	hotel		Le Méridien		
+way	914919411	Hilton Garden Inn Denver/Cherry Creek		39.7052841	-104.9398164	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/denckgi-hilton-garden-inn-denver-cherry-creek/
+way	914922804	Staybridge Suites Denver Downtown		39.7403987	-104.9927166	hotel		Staybridge Suites		
+way	914972053	Hilton Garden Inn Arvada Denver		39.7963881	-105.0824728	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/denavgi-hilton-garden-inn-arvada-denver/
+way	915110375	Moxy Denver Cherry Creek		39.7203438	-104.9579015	hotel		Moxy		https://www.marriott.com/en-us/hotels/denox-moxy-denver-cherry-creek/overview/
+way	915455694	Kimpton Hotel Monaco Denver by IHG		39.7478902	-104.9927086	hotel		Kimpton		https://www.monaco-denver.com/
+way	935695759	Extended Stay America - Denver - Cherry Creek		39.7100362	-104.9359326	hotel		Extended Stay America		https://www.extendedstayamerica.com/hotels/co/denver/cherry-creek
+way	1070055808	Holiday Inn		39.7643283	-104.9040078	hotel		Holiday Inn		
+way	1091087731	Catbird Hotel		39.7696268	-104.9724194	hotel		Independent		https://www.catbirdhotel.com/
+way	1298277105	Populus Denver		39.7403381	-104.9911214	hotel				https://populusdenver.com/
+way	1315629446	Residence Inn Arvada Denver West		39.7980438	-105.0784857	hotel		Residence Inn		
+way	1456383887	Holiday Inn Express Denver Central North		39.8032079	-104.9823938	hotel		Holiday Inn Express		https://www.ihg.com/hotels/us/en/
+way	1534325090	Artesian		39.7630151	-105.0109933	hotel		Sonder		https://www.sonder.com/destinations/denver/the-artesian/
+relation	4297554	Renaissance Denver Downtown City Center Hotel		39.7473954	-104.9933103	hotel		Renaissance	Colorado National Bank building	
+relation	4489858	Residence Inn Denver Downtown		39.7575299	-105.0166903	hotel		Residence Inn		https://www.marriott.com/hotels/travel/dentw-residence-inn-denver-downtown/
+relation	8859062	Sheraton Denver Downtown Hotel		39.7423754	-104.9898398	hotel		Sheraton		https://www.marriott.com/hotels/travel/dends-sheraton-denver-downtown-hotel/
+relation	14250431	SpringHill Suites by Marriott Denver Downtown		39.7472332	-105.0041919	hotel		SpringHill Suites		https://www.marriott.com/en-us/hotels/densd-springhill-suites-denver-downtown/overview/
+relation	14522330	The Source Hotel		39.7685757	-104.9803215	hotel				https://www.thesourcehotel.com/

@@ -1,0 +1,240 @@
+[
+  {
+    "id": "la",
+    "name": "A Line",
+    "color": "#54C0E8",
+    "code": "A",
+    "stations": [
+      ["Union Station",39.7536,-105.0004],
+      ["38th & Blake",39.7709,-104.9735],
+      ["40th & Colorado",39.7761,-104.9421],
+      ["Central Park",39.7706,-104.8911],
+      ["Peoria",39.7675,-104.8504],
+      ["40th & Airport/Gateway Park",39.7699,-104.7876],
+      ["61st & Peña",39.8073,-104.784],
+      ["Denver Airport",39.8467,-104.6741]
+    ]
+  },
+  {
+    "id": "lb",
+    "name": "B Line",
+    "color": "#4C9C2E",
+    "code": "B",
+    "stations": [["Union Station",39.754,-105.0007],["41st & Fox",39.7734,-104.9968],["Pecos Junction",39.8053,-105.0054],["Westminster",39.8227,-105.0291]]
+  },
+  {
+    "id": "lcz",
+    "name": "California Zephyr",
+    "color": "#888888",
+    "code": "CZ",
+    "stations": [
+      ["Emeryville",37.844,-122.2934],
+      ["Richmond",37.9377,-122.3543],
+      ["Martinez",38.0195,-122.1373],
+      ["Davis",38.5439,-121.7361],
+      ["Sacramento Valley Station",38.5865,-121.498],
+      ["Roseville",38.7496,-121.2863],
+      ["Colfax",39.1002,-120.9528],
+      ["Truckee",39.3277,-120.1843],
+      ["Reno",39.5288,-119.8117],
+      ["Winnemucca",40.969,-117.7321],
+      ["Elko",40.8365,-115.7503],
+      ["Salt Lake City",40.7609,-111.9089],
+      ["Provo",40.2258,-111.664],
+      ["Helper",39.6848,-110.8536],
+      ["Green River",38.9922,-110.1656],
+      ["Grand Junction",39.0643,-108.5705],
+      ["Glenwood Springs",39.5482,-107.3233],
+      ["Granby",40.084,-105.9356],
+      ["Fraser-Winter Park",39.9476,-105.8177],
+      ["Union Station",39.7531,-105.0013],
+      ["Fort Morgan",40.2469,-103.8028],
+      ["McCook",40.1973,-100.6256],
+      ["Holdrege",40.4357,-99.3709],
+      ["Hastings",40.5838,-98.3876],
+      ["Lincoln",40.8159,-96.7141],
+      ["Omaha",41.2502,-95.9279],
+      ["Creston",41.0568,-94.3615],
+      ["Osceola",41.0373,-93.7651],
+      ["Ottumwa",41.0183,-92.4152],
+      ["Mount Pleasant",40.9713,-91.5506],
+      ["Burlington",40.8058,-91.1014],
+      ["Galesburg",40.9444,-90.3635],
+      ["Princeton",41.3854,-89.4669],
+      ["Naperville",41.7798,-88.1442],
+      ["Chicago Union Station",41.8783,-87.6386]
+    ]
+  },
+  {
+    "id": "ld",
+    "name": "D Line",
+    "color": "#047835",
+    "code": "D",
+    "stations": [
+      ["Littleton - Mineral",39.5806,-105.0248],
+      ["Littleton Downtown",39.6122,-105.0147],
+      ["Oxford - City of Sheridan",39.6432,-105.0047],
+      ["Englewood",39.656,-104.9997],
+      ["Evans",39.6781,-104.9927],
+      ["I-25 & Broadway",39.7021,-104.9901],
+      ["Alameda",39.7086,-104.9931],
+      ["10th and Osage",39.7321,-105.0057],
+      ["Colfax at Auraria",39.7403,-105.0017],
+      ["Theatre District / Convention Center",39.7439,-104.9959],
+      ["16th & California",39.745,-104.9924],
+      ["18th & California",39.7468,-104.99]
+    ]
+  },
+  {
+    "id": "le",
+    "name": "E Line",
+    "color": "#691F74",
+    "code": "E",
+    "stations": [
+      ["Union Station",39.755,-105.0034],
+      ["Ball Arena / Elitch Gardens",39.7484,-105.0102],
+      ["Empower Field at Mile High",39.7434,-105.0128],
+      ["Auraria West Campus",39.7413,-105.0107],
+      ["10th and Osage",39.7315,-105.0055],
+      ["Alameda",39.7082,-104.9929],
+      ["I-25 & Broadway",39.7015,-104.9902],
+      ["Louisiana & Pearl",39.6928,-104.9782],
+      ["University of Denver",39.6851,-104.9645],
+      ["Colorado",39.6796,-104.9374],
+      ["Yale",39.6683,-104.927],
+      ["Southmoor",39.6483,-104.9162],
+      ["Belleview",39.6273,-104.9043],
+      ["Orchard",39.6133,-104.8961],
+      ["Arapahoe at Village Center",39.5999,-104.8883],
+      ["Dry Creek",39.5785,-104.8764],
+      ["County Line",39.5614,-104.8723],
+      ["Lincoln",39.546,-104.8697],
+      ["Sky Ridge",39.5321,-104.8703],
+      ["Lone Tree City Center",39.5277,-104.8632],
+      ["RidgeGate Parkway",39.5206,-104.8655]
+    ]
+  },
+  {
+    "id": "lg",
+    "name": "G Line",
+    "color": "#F4B223",
+    "code": "G",
+    "stations": [
+      ["Union Station",39.7539,-105.0007],
+      ["41st & Fox",39.7734,-104.9968],
+      ["Pecos Junction",39.8053,-105.0054],
+      ["Clear Creek - Federal",39.804,-105.0237],
+      ["60th & Sheridan - Arvada Gold Strike",39.8036,-105.0495],
+      ["Olde Town Arvada",39.799,-105.0803],
+      ["Arvada Ridge",39.7926,-105.1115],
+      ["Wheat Ridge / Ward Road",39.7881,-105.133]
+    ]
+  },
+  {
+    "id": "lh",
+    "name": "H Line",
+    "color": "#0055B8",
+    "code": "H",
+    "stations": [
+      ["18th & Stout",39.748,-104.9903],
+      ["16th & Stout",39.7461,-104.9929],
+      ["Theatre District / Convention Center",39.7439,-104.9964],
+      ["Colfax at Auraria",39.7403,-105.0025],
+      ["10th and Osage",39.7315,-105.0055],
+      ["Alameda",39.7082,-104.9929],
+      ["I-25 & Broadway",39.7015,-104.9902],
+      ["Louisiana & Pearl",39.6928,-104.9782],
+      ["University of Denver",39.6851,-104.9645],
+      ["Colorado",39.6796,-104.9374],
+      ["Yale",39.6683,-104.927],
+      ["Southmoor",39.6483,-104.9162],
+      ["Dayton",39.6431,-104.8776],
+      ["Nine Mile",39.6577,-104.8447],
+      ["Iliff",39.6733,-104.8268],
+      ["Florida",39.69,-104.8284]
+    ]
+  },
+  {
+    "id": "ll",
+    "name": "L Line",
+    "color": "#FFCD00",
+    "code": "L",
+    "stations": [
+      ["16th & California",39.745,-104.9924],
+      ["18th & California",39.7468,-104.99],
+      ["20th & Welton",39.748,-104.9867],
+      ["25th & Welton",39.7533,-104.9798],
+      ["27th & Welton",39.7553,-104.9773],
+      ["30th & Downing",39.7592,-104.9735]
+    ]
+  },
+  {
+    "id": "ln",
+    "name": "N Line",
+    "color": "#904199",
+    "code": "N",
+    "stations": [
+      ["Union Station Track 2",39.7536,-105.0005],
+      ["48th & Brighton at National Western Center",39.7851,-104.9679],
+      ["Commerce City & 72nd",39.8266,-104.9431],
+      ["Original Thornton & 88th",39.8592,-104.9529],
+      ["Thornton Crossroads & 104th",39.8824,-104.9427],
+      ["Northglenn & 112th",39.9031,-104.9601],
+      ["Eastlake & 124th",39.9233,-104.9623]
+    ]
+  },
+  {
+    "id": "lr",
+    "name": "R Line",
+    "color": "#C1D32F",
+    "code": "R",
+    "stations": [
+      ["Lincoln",39.546,-104.8696],
+      ["County Line",39.562,-104.8722],
+      ["Dry Creek",39.5791,-104.8767],
+      ["Arapahoe at Village Center",39.6006,-104.8886],
+      ["Orchard",39.6138,-104.8963],
+      ["Belleview",39.6279,-104.9045],
+      ["Dayton",39.6431,-104.8776],
+      ["Nine Mile",39.6577,-104.8447],
+      ["Iliff",39.6733,-104.8268],
+      ["Florida",39.69,-104.8284],
+      ["Aurora Metro Center",39.7088,-104.8191],
+      ["2nd Avenue & Abilene",39.7195,-104.8256],
+      ["13th Avenue",39.7354,-104.8235],
+      ["Colfax",39.7405,-104.827],
+      ["Fitzsimons",39.755,-104.8405],
+      ["Peoria",39.7674,-104.8505]
+    ]
+  },
+  {
+    "id": "lw",
+    "name": "W Line",
+    "color": "#0091B3",
+    "code": "W",
+    "stations": [
+      ["Union Station",39.755,-105.0034],
+      ["Ball Arena / Elitch Gardens",39.7484,-105.0102],
+      ["Empower Field at Mile High",39.7434,-105.0128],
+      ["Auraria West Campus",39.7413,-105.0107],
+      ["Decatur Federal",39.7372,-105.0243],
+      ["Knox",39.7357,-105.0332],
+      ["Perry",39.7348,-105.0404],
+      ["Sheridan",39.7352,-105.0536],
+      ["Lamar",39.7367,-105.0668],
+      ["Lakewood - Wadsworth",39.7367,-105.0819],
+      ["Garrison",39.7366,-105.0997],
+      ["Oak",39.7374,-105.1203],
+      ["Federal Center",39.72,-105.1294],
+      ["Red Rocks College",39.7251,-105.1526],
+      ["Jeffco Government Center",39.7265,-105.2012]
+    ]
+  },
+  {
+    "id": "lwinter_park_express",
+    "name": "Amtrak Winter Park Express",
+    "color": "#888888",
+    "code": "Winter Park Express",
+    "stations": [["Winter Park Resort",39.8888,-105.7648],["Union Station",39.7532,-105.0014],["Fraser-Winter Park",39.9476,-105.8177]]
+  }
+]

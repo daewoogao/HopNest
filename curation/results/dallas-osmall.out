@@ -1,0 +1,512 @@
+@lat	@lon	name	name:en	tourism	stars
+32.8083797	-96.9483241	Wild Wild West Backpackers Hostel		hostel	
+32.9442351	-96.7029588	FunAsia		hotel	
+32.7941483	-96.8041997	Hotel Crescent Court		hotel	
+32.9556642	-97.0504679	Hilton Garden Inn		hotel	
+32.8952011	-96.9046753	Sleep Inn		hotel	
+32.8948629	-96.9046789	MainStay Suites		hotel	
+33.0027822	-96.7417904	Hilton Garden Inn		hotel	
+32.7774266	-96.7949212	TownePlace Suites		hotel	
+32.7802640	-96.7961920	Residence Inn		hotel	
+32.7819885	-96.7989915	Hilton Garden Inn		hotel	
+32.8739015	-97.0985037	Home2 Suites		hotel	
+32.8747666	-97.0983321	Tru		hotel	
+32.8845677	-96.9621345	Residence Inn		hotel	
+32.8588855	-96.8949226	Fairfield Inn & Suites		hotel	
+32.7948943	-96.8101242	Hyatt House		hotel	
+33.0907436	-96.8148553	Sandman Signature		hotel	
+33.0703183	-96.8258153	Aloft Plano		hotel	
+33.0891169	-96.8204680	Hilton		hotel	
+32.9564162	-97.0521326	TownePlace		hotel	
+32.9559276	-97.0518324	Courtyard by Marriot		hotel	
+32.7815928	-96.8003565	Thompson Dallas		hotel	
+32.9805805	-96.7053468	Parks Residential		hotel	
+32.7955770	-96.6968935	Studio 6 Dallas - Fair Park		hotel	
+33.0144611	-96.9940336	InTown Suites		hotel	
+32.9166892	-96.7679685	Studio 6		hotel	
+32.8385247	-96.9814427	OYO		hotel	
+32.8854544	-96.9662009	Courtyard Dallas Las Colinas		hotel	
+32.8587097	-96.9351434	Residence Inn by Marriott Irving Las Colinas		hotel	
+32.8584611	-96.9347850	Courtyard by Marriott Irving Las Colinas		hotel	
+32.8975548	-97.0384887	Hyatt Regency DFW International Airport		hotel	
+32.7772112	-96.8010966	Aloft Dallas Downtown		hotel	
+32.7804467	-96.8018485	The Westin Dallas Downtown		hotel	
+32.8064832	-96.8292050	Holiday Inn		hotel	
+32.7993538	-96.8214760	Tru by Hilton Dallas Market Center		hotel	
+32.7809100	-96.8035457	Crowne Plaza		hotel	
+32.7804217	-96.7946449	Statler Hotel		hotel	
+32.7850915	-96.7948370	Sheraton Dallas		hotel	
+32.7881412	-96.8090368	W Dallas - Victory		hotel	
+32.9565166	-97.0448205	Embassy Suites by Hilton		hotel	
+32.7801597	-96.7990729	Magnolia Hotel Dallas Downtown		hotel	
+32.7827867	-96.8066349	SpringHill Suites Dallas Downtown/West End		hotel	
+32.9263559	-96.8426061	DoubleTree by Hiltom Hotel Dallas Near the Galleria		hotel	
+32.9270878	-96.8248565	Sheraton Dallas Hotel by the Galleria		hotel	
+32.9309038	-96.8174747	Le Meridien Dallas by the Galleria		hotel	
+32.9299672	-96.8201059	The Westin Galleria Dallas		hotel	
+32.8633951	-96.8097470	Hilton Dallas/Park Cities		hotel	
+32.8381672	-97.0075722	La Quinta Inn & Suites DFW Airport South / Irving		hotel	
+32.8345513	-96.9918593	Arya Inn & Suites		hotel	
+32.8353750	-97.0113579	Fairfield Inn & Suites		hotel	
+32.8354708	-97.0126487	Home2 Suites by Hilton		hotel	
+32.8345322	-97.0123266	Country Inn & Suites		hotel	
+32.8353810	-97.0234107	Quality Inn & Suites Dfw Airport South		hotel	
+32.8349480	-97.0190261	Atrium Hotel & Suites		hotel	
+32.8353853	-97.0144038	Wyndham DFW Airport Hotel		hotel	
+32.8352091	-97.0212798	Embassy Suites		hotel	
+32.8361777	-97.0036347	Motel 6		hotel	
+32.8388518	-97.0109715	Holiday Inn		hotel	
+32.8389606	-97.0205632	Courtyard		hotel	
+32.9565538	-96.8292930	MainStay Suites		hotel	
+32.9557130	-96.8251501	Courtyard Dallas Addison/Quorum Drive		hotel	
+32.9559202	-96.8281973	Home2 Suites by Hilton Dallas Addison		hotel	
+32.9569901	-96.8272142	SpringHill Suites by Marriott		hotel	
+32.9566352	-96.8230170	Renaissance Dallas Addison Hotel		hotel	
+32.9582524	-96.8268846	Hampton Inn by Hilton Addison Dallas		hotel	
+32.7568960	-97.0818858	Sheraton Arlington Hotel		hotel	
+32.7493104	-97.0653419	Four Points by Sheraton Dallas Arlington Entertainment District		hotel	
+32.7590551	-97.0782314	Howard Johnson		hotel	
+32.9269118	-96.7633235	Park Plaza Hotels		hotel	
+32.9546809	-97.0643820	Gaylord Texan Resort & Convention Center		hotel	
+32.8840511	-96.9553126	Hyatt Place Dallas/Las Collinas		hotel	
+32.8833782	-96.9555127	ExtendedStayDeluxe Las Collinas		hotel	
+32.8834389	-96.9546321	ExtendedStayDeluxe Las Collinas		hotel	
+32.8828472	-96.9547836	ExtendedStayDeluxe Meadow Creek		hotel	
+32.8842999	-96.9581109	Hampton Inn Dallas		hotel	
+32.8832166	-96.9531104	Candlewood Suites		hotel	
+32.8841191	-96.9535526	Fairfield Inn & Suites Dallas Las Colinas		hotel	
+32.8843964	-96.9608526	TownePlace Suites Dallas Las Colinas		hotel	
+32.8840963	-96.9607647	TownePlace Suites Dallas Las Colinas		hotel	
+32.8840480	-96.9611501	TownePlace Suites Dallas Las Colinas		hotel	
+32.8841958	-96.9588066	Wingate by Wyndham Las Colinas		hotel	
+32.9190706	-97.0070069	Wingate Fort Worth		hotel	
+32.7801586	-96.7965908	Hampton Inn & Suites Dallas Downtown		hotel	
+32.7818986	-96.7944555	Hotel Indigo Dallas Downtown		hotel	
+32.6171362	-96.9187822	Comfort Inn & Suites Cedar Hill Duncanville		hotel	
+32.6182675	-96.9173561	Sleep Inn		hotel	
+32.8589082	-96.8864052	Baymont Inn & Suites Dallas Love Field		hotel	
+32.8601227	-96.8884239	Days Inn		hotel	
+32.8596697	-96.8891519	SpringHill Suites Dallas NW Highway at Stemmons/I-35E		hotel	
+32.7752094	-96.8043247	Omni Dallas Hotel		hotel	
+32.9351701	-96.7539309	Red Roof Inn		hotel	
+32.9274254	-96.7628509	Embassy Suites		hotel	
+32.9277912	-96.7624725	Comfort Suites North Dallas		hotel	
+32.9267514	-96.8016564	Holiday Inn Express & Suites		hotel	
+32.9252866	-96.7719560	Comfort Inn		hotel	
+32.9177251	-96.7676851	Hyatt Place		hotel	
+32.8088587	-96.8092987	Warwick Melrose - Dallas		hotel	
+32.7941290	-96.8012558	Hotel ZaZa		hotel	
+32.8248693	-96.7883660	Carrara at Cole Apartments		hotel	
+32.9612545	-96.6395545	Hyatt Place		hotel	
+33.0929086	-96.6794679	Hilton Garden Inn		hotel	
+32.8244711	-97.0580714	Candlewood Suites		hotel	
+32.8246421	-97.0564542	Holiday Inn		hotel	
+33.0745127	-96.8222159	Dallas/Plano Marriott at Legacy Town Center		hotel	
+32.9593988	-97.0422341	Residence Inn		hotel	
+32.6747008	-97.0900993	Hampton Inn & Suites		hotel	
+32.9511196	-96.8243563	Dallas/Addison Marriott Quorum by the Galleria		hotel	
+32.9221669	-96.9953993	Element Dallas Fort Worth Airport North		hotel	
+33.0997767	-96.8180713	Embassy Suites & Conference Center		hotel	
+32.8410472	-96.7874923	Graduate by Hilton Dallas		hotel	
+32.8867753	-96.7710239	Sonesta Select Dallas Central Expressway		hotel	
+33.0915458	-96.8408578	The Westin Dallas Stonebriar Golf Resort & Spa		hotel	
+32.9809161	-96.7156792	Hyatt House		hotel	
+32.7974069	-96.8260365	Doubletree by Hilton Dallas Market Center		hotel	
+32.8203342	-96.6319704	Courtyard		hotel	
+32.8039713	-96.8321285	Renaissance Dallas Hotel		hotel	
+32.9384702	-96.8188881	Embassy Suites by Hilton Dallas Near the Galleria		hotel	
+32.8049070	-96.8387273	Dallas Marriott Suites Medical/Market Center		hotel	
+32.8625998	-96.9584687	"The Ritz-Carlton Dallas, Las Colinas"		hotel	
+32.7995240	-96.8249794	Courtyard Dallas Medical/Market Center		hotel	
+32.7990730	-96.8247387	Fairfield Inn & Suites Dallas Medical/Market Center		hotel	
+32.7999039	-96.8295890	Hilton Anatole		hotel	
+32.8019084	-96.8331900	Hilton Garden Inn Dallas / Market Center		hotel	
+32.8004618	-96.8249642	Sheraton Suites Market Center		hotel	
+32.7727237	-96.7955740	Lorenzo Hotel		hotel	
+32.8654524	-96.9442040	Aloft Las Colinas		hotel	
+33.0988271	-96.6766636	Quality Inn		hotel	
+32.9164605	-97.0066523	DoubleTree by Hilton Hotel Dallas - DFW Airport North		hotel	
+32.9155668	-97.0057354	Days Inn by Wyndham Irving Grapevine DFW Airport North		hotel	
+32.9184949	-97.0073351	Red Roof Inn DfW		hotel	
+32.9180882	-97.0088147	Quality Inn		hotel	
+32.9161713	-97.0122913	Comfort Suites DfW Airport		hotel	
+32.9173035	-97.0093965	Westin Dallas Fort Worth Airport		hotel	
+32.9222614	-96.9759039	Staybridge Suites Dfw Airport North		hotel	
+32.9056307	-96.9210155	Renaissance Dallas North Hotel		hotel	
+33.0888220	-96.8063669	The Clara Hotel Plano Tapestry		hotel	
+33.0014312	-96.7632052	Staybridge Suites		hotel	
+33.0699307	-96.8857697	Comfort Suites The Colony - Plano West		hotel	
+33.0815788	-96.8589634	Residence Inn by Marriott Dallas Plano/The Colony		hotel	
+33.0819894	-96.8578447	Fairfield Inn & Suites by Marriott Dallas Plano/The Colony		hotel	
+32.9842379	-96.9187328	InTown Suites Carrollton		hotel	
+33.0421320	-96.8309494	Holiday Inn Express & Suites Dallas-North Tollway		hotel	
+32.9861559	-96.8396745	InTown Suites		hotel	
+32.9559505	-96.8344421	Quality Suites Addison-Dallas		hotel	
+32.9528986	-96.8437648	Hilton Garden Inn Dallas/Addison		hotel	
+32.9547287	-96.8358522	Homewood Suites Dallas/Addison		hotel	
+32.9549551	-96.8429014	Red Roof Inn & Suites Addison		hotel	
+32.9378225	-96.8405389	Extended Stay America - Dallas - Farmers Branch		hotel	
+32.9388415	-96.8404408	Comfort Inn & Suites Dallas-Addison		hotel	
+32.9525418	-96.8291538	Clarion Pointe		hotel	
+32.9526080	-96.8352090	"The Addison Hotel, SureStay Collection by Best Western"		hotel	
+32.9523238	-96.8365553	Holiday Inn		hotel	
+32.9514443	-96.8287837	La Quinta Inn & Suites		hotel	
+32.9240772	-96.9016195	Days Inn North Dallas/Farmers Branch		hotel	
+32.9393501	-96.8418195	Oakwood at Parkside The Ritz		hotel	
+33.0420579	-96.8283013	Hyatt Place		hotel	
+33.0175918	-96.7979069	Quality Inn West Plano - Dallas		hotel	
+32.7983370	-96.8243676	Days Inn Market Center Dallas		hotel	
+32.8382330	-97.0209600	Residence Inn - DFW South		hotel	
+32.9675186	-96.8204748	Staybridge Suites		hotel	
+32.9673853	-96.8196638	Staybridge Suites		hotel	
+32.9374837	-96.8185373	Sonesta Simply Suites Dallas Galleria		hotel	
+32.9405056	-96.8194568	Hyatt Place Dallas-North		hotel	
+32.8975736	-97.0444559	Grand Hyatt DFW		hotel	
+32.7810573	-96.8027924	Homewood Suites by Hilton Dallas Downtown		hotel	
+32.7868974	-96.7957044	Dallas Marriott City Center		hotel	
+32.9133117	-97.0068418	Sheraton DFW Airport Hotel		hotel	
+33.0877804	-96.8411633	Sheraton		hotel	
+33.0961226	-96.8154035	Home2 Suites		hotel	
+32.8196953	-96.7862437	La Quinta Inn		hotel	
+32.8150702	-96.7885893	Best Western		hotel	
+32.8146729	-96.7887935	Quality Inn & Suites Dallas-Cityplace		hotel	
+32.8358643	-96.7779119	"The Highland Dallas, Curio Collection by Hilton"		hotel	
+32.7935668	-96.7781237	Element Dallas Downtown East		hotel	
+32.9138794	-96.7699774	Extended Stay America		hotel	
+32.9228227	-96.7749305	Residence Inn Dallas Park Central		hotel	
+32.8365855	-96.8762493	Ramada Dallas Love Field Airport		hotel	
+32.8298333	-96.8725901	Wingate by Wyndham Dallas / Love Field		hotel	
+32.8274010	-96.8878023	"Sterling Hotel Convention, Meeting and Event Center"		hotel	
+32.8243089	-96.8706410	Budget Suites Empire Central		hotel	
+32.8235476	-96.8761271	Sleep Inn Dallas Love Field-Medical District		hotel	
+32.8174172	-96.8675665	Comfort Inn & Suites Market Center		hotel	
+32.8165111	-96.8668599	Crowne Plaza Dallas Market Center		hotel	
+32.8145675	-96.8651172	Residence Inn Dallas Market Center		hotel	
+32.8108848	-96.8547066	Spark by Hilton Dallas Market Center		hotel	
+32.8099349	-96.8509575	Comfort Inn & Suites Dallas Medical-Market Center		hotel	
+32.8090097	-96.8478237	Homewood Suites Dallas-Market Center		hotel	
+32.9017781	-96.9197747	DoubleTree		hotel	
+32.8645398	-96.8929372	Suburban Studios		hotel	
+32.8627432	-96.8911033	Holiday Inn Express Hotel & Suites Dallas/Stemmons Fwy(I-35 E)		hotel	
+32.8605650	-96.8906142	MCM Elegante Hotel and Suites		hotel	
+32.8601660	-96.8848821	BEST WESTERN Northwest Inn		hotel	
+32.8828051	-96.8967803	Best Western Plus		hotel	
+32.8820380	-96.8966142	La Quinta Inn & Suites		hotel	
+32.8774176	-96.8966812	Quality Inn & Suites		hotel	
+32.8076789	-96.8449400	Embassy Suites by Hilton Dallas Market Center		hotel	
+32.7978412	-96.6864602	Garden Inn & Suites		hotel	
+32.7965284	-96.6942011	Holiday Inn Express & Suites		hotel	
+32.7689150	-96.8948957	Hampton Inn & Suites		hotel	
+32.7678688	-96.8947961	Comfort Suites		hotel	
+32.8608721	-96.8498242	Embassy Suites		hotel	
+32.6632863	-96.9056138	Hilton Garden Inn		hotel	
+32.6461505	-96.8876860	Holiday Inn Express & Suites		hotel	
+32.8039401	-96.6701304	Mesquite Inn & Suites		hotel	
+32.9182283	-96.7433271	Candlewood Suites		hotel	
+32.9180974	-96.7477935	Extended Stay America		hotel	
+32.9158707	-96.7449952	Holiday Inn Express & Suites		hotel	
+32.9150831	-96.7435710	Extended Stay America		hotel	
+32.9148944	-96.7426133	Fairfield Inn & Suites		hotel	
+32.8831111	-96.7709664	La Quinta Inn		hotel	
+32.6457191	-96.7826625	Werner Hotel		hotel	
+32.6467242	-96.7802103	Days Inn by Wyndham Dallas South		hotel	
+32.9110776	-96.9548087	Hilton Garden Inn Las Colinas		hotel	
+32.8339963	-96.8361441	DoubleTree by Hilton		hotel	
+32.9239876	-96.8171177	Hilton Dallas Lincoln Centre		hotel	
+33.0079898	-96.7969147	InTown Suites		hotel	
+32.7975315	-96.8073834	"The Stoneleigh, Autograph Collection"		hotel	
+32.7973340	-96.8000193	Bailey's Uptown Inn		hotel	
+32.7924137	-96.8038302	The Ritz-Carlton		hotel	
+32.7893398	-96.7973308	"HALL Arts Hotel, Dallas, Autograph Collection"		hotel	
+32.7854282	-96.8014898	Fairmont Hotel		hotel	
+32.7645666	-96.6221115	Holiday Inn Express & Suites		hotel	
+33.0034676	-96.6798391	Homewood Suites		hotel	
+32.9521588	-96.8275882	Holiday Inn Express & Suites		hotel	
+33.0737956	-96.8796823	Staybridge Suites Plano		hotel	
+33.0744624	-96.8775922	Clarion - The Colony - Plano West		hotel	
+33.0742992	-96.8788398	Holiday Inn Express & Suites		hotel	
+33.0718081	-96.8814830	Hyatt Place		hotel	
+33.0706395	-96.8704609	Hampton Inn & Suites		hotel	
+32.7613501	-97.0921556	Holiday Inn		hotel	
+32.9059432	-96.9227120	Holiday Inn Express		hotel	
+32.9053374	-96.9229839	Candlewood Suites		hotel	
+32.6577359	-96.5623569	Best Western		hotel	
+32.8500672	-96.5734779	La Quinta Inn		hotel	
+32.8217493	-97.0640672	Days Inn & Suites by Wyndham Euless DFW Airport South		hotel	
+33.0637699	-96.8968254	La Quinta Inn		hotel	
+33.0924300	-96.8024992	SpringHill Suites Dallas Plano/Frisco		hotel	
+33.0811307	-96.8175824	Cambria Hotel Plano Frisco		hotel	
+33.0785627	-96.8274431	Renaissance Dallas at Plano Legacy West Hotel		hotel	
+32.9855921	-96.7099304	Renaissance Hotel		hotel	
+32.9795340	-96.7079899	Courtyard Dallas Richardson at Campbell		hotel	
+32.9812793	-96.7061475	Hampton Inn & Suites		hotel	
+32.6203324	-96.8242704	Magnuson Grand DeSoto		hotel	
+32.6184246	-96.8258841	Holiday Inn Express & Suites		hotel	
+32.8265289	-96.8478484	Aloft Dallas Love Field		hotel	
+33.0292536	-96.7107080	Days Inn by Wyndham Dallas Plano		hotel	
+32.8189344	-96.8641846	Hawthorn Suites by Wyndham Dallas Love Field Airport		hotel	
+32.8870801	-96.7688055	Hampton		hotel	
+32.8244569	-97.0594057	Hampton		hotel	
+33.0278021	-96.7071500	Baymont Plano		hotel	
+33.0280833	-96.7064301	Comfort Inn & Suites		hotel	
+32.8795882	-96.9454432	Holiday Inn Express & Suites Irving Conv Center - Las Colinas		hotel	
+33.0009466	-96.7014236	Aloft Richardson		hotel	
+33.0012646	-96.6879339	Cambria Hotel Richardson - Dallas		hotel	
+32.9894522	-96.7094320	Quality Inn & Suites Richardson-Dallas		hotel	
+32.9763377	-96.7139905	Hilton Richardson Dallas		hotel	
+33.0924480	-96.6825798	Marriott Dallas Allen Hotel & Convention Center		hotel	
+32.9690824	-96.7221811	Wingate by Wyndham Richardson/Dallas		hotel	
+32.9740367	-96.7210945	Hawthorn Suites by Wyndham Richardson		hotel	
+32.7547163	-97.0658779	La Quinta Inn		hotel	
+32.7539097	-97.0652298	Baymont Arlington at Six Flags Dr		hotel	
+32.9707563	-96.7205363	Holiday Inn Dallas-Richardson		hotel	
+32.9738315	-96.7209043	Hawthorn Suites by Wyndham Richardson		hotel	
+32.7757861	-96.8092946	Hyatt Regency Dallas		hotel	
+32.9413976	-97.0599293	Great Wolf Lodge		hotel	
+32.9200497	-97.0805880	Holiday Inn Express & Suites		hotel	
+32.9251918	-97.0762108	Comfort Inn Grapevine Near Dfw Airport		hotel	
+32.9200940	-97.0799590	Hilton Garden Inn		hotel	
+32.9564066	-97.0375701	Hampton Inn & Suites		hotel	
+32.9567420	-97.0367885	Comfort Suites DFW N/Grapevine		hotel	
+32.9621507	-97.0462711	SpringHill Suites		hotel	
+32.9611393	-97.0464307	Hyatt Place		hotel	
+32.9607309	-97.0456842	Homewood Suites by Hilton		hotel	
+32.9594486	-97.0468837	Hilton		hotel	
+32.9368213	-97.0119055	Courtyard		hotel	
+33.0086548	-96.9685279	Homewood Suites by Hilton Dallas-Lewisville		hotel	
+32.8846899	-96.7708629	SpringHill Suites		hotel	
+32.8069496	-96.7952369	Canopy by Hilton Dallas Uptown		hotel	
+32.7900023	-96.7821385	Home2 Suites by Hilton Dallas Downtown at Baylor Scott & White		hotel	
+32.9864227	-96.9004009	Courtyard		hotel	
+32.9286084	-96.8164003	Residence Inn		hotel	
+32.8967533	-96.9631777	NYLO Irving / Las Colinas		hotel	
+32.7837955	-97.0607187	Best Western Plus		hotel	
+32.8087569	-96.6541113	Quality Inn & Suites		hotel	
+32.8125982	-96.6512483	Red Roof Inn		hotel	
+32.8194503	-96.6302465	Fairfield Inn & Suites		hotel	
+32.8672549	-96.9376295	Omni Mandalay Hotel at Las Colinas		hotel	
+32.7695845	-97.0642125	Extended Stay America		hotel	
+32.7730557	-97.0636792	DoubleTree by Hilton Arlington DFW South		hotel	
+33.0168066	-96.7910531	Extended Stay America - Dallas - Plano Parkway		hotel	
+33.0173595	-96.7937230	Courtyard		hotel	
+33.0152803	-96.7923710	La Quinta Inn & Suites		hotel	
+33.0154188	-96.7916740	Fairfield Inn & Suites		hotel	
+33.0222167	-96.7931408	Comfort Inn		hotel	
+32.8591125	-96.6474775	La Quinta Inn & Suites Dallas Northeast-Arboretum		hotel	
+32.8619520	-96.6548938	Microtel Inn & Suites by Wyndham Garland/Dallas		hotel	
+32.8743411	-96.6625101	Days Inn		hotel	
+32.7487881	-97.0979409	Motel 6 Arlington TX Entertainment District		hotel	
+32.7529376	-97.0652712	Homewood Suites		hotel	
+32.7537116	-97.0661767	Sleep Inn Arlington Near Six Flags		hotel	
+32.7632471	-97.0787222	SpringHill Suites Dallas Arlington North		hotel	
+32.7720104	-97.0605310	Hyatt Place Dallas/North Arlington/Grand Prairie		hotel	
+32.7837205	-97.0582116	"Country Inn & Suites, Grand Prairie-DFW-Arlington, TX"		hotel	
+32.8344831	-97.0229397	Hilton Garden Inn		hotel	
+32.7606301	-97.0564383	"The Arlin, Arlington, a Tribute Portfolio Hotel"		hotel	
+32.7402557	-97.0600179	Lux Hotel & Spa		hotel	
+32.7479116	-97.0612394	Days Inn		hotel	
+32.7651320	-97.0641114	R Nite Star Inn & Suites		hotel	
+32.7632976	-97.0658424	"Holiday Inn Express & Suites Arlington North Stadium Area,"		hotel	
+32.7624721	-97.0672915	Hilton Arlington		hotel	
+32.7639309	-97.0659741	Residence Inn Arlington		hotel	
+32.7613675	-97.0747131	Aloft Dallas Arlington Entertainment District		hotel	
+32.7628852	-97.0726957	Hampton Inn & Suites		hotel	
+32.7639020	-97.0707182	Candlewood Suites		hotel	
+32.7606821	-97.0716420	Hilton Garden Inn Dallas/Arlington		hotel	
+32.7608167	-97.0673345	Extended Stay America		hotel	
+32.7610017	-97.0665489	Fairfield Inn & Suites Arlington Near Six Flags		hotel	
+32.9687166	-97.0307780	Fairfield Inn & Suites Dallas DFW Airport North/Coppell Grapevine		hotel	
+32.8655693	-96.9607287	La Quinta Inn & Suites		hotel	
+32.9164178	-97.0144234	Extended Stay America - DfW Airport North		hotel	
+32.9170600	-97.0140954	Fairfield Inn		hotel	
+32.9193220	-97.0184297	Best Western Plus DfW Airport Suites		hotel	
+32.9176479	-97.0167295	Homewood Suites by Hilton Irving-DFW Airport		hotel	
+32.9174923	-97.0155893	La Quinta Inn & Suites Dallas DFW Airport North		hotel	
+32.9188058	-97.0174023	Comfort Inn DfW Airport North		hotel	
+32.8899282	-96.9665863	Comfort Suites Las Colinas Center		hotel	
+32.8913986	-96.9707435	SpringHill Suites Dallas DFW Airport East/Las Colinas Irving		hotel	
+32.6454307	-96.8843200	TownePlace Suites Dallas DeSoto		hotel	
+32.9744854	-96.7184149	DoubleTree		hotel	
+32.9642515	-96.8493774	The Place at Saddle Creek		hotel	
+32.7707733	-97.0957927	InTown Suites Extended Stay Arlington TX - Six Flags		hotel	
+32.8395110	-96.9888486	Hawthorn Suites By Wyndham Irving DFW South		hotel	
+33.0164670	-96.9842177	Best Western Plus Hotel		hotel	
+33.0597465	-96.7978806	TownePlace Suites Dallas Plano/Legacy		hotel	
+33.0587045	-96.7969430	Residence Inn Dallas Plano/Legacy		hotel	
+33.0588680	-96.7968510	Residence Inn Dallas Plano/Legacy 1		hotel	
+32.9963543	-96.9678923	Hilton Garden Inn		hotel	
+32.9996508	-96.9653579	Holiday Inn Express & Suites Dallas Lewisville		hotel	
+32.9974074	-96.9658319	Fairfield Inn		hotel	
+32.9967758	-96.9649326	Courtyard by Marriott Dallas Lewisville		hotel	
+32.9982142	-96.9683565	SpringHill Suites Dallas Lewisville		hotel	
+32.9978782	-96.9678516	"Hampton Inn & Suites Dallas/Lewisville-Vista Ridge Mall, TX"		hotel	
+33.0004050	-96.9681312	Residence Inn		hotel	
+33.0008359	-96.9671831	"Country Inn & Suites, Lewisville, TX"		hotel	
+33.0011567	-96.9677388	Comfort Suites Lewisville		hotel	
+32.9993470	-96.9689986	TownePlace Suites Dallas Lewisville		hotel	
+33.0256585	-96.7087817	Red Roof Inn		hotel	
+33.0037781	-96.6842605	Comfort Suites Plano		hotel	
+33.0037139	-96.6862665	Holiday Inn Express & Suites Plano East - Richardson		hotel	
+33.0038926	-96.6895808	Residence Inn		hotel	
+33.0038207	-96.6875706	Courtyard		hotel	
+33.0016921	-96.6745555	Hampton Inn & Suites		hotel	
+32.6771276	-97.0395755	Candlewood Suites		hotel	
+32.6793575	-97.0437324	Quality Inn & Suites		hotel	
+32.6169956	-96.8241062	Days Inn		hotel	
+32.6098898	-96.8242577	Scottish Inns		hotel	
+33.0268098	-96.7063499	Comfort Inn & Suites Plano East		hotel	
+32.8359413	-96.9081183	Budget Inn & Suites		hotel	
+32.6488517	-96.7053280	La Quinta Inn & Suites Dallas - Hutchins		hotel	
+32.8360646	-97.0893146	La Quinta Inn & Suites DFW Airport West - Euless		hotel	
+33.0165727	-96.9787954	Extended Stay America		hotel	
+33.0156072	-96.9780190	Hawthorne Extended Stay Hotel Lewisville		hotel	
+32.7695146	-96.6264700	Days Inn by Wyndham Mesquite Rodeo TX		hotel	
+32.7639511	-96.6219536	TownePlace Suites		hotel	
+32.7621945	-96.6235040	Hampton		hotel	
+32.7775471	-96.6230893	Quality Inn Mesquite		hotel	
+33.0868125	-96.7971749	Mission Gate		hotel	
+33.0712787	-96.7926100	Candlewood Suites		hotel	
+32.6114563	-96.8216685	Great Western Inn		hotel	
+32.6009180	-96.8251056	La Quinta Inn & Suites		hotel	
+32.6748891	-97.0321406	La Quinta Inn & Suites		hotel	
+33.0369012	-97.0019399	Baymont Lewisville		hotel	
+32.9271142	-97.0088582	Residence Inn Dallas DFW Airport North/Irving		hotel	
+32.6748172	-97.0316187	Home2 Suites		hotel	
+32.6744476	-97.0909906	Homewood Suites		hotel	
+32.6753619	-97.0914601	Fairfield Inn & Suites Dallas Arlington South		hotel	
+32.9898397	-96.6658874	SpringHill Suites		hotel	
+32.9009904	-96.9700819	WaterWalk Dallas-Las Colinas Hotel Apartment		hotel	
+33.0025087	-96.7745056	WoodSpring Suites		hotel	
+33.0936252	-96.8035258	Fairfield Inn & Suites		hotel	
+33.0724079	-96.8784348	Budget Suites of America		hotel	
+33.0432394	-96.7038405	Plano Inn & Suites		hotel	
+33.0449711	-96.7029561	Fairfield Inn & Suites		hotel	
+32.6255907	-96.8247980	Home2 Suites by Hilton Dallas DeSoto		hotel	
+32.6268711	-96.8242600	Hampton Inn And Suites		hotel	
+32.7886319	-96.5944596	La Quinta Inn & Suites Dallas Mesquite		hotel	
+32.8112465	-96.8582464	Hampton Inn & Suites Dallas Market Center		hotel	
+32.8628531	-96.7684417	DoubleTree		hotel	
+32.8765893	-96.9438483	The Westin Irving Convention Center at Las Colinas		hotel	
+33.0398221	-96.7008475	Hampton Inn & Suites		hotel	
+32.8911276	-96.7670519	Home2 Suites by Hilton Dallas North Park		hotel	
+32.9606430	-96.6386619	Tru by Hilton Garland Richardson		hotel	
+32.9648695	-96.6376181	Holiday Inn		hotel	
+32.7969203	-96.8220879	Virgin Hotel		hotel	
+33.0016584	-96.7613689	Residence Inn		hotel	
+32.6069819	-96.9302630	Holiday Inn Express & Suites		hotel	
+32.8611126	-96.9005251	Budget Suites of America		hotel	
+32.8599798	-96.8974467	Holiday Inn Express & Suites		hotel	
+32.6740579	-97.0101957	Holiday Inn Express Grand Prairie		hotel	
+32.8593438	-96.7634213	The Drey Hotel		hotel	
+32.8636196	-96.9376356	Homewood Suites by Hilton Dallas-Irving-Las Colinas		hotel	
+32.7960141	-96.6960641	Hampton Inn & Suites		hotel	
+32.7922387	-96.5946094	SureStay Plus by Best Western Mesquite		hotel	
+32.8866647	-96.7688494	Hilton Garden Inn Dallas Central		hotel	
+32.8775747	-96.9413781	"Texican Court, by Valencia Hotel Group"		hotel	
+32.7640866	-96.8934434	Holiday Inn Express & Suites		hotel	
+32.7659627	-96.8761052	Residence Inn		hotel	
+33.0181516	-96.9849404	La Quinta Inn & Suites Lewisville		hotel	
+33.0309823	-96.9913184	Red Roof Inn Lewisville		hotel	
+33.0106417	-96.9943330	Budget Suites of America		hotel	
+32.8227128	-96.8769753	La Quinta Inn & Suites		hotel	
+32.8037165	-96.8071002	The Mansion on Turtle Creek		hotel	
+33.0817718	-96.8564080	Courtyard by Marriott Dallas Plano/The Colony		hotel	
+32.7924029	-96.8059685	Hotel Swexan		hotel	
+33.0447767	-97.0656311	Courtyard Dallas Flower Mound		hotel	
+32.7329529	-96.6131472	Scottish Inns & Suites		hotel	
+32.9665266	-97.0303388	Aloft Coppell - Grapevine		hotel	
+32.9981383	-96.7620984	SpringHill Suites Dallas Richardson/University Area		hotel	
+32.7962602	-96.6950638	La Quinta Inn & Suites		hotel	
+32.8328822	-97.0591232	Homewood Suites		hotel	
+32.7772225	-96.8070594	Holiday Inn Express Dallas Downtown		hotel	
+32.7769301	-96.8068051	Courtyard		hotel	
+32.7804692	-96.7982004	The Joule Dallas		hotel	
+32.9152297	-97.0146983	Clarion Inn & Suites Dfw North		hotel	
+32.8543397	-97.0387726	Hyatt Place DFW Airport		hotel	
+32.6196515	-96.8268092	Comfort Suites Desoto Dallas South		hotel	
+32.7886981	-97.0559258	Comfort Suites Grand Prairie - Arlington North		hotel	
+32.6339643	-96.8219361	Sleep Inn Lancaster Dallas South		hotel	
+32.7613499	-97.0067119	La Quinta Inn & Suites Dallas Grand Prairie North		hotel	
+33.0071037	-96.5634867	La Quinta Inn & Suites Dallas - Wylie		hotel	
+32.8274415	-97.0591056	SpringHill Suites Dallas DFW Airport South/Centreport		hotel	
+32.7823936	-96.7956533	Renaissance Saint Elm Dallas Downtown Hotel		hotel	
+32.9281973	-96.7634775	La Quinta Inn & Suites Dallas - Richardson		hotel	
+32.7638886	-97.0832183	TownePlace Suites Dallas Arlington North		hotel	
+33.0220239	-96.7087005	Quality Inn & Suites Plano East - Richardson		hotel	
+32.7799342	-96.8002029	"The Adolphus, Autograph Collection"		hotel	
+33.0022553	-96.6728288	Home2 Suites by Hilton Plano Richardson		hotel	
+32.9220150	-97.0184472	Dallas/Fort Worth Airport Marriott		hotel	
+33.0054837	-96.6999428	TownePlace Suites Dallas Plano/Richardson		hotel	
+33.0433899	-97.0661523	Home2 Suites		hotel	
+33.0701287	-96.8346128	Home2 Suites by Hilton Plano Legacy West		hotel	
+32.9045178	-96.9227960	Hampton Inn & Suites Farmers Branch Dallas		hotel	
+32.7037511	-97.0228501	Courtyard Dallas Grand Prairie		hotel	
+32.7706455	-96.8957349	Fairfield Inn & Suites Dallas West/I-30		hotel	
+32.9157073	-97.0155113	TownePlace Suites Dallas DFW Airport North/Irving		hotel	
+33.0711777	-96.8702441	Homewood Suites by Hilton Dallas The Colony		hotel	
+33.0627427	-96.8315540	La Quinta Inn & Suites Plano Legacy Frisco		hotel	
+33.0185192	-96.9799487	Home2 Suites by Hilton Lewisville Dallas		hotel	
+32.7080891	-96.5850644	Comfort Inn & Suites Balch Springs		hotel	
+33.0421725	-96.7058765	Candlewood Suites Plano North		hotel	
+33.0464621	-96.7030127	Home2 Suites by Hilton North Plano Hwy 75		hotel	
+33.0992745	-96.8128645	Hyatt Regency		hotel	
+33.0974206	-96.8163575	Tru by Hilton Frisco Dallas		hotel	
+32.9280809	-96.9971443	Tru by Hilton Coppell DFW Airport North		hotel	
+32.6735174	-97.0227697	Staybridge Suites Dallas - Grand Prairie		hotel	
+33.0010193	-96.7073199	Drury Plaza Hotel		hotel	
+32.9116080	-96.9490379	WoodSpring Suites Las Colinas		hotel	
+32.8929108	-96.9619604	Hyatt House Dallas/Las Colinas		hotel	
+32.8890411	-96.9572320	Embassy Suites		hotel	
+32.6634235	-96.9038746	Hampton Inn & Suites		hotel	
+32.9219283	-96.7715769	The Westin Dallas Park Central		hotel	
+33.0670753	-96.6879349	WoodSpring Suites Plano Dallas Legacy Drive		hotel	
+32.6407733	-96.8932317	La Quinta Inn & Suites Dallas Duncanville		hotel	
+33.0721107	-96.8807092	Tru		hotel	
+32.8387086	-96.9543474	Hampton Inn & Suites Irving Hwy 183		hotel	
+32.7508460	-97.0851937	Loews Arlington Hotel and Convention Center		hotel	
+33.0070957	-96.5620012	Holiday Inn Express & Suites		hotel	
+33.0019353	-96.9671096	Tru		hotel	
+32.8387278	-97.0714593	Cambria Hotel		hotel	
+32.7033409	-97.0273376	Hilton Garden Inn Grand Prairie at EpicCentral		hotel	
+32.6118611	-96.8239858	GLō Best Western		hotel	
+32.9744129	-97.0248462	Home2 Suites		hotel	
+32.8528262	-97.0666889	Holiday Inn Express		hotel	
+33.0033552	-96.6801712	Homewood Suites		hotel	
+32.8926423	-96.9741489	Sandman Signature Dallas-Las Colinas Hotel & Suites		hotel	
+33.0402650	-96.7007877	Holiday Inn Express & Suites		hotel	
+32.9990989	-96.6710408	Echo Suites Extended Stay by Wyndham Dallas Plano/Richardson		hotel	
+32.8729296	-97.0987001	La Quinta Inn & Suites		hotel	
+32.7933801	-96.6923725	Fairfield Inn & Suites		hotel	
+32.9332506	-97.0769270	"Hotel Vin, Autograph Collection"		hotel	
+32.9913210	-97.0617894	Hampton Inn		hotel	
+32.6966741	-97.0280351	Residence Inn		hotel	
+32.7700179	-96.8957671	Home2 Suites		hotel	
+33.0697180	-96.8233163	Courtyard		hotel	
+32.9151233	-97.0105289	Holiday Inn Express & Suites Irving DFW Airport North		hotel	
+32.7981986	-96.8259005	BEST WESTERN Market Center		hotel	
+32.9569672	-96.8281889	Hyatt house Dallas/Addison		hotel	
+32.9524372	-96.8265662	Residence Inn		hotel	
+32.9219283	-96.7715769	The Westin Dallas Park Central		hotel	
+32.8228450	-96.8695525	Candlewood Suites Dallas Market Center Love Field		hotel	
+32.9107652	-96.8892365	Wyndham Garden Dallas North		hotel	
+32.9087432	-96.8790774	Courtyard		hotel	
+32.8624595	-96.7712737	Hyatt House Dallas/Lincoln Park		hotel	
+32.9252958	-96.7712881	Alexis Hotel & Banquets Dallas Park Central Galleria		hotel	
+32.7987425	-96.8004517	MAA Worthington		hotel	
+32.9767401	-96.7091733	Extended Stay America		hotel	
+32.9807569	-96.7082055	Residence Inn		hotel	
+32.9384640	-96.7419632	Courtyard		hotel	
+32.7748431	-97.0634323	Studio 6		hotel	
+33.0220718	-96.7909805	Homewood Suites		hotel	
+32.7575700	-97.0895279	Courtyard		hotel	
+32.8353211	-97.0082456	Best Western		hotel	
+32.7640266	-97.0672410	Hawthorn Suites		hotel	
+32.9269732	-96.9966666	Four Points by Sheraton Dallas Fort Worth Airport North		hotel	
+32.8681420	-96.9458940	Holiday Inn Las Colinas		hotel	
+32.9464882	-96.8407204	Courtyard		hotel	
+32.8356659	-96.9128805	Days Inn		hotel	
+32.8234094	-97.0571508	DFW Airport Marriott South		hotel	
+32.7785425	-96.6233700	Spanish Trails Inn		hotel	
+32.9103487	-96.7308285	Homewood Suites		hotel	
+32.7940221	-96.6539484	Home Town Inn & Suites		hotel	
+32.7844735	-96.7873910	The Pittman		hotel	

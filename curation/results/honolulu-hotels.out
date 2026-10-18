@@ -1,0 +1,101 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	3669820188	Seaside Hawaiian Hostel		21.2803686	-157.8262061	hostel				https://www.seasidehawaiianhostel.com/
+node	4198277791	Ohia Waikiki Studio Suites		21.2799776	-157.8264065	hotel				https://www.ohiawaikiki.com/
+node	4376756058	Best Western the Plaza Hotel Honolulu Airport		21.3362154	-157.9131782	hotel		Best Western		https://www.bestwestern.com/en_US/book/hotels-in-honolulu/best-western-the-plaza-hotel/propertyCode.12008.html
+node	4491310891	Waikiki Prince Hotel		21.2762964	-157.8242345	hotel				http://www.waikikiprince.com
+node	4525385993	Kuhio Banyan Club		21.2795729	-157.8258312	hotel				https://kuhiobanyan.club
+node	4551478689	THE BEACH waikiki Boutique hostel		21.2724785	-157.8211705	hostel				
+node	4698467689			21.3344165	-157.8611197	hotel				
+node	5335077522	Hostelling International Waikiki		21.2765470	-157.8243870	hostel				
+node	5603948421			21.2859176	-157.8350001	hotel				
+node	6133216585	Studio In Paradise		21.3239528	-157.7994572	hotel				
+node	11459800446	Vive Hotel Waikiki		21.2767885	-157.8233681	hotel				https://www.vivehotelwaikiki.com/
+node	11570561583	Airport Honolulu Hotel		21.3366732	-157.9173980	hotel				https://www.theairporthonoluluhotel.com/
+node	12319166301	Aston at the Executive Centre		21.3092523	-157.8608802	hotel				
+node	13043557623	The Imperial Hawaii Resort		21.2785867	-157.8313371	hotel				https://www.imperialofwaikiki.com/
+node	13723847290	Hyatt Centric		21.2797154	-157.8271849	hotel		Hyatt Centric	Hyatt	
+way	41998479	Hilton Waikiki Beach		21.2752858	-157.8219728	hotel		Hilton		https://www.hilton.com/en/hotels/hnlwahf-hilton-waikiki-beach-resort-and-spa/
+way	49286800	Hale Koa		21.2814609	-157.8350256	hotel				
+way	49289160	Hyatt Regency Waikiki Beach Resort and Spa		21.2761645	-157.8251831	hotel		Hyatt Regency	Hyatt	https://waikiki.regency.hyatt.com/en/hotel/home.html
+way	49427773	OUTRIGGER Waikiki Beach Resort		21.2770447	-157.8275312	hotel		OUTRIGGER Resorts & Hotels		https://www.outrigger.com/hawaii/oahu/outrigger-waikiki-beach-resort
+way	49428623	Espacio		21.2752366	-157.8244583	hotel				https://www.espaciowaikiki.com/
+way	49428658	Waikiki Resort Hotel		21.2753143	-157.8236134	hotel				https://www.waikikiresort.com/
+way	49428677	Stay Hotel Waikiki		21.2763325	-157.8244530	hotel				https://stayhotelwaikiki.com/
+way	49428700	Sheraton Princess Kaiulani Hotel		21.2775585	-157.8258789	hotel		Sheraton		http://www.princess-kaiulani.com/
+way	61720479	The Ilikai Hotel		21.2843285	-157.8385465	hotel				https://clubwyndham.wyndhamdestinations.com/us/en/resorts/wyndham-hotels-resorts/united-states-of-america/hawaii/honolulu/waikiki-marina-resort-at-the-ilikai
+way	61720482	"Ka Laʻi Waikiki Beach, LXR Hotels & Resorts"		21.2794150	-157.8320774	hotel		Hilton		https://www.hilton.com/en/hotels/hnlwiol-ka-lai-waikiki-beach/
+way	62541758	Luana Waikiki Hotel & Suites		21.2836349	-157.8322689	hotel		Springboard Hospitality		https://hotelluanawaikiki.com/
+way	90966505	The Modern Honolulu		21.2844321	-157.8388068	hotel				
+way	90966530	Prince Waikiki		21.2861738	-157.8399841	hotel				
+way	126576844	Ala Moana Hotel		21.2904767	-157.8394686	hotel				https://www.alamoanahotelhonolulu.com/
+way	162195336	Hilton Hawaiian Village		21.2830181	-157.8372528	hotel		Hilton		https://www.hiltonhawaiianvillage.com/
+way	162197162	'Alohilani Resort Waikiki Beach		21.2747088	-157.8231737	hotel				https://www.alohilaniresort.com/
+way	245567920	Halepuna Waikiki by Halekulani		21.2781645	-157.8307938	hotel				
+way	245567931	Halekulani Hotel		21.2779707	-157.8319436	hotel				https://www.halekulani.com/
+way	261668928	Hyatt Place Waikiki Beach		21.2732500	-157.8213612	hotel		Hyatt Place	HYATT	https://www.hyattplacewaikikibeach.com/
+way	277781265	Ewa Hotel		21.2727183	-157.8214731	hotel				
+way	289828127	AC HOTEL BY MARRIOTT HONOLULU		21.3093868	-157.8599367	hotel		AC Hotel		https://www.marriott.com/en-us/hotels/hnlac-ac-hotel-honolulu/overview/
+way	293636206	OUTRIGGER Waikīkī Paradise Hotel		21.2778925	-157.8250542	hotel		OUTRIGGER Resorts & Hotels		https://www.outrigger.com/hawaii/oahu/outrigger-waikiki-paradise-hotel
+way	300728113	Marriott Vacation Club		21.2829557	-157.8308257	hotel		Marriott Vacation Club		https://www.marriott.com/en-us/hotels/hnlpw-marriott-vacation-club-waikiki/overview/
+way	302940604	Pagoda Hotel		21.2954591	-157.8404129	hotel				https://www.pagodahotel.com/
+way	309683997	The Equus Hotel		21.2865872	-157.8392399	hotel				https://www.equushotel.com/
+way	311238353	Kai Aloha Hotel		21.2798671	-157.8319205	hotel				
+way	311319040	Waikiki Beach Marriott Resort & Spa		21.2734781	-157.8224627	hotel		Marriott		
+way	311325028	Waikiki Grand Hotel		21.2719269	-157.8217591	hotel				https://www.waikikigrandhotel.com/
+way	311592340	Aloha Surf Hotel		21.2790457	-157.8236644	hotel				
+way	311592814	Aqua Bamboo Waikiki Hotel		21.2768331	-157.8239602	hotel		Aqua		https://www.castleresorts.com/oahu/bamboo-waikiki-hotel/
+way	317884389	Romer House Waikiki		21.2793697	-157.8250774	hotel		Romer Neighborhood		https://www.romerhotels.com/romer-house-waikiki
+way	320736536	Holiday Surf		21.2807428	-157.8250739	hotel				
+way	320738392	Ilima Hotel		21.2803572	-157.8253106	hotel				
+way	320760979	Hawaiian Ebbtide Hotel		21.2772030	-157.8243022	hotel				
+way	322168493	Coconut Waikiki Hotel		21.2826924	-157.8276228	hotel				https://coconutwaikikihotel.com/
+way	335700641	Hotel Renew		21.2727845	-157.8222219	hotel				https://www.hotelrenew.com/
+way	374639928	Kaimana Beach Hotel		21.2633651	-157.8211242	hotel		Independant		https://www.kaimana.com/
+way	374639931	Lotus		21.2628774	-157.8207665	hotel				
+way	405260952	Diamond Head Beach Hotel and Residences		21.2610212	-157.8203615	hotel				
+way	435971437	The Surfjack		21.2820191	-157.8282431	hotel				https://surfjack.com/
+way	435973802	Hotel Le Croix		21.2834014	-157.8311748	hotel				https://lacroixwaikiki.com/
+way	436002855	shoreline Hotel · Waikiki		21.2798500	-157.8278180	hotel				
+way	436080000	Ohana Waikiki Malia		21.2808566	-157.8283324	hotel				http://www.ohanahotels.com/ohana_waikiki_malia
+way	496908762	"The Ambassador Hotel of Waikiki, Tapestry Collection by Hilton"		21.2844842	-157.8313577	hotel		Tapestry Collection		https://www.hilton.com/en/hotels/wklahup-the-ambassador-hotel-of-waikiki/
+way	497168005	"The Laylow Waikiki, Autograph Collection"		21.2792386	-157.8265202	hotel		Autograph Collection	Marriott International	https://www.marriott.com/en-us/hotels/hnlak-the-laylow-waikiki-autograph-collection/overview/
+way	502084720	Aston at the Waikiki Banyan		21.2747798	-157.8210353	hotel				https://www.aquaaston.com/hotels/aston-at-the-waikiki-banyan
+way	502084727	Club Wyndham Royal Garden at Waikiki		21.2844994	-157.8301162	hotel		Club Wyndham		https://clubwyndham.wyndhamdestinations.com/us/en/resorts/wyndham-hotels-resorts/united-states-of-america/hawaii/honolulu/club-wyndham-royal-garden-at-waikiki
+way	502084732	Pacific Monarch Hotel		21.2765273	-157.8238588	hotel				https://www.pacificmonarch.com/
+way	502084736	Holiday Inn Express Waikiki		21.2839223	-157.8308394	hotel		Holiday Inn Express		
+way	1005432436	Polynesian Hostel Beach Club		21.2722045	-157.8214730	hostel				https://polynesianhostel.com/
+way	1011177718	Aloha Suites Waikiki		21.2723793	-157.8220240	hotel				https://www.alohasuiteswaikiki.com/
+way	1017089015	The Surftide Hotel		21.2774639	-157.8238834	hotel				https://hotelsurftide.com/
+way	1112081909	Waikiki Beachside Hostel		21.2728075	-157.8218705	hostel			Hokondo	https://www.waikikibeachsidehostel.com/
+way	1112082768	Wayfinder Waikiki		21.2787460	-157.8231507	hotel		Springboard Hospitality		https://www.wayfinderhotels.com/hotels/waikiki
+way	1112333698	Park Shore Waikiki		21.2719839	-157.8222832	hotel				https://www.parkshorewaikiki.com/
+way	1112333699	The Twin Fin		21.2723326	-157.8224677	hotel				https://www.twinfinwaikiki.com/
+way	1112334138	Queen Kapiolani Hotel		21.2720488	-157.8211150	hotel				https://www.queenkapiolani.com/
+way	1112346649	Aston Waikīkī Beach Tower		21.2751827	-157.8242164	hotel				https://www.aquaaston.com/hotels/aston-waikiki-beach-tower
+way	1112391166	Royal Hawaiian Hotel		21.2773458	-157.8288494	hotel				https://www.royal-hawaiian.com/
+way	1112613120	Waikiki Circle Hotel		21.2749209	-157.8242079	hotel				https://waikikicircle.com/
+way	1113125263	Tradewinds Hotel		21.2862357	-157.8387521	hotel				
+way	1113159697	The Breakers Hotel		21.2801664	-157.8315317	hotel				
+way	1115017063	Hilton Garden Inn Waikiki Beach		21.2789370	-157.8251021	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/hnlkugi-hilton-garden-inn-waikiki-beach/
+way	1115323586	Moana Surfrider		21.2764654	-157.8267015	hotel				
+way	1115388332	Sheraton Waikiki		21.2776158	-157.8305743	hotel		Sheraton		http://www.sheraton-waikiki.com/
+way	1116082378	Wyndham at Wahikiki Beach Walk		21.2790242	-157.8306922	hotel		Wyndham		
+way	1116178993	Hokulani Waikiki		21.2800619	-157.8303156	hotel				
+way	1116178994	Embassy Suites by Hilton Waikiki Beach Walk		21.2791105	-157.8315679	hotel		Embassy Suites		
+way	1116184717	The Ritz-Carlton		21.2821821	-157.8299038	hotel		The Ritz-Carlton		
+way	1222687928	The Kahala Hotel and Resort		21.2718334	-157.7735883	hotel				https://kahalaresort.com
+way	1312917543	Renaissance Honolulu Hotel & Spa		21.2939139	-157.8433106	hotel		Renaissance		https://www.marriott.com/en-us/hotels/hnlbr-renaissance-honolulu-hotel-and-spa/overview/
+way	1465139002	Royal Kuhio		21.2808375	-157.8271712	hotel				
+way	1465140617	Oasis Hotel Waikiki		21.2808940	-157.8292527	hotel				https://oasishotelwaikiki.com/
+way	1465147549	Courtyard by Marriott Waikiki Beach		21.2814154	-157.8277325	hotel		Courtyard		https://www.marriott.com/en-us/hotels/hnlow-courtyard-waikiki-beach/overview/
+way	1465156909	Doubletree Alana Waikiki Hotel		21.2859919	-157.8341789	hotel		DoubleTree		
+way	1466557143	Outrigger Reef Waikiki Beach Resort		21.2782835	-157.8327981	hotel		Outrigger Resorts & Hotels		https://www.outrigger.com/hawaii/oahu/outrigger-reef-waikiki-beach-resort
+relation	4165886	Embassy Suites by Hilton Waikiki Beach Walk		21.2791105	-157.8315679	hotel				
+relation	4166908	Halepuna Waikiki by Halekulani		21.2781645	-157.8307938	hotel				
+relation	4464510	White Sands Hotel		21.2799560	-157.8253358	hotel		Springboard Hospitality		https://www.whitesandshotel.com
+relation	4471048	Kuhio Ebbtide Hotel		21.2760710	-157.8225510	hotel				
+relation	5539320	Halekulani Hotel		21.2779707	-157.8319436	hotel				
+relation	7300052	Hale Koa Hotel		21.2814609	-157.8350256	hotel			United States Department of Defense	https://www.halekoa.com/
+relation	7302094	Hotel Le Croix		21.2834014	-157.8311748	hotel				
+relation	7302101	Ohana East Hotel		21.2778925	-157.8250542	hotel			Outrigger	https://www.outrigger.com/hotels-resorts/hawaii/oahu/ohana-waikiki-east-by-outrigger
+relation	7302131	Holiday Inn Express Waikiki		21.2839223	-157.8308394	hotel		Holiday Inn Express		https://www.ihg.com/holidayinnexpress/hotels/us/en/honolulu/hnlka/hoteldetail

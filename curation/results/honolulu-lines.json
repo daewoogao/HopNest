@@ -1,0 +1,23 @@
+[
+  {
+    "id": "lskyline",
+    "name": "Skyline",
+    "color": "#134574",
+    "code": "",
+    "stations": [
+      ["East Kapolei",21.3454,-158.0511],
+      ["University of Hawaiʻi at West Oʻahu",21.3586,-158.0512],
+      ["Ho'opili",21.3669,-158.0453],
+      ["West Loch",21.3782,-158.0227],
+      ["Waipahu Transit Center",21.3841,-158.0038],
+      ["Leeward Community College",21.3943,-157.9856],
+      ["Pearl Highlands",21.3965,-157.9795],
+      ["Pearlridge",21.3839,-157.9471],
+      ["Aloha Stadium",21.3709,-157.934],
+      ["Joint Base Pearl Harbor–Hickam",21.3521,-157.9354],
+      ["Daniel K. Inouye International Airport",21.3338,-157.921],
+      ["Lagoon Drive",21.3328,-157.9013],
+      ["Middle Street–Kalihi Transit Center",21.3327,-157.8889]
+    ]
+  }
+]

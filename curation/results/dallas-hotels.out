@@ -1,0 +1,98 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	8529954190	Hotel Crescent Court		32.7941483	-96.8041997	hotel				
+node	11656096572	TownePlace Suites		32.7774266	-96.7949212	hotel		TownePlace Suites		https://www.marriott.com/dalty
+node	11656096573	Residence Inn		32.7802640	-96.7961920	hotel		Residence Inn		https://www.marriott.com/daldz
+node	11656096574	Hilton Garden Inn		32.7819885	-96.7989915	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/dalpagi-hilton-garden-inn-downtown-dallas/
+node	11656096587	Fairfield Inn & Suites		32.8588855	-96.8949226	hotel		Fairfield Inn		https://www.marriott.com/dalfd
+node	11793931754	Hyatt House		32.7948943	-96.8101242	hotel		Hyatt House		https://www.hyatt.com/en-us/hotel/texas/hyatt-house-dallas-uptown/dfwxu
+node	13109161351	Thompson Dallas		32.7815928	-96.8003565	hotel		Thompson		https://www.hyatt.com/thompson-hotels/dfwth-thompson-dallas
+way	25487766	Hyatt Regency DFW International Airport		32.8975548	-97.0384887	hotel		Hyatt Regency		https://www.dfw.regency.hyatt.com/
+way	28015759	Aloft Dallas Downtown		32.7772112	-96.8010966	hotel		Aloft		https://www.marriott.com/en-us/hotels/daldl-aloft-dallas-downtown
+way	28015918	The Westin Dallas Downtown		32.7804467	-96.8018485	hotel		Westin		
+way	28542710	Holiday Inn		32.8064832	-96.8292050	hotel		Holiday Inn		
+way	28544607	Tru by Hilton Dallas Market Center		32.7993538	-96.8214760	hotel		Tru		
+way	28545262	Crowne Plaza		32.7809100	-96.8035457	hotel		Crowne Plaza		
+way	28780916	Statler Hotel		32.7804217	-96.7946449	hotel				https://thestatlerdallas.com/
+way	28781023	Sheraton Dallas		32.7850915	-96.7948370	hotel		Sheraton		https://www.marriott.com/en-us/hotels/daldh-sheraton-dallas-hotel/overview/
+way	28781315	W Dallas - Victory		32.7881412	-96.8090368	hotel		W Hotels	Marriott International	https://www.marriott.com/hotels/travel/dalwh-w-dallas-victory/
+way	30898509	Magnolia Hotel Dallas Downtown		32.7801597	-96.7990729	hotel				
+way	30918500	SpringHill Suites Dallas Downtown/West End		32.7827867	-96.8066349	hotel		SpringHill Suites		https://www.marriott.com/dalwe
+way	179223421	Hampton Inn & Suites Dallas Downtown		32.7801586	-96.7965908	hotel		Hampton Inn & Suites		https://www.hilton.com/en/hotels/daldxhx-hampton-suites-dallas-downtown/
+way	179235581	Hotel Indigo Dallas Downtown		32.7818986	-96.7944555	hotel		Hotel Indigo		
+way	201016816	Baymont Inn & Suites Dallas Love Field		32.8589082	-96.8864052	hotel		Baymont		https://www.wyndhamhotels.com/baymont/dallas-texas/baymont-inn-and-suites-dallas-love-field/overview
+way	201016820	Days Inn		32.8601227	-96.8884239	hotel		Days Inn		https://www.wyndhamhotels.com/days-inn/dallas-texas/days-inn-and-suites-dallas/overview
+way	201016833	SpringHill Suites Dallas NW Highway at Stemmons/I-35E		32.8596697	-96.8891519	hotel				
+way	210814721	Omni Dallas Hotel		32.7752094	-96.8043247	hotel			Omni Hotels & Resorts	https://www.omnihotels.com/hotels/dallas
+way	221380948	Warwick Melrose - Dallas		32.8088587	-96.8092987	hotel				
+way	221394521	Hotel ZaZa		32.7941290	-96.8012558	hotel				
+way	223578638	Carrara at Cole Apartments		32.8248693	-96.7883660	hotel				
+way	288540925	Graduate by Hilton Dallas		32.8410472	-96.7874923	hotel		Graduate Hotels by Hilton	Graduate	https://www.hilton.com/en/hotels/dalgdgu-graduate-dallas/
+way	311315425	Doubletree by Hilton Dallas Market Center		32.7974069	-96.8260365	hotel		DoubleTree	Hilton	https://www.hilton.com/en/hotels/dalmkdt-doubletree-dallas-market-center/
+way	325261002	Renaissance Dallas Hotel		32.8039713	-96.8321285	hotel			Marriott International	https://www.marriott.com/hotels/travel/dalbr-renaissance-dallas-hotel/
+way	332573090	Dallas Marriott Suites Medical/Market Center		32.8049070	-96.8387273	hotel				https://www.marriott.com/hotels/travel/dalmt-dallas-marriott-suites-medical-market-center/
+way	355377939	Courtyard Dallas Medical/Market Center		32.7995240	-96.8249794	hotel		Courtyard	Marriott	https://www.marriott.com/dalch
+way	355377941	Fairfield Inn & Suites Dallas Medical/Market Center		32.7990730	-96.8247387	hotel		Fairfield Inn & Suites	Marriott	https://www.marriott.com/dalmc
+way	355377942	Hilton Anatole		32.7999039	-96.8295890	hotel		Hilton		
+way	355377943	Hilton Garden Inn Dallas / Market Center		32.8019084	-96.8331900	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/dalmagi-hilton-garden-inn-dallas-market-center/
+way	355377945	Sheraton Suites Market Center		32.8004618	-96.8249642	hotel		Sheraton		
+way	361441602	Lorenzo Hotel		32.7727237	-96.7955740	hotel				
+way	439651091	Days Inn Market Center Dallas		32.7983370	-96.8243676	hotel		Days Inn		https://www.wyndhamhotels.com/days-inn/dallas-texas/days-inn-market-center-dallas-love-field/overview
+way	449458671	Grand Hyatt DFW		32.8975736	-97.0444559	hotel		Grand Hyatt		https://www.hyatt.com/en-us/hotel/texas/grand-hyatt-dfw/dfwgh
+way	450893364	Homewood Suites by Hilton Dallas Downtown		32.7810573	-96.8027924	hotel		Homewood Suites		
+way	450904414	Dallas Marriott City Center		32.7868974	-96.7957044	hotel			Marriott International	https://www.marriott.com/hotels/travel/daldt-dallas-marriott-city-center/
+way	463900066	La Quinta Inn		32.8196953	-96.7862437	hotel		La Quinta Inn		https://www.wyndhamhotels.com/laquinta/dallas-texas/la-quinta-inn-dallas-uptown/overview
+way	463900121	Best Western		32.8150702	-96.7885893	hotel		Best Western		
+way	463900133	Quality Inn & Suites Dallas-Cityplace		32.8146729	-96.7887935	hotel		Quality Inn & Suites		
+way	463968541	"The Highland Dallas, Curio Collection by Hilton"		32.8358643	-96.7779119	hotel		Curio Collection by Hilton		https://www.hilton.com/en/hotels/dalcuqq-the-highland-dallas/
+way	463996134	Element Dallas Downtown East		32.7935668	-96.7781237	hotel		Element		
+way	465032390	Ramada Dallas Love Field Airport		32.8365855	-96.8762493	hotel		Ramada		
+way	465032458	Wingate by Wyndham Dallas / Love Field		32.8298333	-96.8725901	hotel		Wingate		
+way	465032494	"Sterling Hotel Convention, Meeting and Event Center"		32.8274010	-96.8878023	hotel				
+way	465032579	Budget Suites Empire Central		32.8243089	-96.8706410	hotel				
+way	465032596	Sleep Inn Dallas Love Field-Medical District		32.8235476	-96.8761271	hotel		Sleep Inn		https://www.choicehotels.com/texas/the-colony/comfort-suites-hotels
+way	465032766	Comfort Inn & Suites Market Center		32.8174172	-96.8675665	hotel		Comfort Inn & Suites		https://www.choicehotels.com/texas/the-colony/comfort-suites-hotels
+way	465032799	Crowne Plaza Dallas Market Center		32.8165111	-96.8668599	hotel		Crowne Plaza		
+way	465032938	Residence Inn Dallas Market Center		32.8145675	-96.8651172	hotel		Residence Inn		
+way	465042554	Spark by Hilton Dallas Market Center		32.8108848	-96.8547066	hotel		Hilton		
+way	465042561	Comfort Inn & Suites Dallas Medical-Market Center		32.8099349	-96.8509575	hotel		Comfort Inn & Suites		https://www.choicehotels.com/texas/the-colony/comfort-suites-hotels
+way	465042571	Homewood Suites Dallas-Market Center		32.8090097	-96.8478237	hotel				
+way	465055894	BEST WESTERN Northwest Inn		32.8601660	-96.8848821	hotel		Best Western		https://www.bestwestern.com/en_US/book/hotels-in-dallas/best-western-northwest-inn/propertyCode.44494.html
+way	465667002	Embassy Suites by Hilton Dallas Market Center		32.8076789	-96.8449400	hotel		Embassy Suites		https://www.hilton.com/en/hotels/dalfwes-embassy-suites-dallas-market-center/
+way	466702227	Hampton Inn & Suites		32.7689150	-96.8948957	hotel		Hampton Inn & Suites		https://www.hilton.com/en/hotels/dfwchhx-hampton-suites-dallas-i30-cockrell-hill/
+way	466702245	Comfort Suites		32.7678688	-96.8947961	hotel		Comfort Suites		https://www.choicehotels.com/texas/the-colony/comfort-suites-hotels
+way	466984059	Embassy Suites		32.8608721	-96.8498242	hotel		Embassy Suites		https://www.hilton.com/en/hotels/dallfes-embassy-suites-dallas-love-field/
+way	469231289	DoubleTree by Hilton		32.8339963	-96.8361441	hotel		DoubleTree		https://www.hilton.com/en/hotels/dallodt-doubletree-dallas-love-field/
+way	471546700	"The Stoneleigh, Autograph Collection"		32.7975315	-96.8073834	hotel		Autograph Collection		https://www.marriott.com/en-us/hotels/dalkl-the-stoneleigh-autograph-collection/overview/
+way	471558979	Bailey's Uptown Inn		32.7973340	-96.8000193	hotel				
+way	471579268	The Ritz-Carlton		32.7924137	-96.8038302	hotel		The Ritz-Carlton		
+way	471658449	"HALL Arts Hotel, Dallas, Autograph Collection"		32.7893398	-96.7973308	hotel		Autograph Collection		https://hallartshotel.com
+way	471658456	Fairmont Hotel		32.7854282	-96.8014898	hotel		Fairmont		
+way	543873022	Aloft Dallas Love Field		32.8265289	-96.8478484	hotel		Aloft		https://www.marriott.com/hotels/travel/dallo-aloft-dallas-love-field/
+way	546718211	Hawthorn Suites by Wyndham Dallas Love Field Airport		32.8189344	-96.8641846	hotel				
+way	610136503	Hyatt Regency Dallas		32.7757861	-96.8092946	hotel		Hyatt Regency		https://dallas.regency.hyatt.com/en/hotel/home.html
+way	623116115	Canopy by Hilton Dallas Uptown		32.8069496	-96.7952369	hotel		Canopy		
+way	628073839	Home2 Suites by Hilton Dallas Downtown at Baylor Scott & White		32.7900023	-96.7821385	hotel		Home2 Suites		https://www.hilton.com/en/hotels/dfwmcht-home2-suites-dallas-downtown-at-baylor-scott-and-white/
+way	643496302	Homewood Suites by Hilton Irving-DFW Airport		32.9176479	-97.0167295	hotel		Homewood Suites		https://www.hilton.com/en/hotels/dalirhw-homewood-suites-irving-dfw-airport/hotel-info/
+way	674149987	Hampton Inn & Suites Dallas Market Center		32.8112465	-96.8582464	hotel		Hampton Inn & Suites		https://www.hilton.com/en/hotels/dalpphx-hampton-suites-dallas-market-center/
+way	700769390	Virgin Hotel		32.7969203	-96.8220879	hotel		Virgin		
+way	707920440	Holiday Inn Express & Suites		32.8599798	-96.8974467	hotel		Holiday Inn Express		https://www.ihg.com/holidayinnexpress/hotels/us/en/dallas/dfwnh/hoteldetail
+way	711041874	The Drey Hotel		32.8593438	-96.7634213	hotel				https://thedreyhotel.com/
+way	738278171	Holiday Inn Express & Suites		32.7640866	-96.8934434	hotel		Holiday Inn Express & Suites		https://www.ihg.com/holidayinnexpress/hotels/us/en/dallas/daloo/hoteldetail
+way	738278194	Residence Inn		32.7659627	-96.8761052	hotel		Residence Inn		https://www.marriott.com/dalwt
+way	747168307	La Quinta Inn & Suites		32.8227128	-96.8769753	hotel		La Quinta Inn & Suites		https://www.wyndhamhotels.com/laquinta/dallas-texas/la-quinta-dallas-love-field/overview
+way	754991056	The Mansion on Turtle Creek		32.8037165	-96.8071002	hotel				
+way	799173868	Hotel Swexan		32.7924029	-96.8059685	hotel				https://hotelswexan.com/
+way	914865213	Holiday Inn Express Dallas Downtown		32.7772225	-96.8070594	hotel		Holiday Inn Express		
+way	914866631	Courtyard		32.7769301	-96.8068051	hotel		Courtyard		https://www.marriott.com/dalwd
+way	923366586	The Joule Dallas		32.7804692	-96.7982004	hotel				https://www.thejouledallas.com
+way	924044167	Clarion Inn & Suites Dfw North		32.9152297	-97.0146983	hotel		Clarion		https://www.choicehotels.com/texas/irving/clarion-hotels/tx095
+way	933296175	Renaissance Saint Elm Dallas Downtown Hotel		32.7823936	-96.7956533	hotel		Renaissance		https://www.marriott.com/en-us/hotels/dalbw-renaissance-saint-elm-dallas-downtown-hotel/overview/
+way	964805583	"The Adolphus, Autograph Collection"		32.7799342	-96.8002029	hotel				
+way	1042596396	Fairfield Inn & Suites Dallas West/I-30		32.7706455	-96.8957349	hotel		Fairfield Inn & Suites		https://www.marriott.com/dalwf
+way	1043323507	TownePlace Suites Dallas DFW Airport North/Irving		32.9157073	-97.0155113	hotel		TownePlace Suites		https://www.marriott.com/en-us/hotels/dfwti-towneplace-suites-dallas-dfw-airport-north-irving/overview/
+way	1368806841			32.8097984	-96.8324884	hotel				
+way	1567011006	Home2 Suites		32.7700179	-96.8957671	hotel		Home2 Suites		https://www.hilton.com/en/hotels/dalchht-home2-suites-dallas-i-30-cockrell-hill/
+relation	5307349	BEST WESTERN Market Center		32.7981986	-96.8259005	hotel		Best Western		
+relation	6867745	Candlewood Suites Dallas Market Center Love Field		32.8228450	-96.8695525	hotel		Candlewood Suites		https://www.ihg.com/candlewood/hotels/us/en/dallas/dalsf/hoteldetail
+relation	6941685	MAA Worthington		32.7987425	-96.8004517	hotel				
+relation	14906691	The Pittman		32.7844735	-96.7873910	hotel		Kimpton Hotel & Restaurant Group		https://www.pittmanhoteldallas.com/

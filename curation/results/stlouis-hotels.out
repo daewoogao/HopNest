@@ -1,0 +1,66 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	763660467	Union Station Marriott		38.6291188	-90.2076617	hotel				
+node	2473722163	Casino Queen Hotel		38.6264273	-90.1749757	hotel				
+node	2594905076	Embassy Suites by Hilton St. Louis Downtown		38.6306447	-90.1901210	hotel		Embassy Suites		https://embassysuites3.hilton.com/en/hotels/missouri/embassy-suites-st-louis-downtown-STLWAES/index.html
+node	2621253642	Tru		38.6310321	-90.1984140	hotel		Tru		https://www.hilton.com/en/hotels/stlocru-tru-st-louis-downtown/
+node	3257505914	Airport Plaza Inn		38.7456032	-90.3937243	hotel			Airport Plaza Inn	https://www.airportplazainn.com
+node	6148785879	Western Inn		38.6417371	-90.1294658	hotel				
+node	12091051846	Home2 Suites		38.6308793	-90.1982340	hotel		Home2 Suites		https://www.hilton.com/en/hotels/stlcsht-home2-suites-st-louis-downtown/
+way	108703860	The Westin St. Louis		38.6237070	-90.1949570	hotel		Westin		https://www.marriott.com/en-us/hotels/stlwi-the-westin-st-louis/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0
+way	108704211	Hilton St. Louis at the Ballpark		38.6251466	-90.1910592	hotel		Hilton		https://www.hilton.com/en/hotels/stlbvhf-hilton-st-louis-at-the-ballpark/?SEO_id=GMB-AMER-HH-STLBVHF
+way	108704344	Drury Plaza Hotel St. Louis At The Arch		38.6247152	-90.1885757	hotel		Drury Inn & Suites		https://www.druryhotels.com/locations/st-louis-mo/drury-plaza-hotel-st-louis-at-the-arch
+way	108704347	Hyatt Regency St. Louis at the Arch		38.6261576	-90.1877074	hotel		Hyatt Regency	Hyatt	https://stlouisarch.regency.hyatt.com/en/hotel/home.html
+way	108706994	Hampton Inn at the Arch		38.6301706	-90.1865483	hotel		Hampton		https://www.hilton.com/en/hotels/stldthx-hampton-st-louis-downtown-at-the-gateway-arch/
+way	108706996	Pear Tree Inn St. Louis Convention Center		38.6312040	-90.1884131	hotel		Drury Inn & Suites		https://druryhotels.com/locations/st-louis-mo/drury-inn-and-suites-st-louis-convention-center
+way	108706997	HoteLumière at the Arch Hotel & Casino - A Caesars Rewards Destination		38.6319520	-90.1833597	hotel		Caesars Entertainment		https://www.caesars.com/horseshoe-st-louis/hotel
+way	201981607	21c Museum Hotel St Louis		38.6314638	-90.2024994	hotel				https://www.21cmuseumhotels.com/stlouis/
+way	202241669	Pear Tree Inn St. Louis Near Union Station		38.6311585	-90.2125259	hotel			Drury Hotels	https://www.druryhotels.com/propertyoverview.aspx?property=0064
+way	202269275	The Last Hotel STL		38.6328540	-90.2005346	hotel		Independent		https://thelasthotelstl.com
+way	202288173	Courtyard St. Louis Downtown/Convention Center		38.6311566	-90.1924243	hotel		Courtyard	Marriott Hotels	https://www.marriott.com/hotels/travel/stldt-renaissance-st-louis-grand-hotel/
+way	202319241	Marriott St. Louis Grand		38.6305109	-90.1922604	hotel		Marriott	Marriott Hotels	https://www.marriott.com/hotels/travel/stldt-renaissance-st-louis-grand-hotel/
+way	202419442	Hotel Ignacio		38.6368875	-90.2285556	hotel				https://www.hotelignaciostl.com/
+way	202425812	"Angad Arts Hotel St. Louis, Tapestry Collection by Hilton"		38.6395289	-90.2307675	hotel				https://www.hilton.com/en/hotels/stlaaup-angad-arts-hotel-st-louis/
+way	237758117	Comfort Inn & Suites		38.6153188	-90.2223845	hotel		Comfort Inn & Suites		https://www.choicehotels.com/missouri/saint-louis/comfort-inn-hotels/mo575?mc=llgoxxpx
+way	238204109	Courtyard St Louis Downtown West		38.6297428	-90.2145395	hotel		Courtyard		https://www.marriott.com/stlch
+way	238246519	Drury Inn St. Louis At Union Station		38.6279409	-90.2101663	hotel		Drury Inn & Suites		https://www.druryhotels.com/locations/st-louis-mo/drury-inn-st-louis-at-union-station
+way	238330587	Residence Inn by Marriott St. Louis Downtown		38.6267361	-90.2188646	hotel		Residence Inn		https://www.marriott.com/en-us/hotels/stlrd-residence-inn-st-louis-downtown/overview/
+way	238681429	Moonrise Hotel		38.6557046	-90.2986606	hotel				https://moonrisehotel.com/
+way	239595700	CQ Hotel		38.6264198	-90.1749763	hotel				https://casino-queen.best-hotels-saint-louis.com/en/
+way	241183537	Hotel Saint Louis		38.6286465	-90.1915121	hotel		Autograph Collection		https://www.marriott.com/en-us/hotels/stlak-hotel-saint-louis-autograph-collection/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0
+way	241320694	Radisson		38.6330768	-90.1926061	hotel		Radisson		
+way	253307144	Le Méridien St. Louis Downtown		38.6287583	-90.1956061	hotel		Le Méridien	Marriott International	https://www.marriott.com/en-us/hotels/stlmo-le-meridien-st-louis-downtown/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0
+way	253482351	Hotel Indigo St. Louis - Downtown		38.6280067	-90.1892873	hotel		Hotel Indigo		https://www.ihg.com/hotelindigo/hotels/us/en/st-louis/stlid/hoteldetail?cm_mmc=GoogleMaps-_-IN-_-US-_-STLID
+way	261828121	Extended Stay America		38.7430276	-90.3992423	hotel		Extended Stay America		
+way	261828125	Embassy Suites by Hilton St. Louis Airport		38.7416930	-90.3994589	hotel		Embassy Suites		https://embassysuites3.hilton.com/en/hotels/missouri/embassy-suites-by-hilton-st-louis-airport-STLESES/index.html
+way	261828132	Crowne Plaza St. Louis Airport		38.7411681	-90.3976206	hotel		Crowne Plaza		
+way	271242861	Days Inn by Wyndham Downtown St. Louis		38.6534312	-90.1918273	hotel		Days Inn		https://www.wyndhamhotels.com/days-inn/saint-louis-missouri/days-inn-downtown-st-louis/overview
+way	290168874	Red Roof Inn		38.6179774	-90.2851078	hotel		Red Roof Inn		
+way	312637391	DoubleTree by Hilton		38.6385429	-90.2617753	hotel		DoubleTree		https://www.hilton.com/en/hotels/stlpkdt-doubletree-st-louis-forest-park/
+way	313316299	Magnolia Hotel St. Louis		38.6300339	-90.1921540	hotel				https://www.marriott.com/en-us/hotels/stltr-magnolia-hotel-st-louis-a-tribute-portfolio-hotel/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0
+way	323785199	DoubleTree by Hilton St. Louis Airport		38.7333321	-90.3579685	hotel		DoubleTree		https://www.hilton.com/en/hotels/stlwrdt-doubletree-st-louis-airport/
+way	323785202	Quality Inn Airport		38.7350229	-90.3575454	hotel		Quality Inn		
+way	323785204	Hilton St. Louis Airport		38.7358596	-90.3597104	hotel		Hilton		
+way	323785218	Holiday Inn Express & Suites St Louis Airport		38.7326774	-90.3524129	hotel		Holiday Inn Express & Suites		https://www.ihg.com/holidayinnexpress/hotels/us/en/st-louis/stllf/hoteldetail
+way	327280751	Hilton Pennywell St. Louis at the Arch		38.6273132	-90.1883350	hotel		Hilton	Hilton	https://thepennywellhotel.com/
+way	385140826	Hampton Inn & Suites St. Louis at Forest Park		38.6298954	-90.2811770	hotel		Hampton Inn & Suites		https://www.hilton.com/en/hotels/stlhlhx-hampton-suites-st-louis-at-forest-park/
+way	477987752	The Royal Sonesta Chase Park Plaza St. Louis		38.6442011	-90.2636745	hotel				https://www.sonesta.com/royal-sonesta/mo/st-louis/chase-park-plaza-royal-sonesta-st-louis
+way	482917416	Four Seasons Hotel St. Louis		38.6338762	-90.1848612	hotel		Four Seasons		https://www.fourseasons.com/stlouis/
+way	526334314	Lemp Mansion		38.5931727	-90.2157707	hotel				
+way	611325138	Drury Inn		38.6174326	-90.2887719	hotel				
+way	617103716	Hotel Indigo St. Louis - Central West End		38.6426207	-90.2610489	hotel		Hotel Indigo		https://www.ihg.com/hotelindigo/hotels/us/en/st-louis/stlln/hoteldetail
+way	637596440	Renaissance St. Louis Airport Hotel		38.7318475	-90.3462593	hotel		Renaissance		https://www.marriott.com/en-us/hotels/stlsa-renaissance-st-louis-airport-hotel/overview/
+way	656386044	Fairmont City Fire Department		38.6455071	-90.1079950	hotel		Fairmont		
+way	696569453	Holiday Inn		38.6180165	-90.2860963	hotel		Holiday Inn		
+way	724129221	Home2 Suites by Hilton St. Louis/Forest Park		38.6312070	-90.2603064	hotel		Home2 Suites		https://www.hilton.com/en/hotels/stlfpht-home2-suites-st-louis-forest-park/
+way	743116498	Live! By Loews		38.6241766	-90.1935417	hotel		Loews Hotels		https://www.loewshotels.com/live-by-loews-st-louis-missouri
+way	842907217	Element St. Louis Midtown		38.6346018	-90.2396300	hotel		Element		https://www.marriott.com/en-us/hotels/stlel-element-st-louis-midtown/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0
+way	848245063	AC Hotel St. Louis Central West End		38.6442842	-90.2627045	hotel		AC Hotel		https://www.marriott.com/en-us/hotels/stlaw-ac-hotel-st-louis-central-west-end/
+way	868024692	Aloft by Mariott		38.6361064	-90.2512664	hotel		Aloft		
+way	912968520	Fairfield Inn & Suites St. Louis Downtown		38.6298359	-90.2122620	hotel		Fairfield Inn & Suites		https://www.marriott.com/en-us/hotels/stlfd-fairfield-inn-and-suites-st-louis-downtown/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0
+way	940342380	Pear Tree Inn St. Louis Airport		38.7382549	-90.3708333	hotel				
+way	940390404	Carousel Motel		38.6779250	-90.2500424	hotel				
+way	941372096	Hampton Inn St. Louis-Airport		38.7385275	-90.3715116	hotel		Hampton		https://www.hilton.com/en/hotels/stlaphx-hampton-st-louis-airport/
+way	941372589	Hyatt Select St. Louis Airport		38.7342375	-90.3562173	hotel				
+way	941395589	Sleep Inn St Louis - Airport		38.7412208	-90.3989220	hotel		Sleep Inn		
+way	941396254	Drury Inn & Suites St. Louis Airport		38.7377200	-90.3637284	hotel		Drury Inn & Suites		
+relation	7887744	St Louis Airport Marriott		38.7375367	-90.3687144	hotel			Marriott International	https://www.marriott.com/hotels/travel/stlap-marriott-st-louis-airport/

@@ -1,0 +1,8 @@
+8 lines, 200 stations
+  check: MAX Blue Line: no colour tag in OSM, set the official color by hand
+  check: MAX Red Line: no colour tag in OSM, set the official color by hand
+  check: MAX Green Line: no colour tag in OSM, set the official color by hand
+  check: MAX Yellow Line: no colour tag in OSM, set the official color by hand
+  check: MAX Orange Line: no colour tag in OSM, set the official color by hand
+  check: MAX Green Line: Union Station => PSU South/Southwest 5th & Jackson: fewer than 2 named stops (under construction?), skipped; OSM relation r21019400
+  check: MAX Blue Line: Gateway => Ruby Junction: fewer than 2 named stops (under construction?), skipped; OSM relation r21019402

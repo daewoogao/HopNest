@@ -1,0 +1,4 @@
+12 lines, 151 stations
+  check: California Zephyr: no colour tag in OSM, set the official color by hand
+  check: Denver Rock Island Railway: fewer than 2 named stops (under construction?), skipped; OSM relation r8633573
+  check: Amtrak Winter Park Express: no colour tag in OSM, set the official color by hand

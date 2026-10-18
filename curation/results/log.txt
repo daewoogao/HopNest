@@ -383,3 +383,55 @@
 05:01:50 philadelphia lines ok
 05:03:08 sandiego lines ok
 05:03:59 seattle lines ok
+05:38:25 baltimore-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 160 bytes
+05:39:11 baltimore-hotels try 1 https://overpass-api.de/api/interpreter -> 200 9298 bytes
+05:39:12 baltimore-osmall try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 160 bytes
+05:39:22 baltimore-osmall try 1 https://overpass-api.de/api/interpreter -> 200 8420 bytes
+05:40:09 charlotte-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 695 bytes
+05:40:43 charlotte-hotels try 1 https://overpass-api.de/api/interpreter -> 200 11096 bytes
+05:40:44 charlotte-osmall try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 160 bytes
+05:41:23 charlotte-osmall try 1 https://overpass-api.de/api/interpreter -> 200 8491 bytes
+05:41:39 dallas-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 12341 bytes
+05:41:40 dallas-osmall try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 160 bytes
+05:41:53 dallas-osmall try 1 https://overpass-api.de/api/interpreter -> 200 30128 bytes
+05:42:49 denver-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 695 bytes
+05:43:20 denver-hotels try 1 https://overpass-api.de/api/interpreter -> 200 11575 bytes
+05:43:32 denver-osmall try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 18908 bytes
+05:44:19 honolulu-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 695 bytes
+05:45:10 honolulu-hotels try 1 https://overpass-api.de/api/interpreter -> 200 11049 bytes
+05:45:11 honolulu-osmall try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 160 bytes
+05:45:48 honolulu-osmall try 1 https://overpass-api.de/api/interpreter -> 200 5652 bytes
+05:46:33 houston-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 695 bytes
+05:46:46 houston-hotels try 1 https://overpass-api.de/api/interpreter -> 200 12858 bytes
+05:46:56 houston-osmall try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 6398 bytes
+05:46:57 minneapolis-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 160 bytes
+05:47:31 minneapolis-hotels try 1 https://overpass-api.de/api/interpreter -> 200 10952 bytes
+05:47:48 minneapolis-osmall try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 7581 bytes
+05:47:49 phoenix-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 160 bytes
+05:47:58 phoenix-hotels try 1 https://overpass-api.de/api/interpreter -> 200 21242 bytes
+05:47:59 phoenix-osmall try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 160 bytes
+05:48:13 phoenix-osmall try 1 https://overpass-api.de/api/interpreter -> 200 15217 bytes
+05:48:14 pittsburgh-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 160 bytes
+05:48:50 pittsburgh-hotels try 1 https://overpass-api.de/api/interpreter -> 200 9568 bytes
+05:49:01 pittsburgh-osmall try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 3603 bytes
+05:49:21 portland-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 9386 bytes
+05:49:39 portland-osmall try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 9265 bytes
+05:49:56 saltlakecity-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 10394 bytes
+05:49:58 saltlakecity-osmall try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 160 bytes
+05:50:25 saltlakecity-osmall try 1 https://overpass-api.de/api/interpreter -> 200 8818 bytes
+05:51:13 stlouis-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 695 bytes
+05:51:35 stlouis-hotels try 1 https://overpass-api.de/api/interpreter -> 200 9332 bytes
+05:51:37 stlouis-osmall try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 160 bytes
+05:51:45 stlouis-osmall try 1 https://overpass-api.de/api/interpreter -> 200 10349 bytes
+05:52:06 baltimore lines ok
+05:52:31 charlotte lines ok
+05:55:09 dallas lines FAILED
+05:55:22 denver lines ok
+05:55:55 honolulu lines ok
+05:56:17 houston lines ok
+05:56:38 minneapolis lines ok
+05:56:53 phoenix lines ok
+05:57:12 pittsburgh lines ok
+05:57:29 portland lines ok
+05:57:52 saltlakecity lines ok
+05:58:15 stlouis lines ok

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "l901",
+    "name": "Blue Line (Hiawatha)",
+    "color": "#0000FF",
+    "code": "901",
+    "stations": [
+      ["Target Field",44.9833,-93.278],
+      ["Warehouse District/Hennepin Avenue",44.9798,-93.2728],
+      ["Nicollet Mall",44.9783,-93.2695],
+      ["Government Plaza",44.9766,-93.2654],
+      ["U.S. Bank Stadium",44.9751,-93.2593],
+      ["Cedar-Riverside",44.968,-93.2508],
+      ["Franklin Avenue",44.9623,-93.2469],
+      ["Lake Street/Midtown",44.9479,-93.2387],
+      ["38th Street",44.9344,-93.2293],
+      ["46th Street",44.9205,-93.2197],
+      ["50th Street/Minnehaha Park",44.912,-93.2097],
+      ["VA Medical Center",44.9026,-93.2023],
+      ["Fort Snelling",44.8929,-93.1983],
+      ["Terminal 1",44.8805,-93.2057],
+      ["Terminal 2",44.8738,-93.2239],
+      ["American Boulevard",44.8577,-93.2232],
+      ["Bloomington Central",44.8564,-93.2269],
+      ["30th Avenue",44.8556,-93.2321],
+      ["Mall of America",44.8544,-93.2387]
+    ]
+  },
+  {
+    "id": "l902",
+    "name": "Green Line",
+    "color": "#008144",
+    "code": "902",
+    "stations": [
+      ["Union Depot",44.948,-93.0872],
+      ["Central Station",44.9463,-93.0928],
+      ["10th Street",44.9509,-93.0978],
+      ["Robert Street",44.9543,-93.0978],
+      ["Capitol/Rice Street",44.9557,-93.1057],
+      ["Western Avenue",44.9558,-93.1175],
+      ["Dale Street",44.9557,-93.1277],
+      ["Victoria Street",44.9558,-93.1379],
+      ["Lexington Parkway",44.9558,-93.148],
+      ["Hamline Avenue",44.9557,-93.1583],
+      ["Snelling Avenue",44.9557,-93.1684],
+      ["Fairview Avenue",44.9566,-93.1792],
+      ["Raymond Avenue",44.9633,-93.1959],
+      ["Westgate",44.968,-93.2077],
+      ["Prospect Park",44.9721,-93.2152],
+      ["Stadium Village",44.9745,-93.2231],
+      ["East Bank",44.9737,-93.2316],
+      ["West Bank",44.9719,-93.2467],
+      ["US Bank Stadium",44.9749,-93.2603],
+      ["Government Plaza",44.977,-93.2663],
+      ["Nicollet Mall",44.9788,-93.2703],
+      ["Warehouse District/Hennepin Avenue",44.9803,-93.2734],
+      ["Target Field",44.983,-93.2775]
+    ]
+  }
+]

@@ -1,0 +1,171 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	1925599742	The Canyon Suites		33.5066462	-111.9526938	hotel				
+node	2470073524	Hotel San Carlos		33.4505291	-112.0742055	hotel				
+node	2470073528	Hyatt Regency Phoenix		33.4498525	-112.0718447	hotel		Hyatt Regency	Hyatt	https://phoenix.hyatt.com/en/hotel/home.html
+node	2520167198	Hyatt House Scottsdale/Old Town		33.4979097	-111.9218520	hotel		Hyatt House		https://scottsdale.house.hyatt.com/en/hotel/home.html
+node	2621450221	Omni Scottsdale Resort & Spa at Montelucia		33.5294115	-111.9723509	hotel			Omni Hotels & Resorts	https://www.omnihotels.com/hotels/scottsdale-montelucia
+node	4095017712	Hilton Garden Inn Phoenix Midtown		33.4925805	-112.0751920	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/phxmdgi-hilton-garden-inn-phoenix-midtown/
+node	4095017713	Budget Suites of America		33.4934188	-112.0819874	hotel				
+node	4095017715	Hermosa Inn		33.5184138	-112.0047242	hotel				https://www.hermosainn.com/
+node	4095017716	Sonesta Select Phoenix Camelback		33.5075420	-112.0362098	hotel		Sonesta Select		https://www.sonesta.com/us/arizona/phoenix/sonesta-select-phoenix-camelback
+node	4095229666	DoubleTree Suites by Hilton Hotel Phoenix		33.4517660	-111.9880250	hotel		DoubleTree		https://www.hilton.com/en/hotels/phxfvdt-doubletree-suites-phoenix/
+node	4095260989	Tempe Mission Palms		33.4265015	-111.9385290	hotel				
+node	4095415197	SmokeTree Resort & Bungalows		33.5307268	-111.9291412	hotel				
+node	4095415201	W Scottsdale		33.5015964	-111.9239950	hotel		W Hotels		
+node	4095415203	Aloft Scottsdale		33.5008181	-111.9210660	hotel		Aloft		https://www.marriott.com/en-us/hotels/phxsd-aloft-scottsdale/overview/
+node	4095415207	Hotel Valley Ho		33.4933295	-111.9340437	hotel				
+node	4095415210	Holiday Inn Express Hotel and Suites Scottsdale - Old Town		33.4846394	-111.9251590	hotel		Holiday Inn Express		https://www.ihg.com/holidayinnexpress/hotels/us/en/scottsdale/phxsr/hoteldetail
+node	5613756082	Grand Canyon University Hotel		33.5112693	-112.1138806	hotel				
+node	6184584185	Lamp lighter		33.4511310	-112.1021285	hotel				
+node	6866389060	Mountain Shadows Resort Scottsdale		33.5303775	-111.9637791	hotel		Preferred Hotels & Resorts	Preferred Hotel & Resorts	https://www.mountainshadows.com/
+node	8547162742	Hyatt House Tempe / Phoenix / University		33.4237110	-111.9300190	hotel		Hyatt House		https://www.hyatt.com/en-us/hotel/arizona/hyatt-place-tempe-phoenix-university/phxzt
+node	8547162743	Hyatt Place Tempe / Phoenix / University		33.4232635	-111.9296529	hotel		Hyatt Place		https://www.hyatt.com/en-us/hotel/arizona/hyatt-place-tempe-phoenix-university/phxzt
+node	10930244421	Royal Palms Resort and Spa		33.5047743	-111.9685366	hotel				https://royalpalmshotel.com/
+node	11535203957	Extend-a-Suites		33.4252371	-112.0292743	hotel				
+node	11876198706	Holiday Inn Express		33.4525806	-112.0859822	hotel		Holiday Inn Express		https://www.ihg.com/holidayinnexpress/hotels/us/en/phoenix/phxup/hoteldetail
+node	11876198707	Courtyard		33.4464400	-112.0740727	hotel		Courtyard		https://www.marriott.com/phxxt
+node	12616273259	Red Roof Inn Phoenix - Midtown		33.4961910	-112.1150486	hotel		Red Roof Inn		https://www.redroof.com/property/az/phoenix/rri1167
+node	13692301965	Westin Phoenix Downtown		33.4517050	-112.0731772	hotel		Westin	Westin Hotels and Resorts	http://www.westinphoenixdowntown.com/
+way	28822616	Graduate by Hilton Tempe		33.4142890	-111.9362286	hotel		Graduate	Graduate	https://www.hilton.com/en/hotels/phxgpgu-graduate-tempe/
+way	35881945	Marriott Phoenix Resort Tempe at The Buttes		33.4035098	-111.9707590	hotel		Marriott		
+way	37057858	Downtown Phoenix Hotel		33.4517095	-112.0798272	hotel		Best Western		
+way	37057917	Sheraton Grand Phoenix		33.4522204	-112.0706128	hotel		Sheraton	Sheraton	http://www.sheratonphoenixdowntown.com/
+way	37057927	Renaissance Phoenix Downtown Hotel		33.4496122	-112.0731960	hotel		Renaissance		https://www.marriott.com/hotels/travel/phxbd-renaissance-phoenix-downtown-hotel/
+way	37057973	New Windsor Hotel		33.4496021	-112.0812456	hotel				
+way	66585003	Embassy Suites by Hilton Hotel Phoenix Biltmore		33.5111740	-112.0246134	hotel		Embassy Suites		https://www.hilton.com/en/hotels/phxcbes-embassy-suites-phoenix-biltmore/
+way	66585508	Hampton Inn Phoenix-Biltmore		33.5061303	-112.0320661	hotel		Hampton		https://www.hilton.com/en/hotels/phxehhx-hampton-phoenix-biltmore/
+way	67392756	GreenTree Inn & Suites		33.4084139	-111.9789825	hotel		GreenTree Inns		https://www.greentreeinn.com/hotels/az/phoenix
+way	73105219	Red Roof Plus+ Phoenix West		33.4643958	-112.1716170	hotel		Red Roof Inn		https://www.redroof.com/property/az/phoenix/rri261
+way	73105231	GreenTree Hotel Phoenix West		33.4644494	-112.1702979	hotel		GreenTree Inns		https://www.greentreeinn.com/hotels/az/phoenix-west
+way	73105251	Budget Inn		33.4652650	-112.1738038	hotel				
+way	73105260	Hotel Rising - Phoenix		33.4654322	-112.1731166	hotel				https://american-inn-phoenix.booked.net/
+way	73105265			33.4649303	-112.1731071	hotel				
+way	90943731	Baymont Phoenix I-10		33.4620782	-112.1732728	hotel		Baymont		http://www.super8.com/Super8/control/Booking/property_info?propertyId=10590
+way	109740062	Best Western Downtown Phoenix		33.4550512	-112.0668297	hotel		Best Western		https://www.bestwestern.com/en_US/book/hotels-in-phoenix/best-western-downtown-phoenix/propertyCode.03176.html
+way	109835115	Hotel Palomar Phoenix - a Kimpton Hotel		33.4474742	-112.0732117	hotel				
+way	115028034	SpringHill Suites Phoenix Downtown		33.4517739	-112.0627812	hotel		SpringHill Suites	Marriott	https://www.marriott.com/phxdt
+way	116513488	Hilton Garden Inn Phoenix Downtown		33.4500721	-112.0734728	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/phxdogi-hilton-garden-inn-phoenix-downtown/
+way	125118985	Embassy Suites		33.4807082	-112.0722498	hotel		Embassy Suites		https://www.hilton.com/en/hotels/phxeses-embassy-suites-phoenix-downtown-north/
+way	127533364	Holiday Inn Phoenix-Midtown		33.4996810	-112.0734797	hotel		Holiday Inn		
+way	144114812	FOUND:RE Phoenix Hotel		33.4603636	-112.0743134	hotel				
+way	144358754	Fairfield Inn & Suites Phoenix Midtown		33.4760086	-112.0744709	hotel		Fairfield Inn		https://www.marriott.com/phxas
+way	150740383	Hampton Inn Phoenix-Midtown-Downtown Area		33.4824336	-112.0774138	hotel		Hampton		https://www.hilton.com/en/hotels/phxuthx-hampton-phoenix-midtown-downtown-area/
+way	153106921	Wyndham Garden Phoenix Midtown		33.4884898	-112.0768466	hotel		Wyndham Garden		
+way	153106923	Extended Stay America - Phoenix - Midtown		33.4867953	-112.0770946	hotel		Extended Stay America		
+way	153106940			33.4890771	-112.0768576	hotel				
+way	156290528	The Saguaro		33.4935508	-111.9227775	hotel				
+way	156290538	The Saguaro		33.4943386	-111.9228559	hotel				
+way	156343336			33.4823239	-112.0379392	hotel				
+way	157628489	Sonesta Select Tempe Downtown		33.4249157	-111.9429260	hotel		Sonesta Select		https://www.sonesta.com/sonesta-select/az/tempe/sonesta-select-tempe-downtown/
+way	179736421	Aloft Phoenix-Airport		33.4485877	-111.9859490	hotel		Aloft		
+way	182106067	The Phoenician Resort		33.5074445	-111.9494593	hotel				https://www.thephoenician.com/
+way	209130146	Renaissance Phoenix Downtown Hotel		33.4495667	-112.0732182	hotel		Renaissance		https://www.marriott.com/en-us/hotels/phxbd-renaissance-phoenix-downtown-hotel/overview/
+way	215613613	Holiday Inn Express & Suites Phoenix Airport		33.4159427	-112.0072870	hotel		Holiday Inn Express & Suites		
+way	215613631	Hilton Garden Inn Hotel Phoenix Airport		33.4152100	-112.0075431	hotel		Hilton Garden Inn		
+way	216419291	Drury Inn & Suites Phoenix Airport		33.4132731	-112.0090406	hotel		Drury Inn & Suites		
+way	216419304	Extended Stay America - Phoenix - Airport		33.4135286	-112.0080055	hotel		Extended Stay America		
+way	218827099	Phoenix Bridge		33.4238299	-111.9791053	hotel				https://www.choicehotels.com/arizona/youngtown/quality-inn-hotels
+way	218827100	Country Inn & Suites		33.4224585	-111.9806959	hotel		Country Inn & Suites		https://www.radissonhotels.com/en-us/hotels/country-inn-phoenix-airport-az
+way	220185277	Homewood Suites by Hilton Phoenix Airport South		33.4040982	-111.9798388	hotel		Homewood Suites		
+way	220910326	Holiday Inn Hotel & Suites Phoenix Airport		33.4183430	-111.9793670	hotel		Holiday Inn		
+way	223911128	Sanctuary Camelback Mountain		33.5226671	-111.9594623	hotel				
+way	250865564	Hilton Scottsdale Resort & Villas		33.5307778	-111.9243483	hotel		Hilton		
+way	250874920	"Hotel Adeline, Scottsdale, a Tribute Portfolio Hotel"		33.5108017	-111.9254906	hotel		Tribute Portfolio		https://www.marriott.com/en-us/hotels/phxtx-hotel-adeline-scottsdale-a-tribute-portfolio-hotel/overview/
+way	250874930	Embassy Suites by Hilton Scottsdale Resort		33.5100761	-111.9249359	hotel		Embassy Suites	Crescent Hotels & Resorts	https://embassysuites3.hilton.com/en/hotels/arizona/embassy-suites-by-hilton-scottsdale-resort-SCTESES/index.html
+way	257009002	Hotel Tempest - Trademark Collection by Wyndham		33.4215517	-111.9160260	hotel		Wyndham		https://www.wyndhamhotels.com/trademark/tempe-arizona/hotel-tempest-trademark-collection/overview
+way	289126951	Holiday Inn & Suites Phoenix Airport North by IHG		33.4646705	-111.9862693	hotel		Holiday Inn		https://www.ihg.com/holidayinn/hotels/us/en/phoenix/phxff/hoteldetail
+way	300613098	Aloft Tempe		33.4346790	-111.9243710	hotel		Aloft		
+way	305076225	Crowne Plaza Phoenix Airport		33.4488305	-111.9884795	hotel		Crowne Plaza		https://www.crowneplazaphx.com/
+way	313285516	J.W. Marriot Camelback Inn Resort and Spa		33.5352466	-111.9638172	hotel				https://www.marriott.com/hotels/travel/phxcb-jw-marriott-scottsdale-camelback-inn-resort-and-spa/
+way	332624822	Extended Stay America - Scottsdale - Old Town		33.4890014	-111.9289225	hotel		Extended Stay America	ESA Management LLC	
+way	388603980	Extended Stay America - Phoenix - Biltmore		33.5133711	-112.0468199	hotel		Extended Stay America		
+way	393206218	Marriott Phoenix Airport		33.4602679	-111.9856039	hotel		Marriott		https://www.marriott.com/hotels/travel/phxap-marriott-phoenix-airport/
+way	448374161	Residence Inn Phoenix Downtown		33.4463853	-112.0741067	hotel		Residence Inn	Marriot	https://www.marriott.com/hotels/travel/phxtw-residence-inn-phoenix-downtown/
+way	463343656	Scottsdale Parkview Resort		33.4646080	-111.9142330	hotel				https://www.scottsdaleparkview.com/
+way	516013156	Comfort Inn & Suites Tempe Phoenix Sky Harbor Airport		33.4380346	-111.9268557	hotel		Comfort Inn & Suites		https://www.choicehotels.com/arizona/youngtown/quality-inn-hotels
+way	544817171	Residence Inn Tempe Downtown		33.4250033	-111.9373019	hotel		Residence Inn		https://www.marriott.com/phxtd
+way	546214041	Courtyard Scottsdale Old Town		33.4860511	-111.9254878	hotel		Courtyard		https://www.marriott.com/phxsc
+way	554797665			33.4934462	-111.9335947	hotel				
+way	554804645	The Scott Resort & Spa		33.5086818	-111.9249336	hotel				https://thescottresort.com
+way	555008949	Hotel Valley Ho		33.4936687	-111.9335880	hotel				
+way	591220558	Radisson		33.4532659	-111.9862819	hotel		Radisson		https://www.radissonhotels.com/en-us/hotels/radisson-phoenix-airport
+way	591451171	Moxy Phoenix Tempe		33.4134231	-111.9257052	hotel		Moxy		
+way	593454798	Travelers Inn Phoenix		33.4613143	-112.1702801	hotel				
+way	628936852	AC Hotel		33.4309787	-111.9372962	hotel		AC Hotel		
+way	649739037	Hilton Garden Inn Phoenix Airport North		33.4516025	-111.9974803	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/phxangi-hilton-garden-inn-phoenix-airport-north
+way	659089587	Ramada Phoenix Midtown		33.4879678	-112.0768228	hotel		Ramada		
+way	699349449	The Camby		33.5087136	-112.0293535	hotel				
+way	723696945	Home2 Suites by Hilton Phoenix Airport South		33.4063564	-111.9796460	hotel		Home2 Suites	Hilton	https://www.hilton.com/en/hotels/phxsaht-home2-suites-phoenix-airport-south/
+way	767811652	Vacation Inn Phoenix		33.4815761	-112.1116833	hotel				
+way	774894870	SpringHill Suites Phoenix/Tempe Airport		33.4287710	-111.9640705	hotel		SpringHill Suites		https://www.marriott.com/phxsl
+way	774894874	Hyatt Place Tempe/Phoenix Airport		33.4287475	-111.9628250	hotel		Hyatt Place		https://www.hyatt.com/en-us/hotel/arizona/hyatt-place-tempe-phoenix-airport/phxza
+way	774895664	La Quinta Inn Phoenix Sky Harbor Airport		33.4202105	-111.9766583	hotel		La Quinta Inn		https://www.wyndhamhotels.com/laquinta/tempe-arizona/la-quinta-inn-phoenix-sky-harbor-airport/overview
+way	774896819	Extended Stay America - Phoenix - Airport - Tempe		33.4118411	-111.9724394	hotel		Extended Stay America		
+way	774896820	Red Roof Inn Tempe - Phoenix Airport		33.4114655	-111.9715225	hotel		Red Roof Inn		
+way	774896840	Comfort Suites Phoenix Airport		33.4102289	-111.9690058	hotel		Comfort Suites		https://www.choicehotels.com/arizona/youngtown/quality-inn-hotels
+way	829251096	Canopy by Hilton Scottsdale Old Town		33.4924783	-111.9277014	hotel		Canopy		
+way	829252114	Home2 Suites by Hilton Phoenix Airport North		33.4572007	-111.9881389	hotel		Home2 Suites		https://www.hilton.com/en/hotels/phxaiht-home2-suites-phoenix-airport-north/
+way	829252115	Holiday Inn Express & Suites Phoenix - Airport North		33.4565021	-111.9881506	hotel		Holiday Inn Express & Suites		
+way	869754525	Extended Stay America Select Suites - Phoenix - West		33.4633943	-112.1535684	hotel		Extended Stay America		
+way	879824830	Caesar's Republic Scottsdale		33.5053809	-111.9290674	hotel		Caesars Entertainment		https://caesarsrepublicscottsdale.com/
+way	888727817	La Quinta Inn Phoenix Thomas Road		33.4794700	-112.1120269	hotel		La Quinta Inn		https://www.wyndhamhotels.com/laquinta/phoenix-arizona/la-quinta-inn-phoenix-thomas-road/overview
+way	901730432	InTown Suites Extended Stay Phoenix AZ - West		33.4644775	-112.1675761	hotel				
+way	920577271	Hyatt Place Scottsdale/Old Town		33.4974854	-111.9234479	hotel		Hyatt Place		https://scottsdaleoldtown.place.hyatt.com/en/hotel/home.html
+way	920579933	Hyatt Place Phoenix / Downtown		33.4496141	-112.0760469	hotel		Hyatt Place		https://www.hyatt.com/hyatt-place/en-us/phxzd-hyatt-place-phoenix-downtown
+way	921096611	"Arizona Biltmore, LXR Hotels & Resorts"		33.5236226	-112.0231241	hotel		LXR Hotels & Resorts		https://www.hilton.com/en/hotels/phxbmol-arizona-biltmore/
+way	921107404	Hilton Garden Inn Scottsdale Old Town		33.4954572	-111.9231822	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/sctgigi-hilton-garden-inn-scottsdale-old-town/
+way	921111760	Homewood Suites by Hilton Phoenix-Biltmore		33.5051432	-112.0380028	hotel		Homewood Suites		
+way	921113436	Embassy Suites by Hilton Phoenix Airport		33.4796573	-112.0315107	hotel		Embassy Suites		https://www.hilton.com/en/hotels/phxthes-embassy-suites-phoenix-airport/
+way	921114786	Hampton Inn & Suites Phoenix Tempe		33.4448134	-111.9257350	hotel		Hampton Inn & Suites		https://www.hilton.com/en/hotels/phxsuhx-hampton-suites-phoenix-tempe/
+way	921523545	Residence Inn Phoenix Airport		33.4565573	-111.9865578	hotel		Residence Inn		https://www.marriott.com/hotels/travel/phxra-residence-inn-phoenix-airport/
+way	926901141	Element Scottsdale at SkySong		33.4625303	-111.9257909	hotel		Element		
+way	930841791	University Inn		33.4202568	-111.9403580	hotel				
+way	932218336	Courtyard Phoenix Airport		33.4234145	-111.9805502	hotel		Courtyard		https://www.marriott.com/hotels/travel/phxca-courtyard-phoenix-airport/
+way	932218337	Hampton Inn & Suites Tempe - Phoenix Airport		33.4120615	-111.9700433	hotel		Hampton Inn & Suites		https://www.hilton.com/en/hotels/phxtahx-hampton-suites-tempe-phoenix-airport/
+way	932218343	Fairfield Inn & Suites Phoenix Tempe/Airport		33.4041436	-111.9614609	hotel		Fairfield Inn & Suites		https://www.marriott.com/phxmp
+way	935703772	Best Inn & Suites		33.4503371	-112.0045355	hotel		Best Hotels		
+way	938164631	Howard johnson by wyndham phoenix airport/downtown		33.4517352	-111.9926995	hotel		Howard Johnson		
+way	942305296	Hampton Inn Phoenix-Airport North		33.4550009	-111.9865281	hotel		Hampton		https://www.hilton.com/en/hotels/phxaphx-hampton-phoenix-airport-north/
+way	983019438	BEST WESTERN PLUS Sundial		33.5025350	-111.9224530	hotel		Best Western Plus		https://www.bestwestern.com/en_US/book/hotels-in-scottsdale/best-western-plus-sundial/propertyCode.03147.html
+way	1018687089	SureStay		33.4504890	-112.0155189	hotel		SureStay		https://www.bestwestern.com/en_US/book/phoenix/hotel-rooms/surestay-hotel-by-best-western-phoenix-airport/propertyCode.53026.html
+way	1043681721	AC Hotel		33.4530959	-112.0678708	hotel		AC Hotel		
+way	1049611318	Staybridge Suites Phoenix – Biltmore Area		33.4823213	-112.0379399	hotel		Staybridge Suites		
+way	1071103285	Hampton Inn & Suites Phoenix Downtown		33.4521450	-112.0728972	hotel		Hampton Inn & Suites		https://www.hilton.com/en/hotels/phxcthx-hampton-suites-phoenix-downtown/
+way	1079356601	Scottsdale Marriott Suites Old Town		33.4963729	-111.9246282	hotel				
+way	1083336450	Vib		33.4250723	-111.9440934	hotel		Vib		
+way	1103291246	Days Inn Phoenix Airport		33.4519474	-112.0187038	hotel		Days Inn		
+way	1108970350	Sonesta ES Suites - Tempe		33.3794130	-111.9619069	hotel		Sonesta ES Suites		
+way	1160845409	DoubleTree Resort by Hilton Hotel Paradise Valley - Scottsdale		33.5149567	-111.9248705	hotel		DoubleTree		https://www.hilton.com/en/hotels/phxsjdt-doubletree-resort-paradise-valley-scottsdale/
+way	1198494793	Senna House		33.5017471	-111.9199925	hotel				
+way	1202453822			33.5392713	-111.9265029	hotel				
+way	1202453823			33.5395429	-111.9266899	hotel				
+way	1202453824			33.5391937	-111.9269417	hotel				
+way	1202453825			33.5395049	-111.9271093	hotel				
+way	1226639780	Envi Phoenix Suites		33.4615873	-112.1723411	hotel				
+way	1226639782	Comfort Inn I-10 West at 51st Ave		33.4613409	-112.1714741	hotel		Comfort Inn		https://www.choicehotels.com/arizona/youngtown/quality-inn-hotels
+way	1226643117	La Quinta Inn & Suites Phoenix I-10 West		33.4653661	-112.1664492	hotel		La Quinta Inn & Suites		https://www.wyndhamhotels.com/laquinta/phoenix-arizona/la-quinta-phoenix-i-10-west/overview
+way	1226643118	Days Inn by Wyndham Phoenix West		33.4643574	-112.1668806	hotel		Days Inn		https://www.wyndhamhotels.com/days-inn/phoenix-arizona/days-inn-phoenix-west/overview
+way	1227040438	Comfort Inn West Phoenix at 27th Ave & I-10		33.4631444	-112.1182653	hotel		Comfort Inn		https://www.choicehotels.com/arizona/youngtown/quality-inn-hotels
+way	1254441184	Hotel Bixby Scottsdale		33.4525705	-111.9259735	hotel				
+way	1254446224	Sonder The Mariposa		33.4651379	-111.9299644	hotel		Sonder		
+way	1254446229	SpringHill Suites Phoenix Scottsdale		33.4644046	-111.9272482	hotel		SpringHill Suites		https://www.marriott.com/phxls
+way	1254491575	SureStay Plus Hotel by Best Western Tempe University		33.4453746	-111.9255448	hotel		Surestay Plus		https://www.bestwestern.com/en_US/book/hotels-in-tempe/eod-surestay-plus-hotel-by-best-western-tempe-university/propertyCode.52146.html
+way	1254496262	Holiday Inn Express & Suites Phoenix-Tempe		33.4354564	-111.9273346	hotel		Holiday Inn Express & Suites		
+way	1286086071	Andaz Scottsdale Resort & Bungalows		33.5275289	-111.9290129	hotel		ANdAZ		
+way	1286086072	Sonesta ES Suites Scottsdale		33.5255114	-111.9270415	hotel		Sonesta ES Suites		
+way	1288172440	AC Hotel Phoenix Biltmore		33.5093896	-112.0199264	hotel		AC Hotel		https://www.marriott.com/en-us/hotels/phxab-ac-hotel-phoenix-biltmore/overview/
+way	1319179367	Canopy		33.4221644	-111.9377315	hotel		Canopy		
+way	1319179368	The Westin Tempe		33.4228291	-111.9389940	hotel		Westin		
+way	1387571412	Sonder Ida		33.4567623	-112.0703486	hotel		Sonder		https://www.sonder.com/destinations/phoenix/PHX-E-MCKI250/c34609
+way	1448704558	"The REMI., Scottsdale, Autograph Collection"		33.5010620	-111.9233268	hotel		Autograph Collection		https://www.marriott.com/en-us/hotels/phxda-the-remi-scottsdale-autograph-collection/overview/
+way	1448704559	Fairfield Inn & Suites Scottsdale Old Town		33.4851682	-111.9241829	hotel		Fairfield Inn & Suites		
+way	1566672515	Extended Stay America		33.4722320	-111.9877052	hotel		Extended Stay America		
+relation	1734030	"Hotel Embarque, Unscripted by Hyatt"		33.4797649	-111.9797386	hotel				https://hotelembarque.com/
+relation	2896151	Hilton Phoenix Airport		33.4246502	-111.9797543	hotel		Hilton		https://www.hilton.com/en/hotels/phxahhf-hilton-phoenix-airport/
+relation	7459886	Embassy Suites		33.3843792	-111.9279210	hotel		Embassy Suites		https://www.hilton.com/en/hotels/phxtpes-embassy-suites-phoenix-tempe/
+relation	9907924	Tempe Mission Palms		33.4264722	-111.9388448	hotel		Destination Hotels		
+relation	12599137	Wyndham Phoenix Airport/Tempe		33.4109933	-111.9703732	hotel		Wyndham		https://www.wyndhamhotels.com/wyndham/tempe-arizona/wyndham-phoenix-airport-tempe/overview
+relation	12599138	DoubleTree Phoenix Tempe		33.4063053	-111.9623323	hotel		DoubleTree		https://www.hilton.com/en/hotels/phxmpdt-doubletree-phoenix-tempe/
+relation	12991435	The Clarendon Hotel and Spa		33.4911090	-112.0793708	hotel				https://www.goclarendon.com/
+relation	14862080	Rise Uptown Hotel		33.5097889	-112.0796609	hotel				
+relation	18094599	Omni Tempe Hotel at ASU		33.4213823	-111.9394592	hotel				

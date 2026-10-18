@@ -1,0 +1,71 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	475777177	The Inn at Henderson's Wharf		39.2799960	-76.5890781	hotel				
+node	2550101895	Hilton Garden Inn		39.2837677	-76.6015960	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/bwiihgi-hilton-garden-inn-baltimore-inner-harbor/
+node	2550101896	Homewood Suites		39.2838920	-76.6016864	hotel		Homewood Suites		
+node	2918406739	Hotel Indigo		39.2952047	-76.6167194	hotel		Hotel Indigo		
+node	3323742737	Fairfield Inn & Suites Baltimore Downtown/Inner Harbor		39.2881385	-76.6044429	hotel		Fairfield Inn & Suites	Marriott	https://www.marriott.com/bwifh
+node	3432393088	Tru		39.2860401	-76.5990131	hotel		Tru		https://www.hilton.com/en/hotels/balheru-tru-baltimore-harbor-east/
+node	3432417849	Candlewood Suites		39.2905460	-76.6149300	hotel		Candlewood Suites		https://www.ihg.com/candlewood/hotels/us/en/baltimore/bwich/hoteldetail
+node	3445777700	Courtyard		39.2834453	-76.5997352	hotel		Courtyard		https://www.marriott.com/bwidt
+node	3449798661	Quality Inn		39.2909285	-76.6143791	hotel		Quality Inn		
+node	5897682930	Hampton		39.2887050	-76.6123921	hotel		Hampton		https://www.hilton.com/en/hotels/balihhx-hampton-suites-baltimore-inner-harbor/
+node	9117086441	Inn at the Collonade		39.3340113	-76.6196719	hotel		DoubleTree	DoubleTree by Hilton	https://www.hilton.com/en/hotels/bwicudt-inn-at-the-colonnade-baltimore/
+node	9447868934	Fayette Square		39.2905621	-76.6231815	hostel			"University of Maryland, Baltimore"	https://www.umaryland.edu/housing/explore/fayette-square/
+node	9593128626	1840s Carrollton Inn		39.2887454	-76.6041065	hotel				https://www.1840splaza.com/
+node	9896362907	Revival Baltimore		39.2973345	-76.6171888	hotel				https://www.hyatt.com/en-US/hotel/maryland/jdv-revival-baltimore/bwijd
+node	10184230248	SpringHill Suites Baltimore Downtown Convention Center Area		39.2905515	-76.6212159	hotel		SpringHill Suites		https://www.marriott.com/bwisl
+node	11800495541	Comfort Inn & Suites		39.2879806	-76.6124146	hotel		Comfort Inn & Suites		https://www.choicehotels.com/maryland/white-marsh/woodspring-hotels
+node	12597008356	Canopy		39.2793143	-76.5978610	hotel		Canopy		https://www.hilton.com/en/hotels/bwihppy-canopy-baltimore-harbor-point/
+way	58664450	Wingate by Wyndham Baltimore BWI Airport		39.1974151	-76.6867299	hotel		Wingate		
+way	58664453	Holiday Inn Baltimore BWI Airport		39.1959719	-76.6852635	hotel		Holiday Inn		
+way	58664462	La Quinta Inn & Suites Baltimore BWI Airport		39.1972545	-76.6846931	hotel		La Quinta Inn & Suites		https://www.wyndhamhotels.com/laquinta/linthicum-maryland/la-quinta-baltimore-bwi-airport/overview
+way	58664469	Red Roof PLUS+ Baltimore - Washington DC/BWI Airport		39.1970224	-76.6860620	hotel		Red Roof Inn		
+way	59520157	BWI Airport Marriott		39.1963980	-76.6827001	hotel		Marriott		
+way	59520159	Hilton Baltimore BWI Airport		39.1958665	-76.6806906	hotel		Hilton		https://www.hilton.com/en/hotels/bwiaphf-hilton-baltimore-bwi-airport/
+way	113987957	Homewood Suites by Hilton Baltimore-BWI Airport		39.2019224	-76.6794018	hotel		Homewood Suites		
+way	113987978	TownePlace Suites Baltimore BWI Airport		39.2022921	-76.6781928	hotel		TownePlace Suites		https://www.marriott.com/hotels/travel/bwits-towneplace-suites-baltimore-bwi-airport/
+way	124214574	Baltimore Marriott Inner Harbor Camden Yards		39.2869521	-76.6214374	hotel		Marriott	Marriott	https://www.marriott.com/en-us/hotels/bwiih-baltimore-marriott-inner-harbor-at-camden-yards/overview/
+way	140466722	"Country Inn & Suites, BWI Airport (Baltimore), MD"		39.1976469	-76.6826132	hotel		Country Inn & Suites		https://www.radissonhotels.com/en-us/hotels/country-inn-linthicum-heights-bwi-md
+way	150576641	Holiday Inn Express		39.2928988	-76.6081279	hotel		Holiday Inn Express		
+way	170657407	Aloft BWI Baltimore Washington International Airport		39.1955184	-76.6793349	hotel		Aloft		
+way	178328354	Marriott		39.2835734	-76.6030222	hotel		Marriott		
+way	178328423	Hyatt Place Baltimore/Inner Harbor		39.2846955	-76.5986715	hotel		Hyatt Place		https://www.hyatt.com/en-US/hotel/maryland/hyatt-place-baltimore-inner-harbor/bwizh
+way	178328594	Pier 5 Hotel		39.2844277	-76.6055927	hotel				https://www.hilton.com/en/hotels/bwipfqq-pier-5-hotel-baltimore/
+way	196489161	"Holiday Inn Express Baltimore at the Stadiums, an IHG Hotel"		39.2729187	-76.6284725	hotel		Holiday Inn Express		
+way	198499831	Best Western Plus Hotel & Conference Center		39.2801138	-76.5470100	hotel		Best Western Plus	Best Western Hotels	https://www.bestwestern.com/en_US/book/hotels-in-baltimore/best-western-plus-hotel-conference-center/propertyCode.21035.html
+way	202412227	Four Seasons		39.2826296	-76.6024564	hotel		Four Seasons		
+way	214861905	Fairfield Inn & Suites Baltimore BWI Airport		39.2006042	-76.6797460	hotel		Fairfield Inn & Suites	Marriott	https://www.marriott.com/hotels/travel/bwiaf-fairfield-inn-and-suites-baltimore-bwi-airport/
+way	295764427	The Inn at the Black Olive		39.2817520	-76.5962675	hotel				
+way	322397774	Biltmore Suites Hotel - Park Avenue Building		39.2983349	-76.6186568	hotel				
+way	322397775	Biltmore Suites Hotel - Main Building		39.2983210	-76.6189164	hotel				https://biltmoresuites.com/
+way	336344487	Sleep Inn & Suites		39.2925288	-76.6073275	hotel		Sleep Inn & Suites		https://www.choicehotels.com/maryland/baltimore/sleep-inn-hotels/md222
+way	336360418	Springhill Suites Marriott		39.2890085	-76.6126502	hotel		SpringHill Suites		https://www.marriott.com/bwisi
+way	336360855	"Brookshire Suites Inner Harbor, BW Premier Collection"		39.2880227	-76.6124201	hotel		Best Western Premier		https://www.brookshiresuites.com/
+way	336362792	The Ivy Hotel		39.3033556	-76.6129052	hotel				
+way	336363039	Residence Inn Marriott		39.2886497	-76.6132390	hotel		Residence Inn		https://www.marriott.com/bwihb
+way	336366686	Delta		39.2886513	-76.6146495	hotel		Delta Hotels		
+way	336367899	Home2 Suites		39.2936939	-76.6146672	hotel		Home2 Suites		https://www.hilton.com/en/hotels/bwiepht-home2-suites-baltimore-downtown-md/
+way	336371544	Hostelling International		39.2938562	-76.6165609	hostel		Hostelling International		
+way	336372515	Downtown Hotel		39.3042945	-76.6166698	hotel				
+way	336378305			39.3011561	-76.6188154	hotel		Hotel Brexton		
+way	336378364	La Quinta Inn & Suites Baltimore Downtown		39.2931263	-76.6183161	hotel		La Quinta Inn & Suites		https://www.wyndhamhotels.com/laquinta/baltimore-maryland/la-quinta-baltimore-downtown/overview
+way	337088565	Days Inn		39.2872182	-76.6180217	hotel		Days Inn	Wyndham Hotels and Resorts	https://www.wyndhamhotels.com/days-inn/baltimore-maryland/days-inn-baltimore-inner-harbor-hotel/overview
+way	337088570	Hampton Inn		39.2854796	-76.6231871	hotel		Hampton		https://www.hilton.com/en/hotels/balcyhx-hampton-baltimore-downtown-convention-center/
+way	337088571	Sheraton Inner Harbor Hotel		39.2845989	-76.6154014	hotel		Sheraton		https://www.marriott.com/en-us/hotels/bwiis-sheraton-inner-harbor-hotel/overview/
+way	337507927	"The William Fell Baltimore, Tapestry Collection by Hilton"		39.2818865	-76.5936460	hotel		"The William Fell Baltimore, Tapestry Collection by Hilton"		https://www.hilton.com/en/hotels/zbpafup-the-william-fell-baltimore/?SEO_id=GMB-AMER-UP-ZBPAFUP
+way	337523886	Embassy Suites		39.2921118	-76.6142813	hotel		Embassy Suites		
+way	337697101	Staybridge Suites		39.2888902	-76.6099281	hotel		Staybridge Suites		
+way	337906766	Kimpton Hotel Monaco Baltimore Inner Harbor by IHG		39.2897995	-76.6155904	hotel		Kimpton	Kimpton	https://www.monaco-baltimore.com/
+way	452969616	Hyatt Regency Baltimore Inner Harbor		39.2849117	-76.6141062	hotel		Hyatt Regency	Hyatt Hotels Corporation	https://baltimore.regency.hyatt.com/
+way	543812766	Hampton Inn Baltimore Bayview Campus		39.2864677	-76.5356785	hotel		Hampton		https://www.hilton.com/en/hotels/wasbbhx-hampton-baltimore-bayview-campus/
+way	1014489306	Residence Inn		39.3000699	-76.5913604	hotel		Residence Inn	Marriott International	https://www.marriott.com/hotels/travel/bwiea-residence-inn-baltimore-at-the-johns-hopkins-medical-campus/
+way	1047585042	Ulysses		39.2998180	-76.6154716	hotel		Ash Hotels		https://ash.world/hotels/ulysses
+way	1052925421	Roost		39.2635903	-76.6083558	hotel		Roost		https://www.myroost.com/extended-stay-hotel-baltimore
+way	1207183404	Courtyard by Marriott Baltimore Downtown/McHenry Row		39.2674784	-76.5990824	hotel		Courtyard		https://www.marriott.com/en-us/hotels/bwics-courtyard-baltimore-downtown-mchenry-row/overview/
+way	1432758265	Lord Baltimore Hotel		39.2897769	-76.6161122	hotel				https://www.lordbaltimorehotel.com/
+way	1452981433	Belvedere Hotel		39.3021689	-76.6155221	hotel				https://belvedereatbaltimore.com/
+relation	1592110	Courtyard		39.2008689	-76.6810761	hotel		Courtyard		https://www.marriott.com/bwica
+relation	4767064	The Royal Sonesta Harbor Court Baltimore		39.2827216	-76.6139466	hotel		Royal Sonesta		https://www.sonesta.com/royal-sonesta/md/baltimore/royal-sonesta-harbor-court-baltimore
+relation	7021530	Hilton Baltimore		39.2856873	-76.6208788	hotel		Hilton	Hilton	https://www.hilton.com/en/hotels/bwicchh-hilton-baltimore/
+relation	11506239	Sagamore Pendry Baltimore		39.2811603	-76.5920723	hotel				
+relation	19872192	Belvedere		39.3021689	-76.6155221	hotel				https://thebelvederebaltimore.com/

@@ -1,0 +1,106 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	4140125107	SpringHill Suites Houston Downtown/Convention Center		29.7556922	-95.3669706	hotel		SpringHill Suites		https://www.marriott.com/houzd
+node	4140125108	Residence Inn Houston Downtown/Convention Center		29.7555625	-95.3666344	hotel		Residence Inn		https://www.marriott.com/hourd
+node	4140125109	Courtyard Houston Downtown/Convention Center		29.7554327	-95.3668959	hotel		Courtyard		https://www.marriott.com/houdt
+node	6288207585			29.7047224	-95.3592721	hotel				https://www.tonyxxxtony.com/
+node	9246057217			29.7553841	-95.3665757	hotel				
+node	9562961592	The Westin Houston Medical Center		29.7097021	-95.4015787	hotel		Westin		https://www.marriott.com/en-us/hotels/houwa-the-westin-houston-medical-center/overview/
+node	10259164679	"Blossom Hotel Houston, Curio Collection by Hilton"		29.6994595	-95.3993868	hotel		Curio Collection		https://www.blossomhouston.com/
+node	10735941485	Minute Suites		29.9876470	-95.3428206	hotel				
+node	11043136654	Moxy Houston Downtown		29.7611344	-95.3618040	hotel		Moxy		https://www.marriott.com/en-us/hotels/houox-moxy-houston-downtown/overview/
+node	12044682945	"Club Quarters Hotel, Houston, Downtown"		29.7583799	-95.3627852	hotel				
+node	12044717323	Le Meridien Houston Downtown		29.7569229	-95.3626518	hotel		Le Méridien		
+node	12542829195	Hotel Saint Augustine		29.7356728	-95.3980574	hotel		Bunk House Hotels		https://www.bunkhousehotels.com/hotel-saint-augustine
+node	13421932798	Americas Best Value Inn		29.8084221	-95.3002064	hotel		Americas Best Value Inn		
+node	13508582519	DoubleTree by Hilton Hotel		29.6590157	-95.2685448	hotel		DoubleTree		https://www.hilton.com/en/hotels/houhodt-doubletree-houston-hobby-airport
+way	43666751	Jesse H. Jones Rotary House International		29.7057509	-95.3959588	hotel				
+way	44129964	Marriott Marquis Houston		29.7544548	-95.3578280	hotel		Marriott	Marriott	
+way	44504151	Hilton Americas-Houston		29.7515310	-95.3606424	hotel		Hilton		https://www3.hilton.com/en/hotels/texas/hilton-americas-houston-HOUCVHH/index.html
+way	44530822	Cambria Hotel Houston Downtown Convention Center		29.7577509	-95.3595499	hotel		Cambria Hotel		https://cambriahoustondowntown.com
+way	44631725	The Westin Houston Downtown		29.7567284	-95.3578623	hotel		Westin		https://www.starwoodhotels.com/westin/property/overview/index.html?propertyID=3799
+way	45543048	Houston Marriott South at Hobby Airport		29.6573438	-95.2565013	hotel				
+way	45591857	Hyatt Regency Houston		29.7569247	-95.3693070	hotel		Hyatt Regency		https://www.hyatt.com/hyatt-regency/en-us/hourh-hyatt-regency-houston
+way	45776254	Hotel ZaZa Houston		29.7242490	-95.3900936	hotel				https://hotelzaza.com/houston-museum-district
+way	46331386	Best Western Plus Hobby Airport Inn & Suites		29.6530474	-95.2617594	hotel		Best Western Plus		https://www.bestwestern.com/en_US/book/houston/hotel-rooms/best-western-plus-hobby-airport-inn-suites/propertyCode.44696.html
+way	46331413	Hampton by Hilton		29.6542460	-95.2636493	hotel		Hampton		https://www.hilton.com/en/hotels/houhbhx-hampton-houston-hobby-airport/
+way	46598314	Fairfield Inn & Suites Houston Hobby Airport		29.6637688	-95.2598143	hotel		Fairfield Inn		https://www.marriott.com/houfh
+way	51816099	DoubleTree by Hilton Houston Medical Center Hotel & Suites		29.7073032	-95.4049790	hotel		DoubleTree		https://www.hilton.com/en/hotels/houmhdt-doubletree-houston-medical-center-hotel-and-suites/
+way	51816100	SureStay Plus by Best Western Houston Medical Center		29.7082301	-95.4041792	hotel		Best Western		https://www.bestwestern.com/en_US/book/houston/hotel-rooms/surestay-plus-by-best-western-houston-medical-center/propertyCode.54031.html
+way	54168835	Sam Houston Hotel		29.7600458	-95.3602724	hotel		Hilton	Hilton	
+way	54367926	AC Hotel by Marriott Houston Downtown		29.7584540	-95.3633200	hotel		AC Hotel		
+way	54389627	The Whitehall		29.7537082	-95.3732266	hotel				https://www.thewhitehallhouston.com/
+way	55374749	Holiday Inn Express		29.7484269	-95.3609308	hotel		Holiday Inn Express		https://www.ihg.com/holidayinnexpress/hotels/us/en/houston/houls/hoteldetail
+way	55374765	Athens Hotel Suites		29.7520701	-95.3646241	hotel				
+way	79451520	Four Seasons Hotel Houston		29.7540024	-95.3628352	hotel		Four Seasons		https://www.fourseasons.com/houston/
+way	119430790	Wyndham		29.6788064	-95.4134327	hotel		Wyndham		
+way	143339226	Aloft Houston Downtown		29.7575113	-95.3635668	hotel		Aloft		http://www.alofthoustondowntown.com
+way	218950885	Comfort Suites near Texas Medical Center		29.6897443	-95.4166671	hotel		Comfort Suites		https://www.choicehotels.com/texas/webster/comfort-suites-hotels
+way	218950931	SpringHill Suites Houston Medical Center/NRG Park		29.6929915	-95.4090244	hotel		SpringHill Suites		https://www.marriott.com/hourp
+way	219056348	Holiday Inn Houston - NRG/Medical Center Area		29.6902920	-95.4114807	hotel		Holiday Inn		
+way	231394164	Embassy Suites by Hilton Houston Downtown		29.7530035	-95.3613273	hotel		Embassy Suites		https://embassysuites3.hilton.com/en/hotels/texas/embassy-suites-houston-downtown-HOUDNES/index.html
+way	260789763	Hotel ICON		29.7625725	-95.3608993	hotel				https://www.hotelicon.com/
+way	277829147	DoubleTree		29.7309535	-95.4326516	hotel		DoubleTree	Hilton	https://doubletree3.hilton.com/en/hotels/texas/doubletree-by-hilton-hotel-houston-greenway-plaza-HOUGWDT/index.html
+way	290730253	Residence Inn		29.7277404	-95.4243767	hotel		Residence Inn		https://www.marriott.com/houbf
+way	290730258	Courtyard Houston-West University		29.7281109	-95.4243699	hotel		Courtyard		https://www.marriott.com/houbs
+way	312888729	Extended Stay America - Houston - Med. Ctr. - NRG Park - Kirby		29.6911611	-95.4117038	hotel		Extended Stay America		
+way	313000354	Hampton Inn & Suites		29.7783090	-95.4281849	hotel		Hampton Inn & Suites		https://www.hilton.com/en/hotels/houkfhx-hampton-suites-houston-heights-i-10/
+way	324800105	Extended Stay America - Houston - Med. Ctr. - NRG Park - Fannin		29.6895248	-95.4025300	hotel		Extended Stay America		
+way	364394893			29.7099784	-95.3216347	hotel				
+way	375296751	Best Western Plus Downtown Inn & Suites		29.7574280	-95.3773934	hotel		Best Western Plus		https://www.bestwestern.com/en_US/book/houston/hotel-rooms/best-western-plus-downtown-inn-suites/propertyCode.44498.html
+way	418411146	The Lancaster Hotel		29.7615575	-95.3647874	hotel				
+way	461766953	Hampton Inn		29.7558649	-95.3585570	hotel		Hampton		https://www.hilton.com/en/hotels/houdwhx-hampton-houston-downtown/
+way	470334103	Sheraton		29.8046993	-95.4499974	hotel		Sheraton		http://www.sheratonbrookhollow.com/
+way	470334105	Heritage Place Houston Brookhollow		29.8093061	-95.4437889	hotel				https://www.heritageplacehotel.com/
+way	510322088	Hyatt Place Houston / Downtown		29.7588790	-95.3613812	hotel		Hyatt Place		https://www.hyatt.com/en-us/hotel/texas/hyatt-place-houston-downtown/iahzh
+way	510322089	"Magnolia Hotel Houston, a Tribute Portfolio Hotel"		29.7590628	-95.3616162	hotel				
+way	510322326	JW Marriott		29.7584168	-95.3641371	hotel		JW Marriott		https://www.marriott.com/en-us/hotels/houdj-jw-marriott-houston-downtown/overview/
+way	536750715	SpringHill Suites		29.8068830	-95.4466697	hotel		SpringHill Suites		https://www.marriott.com/hotels/travel/housh-springhill-suites-houston-brookhollow/
+way	555285893	Downtowner Inns		29.7414259	-95.3663122	hotel				
+way	586637983	Courtyard Houston Medical Center		29.6966625	-95.4136292	hotel		Courtyard		https://www.marriott.com/houmd
+way	607161815	South Loop Inn		29.6968902	-95.3014606	hotel				
+way	626724339	Wyndham		29.6798594	-95.4133643	hotel		Wyndham		
+way	690879997	Oakwood at Archstone Midtown		29.7504485	-95.3805656	hotel				
+way	848672227	GreenTree Hotel Houston Hobby		29.6546439	-95.2545596	hotel				https://greentreeinn.com/hotels/tx/houston-airport-home
+way	848672228	Courtyard Houston Hobby Airport		29.6555837	-95.2551295	hotel		Courtyard		https://www.marriott.com/houhb
+way	848672243	Days Inn and Suites Houston Hobby Airport		29.6515645	-95.2559180	hotel		Days Inn		https://www.wyndhamhotels.com/days-inn/houston-texas/days-inn-and-suites-houston-hobby-airport/overview
+way	848672740	SpringHill Suites Houston Hobby Airport		29.6540695	-95.2549835	hotel		SpringHill Suites		https://www.marriott.com/houha
+way	896617340	Home2 Suites		29.7046870	-95.3855413	hotel		Home2 Suites		https://www.hilton.com/en/hotels/houahht-home2-suites-houston-medical-center/
+way	896618565	InterContinental		29.7076939	-95.4045111	hotel		InterContinental		https://www.ihg.com/intercontinental/hotels/us/en/houston/houit/hoteldetail
+way	902114035	Dollar Inn		29.6932222	-95.3595280	hotel				
+way	922431441	Holiday Inn		29.6556518	-95.2632768	hotel		Holiday Inn		
+way	923276956	Crowne Plaza Houston River Oaks		29.7314557	-95.4214343	hotel		Crowne Plaza		
+way	923279709	Extended Stay America		29.7315615	-95.4146779	hotel		Extended Stay America		
+way	923283790	La Quinta Inn & Suites Houston Hobby Airport		29.6524905	-95.2615541	hotel		La Quinta Inn & Suites		https://www.wyndhamhotels.com/laquinta/houston-texas/la-quinta-houston-hobby-airport/overview
+way	923366280	Sleep Inn		29.7944212	-95.3727286	hotel		Sleep Inn		https://www.choicehotels.com/texas/webster/comfort-suites-hotels
+way	923615431	Holiday Inn Express & Suites Houston S - Medical Center Area		29.6842202	-95.4232763	hotel		Holiday Inn Express & Suites		
+way	923621663	Hampton Inn & Suites Houston Medical Center NRG Park		29.6960595	-95.4028586	hotel		Hampton Inn & Suites		https://www.hilton.com/en/hotels/houmdhx-hampton-suites-houston-medical-center-nrg-park/
+way	923622057	Sleep 'N Go Hotel Houston Medical Center		29.6985775	-95.4003263	hotel				
+way	923623018	Extended Stay America - Houston - Braeswood Blvd.		29.7019610	-95.4004342	hotel				
+way	923624244	Holiday Inn Houston Downtown		29.7520686	-95.3692252	hotel		Holiday Inn		
+way	923626906	Howard Johnson		29.6526273	-95.2610445	hotel		Howard Johnson		
+way	923627494	Four Points by Sheraton Houston Hobby Airport		29.6641369	-95.2602462	hotel				
+way	923656217	"C. Baldwin, Curio Collection by Hilton"		29.7580226	-95.3714322	hotel		Hilton		https://www.hilton.com/en/hotels/houcuqq-c-baldwin/
+way	933319889	Hotel Ylem		29.6936731	-95.4157630	hotel				https://www.hotelylem.com/
+way	933320501	Mainstay Suites Texas Medical Center/Reliant Park		29.6998725	-95.3783007	hotel		MainStay Suites		
+way	933329786	Howard Johnson by Wyndham Houston Downtown		29.7782313	-95.4076561	hotel		Howard Johnson		
+way	933331832	Days Inn & Suites by Wyndham Downtown/University of Houston		29.7108123	-95.3108069	hotel		Days Inn		https://www.wyndhamhotels.com/days-inn/houston-texas/days-inn-university-of-houston/overview
+way	1022704393	Courtyard by Marriott Houston Heights/I-10		29.7775162	-95.3924924	hotel		Courtyard		https://www.marriott.com/hotels/travel/houcw-courtyard-houston-heights-i-10/
+way	1042333954	Residence Inn Houston Medical Center/NRG		29.6941457	-95.4135400	hotel		Residence Inn		https://www.marriott.com/hourw
+way	1042574986	TownePlace Suites Houston Hobby Airport		29.6592271	-95.2546735	hotel		TownePlace Suites		https://www.marriott.com/houtu
+way	1073734112	Staybridge Suites Houston - Medical Center		29.6885079	-95.4197001	hotel		Staybridge Suites		
+way	1267543996	Hyatt Place		29.6965996	-95.4006974	hotel		Hyatt Place		
+way	1267543999			29.6994464	-95.3996731	hotel				
+way	1276525832	La Colombe d'Or		29.7416488	-95.3916907	hotel				https://www.lacolombedor.com/
+way	1300364807	Big State Motel		29.7099751	-95.3216106	hotel				
+way	1328655037	Quality Inn		29.6793944	-95.4145539	hotel		Quality Inn		
+way	1381234969	Hilton Garden Inn		29.6532252	-95.2642956	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/houmrgi-hilton-garden-inn-houston-hobby-airport/
+way	1463221198	Americas Best Value Inn		29.8086417	-95.3000226	hotel		Sonesta		
+way	1484198432	Sara's Inn		29.7884349	-95.3981047	hotel				https://saras.com/
+way	1510729802	Travelodge by Wyndham Houston Hobby Airport		29.6523720	-95.2604790	hotel		Travelodge		
+relation	338892	DoubleTree Houston Hobby Airport		29.6591217	-95.2684642	hotel		DoubleTree		https://www.hilton.com/en/hotels/houhodt-doubletree-houston-hobby-airport/
+relation	4645036	The Laura Hotel		29.7542997	-95.3652928	hotel		Autograph Collection		https://www.marriott.com/en-us/hotels/houkd-the-laura-hotel-houston-downtown-autograph-collection/overview/
+relation	5411077	Conrad N. Hilton College of Global Hospitality Leadership		29.7190285	-95.3413155	hotel		Conrad		
+relation	6158778	Hilton Houston Plaza/Medical Center		29.7097358	-95.4034105	hotel		Hilton		
+relation	6692565	Marriott		29.9862438	-95.3421855	hotel		Marriott		
+relation	14587221	Comfort Suites Hobby Airport Houston		29.6513790	-95.2553745	hotel		Comfort Suites		
+relation	18217490	Wingate		29.6808136	-95.4134056	hotel		Wingate		

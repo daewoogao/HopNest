@@ -1,0 +1,114 @@
+[
+  {
+    "id": "la",
+    "name": "A Line",
+    "color": "#448BCD",
+    "code": "A",
+    "stations": [
+      ["Downtown Phoenix Hub/Jefferson Street",33.4471,-112.0741],
+      ["3rd Street/Jefferson",33.4463,-112.0689],
+      ["12th St/Jefferson",33.4472,-112.0552],
+      ["24th St/Jefferson",33.4472,-112.0288],
+      ["38th St/Washington",33.4481,-111.9994],
+      ["44th St/Washington",33.4481,-111.9875],
+      ["50th St/Washington",33.4469,-111.9746],
+      ["Priest Dr/Washington",33.4417,-111.9559],
+      ["Center Pkwy/Washington",33.4378,-111.9463],
+      ["Mill Ave/3rd St",33.4275,-111.9402],
+      ["Veterans Way/College Ave",33.426,-111.9355],
+      ["University Dr/Rural Rd",33.4204,-111.9266],
+      ["Dorsey/Apache Blvd",33.4147,-111.9164],
+      ["McClintock/Apache Blvd",33.4147,-111.9076],
+      ["Smith-Martin/Apache Blvd",33.4148,-111.9003],
+      ["Price-101 Fwy/Apache Blvd",33.4148,-111.8877],
+      ["Sycamore/Main St",33.4148,-111.8705],
+      ["Alma School/Main St",33.4149,-111.8548],
+      ["Country Club/Main St",33.4151,-111.8384],
+      ["Center/Main St",33.4151,-111.8302],
+      ["Mesa Dr/Main St",33.415,-111.8217],
+      ["Stapley Dr/Main St",33.4152,-111.8027],
+      ["Gilbert Road/Main Street",33.4153,-111.7904]
+    ]
+  },
+  {
+    "id": "lb",
+    "name": "B Line",
+    "color": "#F58D20",
+    "code": "B",
+    "stations": [
+      ["Baseline/Central Avenue",33.3784,-112.0732],
+      ["Southern/Central Ave",33.392,-112.0733],
+      ["Roeser/Central Ave",33.3994,-112.0733],
+      ["Broadway/Central Ave",33.4064,-112.0733],
+      ["Pioneer/Central Ave",33.4184,-112.0734],
+      ["Buckeye/Central Ave",33.4366,-112.0737],
+      ["Lincoln/Central Ave",33.4419,-112.0738],
+      ["Downtown Phoenix Hub/Central Avenue",33.4481,-112.0739],
+      ["Washington/Central Ave",33.4492,-112.0739],
+      ["Van Buren/Central Ave",33.4523,-112.0739],
+      ["Roosevelt/Central Avenue",33.4597,-112.0738],
+      ["McDowell/Central Ave",33.4651,-112.0738],
+      ["Encanto/Central Ave",33.4741,-112.0738],
+      ["Thomas/Central Ave",33.4816,-112.0737],
+      ["Osborn/Central Avenue",33.4872,-112.0738],
+      ["Indian School/Central Ave",33.4961,-112.0737],
+      ["Campbell/Central Avenue",33.5018,-112.0737],
+      ["Central Ave/Camelback",33.5088,-112.0757],
+      ["7th Ave/Camelback",33.5094,-112.0838],
+      ["19th Ave/Camelback",33.5096,-112.0993],
+      ["Montebello/19th Ave",33.521,-112.0997],
+      ["Glendale/19th Avenue",33.538,-112.0996],
+      ["Northern/19th Ave",33.5526,-112.0996],
+      ["19th Ave/Dunlap",33.5674,-112.1013],
+      ["25th Ave/Dunlap",33.5676,-112.1118],
+      ["Mountain View/25th Ave",33.5734,-112.1121],
+      ["Metro Parkway",33.5752,-112.1189]
+    ]
+  },
+  {
+    "id": "ldph",
+    "name": "Downtown Phoenix Hub",
+    "color": "#89728E",
+    "code": "DPH",
+    "stations": [
+      ["Downtown Phoenix Hub/Jefferson Street",33.4471,-112.0741],
+      ["3rd Street/Jefferson",33.4463,-112.0689],
+      ["3rd St/Washington",33.4483,-112.071],
+      ["Downtown Phoenix Hub/Washington Street",33.4483,-112.0749]
+    ]
+  },
+  {
+    "id": "lpst",
+    "name": "PHX Sky Train",
+    "color": "#B0C4DE",
+    "code": "PST",
+    "stations": [
+      ["44th Street",33.4469,-111.9899],
+      ["East Economy Parking",33.4345,-111.9855],
+      ["Terminal 4",33.4348,-111.9987],
+      ["Terminal 3",33.4348,-112.0106],
+      ["24th Street",33.4353,-112.0332],
+      ["Rental Car Center",33.4307,-112.0447]
+    ]
+  },
+  {
+    "id": "ls",
+    "name": "Tempe Streetcar",
+    "color": "#9BB14F",
+    "code": "S",
+    "stations": [
+      ["Marina Heights / Rio Salado Pkwy",33.4294,-111.9327],
+      ["Hayden Ferry / Rio Salado Pkwy",33.4301,-111.9382],
+      ["Tempe Beach Park / Rio Salado Pkwy",33.4295,-111.9416],
+      ["3rd St / Ash Ave",33.4273,-111.943],
+      ["5th St / Ash Ave",33.4251,-111.9434],
+      ["University Dr / Ash Ave",33.4223,-111.9425],
+      ["9th Street/Mill Avenue",33.4208,-111.94],
+      ["11th St / Mill Ave",33.418,-111.94],
+      ["College Ave / Apache Blvd",33.4147,-111.9352],
+      ["Paseo Del Saber / Apache Blvd",33.4147,-111.9292],
+      ["Rural Rd / Apache Blvd",33.4147,-111.9252],
+      ["Dorsey / Apache Bvd",33.4147,-111.9171]
+    ]
+  }
+]
