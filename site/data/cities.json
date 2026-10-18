@@ -74,5 +74,6 @@
   "denver": {"name":"Denver","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["DEN","Mile High City","Colorado"]},
   "dallas": {"name":"Dallas","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["DFW","DAL","Big D","Texas"]},
   "baltimore": {"name":"Baltimore","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["BWI","Charm City","Maryland"]},
-  "minneapolis": {"name":"Minneapolis–Saint Paul","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["MSP","Twin Cities","Saint Paul","St Paul","Minnesota"]}
+  "minneapolis": {"name":"Minneapolis–Saint Paul","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["MSP","Twin Cities","Saint Paul","St Paul","Minnesota"]},
+  "saltlakecity": {"name":"Salt Lake City","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["SLC","Utah"]}
 }
