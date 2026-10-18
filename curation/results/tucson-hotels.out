@@ -1,0 +1,40 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	4117665294	RoadRunner Hostel		32.2200932	-110.9644103	hostel				
+node	10847841449	El Amador Inn		32.2195012	-110.9652560	hotel				https://elamador.com/
+node	11876198699	Home2 Suites		32.2197700	-110.9706900	hotel		Home2 Suites		https://www.hilton.com/en/hotels/tuscaht-home2-suites-tucson-downtown/
+node	11876198700	Hampton Inn		32.2195825	-110.9704439	hotel		Hampton		https://www.hilton.com/en/hotels/tuscbhx-hampton-tucson-downtown/
+way	32977085	The Historic Hotel Congress		32.2222876	-110.9666708	hotel				
+way	34228575	Tucson Marriott University Park		32.2325248	-110.9583214	hotel		Marriott	Marriott	https://www.marriott.com/hotels/travel/tusmp-tucson-marriott-university-park/
+way	34588288	AC Hotel		32.2214867	-110.9675163	hotel		AC Hotel		
+way	237187090	Aloft Tucson University		32.2357203	-110.9432553	hotel		Aloft	W Hotels	https://www.marriott.com/en-us/hotels/tusal-aloft-tucson-university/
+way	294941096	Hampton Inn Tucson-Airport		32.1252632	-110.9337934	hotel		Hampton		https://www.hilton.com/en/hotels/tustbhx-hampton-tucson-airport/
+way	294941098	La Quinta Inn & Suites Tucson Airport		32.1247221	-110.9335186	hotel		La Quinta Inn & Suites		https://www.wyndhamhotels.com/laquinta/tucson-arizona/la-quinta-inn-and-suites-tucson-airport/overview
+way	401469479	Ramada Tucson		32.2162932	-110.9809975	hotel		Ramada		https://theriverparkinn.com/
+way	463354925	Comfort Inn & Suites		32.1258945	-110.9331064	hotel		Comfort Inn & Suites		
+way	509333285	Sonesta Select Tucson Airport		32.1272656	-110.9338316	hotel		Sonesta Select		https://www.sonesta.com/us/arizona/tucson/sonesta-select-tucson-airport
+way	529121740	El Presidio Bed & Breakfast Inn		32.2255068	-110.9758788	hotel				https://www.elpresidiobbinn.com
+way	529277487	"Hotel Tucson City Center, Ascend Hotel Collection"		32.2261961	-110.9792563	hotel				
+way	569464314	Hilton Garden Inn		32.1331066	-110.9251824	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/tucapgi-hilton-garden-inn-tucson-airport/
+way	589528995	The Big Blue House Inn		32.2314419	-110.9690687	hotel				
+way	665216031	Royal Elizabeth Inn		32.2190518	-110.9699370	hotel				
+way	810104160	Best Western Royal Sun		32.2347108	-110.9725893	hotel		Best Western		https://www.bestwestern.com/en_US/book/hotels-in-tucson/best-western-royal-sun-inn-suites/propertyCode.03074.html
+way	863136594	Country Inn & Suites		32.2322131	-110.9843494	hotel		Country Inn & Suites	Raddison	https://www.radissonhotels.com/en-us/hotels/country-inn-tucson-city-center-az
+way	863136595	Days Inn		32.2310780	-110.9840377	hotel		Days Inn		https://www.wyndhamhotels.com/days-inn/tucson-arizona/days-inn-tucson-city-center/overview
+way	885363247	voco The Tuxon		32.2101228	-110.9806960	hotel		voco		https://www.ihg.com/voco/hotels/us/en/tucson/tusvo/hoteldetail
+way	885363265			32.2192459	-110.9809553	hotel				
+way	891131869	Red Roof Inn		32.2387849	-110.9710527	hotel		Red Roof Inn		
+way	902796637	Courtyard Tucson Airport		32.1329178	-110.9336840	hotel		Courtyard		https://www.marriott.com/en-us/hotels/tusca-courtyard-tucson-airport/overview/
+way	902796657	Staybridge Suites Tucson Airport		32.1327748	-110.9321684	hotel		Staybridge Suites		https://www.ihg.com/staybridge/hotels/us/en/tucson/tussb/hoteldetail
+way	902796681	TownePlace Suites		32.1323161	-110.9301166	hotel		TownePlace Suites		https://www.marriott.com/tusta
+way	903223146	Best Western Plus Tucson International Airport Hotel & Suites		32.1281194	-110.9335226	hotel		Best Western		https://www.bestwestern.com/en_US/book/hotels-in-tucson/best-western-tucson-int-l-airport-hotel-suites/propertyCode.03155.html
+way	903223157	Country Inn & Suites		32.1309574	-110.9332211	hotel		Country Inn & Suites		https://www.radissonhotels.com/en-us/hotels/country-inn-tucson-az
+way	903223192	Holiday Inn Express		32.1299573	-110.9332544	hotel		Holiday Inn Express		https://www.ihg.com/holidayinnexpress/hotels/us/en/tucson/tusmr/hoteldetail
+way	903223201	Residence Inn Tucson Airport		32.1295259	-110.9320700	hotel		Residence Inn		https://www.marriott.com/hotels/travel/tusap-residence-inn-tucson-airport/
+way	903268472	Quality Inn Airport		32.1350958	-110.9296073	hotel		Quality Inn		https://www.choicehotels.com/arizona/tucson/quality-inn-hotels/az251?mc=llgoxxpx
+way	966913852	Graduate by Hilton Tucson		32.2328240	-110.9576723	hotel		Graduate		https://www.graduatehotels.com/tucson/
+way	971500394	Desert Diamond Casino Hotel		32.1174712	-110.9641899	hotel				
+way	1049133333	DoubleTree by Hilton Tucson Downtown Convention Center		32.2173850	-110.9732535	hotel		DoubleTree		https://www.hilton.com/en/hotels/tusaudt-doubletree-tucson-downtown-at-the-convention-center/
+way	1085736667	Home2 Suites		32.1333220	-110.9298172	hotel		Home2 Suites		https://www.hilton.com/en/hotels/tusatht-home2-suites-tucson-airport/
+way	1175777540	The Leo Kent Hotel		32.2215261	-110.9719530	hotel				https://www.marriott.com/en-us/hotels/tustx-the-leo-kent-hotel-tucson-a-tribute-portfolio-hotel/overview/
+relation	6133724	Four Points by Sheraton Tucson Airport		32.1238423	-110.9357535	hotel		Four Points by Sheraton		https://www.marriott.com/en-us/hotels/tusfp-four-points-tucson-airport/overview/
+relation	8120591	DoubleTree Suites Tucson Airport		32.1238328	-110.9334726	hotel		DoubleTree		https://www.hilton.com/en/hotels/tustadt-doubletree-suites-tucson-airport/

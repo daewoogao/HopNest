@@ -1,0 +1,36 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	279875163	Caesars Windsor Hotel & Casino - A Caesars Rewards Destination		42.3205383	-83.0333370	hotel				https://www.caesars.com/caesars-windsor
+node	8781739686	Quality Inn		42.3331024	-83.0333870	hotel				
+node	8888652178	Shinola Hotel		42.3343463	-83.0484173	hotel				https://www.shinolahotel.com/
+node	10899381804	The Siren Hotel		42.3357243	-83.0486175	hotel				
+node	11099089388	Hotel Houze Detroit		42.3315259	-83.0515251	hotel				https://hotelhouze.com/
+node	11173174730	Cambria Hotel		42.3292649	-83.0549399	hotel		Cambria Hotel		
+node	11737203219	Roost		42.3335296	-83.0515420	hotel		Roost		https://www.myroost.com/extended-stay-hotel-detroit-michigan
+node	11800599011	Element Detroit at the Metropolitan		42.3353608	-83.0487593	hotel		Element		https://www.marriott.com/dtwel
+way	32435649	The Westin Detroit Metropolitan Airport		42.2074528	-83.3576007	hotel		Westin		https://www.marriott.com/en-us/hotels/dtwma-the-westin-detroit-metropolitan-airport/overview/
+way	68997595	Hilton Garden Inn Detroit Downtown		42.3358705	-83.0451184	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/detdhgi-hilton-garden-inn-detroit-downtown/
+way	69118079	Fort Pontchartrain Detroit a Wyndham Hotel		42.3280027	-83.0476932	hotel		Wyndham		
+way	69256844	El Moore		42.3487917	-83.0659218	hostel				https://elmoore.com/
+way	69409226	Detroit Foundation Hotel		42.3283396	-83.0484163	hotel				
+way	69412623	Leland Hotel		42.3336793	-83.0544433	hotel				
+way	71187477	Trumbell and Porter		42.3270763	-83.0647560	hotel				
+way	105360144	MGM Grand Detroit Hotel		42.3327893	-83.0589311	hotel				
+way	107458391	Hollywood Casino at Greektown		42.3360865	-83.0409040	hotel				https://www.hollywoodgreektown.com/
+way	108490117	Wyndham Garden		42.2392584	-83.3464797	hotel		Wyndham Garden		
+way	108491329	Delta Hotels Detroit Metro Airport		42.2390246	-83.3486637	hotel		Delta Hotels		
+way	110565918	Atheneum Suite Hotel		42.3340784	-83.0426772	hotel				
+way	110681125	DoubleTree Suites by Hilton Hotel Detroit Downtown - Fort Shelby		42.3292378	-83.0527462	hotel		DoubleTree		https://www.hilton.com/en/hotels/dttlfdt-doubletree-suites-detroit-downtown-fort-shelby/
+way	110689109	Hotel Indigo		42.3313783	-83.0505179	hotel		Hotel Indigo	Intercontinental Hotels Group	https://www.ihg.com/hotelindigo/hotels/us/en/detroit/dttwb/hoteldetail
+way	235162467	Comfort Inn Hotel		42.2391418	-83.3516566	hotel		Comfort Inn		https://www.choicehotels.com/ontario/windsor/quality-inn-hotels
+way	372065872	Motor City Casino Hotel		42.3383807	-83.0684982	hotel			Motor City Casino / Detroit Entertainment LLC	
+way	419447165	Detroit Marriott at the Renaissance Center		42.3289839	-83.0397581	hotel		Marriott	Marriott	
+way	803146669	King's Arms Hotel		42.3455469	-83.0622256	hotel				
+way	819472702	The Inn at 97 Winder		42.3416071	-83.0519149	hotel				
+way	819472704	The Winder Street Inn		42.3418301	-83.0501402	hotel				
+way	819472705	The Cochrane House		42.3417529	-83.0504596	hotel				
+way	852562166	The Inn on Ferry Street		42.3613725	-83.0654804	hotel				
+way	934215135	Courtyard Detroit Downtown		42.3306298	-83.0414923	hotel		Courtyard		https://www.marriott.com/dtwdc
+way	1066234397	The Westin Book Cadillac Detroit		42.3321106	-83.0502158	hotel		Westin		
+way	1125052758	The Godfrey Detroit		42.3309699	-83.0655431	hotel		Hilton		
+way	1539075548	AC Hotel Detroit at the Bonstelle		42.3465432	-83.0567118	hotel		AC Hotel		https://www.marriott.com/en-us/hotels/dtwac-ac-hotel-detroit-at-the-bonstelle/overview/
+relation	2749367	"Hotel David Whitney, Autograph Collection"		42.3356000	-83.0503522	hotel		Autograph Collection		https://www.marriott.com/en-us/hotels/dtwkd-hotel-david-whitney-autograph-collection/overview/

@@ -1,0 +1,43 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	1050385165	Residence Inn		43.0380433	-87.9107075	hotel		Residence Inn	Marriot International	https://www.marriott.com/mkeri
+node	5468326999	SpringHill Suites		43.0397876	-87.9156239	hotel		SpringHill Suites		https://www.marriott.com/mkesh
+way	53161064	Kimpton Journeyman Hotel		43.0329849	-87.9067536	hotel		Kimpton	Intercontinental Hotels Group	
+way	53161163	The Pfister Hotel		43.0394368	-87.9057225	hotel			The Marcus Corporation	
+way	53216147	Hotel Metro		43.0397463	-87.9063140	hotel		Autograph Collection		
+way	53256242	Holiday Inn Express		43.0372874	-87.9054851	hotel		Holiday Inn Express	IHG Hotels & Resorts	
+way	53256244	Tru by Hilton		43.0365886	-87.9054087	hotel		Tru		
+way	54625890	Hyatt Regency Milwaukee		43.0409069	-87.9150575	hotel		Hyatt Regency	Hyatt Hotels Corporation	
+way	68581214	Drury Plaza Hotel		43.0389371	-87.9087737	hotel			Drury Hotels Company	
+way	69020648	Saint Kate		43.0417899	-87.9107839	hotel			Marcus Hotels	
+way	89932942	The Brewhouse Inn & Suites		43.0460716	-87.9248116	hotel				
+way	93789165	Hampton Inn & Suites		43.0390407	-87.9126163	hotel		Hampton Inn & Suites	Hilton Worldwide	https://www.hilton.com/en/hotels/mkedwhx-hampton-suites-milwaukee-downtown/
+way	93824146	Hilton Garden Inn		43.0378088	-87.9081302	hotel		Hilton Garden Inn	Hilton Hotels & Resorts	https://hiltongardeninn3.hilton.com/en/hotels/wisconsin/hilton-garden-inn-milwaukee-downtown-MKEMDGI/index.html
+way	93835240	Homewood Suites		43.0364347	-87.9084802	hotel		Homewood Suites	Hilton Hotels & Resorts	
+way	312017011	Hyatt Place Milwaukee Airport		42.9471006	-87.9138041	hotel		Hyatt Place		https://www.hyatt.com/en-us/hotel/wisconsin/hyatt-place-milwaukee-airport/mkeza
+way	312017015	Best Western Plus Milwaukee Airport Hotel & Conference Center		42.9514384	-87.9115880	hotel		Best Western Plus		https://www.bestwestern.com/en_US/book/hotels-in-milwaukee/best-western-plus-milwaukee-airport-hotel-conference-center/propertyCode.50056.html
+way	312017605	Holiday Inn Express & Suites		42.9578930	-87.9185627	hotel		Holiday Inn Express & Suites		
+way	392886196	Kinn MKE Guesthouse		43.0376816	-87.9072996	hotel				
+way	392886200	Milwaukee Marriott Downtown		43.0382063	-87.9068526	hotel			Marriot Hotels & Resorts	
+way	393271485	The Knickerbocker on the Lake		43.0460282	-87.8987977	hotel				https://www.knickerbockeronthelake.com/
+way	393497245	Dubbel Dutch		43.0420469	-87.9009431	hotel				https://www.thedubbeldutch.com/
+way	395485685	The Astor Hotel		43.0461635	-87.9003447	hotel				
+way	395645016	County Clare Inn		43.0466521	-87.8994565	hotel				
+way	397126194	Courtyard Marriott		43.0377459	-87.9146630	hotel		Courtyard	Marriott International	https://www.marriott.com/mkedt
+way	397175677	Hilton Milwaukee City Center		43.0383143	-87.9181843	hotel		Hilton	Marcus Corporation	
+way	397179341	Double Tree by Hilton		43.0381563	-87.9194045	hotel		DoubleTree	Hilton Worldwide	https://www.hilton.com/en/hotels/mkeccdt-doubletree-milwaukee-downtown/
+way	397657804	Fairfield Inn & Suites Milwaukee Downtown		43.0390361	-87.9142236	hotel		Fairfield Inn & Suites		https://www.marriott.com/en-us/hotels/mkefd-fairfield-inn-and-suites-milwaukee-downtown/overview/
+way	399094233	Aloft Milwaukee Downtown		43.0461559	-87.9139981	hotel		Aloft	Starwood Hotels & Resorts Worldwide	
+way	455439315	The Westin Milwaukee		43.0372540	-87.9019914	hotel		Westin	Marriott International	
+way	474161336	Days Inn & Suites by Wyndham Milwaukee		43.0547276	-87.9181206	hotel		Days Inn	Wyndham Worldwide	https://www.wyndhamhotels.com/days-inn/milwaukee-wisconsin/days-inn-and-suites-milwaukee/overview
+way	499213013	Hyatt Place		43.0461766	-87.9215910	hotel		Hyatt Place		https://milwaukeedowntown.place.hyatt.com/en/hotel/home.html
+way	543914469	Hilton Garden Inn		42.9370291	-87.9076609	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/mkegigi-hilton-garden-inn-milwaukee-airport/
+way	551748263			42.9483505	-87.9111817	hotel				
+way	583057213	Home2 Suites by Hilton - Milwaukee Airport		42.9376893	-87.9077310	hotel		Home2 Suites		https://www.hilton.com/en/hotels/mkeaiht-home2-suites-milwaukee-airport/
+way	587012166	Courtyard		42.9604015	-87.9159298	hotel		Courtyard		https://www.marriott.com/mkecy
+way	640954839	Cambria Hotel		43.0363906	-87.9117455	hotel		Cambria Hotel	Choice Hotels International	
+way	663078332	The Iron Horse Hotel		43.0276123	-87.9172460	hotel				https://theironhorsehotel.com/
+way	663963184	Sleep Inn & Suites Airport		42.9609129	-87.9190499	hotel		Sleep Inn & Suites		https://www.choicehotels.com/wisconsin/milwaukee/sleep-inn-hotels/wi186
+way	664010982	Clarion Pointe		42.9525497	-87.9106954	hotel		Clarion Pointe		
+way	699092047	Home2 Suites by Hilton		43.0369344	-87.9054527	hotel		Home2 Suites		https://www.hilton.com/en/hotels/mkesoru-tru-milwaukee-downtown/
+way	1205534370	"The Trade, Autograph Collection"		43.0459464	-87.9166822	hotel		Marriott		https://www.marriott.com/en-us/hotels/mkedd-the-trade-autograph-collection/overview/
+relation	5923588	The Plaza Hotel		43.0443111	-87.9025045	hotel				

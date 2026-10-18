@@ -1,0 +1,23 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	2370912930	The Ritz-Carlton		41.4972635	-81.6946924	hotel		The Ritz-Carlton		
+node	2383674352	Aloft Cleveland Downtown		41.5008073	-81.7033812	hotel		Aloft	A-Loft	
+node	2838195203	Hyatt Regency Cleveland at The Arcade		41.5007579	-81.6907516	hotel		Hyatt Regency		https://cleveland.hyatt.com/
+node	3117729136	"Metropolitan at The 9, Autograph Collection"		41.4997579	-81.6859946	hotel				
+node	3695696884	Residence Inn Cleveland Downtown		41.4986443	-81.6889612	hotel		Residence Inn		https://www.marriott.com/cleri
+node	3707174633	Holiday Inn Express		41.5001502	-81.6887230	hotel		Holiday Inn Express		
+node	3743081821	Hotel Indigo Cleveland Downtown		41.4981743	-81.6876063	hotel		Hotel Indigo		https://www.ihg.com/spnd/hotels/us/en/cleveland/clehr/hoteldetail
+node	4053863521	The Kimpton Schofield Hotel		41.4999150	-81.6867041	hotel		Kimpton		
+node	4414036571	Fidelity Hotel CLE		41.5005410	-81.6896897	hotel				
+way	99941977	Crown Plaza Cleveland at Playhouse Square		41.5004123	-81.6833570	hotel				
+way	122844681	Cleveland Marriott Downtown at Key Tower		41.5013399	-81.6943772	hotel		Marriott Hotels & Resorts		https://www.marriott.com/hotels/travel/clesc-cleveland-marriott-downtown-at-key-tower/
+way	189749435	Drury Plaza Hotel Cleveland Downtown		41.5022025	-81.6919644	hotel				https://www.druryhotels.com/locations/cleveland-oh/drury-plaza-hotel-cleveland-downtown
+way	190952278	Westin		41.5035395	-81.6914761	hotel		Westin		
+way	255085691	DoubleTree by Hilton Hotel Cleveland Downtown - Lakeside		41.5068655	-81.6899696	hotel		DoubleTree		https://www.hilton.com/en/hotels/clelsdt-doubletree-cleveland-downtown-lakeside/
+way	333475725	"Hotel Cleveland, Autograph Collection"		41.4986088	-81.6946966	hotel		Autograph Collection		
+way	333522133	Hampton Inn Cleveland Downtown		41.5024486	-81.6890478	hotel		Hampton		https://www.hilton.com/en/hotels/cledthx-hampton-cleveland-downtown/
+way	412182480	Comfort Inn		41.5009131	-81.6783648	hotel		Comfort Inn		https://www.choicehotels.com/ohio/streetsboro/econo-lodge-hotels
+way	422843581	Hilton Cleveland Downtown		41.5027381	-81.6956676	hotel		Hilton		https://www.hilton.com/en/hotels/cledohh-hilton-cleveland-downtown/
+way	451583932	Hilton Garden Inn		41.4960961	-81.6813034	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/clegwgi-hilton-garden-inn-cleveland-downtown/
+way	553496531	The Orbit Hotel		41.4194277	-81.8541398	hotel				
+way	945794767	Ramada Cleveland Airport West		41.4207332	-81.8663184	hotel		Ramada		https://www.wyndhamhotels.com/ramada/fairview-park-ohio/ramada-cleveland-airport-west/overview
+way	1245328130	Hilton Garden Inn Cleveland Airport		41.4248589	-81.8466954	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/cleahgi-hilton-garden-inn-cleveland-airport/

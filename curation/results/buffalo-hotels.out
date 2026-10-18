@@ -1,0 +1,38 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	4437321217	Hilton Garden Inn		42.8861791	-78.8738339	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/bufmsgi-hilton-garden-inn-buffalo-downtown/
+node	7059003095	Hyatt Regency Buffalo		42.8882431	-78.8740585	hotel		Hyatt Regency	Hyatt	https://www.hyatt.com/en-us/hotel/new-york/hyatt-regency-buffalo-hotel-and-conference-center/buffa
+node	9817704919	Curtiss Hotel		42.8892794	-78.8758740	hotel				https://curtisshotel.com/
+node	9836290232	Aloft Hotel		42.8930632	-78.8738708	hotel		Aloft		
+node	9840409728	The Westin		42.8912023	-78.8770114	hotel		Westin		
+node	11200923980	Courtyard Buffalo Downtown/Canalside		42.8779377	-78.8763880	hotel		Courtyard		https://www.marriott.com/bufdt
+way	31248148	Hampton Inn & Suites		42.8906250	-78.8774584	hotel		Hampton Inn & Suites		https://www.hilton.com/en/hotels/bufdthx-hampton-suites-buffalo-downtown/
+way	49426330	Buffalo Grand Hotel & Event Center		42.8830277	-78.8812196	hotel				
+way	105911533	Salvatore's Garden Place Hotel		42.9475353	-78.6955133	hotel				
+way	141901023	Hostel Buffalo Niagara		42.8920886	-78.8717248	hostel				https://www.hostelbuffalo.com/
+way	236835400	Extended Stay America Suites- Buffalo - Airport		42.9270049	-78.7405351	hotel		Extended Stay America		https://www.extendedstayamerica.com/hotels/ny/buffalo/buffalo-airport
+way	274712151	The Lofts on Pearl		42.8815057	-78.8773037	hotel		Wyndham		
+way	420094239	Hampton Inn Buffalo-Williamsville		42.9611072	-78.7498609	hotel		Hampton		https://www.hilton.com/en/hotels/bufwvhx-hampton-buffalo-williamsville/
+way	425418725	Hilton Garden Inn		42.9308299	-78.7317377	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/bufaggi-hilton-garden-inn-buffalo-airport/
+way	425418728	Quality Inn		42.9304380	-78.7297794	hotel		Quality Inn		http://www.choicehotels.com/new-york/buffalo/quality-inn-hotels/ny116
+way	425418729	TownePlace Suites Buffalo Airport		42.9302396	-78.7284066	hotel		TownePlace Suites		https://www.marriott.com/en-us/hotels/bufts-towneplace-suites-buffalo-airport/overview/
+way	425418730	Fairfield Inn & Suites		42.9309964	-78.7276958	hotel		Fairfield Inn & Suites		https://www.marriott.com/en-us/hotels/buffs-fairfield-inn-and-suites-buffalo-airport/overview/
+way	425418731	Courtyard Buffalo Airport		42.9312322	-78.7291106	hotel		Courtyard	Marriott	https://www.marriott.com/hotels/travel/bufap-courtyard-buffalo-airport/
+way	425418736	Comfort Inn & Suites		42.9319541	-78.7250079	hotel		Comfort Inn & Suites	Ellicott Hospitality	https://www.choicehotels.com/ontario/niagara-falls/radisson-hotels
+way	425418737	Comfort Inn & Suites Buffalo Airport		42.9322367	-78.7251073	hotel		Comfort Inn & Suites		https://www.choicehotels.com/new-york/buffalo/comfort-inn-hotels/ny848
+way	425515414	Hampton Inn & Suites Buffalo Airport		42.9286438	-78.7376914	hotel		Hampton Inn & Suites		https://www.hilton.com/en/hotels/bufathx-hampton-suites-buffalo-airport/
+way	425515417	Holiday Inn Express & Suites		42.9283621	-78.7386121	hotel		Holiday Inn Express & Suites		https://www.ihg.com/holidayinnexpress/hotels/us/en/cheektowaga/bufap/hoteldetail
+way	425517562	Aloft Buffalo Airport		42.9293906	-78.7304243	hotel		Aloft		https://www.marriott.com/en-us/hotels/bufal-aloft-buffalo-airport/overview/
+way	446466014	The Mansion on Delaware Avenue		42.8956827	-78.8756438	hotel				https://mansionondelaware.com/
+way	448018638	Wyndham Garden Buffalo Downtown		42.9000123	-78.8645940	hotel		Wyndham Garden		
+way	626433721	Buffalo Marriott at LECOM Harborcenter		42.8768416	-78.8768571	hotel		Marriott		
+way	955278330	Sleep Inn & Suites Buffalo Airport		42.9374260	-78.7165556	hotel		Sleep Inn & Suites		https://www.choicehotels.com/ontario/niagara-falls/radisson-hotels
+way	1038882155	Buffalo Airport Hotel		42.9355791	-78.7164849	hotel				https://www.buffaloairporthotel.net
+way	1069428316	"Hotel at the Lafayette, Trademark Collection by Wyndham"		42.8849029	-78.8729307	hotel				
+way	1069646975	Embassy Suites		42.8896474	-78.8778905	hotel		Embassy Suites		https://www.hilton.com/en/hotels/bufeses-embassy-suites-buffalo/
+way	1072444422	Holiday Inn Express & Suites		42.8902917	-78.8723763	hotel		Holiday Inn Express & Suites		https://www.ihg.com/holidayinnexpress/hotels/us/en/buffalo/bufms/hoteldetail
+way	1073234309	Lenox Hotel		42.9019693	-78.8744717	hotel				
+way	1073889482	Residence Inn		42.9010557	-78.8739288	hotel		Residence Inn		https://www.marriott.com/bufrd
+way	1224634776	Best Western		42.8982758	-78.8749281	hotel		Best Western		https://www.bestwestern.com/en_US/book/hotels-in-buffalo/best-western-on-the-avenue/propertyCode.33035.html
+way	1256494782	Homewood Suites by Hilton Buffalo-Airport		42.9237823	-78.7426190	hotel		Homewood Suites		https://www.hilton.com/en/hotels/bufaphw-homewood-suites-buffalo-airport/
+way	1409871529	The Inn at Buffalo Airport		42.9359224	-78.7151897	hotel				
+way	1492309146	The Delevan Hotel & Spa		42.9364784	-78.6960179	hotel				

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "ll",
+    "name": "Line L",
+    "color": "#F3D9A6",
+    "code": "L",
+    "stations": [
+      ["Clybourn & Jefferson",43.0364,-87.9047],
+      ["Wisconsin Avenue",43.0385,-87.9065],
+      ["City Hall",43.0416,-87.9069],
+      ["Wisconsin Avenue",43.0383,-87.9078],
+      ["Historic Third Ward",43.0351,-87.9069],
+      ["Michigan & Jackson",43.0377,-87.9043],
+      ["Lakefront",43.0372,-87.8999]
+    ]
+  },
+  {
+    "id": "lm",
+    "name": "The Hop M-Line",
+    "color": "#888888",
+    "code": "M",
+    "stations": [
+      ["Intermodal Station",43.0352,-87.9162],
+      ["Saint Paul at Plankinton",43.0346,-87.9117],
+      ["Historic Third Ward",43.0351,-87.9069],
+      ["Wisconsin Avenue",43.0385,-87.9065],
+      ["City Hall",43.0416,-87.9069],
+      ["Cathedral Square",43.0426,-87.905],
+      ["Jackson at Juneau",43.0462,-87.9047],
+      ["Ogden/Jackson",43.0481,-87.9037],
+      ["Ogden at Astor",43.0481,-87.8999],
+      ["Burns Commons",43.0478,-87.8962]
+    ]
+  }
+]

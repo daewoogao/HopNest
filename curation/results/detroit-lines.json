@@ -1,0 +1,22 @@
+[
+  {
+    "id": "lqline",
+    "name": "QLine",
+    "color": "#DB161C",
+    "code": "QLine",
+    "stations": [
+      ["Grand Boulevard",42.3706,-83.0736],
+      ["Baltimore Street",42.3687,-83.0723],
+      ["Amsterdam Street",42.3662,-83.0707],
+      ["Ferry Street",42.3611,-83.0673],
+      ["Warren Avenue",42.3564,-83.0642],
+      ["Canfield Street",42.3524,-83.0614],
+      ["Martin Luther King Junior Boulevard",42.347,-83.0578],
+      ["Sproat Street",42.3419,-83.0544],
+      ["Montcalm Street",42.339,-83.0524],
+      ["Grand Circus Park",42.3363,-83.0505],
+      ["Campus Martius",42.3321,-83.0473],
+      ["Congress Street",42.3298,-83.0455]
+    ]
+  }
+]

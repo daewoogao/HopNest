@@ -436,3 +436,74 @@
 05:57:52 saltlakecity lines ok
 05:58:15 stlouis lines ok
 08:06:15 dallas lines ok
+15:42:34 austin-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 7857 bytes
+15:42:35 austin-osmall try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 160 bytes
+15:43:11 austin-osmall try 1 https://overpass-api.de/api/interpreter -> 200 12399 bytes
+15:44:03 buffalo-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 695 bytes
+15:44:37 buffalo-hotels try 1 https://overpass-api.de/api/interpreter -> 200 4986 bytes
+15:45:33 buffalo-osmall try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 695 bytes
+15:45:39 buffalo-osmall try 1 https://overpass-api.de/api/interpreter -> 502 534 bytes
+15:45:45 buffalo-osmall try 2 https://overpass.private.coffee/api/interpreter -> 500 646 bytes
+15:45:52 buffalo-osmall try 3 https://overpass.kumi.systems/api/interpreter -> 200 2777 bytes
+15:46:04 cincinnati-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 2659 bytes
+15:46:05 cincinnati-osmall try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 160 bytes
+15:47:03 cincinnati-osmall try 1 https://overpass-api.de/api/interpreter -> 200 3080 bytes
+15:47:04 cleveland-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 160 bytes
+15:47:53 cleveland-hotels try 1 https://overpass-api.de/api/interpreter -> 200 2835 bytes
+15:47:54 cleveland-osmall try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 160 bytes
+15:48:31 cleveland-osmall try 1 https://overpass-api.de/api/interpreter -> 200 3700 bytes
+15:48:32 detroit-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 160 bytes
+15:48:38 detroit-hotels try 1 https://overpass-api.de/api/interpreter -> 502 534 bytes
+15:48:43 detroit-hotels try 2 https://overpass.private.coffee/api/interpreter -> 500 646 bytes
+15:48:49 detroit-hotels try 3 https://overpass.kumi.systems/api/interpreter -> 500 646 bytes
+15:48:55 detroit-hotels try 4 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 160 bytes
+15:49:40 detroit-hotels try 5 https://overpass-api.de/api/interpreter -> 200 3776 bytes
+15:50:34 detroit-osmall try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 695 bytes
+15:51:15 detroit-osmall try 1 https://overpass-api.de/api/interpreter -> 200 6316 bytes
+15:52:03 kansascity-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 695 bytes
+15:52:40 kansascity-hotels try 1 https://overpass-api.de/api/interpreter -> 200 5120 bytes
+15:53:36 kansascity-osmall try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 695 bytes
+15:54:15 kansascity-osmall try 1 https://overpass-api.de/api/interpreter -> 200 6112 bytes
+15:55:05 milwaukee-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 695 bytes
+15:55:46 milwaukee-hotels try 1 https://overpass-api.de/api/interpreter -> 200 5106 bytes
+15:55:47 milwaukee-osmall try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 160 bytes
+15:56:27 milwaukee-osmall try 1 https://overpass-api.de/api/interpreter -> 200 2610 bytes
+15:56:29 norfolk-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 160 bytes
+15:57:09 norfolk-hotels try 1 https://overpass-api.de/api/interpreter -> 200 3364 bytes
+15:57:54 norfolk-osmall try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 2117 bytes
+15:57:55 sacramento-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 160 bytes
+15:58:44 sacramento-hotels try 1 https://overpass-api.de/api/interpreter -> 200 4942 bytes
+15:58:45 sacramento-osmall try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 160 bytes
+15:59:34 sacramento-osmall try 1 https://overpass-api.de/api/interpreter -> 200 6287 bytes
+15:59:36 sanjose-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 160 bytes
+16:00:25 sanjose-hotels try 1 https://overpass-api.de/api/interpreter -> 200 6231 bytes
+16:01:13 sanjose-osmall try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 695 bytes
+16:01:18 sanjose-osmall try 1 https://overpass-api.de/api/interpreter -> 502 534 bytes
+16:01:24 sanjose-osmall try 2 https://overpass.private.coffee/api/interpreter -> 500 646 bytes
+16:01:29 sanjose-osmall try 3 https://overpass.kumi.systems/api/interpreter -> 500 646 bytes
+16:01:35 sanjose-osmall try 4 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 160 bytes
+16:01:41 sanjose-osmall try 5 https://overpass-api.de/api/interpreter -> 502 534 bytes
+16:01:46 sanjose-osmall try 6 https://overpass.private.coffee/api/interpreter -> 500 646 bytes
+16:01:51 sanjose-osmall try 7 https://overpass.kumi.systems/api/interpreter -> 500 646 bytes
+16:01:57 tampa-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 160 bytes
+16:02:03 tampa-hotels try 1 https://overpass-api.de/api/interpreter -> 502 534 bytes
+16:02:08 tampa-hotels try 2 https://overpass.private.coffee/api/interpreter -> 500 646 bytes
+16:02:14 tampa-hotels try 3 https://overpass.kumi.systems/api/interpreter -> 500 646 bytes
+16:03:04 tampa-hotels try 4 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 695 bytes
+16:03:50 tampa-hotels try 5 https://overpass-api.de/api/interpreter -> 200 7135 bytes
+16:04:07 tampa-osmall try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 3973 bytes
+16:04:23 tucson-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 5402 bytes
+16:04:24 tucson-osmall try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 160 bytes
+16:04:59 tucson-osmall try 1 https://overpass-api.de/api/interpreter -> 200 2857 bytes
+16:07:21 austin lines ok
+16:07:32 buffalo lines ok
+16:07:56 cincinnati lines ok
+16:08:43 cleveland lines ok
+16:09:10 detroit lines ok
+16:11:45 kansascity lines FAILED
+16:13:12 milwaukee lines ok
+16:14:59 norfolk lines ok
+16:15:21 sacramento lines ok
+16:15:35 sanjose lines ok
+16:19:06 tampa lines FAILED
+16:21:49 tucson lines ok

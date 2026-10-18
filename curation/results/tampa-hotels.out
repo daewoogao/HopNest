@@ -1,0 +1,49 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	11397977214	ROOST Tampa		27.9447042	-82.4506833	hotel		roost		https://www.myroost.com/extended-stay-hotel-tampa-florida
+node	11879279011	Home2 Suites		27.9549319	-82.5341104	hotel		Home2 Suites		https://www.hilton.com/en/hotels/tpawaht-home2-suites-tampa-westshore-airport/
+node	11879279014	SpringHill Suites		27.9530502	-82.4607489	hotel		SpringHill Suites		https://www.marriott.com/tpads
+way	25678457	Hyatt Place		27.9477522	-82.4565082	hotel		Hyatt Place		hyatt.com
+way	26234490	Don Vicente de Ybor Historic Inn		27.9615056	-82.4440209	hotel				
+way	26234626	Hilton Garden Inn Tampa Ybor Historic District		27.9620879	-82.4398390	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/tpaycgi-hilton-garden-inn-tampa-ybor-historic-district/
+way	26265103	Embassy Suites by Hilton Tampa Downtown Convention Center		27.9422899	-82.4550540	hotel		Embassy Suites		https://www.hilton.com/en/hotels/tpaeses-embassy-suites-tampa-downtown-convention-center/
+way	26265115	Tampa Marriott Water Street		27.9409109	-82.4538657	hotel		Marriott		
+way	26282747	Hotel Tampa Riverwalk		27.9461227	-82.4594953	hotel		Curio Collection by Hilton		https://www.hoteltampariverwalk.com/
+way	26287186	Aloft Tampa Downtown		27.9466791	-82.4600965	hotel		Aloft		
+way	26287341	The Barrymore Hotel Tampa Riverwalk		27.9529430	-82.4639660	hotel				https://barrymorehotel.com
+way	26304326	"Hotel Flor Tampa Downtown, Tapestry Collection by Hilton"		27.9520320	-82.4585671	hotel		Tapestry Collection by Hilton		https://www.hilton.com/en/hotels/tpamtup-hotel-flor-tampa-downtown/
+way	26312786	Residence Inn Tampa Downtown		27.9515372	-82.4610712	hotel		Residence Inn		https://www.marriott.com/hotels/travel/tpatd-residence-inn-tampa-downtown/
+way	29212177	The Westin Tampa Waterside		27.9385036	-82.4545700	hotel		Westin		
+way	74112614	Hotel Haya		27.9606465	-82.4436106	hotel				https://hotelhaya.com/
+way	98906438	Grand Hyatt Tampa Bay		27.9651848	-82.5501494	hotel		Grand Hyatt		https://www.hyatt.com/en-US/hotel/florida/grand-hyatt-tampa-bay/tparw
+way	105951108	Le Méridien Tampa		27.9500481	-82.4574196	hotel		Le Méridien		http://www.lemeridientampa.com/
+way	175997892	Hilton		27.9462118	-82.4576919	hotel		Hilton		https://hilton.com/en/hotels/tpanthf-hilton-tampa-downtown/
+way	333538478	Hampton Inn & Suites Tampa/Ybor City/Downtown		27.9599258	-82.4450480	hotel		Hampton Inn & Suites		https://hamptoninn3.hilton.com/en/hotels/florida/hampton-inn-and-suites-tampa-ybor-city-downtown-TPAYBHX/index.html
+way	498661266	Tampa Airport Marriott		27.9816175	-82.5346450	hotel		Marriott	Marriott	https://www.marriott.com/hotels/travel/tpaap-tampa-airport-marriott/
+way	522647295	"Country Inn & Suites, Tampa RJ Stadium"		27.9876199	-82.5069411	hotel		Country Inn & Suites		https://www.radissonhotelsamericas.com/en-us/hotels/country-inn-tampa-stadium
+way	523069528	Extended Stay America - Tampa - North Airport		27.9979465	-82.5466186	hotel		Extended Stay America		
+way	523472308	Extended Stay America - Tampa - Airport - Memorial Highway		27.9827475	-82.5482726	hotel		Extended Stay America		https://www.extendedstayamerica.com/hotels/fl/tampa/airport-memorial-hwy
+way	523825819	Holiday Inn Tampa Westshore - Airport Area		27.9517300	-82.5250437	hotel		Holiday Inn		https://www.ihg.com/holidayinn/hotels/us/en/tampa/tpacp/hoteldetail
+way	523825882	Hilton Garden Inn Tampa Airport Westshore		27.9577602	-82.5333944	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/tpawsgi-hilton-garden-inn-tampa-airport-westshore/
+way	523825884	Homewood Suites by Hilton Tampa Airport/Westshore		27.9586642	-82.5335771	hotel		Homewood Suites		
+way	523825891	La Quinta Inn Tampa Bay Airport		27.9588425	-82.5259959	hotel		La Quinta Inn		https://www.wyndhamhotels.com/laquinta/tampa-florida/la-quinta-inn-tampa-airport-stadium-westshore/overview
+way	524312653	Renaissance Tampa International Plaza Hotel		27.9659324	-82.5203912	hotel		Renaissance		
+way	569139357	Hampton Inn & Suites Tampa Airport Avion Park Westshore		27.9593457	-82.5338210	hotel		Hampton Inn & Suites	Hilton	https://www.hilton.com/en/hotels/tpaashx-hampton-suites-tampa-airport-avion-park-westshore/
+way	781401062	Hampton Inn Tampa Downtown Channel District		27.9500752	-82.4484566	hotel		Hampton		https://www.hilton.com/en/hotels/tpatbhx-hampton-tampa-downtown-channel-district/
+way	918578798	Courtyard Tampa Downtown		27.9512151	-82.4609368	hotel		Courtyard		https://www.marriott.com/tpadt
+way	918579596	AC Hotel by Marriott Tampa Airport		27.9650795	-82.5113076	hotel		AC Hotel		
+way	923357516	JW Marriott Tampa Water Street		27.9419273	-82.4536586	hotel		JW Marriott		https://www.marriott.com/en-us/hotels/tpajd-jw-marriott-tampa-water-street/overview/
+way	1112845616	Ramada Westshore Tampa Airport		27.9539312	-82.5251889	hotel		Ramada		https://www.wyndhamhotels.com/ramada/tampa-florida/ramada-tampa-westshore/overview
+way	1122687941	The Tampa EDITION		27.9437900	-82.4508698	hotel		Edition		https://www.editionhotels.com/tampa/
+way	1208792324	Hilton Tampa Airport Westshore Hotel		27.9624940	-82.5127739	hotel		Hilton	Hilton	https://www3.hilton.com/en/hotels/florida/hilton-tampa-airport-westshore-TPAAHHF/index.html
+way	1208805011	Fairfield Inn & Suites Tampa Westshore/Airport		27.9616525	-82.5127750	hotel		Fairfield Inn & Suites		https://www.marriott.com/en-us/hotels/tpawa-fairfield-inn-and-suites-tampa-westshore-airport/overview/
+way	1208971703	Residence Inn Tampa Westshore/Airport		27.9620820	-82.5144411	hotel		Residence Inn	Marriott	https://www.marriott.com/en-us/hotels/tpaws-residence-inn-tampa-westshore-airport/overview/
+way	1209756708	Extended Stay America		27.9588964	-82.5174052	hotel		Extended Stay America		
+way	1210315346	Four Points by Sheraton Suites Tampa Airport Westshore		27.9515623	-82.5185508	hotel		Four Points by Sheraton		https://www.marriott.com/en-us/hotels/tpafp-four-points-by-sheraton-suites-tampa-airport-westshore/
+way	1210756317	Marriott Tampa Westshore		27.9530074	-82.5230665	hotel		Marriott		https://www.marriott.com/en-us/hotels/tpawe-marriott-tampa-westshore/overview/
+way	1212526514	Extended Stay America		27.9582148	-82.5226714	hotel		Extended Stay America		
+way	1212653542	SpringHill Suites Tampa Westshore Airport		27.9529645	-82.5256242	hotel		SpringHill Suites		https://www.marriott.com/tpash
+way	1213439465	TownePlace Suites Tampa Westshore/Airport		27.9576114	-82.5324136	hotel		TownePlace Suites		https://www.marriott.com/tpatw
+way	1213439467	Hyatt House Tampa Airport / Westshore		27.9568585	-82.5324786	hotel		Hyatt House		https://www.hyatt.com/en-US/hotel/florida/hyatt-house-tampa-airport-westshore/tpaxw
+way	1213452496	Hyatt Place Tampa Airport/Westshore		27.9573682	-82.5260147	hotel		Hyatt Place		https://www.hyatt.com/en-us/hotel/florida/hyatt-place-tampa-airport-westshore/tpazw
+way	1213452499	Hampton Inn Tampa Airport		27.9564438	-82.5256164	hotel		Hampton		https://www.hilton.com/en/hotels/tpaathx-hampton-tampa-international-airport-westshore/
+way	1214575572	Chase Suite Hotel Tampa		27.9703813	-82.5623297	hotel				https://www.chasehoteltampa.com/

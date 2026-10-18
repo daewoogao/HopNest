@@ -1,0 +1,40 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	2056515537	Fairfield Inn & Suites Kansas City Airport		39.3085540	-94.6851491	hotel		Fairfield Inn		https://www.marriott.com/mcifa
+node	4368727614	Courtyard Kansas City Downtown/Convention Center		39.0951453	-94.5843779	hotel		Courtyard	Chartwell Hospitality LLC	https://www.marriott.com/hotels/travel/mciks-courtyard-kansas-city-downtown-convention-center/
+node	4368727615	Residence Inn Kansas City Downtown/Convention Center		39.0948694	-94.5843900	hotel		Residence Inn	Chartwell Hospitality LLC	https://www.marriott.com/mcisr
+node	4625212877	"Ambassador Hotel Kansas City, Autograph Collection"		39.1006167	-94.5806457	hotel				
+node	6305152372	Hotel Indigo Kansas City Downtown		39.1007411	-94.5846519	hotel		Hotel Indigo		https://www.ihg.com/hotelindigo/hotels/us/en/kansas-city/mkcsw/hoteldetail
+node	9451056440	Hotel Kansas City		39.0988729	-94.5846350	hotel		Hyatt	Hyatt	https://www.hyatt.com/en-US/hotel/missouri/hotel-kansas-city/mcijd
+node	12366997585	AC Hotel Kansas City Downtown		39.1033199	-94.5810963	hotel		AC Hotel		https://www.marriott.com/en-us/hotels/mciad-ac-hotel-kansas-city-downtown/overview/
+node	13908302919	Hotel No Vacancy		39.0920475	-94.5857389	hotel				https://hotelnovacancy.com/
+node	13908424643	Aiden by Best Western Kansas City Downtown		39.0983212	-94.5782726	hotel		Aiden		https://www.bestwestern.com/en_US/book/hotels-in-kansas-city/aiden-by-best-western-kansas-city-downtown/propertyCode.26200.html
+way	37832783	Sheraton Kansas City Hotel at Crown Center		39.0852975	-94.5797598	hotel		Sheraton		
+way	50903451	The Westin Crown Center		39.0829578	-94.5831286	hotel		Westin		
+way	65582848	Hilton President Kansas City		39.0975344	-94.5841384	hotel		Hilton		
+way	132570889	Marriott-Kansas City Downtown		39.1005014	-94.5862863	hotel		Marriott		
+way	193222006	Crowne Plaza Hotel Kansas City Downtown		39.0983793	-94.5852999	hotel		Crowne Plaza		
+way	195165332	Comfort Inn and Suites		39.2924595	-94.6820442	hotel		Comfort Inn & Suites		
+way	195165338	Days Inn by Wyndham Kansas City International Airport		39.2934177	-94.6825705	hotel		Days Inn		https://www.wyndhamhotels.com/days-inn/kansas-city-missouri/days-inn-kansas-city-international-airport/overview
+way	195165359	Candlewood Suites		39.2929696	-94.6823454	hotel		Candlewood Suites		
+way	195165360	Hilton		39.2949648	-94.6829346	hotel		Hilton	MCI Hotel Partners LLC	
+way	195165378	Best Western		39.2938662	-94.6827701	hotel		Best Western	MCI Hospitality	
+way	195169237	Extended Stay America		39.3052943	-94.6849232	hotel		Extended Stay America		
+way	195169243	Clarion Hotel		39.3089901	-94.6847690	hotel		Clarion		
+way	195169245	Microtel Inn & Suites		39.3085547	-94.6829683	hotel		Microtel Inn & Suites		
+way	195169246	Four Points by Sheraton		39.3097147	-94.6836500	hotel		Four Points by Sheraton		
+way	195169249	Holiday Inn Kansas City Airport		39.3063305	-94.6836375	hotel		Holiday Inn		
+way	195169265	Hampton Inn Kansas City-Airport		39.2980982	-94.6843287	hotel		Hampton		https://www.hilton.com/en/hotels/mkcathx-hampton-kansas-city-airport/
+way	253822470	Fairfield Inn Kansas City Downtown/Union Hill		39.0726151	-94.5846404	hotel		Fairfield Inn		https://www.marriott.com/mciun
+way	273363655	Hampton Inn & Suites		39.0948027	-94.5831419	hotel		Hampton Inn & Suites		https://www.hilton.com/en/hotels/mkcdchx-hampton-suites-kansas-city-downtown-crossroads/
+way	288033187	Hotel Indigo Kansas City - The Crossroads		39.0884655	-94.5818816	hotel		Hotel Indigo		https://www.ihg.com/hotelindigo/hotels/us/en/kansas-city/mkcdg/hoteldetail
+way	325344498	Holiday Inn Kansas City - Downtown		39.1057337	-94.5742144	hotel		Holiday Inn		
+way	340312222	Crossroads Hotel		39.0879544	-94.5872282	hotel				
+way	365029598	Holiday Inn Express Kansas City Downtown		39.0983111	-94.5778023	hotel		Holiday Inn Express		
+way	365392539	Hampton Inn Kansas City/Downtown Financial District		39.1042868	-94.5815202	hotel		Hampton		https://www.hilton.com/en/hotels/mkcfdhx-hampton-kansas-city-downtown-financial-district/
+way	365398894	"Hotel Savoy Kansas City, Tapestry Hotel by Hilton"		39.1034617	-94.5864544	hotel				https://www.hilton.com/en/hotels/mkccnup-hotel-savoy-kansas-city/
+way	365593279	Hotel Phillips		39.1001427	-94.5846687	hotel				
+way	437364923	Home2 Suites Kansas City Downtown		39.0887293	-94.5832026	hotel		Home2 Suites	Hilton	https://www.hilton.com/en/hotels/mkcdoht-home2-suites-kansas-city-downtown/
+way	481155922	Kansas City Airport Marriott		39.3098110	-94.7137148	hotel		Marriott		https://www.marriott.com/hotels/travel/mciap-kansas-city-airport-marriott/
+way	562327354	Loews Kansas City Hotel		39.0952898	-94.5851981	hotel		Loews		https://www.loewshotels.com/kansas-city-hotel
+way	627462086	TownePlace Suites Kansas City Airport		39.3077878	-94.6852740	hotel		TownePlace Suites		https://www.marriott.com/mcita
+way	820307509	La Quinta Inn & Suites Kansas City Beacon Hill		39.0840850	-94.5703356	hotel		La Quinta Inn & Suites		https://www.wyndhamhotels.com/laquinta/kansas-city-missouri/la-quinta-inn-and-suites-kansas-city-beacon-hill/overview

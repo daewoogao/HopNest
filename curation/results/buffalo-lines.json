@@ -1,0 +1,24 @@
+[
+  {
+    "id": "lmetro",
+    "name": "NFTA Metro Rail",
+    "color": "#004990",
+    "code": "Metro",
+    "stations": [
+      ["DL&W",42.874,-78.8769],
+      ["Canalside",42.8781,-78.8768],
+      ["Seneca",42.8817,-78.8757],
+      ["Church",42.8842,-78.8749],
+      ["Lafayette Square",42.887,-78.8739],
+      ["Fountain Plaza",42.8899,-78.873],
+      ["Allen/Medical Campus",42.8994,-78.8699],
+      ["Summer–Best",42.9047,-78.8681],
+      ["Utica",42.9115,-78.8658],
+      ["Delavan/Canisius College",42.9225,-78.8569],
+      ["Humboldt–Hospital",42.9275,-78.8516],
+      ["Amherst Street",42.9399,-78.8383],
+      ["LaSalle",42.9477,-78.8297],
+      ["University",42.9547,-78.82]
+    ]
+  }
+]

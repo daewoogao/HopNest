@@ -1,0 +1,21 @@
+[
+  {
+    "id": "ltide",
+    "name": "HRT Tide",
+    "color": "#004D9F",
+    "code": "Tide",
+    "stations": [
+      ["Newtown Road",36.841,-76.1901],
+      ["Military Highway",36.8415,-76.2132],
+      ["Ingleside Road",36.8428,-76.2352],
+      ["Ballentine/Broad Creek",36.8462,-76.2533],
+      ["NSU",36.8459,-76.2697],
+      ["Harbor Park",36.844,-76.2782],
+      ["Civic Plaza",36.8458,-76.2856],
+      ["MacArthur Square",36.8473,-76.2898],
+      ["Monticello",36.8513,-76.2887],
+      ["York Street/Freemason",36.8536,-76.294],
+      ["EVMC/Fort Norfolk",36.8588,-76.3036]
+    ]
+  }
+]

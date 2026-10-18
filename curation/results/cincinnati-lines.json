@@ -1,0 +1,29 @@
+[
+  {
+    "id": "l100",
+    "name": "Line 100",
+    "color": "#888888",
+    "code": "100",
+    "stations": [
+      ["The Banks",39.0982,-84.5097],
+      ["4th & Main",39.1008,-84.5095],
+      ["6th & Main",39.1033,-84.5102],
+      ["8th & Main",39.1053,-84.5107],
+      ["Court & Main",39.1071,-84.5112],
+      ["Hanke Exchange",39.1085,-84.5115],
+      ["12th & Vine",39.1083,-84.5146],
+      ["14th & Elm",39.1099,-84.5185],
+      ["Liberty & Elm",39.1129,-84.5193],
+      ["Findlay Market–Elm",39.115,-84.5198],
+      ["Brewery District",39.1172,-84.5204],
+      ["Findlay Market–Race",39.1156,-84.5184],
+      ["Liberty & Race",39.1126,-84.5175],
+      ["Washington Park",39.1085,-84.5165],
+      ["Central Parkway",39.1072,-84.5141],
+      ["Public Library",39.1053,-84.5124],
+      ["Aronoff Center",39.1041,-84.5121],
+      ["Fountain Square",39.1009,-84.5113],
+      ["The Banks",39.0982,-84.5097]
+    ]
+  }
+]

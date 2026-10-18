@@ -1,0 +1,27 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	12673403370	Sleep Inn Lake Wright - Norfolk Airport		36.8778371	-76.1944800	hotel		Sleep Inn		https://www.choicehotels.com/virginia/norfolk/sleep-inn-hotels/va059
+node	12673403371	Quality Suites Lake Wright		36.8775178	-76.1947358	hotel		Quality Inn & Suites		https://www.choicehotels.com/virginia/norfolk/quality-inn-hotels/va055
+node	12851352609	Spark by Hilton		36.9195050	-76.1924819	hotel		Hilton		
+way	406991649	Days Inn		36.8735373	-76.2098969	hotel		Days Inn		https://www.wyndhamhotels.com/days-inn/norfolk-virginia/daysinn-norfolk/overview
+way	406991664	DoubleTree by Hilton Hotel Norfolk Airport		36.8758820	-76.2093712	hotel		DoubleTree		https://www.hilton.com/en/hotels/orfnadt-doubletree-norfolk-airport/
+way	406991666	Hampton Inn & Suites		36.8748309	-76.2078958	hotel		Hampton Inn & Suites		https://www.hilton.com/en/hotels/orfaphx-hampton-suites-norfolk-airport/
+way	406991704			36.8778909	-76.1948164	hotel				
+way	406991765	Delta by Marriott Norfolk Airport		36.8776122	-76.2102345	hotel		Delta Hotels		https://www.marriott.com/en-us/hotels/orfde-delta-hotels-norfolk-airport/overview/
+way	407213121	La Quinta Inn & Suites Norfolk Airport		36.8717051	-76.2115658	hotel		La Quinta Inn & Suites	La Quinta	https://www.wyndhamhotels.com/laquinta/norfolk-virginia/la-quinta-inn-and-suites-norfolk/overview
+way	407402022	The James Apartments		36.8511086	-76.2901944	hotel				
+way	407402442	Wyndham Garden Norfolk Downtown		36.8551739	-76.2861828	hotel		Wyndham Garden		
+way	407402599	Sheraton Norfolk Waterside Hotel		36.8437120	-76.2894830	hotel		Sheraton		
+way	407402930	Residence Inn Norfolk Downtown		36.8538528	-76.2913882	hotel		Residence Inn		https://www.marriott.com/orfrn
+way	407409058	Best Western Center Inn		36.8854630	-76.1824184	hotel		Best Western		https://www.bestwestern.com/en_US/book/hotel-rooms.47087.html
+way	407411619	Weekly Lodging		36.8839070	-76.1806232	hotel				
+way	407411637	Fairfield Inn & Suites Virginia Beach/Norfolk Airport		36.8824425	-76.1876281	hotel		Fairfield Inn & Suites		https://www.marriott.com/orffv
+way	407411645	Comfort Inn & Suites Virginia Beach - Norfolk Airport		36.8824335	-76.1886387	hotel		Comfort Inn & Suites		https://www.choicehotels.com/virginia/virginia-beach/comfort-inn-hotels/va697
+way	408470347	Norfolk Waterside Marriott		36.8455297	-76.2906665	hotel				
+way	408470351	Hilton Norfolk The Main		36.8466775	-76.2916714	hotel		Hilton		
+way	408624572	"Glass Light Hotel & Gallery, Autograph Collection"		36.8481428	-76.2917436	hotel				
+way	412981714	Red Roof Inn		36.8831698	-76.1820821	hotel		Red Roof Inn		https://www.redroof.com/property/va/virginia-beach/RRI567
+way	901030165	Home2 Suites		36.8759171	-76.2117887	hotel		Home2 Suites		https://www.hilton.com/en/hotels/orfhtht-home2-suites-norfolk-airport/
+way	920903462	Courtyard Norfolk Downtown		36.8468382	-76.2871992	hotel		Courtyard		https://www.marriott.com/orfdt
+way	1030557134	Tru		36.8789468	-76.1958415	hotel		Tru		https://www.hilton.com/en/hotels/orfruru-tru-norfolk-airport/
+relation	19516129	Magnusson Hotel Virginia Beach		36.8857616	-76.1814859	hotel		Magnusson		https://www.magnusonhotels.com/magnuson-hotel-virginia-beach/
+relation	19592565	Residence Inn Norfolk Airport		36.8789178	-76.2104297	hotel		Residence Inn		https://www.marriott.com/orfri

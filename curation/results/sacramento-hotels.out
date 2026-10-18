@@ -1,0 +1,42 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	4826369722			38.5523286	-121.4541390	hotel				
+node	11507287550	Home2 Suites		38.5821918	-121.5216029	hotel		Home2 Suites		https://www.hilton.com/en/hotels/sacusht-home2-suites-sacramento-west/
+node	12512682932	AC Hotel		38.5822156	-121.4968563	hotel		AC Hotel		https://www.marriott.com/en-us/hotels/smfac-ac-hotel-sacramento/overview/
+node	12751255886	SureStay Plus by Best Western Sacramento Cal Expo		38.6007561	-121.4565195	hotel		Best Western		
+node	12751255893	Residence Inn		38.5987793	-121.4547115	hotel		Residence Inn		
+node	14192062436	"The Exchange Hotel, Curio Collection by Hilton"		38.5822021	-121.5017257	hotel				
+way	120722570	Hyatt Regency Sacramento		38.5777116	-121.4906865	hotel		Hyatt Regency	Hyatt	https://www.hyatt.com/hyatt-regency/en-us/sacra-hyatt-regency-sacramento
+way	120722592	Holiday Inn Sacramento-Capitol Plaza		38.5818657	-121.5023562	hotel		Holiday Inn		
+way	199461183	Embassy Suites by Hilton Sacramento - Riverfront Promenade		38.5795662	-121.5069076	hotel		Embassy Suites		https://www.hilton.com/en/hotels/saceses-embassy-suites-sacramento-riverfront-promenade/
+way	201524891	Hilton Garden Inn Sacramento/South Natomas		38.6112122	-121.5118138	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/smfsngi-hilton-garden-inn-sacramento-south-natomas/
+way	201524895	SpringHill Suites Sacramento Airport Natomas		38.6106252	-121.5139796	hotel		SpringHill Suites		https://www.marriott.com/sacsh
+way	202038554			38.6010718	-121.4560869	hotel				
+way	255944060	Comfort Suites - Downtown		38.5957785	-121.5059781	hotel		Comfort Suites		https://www.choicehotels.com/united-states/test-hotels/suburban-hotels
+way	255945633	Quality Inn & Suites		38.5953194	-121.5058772	hotel		Quality Inn & Suites		
+way	255945634	BEST WESTERN Sandman Motel		38.5943154	-121.5053051	hotel		Best Western		https://www.bestwestern.com/en_US/book/hotels-in-sacramento/best-western-sandman-hotel/propertyCode.05240.html
+way	255945736	Executive Inn and Suites Sacramento		38.5957419	-121.5026140	hotel				
+way	307095179	Courtyard Sacramento Midtown		38.5520897	-121.4542033	hotel		Courtyard		https://www.marriott.com/saccy
+way	331119710	"The Citizen Hotel, Autograph Collection"		38.5801485	-121.4938731	hotel		Autograph Collection		https://www.thecitizenhotel.com/
+way	362164303	Delta King		38.5828182	-121.5068519	hotel		Delta Hotels		
+way	406520288	"Hotel Med Park, Ascend Hotel Collection"		38.5537071	-121.4572920	hotel		Ascend Hotel Collection		
+way	406521987	Red Lion Inn & Suites Sacramento		38.5688414	-121.4677072	hotel		Red Lion Inn & Suites		
+way	437894396	Sheraton Grand Sacramento Hotel		38.5790188	-121.4899276	hotel		Sheraton		https://www.marriott.com/en-us/hotels/sacsi-sheraton-grand-sacramento-hotel/overview/
+way	437894766	Residence Inn by Marriott Sacramento Downtown at Capitol Park		38.5765003	-121.4870140	hotel		Residence Inn		https://www.marriott.com/en-us/hotels/sacdt-residence-inn-sacramento-downtown-at-capitol-park/overview/
+way	438075193	Congress Hotel		38.5805579	-121.4906922	hotel				
+way	485762047	"Inn Off Capitol Park, Ascend Hotel Collection"		38.5734825	-121.4875321	hotel				
+way	526566015	Vizcaya Sacramento		38.5643232	-121.4832757	hotel				
+way	722129286	Kimpton Sawyer Hotel		38.5814935	-121.4994289	hotel		Kimpton		
+way	735371890	Hyatt House Sacramento / Midtown		38.5732234	-121.4700905	hotel		Hyatt House		https://www.hyatt.com/en-US/hotel/california/hyatt-house-sacramento-midtown/sacxs
+way	736907910	SureStay Plus by Best Western Sacramento North		38.5978404	-121.5031611	hotel		Surestay Plus		https://www.bestwestern.com/en_US/book/hotels-in-sacramento/surestay-plus-hotel-by-best-western-sacramento-north/propertyCode.52004.html
+way	736907915	Governors Inn Hotel		38.5965174	-121.5019039	hotel				
+way	924665033	Courtyard by Sacramento Airport Natomas		38.6057634	-121.5105161	hotel		Courtyard		https://www.marriott.com/sacch
+way	925059065	Sterling Hotel		38.5809410	-121.4881789	hotel				
+way	925060642	Quality Inn Sacramento Convention Center		38.5799602	-121.4863412	hotel		Quality Inn		
+way	980095482	The Fort Sutter Hotel Sacramento		38.5702504	-121.4710838	hotel				
+way	980099393	HI Sacramento		38.5828554	-121.4927892	hostel				
+way	1145469718	Hyatt Centric Downtown Sacramento		38.5795361	-121.4985510	hotel		Hyatt Centric		https://www.hyatt.com/en-US/hotel/california/hyatt-centric-downtown-sacramento/smfct
+way	1244793508	Crossroads Inn		38.5964817	-121.5051069	hotel				
+way	1529422094	The Greens on Del Paso Blvd		38.6072335	-121.4559392	hotel				https://www.thegreensdelpaso.com/
+relation	6106556	Residence Inn Sacramento Airport Natomas		38.6132984	-121.5131628	hotel		Residence Inn		
+relation	6106557	Hawthorn Suites by Wyndham Sacramento		38.5983480	-121.5015399	hotel		Hawthorn Suites		
+relation	7930692	La Quinta Inn Sacramento Downtown		38.5973991	-121.5056637	hotel		La Quinta Inn		

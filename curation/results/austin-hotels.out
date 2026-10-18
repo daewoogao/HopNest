@@ -1,0 +1,63 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	2090753307	Omni Hotel & Resorts		30.2721828	-97.7470268	hotel				
+node	3825447567	1 Hotel Austin		30.2609777	-97.7394349	hotel		1 Hotel		https://www.1hotels.com/austin
+node	3849779925	Hotel Indigo Austin Downtown - University		30.2691580	-97.7364150	hotel		Hotel Indigo		https://www.ihg.com/hotelindigo/hotels/us/en/austin/ausit/hoteldetail
+node	5133166923	WorldMark Austin		30.2716502	-97.7474754	hotel		WorldMark by Wyndham	WorldMark by Wyndham	
+node	8964090024	The Loren at Lady Bird Lake		30.2640327	-97.7567284	hotel		The Loren		https://www.thelorenhotels.com/austin/
+node	9421933813	Austin Proper Hotel		30.2661348	-97.7501475	hotel			Proper Hospitality Group	https://www.properhotel.com/austin/
+node	11784070980			30.2526873	-97.7477202	hotel				
+node	12577833089	Hilton Austin		30.2652582	-97.7380600	hotel		Hilton		https://www.hilton.com/en/hotels/auscvhh-hilton-austin/
+way	37417989	LINE		30.2627226	-97.7439750	hotel				
+way	43957022	Hilton Garden Inn Austin Downtown		30.2653601	-97.7355577	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/ausgigi-hilton-garden-inn-austin-downtown/
+way	55932518	Hampton Inn & Suites Austin Downtown		30.2640406	-97.7420892	hotel		Hampton Inn & Suites		https://www.hilton.com/en/hotels/ausdthx-hampton-suites-austin-downtown-convention-center/
+way	92975894	"Downright Austin, A Renaissance Hotel"		30.2703516	-97.7343240	hotel		Marriott		https://www.marriott.com/en-us/hotels/ausbr-downright-austin-a-renaissance-hotel/overview/
+way	99256740	Firehouse Lounge & Hostel		30.2681654	-97.7410635	hostel				
+way	104137274	Embassy Suites by Hilton Austin Downtown South Congress		30.2585450	-97.7468957	hotel		Embassy Suites		https://www.hilton.com/en/hotels/auslkes-embassy-suites-austin-downtown-south-congress/
+way	104137285	Hyatt Regency Austin		30.2607066	-97.7467623	hotel		Hyatt Regency		https://www.hyatt.com/en-us/hotel/texas/hyatt-regency-austin/ausra
+way	134786106	Fairmont Austin		30.2621078	-97.7382039	hotel		Fairmont		
+way	134786196	Holiday Inn Austin Town Lake		30.2536002	-97.7374785	hotel		Holiday Inn		https://www.ihg.com/holidayinn/hotels/us/en/austin/austl/hoteldetail
+way	134807221	Four Seasons Hotel Austin		30.2616262	-97.7422786	hotel		Four Seasons		https://www.fourseasons.com/austin/
+way	134807228	W Austin		30.2656680	-97.7469770	hotel		W Hotels		https://www.marriott.com/hotels/travel/auswh-w-austin/
+way	183289651	Omni Austin Hotel Downtown		30.2689376	-97.7404061	hotel			Omni Hotels & Resorts	https://www.omnihotels.com/hotels/austin-downtown
+way	183977271	Hilton Austin Airport		30.2114663	-97.6638856	hotel		Hilton		https://www3.hilton.com/en/hotels/texas/hilton-austin-airport-AUSAHHF/index.html
+way	187766493	Extended Stay America - Austin - Downtown - Town Lake		30.2570174	-97.7499606	hotel		Extended Stay America		https://www.extendedstayamerica.com/hotels/tx/austin/downtown?channel=gmb-listing
+way	209080161	Courtyard Austin Airport		30.2175821	-97.6874255	hotel		Courtyard		https://www.marriott.com/ausaa
+way	231123149	JW Marriott Austin		30.2645565	-97.7433363	hotel		JW Marriott	Marriott	https://www.jwmarriottaustin.com/
+way	231125471	Hyatt Place		30.2644031	-97.7418890	hotel		Hyatt Place	Hyatt	https://www.hyatt.com/en-us/hotel/texas/hyatt-place-austin-downtown/auszd
+way	236328111	Hampton Inn & Suites Austin at The University/Capitol		30.2795674	-97.7408297	hotel		Hampton Inn & Suites		https://www.hilton.com/en/hotels/ausuahx-hampton-suites-austin-at-the-university-capitol/
+way	313917989	The Driskill		30.2681144	-97.7417210	hotel				https://driskillhotel.com
+way	328526440	Hyatt Centric Congress Avenue Austin		30.2696522	-97.7417612	hotel		Hyatt Centric		http://hyattcentriccongressavenueaustin.com/
+way	328526453	The Stephen F Austin Royal Sonesta Hotel		30.2691011	-97.7419672	hotel		Sonesta		https://www.sonesta.com/us/texas/austin/stephen-f-austin-royal-sonesta-hotel
+way	368003367	Aloft Austin Downtown		30.2686774	-97.7421171	hotel		Aloft		https://www.marriott.com/hotels/travel/ausda-aloft-austin-downtown/
+way	380917009	Goodall Wooten House		30.2830540	-97.7455510	hotel				https://www.hotelella.com/
+way	380922423	The Quarters at Hardin House		30.2858855	-97.7445585	hotel				
+way	381834143	DoubleTree Suites by Hilton Austin Downtown Capitol		30.2773710	-97.7425297	hotel		DoubleTree		https://www.hilton.com/en/hotels/ausfldt-doubletree-suites-austin-downtown/
+way	382130723	DoubleTree by Hilton Austin - University Area		30.2771795	-97.7292455	hotel		DoubleTree		https://www.hilton.com/en/hotels/ausimdt-doubletree-austin-university-area/
+way	382550038	Kimber Modern Hotel		30.2500625	-97.7484170	hotel				
+way	448210521	The Westin Austin Downtown		30.2666431	-97.7403363	hotel		Westin	Westin Hotels & Resorts	https://www.marriott.com/hotels/travel/auswi-the-westin-austin-downtown/
+way	516285432	Holiday Inn Express & Suites Austin Downtown - University by IHG		30.2691940	-97.7368086	hotel		Holiday Inn Express & Suites		https://www.ihg.com/holidayinnexpress/hotels/us/en/austin/ausns/hoteldetail
+way	516285435	Hyatt House		30.2697877	-97.7368039	hotel		Hyatt House		https://www.hyatt.com/en-us/hotel/texas/hyatt-house-austin-downtown/ausxd
+way	516291552	Homewood Suites Austin Downtown		30.2592266	-97.7378364	hotel		Homewood Suites		https://www.hilton.com
+way	740821951	Hyatt Place Austin Airport		30.2106182	-97.6650451	hotel		Hyatt Place		https://www.hyatt.com/en-us/hotel/texas/hyatt-place-austin-airport/auszi
+way	881151018	The Carpenter Hotel		30.2621866	-97.7593256	hotel			Bunkhouse Hotels	https://carpenterhotel.com/
+way	893962422	"The Otis Hotel, Autograph Collection"		30.2824616	-97.7428592	hotel		AC Hotel		
+way	894064635	Austin Marriott Downtown		30.2628511	-97.7415134	hotel		Marriott		
+way	903084328	Hotel ZaZa		30.2672600	-97.7462570	hotel				https://www.hotelzaza.com/austin/
+way	908947571	The Frances Modern Inn		30.2687165	-97.7284144	hotel				
+way	923208774	ARRIVE Hotel		30.2615222	-97.7229235	hotel				https://www.arrivehotels.com/hotels/austin
+way	923351520	Hotel Van Zandt		30.2599657	-97.7391407	hotel				https://www.hotelvanzandt.com/
+way	923358549	Residence Inn Austin Downtown/Convention Center		30.2657705	-97.7406932	hotel		Residence Inn		https://www.marriott.com/ausrd
+way	923358550	Courtyard Austin Downtown/Convention Center		30.2656244	-97.7402618	hotel		Courtyard	Marriott	https://www.marriott.com/auscd
+way	923497131	East Austin Hotel		30.2647937	-97.7307833	hotel				https://eastaustinhotel.com/
+way	927242882	Thompson Austin		30.2668855	-97.7411988	hotel		Thompson Hotels		
+way	960180825	Hilton Garden Inn		30.2793395	-97.7416275	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/ausaugi-hilton-garden-inn-austin-university-capitol-district/
+way	967757079	Hotel Trinity		30.2659788	-97.7401208	hotel		Autograph Collection		https://www.hoteltrinityatx.com/
+way	1025013853	citizenM Austin Downtown		30.2690713	-97.7435702	hotel		citizenM		https://www.citizenm.com/hotels/united-states/austin/austin-downtown-hotel
+way	1077905074	Cambria Hotel Austin Downtown		30.2584318	-97.7381198	hotel		Cambria Hotel		https://www.choicehotels.com/texas/austin/cambria-hotels/txj71
+way	1077905075	Fairfield Inn & Suites Austin Downtown		30.2588689	-97.7379582	hotel		Fairfield Inn & Suites		https://www.marriott.com/ausfd
+way	1212248836	Quality Inn & Suites		30.2108699	-97.6527488	hotel		Quality Inn & Suites		
+relation	6148953	Hotel Saint Cecilia		30.2520455	-97.7467440	hotel				
+relation	6344579	La Quinta Inn		30.2721593	-97.7379920	hotel		La Quinta Inn		
+relation	7478745	AT&T Executive Education and Conference Center		30.2819778	-97.7404370	hotel				
+relation	13599015	Canopy by Hilton		30.2700573	-97.7488810	hotel		Canopy		
+relation	17080660	Hampton Inn Austin East Side 5th Street		30.2590221	-97.7196592	hotel		Hampton		

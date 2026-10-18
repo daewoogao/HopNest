@@ -1,0 +1,21 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	6104668411	Hampton Inn & Suites		39.1029406	-84.5136341	hotel		Hampton Inn & Suites	Sree Hotels	https://www.hilton.com/en/hotels/cvgvihx-hampton-suites-cincinnati-downtown/
+node	6625138162	The Guild Hotel		39.1034845	-84.5134169	hotel		The Guild		https://theguild.co/thebanks
+node	11806932140	Courtyard		39.1000817	-84.5125605	hotel		Courtyard		https://www.marriott.com/cvgct
+node	13477871867	Fidelity Hotel		39.1031421	-84.5099289	hotel		Fidelity Hotels		https://fidelityhotelcin.com/
+way	42176088	Cincinnatian Hotel		39.1026188	-84.5138107	hotel				http://www.cincinnatianhotel.com/
+way	46125807	Hyatt Regency Cincinnati		39.1004150	-84.5156353	hotel		Hyatt Regency		https://cincinnati.regency.hyatt.com/en/hotel/home.html
+way	46128564	The Westin Cincinnati		39.1006975	-84.5123087	hotel		Westin	Starwood Hotels & Resorts	https://www.starwoodhotels.com/westin/property/overview/index.html?propertyID=1044
+way	46129247	Residence Inn by Marriott Cincinnati Downtown/The Phelps		39.1016820	-84.5045942	hotel		Residence Inn		https://www.marriott.com/cvgcd
+way	46129984	Kinley Hotel		39.1032869	-84.5149593	hotel		Tribute Portfolio		https://www.marriott.com/en-us/hotels/cvgtx-kinley-cincinnati-downtown-a-tribute-portfolio-hotel/overview/
+way	46130393	Renaissance Cincinnati Downtown Hotel		39.1003337	-84.5115306	hotel		Renaissance		
+way	46136716	TownePlace Suites		39.1036370	-84.5155749	hotel		TownePlace Suites		https://www.marriott.com/cvgtw
+way	47283608	DoubleTree by Hilton Hotel Cincinnati Airport		39.0572241	-84.6605858	hotel		DoubleTree		https://www.hilton.com/en/hotels/cvghbdt-doubletree-cincinnati-airport/
+way	50722624	Quality Inn & Suites		39.1036440	-84.5287505	hotel		Quality Inn & Suites		https://www.choicehotels.com/ohio/cincinnati/quality-inn-hotels/oh375
+way	50802828	Fuel Lounge OTR		39.1120261	-84.5121202	hostel				https://www.fuelloungeotr.com/
+way	78279222	"The Lytle Park Hotel, Autograph Collection"		39.1011884	-84.5031662	hotel		Autograph Collection		https://www.marriott.com/hotels/travel/cvgak-the-lytle-park-hotel-autograph-collection/
+way	91327377	Hilton Cincinnati Netherland Plaza		39.1006786	-84.5139536	hotel		Hilton		
+way	198344522	21c Museum Hotel Cincinnati		39.1031009	-84.5121744	hotel				
+way	396644067	AC Hotel by Marriott Cincinnati at The Banks		39.0969285	-84.5090445	hotel		AC Hotel		https://www.marriott.com/hotels/travel/cvgbc-ac-hotel-cincinnati-at-the-banks/
+way	568598855	Holiday Inn & Suites		39.1048363	-84.5076275	hotel		Holiday Inn		
+relation	3630559	Hilton Cincinnati Netherland Plaza		39.1006786	-84.5139536	hotel		Hilton		

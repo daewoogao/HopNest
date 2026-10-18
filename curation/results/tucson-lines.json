@@ -1,0 +1,23 @@
+[
+  {
+    "id": "lsun_link",
+    "name": "Sun Link",
+    "color": "#888888",
+    "code": "Sun Link",
+    "stations": [
+      ["Helen Street & Warren Avenue",32.2373,-110.9464],
+      ["2nd Street & Cherry Avenue",32.2339,-110.9476],
+      ["2nd Street & Olive Road",32.2338,-110.9554],
+      ["University Boulevard & 3rd Avenue",32.2317,-110.9645],
+      ["4th Avenue & 5th Street",32.2298,-110.9657],
+      ["4th Avenue & 7th Street",32.2271,-110.9656],
+      ["Granada Avenue & Cushing Street",32.2177,-110.9777],
+      ["Congress Street & 6th Avenue",32.222,-110.9684],
+      ["Congress Street & Stone Avenue",32.2219,-110.9711],
+      ["Congress Street & Church Avenue",32.2217,-110.9727],
+      ["Congress Street & Granada Avenue",32.2214,-110.9757],
+      ["Cushing Street & Avenida del Convento",32.2177,-110.9843],
+      ["Avenida del Convento & Congress Street",32.22,-110.9853]
+    ]
+  }
+]

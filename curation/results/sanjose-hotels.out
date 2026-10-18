@@ -1,0 +1,41 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	4824007621	Hotel Clariana	Hotel Clariana	37.3370316	-121.8881026	hotel				http://www.hotelclariana.com/
+node	10048461452	WhyHotel		37.3383344	-121.8874674	hotel				https://www.placemakr.com/locations/san-jose/whyhotel-downtown-san-jose/
+way	34743789	Arena Hotel		37.3322374	-121.9062672	hotel				
+way	37918472	San Jose Marriott		37.3303165	-121.8883393	hotel		Marriott	CWI 2 San Jose Hotel LP	https://www.marriott.com/hotels/travel/sjcsj-san-jose-marriott/
+way	37918597	Hilton San Jose		37.3292466	-121.8904592	hotel		Hilton	GVI SJ Tenant LLC	https://www3.hilton.com/en/hotels/california/hilton-san-jose-SJCSHHF/
+way	38918786	Candlewood Suites – Silicon Valley San Jose		37.3523739	-121.9354880	hotel		Candlewood Suites		
+way	39018176	Hyatt Place San Jose/Downtown		37.3300936	-121.8910872	hotel		Hyatt Place		https://www.hyatt.com/en-US/hotel/california/hyatt-place-san-jose-downtown/sjczj
+way	39018269	Hotel De Anza		37.3344146	-121.8950729	hotel			Destination Hotels	
+way	39020075	The Westin San Jose		37.3309768	-121.8874559	hotel		Westin		https://www.marriott.com/hotels/travel/sjcwi-the-westin-san-jose/
+way	44333551	Holiday Inn		37.3615317	-121.9083159	hotel		Holiday Inn		https://www.ihg.com/holidayinn/hotels/us/en/san-jose/sjccc/hoteldetail
+way	44333710	Comfort Suites San Jose Airport		37.3637325	-121.9103959	hotel		Comfort Suites		https://www.choicehotels.com/california/sunnyvale/quality-inn-hotels
+way	44333801	Extended Stay America - San Jose - Downtown		37.3648429	-121.9113964	hotel		Extended Stay America		
+way	52513601	SureStay Plus Santa Clara Silicon Valley		37.3555779	-121.9452015	hotel		Surestay Plus		https://www.bestwestern.com/en_US/book/hotels-in-santa-clara/surestay-plus-by-best-western-santa-clara-silicon-valley/propertyCode.52023.html
+way	122348275	La Quinta San Jose Airport		37.3782880	-121.9390212	hotel		La Quinta Inn & Suites	Wyndham Hotels and Resorts	https://www.wyndhamhotels.com/laquinta/san-jose-california/la-quinta-san-jose-airport/overview
+way	176920679	Extended Stay America - San Jose - Airport		37.3751946	-121.9174660	hotel		Extended Stay America		
+way	220919857	Sonesta Select San Jose Airport		37.3654568	-121.9183690	hotel		Sonesta Select		https://www.sonesta.com/sonesta-select/ca/san-jose/sonesta-select-san-jose-airport
+way	220935214	Hyatt Place San Jose Airport		37.3735468	-121.9212501	hotel		Hyatt Place		https://www.hyatt.com/en-us/hotel/california/hyatt-place-san-jose-airport/sjcza
+way	229819734	Wyndham Garden San Jose Airport		37.3620230	-121.9067408	hotel		Wyndham Garden		
+way	229819741	Hilton Garden Inn San Jose Airport		37.3630672	-121.9076623	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/sjcatgi-hilton-garden-inn-san-jose-airport/hotel-location/
+way	229819744	Courtyard San Jose Airport		37.3646033	-121.9082733	hotel		Courtyard	Marriott International	https://www.marriott.com/en-us/hotels/sjcjf-four-points-san-jose-airport/overview/
+way	277753299	Best Western Plus Airport Plaza		37.3438961	-121.9287481	hotel		Best Western Plus		http://bestwesterncalifornia.com/hotels/best-western-plus-airport-plaza/
+way	277753366	Pacific Inn of Santa Clara		37.3450171	-121.9352688	hotel			Santa Clara University	
+way	281757577	Best Western University Inn Santa Clara		37.3529676	-121.9554939	hotel		Best Western		https://www.bestwestern.com/en_US/book/hotels-in-santa-clara/best-western-university-inn-santa-clara/propertyCode.05710.html
+way	345802555	AC Hotel San Jose		37.3331815	-121.8960782	hotel		AC Hotel		http://achotels.marriott.com/hotels/ac-hotel-san-jose-downtown
+way	353773331	Quality Inn		37.3585684	-121.8908524	hotel		Quality Inn		
+way	360669524	Residence Inn San Jose Airport		37.3661656	-121.9135102	hotel		Residence Inn		https://www.marriott.com/hotels/travel/sjcjr-residence-inn-san-jose-airport/
+way	484706878	Holiday Inn Express & Suites Santa Clara		37.3519998	-121.9561820	hotel		Holiday Inn Express	El Camino Lodging LLC	https://www.ihg.com/holidayinnexpress/hotels/us/en/santa-clara/sncca/hoteldetail
+way	503402368	SpringHill Suites San Jose Airport		37.3662831	-121.9140943	hotel		SpringHill Suites		https://www.marriott.com/hotels/travel/sjcjs-springhill-suites-san-jose-airport/
+way	597611792	Homewood Suites by Hilton San Jose Airport–Silicon Valley		37.3845389	-121.9284142	hotel		Homewood Suites by Hilton		https://homewoodsuites3.hilton.com/en/hotels/california/homewood-suites-by-hilton-san-jose-airport-silicon-valley-SJCCAHW/
+way	733698929	Hampton Inn & Suites San Jose Airport		37.3762594	-121.9196807	hotel		Hampton Inn & Suites	KKS Hospitality Investment LP	https://www.hilton.com/en/hotels/sjcnfhx-hampton-suites-san-jose-airport/
+way	733698930	Holiday Inn Express & Suites		37.3756502	-121.9192065	hotel		Holiday Inn Express & Suites		
+way	778068015	Hyatt House San Jose Airport		37.3739301	-121.9196050	hotel		Hyatt House		https://www.hyatt.com/en-us/hotel/california/hyatt-house-san-jose-airport/sjcxa
+way	997047347	Element San Jose Airport		37.3515876	-121.9267629	hotel		Element		https://www.marriott.com/en-us/hotels/sjcap-element-san-jose-airport/overview/
+way	1057043921	Country Inn & Suites San Jose International Airport		37.3627495	-121.9051947	hotel		Country Inn & Suites		https://www.choicehotels.com/california/san-jose/country-inn-suites-hotels/cae38
+way	1153395499	Sonesta ES Suites San Jose Airport		37.3724615	-121.9111716	hotel		Sonesta ES Suites		https://www.sonesta.com/sonesta-es-suites/ca/san-jose/sonesta-es-suites-san-jose-airport
+relation	5339214	Signia		37.3330592	-121.8890204	hotel		Signia		https://www.hilton.com/en/hotels/sjcsmhh-signia-san-jose/
+relation	7306943	DoubleTree by Hilton Hotel San Jose		37.3717869	-121.9224816	hotel		DoubleTree		https://www.hilton.com/en/hotels/jose-dt-doubletree-san-jose/
+relation	7325175	Signia by Hilton San Jose		37.3330053	-121.8890653	hotel		Signia		
+relation	13193448	Fairfield Inn & Suites San Jose Airport		37.3702279	-121.9175704	hotel		Fairfield Inn & Suites		
+relation	13363041	Four Points by Sheraton San Jose Downtown		37.3321126	-121.8879859	hotel		Four Points by Sheraton	Sheraton	https://www.marriott.com/hotels/travel/sjcfp-four-points-san-jose-downtown/

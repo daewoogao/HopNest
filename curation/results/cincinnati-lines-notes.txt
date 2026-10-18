@@ -1,0 +1,10 @@
+  attempt 1 failed (https://maps.mail.ru/osm/tools/overpass/api/interpreter answered 504: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+), retrying
+1 lines, 19 stations
+  check: Line 100: no colour tag in OSM, set the official color by hand
