@@ -955,8 +955,7 @@ function toggleStationCircle(dot, lat, lng, name, line){
   const circle = L.circle([lat,lng], {radius:walkMinutes*WALK_SPEED_M_PER_MIN, color:line.color, weight:1.5, fillColor:line.color, fillOpacity:.1, opacity:.6, interactive:false}).addTo(map);
   circle.meta = {lat,lng,radius:walkMinutes*WALK_SPEED_M_PER_MIN,color:line.color,name,line:line.name,lineObj:line,kind:'subway'};
   stationCircles.set(dot, circle);
-  dot.bindPopup(popupHTML(buildStationPopupHTML(name, line, walkMinutes)), NO_CLOSE_BTN).openPopup();
-  scheduleAutoClose(dot, 4000);
+  // No popup on station click (Audrey): the circle and hotel card say enough.
   render();
   maybeFetchLiveHotels(name, lat, lng);
 }

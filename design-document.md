@@ -508,6 +508,8 @@ they're done.
   invisible 16px ring around its dot that takes the same click. Dots
   went from 5px to 6px radius (Audrey). The ring stays invisible when
   lines are toggled.
+- Clicking a station no longer opens its popup (Audrey); it only shows the
+  walk circle and the hotel card. Airports and rail stations keep theirs.
   Clicking empty map (which already turned station circles off) now also
   hides the station's hotels and card.
 
