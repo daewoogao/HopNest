@@ -132,7 +132,7 @@ station/airport/railway stop you tap.
   Riyadh, Doha, Jerusalem, Cairo, Dublin, Edinburgh, Florence, Miami,
   Las Vegas, Vancouver, Rio de Janeiro, Sydney, Melbourne. Batch 7 (US, 2026-10-18):
   Seattle, Philadelphia, San Diego, New Orleans, Atlanta. Batch 8 (US, 2026-10-18):
-  Portland, Honolulu, Denver, Dallas, Baltimore, Minneapolis–Saint Paul, Salt Lake City (77 cities).
+  Portland, Honolulu, Denver, Dallas, Baltimore, Minneapolis–Saint Paul, Salt Lake City, Houston (78 cities).
   City-list groups: Asia, Europe, Americas, Africa, Oceania.
 - **City picker** (search redesigned 2026-10-16): a search box that
   matches city name, country, other names (`aliases` in `cities.json`:
@@ -499,7 +499,7 @@ they're done.
 
 ## Changelog
 
-### 2026-10-18 — batch 8: more US cities overnight (77 total)
+### 2026-10-18 — batch 8: more US cities overnight (78 total)
 - Audrey asked for as many more US cities as possible overnight. Added so
   far: Portland (MAX Blue/Red/Green/Yellow/Orange, Streetcar NS/A/B).
 - Gaps: Portland airport hotels are shuttle or Cascade Station hotels
@@ -526,6 +526,9 @@ they're done.
 - Salt Lake City: TRAX Blue/Red/Green and S-Line streetcar. Gaps: Salt
   Lake Central 1 hotel; airport hotels are 3 shuttle hotels 2.2-2.9 km
   out; The Gateway has no budget pick.
+- Houston: METRORail Red/Green/Purple (no airport rail). Gaps: Amtrak
+  station 0 hotels; IAH 1 (terminal Marriott); Museum District 1; Space
+  Center Houston is 40 km out, car needed.
 
 ### 2026-10-18 — station clicks always pull in nearby hotels
 - Audrey: in Seattle, a station with any curated pick in walking distance
