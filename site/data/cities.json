@@ -76,5 +76,6 @@
   "baltimore": {"name":"Baltimore","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["BWI","Charm City","Maryland"]},
   "minneapolis": {"name":"Minneapolis–Saint Paul","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["MSP","Twin Cities","Saint Paul","St Paul","Minnesota"]},
   "saltlakecity": {"name":"Salt Lake City","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["SLC","Utah"]},
-  "houston": {"name":"Houston","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["IAH","HOU","Space City","Texas"]}
+  "houston": {"name":"Houston","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["IAH","HOU","Space City","Texas"]},
+  "phoenix": {"name":"Phoenix","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["PHX","Tempe","Arizona"]}
 }
