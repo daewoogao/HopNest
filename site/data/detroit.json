@@ -1,0 +1,285 @@
+{
+  "name": "Detroit",
+  "country": "USA",
+  "flag": "🇺🇸",
+  "center": [42.34,-83.05],
+  "zoom": 12,
+  "operatingHours": "QLINE streetcar (Woodward Ave) runs Mon–Sat 8:00 AM–midnight and Sun 8:00 AM–9:00 PM, every ~15 min. The People Mover downtown loop runs Mon–Fri 6:30 AM–midnight, Sat 10:00 AM–midnight and Sun 10:00 AM–10:00 PM, every ~5 min (longer hours on big event nights). No overnight rail service.",
+  "fareInfo": "Both the QLINE and the Detroit People Mover are free to ride in 2026 (sponsor-funded); just board. DDOT and SMART buses (not on this map) cost ~$2, payable with the Dart app or cash; the SMART 261 FAST Michigan bus to the airport costs the same.",
+  "lines": [
+    {
+      "id": "ldpm",
+      "name": "Detroit People Mover",
+      "color": "#5C2D91",
+      "code": "PM",
+      "stations": [
+        ["Renaissance Center",42.3302,-83.0401],
+        ["Millender Center",42.3302,-83.0419],
+        ["Financial District",42.3287,-83.0466],
+        ["Water Square",42.3253,-83.0526],
+        ["Huntington Place",42.3281,-83.0499],
+        ["Fort/Cass",42.3295,-83.0511],
+        ["Michigan",42.3314,-83.0522],
+        ["Times Square",42.3336,-83.0522],
+        ["Grand Circus Park",42.3358,-83.0505],
+        ["Broadway",42.3354,-83.0482],
+        ["Cadillac Center",42.3338,-83.0462],
+        ["Greektown",42.3346,-83.0425],
+        ["Bricktown",42.3333,-83.0412],
+        ["Renaissance Center",42.3302,-83.0401]
+      ]
+    },
+    {
+      "id": "lqline",
+      "name": "QLINE (Woodward)",
+      "color": "#DB161C",
+      "code": "Q",
+      "stations": [
+        ["Grand Boulevard",42.3706,-83.0736],
+        ["Baltimore Street",42.3687,-83.0723],
+        ["Amsterdam Street",42.3662,-83.0707],
+        ["Ferry Street",42.3611,-83.0673],
+        ["Warren Avenue",42.3564,-83.0642],
+        ["Canfield Street",42.3524,-83.0614],
+        ["Martin Luther King Junior Boulevard",42.347,-83.0578],
+        ["Sproat Street",42.3419,-83.0544],
+        ["Montcalm Street",42.339,-83.0524],
+        ["Grand Circus Park",42.3363,-83.0505],
+        ["Campus Martius",42.3321,-83.0473],
+        ["Congress Street",42.3298,-83.0455]
+      ]
+    }
+  ],
+  "hotels": [
+    {"name":"The Westin Book Cadillac Detroit","lat":42.3321,"lng":-83.0502,"area":"Downtown","rating":4.2,"ratingCount":1709,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"DoubleTree Suites by Hilton Detroit Downtown - Fort Shelby","lat":42.3292,"lng":-83.0527,"area":"Downtown","rating":4.2,"ratingCount":1819,"stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Hilton Garden Inn Detroit Downtown","lat":42.3359,"lng":-83.0451,"area":"Downtown","rating":4,"ratingCount":1411,"stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Detroit Foundation Hotel","lat":42.3283,"lng":-83.0484,"area":"Downtown","rating":4.6,"ratingCount":1435,"stars":4,"priceTier":3},
+    {"name":"The Shinola Hotel","lat":42.3343,"lng":-83.0484,"area":"Downtown","rating":4.4,"ratingCount":646,"stars":4,"priceTier":4},
+    {"name":"Hotel David Whitney, Autograph Collection","lat":42.3356,"lng":-83.0504,"area":"Grand Circus Park","rating":4.7,"ratingCount":1823,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Element Detroit at the Metropolitan","lat":42.3354,"lng":-83.0488,"area":"Grand Circus Park","rating":4.7,"ratingCount":479,"stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"ROOST Detroit","lat":42.3335,"lng":-83.0515,"area":"Grand Circus Park","rating":4.8,"ratingCount":365,"stars":3,"priceTier":3},
+    {"name":"The Siren Hotel","lat":42.3357,"lng":-83.0486,"area":"Grand Circus Park","rating":4.1,"ratingCount":1007,"stars":4,"priceTier":3},
+    {"name":"AC Hotel Detroit at the Bonstelle","lat":42.3465,"lng":-83.0567,"area":"Midtown","rating":4.7,"ratingCount":27,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"El Moore Lodge & Residences","lat":42.3488,"lng":-83.0659,"area":"Midtown","rating":4.9,"ratingCount":197,"stars":3,"priceTier":3},
+    {"name":"The Inn on Ferry Street","lat":42.3614,"lng":-83.0655,"area":"Cultural Center","rating":4.3,"ratingCount":230,"stars":3,"priceTier":3},
+    {
+      "name": "The Westin Detroit Metropolitan Airport",
+      "lat": 42.2075,
+      "lng": -83.3576,
+      "area": "Detroit Metropolitan Wayne County Airport",
+      "rating": 4.3,
+      "ratingCount": 1803,
+      "stars": 4,
+      "priceTier": 3,
+      "brandAnchor": true
+    },
+    {
+      "name": "Hampton Inn & Suites Detroit/Airport-Romulus",
+      "lat": 42.2462,
+      "lng": -83.3507,
+      "area": "Detroit Metropolitan Wayne County Airport",
+      "rating": 4.5,
+      "ratingCount": 1117,
+      "stars": 3,
+      "priceTier": 2,
+      "brandAnchor": true
+    },
+    {"name":"Comfort Inn Metro Airport","lat":42.2391,"lng":-83.3517,"area":"Detroit Metropolitan Wayne County Airport","rating":4.4,"ratingCount":1266,"stars":2,"priceTier":2},
+    {
+      "name": "Holiday Inn Detroit Metro Airport by IHG",
+      "lat": 42.2438,
+      "lng": -83.3494,
+      "area": "Detroit Metropolitan Wayne County Airport",
+      "rating": 4.1,
+      "ratingCount": 308,
+      "stars": 3,
+      "priceTier": 3,
+      "brandAnchor": true
+    },
+    {
+      "name": "La Quinta Inn & Suites by Wyndham Detroit Metro Airport",
+      "lat": 42.2431,
+      "lng": -83.3416,
+      "area": "Detroit Metropolitan Wayne County Airport",
+      "rating": 4.1,
+      "ratingCount": 1139,
+      "stars": 2,
+      "priceTier": 2,
+      "brandAnchor": true
+    }
+  ],
+  "sights": [
+    {
+      "name": "Motown Museum (Hitsville U.S.A.)",
+      "lat": 42.3643,
+      "lng": -83.0884,
+      "note": "The modest West Grand Boulevard house where Berry Gordy ran Motown Records, with the original Studio A; guided tours are paused for a major expansion and are due back in spring 2027.",
+      "hours": "Guided tours paused (Jan 2026–spring 2027); campus store and new Esther Gordy Edwards Centre open Wed–Sun ~10 AM–6 PM",
+      "rating": 4.6
+    },
+    {
+      "name": "Detroit Institute of Arts",
+      "lat": 42.3594,
+      "lng": -83.0645,
+      "note": "One of America's great encyclopedic art museums, best known for Diego Rivera's floor-to-ceiling Detroit Industry murals in the central court.",
+      "hours": "Tue–Thu 9 AM–4 PM, Fri 9 AM–9 PM, Sat–Sun 10 AM–5 PM; closed Mon",
+      "rating": 4.8,
+      "ticketUrl": "https://dia.org/tickets"
+    },
+    {
+      "name": "Guardian Building",
+      "lat": 42.3297,
+      "lng": -83.0459,
+      "note": "A 1929 Art Deco skyscraper whose vaulted lobby is a riot of Pewabic tile, orange brick and stained glass; free to walk in and look up.",
+      "hours": "Lobby open ~weekdays 8 AM–6 PM, shorter Sat; free",
+      "rating": 4.7
+    },
+    {
+      "name": "Ford Piquette Avenue Plant",
+      "lat": 42.3687,
+      "lng": -83.065,
+      "note": "The brick factory where Henry Ford built the first Model T, now a museum of early cars kept on the original creaky wooden floors.",
+      "hours": "Wed–Sun 10 AM–4 PM; closed Mon–Tue",
+      "rating": 4.8,
+      "ticketUrl": "https://www.fordpiquetteplant.org"
+    },
+    {
+      "name": "Comerica Park",
+      "lat": 42.339,
+      "lng": -83.0485,
+      "note": "Home of the Detroit Tigers, with a carousel, a Ferris wheel of baseballs and giant tiger statues around a ballpark facing the downtown skyline.",
+      "hours": "Tigers home games Apr–Sep (Oct if in the playoffs)",
+      "rating": 4.6,
+      "ticketUrl": "https://www.mlb.com/tigers/tickets"
+    },
+    {
+      "name": "Belle Isle Park",
+      "lat": 42.3404,
+      "lng": -82.9786,
+      "note": "A 982-acre island park in the Detroit River, laid out by Olmsted, with a conservatory, aquarium, beach, fountain and views of the skyline and Canada.",
+      "hours": "Daily 5 AM–10 PM; free on foot or bike, Michigan Recreation Passport needed for cars",
+      "rating": 4.2
+    },
+    {
+      "name": "Eastern Market",
+      "lat": 42.3474,
+      "lng": -83.0414,
+      "note": "One of the oldest public markets in the US, where farmers, butchers and flower sellers fill the open sheds and the surrounding streets are covered in murals.",
+      "hours": "Saturday market 6 AM–2 PM year-round; Sunday and Tuesday markets in summer; shops open most days",
+      "rating": 4.6
+    },
+    {
+      "name": "Detroit RiverWalk",
+      "lat": 42.3283,
+      "lng": -83.0405,
+      "note": "A waterfront promenade running east from Hart Plaza past the Renaissance Center to parks, gardens and a carousel, looking straight across at Windsor, Canada.",
+      "hours": "Daily 6 AM–10 PM; free",
+      "rating": 4.5
+    },
+    {
+      "name": "Fox Theatre",
+      "lat": 42.3383,
+      "lng": -83.0526,
+      "note": "A lavish 1928 movie palace with a gilded, vaguely Asian-Egyptian interior that now hosts concerts, Broadway tours and holiday shows.",
+      "hours": "Open for performances; check the show calendar",
+      "rating": 4.5,
+      "ticketUrl": "https://www.313presents.com"
+    },
+    {
+      "name": "Ford Field",
+      "lat": 42.34,
+      "lng": -83.0456,
+      "note": "The Detroit Lions' domed stadium, built around an old Hudson's warehouse whose brick wall forms one side of the concourse.",
+      "hours": "Lions home games Sep–Jan; concerts and events year-round",
+      "rating": 4.4,
+      "ticketUrl": "https://www.fordfield.com"
+    },
+    {
+      "name": "Greektown",
+      "lat": 42.3352,
+      "lng": -83.0425,
+      "note": "A short stretch of Monroe Street lined with Greek tavernas, bakeries and bars next to the Hollywood Casino, lively late into the night.",
+      "hours": "Restaurants ~11 AM–late; casino open 24 h",
+      "rating": 4.1
+    },
+    {
+      "name": "Detroit Historical Museum",
+      "lat": 42.3597,
+      "lng": -83.0672,
+      "note": "The city's story in walk-through exhibits, from a recreated cobblestone street of old Detroit to a working auto assembly line and the Motor City music era.",
+      "hours": "Wed–Sat 10 AM–5 PM, Sun 1–5 PM; closed Mon–Tue",
+      "rating": 4.6,
+      "ticketUrl": "https://detroithistorical.org"
+    },
+    {
+      "name": "The Heidelberg Project",
+      "lat": 42.3594,
+      "lng": -83.0228,
+      "note": "A long-running outdoor art installation on the east side where houses and lots are covered in polka dots, found objects and painted clocks; some pieces have been removed as the project evolves.",
+      "hours": "Outdoor, viewable daily dawn–dusk; free",
+      "rating": 4.1
+    },
+    {
+      "name": "Little Caesars Arena",
+      "lat": 42.3411,
+      "lng": -83.0553,
+      "note": "The arena of the Red Wings and Pistons, with a glass-roofed indoor street of shops and restaurants that is open on event days.",
+      "hours": "NHL and NBA seasons Oct–Apr; concerts year-round",
+      "rating": 4,
+      "ticketUrl": "https://www.313presents.com"
+    },
+    {
+      "name": "Michigan Central Station",
+      "lat": 42.3289,
+      "lng": -83.0776,
+      "note": "The towering Beaux-Arts rail terminal in Corktown, long a symbol of decline, reopened by Ford in 2024 with its vaulted waiting hall and arcade restored.",
+      "hours": "Public lobby open daily 8 AM–5 PM; free (guided tours sold separately)",
+      "rating": 4.1
+    },
+    {
+      "name": "Charles H. Wright Museum of African American History",
+      "lat": 42.359,
+      "lng": -83.0609,
+      "note": "A large museum of African American history whose core exhibit walks visitors from West Africa through the Middle Passage to Detroit's own civil rights era.",
+      "hours": "Tue–Wed and Fri–Sun 9 AM–5 PM, Thu 9 AM–7 PM; closed Mon",
+      "rating": 4.7,
+      "ticketUrl": "https://www.thewright.org"
+    },
+    {
+      "name": "Campus Martius Park",
+      "lat": 42.3316,
+      "lng": -83.0466,
+      "note": "The downtown square at the heart of Woodward Ave, with a sand beach and food stalls in summer and an ice rink and giant tree in winter.",
+      "hours": "Daily ~7 AM–11 PM; free",
+      "rating": 4.6
+    },
+    {
+      "name": "Fisher Building",
+      "lat": 42.3693,
+      "lng": -83.0767,
+      "note": "A 1928 New Center tower with a three-storey arcade of painted ceilings, marble and bronze, often called Detroit's largest art object; a short walk from the Amtrak station.",
+      "hours": "Arcade open ~daily during business hours; free (Fisher Theatre shows separate)",
+      "rating": 4.7
+    }
+  ],
+  "railStations": [
+    {
+      "name": "Detroit Amtrak Station",
+      "lat": 42.3678,
+      "lng": -83.0725,
+      "note": "Small Amtrak station in New Center at Woodward and Baltimore. Wolverine trains run 3 times a day each way to Chicago (~5.5 h) and to Pontiac. The QLINE's Baltimore Street stop is right outside, ~15 min to downtown. Not the grand Michigan Central Station in Corktown, which no longer has trains.",
+      "hours": "Waiting room ~6:00 AM–~11:30 PM, around train times; 3 departures each way daily"
+    }
+  ],
+  "airports": [
+    {
+      "name": "Detroit Metropolitan Wayne County Airport",
+      "code": "DTW",
+      "lat": 42.2124,
+      "lng": -83.3534,
+      "transitNote": "No rail link and not on this map. SMART's 261 FAST Michigan bus (~$2) runs from the McNamara and Evans terminals along Michigan Ave to downtown (Rosa Parks Transit Center) in ~45–60 min, every ~30 min. A taxi or rideshare takes ~25–30 min (~$45–60).",
+      "hours": "261 bus: first ~5:00 AM, last ~midnight; check SMART times"
+    }
+  ]
+}

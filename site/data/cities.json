@@ -80,5 +80,6 @@
   "phoenix": {"name":"Phoenix","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["PHX","Tempe","Arizona"]},
   "stlouis": {"name":"St. Louis","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["STL","Saint Louis","Missouri"]},
   "pittsburgh": {"name":"Pittsburgh","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["PIT","Steel City","Pennsylvania"]},
-  "charlotte": {"name":"Charlotte","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["CLT","Queen City","North Carolina"]}
+  "charlotte": {"name":"Charlotte","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["CLT","Queen City","North Carolina"]},
+  "detroit": {"name":"Detroit","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["DTW","Motor City","Michigan"]}
 }
