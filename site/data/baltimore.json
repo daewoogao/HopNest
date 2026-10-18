@@ -1,0 +1,362 @@
+{
+  "name": "Baltimore",
+  "country": "USA",
+  "flag": "🇺🇸",
+  "center": [39.2904,-76.6122],
+  "zoom": 12,
+  "operatingHours": "Metro SubwayLink runs ~5:00 AM–12:00 AM weekdays and ~6:00 AM–12:00 AM weekends, every ~8 min at peak and ~15 min otherwise. Light RailLink runs ~4:00 AM–12:45 AM Mon–Sat and only ~10:00 AM–10:00 PM on Sundays and holidays, every ~15–30 min (BWI trains every 20–30 min). No overnight rail service.",
+  "fareInfo": "$2.00 one-way on Metro SubwayLink, Light RailLink and local buses (2026), bought from station ticket machines or the CharmPass app; Day Pass $4.60 (valid until 3:00 AM next day), 7-day pass $22.00, also on a CharmCard. Light Rail is proof-of-payment: buy before boarding, as fines apply. The same $2.00 fare covers BWI Airport to downtown.",
+  "lines": [
+    {
+      "id": "llr",
+      "name": "Light RailLink (BWI)",
+      "color": "#00AEEF",
+      "code": "LR",
+      "stations": [
+        ["Hunt Valley",39.4963,-76.6545],
+        ["Pepper Road",39.4921,-76.6567],
+        ["McCormick Road",39.4895,-76.6595],
+        ["Gilroy Road",39.4819,-76.6618],
+        ["Warren Road",39.4758,-76.6533],
+        ["Fairgrounds",39.4482,-76.6348],
+        ["Timonium Business Park",39.4335,-76.6281],
+        ["Lutherville",39.4286,-76.6271],
+        ["Falls Road",39.3764,-76.6501],
+        ["Mount Washington",39.3682,-76.6519],
+        ["Cold Spring Lane",39.3437,-76.6478],
+        ["Woodberry",39.3308,-76.6433],
+        ["North Avenue",39.3115,-76.6224],
+        ["Mount Royal / MICA",39.307,-76.6199],
+        ["Cultural Center",39.3033,-76.6204],
+        ["Mount Vernon",39.2965,-76.62],
+        ["Lexington Market",39.2919,-76.6196],
+        ["Baltimore Arena",39.2884,-76.6195],
+        ["Convention Center",39.2854,-76.6194],
+        ["Camden Yards",39.2828,-76.6195],
+        ["Stadium / Federal Hill",39.2786,-76.6201],
+        ["Westport",39.2615,-76.6323],
+        ["Cherry Hill",39.2556,-76.635],
+        ["Patapsco",39.2417,-76.6302],
+        ["Baltimore Highlands",39.2348,-76.6331],
+        ["Nursery Road",39.2212,-76.6416],
+        ["North Linthicum",39.214,-76.6463],
+        ["Linthicum",39.202,-76.6556],
+        ["BWI Business District",39.1915,-76.6737],
+        ["BWI Airport",39.1822,-76.6693]
+      ]
+    },
+    {
+      "id": "llr_b1",
+      "name": "Light RailLink (Glen Burnie)",
+      "color": "#0078AE",
+      "code": "LR",
+      "stations": [
+        ["Fairgrounds",39.4482,-76.6348],
+        ["Timonium Business Park",39.4335,-76.6281],
+        ["Lutherville",39.4286,-76.6271],
+        ["Falls Road",39.3764,-76.6501],
+        ["Mount Washington",39.3682,-76.6519],
+        ["Cold Spring Lane",39.3437,-76.6478],
+        ["Woodberry",39.3308,-76.6433],
+        ["North Avenue",39.3115,-76.6224],
+        ["Mount Royal / MICA",39.307,-76.6199],
+        ["Cultural Center",39.3033,-76.6204],
+        ["Mount Vernon",39.2965,-76.62],
+        ["Lexington Market",39.2919,-76.6196],
+        ["Baltimore Arena",39.2884,-76.6195],
+        ["Convention Center",39.2854,-76.6194],
+        ["Camden Yards",39.2828,-76.6195],
+        ["Stadium / Federal Hill",39.2786,-76.6201],
+        ["Westport",39.2615,-76.6323],
+        ["Cherry Hill",39.2556,-76.635],
+        ["Patapsco",39.2417,-76.6302],
+        ["Baltimore Highlands",39.2348,-76.6331],
+        ["Nursery Road",39.2212,-76.6416],
+        ["North Linthicum",39.214,-76.6463],
+        ["Linthicum",39.202,-76.6556],
+        ["Ferndale",39.1833,-76.6401],
+        ["Glen Burnie Station",39.172,-76.6331]
+      ]
+    },
+    {
+      "id": "lm",
+      "name": "Metro SubwayLink",
+      "color": "#00A651",
+      "code": "M",
+      "stations": [
+        ["Johns Hopkins Hospital",39.2994,-76.5944],
+        ["Shot Tower/Market Place",39.29,-76.606],
+        ["Charles Center",39.2896,-76.6146],
+        ["Lexington Market",39.2927,-76.6211],
+        ["State Center",39.3014,-76.6232],
+        ["Upton–Avenue Market",39.3042,-76.6354],
+        ["Penn–North",39.3101,-76.6425],
+        ["Mondawmin",39.3183,-76.6532],
+        ["West Cold Spring",39.3363,-76.6723],
+        ["Rogers Avenue",39.3449,-76.6918],
+        ["Reisterstown Plaza",39.352,-76.7046],
+        ["Milford Mill",39.3596,-76.7205],
+        ["Old Court",39.3713,-76.7441],
+        ["Owings Mills",39.4074,-76.7799]
+      ]
+    }
+  ],
+  "hotels": [
+    {"name":"The Ivy Hotel","lat":39.3034,"lng":-76.6129,"area":"Baltimore Penn Station","rating":4.9,"ratingCount":514,"stars":5,"priceTier":4},
+    {
+      "name": "Hilton Baltimore BWI Airport",
+      "lat": 39.1959,
+      "lng": -76.6807,
+      "area": "Baltimore/Washington International Thurgood Marshall Airport",
+      "rating": 4.4,
+      "ratingCount": 2936,
+      "stars": 4,
+      "priceTier": 3,
+      "brandAnchor": true
+    },
+    {
+      "name": "Holiday Inn Baltimore BWI Airport by IHG",
+      "lat": 39.196,
+      "lng": -76.6853,
+      "area": "Baltimore/Washington International Thurgood Marshall Airport",
+      "rating": 4.3,
+      "ratingCount": 618,
+      "stars": 3,
+      "priceTier": 2,
+      "brandAnchor": true
+    },
+    {
+      "name": "Fairfield by Marriott Inn & Suites Baltimore BWI Airport",
+      "lat": 39.2006,
+      "lng": -76.6797,
+      "area": "Baltimore/Washington International Thurgood Marshall Airport",
+      "rating": 4.2,
+      "ratingCount": 498,
+      "stars": 3,
+      "priceTier": 2,
+      "brandAnchor": true
+    },
+    {
+      "name": "Courtyard by Marriott Baltimore BWI Airport",
+      "lat": 39.2009,
+      "lng": -76.6811,
+      "area": "Baltimore/Washington International Thurgood Marshall Airport",
+      "rating": 4.1,
+      "ratingCount": 424,
+      "stars": 3,
+      "priceTier": 3,
+      "brandAnchor": true
+    },
+    {
+      "name": "Red Roof PLUS+ Baltimore-Washington DC/BWI Airport",
+      "lat": 39.197,
+      "lng": -76.6861,
+      "area": "Baltimore/Washington International Thurgood Marshall Airport",
+      "rating": 4.1,
+      "ratingCount": 908,
+      "stars": 2,
+      "priceTier": 2
+    },
+    {"name":"Hampton Inn Baltimore-Downtown-Convention Center","lat":39.2855,"lng":-76.6232,"area":"Inner Harbor","rating":4.4,"ratingCount":1998,"stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Days Inn by Wyndham Baltimore Inner Harbor","lat":39.2872,"lng":-76.618,"area":"Inner Harbor","rating":4,"ratingCount":3435,"stars":2,"priceTier":2,"brandAnchor":true},
+    {"name":"The Royal Sonesta Harbor Court Baltimore","lat":39.2827,"lng":-76.6139,"area":"Inner Harbor","rating":4.4,"ratingCount":2166,"stars":4,"priceTier":4},
+    {"name":"Kimpton Hotel Monaco Baltimore Inner Harbor","lat":39.2898,"lng":-76.6156,"area":"Downtown","rating":4.2,"ratingCount":2228,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hampton Inn & Suites Baltimore Inner Harbor","lat":39.2887,"lng":-76.6124,"area":"Downtown","rating":4.4,"ratingCount":2141,"stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Residence Inn by Marriott Baltimore Downtown/Inner Harbor","lat":39.2886,"lng":-76.6132,"area":"Downtown","rating":4.4,"ratingCount":1174,"stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Lord Baltimore Hotel","lat":39.2898,"lng":-76.6161,"area":"Downtown","rating":4.2,"ratingCount":2240,"stars":3,"priceTier":3},
+    {
+      "name": "SpringHill Suites by Marriott Baltimore Downtown Convention Center Area",
+      "lat": 39.2906,
+      "lng": -76.6212,
+      "area": "Downtown",
+      "rating": 4.5,
+      "ratingCount": 117,
+      "stars": 3,
+      "priceTier": 3,
+      "brandAnchor": true
+    },
+    {"name":"Baltimore Marriott Waterfront","lat":39.2836,"lng":-76.603,"area":"Harbor East","rating":4.1,"ratingCount":2357,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Staybridge Suites Baltimore - Inner Harbor by IHG","lat":39.2889,"lng":-76.6099,"area":"Harbor East","rating":4.6,"ratingCount":585,"stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"The Oaks Inn Baltimore at 1840s Plaza","lat":39.2887,"lng":-76.6041,"area":"Harbor East","rating":4.7,"ratingCount":1243,"stars":3,"priceTier":3},
+    {
+      "name": "Fairfield by Marriott Inn & Suites Baltimore Downtown/Inner Harbor",
+      "lat": 39.2881,
+      "lng": -76.6044,
+      "area": "Harbor East",
+      "rating": 4.1,
+      "ratingCount": 650,
+      "stars": 3,
+      "priceTier": 2,
+      "brandAnchor": true
+    },
+    {"name":"Sleep Inn & Suites Downtown Inner Harbor","lat":39.2925,"lng":-76.6073,"area":"Harbor East","rating":4.3,"ratingCount":973,"stars":2,"priceTier":2},
+    {"name":"Hotel Indigo Baltimore Downtown by IHG","lat":39.2952,"lng":-76.6167,"area":"Mount Vernon","rating":4.5,"ratingCount":1423,"stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Hotel Revival","lat":39.2973,"lng":-76.6172,"area":"Mount Vernon","rating":4.4,"ratingCount":1052,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Ulysses","lat":39.2998,"lng":-76.6155,"area":"Mount Vernon","rating":4.5,"ratingCount":325,"stars":4,"priceTier":3},
+    {"name":"Hotel Brexton","lat":39.3012,"lng":-76.6188,"area":"Mount Vernon","rating":4.2,"ratingCount":505,"stars":3,"priceTier":2}
+  ],
+  "sights": [
+    {
+      "name": "National Aquarium",
+      "lat": 39.2851,
+      "lng": -76.6083,
+      "note": "A glass-pyramid aquarium on Pier 3 with a walk-through Amazon rainforest, a shark-ringed coral reef and an Australian river gorge.",
+      "hours": "~9:00 AM–5:00 PM daily, later on some days in summer and on Fridays; timed entry",
+      "rating": 4.3,
+      "ticketUrl": "https://aqua.org",
+      "bookAhead": true
+    },
+    {
+      "name": "Inner Harbor",
+      "lat": 39.2865,
+      "lng": -76.611,
+      "note": "The city's waterfront basin, ringed by a brick promenade linking the aquarium, historic warships, paddle boats and harbor views.",
+      "hours": "Open-air promenade, always open",
+      "rating": 4.3
+    },
+    {
+      "name": "Fort McHenry National Monument and Historic Shrine",
+      "lat": 39.2632,
+      "lng": -76.5799,
+      "note": "The star-shaped fort whose 1814 defense against the British fleet inspired the words of the national anthem.",
+      "hours": "Daily, last entry 4:45 PM (fort and visitor center close shortly after); closed Thanksgiving, Dec 25, Jan 1",
+      "rating": 4.7,
+      "ticketUrl": "https://www.nps.gov/fomc/planyourvisit/fees.htm"
+    },
+    {
+      "name": "Oriole Park at Camden Yards",
+      "lat": 39.2838,
+      "lng": -76.6216,
+      "note": "The retro-style home of the Orioles that set the template for modern ballparks, built against the old B&O warehouse.",
+      "hours": "Game days per MLB schedule; guided tours on selected days",
+      "rating": 4.8,
+      "ticketUrl": "https://www.mlb.com/orioles/ballpark/tours"
+    },
+    {
+      "name": "The Walters Art Museum",
+      "lat": 39.2965,
+      "lng": -76.6161,
+      "note": "A free museum spanning 5,000 years, from Egyptian mummies and medieval armour to a jewel-box cabinet of curiosities.",
+      "hours": "Wed, Fri–Sun 10:00 AM–5:00 PM; Thu 1:00–8:00 PM; closed Mon–Tue",
+      "rating": 4.8
+    },
+    {
+      "name": "American Visionary Art Museum",
+      "lat": 39.2802,
+      "lng": -76.6066,
+      "note": "A joyful museum of self-taught 'outsider' artists, its mosaic-covered buildings full of whirligigs, giant sculptures and oddities.",
+      "hours": "Wed–Sun 10:00 AM–5:00 PM; closed Mon–Tue",
+      "rating": 4.6,
+      "ticketUrl": "https://www.avam.org/tickets"
+    },
+    {
+      "name": "Fell's Point",
+      "lat": 39.2823,
+      "lng": -76.5928,
+      "note": "An 18th-century maritime village of cobbled streets, Belgian-block squares and waterfront pubs, a short water-taxi hop from the Inner Harbor.",
+      "hours": "Neighbourhood, always open; bars and shops keep their own hours",
+      "rating": 4.5
+    },
+    {
+      "name": "Baltimore Museum of Art",
+      "lat": 39.3261,
+      "lng": -76.6194,
+      "note": "A free art museum next to Johns Hopkins with the world's largest public Matisse collection and two sculpture gardens.",
+      "hours": "Wed, Fri–Sun 10:00 AM–5:00 PM; Thu 10:00 AM–9:00 PM; closed Mon–Tue (reserve a free ticket)",
+      "rating": 4.7,
+      "ticketUrl": "https://artbma.org"
+    },
+    {
+      "name": "National Museum of Railroad History & Innovation",
+      "lat": 39.2853,
+      "lng": -76.6323,
+      "note": "The former B&O Railroad Museum, renamed in 2026, where a vast 1884 roundhouse shelters historic locomotives at the birthplace of American railroading.",
+      "hours": "Daily 10:00 AM–4:00 PM; campus renovation under way in phases",
+      "rating": 4.5,
+      "ticketUrl": "https://nationalrailroad.org"
+    },
+    {
+      "name": "George Peabody Library",
+      "lat": 39.2973,
+      "lng": -76.6152,
+      "note": "A soaring 19th-century reading room of five cast-iron balconies stacked with antique books, now run by Johns Hopkins.",
+      "hours": "Mon–Thu 10:00 AM–5:00 PM, Sun 11:00 AM–5:00 PM, closed Fri–Sat; check ahead, as Special Collections plans a Nov–Jan closure",
+      "rating": 4.7
+    },
+    {
+      "name": "Maryland Science Center",
+      "lat": 39.2813,
+      "lng": -76.6122,
+      "note": "A hands-on science museum on the harbor with dinosaur halls, a planetarium and an IMAX dome.",
+      "hours": "Tue–Fri 10:00 AM–4:00 PM; Sat–Sun 10:00 AM–5:00 PM; closed Mon",
+      "rating": 4.3,
+      "ticketUrl": "https://www.mdsci.org/plan-a-visit/tickets-hours/"
+    },
+    {
+      "name": "Top of the World Observation Level",
+      "lat": 39.2865,
+      "lng": -76.6097,
+      "note": "A 27th-floor deck in the pentagonal World Trade Center with 360-degree views over the harbor and skyline.",
+      "hours": "Wed–Thu 10:00 AM–6:00 PM; Fri–Sat 10:00 AM–7:00 PM; Sun 11:00 AM–6:00 PM; closed Mon–Tue (lease renewal pending, check ahead)",
+      "rating": 4.5
+    },
+    {
+      "name": "Little Italy",
+      "lat": 39.2857,
+      "lng": -76.6013,
+      "note": "A compact enclave of rowhouse red-sauce restaurants and bakeries between the harbor and Harbor East, with outdoor films in summer.",
+      "hours": "Neighbourhood, always open; restaurants keep their own hours",
+      "rating": 4.3
+    },
+    {
+      "name": "Edgar Allan Poe's Grave Site and Memorial",
+      "lat": 39.29,
+      "lng": -76.6232,
+      "note": "The Westminster burying ground where Poe lies beneath a marble monument, surrounded by catacombs and 18th-century tombs.",
+      "hours": "Burying ground open daily ~8:00 AM–dusk",
+      "rating": 4.3
+    },
+    {
+      "name": "Federal Hill Park",
+      "lat": 39.2795,
+      "lng": -76.609,
+      "note": "A grassy hilltop on the harbor's south shore offering the classic free panorama of the downtown skyline.",
+      "hours": "Open daily, dawn to dusk",
+      "rating": 4.5
+    },
+    {
+      "name": "Lexington Market",
+      "lat": 39.2917,
+      "lng": -76.6213,
+      "note": "America's oldest continuously running public market, rebuilt in 2022, famous for Faidley's crab cakes and local food stalls.",
+      "hours": "Mon–Wed 6:00 AM–5:00 PM; Thu–Fri 6:00 AM–6:00 PM; Sat 7:00 AM–6:00 PM; closed Sun"
+    },
+    {
+      "name": "Washington Monument at Mount Vernon Place",
+      "lat": 39.2975,
+      "lng": -76.6155,
+      "note": "The first major monument to George Washington, an 1829 column you can climb for views over the elegant squares of Mount Vernon.",
+      "hours": "Wed–Sun 10:00 AM–5:00 PM; closed Mon–Tue",
+      "ticketUrl": "https://mountvernonplace.org/the-monument/"
+    }
+  ],
+  "railStations": [
+    {
+      "name": "Baltimore Penn Station",
+      "lat": 39.3075,
+      "lng": -76.6156,
+      "note": "Baltimore's intercity hub: Amtrak Acela and Northeast Regional to Washington, Philadelphia and New York, plus MARC Penn Line commuter trains. The Light RailLink Penn–Camden shuttle stops outside (Mount Royal/MICA is ~0.5 km); there is no Metro SubwayLink stop. A major station renovation is under way.",
+      "hours": "Station open ~5:00 AM–~1:00 AM; trains run to individual timetables."
+    }
+  ],
+  "airports": [
+    {
+      "name": "Baltimore/Washington International Thurgood Marshall Airport",
+      "code": "BWI",
+      "lat": 39.1774,
+      "lng": -76.6684,
+      "transitNote": "Light RailLink (on the map) stops at the terminal (BWI Airport station) and reaches Camden Yards and downtown in ~35 min for $2.00. A free shuttle also links the terminal to BWI Marshall Rail Station for Amtrak and MARC trains to Penn Station (~15–20 min, not on the map).",
+      "hours": "Light Rail: first ~4:30 AM, last ~12:00 AM Mon–Sat; Sundays ~10:00 AM–~9:30 PM."
+    }
+  ]
+}

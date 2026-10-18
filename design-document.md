@@ -132,7 +132,7 @@ station/airport/railway stop you tap.
   Riyadh, Doha, Jerusalem, Cairo, Dublin, Edinburgh, Florence, Miami,
   Las Vegas, Vancouver, Rio de Janeiro, Sydney, Melbourne. Batch 7 (US, 2026-10-18):
   Seattle, Philadelphia, San Diego, New Orleans, Atlanta. Batch 8 (US, 2026-10-18):
-  Portland, Honolulu, Denver, Dallas (74 cities).
+  Portland, Honolulu, Denver, Dallas, Baltimore (75 cities).
   City-list groups: Asia, Europe, Americas, Africa, Oceania.
 - **City picker** (search redesigned 2026-10-16): a search box that
   matches city name, country, other names (`aliases` in `cities.json`:
@@ -499,7 +499,7 @@ they're done.
 
 ## Changelog
 
-### 2026-10-18 — batch 8: more US cities overnight (74 total)
+### 2026-10-18 — batch 8: more US cities overnight (75 total)
 - Audrey asked for as many more US cities as possible overnight. Added so
   far: Portland (MAX Blue/Red/Green/Yellow/Orange, Streetcar NS/A/B).
 - Gaps: Portland airport hotels are shuttle or Cascade Station hotels
@@ -517,6 +517,9 @@ they're done.
   yet. Gaps: DFW 2 hotels and Love Field 2 shuttle hotels; Union Station
   3; Uptown picks all luxury; no budget picks at Union Station or the
   Arts District.
+- Baltimore: Metro SubwayLink and Light RailLink (BWI and Glen Burnie
+  branches). Gaps: Penn Station 1 hotel (no light-rail stop drawn
+  there); BWI hotels are shuttle hotels 2.3-2.8 km out; Inner Harbor 3.
 
 ### 2026-10-18 — station clicks always pull in nearby hotels
 - Audrey: in Seattle, a station with any curated pick in walking distance
