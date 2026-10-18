@@ -868,6 +868,12 @@ function loadCity(cityId){
       const dot = L.circleMarker([lat,lng], {radius:5, weight:2, color:'#fff', fillColor:line.color, fillOpacity:1, interactive:isFirstAtThisSpot}).addTo(map);
       if(isFirstAtThisSpot){
         dot.on('click', (e)=>{ L.DomEvent.stopPropagation(e); toggleStationCircle(dot, lat, lng, name, line); });
+        // The 5px dot is hard to hit (Audrey), so an invisible 16px ring
+        // around it takes the same click.
+        const hit = L.circleMarker([lat,lng], {radius:16, stroke:false, fillColor:'#000', fillOpacity:0.001, bubblingMouseEvents:false}).addTo(map);
+        hit.on('click', (e)=>{ L.DomEvent.stopPropagation(e); toggleStationCircle(dot, lat, lng, name, line); });
+        dot.bringToFront();
+        stationMarkers.push(hit);
       }
       stationMarkers.push(dot);
       // One label per interchange, not one per line.
@@ -1895,6 +1901,8 @@ map.on('click', (e)=>{
   if(!addMode){
     hideSearchBanner();
     if(stationCircles.size>0){
+      // Clicking empty map turns station circles off: hide their hotels too.
+      if(lastHotelQuery && !lastHotelQuery.sight) clearHotelLookupFor(lastHotelQuery.name);
       stationCircles.forEach(c=>map.removeLayer(c));
       stationCircles.clear();
       render();

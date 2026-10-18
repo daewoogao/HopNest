@@ -504,6 +504,10 @@ they're done.
   when that station was the last lookup). Clicking again brings them back.
 - Same for sights (Audrey): a second click on a sight closes its popup and
   hides its hotels, card and dashed walk circle.
+- Station dots were hard to hit (Audrey): each clickable station now has an
+  invisible 16px ring around its 5px dot that takes the same click.
+  Clicking empty map (which already turned station circles off) now also
+  hides the station's hotels and card.
 
 ### 2026-10-18 — kawaii hotel icon
 - Audrey asked for a Japanese cartoon-style hotel logo that reads
