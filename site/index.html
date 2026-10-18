@@ -651,6 +651,7 @@ function clearCityLayers(){
   transferLayers.forEach(t=>map.removeLayer(t.layer)); transferLayers = [];
   clearNearestPicks(true);
   clearOsmHotels();
+  lastHotelQuery = null;
   if(sightWalkCircle){ map.removeLayer(sightWalkCircle); sightWalkCircle=null; }
   hotelMarkers.forEach(h=>map.removeLayer(h.marker)); hotelMarkers=[];
   sightMarkers.forEach(s=>{ map.removeLayer(s.marker); map.removeLayer(s.label); }); sightMarkers=[];
@@ -1147,7 +1148,23 @@ async function showOsmHotelsNear(placeName, lat, lng, opts={}){
   });
 }
 
+// The last station or sight whose hotels were looked up. Changing the walk
+// time re-runs that lookup, so a station with nothing at 10 min can find
+// hotels at 15 min; the dashed "nearest picks" lines go once it does.
+let lastHotelQuery = null, rerunHotelTimer = null;
+function rerunHotelQuery(){
+  clearTimeout(rerunHotelTimer);
+  rerunHotelTimer = setTimeout(()=>{
+    const q = lastHotelQuery; if(!q) return;
+    clearNearestPicks(false);
+    hideSearchBanner();
+    if(q.sight) showOsmHotelsNear(q.name, q.lat, q.lng, {sight:true});
+    else maybeFetchLiveHotels(q.name, q.lat, q.lng);
+  }, 350);
+}
+
 function maybeFetchLiveHotels(stationName, lat, lng){
+  lastHotelQuery = {name:stationName, lat, lng, sight:false};
   const data = CITIES[currentCityId];
   const key = currentCityId+'::'+stationName;
   const nameMatch = data.hotels.some(h => h.area && h.area.toLowerCase() === stationName.toLowerCase());
@@ -1303,7 +1320,7 @@ function buildSightPopupHTML(s){
 function addSightMarker(s){
   const marker = L.marker([s.lat,s.lng], {icon:sightIcon(s.custom)}).addTo(map);
   marker.bindPopup('', NO_CLOSE_BTN);
-  marker.on('popupopen', ()=>{ marker.setPopupContent(popupHTML(buildSightPopupHTML(s))); showOsmHotelsNear(s.name, s.lat, s.lng, {sight:true}); });
+  marker.on('popupopen', ()=>{ marker.setPopupContent(popupHTML(buildSightPopupHTML(s))); lastHotelQuery = {name:s.name, lat:s.lat, lng:s.lng, sight:true}; showOsmHotelsNear(s.name, s.lat, s.lng, {sight:true}); });
   const label = L.marker([s.lat,s.lng], {icon:L.divIcon({className:'sight-label', html:s.name, iconAnchor:[-10,-4]}), interactive:false}).addTo(map);
   sightMarkers.push({marker,label,def:s});
 }
@@ -1678,6 +1695,7 @@ function setWalkMinutes(v){
     }
   });
   render();
+  rerunHotelQuery();
 }
 walkSlider.addEventListener('input', ()=> setWalkMinutes(parseInt(walkSlider.value,10)));
 document.querySelectorAll('.preset-btn').forEach(btn=>{

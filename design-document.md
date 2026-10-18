@@ -506,6 +506,9 @@ they're done.
   sight now draws a dashed walk circle around it and lists hotels within
   the walk time: our picks first (★, rated), then OpenStreetMap hotels
   (unrated). Free, same saved data.
+- Changing the walk time (slider or preset) re-runs the hotel lookup for
+  the last clicked station or sight, so a station with nothing at 10 min
+  can find hotels at 15 min; the dashed nearest-pick lines are removed.
 - Map-data hotels show as a small rounded "bed" badge (lavender for
   hotels, peach for hostels) instead of grey dots, per Audrey.
 
