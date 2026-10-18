@@ -435,3 +435,4 @@
 05:57:29 portland lines ok
 05:57:52 saltlakecity lines ok
 05:58:15 stlouis lines ok
+08:06:15 dallas lines ok
