@@ -1170,12 +1170,13 @@ function rerunHotelQuery(){
   }, 350);
 }
 
-// Clicking a station again turns its circle off; also hide the hotels that
+// Clicking a station or sight again turns it off; also hide the hotels that
 // click showed (map-data hotels, the hotel card and any dashed lines).
-function clearHotelLookupFor(name){
-  if(!lastHotelQuery || lastHotelQuery.sight || lastHotelQuery.name !== name) return;
+function clearHotelLookupFor(name, sight=false){
+  if(!lastHotelQuery || !!lastHotelQuery.sight !== sight || lastHotelQuery.name !== name) return;
   lastHotelQuery = null; clearTimeout(rerunHotelTimer);
   clearOsmHotels(); clearNearestPicks(false); hideSearchBanner();
+  if(sight && sightWalkCircle){ map.removeLayer(sightWalkCircle); sightWalkCircle = null; }
 }
 
 function maybeFetchLiveHotels(stationName, lat, lng){
@@ -1336,6 +1337,9 @@ function addSightMarker(s){
   const marker = L.marker([s.lat,s.lng], {icon:sightIcon(s.custom)}).addTo(map);
   marker.bindPopup('', NO_CLOSE_BTN);
   marker.on('popupopen', ()=>{ marker.setPopupContent(popupHTML(buildSightPopupHTML(s))); lastHotelQuery = {name:s.name, lat:s.lat, lng:s.lng, sight:true}; showOsmHotelsNear(s.name, s.lat, s.lng, {sight:true}); });
+  // A second click closes the popup (Leaflet's own toggle runs first); then
+  // also hide the hotels, card and walk circle this sight showed.
+  marker.on('click', ()=>{ if(!marker.isPopupOpen()) clearHotelLookupFor(s.name, true); });
   const label = L.marker([s.lat,s.lng], {icon:L.divIcon({className:'sight-label', html:s.name, iconAnchor:[-10,-4]}), interactive:false}).addTo(map);
   sightMarkers.push({marker,label,def:s});
 }

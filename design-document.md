@@ -502,6 +502,8 @@ they're done.
   showed, like a toggle. Turning a station's walk circle off now also
   removes its map-data hotels, the hotel card and any dashed lines (only
   when that station was the last lookup). Clicking again brings them back.
+- Same for sights (Audrey): a second click on a sight closes its popup and
+  hides its hotels, card and dashed walk circle.
 
 ### 2026-10-18 — kawaii hotel icon
 - Audrey asked for a Japanese cartoon-style hotel logo that reads
