@@ -501,7 +501,8 @@ they're done.
 - Audrey asked for a Japanese cartoon-style hotel logo that reads
   instantly as "hotel". Six options drawn (A smiling hotel, B sleepy bed,
   C little inn, D desk bell, E room key, F ryokan). Map-data hotels now
-  show B, the sleepy bed: a sleeping face under a blanket with "zz" (pink
+  show B3, the sleepy bed: a kitty-eared sleeper tucked under a blanket
+  with "zz", head redrawn per Audrey (pink
   blanket = hotel, mint = hostel), anchored at its base. Replaces the bed
   badge; the card legend shows the same icon. Our curated picks keep the green diamond.
 
