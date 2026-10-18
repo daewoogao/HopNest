@@ -115,7 +115,8 @@
   .fb-head{display:flex;justify-content:space-between;gap:10px;font-weight:700;font-size:13px;margin-bottom:2px;}
   .fb-close{cursor:pointer;color:var(--text-dim);font-size:16px;line-height:1;}
   .fb-sub{font-size:11.5px;color:var(--text-dim);margin-bottom:8px;}
-  #search-banner.dock{left:auto;right:12px;bottom:auto;top:76px;transform:none;width:300px;max-height:calc(100vh - 110px);overflow:auto;}
+  #search-banner .fb-ico svg{width:14px;height:14px;vertical-align:-2px;filter:none!important}
+#search-banner.dock{left:auto;right:12px;bottom:auto;top:76px;transform:none;width:300px;max-height:calc(100vh - 110px);overflow:auto;}
   @media (max-width:760px){ #search-banner.dock{left:8px;right:8px;top:auto;bottom:8px;width:auto;max-height:38vh;} }
   #search-banner.dock .fb-extra{display:none;}
   #search-banner.dock.expanded .fb-extra{display:block;}
@@ -1058,16 +1059,19 @@ async function loadOsmHotels(cityId){
   return osmHotelCache[cityId];
 }
 const bookingHotelUrl = (name, cityName) => 'https://www.booking.com/searchresults.html?ss=' + encodeURIComponent(`${name}, ${cityName}`);
-// Small rounded "bed" badge for map-data hotels (lavender), a bunk-bed for
-// hostels (peach), so they read as hotels but differ from our green picks.
-const osmBedIcon = (bg) => L.divIcon({className:'', iconSize:[22,22], iconAnchor:[11,11], popupAnchor:[0,-10], html:
-  `<svg width="22" height="22" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg" style="filter:drop-shadow(0 1px 2px rgba(0,0,0,.35))">
-     <rect x="1" y="1" width="20" height="20" rx="7" fill="${bg}" stroke="#fff" stroke-width="2"/>
-     <rect x="5.5" y="7" width="3.2" height="2.6" rx="1.2" fill="#fff"/>
-     <path d="M5 13.2h12v-1.4a1.8 1.8 0 0 0-1.8-1.8H9.6V13" fill="#fff"/>
-     <path d="M5 6.5v9M17 13v2.5" stroke="#fff" stroke-width="1.5" stroke-linecap="round"/>
+// Kawaii "smiling hotel" for map-data hotels: a little building with a red
+// H sign, face and door. Yellow for hotels, sky blue for hostels.
+const osmBedIcon = (bg) => L.divIcon({className:'', iconSize:[26,26], iconAnchor:[13,24], popupAnchor:[0,-22], html:
+  `<svg width="26" height="26" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg" style="filter:drop-shadow(0 1px 1.5px rgba(0,0,0,.4))">
+     <rect x="7" y="9" width="26" height="27" rx="6" fill="${bg}" stroke="#3a2a2a" stroke-width="2.4"/>
+     <rect x="12" y="3" width="16" height="9" rx="3" fill="#ff6b6b" stroke="#3a2a2a" stroke-width="2.4"/>
+     <text x="20" y="10.8" text-anchor="middle" font-family="Arial Black,Arial,sans-serif" font-weight="900" font-size="8" fill="#fff">H</text>
+     <circle cx="15" cy="21" r="1.8" fill="#3a2a2a"/><circle cx="25" cy="21" r="1.8" fill="#3a2a2a"/>
+     <ellipse cx="12" cy="23.8" rx="1.9" ry="1.2" fill="#ff9fb0"/><ellipse cx="28" cy="23.8" rx="1.9" ry="1.2" fill="#ff9fb0"/>
+     <path d="M18.4 22.8q1.6 1.8 3.2 0" stroke="#3a2a2a" stroke-width="1.3" fill="none" stroke-linecap="round"/>
+     <rect x="16.5" y="28" width="7" height="8" rx="2.5" fill="#c9844a" stroke="#3a2a2a" stroke-width="1.8"/>
    </svg>`});
-const OSM_HOTEL_ICON = osmBedIcon('#8b7fd8'), OSM_HOSTEL_ICON = osmBedIcon('#f0936b');
+const OSM_HOTEL_ICON = osmBedIcon('#ffd27a'), OSM_HOSTEL_ICON = osmBedIcon('#9fdcff');
 function osmHotelMarker(o, cityName){
   const key = o[0]+','+o[1];
   if(osmHotelMarkers.has(key)) return osmHotelMarkers.get(key);
@@ -1113,7 +1117,7 @@ async function showOsmHotelsNear(placeName, lat, lng, opts={}){
   el.innerHTML = `
     <div class="fb-head"><span>${rows.length} hotel${rows.length>1?'s':''} within ${walkMinutes} min walk of ${placeName}</span><span class="fb-tools"><span class="fb-fold" id="fb-fold" title="Fold">–</span><span class="fb-close" id="fb-close">×</span></span></div>
     <div class="fb-body">
-      <div class="fb-sub">${picks.length?'★ = our picks. ':''}🛏 = hotels from OpenStreetMap, not rated by us.</div>
+      <div class="fb-sub">${picks.length?'★ = our picks. ':''}<span class="fb-ico">${OSM_HOTEL_ICON.options.html}</span> = hotels from OpenStreetMap, not rated by us.</div>
       <div class="fb-list">${rows.map((r,i)=>`<div class="fb-row${i>=SHOW?' fb-extra':''}" data-i="${i}">${r.html}</div>`).join('')}</div>
       ${rows.length>SHOW?`<div class="fb-more" id="fb-more">Show all ${rows.length}</div>`:''}
       <a class="fb-book" href="${'https://www.booking.com/searchresults.html?ss='+encodeURIComponent(place+', '+data.name)}" target="_blank" rel="noopener">Prices near ${placeName} ↗</a>

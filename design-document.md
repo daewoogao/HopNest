@@ -497,6 +497,13 @@ they're done.
 
 ## Changelog
 
+### 2026-10-18 — kawaii hotel icon
+- Audrey asked for a Japanese cartoon-style hotel logo that reads
+  instantly as "hotel". Map-data hotels now show as a smiling little
+  building with a red "H" sign, rosy cheeks and a door (yellow = hotel,
+  sky blue = hostel), anchored at its base. Replaces the bed badge; the
+  card legend shows the same icon. Our curated picks keep the green diamond.
+
 ### 2026-10-17 — hotel card out of the way; hotels near sights
 - Audrey: the hotel list covered the map after a station click. The card
   now docks top-right on desktop (bottom on phones, max ~38% height),
