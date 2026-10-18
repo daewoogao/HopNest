@@ -79,5 +79,6 @@
   "houston": {"name":"Houston","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["IAH","HOU","Space City","Texas"]},
   "phoenix": {"name":"Phoenix","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["PHX","Tempe","Arizona"]},
   "stlouis": {"name":"St. Louis","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["STL","Saint Louis","Missouri"]},
-  "pittsburgh": {"name":"Pittsburgh","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["PIT","Steel City","Pennsylvania"]}
+  "pittsburgh": {"name":"Pittsburgh","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["PIT","Steel City","Pennsylvania"]},
+  "charlotte": {"name":"Charlotte","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["CLT","Queen City","North Carolina"]}
 }
