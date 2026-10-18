@@ -510,6 +510,11 @@ they're done.
   sunflower with an "H" on swirling blue, in a gold ring. Replaces the
   green diamond; 28px normally, 34px inside a walk circle, pin badge kept.
   Served as one data-URI image so many markers stay light.
+- Sights: Audrey asked for a more fun Van Gogh-style icon; nine pin options
+  drawn (Van Gogh P1-P3, Sisley Q1-Q3, Renoir R1-R3). Chosen: P2, a map pin
+  with a painted yellow camera on Starry Night swirls and a gold rim
+  (warm red version for traveller-added sights). Replaces the plain
+  blue/red pins.
 
 ### 2026-10-17 — hotel card out of the way; hotels near sights
 - Audrey: the hotel list covered the map after a station click. The card
