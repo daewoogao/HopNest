@@ -505,7 +505,9 @@ they're done.
 - Audrey: clicking a sight should show hotels around it too. Opening a
   sight now draws a dashed walk circle around it and lists hotels within
   the walk time: our picks first (★, rated), then OpenStreetMap hotels
-  (grey dots, unrated). Free, same saved data.
+  (unrated). Free, same saved data.
+- Map-data hotels show as a small rounded "bed" badge (lavender for
+  hotels, peach for hostels) instead of grey dots, per Audrey.
 
 ### 2026-10-17 — every station shows hotels in walking distance (free)
 - Audrey expected a station click to find real hotels within walking

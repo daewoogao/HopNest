@@ -1069,11 +1069,21 @@ async function loadOsmHotels(cityId){
   return osmHotelCache[cityId];
 }
 const bookingHotelUrl = (name, cityName) => 'https://www.booking.com/searchresults.html?ss=' + encodeURIComponent(`${name}, ${cityName}`);
+// Small rounded "bed" badge for map-data hotels (lavender), a bunk-bed for
+// hostels (peach), so they read as hotels but differ from our green picks.
+const osmBedIcon = (bg) => L.divIcon({className:'', iconSize:[22,22], iconAnchor:[11,11], popupAnchor:[0,-10], html:
+  `<svg width="22" height="22" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg" style="filter:drop-shadow(0 1px 2px rgba(0,0,0,.35))">
+     <rect x="1" y="1" width="20" height="20" rx="7" fill="${bg}" stroke="#fff" stroke-width="2"/>
+     <rect x="5.5" y="7" width="3.2" height="2.6" rx="1.2" fill="#fff"/>
+     <path d="M5 13.2h12v-1.4a1.8 1.8 0 0 0-1.8-1.8H9.6V13" fill="#fff"/>
+     <path d="M5 6.5v9M17 13v2.5" stroke="#fff" stroke-width="1.5" stroke-linecap="round"/>
+   </svg>`});
+const OSM_HOTEL_ICON = osmBedIcon('#8b7fd8'), OSM_HOSTEL_ICON = osmBedIcon('#f0936b');
 function osmHotelMarker(o, cityName){
   const key = o[0]+','+o[1];
   if(osmHotelMarkers.has(key)) return osmHotelMarkers.get(key);
   const [lat,lng,name,stars,hostel] = o;
-  const m = L.circleMarker([lat,lng], {radius:5.5, weight:2, color:'#fff', fillColor:'#7d8b99', fillOpacity:1}).addTo(map);
+  const m = L.marker([lat,lng], {icon: hostel ? OSM_HOSTEL_ICON : OSM_HOTEL_ICON, zIndexOffset:500}).addTo(map);
   m.bindPopup(`<div style="font-size:13px;"><b>${name}</b><div style="margin:4px 0;color:#667">${hostel?'Hostel':'Hotel'}${stars?' · '+'★'.repeat(stars):''} · not yet rated (from OpenStreetMap)</div>
     <a href="${bookingHotelUrl(name, cityName)}" target="_blank" rel="noopener">Prices & reviews on Booking.com ↗</a></div>`);
   osmHotelMarkers.set(key, m);
@@ -1114,7 +1124,7 @@ async function showOsmHotelsNear(placeName, lat, lng, opts={}){
   el.innerHTML = `
     <div class="fb-head"><span>${rows.length} hotel${rows.length>1?'s':''} within ${walkMinutes} min walk of ${placeName}</span><span class="fb-tools"><span class="fb-fold" id="fb-fold" title="Fold">–</span><span class="fb-close" id="fb-close">×</span></span></div>
     <div class="fb-body">
-      <div class="fb-sub">${picks.length?'★ = our picks. ':''}Grey dots = hotels from OpenStreetMap, not rated by us.</div>
+      <div class="fb-sub">${picks.length?'★ = our picks. ':''}🛏 = hotels from OpenStreetMap, not rated by us.</div>
       <div class="fb-list">${rows.map((r,i)=>`<div class="fb-row${i>=SHOW?' fb-extra':''}" data-i="${i}">${r.html}</div>`).join('')}</div>
       ${rows.length>SHOW?`<div class="fb-more" id="fb-more">Show all ${rows.length}</div>`:''}
       <a class="fb-book" href="${'https://www.booking.com/searchresults.html?ss='+encodeURIComponent(place+', '+data.name)}" target="_blank" rel="noopener">Prices near ${placeName} ↗</a>
