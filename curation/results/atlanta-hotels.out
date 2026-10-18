@@ -1,0 +1,166 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	466951535	Georgia Tech Hotel and Conference Center		33.7764427	-84.3890072	hotel				
+node	491092336	University Inn		33.7896860	-84.3183487	hotel				
+node	536665136	Otto's Apartment Hotel		33.7718936	-84.3527337	hotel				https://www.ottosatl.com/
+node	567198325	Decatur Inn and Suites		33.7806716	-84.2946685	hotel				
+node	2390824997	Homewood Suites by Hilton Atlanta Midtown		33.7817260	-84.3904020	hotel		Homewood Suites		https://www.hilton.com/en/hotels/atlmihw-homewood-suites-atlanta-midtown-ga/
+node	2390825036	Hilton Garden Inn Atlanta Midtown		33.7817591	-84.3904406	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/atlamgi-hilton-garden-inn-atlanta-midtown/
+node	2661648990	AC Hotel Atlanta Downtown		33.7600184	-84.3909147	hotel		AC Hotel		
+node	2749706258	AC Hotel by Marriott Atlanta Midtown		33.7864361	-84.3859045	hotel		AC Hotel		https://www.marriott.com/en-us/hotels/atlcn-ac-hotel-atlanta-midtown/overview/
+node	2750966434	Courtyard Atlanta Midtown		33.7720636	-84.3852609	hotel		Courtyard		https://www.marriott.com/atlyc
+node	2771547082	"The Whitley, a Luxury Collection Hotel, Atlanta Buckhead"		33.8505328	-84.3631888	hotel		Luxury Collection		https://www.marriott.com/hotels/fact-sheet/travel/atllu-the-whitley-a-luxury-collection-hotel-atlanta-buckhead/
+node	3140329594	"Hotel Colee, Atlanta Buckhead, Autograph Collection"		33.8478881	-84.3662224	hotel				https://www.marriott.com/en-us/hotels/atlah-hotel-colee-atlanta-buckhead-autograph-collection/overview/
+node	4127498430	Fairfield Inn & Suites Atlanta Airport North		33.6631772	-84.4298563	hotel		Fairfield Inn		https://www.marriott.com/atlsz
+node	4127907105	Staybridge Suites Atlanta - Midtown		33.7701993	-84.3878602	hotel		Staybridge Suites		https://www.ihg.com/staybridge/hotels/us/en/atlanta/atlpe/hoteldetail
+node	4127907106	Crowne Plaza Atlanta - Midtown		33.7702059	-84.3884691	hotel		Crowne Plaza		https://www.ihg.com/crowneplaza/hotels/us/en/atlanta/atlpw/hoteldetail
+node	4127926289	Ramada Limited Atlanta		33.8124762	-84.3658316	hotel		Ramada		
+node	6326022775	Moxy Atlanta Midtown		33.7858253	-84.3858924	hotel		Moxy		https://www.marriott.com/hotels/hotel-rooms/atlox-moxy-atlanta-midtown/
+node	7741454288	Atlanta Marriott Buckhead Hotel & Conference Center		33.8479989	-84.3596857	hotel		Marriott		
+node	7741585421	Element Atlanta Buckhead		33.8494722	-84.3757431	hotel		Element		
+node	7741674134	The Westin Buckhead Atlanta		33.8483026	-84.3652845	hotel		Westin		https://www.marriott.com/en-us/hotels/atlwb-the-westin-buckhead-atlanta/overview/
+node	8116873410	Hotel Indigo Atlanta Downtown		33.7602521	-84.3878464	hotel		Hotel Indigo		https://www.ihg.com/hotelindigo/hotels/us/en/atlanta/atlid/hoteldetail
+node	8199608303	"The Candler Hotel Atlanta, Curio Collection by Hilton"		33.7569147	-84.3879890	hotel				https://www.hilton.com/en/hotels/atlcdqq-the-candler-hotel-atlanta/
+node	8541073079	"Bellyard, West Midtown Atlanta, a Tribute Portfolio Hotel"		33.7855997	-84.4107969	hotel				https://www.marriott.com/en-us/hotels/atltm-bellyard-west-midtown-atlanta-a-tribute-portfolio-hotel/overview/
+node	11685329525	Tru by Hilton Atlanta Airport College Park		33.6444280	-84.4592250	hotel		Tru		
+node	11685329526	Home2 Suites		33.6443395	-84.4592022	hotel		Home2 Suites		https://www.hilton.com/en/hotels/atlayht-home2-suites-atlanta-airport-college-park/
+node	11734789069	Hyatt Place Atlanta/Centennial Park		33.7625049	-84.3959562	hotel		Hyatt Place		https://www.hyatt.com/en-US/hotel/georgia/hyatt-place-atlanta-centennial-park/atlzt
+node	11812635164	JW Marriott		33.7649102	-84.3893243	hotel		JW Marriott		https://www.marriott.com/en-us/hotels/atljd-jw-marriott-atlanta-downtown/overview/
+node	11882214945	Embassy Suites		33.6604392	-84.4224399	hotel		Embassy Suites		https://www.hilton.com/en/hotels/atlbwes-embassy-suites-atlanta-airport-north/
+node	11981131869	The Darwin Hotel		33.7702655	-84.3722111	hotel				https://thedarwinhotel.com
+node	12050955822	Signia by Hilton Atlanta Georgia World Congress Center		33.7588566	-84.4011662	hotel		Signia by Hilton		https://www.hilton.com/en/hotels/atlwcsa-signia-atlanta-georgia-world-congress-center/
+node	12132920984	Element Atlanta Midtown		33.7720647	-84.3855108	hotel		Element Hotels		https://www.marriott.com/en-us/hotels/atlle-element-atlanta-midtown/overview/
+node	12177511390	Hotel Clermont		33.7735333	-84.3613442	hotel				https://www.hotelclermont.com/
+node	13372833090	Hotel Phoenix		33.7550955	-84.3979559	hotel		Preferred Hotels & Resorts (L.V.X Collection)		https://www.hotelphoenix.com/
+way	31348270	Hyatt Place Atlanta Airport North		33.6619273	-84.4290487	hotel		Hyatt Place		https://www.hyatt.com/en-us/hotel/georgia/hyatt-place-atlanta-airport-north/atlza
+way	39448231	Atlanta Marriott Marquis		33.7615939	-84.3851089	hotel				https://www.marriott.com/en-us/hotels/atlmq-atlanta-marriott-marquis/overview/
+way	39448232	Hilton Atlanta		33.7615225	-84.3834007	hotel		Hilton		https://www.hilton.com/en/hotels/atlahhh-hilton-atlanta/
+way	39448407	Courtland Grand Hotel		33.7589801	-84.3833008	hotel				https://courtlandgrandhotel.com/
+way	39902506	The Brookhaven Atlanta Hotel		33.8318661	-84.3380650	hotel				https://brookhavenatlantahotel.com/
+way	40711971	Embassy Suites		33.7607282	-84.3946222	hotel		Embassy Suites	Embassy Suites	http://embassysuites1.hilton.com/en_US/es/hotel/ATLESES-Embassy-Suites-Atlanta-at-Centennial-Olympic-Park-Georgia/index.do
+way	40712193	House of Kube Atlanta		33.7620102	-84.3956459	hotel		Hilton Garden Inn	Hilton	https://hiltongardeninn.hilton.com/en/gi/hotels/index.jhtml?ctyhocn=ATLDOGI
+way	40741532	Omni Atlanta Hotel at Centennial Park		33.7587834	-84.3947895	hotel		Omni Hotels & Resorts	Omni Hotels & Resorts	https://www.omnihotels.com/hotels/atlanta-centennial-park
+way	40808010	Hyatt Regency Atlanta		33.7616092	-84.3867788	hotel		Hyatt Regency	Hyatt	https://atlanta.regency.hyatt.com/
+way	40860494	"The American Hotel Atlanta Downtown, Tapestry Collection by Hilton"		33.7593104	-84.3900666	hotel		Tapestry Collection		https://www.hilton.com/en/hotels/atlupup-the-american-hotel-atlanta-downtown/
+way	42740643	Courtyard Atlanta Downtown		33.7581870	-84.3881672	hotel		Courtyard		https://www.marriott.com/hotels/travel/atldo-courtyard-atlanta-downtown/
+way	42779040	"The Ritz-Carlton, Atlanta"		33.7586554	-84.3871871	hotel		The Ritz-Carlton		http://www.ritzcarlton.com/en/hotels/georgia/atlanta
+way	42902311	Hampton Inn and Suites Atlanta Downtown		33.7587904	-84.3897496	hotel		Hampton Inn & Suites		https://www.hilton.com/en/hotels/atlhshx-hampton-suites-atlanta-downtown/
+way	42904130	"The Westin Peachtree Plaza, Atlanta"		33.7594383	-84.3883994	hotel		Westin		https://westin.marriott.com/hotel-locations/
+way	51299526	Holiday Inn Express Hotel & Suites		33.7900274	-84.3028140	hotel		Holiday Inn Express		
+way	55464762	Origin Hotel Atlanta		33.7499768	-84.3917176	hotel			Wyndham	https://www.originhotel.com/hotels/atlanta/hotel-downtown-atlanta
+way	103769592	Hampton Inn Atlanta-Georgia Tech Downtown		33.7711473	-84.3957355	hotel		Hampton		https://hamptoninn3.hilton.com/en/hotels/georgia/hampton-inn-atlanta-georgia-tech-downtown-ATLGTHX/
+way	128297753	Sonesta Select Atlanta Midtown Georgia Tech		33.7854523	-84.3927024	hotel		Sonesta Select		https://www.sonesta.com/us/georgia/atlanta/sonesta-select-atlanta-midtown-georgia-tech
+way	147864644	Clarion Hotel Atlanta Airport		33.6599310	-84.4355941	hotel		Clarion		https://www.choicehotels.com/georgia/college-park/clarion-hotels/ga502
+way	152991751	Country Inn & Suites		33.6608633	-84.4338721	hotel		Country Inn & Suites		https://www.radissonhotels.com/en-us/hotels/country-inn-atlanta-airport-ga
+way	152991753	Sonesta Atlanta Airport North		33.6601400	-84.4319043	hotel		Sonesta		https://www.sonesta.com/us/georgia/atlanta/sonesta-atlanta-airport-north
+way	152991756	Hampton Inn & Suites Atlanta Airport North		33.6613189	-84.4290422	hotel		Hampton Inn & Suites		https://www.hilton.com/en/hotels/atlnbhx-hampton-suites-atlanta-airport-north-i85/
+way	153048809	Holiday Inn & Suites Atlanta Airport - North		33.6580945	-84.4342291	hotel		Holiday Inn		
+way	192581349	Holiday Inn Express & Suites Atlanta Downtown		33.7579803	-84.3896979	hotel		Holiday Inn Express & Suites		
+way	193133144	Barclay Hotel Atlanta Downtown		33.7573883	-84.3893078	hotel				http://www.atlantadowntowninn.com
+way	208353996	"Wylie Hotel Atlanta, Tapestry Collection by Hilton"		33.7731562	-84.3689083	hotel		Tapestry Collection		
+way	208355682	Hotel Indigo		33.7732061	-84.3845414	hotel		Hotel Indigo	IHG	https://www.ihg.com/hotelindigo/hotels/us/en/atlanta/atlfx/hoteldetail
+way	230593405	Home2 Suites by Hilton Atlanta Midtown		33.7812457	-84.3873457	hotel		Home2 Suites		https://www.hilton.com/en/hotels/atlhoht-home2-suites-atlanta-midtown/
+way	230593410	Hyatt Centric Midtown Atlanta		33.7814249	-84.3829765	hotel		Hyatt Centric		https://www.hyatt.com/hyatt-centric/atlhm-hyatt-centric-midtown-atlanta
+way	231734997	Holiday Inn Express		33.8426006	-84.3150163	hotel		Holiday Inn Express	Holiday Inn	
+way	234888045	Renaissance Atlanta Midtown Hotel		33.7783494	-84.3877718	hotel		Renaissance		https://www.marriott.com/en-us/hotels/atlbd-renaissance-atlanta-midtown-hotel/overview/
+way	234935283	Loews Atlanta Hotel		33.7833251	-84.3833174	hotel		Loews Hotels		https://www.loewshotels.com/atlanta-hotel
+way	235006977	Residence Inn Atlanta Midtown/Georgia Tech		33.7830323	-84.3874889	hotel		Residence Inn		https://www.marriott.com/atlmt
+way	247997228	"Twelve Midtown, Autograph Collection"		33.7918333	-84.3981073	hotel				https://twelvehotels.com/hotels/midtown
+way	248957962	Comfort Inn		33.7329697	-84.3912349	hotel		Comfort Inn		https://www.choicehotels.com/georgia/tucker/econo-lodge-hotels
+way	248958415	Country Inn & Suites		33.7338892	-84.3912501	hotel		Country Inn & Suites		https://www.radissonhotels.com/en-us/hotels/country-inn-atlanta-downtown-ga
+way	260646601	Aloft Atlanta Downtown		33.7625762	-84.3896208	hotel		Aloft	Mariott	https://www.marriott.com/en-us/hotels/atldn-aloft-atlanta-downtown/overview/
+way	267984596	"The Burgess Hotel, Atlanta, A Tribute Portfolio Hotel"		33.8526233	-84.3814820	hotel		Tribute Portfolio		https://www.marriott.com/hotels/travel/atlnt-the-burgess-hotel-atlanta-a-tribute-portfolio-hotel/
+way	268001186	Hampton Inn		33.8472198	-84.3738632	hotel		Hampton		https://www.hilton.com/en/hotels/atlbuhx-hampton-atlanta-buckhead/
+way	268001220	SpringHill Suites Atlanta Buckhead		33.8491212	-84.3730457	hotel		SpringHill Suites		https://www.marriott.com/hotels/travel/atlab-springhill-suites-atlanta-buckhead/
+way	268013519	"The Tess, Autograph Collection"		33.8381870	-84.3743070	hotel		Autograph Collection		https://www.marriott.com/en-us/hotels/atlnk-the-tess-autograph-collection/overview/
+way	268014809	Waldorf Astoria Atlanta Buckhead		33.8496613	-84.3666196	hotel		Waldorf Astoria		https://www.hilton.com/en/hotels/atlwawa-waldorf-astoria-atlanta-buckhead/
+way	268138671	Fairfield Inn & Suites Atlanta Buckhead		33.8398530	-84.3700970	hotel		Fairfield Inn		https://www.marriott.com/atlfb
+way	268332324	Hampton Inn Atlanta - North Druid Hills		33.8338161	-84.3415419	hotel		Hampton		https://www.hilton.com/en/hotels/atldhhx-hampton-atlanta-north-druid-hills/
+way	268403538	InterContinental Buckhead Atlanta		33.8453927	-84.3677980	hotel		InterContinental	InterContinental	https://www.intercontinentalatlanta.com/
+way	268403841	Embassy Suites by Hilton Atlanta Buckhead		33.8443037	-84.3686634	hotel		Embassy Suites		https://www.hilton.com/en/hotels/atllxes-embassy-suites-atlanta-buckhead/
+way	268403848	Hyatt Place		33.8437361	-84.3724026	hotel		Hyatt Place		https://www.hyatt.com/en-us/hotel/georgia/hyatt-place-atlanta-buckhead/atlzb
+way	268403861	Hilton Garden Inn		33.8474794	-84.3698165	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/atlkhgi-hilton-garden-inn-atlanta-buckhead/
+way	268515261	Hyatt Centric		33.8438417	-84.3622462	hotel		Hyatt Centric		
+way	268601079	La Quinta Inn Atlanta Midtown/Buckhead		33.8236376	-84.3497565	hotel		La Quinta Inn & Suites		https://www.wyndhamhotels.com/laquinta/atlanta-georgia/la-quinta-atlanta-midtown-buckhead/overview
+way	268632975	Holiday Inn Express & Suites - Atlanta Buckhead		33.8263274	-84.3617478	hotel		Holiday Inn Express & Suites		
+way	268632979	TownePlace Suites		33.8261847	-84.3611254	hotel		TownePlace Suites		https://www.marriott.com/en-us/hotels/atlbu-towneplace-suites-atlanta-buckhead/overview/
+way	268800459	JW Marriott Atlanta Buckhead		33.8456580	-84.3594813	hotel		JW Marriott		https://www.marriott.com/hotels/travel/atljw-jw-marriott-atlanta-buckhead
+way	269196204	Wesley Townsend Apartments		33.8134381	-84.3944013	hotel				
+way	269636994	Residence Inn Atlanta Midtown/Peachtree at 17th		33.7921165	-84.3852796	hotel		Residence Inn		https://www.marriott.com/atlri
+way	269639779	InTown Suites Atlanta Central		33.7922324	-84.4069075	hotel		InTown Suites		https://www.intownsuites.com/extended-stay-locations/georgia/atlanta/central-4/
+way	269843461	Atlanta Marriott Suites Midtown		33.7862051	-84.3864278	hotel				https://www.marriott.com/en-us/hotels/atlms-atlanta-marriott-suites-midtown/overview/
+way	269843469	Four Seasons Hotel		33.7861221	-84.3853201	hotel		Four Seasons	Four Seasons	https://www.fourseasons.com/atlanta/
+way	269843608	Stonehurst Place		33.7798424	-84.3805523	hotel				https://www.stonehurstplace.com/
+way	270470071	Hyatt Place Atlanta/Downtown		33.7635166	-84.3869743	hotel		Hyatt Place		https://www.hyatt.com/en-US/hotel/georgia/hyatt-place-atlanta-downtown/
+way	270880894	Residence Inn Atlanta Downtown		33.7572081	-84.3882185	hotel		Residence Inn		https://www.marriott.com/atldt
+way	277551526	Maison LaVigne		33.6577297	-84.4095483	hotel		B&B Hôtel		
+way	277644284	Hilton Atlanta Airport		33.6597338	-84.4247082	hotel		Hilton		https://www.hilton.com/Atlanta-Airport
+way	277644358	DoubleTree by Hilton Hotel Atlanta Airport		33.6631967	-84.4269303	hotel		DoubleTree		https://www.hilton.com/en/hotels/atlandt-doubletree-atlanta-airport/
+way	277644378	Staybridge Suites Atlanta Airport		33.6622508	-84.4276957	hotel		Staybridge Suites		
+way	277644417	Drury Inn & Suites Atlanta Airport		33.6582859	-84.4307979	hotel		Drury Inn & Suites		
+way	277644595	Courtyard Atlanta Airport North/Virginia Avenue		33.6620597	-84.4239783	hotel		Courtyard		
+way	278560752	Courtyard Atlanta Airport North/Virginia Avenue		33.6624095	-84.4218828	hotel		Courtyard		
+way	279206592	Renaissance Concourse Atlanta Airport Hotel		33.6537661	-84.4271389	hotel		Renaissance		
+way	279405441	Holiday Inn Express		33.6547427	-84.3966451	hotel		Holiday Inn Express		https://www.ihg.com/holidayinnexpress/hotels/us/en/hapeville/atlhp/hoteldetail
+way	279405458	Best Western Plus Atlanta Airport-East		33.6539649	-84.3971864	hotel		Best Western Plus		https://www.bestwestern.com/en_US/book/hotels-in-hapeville/best-western-plus-atlanta-airport-east/propertyCode.11120.html
+way	279788026	Days Inn		33.6328558	-84.4586409	hotel		Days Inn		https://www.wyndhamhotels.com/days-inn/college-park-georgia/days-inn-college-park-airport-best-road/overview
+way	279788034	Radisson		33.6336285	-84.4587446	hotel		Radisson		
+way	289070632	Hyatt Place Atlanta Airport - South		33.6271597	-84.4527125	hotel		Hyatt Place		https://www.hyatt.com/en-us/hotel/georgia/hyatt-place-atlanta-airport-south/atlzs
+way	289070633	Sonesta Atlanta Airport South		33.6279560	-84.4526330	hotel		Sonesta		https://www.sonesta.com/sonesta-hotels-resorts/ga/atlanta/sonesta-atlanta-airport-south/
+way	289070635	Comfort Inn Atlanta Airport		33.6263070	-84.4509546	hotel		Comfort Inn		https://www.choicehotels.com/georgia/tucker/econo-lodge-hotels
+way	314312867	Residence Inn Atlanta Buckhead		33.8351257	-84.3689830	hotel		Residence Inn		https://www.marriott.com/hotels/travel/atlbh-residence-inn-atlanta-buckhead/
+way	317949456	"Ellis Hotel, Atlanta, a Tribute Portfolio Hotel"		33.7582760	-84.3878525	hotel		Marriott Bonvoy		https://www.ellishotel.com/
+way	320704598	Extended Stay America Hotel Atlanta - Clairmont		33.8494650	-84.3148264	hotel		Extended Stay America		https://www.extendedstayamerica.com/hotels/ga/atlanta/clairmont
+way	330562648	Fairfield Inn & Suites Atlanta Vinings/Galleria		33.8623182	-84.4817063	hotel		Fairfield Inn		https://www.marriott.com/hotels/travel/atlvn-fairfield-inn-and-suites-atlanta-vinings/
+way	330562836	La Quinta		33.8632791	-84.4833196	hotel		La Quinta Inn & Suites		https://www.wyndhamhotels.com/laquinta/atlanta-georgia/la-quinta-atlanta-ballpark-galleria/overview
+way	332578709	Residence Inn Atlanta Buckhead/Lenox Park		33.8491325	-84.3473517	hotel		Residence Inn		https://www.marriott.com/hotels/travel/atllp-residence-inn-atlanta-buckhead-lenox-park/
+way	339616899	Hotel Indigo		33.8665219	-84.4711801	hotel		Hotel Indigo		https://www.ihg.com/hotelindigo/hotels/us/en/atlanta/atlrc/hoteldetail
+way	348748546			33.7528736	-84.3911938	hotel				
+way	477040695	Grand Hyatt		33.8452208	-84.3704156	hotel		Grand Hyatt		https://www.hyatt.com/en-US/hotel/georgia/grand-hyatt-atlanta-in-buckhead
+way	533375945	Hilton Garden Inn Atlanta Airport North		33.6610992	-84.4313834	hotel		Hilton Garden Inn		https://hiltongardeninn3.hilton.com/en/hotels/georgia/hilton-garden-inn-atlanta-airport-north-ATLEPGI/index.html
+way	536739486	"The Starling Atlanta Midtown, Curio Collection by Hilton"		33.7870683	-84.3815175	hotel				https://www.hilton.com/en/hotels/atltwqq-the-starling-atlanta-midtown/
+way	536787107	Marriott		33.7615972	-84.3848474	hotel		Marriott		
+way	536822087	Home2 Suites		33.7570568	-84.3909577	hotel		Home2 Suites		https://www.hilton.com/en/hotels/atldwht-home2-suites-atlanta-downtown/
+way	536840495	"Twelve Downtown, Autograph Collection"		33.7654241	-84.3879589	hotel			Mariott Bonvoy	https://www.marriott.com/en-us/hotels/atlpk-twelve-downtown-autograph-collection/overview/
+way	536844677	The St. Regis Atlanta		33.8397901	-84.3826530	hotel				http://www.stregisatlanta.com/
+way	680241799	"Glenn Hotel, Autograph Collection"		33.7570146	-84.3929958	hotel				https://www.marriott.com/en-us/hotels/atlak-glenn-hotel-autograph-collection/overview/
+way	829367700	AC Hotel Atlanta Airport Gateway		33.6411991	-84.4571357	hotel		AC Hotel		
+way	829374331	AC Hotel Atlanta Buckhead at Phipps Plaza		33.8542969	-84.3603457	hotel		AC Hotel		
+way	829378093	Courtyard Atlanta Executive Park/Emory		33.8293828	-84.3392188	hotel		Courtyard		https://www.marriott.com/atlep
+way	829379705	Courtyard Atlanta Vinings/Galleria		33.8666567	-84.4702722	hotel		Courtyard		https://www.marriott.com/atlvg
+way	829381852	Atlanta Airport Marriott Gateway		33.6443060	-84.4553937	hotel				
+way	829383917	Atlanta Marriott Northeast/Emory Area		33.8438600	-84.3079616	hotel		Marriott	Marriot	
+way	829393501	Renaissance Atlanta Airport Gateway Hotel		33.6429670	-84.4564018	hotel		Renaissance		
+way	829396461	SpringHill Suites Atlanta Downtown		33.7649445	-84.3949978	hotel		SpringHill Suites		https://www.marriott.com/hotels/travel/atlsd-springhill-suites-atlanta-downtown/
+way	829399192			33.8494817	-84.3757784	hotel				
+way	829442426	SpringHill Suites Atlanta Airport Gateway		33.6437953	-84.4575325	hotel		SpringHill Suites		https://www.marriott.com/hotels/travel/atlgi-springhill-suites-atlanta-airport-gateway/
+way	853099018	REVERB by Hard Rock Downtown Atlanta		33.7531709	-84.3993223	hotel		Reverb by Hard Rock		https://reverb.hardrock.com/atlanta/
+way	884897813	Embassy Suites Midtown Atlanta		33.7907080	-84.3984079	hotel		Embassy Suites		https://www.hilton.com/en/hotels/atlldes-embassy-suites-atlanta-midtown/
+way	884939410	Canopy by Hilton Atlanta Midtown		33.7931406	-84.3882094	hotel		Canopy	Hilton Atlanta Midtown	https://www.hilton.com/en/hotels/atlmwpy-canopy-atlanta-midtown/
+way	885304559	Hampton Inn & Suites Atlanta Midtown		33.7883393	-84.3874551	hotel		Hampton Inn & Suites		https://www.hilton.com/en/hotels/atlmnhx-hampton-suites-atlanta-midtown/
+way	886034013	Biltmore Innovation Center		33.7769343	-84.3868482	hotel			Georgia Institute of Technology	https://biltmoreinnovationcenter.com/
+way	887937016	Hampton Inn & Suites		33.8447023	-84.3725936	hotel		Hampton Inn & Suites		https://www.hilton.com/en/hotels/atlbphx-hampton-suites-atlanta-buckhead-place/
+way	902848786	Microtel Inn & Suites by Wyndham Atlanta/Buckhead Area		33.8360200	-84.3354720	hotel		Microtel Inn & Suites		
+way	902848802	Red Roof Plus+ Atlanta - Buckhead		33.8345055	-84.3402870	hotel				
+way	948532726	Extended Stay America - Atlanta - Buckhead		33.8578695	-84.3411005	hotel				
+way	974173919	Hotel Indigo Atlanta Airport College Park		33.6530950	-84.4472517	hotel		Hotel Indigo		
+way	974173920			33.6541010	-84.4474925	hotel				
+way	977567890	TownePlace Suites Atlanta Airport North		33.6625291	-84.4271379	hotel		TownePlace Suites		https://www.marriott.com/atlna
+way	993420284	Kimpton		33.6527636	-84.4004475	hotel		Kimpton		
+way	1182296476	Nobu Hotel Atlanta		33.8543152	-84.3634960	hotel		Nobu		https://atlanta.nobuhotels.com/
+way	1228674489	Hampton Inn & Suites Atlanta Decatur/Emory		33.7762019	-84.2969349	hotel		Hampton Inn & Suites		https://www.hilton.com/en/hotels/atldehx-hampton-suites-atlanta-decatur-emory/
+way	1231075948	Hyatt House Atlanta/Downtown		33.7647519	-84.3969266	hotel		Hyatt House		https://www.hyatt.com/en-us/hotel/georgia/hyatt-house-atlanta-downtown/atlxd
+way	1256941508			33.6443059	-84.4590620	hotel				
+way	1297223464	Kimpton Shane Hotel		33.7908371	-84.3882687	hotel			Kimpton Hotels	https://www.shanehotelatlanta.com/
+way	1300599069	Sonder Midtown South		33.7689806	-84.3830523	hotel				https://www.sonder.com/destinations/atlanta/atl-ne-rena126-508/c32642?sleeps=1
+way	1326432476	Homewood Suites by Hilton Atlanta Airport North		33.6625372	-84.4301516	hotel		Homewood Suites		
+way	1326432477	Home2 Suites		33.6615245	-84.4300320	hotel		Home2 Suites		https://www.hilton.com/en/hotels/atlhtht-home2-suites-atlanta-airport-north/
+way	1427404722	Epicurean Hotel Atlanta | Autograph Collection		33.7855289	-84.3871320	hotel			Mariott Bonvoy	https://www.epicureanhotelatlanta.com/
+way	1560641060	Courtyard Atlanta Decatur Downtown/Emory		33.7768097	-84.2969724	hotel		Courtyard	Marriott	https://www.marriott.com/atldc
+relation	3591729	The Aster Buckhead Apartments		33.8346559	-84.3867255	hotel				
+relation	3598176	Courtyard		33.8467860	-84.3701545	hotel		Courtyard		https://www.marriott.com/atlcb
+relation	3620594	Clarion Inn & Suites Atlanta Downtown		33.7490301	-84.4032193	hotel		Clarion		https://www.choicehotels.com/georgia/atlanta/clarion-hotels/ga974
+relation	3917595	Emory Conference Center Hotel		33.8013262	-84.3242944	hotel				https://www.emoryconferencecenter.com/
+relation	6146507	La Quinta Inn & Suites		33.6580451	-84.4286313	hotel		La Quinta Inn & Suites		https://www.wyndhamhotels.com/laquinta/atlanta-georgia/la-quinta-atlanta-airport-north/overview
+relation	6146508	Residence Inn		33.6615844	-84.4245830	hotel		Residence Inn		https://www.marriott.com/atlra
+relation	17460745	"Inn At The Peachtrees, Ascend Hotel Collection"		33.7635548	-84.3878600	hotel		Choice Hotels		https://www.choicehotels.com/georgia/atlanta/ascend-hotels/ga045
+relation	19652526	"Hotel Granada, a Member of Design Hotels"		33.7902013	-84.3882670	hotel		Design Hotels		https://granadaatlanta.com/

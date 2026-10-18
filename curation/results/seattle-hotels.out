@@ -1,0 +1,132 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	728175890	Aero Motel		47.5387486	-122.3194925	hotel				
+node	1730800434	HI-Seattle at American Hotels		47.5984623	-122.3267286	hostel		Hostelling International	American Hotels	
+node	1836745861	Best Western Pioneer Square Hotel		47.6016155	-122.3352570	hotel		Best Western		http://www.pioneersquare.com/
+node	1914791409	Hotel Hotel Hostel		47.6511300	-122.3501200	hotel				https://hotelhotel.co
+node	1999277634	Moore Hotel		47.6115679	-122.3411383	hotel				
+node	2268991171	Staybridge Suites - South Lake Union		47.6243549	-122.3349250	hotel		Staybridge Suites	International Hotel Group	
+node	2327659201	Belltown Inn		47.6146675	-122.3451331	hotel				https://www.belltown-inn.com/
+node	2327794567	SpringHill Suites		47.6178421	-122.3296550	hotel		SpringHill Suites		https://www.marriott.com/seadt
+node	2350311295	Ontario Hotel		47.5678553	-122.3228952	hotel				
+node	2351700845	Courtyard		47.6028750	-122.3328020	hotel		Courtyard		https://www.marriott.com/seaps
+node	2397493407	Green Tortoise Hostel		47.6088346	-122.3395920	hostel				https://greentortoise.net/
+node	2404211298	Grand Hyatt Seattle		47.6125018	-122.3334479	hotel		Grand Hyatt	Hyatt	https://seattle.grand.hyatt.com/en/hotel/home.html
+node	2404269720	Hotel Seattle		47.6072739	-122.3344649	hotel				
+node	2419075923	The Arctic Club Seattle		47.6037534	-122.3319590	hotel		DoubleTree	Doubletree	https://www.hilton.com/en/hotels/seaacdt-the-arctic-club-seattle/
+node	2462238623	Courtyard by Marriott		47.7078976	-122.3346647	hotel		Courtyard by Marriott		https://www.marriott.com/seang
+node	2464036010	College Inn		47.6554515	-122.3130695	hotel				
+node	3799181422	Hyatt at Olive 8		47.6137114	-122.3341670	hotel		Hyatt	Hyatt	https://olive8.hyatt.com/en/hotel/home.html
+node	3874094357	Inn at the Market		47.6099627	-122.3414556	hotel				https://www.innatthemarket.com/
+node	5589048714	EVEN Hotel Seattle - South Lake Union		47.6241120	-122.3346730	hotel		EVEN Hotels	International Hotel Group	https://www.ihg.com/evenhotels/hotels/us/en/seattle/seasw/hoteldetail
+node	5695380063	Columbia Hotel		47.5577222	-122.2847828	hotel				
+node	5726790421	Hotel Ballard		47.6662250	-122.3825515	hotel				
+node	5916804202	The Charter Hotel Seattle		47.6109352	-122.3401156	hotel				https://curiocollection3.hilton.com/en/hotels/washington/the-charter-hotel-seattle-curio-collection-by-hilton-SEACUQQ/
+node	6277471970	The Sound Hotel Seattle Belltown		47.6143781	-122.3418840	hotel		Hilton		https://tapestrycollection3.hilton.com/tc/sound-hotel-seattle/
+node	6645051115	The State Hotel		47.6093592	-122.3392078	hotel				https://www.statehotel.com
+node	8215586431	Lotte Hotel Seattle		47.6052518	-122.3308400	hotel		Lotte Hotels & Resorts		https://www.lottehotel.com/seattle-hotel/
+node	10723871204	The Art Inn		47.6060457	-122.3156718	hotel				
+node	12360337156	Seattle Gaslight Inn		47.6172864	-122.3130735	hotel				
+node	12790172987	Hostel Fish		47.6144671	-122.3467253	hostel				
+node	13458644701	Populus Seattle		47.5984171	-122.3338243	hotel				https://populusseattle.com/
+way	35824976	Fairmont Olympic Hotel		47.6080973	-122.3339606	hotel		Fairmont		https://www.fairmont.com/seattle
+way	39944909	Hampton Inn & Suites		47.6992145	-122.3280784	hotel		Hampton Inn & Suites		https://www.hilton.com/en/hotels/seanghx-hampton-suites-seattle-northgate/
+way	41842296	Hotel Andra		47.6134324	-122.3400579	hotel				https://www.hotelandra.com/
+way	54450916	Days Inn		47.6951346	-122.3440090	hotel		Days Inn		https://www.wyndhamhotels.com/days-inn/seattle-washington/days-inn-seattle-north-of-downtown/overview
+way	55379460	Travelodge Seattle North of Downtown		47.6911005	-122.3439667	hotel		Travelodge		https://www.wyndhamhotels.com/travelodge/seattle-washington/travelodge-seattle-north-of-downtown/overview
+way	103052783	Silver Cloud Hotel		47.5927155	-122.3336973	hotel				
+way	140676007	Baroness Hotel		47.6095894	-122.3264693	hotel				https://www.baronesshotel.com/
+way	157314499	Hampton Inn & Suites Seattle Downtown		47.6258387	-122.3468851	hotel		Hampton Inn & Suites		https://www.hilton.com/en/hotels/seadthx-hampton-suites-seattle-downtown/
+way	161318537	Hotel Nexus		47.7092831	-122.3324846	hotel				
+way	161907007	Hotel Ballard		47.6662264	-122.3825555	hotel				https://www.hotelballardseattle.com/
+way	161907082	Ballard Inn		47.6666302	-122.3830497	hotel				https://www.ballardinnseattle.com/en-us
+way	165086034	Hotel Sorrento		47.6089617	-122.3268468	hotel				https://hotelsorrento.com/
+way	171729606	Renaissance Seattle Hotel		47.6065900	-122.3307703	hotel		Renaissance		https://www.marriott.com/hotels/travel/seasm-renaissance-seattle-hotel
+way	184525992	Inn at Virginia Mason		47.6098554	-122.3267252	hotel			Columbia Hospitality	https://www.innatvirginiamason.com/
+way	185786800	Warwick Seattle Hotel		47.6139175	-122.3408928	hotel				https://warwickhotels.com/seattle/
+way	202353907	Courtyard Marriott Seattle Downtown/Lake Union		47.6276634	-122.3404357	hotel		Courtyard		https://www.marriott.com/hotels/travel/seacd-courtyard-seattle-downtown-lake-union/
+way	206883222	Thompson Seattle		47.6106250	-122.3413283	hotel			Thompson Hotels	https://www.thompsonhotels.com/hotels/seattle/thompson-seattle
+way	217604405	Silver Cloud Inn - Seattle Lake Union		47.6296683	-122.3289993	hotel				
+way	217604426	Travelodge Seattle by the Space Needle		47.6201427	-122.3446223	hotel		Travelodge		https://www.travelodgeseattlecenter.com/
+way	217604429	Holiday Inn Express & Suites Seattle Downtown - Lake Union		47.6203134	-122.3428047	hotel		Holiday Inn Express & Suites		https://www.ihg.com/holidayinnexpress/hotels/us/en/seattle/seasc/hoteldetail
+way	217604432	Fairfield Inn & Suites by Marriott Norman	Fairfield Inn & Suites by Marriott	47.6202225	-122.3432770	hotel		Fairfield Inn & Suites		https://www.marriott.com/seafc
+way	217604444	Residence Inn by Marriott Seattle Downtown/Lake Union		47.6265260	-122.3333539	hotel		Residence Inn		
+way	220911653	Silver Cloud Inn		47.6658603	-122.2996842	hotel				
+way	222834386	The Collegiana		47.6602423	-122.3158145	hotel				https://www.uwmedicine.org/patient-resources/lodging-options/the-collegiana
+way	223319584	Georgetown Inn		47.5477559	-122.3207553	hotel				
+way	223357551	University Inn		47.6577597	-122.3175228	hotel				
+way	223363048	Watertown Hotel		47.6595550	-122.3174456	hotel				
+way	223479986	Graduate by Hilton Seattle		47.6616130	-122.3146153	hotel		Graduate		https://www.hilton.com/en/hotels/seagsgu-graduate-seattle/
+way	223926948	La Quinta Inn & Suites Seattle Downtown		47.6179537	-122.3397620	hotel		La Quinta Inn & Suites		https://www.wyndhamhotels.com/laquinta/seattle-washington/la-quinta-seattle-downtown/overview
+way	223926962	Hotel Five		47.6156178	-122.3418576	hotel				
+way	223927903	Seattle Marriott Waterfront		47.6106918	-122.3465930	hotel		Marriott		https://www.marriott.com/hotels/travel/seawf-seattle-marriott-waterfront/
+way	223927920	Kings Inn		47.6149793	-122.3406811	hotel				http://kingsinnseattle.com/
+way	223927923	1 Hotel Seattle		47.6182583	-122.3376109	hotel		1 Hotels		https://www.1hotels.com/seattle
+way	223929030	Hotel Max		47.6142172	-122.3366004	hotel				https://www.provenancehotels.com/hotel-max-seattle
+way	223937045	Hilton Garden Inn Seattle Downtown		47.6161551	-122.3319563	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/seabagi-hilton-garden-inn-seattle-downtown/
+way	231663364	Civic Hotel		47.6217032	-122.3440907	hotel				https://www.civicseattle.com/
+way	231663371	Astra Hotel Seattle		47.6211275	-122.3367877	hotel		Marriott Tribute Portfolio		https://astrahotelseattle.com
+way	231753245	The Maxwell Hotel		47.6256651	-122.3508358	hotel				http://www.themaxwellhotel.com
+way	231753675	Four Points by Sheraton Downtown Seattle Center		47.6250058	-122.3445811	hotel		Four Points by Sheraton		http://www.fourpointsdowntownseattlecenter.com/
+way	231761575	Homewood Suites by Hilton Seattle Downtown		47.6203843	-122.3597169	hotel		Homewood Suites		https://homewoodsuites3.hilton.com/en/hotels/washington/homewood-suites-by-hilton-seattle-downtown-SEAHWHW/index.html
+way	232076568	Worldmark Seattle - The Camlin		47.6139432	-122.3328190	hotel				
+way	232076569	The Paramount Hotel		47.6131504	-122.3336395	hotel				https://www.paramounthotelseattle.com/
+way	232078049	Hilton Motif Seattle		47.6100147	-122.3355346	hotel		Hilton		https://www.hilton.com/en/hotels/seamfhh-hilton-motif-seattle/
+way	232078056	Sheraton Seattle		47.6108757	-122.3334629	hotel		Sheraton		http://www.sheratonseattle.com/
+way	232080299	W Hotel Seattle		47.6073872	-122.3336480	hotel		W Hotels		https://www.marriott.com/hotels/travel/seawh-w-seattle/
+way	232080301	Executive Hotel Pacific		47.6070822	-122.3333870	hotel				https://www.executivehotels.net/seattle-downtown-hotel/
+way	232080837	Kimpton Hotel Monaco Seattle		47.6069385	-122.3341143	hotel		Kimpton	IHG	https://www.monaco-seattle.com/
+way	234931971	Wallingford Inn		47.6608520	-122.3469253	hotel				
+way	236755639	Silver Cloud Broadway		47.6116375	-122.3202849	hotel				https://www.silvercloud.com/
+way	240874277	Madison Tower/Hotel 1000		47.6050647	-122.3361284	hotel				https://www.hotel1000seattle.com/
+way	246328436	Skybridge Seattle Airport Hotel		47.4469493	-122.2953727	hotel				https://www.marriott.com/en-us/hotels/seaaa-skybridge-seattle-airport-hotel/overview/
+way	246328444	Red Roof Inn		47.4512548	-122.2950669	hotel		Red Roof Inn		
+way	284148768	The Alexis Royal Sonesta Hotel Seattle		47.6047711	-122.3367717	hotel		Sonesta Hotels And Resorts		https://www.sonesta.com/royal-sonesta/wa/seattle/alexis-royal-sonesta-hotel-seattle/
+way	314940617	Radisson Hotel Seattle Airport		47.4403801	-122.2949990	hotel		Radisson		https://www.radissonhotels.com/en-us/hotels/radisson-seattle-airport
+way	314940618	Seattle Airport Marriott		47.4442391	-122.2908361	hotel		Marriott		https://www.marriott.com/hotels/travel/seawa-seattle-airport-marriott/
+way	314940622	SureStay		47.4462645	-122.2940790	hotel		SureStay		https://www.bestwestern.com/en_US/book/seatac/hotel-rooms/surestay-hotel-by-best-western-seatac-airport-north/propertyCode.52121.html
+way	331163045	Mayflower Park Hotel Seattle		47.6121884	-122.3380479	hotel				https://www.mayflowerpark.com/
+way	331291911	The Westin Seattle		47.6137004	-122.3382709	hotel		Westin	Starwood Hotels & Resorts	http://www.westinseattle.com/
+way	333906054	MarQueen Hotel		47.6250293	-122.3564290	hotel				https://www.marqueen.com/
+way	348004783	Coast Gateway Hotel		47.4376685	-122.2964925	hotel				https://www.coasthotels.com/coast-gateway-hotel/
+way	357283830	Four Seasons Seattle		47.6073807	-122.3391648	hotel		Four Seasons		https://www.fourseasons.com/seattle/
+way	358232880	Hotel Vintage		47.6075438	-122.3322749	hotel				https://www.kimptonhotels.com/stay/hotel-vintage-seattle-wa
+way	358272089	Kimpton Palladian Hotel	Kimpton Palladian Hotel	47.6120537	-122.3416898	hotel		Kimpton		https://www.palladianhotel.com/
+way	358980801	Coast Seattle Downtown		47.6093252	-122.3332463	hotel		Hilton		https://www.coasthotels.com/coast-seattle-downtown-hotel-by-apa
+way	359861671	Hyatt House		47.6201301	-122.3480142	hotel		Hyatt House	Hyatt	https://seattledowntown.house.hyatt.com/
+way	359894111	Hyatt Place Seattle/Downtown		47.6188458	-122.3446053	hotel		Hyatt Place		https://seattledowntown.place.hyatt.com/en/hotel/home.html
+way	363046838	Hotel Theodore		47.6122929	-122.3344232	hotel				https://hoteltheodore.com/
+way	364221560	Red Lion Inn		47.4393429	-122.2949045	hotel		Red Lion Hotels		https://www.redlion.com/red-lion-hotels/wa/seattle/red-lion-hotel-seattle-airport-sea-tac
+way	372852085	Staybridge Suites		47.6548882	-122.3468944	hotel		Staybridge Suites		https://www.ihg.com/staybridge/hotels/us/en/seattle/seasb/hoteldetail
+way	374778140	Days Inn by Wyndham Seatac Airport		47.4326712	-122.2960996	hotel		Days Inn	Wyndham Hotels and Resorts	https://www.wyndhamhotels.com/days-inn/seattle-washington/days-inn-seatac-airport/overview
+way	374778152	Hampton Inn & Suites - Seattle-Airport/28th Ave		47.4329630	-122.2973993	hotel		Hampton Inn & Suites		https://www.hilton.com/en/hotels/seaiahx-hampton-suites-seattle-airport-28th-ave/hotel-info/
+way	374790721	Ramada		47.4526310	-122.2945700	hotel		Ramada		https://www.wyndhamhotels.com/en-uk/ramada/sea-tac-washington/ramada-suites-seatac-airport/overview
+way	396824069	Crowne Plaza Seattle Downtown		47.6080905	-122.3321214	hotel		Crowne Plaza		http://www.cphotelseattle.com/
+way	409363106	Inn at the Market Building		47.6098988	-122.3414140	hotel				https://www.innatthemarket.com/
+way	449301236	Residence Inn Seattle University District		47.6617121	-122.3157784	hotel		Residence Inn		https://www.marriott.com/seaud
+way	459660375	Residence Inn Seattle Northgate Station		47.7061970	-122.3281673	hotel		Residence Inn		
+way	491650384	Moxy Seattle North		47.6233705	-122.3362245	hotel		Moxy	Marriott	https://www.marriott.com/hotels/travel/seaox-moxy-seattle-north/
+way	492680045	citizenM		47.6199666	-122.3388784	hotel		citizenM		https://www.citizenm.com/
+way	520654959	Hyatt Regency Seattle		47.6148600	-122.3344587	hotel		Hyatt Regency	Hyatt	https://www.hyatt.com/en-US/hotel/washington/hyatt-regency-seattle/sears
+way	647214562	Cedarbrook Lodge		47.4373967	-122.2876565	hotel			Columbia Hospitality	https://www.cedarbrooklodge.com/en-us/
+way	647216787	Hilton Garden Inn Seattle Airport		47.4349441	-122.2928161	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/seaargi-hilton-garden-inn-seattle-airport/hotel-info/
+way	647217514	La Quinta Inn		47.4352306	-122.2970364	hotel		La Quinta Inn & Suites	Wyndham Hotels and Resorts	https://www.wyndhamhotels.com/laquinta/seattle-washington/la-quinta-seattle-sea-tac-airport/overview
+way	647239286	Aloft Seattle Sea-Tac Airport		47.4322155	-122.2974928	hotel		Aloft		https://www.marriott.com/en-us/hotels/seaal-aloft-seattle-sea-tac-airport/overview/
+way	647240178	Holiday Inn Express & Suites Seattle-Sea-Tac Airport		47.4264000	-122.2968445	hotel		Holiday Inn Express & Suites		https://www.ihg.com/holidayinnexpress/hotels/us/en/seatac/seaib/hoteldetail
+way	647240250	Comfort Inn & Suites - Sea-Tac Airport		47.4291430	-122.2963085	hotel		Comfort Inn & Suites		https://www.choicehotels.com/washington/seatac/comfort-inn-hotels/wa403
+way	647240326	Fairfield Inn - Seattle/Sea-Tac		47.4257695	-122.2970300	hotel		Fairfield Inn		https://www.marriott.com/en-us/hotels/seata-fairfield-inn-and-suites-seattle-sea-tac-airport/overview/
+way	647240488	Hampton Inn Seattle-Airport		47.4281660	-122.2969495	hotel		Hampton		https://hamptoninn3.hilton.com/en/hotels/washington/hampton-inn-seattle-airport-SEASTHX/index.html
+way	647240570	Country Inn & Suites		47.4315050	-122.2943274	hotel		Country Inn & Suites		https://www.radissonhotels.com/en-us/hotels/country-inn-seattle-tacoma-airport-wa
+way	647240593	Quality Inn Sea-Tac Airport		47.4312982	-122.2964886	hotel		Quality Inn		http://www.qualityinn.com/hotel-seattle-washington-WA153
+way	660408712	Residence Inn Seattle Sea-Tac Airport		47.4261310	-122.2951839	hotel		Residence Inn	Marriott	https://www.expedia.com/Seattle-Hotels-Residence-Inn-By-Marriott-Seattle-Sea-Tac-Airport.h23251291.Hotel-Information
+way	735386409	Wingate by Wyndham SeaTac Airport		47.4321458	-122.2964613	hotel		Wingate		https://www.wyndhamhotels.com/wingate/seatac-washington/wingate-seatac-airport/overview
+way	817347762	Embassy Suites - Seattle Downtown Pioneer Square	Embassy Suites - Seattle Downtown Pioneer Square	47.5978678	-122.3309460	hotel		Embassy Suites	Hilton	https://www.hilton.com/en/hotels/seapses-embassy-suites-seattle-downtown-pioneer-square/
+way	827069612	Residence Inn Seattle Downtown/Convention Center		47.6155277	-122.3328572	hotel		Residence Inn		https://www.marriott.com/seaav
+way	1126424741	citizenM Seattle Pioneer Square		47.6020070	-122.3358570	hotel		citizenM		https://www.citizenm.com/hotels/united-states/seattle/seattle-pioneer-square-hotel
+way	1238178680	Element by Westin		47.6249923	-122.3440940	hotel		Element		
+way	1395854286	AC Hotel Seattle Downtown		47.6191480	-122.3307913	hotel		AC Hotel	Marriott	https://www.marriott.com/en-us/hotels/seada-ac-hotel-seattle-downtown
+relation	3126617	Mediterranean Inn		47.6230382	-122.3571040	hotel				https://www.mediterranean-inn.com/
+relation	3156102	The Edgewater Hotel		47.6125324	-122.3520313	hotel				https://www.edgewaterhotel.com/
+relation	4648061	The Westin Seattle		47.6137004	-122.3382709	hotel		Westin	Starwood Hotels & Resorts	
+relation	4675808	Marriott Renaissance Hotel		47.6065900	-122.3307703	hotel		Marriott		https://www.marriott.com/hotels/travel/seasm-renaissance-seattle-hotel
+relation	5186200	Hilton Seattle Airport & Conference Center		47.4445963	-122.2945599	hotel		Hilton		https://www.hilton.com/en/hotels/seaahhh-hilton-seattle-airport-and-conference-center/
+relation	6655365	DoubleTree by Hilton Hotel Seattle Airport		47.4361047	-122.2931574	hotel		DoubleTree		http://doubletree1.hilton.com/en_US/dt/hotel/CTAC-DT-Doubletree-Hotel-Seattle-Airport-Washington/index.do

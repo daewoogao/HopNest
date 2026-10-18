@@ -1,0 +1,117 @@
+[
+  {
+    "id": "latlanta_streetcar",
+    "name": "Atlanta Streetcar",
+    "color": "#888888",
+    "code": "",
+    "stations": [
+      ["Centennial Olympic Park",33.7594,-84.392],
+      ["Luckie at Cone",33.7581,-84.3904],
+      ["Park Place",33.7551,-84.3882],
+      ["Hurt Park",33.7545,-84.3854],
+      ["Sweet Auburn Market",33.7544,-84.38],
+      ["Edgewood at Hillard",33.7544,-84.3763],
+      ["King Historic District",33.7555,-84.3749],
+      ["Dobbs Plaza",33.7556,-84.3788],
+      ["Auburn at Piedmont",33.7556,-84.382],
+      ["Woodruff Park",33.756,-84.3882],
+      ["Peachtree Center",33.7581,-84.3876],
+      ["Carnegie at Spring",33.7595,-84.3897],
+      ["Centennial Olympic Park",33.7594,-84.392]
+    ]
+  },
+  {
+    "id": "lblue",
+    "name": "MARTA Blue Line",
+    "color": "#0274BA",
+    "code": "Blue",
+    "stations": [
+      ["Hamilton E. Holmes",33.7545,-84.47],
+      ["West Lake",33.7533,-84.4453],
+      ["Ashby",33.7564,-84.4174],
+      ["Vine City",33.7565,-84.404],
+      ["SEC District",33.7561,-84.3976],
+      ["Five Points",33.7539,-84.3916],
+      ["Georgia State",33.7502,-84.386],
+      ["King Memorial",33.75,-84.3754],
+      ["Inman Park/Reynoldstown",33.7578,-84.3523],
+      ["Edgewood/Candler Park",33.7619,-84.3399],
+      ["East Lake",33.7651,-84.3129],
+      ["Decatur",33.7746,-84.2961],
+      ["Avondale",33.7751,-84.2822],
+      ["Kensington",33.7726,-84.2519],
+      ["Indian Creek",33.7698,-84.2297]
+    ]
+  },
+  {
+    "id": "lgold",
+    "name": "MARTA Gold Line",
+    "color": "#F67705",
+    "code": "Gold",
+    "stations": [
+      ["Doraville",33.9031,-84.2802],
+      ["Chamblee",33.8875,-84.3064],
+      ["Brookhaven",33.8602,-84.3393],
+      ["Lenox",33.8457,-84.3578],
+      ["Lindbergh Center",33.8227,-84.3696],
+      ["Arts Center",33.7891,-84.3874],
+      ["Midtown",33.7811,-84.3863],
+      ["North Avenue",33.7726,-84.387],
+      ["Civic Center",33.7665,-84.3875],
+      ["Peachtree Center",33.7595,-84.3876],
+      ["Five Points",33.7539,-84.3917],
+      ["Garnett",33.748,-84.3964],
+      ["West End",33.736,-84.4137],
+      ["Oakland City",33.7169,-84.4253],
+      ["Lakewood/Fort McPherson",33.7002,-84.429],
+      ["East Point",33.6771,-84.4407],
+      ["College Park",33.6517,-84.4489],
+      ["Airport",33.6407,-84.4463]
+    ]
+  },
+  {
+    "id": "lgreen",
+    "name": "MARTA Green Line",
+    "color": "#009544",
+    "code": "Green",
+    "stations": [
+      ["Bankhead",33.7722,-84.429],
+      ["Ashby",33.7564,-84.4174],
+      ["Vine City",33.7565,-84.404],
+      ["SEC District",33.7561,-84.3976],
+      ["Five Points",33.7539,-84.3916],
+      ["Georgia State",33.7502,-84.386],
+      ["King Memorial",33.75,-84.3754],
+      ["Inman Park/Reynoldstown",33.7578,-84.3523],
+      ["Edgewood/Candler Park",33.7619,-84.3399],
+      ["Avondale",33.7751,-84.2822]
+    ]
+  },
+  {
+    "id": "lred",
+    "name": "MARTA Red Line",
+    "color": "#CC0000",
+    "code": "Red",
+    "stations": [
+      ["North Springs",33.9451,-84.3573],
+      ["Sandy Springs",33.9322,-84.3521],
+      ["Dunwoody",33.9213,-84.3444],
+      ["Medical Center",33.9108,-84.3515],
+      ["Buckhead",33.849,-84.3685],
+      ["Lindbergh Center",33.8227,-84.3696],
+      ["Arts Center",33.7891,-84.3874],
+      ["Midtown",33.7811,-84.3863],
+      ["North Avenue",33.7726,-84.387],
+      ["Civic Center",33.7665,-84.3875],
+      ["Peachtree Center",33.7595,-84.3876],
+      ["Five Points",33.7539,-84.3917],
+      ["Garnett",33.748,-84.3964],
+      ["West End",33.736,-84.4137],
+      ["Oakland City",33.7169,-84.4253],
+      ["Lakewood/Fort McPherson",33.7002,-84.429],
+      ["East Point",33.6771,-84.4407],
+      ["College Park",33.6517,-84.4489],
+      ["Airport",33.6407,-84.4461]
+    ]
+  }
+]

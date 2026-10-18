@@ -1,0 +1,2 @@
+5 lines, 75 stations
+  check: Atlanta Streetcar: no colour tag in OSM, set the official color by hand

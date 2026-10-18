@@ -1,0 +1,6 @@
+4 lines, 109 stations
+  check: NORTA 12: no colour tag in OSM, set the official color by hand
+  check: NORTA 47: no colour tag in OSM, set the official color by hand
+  check: NORTA 2: no colour tag in OSM, set the official color by hand
+  check: 49: fewer than 2 named stops (under construction?), skipped; OSM relation r19790175
+  check: NORTA 46: fewer than 2 named stops (under construction?), skipped; OSM relation r19791963

@@ -364,3 +364,22 @@
 22:12:57 vienna-osmall try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 23892 bytes
 22:13:20 washingtondc-osmall try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 28592 bytes
 22:13:41 xian-osmall try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 21653 bytes
+04:56:26 atlanta-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 23356 bytes
+04:56:39 atlanta-osmall try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 17971 bytes
+04:57:36 neworleans-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 20846 bytes
+04:57:37 neworleans-osmall try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 160 bytes
+04:57:58 neworleans-osmall try 1 https://overpass-api.de/api/interpreter -> 200 9905 bytes
+04:57:59 philadelphia-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 160 bytes
+04:58:17 philadelphia-hotels try 1 https://overpass-api.de/api/interpreter -> 200 11760 bytes
+04:58:32 philadelphia-osmall try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 8682 bytes
+04:58:45 sandiego-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 24602 bytes
+04:59:31 sandiego-osmall try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 695 bytes
+04:59:47 sandiego-osmall try 1 https://overpass-api.de/api/interpreter -> 200 16519 bytes
+04:59:49 seattle-hotels try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 160 bytes
+04:59:59 seattle-hotels try 1 https://overpass-api.de/api/interpreter -> 200 17030 bytes
+05:00:17 seattle-osmall try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 200 15066 bytes
+05:00:41 atlanta lines ok
+05:01:00 neworleans lines ok
+05:01:50 philadelphia lines ok
+05:03:08 sandiego lines ok
+05:03:59 seattle lines ok

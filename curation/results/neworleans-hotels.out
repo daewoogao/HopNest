@@ -1,0 +1,183 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	358384884	Hotel Peter & Paul		29.9667696	-90.0550661	hotel				
+node	1538717063	Roosevelt Hotel		29.9539420	-90.0716504	hotel		Waldorf Astoria	Waldorf Astoria	https://therooseveltneworleans.com/
+node	2188203997	The French Market Inn		29.9554237	-90.0641455	hotel				https://www.frenchmarketinn.com/
+node	3354874750	Hotel Theo New Orleans by Hilton		29.9510389	-90.0687140	hotel		Hilton	Hilton	https://www.hoteltheoneworleans.com
+node	3354876039	The Mercantile Hotel		29.9455618	-90.0659729	hotel				https://themercantilehotelneworleans.com/
+node	3356720515	Auberge NOLA Hostel		29.9384996	-90.0775801	hostel				https://www.aubergehostels.com/nola
+node	3362350814	Hotel Sainte Hélène	Saint Helene Hotel	29.9559928	-90.0649988	hotel				https://www.frenchquarterhotelcollection.com/hotel-st-helene.html
+node	4200886693	India House hostel		29.9680131	-90.0922563	hostel				
+node	4326583709	La Galerie Hotel		29.9527396	-90.0666418	hotel				
+node	4326583710	Bluegreen Club La Pension		29.9523689	-90.0669206	hotel		Bluegreen Vacations		
+node	4789906822	Marquette House	Marquette House	29.9344130	-90.0824384	hostel				
+node	5119440326	Saint Vincent Guest House		29.9342332	-90.0728306	hotel				
+node	6190608363	Domio		29.9451677	-90.0743379	hotel				https://baronne.staydomio.com
+node	9717088725	Lamothe House		29.9639119	-90.0587787	hotel				
+node	9719467517	HI Hostel New Orleans		29.9552489	-90.0726605	hostel				
+node	10236690810	Melrose Mansion		29.9653716	-90.0622978	hotel				
+node	10236699109	Rathbone Mansions		29.9671046	-90.0657399	hotel				
+node	10583838056	Cambria Hotel New Orleans Downtown Warehouse District		29.9468323	-90.0672082	hotel		Cambria Hotel		https://www.choicehotels.com/en-uk/louisiana/new-orleans/cambria-hotels/la322
+node	10602708747	The Quisby		29.9408874	-90.0744292	hostel				https://www.thequisby.com/
+node	10635487054	The Brakeman Hotel		29.9597177	-90.0707937	hotel				https://www.brakemanhotel.com/
+node	10922321823	Quarter House		29.9533570	-90.0676539	hotel				
+node	11164357258	Prince Conti Hotel		29.9565222	-90.0685799	hotel				
+node	11581117069	Hotel Villa Convento		29.9606864	-90.0614180	hotel				https://www.villaconvento.com/
+node	11631741367	Sonesta ES Suites		29.9541401	-90.0747817	hotel		Sonesta ES Suites		
+node	11871513863	TownePlace Suites		29.9582918	-90.0773126	hotel		TownePlace Suites		https://www.marriott.com/msytd
+node	12185596401	The Jung Hotel & Residences		29.9572539	-90.0756604	hotel				https://junghotel.com
+node	12871354410	Suburban Studios		29.8990786	-90.0721542	hotel		Suburban Studios		
+node	13662310501	Jean Lafitte House		29.9631380	-90.0592366	hotel				
+node	13974132976	Nobu Hotel New Orleans - A Caesars Rewards Destination		29.9497750	-90.0654498	hotel		Caesars Entertainment		https://www.caesars.com/nobu-new-orleans
+node	14008624305	Caesars New Orleans Hotel & Casino - A Caesars Rewards Destination		29.9495101	-90.0652565	hotel		Caesars Entertainment		https://www.caesars.com/caesars-new-orleans
+way	208520460	Bienville House Hotel		29.9539056	-90.0651259	hotel				https://bienvillehouse.com/
+way	208529975	"Hotel de la Poste – French Quarter, A Renaissance Hotel"		29.9545023	-90.0662289	hotel				https://www.marriott.com/en-us/hotels/msyrf-hotel-de-la-poste-french-quarter-a-renaissance-hotel
+way	208606373	Balcony on Bourbon		29.9561347	-90.0682136	hotel				
+way	208607728	Hotel Mazarin		29.9548992	-90.0682479	hotel				
+way	291750367	The Frenchmen Hotel		29.9622606	-90.0574099	hotel				
+way	302490090	Sheraton New Orleans Hotel		29.9517921	-90.0680009	hotel		Sheraton		http://www.sheratonneworleans.com/
+way	313641130	Atlas House		29.9369444	-90.0714934	hostel				http://www.theatlashouse.com/
+way	327270838			29.9510883	-90.1349089	hotel				
+way	328026275	Hampton Inn & Suites New Orleans Convention Center		29.9397234	-90.0650296	hotel		Hampton Inn & Suites		https://www.hilton.com/en/hotels/msylahx-hampton-suites-new-orleans-convention-center/
+way	328026359	New Orleans Marriott Warehouse Arts District		29.9437051	-90.0649491	hotel		Marriott Hotels & Resorts		https://www.marriott.com/hotels/travel/msymc-new-orleans-marriott-warehouse-arts-district/
+way	328026440	Hilton Garden Inn New Orleans Convention Center		29.9413246	-90.0661737	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/msygigi-hilton-garden-inn-new-orleans-convention-center/
+way	328566456	Hotel Henrietta		29.9273691	-90.0928347	hotel				https://hotelhenrietta.com/
+way	328566460	Hampton Inn		29.9269077	-90.0939044	hotel		Hampton		https://www.hilton.com/en/hotels/msygdhx-hampton-new-orleans-st-charles-ave-garden-district/
+way	328641100	Sully Manison		29.9305229	-90.0842432	hotel				https://sullymansion.com
+way	328669261	Drury Inn & Suites New Orleans		29.9495298	-90.0724313	hotel		Drury Inn & Suites		https://www.druryhotels.com/
+way	328669264	Harrah's Hotel		29.9477515	-90.0656297	hotel				
+way	328669269	Hotel Vinache		29.9562826	-90.0744408	hotel				https://www.hotelvinache.com/
+way	328669283	Aloft New Orleans Downtown		29.9527569	-90.0725810	hotel		Aloft		https://www.marriott.com/en-us/hotels/msyal-aloft-new-orleans-downtown/overview/
+way	328669284	Windsor Court Hotel		29.9494787	-90.0663659	hotel				https://www.windsorcourthotel.com
+way	328669287	Doubletree by Hilton Hotel New Orleans		29.9502895	-90.0662582	hotel		DoubleTree		https://www.hilton.com/en/hotels/msytcdt-doubletree-new-orleans/
+way	328669288	Embassy Suites New Orleans - Convention Center		29.9450849	-90.0662610	hotel		Embassy Suites		http://www.embassyneworleans.com/
+way	328669289	"NOPSI Hotel, New Orleans"		29.9521063	-90.0729835	hotel				https://www.nopsihotel.com
+way	328669291	Hilton New Orleans/St. Charles Avenue		29.9507253	-90.0706459	hotel		Hilton		
+way	328669298	Kimpton Hotel Fontenot		29.9485449	-90.0673575	hotel		Kimpton		
+way	328669301	The Natchez Vacation Rentals		29.9496873	-90.0686987	hotel				
+way	328669304	Maison Métier		29.9487003	-90.0718772	hotel		The Unbound Collection by Hyatt		https://maisonmetier.com/
+way	328669306	The Barnett		29.9483210	-90.0719483	hotel		Hyatt Hotels		https://www.hyatt.com/en-US/hotel/louisiana/the-barnett/msyjd
+way	328669311	Renaissance New Orleans Arts Warehouse District Hotel		29.9459864	-90.0670171	hotel		Renaissance		
+way	328669324	The Whitney		29.9491112	-90.0697668	hotel		Wyndham	Wyndham	
+way	328669331	Lafayette Hotel		29.9475901	-90.0710031	hotel				
+way	328669345	Holiday Inn Express New Orleans Downtown - Fr Qtr Area		29.9517618	-90.0736630	hotel		Holiday Inn Express		https://www.ihg.com/holidayinnexpress/hotels/us/en/new-orleans/msyka/hoteldetail
+way	328669362	Selina Catahoula New Orleans		29.9517670	-90.0731138	hotel		Selina		https://www.selina.com/usa/catahoula-new-orleans/
+way	328669365	Le Méridien New Orleans		29.9489835	-90.0664261	hotel		Le Méridien		
+way	328669370	La Quinta Inn & Suites New Orleans Downtown		29.9508791	-90.0694429	hotel		La Quinta Inn & Suites		https://www.wyndhamhotels.com/laquinta/new-orleans-louisiana/la-quinta-new-orleans-downtown/overview
+way	328669391	Homewood Suites by Hilton New Orleans French Quarter		29.9507217	-90.0731358	hotel		Homewood Suites		https://www.hilton.com/en/hotels/msyfrhw-homewood-suites-new-orleans-french-quarter/
+way	328669394	JW Marriott Hotel New Orleans		29.9523081	-90.0689874	hotel		JW Marriott		https://www.marriott.com/hotels/travel/msyjw-jw-marriott-new-orleans/
+way	328669395	Loews New Orleans Hotel		29.9479695	-90.0662019	hotel				https://www.loewshotels.com/m/new-orleans
+way	328669422	InterContinental New Orleans		29.9503375	-90.0697134	hotel		InterContinental		
+way	328669443	"Le Pavillon, New Orleans, a Tribute Portfolio Hotel"		29.9506063	-90.0727467	hotel		Tribute Portfolio Hotel		https://www.marriott.com/en-us/hotels/msytx-le-pavillon-new-orleans-a-tribute-portfolio-hotel/overview/
+way	328669454	Holiday Inn New Orleans-Downtown Superdome		29.9528232	-90.0749071	hotel		Holiday Inn	IHG	
+way	328669529	"The Blake Hotel New Orleans, an Ascend Hotel Collection Member"		29.9490223	-90.0700205	hotel				
+way	328669562	Old No. 77 Hotel and Chandlery		29.9480178	-90.0674800	hotel				https://www.old77hotel.com/
+way	328790912	Hotel Indigo New Orleans Garden District		29.9342876	-90.0810780	hotel		Hotel Indigo		
+way	328820554			29.9496438	-90.0651803	hotel				
+way	328846629	The Queen Anne Hotel		29.9371974	-90.0752705	hotel				
+way	328846667	Prytania Oaks Hotel		29.9370884	-90.0747153	hotel				
+way	329364475	Place d'Armes Hotel		29.9586927	-90.0634222	hotel				
+way	329364539	Omni Royal Orleans		29.9563139	-90.0655143	hotel			Omni Hotels & Resorts	https://www.omnihotels.com/hotels/new-orleans-royal-orleans
+way	329365572	Hotel St. Marie		29.9583853	-90.0669095	hotel				
+way	329365627	Audubon Cottages		29.9581821	-90.0677975	hotel				
+way	329365638	Inn on St. Peter		29.9600270	-90.0675236	hotel				
+way	329382142	Nine-O-Five Royal Hotel		29.9599104	-90.0632457	hotel				
+way	329382147	Hotel St. Pierre		29.9617841	-90.0658821	hotel				
+way	329382158	Best Western Plus French Quarter Courtyard Hotel		29.9623016	-90.0661772	hotel		Best Western Plus		https://www.bestwestern.com/en_US/book/hotels-in-new-orleans/best-western-plus-french-quarter-courtyard-hotel/propertyCode.19087.html
+way	329382191	Andrew Jackson Hotel		29.9601382	-90.0630869	hotel				
+way	329382209	Inn on St Ann		29.9609936	-90.0668093	hotel				
+way	329382390	Bourbon Orleans Hotel		29.9587663	-90.0646591	hotel				https://www.bourbonorleans.com/
+way	331125060	Hyatt House New Orleans/Downtown		29.9505449	-90.0769179	hotel		Hyatt House		https://www.hyatt.com/hyatt-house/en-us/msyxd-hyatt-house-new-orleans-downtown
+way	345253062	Chateau Hotel		29.9600135	-90.0616725	hotel				
+way	345253095	Le Richelieu in the French Quarter		29.9618394	-90.0594650	hotel				
+way	345253099	Hotel Royal		29.9604327	-90.0622506	hotel				
+way	345253100	Soniat House		29.9613448	-90.0605088	hotel				
+way	345273229	New Orleans Courtyard Hotel		29.9641597	-90.0657283	hotel				
+way	345273406	French Quarter Suites Hotel		29.9642780	-90.0654713	hotel				
+way	345285884	Empress Hotel		29.9655271	-90.0675162	hotel				
+way	367725683	One11 Hotel		29.9519553	-90.0647984	hotel				https://one11hotel.reztrip.com/classic/en/searches/6268bd9ec55a24569115d7ac/hotels/IBERV/rooms?action=show&adults[]=2&arrival_date=2022-05-02&channel=DS-GOOGLE&children[]=0&controller=landings&currency=USD&departure_date=2022-05-03&locale=en&offer_code=de
+way	367725695	Grenoble House		29.9566292	-90.0691527	hotel				
+way	367725711	New Orleans Marriott		29.9528710	-90.0673479	hotel				https://www.marriott.com/hotels/travel/msyla-new-orleans-marriott
+way	367725712	Hotel Le Marais		29.9561659	-90.0671120	hotel				
+way	367725749	Dauphine Orleans Hotel		29.9573801	-90.0685108	hotel				
+way	367725753	Wyndham New Orleans French Quarter		29.9536365	-90.0683446	hotel		Wyndham		https://www.wyndhamfrenchquarter.com/
+way	367725775	Crowne Plaza New Orleans French Quarter		29.9540618	-90.0692875	hotel		Crowne Plaza		https://www.ihg.com/crowneplaza/hotels/us/en/new-orleans/msyla/hoteldetail
+way	370788991	Lamothe House Hotel		29.9633026	-90.0592681	hotel				
+way	370799686	Antebellum Guest House		29.9681781	-90.0662749	hotel				antebellumguesthouse.com
+way	371805516	Olde Town Inn		29.9677430	-90.0552946	hotel				
+way	375006567	Days Inn by Wyndham New Orleans Pontchartrain		30.0021345	-90.0397633	hotel		Days Inn		https://www.wyndhamhotels.com/days-inn/new-orleans-louisiana/days-inn-new-orleans-pontchartrain/overview
+way	427521133	Holiday Inn Express New Orleans - St Charles		29.9437473	-90.0718786	hotel		Holiday Inn Express		
+way	464619428	The Westin New Orleans		29.9514008	-90.0648513	hotel		Westin Hotels		https://www.marriott.com/en-us/hotels/msywi-the-westin-new-orleans/overview/
+way	485363193	Best Western Plus St. Christopher Hotel		29.9512376	-90.0672220	hotel		Best Western Plus		https://www.bestwestern.com/en_US/book/hotels-in-new-orleans/best-western-plus-st-christopher-hotel/propertyCode.19095.html
+way	485365858	Harrah’s New Orleans Hotel & Casino - A Caesars Rewards Destination		29.9479529	-90.0656412	hotel		Caesars Entertainment		
+way	485370193	"The Roosevelt New Orleans, A Waldorf Astoria Hotel"		29.9542614	-90.0722806	hotel				
+way	485370199	Element		29.9534177	-90.0738070	hotel		Element		https://www.marriott.com/en-us/hotels/msyed-element-new-orleans-downtown/overview/
+way	485370203	Hotel Indigo New Orleans - French Quarter		29.9524548	-90.0699787	hotel		Hotel Indigo		
+way	485370204	The Ritz-Carlton New Orleans		29.9549681	-90.0707509	hotel		The Ritz-Carlton	The Ritz-Carlton	
+way	485370207	"The Saint Hotel, Autograph Collection"		29.9552096	-90.0712562	hotel				
+way	485370212	Renaissance New Orleans Pere Marquette French Quarter Area Hotel		29.9533227	-90.0718053	hotel		Renaissance		
+way	485370215	Holiday Inn Club Vacations New Orleans Resort		29.9526562	-90.0712702	hotel		Holiday Inn Club Vacations		https://www.ihg.com/holidayinnclubvacations/hotels/us/en/new-orleans/msybv/hoteldetail
+way	492657742	La Quinta Inn New Orleans West Bank / Gretna		29.9242268	-90.0392977	hotel		La Quinta Inn		https://www.wyndhamhotels.com/laquinta/gretna-louisiana/la-quinta-inn-new-orleans-west-bank-gretna/overview
+way	520146036	Holiday Inn New Orleans West Bank Tower		29.9243728	-90.0417317	hotel		Holiday Inn		https://www.holidayinn.com/hotels/us/en/gretna/msywb/hoteldetail
+way	520146039	Courtyard New Orleans Westbank/Gretna		29.9256283	-90.0415098	hotel		Courtyard		https://www.marriott.com/hotels/travel/msygr-courtyard-new-orleans-westbank-gretna/
+way	520151846	Days Inn Gretna New Orleans		29.9105047	-90.0518394	hotel		Days Inn		
+way	640668816	La Quinta Inn		30.0041986	-90.2400823	hotel		La Quinta Inn & Suites		https://www.wyndhamhotels.com/laquinta/kenner-louisiana/la-quinta-new-orleans-airport/overview
+way	642914643	Crowne Plaza Hotel New Orleans Airport		30.0080071	-90.2415874	hotel		Crowne Plaza		
+way	667563769	Doubletree by Hilton Hotel New Orleans Airport		30.0071565	-90.2389448	hotel		DoubleTree		https://www.hilton.com/en/hotels/msykndt-doubletree-new-orleans-airport/
+way	667563770	Extended Stay America - New Orleans - Kenner		30.0077027	-90.2358684	hotel		Extended Stay America		
+way	705856205	WoodSpring Suites		30.0080227	-90.2368943	hotel		WoodSpring Suites		
+way	712428900	New Orleans/Harvey Extended Stay Hotel		29.8991440	-90.0622953	hotel				
+way	713130437	Runway Inn & Suites Airport		30.0138026	-90.2421378	hotel				
+way	723926491	Holiday Inn New Orleans Airport North		30.0078352	-90.2505034	hotel		Holiday Inn		
+way	727323116	Comfort Suites		30.0055052	-90.2378074	hotel		Comfort Suites		https://www.choicehotels.com/louisiana/new-orleans/country-inn-suites-hotels
+way	768279320	"Q&C HotelBar New Orleans, Autograph Collection"		29.9500234	-90.0688665	hotel				
+way	915473150	Hilton New Orleans Airport		29.9812918	-90.2578907	hotel				
+way	915687037	The Pelham Hotel New Orleans		29.9509029	-90.0672564	hotel				
+way	915693225	Four Points By Sheraton French Quarter		29.9577796	-90.0667888	hotel		Four Points by Sheraton		
+way	915693988	Olivier House		29.9581378	-90.0671318	hotel				
+way	915703945	Courtyard New Orleans Downtown Near the French Quarter		29.9523140	-90.0694347	hotel		Courtyard		https://www.marriott.com/msycy
+way	915706047	Hilton Garden Inn New Orleans French Quarter/CBD		29.9524734	-90.0717834	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/msyorgi-hilton-garden-inn-new-orleans-french-quarter-cbd/
+way	915706500	AC Hotel by Marriott New Orleans French Quarter		29.9524386	-90.0713632	hotel		AC Hotel		
+way	915707952	Wyndham Garden Baronne Plaza New Orleans		29.9532633	-90.0725916	hotel		Wyndham Garden		
+way	915709150	Moxy New Orleans Downtown/French Quarter Area		29.9535269	-90.0731522	hotel		Moxy		
+way	915714983	Hampton Inn & Suites New Orleans Downtown (French Quarter Area)		29.9520919	-90.0708773	hotel		Hampton Inn & Suites		https://www.hilton.com/en/hotels/msydthx-hampton-suites-new-orleans-downtown-french-quarter-area/
+way	915715054	Wyndham La Belle Maison		29.9509259	-90.0678427	hotel		Wyndham		
+way	915718998	Hotel de L'Eau Vive		29.9496971	-90.0668374	hotel				
+way	915719697	"St. James Hotel, an Ascend Collection Hotel"		29.9497107	-90.0677304	hotel				
+way	915724584	New Orleans Guest House		29.9639926	-90.0661214	hotel				
+way	915730537	WorldMark Hotel		29.9348618	-90.0801334	hotel				
+way	915735413	Hyatt Place New Orleans/Convention Center		29.9424923	-90.0649233	hotel		Hyatt Place		https://www.hyatt.com/en-us/hotel/louisiana/hyatt-place-new-orleans-convention-center/msyzc
+way	915748393	Comfort Inn & Suites		30.0063829	-90.2476816	hotel		Comfort Inn & Suites		https://www.choicehotels.com/louisiana/new-orleans/country-inn-suites-hotels
+way	915749890	Comfort Inn Marrero - New Orleans West		29.8921944	-90.1228262	hotel		Comfort Inn		https://www.choicehotels.com/louisiana/new-orleans/country-inn-suites-hotels
+way	915751081	Baymont Marrero		29.8928142	-90.1186804	hotel		Baymont		https://www.wyndhamhotels.com/baymont/marrero-louisiana/baymont-inn-and-suites-marrero/overview
+way	915761072	"The Troubadour Hotel New Orleans, Tapestry Collection by Hilton"		29.9533876	-90.0744305	hotel				
+way	915761332	Quality Inn		29.8990527	-90.0724091	hotel		Quality Inn		
+way	916105872	Springhill Suites-New Orleans		29.9582388	-90.0773373	hotel		SpringHill Suites		
+way	916108302	Fairfield Inn & Suites New Orleans Downtown/French Quarter Area		29.9511750	-90.0725101	hotel		Fairfield Inn		https://www.marriott.com/msyfd
+way	916127888	Holiday Inn Express & Suites New Orleans Airport South		29.9793255	-90.2824312	hotel		Holiday Inn Express & Suites		https://www.ihg.com/holidayinnexpress/hotels/us/en/saint-rose/msysr/hoteldetail
+way	936583238	Red Roof Inn New Orleans - Westbank		29.8949209	-90.0883022	hotel		Red Roof Inn		
+way	959650554	Residence Inn		29.9508748	-90.0699867	hotel		Residence Inn		https://www.marriott.com/msynf
+way	1112075450	Home2		30.0071019	-90.2536192	hotel		Home2 Suites		https://www.hilton.com/en/hotels/msykeht-home2-suites-kenner-new-orleans-airport/
+way	1173550828	Sonesta ES Suites New Orleans Convention Center		29.9440289	-90.0681750	hotel		Sonesta ES Suites		
+way	1173833463	International House Hotel		29.9512330	-90.0690080	hotel				
+way	1175412845	Hotel Monteleone		29.9541913	-90.0676752	hotel				
+way	1176637768	The Pontchartrain Hotel		29.9350938	-90.0797142	hotel				https://thepontchartrainhotel.com/
+way	1176662269	Chateau Orleans Resort		29.9564125	-90.0702641	hotel				
+way	1197251331	Hampton Inn New Orleans French Quarter Market Area		29.9628849	-90.0556625	hotel		Hampton		https://www.hilton.com/en/hotels/msyfehx-hampton-new-orleans-french-quarter-market-area/
+way	1391223535	"The Higgins Hotel New Orleans, Curio Collection by Hilton"		29.9422727	-90.0696348	hotel		Curio Collection		https://www.hilton.com/en/hotels/msyrvqq-the-higgins-hotel-new-orleans/
+way	1455837279	Hotel Theo New Orleans		29.9510301	-90.0685627	hotel		Hilton		
+relation	4597509	Hyatt Regency New Orleans		29.9495459	-90.0773772	hotel		Hyatt Regency	Hyatt	https://neworleans.regency.hyatt.com/
+relation	4597530	The Eliza Jane - In the Unbound Collection		29.9501647	-90.0682267	hotel				
+relation	4599700	Hilton New Orleans Riverside		29.9473563	-90.0634467	hotel		Hilton		https://www.hilton.com/en/hotels/msynhhh-hilton-new-orleans-riverside/
+relation	4600215	The Prytania Park Hotel		29.9379993	-90.0747378	hotel				
+relation	4605560	Midtown Hotel New Orleans		29.9675633	-90.1040617	hotel				
+relation	4610770	Maison Dupuy		29.9595013	-90.0682507	hotel				https://www.maisondupuy.com/
+relation	5143221	Hotel Provincial		29.9601306	-90.0610638	hotel				
+relation	5466023	The Royal Sonesta New Orleans		29.9556828	-90.0678417	hotel				https://www.sonesta.com/royal-sonesta/la/new-orleans/royal-sonesta-new-orleans
+relation	5466024	Hyatt Centric French Quarter New Orleans		29.9546858	-90.0698187	hotel		Hyatt Centric		
+relation	5508715	Hotel de la Monnaie		29.9617679	-90.0570230	hotel				
+relation	7526752	Holiday Inn New Orleans West Bank Tower		29.9243728	-90.0417317	hotel		Holiday Inn		https://www.holidayinn.com/hotels/us/en/gretna/msywb/hoteldetail
+relation	9873843	Red Roof Inn		30.0056053	-90.2399658	hotel		Red Roof Inn		
+relation	15896273	Courtyard New Orleans Downtown/Convention Center		29.9442256	-90.0662631	hotel		Courtyard		
+relation	15896274	SpringHill Suites New Orleans Downtown/Convention Center		29.9434481	-90.0662701	hotel		SpringHill Suites		https://www.marriott.com/en-us/hotels/msysi-springhill-suites-new-orleans-downtown-canal-street/overview/
+relation	15896282	Holiday Inn French Quarter-Chateau LeMoyne		29.9564874	-90.0694430	hotel		Holiday Inn		
+relation	15896298	Courtyard		29.9554453	-90.0706918	hotel		Courtyard		https://www.marriott.com/msyci

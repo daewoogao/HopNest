@@ -1,0 +1,230 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	494792879			32.8011312	-117.2586230	hotel				
+node	595970835	The Beach Cottages		32.7929700	-117.2553620	hotel				
+node	596051451	Synergy at Mira Bella		32.8067630	-117.1494070	hotel				
+node	596079890	Bayview Inn		32.6754840	-117.1064110	hotel				
+node	596218212	"Red Roof Inn - Pacific Beach, San Diego"		32.8038120	-117.2169010	hotel		Red Roof Inn		
+node	596264761	Extended Stay America - San Diego - Fashion Valley		32.7786400	-117.1617890	hotel				
+node	596363372	Howard Johnson Inn And Suites San Diego Area/Chula Vista		32.6391969	-117.0970320	hotel				
+node	596455304	The Pearl Hotel		32.7253490	-117.2289830	hotel				
+node	596622535	Beachcomber Shores		32.8089152	-117.2571304	hotel				
+node	596782195	Hostel on 3rd	Hostel on 3rd	32.7110050	-117.1622260	hostel				
+node	596931560	Old Town Inn		32.7518995	-117.2007534	hotel				https://www.oldtown-inn.com/
+node	597182183	Clarion Hotel National City San Diego South		32.6761580	-117.1076410	hotel		Clarion		
+node	597193316	R.K. Hostel		32.7269300	-117.1684680	hostel				
+node	1719562515	Beach Bungalow		32.7923261	-117.2554200	hostel				
+node	2653019692	Hostelling International San Diego		32.7113277	-117.1597605	hostel		Hostelling International	Hostelling International	
+node	2847704502			32.7608115	-117.1656674	hotel				
+node	3354037712			32.6408101	-117.0974870	hotel				
+node	4044455278	Residence Inn San Diego Downtown/Bayfront		32.7168810	-117.1720310	hotel		Residence Inn		https://www.marriott.com/hotels/travel/sanrh-residence-inn-san-diego-downtown-bayfront/
+node	4114506314	SpringHill Suites San Diego Downtown/Bayfront		32.7168861	-117.1717800	hotel		SpringHill Suites		https://www.marriott.com/hotels/travel/sandh-springhill-suites-san-diego-downtown-bayfront/
+node	4153256353			32.7588903	-117.1821737	hotel				
+node	4153256354	Handlery Hotel San Diego		32.7610029	-117.1731873	hotel				
+node	4153256358			32.7746343	-117.1421177	hotel				
+node	4153510551	Sommerset Suites Hotel		32.7502616	-117.1595060	hotel				
+node	4154382566			32.7851843	-117.2532726	hotel				
+node	4154979723	Pidgeon at Monte Viston		32.7848133	-117.1278717	hotel				
+node	4976609122	Hostel on 3rd Reception	Hostel on 3rd Reception	32.7108951	-117.1621112	hostel				
+node	5746280076			32.7541895	-117.2494519	hotel				
+node	5746612566	Samesun Ocean Beach Hostel		32.7463311	-117.2505395	hostel			Samesun	https://samesun.com/ocean-beach-hostel/
+node	6801427037			32.7585428	-117.1703963	hotel				
+node	6896291520			32.6920091	-117.1327873	hotel				
+node	9215079106	Pacifica Hotel		32.7110948	-117.1608858	hotel				https://pacificahotelsd.com/
+node	9215079108	Gaslamp Quarter Hotel		32.7113426	-117.1607626	hotel				http://gaslampquarterhotel.com/
+node	9688581245	La Quinta Inn & Suites San Diego SeaWorld/Zoo		32.7629572	-117.1584300	hotel		La Quinta Inn & Suites		
+node	9880211446			32.7362232	-117.2551861	hotel				
+node	10135215006	Motel San Diego		32.8070511	-117.2196338	hotel				
+node	12083542521	California Dreams Backpackers Hostel		32.7982066	-117.2564087	hostel				
+node	12248471250	Gaslamp hostel		32.7129596	-117.1603958	hostel				
+node	13398420601	Abpopa Hillcrest		32.7465375	-117.1618273	hotel				
+node	14125620860	Hilton San Diego Bayfront		32.7036893	-117.1583859	hotel		Hilton		https://www.hilton.com/en/hotels/sancchh-hilton-san-diego-bayfront/
+way	26748231	Embassy Suites San Diego Bay Downtown		32.7120332	-117.1705173	hotel		Embassy Suites		https://www.hilton.com/en/hotels/sandnes-embassy-suites-san-diego-bay-downtown/
+way	30407584	Hampton Inn San Diego - Downtown		32.7212927	-117.1705308	hotel		Hampton		https://www.hilton.com/en/hotels/sandthx-hampton-san-diego-downtown/
+way	30407624	Pacific Inn Hotel & Suites		32.7226661	-117.1706162	hotel				
+way	30407717	Residence Inn San Diego Downtown		32.7233963	-117.1706725	hotel		Residence Inn		https://www.marriott.com/sanph
+way	30929700	Manchester Grand Hyatt San Diego		32.7099198	-117.1678917	hotel		Hyatt		https://manchestergrand.hyatt.com/
+way	30929815	Omni San Diego Hotel		32.7068638	-117.1587675	hotel				https://www.omnihotels.com/hotels/san-diego
+way	31008692	Sheraton San Diego Resort		32.7268592	-117.1978156	hotel		Sheraton		https://www.marriott.com/en-us/hotels/sansi-sheraton-san-diego-resort/overview/
+way	31285222	Paradise Point Resort and Spa		32.7749887	-117.2391299	hotel				
+way	31429990	"The US Grant, A Luxury Collection Hotel"		32.7160776	-117.1615144	hotel		Luxury Collection	Marriott International	https://www.marriott.com/hotels/travel/sanlc-the-us-grant-a-luxury-collection-hotel-san-diego
+way	31557331	San Diego Marriott Marquis & Marina		32.7081006	-117.1656866	hotel		Marriott		
+way	31802034	Bay Inn & Suites		32.7500020	-117.2120216	hotel				
+way	31803056	Homewood Suites by Hilton San Diego Mission Valley / Zoo		32.7622670	-117.1596737	hotel		Homewood Suites		
+way	31807020	Townplace Suites		32.7205188	-117.1589970	hotel		TownePlace Suites		https://www.marriott.com/santd
+way	31807464	AC Hotel by Marriott San Diego Downtown Gaslamp Quarter		32.7131296	-117.1596809	hotel		AC Hotel		https://www.marriott.com/en-us/hotels/sanar-ac-hotel-san-diego-downtown-gaslamp-quarter/overview/
+way	31807985	The Keating Hotel		32.7138334	-117.1604236	hotel				http://www.thekeating.com
+way	31808195	Sea Harbor Hotel		32.7232212	-117.2283618	hotel				
+way	31809858	Courtyard San Diego Gaslamp/Convention Center		32.7101219	-117.1589111	hotel		Courtyard		https://www.marriott.com/sancg
+way	31819705	Holiday Inn San Diego - Bayside		32.7260985	-117.2225057	hotel		Holiday Inn	IHG	https://www.holinnbayside.com/
+way	31842529	Comfort Inn San Diego Old Town		32.7493746	-117.1946359	hotel		Comfort Inn		https://www.choicehotels.com/mexico/tijuana/sleep-inn-hotels
+way	31843343	ITH Eco Farm House San Diego		32.7222769	-117.1658623	hotel				
+way	31846126	Panama-Senator Hotel		32.7134214	-117.1641036	hotel				
+way	31886782	DoubleTree by Hilton Hotel San Diego - Mission Valley		32.7698907	-117.1602697	hotel		DoubleTree		https://www.hilton.com/en/hotels/sdgo-dt-doubletree-san-diego-mission-valley/
+way	31951491	Extended Stay America - San Diego - Hotel Circle		32.7579622	-117.1812825	hotel		Extended Stay America		
+way	32502243	Wyndham Harbour Lights		32.7150008	-117.1598555	hotel		Wyndham		
+way	32502244	Gaslamp Plaza Suites		32.7148446	-117.1598564	hotel				
+way	32502257	Palihotel San Diego		32.7141005	-117.1595157	hotel		Palisociety		https://www.palisociety.com/hotels/san-diego
+way	32502447	Hilton San Diego Gaslamp Quarter		32.7079782	-117.1607109	hotel		Hilton		https://www3.hilton.com/en/hotels/california/hilton-san-diego-gaslamp-quarter-SANGQHF/
+way	32502455	San Diego Marriott Gaslamp Quarter		32.7085907	-117.1587301	hotel				
+way	32502468	Margaritaville Hotel San Diego Gaslamp Quarter		32.7097432	-117.1587459	hotel				https://www.margaritavilleresorts.com/margaritaville-hotel-san-diego
+way	32502648	ANdAZ San Diego		32.7138833	-117.1588055	hotel		ANdAZ		
+way	113101742	Tower23 Hotel		32.7969768	-117.2566301	hotel				
+way	113101757	Pacific Terrace Hotel		32.7995402	-117.2579243	hotel				https://www.pacificterrace.com/
+way	116718636	Best Western Inn & Suites San Diego - Zoo/SeaWorld Area		32.7606059	-117.1886223	hotel		Best Western		
+way	132579338	The DEXTRO Little Italy		32.7223479	-117.1634263	hotel		BW Premier Collection		
+way	132579345	Hilton Bayfront Hotel		32.7030303	-117.1583411	hotel		Hilton		
+way	132937614	The Sofia Hotel		32.7159742	-117.1642836	hotel				
+way	136250908	Catamaran Resort Hotel and Spa		32.7895977	-117.2526764	hotel				https://www.catamaranresort.com/
+way	136811083	Blue Sea Beach Hotel		32.7904091	-117.2548471	hotel				
+way	136811698	Surfer Beach Hotel		32.7909745	-117.2549267	hotel				
+way	177779759	DoubleTree by Hilton		32.7584642	-117.1768098	hotel		DoubleTree		https://www.hilton.com/en/hotels/sancldt-doubletree-san-diego-hotel-circle/
+way	177779762	Candlewood Suites		32.7577818	-117.1757059	hotel		Candlewood Suites		
+way	177779764	Howard Johnson Inn San Diego Hotel Circle		32.7586638	-117.1785740	hotel		Howard Johnson		
+way	206942936	Town and Country Resort & Convention Center		32.7633227	-117.1679481	hotel				https://www.destinationhotels.com/town-country
+way	227532743	The Bristol Hotel		32.7164229	-117.1636154	hotel				
+way	228174652	Four Points by Sheraton San Diego		32.8108685	-117.1485120	hotel		Four Points by Sheraton		
+way	229442265	Courtyard by Marriott San Diego Downtown Little Italy		32.7224056	-117.1651825	hotel		Courtyard		https://www.marriott.com/en-us/hotels/sandy-courtyard-san-diego-downtown-little-italy/overview/
+way	229442266	ITH Adventure Hostel		32.7226749	-117.1650193	hostel			ITH Hostels	https://ithhostels.com
+way	274708385	Fairfield Inn & Suites San Diego Old Town		32.7495823	-117.1928085	hotel		Fairfield Inn & Suites		https://www.marriott.com/sanfi
+way	289502112	Hyatt Regency Mission Bay Spa and Marina		32.7649110	-117.2403391	hotel		Hyatt	Hyatt	https://missionbay.regency.hyatt.com/en/hotel/home.html
+way	293956080	Holiday Inn Express Downtown		32.7204203	-117.1586760	hotel		Holiday Inn Express		https://www.ihg.com/holidayinnexpress/hotels/us/en/san-diego/sanrx/hoteldetail
+way	327911206	Bahia Resort Hotel		32.7733198	-117.2469508	hotel				https://www.bahiahotel.com/
+way	328582574	Days Inn by Wyndham San Diego Chula Vista South Bay		32.6410134	-117.0975924	hotel		Days Inn		
+way	329398854	Carté Hotel & Suites		32.7194975	-117.1667935	hotel				
+way	335261555	Ocean Beach Hotel		32.7479968	-117.2524188	hotel				
+way	338828567	Coronado Island Inn		32.6951722	-117.1739037	hotel				
+way	338830935			32.6989702	-117.1714344	hotel				
+way	362339992	Courtyard San Diego Downtown		32.7160336	-117.1595540	hotel		Courtyard		https://www.marriott.com/sancd
+way	362339996	"Alma San Diego, a Tribute Portfolio Hotel by Marriott"		32.7162362	-117.1598807	hotel		Tribute Portfolio		https://www.stayalma.com
+way	362340822	Comfort Inn Gaslamp Convention Center		32.7128331	-117.1585727	hotel		Comfort Inn		https://www.choicehotels.com/mexico/tijuana/sleep-inn-hotels
+way	363147902	Best Western Plus Suites Hotel Coronado Island		32.6960029	-117.1733564	hotel		Best Western Plus		https://www.bestwestern.com/en_US/book/hotels-in-coronado/best-western-plus-suites-hotel-coronado-island/propertyCode.05481.html
+way	377001313	Golden West		32.7128844	-117.1615265	hotel				
+way	377358714	Residence Inn San Diego Downtown/Gaslamp Quarter		32.7090775	-117.1594932	hotel		Residence Inn		https://www.marriott.com/sanrg
+way	378936828	Comfort Inn San Diego Airport At the Harbor		32.7255903	-117.2275319	hotel		Comfort Inn		https://www.choicehotels.com/mexico/tijuana/sleep-inn-hotels
+way	390371210	"Kona Kai Resort & Spa, A Noble House Resort"		32.7095996	-117.2318510	hotel				
+way	396760077	Old Town Inn		32.7518604	-117.2006746	hotel				https://www.oldtown-inn.com/
+way	398072467	InterContinental Hotel		32.7163214	-117.1718710	hotel		InterContinental		
+way	406801894	WorldMark San Diego - Mission Valley		32.7620159	-117.1590360	hotel				
+way	406802353	Inn at the Park		32.7385052	-117.1598888	hotel				
+way	410186219	Hotel Z		32.7107851	-117.1589278	hotel				https://sandiegohotelz.com
+way	410379288	Sheraton Mission Valley San Diego Hotel		32.7651083	-117.1506021	hotel		Sheraton	Mariott	https://www.marriott.com/hotels/travel/sanvs-sheraton-mission-valley-san-diego-hotel/
+way	414170726	Lamplighter Inn & Suites at SDSU		32.7665493	-117.0598839	hotel				https://www.lamplighter-inn.com/
+way	414263831	SuiteAmerica Coronado Bay Club		32.6955535	-117.1681375	hotel				
+way	414263832	The Consulate Hotel		32.7278400	-117.2253325	hotel				
+way	414263833	Hilton Garden Inn San Diego Downtown/Bayside		32.7262342	-117.1716962	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/sanhvgi-hilton-garden-inn-san-diego-downtown-bayside/
+way	458896757	Hilton San Diego Airport/Harbor Island		32.7252306	-117.2090024	hotel		Hilton		http://www.hiltonsandiegoairport.com/
+way	458904635	Allegro Towers		32.7203876	-117.1689058	hotel				
+way	458937040	Hotel Indigo		32.7107602	-117.1561995	hotel		Hotel Indigo		
+way	463361764	Pacific Shores Inn		32.8015272	-117.2573202	hotel				https://www.pacificshoresinn.com/
+way	475566058	Navy Lodge San Diego		32.6922422	-117.1322251	hotel				
+way	476841542	Navy Gateway Inns and Suites		32.6839905	-117.1197585	hotel				
+way	487080516	Wyndham San Diego Bayside		32.7187555	-117.1720346	hotel		Wyndham		
+way	497520834	"Hotel Republic San Diego, Autograph Collection"		32.7175266	-117.1667906	hotel		Autograph Collection		https://www.marriott.com/en-us/hotels/sanya-hotel-republic-san-diego-autograph-collection/overview/
+way	497731587	Best Western Plus Bayside Inn		32.7196185	-117.1676611	hotel		Best Western Plus		https://www.bestwestern.com/en_US/book/hotels-in-san-diego/best-western-plus-bayside-inn/propertyCode.05362.html
+way	498782087	Hard Rock Hotel San Diego		32.7078545	-117.1595683	hotel		Hard Rock Hotel		https://hotel.hardrock.com/san-diego
+way	500433319	Courtyard San Diego Airport/Liberty Station		32.7308471	-117.2156995	hotel		Courtyard		https://www.marriott.com/sanal
+way	500566912	Homewood Suites		32.7295232	-117.2158137	hotel		Homewood Suites		
+way	524247813	Courtyard San Diego Mission Valley/Hotel Circle		32.7597070	-117.1682551	hotel		Courtyard		https://www.marriott.com/sancm
+way	524247816	Hotel Iris		32.7601714	-117.1691369	hotel				
+way	528521740	Hampton Inn San Diego Mission Valley		32.7585025	-117.1822558	hotel		Hampton		https://www.hilton.com/en/hotels/sancshx-hampton-san-diego-mission-valley/
+way	532392592	Days Inn San Diego Hotel Circle Near SeaWorld		32.7598833	-117.1672282	hotel		Days Inn	Days Inn	https://www.daysinnhc.com/
+way	545144540	Howard Johnson by Wyndham San Diego State University Area		32.7659052	-117.0606418	hotel		Howard Johnson		
+way	554351625	Best Western Plus Marina Gateway		32.6589239	-117.1099172	hotel				
+way	565565147	Cosmopolitan Hotel & Restaurant		32.7545679	-117.1963282	hotel				
+way	608703250	The Westin San Diego		32.7160567	-117.1669480	hotel		Westin		
+way	610356378	Navy Gateway Inn		32.6716847	-117.1625609	hotel				
+way	617467590	The Westin Gaslamp Quarter		32.7144750	-117.1633354	hotel		Westin		https://www.marriott.com/hotels/travel/sanwi-the-westin-san-diego-gaslamp-quarter/
+way	655482881	New Palace Hotel		32.7243142	-117.1605329	hotel				
+way	672728234	Coronado Inn		32.6963749	-117.1742263	hotel				
+way	689520673	Island Palms Hotel & Marina		32.7130260	-117.2281410	hotel			Best Western/Bartell Hotels	https://www.islandpalms.com/
+way	710276924	"The Lafayette Hotel, Swim Club & Bungalows"		32.7548681	-117.1407279	hotel				https://lafayettehotelsd.com
+way	715015144	West Park Inn		32.7245195	-117.1614459	hotel				
+way	715015146	Hotel Occidental		32.7243263	-117.1609011	hotel				
+way	725275233	Legacy Resort Hotel & Spa		32.7593492	-117.1706887	hotel				https://legacyresortandspa.com/
+way	729157305	Hampton Inn & Suites San Diego Airport Liberty Station		32.7296542	-117.2109424	hotel		Hampton Inn & Suites		https://www.hilton.com/en/hotels/sanlbhx-hampton-suites-san-diego-airport-liberty-station/
+way	729157306	TownePlace Suites San Diego Airport/Liberty Station		32.7304550	-117.2108940	hotel		TownePlace Suites		https://www.marriott.com/santa
+way	742612716	Handlery Hotel San Diego		32.7612412	-117.1728906	hotel				
+way	743675851	Navy Lodge		32.6892897	-117.2049122	hotel				https://www.navy-lodge.com/north-island
+way	743675852			32.6893685	-117.2057453	hotel				
+way	746415511			32.6405059	-117.0949786	hotel				
+way	761314678	Best Western Yacht Harbor		32.7259649	-117.2254238	hotel		Best Western		https://www.bestwestern.com/en_US/book/hotels-in-san-diego/best-western-yacht-harbor-hotel/propertyCode.05226.html
+way	857632147	La Pensione Hotel		32.7232311	-117.1685839	hotel				
+way	857632164	Harborview Inn & Suites		32.7259605	-117.1680830	hotel				
+way	870590847	Heritage Inn San Diego		32.7561852	-117.2190848	hotel		Heritage Inn		
+way	875033963	Ramada San Diego Airport		32.7249666	-117.2282072	hotel		Ramada		https://www.wyndhamhotels.com/ramada/san-diego-california/ramada-san-diego-airport/overview
+way	876019886	Keating House		32.7297022	-117.1627221	hotel				
+way	879493500	Wyndham Garden San Diego near SeaWorld		32.7540299	-117.2154638	hotel				
+way	926130616	Comfort Inn Chula Vista San Diego South		32.6487167	-117.0645846	hotel		Comfort Inn		https://www.choicehotels.com/mexico/tijuana/sleep-inn-hotels
+way	927110863	Quality Inn San Diego I-5 Naval Base		32.6833577	-117.1106800	hotel				
+way	927126812	Ramada Suites San Diego		32.7629732	-117.1592452	hotel		Ramada		https://www.wyndhamhotels.com/ramada/san-diego-california/ramada-suites-san-diego/overview
+way	930884193	Capri by the sea		32.8002827	-117.2582065	hotel				
+way	930885894	Found San Diego - Little Italy Inn		32.7256889	-117.1675147	hotel				
+way	930888560	Bayview Inn		32.6754775	-117.1065215	hotel				
+way	930891667	Coronado Beach Resort		32.6819472	-117.1772529	hotel				
+way	930897225	Extended Stay America - San Diego - Fashion Valley		32.7786262	-117.1617802	hotel		Extended Stay America		
+way	930917506	The El Cordova Hotel		32.6825554	-117.1775511	hotel				
+way	930919064	SpringHill Suites San Diego Mission Valley		32.7717081	-117.1372740	hotel		SpringHill Suites		https://www.marriott.com/sansm
+way	930923552	Beachcomber Shores Apartments		32.8088382	-117.2571198	hotel				
+way	930926057			32.8017117	-117.2140322	hotel				
+way	930927528	Days Inn by Wyndham San Diego/Downtown/Convention Center		32.7196086	-117.1568508	hotel		Days Inn	Wyndham Hotels and Resorts	https://www.wyndhamhotels.com/days-inn/san-diego-california/days-inn-san-diego-downtown-convention-center/overview
+way	930930677	The Baby Grand		32.6831788	-117.1781486	hotel				https://www.thebabygrandcoronado.com/
+way	930954198	Holiday Inn Express San Diego-Sea World Area		32.7561772	-117.2201656	hotel		Holiday Inn Express		https://www.hiexpress.com/hotels/us/en/san-diego/sanex/hoteldetail
+way	930955442	Hotel Marisol Coronado		32.6847765	-117.1803006	hotel				
+way	930955982	The Bower Coronado		32.6816500	-117.1769524	hotel				https://bowercoronado.com/
+way	930957292	Courtyard San Diego Old Town		32.7500405	-117.1952889	hotel		Courtyard		https://www.marriott.com/sanot
+way	930978314	Days Inn by Wyndham Mission Valley Qualcomm Stadium/ SDSU;Days Inn Mission Valley		32.7818381	-117.0842852	hotel		Days Inn		https://www.wyndhamhotels.com/days-inn/san-diego-california/days-inn-mission-valley-sdsu/overview
+way	930980719	Hilton San Diego Mission Valley		32.7634974	-117.1564888	hotel		Hilton		
+way	930981262	Hotel Aqua Mar		32.7265992	-117.2280411	hotel				
+way	930984649	Howard Johnson By Wyndham San Diego Chula Vista Suite Hotel		32.6391920	-117.0967859	hotel				
+way	930986770	Cassia Hotels		32.6786501	-117.1089000	hotel				
+way	931370123	Best Western Seven Seas		32.7607456	-117.1658848	hotel		Best Western		https://www.bestwestern.com/en_US/book/hotels-in-san-diego/best-western-seven-seas/propertyCode.05281.html
+way	932315272	Urban Boutique Hotel		32.7226835	-117.1676873	hotel				
+way	932778754	Holiday Inn Express & Suites San Diego - Mission Valley		32.7592644	-117.1692177	hotel		Holiday Inn Express & Suites		
+way	932793024	The Bay Club Hotel & Marina		32.7156635	-117.2250197	hotel				https://www.bayclubhotel.com/
+way	932796929	Salem Court Beach House		32.7851579	-117.2533083	hotel				
+way	932813706	Ramada San Diego National City		32.6761914	-117.1074040	hotel		Ramada		https://www.wyndhamhotels.com/ramada/national-city-california/ramada-san-diego-national-city/overview
+way	935154226	Pendry		32.7097570	-117.1596510	hotel				https://www.pendry.com/san-diego/
+way	935155984	"Marriott Vacation Club Pulse, San Diego"		32.7186683	-117.1578610	hotel		Marriott Vacation Club	Marriott Vacation Club	
+way	935159873	Quality Inn San Diego Downtown North		32.7247346	-117.1614341	hotel		Quality Inn		
+way	936943601	The Dana On Mission Bay		32.7662238	-117.2365621	hotel		Independent		https://www.thedana.com/
+way	937468994	Howard Johnson Inn San Diego Sea World		32.7484437	-117.2081574	hotel		Howard Johnson	Howard Johnson	
+way	937471061	Best Western Plus Hacienda Hotel Old Town		32.7530697	-117.1933633	hotel		Best Western Plus		https://www.bestwestern.com/en_US/book/hotels-in-san-diego/best-western-plus-hacienda-hotel-old-town/propertyCode.05471.html
+way	956946237	Sunrise Inn San Diego		32.7222739	-117.2316113	hotel		Sunrise Inn		
+way	956951607	The Monsaraz San Diego Tapestry Collection by Hilton		32.7255198	-117.2277945	hotel		Hilton		
+way	1000395896	San Diego Mission Bay Resort		32.7791022	-117.2108209	hotel				https://www.missionbayresort.com/
+way	1011575402	Moxy San Diego Downtown/Gaslamp Quarter		32.7141267	-117.1589772	hotel		Moxy		https://www.marriott.com/en-us/hotels/sanox-moxy-san-diego-downtown-gaslamp-quarter/overview/
+way	1011575403			32.7191880	-117.1568280	hotel				
+way	1020724258	Hilton Garden Inn		32.8121280	-117.1158586	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/sanstgi-hilton-garden-inn-san-diego-mission-valley-stadium/
+way	1068354692	Hilton Garden Inn		32.7584761	-117.1981224	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/sanswgi-hilton-garden-inn-san-diego-old-town-seaworld-area/
+way	1135525538	Vantaggio Suites Extended Stays		32.7479660	-117.1565831	hotel				https://vantaggiosuites.com/locations/hillcrest/
+way	1164565170	Navy Gateway Inn and Suites		32.6987930	-117.1941580	hotel				
+way	1193371896	Town and Country Resort Lobby		32.7629444	-117.1677955	hotel				
+way	1223189070	Holiday Inn Express		32.6770433	-117.0878991	hotel				
+way	1244826494	Chula Vista Inn		32.6159346	-117.0841169	hotel				
+way	1246910420	SureStay Plus Hotel		32.6212159	-117.0861678	hotel		Surestay Plus		https://www.bestwestern.com/en_US/book/hotels-in-chula-vista/surestay-plus-hotel-by-best-western-chula-vista-west/propertyCode.52064.html
+way	1284176606	Sentral Hotel		32.7106931	-117.1558673	hotel		Sentral		https://sentral.com/san-diego/gaslamp-quarter/stay
+way	1303723229	Gaylord Pacific Resort Hotel		32.6281923	-117.1042311	hotel		Gaylord		https://www.marriott.com/en-us/hotels/sange-gaylord-pacific-resort-and-convention-center/
+way	1382753200	Holiday Inn Express San Diego Sea World - Beach Area		32.8029970	-117.2171428	hotel		Holiday Inn Express		
+way	1447679412	Ronald McDonald House		32.7971830	-117.1502909	hotel				
+way	1510778902	Plaza Hotel		32.7162308	-117.1608120	hotel				
+way	1520316794	Hotel Del Coronado		32.6798603	-117.1788482	hotel				https://hoteldel.com
+way	1541155892	Humphreys Half Moon Inn		32.7178062	-117.2237161	hotel	3	Bartell Hotels		https://halfmooninn.com/
+relation	2373040	Kings Inn Hotel		32.7585034	-117.1756608	hotel				
+relation	6174900	Crowne Plaza San Diego - Mission Valley		32.7604343	-117.1839637	hotel		Crowne Plaza		https://www.ihg.com/crowneplaza/hotels/us/en/san-diego/sancp/hoteldetail
+relation	6175482	Fairfield Inn & Suites San Diego Old Town		32.7477126	-117.1917164	hotel		Fairfield Inn & Suites		
+relation	6410602	Coronado Island Marriott Resort & Spa		32.6953298	-117.1656477	hotel		Marriott		https://www.marriott.com/en-us/hotels/sanci-coronado-island-marriott-resort-and-spa/overview/
+relation	7303433	Vantaggio Suites		32.7235008	-117.1669917	hotel		Vantaggio Suites		
+relation	7303435	Porto Vista Hotel		32.7245789	-117.1672300	hotel				
+relation	7313569	The Horton Grand Hotel		32.7102974	-117.1614996	hotel				https://www.hortongrand.com/
+relation	7316914	J Street Inn		32.7098297	-117.1625468	hotel				
+relation	7317104	"The Guild Hotel, San Diego, a Tribute Portfolio Hotel"		32.7160168	-117.1678556	hotel		Tribute Portfolio		https://www.theguildhotel.com/
+relation	8491041	Baymont San Diego Downtown		32.7196056	-117.1579353	hotel		Baymont		
+relation	9878280	Marriott Mission Valley		32.7750273	-117.1398566	hotel		Marriott		
+relation	12632653	Westgate Hotel		32.7163929	-117.1624647	hotel				
+relation	14930153	Wyndham Garden San Diego near SeaWorld		32.7536416	-117.2158930	hotel				
+relation	15860786			32.6995406	-117.1728472	hotel				
+relation	18416371	La Quinta Inn		32.6473980	-117.0625022	hotel		La Quinta Inn		https://www.wyndhamhotels.com/laquinta/chula-vista-california/la-quinta-inn-san-diego-chula-vista/overview
+relation	19743905	Crystal Pier Hotel		32.7962784	-117.2567565	hotel				
+relation	20051563	Admiral at Promenade		32.7749178	-117.1418455	hotel				
+relation	20818805	Holiday Inn Express San Diego Airport - Old Town		32.7452202	-117.1871933	hotel		Holiday Inn Express		
+relation	21363122	WorldMark San Diego - Balboa Park		32.7191432	-117.1541246	hotel				

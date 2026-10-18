@@ -1,0 +1,90 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	360500844	Hilton Inn at Penn		39.9535151	-75.1958200	hotel		Hilton	Hilton	https://www.hilton.com/en/hotels/phlidhh-the-inn-at-penn/
+node	2000328095	Conwell Inn		39.9816896	-75.1560807	hotel				
+node	3775151108	"Club Quarters Hotel Rittenhouse Square, Philadelphia"		39.9513368	-75.1685144	hotel		Club Quarters		https://clubquartershotels.com/philadelphia
+node	4150841872	Sleep Inn Center City		39.9543795	-75.1571067	hotel		Sleep Inn		https://www.choicehotels.com/pennsylvania/west-chester/quality-inn-hotels
+node	4150959946	The Inn At The Union League		39.9500822	-75.1644755	hotel				
+node	4436638558	AKA Washington Square		39.9490697	-75.1551778	hotel			AKA	https://www.stayaka.com/locations/washington_square/default.aspx
+node	5836371081	Alexander Inn		39.9462710	-75.1610360	hotel				http://www.alexanderinn.com
+node	7306909046	Hawthorn Suites by Wyndham Philadelphia Airport		39.8883078	-75.2310986	hotel		Hawthorn Suites		
+node	7428100311	ROOST East Market		39.9514789	-75.1596268	hotel				https://myroost.com/philadelphia/east-market/
+node	7450315071	Four Seasons Hotel Philadelphia at Comcast Center		39.9550947	-75.1708950	hotel		Four Seasons		https://www.fourseasons.com/philadelphia
+node	8122169017	Henry		39.9631227	-75.1540999	hostel				
+node	8410338677	Canopy by Hilton Philadelphia Center City		39.9511166	-75.1597869	hotel		Canopy		https://www.hilton.com/en/hotels/phloppy-canopy-philadelphia-center-city/
+node	8848392217	Motto by Hilton		39.9524951	-75.1715837	hotel		Motto		
+node	9423177487	Wm. Mulherin's Sons Hotel		39.9716882	-75.1349105	hotel				https://wmmulherinssons.com/
+node	12070321828	Aloft Philadelphia Downtown		39.9546168	-75.1628609	hotel		Aloft		
+node	12229752739	Apple Hostels		39.9489212	-75.1450632	hostel				https://applehostels.com/
+node	12706314909	Sonder Ovation		39.9426600	-75.1654552	hotel		Sonder	Sonder	https://www.sonder.com/
+node	14017487001		Hyatt Centric Hotel	39.9492154	-75.1687007	hotel				
+way	42706102	Courtyard by Marriott Philadelphia City Avenue		40.0069941	-75.2106896	hotel		Courtyard		https://www.marriott.com/phlav
+way	42784724	Loews Philadelphia Hotel		39.9514135	-75.1603264	hotel				https://www.loewshotels.com/philadelphia-hotel
+way	50171183	Philadelphia Marriott Downtown		39.9525208	-75.1606229	hotel		Marriott		https://www.marriott.com/en-us/hotels/phldt-philadelphia-marriott-downtown
+way	61652879	Sheraton Suites Philadelphia Airport		39.8904500	-75.2315500	hotel		Sheraton		https://www.marriott.com/hotels/travel/phlsa-sheraton-suites-philadelphia-airport/
+way	61652932	Four Points by Sheraton Philadelphia Airport		39.8916173	-75.2328242	hotel		Four Points by Sheraton		
+way	61652991	DoubleTree by Hilton Philadelphia Airport		39.8888632	-75.2321925	hotel		DoubleTree		https://www.hilton.com/en/hotels/phldadt-doubletree-philadelphia-airport/
+way	101057382	Philadelphia Airport Marriott		39.8778774	-75.2445459	hotel		Marriott		https://www.marriott.com/hotels/travel/phlar-philadelphia-airport-marriott/
+way	147318001	Philadelphia Marriott Old City		39.9461726	-75.1436241	hotel		Marriott		https://www.marriott.com/hotels/travel/phlmo-philadelphia-marriott-old-city/
+way	183374061	Embassy Suites by Hilton Philadelphia - Center City		39.9562882	-75.1689059	hotel		Embassy Suites		
+way	183374064	The Windsor Suites		39.9556679	-75.1682350	hotel			Modus Hotels	https://www.thewindsorsuites.com/
+way	198653091	Holiday Inn Express		39.9493682	-75.1625868	hotel		Holiday Inn Express		https://www.ihg.com/holidayinnexpress/hotels/us/en/philadelphia/phlmt/hoteldetail
+way	241060903	Delta Hotel Philadelphia Airport		39.8730710	-75.2747930	hotel		Delta Hotels	Marriott International	https://www.marriott.com/en-us/hotels/phlde-delta-hotel-philadelphia-airport/overview/
+way	252221804	Sheraton Philadelphia Downtown Hotel		39.9572524	-75.1669754	hotel		Sheraton	Sheraton Hotels & Resorts	
+way	252221805	"The Logan Philadelphia, Curio Collection by Hilton"		39.9566875	-75.1701253	hotel				https://www.hilton.com/en/hotels/phlqqqq-the-logan-philadelphia/
+way	263816310	Holiday Inn Express Philadelphia E - Penns Landing		39.9526795	-75.1405122	hotel		Holiday Inn Express		https://www.ihg.com/holidayinnexpress/hotels/us/en/philadelphia/phlpl/hoteldetail
+way	264353350	Sheraton Philadelphia University City Hotel		39.9550084	-75.1939624	hotel		Sheraton		https://www.booking.com/hotel/jo/sheraton-amman-al-nabil-and-towers.en.html?aid=8134623&no_rooms=1&group_adults=2
+way	297920656	Hilton Philadelphia at Penn's Landing		39.9454624	-75.1413504	hotel		Hilton	Hilton	https://www.hilton.com/en/hotels/phlpnhh-hilton-philadelphia-at-penns-landing/
+way	309289080	Residence Inn Philadelphia Center City		39.9526120	-75.1622585	hotel		Residence Inn		https://www.marriott.com/phlri
+way	309294830	The Notary Hotel		39.9530151	-75.1618036	hotel				
+way	332786633	Renaissance Philadelphia Downtown Hotel		39.9490507	-75.1478835	hotel		Renaissance		https://www.marriott.com/en-us/hotels/phlpr-renaissance-philadelphia-downtown-hotel/overview/
+way	332801461	Sonesta Philadelphia Rittenhouse Square		39.9528343	-75.1703029	hotel		Sonesta	Sonesta Hotels	https://www.sonesta.com/sonesta-hotels-resorts/pa/philadelphia/sonesta-philadelphia-rittenhouse-square
+way	332801471	Westin Philadelphia		39.9519429	-75.1684246	hotel		Westin		
+way	333204594	"The Ritz-Carlton, Philadelphia"		39.9512790	-75.1643074	hotel		The Ritz-Carlton		
+way	333316089	AKA Rittenhouse Square		39.9503733	-75.1704400	hotel			AKA	https://www.stayaka.com/locations/rittenhouse_square/default.aspx
+way	333316137	DoubleTree by Hilton Hotel Philadelphia Center City		39.9479114	-75.1641401	hotel		DoubleTree		https://www.hilton.com/en/hotels/phlbldt-doubletree-philadelphia-center-city/
+way	333316167	W Hotel & Element by Westin Philadelphia		39.9512250	-75.1650082	hotel		W Hotels		
+way	333434774	Sofitel Philadelphia Hotel		39.9509374	-75.1695618	hotel		Sofitel	Sofitel	
+way	333831465	Courtyard by Marriott Philadelphia Downtown		39.9549516	-75.1641565	hotel		Courtyard		https://www.marriott.com/en-us/hotels/phlyd-courtyard-philadelphia-downtown/overview/
+way	333831787	"Home2 Suites by Hilton Philadelphia - Convention Center, PA"		39.9536777	-75.1599181	hotel		Home2 Suites		https://www.hilton.com/en/hotels/phlccht-home2-suites-philadelphia-convention-center-pa/
+way	334179777	The Rittenhouse Hotel		39.9498709	-75.1733991	hotel				https://www.rittenhousehotel.com
+way	334239439	Latham Hotel		39.9501677	-75.1688931	hotel				
+way	334239470	The Bellevue Hotel - The Unbound Collection by Hyatt		39.9490878	-75.1648651	hotel		The Unbound Collection by Hyatt		https://www.hyatt.com/en-us/hotel/pennsylvania/the-bellevue-hotel/phlph
+way	334239488	Cambria Hotel Philadelphia Downtown - Center City		39.9485239	-75.1640112	hotel		Cambria Hotel		https://www.choicehotels.com/pennsylvania/philadelphia/cambria-hotels/pa776
+way	334438137	Radisson Blu Warwick Hotel		39.9491476	-75.1697229	hotel		Radisson Blu	Radisson	
+way	334438172	Hilton Garden Inn Philadelphia Center City		39.9532610	-75.1581206	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/phlgigi-hilton-garden-inn-philadelphia-center-city/
+way	334598353	Hotel Palomar Philadelphia - a Kimpton Hotel		39.9508256	-75.1686429	hotel			Kimpton Resorts	https://www.hotelpalomar-philadelphia.com/
+way	334665984	Wyndham Philadelphia Historic District		39.9520461	-75.1473347	hotel		Wyndham		https://www.phillydowntownhotel.com/
+way	335689483	Apple Hostels Philadelphia		39.9488347	-75.1452476	hostel			Apple Hostels	https://applehostels.com/
+way	335703477	Best Western Plus Independence Park Hotel		39.9488376	-75.1455821	hotel		Best Western Plus		
+way	336018364	Four Points by Sheraton Philadelphia City Center		39.9560072	-75.1591839	hotel		Four Points by Sheraton		
+way	336018366	Hampton Inn Philadelphia Center City - Convention Center		39.9562835	-75.1608310	hotel		Hampton		https://www.hilton.com/en/hotels/phlcvhx-hampton-philadelphia-center-city-convention-center/
+way	338020267	Days Inn Philadelphia Convention Center - Philadelphia		39.9561350	-75.1602017	hotel		Days Inn		https://www.wyndhamhotels.com/days-inn/philadelphia-pennsylvania/days-inn-philadelphia-convention-center/overview
+way	338550371	The Philadelphia House		39.9505439	-75.1434160	hostel				
+way	338900969	Morris House Hotel		39.9473707	-75.1541936	hotel				https://www.morrishousehotel.com/
+way	339118519	Penn's View Hotel		39.9502494	-75.1423053	hotel				https://www.pennsviewhotel.com
+way	342277773	Fairfield Inn & Suites		39.9468941	-75.1624091	hotel		Fairfield Inn & Suites		https://www.marriott.com/phlcc
+way	345167224	Clarion Suites Philadelphia		39.9551504	-75.1564901	hotel		Clarion		
+way	346886795	Best Western Plus		39.9580013	-75.1594789	hotel		Best Western Plus		
+way	350243504	aloft Philadelphia Airport		39.8910228	-75.2337592	hotel		Aloft		
+way	360611681	Chamounix Mansion		40.0037868	-75.1962800	hostel				
+way	367807696	Courtyard Philadelphia South at The Navy Yard		39.8954523	-75.1719331	hotel		Courtyard	Marriott	https://www.marriott.com/phlcs
+way	488236289	Holiday Inn		39.9125308	-75.1839361	hotel		Holiday Inn		
+way	564391859	Hyatt Centric Center City Philadelphia		39.9492301	-75.1687187	hotel		Hyatt Centric		
+way	592399939	Extended Stay America - Philadelphia - Airport - Tinicum Blvd.		39.8838441	-75.2482244	hotel		Extended Stay America		
+way	592399942	Fairfield Inn Philadelphia Airport		39.8868381	-75.2476065	hotel		Fairfield Inn		https://www.marriott.com/phlfa
+way	592399944	Extended Stay America - Philadelphia - Airport - Bartram Ave.		39.8862571	-75.2480453	hotel		Extended Stay America		
+way	592399948	Hampton Inn Philadelphia-International Airport		39.8882826	-75.2462867	hotel		Hampton		https://www.hilton.com/en/hotels/phlathx-hampton-philadelphia-international-airport/
+way	592399949	Microtel Inn & Suites		39.8889322	-75.2457462	hotel		Microtel Inn & Suites		
+way	592399956	Sonesta Select Philadelphia Airport		39.8851842	-75.2488929	hotel		Sonesta Select		https://www.sonesta.com/us/pennsylvania/philadelphia/sonesta-select-philadelphia-airport
+way	592399959	Embassy Suites by Hilton Philadelphia Airport		39.8839567	-75.2497293	hotel		Embassy Suites		https://www.hilton.com/en/hotels/phlapes-embassy-suites-philadelphia-airport/
+way	615301983	Hilton Philadelphia City Avenue		40.0044301	-75.2182710	hotel		Hilton		https://www3.hilton.com/en/hotels/pennsylvania/hilton-philadelphia-city-avenue-PHLPHHF/index.html
+way	680977976	Best Western Plus Philadelphia-Pennsauken Hotel		39.9336055	-75.0774894	hotel		Best Western Plus		https://www.bestwestern.com/en_US/book/hotels-in-pennsauken/best-western-plus-philadelphia-pennsauken-hotel/propertyCode.31070.html
+way	739161262	Residence Inn Philadelphia Airport		39.8957930	-75.2362925	hotel		Residence Inn		https://www.marriott.com/phlba
+way	750211649	Homewood Suites University City		39.9549136	-75.2055611	hotel		Homewood Suites		
+way	756111489	Homewood Suites		40.0040731	-75.2177311	hotel		Homewood Suites		
+way	787324227	Hilton Garden Inn		39.9501865	-75.1301902	hotel		Hilton Garden Inn		https://www.hilton.com/en/hotels/ttncagi-hilton-garden-inn-camden-waterfront/
+way	905642618	Philadelphia Live! Hotel		39.9098947	-75.1642379	hotel				https://philadelphia.livecasinohotel.com/
+way	977459474	Residence Inn		40.0158687	-75.2139818	hotel		Residence Inn		https://www.marriott.com/phlrb
+relation	4676513	"Hotel Monaco Philadelphia, a Kimpton Hotel"		39.9493231	-75.1488424	hotel			Kimpton Hotels	https://www.monaco-philadelphia.com/
+relation	4679411	The Inn at the League		39.9500595	-75.1652591	hotel				https://www.unionleague.org/the-inn-at-the-league.php
+relation	6172683	Hawthorn Suites		39.8884839	-75.2308206	hotel		Hawthorn Suites		
