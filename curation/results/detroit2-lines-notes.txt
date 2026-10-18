@@ -1,0 +1,23 @@
+  attempt 1 failed (https://maps.mail.ru/osm/tools/overpass/api/interpreter answered 504: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+), retrying
+  attempt 2 failed (https://maps.mail.ru/osm/tools/overpass/api/interpreter answered 504: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+), retrying
+  attempt 3 failed (https://overpass.private.coffee/api/interpreter answered 500: <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html><head>
+<title>500 Internal Server Error</title>
+</head><body>
+<h1>Internal Server Error</h1>
+<p>The ser), retrying
+2 lines, 26 stations

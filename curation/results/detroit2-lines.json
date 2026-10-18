@@ -1,0 +1,44 @@
+[
+  {
+    "id": "ldpm",
+    "name": "Line DPM",
+    "color": "#546684",
+    "code": "DPM",
+    "stations": [
+      ["Renaissance Center",42.3302,-83.0401],
+      ["Millender Center",42.3302,-83.0419],
+      ["Financial District",42.3287,-83.0466],
+      ["Water Square",42.3253,-83.0526],
+      ["Huntington Place",42.3281,-83.0499],
+      ["Fort/Cass",42.3295,-83.0511],
+      ["Michigan",42.3314,-83.0522],
+      ["Times Square",42.3336,-83.0522],
+      ["Grand Circus Park",42.3358,-83.0505],
+      ["Broadway",42.3354,-83.0482],
+      ["Cadillac Center",42.3338,-83.0462],
+      ["Greektown",42.3346,-83.0425],
+      ["Bricktown",42.3333,-83.0412],
+      ["Renaissance Center",42.3302,-83.0401]
+    ]
+  },
+  {
+    "id": "lqline",
+    "name": "QLine",
+    "color": "#DB161C",
+    "code": "QLine",
+    "stations": [
+      ["Grand Boulevard",42.3706,-83.0736],
+      ["Baltimore Street",42.3687,-83.0723],
+      ["Amsterdam Street",42.3662,-83.0707],
+      ["Ferry Street",42.3611,-83.0673],
+      ["Warren Avenue",42.3564,-83.0642],
+      ["Canfield Street",42.3524,-83.0614],
+      ["Martin Luther King Junior Boulevard",42.347,-83.0578],
+      ["Sproat Street",42.3419,-83.0544],
+      ["Montcalm Street",42.339,-83.0524],
+      ["Grand Circus Park",42.3363,-83.0505],
+      ["Campus Martius",42.3321,-83.0473],
+      ["Congress Street",42.3298,-83.0455]
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "id": "l601",
+    "name": "KC Streetcar",
+    "color": "#888888",
+    "code": "601",
+    "stations": [
+      ["Riverfront",39.1171,-94.5721],
+      ["River Market",39.1102,-94.5816],
+      ["Delaware",39.1088,-94.5844],
+      ["North Loop",39.1051,-94.5831],
+      ["Library",39.1029,-94.5831],
+      ["Metro Center",39.0996,-94.5833],
+      ["Power and Light",39.0967,-94.5834],
+      ["Kauffman Center",39.0942,-94.5835],
+      ["Crossroads",39.0901,-94.5837],
+      ["Union Station",39.0849,-94.5842],
+      ["WWI Museum & Memorial",39.0785,-94.5846],
+      ["Union Hill",39.0708,-94.5854],
+      ["Armour",39.0634,-94.5858],
+      ["Westport",39.056,-94.5862],
+      ["Southmoreland",39.0491,-94.5866],
+      ["Art Museums",39.0459,-94.5868],
+      ["Plaza",39.0411,-94.5862],
+      ["UMKC",39.0355,-94.5842]
+    ]
+  }
+]

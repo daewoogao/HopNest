@@ -1,0 +1,21 @@
+[
+  {
+    "id": "lteco",
+    "name": "HART TECO Line",
+    "color": "#E3E049",
+    "code": "TECO",
+    "stations": [
+      ["Downtown Tampa",27.9453,-82.4568],
+      ["Dick Greco Plaza",27.9415,-82.4547],
+      ["HSBC",27.9419,-82.4518],
+      ["Benchmark International Arena",27.9435,-82.4484],
+      ["Cumberland Avenue",27.9459,-82.4456],
+      ["York Street",27.9483,-82.4455],
+      ["Port Tampa Trolley Stop",27.9517,-82.4454],
+      ["Cadrecha Plaza",27.9608,-82.4455],
+      ["Streetcar Society",27.961,-82.4431],
+      ["Centro Ybor",27.961,-82.4411],
+      ["Centennial Park",27.961,-82.4372]
+    ]
+  }
+]
