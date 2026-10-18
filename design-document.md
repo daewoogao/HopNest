@@ -497,6 +497,16 @@ they're done.
 
 ## Changelog
 
+### 2026-10-17 — hotel card out of the way; hotels near sights
+- Audrey: the hotel list covered the map after a station click. The card
+  now docks top-right on desktop (bottom on phones, max ~38% height),
+  shows 3 rows with "Show all", and has a fold button (–) that shrinks it
+  to its title. The map frames the hotels beside the card, not under it.
+- Audrey: clicking a sight should show hotels around it too. Opening a
+  sight now draws a dashed walk circle around it and lists hotels within
+  the walk time: our picks first (★, rated), then OpenStreetMap hotels
+  (grey dots, unrated). Free, same saved data.
+
 ### 2026-10-17 — every station shows hotels in walking distance (free)
 - Audrey expected a station click to find real hotels within walking
   distance, not the far-away nearest picks. Live search stays off (no

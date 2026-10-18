@@ -115,6 +115,15 @@
   .fb-head{display:flex;justify-content:space-between;gap:10px;font-weight:700;font-size:13px;margin-bottom:2px;}
   .fb-close{cursor:pointer;color:var(--text-dim);font-size:16px;line-height:1;}
   .fb-sub{font-size:11.5px;color:var(--text-dim);margin-bottom:8px;}
+  #search-banner.dock{left:auto;right:12px;bottom:auto;top:76px;transform:none;width:300px;max-height:calc(100vh - 110px);overflow:auto;}
+  @media (max-width:760px){ #search-banner.dock{left:8px;right:8px;top:auto;bottom:8px;width:auto;max-height:38vh;} }
+  #search-banner.dock .fb-extra{display:none;}
+  #search-banner.dock.expanded .fb-extra{display:block;}
+  #search-banner.dock.folded .fb-body{display:none;}
+  #search-banner.dock.folded .fb-head{margin-bottom:0;}
+  .fb-tools{display:flex;gap:12px;align-items:center;}
+  .fb-fold{cursor:pointer;color:var(--text-dim);font-size:18px;line-height:1;}
+  .fb-more{font-size:12px;color:var(--accent);cursor:pointer;margin:2px 0 4px;}
   .fb-row{padding:7px 8px;border-radius:8px;cursor:pointer;background:var(--panel-2);margin-bottom:5px;}
   .fb-row:hover{outline:1px solid var(--accent);}
   .fb-name{font-size:12.5px;font-weight:600;}
@@ -642,6 +651,7 @@ function clearCityLayers(){
   transferLayers.forEach(t=>map.removeLayer(t.layer)); transferLayers = [];
   clearNearestPicks(true);
   clearOsmHotels();
+  if(sightWalkCircle){ map.removeLayer(sightWalkCircle); sightWalkCircle=null; }
   hotelMarkers.forEach(h=>map.removeLayer(h.marker)); hotelMarkers=[];
   sightMarkers.forEach(s=>{ map.removeLayer(s.marker); map.removeLayer(s.label); }); sightMarkers=[];
   airportMarkers.forEach(a=>{ map.removeLayer(a.marker); map.removeLayer(a.label); }); airportMarkers=[];
@@ -972,7 +982,7 @@ let liveFetchInFlight = new Set();
 
 function showSearchBanner(text, autoHideMs){
   const el = document.getElementById('search-banner');
-  el.classList.remove('fallback');
+  el.classList.remove('fallback','dock','folded','expanded');
   el.textContent = text;
   el.classList.add('show');
   if(autoHideMs){ clearTimeout(el._t); el._t = setTimeout(()=> el.classList.remove('show'), autoHideMs); }
@@ -1024,13 +1034,14 @@ function showNearestHotelsFallback(stationName, lat, lng){
     <div class="fb-sub">Nearest hotels we recommend:</div>
     ${nearest.map((x,i)=>`<div class="fb-row" data-i="${i}"><div class="fb-name">${x.h.name}</div><div class="fb-meta">${x.h.stars?'★'.repeat(x.h.stars)+' · ':''}${x.h.area||''} · ${distLabel(x.d)}</div></div>`).join('')}
     <a class="fb-book" href="${bookingUrl}" target="_blank" rel="noopener">Search all hotels near ${stationName} ↗</a>`;
-  el.classList.add('fallback','show');
+  el.classList.remove('folded','expanded');
+  el.classList.add('fallback','dock','show');
   // Bring the suggested hotels into view next to the clicked station, so
   // the card's three picks are visible on the map, not just listed. Bottom
   // padding keeps them clear of the card itself.
   if(nearest.length && map.getSize().x>0){
     const pts = [[lat,lng], ...nearest.map(x=>[x.h.lat,x.h.lng])];
-    map.flyToBounds(L.latLngBounds(pts), {paddingTopLeft:[50,70], paddingBottomRight:[50, el.offsetHeight+40], maxZoom:16, duration:.6});
+    map.flyToBounds(L.latLngBounds(pts), {...hotelCardPadding(el), maxZoom:16, duration:.6});
   }
   el.querySelector('#fb-close').onclick = hideSearchBanner;
   markNearestPicks(lat, lng, nearest);
@@ -1068,33 +1079,61 @@ function osmHotelMarker(o, cityName){
   osmHotelMarkers.set(key, m);
   return m;
 }
-async function showOsmHotelsNear(stationName, lat, lng){
+// Card docks to the right on desktop (bottom on phones), shows 3 rows and
+// expands on demand, and can be folded to its header so it never sits on
+// top of what you're looking at.
+function hotelCardPadding(el){
+  return isNarrow() ? {paddingTopLeft:[30,70], paddingBottomRight:[30, el.offsetHeight+30]}
+                    : {paddingTopLeft:[50,70], paddingBottomRight:[el.offsetWidth+40, 40]};
+}
+let sightWalkCircle = null;
+async function showOsmHotelsNear(placeName, lat, lng, opts={}){
   const cityId = currentCityId, data = CITIES[cityId];
   const all = await loadOsmHotels(cityId);
   if(cityId !== currentCityId) return;
   const radius = walkMinutes*WALK_SPEED_M_PER_MIN;
   const within = all.map(o=>({o, d:haversineMeters(lat,lng,o[0],o[1])})).filter(x=>x.d<=radius).sort((a,b)=>a.d-b.d);
-  if(!within.length){ showNearestHotelsFallback(stationName, lat, lng); return; }
+  // For a sight, our own picks in walking distance come first.
+  const picks = opts.sight ? data.hotels.filter(h=>h.curated!==false).map(h=>({h, d:haversineMeters(lat,lng,h.lat,h.lng)})).filter(x=>x.d<=radius).sort((a,b)=>a.d-b.d) : [];
+  if(opts.sight){
+    if(sightWalkCircle) map.removeLayer(sightWalkCircle);
+    sightWalkCircle = L.circle([lat,lng], {radius, color:'#1f6fb2', weight:1.5, dashArray:'5 6', fillColor:'#1f6fb2', fillOpacity:.06, interactive:false}).addTo(map);
+  }
+  if(!within.length && !picks.length){
+    if(opts.sight){ showSearchBanner(`No hotels within ${walkMinutes} min walk of ${placeName}.`, 3500); return; }
+    showNearestHotelsFallback(placeName, lat, lng); return;
+  }
   within.forEach(x=> osmHotelMarker(x.o, data.name));
-  const place = /station|airport|terminal/i.test(stationName) ? stationName : `${stationName} Station`;
+  const rows = [
+    ...picks.map(x=>({kind:'pick', x, html:`<div class="fb-name">★ ${x.h.name}</div><div class="fb-meta">Our pick${x.h.rating?' · '+x.h.rating+'★ rated':''}${x.h.stars?' · '+'★'.repeat(x.h.stars):''} · ${Math.max(1,Math.round(x.d/WALK_SPEED_M_PER_MIN))} min walk</div>`})),
+    ...within.map(x=>({kind:'osm', x, html:`<div class="fb-name">${x.o[2]}</div><div class="fb-meta">${x.o[4]?'Hostel':'Hotel'}${x.o[3]?' · '+'★'.repeat(x.o[3]):''} · not rated · ${Math.max(1,Math.round(x.d/WALK_SPEED_M_PER_MIN))} min walk</div>`}))];
+  const place = opts.sight || /station|airport|terminal/i.test(placeName) ? placeName : `${placeName} Station`;
   const el = document.getElementById('search-banner');
   clearTimeout(el._t);
-  const shown = within.slice(0,5);
+  const SHOW = 3;
   el.innerHTML = `
-    <div class="fb-head"><span>${within.length} hotel${within.length>1?'s':''} within ${walkMinutes} min walk of ${stationName}</span><span class="fb-close" id="fb-close">×</span></div>
-    <div class="fb-sub">Not yet rated by us (from OpenStreetMap). Grey dots on the map.</div>
-    ${shown.map((x,i)=>`<div class="fb-row" data-i="${i}"><div class="fb-name">${x.o[2]}</div><div class="fb-meta">${x.o[4]?'Hostel':'Hotel'}${x.o[3]?' · '+'★'.repeat(x.o[3]):''} · ${Math.max(1,Math.round(x.d/WALK_SPEED_M_PER_MIN))} min walk</div></div>`).join('')}
-    ${within.length>shown.length?`<div class="fb-sub">+${within.length-shown.length} more on the map</div>`:''}
-    <a class="fb-book" href="${'https://www.booking.com/searchresults.html?ss='+encodeURIComponent(place+', '+data.name)}" target="_blank" rel="noopener">Prices for all hotels near ${stationName} ↗</a>`;
-  el.classList.add('fallback','show');
-  if(map.getSize().x>0){
-    // Same framing as the nearest-picks card: hotels in view, clear of the card.
+    <div class="fb-head"><span>${rows.length} hotel${rows.length>1?'s':''} within ${walkMinutes} min walk of ${placeName}</span><span class="fb-tools"><span class="fb-fold" id="fb-fold" title="Fold">–</span><span class="fb-close" id="fb-close">×</span></span></div>
+    <div class="fb-body">
+      <div class="fb-sub">${picks.length?'★ = our picks. ':''}Grey dots = hotels from OpenStreetMap, not rated by us.</div>
+      <div class="fb-list">${rows.map((r,i)=>`<div class="fb-row${i>=SHOW?' fb-extra':''}" data-i="${i}">${r.html}</div>`).join('')}</div>
+      ${rows.length>SHOW?`<div class="fb-more" id="fb-more">Show all ${rows.length}</div>`:''}
+      <a class="fb-book" href="${'https://www.booking.com/searchresults.html?ss='+encodeURIComponent(place+', '+data.name)}" target="_blank" rel="noopener">Prices near ${placeName} ↗</a>
+    </div>`;
+  el.classList.remove('folded','expanded');
+  el.classList.add('fallback','dock','show');
+  if(!opts.sight && map.getSize().x>0){
     const pts = [[lat,lng], ...within.map(x=>[x.o[0],x.o[1]])];
-    map.flyToBounds(L.latLngBounds(pts), {paddingTopLeft:[50,70], paddingBottomRight:[50, el.offsetHeight+40], maxZoom:17, duration:.6});
+    map.flyToBounds(L.latLngBounds(pts), {...hotelCardPadding(el), maxZoom:17, duration:.6});
   }
-  el.querySelector('#fb-close').onclick = hideSearchBanner;
+  el.querySelector('#fb-close').onclick = ()=>{ hideSearchBanner(); if(sightWalkCircle){ map.removeLayer(sightWalkCircle); sightWalkCircle=null; } };
+  el.querySelector('#fb-fold').onclick = ()=> el.classList.toggle('folded');
+  const more = el.querySelector('#fb-more'); if(more) more.onclick = ()=>{ el.classList.add('expanded'); more.remove(); };
   el.querySelectorAll('.fb-row').forEach(row=>{
-    row.onclick = ()=>{ const o = shown[+row.dataset.i].o; const m = osmHotelMarker(o, data.name); map.setView([o[0],o[1]], Math.max(map.getZoom(),16)); m.openPopup(); };
+    row.onclick = ()=>{
+      const r = rows[+row.dataset.i];
+      if(r.kind==='pick'){ selectSearchResult({type:'hotel', ref:r.x.h, lat:r.x.h.lat, lng:r.x.h.lng, name:r.x.h.name}); return; }
+      const o = r.x.o; const m = osmHotelMarker(o, data.name); map.setView([o[0],o[1]], Math.max(map.getZoom(),16)); m.openPopup();
+    };
   });
 }
 
@@ -1254,7 +1293,7 @@ function buildSightPopupHTML(s){
 function addSightMarker(s){
   const marker = L.marker([s.lat,s.lng], {icon:sightIcon(s.custom)}).addTo(map);
   marker.bindPopup('', NO_CLOSE_BTN);
-  marker.on('popupopen', ()=> marker.setPopupContent(popupHTML(buildSightPopupHTML(s))));
+  marker.on('popupopen', ()=>{ marker.setPopupContent(popupHTML(buildSightPopupHTML(s))); showOsmHotelsNear(s.name, s.lat, s.lng, {sight:true}); });
   const label = L.marker([s.lat,s.lng], {icon:L.divIcon({className:'sight-label', html:s.name, iconAnchor:[-10,-4]}), interactive:false}).addTo(map);
   sightMarkers.push({marker,label,def:s});
 }
