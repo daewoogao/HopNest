@@ -63,5 +63,10 @@
   "vancouver": {"name":"Vancouver","country":"Canada","flag":"🇨🇦","region":"Americas","aliases":["YVR"]},
   "riodejaneiro": {"name":"Rio de Janeiro","country":"Brazil","flag":"🇧🇷","region":"Americas","aliases":["Rio","GIG","SDU"]},
   "sydney": {"name":"Sydney","country":"Australia","flag":"🇦🇺","region":"Oceania","aliases":["SYD"]},
-  "melbourne": {"name":"Melbourne","country":"Australia","flag":"🇦🇺","region":"Oceania","aliases":["MEL"]}
+  "melbourne": {"name":"Melbourne","country":"Australia","flag":"🇦🇺","region":"Oceania","aliases":["MEL"]},
+  "seattle": {"name":"Seattle","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["SEA","Sea-Tac","Emerald City"]},
+  "philadelphia": {"name":"Philadelphia","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["Philly","PHL"]},
+  "sandiego": {"name":"San Diego","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["SAN","SD"]},
+  "neworleans": {"name":"New Orleans","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["NOLA","MSY","Big Easy"]},
+  "atlanta": {"name":"Atlanta","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["ATL","Hotlanta"]}
 }

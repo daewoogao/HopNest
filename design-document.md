@@ -130,7 +130,8 @@ station/airport/railway stop you tap.
   Toronto, Montreal, São Paulo, Buenos Aires, and batch 6 (2026-10-17):
   Kyoto, Macau, Chengdu, Ho Chi Minh City, Hanoi, Mumbai, Jakarta,
   Riyadh, Doha, Jerusalem, Cairo, Dublin, Edinburgh, Florence, Miami,
-  Las Vegas, Vancouver, Rio de Janeiro, Sydney, Melbourne (65 cities).
+  Las Vegas, Vancouver, Rio de Janeiro, Sydney, Melbourne. Batch 7 (US, 2026-10-18):
+  Seattle, Philadelphia, San Diego, New Orleans, Atlanta (70 cities).
   City-list groups: Asia, Europe, Americas, Africa, Oceania.
 - **City picker** (search redesigned 2026-10-16): a search box that
   matches city name, country, other names (`aliases` in `cities.json`:
@@ -496,6 +497,21 @@ they're done.
 ---
 
 ## Changelog
+
+### 2026-10-18 — batch 7: five more US cities (70 total)
+- Audrey asked for more US cities. Added the most-visited US cities with
+  real city rail that weren't on the site: Seattle (Link 1/2, Monorail,
+  two streetcars), Philadelphia (SEPTA L, B, T1-T5 trolleys, PATCO;
+  suburban D/M lines and NJ River Line left off), San Diego (Trolley
+  Blue/Orange/Green/Copper), New Orleans (St. Charles, Canal x2,
+  Riverfront streetcars; Rampart line missing in OSM), Atlanta (MARTA
+  Red/Gold/Blue/Green, Atlanta Streetcar). Each has curated hotels and
+  sights plus the OpenStreetMap hotel layer. Orlando skipped (no city rail).
+- Gaps: Atlanta Peachtree Station 0 hotels; Seattle airport 2; Philadelphia
+  30th Street 2 (no brand/budget) and PHL 2 shuttle hotels ~2.5 km out;
+  San Diego airport hotels 1.7-2.2 km out (free shuttles) and Mission
+  Valley 3; New Orleans airport 1 shuttle hotel, Union Passenger Terminal 2.
+  Philadelphia and New Orleans show every street stop on trolley lines.
 
 ### 2026-10-18 — second station click hides its hotels
 - Audrey: clicking the same station again should hide the hotels it
