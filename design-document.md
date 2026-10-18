@@ -504,7 +504,12 @@ they're done.
   show B3, the sleepy bed: a kitty-eared sleeper tucked under a blanket
   with "zz", head redrawn per Audrey (pink
   blanket = hotel, mint = hostel), anchored at its base. Replaces the bed
-  badge; the card legend shows the same icon. Our curated picks keep the green diamond.
+  badge; the card legend shows the same icon.
+- Curated picks: Audrey asked for an oil-paint style; nine options drawn
+  (Monet M1-M3, Van Gogh V1-V3, Sisley S1-S3). Chosen: V3, a Van Gogh
+  sunflower with an "H" on swirling blue, in a gold ring. Replaces the
+  green diamond; 28px normally, 34px inside a walk circle, pin badge kept.
+  Served as one data-URI image so many markers stay light.
 
 ### 2026-10-17 — hotel card out of the way; hotels near sights
 - Audrey: the hotel list covered the map after a station click. The card
