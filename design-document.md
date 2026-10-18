@@ -498,6 +498,12 @@ they're done.
 
 ## Changelog
 
+### 2026-10-18 — station clicks always pull in nearby hotels
+- Audrey: in Seattle, a station with any curated pick in walking distance
+  showed no map-data hotels. Now every station click (like sight clicks)
+  lists all hotels in walking distance: our picks first (sunflower, rated),
+  then OpenStreetMap hotels, regardless of whether picks are nearby.
+
 ### 2026-10-18 — batch 7: five more US cities (70 total)
 - Audrey asked for more US cities. Added the most-visited US cities with
   real city rail that weren't on the site: Seattle (Link 1/2, Monorail,

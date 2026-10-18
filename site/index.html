@@ -1117,8 +1117,8 @@ async function showOsmHotelsNear(placeName, lat, lng, opts={}){
   if(cityId !== currentCityId) return;
   const radius = walkMinutes*WALK_SPEED_M_PER_MIN;
   const within = all.map(o=>({o, d:haversineMeters(lat,lng,o[0],o[1])})).filter(x=>x.d<=radius).sort((a,b)=>a.d-b.d);
-  // For a sight, our own picks in walking distance come first.
-  const picks = opts.sight ? data.hotels.filter(h=>h.curated!==false).map(h=>({h, d:haversineMeters(lat,lng,h.lat,h.lng)})).filter(x=>x.d<=radius).sort((a,b)=>a.d-b.d) : [];
+  // Our own picks in walking distance come first.
+  const picks = data.hotels.filter(h=>h.curated!==false).map(h=>({h, d:haversineMeters(lat,lng,h.lat,h.lng)})).filter(x=>x.d<=radius).sort((a,b)=>a.d-b.d);
   if(opts.sight){
     if(sightWalkCircle) map.removeLayer(sightWalkCircle);
     sightWalkCircle = L.circle([lat,lng], {radius, color:'#1f6fb2', weight:1.5, dashArray:'5 6', fillColor:'#1f6fb2', fillOpacity:.06, interactive:false}).addTo(map);
@@ -1197,11 +1197,13 @@ function maybeFetchLiveHotels(stationName, lat, lng){
   // hub, and hotels there are labeled with the station's name, not the airport's.
   const nearbyMatch = data.hotels.some(h => haversineMeters(lat,lng,h.lat,h.lng) <= walkMinutes*WALK_SPEED_M_PER_MIN);
   const alreadyHandCurated = nameMatch || nearbyMatch;
-  if(alreadyHandCurated || liveFetchedKeys.has(key) || liveFetchInFlight.has(key)) return;
+  // Saved map data: every station click lists all hotels in walking distance,
+  // our picks first, whether or not picks are nearby (Audrey).
   if(!LIVE_SEARCH_ENABLED){
     showOsmHotelsNear(stationName, lat, lng);
     return;
   }
+  if(alreadyHandCurated || liveFetchedKeys.has(key) || liveFetchInFlight.has(key)) return;
   fetchLiveHotels(stationName, lat, lng, data.name, key);
 }
 
