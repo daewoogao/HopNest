@@ -84,5 +84,6 @@
   "detroit": {"name":"Detroit","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["DTW","Motor City","Michigan"]},
   "buffalo": {"name":"Buffalo","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["BUF","Niagara","New York State"]},
   "cincinnati": {"name":"Cincinnati","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["CVG","Cincy","Ohio"]},
-  "milwaukee": {"name":"Milwaukee","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["MKE","Brew City","Wisconsin"]}
+  "milwaukee": {"name":"Milwaukee","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["MKE","Brew City","Wisconsin"]},
+  "cleveland": {"name":"Cleveland","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["CLE","The Land","Ohio"]}
 }
