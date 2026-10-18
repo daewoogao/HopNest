@@ -509,6 +509,10 @@ they're done.
 - Changing the walk time (slider or preset) re-runs the hotel lookup for
   the last clicked station or sight, so a station with nothing at 10 min
   can find hotels at 15 min; the dashed nearest-pick lines are removed.
+- No hotels at all (picks or map data) within the walk time: no more
+  dashed lines to far-away picks (Audrey). The card says "No hotels within
+  N min walk" and offers longer-walk buttons (15/20 min, up to the slider
+  max) that re-run the lookup, plus the Booking.com search link.
 - Map-data hotels show as a small rounded "bed" badge (lavender for
   hotels, peach for hostels) instead of grey dots, per Audrey.
 

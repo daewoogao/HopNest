@@ -123,6 +123,9 @@
   #search-banner.dock.folded .fb-head{margin-bottom:0;}
   .fb-tools{display:flex;gap:12px;align-items:center;}
   .fb-fold{cursor:pointer;color:var(--text-dim);font-size:18px;line-height:1;}
+  .fb-walks{display:flex;gap:8px;margin:2px 0 4px;}
+  .fb-walk{flex:1;padding:7px 8px;border-radius:8px;border:1px solid var(--accent);background:transparent;color:#fff;font-size:12.5px;font-weight:600;cursor:pointer;}
+  .fb-walk:hover{background:var(--accent);}
   .fb-more{font-size:12px;color:var(--accent);cursor:pointer;margin:2px 0 4px;}
   .fb-row{padding:7px 8px;border-radius:8px;cursor:pointer;background:var(--panel-2);margin-bottom:5px;}
   .fb-row:hover{outline:1px solid var(--accent);}
@@ -1017,42 +1020,27 @@ function markNearestPicks(lat, lng, picks){
 // Shown instead of a dead-end message when a clicked spot has no stored
 // hotels within the walk radius and live search is off: the nearest
 // always-visible hotels, plus a Booking.com search for that station.
+// Nothing at all (our picks or map data) within the walk time: say so and
+// offer longer walks, instead of linking to far-away hotels. Picking a
+// longer walk re-runs the lookup (rerunHotelQuery).
 function showNearestHotelsFallback(stationName, lat, lng){
   const data = CITIES[currentCityId];
-  const nearest = data.hotels
-    .filter(h => h.curated!==false && (selectedStars.size===0 || selectedStars.has(h.stars)))
-    .map(h => ({h, d:haversineMeters(lat,lng,h.lat,h.lng)}))
-    .sort((a,b)=> a.d-b.d)
-    .slice(0,3);
-
-  const distLabel = d => d <= 2000 ? `${Math.max(1,Math.round(d/WALK_SPEED_M_PER_MIN))} min walk` : `${(d/1000).toFixed(1)} km away`;
+  clearNearestPicks(false);
+  const maxMin = +document.getElementById('walk-slider').max;
+  const longer = [15, 20].filter(m => m > walkMinutes && m <= maxMin);
   const place = /station|airport|terminal/i.test(stationName) ? stationName : `${stationName} Station`;
   const bookingUrl = 'https://www.booking.com/searchresults.html?ss=' + encodeURIComponent(`${place}, ${data.name}`);
   const el = document.getElementById('search-banner');
   clearTimeout(el._t);
   el.innerHTML = `
-    <div class="fb-head"><span>No picks within walking distance of ${stationName}</span><span class="fb-close" id="fb-close">×</span></div>
-    <div class="fb-sub">Nearest hotels we recommend:</div>
-    ${nearest.map((x,i)=>`<div class="fb-row" data-i="${i}"><div class="fb-name">${x.h.name}</div><div class="fb-meta">${x.h.stars?'★'.repeat(x.h.stars)+' · ':''}${x.h.area||''} · ${distLabel(x.d)}</div></div>`).join('')}
+    <div class="fb-head"><span>No hotels within ${walkMinutes} min walk of ${stationName}</span><span class="fb-close" id="fb-close">×</span></div>
+    <div class="fb-sub">${longer.length ? 'Try a longer walk:' : `${walkMinutes} min is the longest walk. Try another station nearby, or search Booking.com.`}</div>
+    ${longer.length ? `<div class="fb-walks">${longer.map(m=>`<button class="fb-walk" data-min="${m}">${m} min walk</button>`).join('')}</div>` : ''}
     <a class="fb-book" href="${bookingUrl}" target="_blank" rel="noopener">Search all hotels near ${stationName} ↗</a>`;
   el.classList.remove('folded','expanded');
   el.classList.add('fallback','dock','show');
-  // Bring the suggested hotels into view next to the clicked station, so
-  // the card's three picks are visible on the map, not just listed. Bottom
-  // padding keeps them clear of the card itself.
-  if(nearest.length && map.getSize().x>0){
-    const pts = [[lat,lng], ...nearest.map(x=>[x.h.lat,x.h.lng])];
-    map.flyToBounds(L.latLngBounds(pts), {...hotelCardPadding(el), maxZoom:16, duration:.6});
-  }
   el.querySelector('#fb-close').onclick = hideSearchBanner;
-  markNearestPicks(lat, lng, nearest);
-  el.querySelectorAll('.fb-row').forEach(row=>{
-    row.onclick = ()=>{
-      const h = nearest[+row.dataset.i].h;
-      hideSearchBanner();
-      selectSearchResult({type:'hotel', ref:h, lat:h.lat, lng:h.lng, name:h.name});
-    };
-  });
+  el.querySelectorAll('.fb-walk').forEach(btn=> btn.onclick = ()=> setWalkMinutes(+btn.dataset.min));
 }
 
 // Station click with no saved picks in walking distance: show every hotel
