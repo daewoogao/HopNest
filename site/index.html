@@ -865,14 +865,15 @@ function loadCity(cityId){
       // interactive; every other line's dot at that station is visual-only.
       const isFirstAtThisSpot = !clickableStationKeys.has(name);
       if(isFirstAtThisSpot) clickableStationKeys.add(name);
-      const dot = L.circleMarker([lat,lng], {radius:5, weight:2, color:'#fff', fillColor:line.color, fillOpacity:1, interactive:isFirstAtThisSpot}).addTo(map);
+      const dot = L.circleMarker([lat,lng], {radius:6, weight:2, color:'#fff', fillColor:line.color, fillOpacity:1, interactive:isFirstAtThisSpot}).addTo(map);
       if(isFirstAtThisSpot){
         dot.on('click', (e)=>{ L.DomEvent.stopPropagation(e); toggleStationCircle(dot, lat, lng, name, line); });
-        // The 5px dot is hard to hit (Audrey), so an invisible 16px ring
+        // The small dot is hard to hit (Audrey), so an invisible 16px ring
         // around it takes the same click.
         const hit = L.circleMarker([lat,lng], {radius:16, stroke:false, fillColor:'#000', fillOpacity:0.001, bubblingMouseEvents:false}).addTo(map);
         hit.on('click', (e)=>{ L.DomEvent.stopPropagation(e); toggleStationCircle(dot, lat, lng, name, line); });
         dot.bringToFront();
+        hit._hitRing = true;
         stationMarkers.push(hit);
       }
       stationMarkers.push(dot);
@@ -1383,7 +1384,7 @@ function render(){
     if(!layer) return;
     const on = activeLines.has(line.id);
     layer.poly.setStyle({opacity:on?.9:0});
-    layer.stationMarkers.forEach(m=> m.setStyle({opacity:on?1:0, fillOpacity:on?1:0}));
+    layer.stationMarkers.forEach(m=> m.setStyle(m._hitRing ? {fillOpacity:on?0.001:0} : {opacity:on?1:0, fillOpacity:on?1:0}));
   });
   updateTransferVisibility();
   updateStationLabelVisibility();

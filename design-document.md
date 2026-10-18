@@ -505,7 +505,9 @@ they're done.
 - Same for sights (Audrey): a second click on a sight closes its popup and
   hides its hotels, card and dashed walk circle.
 - Station dots were hard to hit (Audrey): each clickable station now has an
-  invisible 16px ring around its 5px dot that takes the same click.
+  invisible 16px ring around its dot that takes the same click. Dots
+  went from 5px to 6px radius (Audrey). The ring stays invisible when
+  lines are toggled.
   Clicking empty map (which already turned station circles off) now also
   hides the station's hotels and card.
 
