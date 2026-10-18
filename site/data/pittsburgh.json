@@ -1,0 +1,315 @@
+{
+  "name": "Pittsburgh",
+  "country": "USA",
+  "flag": "🇺🇸",
+  "center": [40.4406,-79.9959],
+  "zoom": 12,
+  "operatingHours": "The T (Red and Blue lines) runs ~5:00 AM–~12:30 AM on weekdays, with fewer trains and shorter hours at weekends; the Silver Line runs a limited, mostly weekday service. Trains every ~10–30 min. No overnight service.",
+  "fareInfo": "PRT base fare $2.75 (2026), valid for 3 hours of unlimited rides on the T, buses and the Monongahela Incline. Pay with a ConnectCard, the PRT mobile ticketing app or exact cash. Day pass ~$7. The T is free between downtown stations and the North Shore (Allegheny, North Side). The 28X Airport Flyer bus costs the same $2.75.",
+  "lines": [
+    {
+      "id": "lblue",
+      "name": "The T Blue Line",
+      "color": "#77B6E4",
+      "code": "Blue",
+      "stations": [
+        ["South Hills Village",40.3393,-80.053],
+        ["Dorchester",40.341,-80.048],
+        ["Bethel Village",40.3444,-80.0462],
+        ["Highland",40.3483,-80.04],
+        ["Casswell",40.3493,-80.034],
+        ["Washington Junction",40.3536,-80.0281],
+        ["Smith Road",40.3569,-80.0292],
+        ["St. Anne's",40.3608,-80.0293],
+        ["Willow",40.3653,-80.0264],
+        ["Memorial Hall",40.3665,-80.0164],
+        ["Killarney",40.3738,-80.0079],
+        ["McNeilly",40.3775,-80.0049],
+        ["South Bank",40.3931,-79.9983],
+        ["Denise",40.3996,-79.999],
+        ["Bon Air",40.4079,-80.0031],
+        ["Boggs",40.4167,-80.0104],
+        ["South Hills Junction",40.4208,-80.0073],
+        ["Station Square",40.4315,-80.0031],
+        ["First Avenue",40.4354,-79.9966],
+        ["Steel Plaza",40.4399,-79.9952],
+        ["Wood Street",40.4421,-79.9994],
+        ["Gateway",40.4418,-80.0041],
+        ["North Side",40.4481,-80.0096],
+        ["Allegheny",40.4479,-80.0178]
+      ]
+    },
+    {
+      "id": "lred",
+      "name": "The T Red Line",
+      "color": "#EC1B24",
+      "code": "Red",
+      "stations": [
+        ["Allegheny",40.4478,-80.0177],
+        ["North Side",40.448,-80.0096],
+        ["Gateway",40.4418,-80.0042],
+        ["Wood Street",40.4421,-79.9995],
+        ["Steel Plaza",40.4399,-79.9952],
+        ["First Avenue",40.4355,-79.9966],
+        ["Station Square",40.4316,-80.0031],
+        ["South Hills Junction",40.4208,-80.0073],
+        ["Palm Garden",40.4161,-80.0118],
+        ["Dawn",40.4129,-80.0109],
+        ["Westfield",40.4105,-80.0201],
+        ["Fallowfield",40.4112,-80.0233],
+        ["Hampshire",40.411,-80.0245],
+        ["Belasco",40.4072,-80.0269],
+        ["Shiras",40.404,-80.0303],
+        ["Stevenson",40.3994,-80.0338],
+        ["Potomac",40.3973,-80.0365],
+        ["Dormont Junction",40.3915,-80.041],
+        ["Mt. Lebanon",40.3824,-80.0434],
+        ["Poplar",40.3752,-80.0384],
+        ["Arlington",40.37,-80.0334],
+        ["Castle Shannon",40.3682,-80.0303],
+        ["Overbrook Junction",40.3658,-80.0271],
+        ["St. Anne's",40.3608,-80.0293],
+        ["Smith Road",40.3569,-80.0293],
+        ["Washington Junction",40.3536,-80.0282],
+        ["Casswell",40.3493,-80.0338],
+        ["Highland",40.3485,-80.0394],
+        ["Bethel Village",40.3439,-80.0467],
+        ["Dorchester",40.341,-80.0481],
+        ["South Hills Village",40.3394,-80.0531]
+      ]
+    },
+    {
+      "id": "lsilver",
+      "name": "The T Silver Line",
+      "color": "#8E9093",
+      "code": "Silver",
+      "stations": [
+        ["Library",40.287,-80.0206],
+        ["West Library",40.2941,-80.0298],
+        ["Sandy Creek",40.2965,-80.0304],
+        ["Beagle",40.3009,-80.0315],
+        ["King's School",40.3082,-80.0332],
+        ["Logan",40.3113,-80.0333],
+        ["Sarah",40.3159,-80.0297],
+        ["Munroe",40.3228,-80.0297],
+        ["South Park",40.3278,-80.0305],
+        ["Mesta",40.3307,-80.0308],
+        ["Lytle",40.3344,-80.031],
+        ["Hillcrest",40.3456,-80.0289],
+        ["Washington Junction",40.3536,-80.0281],
+        ["Smith Road",40.3569,-80.0292],
+        ["St. Anne's",40.3608,-80.0293],
+        ["Willow",40.3653,-80.0264],
+        ["Memorial Hall",40.3665,-80.0164],
+        ["Killarney",40.3738,-80.0079],
+        ["McNeilly",40.3775,-80.0049],
+        ["South Bank",40.3931,-79.9983],
+        ["Denise",40.3996,-79.999],
+        ["Bon Air",40.4079,-80.0031],
+        ["Boggs",40.4167,-80.0104],
+        ["South Hills Junction",40.4208,-80.0073],
+        ["Station Square",40.4315,-80.0031],
+        ["First Avenue",40.4354,-79.9966],
+        ["Steel Plaza",40.4399,-79.9952],
+        ["Wood Street",40.4421,-79.9994],
+        ["Gateway",40.4418,-80.0041],
+        ["North Side",40.4481,-80.0096],
+        ["Allegheny",40.4479,-80.0178]
+      ]
+    }
+  ],
+  "hotels": [
+    {"name":"Hampton Inn & Suites Pittsburgh-Downtown","lat":40.4471,"lng":-79.9924,"area":"Pittsburgh Union Station","rating":4.6,"ratingCount":2554,"stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Drury Plaza Hotel Pittsburgh Downtown","lat":40.443,"lng":-79.995,"area":"Pittsburgh Union Station","rating":4.7,"ratingCount":1072,"stars":3,"priceTier":3},
+    {"name":"Homewood Suites by Hilton Pittsburgh Downtown","lat":40.448,"lng":-79.9899,"area":"Pittsburgh Union Station","rating":4.6,"ratingCount":1010,"stars":3,"priceTier":3},
+    {"name":"Cambria Hotel Pittsburgh - Downtown","lat":40.4402,"lng":-79.9879,"area":"Pittsburgh Union Station","rating":4.5,"ratingCount":1398,"stars":3,"priceTier":3},
+    {"name":"The Westin Pittsburgh","lat":40.4443,"lng":-79.9947,"area":"Pittsburgh Union Station","rating":4,"ratingCount":1088,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hilton Garden Inn Pittsburgh Airport","lat":40.5019,"lng":-80.2232,"area":"Pittsburgh International Airport","rating":4.5,"ratingCount":451,"stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Sheraton Pittsburgh Airport Hotel","lat":40.5019,"lng":-80.21,"area":"Pittsburgh International Airport","rating":4,"ratingCount":473,"stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Pittsburgh Airport Inn & Suites","lat":40.508,"lng":-80.2244,"area":"Pittsburgh International Airport","rating":4.1,"ratingCount":909,"stars":2,"priceTier":2},
+    {"name":"Kimpton Hotel Monaco Pittsburgh by IHG","lat":40.4414,"lng":-79.9963,"area":"Downtown","rating":4.6,"ratingCount":1465,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Fairmont Pittsburgh","lat":40.4415,"lng":-80.0018,"area":"Downtown","rating":4.4,"ratingCount":1246,"stars":4,"priceTier":4,"brandAnchor":true},
+    {"name":"Omni William Penn Hotel","lat":40.4406,"lng":-79.9966,"area":"Downtown","rating":4.5,"ratingCount":5724,"stars":4,"priceTier":3},
+    {"name":"The Atterbury Hotel, Autograph Collection","lat":40.4438,"lng":-80.0023,"area":"Downtown","rating":4.3,"ratingCount":2136,"stars":4,"priceTier":3},
+    {"name":"Hilton Garden Inn Pittsburgh Downtown","lat":40.4402,"lng":-80.0016,"area":"Downtown","rating":4.4,"ratingCount":690,"stars":3,"priceTier":2},
+    {"name":"Hyatt Place Pittsburgh-North Shore","lat":40.4467,"lng":-80.0088,"area":"North Shore","rating":4.1,"ratingCount":2297,"stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Residence Inn by Marriott Pittsburgh North Shore","lat":40.448,"lng":-80.0072,"area":"North Shore","rating":4.2,"ratingCount":848,"stars":3,"priceTier":3},
+    {"name":"SpringHill Suites by Marriott Pittsburgh North Shore","lat":40.4486,"lng":-80.0047,"area":"North Shore","rating":4.1,"ratingCount":861,"stars":3,"priceTier":2},
+    {"name":"Holiday Inn Express & Suites Pittsburgh North Shore by IHG","lat":40.4489,"lng":-80.0041,"area":"North Shore","rating":4.1,"ratingCount":315,"stars":2,"priceTier":2}
+  ],
+  "sights": [
+    {
+      "name": "Duquesne Incline",
+      "lat": 40.4385,
+      "lng": -80.0181,
+      "note": "An 1877 cable car that hauls riders up Mount Washington; the upper station's deck has the classic view of the Point and the three rivers.",
+      "hours": "Daily 6:30 AM–12:30 AM; pay the fare in cash or with a ConnectCard",
+      "rating": 4.5
+    },
+    {
+      "name": "Phipps Conservatory and Botanical Gardens",
+      "lat": 40.4389,
+      "lng": -79.9476,
+      "note": "A Victorian glasshouse in Schenley Park with themed rooms, seasonal flower shows and outdoor gardens.",
+      "hours": "9:30 AM–5:00 PM daily, till 10:00 PM Fri",
+      "rating": 4.8,
+      "ticketUrl": "https://www.phipps.conservatory.org"
+    },
+    {
+      "name": "PNC Park",
+      "lat": 40.4469,
+      "lng": -80.0057,
+      "note": "The Pirates' riverside ballpark, often rated the best in baseball, with the skyline and the Clemente Bridge beyond the outfield.",
+      "hours": "Pirates home games Apr–Sep; 90-minute ballpark tours on select days",
+      "rating": 4.8,
+      "ticketUrl": "https://www.mlb.com/pirates/ballpark/tours",
+      "bookAhead": true
+    },
+    {
+      "name": "Strip District",
+      "lat": 40.4515,
+      "lng": -79.984,
+      "note": "A half-mile of produce stalls, fish mongers, ethnic grocers and sports-merch stands along Penn Avenue; busiest and best on Saturday mornings.",
+      "hours": "Most shops ~8:00 AM–5:00 PM, some closed Sun",
+      "rating": 4.5
+    },
+    {
+      "name": "Carnegie Museum of Natural History",
+      "lat": 40.4433,
+      "lng": -79.9497,
+      "note": "Famous for its Dinosaur Hall of real skeletons, plus gems and Egyptian galleries; it shares a building with the Carnegie Museum of Art.",
+      "hours": "10:00 AM–5:00 PM, till 8:00 PM Thu, closed Tue",
+      "rating": 4.7,
+      "ticketUrl": "https://carnegiemnh.org"
+    },
+    {
+      "name": "Senator John Heinz History Center",
+      "lat": 40.4469,
+      "lng": -79.9921,
+      "note": "Six floors of western Pennsylvania history in a former ice warehouse, including Mister Rogers' set and the Western PA Sports Museum.",
+      "hours": "10:00 AM–5:00 PM daily",
+      "rating": 4.6,
+      "ticketUrl": "https://www.heinzhistorycenter.org"
+    },
+    {
+      "name": "National Aviary",
+      "lat": 40.4532,
+      "lng": -80.0154,
+      "note": "America's national bird zoo, with walk-through habitats, penguins and flight shows on the edge of Allegheny Commons park.",
+      "hours": "10:00 AM–5:00 PM, closed Tue",
+      "rating": 4.5,
+      "ticketUrl": "https://www.aviary.org"
+    },
+    {
+      "name": "Mount Washington (Grandview Avenue)",
+      "lat": 40.437,
+      "lng": -80.011,
+      "note": "Free overlooks along Grandview Avenue give the best view of downtown, especially at dusk; reach them by either incline.",
+      "hours": "Overlooks open 24 hours",
+      "rating": 4.7
+    },
+    {
+      "name": "Bicycle Heaven",
+      "lat": 40.4608,
+      "lng": -80.0295,
+      "note": "A sprawling, free-spirited bicycle museum and shop with thousands of vintage bikes, from Pee-wee Herman's to rare Schwinns.",
+      "hours": "10:00 AM–7:00 PM daily",
+      "rating": 4.9,
+      "ticketUrl": "https://www.bicycleheaven.org"
+    },
+    {
+      "name": "Randyland",
+      "lat": 40.4572,
+      "lng": -80.0088,
+      "note": "Artist Randy Gilson's riot-of-colour house and courtyard in the Mexican War Streets, painted with murals and found objects.",
+      "hours": "Daily, ~10:00 AM–6:00 PM; free (donations welcome)",
+      "rating": 4.6
+    },
+    {
+      "name": "Pittsburgh Zoo & Aquarium",
+      "lat": 40.4846,
+      "lng": -79.921,
+      "note": "A hillside zoo in Highland Park with elephants, big cats and a large aquarium wing.",
+      "hours": "~9:30 AM–5:30 PM (last entry 4:30 PM); shorter winter hours",
+      "rating": 4.2,
+      "ticketUrl": "https://www.pittsburghzoo.org"
+    },
+    {
+      "name": "The Andy Warhol Museum",
+      "lat": 40.4483,
+      "lng": -80.0025,
+      "note": "Seven floors devoted to Pittsburgh-born Andy Warhol, the largest single-artist museum in North America.",
+      "hours": "10:00 AM–5:00 PM, till 8:00 PM Fri, closed Tue",
+      "rating": 4.3,
+      "ticketUrl": "https://www.warhol.org"
+    },
+    {
+      "name": "Cathedral of Learning",
+      "lat": 40.4443,
+      "lng": -79.9532,
+      "note": "The University of Pittsburgh's 42-storey Gothic tower, with a vaulted ground-floor hall and 31 Nationality Rooms decorated by local ethnic communities.",
+      "hours": "Building open daily; Nationality Rooms visitable when not in use for classes, ~9:00 AM–4:00 PM",
+      "rating": 4.6
+    },
+    {
+      "name": "Kamin Science Center",
+      "lat": 40.4455,
+      "lng": -80.0181,
+      "note": "A hands-on science museum by the Ohio River with a planetarium, a giant model railroad and a WWII submarine moored outside.",
+      "hours": "10:00 AM–5:00 PM daily",
+      "rating": 4.4,
+      "ticketUrl": "https://kaminsciencecenter.org"
+    },
+    {
+      "name": "Monongahela Incline",
+      "lat": 40.4318,
+      "lng": -80.0054,
+      "note": "The oldest working funicular in the US (1870), climbing from across the street from Station Square T stop to Grandview Avenue.",
+      "hours": "~5:30 AM–12:45 AM Mon–Sat, ~8:45 AM–midnight Sun; standard PRT fare",
+      "rating": 4.4
+    },
+    {
+      "name": "Point State Park",
+      "lat": 40.4417,
+      "lng": -80.0122,
+      "note": "The green tip of downtown where the rivers meet, with a big fountain, riverside lawns and the Fort Pitt Museum.",
+      "hours": "Park open sunrise–11:00 PM",
+      "rating": 4.5
+    },
+    {
+      "name": "Market Square",
+      "lat": 40.4409,
+      "lng": -80.0024,
+      "note": "Downtown's lively central plaza, ringed by restaurants and bars, with seasonal farmers' markets and a winter ice rink nearby.",
+      "hours": "Open 24 hours",
+      "rating": 4.2
+    },
+    {
+      "name": "Roberto Clemente Bridge",
+      "lat": 40.4453,
+      "lng": -80.0026,
+      "note": "A golden 1928 suspension bridge between downtown and PNC Park, closed to cars and packed with fans on game days.",
+      "hours": "Open 24 hours",
+      "rating": 4.5
+    }
+  ],
+  "railStations": [
+    {
+      "name": "Pittsburgh Union Station",
+      "lat": 40.4451,
+      "lng": -79.9925,
+      "note": "Amtrak station under the old Pennsylvania Railroad rotunda. The daily Pennsylvanian goes to Harrisburg, Philadelphia and New York (~9 h), and the long-distance Floridian runs to Chicago and to Washington and Miami. Steel Plaza T station is a ~7-minute walk.",
+      "hours": "Waiting room open around the clock for the overnight Floridian; few trains a day, check timetables."
+    }
+  ],
+  "airports": [
+    {
+      "name": "Pittsburgh International Airport",
+      "code": "PIT",
+      "lat": 40.4961,
+      "lng": -80.2461,
+      "transitNote": "The T doesn't go to the airport. PRT's 28X Airport Flyer bus (not on this map; $2.75) leaves from the new terminal's ground-transport level and runs to downtown in ~40 min, then to Oakland, every 30–40 min. A taxi or rideshare to downtown takes ~25–30 min.",
+      "hours": "28X: first ~5:00 AM, last ~midnight."
+    }
+  ]
+}

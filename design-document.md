@@ -132,7 +132,7 @@ station/airport/railway stop you tap.
   Riyadh, Doha, Jerusalem, Cairo, Dublin, Edinburgh, Florence, Miami,
   Las Vegas, Vancouver, Rio de Janeiro, Sydney, Melbourne. Batch 7 (US, 2026-10-18):
   Seattle, Philadelphia, San Diego, New Orleans, Atlanta. Batch 8 (US, 2026-10-18):
-  Portland, Honolulu, Denver, Dallas, Baltimore, Minneapolis–Saint Paul, Salt Lake City, Houston, Phoenix, St. Louis (80 cities).
+  Portland, Honolulu, Denver, Dallas, Baltimore, Minneapolis–Saint Paul, Salt Lake City, Houston, Phoenix, St. Louis, Pittsburgh (81 cities).
   City-list groups: Asia, Europe, Americas, Africa, Oceania.
 - **City picker** (search redesigned 2026-10-16): a search box that
   matches city name, country, other names (`aliases` in `cities.json`:
@@ -499,7 +499,7 @@ they're done.
 
 ## Changelog
 
-### 2026-10-18 — batch 8: more US cities overnight (80 total)
+### 2026-10-18 — batch 8: more US cities overnight (81 total)
 - Audrey asked for as many more US cities as possible overnight. Added so
   far: Portland (MAX Blue/Red/Green/Yellow/Orange, Streetcar NS/A/B).
 - Gaps: Portland airport hotels are shuttle or Cascade Station hotels
@@ -534,6 +534,9 @@ they're done.
   (none on airport grounds); Midtown 3.
 - St. Louis: MetroLink Red (airport) and Blue. Gaps: Gateway Station 2;
   Central West End 1; Delmar Loop 1; Downtown has no budget pick.
+- Pittsburgh: The T Red/Blue/Silver light rail (airport by 28X bus, not
+  drawn). Gaps: airport hotels are 3 shuttle hotels 2-3 km out; North
+  Shore has no tier-4 pick; only 2 neighbourhood areas on the T.
 
 ### 2026-10-18 — station clicks always pull in nearby hotels
 - Audrey: in Seattle, a station with any curated pick in walking distance
