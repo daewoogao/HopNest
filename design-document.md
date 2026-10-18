@@ -236,6 +236,17 @@ one hotel per area, since brand recognition reduces booking anxiety for
 Western travelers; ≥100-review volume floor; price-tier spread required;
 capped at 3–5 hotels per area.
 
+Two more rules (Audrey, 2026-10-18):
+- **Red flags drop a hotel.** Before a hotel is picked, skim its recent
+  reviews. Repeated complaints (3 or more) about a wrong map location,
+  discrimination, mould or hygiene, or closure rule it out, whatever
+  its rating.
+- **Monthly refresh.** Every city's picks are re-checked once a month:
+  current rating and review count, recent red flags, permanent
+  closures. A hotel that falls below the floor, closes, or shows red
+  flags is taken off the map (marked hidden, not deleted, so hotel
+  numbers and shared pins stay stable), and the area's gap is recorded.
+
 ### Sightseeing selection
 
 Sights have no separate spec file; these are the rules, gathered from the
@@ -499,6 +510,15 @@ they're done.
 ---
 
 ## Changelog
+
+### 2026-10-18 — booking link on our picks; two more curation rules
+- Every hand-picked (sunflower) hotel's popup now has a "Check prices on
+  Booking.com" button: a Booking.com search for the hotel's name and
+  city, the same kind of link the map-data hotels already had. No price
+  is shown, since we have no live rates. An affiliate ID can be added to
+  this one link later.
+- Audrey added two curation rules to §4: red-flag reviews rule a hotel
+  out, and every city's picks are re-checked monthly.
 
 ### 2026-10-18 — batch 9: more US cities (94 total)
 - Audrey asked for more US cities with rail or streetcars.
