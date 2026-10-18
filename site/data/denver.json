@@ -1,0 +1,394 @@
+{
+  "name": "Denver",
+  "country": "USA",
+  "flag": "🇺🇸",
+  "center": [39.7392,-104.9903],
+  "zoom": 12,
+  "operatingHours": "Light rail and the A Line run ~3:30–4:30 AM to ~1:00–1:30 AM daily; there is no overnight rail service. The A Line runs every 15 min most of the day (~30 min early and late); light rail lines run every 15–30 min.",
+  "fareInfo": "One flat local fare: a $2.75 3-Hour Pass covers any light rail or bus trip with unlimited transfers for 3 hours; a Day Pass is $5.50 (2026). Trips to or from Denver Airport need the $10 Airport Day Pass, valid systemwide all day. Pay by tapping a contactless bank card or phone (fares cap automatically to day/month passes), in the RTD MyRide/NextRide app, or at station ticket machines. Riders 19 and under ride free.",
+  "lines": [
+    {
+      "id": "la",
+      "name": "A Line",
+      "color": "#54C0E8",
+      "code": "A",
+      "stations": [
+        ["Union Station",39.7536,-105.0004],
+        ["38th & Blake",39.7709,-104.9735],
+        ["40th & Colorado",39.7761,-104.9421],
+        ["Central Park",39.7706,-104.8911],
+        ["Peoria",39.7675,-104.8504],
+        ["40th & Airport/Gateway Park",39.7699,-104.7876],
+        ["61st & Peña",39.8073,-104.784],
+        ["Denver Airport",39.8467,-104.6741]
+      ]
+    },
+    {
+      "id": "lb",
+      "name": "B Line",
+      "color": "#4C9C2E",
+      "code": "B",
+      "stations": [["Union Station",39.754,-105.0007],["41st & Fox",39.7734,-104.9968],["Pecos Junction",39.8053,-105.0054],["Westminster",39.8227,-105.0291]]
+    },
+    {
+      "id": "ld",
+      "name": "D Line",
+      "color": "#047835",
+      "code": "D",
+      "stations": [
+        ["Littleton - Mineral",39.5806,-105.0248],
+        ["Littleton Downtown",39.6122,-105.0147],
+        ["Oxford - City of Sheridan",39.6432,-105.0047],
+        ["Englewood",39.656,-104.9997],
+        ["Evans",39.6781,-104.9927],
+        ["I-25 & Broadway",39.7021,-104.9901],
+        ["Alameda",39.7086,-104.9931],
+        ["10th and Osage",39.7321,-105.0057],
+        ["Colfax at Auraria",39.7403,-105.0017],
+        ["Theatre District / Convention Center",39.7439,-104.9959],
+        ["16th & California",39.745,-104.9924],
+        ["18th & California",39.7468,-104.99]
+      ]
+    },
+    {
+      "id": "le",
+      "name": "E Line",
+      "color": "#691F74",
+      "code": "E",
+      "stations": [
+        ["Union Station",39.755,-105.0034],
+        ["Ball Arena / Elitch Gardens",39.7484,-105.0102],
+        ["Empower Field at Mile High",39.7434,-105.0128],
+        ["Auraria West Campus",39.7413,-105.0107],
+        ["10th and Osage",39.7315,-105.0055],
+        ["Alameda",39.7082,-104.9929],
+        ["I-25 & Broadway",39.7015,-104.9902],
+        ["Louisiana & Pearl",39.6928,-104.9782],
+        ["University of Denver",39.6851,-104.9645],
+        ["Colorado",39.6796,-104.9374],
+        ["Yale",39.6683,-104.927],
+        ["Southmoor",39.6483,-104.9162],
+        ["Belleview",39.6273,-104.9043],
+        ["Orchard",39.6133,-104.8961],
+        ["Arapahoe at Village Center",39.5999,-104.8883],
+        ["Dry Creek",39.5785,-104.8764],
+        ["County Line",39.5614,-104.8723],
+        ["Lincoln",39.546,-104.8697],
+        ["Sky Ridge",39.5321,-104.8703],
+        ["Lone Tree City Center",39.5277,-104.8632],
+        ["RidgeGate Parkway",39.5206,-104.8655]
+      ]
+    },
+    {
+      "id": "lg",
+      "name": "G Line",
+      "color": "#F4B223",
+      "code": "G",
+      "stations": [
+        ["Union Station",39.7539,-105.0007],
+        ["41st & Fox",39.7734,-104.9968],
+        ["Pecos Junction",39.8053,-105.0054],
+        ["Clear Creek - Federal",39.804,-105.0237],
+        ["60th & Sheridan - Arvada Gold Strike",39.8036,-105.0495],
+        ["Olde Town Arvada",39.799,-105.0803],
+        ["Arvada Ridge",39.7926,-105.1115],
+        ["Wheat Ridge / Ward Road",39.7881,-105.133]
+      ]
+    },
+    {
+      "id": "lh",
+      "name": "H Line",
+      "color": "#0055B8",
+      "code": "H",
+      "stations": [
+        ["18th & Stout",39.748,-104.9903],
+        ["16th & Stout",39.7461,-104.9929],
+        ["Theatre District / Convention Center",39.7439,-104.9964],
+        ["Colfax at Auraria",39.7403,-105.0025],
+        ["10th and Osage",39.7315,-105.0055],
+        ["Alameda",39.7082,-104.9929],
+        ["I-25 & Broadway",39.7015,-104.9902],
+        ["Louisiana & Pearl",39.6928,-104.9782],
+        ["University of Denver",39.6851,-104.9645],
+        ["Colorado",39.6796,-104.9374],
+        ["Yale",39.6683,-104.927],
+        ["Southmoor",39.6483,-104.9162],
+        ["Dayton",39.6431,-104.8776],
+        ["Nine Mile",39.6577,-104.8447],
+        ["Iliff",39.6733,-104.8268],
+        ["Florida",39.69,-104.8284]
+      ]
+    },
+    {
+      "id": "ll",
+      "name": "L Line",
+      "color": "#FFCD00",
+      "code": "L",
+      "stations": [
+        ["16th & California",39.745,-104.9924],
+        ["18th & California",39.7468,-104.99],
+        ["20th & Welton",39.748,-104.9867],
+        ["25th & Welton",39.7533,-104.9798],
+        ["27th & Welton",39.7553,-104.9773],
+        ["30th & Downing",39.7592,-104.9735]
+      ]
+    },
+    {
+      "id": "ln",
+      "name": "N Line",
+      "color": "#904199",
+      "code": "N",
+      "stations": [
+        ["Union Station Track 2",39.7536,-105.0005],
+        ["48th & Brighton at National Western Center",39.7851,-104.9679],
+        ["Commerce City & 72nd",39.8266,-104.9431],
+        ["Original Thornton & 88th",39.8592,-104.9529],
+        ["Thornton Crossroads & 104th",39.8824,-104.9427],
+        ["Northglenn & 112th",39.9031,-104.9601],
+        ["Eastlake & 124th",39.9233,-104.9623]
+      ]
+    },
+    {
+      "id": "lr",
+      "name": "R Line",
+      "color": "#C1D32F",
+      "code": "R",
+      "stations": [
+        ["Lincoln",39.546,-104.8696],
+        ["County Line",39.562,-104.8722],
+        ["Dry Creek",39.5791,-104.8767],
+        ["Arapahoe at Village Center",39.6006,-104.8886],
+        ["Orchard",39.6138,-104.8963],
+        ["Belleview",39.6279,-104.9045],
+        ["Dayton",39.6431,-104.8776],
+        ["Nine Mile",39.6577,-104.8447],
+        ["Iliff",39.6733,-104.8268],
+        ["Florida",39.69,-104.8284],
+        ["Aurora Metro Center",39.7088,-104.8191],
+        ["2nd Avenue & Abilene",39.7195,-104.8256],
+        ["13th Avenue",39.7354,-104.8235],
+        ["Colfax",39.7405,-104.827],
+        ["Fitzsimons",39.755,-104.8405],
+        ["Peoria",39.7674,-104.8505]
+      ]
+    },
+    {
+      "id": "lw",
+      "name": "W Line",
+      "color": "#0091B3",
+      "code": "W",
+      "stations": [
+        ["Union Station",39.755,-105.0034],
+        ["Ball Arena / Elitch Gardens",39.7484,-105.0102],
+        ["Empower Field at Mile High",39.7434,-105.0128],
+        ["Auraria West Campus",39.7413,-105.0107],
+        ["Decatur Federal",39.7372,-105.0243],
+        ["Knox",39.7357,-105.0332],
+        ["Perry",39.7348,-105.0404],
+        ["Sheridan",39.7352,-105.0536],
+        ["Lamar",39.7367,-105.0668],
+        ["Lakewood - Wadsworth",39.7367,-105.0819],
+        ["Garrison",39.7366,-105.0997],
+        ["Oak",39.7374,-105.1203],
+        ["Federal Center",39.72,-105.1294],
+        ["Red Rocks College",39.7251,-105.1526],
+        ["Jeffco Government Center",39.7265,-105.2012]
+      ]
+    }
+  ],
+  "hotels": [
+    {"name":"The Crawford Hotel","lat":39.7534,"lng":-105,"area":"Denver Union Station","rating":4.7,"ratingCount":2304,"stars":4,"priceTier":4},
+    {"name":"The Oxford Hotel","lat":39.7522,"lng":-104.9993,"area":"Denver Union Station","rating":4.6,"ratingCount":2019,"stars":4,"priceTier":3},
+    {"name":"Hotel Indigo Denver Downtown-Union Station by IHG","lat":39.7556,"lng":-104.9999,"area":"Denver Union Station","rating":4.3,"ratingCount":551,"stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Hilton Garden Inn Denver Union Station","lat":39.7577,"lng":-104.9994,"area":"Denver Union Station","rating":4.1,"ratingCount":353,"stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Hostel Fish","lat":39.7526,"lng":-104.9919,"area":"Denver Union Station","rating":4.3,"ratingCount":168,"stars":1,"priceTier":1},
+    {"name":"The Westin Denver International Airport","lat":39.8476,"lng":-104.6739,"area":"Denver International Airport","rating":4.3,"ratingCount":1634,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hyatt Regency Denver at Colorado Convention Center","lat":39.7434,"lng":-104.9936,"area":"Downtown","rating":4.5,"ratingCount":7674,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Embassy Suites by Hilton Denver Downtown Convention Center","lat":39.7441,"lng":-104.9948,"area":"Downtown","rating":4.4,"ratingCount":4176,"stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Homewood Suites by Hilton Denver Downtown-Convention Center","lat":39.7431,"lng":-104.9926,"area":"Downtown","rating":4.5,"ratingCount":1978,"stars":3,"priceTier":3},
+    {"name":"Hyatt Place Denver/Downtown","lat":39.7416,"lng":-104.9929,"area":"Downtown","rating":4.3,"ratingCount":1717,"stars":3,"priceTier":3},
+    {"name":"Hotel Teatro","lat":39.7461,"lng":-104.9985,"area":"Downtown","rating":4.4,"ratingCount":1963,"stars":4,"priceTier":4},
+    {"name":"Catbird Hotel","lat":39.7696,"lng":-104.9724,"area":"RiNo","rating":4.3,"ratingCount":598,"stars":4,"priceTier":3},
+    {"name":"Vīb Hotel by Best Western Denver RiNo","lat":39.7708,"lng":-104.9777,"area":"RiNo","rating":4.1,"ratingCount":102,"stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Kimpton Claret Hotel by IHG","lat":39.6261,"lng":-104.9058,"area":"Denver Tech Center","rating":4.3,"ratingCount":30,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hilton Garden Inn Denver Tech Center","lat":39.629,"lng":-104.901,"area":"Denver Tech Center","rating":4,"ratingCount":975,"stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Hyatt Regency Denver Tech Center","lat":39.6304,"lng":-104.8989,"area":"Denver Tech Center","rating":4,"ratingCount":2112,"stars":4,"priceTier":3},
+    {"name":"Hampton Inn & Suites Denver Tech Center","lat":39.6266,"lng":-104.8961,"area":"Denver Tech Center","rating":4.2,"ratingCount":926,"stars":3,"priceTier":2}
+  ],
+  "sights": [
+    {
+      "name": "Denver Botanic Gardens",
+      "lat": 39.732,
+      "lng": -104.9597,
+      "note": "Twenty-four acres of themed gardens beside Cheesman Park, from a Japanese garden to high-plains and alpine plantings and a domed tropical conservatory.",
+      "hours": "9:00 AM–4:00 PM to Nov 18; 9:00 AM–2:30 PM Nov 19–Dec 31 (holiday lights in the evening are separately ticketed); 9:00 AM–8:00 PM in summer",
+      "rating": 4.7,
+      "ticketUrl": "https://www.botanicgardens.org",
+      "bookAhead": true
+    },
+    {
+      "name": "Denver Union Station",
+      "lat": 39.753,
+      "lng": -105.0002,
+      "note": "The restored 1914 Beaux-Arts rail terminal, now a hotel, bar and food hall around a grand waiting room and the hub for the A Line and light rail.",
+      "hours": "Great Hall open daily from early morning to late night; shops and bars keep their own hours",
+      "rating": 4.5
+    },
+    {
+      "name": "Denver Museum of Nature & Science",
+      "lat": 39.7476,
+      "lng": -104.943,
+      "note": "Dinosaurs, gems, Egyptian mummies, a planetarium and an IMAX screen in City Park, with a classic skyline-and-mountain view from the back steps.",
+      "hours": "9:00 AM–5:00 PM daily (closed Dec 25)",
+      "rating": 4.6,
+      "ticketUrl": "https://www.dmns.org"
+    },
+    {
+      "name": "Coors Field",
+      "lat": 39.7559,
+      "lng": -104.9942,
+      "note": "Home of the Colorado Rockies in LoDo, with a row of purple seats marking exactly one mile above sea level.",
+      "hours": "Rockies home games ~Apr–Sep; guided ballpark tours run most days year-round",
+      "rating": 4.6,
+      "ticketUrl": "https://www.mlb.com/rockies"
+    },
+    {
+      "name": "Molly Brown House Museum",
+      "lat": 39.7375,
+      "lng": -104.9807,
+      "note": "The Victorian home of Titanic survivor Margaret 'Molly' Brown, seen on a 45-minute guided tour of period rooms.",
+      "hours": "Wed–Sun 10:00 AM–5:00 PM (Thu to 7:00 PM), last entry 1 hour before close; closed Mon–Tue",
+      "rating": 4.4,
+      "ticketUrl": "https://mollybrown.org/plan-your-visit/",
+      "bookAhead": true
+    },
+    {
+      "name": "Denver Art Museum",
+      "lat": 39.7372,
+      "lng": -104.9893,
+      "note": "Two striking buildings, one a titanium-clad Libeskind design, holding major Indigenous American, Western and modern collections.",
+      "hours": "10:00 AM–5:00 PM, Tue to 8:00 PM; closed Wed",
+      "rating": 4.5,
+      "ticketUrl": "https://www.denverartmuseum.org/en/plan-your-visit"
+    },
+    {
+      "name": "Denver Zoo",
+      "lat": 39.75,
+      "lng": -104.951,
+      "note": "An 80-acre zoo in City Park known for its Asian Tropics elephant habitat and big-cat, primate and bear areas.",
+      "hours": "Open daily, ~9:00 AM–5:00 PM in the warm months and ~10:00 AM–4:00 PM in winter",
+      "rating": 4.4,
+      "ticketUrl": "https://denverzoo.org"
+    },
+    {
+      "name": "Downtown Aquarium",
+      "lat": 39.752,
+      "lng": -105.0134,
+      "note": "A riverside aquarium with tiger and shark exhibits and a restaurant built around a huge tank.",
+      "hours": "Mon–Thu & Sun 10:00 AM–8:00 PM, Fri–Sat 10:00 AM–9:00 PM",
+      "rating": 3.9
+    },
+    {
+      "name": "Wings Over the Rockies Air & Space Museum",
+      "lat": 39.7213,
+      "lng": -104.8955,
+      "note": "Historic military jets, a B-52 and space exhibits inside a 1930s hangar at the former Lowry Air Force Base.",
+      "hours": "10:00 AM–5:00 PM daily",
+      "rating": 4.3,
+      "ticketUrl": "https://wingsmuseum.org"
+    },
+    {
+      "name": "Empower Field at Mile High",
+      "lat": 39.7439,
+      "lng": -105.0201,
+      "note": "The Denver Broncos' stadium beside the light rail, with a team hall of fame and behind-the-scenes stadium tours.",
+      "hours": "Broncos home games ~Sep–Jan; stadium tours on most non-event days",
+      "rating": 4.5
+    },
+    {
+      "name": "United States Mint at Denver",
+      "lat": 39.7395,
+      "lng": -104.9923,
+      "note": "A free hour-long tour of the 1906 mint, where most U.S. circulating coins carrying a 'D' mark are struck.",
+      "hours": "Free tours Mon–Thu at 7:15, 8:30, 9:45, 11:30 AM, 12:45 & 2:00 PM; online reservation required (up to 30 days ahead); ages 7+",
+      "rating": 4.1,
+      "ticketUrl": "https://www.usmint.gov/about/tours-and-locations/denver/tour-denver-mint",
+      "bookAhead": true
+    },
+    {
+      "name": "Forney Museum of Transportation",
+      "lat": 39.7766,
+      "lng": -104.9705,
+      "note": "A sprawling hall of vintage cars, carriages and locomotives, including the giant Union Pacific 'Big Boy' steam engine.",
+      "hours": "Thu–Mon 10:00 AM–5:00 PM; closed Tue–Wed",
+      "rating": 4.5
+    },
+    {
+      "name": "Meow Wolf's Convergence Station",
+      "lat": 39.7408,
+      "lng": -105.0158,
+      "note": "A four-storey walk-through immersive art installation of neon worlds, hidden passages and a puzzle-like storyline.",
+      "hours": "Hours vary by day; entry only at your ticketed time",
+      "rating": 4,
+      "ticketUrl": "https://meowwolf.com/visit/denver",
+      "bookAhead": true
+    },
+    {
+      "name": "Larimer Square",
+      "lat": 39.7478,
+      "lng": -104.9989,
+      "note": "Denver's oldest block, a strip of Victorian storefronts with restaurants and bars under strings of overhead lights.",
+      "hours": "Open-air street, always open; shops and restaurants keep their own hours",
+      "rating": 4.2
+    },
+    {
+      "name": "Colorado State Capitol",
+      "lat": 39.7393,
+      "lng": -104.9848,
+      "note": "The gold-domed statehouse, with a step marked one mile high and a free guided tour that climbs to the dome.",
+      "hours": "Mon–Fri 7:30 AM–5:00 PM; free tours on the hour 10:00 AM–3:00 PM (dome on tours only); closed weekends",
+      "rating": 4.4
+    },
+    {
+      "name": "Washington Park",
+      "lat": 39.699,
+      "lng": -104.9715,
+      "note": "A favourite local park with two lakes, flower gardens and a loop path popular with runners and cyclists.",
+      "hours": "Open daily ~5:00 AM–11:00 PM",
+      "rating": 4.5
+    },
+    {
+      "name": "Denver Central Market",
+      "lat": 39.76,
+      "lng": -104.9832,
+      "note": "A food hall in a converted RiNo warehouse with stalls for pizza, tacos, pastries, coffee and a central bar.",
+      "hours": "Daily ~8:00 AM–9:00 PM (individual stalls vary)"
+    },
+    {
+      "name": "RiNo Art District",
+      "lat": 39.7625,
+      "lng": -104.9815,
+      "note": "Former warehouse streets in River North covered with large murals, plus breweries and galleries along Larimer and Walnut.",
+      "hours": "Outdoor murals always viewable; galleries and bars keep their own hours"
+    }
+  ],
+  "railStations": [
+    {
+      "name": "Denver Union Station",
+      "lat": 39.7531,
+      "lng": -105.0002,
+      "note": "Amtrak's California Zephyr (Chicago–San Francisco Bay Area) stops daily, plus the seasonal Winter Park Express ski train. Downtown's transit hub: the A Line to the airport, the B/G/N commuter lines and the E and W light rail lines all stop here, with the free MallRide bus along 16th Street.",
+      "hours": "Station open daily from early morning to late night; trains from ~3:30 AM to ~1:30 AM. Amtrak runs to its own timetable."
+    }
+  ],
+  "airports": [
+    {
+      "name": "Denver International Airport",
+      "code": "DEN",
+      "lat": 39.8494,
+      "lng": -104.6738,
+      "transitNote": "The RTD A Line commuter train (shown on map) leaves from the south side of the Jeppesen Terminal, under the Westin hotel, and reaches Denver Union Station in ~37 min; the $10 Airport Day Pass applies.",
+      "hours": "A Line: first ~4:00 AM, last ~1:00 AM from the airport; every 15 min most of the day, ~30 min early and late."
+    }
+  ]
+}
