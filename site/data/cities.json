@@ -81,5 +81,6 @@
   "stlouis": {"name":"St. Louis","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["STL","Saint Louis","Missouri"]},
   "pittsburgh": {"name":"Pittsburgh","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["PIT","Steel City","Pennsylvania"]},
   "charlotte": {"name":"Charlotte","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["CLT","Queen City","North Carolina"]},
-  "detroit": {"name":"Detroit","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["DTW","Motor City","Michigan"]}
+  "detroit": {"name":"Detroit","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["DTW","Motor City","Michigan"]},
+  "buffalo": {"name":"Buffalo","country":"USA","flag":"🇺🇸","region":"Americas","aliases":["BUF","Niagara","New York State"]}
 }
