@@ -531,6 +531,7 @@ they're done.
   4.0, have too few reviews, or charge for the shuttle.
 - Rio Central do Brasil 0→1 (Gamboa Rio Hotel, 490 m); nothing else
   within 800 m reaches 4.0 with 100+ reviews.
+- Hanoi Noi Bai 0→1 (Viet Village Hotel, free airport transfer, 3 km).
 - No pick passes yet: Rome Fiumicino and Ciampino, Vienna airport (the
   terminal hotels score 3.5–3.9). Asked Audrey about an airport exception.
 - No hotel at all, or none that passes, within 800 m: Seoul Suseo,
