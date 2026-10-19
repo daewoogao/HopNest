@@ -77,7 +77,32 @@
     {"name":"The Raphael Hotel, Autograph Collection","lat":39.0396,"lng":-94.5912,"area":"Country Club Plaza","rating":4.7,"ratingCount":1205,"stars":4,"priceTier":4,"brandAnchor":true},
     {"name":"InterContinental Kansas City at the Plaza by IHG","lat":39.0392,"lng":-94.5929,"area":"Country Club Plaza","rating":4.1,"ratingCount":2322,"stars":4,"priceTier":4,"brandAnchor":true},
     {"name":"Kansas City Marriott Country Club Plaza","lat":39.0459,"lng":-94.586,"area":"Country Club Plaza","rating":4.2,"ratingCount":1100,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"Courtyard Kansas City Country Club Plaza","lat":39.0438,"lng":-94.5889,"area":"Country Club Plaza","rating":4.2,"ratingCount":673,"stars":3,"priceTier":3,"brandAnchor":true}
+    {"name":"Courtyard Kansas City Country Club Plaza","lat":39.0438,"lng":-94.5889,"area":"Country Club Plaza","rating":4.2,"ratingCount":673,"stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Hilton Kansas City Airport","lat":39.295,"lng":-94.6829,"area":"Kansas City International Airport","rating":4,"ratingCount":1210,"stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Holiday Inn Kansas City Airport by IHG","lat":39.3063,"lng":-94.6836,"area":"Kansas City International Airport","rating":4.2,"ratingCount":488,"stars":2,"priceTier":2,"brandAnchor":true},
+    {
+      "name": "Fairfield by Marriott Inn & Suites Kansas City Airport",
+      "lat": 39.3086,
+      "lng": -94.6851,
+      "area": "Kansas City International Airport",
+      "rating": 4.1,
+      "ratingCount": 364,
+      "stars": 3,
+      "priceTier": 3,
+      "brandAnchor": true
+    },
+    {
+      "name": "Best Western Plus Kansas City Airport-KCI East",
+      "lat": 39.2939,
+      "lng": -94.6828,
+      "area": "Kansas City International Airport",
+      "rating": 4.1,
+      "ratingCount": 859,
+      "stars": 3,
+      "priceTier": 2,
+      "brandAnchor": true
+    },
+    {"name":"Orangewood Inn & Suites Kansas City Airport","lat":39.309,"lng":-94.6848,"area":"Kansas City International Airport","rating":4.6,"ratingCount":218,"stars":3,"priceTier":3}
   ],
   "sights": [
     {
