@@ -511,6 +511,12 @@ they're done.
 
 ## Changelog
 
+### 2026-10-19 — Guangzhou: station and airport picks via Trip.com
+- Same Trip.com method. Guangzhou goes from 9 to 20 picks: South Station
+  0→3, Guangzhou Station 0→3, East Station 2→4, Baiyun Airport 2→4
+  (airport business area, free terminal shuttles), Shamian 2→3.
+- Gap: Tianhe/Zhujiang New Town has only upscale picks.
+
 ### 2026-10-19 — Chengdu: station and airport picks via Trip.com
 - Same Trip.com method. Chengdu goes from 10 to 24 picks: East Station
   0→3, South Station 0→3, Chengdu Station 0→1, Tianfu Airport 0→2 (on the
