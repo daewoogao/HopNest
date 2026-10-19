@@ -210,7 +210,8 @@
     {"name":"Sofitel Rio de Janeiro Ipanema","lat":-22.986,"lng":-43.2074,"area":"Ipanema","rating":4.2,"ratingCount":2297,"stars":5,"priceTier":4,"brandAnchor":true},
     {"name":"Ipanema Inn","lat":-22.9854,"lng":-43.2074,"area":"Ipanema","rating":4.5,"ratingCount":2648,"stars":3,"priceTier":2},
     {"name":"Margarida's Pousada","lat":-22.9827,"lng":-43.2116,"area":"Ipanema","rating":4.2,"ratingCount":172,"stars":2,"priceTier":2},
-    {"name":"Mango Tree Hostel Ipanema","lat":-22.9852,"lng":-43.2024,"area":"Ipanema","rating":4.3,"ratingCount":1646,"stars":1,"priceTier":1}
+    {"name":"Mango Tree Hostel Ipanema","lat":-22.9852,"lng":-43.2024,"area":"Ipanema","rating":4.3,"ratingCount":1646,"stars":1,"priceTier":1},
+    {"name":"Gamboa Rio Hotel","lat":-22.8994,"lng":-43.1887,"area":"Central do Brasil","rating":4,"ratingCount":222,"stars":3,"priceTier":2}
   ],
   "sights": [
     {

@@ -529,8 +529,14 @@ they're done.
   Station: nothing within 800 m reaches 4.0, so no pick.
 - Brussels Airport 0→1 (Crowne Plaza, free shuttle); the rest score under
   4.0, have too few reviews, or charge for the shuttle.
+- Rio Central do Brasil 0→1 (Gamboa Rio Hotel, 490 m); nothing else
+  within 800 m reaches 4.0 with 100+ reviews.
 - No pick passes yet: Rome Fiumicino and Ciampino, Vienna airport (the
   terminal hotels score 3.5–3.9). Asked Audrey about an airport exception.
+- No hotel at all, or none that passes, within 800 m: Seoul Suseo,
+  Singapore Woodlands checkpoint, Bangkok Krung Thep Aphiwat, Vancouver
+  Pacific Central, Cairo Ramses. The card's 15/20 min walk buttons cover
+  these.
 
 ### 2026-10-19 — Line colours: audit noted for later
 - Spot-checked line colours against official ones; most match, a few are
