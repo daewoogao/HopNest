@@ -511,6 +511,11 @@ they're done.
 
 ## Changelog
 
+### 2026-10-19 — Removed the "add a city" box
+- Audrey asked to remove the "Don't see it? Type a city…" box and its Add
+  button under the city list. It only added a placeholder for the current
+  visit, never a real city. New cities are still added by us.
+
 ### 2026-10-19 — Shenzhen picks via Trip.com; station pins fixed
 - Same Trip.com method. Shenzhen goes from 13 to 18 picks: North Station
   1→3, Shenzhen Station (Luohu) 1→4.

@@ -223,11 +223,6 @@
       <h2>City</h2>
       <input type="text" id="city-search-input" placeholder="🔍 City, country or airport code…" style="width:100%;padding:8px 10px;border-radius:8px;border:1px solid var(--line);background:var(--panel-2);color:#eef1f3;font-size:12.5px;margin-bottom:8px;box-sizing:border-box;">
       <div class="city-grid" id="city-grid"></div>
-      <div style="display:flex;gap:6px;margin-top:8px;">
-        <input type="text" id="city-request-input" placeholder="Don't see it? Type a city…" style="flex:1;padding:8px 10px;border-radius:8px;border:1px solid var(--line);background:var(--panel-2);color:#eef1f3;font-size:12.5px;">
-        <button class="toolbtn small" id="city-request-btn" style="width:auto;padding:8px 12px;">Add</button>
-      </div>
-      <div class="empty-note" id="city-request-note" style="display:none;"></div>
     </div>
 
     <div class="section">
@@ -1974,21 +1969,6 @@ map.on('zoomend', render);
 
 document.getElementById('footer-note').textContent =
   'Subway paths are simplified for planning purposes, not schedule-grade. Hotel price tiers are static estimates, not live rates. Hotels in Shinjuku/Asakusa/Ginza/Shibuya/Ueno show by default; other neighborhoods reveal their hotels when you tap a nearby station. Pins are saved in this browser. Real venue names, ratings & hours via Google Places.';
-
-document.getElementById('city-request-btn').addEventListener('click', requestCity);
-document.getElementById('city-request-input').addEventListener('keydown', e=>{ if(e.key==='Enter') requestCity(); });
-function requestCity(){
-  const input = document.getElementById('city-request-input');
-  const note = document.getElementById('city-request-note');
-  const name = input.value.trim();
-  if(!name) return;
-  const id = 'custom_' + name.toLowerCase().replace(/[^a-z0-9]+/g,'_').slice(0,30) + '_' + Object.keys(CITIES).length;
-  CITIES[id] = { name, country:'Requested', flag:'📍', comingSoon:true };
-  input.value = '';
-  note.style.display = 'block';
-  note.textContent = `Added "${name}" to the list as a placeholder. This is in-memory only for this session — tell me in chat which city to build next and I'll populate real subway/hotel/sightseeing data for it.`;
-  renderCityPicker();
-}
 
 try { setPanel(isNarrow() ? false : localStorage.getItem(PANEL_HIDDEN_STORAGE_KEY) !== '1'); } catch(e){ setPanel(!isNarrow()); }
 loadAllCities().then(()=>{
