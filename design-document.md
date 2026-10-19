@@ -511,6 +511,15 @@ they're done.
 
 ## Changelog
 
+### 2026-10-19 — Shanghai: station and airport picks via Trip.com
+- Same Trip.com method as Xi'an and Beijing. Shanghai goes from 24 to 33
+  picks: South Station 1→4, Shanghai Station 2→4, Pudong Airport 2→3,
+  Hongqiao Airport 0→3 (all three inside Terminal 2, terminal-connected).
+- Fixed the Holiday Inn Shanghai Pudong Airport pin: it was ~450 m off
+  (an unconverted GCJ-02 coordinate). Moved, not re-added, so its ID holds.
+- Gaps: no budget pick at either airport (the near-terminal budget hotels
+  score under 4.5 or have no trustworthy pin).
+
 ### 2026-10-19 — Beijing: station and airport picks via Trip.com
 - Same Trip.com method as Xi'an (floor 4.5/5 with 200+ reviews, foreign
   passports accepted, no red flags), applied to Beijing's hubs. Trip.com
