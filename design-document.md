@@ -511,6 +511,19 @@ they're done.
 
 ## Changelog
 
+### 2026-10-19 — Beijing: station and airport picks via Trip.com
+- Same Trip.com method as Xi'an (floor 4.5/5 with 200+ reviews, foreign
+  passports accepted, no red flags), applied to Beijing's hubs. Trip.com
+  scores out of 10 are halved. Pins come from OpenStreetMap or from
+  Skyscanner's map pin converted from GCJ-02; no trustworthy pin, no pick.
+- Beijing goes from 16 to 30 picks: West Station 0→4, Beijing Station 1→4,
+  Daxing Airport 1→5 (airport hotel cluster, free shuttles), Capital
+  Airport 2→4. Every new pick links to its exact Trip.com page.
+- Gap: Beijing South Station has only 1 (Golden Oasis, 600 m). The
+  station's own HanTing/JI hotels qualify but have no trustworthy pin yet.
+- Other China cities follow one at a time: Shanghai, Chengdu, Guangzhou,
+  Shenzhen.
+
 ### 2026-10-19 — Hotel card can be dragged
 - The hotel card that opens after clicking a station or sight can be moved
   by dragging its title bar (mouse or finger). It stays where it was
