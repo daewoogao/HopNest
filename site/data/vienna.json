@@ -187,7 +187,8 @@
     {"name":"Hilton Vienna Park","lat":48.206,"lng":16.3833,"area":"Landstraße","rating":4.3,"ratingCount":1004,"stars":4,"priceTier":3,"brandAnchor":true},
     {"name":"InterContinental Vienna by IHG","lat":48.2018,"lng":16.379,"area":"Landstraße","rating":4.2,"ratingCount":2748,"stars":5,"priceTier":4,"brandAnchor":true},
     {"name":"Grand Mercure Hotel Biedermeier","lat":48.2034,"lng":16.3878,"area":"Landstraße","rating":4.1,"ratingCount":1843,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Ruby Sofie Hotel Vienna by IHG","lat":48.2067,"lng":16.3913,"area":"Landstraße","rating":4.3,"ratingCount":1443,"stars":4,"priceTier":2,"brandAnchor":true}
+    {"name":"Ruby Sofie Hotel Vienna by IHG","lat":48.2067,"lng":16.3913,"area":"Landstraße","rating":4.3,"ratingCount":1443,"stars":4,"priceTier":2,"brandAnchor":true},
+    {"name":"MOXY Vienna Airport","lat":48.1234,"lng":16.5659,"area":"Vienna International Airport","rating":3.8,"ratingCount":1110,"stars":3,"priceTier":2,"brandAnchor":true,"airportException":true}
   ],
   "sights": [
     {
