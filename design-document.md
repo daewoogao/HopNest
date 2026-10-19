@@ -527,6 +527,8 @@ they're done.
   on-grounds hotels score under 4.0.
 - LAX 0→5 (Century Blvd / El Segundo, all free 24-hour shuttles). LA Union
   Station: nothing within 800 m reaches 4.0, so no pick.
+- Brussels Airport 0→1 (Crowne Plaza, free shuttle); the rest score under
+  4.0, have too few reviews, or charge for the shuttle.
 - No pick passes yet: Rome Fiumicino and Ciampino, Vienna airport (the
   terminal hotels score 3.5–3.9). Asked Audrey about an airport exception.
 
