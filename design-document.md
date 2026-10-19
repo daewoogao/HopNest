@@ -519,6 +519,9 @@ they're done.
   come from OpenStreetMap; no hotel without a trustworthy pin. The popup
   says "★ 4.8 / 5 on Trip.com" for these, and hotels with a known Trip.com
   page link there instead of Booking.com.
+- Same day: every pick in a China city now books on Trip.com (its exact
+  page when known, otherwise a Trip.com search for the hotel), so the
+  booking site matches the rating site. Elsewhere it stays Booking.com.
 - Xi'an goes from 5 to 12 picks: North Station 2 (Fairfield by Marriott,
   Atour; ~1.4-1.6 km south, beside Beiyuan station, one Line 2 stop away,
   since nothing nearer qualifies), airport 2, Railway Station 2, Bell Tower

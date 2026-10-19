@@ -681,7 +681,7 @@ function buildHotelPopupHTML(h){
     <div class="popup-sub">${station? mins+' min walk to '+station.name+' ('+station.line+')' : 'No active subway line nearby'}</div>
     ${h.phone? `<div class="popup-row">📞 ${h.phone}</div>`:''}
     ${h.live? `<div class="popup-sub" style="color:#1f8f4e;">🔍 Found via live search</div>`:''}
-    <a class="fb-book" style="color:#fff;" href="${h.tripUrl || bookingHotelUrl(h.name, CITIES[currentCityId].name)}" target="_blank" rel="noopener">Check prices on ${h.tripUrl ? 'Trip.com' : 'Booking.com'} ↗</a>
+    <a class="fb-book" style="color:#fff;" href="${hotelBookUrl(h)}" target="_blank" rel="noopener">Check prices on ${useTripCom(h) ? 'Trip.com' : 'Booking.com'} ↗</a>
     <button class="popup-btn" onclick="window._togglePin('${h._id}')" style="margin-top:8px;${pinned?'background:#fff7e0;border-color:#e0c34c;color:#8a6d00;':''}">${pinned?'📌 Pinned — tap to remove':'☆ Pin this hotel'}</button>
     <div class="popup-sub" style="margin-top:6px;color:#999;font-size:10.5px;">Star class reflects typical brand/property tier, not a government registry. Price tier is a static estimate, not a live rate.</div>
   `;
@@ -1073,6 +1073,12 @@ async function loadOsmHotels(cityId){
   }
   return osmHotelCache[cityId];
 }
+// China: Trip.com covers hotels far better than Booking.com, and our China
+// picks are rated on Trip.com, so book there (exact page when we know it).
+const useTripCom = h => !!h.tripUrl || CITIES[currentCityId].country === 'China';
+const hotelBookUrl = h => h.tripUrl || (useTripCom(h)
+  ? 'https://www.trip.com/hotels/list?keyword=' + encodeURIComponent(`${h.name}, ${CITIES[currentCityId].name}`)
+  : bookingHotelUrl(h.name, CITIES[currentCityId].name));
 const bookingHotelUrl = (name, cityName) => 'https://www.booking.com/searchresults.html?ss=' + encodeURIComponent(`${name}, ${cityName}`);
 // Kawaii "sleepy bed" for map-data hotels: a kitty-eared sleeper tucked
 // under a blanket with "zz". Pink blanket for hotels, mint for hostels.
