@@ -539,7 +539,9 @@ they're done.
   Peachtree (Amtrak; nearest hotel 805 m), Charlotte Amtrak (industrial
   area, nearest hotel 1.8 km), Jakarta Halim station and airport, Detroit
   Amtrak (only hotel nearby rated 2.9), Cincinnati Union Terminal, both Riyadh
-  stations and King Khalid airport, Norfolk Amtrak, Busan Gimhae airport. The card's 15/20 min walk buttons cover
+  stations and King Khalid airport, Norfolk Amtrak, Busan Gimhae airport,
+  Edinburgh airport (on-grounds hotels score 3.0–3.9), Ben Gurion airport
+  (no airport hotels). The card's 15/20 min walk buttons cover
   these.
 
 ### 2026-10-19 — Line colours: audit noted for later
