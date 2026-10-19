@@ -538,7 +538,7 @@ they're done.
   Pacific Central, Cairo Ramses, Buenos Aires Constitución, Atlanta
   Peachtree (Amtrak; nearest hotel 805 m), Charlotte Amtrak (industrial
   area, nearest hotel 1.8 km), Jakarta Halim station and airport, Detroit
-  Amtrak (only hotel nearby rated 2.9). The card's 15/20 min walk buttons cover
+  Amtrak (only hotel nearby rated 2.9), Cincinnati Union Terminal. The card's 15/20 min walk buttons cover
   these.
 
 ### 2026-10-19 — Line colours: audit noted for later
