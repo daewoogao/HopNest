@@ -536,7 +536,8 @@ they're done.
 - No hotel at all, or none that passes, within 800 m: Seoul Suseo,
   Singapore Woodlands checkpoint, Bangkok Krung Thep Aphiwat, Vancouver
   Pacific Central, Cairo Ramses, Buenos Aires Constitución, Atlanta
-  Peachtree (Amtrak; nearest hotel 805 m). The card's 15/20 min walk buttons cover
+  Peachtree (Amtrak; nearest hotel 805 m), Charlotte Amtrak (industrial
+  area, nearest hotel 1.8 km). The card's 15/20 min walk buttons cover
   these.
 
 ### 2026-10-19 — Line colours: audit noted for later
