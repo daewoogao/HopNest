@@ -123,6 +123,8 @@
   #search-banner.dock.expanded .fb-extra{display:block;}
   #search-banner.dock.folded .fb-body{display:none;}
   #search-banner.dock.folded .fb-head{margin-bottom:0;}
+  #search-banner.dock .fb-head{cursor:move;touch-action:none;user-select:none;}
+  #search-banner.dock .fb-head .fb-tools,#search-banner.dock .fb-head .fb-close{cursor:pointer;}
   .fb-tools{display:flex;gap:12px;align-items:center;}
   .fb-fold{cursor:pointer;color:var(--text-dim);font-size:18px;line-height:1;}
   .fb-walks{display:flex;gap:8px;margin:2px 0 4px;}
@@ -1003,11 +1005,41 @@ let liveFetchInFlight = new Set();
 function showSearchBanner(text, autoHideMs){
   const el = document.getElementById('search-banner');
   el.classList.remove('fallback','dock','folded','expanded');
+  applyCardPos(el);
   el.textContent = text;
   el.classList.add('show');
   if(autoHideMs){ clearTimeout(el._t); el._t = setTimeout(()=> el.classList.remove('show'), autoHideMs); }
 }
 function hideSearchBanner(){ document.getElementById('search-banner').classList.remove('show'); }
+
+// The hotel card can be dragged by its header; where it was dropped is kept
+// for later cards this visit. Double-clicking the header puts it back.
+let cardPos = null;
+function applyCardPos(el){
+  for(const k of ['left','top','right','bottom','width','maxHeight']) el.style[k] = '';
+  if(!cardPos || !el.classList.contains('dock')) return;
+  const pw = el.offsetParent.clientWidth, ph = el.offsetParent.clientHeight;
+  const w = Math.min(cardPos.w, pw - 16);
+  const x = Math.min(Math.max(8, cardPos.x), pw - w - 8);
+  const y = Math.min(Math.max(8, cardPos.y), ph - 48);
+  Object.assign(el.style, {left:x+'px', top:y+'px', right:'auto', bottom:'auto', width:w+'px', maxHeight:(ph - y - 8)+'px'});
+}
+(function(){
+  const el = document.getElementById('search-banner');
+  el.addEventListener('pointerdown', e=>{
+    const head = e.target.closest('.fb-head');
+    if(!head || !el.classList.contains('dock') || e.button > 0 || e.target.closest('.fb-tools,.fb-close')) return;
+    e.preventDefault();
+    const p = el.offsetParent.getBoundingClientRect(), r = el.getBoundingClientRect();
+    const dx = e.clientX - r.left, dy = e.clientY - r.top;
+    head.setPointerCapture(e.pointerId);
+    const move = ev=>{ cardPos = {x: ev.clientX - p.left - dx, y: ev.clientY - p.top - dy, w: r.width}; applyCardPos(el); };
+    const up = ()=>{ head.removeEventListener('pointermove', move); head.removeEventListener('pointerup', up); head.removeEventListener('pointercancel', up); };
+    head.addEventListener('pointermove', move); head.addEventListener('pointerup', up); head.addEventListener('pointercancel', up);
+  });
+  el.addEventListener('dblclick', e=>{ if(e.target.closest('.fb-head') && !e.target.closest('.fb-tools,.fb-close')){ cardPos = null; applyCardPos(el); } });
+  window.addEventListener('resize', ()=> applyCardPos(el));
+})();
 
 // Hotels suggested by the "nearest hotels" box get a name tag on the map and
 // stay marked for the rest of the visit to this city (cleared on city
@@ -1054,7 +1086,7 @@ function showNearestHotelsFallback(stationName, lat, lng){
     ${longer.length ? `<div class="fb-walks">${longer.map(m=>`<button class="fb-walk" data-min="${m}">${m} min walk</button>`).join('')}</div>` : ''}
     <a class="fb-book" href="${bookingUrl}" target="_blank" rel="noopener">Search all hotels near ${stationName} ↗</a>`;
   el.classList.remove('folded','expanded');
-  el.classList.add('fallback','dock','show');
+  el.classList.add('fallback','dock','show'); applyCardPos(el);
   el.querySelector('#fb-close').onclick = hideSearchBanner;
   el.querySelectorAll('.fb-walk').forEach(btn=> btn.onclick = ()=> setWalkMinutes(+btn.dataset.min));
 }
@@ -1151,7 +1183,7 @@ async function showOsmHotelsNear(placeName, lat, lng, opts={}){
       <a class="fb-book" href="${'https://www.booking.com/searchresults.html?ss='+encodeURIComponent(place+', '+data.name)}" target="_blank" rel="noopener">Prices near ${placeName} ↗</a>
     </div>`;
   el.classList.remove('folded','expanded');
-  el.classList.add('fallback','dock','show');
+  el.classList.add('fallback','dock','show'); applyCardPos(el);
   if(!opts.sight && map.getSize().x>0){
     const pts = [[lat,lng], ...within.map(x=>[x.o[0],x.o[1]])];
     map.flyToBounds(L.latLngBounds(pts), {...hotelCardPadding(el), maxZoom:17, duration:.6});

@@ -511,6 +511,12 @@ they're done.
 
 ## Changelog
 
+### 2026-10-19 — Hotel card can be dragged
+- The hotel card that opens after clicking a station or sight can be moved
+  by dragging its title bar (mouse or finger). It stays where it was
+  dropped for later stations; double-clicking the title bar puts it back
+  in the top-right corner. It is kept inside the map.
+
 ### 2026-10-19 — Xi'an: more picks via Trip.com
 - Audrey noticed Xi'an North station had no hotels. Cause: OpenStreetMap
   and TripAdvisor both cover China thinly, so few hotels qualified.
