@@ -535,7 +535,7 @@ they're done.
   terminal hotels score 3.5–3.9). Asked Audrey about an airport exception.
 - No hotel at all, or none that passes, within 800 m: Seoul Suseo,
   Singapore Woodlands checkpoint, Bangkok Krung Thep Aphiwat, Vancouver
-  Pacific Central, Cairo Ramses. The card's 15/20 min walk buttons cover
+  Pacific Central, Cairo Ramses, Buenos Aires Constitución. The card's 15/20 min walk buttons cover
   these.
 
 ### 2026-10-19 — Line colours: audit noted for later
