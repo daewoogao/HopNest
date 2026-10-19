@@ -677,11 +677,11 @@ function buildHotelPopupHTML(h){
   return `
     <div class="popup-title">${h.name}</div>
     <div class="popup-sub">${h.area}${h.stars? ' · '+starString(h.stars)+' ('+h.stars+'-star)':''} · <span class="price-tag" style="color:#b8860b;">${PRICE_SYMBOLS[h.priceTier-1]||''}</span></div>
-    <div class="popup-sub">Guest rating: ★ ${h.rating}</div>
+    <div class="popup-sub">Guest rating: ★ ${h.rating}${h.ratingSource? ' / 5 on '+h.ratingSource : ''}</div>
     <div class="popup-sub">${station? mins+' min walk to '+station.name+' ('+station.line+')' : 'No active subway line nearby'}</div>
     ${h.phone? `<div class="popup-row">📞 ${h.phone}</div>`:''}
     ${h.live? `<div class="popup-sub" style="color:#1f8f4e;">🔍 Found via live search</div>`:''}
-    <a class="fb-book" style="color:#fff;" href="${bookingHotelUrl(h.name, CITIES[currentCityId].name)}" target="_blank" rel="noopener">Check prices on Booking.com ↗</a>
+    <a class="fb-book" style="color:#fff;" href="${h.tripUrl || bookingHotelUrl(h.name, CITIES[currentCityId].name)}" target="_blank" rel="noopener">Check prices on ${h.tripUrl ? 'Trip.com' : 'Booking.com'} ↗</a>
     <button class="popup-btn" onclick="window._togglePin('${h._id}')" style="margin-top:8px;${pinned?'background:#fff7e0;border-color:#e0c34c;color:#8a6d00;':''}">${pinned?'📌 Pinned — tap to remove':'☆ Pin this hotel'}</button>
     <div class="popup-sub" style="margin-top:6px;color:#999;font-size:10.5px;">Star class reflects typical brand/property tier, not a government registry. Price tier is a static estimate, not a live rate.</div>
   `;

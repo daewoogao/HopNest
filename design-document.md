@@ -511,6 +511,19 @@ they're done.
 
 ## Changelog
 
+### 2026-10-19 — Xi'an: more picks via Trip.com
+- Audrey noticed Xi'an North station had no hotels. Cause: OpenStreetMap
+  and TripAdvisor both cover China thinly, so few hotels qualified.
+- Trial for China: ratings from Trip.com (score out of 5, floor 4.5 with
+  200+ reviews; only hotels that accept foreign passports). Pins still
+  come from OpenStreetMap; no hotel without a trustworthy pin. The popup
+  says "★ 4.8 / 5 on Trip.com" for these, and hotels with a known Trip.com
+  page link there instead of Booking.com.
+- Xi'an goes from 5 to 12 picks: North Station 2 (Fairfield by Marriott,
+  Atour; ~1.4-1.6 km south, beside Beiyuan station, one Line 2 stop away,
+  since nothing nearer qualifies), airport 2, Railway Station 2, Bell Tower
+  4, Giant Wild Goose Pagoda 2 (+ Westin).
+
 ### 2026-10-18 — booking link on our picks; two more curation rules
 - Every hand-picked (sunflower) hotel's popup now has a "Check prices on
   Booking.com" button: a Booking.com search for the hotel's name and
