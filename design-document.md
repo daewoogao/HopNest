@@ -546,7 +546,7 @@ they're done.
   Edinburgh airport (on-grounds hotels score 3.0–3.9), Ben Gurion airport
   (no airport hotels), Honolulu airport (free-shuttle hotels score 3.5–3.7),
   Florence airport (good hotels 1.9–2.7 km away but no free shuttle; T2
-  tram). The card's 15/20 min walk buttons cover
+  tram), Sacramento airport (nearest hotels 11 km away). The card's 15/20 min walk buttons cover
   these.
 
 ### 2026-10-19 — Line colours: audit noted for later
