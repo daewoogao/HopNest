@@ -622,7 +622,7 @@
     }
   ],
   "hotels": [
-    {"name":"Pullman Shenzhen North","lat":22.6124,"lng":114.0307,"area":"Shenzhen North Station","rating":5,"ratingCount":1887,"stars":5,"priceTier":3,"brandAnchor":true},
+    {"name":"Pullman Shenzhen North","lat":22.6151,"lng":114.0257,"area":"Shenzhen North Station","rating":5,"ratingCount":1887,"stars":5,"priceTier":3,"brandAnchor":true},
     {"name":"Sheraton Shenzhen Futian Hotel","lat":22.5382,"lng":114.0569,"area":"Futian Station","rating":4.7,"ratingCount":3490,"stars":5,"priceTier":3,"brandAnchor":true},
     {"name":"Four Seasons Hotel Shenzhen","lat":22.536,"lng":114.0529,"area":"Futian Station","rating":4.9,"ratingCount":3146,"stars":5,"priceTier":4},
     {"name":"Futian Shangri-La, Shenzhen","lat":22.5389,"lng":114.0524,"area":"Futian Station","rating":5,"ratingCount":19523,"stars":5,"priceTier":4,"brandAnchor":true},
@@ -634,7 +634,67 @@
     {"name":"Huaqiang Plaza Hotel","lat":22.5466,"lng":114.0809,"area":"Huaqiang North","rating":4.1,"ratingCount":301,"stars":4,"priceTier":3},
     {"name":"Hui Hotel Shenzhen","lat":22.5512,"lng":114.0769,"area":"Huaqiang North","rating":4.7,"ratingCount":134,"stars":3,"priceTier":2},
     {"name":"Shanghai Hotel","lat":22.5439,"lng":114.0768,"area":"Huaqiang North","rating":4,"ratingCount":346,"stars":3,"priceTier":2},
-    {"name":"Grand Skylight Hotel Shenzhen","lat":22.5439,"lng":114.0775,"area":"Huaqiang North","rating":4,"ratingCount":377,"stars":4,"priceTier":3}
+    {"name":"Grand Skylight Hotel Shenzhen","lat":22.5439,"lng":114.0775,"area":"Huaqiang North","rating":4,"ratingCount":377,"stars":4,"priceTier":3},
+    {
+      "name": "Davis International Apartment (Shenzhen North Station Branch)",
+      "lat": 22.6124,
+      "lng": 114.0281,
+      "area": "Shenzhen North Station",
+      "rating": 4.7,
+      "ratingCount": 3041,
+      "stars": 3,
+      "priceTier": 2,
+      "ratingSource": "Trip.com",
+      "tripUrl": "https://www.trip.com/hotels/detail/?hotelId=29859506"
+    },
+    {
+      "name": "Gmundon Hotel",
+      "lat": 22.6161,
+      "lng": 114.0262,
+      "area": "Shenzhen North Station",
+      "rating": 4.5,
+      "ratingCount": 3031,
+      "stars": 3,
+      "priceTier": 2,
+      "ratingSource": "Trip.com",
+      "tripUrl": "https://www.trip.com/hotels/detail/?hotelId=46591560"
+    },
+    {
+      "name": "Innogo Hotel Shenzhen (LuoHu Port)",
+      "lat": 22.5368,
+      "lng": 114.1127,
+      "area": "Shenzhen Station",
+      "rating": 4.7,
+      "ratingCount": 9559,
+      "stars": 4,
+      "priceTier": 3,
+      "ratingSource": "Trip.com",
+      "tripUrl": "https://www.trip.com/hotels/detail/?hotelId=34998429"
+    },
+    {
+      "name": "HK PALACE Hotel (Shenzhen Luohu)",
+      "lat": 22.5369,
+      "lng": 114.1134,
+      "area": "Shenzhen Station",
+      "rating": 4.7,
+      "ratingCount": 4975,
+      "stars": 4,
+      "priceTier": 3,
+      "ratingSource": "Trip.com",
+      "tripUrl": "https://www.trip.com/hotels/detail/?hotelId=104615137"
+    },
+    {
+      "name": "Quanji Hotel (Shenzhen Luohu Port Renmin South Subway Station Branch)",
+      "lat": 22.5386,
+      "lng": 114.1125,
+      "area": "Shenzhen Station",
+      "rating": 4.6,
+      "ratingCount": 1413,
+      "stars": 4,
+      "priceTier": 2,
+      "ratingSource": "Trip.com",
+      "tripUrl": "https://www.trip.com/hotels/detail/?hotelId=133074354"
+    }
   ],
   "sights": [
     {
@@ -755,22 +815,22 @@
   "railStations": [
     {
       "name": "Shenzhen North Station",
-      "lat": 22.6094,
-      "lng": 114.0299,
+      "lat": 22.6122,
+      "lng": 114.0248,
       "note": "The main high-speed rail hub (Shenzhen Beizhan): fast trains to Guangzhou South (~30 min), Hong Kong West Kowloon is served from Futian and Shenzhen North, and long-distance services nationwide. Metro Lines 4 and 5 stop here.",
       "hours": "HSR ~6:00 AM-~11:00 PM; metro ~6:30 AM-~midnight."
     },
     {
       "name": "Futian Station",
-      "lat": 22.5362,
-      "lng": 114.0555,
+      "lat": 22.5389,
+      "lng": 114.0504,
       "note": "Underground high-speed station in the CBD with direct trains to Hong Kong West Kowloon (~15 min) and Guangzhou South; connects to metro Lines 1, 2, 3, 11 and 14 at Futian/Civic Center-area stations.",
       "hours": "HSR ~7:00 AM-~10:30 PM; metro ~6:30 AM-~midnight."
     },
     {
       "name": "Shenzhen Station",
-      "lat": 22.5316,
-      "lng": 114.117,
+      "lat": 22.5343,
+      "lng": 114.1119,
       "note": "The Luohu (old Shenzhen) rail station beside the Luohu border crossing into Hong Kong; conventional and intercity trains, and the Luohu metro station on Lines 1 and 9 sits next door.",
       "hours": "Trains to individual timetables; metro ~6:30 AM-~midnight; Luohu border ~6:30 AM-midnight."
     }

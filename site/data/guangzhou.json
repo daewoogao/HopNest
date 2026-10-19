@@ -871,22 +871,22 @@
   "railStations": [
     {
       "name": "Guangzhou South Station",
-      "lat": 22.9885,
-      "lng": 113.2692,
+      "lat": 22.9912,
+      "lng": 113.2639,
       "note": "The largest high-speed rail station (Guangzhou Nan): trains to Shenzhen North (~30 min), Hong Kong West Kowloon (~50 min), Beijing, Shanghai and beyond. Metro Lines 2, 7 and the Guangfo line stop here; ~40 min to the centre by Line 2.",
       "hours": "HSR ~6:30 AM-~11:00 PM; metro ~6:00 AM-~11:00 PM."
     },
     {
       "name": "Guangzhou East Station",
-      "lat": 23.1498,
-      "lng": 113.3238,
+      "lat": 23.1524,
+      "lng": 113.3184,
       "note": "Intercity hub in Tianhe (Guangzhou Dong): trains to Hong Kong Hung Hom, Shenzhen and Guangdong cities; on Metro Lines 1 and 3 and the Tianhe Sports Center area.",
       "hours": "Trains to individual timetables; metro ~6:00 AM-~11:00 PM."
     },
     {
       "name": "Guangzhou Station",
-      "lat": 23.15,
-      "lng": 113.257,
+      "lat": 23.1527,
+      "lng": 113.2517,
       "note": "The old central railway station (Guangzhou Zhan) in Yuexiu, busy with conventional trains; on Metro Lines 2 and 5.",
       "hours": "Trains to individual timetables; metro ~6:00 AM-~11:00 PM."
     }

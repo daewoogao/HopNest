@@ -511,6 +511,17 @@ they're done.
 
 ## Changelog
 
+### 2026-10-19 — Shenzhen picks via Trip.com; station pins fixed
+- Same Trip.com method. Shenzhen goes from 13 to 18 picks: North Station
+  1→3, Shenzhen Station (Luohu) 1→4.
+- Found while doing it: some train-station pins in China were stored in
+  China's offset map coordinates (GCJ-02), ~400–700 m from the real spot.
+  Fixed: Shenzhen North, Shenzhen Station, Futian, all three Guangzhou
+  stations, and Beijing West. Also moved the Pullman Shenzhen North pin.
+  Xi'an, Shanghai, Chengdu and the other Beijing stations checked fine.
+- Rule for China data: every coordinate from a Chinese map source is
+  converted with cur/gcj2wgs.py and checked against OpenStreetMap.
+
 ### 2026-10-19 — Guangzhou: station and airport picks via Trip.com
 - Same Trip.com method. Guangzhou goes from 9 to 20 picks: South Station
   0→3, Guangzhou Station 0→3, East Station 2→4, Baiyun Airport 2→4
