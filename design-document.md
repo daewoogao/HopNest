@@ -534,6 +534,8 @@ they're done.
 - Hanoi Noi Bai 0→1 (Viet Village Hotel, free airport transfer, 3 km).
 - Miami airport 0→4 (Hampton, Best Western Plus, Hyatt House, Homewood;
   free shuttles, 1.4–1.9 km). The in-terminal hotel scores 3.0.
+- Buenos Aires Ezeiza 0→1 (Eze Inn Boutique, free shuttle, ~2.6 km from
+  the terminals).
 - No pick passes yet: Rome Fiumicino and Ciampino, Vienna airport (the
   terminal hotels score 3.5–3.9). Asked Audrey about an airport exception.
 - No hotel at all, or none that passes, within 800 m: Seoul Suseo,
