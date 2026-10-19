@@ -343,6 +343,14 @@ the data. Not decided yet.
 
 ## 6. Roadmap (not yet built)
 
+- **Later: line-colour audit (Audrey, 2026-10-19).** Line colours come
+  from each line's OpenStreetMap colour tag (grey #888888 if missing, then
+  set by hand). A spot-check found them right at a glance but not always
+  the exact official shade: London and Seoul exact; New York exact except
+  A/C/E (#2850AD vs MTA #0039A6); Tokyo exact except Chiyoda (#00A650 vs
+  #00BB85); Paris Line 1 #FFBE00 vs RATP #FFCD00; Beijing Line 1 #A12830
+  vs #C23A30. To do: check every line in all cities against the
+  operator's official colour and fix off shades, one city at a time.
 - Real backend (Node/Python) + Google Places API, replacing "live search
   on click" with cheap, reliable, always-available curated data.
   **Cost estimate, corrected and scaled to 150 cities** (superseding the
@@ -510,6 +518,10 @@ they're done.
 ---
 
 ## Changelog
+
+### 2026-10-19 — Line colours: audit noted for later
+- Spot-checked line colours against official ones; most match, a few are
+  an older or slightly different shade. Full audit added to §6 Roadmap.
 
 ### 2026-10-19 — Removed the "add a city" box
 - Audrey asked to remove the "Don't see it? Type a city…" box and its Add
