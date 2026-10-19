@@ -525,6 +525,8 @@ they're done.
   or terminal-connected first, else hotels with a FREE shuttle within ~3 km.
 - Dublin Airport 0→2 (Crowne Plaza, Carlton; free shuttles). The two
   on-grounds hotels score under 4.0.
+- LAX 0→5 (Century Blvd / El Segundo, all free 24-hour shuttles). LA Union
+  Station: nothing within 800 m reaches 4.0, so no pick.
 - No pick passes yet: Rome Fiumicino and Ciampino, Vienna airport (the
   terminal hotels score 3.5–3.9). Asked Audrey about an airport exception.
 

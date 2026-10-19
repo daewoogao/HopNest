@@ -194,7 +194,42 @@
     {"name":"Magic Castle Hotel","lat":34.1045,"lng":-118.3425,"area":"Hollywood","rating":4.7,"ratingCount":3874,"stars":3,"priceTier":3},
     {"name":"Samesun Hollywood","lat":34.1014,"lng":-118.3393,"area":"Hollywood","rating":4.1,"ratingCount":344,"stars":1,"priceTier":1},
     {"name":"The LINE LA","lat":34.0622,"lng":-118.301,"area":"Koreatown","rating":4.1,"ratingCount":1650,"stars":4,"priceTier":3},
-    {"name":"Hotel Normandie","lat":34.0633,"lng":-118.3007,"area":"Koreatown","rating":4.3,"ratingCount":1603,"stars":3,"priceTier":2}
+    {"name":"Hotel Normandie","lat":34.0633,"lng":-118.3007,"area":"Koreatown","rating":4.3,"ratingCount":1603,"stars":3,"priceTier":2},
+    {
+      "name": "Hyatt Regency Los Angeles International Airport",
+      "lat": 33.9461,
+      "lng": -118.3952,
+      "area": "Los Angeles International Airport",
+      "rating": 4.1,
+      "ratingCount": 3201,
+      "stars": 4,
+      "priceTier": 3,
+      "brandAnchor": true
+    },
+    {"name":"Sheraton Gateway Los Angeles Hotel","lat":33.9466,"lng":-118.3908,"area":"Los Angeles International Airport","rating":4,"ratingCount":2275,"stars":4,"priceTier":3,"brandAnchor":true},
+    {
+      "name": "Courtyard Los Angeles LAX/Century Boulevard",
+      "lat": 33.9468,
+      "lng": -118.3937,
+      "area": "Los Angeles International Airport",
+      "rating": 4.3,
+      "ratingCount": 268,
+      "stars": 3,
+      "priceTier": 2,
+      "brandAnchor": true
+    },
+    {
+      "name": "Residence Inn Los Angeles LAX/Century Boulevard",
+      "lat": 33.9461,
+      "lng": -118.3874,
+      "area": "Los Angeles International Airport",
+      "rating": 4.4,
+      "ratingCount": 1500,
+      "stars": 3,
+      "priceTier": 3,
+      "brandAnchor": true
+    },
+    {"name":"Hampton Inn & Suites LAX El Segundo","lat":33.9282,"lng":-118.3956,"area":"Los Angeles International Airport","rating":4.5,"ratingCount":1259,"stars":3,"priceTier":2,"brandAnchor":true}
   ],
   "sights": [
     {
