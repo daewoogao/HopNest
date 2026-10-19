@@ -511,6 +511,13 @@ they're done.
 
 ## Changelog
 
+### 2026-10-19 — Chengdu: station and airport picks via Trip.com
+- Same Trip.com method. Chengdu goes from 10 to 24 picks: East Station
+  0→3, South Station 0→3, Chengdu Station 0→1, Tianfu Airport 0→2 (on the
+  airport grounds), Shuangliu Airport 1→3, Kuanzhai Alley 1→4.
+- Gaps: Chengdu Station and Tianfu Airport are under 3 (other qualifying
+  hotels had no trustworthy pin; one was ruled out for mould reviews).
+
 ### 2026-10-19 — Shanghai: station and airport picks via Trip.com
 - Same Trip.com method as Xi'an and Beijing. Shanghai goes from 24 to 33
   picks: South Station 1→4, Shanghai Station 2→4, Pudong Airport 2→3,
