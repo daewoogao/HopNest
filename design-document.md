@@ -519,6 +519,15 @@ they're done.
 
 ## Changelog
 
+### 2026-10-19 — Picks at empty airports and stations (outside China)
+- 37 hubs in 28 cities had no picks. Filling them one city at a time with
+  the usual TripAdvisor rules (4.0+ with 100+ reviews). Airports: on-grounds
+  or terminal-connected first, else hotels with a FREE shuttle within ~3 km.
+- Dublin Airport 0→2 (Crowne Plaza, Carlton; free shuttles). The two
+  on-grounds hotels score under 4.0.
+- No pick passes yet: Rome Fiumicino and Ciampino, Vienna airport (the
+  terminal hotels score 3.5–3.9). Asked Audrey about an airport exception.
+
 ### 2026-10-19 — Line colours: audit noted for later
 - Spot-checked line colours against official ones; most match, a few are
   an older or slightly different shade. Full audit added to §6 Roadmap.
