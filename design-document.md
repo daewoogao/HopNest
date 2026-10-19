@@ -246,6 +246,10 @@ Two more rules (Audrey, 2026-10-18):
   closures. A hotel that falls below the floor, closes, or shows red
   flags is taken off the map (marked hidden, not deleted, so hotel
   numbers and shared pins stay stable), and the area's gap is recorded.
+- **Airport exception (Audrey, 2026-10-19).** At airports only, a hotel
+  on the airport grounds or walkable to a terminal may be picked from
+  3.8 (instead of 4.0) if it has 500+ reviews and no red flags. Such
+  picks carry `airportException: true` in the data. Nothing under 3.8.
 
 ### Sightseeing selection
 
@@ -518,6 +522,15 @@ they're done.
 ---
 
 ## Changelog
+
+### 2026-10-19 — Airport exception: terminal hotels from 3.8
+- New §4 rule: airport hotels next to the terminal count from 3.8 with
+  500+ reviews and no red flags.
+- Added: Vienna MOXY (3.8), Dublin Maldron (3.8), Brussels Sheraton (3.8),
+  Edinburgh DoubleTree (3.9) and Hampton (3.8).
+- Ruled out by red flags: Vienna NH (3 recent sewage-smell reviews), Rio
+  Linx Galeão (3 recent hygiene reviews). Rome and Honolulu airport
+  hotels score 3.5–3.7, so those stay empty.
 
 ### 2026-10-19 — Picks at empty airports and stations (outside China)
 - 37 hubs in 28 cities had no picks. Filling them one city at a time with
