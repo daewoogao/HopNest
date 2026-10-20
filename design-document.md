@@ -187,7 +187,8 @@ station/airport/railway stop you tap.
   Las Vegas, Vancouver, Rio de Janeiro, Sydney, Melbourne. Batch 7 (US, 2026-10-18):
   Seattle, Philadelphia, San Diego, New Orleans, Atlanta. Batch 8 (US, 2026-10-18):
   Portland, Honolulu, Denver, Dallas, Baltimore, Minneapolis–Saint Paul, Salt Lake City, Houston, Phoenix, St. Louis, Pittsburgh, Charlotte. Batch 9 (US, 2026-10-18):
-  Detroit, Buffalo, Cincinnati, Milwaukee, Cleveland, Norfolk, Sacramento, Tucson, Kansas City, San Jose, Austin, Tampa (94 cities).
+  Detroit, Buffalo, Cincinnati, Milwaukee, Cleveland, Norfolk, Sacramento, Tucson, Kansas City, San Jose, Austin, Tampa (94 cities). Batch 10 (China, 2026-10-20):
+  Hangzhou (95 cities).
   City-list groups: Asia, Europe, Americas, Africa, Oceania.
 - **City picker** (search redesigned 2026-10-16): a search box that
   matches city name, country, other names (`aliases` in `cities.json`:
@@ -581,6 +582,18 @@ they're done.
 - Audrey: added the Chinese versions of the Background (项目背景) and of the
   core values and main features (核心价值与主要功能) right after the English
   Background at the top of this document.
+
+### 2026-10-20 — batch 10: more China cities (95 total)
+- Audrey asked for Chongqing, Hangzhou, Suzhou, Xiamen, Qingdao and
+  Changsha (Taipei was already in). Added one city at a time. China rules:
+  Trip.com ratings (4.5/5, 200+ reviews, foreign passports accepted),
+  WGS-84 pins from OpenStreetMap only (Trip.com gives no coordinates), so
+  hotels without a trustworthy pin are left out and hubs can be thin.
+- Hangzhou: 15 lines (Shaoxing and Hanghai intercity lines left as is;
+  Shaoxing's own metro dropped), 16 picks, 14 sights. Gaps: Hangzhou
+  West Railway Station has no pick (its qualifying JI Hotel has no
+  trustworthy pin); Hangzhou Station 1, East Station 2, airport 2 (both
+  Hyatts in the T4 transport centre), Wulin Square 1
 
 ### 2026-10-20 — Background section added
 - Audrey: added a Background section at the start of this document (the
