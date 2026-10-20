@@ -188,7 +188,7 @@ station/airport/railway stop you tap.
   Seattle, Philadelphia, San Diego, New Orleans, Atlanta. Batch 8 (US, 2026-10-18):
   Portland, Honolulu, Denver, Dallas, Baltimore, Minneapolis–Saint Paul, Salt Lake City, Houston, Phoenix, St. Louis, Pittsburgh, Charlotte. Batch 9 (US, 2026-10-18):
   Detroit, Buffalo, Cincinnati, Milwaukee, Cleveland, Norfolk, Sacramento, Tucson, Kansas City, San Jose, Austin, Tampa (94 cities). Batch 10 (China, 2026-10-20):
-  Hangzhou, Suzhou, Xiamen (97 cities).
+  Hangzhou, Suzhou, Xiamen, Chongqing (98 cities).
   City-list groups: Asia, Europe, Americas, Africa, Oceania.
 - **City picker** (search redesigned 2026-10-16): a search box that
   matches city name, country, other names (`aliases` in `cities.json`:
@@ -583,7 +583,7 @@ they're done.
   core values and main features (核心价值与主要功能) right after the English
   Background at the top of this document.
 
-### 2026-10-20 — batch 10: more China cities (97 total)
+### 2026-10-20 — batch 10: more China cities (98 total)
 - Audrey asked for Chongqing, Hangzhou, Suzhou, Xiamen, Qingdao and
   Changsha (Taipei was already in). Added one city at a time. China rules:
   Trip.com ratings (4.5/5, 200+ reviews, foreign passports accepted),
@@ -606,6 +606,11 @@ they're done.
   1 (New East Asia, free shuttle); Yundang Lake 2. Gaoqi airport is due
   to be replaced by Xiang'an airport around late 2026, which will need
   adding then
+- Chongqing: 15 lines including the Line 2 and 3 monorails, the Loop
+  Line and the 4–Loop–5 express, 13 picks, 17 sights. Gaps: Jiangbei
+  airport has no pick (Novotel Airport qualifies but has no trustworthy
+  pin); North, West and Shapingba stations 1 each. Ciqikou and
+  Guanyinqiao areas left out for now (no trustworthy pins)
 
 ### 2026-10-20 — Background section added
 - Audrey: added a Background section at the start of this document (the
