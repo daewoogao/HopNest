@@ -181,26 +181,26 @@
     }
   ],
   "hotels": [
-    {"name":"Hyatt Regency Dallas","lat":32.7758,"lng":-96.8093,"area":"Dallas Union Station","rating":4.2,"ratingCount":7652,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Omni Dallas Hotel","lat":32.7752,"lng":-96.8043,"area":"Dallas Union Station","rating":4.5,"ratingCount":8935,"stars":4,"priceTier":4},
-    {"name":"Courtyard by Marriott Dallas Downtown/Reunion District","lat":32.7769,"lng":-96.8068,"area":"Dallas Union Station","rating":4.6,"ratingCount":209,"stars":3,"priceTier":3},
-    {"name":"The Adolphus, Autograph Collection","lat":32.7799,"lng":-96.8002,"area":"Downtown","rating":4.6,"ratingCount":5669,"stars":4,"priceTier":4,"brandAnchor":true},
-    {"name":"Fairmont Dallas","lat":32.7854,"lng":-96.8015,"area":"Downtown","rating":4.2,"ratingCount":3505,"stars":4,"priceTier":4},
-    {"name":"Magnolia Hotel Dallas Downtown","lat":32.7802,"lng":-96.7991,"area":"Downtown","rating":4.2,"ratingCount":3960,"stars":3,"priceTier":3},
-    {"name":"The Statler Dallas, Curio Collection by Hilton","lat":32.7804,"lng":-96.7946,"area":"Downtown","rating":4.4,"ratingCount":1440,"stars":4,"priceTier":3},
-    {"name":"Hampton Inn & Suites Dallas Downtown","lat":32.7802,"lng":-96.7966,"area":"Downtown","rating":4.3,"ratingCount":917,"stars":3,"priceTier":2},
-    {"name":"Sheraton Dallas Hotel","lat":32.7851,"lng":-96.7948,"area":"Arts District","rating":4.6,"ratingCount":1014,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Dallas Marriott Downtown","lat":32.7869,"lng":-96.7957,"area":"Arts District","rating":4.3,"ratingCount":1008,"stars":4,"priceTier":3},
-    {"name":"HALL Arts Hotel, Dallas, Autograph Collection","lat":32.7893,"lng":-96.7973,"area":"Arts District","rating":4.8,"ratingCount":1250,"stars":4,"priceTier":4},
-    {"name":"Kimpton Pittman Hotel","lat":32.7845,"lng":-96.7874,"area":"Arts District","rating":4.5,"ratingCount":254,"stars":4,"priceTier":3},
-    {"name":"The Ritz-Carlton, Dallas","lat":32.7924,"lng":-96.8038,"area":"Uptown","rating":4.5,"ratingCount":1082,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Hotel ZaZa Dallas Uptown","lat":32.7941,"lng":-96.8013,"area":"Uptown","rating":4.7,"ratingCount":2006,"stars":4,"priceTier":4},
-    {"name":"Hotel Crescent Court","lat":32.7941,"lng":-96.8042,"area":"Uptown","rating":4.5,"ratingCount":1933,"stars":5,"priceTier":4},
-    {"name":"Hôtel Swexan","lat":32.7924,"lng":-96.806,"area":"Uptown","rating":4.7,"ratingCount":181,"stars":5,"priceTier":4},
-    {"name":"Embassy Suites by Hilton Dallas Love Field","lat":32.8609,"lng":-96.8498,"area":"Dallas Love Field","rating":4.1,"ratingCount":1300,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"DoubleTree by Hilton Hotel Dallas - Love Field","lat":32.834,"lng":-96.8361,"area":"Dallas Love Field","rating":4.3,"ratingCount":740,"stars":3,"priceTier":3},
-    {"name":"Grand Hyatt DFW","lat":32.8976,"lng":-97.0445,"area":"DFW Airport","rating":4.7,"ratingCount":4226,"stars":4,"priceTier":4,"brandAnchor":true},
-    {"name":"Hyatt Regency DFW International Airport","lat":32.8976,"lng":-97.0385,"area":"DFW Airport","rating":4.1,"ratingCount":5286,"stars":3,"priceTier":3}
+    {"name":"Hyatt Regency Dallas","lat":32.7758,"lng":-96.8093,"area":"Dallas Union Station","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Omni Dallas Hotel","lat":32.7752,"lng":-96.8043,"area":"Dallas Union Station","stars":4,"priceTier":4},
+    {"name":"Courtyard by Marriott Dallas Downtown/Reunion District","lat":32.7769,"lng":-96.8068,"area":"Dallas Union Station","stars":3,"priceTier":3},
+    {"name":"The Adolphus, Autograph Collection","lat":32.7799,"lng":-96.8002,"area":"Downtown","stars":4,"priceTier":4,"brandAnchor":true},
+    {"name":"Fairmont Dallas","lat":32.7854,"lng":-96.8015,"area":"Downtown","stars":4,"priceTier":4},
+    {"name":"Magnolia Hotel Dallas Downtown","lat":32.7802,"lng":-96.7991,"area":"Downtown","stars":3,"priceTier":3},
+    {"name":"The Statler Dallas, Curio Collection by Hilton","lat":32.7804,"lng":-96.7946,"area":"Downtown","stars":4,"priceTier":3},
+    {"name":"Hampton Inn & Suites Dallas Downtown","lat":32.7802,"lng":-96.7966,"area":"Downtown","stars":3,"priceTier":2},
+    {"name":"Sheraton Dallas Hotel","lat":32.7851,"lng":-96.7948,"area":"Arts District","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Dallas Marriott Downtown","lat":32.7869,"lng":-96.7957,"area":"Arts District","stars":4,"priceTier":3},
+    {"name":"HALL Arts Hotel, Dallas, Autograph Collection","lat":32.7893,"lng":-96.7973,"area":"Arts District","stars":4,"priceTier":4},
+    {"name":"Kimpton Pittman Hotel","lat":32.7845,"lng":-96.7874,"area":"Arts District","stars":4,"priceTier":3},
+    {"name":"The Ritz-Carlton, Dallas","lat":32.7924,"lng":-96.8038,"area":"Uptown","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Hotel ZaZa Dallas Uptown","lat":32.7941,"lng":-96.8013,"area":"Uptown","stars":4,"priceTier":4},
+    {"name":"Hotel Crescent Court","lat":32.7941,"lng":-96.8042,"area":"Uptown","stars":5,"priceTier":4},
+    {"name":"Hôtel Swexan","lat":32.7924,"lng":-96.806,"area":"Uptown","stars":5,"priceTier":4},
+    {"name":"Embassy Suites by Hilton Dallas Love Field","lat":32.8609,"lng":-96.8498,"area":"Dallas Love Field","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"DoubleTree by Hilton Hotel Dallas - Love Field","lat":32.834,"lng":-96.8361,"area":"Dallas Love Field","stars":3,"priceTier":3},
+    {"name":"Grand Hyatt DFW","lat":32.8976,"lng":-97.0445,"area":"DFW Airport","stars":4,"priceTier":4,"brandAnchor":true},
+    {"name":"Hyatt Regency DFW International Airport","lat":32.8976,"lng":-97.0385,"area":"DFW Airport","stars":3,"priceTier":3}
   ],
   "sights": [
     {
@@ -209,7 +209,6 @@
       "lng": -96.8085,
       "note": "Exhibits on President Kennedy's life and 1963 assassination, inside the former Texas School Book Depository where the shots were fired.",
       "hours": "10:00 AM–5:00 PM Wed–Sun (last entry 4:15 PM), closed Mon & Tue",
-      "rating": 4.6,
       "ticketUrl": "https://www.jfk.org/",
       "bookAhead": true
     },
@@ -219,7 +218,6 @@
       "lng": -96.7166,
       "note": "66 acres of themed gardens on the shore of White Rock Lake, famous for spring tulips and the autumn pumpkin village.",
       "hours": "9:00 AM–5:00 PM daily",
-      "rating": 4.7,
       "ticketUrl": "https://www.dallasarboretum.org/"
     },
     {
@@ -228,7 +226,6 @@
       "lng": -96.8053,
       "note": "A walk-through rainforest and aquarium in the West End, with sloths, toucans, manatees and a shark tunnel.",
       "hours": "8:30 AM–5:00 PM daily (last entry 4:00 PM)",
-      "rating": 4.3,
       "ticketUrl": "https://dwazoo.com/"
     },
     {
@@ -237,7 +234,6 @@
       "lng": -96.8089,
       "note": "The lit-up geodesic ball on the skyline; the GeO-Deck observation level gives 360° views 470 ft above downtown.",
       "hours": "~12:30–8:30 PM most days (from ~3:30 PM Tue–Wed, to ~10:00 PM Sat); last elevator 30 min before close",
-      "rating": 4.4,
       "ticketUrl": "https://reuniontower.com/"
     },
     {
@@ -246,7 +242,6 @@
       "lng": -96.7783,
       "note": "The 43rd president's museum on the SMU campus, with a full-size Oval Office replica and a 9/11 gallery.",
       "hours": "9:00 AM–5:00 PM Mon–Sat, 12:00–5:00 PM Sun",
-      "rating": 4.6,
       "ticketUrl": "https://www.bushcenter.org/plan-your-visit"
     },
     {
@@ -255,7 +250,6 @@
       "lng": -96.8066,
       "note": "Five floors of hands-on science, dinosaur skeletons and gems inside a striking concrete cube in Victory Park.",
       "hours": "10:00 AM–5:00 PM (Sun from 11:00 AM), closed Tue except Nov–Dec",
-      "rating": 4.5,
       "ticketUrl": "https://www.perotmuseum.org/tickets"
     },
     {
@@ -264,24 +258,15 @@
       "lng": -96.801,
       "note": "A broad free-entry collection spanning ancient Americas to Monet and Pollock, anchoring the Arts District.",
       "hours": "11:00 AM–5:00 PM Tue–Sun (to 9:00 PM Thu), closed Mon",
-      "rating": 4.5,
       "ticketUrl": "https://dma.org/"
     },
-    {
-      "name": "Dealey Plaza",
-      "lat": 32.7788,
-      "lng": -96.8084,
-      "note": "The 1930s plaza where JFK was shot; an X on Elm Street and the grassy knoll draw visitors around the clock.",
-      "hours": "Open 24 hours",
-      "rating": 4.4
-    },
+    {"name":"Dealey Plaza","lat":32.7788,"lng":-96.8084,"note":"The 1930s plaza where JFK was shot; an X on Elm Street and the grassy knoll draw visitors around the clock.","hours":"Open 24 hours"},
     {
       "name": "Dallas Zoo",
       "lat": 32.7409,
       "lng": -96.8155,
       "note": "Texas's oldest and largest zoo, with a giraffe-feeding deck and a big African savanna; on the DART Red Line.",
       "hours": "9:00 AM–5:00 PM daily (9:00 AM–4:00 PM from early Nov and in midsummer)",
-      "rating": 4.3,
       "ticketUrl": "https://www.dallaszoo.com/"
     },
     {
@@ -289,24 +274,21 @@
       "lat": 32.7766,
       "lng": -96.8018,
       "note": "Forty-nine bronze longhorns and three cowboys drive across a hillside park beside the Convention Center.",
-      "hours": "Open 24 hours",
-      "rating": 4.6
+      "hours": "Open 24 hours"
     },
     {
       "name": "Klyde Warren Park",
       "lat": 32.7894,
       "lng": -96.8016,
       "note": "A lawn-and-plaza deck built over a sunken freeway, with food trucks, games and free events between Uptown and the Arts District.",
-      "hours": "6:00 AM–11:00 PM daily",
-      "rating": 4.5
+      "hours": "6:00 AM–11:00 PM daily"
     },
     {
       "name": "Bishop Arts District",
       "lat": 32.748,
       "lng": -96.8282,
       "note": "Oak Cliff's walkable grid of indie boutiques, bakeries, bars and murals, reached by the Dallas Streetcar.",
-      "hours": "Streets always open; most shops ~11:00 AM–7:00 PM, restaurants later",
-      "rating": 4.4
+      "hours": "Streets always open; most shops ~11:00 AM–7:00 PM, restaurants later"
     },
     {
       "name": "Frontiers of Flight Museum",
@@ -314,7 +296,6 @@
       "lng": -96.836,
       "note": "Aviation and spaceflight history at Love Field, including the Apollo 7 capsule and early Southwest Airlines jets.",
       "hours": "~10:00 AM–5:00 PM Mon–Sat, ~1:00–5:00 PM Sun",
-      "rating": 4.4,
       "ticketUrl": "https://www.flightmuseum.com/"
     },
     {
@@ -322,8 +303,7 @@
       "lat": 32.83,
       "lng": -96.725,
       "note": "A large city lake with a 9-mile loop trail for walking and cycling, and sunset views back to the skyline.",
-      "hours": "5:00 AM–11:00 PM daily",
-      "rating": 4.5
+      "hours": "5:00 AM–11:00 PM daily"
     },
     {
       "name": "Dallas Holocaust and Human Rights Museum",
@@ -331,7 +311,6 @@
       "lng": -96.807,
       "note": "A moving modern museum in the West End tracing the Holocaust and the American civil-rights struggle.",
       "hours": "~10:00 AM–5:00 PM daily (from noon Sun)",
-      "rating": 4.4,
       "ticketUrl": "https://www.dhhrm.org/"
     },
     {
@@ -340,7 +319,6 @@
       "lng": -96.8001,
       "note": "A Renzo Piano gallery and garden of modern sculpture by Rodin, Calder, Moore and Serra.",
       "hours": "11:00 AM–5:00 PM Tue–Sun, closed Mon",
-      "rating": 4.4,
       "ticketUrl": "https://www.nashersculpturecenter.org/"
     },
     {
@@ -348,16 +326,14 @@
       "lat": 32.7843,
       "lng": -96.7837,
       "note": "Former warehouse district east of downtown, now Dallas's live-music, mural and bar strip; liveliest after dark.",
-      "hours": "Streets always open; bars and venues mostly evenings until 2:00 AM",
-      "rating": 4.3
+      "hours": "Streets always open; bars and venues mostly evenings until 2:00 AM"
     },
     {
       "name": "Dallas Farmers Market",
       "lat": 32.7768,
       "lng": -96.7891,
       "note": "Covered food hall and weekend produce shed in the Farmers Market district, good for a casual lunch.",
-      "hours": "Market hall ~10:00 AM–6:00 PM daily; outdoor Shed weekends ~9:00 AM–5:00 PM",
-      "rating": 3.9
+      "hours": "Market hall ~10:00 AM–6:00 PM daily; outdoor Shed weekends ~9:00 AM–5:00 PM"
     }
   ],
   "railStations": [

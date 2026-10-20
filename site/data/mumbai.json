@@ -130,48 +130,28 @@
     }
   ],
   "hotels": [
-    {"name":"Residency Hotel Fort","lat":18.9353,"lng":72.8331,"area":"Chhatrapati Shivaji Maharaj Terminus","rating":4.5,"ratingCount":3216,"stars":3,"priceTier":2},
-    {"name":"The Sahil Hotel","lat":18.9687,"lng":72.8236,"area":"Mumbai Central","rating":4.5,"ratingCount":1541,"stars":3,"priceTier":2},
-    {"name":"Hotel Kumkum","lat":18.9648,"lng":72.8189,"area":"Mumbai Central","rating":4.1,"ratingCount":632,"stars":2,"priceTier":2},
-    {
-      "name": "Hilton Mumbai International Airport",
-      "lat": 19.1044,
-      "lng": 72.8709,
-      "area": "Chhatrapati Shivaji Maharaj International Airport",
-      "rating": 4.6,
-      "ratingCount": 4234,
-      "stars": 5,
-      "priceTier": 3,
-      "brandAnchor": true
-    },
-    {"name":"Hyatt Regency Mumbai","lat":19.1037,"lng":72.8713,"area":"Chhatrapati Shivaji Maharaj International Airport","rating":4.5,"ratingCount":3690,"stars":5,"priceTier":3,"brandAnchor":true},
-    {
-      "name": "ITC Maratha, a Luxury Collection Hotel",
-      "lat": 19.1039,
-      "lng": 72.8698,
-      "area": "Chhatrapati Shivaji Maharaj International Airport",
-      "rating": 4.7,
-      "ratingCount": 6451,
-      "stars": 5,
-      "priceTier": 4,
-      "brandAnchor": true
-    },
-    {"name":"Taj Santacruz","lat":19.0927,"lng":72.8544,"area":"Chhatrapati Shivaji Maharaj International Airport","rating":4.7,"ratingCount":4896,"stars":5,"priceTier":4},
-    {"name":"ibis Mumbai Airport","lat":19.0967,"lng":72.8535,"area":"Chhatrapati Shivaji Maharaj International Airport","rating":4.1,"ratingCount":2786,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"The Taj Mahal Palace","lat":18.922,"lng":72.8333,"area":"Colaba","rating":4.7,"ratingCount":11665,"stars":5,"priceTier":4},
-    {"name":"Abode Bombay","lat":18.9238,"lng":72.8326,"area":"Colaba","rating":4.8,"ratingCount":2068,"stars":3,"priceTier":3},
-    {"name":"Hotel Suba Palace","lat":18.924,"lng":72.8322,"area":"Colaba","rating":4.1,"ratingCount":760,"stars":3,"priceTier":2},
-    {"name":"Ascot Hotel","lat":18.9194,"lng":72.8297,"area":"Colaba","rating":4.4,"ratingCount":479,"stars":3,"priceTier":2},
-    {"name":"InterContinental Marine Drive","lat":18.935,"lng":72.8243,"area":"Churchgate","rating":4.5,"ratingCount":1718,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Hotel Marine Plaza","lat":18.9312,"lng":72.8231,"area":"Churchgate","rating":4.4,"ratingCount":1250,"stars":5,"priceTier":3},
-    {"name":"Hotel Astoria","lat":18.9323,"lng":72.8271,"area":"Churchgate","rating":4,"ratingCount":349,"stars":3,"priceTier":2},
-    {"name":"Sofitel Mumbai BKC","lat":19.0677,"lng":72.8688,"area":"Bandra Kurla Complex","rating":4.8,"ratingCount":9490,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Trident Bandra Kurla","lat":19.0667,"lng":72.8679,"area":"Bandra Kurla Complex","rating":4.7,"ratingCount":8580,"stars":5,"priceTier":4},
-    {"name":"ibis Mumbai BKC","lat":19.074,"lng":72.8689,"area":"Bandra Kurla Complex","rating":4.8,"ratingCount":295,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"Ramada Plaza by Wyndham Palm Grove","lat":19.0986,"lng":72.8268,"area":"Juhu","rating":4.5,"ratingCount":3398,"stars":5,"priceTier":3,"brandAnchor":true},
-    {"name":"JW Marriott Mumbai Juhu","lat":19.1018,"lng":72.826,"area":"Juhu","rating":4.5,"ratingCount":5985,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Hotel Bawa Continental","lat":19.1006,"lng":72.8276,"area":"Juhu","rating":4.4,"ratingCount":1098,"stars":3,"priceTier":2},
-    {"name":"Juhu Residency Boutique Hotel","lat":19.1012,"lng":72.8274,"area":"Juhu","rating":4.1,"ratingCount":151,"stars":3,"priceTier":2}
+    {"name":"Residency Hotel Fort","lat":18.9353,"lng":72.8331,"area":"Chhatrapati Shivaji Maharaj Terminus","stars":3,"priceTier":2},
+    {"name":"The Sahil Hotel","lat":18.9687,"lng":72.8236,"area":"Mumbai Central","stars":3,"priceTier":2},
+    {"name":"Hotel Kumkum","lat":18.9648,"lng":72.8189,"area":"Mumbai Central","stars":2,"priceTier":2},
+    {"name":"Hilton Mumbai International Airport","lat":19.1044,"lng":72.8709,"area":"Chhatrapati Shivaji Maharaj International Airport","stars":5,"priceTier":3,"brandAnchor":true},
+    {"name":"Hyatt Regency Mumbai","lat":19.1037,"lng":72.8713,"area":"Chhatrapati Shivaji Maharaj International Airport","stars":5,"priceTier":3,"brandAnchor":true},
+    {"name":"ITC Maratha, a Luxury Collection Hotel","lat":19.1039,"lng":72.8698,"area":"Chhatrapati Shivaji Maharaj International Airport","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Taj Santacruz","lat":19.0927,"lng":72.8544,"area":"Chhatrapati Shivaji Maharaj International Airport","stars":5,"priceTier":4},
+    {"name":"ibis Mumbai Airport","lat":19.0967,"lng":72.8535,"area":"Chhatrapati Shivaji Maharaj International Airport","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"The Taj Mahal Palace","lat":18.922,"lng":72.8333,"area":"Colaba","stars":5,"priceTier":4},
+    {"name":"Abode Bombay","lat":18.9238,"lng":72.8326,"area":"Colaba","stars":3,"priceTier":3},
+    {"name":"Hotel Suba Palace","lat":18.924,"lng":72.8322,"area":"Colaba","stars":3,"priceTier":2},
+    {"name":"Ascot Hotel","lat":18.9194,"lng":72.8297,"area":"Colaba","stars":3,"priceTier":2},
+    {"name":"InterContinental Marine Drive","lat":18.935,"lng":72.8243,"area":"Churchgate","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Hotel Marine Plaza","lat":18.9312,"lng":72.8231,"area":"Churchgate","stars":5,"priceTier":3},
+    {"name":"Hotel Astoria","lat":18.9323,"lng":72.8271,"area":"Churchgate","stars":3,"priceTier":2},
+    {"name":"Sofitel Mumbai BKC","lat":19.0677,"lng":72.8688,"area":"Bandra Kurla Complex","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Trident Bandra Kurla","lat":19.0667,"lng":72.8679,"area":"Bandra Kurla Complex","stars":5,"priceTier":4},
+    {"name":"ibis Mumbai BKC","lat":19.074,"lng":72.8689,"area":"Bandra Kurla Complex","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Ramada Plaza by Wyndham Palm Grove","lat":19.0986,"lng":72.8268,"area":"Juhu","stars":5,"priceTier":3,"brandAnchor":true},
+    {"name":"JW Marriott Mumbai Juhu","lat":19.1018,"lng":72.826,"area":"Juhu","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Hotel Bawa Continental","lat":19.1006,"lng":72.8276,"area":"Juhu","stars":3,"priceTier":2},
+    {"name":"Juhu Residency Boutique Hotel","lat":19.1012,"lng":72.8274,"area":"Juhu","stars":3,"priceTier":2}
   ],
   "sights": [
     {
@@ -179,88 +159,77 @@
       "lat": 18.922,
       "lng": 72.8347,
       "note": "A basalt triumphal arch on the Apollo Bunder waterfront, built for the 1911 royal visit and now the departure point for Elephanta ferries.",
-      "hours": "Open 24 hours (grounds may close during events)",
-      "rating": 4.2
+      "hours": "Open 24 hours (grounds may close during events)"
     },
     {
       "name": "Shree Siddhivinayak Temple",
       "lat": 19.0169,
       "lng": 72.8302,
       "note": "Mumbai's most visited Ganesh temple in Prabhadevi, with a gold-plated dome and long, fast-moving darshan queues, longest on Tuesdays.",
-      "hours": "~5:30 AM–~10:00 PM daily (earlier opening on Tuesdays)",
-      "rating": 4.6
+      "hours": "~5:30 AM–~10:00 PM daily (earlier opening on Tuesdays)"
     },
     {
       "name": "Marine Drive",
       "lat": 18.944,
       "lng": 72.823,
       "note": "A 3.6 km seafront promenade curving from Nariman Point to Chowpatty, lined with Art Deco buildings and nicknamed the Queen's Necklace for its lights after dark.",
-      "hours": "Open 24 hours; best at sunset",
-      "rating": 4.5
+      "hours": "Open 24 hours; best at sunset"
     },
     {
       "name": "Bandra-Worli Sea Link",
       "lat": 19.0418,
       "lng": 72.8186,
       "note": "A cable-stayed toll bridge arching across Mahim Bay; it carries cars only, so watch it from the Bandra Fort ramparts and Bandstand promenade.",
-      "hours": "Viewpoint open ~6:00 AM–~9:00 PM; bridge open 24 hours to vehicles",
-      "rating": 4.5
+      "hours": "Viewpoint open ~6:00 AM–~9:00 PM; bridge open 24 hours to vehicles"
     },
     {
       "name": "Elephanta Caves",
       "lat": 18.9633,
       "lng": 72.9315,
       "note": "Rock-cut Shiva cave temples from the 5th–7th centuries on an island in the harbour, famous for the three-headed Trimurti sculpture; a ~1 hour ferry from the Gateway of India.",
-      "hours": "9:00 AM–5:30 PM, closed Mon; ferries from the Gateway ~9:00 AM–~2:00 PM, last return ~5:30 PM",
-      "rating": 4
+      "hours": "9:00 AM–5:30 PM, closed Mon; ferries from the Gateway ~9:00 AM–~2:00 PM, last return ~5:30 PM"
     },
     {
       "name": "Chhatrapati Shivaji Maharaj Terminus",
       "lat": 18.94,
       "lng": 72.8355,
       "note": "A working railway station that doubles as a UNESCO-listed Victorian Gothic masterpiece of domes, turrets and carved stone, busiest at rush hour.",
-      "hours": "Station open 24 hours; heritage gallery walks on weekdays",
-      "rating": 4.4
+      "hours": "Station open 24 hours; heritage gallery walks on weekdays"
     },
     {
       "name": "Global Vipassana Pagoda",
       "lat": 19.2286,
       "lng": 72.8059,
       "note": "A huge gilded meditation dome at Gorai on the city's northern edge, modelled on Yangon's Shwedagon, with a free exhibition on the Buddha's life.",
-      "hours": "~9:00 AM–6:00 PM daily",
-      "rating": 4.5
+      "hours": "~9:00 AM–6:00 PM daily"
     },
     {
       "name": "Juhu Beach",
       "lat": 19.0988,
       "lng": 72.8264,
       "note": "A long, busy suburban beach where families stroll at sunset and stalls sell pav bhaji and kulfi; not for swimming.",
-      "hours": "Open 24 hours; busiest in the evening",
-      "rating": 3.7
+      "hours": "Open 24 hours; busiest in the evening"
     },
     {
       "name": "Mahalaxmi Dhobi Ghat",
       "lat": 18.9827,
       "lng": 72.8253,
       "note": "A vast open-air laundry of concrete wash pens where hundreds of washermen scrub the city's clothes, best seen from the bridge by Mahalaxmi station.",
-      "hours": "Viewable ~6:00 AM–~6:00 PM; busiest in the morning",
-      "rating": 4.1
+      "hours": "Viewable ~6:00 AM–~6:00 PM; busiest in the morning"
     },
     {
       "name": "Mani Bhavan Gandhi Museum",
       "lat": 18.9597,
       "lng": 72.8114,
       "note": "The modest house where Gandhi stayed on his Mumbai visits, with his room, letters, books and a series of dioramas of his life.",
-      "hours": "~9:30 AM–6:00 PM daily",
-      "rating": 4.4
+      "hours": "~9:30 AM–6:00 PM daily"
     },
     {
       "name": "Kanheri Caves",
       "lat": 19.2058,
       "lng": 72.9067,
       "note": "More than 100 Buddhist caves carved into a forested hillside inside Sanjay Gandhi National Park, with a giant chaitya hall and standing Buddhas.",
-      "hours": "~7:30 AM–5:00 PM, closed Mon (park entry fee plus cave ticket)",
-      "rating": 4.3
+      "hours": "~7:30 AM–5:00 PM, closed Mon (park entry fee plus cave ticket)"
     },
     {
       "name": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya",
@@ -268,7 +237,6 @@
       "lng": 72.8326,
       "note": "The former Prince of Wales Museum, an Indo-Saracenic building with strong galleries of Indian sculpture, miniature paintings and decorative arts.",
       "hours": "10:15 AM–6:00 PM daily",
-      "rating": 4.3,
       "ticketUrl": "https://csmvs.in"
     },
     {
@@ -276,48 +244,42 @@
       "lat": 18.9772,
       "lng": 72.8065,
       "note": "A seaside temple to the goddess of wealth on Bhulabhai Desai Road, its lanes packed with flower and sweet stalls.",
-      "hours": "~6:00 AM–~10:00 PM daily",
-      "rating": 4.5
+      "hours": "~6:00 AM–~10:00 PM daily"
     },
     {
       "name": "Haji Ali Dargah",
       "lat": 18.9827,
       "lng": 72.8089,
       "note": "A white 15th-century mosque and Sufi shrine on an islet, reached by a causeway that floods at high tide.",
-      "hours": "~5:30 AM–~10:00 PM daily; causeway walkable at low tide",
-      "rating": 4.1
+      "hours": "~5:30 AM–~10:00 PM daily; causeway walkable at low tide"
     },
     {
       "name": "Mount Mary Basilica",
       "lat": 19.0467,
       "lng": 72.8226,
       "note": "A hilltop neo-Gothic church in Bandra revered by people of all faiths, focus of a week-long fair each September.",
-      "hours": "~6:00 AM–~9:00 PM daily",
-      "rating": 4.5
+      "hours": "~6:00 AM–~9:00 PM daily"
     },
     {
       "name": "Colaba Causeway",
       "lat": 18.918,
       "lng": 72.8295,
       "note": "Colaba's main street of colonial arcades, street stalls, cafés and old bars such as Leopold Café, good for an evening wander.",
-      "hours": "Stalls ~10:00 AM–~10:00 PM",
-      "rating": 4.1
+      "hours": "Stalls ~10:00 AM–~10:00 PM"
     },
     {
       "name": "Girgaum Chowpatty",
       "lat": 18.9548,
       "lng": 72.8145,
       "note": "The beach at the north end of Marine Drive, where evening crowds snack on bhel puri and the city's biggest Ganesh immersions take place.",
-      "hours": "Open 24 hours; food stalls evenings",
-      "rating": 3.7
+      "hours": "Open 24 hours; food stalls evenings"
     },
     {
       "name": "Crawford Market",
       "lat": 18.9473,
       "lng": 72.8343,
       "note": "Mahatma Phule Market, a Victorian market hall with Lockwood Kipling friezes, selling fruit, spices and dry goods amid noisy lanes.",
-      "hours": "~10:00 AM–~8:00 PM, Mon–Sat",
-      "rating": 3.9
+      "hours": "~10:00 AM–~8:00 PM, Mon–Sat"
     }
   ],
   "railStations": [

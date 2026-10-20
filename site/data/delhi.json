@@ -392,22 +392,22 @@
     }
   ],
   "hotels": [
-    {"name":"Bloomrooms @ New Delhi Railway Station","lat":28.6455,"lng":77.2178,"area":"New Delhi Railway Station","rating":4.4,"ratingCount":1910,"stars":3,"priceTier":2},
-    {"name":"Zostel Delhi","lat":28.6457,"lng":77.2174,"area":"New Delhi Railway Station","rating":4.4,"ratingCount":1067,"stars":1,"priceTier":1},
-    {"name":"Hotel Parkway Deluxe","lat":28.6454,"lng":77.2178,"area":"New Delhi Railway Station","rating":4,"ratingCount":168,"stars":3,"priceTier":2},
-    {"name":"Radisson Blu Marina Hotel, Connaught Place","lat":28.634,"lng":77.2172,"area":"Connaught Place","rating":4.4,"ratingCount":4194,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"The Park New Delhi","lat":28.6289,"lng":77.2162,"area":"Connaught Place","rating":4.2,"ratingCount":6744,"stars":5,"priceTier":4},
-    {"name":"The Connaught, New Delhi - IHCL SeleQtions","lat":28.6327,"lng":77.2132,"area":"Connaught Place","rating":4.7,"ratingCount":971,"stars":5,"priceTier":4},
-    {"name":"Hotel Palace Heights","lat":28.6336,"lng":77.2212,"area":"Connaught Place","rating":4.4,"ratingCount":868,"stars":3,"priceTier":2},
-    {"name":"Hotel Bright","lat":28.6329,"lng":77.2227,"area":"Connaught Place","rating":4,"ratingCount":405,"stars":3,"priceTier":2},
-    {"name":"JW Marriott Hotel New Delhi Aerocity","lat":28.5528,"lng":77.1216,"area":"Delhi Aerocity","rating":4.7,"ratingCount":6469,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Holiday Inn New Delhi Aerocity","lat":28.5502,"lng":77.1228,"area":"Delhi Aerocity","rating":4.6,"ratingCount":6105,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Aloft New Delhi Aerocity","lat":28.5524,"lng":77.1235,"area":"Delhi Aerocity","rating":4.7,"ratingCount":3390,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"ibis New Delhi Aerocity","lat":28.5514,"lng":77.1233,"area":"Delhi Aerocity","rating":4.3,"ratingCount":5402,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"Radisson Blu Plaza Hotel, Delhi Airport","lat":28.5431,"lng":77.1195,"area":"Delhi Aerocity","rating":4.7,"ratingCount":10709,"stars":5,"priceTier":3,"brandAnchor":true},
-    {"name":"Hotel Taj Princess","lat":28.6458,"lng":77.1885,"area":"Karol Bagh","rating":4,"ratingCount":310,"stars":3,"priceTier":2},
-    {"name":"The Ambassador New Delhi","lat":28.6017,"lng":77.2288,"area":"Khan Market","rating":4.5,"ratingCount":3251,"stars":5,"priceTier":4},
-    {"name":"The Taj Mahal Hotel New Delhi","lat":28.6048,"lng":77.2235,"area":"Khan Market","rating":4.7,"ratingCount":1689,"stars":5,"priceTier":4}
+    {"name":"Bloomrooms @ New Delhi Railway Station","lat":28.6455,"lng":77.2178,"area":"New Delhi Railway Station","stars":3,"priceTier":2},
+    {"name":"Zostel Delhi","lat":28.6457,"lng":77.2174,"area":"New Delhi Railway Station","stars":1,"priceTier":1},
+    {"name":"Hotel Parkway Deluxe","lat":28.6454,"lng":77.2178,"area":"New Delhi Railway Station","stars":3,"priceTier":2},
+    {"name":"Radisson Blu Marina Hotel, Connaught Place","lat":28.634,"lng":77.2172,"area":"Connaught Place","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"The Park New Delhi","lat":28.6289,"lng":77.2162,"area":"Connaught Place","stars":5,"priceTier":4},
+    {"name":"The Connaught, New Delhi - IHCL SeleQtions","lat":28.6327,"lng":77.2132,"area":"Connaught Place","stars":5,"priceTier":4},
+    {"name":"Hotel Palace Heights","lat":28.6336,"lng":77.2212,"area":"Connaught Place","stars":3,"priceTier":2},
+    {"name":"Hotel Bright","lat":28.6329,"lng":77.2227,"area":"Connaught Place","stars":3,"priceTier":2},
+    {"name":"JW Marriott Hotel New Delhi Aerocity","lat":28.5528,"lng":77.1216,"area":"Delhi Aerocity","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Holiday Inn New Delhi Aerocity","lat":28.5502,"lng":77.1228,"area":"Delhi Aerocity","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Aloft New Delhi Aerocity","lat":28.5524,"lng":77.1235,"area":"Delhi Aerocity","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"ibis New Delhi Aerocity","lat":28.5514,"lng":77.1233,"area":"Delhi Aerocity","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Radisson Blu Plaza Hotel, Delhi Airport","lat":28.5431,"lng":77.1195,"area":"Delhi Aerocity","stars":5,"priceTier":3,"brandAnchor":true},
+    {"name":"Hotel Taj Princess","lat":28.6458,"lng":77.1885,"area":"Karol Bagh","stars":3,"priceTier":2},
+    {"name":"The Ambassador New Delhi","lat":28.6017,"lng":77.2288,"area":"Khan Market","stars":5,"priceTier":4},
+    {"name":"The Taj Mahal Hotel New Delhi","lat":28.6048,"lng":77.2235,"area":"Khan Market","stars":5,"priceTier":4}
   ],
   "sights": [
     {
@@ -416,7 +416,6 @@
       "lng": 77.2773,
       "note": "A vast modern temple complex of carved pink sandstone and marble, with exhibition halls, a boat ride and an evening water-and-light show; phones and cameras must be left in lockers.",
       "hours": "~10:00 AM–6:30 PM, closed Mon; evening fountain show after dusk",
-      "rating": 4.6,
       "ticketUrl": "https://akshardham.com"
     },
     {
@@ -424,48 +423,42 @@
       "lat": 28.5245,
       "lng": 77.1855,
       "note": "A 73 m red-sandstone victory tower from the 12th century, surrounded by the ruins of India's first mosque and the 1,600-year-old Iron Pillar.",
-      "hours": "Sunrise–sunset daily (~7:00 AM–5:00 PM)",
-      "rating": 4.5
+      "hours": "Sunrise–sunset daily (~7:00 AM–5:00 PM)"
     },
     {
       "name": "Humayun's Tomb",
       "lat": 28.5933,
       "lng": 77.2507,
       "note": "The garden tomb of the second Mughal emperor, a forerunner of the Taj Mahal and a UNESCO World Heritage Site.",
-      "hours": "Sunrise–sunset daily (~6:00 AM–6:00 PM)",
-      "rating": 4.5
+      "hours": "Sunrise–sunset daily (~6:00 AM–6:00 PM)"
     },
     {
       "name": "Gurudwara Bangla Sahib",
       "lat": 28.6264,
       "lng": 77.2092,
       "note": "A gleaming gold-domed Sikh temple beside a sacred pool, where a free community kitchen serves vegetarian meals to thousands daily; cover your head and remove shoes.",
-      "hours": "Open 24 hours; langar served around the clock",
-      "rating": 4.7
+      "hours": "Open 24 hours; langar served around the clock"
     },
     {
       "name": "India Gate & Kartavya Path",
       "lat": 28.6129,
       "lng": 77.2295,
       "note": "The 42 m war memorial arch at the end of the ceremonial lawns-lined avenue towards Rashtrapati Bhavan; floodlit at night and popular for evening ice cream.",
-      "hours": "Open 24 hours; lit after dusk",
-      "rating": 4.2
+      "hours": "Open 24 hours; lit after dusk"
     },
     {
       "name": "Lodhi Garden",
       "lat": 28.5931,
       "lng": 77.2197,
       "note": "A landscaped park scattered with 15th-century Sayyid and Lodi tombs, popular with joggers and picnickers.",
-      "hours": "6:00 AM–8:00 PM daily",
-      "rating": 4.5
+      "hours": "6:00 AM–8:00 PM daily"
     },
     {
       "name": "Lotus Temple",
       "lat": 28.5535,
       "lng": 77.2588,
       "note": "A Baha'i house of worship shaped like a half-open lotus flower of white marble, with a silent prayer hall open to all faiths.",
-      "hours": "~9:00 AM–5:30 PM (shorter in winter), closed Mon",
-      "rating": 4.2
+      "hours": "~9:00 AM–5:30 PM (shorter in winter), closed Mon"
     },
     {
       "name": "Red Fort",
@@ -473,7 +466,6 @@
       "lng": 77.241,
       "note": "The 17th-century red-sandstone Mughal palace-fortress from which India's prime minister addresses the nation on Independence Day.",
       "hours": "~9:30 AM–4:30 PM, closed Mon",
-      "rating": 4,
       "bookAhead": true
     },
     {
@@ -481,40 +473,35 @@
       "lat": 28.6315,
       "lng": 77.2167,
       "note": "The colonnaded circular heart of New Delhi, ringed by cafés, bars, bookshops and old Delhi restaurants such as Wenger's and the Indian Coffee House.",
-      "hours": "Shops ~10:30 AM–10:00 PM; bars to late night",
-      "rating": 4
+      "hours": "Shops ~10:30 AM–10:00 PM; bars to late night"
     },
     {
       "name": "Hauz Khas Village",
       "lat": 28.5535,
       "lng": 77.1943,
       "note": "A trendy enclave of boutiques, cafés and bars overlooking a medieval reservoir, with a 14th-century madrasa and tombs and a deer park beside it.",
-      "hours": "Cafés and bars ~11:00 AM–1:00 AM; deer park 5:00 AM–8:00 PM",
-      "rating": 4.3
+      "hours": "Cafés and bars ~11:00 AM–1:00 AM; deer park 5:00 AM–8:00 PM"
     },
     {
       "name": "Dilli Haat INA",
       "lat": 28.5733,
       "lng": 77.2085,
       "note": "An open-air craft bazaar and food court where each Indian state runs a regional food stall, with handicrafts sold directly by artisans.",
-      "hours": "10:30 AM–10:00 PM daily (small entry fee)",
-      "rating": 4.1
+      "hours": "10:30 AM–10:00 PM daily (small entry fee)"
     },
     {
       "name": "Chandni Chowk",
       "lat": 28.6506,
       "lng": 77.2303,
       "note": "Old Delhi's chaotic 17th-century main bazaar, best explored on foot or by cycle-rickshaw for parathas, jalebi, spices and wedding silks.",
-      "hours": "Shops ~10:00 AM–8:00 PM, many closed Sun; food stalls from early morning",
-      "rating": 4.1
+      "hours": "Shops ~10:00 AM–8:00 PM, many closed Sun; food stalls from early morning"
     },
     {
       "name": "Jama Masjid",
       "lat": 28.6507,
       "lng": 77.2334,
       "note": "India's largest mosque, built by Shah Jahan with courtyard space for 25,000 worshippers and a minaret climb for views over Old Delhi.",
-      "hours": "~8:00 AM–12:00 PM and ~2:00–6:00 PM for visitors; closed to tourists at prayer times",
-      "rating": 3.6
+      "hours": "~8:00 AM–12:00 PM and ~2:00–6:00 PM for visitors; closed to tourists at prayer times"
     },
     {
       "name": "Rashtrapati Bhavan",
@@ -522,7 +509,6 @@
       "lng": 77.1999,
       "note": "The sprawling Edwin Lutyens-designed presidential residence on Raisina Hill; the gardens and galleries can be visited on pre-booked tours.",
       "hours": "Pre-booked visitor circuits on weekends (check site); exterior viewable from Rajpath side",
-      "rating": 4.5,
       "ticketUrl": "https://visit.rashtrapatibhavan.gov.in",
       "bookAhead": true
     },
@@ -531,24 +517,21 @@
       "lat": 28.6265,
       "lng": 77.2251,
       "note": "A 60 m deep medieval stepwell hidden between office towers near Connaught Place, with 103 steps down into cool arched niches.",
-      "hours": "~9:00 AM–5:30 PM daily",
-      "rating": 4.3
+      "hours": "~9:00 AM–5:30 PM daily"
     },
     {
       "name": "Sunder Nursery",
       "lat": 28.5936,
       "lng": 77.2437,
       "note": "A restored Mughal-era garden park beside Humayun's Tomb with lawns, a lake, heritage tombs and a peaceful café.",
-      "hours": "7:00 AM–7:00 PM daily",
-      "rating": 4.6
+      "hours": "7:00 AM–7:00 PM daily"
     },
     {
       "name": "Gandhi Smriti",
       "lat": 28.6008,
       "lng": 77.2152,
       "note": "The house where Mahatma Gandhi spent his last 144 days and was assassinated in 1948, preserved with his footprints and a small museum.",
-      "hours": "~10:00 AM–5:00 PM, closed Mon",
-      "rating": 4.5
+      "hours": "~10:00 AM–5:00 PM, closed Mon"
     }
   ],
   "railStations": [

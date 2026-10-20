@@ -151,14 +151,14 @@
     }
   ],
   "hotels": [
-    {"name":"Four Seasons Hotel Riyadh at Kingdom Centre","lat":24.711,"lng":46.6734,"area":"Olaya","rating":4.5,"ratingCount":685,"stars":5,"priceTier":4},
-    {"name":"Hilton Riyadh Olaya","lat":24.7102,"lng":46.6722,"area":"Olaya","rating":4.8,"ratingCount":227,"stars":5,"priceTier":3,"brandAnchor":true},
-    {"name":"Comfort Hotel Riyadh Olaya","lat":24.707,"lng":46.6771,"area":"Olaya","rating":4.9,"ratingCount":285,"stars":4,"priceTier":2},
-    {"name":"Holiday Inn Riyadh - Al Qasr","lat":24.6839,"lng":46.688,"area":"Al Faisaliah","rating":4.6,"ratingCount":1362,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Novotel Suites Riyadh Olaya","lat":24.6845,"lng":46.6901,"area":"Al Faisaliah","rating":4,"ratingCount":337,"stars":4,"priceTier":2,"brandAnchor":true},
-    {"name":"Mövenpick Hotel and Residences Riyadh","lat":24.764,"lng":46.6531,"area":"Al Muruj","rating":4.9,"ratingCount":840,"stars":5,"priceTier":3,"brandAnchor":true},
-    {"name":"DoubleTree by Hilton Riyadh - Al Muroj Business Gate","lat":24.7645,"lng":46.6574,"area":"Al Muruj","rating":4.1,"ratingCount":734,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Hilton Garden Inn Riyadh Financial District","lat":24.765,"lng":46.6549,"area":"Al Muruj","rating":4.5,"ratingCount":309,"stars":4,"priceTier":2,"brandAnchor":true}
+    {"name":"Four Seasons Hotel Riyadh at Kingdom Centre","lat":24.711,"lng":46.6734,"area":"Olaya","stars":5,"priceTier":4},
+    {"name":"Hilton Riyadh Olaya","lat":24.7102,"lng":46.6722,"area":"Olaya","stars":5,"priceTier":3,"brandAnchor":true},
+    {"name":"Comfort Hotel Riyadh Olaya","lat":24.707,"lng":46.6771,"area":"Olaya","stars":4,"priceTier":2},
+    {"name":"Holiday Inn Riyadh - Al Qasr","lat":24.6839,"lng":46.688,"area":"Al Faisaliah","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Novotel Suites Riyadh Olaya","lat":24.6845,"lng":46.6901,"area":"Al Faisaliah","stars":4,"priceTier":2,"brandAnchor":true},
+    {"name":"Mövenpick Hotel and Residences Riyadh","lat":24.764,"lng":46.6531,"area":"Al Muruj","stars":5,"priceTier":3,"brandAnchor":true},
+    {"name":"DoubleTree by Hilton Riyadh - Al Muroj Business Gate","lat":24.7645,"lng":46.6574,"area":"Al Muruj","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hilton Garden Inn Riyadh Financial District","lat":24.765,"lng":46.6549,"area":"Al Muruj","stars":4,"priceTier":2,"brandAnchor":true}
   ],
   "sights": [
     {
@@ -166,88 +166,77 @@
       "lat": 24.7113,
       "lng": 46.6744,
       "note": "A 300 m-high steel walkway spanning the opening at the top of Riyadh's bottle-opener-shaped Kingdom Tower, reached by two fast lifts, with sweeping views over Olaya.",
-      "hours": "~10:00 AM–11:00 PM daily (Fri from afternoon)",
-      "rating": 4.3
+      "hours": "~10:00 AM–11:00 PM daily (Fri from afternoon)"
     },
     {
       "name": "National Museum",
       "lat": 24.6478,
       "lng": 46.7106,
       "note": "A modern museum in the King Abdulaziz Historical Center tracing Arabia from prehistory and the early Islamic era to the unification of the kingdom, with well-designed galleries in English and Arabic.",
-      "hours": "~9:00 AM–8:00 PM; Fri afternoon only",
-      "rating": 4.4
+      "hours": "~9:00 AM–8:00 PM; Fri afternoon only"
     },
     {
       "name": "Al Masmak Fortress",
       "lat": 24.6312,
       "lng": 46.7134,
       "note": "A mud-brick fort with corner watchtowers in old Deera, stormed by Ibn Saud in 1902 in the raid that began the Saudi state; currently listed as temporarily closed.",
-      "hours": "Temporarily closed (Oct 2026); view the exterior from Deera's squares",
-      "rating": 4.3
+      "hours": "Temporarily closed (Oct 2026); view the exterior from Deera's squares"
     },
     {
       "name": "Al Rajhi Grand Mosque",
       "lat": 24.6772,
       "lng": 46.7789,
       "note": "One of Riyadh's largest mosques, in the eastern Al Jazirah district, built in a restrained traditional Najdi style with tall minarets and a vast courtyard.",
-      "hours": "Open for the five daily prayers; visitors should dress modestly and avoid prayer times",
-      "rating": 4.8
+      "hours": "Open for the five daily prayers; visitors should dress modestly and avoid prayer times"
     },
     {
       "name": "Al Faisaliah Centre",
       "lat": 24.6903,
       "lng": 46.6853,
       "note": "Riyadh's first skyscraper, a tapering tower crowned by a golden glass globe that holds a viewing deck and restaurant.",
-      "hours": "Globe deck ~10:00 AM–11:00 PM daily",
-      "rating": 4.1
+      "hours": "Globe deck ~10:00 AM–11:00 PM daily"
     },
     {
       "name": "King Abdullah Park",
       "lat": 24.6664,
       "lng": 46.7369,
       "note": "A large family park in Al Malaz with lawns, a lake and an evening musical fountain show.",
-      "hours": "~4:00 PM–midnight daily; fountain shows in the evening",
-      "rating": 4.3
+      "hours": "~4:00 PM–midnight daily; fountain shows in the evening"
     },
     {
       "name": "Tahlia Street",
       "lat": 24.6955,
       "lng": 46.684,
       "note": "Prince Mohammed bin Abdulaziz Road, Riyadh's café and restaurant strip between King Fahd Road and Olaya, at its liveliest late at night.",
-      "hours": "Open 24 hours; busiest ~8:00 PM–2:00 AM",
-      "rating": 4.2
+      "hours": "Open 24 hours; busiest ~8:00 PM–2:00 AM"
     },
     {
       "name": "King Khalid Grand Mosque",
       "lat": 24.7008,
       "lng": 46.6522,
       "note": "An elegant white mosque in Umm Al Hamam with a broad dome and slim minarets, especially striking when lit after sunset.",
-      "hours": "Open for the five daily prayers; dress modestly",
-      "rating": 4.6
+      "hours": "Open for the five daily prayers; dress modestly"
     },
     {
       "name": "Salam Park",
       "lat": 24.6208,
       "lng": 46.7083,
       "note": "A big green park just south of Deera with a lake, palm groves and walking paths, popular for evening picnics.",
-      "hours": "~6:00 AM–midnight daily",
-      "rating": 4.1
+      "hours": "~6:00 AM–midnight daily"
     },
     {
       "name": "Murabba Palace",
       "lat": 24.6497,
       "lng": 46.7092,
       "note": "King Abdulaziz's 1930s mud-brick palace in the King Abdulaziz Historical Center, with restored courtyards, royal rooms and his vintage cars nearby.",
-      "hours": "~9:00 AM–8:00 PM; Fri afternoon only",
-      "rating": 4.4
+      "hours": "~9:00 AM–8:00 PM; Fri afternoon only"
     },
     {
       "name": "Imam Turki bin Abdullah Grand Mosque",
       "lat": 24.6307,
       "lng": 46.7108,
       "note": "Riyadh's central Friday mosque on Deera's Justice Square, rebuilt in the 1990s in Najdi style with square minarets and connected to the Qasr Al Hukm palace by a bridge.",
-      "hours": "Open for the five daily prayers; dress modestly",
-      "rating": 4.6
+      "hours": "Open for the five daily prayers; dress modestly"
     },
     {
       "name": "At-Turaif District (Diriyah)",
@@ -255,7 +244,6 @@
       "lng": 46.5733,
       "note": "The restored mud-brick citadel of the first Saudi state on the edge of Wadi Hanifa, a UNESCO site with palaces, museums and evening light shows.",
       "hours": "~5:00 PM–midnight daily (ticketed; hours vary by season)",
-      "rating": 4.2,
       "ticketUrl": "https://www.diriyah.sa",
       "bookAhead": true
     },
@@ -264,16 +252,14 @@
       "lat": 24.737,
       "lng": 46.577,
       "note": "A palm-shaded dining terrace across the wadi from At-Turaif, with Najdi architecture, restaurants and views of the floodlit ruins.",
-      "hours": "Free entry; ~9:00 AM–1:00 AM daily",
-      "rating": 4.3
+      "hours": "Free entry; ~9:00 AM–1:00 AM daily"
     },
     {
       "name": "Souq Al Zal",
       "lat": 24.6296,
       "lng": 46.714,
       "note": "Riyadh's oldest market in Deera, with lanes of carpets, incense, daggers, antiques and an informal evening auction.",
-      "hours": "~9:00 AM–noon & ~4:00–11:00 PM; closed Fri morning",
-      "rating": 3
+      "hours": "~9:00 AM–noon & ~4:00–11:00 PM; closed Fri morning"
     }
   ],
   "railStations": [

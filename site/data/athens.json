@@ -108,32 +108,32 @@
     }
   ],
   "hotels": [
-    {"name":"Wyndham Grand Athens Residence & Suites","lat":37.9855,"lng":23.7209,"area":"Larissa Station","rating":4.3,"ratingCount":102,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Novus City Hotel","lat":37.9857,"lng":23.7227,"area":"Larissa Station","rating":4.2,"ratingCount":1065,"stars":4,"priceTier":3},
-    {"name":"The Stanley","lat":37.986,"lng":23.721,"area":"Larissa Station","rating":4.1,"ratingCount":865,"stars":3,"priceTier":2},
-    {"name":"Hotel Katerina","lat":37.9861,"lng":23.7223,"area":"Larissa Station","rating":4.2,"ratingCount":653,"stars":3,"priceTier":2},
-    {"name":"Athens Mosaico Suites & Apartments","lat":37.9876,"lng":23.7209,"area":"Larissa Station","rating":4.4,"ratingCount":130,"stars":3,"priceTier":2},
-    {"name":"Sofitel Athens Airport","lat":37.9369,"lng":23.9457,"area":"Athens International Airport","rating":4.3,"ratingCount":6061,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Hotel Grande Bretagne, a Luxury Collection Hotel","lat":37.9766,"lng":23.7353,"area":"Syntagma","rating":4.7,"ratingCount":4748,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Amalia Hotel Athens","lat":37.974,"lng":23.7349,"area":"Syntagma","rating":4.4,"ratingCount":2360,"stars":4,"priceTier":3},
-    {"name":"Electra Metropolis Athens","lat":37.9752,"lng":23.7322,"area":"Syntagma","rating":4.6,"ratingCount":2116,"stars":4,"priceTier":3},
-    {"name":"Best Western Amazon Hotel","lat":37.9752,"lng":23.7319,"area":"Syntagma","rating":4,"ratingCount":1331,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"Pan Hotel","lat":37.9752,"lng":23.7326,"area":"Syntagma","rating":4.1,"ratingCount":913,"stars":3,"priceTier":2},
-    {"name":"Anise Aluma Athens, Tapestry Collection by Hilton","lat":37.9806,"lng":23.7237,"area":"Monastiraki","rating":4.4,"ratingCount":48,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"A for Athens","lat":37.9769,"lng":23.7259,"area":"Monastiraki","rating":4.4,"ratingCount":1409,"stars":4,"priceTier":3},
-    {"name":"360 Hotel","lat":37.9771,"lng":23.7256,"area":"Monastiraki","rating":4.6,"ratingCount":600,"stars":4,"priceTier":3},
-    {"name":"Hellenic Vibes Smart Hotel","lat":37.9769,"lng":23.7273,"area":"Monastiraki","rating":4.8,"ratingCount":282,"stars":3,"priceTier":2},
-    {"name":"Lotus Center Apartments","lat":37.9768,"lng":23.7248,"area":"Monastiraki","rating":4.2,"ratingCount":142,"stars":3,"priceTier":2},
-    {"name":"Divani Palace Acropolis","lat":37.9676,"lng":23.7258,"area":"Acropoli","rating":4.1,"ratingCount":1143,"stars":5,"priceTier":4},
-    {"name":"The Athens Gate Hotel","lat":37.9688,"lng":23.7314,"area":"Acropoli","rating":4.5,"ratingCount":5264,"stars":4,"priceTier":3},
-    {"name":"Herodion Hotel","lat":37.9684,"lng":23.7271,"area":"Acropoli","rating":4.5,"ratingCount":3822,"stars":4,"priceTier":3},
-    {"name":"Parthenon Hotel Athens","lat":37.969,"lng":23.7304,"area":"Acropoli","rating":4.1,"ratingCount":1988,"stars":3,"priceTier":2},
-    {"name":"Athens Backpackers","lat":37.9686,"lng":23.7305,"area":"Acropoli","rating":4.1,"ratingCount":615,"stars":1,"priceTier":1},
-    {"name":"Hilton Athens","lat":37.9756,"lng":23.7503,"area":"Kolonaki","rating":4.3,"ratingCount":4729,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Divani Caravel","lat":37.973,"lng":23.7514,"area":"Kolonaki","rating":4.5,"ratingCount":1263,"stars":5,"priceTier":4},
-    {"name":"Periscope Hotel","lat":37.9782,"lng":23.7439,"area":"Kolonaki","rating":4.4,"ratingCount":580,"stars":4,"priceTier":3},
-    {"name":"Crowne Plaza Athens City Centre","lat":37.9769,"lng":23.7552,"area":"Kolonaki","rating":4,"ratingCount":1140,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Delice Hotel Family Apartments","lat":37.9745,"lng":23.7508,"area":"Kolonaki","rating":4.1,"ratingCount":233,"stars":3,"priceTier":2}
+    {"name":"Wyndham Grand Athens Residence & Suites","lat":37.9855,"lng":23.7209,"area":"Larissa Station","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Novus City Hotel","lat":37.9857,"lng":23.7227,"area":"Larissa Station","stars":4,"priceTier":3},
+    {"name":"The Stanley","lat":37.986,"lng":23.721,"area":"Larissa Station","stars":3,"priceTier":2},
+    {"name":"Hotel Katerina","lat":37.9861,"lng":23.7223,"area":"Larissa Station","stars":3,"priceTier":2},
+    {"name":"Athens Mosaico Suites & Apartments","lat":37.9876,"lng":23.7209,"area":"Larissa Station","stars":3,"priceTier":2},
+    {"name":"Sofitel Athens Airport","lat":37.9369,"lng":23.9457,"area":"Athens International Airport","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Hotel Grande Bretagne, a Luxury Collection Hotel","lat":37.9766,"lng":23.7353,"area":"Syntagma","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Amalia Hotel Athens","lat":37.974,"lng":23.7349,"area":"Syntagma","stars":4,"priceTier":3},
+    {"name":"Electra Metropolis Athens","lat":37.9752,"lng":23.7322,"area":"Syntagma","stars":4,"priceTier":3},
+    {"name":"Best Western Amazon Hotel","lat":37.9752,"lng":23.7319,"area":"Syntagma","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Pan Hotel","lat":37.9752,"lng":23.7326,"area":"Syntagma","stars":3,"priceTier":2},
+    {"name":"Anise Aluma Athens, Tapestry Collection by Hilton","lat":37.9806,"lng":23.7237,"area":"Monastiraki","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"A for Athens","lat":37.9769,"lng":23.7259,"area":"Monastiraki","stars":4,"priceTier":3},
+    {"name":"360 Hotel","lat":37.9771,"lng":23.7256,"area":"Monastiraki","stars":4,"priceTier":3},
+    {"name":"Hellenic Vibes Smart Hotel","lat":37.9769,"lng":23.7273,"area":"Monastiraki","stars":3,"priceTier":2},
+    {"name":"Lotus Center Apartments","lat":37.9768,"lng":23.7248,"area":"Monastiraki","stars":3,"priceTier":2},
+    {"name":"Divani Palace Acropolis","lat":37.9676,"lng":23.7258,"area":"Acropoli","stars":5,"priceTier":4},
+    {"name":"The Athens Gate Hotel","lat":37.9688,"lng":23.7314,"area":"Acropoli","stars":4,"priceTier":3},
+    {"name":"Herodion Hotel","lat":37.9684,"lng":23.7271,"area":"Acropoli","stars":4,"priceTier":3},
+    {"name":"Parthenon Hotel Athens","lat":37.969,"lng":23.7304,"area":"Acropoli","stars":3,"priceTier":2},
+    {"name":"Athens Backpackers","lat":37.9686,"lng":23.7305,"area":"Acropoli","stars":1,"priceTier":1},
+    {"name":"Hilton Athens","lat":37.9756,"lng":23.7503,"area":"Kolonaki","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Divani Caravel","lat":37.973,"lng":23.7514,"area":"Kolonaki","stars":5,"priceTier":4},
+    {"name":"Periscope Hotel","lat":37.9782,"lng":23.7439,"area":"Kolonaki","stars":4,"priceTier":3},
+    {"name":"Crowne Plaza Athens City Centre","lat":37.9769,"lng":23.7552,"area":"Kolonaki","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Delice Hotel Family Apartments","lat":37.9745,"lng":23.7508,"area":"Kolonaki","stars":3,"priceTier":2}
   ],
   "sights": [
     {
@@ -142,7 +142,6 @@
       "lng": 23.7257,
       "note": "The 5th-century BC hilltop citadel crowned by the Parthenon, with the Erechtheion and the Temple of Athena Nike; the single most important sight in the city.",
       "hours": "8:00 AM–8:00 PM in summer, earlier close in winter (~5:00 PM); last entry 30 min before closing",
-      "rating": 4.6,
       "ticketUrl": "https://www.hhticket.gr",
       "bookAhead": true
     },
@@ -152,7 +151,6 @@
       "lng": 23.7286,
       "note": "A glass-and-concrete museum at the foot of the hill holding the finds and sculptures from the Acropolis, with a glass floor over an excavated ancient neighbourhood.",
       "hours": "~9:00 AM–5:00 PM daily; longer hours in summer and late opening on Fridays",
-      "rating": 4.7,
       "ticketUrl": "https://www.theacropolismuseum.gr/en"
     },
     {
@@ -160,8 +158,7 @@
       "lat": 37.9738,
       "lng": 23.7305,
       "note": "The oldest quarter of Athens, a maze of pedestrian lanes, neoclassical houses, tavernas and souvenir shops under the Acropolis.",
-      "hours": "Open streets; shops and tavernas ~10:00 AM–midnight",
-      "rating": 4.5
+      "hours": "Open streets; shops and tavernas ~10:00 AM–midnight"
     },
     {
       "name": "Panathenaic Stadium",
@@ -169,7 +166,6 @@
       "lng": 23.7411,
       "note": "The all-marble stadium that hosted the first modern Olympic Games in 1896; you can walk the track and visit the Olympic torch tunnel.",
       "hours": "~8:00 AM–7:00 PM (to 5:00 PM in winter)",
-      "rating": 4.4,
       "ticketUrl": "https://www.panathenaicstadium.gr"
     },
     {
@@ -177,8 +173,7 @@
       "lat": 37.9819,
       "lng": 23.7431,
       "note": "The pine-covered hill with a small chapel on top and a 360-degree view over the city to the sea; take the funicular or walk up from Kolonaki.",
-      "hours": "Open 24 hours; funicular ~9:00 AM–~2:30 AM",
-      "rating": 4.5
+      "hours": "Open 24 hours; funicular ~9:00 AM–~2:30 AM"
     },
     {
       "name": "National Archaeological Museum",
@@ -186,7 +181,6 @@
       "lng": 23.7326,
       "note": "Greece's greatest antiquities collection, including the gold Mask of Agamemnon, the Antikythera mechanism and the bronze Poseidon.",
       "hours": "~8:30 AM–4:00 PM daily (reduced hours in winter); check site for Monday opening",
-      "rating": 4.6,
       "ticketUrl": "https://www.namuseum.gr/en"
     },
     {
@@ -195,7 +189,6 @@
       "lng": 23.7222,
       "note": "The marketplace and civic heart of classical Athens, with the best-preserved Doric temple in Greece, the Temple of Hephaestus, and a reconstructed stoa museum.",
       "hours": "8:00 AM–8:00 PM in summer, earlier close in winter",
-      "rating": 4.5,
       "ticketUrl": "https://www.hhticket.gr"
     },
     {
@@ -203,16 +196,14 @@
       "lat": 37.9729,
       "lng": 23.7298,
       "note": "A tiny whitewashed corner of the Plaka built by island craftsmen, looking like a Cycladic village beneath the Acropolis cliff.",
-      "hours": "Open streets, daylight best",
-      "rating": 4.6
+      "hours": "Open streets, daylight best"
     },
     {
       "name": "Monastiraki Square & Flea Market",
       "lat": 37.9763,
       "lng": 23.7258,
       "note": "The lively square beside the metro with a mosque, Hadrian's Library nearby and a flea market of antiques, leather and souvenirs along Ifestou street.",
-      "hours": "Square open always; flea market ~9:00 AM–6:00 PM, busiest on Sundays",
-      "rating": 4.2
+      "hours": "Square open always; flea market ~9:00 AM–6:00 PM, busiest on Sundays"
     },
     {
       "name": "Benaki Museum",
@@ -220,7 +211,6 @@
       "lng": 23.7402,
       "note": "A mansion museum tracing Greek art and culture from antiquity to the 20th century, with a rooftop café overlooking the National Garden.",
       "hours": "~10:00 AM–6:00 PM, closed Tue; to midnight Thu and Fri evenings",
-      "rating": 4.6,
       "ticketUrl": "https://www.benaki.org/en"
     },
     {
@@ -228,16 +218,14 @@
       "lat": 37.9733,
       "lng": 23.7378,
       "note": "A shady 19th-century park behind the Parliament, with palms, ponds and duck pools, handy for a break between museums.",
-      "hours": "7:00 AM–sunset daily",
-      "rating": 4.1
+      "hours": "7:00 AM–sunset daily"
     },
     {
       "name": "Philopappos Hill",
       "lat": 37.9689,
       "lng": 23.7202,
       "note": "A free, wooded hill southwest of the Acropolis with a Roman-era monument and the best sunset view of the Parthenon.",
-      "hours": "Open always; best at sunset",
-      "rating": 4.5
+      "hours": "Open always; best at sunset"
     },
     {
       "name": "Temple of Olympian Zeus",
@@ -245,7 +233,6 @@
       "lng": 23.7332,
       "note": "The remaining Corinthian columns of what was once the largest temple in ancient Greece, next to Hadrian's Arch.",
       "hours": "8:00 AM–8:00 PM in summer, earlier close in winter",
-      "rating": 4.1,
       "ticketUrl": "https://www.hhticket.gr"
     },
     {
@@ -253,24 +240,21 @@
       "lat": 37.9707,
       "lng": 23.7248,
       "note": "A 2nd-century Roman amphitheatre on the Acropolis slope, still used for concerts and the Athens Epidaurus Festival in summer; interior is open only with a performance ticket.",
-      "hours": "Visible from the Acropolis path; performances in summer evenings",
-      "rating": 4.7
+      "hours": "Visible from the Acropolis path; performances in summer evenings"
     },
     {
       "name": "Athens Central Market (Varvakios)",
       "lat": 37.98,
       "lng": 23.7265,
       "note": "The noisy covered meat and fish market on Athinas street, with spice and cheese stalls and small ouzo bars around its edge.",
-      "hours": "~7:00 AM–4:00 PM, closed Sun",
-      "rating": 3.9
+      "hours": "~7:00 AM–4:00 PM, closed Sun"
     },
     {
       "name": "Changing of the Guard at Syntagma",
       "lat": 37.9754,
       "lng": 23.7369,
       "note": "The ceremonial guard change by the Evzones in traditional dress in front of the Tomb of the Unknown Soldier; a full ceremony runs Sundays at 11:00 AM.",
-      "hours": "Every hour on the hour daily; full ceremony Sun 11:00 AM",
-      "rating": 4.4
+      "hours": "Every hour on the hour daily; full ceremony Sun 11:00 AM"
     }
   ],
   "railStations": [

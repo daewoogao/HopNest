@@ -167,14 +167,14 @@
     }
   ],
   "hotels": [
-    {"name":"Ramada Encore by Wyndham Busan Station","lat":35.1142,"lng":129.0403,"area":"Busan Station","rating":4.7,"ratingCount":327,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Lotte Hotel Busan","lat":35.1569,"lng":129.0555,"area":"Seomyeon","rating":4.8,"ratingCount":2647,"stars":5,"priceTier":4},
-    {"name":"Central Seven Hotel by Kwon Busan Seomyeon","lat":35.1618,"lng":129.0619,"area":"Seomyeon","rating":4,"ratingCount":977,"stars":4,"priceTier":3},
-    {"name":"Queens Hotel Busan","lat":35.1551,"lng":129.0552,"area":"Seomyeon","rating":4.5,"ratingCount":153,"stars":3,"priceTier":2},
-    {"name":"Uniqstay Hostel & Suite","lat":35.1553,"lng":129.0548,"area":"Seomyeon","rating":4.8,"ratingCount":343,"stars":1,"priceTier":1},
-    {"name":"Aventree Hotel Busan","lat":35.0995,"lng":129.027,"area":"Nampo","rating":4.2,"ratingCount":418,"stars":4,"priceTier":3},
-    {"name":"Terra Guesthouse","lat":35.0967,"lng":129.0306,"area":"Nampo","rating":4.5,"ratingCount":139,"stars":1,"priceTier":1},
-    {"name":"Hotel Aqua Palace","lat":35.1541,"lng":129.1189,"area":"Gwangalli","rating":4.7,"ratingCount":448,"stars":5,"priceTier":4}
+    {"name":"Ramada Encore by Wyndham Busan Station","lat":35.1142,"lng":129.0403,"area":"Busan Station","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Lotte Hotel Busan","lat":35.1569,"lng":129.0555,"area":"Seomyeon","stars":5,"priceTier":4},
+    {"name":"Central Seven Hotel by Kwon Busan Seomyeon","lat":35.1618,"lng":129.0619,"area":"Seomyeon","stars":4,"priceTier":3},
+    {"name":"Queens Hotel Busan","lat":35.1551,"lng":129.0552,"area":"Seomyeon","stars":3,"priceTier":2},
+    {"name":"Uniqstay Hostel & Suite","lat":35.1553,"lng":129.0548,"area":"Seomyeon","stars":1,"priceTier":1},
+    {"name":"Aventree Hotel Busan","lat":35.0995,"lng":129.027,"area":"Nampo","stars":4,"priceTier":3},
+    {"name":"Terra Guesthouse","lat":35.0967,"lng":129.0306,"area":"Nampo","stars":1,"priceTier":1},
+    {"name":"Hotel Aqua Palace","lat":35.1541,"lng":129.1189,"area":"Gwangalli","stars":5,"priceTier":4}
   ],
   "sights": [
     {
@@ -182,136 +182,119 @@
       "lat": 35.1587,
       "lng": 129.1604,
       "note": "Korea's best-known beach, a 1.5 km crescent of sand backed by high-rise hotels, with sand-sculpture festivals, summer swimming and a lively seafront strip.",
-      "hours": "Open 24 h; swimming season ~July–August",
-      "rating": 4.3
+      "hours": "Open 24 h; swimming season ~July–August"
     },
     {
       "name": "Gamcheon Culture Village",
       "lat": 35.0975,
       "lng": 129.0106,
       "note": "A hillside neighbourhood of pastel houses stacked up the slope, now an art village with murals, small galleries and a famous Little Prince statue; pick up the stamp map at the entrance.",
-      "hours": "Village open all day; shops and galleries ~9:00 AM–6:00 PM",
-      "rating": 4.3
+      "hours": "Village open all day; shops and galleries ~9:00 AM–6:00 PM"
     },
     {
       "name": "Haedong Yonggungsa Temple",
       "lat": 35.1883,
       "lng": 129.2231,
       "note": "A rare seaside Buddhist temple perched on rocks above the East Sea north of Haeundae, best at sunrise before the tour buses arrive; reach it by bus from Haeundae.",
-      "hours": "Daily ~5:00 AM–7:00 PM",
-      "rating": 4.3
+      "hours": "Daily ~5:00 AM–7:00 PM"
     },
     {
       "name": "Gwangalli Beach & Gwangan Bridge",
       "lat": 35.1531,
       "lng": 129.1186,
       "note": "A cafe-lined beach with a clear view of the lit-up Gwangandaegyo suspension bridge at night, plus occasional drone shows and plenty of seafood and bars along the strip.",
-      "hours": "Open 24 h; bridge lit after dusk",
-      "rating": 4.3
+      "hours": "Open 24 h; bridge lit after dusk"
     },
     {
       "name": "Beomeosa Temple",
       "lat": 35.2819,
       "lng": 129.0679,
       "note": "A 1,300-year-old mountain temple on the slopes of Geumjeongsan, with tiered halls among tall pines; it is also the start of a hike up to the fortress wall.",
-      "hours": "Grounds open daily ~dawn to dusk; halls ~6:00 AM–6:00 PM",
-      "rating": 4.4
+      "hours": "Grounds open daily ~dawn to dusk; halls ~6:00 AM–6:00 PM"
     },
     {
       "name": "Busan Air Cruise (Songdo Marine Cable Car)",
       "lat": 35.0762,
       "lng": 129.0197,
       "note": "A cable car crossing Songdo Bay between the beach and the Amnam Park side, with glass-floor cabins and views of the harbour; best on a clear evening.",
-      "hours": "~9:00 AM–9:00 PM (to ~10:00 PM weekends); closed in high winds",
-      "rating": 4.4
+      "hours": "~9:00 AM–9:00 PM (to ~10:00 PM weekends); closed in high winds"
     },
     {
       "name": "Jagalchi Market",
       "lat": 35.0966,
       "lng": 129.0306,
       "note": "Korea's largest seafood market, where you choose live fish from the stalls and have it cooked upstairs; go for the bustle even if you do not eat.",
-      "hours": "~5:00 AM–10:00 PM; many stalls shut on the 1st and 3rd Tuesday",
-      "rating": 3.9
+      "hours": "~5:00 AM–10:00 PM; many stalls shut on the 1st and 3rd Tuesday"
     },
     {
       "name": "BIFF Square",
       "lat": 35.0985,
       "lng": 129.0283,
       "note": "The old film-festival street in Nampo, now a lively strip of street-food carts selling ssiat hotteok (seed-stuffed pancakes), with hand prints of film stars embedded in the pavement.",
-      "hours": "Open all day; food stalls ~11:00 AM–midnight",
-      "rating": 4
+      "hours": "Open all day; food stalls ~11:00 AM–midnight"
     },
     {
       "name": "UN Memorial Cemetery in Korea",
       "lat": 35.1275,
       "lng": 129.0971,
       "note": "The only UN cemetery in the world, a peaceful memorial park for soldiers of the Korean War with a small museum and beautifully kept lawns.",
-      "hours": "~9:00 AM–5:00 PM (to ~6:00 PM in summer); open daily",
-      "rating": 4.6
+      "hours": "~9:00 AM–5:00 PM (to ~6:00 PM in summer); open daily"
     },
     {
       "name": "Gukje Market",
       "lat": 35.1008,
       "lng": 129.0278,
       "note": "A sprawling traditional market that grew out of the postwar refugee years, with alleys of clothing, kitchenware and bean-pancake stalls beside Bupyeong Kkangtong Market's night food.",
-      "hours": "~9:00 AM–8:00 PM; closed 1st and 3rd Sunday of the month",
-      "rating": 3.9
+      "hours": "~9:00 AM–8:00 PM; closed 1st and 3rd Sunday of the month"
     },
     {
       "name": "Taejongdae Resort Park",
       "lat": 35.0517,
       "lng": 129.0871,
       "note": "A forested headland with cliffs, a lighthouse and a walking and tram loop on Yeongdo's southern tip, giving sweeping views over the open sea.",
-      "hours": "Park open 24 h; Danubi shuttle train ~9:00 AM–5:00 PM",
-      "rating": 4.3
+      "hours": "Park open 24 h; Danubi shuttle train ~9:00 AM–5:00 PM"
     },
     {
       "name": "Oryukdo Skywalk",
       "lat": 35.1004,
       "lng": 129.123,
       "note": "A glass-floored lookout hanging over the sea cliff at Oryukdo Islets, with views to the white lighthouse and the Gwangan Bridge; free and short, usually combined with the coastal Igidae path.",
-      "hours": "~9:00 AM–6:00 PM daily",
-      "rating": 4
+      "hours": "~9:00 AM–6:00 PM daily"
     },
     {
       "name": "Songdo Beach & Skywalk",
       "lat": 35.0754,
       "lng": 129.0187,
       "note": "Korea's first public beach, a calmer family-friendly bay with a skywalk jutting out over the water and boardwalks along the headland, reached from Nampo by bus.",
-      "hours": "Beach open 24 h; skywalk ~9:00 AM–6:00 PM",
-      "rating": 4.3
+      "hours": "Beach open 24 h; skywalk ~9:00 AM–6:00 PM"
     },
     {
       "name": "Igidae Coastal Walk",
       "lat": 35.1222,
       "lng": 129.1224,
       "note": "A rugged oceanside trail along the cliffs between Oryukdo and Gwangalli, with sea views of the lighthouse and plenty of fishermen perched on the rocks.",
-      "hours": "Open 24 h; best in daylight",
-      "rating": 4.6
+      "hours": "Open 24 h; best in daylight"
     },
     {
       "name": "Dongbaekseom Island & Nurimaru APEC House",
       "lat": 35.1528,
       "lng": 129.1525,
       "note": "A camellia-covered peninsula at the end of Haeundae with a seaside walking loop, a lighthouse and the circular APEC summit building; an easy sunrise or sunset stroll from the beach.",
-      "hours": "Island open 24 h; APEC House ~9:00 AM–6:00 PM (closed Mon)",
-      "rating": 4.5
+      "hours": "Island open 24 h; APEC House ~9:00 AM–6:00 PM (closed Mon)"
     },
     {
       "name": "Yongdusan Park & Busan Tower",
       "lat": 35.1008,
       "lng": 129.0325,
       "note": "A hilltop park above Nampo reached by escalator, topped by the 120 m Busan Tower with views over the harbour, bridges and downtown rooftops.",
-      "hours": "Park open 24 h; tower ~10:00 AM–10:00 PM",
-      "rating": 4.1
+      "hours": "Park open 24 h; tower ~10:00 AM–10:00 PM"
     },
     {
       "name": "Haeundae Dalmaji-gil",
       "lat": 35.1595,
       "lng": 129.1795,
       "note": "A cherry-lined hill road above the Mipo area with cafes and sea views, popular at sunset and in spring; it is the least touristy stretch of the Haeundae coast.",
-      "hours": "Open 24 h; cafes ~10:00 AM–10:00 PM",
-      "rating": 4.3
+      "hours": "Open 24 h; cafes ~10:00 AM–10:00 PM"
     }
   ],
   "railStations": [

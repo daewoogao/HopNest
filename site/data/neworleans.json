@@ -150,74 +150,34 @@
     }
   ],
   "hotels": [
-    {"name":"Hyatt Regency New Orleans","lat":29.9495,"lng":-90.0774,"area":"New Orleans Union Passenger Terminal","rating":4,"ratingCount":7883,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Hyatt House New Orleans/Downtown","lat":29.9505,"lng":-90.0769,"area":"New Orleans Union Passenger Terminal","rating":4.4,"ratingCount":1789,"stars":3,"priceTier":3,"brandAnchor":true},
-    {
-      "name": "Holiday Inn Express & Suites New Orleans Airport South",
-      "lat": 29.9793,
-      "lng": -90.2824,
-      "area": "Louis Armstrong New Orleans International Airport",
-      "rating": 4.1,
-      "ratingCount": 297,
-      "stars": 2,
-      "priceTier": 2,
-      "brandAnchor": true
-    },
-    {"name":"Hotel St. Marie","lat":29.9584,"lng":-90.0669,"area":"French Quarter","rating":4.3,"ratingCount":3158,"stars":3,"priceTier":2},
-    {"name":"Place d'Armes Hotel","lat":29.9587,"lng":-90.0634,"area":"French Quarter","rating":4.4,"ratingCount":3764,"stars":3,"priceTier":2},
-    {"name":"Four Points by Sheraton French Quarter","lat":29.9578,"lng":-90.0668,"area":"French Quarter","rating":4,"ratingCount":1533,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"Bourbon Orleans Hotel","lat":29.9588,"lng":-90.0647,"area":"French Quarter","rating":4.5,"ratingCount":10030,"stars":4,"priceTier":3},
-    {"name":"Omni Royal Orleans","lat":29.9563,"lng":-90.0655,"area":"French Quarter","rating":4.4,"ratingCount":6415,"stars":4,"priceTier":4},
-    {
-      "name": "Hampton Inn & Suites New Orleans Downtown (French Quarter Area)",
-      "lat": 29.9521,
-      "lng": -90.0709,
-      "area": "Central Business District",
-      "rating": 4.3,
-      "ratingCount": 2797,
-      "stars": 3,
-      "priceTier": 2,
-      "brandAnchor": true
-    },
-    {"name":"Hotel Monteleone","lat":29.9542,"lng":-90.0677,"area":"Central Business District","rating":4.5,"ratingCount":11533,"stars":4,"priceTier":3},
-    {"name":"JW Marriott New Orleans","lat":29.9523,"lng":-90.069,"area":"Central Business District","rating":4.3,"ratingCount":580,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"NOPSI Hotel, New Orleans","lat":29.9521,"lng":-90.073,"area":"Central Business District","rating":4.6,"ratingCount":2586,"stars":4,"priceTier":3},
-    {
-      "name": "The Roosevelt New Orleans, A Waldorf Astoria Hotel",
-      "lat": 29.9543,
-      "lng": -90.0723,
-      "area": "Central Business District",
-      "rating": 4.4,
-      "ratingCount": 5623,
-      "stars": 5,
-      "priceTier": 4,
-      "brandAnchor": true
-    },
-    {"name":"The Quisby","lat":29.9409,"lng":-90.0744,"area":"Warehouse District","rating":4.6,"ratingCount":487,"stars":2,"priceTier":1},
-    {"name":"Drury Plaza Hotel New Orleans","lat":29.9495,"lng":-90.0724,"area":"Warehouse District","rating":4.6,"ratingCount":2939,"stars":3,"priceTier":2},
-    {"name":"The Barnett - JdV by Hyatt","lat":29.9483,"lng":-90.0719,"area":"Warehouse District","rating":4.8,"ratingCount":548,"stars":4,"priceTier":3,"brandAnchor":true},
-    {
-      "name": "The Higgins Hotel New Orleans, Curio Collection by Hilton",
-      "lat": 29.9423,
-      "lng": -90.0696,
-      "area": "Warehouse District",
-      "rating": 4.6,
-      "ratingCount": 643,
-      "stars": 4,
-      "priceTier": 3,
-      "brandAnchor": true
-    },
-    {"name":"Kimpton Hotel Fontenot","lat":29.9485,"lng":-90.0674,"area":"Warehouse District","rating":4.7,"ratingCount":470,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Auberge NOLA Hostel","lat":29.9385,"lng":-90.0776,"area":"Garden District","rating":4.8,"ratingCount":358,"stars":1,"priceTier":1},
-    {"name":"Club Wyndham Avenue Plaza","lat":29.9349,"lng":-90.0801,"area":"Garden District","rating":4.1,"ratingCount":1072,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"Hotel Tonnelle New Orleans, A Tribute Portfolio Hotel","lat":29.9343,"lng":-90.0811,"area":"Garden District","rating":4.1,"ratingCount":756,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"Sully Mansion Bed and Breakfast","lat":29.9305,"lng":-90.0842,"area":"Garden District","rating":4.7,"ratingCount":854,"stars":3,"priceTier":3},
-    {"name":"The Pontchartrain Hotel","lat":29.9351,"lng":-90.0797,"area":"Garden District","rating":4.5,"ratingCount":1736,"stars":4,"priceTier":3},
-    {"name":"Hampton Inn New Orleans French Quarter Market Area","lat":29.9629,"lng":-90.0557,"area":"Marigny","rating":4.2,"ratingCount":53,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"The Frenchmen Hotel","lat":29.9623,"lng":-90.0574,"area":"Marigny","rating":4.1,"ratingCount":1169,"stars":3,"priceTier":2},
-    {"name":"Lamothe House Hotel","lat":29.9633,"lng":-90.0593,"area":"Marigny","rating":4.4,"ratingCount":1447,"stars":3,"priceTier":3},
-    {"name":"Hotel Provincial","lat":29.9601,"lng":-90.0611,"area":"Marigny","rating":4.5,"ratingCount":5294,"stars":3,"priceTier":3},
-    {"name":"The Soniat House Hotel","lat":29.9613,"lng":-90.0605,"area":"Marigny","rating":4.3,"ratingCount":383,"stars":4,"priceTier":4}
+    {"name":"Hyatt Regency New Orleans","lat":29.9495,"lng":-90.0774,"area":"New Orleans Union Passenger Terminal","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hyatt House New Orleans/Downtown","lat":29.9505,"lng":-90.0769,"area":"New Orleans Union Passenger Terminal","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Holiday Inn Express & Suites New Orleans Airport South","lat":29.9793,"lng":-90.2824,"area":"Louis Armstrong New Orleans International Airport","stars":2,"priceTier":2,"brandAnchor":true},
+    {"name":"Hotel St. Marie","lat":29.9584,"lng":-90.0669,"area":"French Quarter","stars":3,"priceTier":2},
+    {"name":"Place d'Armes Hotel","lat":29.9587,"lng":-90.0634,"area":"French Quarter","stars":3,"priceTier":2},
+    {"name":"Four Points by Sheraton French Quarter","lat":29.9578,"lng":-90.0668,"area":"French Quarter","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Bourbon Orleans Hotel","lat":29.9588,"lng":-90.0647,"area":"French Quarter","stars":4,"priceTier":3},
+    {"name":"Omni Royal Orleans","lat":29.9563,"lng":-90.0655,"area":"French Quarter","stars":4,"priceTier":4},
+    {"name":"Hampton Inn & Suites New Orleans Downtown (French Quarter Area)","lat":29.9521,"lng":-90.0709,"area":"Central Business District","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Hotel Monteleone","lat":29.9542,"lng":-90.0677,"area":"Central Business District","stars":4,"priceTier":3},
+    {"name":"JW Marriott New Orleans","lat":29.9523,"lng":-90.069,"area":"Central Business District","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"NOPSI Hotel, New Orleans","lat":29.9521,"lng":-90.073,"area":"Central Business District","stars":4,"priceTier":3},
+    {"name":"The Roosevelt New Orleans, A Waldorf Astoria Hotel","lat":29.9543,"lng":-90.0723,"area":"Central Business District","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"The Quisby","lat":29.9409,"lng":-90.0744,"area":"Warehouse District","stars":2,"priceTier":1},
+    {"name":"Drury Plaza Hotel New Orleans","lat":29.9495,"lng":-90.0724,"area":"Warehouse District","stars":3,"priceTier":2},
+    {"name":"The Barnett - JdV by Hyatt","lat":29.9483,"lng":-90.0719,"area":"Warehouse District","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"The Higgins Hotel New Orleans, Curio Collection by Hilton","lat":29.9423,"lng":-90.0696,"area":"Warehouse District","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Kimpton Hotel Fontenot","lat":29.9485,"lng":-90.0674,"area":"Warehouse District","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Auberge NOLA Hostel","lat":29.9385,"lng":-90.0776,"area":"Garden District","stars":1,"priceTier":1},
+    {"name":"Club Wyndham Avenue Plaza","lat":29.9349,"lng":-90.0801,"area":"Garden District","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Hotel Tonnelle New Orleans, A Tribute Portfolio Hotel","lat":29.9343,"lng":-90.0811,"area":"Garden District","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Sully Mansion Bed and Breakfast","lat":29.9305,"lng":-90.0842,"area":"Garden District","stars":3,"priceTier":3},
+    {"name":"The Pontchartrain Hotel","lat":29.9351,"lng":-90.0797,"area":"Garden District","stars":4,"priceTier":3},
+    {"name":"Hampton Inn New Orleans French Quarter Market Area","lat":29.9629,"lng":-90.0557,"area":"Marigny","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"The Frenchmen Hotel","lat":29.9623,"lng":-90.0574,"area":"Marigny","stars":3,"priceTier":2},
+    {"name":"Lamothe House Hotel","lat":29.9633,"lng":-90.0593,"area":"Marigny","stars":3,"priceTier":3},
+    {"name":"Hotel Provincial","lat":29.9601,"lng":-90.0611,"area":"Marigny","stars":3,"priceTier":3},
+    {"name":"The Soniat House Hotel","lat":29.9613,"lng":-90.0605,"area":"Marigny","stars":4,"priceTier":4}
   ],
   "sights": [
     {
@@ -226,7 +186,6 @@
       "lng": -90.0705,
       "note": "A sprawling Warehouse District campus that tells the story of the Second World War through aircraft halls, personal testimony and an immersive 4D film.",
       "hours": "Daily 9:00 AM–5:00 PM",
-      "rating": 4.8,
       "ticketUrl": "https://www.nationalww2museum.org"
     },
     {
@@ -234,8 +193,7 @@
       "lat": 29.964,
       "lng": -90.0577,
       "note": "Three Marigny blocks of small clubs where local brass, jazz and funk bands play from early evening until late, with an art market at night.",
-      "hours": "Street always open; clubs ~5:00 PM–~2:00 AM, busiest Thu–Sat",
-      "rating": 4.5
+      "hours": "Street always open; clubs ~5:00 PM–~2:00 AM, busiest Thu–Sat"
     },
     {
       "name": "Preservation Hall",
@@ -243,7 +201,6 @@
       "lng": -90.0654,
       "note": "A tiny, unadorned hall on St. Peter Street devoted to traditional New Orleans jazz, played acoustically in short sets to a seated crowd.",
       "hours": "Nightly sets ~5:00, 6:15, 7:30 and 8:45 PM (lineup varies)",
-      "rating": 4.6,
       "ticketUrl": "https://www.preservationhall.com",
       "bookAhead": true
     },
@@ -253,7 +210,6 @@
       "lng": -90.071,
       "note": "The city's oldest surviving cemetery, a maze of above-ground tombs including the reputed resting place of voodoo priestess Marie Laveau.",
       "hours": "Guided tours only, daily ~9:00 AM–4:00 PM starts; some Saturday evening tours",
-      "rating": 4.5,
       "bookAhead": true
     },
     {
@@ -262,7 +218,6 @@
       "lng": -90.0617,
       "note": "A riverside working studio where guided tours show the giant floats and sculpted props built for Carnival parades.",
       "hours": "Daily ~9:30 AM–4:30 PM, tours every ~30 min",
-      "rating": 4.4,
       "ticketUrl": "https://www.mardigrasworld.com"
     },
     {
@@ -270,24 +225,21 @@
       "lat": 29.9574,
       "lng": -90.063,
       "note": "The French Quarter's historic parade ground, ringed by street artists, musicians and the Pontalba buildings and framed by the cathedral.",
-      "hours": "Promenade always open; inner garden ~8:00 AM–6:00 PM",
-      "rating": 4.5
+      "hours": "Promenade always open; inner garden ~8:00 AM–6:00 PM"
     },
     {
       "name": "New Orleans City Park",
       "lat": 29.9905,
       "lng": -90.0975,
       "note": "A huge park of moss-draped live oaks and lagoons holding the botanical garden, a vintage carousel, the art museum and its sculpture garden.",
-      "hours": "Grounds open daily; gardens and rides keep their own hours",
-      "rating": 4.6
+      "hours": "Grounds open daily; gardens and rides keep their own hours"
     },
     {
       "name": "St. Louis Cathedral",
       "lat": 29.9581,
       "lng": -90.0637,
       "note": "The white triple-spired cathedral at the head of Jackson Square, one of the oldest Catholic cathedrals in continuous use in the United States.",
-      "hours": "Daily ~8:30 AM–4:00 PM between Masses; free",
-      "rating": 4.6
+      "hours": "Daily ~8:30 AM–4:00 PM between Masses; free"
     },
     {
       "name": "Audubon Zoo",
@@ -295,7 +247,6 @@
       "lng": -90.1307,
       "note": "An Uptown zoo known for its Louisiana Swamp exhibit with white alligators, plus jaguars, orangutans and a giraffe feeding deck.",
       "hours": "Daily 10:00 AM–5:00 PM (last ticket 4:00 PM)",
-      "rating": 4.4,
       "ticketUrl": "https://audubonnatureinstitute.org"
     },
     {
@@ -304,7 +255,6 @@
       "lng": -90.0647,
       "note": "An 1820s apothecary shop preserved with hand-blown medicine bottles, voodoo remedies and grim early surgical tools.",
       "hours": "Tue–Sat 10:00 AM–4:00 PM; closed Sun–Mon",
-      "rating": 4.5,
       "ticketUrl": "https://www.pharmacymuseum.org"
     },
     {
@@ -312,8 +262,7 @@
       "lat": 29.958,
       "lng": -90.065,
       "note": "The Quarter's most elegant street, lined with antique dealers, galleries and wrought-iron balconies, with buskers on the pedestrian blocks by day.",
-      "hours": "Street always open; shops ~10:00 AM–6:00 PM",
-      "rating": 4.6
+      "hours": "Street always open; shops ~10:00 AM–6:00 PM"
     },
     {
       "name": "Audubon Aquarium",
@@ -321,7 +270,6 @@
       "lng": -90.0628,
       "note": "A riverfront aquarium at the foot of Canal Street with a walk-through Caribbean reef tunnel, a Gulf of Mexico tank and the Audubon Insectarium under the same roof.",
       "hours": "Daily 10:00 AM–5:00 PM (last ticket 4:00 PM)",
-      "rating": 4.1,
       "ticketUrl": "https://audubonnatureinstitute.org"
     },
     {
@@ -329,8 +277,7 @@
       "lat": 29.9873,
       "lng": -90.0919,
       "note": "Free outdoor galleries beside the New Orleans Museum of Art where large modern sculptures sit among lagoons, oaks and footbridges.",
-      "hours": "Daily ~10:00 AM–5:00 PM (longer in summer); free",
-      "rating": 4.8
+      "hours": "Daily ~10:00 AM–5:00 PM (longer in summer); free"
     },
     {
       "name": "Hermann-Grima House",
@@ -338,7 +285,6 @@
       "lng": -90.0663,
       "note": "An 1831 Federal-style townhouse with a working open-hearth kitchen, shown on guided tours about family and enslaved life in antebellum New Orleans.",
       "hours": "Wed–Mon 10:00 AM–4:00 PM, tours on the hour (none at noon); closed Tue",
-      "rating": 4.7,
       "ticketUrl": "https://hgghh.org"
     },
     {
@@ -346,32 +292,28 @@
       "lat": 29.9568,
       "lng": -90.0648,
       "note": "A free museum and research center across Royal Street buildings, covering the city's history through maps, paintings and changing exhibitions.",
-      "hours": "Tue–Sat 9:30 AM–4:30 PM, Sun 10:30 AM–4:30 PM; free",
-      "rating": 4.7
+      "hours": "Tue–Sat 9:30 AM–4:30 PM, Sun 10:30 AM–4:30 PM; free"
     },
     {
       "name": "Audubon Park",
       "lat": 29.9264,
       "lng": -90.124,
       "note": "A broad Uptown park across St. Charles Avenue from Tulane, with a loop path around lagoons full of egrets and centuries-old oaks.",
-      "hours": "Daily ~5:00 AM–10:00 PM",
-      "rating": 4.6
+      "hours": "Daily ~5:00 AM–10:00 PM"
     },
     {
       "name": "French Market",
       "lat": 29.9604,
       "lng": -90.0594,
       "note": "Open-air sheds along Decatur Street with food stalls, a farmers market and craft and souvenir vendors, by the Mississippi levee.",
-      "hours": "Daily ~9:00 AM–6:00 PM",
-      "rating": 3.9
+      "hours": "Daily ~9:00 AM–6:00 PM"
     },
     {
       "name": "Crescent Park",
       "lat": 29.9627,
       "lng": -90.0533,
       "note": "A free linear park on old riverside wharves from Marigny to Bywater, with skyline views of downtown across the Mississippi bend.",
-      "hours": "Daily ~6:00 AM–7:30 PM",
-      "rating": 4.4
+      "hours": "Daily ~6:00 AM–7:30 PM"
     }
   ],
   "railStations": [

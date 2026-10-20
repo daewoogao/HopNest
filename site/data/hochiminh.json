@@ -32,23 +32,23 @@
     }
   ],
   "hotels": [
-    {"name":"ibis Saigon Airport","lat":10.8132,"lng":106.6659,"area":"Tan Son Nhat International Airport","rating":4.3,"ratingCount":996,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"The Airport Hotel","lat":10.8099,"lng":106.6656,"area":"Tan Son Nhat International Airport","rating":4,"ratingCount":231,"stars":3,"priceTier":2},
-    {"name":"Minh Chau Hotel","lat":10.7785,"lng":106.6729,"area":"Saigon Railway Station","rating":4.3,"ratingCount":557,"stars":3,"priceTier":2},
-    {"name":"Rêve Ho Chi Minh City, Vignette Collection by IHG","lat":10.7703,"lng":106.7006,"area":"Ben Thanh","rating":4.6,"ratingCount":31,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Sanouva Saigon Hotel","lat":10.7733,"lng":106.6962,"area":"Ben Thanh","rating":4.2,"ratingCount":1950,"stars":4,"priceTier":3},
-    {"name":"GK Central Hotel","lat":10.7745,"lng":106.6976,"area":"Ben Thanh","rating":4.1,"ratingCount":806,"stars":3,"priceTier":2},
-    {"name":"Vy Da Backpackers Hostel","lat":10.775,"lng":106.6978,"area":"Ben Thanh","rating":4.4,"ratingCount":139,"stars":1,"priceTier":1},
-    {"name":"Park Hyatt Saigon","lat":10.7776,"lng":106.7033,"area":"Opera House","rating":4.7,"ratingCount":4511,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Sheraton Saigon Grand Opera Hotel","lat":10.7758,"lng":106.704,"area":"Opera House","rating":4.5,"ratingCount":3787,"stars":5,"priceTier":4},
-    {"name":"Liberty Central Saigon CityPoint Hotel","lat":10.7747,"lng":106.7006,"area":"Opera House","rating":4.6,"ratingCount":3465,"stars":4,"priceTier":3},
-    {"name":"Little Saigon Boutique Hotel","lat":10.7746,"lng":106.7003,"area":"Opera House","rating":4.5,"ratingCount":1345,"stars":3,"priceTier":2},
-    {"name":"Huong Sen Hotel","lat":10.7751,"lng":106.7044,"area":"Opera House","rating":4.1,"ratingCount":824,"stars":4,"priceTier":2},
-    {"name":"Pullman Saigon Centre","lat":10.7642,"lng":106.6917,"area":"Pham Ngu Lao","rating":4.6,"ratingCount":3545,"stars":5,"priceTier":3,"brandAnchor":true},
-    {"name":"Beautiful Hotel Bui Vien","lat":10.7682,"lng":106.6941,"area":"Pham Ngu Lao","rating":4.4,"ratingCount":1724,"stars":3,"priceTier":2},
-    {"name":"Duc Vuong Hotel","lat":10.7658,"lng":106.691,"area":"Pham Ngu Lao","rating":4.2,"ratingCount":2468,"stars":3,"priceTier":2},
-    {"name":"Elegant Inn","lat":10.7697,"lng":106.6882,"area":"Pham Ngu Lao","rating":4.3,"ratingCount":834,"stars":2,"priceTier":2},
-    {"name":"JAN Hostel","lat":10.7662,"lng":106.6933,"area":"Pham Ngu Lao","rating":4.5,"ratingCount":117,"stars":1,"priceTier":1}
+    {"name":"ibis Saigon Airport","lat":10.8132,"lng":106.6659,"area":"Tan Son Nhat International Airport","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"The Airport Hotel","lat":10.8099,"lng":106.6656,"area":"Tan Son Nhat International Airport","stars":3,"priceTier":2},
+    {"name":"Minh Chau Hotel","lat":10.7785,"lng":106.6729,"area":"Saigon Railway Station","stars":3,"priceTier":2},
+    {"name":"Rêve Ho Chi Minh City, Vignette Collection by IHG","lat":10.7703,"lng":106.7006,"area":"Ben Thanh","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Sanouva Saigon Hotel","lat":10.7733,"lng":106.6962,"area":"Ben Thanh","stars":4,"priceTier":3},
+    {"name":"GK Central Hotel","lat":10.7745,"lng":106.6976,"area":"Ben Thanh","stars":3,"priceTier":2},
+    {"name":"Vy Da Backpackers Hostel","lat":10.775,"lng":106.6978,"area":"Ben Thanh","stars":1,"priceTier":1},
+    {"name":"Park Hyatt Saigon","lat":10.7776,"lng":106.7033,"area":"Opera House","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Sheraton Saigon Grand Opera Hotel","lat":10.7758,"lng":106.704,"area":"Opera House","stars":5,"priceTier":4},
+    {"name":"Liberty Central Saigon CityPoint Hotel","lat":10.7747,"lng":106.7006,"area":"Opera House","stars":4,"priceTier":3},
+    {"name":"Little Saigon Boutique Hotel","lat":10.7746,"lng":106.7003,"area":"Opera House","stars":3,"priceTier":2},
+    {"name":"Huong Sen Hotel","lat":10.7751,"lng":106.7044,"area":"Opera House","stars":4,"priceTier":2},
+    {"name":"Pullman Saigon Centre","lat":10.7642,"lng":106.6917,"area":"Pham Ngu Lao","stars":5,"priceTier":3,"brandAnchor":true},
+    {"name":"Beautiful Hotel Bui Vien","lat":10.7682,"lng":106.6941,"area":"Pham Ngu Lao","stars":3,"priceTier":2},
+    {"name":"Duc Vuong Hotel","lat":10.7658,"lng":106.691,"area":"Pham Ngu Lao","stars":3,"priceTier":2},
+    {"name":"Elegant Inn","lat":10.7697,"lng":106.6882,"area":"Pham Ngu Lao","stars":2,"priceTier":2},
+    {"name":"JAN Hostel","lat":10.7662,"lng":106.6933,"area":"Pham Ngu Lao","stars":1,"priceTier":1}
   ],
   "sights": [
     {
@@ -56,32 +56,28 @@
       "lat": 10.7795,
       "lng": 106.6921,
       "note": "A sobering museum of the Vietnam War from the Vietnamese perspective, with photojournalism, Agent Orange exhibits and US aircraft and tanks in the yard; some displays are graphic.",
-      "hours": "7:30 AM–6:00 PM daily",
-      "rating": 4.4
+      "hours": "7:30 AM–6:00 PM daily"
     },
     {
       "name": "Independence Palace",
       "lat": 10.777,
       "lng": 106.6953,
       "note": "The 1960s modernist presidential palace where a tank crashed the gates on 30 April 1975, kept as it was, with bunkers, war rooms and reception halls.",
-      "hours": "8:00 AM–5:00 PM daily (last entry ~4:30 PM)",
-      "rating": 4
+      "hours": "8:00 AM–5:00 PM daily (last entry ~4:30 PM)"
     },
     {
       "name": "Saigon Central Post Office",
       "lat": 10.7799,
       "lng": 106.6999,
       "note": "A grand French-era post office from the 1890s with a vaulted iron-framed hall, old wall maps and working counters where you can still send postcards.",
-      "hours": "~7:00 AM–7:00 PM daily; free",
-      "rating": 4
+      "hours": "~7:00 AM–7:00 PM daily; free"
     },
     {
       "name": "Notre Dame Cathedral of Saigon",
       "lat": 10.7798,
       "lng": 106.699,
       "note": "Red-brick 19th-century cathedral with twin spires facing the post office; under long-running restoration, so the exterior is partly scaffolded and the interior is generally closed to visitors.",
-      "hours": "Under restoration (works due ~2027); view from outside",
-      "rating": 3.7
+      "hours": "Under restoration (works due ~2027); view from outside"
     },
     {
       "name": "Saigon Opera House",
@@ -89,7 +85,6 @@
       "lng": 106.7031,
       "note": "A Belle Époque theatre from 1900 on Lam Son Square, best visited for an evening show such as the acrobatic bamboo-circus A O Show by Lune Production.",
       "hours": "Exterior anytime; shows most evenings ~6:00 PM or 8:00 PM",
-      "rating": 4.2,
       "ticketUrl": "https://luneproduction.com/"
     },
     {
@@ -97,104 +92,91 @@
       "lat": 10.7745,
       "lng": 106.7036,
       "note": "A broad pedestrian boulevard running from the river to the colonial City Hall and its Ho Chi Minh statue; lively in the evenings with families, buskers and fountains.",
-      "hours": "Open 24 hours; busiest ~6:00–11:00 PM",
-      "rating": 4.2
+      "hours": "Open 24 hours; busiest ~6:00–11:00 PM"
     },
     {
       "name": "Ho Chi Minh City Book Street",
       "lat": 10.7807,
       "lng": 106.6996,
       "note": "A shaded lane behind the post office lined with bookshop kiosks and cafés, a quiet break from the traffic.",
-      "hours": "~8:00 AM–9:30 PM daily",
-      "rating": 4.2
+      "hours": "~8:00 AM–9:30 PM daily"
     },
     {
       "name": "Bitexco Financial Tower (Saigon Skydeck)",
       "lat": 10.7717,
       "lng": 106.7044,
       "note": "The lotus-bud skyscraper with a 49th-floor observation deck over the Saigon River and District 1; the helipad juts out from the 52nd floor.",
-      "hours": "Skydeck ~9:30 AM–9:30 PM daily",
-      "rating": 4.2
+      "hours": "Skydeck ~9:30 AM–9:30 PM daily"
     },
     {
       "name": "Landmark 81 SkyView",
       "lat": 10.795,
       "lng": 106.7218,
       "note": "Observation decks near the top of Vietnam's tallest building (461 m) in Binh Thanh, with sweeping city views best at sunset.",
-      "hours": "~10:00 AM–10:00 PM daily",
-      "rating": 4
+      "hours": "~10:00 AM–10:00 PM daily"
     },
     {
       "name": "Ben Thanh Market",
       "lat": 10.7725,
       "lng": 106.698,
       "note": "The city's best-known covered market under its clock tower, good for food stalls and souvenirs though prices are tourist-pitched; bargain hard.",
-      "hours": "~6:00 AM–6:00 PM; street-food stalls around it into the evening",
-      "rating": 3.4
+      "hours": "~6:00 AM–6:00 PM; street-food stalls around it into the evening"
     },
     {
       "name": "Bui Vien Walking Street",
       "lat": 10.7672,
       "lng": 106.693,
       "note": "The backpacker strip's neon nightlife street, closed to traffic at night, packed with bars, plastic stools and street food; loud and boisterous.",
-      "hours": "Best ~7:00 PM–2:00 AM (pedestrian evenings)",
-      "rating": 3.9
+      "hours": "Best ~7:00 PM–2:00 AM (pedestrian evenings)"
     },
     {
       "name": "Golden Dragon Water Puppet Theater",
       "lat": 10.7782,
       "lng": 106.6935,
       "note": "Short performances of Vietnam's traditional water puppetry, with wooden figures gliding across a pool to live folk music.",
-      "hours": "Shows daily, typically ~5:00, 6:30 and 7:45 PM",
-      "rating": 4.2
+      "hours": "Shows daily, typically ~5:00, 6:30 and 7:45 PM"
     },
     {
       "name": "Tao Dan Park",
       "lat": 10.774,
       "lng": 106.692,
       "note": "A big leafy park beside Independence Palace where locals exercise at dawn and songbird owners hang their cages in the café corner on mornings.",
-      "hours": "~5:00 AM–10:00 PM daily; free",
-      "rating": 4.3
+      "hours": "~5:00 AM–10:00 PM daily; free"
     },
     {
       "name": "Jade Emperor Pagoda",
       "lat": 10.7922,
       "lng": 106.6984,
       "note": "A smoky, atmospheric Taoist temple from 1909 packed with carved deities, and a turtle pond in the courtyard.",
-      "hours": "~7:00 AM–5:00 PM daily; free",
-      "rating": 3.8
+      "hours": "~7:00 AM–5:00 PM daily; free"
     },
     {
       "name": "Ba Thien Hau Temple",
       "lat": 10.7532,
       "lng": 106.6614,
       "note": "A Cholon temple to the sea goddess Mazu built by Cantonese merchants, known for its ceramic roof figures and giant hanging incense coils.",
-      "hours": "~6:00 AM–5:00 PM daily; free",
-      "rating": 4.2
+      "hours": "~6:00 AM–5:00 PM daily; free"
     },
     {
       "name": "Museum of Vietnamese History",
       "lat": 10.788,
       "lng": 106.7047,
       "note": "A pagoda-style 1920s building at the zoo entrance covering Vietnam's past from prehistory to the Nguyen dynasty, including Champa sculpture.",
-      "hours": "8:00–11:30 AM and 1:30–5:00 PM, closed Mon",
-      "rating": 3.9
+      "hours": "8:00–11:30 AM and 1:30–5:00 PM, closed Mon"
     },
     {
       "name": "Ho Chi Minh City Museum of Fine Arts",
       "lat": 10.7695,
       "lng": 106.699,
       "note": "A yellow colonial mansion with stained glass and an old lift, showing Vietnamese painting, lacquerwork and Champa art.",
-      "hours": "~8:00 AM–5:00 PM daily",
-      "rating": 3.9
+      "hours": "~8:00 AM–5:00 PM daily"
     },
     {
       "name": "Cu Chi Tunnels",
       "lat": 11.0617,
       "lng": 106.5262,
       "note": "Far: about 60 km northwest, 1.5–2 h by road (or a boat from District 1). The preserved Viet Cong tunnel network at Ben Dinh, where visitors crawl through widened sections and see traps and hidden kitchens.",
-      "hours": "~7:00 AM–5:00 PM daily",
-      "rating": 4.4
+      "hours": "~7:00 AM–5:00 PM daily"
     }
   ],
   "railStations": [

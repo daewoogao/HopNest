@@ -404,29 +404,25 @@
     }
   ],
   "hotels": [
-    {"name":"Grand Soluxe International Hotel","lat":34.2758,"lng":108.9587,"area":"Xi'an Railway Station","rating":4.1,"ratingCount":503,"stars":5,"priceTier":3},
-    {"name":"Holiday Inn Express Xi'an Bell Tower by IHG","lat":34.2588,"lng":108.9419,"area":"Bell Tower","rating":4.5,"ratingCount":142,"stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Grand Soluxe International Hotel","lat":34.2758,"lng":108.9587,"area":"Xi'an Railway Station","stars":5,"priceTier":3},
+    {"name":"Holiday Inn Express Xi'an Bell Tower by IHG","lat":34.2588,"lng":108.9419,"area":"Bell Tower","stars":3,"priceTier":2,"brandAnchor":true},
     {
       "name": "Novotel Xi'an The Bell Tower",
       "lat": 34.2623,
       "lng": 108.9452,
       "area": "Bell Tower",
-      "rating": 4.5,
-      "ratingCount": 29,
       "stars": 4,
       "priceTier": 3,
       "brandAnchor": true,
       "tripUrl": "https://www.trip.com/hotels/xi-an-hotel-detail-54597222/"
     },
-    {"name":"Campanile Xi'an Bell Tower Huimin Street","lat":34.2594,"lng":108.9375,"area":"Bell Tower","rating":4.5,"ratingCount":37,"stars":3,"priceTier":2},
-    {"name":"Tang Dynasty Art Garden Hotel","lat":34.2204,"lng":108.961,"area":"Giant Wild Goose Pagoda","rating":4.2,"ratingCount":171,"stars":4,"priceTier":3},
+    {"name":"Campanile Xi'an Bell Tower Huimin Street","lat":34.2594,"lng":108.9375,"area":"Bell Tower","stars":3,"priceTier":2},
+    {"name":"Tang Dynasty Art Garden Hotel","lat":34.2204,"lng":108.961,"area":"Giant Wild Goose Pagoda","stars":4,"priceTier":3},
     {
       "name": "Western Airport Aviation Hotel (Xi'an Airport)",
       "lat": 34.4436,
       "lng": 108.7623,
       "area": "Xi'an Xianyang International Airport",
-      "rating": 4.6,
-      "ratingCount": 4506,
       "stars": 3,
       "priceTier": 2,
       "ratingSource": "Trip.com",
@@ -437,8 +433,6 @@
       "lat": 34.4369,
       "lng": 108.7537,
       "area": "Xi'an Xianyang International Airport",
-      "rating": 4.6,
-      "ratingCount": 4429,
       "stars": 5,
       "priceTier": 3,
       "ratingSource": "Trip.com",
@@ -449,8 +443,6 @@
       "lat": 34.2767,
       "lng": 108.9587,
       "area": "Xi'an Railway Station",
-      "rating": 4.7,
-      "ratingCount": 1654,
       "stars": 3,
       "priceTier": 2,
       "ratingSource": "Trip.com",
@@ -461,8 +453,6 @@
       "lat": 34.263,
       "lng": 108.9429,
       "area": "Bell Tower",
-      "rating": 4.6,
-      "ratingCount": 4372,
       "stars": 2,
       "priceTier": 1,
       "ratingSource": "Trip.com",
@@ -473,8 +463,6 @@
       "lat": 34.2163,
       "lng": 108.9577,
       "area": "Giant Wild Goose Pagoda",
-      "rating": 4.7,
-      "ratingCount": 12546,
       "stars": 5,
       "priceTier": 4,
       "brandAnchor": true,
@@ -486,8 +474,6 @@
       "lat": 34.3649,
       "lng": 108.9335,
       "area": "Xi'an North Station",
-      "rating": 4.5,
-      "ratingCount": 1767,
       "stars": 3,
       "priceTier": 2,
       "brandAnchor": true,
@@ -499,8 +485,6 @@
       "lat": 34.3636,
       "lng": 108.9334,
       "area": "Xi'an North Station",
-      "rating": 4.8,
-      "ratingCount": 2950,
       "stars": 4,
       "priceTier": 3,
       "ratingSource": "Trip.com",
@@ -514,7 +498,6 @@
       "lng": 109.2785,
       "note": "Thousands of life-size clay warriors guard the first emperor's tomb in three excavation pits; start with Pit 1 and budget a half day, as it is ~40 km east of the centre by tourist bus or train-plus-bus, not by metro.",
       "hours": "~8:30 AM–5:00 PM (to ~6:00 PM in peak season); last entry ~1 h before closing",
-      "rating": 4.7,
       "ticketUrl": "https://www.bmy.com.cn/",
       "bookAhead": true
     },
@@ -523,24 +506,21 @@
       "lat": 34.2493,
       "lng": 108.9422,
       "note": "The best-preserved Ming-era city wall in China: a 14 km rampart you can walk or cycle on top of, with the South Gate the busiest place to climb up.",
-      "hours": "~8:00 AM–10:00 PM daily; last entry ~9:30 PM",
-      "rating": 4.4
+      "hours": "~8:00 AM–10:00 PM daily; last entry ~9:30 PM"
     },
     {
       "name": "Muslim Quarter (Huimin Street)",
       "lat": 34.2642,
       "lng": 108.9383,
       "note": "A dense maze of lanes behind the Drum Tower packed with street-food stalls selling lamb skewers, roujiamo and persimmon cakes; go hungry and come after dark.",
-      "hours": "Open all day; stalls busiest ~11:00 AM–10:00 PM",
-      "rating": 4.3
+      "hours": "Open all day; stalls busiest ~11:00 AM–10:00 PM"
     },
     {
       "name": "Giant Wild Goose Pagoda",
       "lat": 34.2186,
       "lng": 108.964,
       "note": "A seven-storey Tang-dynasty brick pagoda in the Daci'en Temple grounds where the monk Xuanzang stored the scriptures he brought from India; the pagoda interior can be climbed for a ticket.",
-      "hours": "Temple ~8:00 AM–5:30 PM daily",
-      "rating": 4.2
+      "hours": "Temple ~8:00 AM–5:30 PM daily"
     },
     {
       "name": "Shaanxi History Museum",
@@ -548,7 +528,6 @@
       "lng": 108.9539,
       "note": "The best single stop for Shaanxi's 3,000 years as the capital of China's dynasties, with Tang-era gold and silver treasures and tomb murals; entry is free but needs a timed reservation.",
       "hours": "~9:00 AM–5:30 PM, closed Mon",
-      "rating": 4.3,
       "ticketUrl": "https://www.sxhm.com/",
       "bookAhead": true
     },
@@ -557,24 +536,21 @@
       "lat": 34.261,
       "lng": 108.9422,
       "note": "A 36 m Ming tower sitting on a roundabout at the very centre of the walled city; climb for views down the four main avenues and a daily bell-and-drum performance.",
-      "hours": "~8:30 AM–9:30 PM daily",
-      "rating": 4.1
+      "hours": "~8:30 AM–9:30 PM daily"
     },
     {
       "name": "Drum Tower (Gulou)",
       "lat": 34.263,
       "lng": 108.9388,
       "note": "The older and larger twin of the Bell Tower, at the gateway to the Muslim Quarter; drum performances run through the day and the upper floor has a small collection of drums.",
-      "hours": "~8:30 AM–9:00 PM daily",
-      "rating": 4.1
+      "hours": "~8:30 AM–9:00 PM daily"
     },
     {
       "name": "Great Mosque of Xi'an",
       "lat": 34.2638,
       "lng": 108.9376,
       "note": "A tranquil 1,200-year-old mosque built in the style of a Chinese temple, with walled courtyards and Arabic inscriptions; the prayer hall is closed to non-Muslims.",
-      "hours": "~8:00 AM–6:00 PM (shorter in winter; closed to visitors at prayer times)",
-      "rating": 4.2
+      "hours": "~8:00 AM–6:00 PM (shorter in winter; closed to visitors at prayer times)"
     },
     {
       "name": "Small Wild Goose Pagoda & Xi'an Museum",
@@ -582,7 +558,6 @@
       "lng": 108.9406,
       "note": "A slender 43 m Tang pagoda in the grounds of Jianfu Temple beside the Xi'an Museum, with a leafy courtyard and an old bell you can strike; reservation required, and the grounds close one weekday.",
       "hours": "~9:00 AM–5:00 PM; reported closed Mon/Tue (check before going)",
-      "rating": 4.1,
       "bookAhead": true
     },
     {
@@ -590,48 +565,42 @@
       "lat": 34.2222,
       "lng": 108.9642,
       "note": "Asia's largest musical fountain, outside the Giant Wild Goose Pagoda, with a free choreographed show set to music and lights, plus statues of Tang-era scenes along the plaza.",
-      "hours": "Plaza open 24 h; fountain shows ~12:00 PM and evening (~8:30 PM), times vary by season",
-      "rating": 4.3
+      "hours": "Plaza open 24 h; fountain shows ~12:00 PM and evening (~8:30 PM), times vary by season"
     },
     {
       "name": "Tang Paradise (Datang Furong Garden)",
       "lat": 34.213,
       "lng": 108.989,
       "note": "A large Tang-style theme garden on the Qujiang lake, best in the evening for the lit-up pavilions and the 'Dream Return to Tang Dynasty' stage shows.",
-      "hours": "~9:00 AM–10:00 PM daily; evening shows ~8:00 PM",
-      "rating": 4.1
+      "hours": "~9:00 AM–10:00 PM daily; evening shows ~8:00 PM"
     },
     {
       "name": "Huaqing Palace",
       "lat": 34.3625,
       "lng": 109.2117,
       "note": "A hot-spring retreat of Tang emperors at the foot of Mount Li, ~30 km east of the city; famous for the Xi'an Incident of 1936 and the nightly 'Song of Everlasting Sorrow' open-air show in warm months. Reached by tourist bus, not metro.",
-      "hours": "~7:30 AM–6:00 PM daily",
-      "rating": 4
+      "hours": "~7:30 AM–6:00 PM daily"
     },
     {
       "name": "Qujiang Pond Park",
       "lat": 34.2105,
       "lng": 108.9985,
       "note": "A reconstructed Tang imperial pleasure pond with lakeside paths and lantern-lit pavilions after dark, a calm park break from the walled-city crowds.",
-      "hours": "Park open ~24 h; lit up in the evening",
-      "rating": 4.4
+      "hours": "Park open ~24 h; lit up in the evening"
     },
     {
       "name": "Forest of Stone Steles Museum (Beilin)",
       "lat": 34.2547,
       "lng": 108.949,
       "note": "A hall of more than 3,000 carved stone tablets, including the Confucian classics and the Nestorian Stele, in a former Confucian temple near the South Gate; a calligraphy lover's treasure.",
-      "hours": "~8:00 AM–5:30 PM daily (check for renovation closures)",
-      "rating": 4.2
+      "hours": "~8:00 AM–5:30 PM daily (check for renovation closures)"
     },
     {
       "name": "Shuyuanmen Cultural Street",
       "lat": 34.254,
       "lng": 108.9455,
       "note": "A pedestrian street of Qing-style shopfronts selling calligraphy brushes, ink, paper and seals beside the Beilin museum; quiet, photogenic and a good place to buy a calligraphy souvenir.",
-      "hours": "Street open all day; shops ~9:00 AM–9:00 PM",
-      "rating": 4.1
+      "hours": "Street open all day; shops ~9:00 AM–9:00 PM"
     }
   ],
   "railStations": [

@@ -42,34 +42,24 @@
     }
   ],
   "hotels": [
-    {
-      "name": "DoubleTree by Hilton Hotel Milwaukee Downtown",
-      "lat": 43.0382,
-      "lng": -87.9194,
-      "area": "Milwaukee Intermodal Station",
-      "rating": 4.5,
-      "ratingCount": 1870,
-      "stars": 3,
-      "priceTier": 3,
-      "brandAnchor": true
-    },
-    {"name":"Hilton Milwaukee","lat":43.0383,"lng":-87.9182,"area":"Milwaukee Intermodal Station","rating":4,"ratingCount":2871,"stars":4,"priceTier":3},
-    {"name":"SpringHill Suites by Marriott Milwaukee Downtown","lat":43.0398,"lng":-87.9156,"area":"Milwaukee Intermodal Station","rating":4.6,"ratingCount":872,"stars":3,"priceTier":2},
-    {"name":"The Iron Horse Hotel","lat":43.0276,"lng":-87.9172,"area":"Milwaukee Intermodal Station","rating":4.7,"ratingCount":3298,"stars":4,"priceTier":4},
-    {"name":"Hyatt Place Milwaukee Airport","lat":42.9471,"lng":-87.9138,"area":"Milwaukee Mitchell International Airport","rating":4.2,"ratingCount":1180,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"Hilton Garden Inn Milwaukee Airport","lat":42.937,"lng":-87.9077,"area":"Milwaukee Mitchell International Airport","rating":4.7,"ratingCount":1365,"stars":3,"priceTier":3},
-    {"name":"Home2 Suites By Hilton Milwaukee Airport","lat":42.9377,"lng":-87.9077,"area":"Milwaukee Mitchell International Airport","rating":4.7,"ratingCount":759,"stars":2,"priceTier":2},
-    {"name":"Sleep Inn & Suites Airport","lat":42.9609,"lng":-87.919,"area":"Milwaukee Mitchell International Airport","rating":4.1,"ratingCount":359,"stars":2,"priceTier":2},
-    {"name":"Milwaukee Marriott Downtown","lat":43.0382,"lng":-87.9069,"area":"Downtown","rating":4.6,"ratingCount":1180,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"The Pfister Hotel","lat":43.0394,"lng":-87.9057,"area":"Downtown","rating":4.7,"ratingCount":4739,"stars":4,"priceTier":4},
-    {"name":"Saint Kate - The Arts Hotel","lat":43.0418,"lng":-87.9108,"area":"Downtown","rating":4.8,"ratingCount":2618,"stars":4,"priceTier":3},
-    {"name":"Hilton Garden Inn Milwaukee Downtown","lat":43.0378,"lng":-87.9081,"area":"Downtown","rating":4.7,"ratingCount":2555,"stars":3,"priceTier":3},
-    {"name":"Drury Plaza Hotel Milwaukee Downtown","lat":43.0389,"lng":-87.9088,"area":"Downtown","rating":4.7,"ratingCount":459,"stars":3,"priceTier":2},
-    {"name":"Kimpton Journeyman Hotel","lat":43.033,"lng":-87.9068,"area":"Historic Third Ward","rating":4.7,"ratingCount":791,"stars":4,"priceTier":4,"brandAnchor":true},
-    {"name":"Tru by Hilton Milwaukee Downtown","lat":43.0366,"lng":-87.9054,"area":"Historic Third Ward","rating":4.1,"ratingCount":196,"stars":2,"priceTier":2},
-    {"name":"The Plaza Hotel Milwaukee","lat":43.0443,"lng":-87.9025,"area":"Yankee Hill","rating":4.3,"ratingCount":1335,"stars":3,"priceTier":2},
-    {"name":"County Clare Irish Inn & Pub","lat":43.0467,"lng":-87.8995,"area":"Yankee Hill","rating":4.5,"ratingCount":489,"stars":3,"priceTier":3},
-    {"name":"Knickerbocker on the Lake","lat":43.046,"lng":-87.8988,"area":"Yankee Hill","rating":4.1,"ratingCount":610,"stars":3,"priceTier":3}
+    {"name":"DoubleTree by Hilton Hotel Milwaukee Downtown","lat":43.0382,"lng":-87.9194,"area":"Milwaukee Intermodal Station","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Hilton Milwaukee","lat":43.0383,"lng":-87.9182,"area":"Milwaukee Intermodal Station","stars":4,"priceTier":3},
+    {"name":"SpringHill Suites by Marriott Milwaukee Downtown","lat":43.0398,"lng":-87.9156,"area":"Milwaukee Intermodal Station","stars":3,"priceTier":2},
+    {"name":"The Iron Horse Hotel","lat":43.0276,"lng":-87.9172,"area":"Milwaukee Intermodal Station","stars":4,"priceTier":4},
+    {"name":"Hyatt Place Milwaukee Airport","lat":42.9471,"lng":-87.9138,"area":"Milwaukee Mitchell International Airport","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Hilton Garden Inn Milwaukee Airport","lat":42.937,"lng":-87.9077,"area":"Milwaukee Mitchell International Airport","stars":3,"priceTier":3},
+    {"name":"Home2 Suites By Hilton Milwaukee Airport","lat":42.9377,"lng":-87.9077,"area":"Milwaukee Mitchell International Airport","stars":2,"priceTier":2},
+    {"name":"Sleep Inn & Suites Airport","lat":42.9609,"lng":-87.919,"area":"Milwaukee Mitchell International Airport","stars":2,"priceTier":2},
+    {"name":"Milwaukee Marriott Downtown","lat":43.0382,"lng":-87.9069,"area":"Downtown","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"The Pfister Hotel","lat":43.0394,"lng":-87.9057,"area":"Downtown","stars":4,"priceTier":4},
+    {"name":"Saint Kate - The Arts Hotel","lat":43.0418,"lng":-87.9108,"area":"Downtown","stars":4,"priceTier":3},
+    {"name":"Hilton Garden Inn Milwaukee Downtown","lat":43.0378,"lng":-87.9081,"area":"Downtown","stars":3,"priceTier":3},
+    {"name":"Drury Plaza Hotel Milwaukee Downtown","lat":43.0389,"lng":-87.9088,"area":"Downtown","stars":3,"priceTier":2},
+    {"name":"Kimpton Journeyman Hotel","lat":43.033,"lng":-87.9068,"area":"Historic Third Ward","stars":4,"priceTier":4,"brandAnchor":true},
+    {"name":"Tru by Hilton Milwaukee Downtown","lat":43.0366,"lng":-87.9054,"area":"Historic Third Ward","stars":2,"priceTier":2},
+    {"name":"The Plaza Hotel Milwaukee","lat":43.0443,"lng":-87.9025,"area":"Yankee Hill","stars":3,"priceTier":2},
+    {"name":"County Clare Irish Inn & Pub","lat":43.0467,"lng":-87.8995,"area":"Yankee Hill","stars":3,"priceTier":3},
+    {"name":"Knickerbocker on the Lake","lat":43.046,"lng":-87.8988,"area":"Yankee Hill","stars":3,"priceTier":3}
   ],
   "sights": [
     {
@@ -78,7 +68,6 @@
       "lng": -87.9389,
       "note": "The 1892 Flemish Renaissance home of beer baron Frederick Pabst, seen on guided tours of its carved-wood rooms and restored pavilion; about 2 km west of downtown along Wisconsin Avenue (bus, not on The Hop).",
       "hours": "Guided tours ~10:00 AM–4:00 PM daily (Sun from ~noon); check site",
-      "rating": 4.6,
       "ticketUrl": "https://www.pabstmansion.com"
     },
     {
@@ -87,7 +76,6 @@
       "lng": -87.8972,
       "note": "Lakefront art museum known for Santiago Calatrava's winged Quadracci Pavilion, whose sunscreen opens and closes daily, with strong American, German Expressionist and folk-art holdings; near the L-Line Lakefront stop.",
       "hours": "10:00 AM–5:00 PM Wed–Sun, Thu till 8:00 PM; closed Mon–Tue",
-      "rating": 4.7,
       "ticketUrl": "https://mam.org/visit/"
     },
     {
@@ -96,7 +84,6 @@
       "lng": -87.9166,
       "note": "Industrial-style campus in the Menomonee Valley tracing more than a century of Harley motorcycles, from the 1903 'Serial Number One' to custom choppers you can sit on; a 10-minute walk from Intermodal Station.",
       "hours": "~10:00 AM–5:00 PM daily",
-      "rating": 4.6,
       "ticketUrl": "https://www.harley-davidson.com/us/en/museum.html"
     },
     {
@@ -104,16 +91,14 @@
       "lat": 43.004,
       "lng": -87.9198,
       "note": "A domed Polish basilica on the South Side built around 1900 partly from salvaged Chicago Post Office stone, with a richly painted interior under one of the world's largest copper domes.",
-      "hours": "~10:00 AM–4:00 PM most days for visits; closed during Mass",
-      "rating": 4.8
+      "hours": "~10:00 AM–4:00 PM most days for visits; closed during Mass"
     },
     {
       "name": "Milwaukee Public Market",
       "lat": 43.035,
       "lng": -87.9086,
       "note": "Indoor food hall in the Third Ward with seafood counters, Wisconsin cheese, spice stalls and cafes, plus an upstairs seating area; next to The Hop's Historic Third Ward stop.",
-      "hours": "10:00 AM–8:00 PM Mon–Sat, 10:00 AM–6:00 PM Sun",
-      "rating": 4.4
+      "hours": "10:00 AM–8:00 PM Mon–Sat, 10:00 AM–6:00 PM Sun"
     },
     {
       "name": "Lakefront Brewery",
@@ -121,7 +106,6 @@
       "lng": -87.9054,
       "note": "Riverside craft brewery famous for its jokey, sing-along tours that end with tastings, and a beer hall serving a Friday fish fry; a 15-minute walk north of Burns Commons.",
       "hours": "Beer hall ~11:00 AM–10:00 PM (Sun to ~6:00 PM); tours run through the day",
-      "rating": 4.6,
       "ticketUrl": "https://lakefrontbrewery.com",
       "bookAhead": true
     },
@@ -131,7 +115,6 @@
       "lng": -87.9712,
       "note": "Home of the Milwaukee Brewers, a retractable-roof ballpark famous for its tailgating lots, sausage race and Bernie Brewer's slide; about 5 km west of downtown.",
       "hours": "Brewers home games ~Apr–Sep (Oct if in playoffs); ballpark tours on select days",
-      "rating": 4.6,
       "ticketUrl": "https://www.mlb.com/brewers/tickets"
     },
     {
@@ -140,7 +123,6 @@
       "lng": -87.9211,
       "note": "Natural and human history museum with the walk-through 'Streets of Old Milwaukee', a rainforest and a planetarium; the Wells Street building closes for good on Jan 3, 2027, before the move to the new Nature & Culture Museum of Wisconsin.",
       "hours": "10:00 AM–5:00 PM, closed Tue; final day at this site Jan 3, 2027",
-      "rating": 4.6,
       "ticketUrl": "https://www.mpm.edu"
     },
     {
@@ -149,7 +131,6 @@
       "lng": -88.0405,
       "note": "Large zoo on the city's western edge with bonobos, polar bears, a big-cat area and a miniature train; about 20 minutes by car or MCTS bus from downtown.",
       "hours": "~9:30 AM–4:30 PM daily (longer hours in summer)",
-      "rating": 4.4,
       "ticketUrl": "https://www.milwaukeezoo.org"
     },
     {
@@ -157,8 +138,7 @@
       "lat": 43.0255,
       "lng": -87.9455,
       "note": "Three beehive-shaped glass conservatories holding a desert, a tropical jungle and a seasonal flower show; tickets are sold at the door only.",
-      "hours": "9:00 AM–5:00 PM Mon–Fri, 9:00 AM–4:00 PM Sat–Sun; Show Dome closes ~10 days between shows",
-      "rating": 4.2
+      "hours": "9:00 AM–5:00 PM Mon–Fri, 9:00 AM–4:00 PM Sat–Sun; Show Dome closes ~10 days between shows"
     },
     {
       "name": "Great Lakes Distillery",
@@ -166,7 +146,6 @@
       "lng": -87.9185,
       "note": "Wisconsin's first distillery since Prohibition, making whiskey, gin and brandy, with tours and a tasting room in Walker's Point.",
       "hours": "Tasting room ~noon–evening Tue–Sun; tours mostly on weekends",
-      "rating": 4.7,
       "ticketUrl": "https://www.greatlakesdistillery.com"
     },
     {
@@ -174,8 +153,7 @@
       "lat": 43.0424,
       "lng": -87.9131,
       "note": "A 3-mile riverside path linking the Beerline, downtown and the Third Ward, lined with public art, bars and boat docks; Pere Marquette Park is a good central start.",
-      "hours": "Open 24 hours",
-      "rating": 4.3
+      "hours": "Open 24 hours"
     },
     {
       "name": "Discovery World",
@@ -183,7 +161,6 @@
       "lng": -87.8967,
       "note": "Hands-on science and technology museum on the lakefront with freshwater and saltwater aquariums and a replica tall ship; near the L-Line Lakefront stop.",
       "hours": "9:00 AM–4:00 PM Wed–Sun (fall/winter); daily in spring and summer",
-      "rating": 4.3,
       "ticketUrl": "https://www.discoveryworld.org"
     },
     {
@@ -192,24 +169,15 @@
       "lng": -87.9093,
       "note": "An ornate 1895 opera house, still a working concert and comedy venue, with a gilded German Baroque auditorium; next to City Hall.",
       "hours": "Open for shows; free public tours on select days",
-      "rating": 4.6,
       "ticketUrl": "https://www.pabsttheater.org"
     },
-    {
-      "name": "Bronze Fonz",
-      "lat": 43.0405,
-      "lng": -87.9116,
-      "note": "A life-size statue of Happy Days' Arthur Fonzarelli, thumbs up, on the RiverWalk; a quick, free photo stop.",
-      "hours": "Open 24 hours",
-      "rating": 4
-    },
+    {"name":"Bronze Fonz","lat":43.0405,"lng":-87.9116,"note":"A life-size statue of Happy Days' Arthur Fonzarelli, thumbs up, on the RiverWalk; a quick, free photo stop.","hours":"Open 24 hours"},
     {
       "name": "North Point Lighthouse",
       "lat": 43.0647,
       "lng": -87.8721,
       "note": "A restored 1888 lighthouse in Lake Park, the Olmsted-designed bluff park; climb the tower for views over Lake Michigan, then walk the ravine trails.",
       "hours": "Museum ~Sat–Sun afternoons; Lake Park ~6:00 AM–10:00 PM",
-      "rating": 4.4,
       "ticketUrl": "https://northpointlighthouse.org"
     },
     {
@@ -217,8 +185,7 @@
       "lat": 43.044,
       "lng": -87.9148,
       "note": "Old-fashioned downtown strip of German-flavored shops and taverns, including Usinger's sausage shop and the Spice House, near Fiserv Forum and the Deer District.",
-      "hours": "Street open 24 hours; shops ~10:00 AM–6:00 PM",
-      "rating": 4.3
+      "hours": "Street open 24 hours; shops ~10:00 AM–6:00 PM"
     }
   ],
   "railStations": [

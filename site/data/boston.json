@@ -245,35 +245,35 @@
     }
   ],
   "hotels": [
-    {"name":"InterContinental Boston","lat":42.3538,"lng":-71.0521,"area":"South Station","rating":4.6,"ratingCount":6085,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"The Dagny Boston, Tapestry Collection by Hilton","lat":42.3573,"lng":-71.0532,"area":"South Station","rating":4.9,"ratingCount":1406,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"The Envoy Hotel","lat":42.3537,"lng":-71.0484,"area":"South Station","rating":4.2,"ratingCount":946,"stars":4,"priceTier":3},
-    {"name":"Residence Inn Boston Downtown/Seaport","lat":42.3504,"lng":-71.0477,"area":"South Station","rating":4.5,"ratingCount":656,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"Boston Harbor Hotel","lat":42.3567,"lng":-71.0503,"area":"South Station","rating":4.7,"ratingCount":2561,"stars":5,"priceTier":4},
-    {"name":"Courtyard Boston Downtown/North Station","lat":42.3659,"lng":-71.0596,"area":"North Station","rating":4.8,"ratingCount":1053,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"citizenM Boston North Station","lat":42.3656,"lng":-71.0618,"area":"North Station","rating":4.2,"ratingCount":1448,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"Eurostars The Boxer","lat":42.3639,"lng":-71.0624,"area":"North Station","rating":4.3,"ratingCount":1681,"stars":4,"priceTier":3},
-    {"name":"Canopy by Hilton Boston Downtown","lat":42.3616,"lng":-71.056,"area":"North Station","rating":4.6,"ratingCount":492,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"The Bostonian Boston","lat":42.3611,"lng":-71.0559,"area":"North Station","rating":4.1,"ratingCount":2763,"stars":4,"priceTier":4},
-    {"name":"Hyatt Regency Boston Harbor","lat":42.3592,"lng":-71.0272,"area":"Boston Logan International Airport","rating":4.2,"ratingCount":4679,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Courtyard Boston Copley Square","lat":42.3486,"lng":-71.0789,"area":"Back Bay","rating":4.6,"ratingCount":2313,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"The Fairmont Copley Plaza","lat":42.3491,"lng":-71.0762,"area":"Back Bay","rating":4.4,"ratingCount":5168,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"The Lenox Hotel Boston","lat":42.3492,"lng":-71.0796,"area":"Back Bay","rating":4.7,"ratingCount":3995,"stars":4,"priceTier":3},
-    {"name":"Charlesmark Hotel","lat":42.35,"lng":-71.0786,"area":"Back Bay","rating":4.1,"ratingCount":1077,"stars":3,"priceTier":2},
-    {"name":"Newbury Guest House","lat":42.3497,"lng":-71.0833,"area":"Back Bay","rating":4.4,"ratingCount":1314,"stars":2,"priceTier":2},
-    {"name":"Hyatt Regency Boston","lat":42.3534,"lng":-71.0608,"area":"Downtown Crossing","rating":4.2,"ratingCount":6394,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"The Langham, Boston","lat":42.3565,"lng":-71.0546,"area":"Downtown Crossing","rating":4.6,"ratingCount":781,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"The Godfrey Hotel Boston","lat":42.3547,"lng":-71.0615,"area":"Downtown Crossing","rating":4.7,"ratingCount":9352,"stars":4,"priceTier":3},
-    {"name":"Moxy Boston Downtown","lat":42.3509,"lng":-71.0646,"area":"Downtown Crossing","rating":4.5,"ratingCount":1681,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"HI Boston Hostel","lat":42.3511,"lng":-71.0634,"area":"Downtown Crossing","rating":4.4,"ratingCount":1282,"stars":1,"priceTier":1},
-    {"name":"The Charles Hotel","lat":42.3725,"lng":-71.1231,"area":"Harvard Square","rating":4.3,"ratingCount":2891,"stars":5,"priceTier":4},
-    {"name":"Sheraton Commander Hotel","lat":42.3773,"lng":-71.1233,"area":"Harvard Square","rating":4,"ratingCount":372,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"Hotel Veritas","lat":42.371,"lng":-71.1139,"area":"Harvard Square","rating":4.5,"ratingCount":629,"stars":4,"priceTier":4},
-    {"name":"Hotel Commonwealth","lat":42.3486,"lng":-71.0953,"area":"Kenmore","rating":4.7,"ratingCount":6177,"stars":4,"priceTier":4},
-    {"name":"The Verb Hotel","lat":42.3453,"lng":-71.0969,"area":"Kenmore","rating":4.8,"ratingCount":7717,"stars":3,"priceTier":3},
-    {"name":"Residence Inn Boston Back Bay/Fenway","lat":42.3459,"lng":-71.1006,"area":"Kenmore","rating":4.6,"ratingCount":2249,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"citizenM Boston Back Bay","lat":42.3479,"lng":-71.0887,"area":"Kenmore","rating":4.2,"ratingCount":353,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"The Eliot Hotel","lat":42.3487,"lng":-71.0887,"area":"Kenmore","rating":4.6,"ratingCount":2400,"stars":4,"priceTier":4}
+    {"name":"InterContinental Boston","lat":42.3538,"lng":-71.0521,"area":"South Station","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"The Dagny Boston, Tapestry Collection by Hilton","lat":42.3573,"lng":-71.0532,"area":"South Station","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"The Envoy Hotel","lat":42.3537,"lng":-71.0484,"area":"South Station","stars":4,"priceTier":3},
+    {"name":"Residence Inn Boston Downtown/Seaport","lat":42.3504,"lng":-71.0477,"area":"South Station","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Boston Harbor Hotel","lat":42.3567,"lng":-71.0503,"area":"South Station","stars":5,"priceTier":4},
+    {"name":"Courtyard Boston Downtown/North Station","lat":42.3659,"lng":-71.0596,"area":"North Station","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"citizenM Boston North Station","lat":42.3656,"lng":-71.0618,"area":"North Station","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Eurostars The Boxer","lat":42.3639,"lng":-71.0624,"area":"North Station","stars":4,"priceTier":3},
+    {"name":"Canopy by Hilton Boston Downtown","lat":42.3616,"lng":-71.056,"area":"North Station","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"The Bostonian Boston","lat":42.3611,"lng":-71.0559,"area":"North Station","stars":4,"priceTier":4},
+    {"name":"Hyatt Regency Boston Harbor","lat":42.3592,"lng":-71.0272,"area":"Boston Logan International Airport","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Courtyard Boston Copley Square","lat":42.3486,"lng":-71.0789,"area":"Back Bay","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"The Fairmont Copley Plaza","lat":42.3491,"lng":-71.0762,"area":"Back Bay","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"The Lenox Hotel Boston","lat":42.3492,"lng":-71.0796,"area":"Back Bay","stars":4,"priceTier":3},
+    {"name":"Charlesmark Hotel","lat":42.35,"lng":-71.0786,"area":"Back Bay","stars":3,"priceTier":2},
+    {"name":"Newbury Guest House","lat":42.3497,"lng":-71.0833,"area":"Back Bay","stars":2,"priceTier":2},
+    {"name":"Hyatt Regency Boston","lat":42.3534,"lng":-71.0608,"area":"Downtown Crossing","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"The Langham, Boston","lat":42.3565,"lng":-71.0546,"area":"Downtown Crossing","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"The Godfrey Hotel Boston","lat":42.3547,"lng":-71.0615,"area":"Downtown Crossing","stars":4,"priceTier":3},
+    {"name":"Moxy Boston Downtown","lat":42.3509,"lng":-71.0646,"area":"Downtown Crossing","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"HI Boston Hostel","lat":42.3511,"lng":-71.0634,"area":"Downtown Crossing","stars":1,"priceTier":1},
+    {"name":"The Charles Hotel","lat":42.3725,"lng":-71.1231,"area":"Harvard Square","stars":5,"priceTier":4},
+    {"name":"Sheraton Commander Hotel","lat":42.3773,"lng":-71.1233,"area":"Harvard Square","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Hotel Veritas","lat":42.371,"lng":-71.1139,"area":"Harvard Square","stars":4,"priceTier":4},
+    {"name":"Hotel Commonwealth","lat":42.3486,"lng":-71.0953,"area":"Kenmore","stars":4,"priceTier":4},
+    {"name":"The Verb Hotel","lat":42.3453,"lng":-71.0969,"area":"Kenmore","stars":3,"priceTier":3},
+    {"name":"Residence Inn Boston Back Bay/Fenway","lat":42.3459,"lng":-71.1006,"area":"Kenmore","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"citizenM Boston Back Bay","lat":42.3479,"lng":-71.0887,"area":"Kenmore","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"The Eliot Hotel","lat":42.3487,"lng":-71.0887,"area":"Kenmore","stars":4,"priceTier":4}
   ],
   "sights": [
     {
@@ -282,7 +282,6 @@
       "lng": -71.0972,
       "note": "The 1912 home of the Red Sox and baseball's oldest active ballpark; take a game, or a guided tour of the Green Monster and the grandstand.",
       "hours": "Game days per schedule; tours ~9:00 AM–5:00 PM",
-      "rating": 4.7,
       "ticketUrl": "https://www.mlb.com/redsox/ballpark/tours",
       "bookAhead": true
     },
@@ -292,7 +291,6 @@
       "lng": -71.064,
       "note": "A 2.5-mile red-brick line through downtown that links 16 Revolutionary-era sites from Boston Common to Bunker Hill.",
       "hours": "Open-air route, always walkable; individual sites keep their own hours",
-      "rating": 4.6,
       "ticketUrl": "https://www.thefreedomtrail.org"
     },
     {
@@ -301,7 +299,6 @@
       "lng": -71.051,
       "note": "Costumed guides and replica ships bring the 1773 protest to life, ending with a chance to toss tea into the harbor.",
       "hours": "~10:00 AM–5:00 PM daily (hours vary by season)",
-      "rating": 4.6,
       "ticketUrl": "https://www.bostonteapartyship.com",
       "bookAhead": true
     },
@@ -311,7 +308,6 @@
       "lng": -71.094,
       "note": "One of the country's biggest art museums, strong on Impressionists, Egyptian antiquities and American paintings.",
       "hours": "~10:00 AM–5:00 PM, till 10:00 PM Thu–Fri, closed Tue",
-      "rating": 4.8,
       "ticketUrl": "https://www.mfa.org"
     },
     {
@@ -319,8 +315,7 @@
       "lat": 42.3541,
       "lng": -71.0699,
       "note": "A Victorian botanical garden with a lagoon, the Swan Boats in warm months and the Make Way for Ducklings statues.",
-      "hours": "Open daily ~6:00 AM–11:30 PM; Swan Boats ~mid-April to early September",
-      "rating": 4.7
+      "hours": "Open daily ~6:00 AM–11:30 PM; Swan Boats ~mid-April to early September"
     },
     {
       "name": "Boston Public Library",
@@ -328,7 +323,6 @@
       "lng": -71.078,
       "note": "A 1895 Renaissance palace in Copley Square with a vaulted reading room and a quiet arcaded courtyard; free to enter.",
       "hours": "Mon–Thu ~9:00 AM–8:00 PM, Fri–Sat ~9:00 AM–5:00 PM, Sun ~1:00–5:00 PM",
-      "rating": 4.7,
       "ticketUrl": "https://www.bpl.org"
     },
     {
@@ -336,8 +330,7 @@
       "lat": 42.3647,
       "lng": -71.0542,
       "note": "Boston's old Italian quarter, packed with bakeries, red-sauce restaurants and Paul Revere's house on narrow brick lanes.",
-      "hours": "Streets open always; shops and restaurants ~9:00 AM–10:00 PM",
-      "rating": 4.7
+      "hours": "Streets open always; shops and restaurants ~9:00 AM–10:00 PM"
     },
     {
       "name": "John F. Kennedy Presidential Library & Museum",
@@ -345,7 +338,6 @@
       "lng": -71.0348,
       "note": "A glass-and-concrete I. M. Pei building on Columbia Point with films and exhibits on JFK's life and the 1960s; free shuttle from JFK/UMass station.",
       "hours": "~10:00 AM–5:00 PM daily",
-      "rating": 4.6,
       "ticketUrl": "https://www.jfklibrary.org"
     },
     {
@@ -354,7 +346,6 @@
       "lng": -71.099,
       "note": "A Venetian-style palazzo built around a flowering courtyard, filled with the founder's eclectic collection and the empty frames of the 1990 theft.",
       "hours": "~11:00 AM–5:00 PM, till 9:00 PM Thu, closed Tue",
-      "rating": 4.5,
       "ticketUrl": "https://www.gardnermuseum.org"
     },
     {
@@ -363,7 +354,6 @@
       "lng": -71.0711,
       "note": "A hands-on science museum on the Charles River with a lightning show, a planetarium, dinosaur fossils and live animals.",
       "hours": "~9:00 AM–5:00 PM daily (later some Fridays)",
-      "rating": 4.4,
       "ticketUrl": "https://www.mos.org"
     },
     {
@@ -372,7 +362,6 @@
       "lng": -71.0549,
       "note": "A restored 1742 market hall and granite food colonnade, now busy with food stalls, street performers and shops beside Government Center.",
       "hours": "Quincy Market food hall ~10:00 AM–9:00 PM daily",
-      "rating": 4.3,
       "ticketUrl": "https://faneuilhallmarketplace.com"
     },
     {
@@ -380,16 +369,14 @@
       "lat": 42.355,
       "lng": -71.0656,
       "note": "America's oldest public park (1634) and the start of the Freedom Trail; a lawn, a frog pond and ice skating in winter.",
-      "hours": "Open daily ~6:00 AM–11:30 PM",
-      "rating": 4.4
+      "hours": "Open daily ~6:00 AM–11:30 PM"
     },
     {
       "name": "USS Constitution",
       "lat": 42.3725,
       "lng": -71.0566,
       "note": "The world's oldest commissioned warship still afloat, launched 1797, with sailors giving free deck tours in Charlestown.",
-      "hours": "~10:00 AM–4:00 PM Wed–Sun; photo ID required",
-      "rating": 4.5
+      "hours": "~10:00 AM–4:00 PM Wed–Sun; photo ID required"
     },
     {
       "name": "Samuel Adams Boston Brewery",
@@ -397,7 +384,6 @@
       "lng": -71.104,
       "note": "A Jamaica Plain brewhouse tour with tastings that follows the beer from grain to glass.",
       "hours": "Tours ~11:00 AM–5:00 PM, days vary (closed some weekdays)",
-      "rating": 4.6,
       "ticketUrl": "https://www.samueladams.com"
     },
     {
@@ -405,8 +391,7 @@
       "lat": 42.3588,
       "lng": -71.0707,
       "note": "Gaslit cobbled streets and Federal brick rowhouses, including photogenic Acorn Street and Charles Street's cafés.",
-      "hours": "Streets open always; Charles Street shops ~10:00 AM–6:00 PM",
-      "rating": 4.5
+      "hours": "Streets open always; Charles Street shops ~10:00 AM–6:00 PM"
     },
     {
       "name": "New England Aquarium",
@@ -414,7 +399,6 @@
       "lng": -71.0495,
       "note": "A harborfront aquarium built around a four-story Giant Ocean Tank, with penguins, sea turtles and seal shows.",
       "hours": "~9:00 AM–5:00 PM weekdays, to 6:00 PM weekends",
-      "rating": 4,
       "ticketUrl": "https://www.neaq.org",
       "bookAhead": true
     }

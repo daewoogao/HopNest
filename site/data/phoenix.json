@@ -109,33 +109,23 @@
     }
   ],
   "hotels": [
-    {
-      "name": "Crowne Plaza Phoenix Airport - PHX by IHG",
-      "lat": 33.4488,
-      "lng": -111.9885,
-      "area": "Phoenix Sky Harbor International Airport",
-      "rating": 4.2,
-      "ratingCount": 1687,
-      "stars": 3,
-      "priceTier": 3,
-      "brandAnchor": true
-    },
-    {"name":"Radisson Hotel Phoenix Airport","lat":33.4533,"lng":-111.9863,"area":"Phoenix Sky Harbor International Airport","rating":4.1,"ratingCount":1510,"stars":3,"priceTier":3},
-    {"name":"Aloft Phoenix-Airport","lat":33.4486,"lng":-111.9859,"area":"Phoenix Sky Harbor International Airport","rating":4,"ratingCount":797,"stars":3,"priceTier":3},
-    {"name":"Hampton Inn Phoenix-Airport North","lat":33.455,"lng":-111.9865,"area":"Phoenix Sky Harbor International Airport","rating":4,"ratingCount":1200,"stars":3,"priceTier":2},
-    {"name":"Hyatt Regency Phoenix","lat":33.4499,"lng":-112.0718,"area":"Downtown Phoenix","rating":4.1,"ratingCount":4287,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Kimpton Hotel Palomar Phoenix CityScape","lat":33.4475,"lng":-112.0732,"area":"Downtown Phoenix","rating":4.6,"ratingCount":1780,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"The Westin Phoenix Downtown","lat":33.4517,"lng":-112.0732,"area":"Downtown Phoenix","rating":4.5,"ratingCount":1085,"stars":4,"priceTier":3},
-    {"name":"Hampton Inn & Suites Phoenix Downtown","lat":33.4521,"lng":-112.0729,"area":"Downtown Phoenix","rating":4.5,"ratingCount":452,"stars":3,"priceTier":2},
-    {"name":"Downtown Phoenix Hotel (Best Western)","lat":33.4517,"lng":-112.0798,"area":"Downtown Phoenix","rating":4.2,"ratingCount":925,"stars":3,"priceTier":2},
-    {"name":"Tempe Mission Palms, a Destination by Hyatt","lat":33.4265,"lng":-111.9388,"area":"Downtown Tempe","rating":4.4,"ratingCount":3165,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"AC Hotel Phoenix Tempe/Downtown","lat":33.431,"lng":-111.9373,"area":"Downtown Tempe","rating":4.6,"ratingCount":633,"stars":3,"priceTier":3},
-    {"name":"Canopy by Hilton Tempe Downtown","lat":33.4222,"lng":-111.9377,"area":"Downtown Tempe","rating":4.5,"ratingCount":251,"stars":4,"priceTier":3},
-    {"name":"Residence Inn Tempe Downtown/University","lat":33.425,"lng":-111.9373,"area":"Downtown Tempe","rating":4.5,"ratingCount":414,"stars":3,"priceTier":3},
-    {"name":"Vib Hotel by Best Western Phoenix-Tempe","lat":33.4251,"lng":-111.9441,"area":"Downtown Tempe","rating":4.6,"ratingCount":123,"stars":3,"priceTier":2},
-    {"name":"Embassy Suites by Hilton Phoenix Downtown North","lat":33.4807,"lng":-112.0722,"area":"Midtown Phoenix","rating":4.3,"ratingCount":1191,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"Hampton Inn Phoenix-Midtown-Downtown Area","lat":33.4824,"lng":-112.0774,"area":"Midtown Phoenix","rating":4.3,"ratingCount":871,"stars":3,"priceTier":2},
-    {"name":"Fairfield Inn & Suites Phoenix Midtown","lat":33.476,"lng":-112.0745,"area":"Midtown Phoenix","rating":4.3,"ratingCount":417,"stars":2,"priceTier":2}
+    {"name":"Crowne Plaza Phoenix Airport - PHX by IHG","lat":33.4488,"lng":-111.9885,"area":"Phoenix Sky Harbor International Airport","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Radisson Hotel Phoenix Airport","lat":33.4533,"lng":-111.9863,"area":"Phoenix Sky Harbor International Airport","stars":3,"priceTier":3},
+    {"name":"Aloft Phoenix-Airport","lat":33.4486,"lng":-111.9859,"area":"Phoenix Sky Harbor International Airport","stars":3,"priceTier":3},
+    {"name":"Hampton Inn Phoenix-Airport North","lat":33.455,"lng":-111.9865,"area":"Phoenix Sky Harbor International Airport","stars":3,"priceTier":2},
+    {"name":"Hyatt Regency Phoenix","lat":33.4499,"lng":-112.0718,"area":"Downtown Phoenix","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Kimpton Hotel Palomar Phoenix CityScape","lat":33.4475,"lng":-112.0732,"area":"Downtown Phoenix","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"The Westin Phoenix Downtown","lat":33.4517,"lng":-112.0732,"area":"Downtown Phoenix","stars":4,"priceTier":3},
+    {"name":"Hampton Inn & Suites Phoenix Downtown","lat":33.4521,"lng":-112.0729,"area":"Downtown Phoenix","stars":3,"priceTier":2},
+    {"name":"Downtown Phoenix Hotel (Best Western)","lat":33.4517,"lng":-112.0798,"area":"Downtown Phoenix","stars":3,"priceTier":2},
+    {"name":"Tempe Mission Palms, a Destination by Hyatt","lat":33.4265,"lng":-111.9388,"area":"Downtown Tempe","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"AC Hotel Phoenix Tempe/Downtown","lat":33.431,"lng":-111.9373,"area":"Downtown Tempe","stars":3,"priceTier":3},
+    {"name":"Canopy by Hilton Tempe Downtown","lat":33.4222,"lng":-111.9377,"area":"Downtown Tempe","stars":4,"priceTier":3},
+    {"name":"Residence Inn Tempe Downtown/University","lat":33.425,"lng":-111.9373,"area":"Downtown Tempe","stars":3,"priceTier":3},
+    {"name":"Vib Hotel by Best Western Phoenix-Tempe","lat":33.4251,"lng":-111.9441,"area":"Downtown Tempe","stars":3,"priceTier":2},
+    {"name":"Embassy Suites by Hilton Phoenix Downtown North","lat":33.4807,"lng":-112.0722,"area":"Midtown Phoenix","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Hampton Inn Phoenix-Midtown-Downtown Area","lat":33.4824,"lng":-112.0774,"area":"Midtown Phoenix","stars":3,"priceTier":2},
+    {"name":"Fairfield Inn & Suites Phoenix Midtown","lat":33.476,"lng":-112.0745,"area":"Midtown Phoenix","stars":2,"priceTier":2}
   ],
   "sights": [
     {
@@ -144,7 +134,6 @@
       "lng": -111.9447,
       "note": "Fifty-plus acres of cacti, agaves and desert wildflowers on looping trails among the red buttes of Papago Park.",
       "hours": "Daily from 7:00 AM; usually closes ~8:00 PM (to 10:00 PM on event nights)",
-      "rating": 4.7,
       "ticketUrl": "https://dbg.org",
       "bookAhead": true
     },
@@ -154,7 +143,6 @@
       "lng": -111.9787,
       "note": "Thousands of instruments from every country, with headsets that play each exhibit as you walk up; far north Phoenix, no rail link.",
       "hours": "9:00 AM–5:00 PM daily",
-      "rating": 4.9,
       "ticketUrl": "https://mim.org"
     },
     {
@@ -162,8 +150,7 @@
       "lat": 33.5147,
       "lng": -111.9616,
       "note": "Phoenix's signature peak: a steep, rocky scramble to the summit via the Echo Canyon or Cholla trails. Start early and carry plenty of water.",
-      "hours": "Trails sunrise–sunset; trailhead lots fill early",
-      "rating": 4.6
+      "hours": "Trails sunrise–sunset; trailhead lots fill early"
     },
     {
       "name": "Heard Museum",
@@ -171,7 +158,6 @@
       "lng": -112.0736,
       "note": "A leading museum of American Indian art and cultures, with Hopi katsina dolls, jewelry and a courtyard café.",
       "hours": "10:00 AM–4:00 PM daily (closed Mon Jun–Aug)",
-      "rating": 4.6,
       "ticketUrl": "https://heard.org"
     },
     {
@@ -179,8 +165,7 @@
       "lat": 33.4563,
       "lng": -111.9453,
       "note": "A short climb to a wind-carved opening in a red sandstone butte, framing a classic sunset view over the city.",
-      "hours": "Papago Park ~5:00 AM–11:00 PM daily; free",
-      "rating": 4.4
+      "hours": "Papago Park ~5:00 AM–11:00 PM daily; free"
     },
     {
       "name": "Phoenix Zoo",
@@ -188,7 +173,6 @@
       "lng": -111.9493,
       "note": "A large non-profit zoo in Papago Park with an Arizona desert trail, orangutans and a giraffe feeding deck.",
       "hours": "9:00 AM–4:00 PM daily (hours shift seasonally; ZooLights evenings in winter)",
-      "rating": 4.2,
       "ticketUrl": "https://www.phoenixzoo.org"
     },
     {
@@ -197,7 +181,6 @@
       "lng": -112.0667,
       "note": "Home of the Arizona Diamondbacks, with a retractable roof, air conditioning and a pool beyond the outfield wall.",
       "hours": "MLB game days late Mar–Sep; ballpark tours on select days",
-      "rating": 4.5,
       "ticketUrl": "https://www.mlb.com/dbacks/tickets"
     },
     {
@@ -206,7 +189,6 @@
       "lng": -112.0728,
       "note": "The Southwest's largest art museum, spanning Western American, Asian, fashion and modern collections plus miniature period rooms.",
       "hours": "Wed & Fri 10:00 AM–8:00 PM, Thu & Sat 10:00 AM–5:00 PM, Sun noon–5:00 PM; closed Mon–Tue",
-      "rating": 4.4,
       "ticketUrl": "https://phxart.org"
     },
     {
@@ -214,8 +196,7 @@
       "lat": 33.3354,
       "lng": -112.0787,
       "note": "One of the largest city parks in the US, with desert trails, petroglyphs and the drive up to Dobbins Lookout for a panorama of the Valley.",
-      "hours": "Trails 5:00 AM–11:00 PM; roads and lots 5:00 AM–7:00 PM",
-      "rating": 4.6
+      "hours": "Trails 5:00 AM–11:00 PM; roads and lots 5:00 AM–7:00 PM"
     },
     {
       "name": "Wrigley Mansion",
@@ -223,7 +204,6 @@
       "lng": -112.026,
       "note": "A 1930s hilltop mansion built by chewing-gum magnate William Wrigley Jr., now known for guided tours and its restaurant with city views.",
       "hours": "Tours and dining by reservation; hours vary",
-      "rating": 4.3,
       "ticketUrl": "https://wrigleymansion.com",
       "bookAhead": true
     },
@@ -233,7 +213,6 @@
       "lng": -112.0649,
       "note": "Three floors of hands-on play for kids up to about age ten, inside a restored 1913 schoolhouse downtown.",
       "hours": "9:00 AM–4:00 PM daily",
-      "rating": 4.6,
       "ticketUrl": "https://childrensmuseumofphoenix.org"
     },
     {
@@ -242,7 +221,6 @@
       "lng": -111.9531,
       "note": "Hundreds of fire engines, from hand-pulled pumpers to modern rigs, plus a memorial to fallen firefighters.",
       "hours": "Tue–Sat 10:00 AM–6:00 PM (last entry 5:00 PM); closed Sun–Mon",
-      "rating": 4.7,
       "ticketUrl": "https://www.hallofflame.org"
     },
     {
@@ -250,24 +228,21 @@
       "lat": 33.5473,
       "lng": -112.021,
       "note": "A popular, steep summit trail in the Phoenix Mountains Preserve with 360-degree views across the city.",
-      "hours": "Trails 5:00 AM–11:00 PM; parking 5:00 AM–7:00 PM",
-      "rating": 4.6
+      "hours": "Trails 5:00 AM–11:00 PM; parking 5:00 AM–7:00 PM"
     },
     {
       "name": "St. Mary's Basilica",
       "lat": 33.4506,
       "lng": -112.0703,
       "note": "Phoenix's oldest Catholic parish, a 1914 Mission Revival church with large stained-glass windows, visited by Pope John Paul II in 1987.",
-      "hours": "Open daily for Mass and visits; hours vary",
-      "rating": 4.5
+      "hours": "Open daily for Mass and visits; hours vary"
     },
     {
       "name": "Rosson House Museum",
       "lat": 33.4498,
       "lng": -112.0661,
       "note": "A restored 1895 Victorian house in Heritage Square, shown on guided tours of early Phoenix life.",
-      "hours": "Guided tours ~Wed–Sun, ~10:00 AM–3:00 PM",
-      "rating": 4.6
+      "hours": "Guided tours ~Wed–Sun, ~10:00 AM–3:00 PM"
     },
     {
       "name": "Arizona Science Center",
@@ -275,7 +250,6 @@
       "lng": -112.0664,
       "note": "Interactive science exhibits, a planetarium and a giant-screen theater, next to Heritage Square downtown.",
       "hours": "Tue–Sun 10:30 AM–4:00 PM; open select Mondays",
-      "rating": 4.1,
       "ticketUrl": "https://www.azscience.org"
     },
     {
@@ -283,16 +257,14 @@
       "lat": 33.43,
       "lng": -111.942,
       "note": "A lake on the Salt River beside Tempe Beach Park, with paths, boat rentals and sunset views, a short walk from the streetcar.",
-      "hours": "Paths open daily; Tempe Beach Park ~5:00 AM–midnight",
-      "rating": 4.2
+      "hours": "Paths open daily; Tempe Beach Park ~5:00 AM–midnight"
     },
     {
       "name": "Roosevelt Row",
       "lat": 33.4583,
       "lng": -112.0664,
       "note": "Downtown Phoenix's walkable arts district of murals, galleries, bars and small restaurants, liveliest on First Friday evenings.",
-      "hours": "Street open 24 h; First Fridays ~6:00–10:00 PM",
-      "rating": 4
+      "hours": "Street open 24 h; First Fridays ~6:00–10:00 PM"
     }
   ],
   "railStations": [],

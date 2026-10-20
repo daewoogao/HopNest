@@ -1405,29 +1405,29 @@
     }
   ],
   "hotels": [
-    {"name":"The Ritz-Carlton, Melbourne","lat":-37.8146,"lng":144.9527,"area":"Southern Cross Station","rating":4.5,"ratingCount":162,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Mövenpick Hotel Melbourne On Spencer","lat":-37.8173,"lng":144.9537,"area":"Southern Cross Station","rating":4.3,"ratingCount":171,"stars":5,"priceTier":3,"brandAnchor":true},
-    {"name":"Alto Hotel on Bourke","lat":-37.8164,"lng":144.9548,"area":"Southern Cross Station","rating":4.5,"ratingCount":1908,"stars":4,"priceTier":3},
-    {"name":"Travelodge Hotel Melbourne Docklands","lat":-37.8191,"lng":144.9503,"area":"Southern Cross Station","rating":4.1,"ratingCount":6149,"stars":3,"priceTier":2},
-    {"name":"YHA Melbourne Central","lat":-37.8207,"lng":144.9557,"area":"Southern Cross Station","rating":4,"ratingCount":508,"stars":1,"priceTier":1},
-    {"name":"PARKROYAL Melbourne Airport","lat":-37.6707,"lng":144.8504,"area":"Melbourne Airport","rating":4,"ratingCount":3935,"stars":4,"priceTier":3},
-    {"name":"The Westin Melbourne","lat":-37.8158,"lng":144.9674,"area":"CBD","rating":4.5,"ratingCount":2880,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Novotel Melbourne on Collins","lat":-37.8157,"lng":144.9649,"area":"CBD","rating":4.1,"ratingCount":5324,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"QT Melbourne","lat":-37.8133,"lng":144.9681,"area":"CBD","rating":4.6,"ratingCount":2854,"stars":5,"priceTier":4},
-    {"name":"Adelphi Hotel","lat":-37.8163,"lng":144.9684,"area":"CBD","rating":4.6,"ratingCount":2047,"stars":4,"priceTier":3},
-    {"name":"Space Hotel","lat":-37.8076,"lng":144.966,"area":"CBD","rating":4.1,"ratingCount":1006,"stars":2,"priceTier":1},
-    {"name":"Sheraton Melbourne Hotel","lat":-37.8127,"lng":144.9726,"area":"Parliament","rating":4.4,"ratingCount":1718,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Melbourne Marriott Hotel","lat":-37.8098,"lng":144.9693,"area":"Parliament","rating":4.5,"ratingCount":2322,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"The Windsor","lat":-37.812,"lng":144.9729,"area":"Parliament","rating":4.3,"ratingCount":11102,"stars":5,"priceTier":4},
-    {"name":"Lancemore Crossley St., Melbourne","lat":-37.811,"lng":144.9711,"area":"Parliament","rating":4.8,"ratingCount":315,"stars":4,"priceTier":3},
-    {"name":"City Limits Hotel","lat":-37.8105,"lng":144.9718,"area":"Parliament","rating":4.2,"ratingCount":418,"stars":3,"priceTier":2},
-    {"name":"The Langham, Melbourne","lat":-37.8206,"lng":144.9657,"area":"Southbank","rating":4.6,"ratingCount":8789,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Crown Towers Melbourne","lat":-37.8224,"lng":144.9601,"area":"Southbank","rating":4.5,"ratingCount":4086,"stars":5,"priceTier":4},
-    {"name":"Crown Promenade Melbourne","lat":-37.824,"lng":144.9597,"area":"Southbank","rating":4.3,"ratingCount":3995,"stars":4,"priceTier":3},
-    {"name":"Crown Metropol Melbourne","lat":-37.8257,"lng":144.9577,"area":"Southbank","rating":4.2,"ratingCount":6029,"stars":5,"priceTier":3},
-    {"name":"The Prince Hotel","lat":-37.8623,"lng":144.974,"area":"St Kilda","rating":4.4,"ratingCount":347,"stars":4,"priceTier":3},
-    {"name":"Quest St Kilda Bayside","lat":-37.8631,"lng":144.9754,"area":"St Kilda","rating":4.2,"ratingCount":972,"stars":4,"priceTier":3},
-    {"name":"Tolarno Hotel","lat":-37.8601,"lng":144.9759,"area":"St Kilda","rating":4.1,"ratingCount":733,"stars":3,"priceTier":2}
+    {"name":"The Ritz-Carlton, Melbourne","lat":-37.8146,"lng":144.9527,"area":"Southern Cross Station","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Mövenpick Hotel Melbourne On Spencer","lat":-37.8173,"lng":144.9537,"area":"Southern Cross Station","stars":5,"priceTier":3,"brandAnchor":true},
+    {"name":"Alto Hotel on Bourke","lat":-37.8164,"lng":144.9548,"area":"Southern Cross Station","stars":4,"priceTier":3},
+    {"name":"Travelodge Hotel Melbourne Docklands","lat":-37.8191,"lng":144.9503,"area":"Southern Cross Station","stars":3,"priceTier":2},
+    {"name":"YHA Melbourne Central","lat":-37.8207,"lng":144.9557,"area":"Southern Cross Station","stars":1,"priceTier":1},
+    {"name":"PARKROYAL Melbourne Airport","lat":-37.6707,"lng":144.8504,"area":"Melbourne Airport","stars":4,"priceTier":3},
+    {"name":"The Westin Melbourne","lat":-37.8158,"lng":144.9674,"area":"CBD","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Novotel Melbourne on Collins","lat":-37.8157,"lng":144.9649,"area":"CBD","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"QT Melbourne","lat":-37.8133,"lng":144.9681,"area":"CBD","stars":5,"priceTier":4},
+    {"name":"Adelphi Hotel","lat":-37.8163,"lng":144.9684,"area":"CBD","stars":4,"priceTier":3},
+    {"name":"Space Hotel","lat":-37.8076,"lng":144.966,"area":"CBD","stars":2,"priceTier":1},
+    {"name":"Sheraton Melbourne Hotel","lat":-37.8127,"lng":144.9726,"area":"Parliament","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Melbourne Marriott Hotel","lat":-37.8098,"lng":144.9693,"area":"Parliament","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"The Windsor","lat":-37.812,"lng":144.9729,"area":"Parliament","stars":5,"priceTier":4},
+    {"name":"Lancemore Crossley St., Melbourne","lat":-37.811,"lng":144.9711,"area":"Parliament","stars":4,"priceTier":3},
+    {"name":"City Limits Hotel","lat":-37.8105,"lng":144.9718,"area":"Parliament","stars":3,"priceTier":2},
+    {"name":"The Langham, Melbourne","lat":-37.8206,"lng":144.9657,"area":"Southbank","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Crown Towers Melbourne","lat":-37.8224,"lng":144.9601,"area":"Southbank","stars":5,"priceTier":4},
+    {"name":"Crown Promenade Melbourne","lat":-37.824,"lng":144.9597,"area":"Southbank","stars":4,"priceTier":3},
+    {"name":"Crown Metropol Melbourne","lat":-37.8257,"lng":144.9577,"area":"Southbank","stars":5,"priceTier":3},
+    {"name":"The Prince Hotel","lat":-37.8623,"lng":144.974,"area":"St Kilda","stars":4,"priceTier":3},
+    {"name":"Quest St Kilda Bayside","lat":-37.8631,"lng":144.9754,"area":"St Kilda","stars":4,"priceTier":3},
+    {"name":"Tolarno Hotel","lat":-37.8601,"lng":144.9759,"area":"St Kilda","stars":3,"priceTier":2}
   ],
   "sights": [
     {
@@ -1436,7 +1436,6 @@
       "lng": 144.9796,
       "note": "Thirty-eight hectares of lawns, lakes and plant collections beside the Yarra, free to wander.",
       "hours": "Daily 7:30 AM to sunset (~5:30–8:30 PM by season)",
-      "rating": 4.7,
       "ticketUrl": "https://www.rbg.vic.gov.au"
     },
     {
@@ -1445,7 +1444,6 @@
       "lng": 144.9834,
       "note": "The 100,000-seat home of Australian cricket and AFL football, with stadium tours and the Australian Sports Museum.",
       "hours": "Tours daily ~10:00 AM–3:00 PM (non-event days)",
-      "rating": 4.7,
       "ticketUrl": "https://www.mcg.org.au"
     },
     {
@@ -1454,7 +1452,6 @@
       "lng": 144.9734,
       "note": "A war memorial modelled on the Mausoleum of Halicarnassus, with a balcony view straight up St Kilda Road to the city.",
       "hours": "Daily 10:00 AM–5:00 PM; free",
-      "rating": 4.7,
       "ticketUrl": "https://www.shrine.org.au"
     },
     {
@@ -1463,7 +1460,6 @@
       "lng": 144.9568,
       "note": "A sprawling 1878 open-air market of produce sheds, a deli hall and hot jam doughnuts.",
       "hours": "Tue & Thu–Sat ~6:00 AM–3:00 PM (Fri to 5 PM), Sun 9:00 AM–4:00 PM; closed Mon & Wed",
-      "rating": 4.3,
       "ticketUrl": "https://qvm.com.au"
     },
     {
@@ -1472,7 +1468,6 @@
       "lng": 144.9646,
       "note": "An observation deck on level 88 of Eureka Tower, with a glass cube that slides out over the edge.",
       "hours": "Daily ~12:00 PM–10:00 PM",
-      "rating": 4.4,
       "ticketUrl": "https://www.melbourneskydeck.com.au"
     },
     {
@@ -1481,7 +1476,6 @@
       "lng": 144.9689,
       "note": "The National Gallery of Victoria's St Kilda Road building, famous for its water wall and stained-glass Great Hall ceiling.",
       "hours": "Daily 10:00 AM–5:00 PM; free (some exhibitions ticketed)",
-      "rating": 4.6,
       "ticketUrl": "https://www.ngv.vic.gov.au"
     },
     {
@@ -1490,7 +1484,6 @@
       "lng": 144.9515,
       "note": "Australia's oldest zoo, in Royal Park, with a butterfly house, platypus and an Asian rainforest trail.",
       "hours": "Daily 9:00 AM–5:00 PM",
-      "rating": 4.4,
       "ticketUrl": "https://www.zoo.org.au/melbourne"
     },
     {
@@ -1499,7 +1492,6 @@
       "lng": 144.9717,
       "note": "A natural and social history museum with an indoor forest, dinosaur galleries and Phar Lap, next to the Royal Exhibition Building.",
       "hours": "Daily 9:00 AM–5:00 PM",
-      "rating": 4.5,
       "ticketUrl": "https://museumsvictoria.com.au/melbournemuseum"
     },
     {
@@ -1508,7 +1500,6 @@
       "lng": 144.9652,
       "note": "A 19th-century library whose domed La Trobe Reading Room is one of the city's great free interiors.",
       "hours": "Daily ~10:00 AM–6:00 PM",
-      "rating": 4.6,
       "ticketUrl": "https://www.slv.vic.gov.au"
     },
     {
@@ -1517,7 +1508,6 @@
       "lng": 144.9653,
       "note": "A bluestone 1840s prison where bushranger Ned Kelly was hanged, with cells, death masks and a mock watch-house arrest.",
       "hours": "Daily 9:30 AM–5:00 PM",
-      "rating": 4.4,
       "ticketUrl": "https://www.oldmelbournegaol.com.au"
     },
     {
@@ -1525,8 +1515,7 @@
       "lat": -37.813,
       "lng": 144.98,
       "note": "Elm-lined Victorian gardens on the CBD's eastern edge, home to Captain Cook's relocated cottage and a conservatory.",
-      "hours": "Open 24 hours; Cooks' Cottage ~9:00 AM–5:00 PM",
-      "rating": 4.5
+      "hours": "Open 24 hours; Cooks' Cottage ~9:00 AM–5:00 PM"
     },
     {
       "name": "Immigration Museum",
@@ -1534,7 +1523,6 @@
       "lng": 144.9605,
       "note": "The 1876 Customs House telling the stories of the people who settled Victoria.",
       "hours": "Daily 10:00 AM–5:00 PM",
-      "rating": 4.4,
       "ticketUrl": "https://museumsvictoria.com.au/immigrationmuseum"
     },
     {
@@ -1543,24 +1531,15 @@
       "lng": 144.956,
       "note": "A neighbourhood market known for its dim sims, oysters and stalls across a covered hall.",
       "hours": "Wed, Fri–Sun 8:00 AM–4:00 PM",
-      "rating": 4.5,
       "ticketUrl": "https://southmelbournemarket.com.au"
     },
-    {
-      "name": "St Patrick's Cathedral",
-      "lat": -37.81,
-      "lng": 144.9768,
-      "note": "A bluestone Gothic Revival cathedral with tall spires and a glowing stained-glass apse.",
-      "hours": "Daily ~7:00 AM–5:00 PM",
-      "rating": 4.5
-    },
+    {"name":"St Patrick's Cathedral","lat":-37.81,"lng":144.9768,"note":"A bluestone Gothic Revival cathedral with tall spires and a glowing stained-glass apse.","hours":"Daily ~7:00 AM–5:00 PM"},
     {
       "name": "Flinders Street Station",
       "lat": -37.8183,
       "lng": 144.9671,
       "note": "The yellow, domed 1910 railway station whose clocks have been the city's meeting point for generations.",
-      "hours": "Open with train hours ~5:00 AM–midnight (24 h Fri–Sat)",
-      "rating": 4.1
+      "hours": "Open with train hours ~5:00 AM–midnight (24 h Fri–Sat)"
     },
     {
       "name": "ACMI & Federation Square",
@@ -1568,17 +1547,15 @@
       "lng": 144.9692,
       "note": "The free museum of screen culture inside Fed Square's angular plaza, the city's main gathering space.",
       "hours": "ACMI daily 10:00 AM–5:00 PM; square 24 hours",
-      "rating": 4.5,
       "ticketUrl": "https://www.acmi.net.au"
     },
-    {"name":"Hosier Lane","lat":-37.8165,"lng":144.9692,"note":"A cobbled laneway coated in ever-changing street art and murals, opposite Fed Square.","hours":"Outdoors, 24 hours","rating":4.2},
+    {"name":"Hosier Lane","lat":-37.8165,"lng":144.9692,"note":"A cobbled laneway coated in ever-changing street art and murals, opposite Fed Square.","hours":"Outdoors, 24 hours"},
     {
       "name": "St Kilda Pier & Beach",
       "lat": -37.864,
       "lng": 144.9718,
       "note": "The bayside pier and beach of St Kilda, where little penguins return to the breakwater at dusk, a tram ride from the CBD.",
-      "hours": "Open 24 hours; penguins visible around sunset",
-      "rating": 4.4
+      "hours": "Open 24 hours; penguins visible around sunset"
     }
   ],
   "railStations": [

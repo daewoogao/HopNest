@@ -281,8 +281,6 @@
       "lat": 36.0649,
       "lng": 120.3099,
       "area": "Qingdao Railway Station",
-      "rating": 4.7,
-      "ratingCount": 1356,
       "stars": 4,
       "priceTier": 3,
       "ratingSource": "Trip.com",
@@ -293,8 +291,6 @@
       "lat": 36.0659,
       "lng": 120.3084,
       "area": "Qingdao Railway Station",
-      "rating": 4.6,
-      "ratingCount": 3526,
       "stars": 4,
       "priceTier": 3,
       "ratingSource": "Trip.com",
@@ -305,8 +301,6 @@
       "lat": 36.0633,
       "lng": 120.3104,
       "area": "Qingdao Railway Station",
-      "rating": 4.6,
-      "ratingCount": 1854,
       "stars": 3,
       "priceTier": 2,
       "ratingSource": "Trip.com",
@@ -317,8 +311,6 @@
       "lat": 36.0654,
       "lng": 120.314,
       "area": "Qingdao Railway Station",
-      "rating": 4.5,
-      "ratingCount": 1034,
       "stars": 3,
       "priceTier": 2,
       "ratingSource": "Trip.com",
@@ -329,8 +321,6 @@
       "lat": 36.1737,
       "lng": 120.3824,
       "area": "Qingdao North Railway Station",
-      "rating": 4.9,
-      "ratingCount": 7522,
       "stars": 4,
       "priceTier": 3,
       "ratingSource": "Trip.com",
@@ -342,8 +332,6 @@
       "lat": 36.1743,
       "lng": 120.3843,
       "area": "Qingdao North Railway Station",
-      "rating": 4.8,
-      "ratingCount": 639,
       "stars": 3,
       "priceTier": 2,
       "ratingSource": "Trip.com",
@@ -355,8 +343,6 @@
       "lat": 36.3598,
       "lng": 120.0936,
       "area": "Qingdao Jiaodong International Airport",
-      "rating": 4.6,
-      "ratingCount": 15499,
       "stars": 4,
       "priceTier": 3,
       "ratingSource": "Trip.com",
@@ -368,8 +354,6 @@
       "lat": 36.3597,
       "lng": 120.0936,
       "area": "Qingdao Jiaodong International Airport",
-      "rating": 4.6,
-      "ratingCount": 5227,
       "stars": 5,
       "priceTier": 3,
       "ratingSource": "Trip.com",
@@ -381,8 +365,6 @@
       "lat": 36.3588,
       "lng": 120.0893,
       "area": "Qingdao Jiaodong International Airport",
-      "rating": 4.6,
-      "ratingCount": 1517,
       "stars": 2,
       "priceTier": 2,
       "ratingSource": "Trip.com",
@@ -394,22 +376,18 @@
       "lat": 36.3388,
       "lng": 120.0903,
       "area": "Qingdao Jiaodong International Airport",
-      "rating": 4.7,
-      "ratingCount": 1988,
       "stars": 4,
       "priceTier": 3,
       "ratingSource": "Trip.com",
       "tripUrl": "https://www.trip.com/hotels/detail/?hotelId=84048922",
       "note": "About 2.5 km south of the terminal; free airport pick-up and drop-off shuttle."
     },
-    {"name":"Kaiyue International Youth Hostel","lat":36.0703,"lng":120.3187,"area":"Zhongshan Road","rating":4.7,"ratingCount":491,"stars":2,"priceTier":1,"ratingSource":"Trip.com"},
+    {"name":"Kaiyue International Youth Hostel","lat":36.0703,"lng":120.3187,"area":"Zhongshan Road","stars":2,"priceTier":1,"ratingSource":"Trip.com"},
     {
       "name": "Yuanjili International Youth Hostel",
       "lat": 36.0789,
       "lng": 120.3169,
       "area": "Zhongshan Road",
-      "rating": 4.7,
-      "ratingCount": 1080,
       "stars": 2,
       "priceTier": 1,
       "ratingSource": "Trip.com",
@@ -420,8 +398,6 @@
       "lat": 36.0646,
       "lng": 120.3733,
       "area": "May Fourth Square",
-      "rating": 4.7,
-      "ratingCount": 11523,
       "stars": 5,
       "priceTier": 4,
       "brandAnchor": true,
@@ -433,8 +409,6 @@
       "lat": 36.0634,
       "lng": 120.3747,
       "area": "May Fourth Square",
-      "rating": 4.6,
-      "ratingCount": 5398,
       "stars": 5,
       "priceTier": 4,
       "brandAnchor": true,
@@ -446,8 +420,6 @@
       "lat": 36.0672,
       "lng": 120.3834,
       "area": "May Fourth Square",
-      "rating": 4.7,
-      "ratingCount": 4585,
       "stars": 5,
       "priceTier": 3,
       "brandAnchor": true,
@@ -459,8 +431,6 @@
       "lat": 36.061,
       "lng": 120.3737,
       "area": "May Fourth Square",
-      "rating": 4.7,
-      "ratingCount": 6067,
       "stars": 4,
       "priceTier": 3,
       "ratingSource": "Trip.com",
@@ -471,8 +441,6 @@
       "lat": 36.0635,
       "lng": 120.3709,
       "area": "May Fourth Square",
-      "rating": 4.7,
-      "ratingCount": 4045,
       "stars": 4,
       "priceTier": 3,
       "ratingSource": "Trip.com",
@@ -483,8 +451,6 @@
       "lat": 36.0829,
       "lng": 120.3557,
       "area": "Taidong",
-      "rating": 4.7,
-      "ratingCount": 4065,
       "stars": 4,
       "priceTier": 3,
       "ratingSource": "Trip.com",
@@ -498,7 +464,6 @@
       "lng": 120.3414,
       "note": "Tsingtao's original 1903 German-built brewery on Dengzhou Road, now a museum of brewing history and a working bottling line; the ticket includes draught tastings straight from the source.",
       "hours": "~8:30 AM–5:30 PM daily (to ~6:00 PM in summer); last entry ~1 h before closing",
-      "rating": 4.3,
       "bookAhead": true
     },
     {
@@ -507,7 +472,6 @@
       "lng": 120.582,
       "note": "Granite peaks dropping into the sea, dotted with Taoist temples such as Taiqing Palace; take Metro Line 4 to Dahedong at the scenic-area gate, then the park's own buses between routes, and budget a full day.",
       "hours": "~7:30 AM–5:30 PM (winter hours shorter); last entry mid-afternoon",
-      "rating": 4.3,
       "bookAhead": true
     },
     {
@@ -515,120 +479,105 @@
       "lat": 36.054,
       "lng": 120.348,
       "note": "Leafy lanes of 1930s villas in European styles, each street lined with a different tree, running down to Huiquan Bay; free to wander and best on foot.",
-      "hours": "Open all day; free",
-      "rating": 4.4
+      "hours": "Open all day; free"
     },
     {
       "name": "May Fourth Square",
       "lat": 36.0615,
       "lng": 120.379,
       "note": "Qingdao's modern seafront plaza, dominated by the red spiral 'May Wind' sculpture; come at dusk for the harbour skyline light show across Fushan Bay.",
-      "hours": "Open all day; free (evening light show on most nights, times vary)",
-      "rating": 4.2
+      "hours": "Open all day; free (evening light show on most nights, times vary)"
     },
     {
       "name": "Former German Governor's Residence",
       "lat": 36.066,
       "lng": 120.3232,
       "note": "A grand 1907 Jugendstil mansion on Signal Hill built for the German governor, with original furniture and an exhibition on the colonial era.",
-      "hours": "~8:30 AM–5:30 PM (Apr–Oct), ~8:30 AM–5:00 PM (Nov–Mar)",
-      "rating": 4.3
+      "hours": "~8:30 AM–5:30 PM (Apr–Oct), ~8:30 AM–5:00 PM (Nov–Mar)"
     },
     {
       "name": "Zhanqiao Pier",
       "lat": 36.0615,
       "lng": 120.3133,
       "note": "The city's emblem: a 440 m stone pier off Taiping Road ending at the octagonal Huilan Pavilion, with gulls in winter and the old-town skyline behind.",
-      "hours": "Open 24 hours; free (Huilan Pavilion has its own shorter hours)",
-      "rating": 4
+      "hours": "Open 24 hours; free (Huilan Pavilion has its own shorter hours)"
     },
     {
       "name": "Qingdao Underwater World",
       "lat": 36.0575,
       "lng": 120.332,
       "note": "A seafront aquarium with a long walk-through tunnel and a marine-life museum; about a 10-minute walk from Huiquan Square station on Line 3.",
-      "hours": "~8:30 AM–5:30 PM daily (longer in summer)",
-      "rating": 4
+      "hours": "~8:30 AM–5:30 PM daily (longer in summer)"
     },
     {
       "name": "St. Michael's Cathedral",
       "lat": 36.068,
       "lng": 120.3156,
       "note": "Twin-spired 1934 Romanesque-Gothic Catholic cathedral just off Zhongshan Road, a favourite backdrop for wedding photos.",
-      "hours": "~8:30 AM–5:00 PM (Sun from ~noon after Mass)",
-      "rating": 4.1
+      "hours": "~8:30 AM–5:00 PM (Sun from ~noon after Mass)"
     },
     {
       "name": "Shilaoren Beach",
       "lat": 36.0915,
       "lng": 120.465,
       "note": "Qingdao's longest city beach, named after the 'Old Stone Man' sea stack at its eastern end; quieter than the downtown beaches and on Metro Line 2.",
-      "hours": "Open all day; free",
-      "rating": 4.1
+      "hours": "Open all day; free"
     },
     {
       "name": "Zhongshan Park",
       "lat": 36.064,
       "lng": 120.348,
       "note": "The city's largest park, famous for its spring cherry blossoms, with paths up toward the TV-tower hill; free and a short walk from Badaguan.",
-      "hours": "~6:00 AM–6:00 PM (longer in summer); free",
-      "rating": 4.2
+      "hours": "~6:00 AM–6:00 PM (longer in summer); free"
     },
     {
       "name": "Olympic Sailing Center",
       "lat": 36.059,
       "lng": 120.3905,
       "note": "Venue of the 2008 Olympic sailing regatta, now a marina promenade with yacht trips, a lighthouse jetty and views back to May Fourth Square.",
-      "hours": "Promenade open all day; free (boat trips daytime)",
-      "rating": 4.2
+      "hours": "Promenade open all day; free (boat trips daytime)"
     },
     {
       "name": "Dengzhou Road Beer Street",
       "lat": 36.08,
       "lng": 120.343,
       "note": "The street by the beer museum lined with pubs pouring fresh Tsingtao by the jug or in plastic bags, with grilled clams and seafood on the side; liveliest at night and during the August beer festival.",
-      "hours": "Most bars ~11:00 AM–late",
-      "rating": 3.8
+      "hours": "Most bars ~11:00 AM–late"
     },
     {
       "name": "No. 1 Bathing Beach",
       "lat": 36.056,
       "lng": 120.3395,
       "note": "A crescent of fine sand on Huiquan Bay and Qingdao's busiest summer swimming beach, between Lu Xun Park and Badaguan.",
-      "hours": "Open all day; free (lifeguards in swimming season)",
-      "rating": 3.9
+      "hours": "Open all day; free (lifeguards in swimming season)"
     },
     {
       "name": "Xiaoyushan Park",
       "lat": 36.0605,
       "lng": 120.3277,
       "note": "A small hilltop park with a pavilion giving the classic view over red-tiled roofs, Zhanqiao and the bays; a short steep climb.",
-      "hours": "~7:00 AM–6:30 PM",
-      "rating": 4.4
+      "hours": "~7:00 AM–6:30 PM"
     },
     {
       "name": "Signal Hill Park",
       "lat": 36.0665,
       "lng": 120.3245,
       "note": "Three red mushroom-shaped domes crown this hill; the rotating viewing deck looks over the old town's German-era roofs to the sea.",
-      "hours": "~7:00 AM–7:00 PM",
-      "rating": 4.3
+      "hours": "~7:00 AM–7:00 PM"
     },
     {
       "name": "Pichaiyuan Food Alley",
       "lat": 36.0712,
       "lng": 120.314,
       "note": "A century-old courtyard warren off Zhongshan Road packed with snack stalls selling squid skewers, clams and local dumplings; touristy but atmospheric.",
-      "hours": "Stalls ~10:00 AM–10:00 PM",
-      "rating": 3.9
+      "hours": "Stalls ~10:00 AM–10:00 PM"
     },
     {
       "name": "Little Qingdao Island",
       "lat": 36.0555,
       "lng": 120.317,
       "note": "A tiny wooded islet joined to the shore by a causeway, topped by a white lighthouse and facing Zhanqiao across the bay.",
-      "hours": "~7:30 AM–6:00 PM",
-      "rating": 4.2
+      "hours": "~7:30 AM–6:00 PM"
     }
   ],
   "railStations": [

@@ -160,60 +160,30 @@
     }
   ],
   "hotels": [
-    {"name":"Fairmont Royal York","lat":43.6459,"lng":-79.3815,"area":"Union Station","rating":4.2,"ratingCount":2340,"stars":4,"priceTier":4,"brandAnchor":true},
-    {"name":"Delta Hotels Toronto","lat":43.6431,"lng":-79.3839,"area":"Union Station","rating":4.6,"ratingCount":3027,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Le Germain Hotel Toronto Maple Leaf Square","lat":43.6429,"lng":-79.3809,"area":"Union Station","rating":4.7,"ratingCount":1649,"stars":4,"priceTier":3},
-    {"name":"Hotel Victoria","lat":43.6482,"lng":-79.3777,"area":"Union Station","rating":4.1,"ratingCount":1514,"stars":3,"priceTier":2},
-    {"name":"The Omni King Edward Hotel","lat":43.6492,"lng":-79.3761,"area":"Union Station","rating":4.5,"ratingCount":4932,"stars":4,"priceTier":4},
-    {
-      "name": "Sheraton Gateway Hotel in Toronto International Airport",
-      "lat": 43.6864,
-      "lng": -79.6197,
-      "area": "Toronto Pearson International Airport",
-      "rating": 4.1,
-      "ratingCount": 239,
-      "stars": 4,
-      "priceTier": 3,
-      "brandAnchor": true
-    },
-    {
-      "name": "Hampton Inn & Suites by Hilton Toronto Airport",
-      "lat": 43.6891,
-      "lng": -79.6078,
-      "area": "Toronto Pearson International Airport",
-      "rating": 4.2,
-      "ratingCount": 1630,
-      "stars": 3,
-      "priceTier": 2,
-      "brandAnchor": true
-    },
-    {"name":"Hilton Garden Inn Toronto Airport","lat":43.69,"lng":-79.6067,"area":"Toronto Pearson International Airport","rating":4.1,"ratingCount":1501,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"The Westin Toronto Airport","lat":43.6873,"lng":-79.5988,"area":"Toronto Pearson International Airport","rating":4,"ratingCount":460,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Toronto Marriott Downtown Eaton Centre Hotel","lat":43.6548,"lng":-79.3823,"area":"Dundas","rating":4.2,"ratingCount":2016,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"DoubleTree by Hilton Toronto Downtown","lat":43.6547,"lng":-79.3861,"area":"Dundas","rating":4,"ratingCount":3087,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Cambridge Suites Toronto","lat":43.6517,"lng":-79.3779,"area":"Dundas","rating":4.3,"ratingCount":2299,"stars":4,"priceTier":3},
-    {"name":"The Saint James Hotel, Ascend Hotel Collection","lat":43.6595,"lng":-79.381,"area":"Dundas","rating":4.4,"ratingCount":471,"stars":3,"priceTier":2},
-    {"name":"TOOR Hotel Toronto - JdV by Hyatt","lat":43.6557,"lng":-79.3736,"area":"Dundas","rating":4.7,"ratingCount":265,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"W Toronto","lat":43.6711,"lng":-79.3852,"area":"Yorkville","rating":4,"ratingCount":86,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Four Seasons Hotel Toronto","lat":43.6722,"lng":-79.3893,"area":"Yorkville","rating":4.7,"ratingCount":3182,"stars":5,"priceTier":4},
-    {"name":"The Anndore House","lat":43.6686,"lng":-79.3854,"area":"Yorkville","rating":4.5,"ratingCount":953,"stars":4,"priceTier":3},
-    {"name":"Park Hyatt Toronto","lat":43.6692,"lng":-79.3946,"area":"Yorkville","rating":4.4,"ratingCount":2361,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Canopy by Hilton Toronto Yorkville","lat":43.6721,"lng":-79.3774,"area":"Yorkville","rating":4.4,"ratingCount":117,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Shangri-La Toronto","lat":43.6492,"lng":-79.3863,"area":"Entertainment District","rating":4.7,"ratingCount":2202,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Hilton Toronto","lat":43.6499,"lng":-79.3854,"area":"Entertainment District","rating":4,"ratingCount":4161,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Hyatt Regency Toronto","lat":43.6464,"lng":-79.3918,"area":"Entertainment District","rating":4.1,"ratingCount":5295,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Hotel Riu Plaza Toronto","lat":43.6474,"lng":-79.3916,"area":"Entertainment District","rating":4.6,"ratingCount":656,"stars":4,"priceTier":3},
-    {
-      "name": "Residence Inn Toronto Downtown/Entertainment District",
-      "lat": 43.6447,
-      "lng": -79.3906,
-      "area": "Entertainment District",
-      "rating": 4.3,
-      "ratingCount": 2035,
-      "stars": 3,
-      "priceTier": 3,
-      "brandAnchor": true
-    }
+    {"name":"Fairmont Royal York","lat":43.6459,"lng":-79.3815,"area":"Union Station","stars":4,"priceTier":4,"brandAnchor":true},
+    {"name":"Delta Hotels Toronto","lat":43.6431,"lng":-79.3839,"area":"Union Station","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Le Germain Hotel Toronto Maple Leaf Square","lat":43.6429,"lng":-79.3809,"area":"Union Station","stars":4,"priceTier":3},
+    {"name":"Hotel Victoria","lat":43.6482,"lng":-79.3777,"area":"Union Station","stars":3,"priceTier":2},
+    {"name":"The Omni King Edward Hotel","lat":43.6492,"lng":-79.3761,"area":"Union Station","stars":4,"priceTier":4},
+    {"name":"Sheraton Gateway Hotel in Toronto International Airport","lat":43.6864,"lng":-79.6197,"area":"Toronto Pearson International Airport","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hampton Inn & Suites by Hilton Toronto Airport","lat":43.6891,"lng":-79.6078,"area":"Toronto Pearson International Airport","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Hilton Garden Inn Toronto Airport","lat":43.69,"lng":-79.6067,"area":"Toronto Pearson International Airport","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"The Westin Toronto Airport","lat":43.6873,"lng":-79.5988,"area":"Toronto Pearson International Airport","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Toronto Marriott Downtown Eaton Centre Hotel","lat":43.6548,"lng":-79.3823,"area":"Dundas","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"DoubleTree by Hilton Toronto Downtown","lat":43.6547,"lng":-79.3861,"area":"Dundas","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Cambridge Suites Toronto","lat":43.6517,"lng":-79.3779,"area":"Dundas","stars":4,"priceTier":3},
+    {"name":"The Saint James Hotel, Ascend Hotel Collection","lat":43.6595,"lng":-79.381,"area":"Dundas","stars":3,"priceTier":2},
+    {"name":"TOOR Hotel Toronto - JdV by Hyatt","lat":43.6557,"lng":-79.3736,"area":"Dundas","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"W Toronto","lat":43.6711,"lng":-79.3852,"area":"Yorkville","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Four Seasons Hotel Toronto","lat":43.6722,"lng":-79.3893,"area":"Yorkville","stars":5,"priceTier":4},
+    {"name":"The Anndore House","lat":43.6686,"lng":-79.3854,"area":"Yorkville","stars":4,"priceTier":3},
+    {"name":"Park Hyatt Toronto","lat":43.6692,"lng":-79.3946,"area":"Yorkville","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Canopy by Hilton Toronto Yorkville","lat":43.6721,"lng":-79.3774,"area":"Yorkville","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Shangri-La Toronto","lat":43.6492,"lng":-79.3863,"area":"Entertainment District","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Hilton Toronto","lat":43.6499,"lng":-79.3854,"area":"Entertainment District","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hyatt Regency Toronto","lat":43.6464,"lng":-79.3918,"area":"Entertainment District","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hotel Riu Plaza Toronto","lat":43.6474,"lng":-79.3916,"area":"Entertainment District","stars":4,"priceTier":3},
+    {"name":"Residence Inn Toronto Downtown/Entertainment District","lat":43.6447,"lng":-79.3906,"area":"Entertainment District","stars":3,"priceTier":3,"brandAnchor":true}
   ],
   "sights": [
     {
@@ -222,7 +192,6 @@
       "lng": -79.3871,
       "note": "The 553 m landmark with a glass floor, an open-air EdgeWalk and a revolving restaurant above the skyline and Lake Ontario.",
       "hours": "~9:00 AM–10:30 PM daily",
-      "rating": 4.3,
       "ticketUrl": "https://www.cntower.ca",
       "bookAhead": true
     },
@@ -232,7 +201,6 @@
       "lng": -79.3715,
       "note": "A historic food hall of cheesemongers, butchers and the city's famous peameal-bacon sandwich, with a farmers' market on Saturdays.",
       "hours": "Tue–Thu 8:00 AM–6:00 PM, Fri 8:00 AM–7:00 PM, Sat 5:00 AM–5:00 PM, closed Sun–Mon",
-      "rating": 4.4,
       "ticketUrl": "https://www.stlawrencemarket.com"
     },
     {
@@ -241,7 +209,6 @@
       "lng": -79.386,
       "note": "A large aquarium at the foot of the CN Tower with a moving walkway through a shark tunnel and a touch-friendly ray bay.",
       "hours": "~9:00 AM–11:00 PM daily",
-      "rating": 4.5,
       "ticketUrl": "https://www.ripleyaquariums.com/canada",
       "bookAhead": true
     },
@@ -250,8 +217,7 @@
       "lat": 43.6205,
       "lng": -79.379,
       "note": "A car-free chain of islands a 15-minute ferry ride from the harbor, with beaches, bike paths and a view of the skyline.",
-      "hours": "Ferries from Jack Layton Ferry Terminal ~every 30 min, ~8:00 AM–9:00 PM in summer; reduced off-season",
-      "rating": 4.6
+      "hours": "Ferries from Jack Layton Ferry Terminal ~every 30 min, ~8:00 AM–9:00 PM in summer; reduced off-season"
     },
     {
       "name": "Casa Loma",
@@ -259,7 +225,6 @@
       "lng": -79.4094,
       "note": "A 1914 Gothic Revival castle with secret passages, towers and gardens built by financier Sir Henry Pellatt.",
       "hours": "~9:30 AM–5:00 PM daily",
-      "rating": 4.3,
       "ticketUrl": "https://www.casaloma.ca"
     },
     {
@@ -268,7 +233,6 @@
       "lng": -79.3948,
       "note": "Canada's largest museum of world culture and natural history, known for dinosaurs, an Ancient Egypt gallery and Daniel Libeskind's crystal addition.",
       "hours": "~10:00 AM–5:30 PM daily",
-      "rating": 4.4,
       "ticketUrl": "https://www.rom.on.ca"
     },
     {
@@ -277,7 +241,6 @@
       "lng": -79.3596,
       "note": "A cobblestone pedestrian village of Victorian whisky warehouses turned galleries, cafés, craft breweries and boutiques.",
       "hours": "Public spaces open always; shops ~10:00 AM–7:00 PM",
-      "rating": 4.3,
       "ticketUrl": "https://www.thedistillerydistrict.com"
     },
     {
@@ -285,8 +248,7 @@
       "lat": 43.6414,
       "lng": -79.3894,
       "note": "The retractable-roof home of the Blue Jays at the base of the CN Tower; stadium tours show the dugouts and field.",
-      "hours": "Games per schedule; tours on select days",
-      "rating": 4.3
+      "hours": "Games per schedule; tours on select days"
     },
     {
       "name": "Art Gallery of Ontario",
@@ -294,7 +256,6 @@
       "lng": -79.3925,
       "note": "A major gallery with a Frank Gehry facade and the largest collection of Canadian art, plus Henry Moore sculptures.",
       "hours": "~10:30 AM–5:00 PM, Wed and Fri till 9:00 PM, closed Mon",
-      "rating": 4.5,
       "ticketUrl": "https://ago.ca"
     },
     {
@@ -303,7 +264,6 @@
       "lng": -79.3774,
       "note": "The shrine of hockey history inside a former bank, with the Stanley Cup, goalie masks and interactive rinks.",
       "hours": "~10:00 AM–5:00 PM daily",
-      "rating": 4.5,
       "ticketUrl": "https://www.hhof.com"
     },
     {
@@ -311,24 +271,15 @@
       "lat": 43.6545,
       "lng": -79.4005,
       "note": "A bohemian neighbourhood of vintage shops, taquerias, cheese counters and murals, with car-free Pedestrian Sundays in summer.",
-      "hours": "Shops ~10:00 AM–7:00 PM; streets open always",
-      "rating": 4.1
+      "hours": "Shops ~10:00 AM–7:00 PM; streets open always"
     },
-    {
-      "name": "High Park",
-      "lat": 43.6465,
-      "lng": -79.4637,
-      "note": "Toronto's largest public park, with cherry blossoms in spring, a hillside zoo, trails and a lake.",
-      "hours": "Open ~6:00 AM–midnight daily",
-      "rating": 4.6
-    },
+    {"name":"High Park","lat":43.6465,"lng":-79.4637,"note":"Toronto's largest public park, with cherry blossoms in spring, a hillside zoo, trails and a lake.","hours":"Open ~6:00 AM–midnight daily"},
     {
       "name": "Nathan Phillips Square",
       "lat": 43.6525,
       "lng": -79.3835,
       "note": "The civic plaza in front of the twin-arched City Hall, with a reflecting pool that becomes a skating rink in winter.",
-      "hours": "Open 24 hours",
-      "rating": 4.2
+      "hours": "Open 24 hours"
     },
     {
       "name": "Toronto Reference Library",
@@ -336,7 +287,6 @@
       "lng": -79.386,
       "note": "A multi-storey atrium library on Yonge Street with free exhibits and city views from its upper galleries.",
       "hours": "~9:00 AM–8:30 PM Mon–Fri, shorter weekends; closed some Sundays in summer",
-      "rating": 4.6,
       "ticketUrl": "https://www.torontopubliclibrary.ca"
     },
     {
@@ -344,8 +294,7 @@
       "lat": 43.6471,
       "lng": -79.3896,
       "note": "A grand 2,000-seat theatre in the Entertainment District that hosts touring Broadway musicals.",
-      "hours": "Evening shows per schedule; box office hours vary",
-      "rating": 4.5
+      "hours": "Evening shows per schedule; box office hours vary"
     }
   ],
   "railStations": [

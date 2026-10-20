@@ -420,45 +420,35 @@
     {"id":"lr","name":"Ramal (Ópera–Príncipe Pío)","color":"#7D7D7D","code":"R","stations":[["Ópera",40.4178,-3.7098],["Príncipe Pío",40.4206,-3.7202]],"jp":"Ramal"}
   ],
   "hotels": [
-    {"name":"Atocha Hotel Madrid, Tapestry Collection by Hilton","lat":40.4107,"lng":-3.6952,"area":"Madrid Atocha","rating":4.6,"ratingCount":250,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Only YOU Hotel Atocha","lat":40.4073,"lng":-3.6882,"area":"Madrid Atocha","rating":4.8,"ratingCount":3319,"stars":4,"priceTier":3},
-    {"name":"NH Madrid Nacional","lat":40.4098,"lng":-3.6928,"area":"Madrid Atocha","rating":4.3,"ratingCount":1737,"stars":4,"priceTier":3},
-    {"name":"SLEEP'N Atocha","lat":40.4091,"lng":-3.693,"area":"Madrid Atocha","rating":4.8,"ratingCount":7073,"stars":2,"priceTier":2},
-    {"name":"URBANSEA Atocha 113","lat":40.4103,"lng":-3.6943,"area":"Madrid Atocha","rating":4.1,"ratingCount":706,"stars":1,"priceTier":2},
-    {"name":"Barceló Imagine","lat":40.4703,"lng":-3.6848,"area":"Madrid Chamartín","rating":4.8,"ratingCount":2173,"stars":5,"priceTier":3},
-    {"name":"Eurostars Madrid Tower","lat":40.4768,"lng":-3.6879,"area":"Madrid Chamartín","rating":4.1,"ratingCount":2912,"stars":5,"priceTier":3},
-    {"name":"Hilton Madrid Airport","lat":40.4522,"lng":-3.5855,"area":"Adolfo Suárez Madrid–Barajas Airport","rating":4.2,"ratingCount":4191,"stars":4,"priceTier":3,"brandAnchor":true},
-    {
-      "name": "Madrid Marriott Auditorium Hotel & Conference Center",
-      "lat": 40.4483,
-      "lng": -3.5587,
-      "area": "Adolfo Suárez Madrid–Barajas Airport",
-      "rating": 4,
-      "ratingCount": 2880,
-      "stars": 4,
-      "priceTier": 3,
-      "brandAnchor": true
-    },
-    {"name":"The Madrid EDITION","lat":40.4177,"lng":-3.7063,"area":"Sol","rating":4.6,"ratingCount":403,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Catalonia Puerta del Sol","lat":40.4141,"lng":-3.7028,"area":"Sol","rating":4.5,"ratingCount":1378,"stars":4,"priceTier":3},
-    {"name":"Hotel Europa","lat":40.4175,"lng":-3.7035,"area":"Sol","rating":4.4,"ratingCount":3925,"stars":3,"priceTier":2},
-    {"name":"Petit Palace Puerta del Sol","lat":40.4171,"lng":-3.705,"area":"Sol","rating":4.3,"ratingCount":1964,"stars":3,"priceTier":2},
-    {"name":"Mola Hostel","lat":40.4141,"lng":-3.7039,"area":"Sol","rating":4.4,"ratingCount":1442,"stars":1,"priceTier":1},
-    {"name":"ibis Styles Madrid Centro Maravillas","lat":40.4287,"lng":-3.703,"area":"Malasaña","rating":4.5,"ratingCount":31,"stars":2,"priceTier":2,"brandAnchor":true},
-    {"name":"URSO Hotel & Spa","lat":40.427,"lng":-3.698,"area":"Malasaña","rating":4.6,"ratingCount":858,"stars":5,"priceTier":4},
-    {"name":"Hotel Petit Palace Santa Barbara","lat":40.4264,"lng":-3.6962,"area":"Malasaña","rating":4.6,"ratingCount":2744,"stars":4,"priceTier":3},
-    {"name":"Only YOU Boutique Hotel Madrid","lat":40.4223,"lng":-3.6959,"area":"Malasaña","rating":4.8,"ratingCount":5516,"stars":4,"priceTier":3},
-    {"name":"Safestay Madrid Central","lat":40.428,"lng":-3.6983,"area":"Malasaña","rating":4.4,"ratingCount":1587,"stars":1,"priceTier":1},
-    {"name":"AC Hotel Recoletos","lat":40.4215,"lng":-3.6894,"area":"Salamanca","rating":4.2,"ratingCount":652,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Hotel Fénix Gran Meliá","lat":40.4265,"lng":-3.6893,"area":"Salamanca","rating":4.6,"ratingCount":3375,"stars":5,"priceTier":4},
-    {"name":"NH Collection Madrid Colón","lat":40.4262,"lng":-3.689,"area":"Salamanca","rating":4.6,"ratingCount":1335,"stars":4,"priceTier":3},
-    {"name":"Hotel Catalonia Goya","lat":40.4253,"lng":-3.6821,"area":"Salamanca","rating":4.1,"ratingCount":1168,"stars":4,"priceTier":3},
-    {"name":"Petit Palace President Castellana","lat":40.4291,"lng":-3.6884,"area":"Salamanca","rating":4.1,"ratingCount":1607,"stars":4,"priceTier":3},
-    {"name":"Hotel Indigo Madrid - Gran Via","lat":40.4206,"lng":-3.7074,"area":"Plaza de España","rating":4.3,"ratingCount":1325,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Hotel Riu Plaza España","lat":40.4241,"lng":-3.7109,"area":"Plaza de España","rating":4.4,"ratingCount":4673,"stars":4,"priceTier":3},
-    {"name":"Barceló Torre de Madrid","lat":40.4242,"lng":-3.7123,"area":"Plaza de España","rating":4.7,"ratingCount":2880,"stars":5,"priceTier":4},
-    {"name":"Motel One Madrid - Plaza de España","lat":40.4256,"lng":-3.7139,"area":"Plaza de España","rating":4.4,"ratingCount":636,"stars":3,"priceTier":2},
-    {"name":"Generator Madrid","lat":40.4208,"lng":-3.7082,"area":"Plaza de España","rating":4.1,"ratingCount":1146,"stars":1,"priceTier":1}
+    {"name":"Atocha Hotel Madrid, Tapestry Collection by Hilton","lat":40.4107,"lng":-3.6952,"area":"Madrid Atocha","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Only YOU Hotel Atocha","lat":40.4073,"lng":-3.6882,"area":"Madrid Atocha","stars":4,"priceTier":3},
+    {"name":"NH Madrid Nacional","lat":40.4098,"lng":-3.6928,"area":"Madrid Atocha","stars":4,"priceTier":3},
+    {"name":"SLEEP'N Atocha","lat":40.4091,"lng":-3.693,"area":"Madrid Atocha","stars":2,"priceTier":2},
+    {"name":"URBANSEA Atocha 113","lat":40.4103,"lng":-3.6943,"area":"Madrid Atocha","stars":1,"priceTier":2},
+    {"name":"Barceló Imagine","lat":40.4703,"lng":-3.6848,"area":"Madrid Chamartín","stars":5,"priceTier":3},
+    {"name":"Eurostars Madrid Tower","lat":40.4768,"lng":-3.6879,"area":"Madrid Chamartín","stars":5,"priceTier":3},
+    {"name":"Hilton Madrid Airport","lat":40.4522,"lng":-3.5855,"area":"Adolfo Suárez Madrid–Barajas Airport","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Madrid Marriott Auditorium Hotel & Conference Center","lat":40.4483,"lng":-3.5587,"area":"Adolfo Suárez Madrid–Barajas Airport","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"The Madrid EDITION","lat":40.4177,"lng":-3.7063,"area":"Sol","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Catalonia Puerta del Sol","lat":40.4141,"lng":-3.7028,"area":"Sol","stars":4,"priceTier":3},
+    {"name":"Hotel Europa","lat":40.4175,"lng":-3.7035,"area":"Sol","stars":3,"priceTier":2},
+    {"name":"Petit Palace Puerta del Sol","lat":40.4171,"lng":-3.705,"area":"Sol","stars":3,"priceTier":2},
+    {"name":"Mola Hostel","lat":40.4141,"lng":-3.7039,"area":"Sol","stars":1,"priceTier":1},
+    {"name":"ibis Styles Madrid Centro Maravillas","lat":40.4287,"lng":-3.703,"area":"Malasaña","stars":2,"priceTier":2,"brandAnchor":true},
+    {"name":"URSO Hotel & Spa","lat":40.427,"lng":-3.698,"area":"Malasaña","stars":5,"priceTier":4},
+    {"name":"Hotel Petit Palace Santa Barbara","lat":40.4264,"lng":-3.6962,"area":"Malasaña","stars":4,"priceTier":3},
+    {"name":"Only YOU Boutique Hotel Madrid","lat":40.4223,"lng":-3.6959,"area":"Malasaña","stars":4,"priceTier":3},
+    {"name":"Safestay Madrid Central","lat":40.428,"lng":-3.6983,"area":"Malasaña","stars":1,"priceTier":1},
+    {"name":"AC Hotel Recoletos","lat":40.4215,"lng":-3.6894,"area":"Salamanca","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hotel Fénix Gran Meliá","lat":40.4265,"lng":-3.6893,"area":"Salamanca","stars":5,"priceTier":4},
+    {"name":"NH Collection Madrid Colón","lat":40.4262,"lng":-3.689,"area":"Salamanca","stars":4,"priceTier":3},
+    {"name":"Hotel Catalonia Goya","lat":40.4253,"lng":-3.6821,"area":"Salamanca","stars":4,"priceTier":3},
+    {"name":"Petit Palace President Castellana","lat":40.4291,"lng":-3.6884,"area":"Salamanca","stars":4,"priceTier":3},
+    {"name":"Hotel Indigo Madrid - Gran Via","lat":40.4206,"lng":-3.7074,"area":"Plaza de España","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hotel Riu Plaza España","lat":40.4241,"lng":-3.7109,"area":"Plaza de España","stars":4,"priceTier":3},
+    {"name":"Barceló Torre de Madrid","lat":40.4242,"lng":-3.7123,"area":"Plaza de España","stars":5,"priceTier":4},
+    {"name":"Motel One Madrid - Plaza de España","lat":40.4256,"lng":-3.7139,"area":"Plaza de España","stars":3,"priceTier":2},
+    {"name":"Generator Madrid","lat":40.4208,"lng":-3.7082,"area":"Plaza de España","stars":1,"priceTier":1}
   ],
   "sights": [
     {
@@ -466,8 +456,7 @@
       "lat": 40.4153,
       "lng": -3.6845,
       "note": "Madrid's great royal park: row a boat on the Estanque lake and see the glass Palacio de Cristal and the rose garden.",
-      "hours": "6:00 AM–midnight Apr–Sep, 6:00 AM–10:00 PM Oct–Mar",
-      "rating": 4.7
+      "hours": "6:00 AM–midnight Apr–Sep, 6:00 AM–10:00 PM Oct–Mar"
     },
     {
       "name": "Museo Nacional del Prado",
@@ -475,7 +464,6 @@
       "lng": -3.6921,
       "note": "Spain's national art museum: Velázquez's Las Meninas, Goya's Black Paintings and Bosch's Garden of Earthly Delights.",
       "hours": "10:00 AM–8:00 PM Mon–Sat, till 7:00 PM Sun & holidays (free last 2 hours)",
-      "rating": 4.7,
       "ticketUrl": "https://www.museodelprado.es/en",
       "bookAhead": true
     },
@@ -485,7 +473,6 @@
       "lng": -3.7143,
       "note": "The monarchy's vast 18th-century official residence, with lavish state rooms, the Royal Armoury and the Changing of the Guard.",
       "hours": "10:00 AM–7:00 PM Apr–Sep, till 6:00 PM Oct–Mar; closes for state events",
-      "rating": 4.5,
       "ticketUrl": "https://www.patrimonionacional.es",
       "bookAhead": true
     },
@@ -495,25 +482,16 @@
       "lng": -3.6883,
       "note": "Real Madrid's rebuilt stadium; the self-guided tour covers the trophy museum, pitch-side views and the dressing rooms.",
       "hours": "Tour ~9:30 AM–7:00 PM Mon–Sat, ~10:00 AM–6:30 PM Sun; shortened on match days",
-      "rating": 4.5,
       "ticketUrl": "https://www.realmadrid.com",
       "bookAhead": true
     },
-    {
-      "name": "Gran Via",
-      "lat": 40.4199,
-      "lng": -3.704,
-      "note": "The city's grand early-20th-century boulevard of ornate facades, theatres, rooftop bars and the Metrópolis dome.",
-      "hours": "Open 24 hours",
-      "rating": 4.3
-    },
+    {"name":"Gran Via","lat":40.4199,"lng":-3.704,"note":"The city's grand early-20th-century boulevard of ornate facades, theatres, rooftop bars and the Metrópolis dome.","hours":"Open 24 hours"},
     {
       "name": "Mercado San Miguel",
       "lat": 40.4154,
       "lng": -3.709,
       "note": "A 1916 iron-and-glass market hall turned gourmet tapas hall: oysters, jamón, croquetas and vermouth by the glass.",
-      "hours": "10:00 AM–midnight Sun–Thu, till 1:00 AM Fri & Sat",
-      "rating": 4.3
+      "hours": "10:00 AM–midnight Sun–Thu, till 1:00 AM Fri & Sat"
     },
     {
       "name": "Museo Nacional Thyssen-Bornemisza",
@@ -521,24 +499,15 @@
       "lng": -3.6949,
       "note": "A private collection that fills the gaps between the Prado and Reina Sofía, from Italian primitives to Pop Art.",
       "hours": "10:00 AM–7:00 PM Tue–Sun; Mon noon–4:00 PM (permanent collection free)",
-      "rating": 4.6,
       "ticketUrl": "https://www.museothyssen.org/en"
     },
-    {
-      "name": "Plaza Mayor",
-      "lat": 40.4155,
-      "lng": -3.7074,
-      "note": "The arcaded 17th-century main square of Habsburg Madrid, ringed by cafés; try a calamari sandwich in a side bar.",
-      "hours": "Open 24 hours",
-      "rating": 4.2
-    },
+    {"name":"Plaza Mayor","lat":40.4155,"lng":-3.7074,"note":"The arcaded 17th-century main square of Habsburg Madrid, ringed by cafés; try a calamari sandwich in a side bar.","hours":"Open 24 hours"},
     {
       "name": "Museo Nacional Centro de Arte Reina Sofía",
       "lat": 40.4086,
       "lng": -3.6944,
       "note": "Modern and contemporary Spanish art in a former hospital, home of Picasso's Guernica plus Dalí and Miró.",
       "hours": "10:00 AM–9:00 PM Mon & Wed–Sat, till 2:30 PM Sun, closed Tue",
-      "rating": 4.3,
       "ticketUrl": "https://www.museoreinasofia.es/en"
     },
     {
@@ -546,32 +515,28 @@
       "lat": 40.424,
       "lng": -3.7178,
       "note": "A 2nd-century BC Egyptian temple gifted to Spain, set on a hilltop park that is Madrid's favourite sunset spot.",
-      "hours": "Interior 10:00 AM–8:00 PM Tue–Sun (till 7:00 PM 15 Jun–15 Sep), closed Mon; free, booking advised; park open all day",
-      "rating": 4.2
+      "hours": "Interior 10:00 AM–8:00 PM Tue–Sun (till 7:00 PM 15 Jun–15 Sep), closed Mon; free, booking advised; park open all day"
     },
     {
       "name": "Puerta del Sol",
       "lat": 40.4169,
       "lng": -3.7035,
       "note": "Madrid's central square, with the Kilometre Zero plaque, the bear-and-strawberry-tree statue and the New Year's Eve clock.",
-      "hours": "Open 24 hours",
-      "rating": 4.2
+      "hours": "Open 24 hours"
     },
     {
       "name": "Plaza de Cibeles",
       "lat": 40.4193,
       "lng": -3.6931,
       "note": "The roundabout with Madrid's goddess fountain, framed by the wedding-cake Palacio de Cibeles, whose rooftop terrace has city views.",
-      "hours": "Open 24 hours (Palacio de Cibeles viewpoint ~10:30 AM–2:00 PM & 4:00–7:00 PM Tue–Sun)",
-      "rating": 4.4
+      "hours": "Open 24 hours (Palacio de Cibeles viewpoint ~10:30 AM–2:00 PM & 4:00–7:00 PM Tue–Sun)"
     },
     {
       "name": "Museo Sorolla",
       "lat": 40.4357,
       "lng": -3.6925,
       "note": "The painter Joaquín Sorolla's house and garden; the house is closed for restoration, but the new extension building (Calle Zurbano 68) shows his work.",
-      "hours": "Extension only: 9:30 AM–8:00 PM Tue–Sat, 10:00 AM–3:00 PM Sun, closed Mon; house closed for works",
-      "rating": 4.7
+      "hours": "Extension only: 9:30 AM–8:00 PM Tue–Sat, 10:00 AM–3:00 PM Sun, closed Mon; house closed for works"
     },
     {
       "name": "National Archaeological Museum",
@@ -579,7 +544,6 @@
       "lng": -3.6893,
       "note": "Iberian, Roman, Visigothic and Moorish treasures, including the Lady of Elche bust and an Altamira cave replica.",
       "hours": "9:30 AM–8:00 PM Tue–Sat, till 3:00 PM Sun, closed Mon",
-      "rating": 4.7,
       "ticketUrl": "https://www.man.es"
     },
     {
@@ -587,24 +551,21 @@
       "lat": 40.4157,
       "lng": -3.7144,
       "note": "Madrid's neo-Gothic cathedral, finished only in 1993, facing the Royal Palace; the dome terrace gives views over the palace.",
-      "hours": "10:00 AM–8:00 PM daily (museum & dome ~10:00 AM–2:30 PM Mon–Sat)",
-      "rating": 4.2
+      "hours": "10:00 AM–8:00 PM daily (museum & dome ~10:00 AM–2:30 PM Mon–Sat)"
     },
     {
       "name": "El Rastro",
       "lat": 40.4087,
       "lng": -3.7075,
       "note": "The sprawling Sunday flea market down Ribera de Curtidores in La Latina, followed by vermouth and tapas in nearby bars.",
-      "hours": "Sundays & public holidays ~9:00 AM–3:00 PM",
-      "rating": 3.8
+      "hours": "Sundays & public holidays ~9:00 AM–3:00 PM"
     },
     {
       "name": "Parque Madrid Río",
       "lat": 40.404,
       "lng": -3.7185,
       "note": "A riverside park built over a buried motorway, with cycle paths, playgrounds and bridges along the Manzanares down to Matadero.",
-      "hours": "Open 24 hours",
-      "rating": 4.4
+      "hours": "Open 24 hours"
     },
     {
       "name": "Calle de la Cava Baja",

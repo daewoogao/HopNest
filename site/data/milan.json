@@ -246,36 +246,36 @@
     }
   ],
   "hotels": [
-    {"name":"Excelsior Hotel Gallia, a Luxury Collection Hotel","lat":45.4859,"lng":9.202,"area":"Milano Centrale","rating":4.6,"ratingCount":1769,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Hyatt Centric Milan Centrale","lat":45.4843,"lng":9.1988,"area":"Milano Centrale","rating":4.2,"ratingCount":2047,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Hilton Milan","lat":45.4862,"lng":9.2001,"area":"Milano Centrale","rating":4,"ratingCount":3762,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Hotel Berna","lat":45.4826,"lng":9.2034,"area":"Milano Centrale","rating":4.6,"ratingCount":8415,"stars":4,"priceTier":3},
-    {"name":"Ostello Bello Grande (hostel)","lat":45.4842,"lng":9.2054,"area":"Milano Centrale","rating":4.6,"ratingCount":1008,"stars":1,"priceTier":1},
-    {"name":"AC Hotel Milano","lat":45.4853,"lng":9.1831,"area":"Milano Porta Garibaldi","rating":4,"ratingCount":1306,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Tocq Hotel","lat":45.4828,"lng":9.1864,"area":"Milano Porta Garibaldi","rating":4.2,"ratingCount":216,"stars":4,"priceTier":3},
-    {"name":"Avani Palazzo Moscova Milan Hotel","lat":45.481,"lng":9.19,"area":"Milano Porta Garibaldi","rating":4.4,"ratingCount":401,"stars":4,"priceTier":3},
-    {"name":"NH Collection Milano Porta Nuova","lat":45.4814,"lng":9.1919,"area":"Milano Porta Garibaldi","rating":4.5,"ratingCount":371,"stars":4,"priceTier":3},
-    {"name":"Hotel VIU Milan","lat":45.4833,"lng":9.1776,"area":"Milano Porta Garibaldi","rating":4.4,"ratingCount":431,"stars":5,"priceTier":4},
-    {"name":"Moxy Milan Malpensa Airport","lat":45.6495,"lng":8.7235,"area":"Milan Malpensa Airport","rating":4.3,"ratingCount":2101,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"Moxy Milan Linate Airport","lat":45.4656,"lng":9.2818,"area":"Milan Linate Airport","rating":4.1,"ratingCount":304,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"Radisson Collection Hotel, Palazzo Touring Club Milan","lat":45.459,"lng":9.1877,"area":"Duomo","rating":4.4,"ratingCount":191,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Hotel Spadari al Duomo","lat":45.4636,"lng":9.1869,"area":"Duomo","rating":4.8,"ratingCount":3600,"stars":4,"priceTier":3},
-    {"name":"Gran Duca di York","lat":45.4636,"lng":9.1853,"area":"Duomo","rating":4.7,"ratingCount":2703,"stars":3,"priceTier":3},
-    {"name":"B&B Hotel Milano City Center Duomo","lat":45.4673,"lng":9.1849,"area":"Duomo","rating":4.6,"ratingCount":454,"stars":3,"priceTier":2},
-    {"name":"Ostello Bello Milano Duomo (hostel)","lat":45.4607,"lng":9.1811,"area":"Duomo","rating":4.7,"ratingCount":965,"stars":1,"priceTier":1},
-    {"name":"Bvlgari Hotel Milano","lat":45.4701,"lng":9.1893,"area":"Brera","rating":4.5,"ratingCount":1153,"stars":5,"priceTier":4},
-    {"name":"UNA Hotels Cusani Milano","lat":45.4685,"lng":9.1834,"area":"Brera","rating":4.2,"ratingCount":1152,"stars":4,"priceTier":3},
-    {"name":"Urban Hive Milano","lat":45.4771,"lng":9.1845,"area":"Brera","rating":4.7,"ratingCount":135,"stars":4,"priceTier":3},
-    {"name":"Magna Pars L'Hotel à Parfum","lat":45.4525,"lng":9.167,"area":"Navigli","rating":4.6,"ratingCount":701,"stars":5,"priceTier":4},
-    {"name":"Aethos Milan","lat":45.4531,"lng":9.179,"area":"Navigli","rating":4.7,"ratingCount":1245,"stars":4,"priceTier":3},
-    {"name":"Art Hotel Navigli","lat":45.4502,"lng":9.1697,"area":"Navigli","rating":4,"ratingCount":1314,"stars":4,"priceTier":3},
-    {"name":"Hotel Maison Borella","lat":45.4521,"lng":9.1758,"area":"Navigli","rating":4.3,"ratingCount":418,"stars":4,"priceTier":3},
-    {"name":"Savona 18 Suites","lat":45.4553,"lng":9.1676,"area":"Navigli","rating":4.5,"ratingCount":111,"stars":4,"priceTier":3},
-    {"name":"The Westin Palace, Milan","lat":45.4787,"lng":9.1993,"area":"Porta Venezia","rating":4.1,"ratingCount":1450,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Best Western Hotel City","lat":45.4792,"lng":9.2102,"area":"Porta Venezia","rating":4,"ratingCount":1072,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Château Monfort","lat":45.4682,"lng":9.2074,"area":"Porta Venezia","rating":4.7,"ratingCount":2729,"stars":5,"priceTier":4},
-    {"name":"Hotel Sanpi Milano","lat":45.4778,"lng":9.2031,"area":"Porta Venezia","rating":4.2,"ratingCount":1811,"stars":4,"priceTier":3},
-    {"name":"Hotel Teco","lat":45.4781,"lng":9.2092,"area":"Porta Venezia","rating":4.5,"ratingCount":733,"stars":3,"priceTier":2}
+    {"name":"Excelsior Hotel Gallia, a Luxury Collection Hotel","lat":45.4859,"lng":9.202,"area":"Milano Centrale","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Hyatt Centric Milan Centrale","lat":45.4843,"lng":9.1988,"area":"Milano Centrale","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hilton Milan","lat":45.4862,"lng":9.2001,"area":"Milano Centrale","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hotel Berna","lat":45.4826,"lng":9.2034,"area":"Milano Centrale","stars":4,"priceTier":3},
+    {"name":"Ostello Bello Grande (hostel)","lat":45.4842,"lng":9.2054,"area":"Milano Centrale","stars":1,"priceTier":1},
+    {"name":"AC Hotel Milano","lat":45.4853,"lng":9.1831,"area":"Milano Porta Garibaldi","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Tocq Hotel","lat":45.4828,"lng":9.1864,"area":"Milano Porta Garibaldi","stars":4,"priceTier":3},
+    {"name":"Avani Palazzo Moscova Milan Hotel","lat":45.481,"lng":9.19,"area":"Milano Porta Garibaldi","stars":4,"priceTier":3},
+    {"name":"NH Collection Milano Porta Nuova","lat":45.4814,"lng":9.1919,"area":"Milano Porta Garibaldi","stars":4,"priceTier":3},
+    {"name":"Hotel VIU Milan","lat":45.4833,"lng":9.1776,"area":"Milano Porta Garibaldi","stars":5,"priceTier":4},
+    {"name":"Moxy Milan Malpensa Airport","lat":45.6495,"lng":8.7235,"area":"Milan Malpensa Airport","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Moxy Milan Linate Airport","lat":45.4656,"lng":9.2818,"area":"Milan Linate Airport","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Radisson Collection Hotel, Palazzo Touring Club Milan","lat":45.459,"lng":9.1877,"area":"Duomo","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Hotel Spadari al Duomo","lat":45.4636,"lng":9.1869,"area":"Duomo","stars":4,"priceTier":3},
+    {"name":"Gran Duca di York","lat":45.4636,"lng":9.1853,"area":"Duomo","stars":3,"priceTier":3},
+    {"name":"B&B Hotel Milano City Center Duomo","lat":45.4673,"lng":9.1849,"area":"Duomo","stars":3,"priceTier":2},
+    {"name":"Ostello Bello Milano Duomo (hostel)","lat":45.4607,"lng":9.1811,"area":"Duomo","stars":1,"priceTier":1},
+    {"name":"Bvlgari Hotel Milano","lat":45.4701,"lng":9.1893,"area":"Brera","stars":5,"priceTier":4},
+    {"name":"UNA Hotels Cusani Milano","lat":45.4685,"lng":9.1834,"area":"Brera","stars":4,"priceTier":3},
+    {"name":"Urban Hive Milano","lat":45.4771,"lng":9.1845,"area":"Brera","stars":4,"priceTier":3},
+    {"name":"Magna Pars L'Hotel à Parfum","lat":45.4525,"lng":9.167,"area":"Navigli","stars":5,"priceTier":4},
+    {"name":"Aethos Milan","lat":45.4531,"lng":9.179,"area":"Navigli","stars":4,"priceTier":3},
+    {"name":"Art Hotel Navigli","lat":45.4502,"lng":9.1697,"area":"Navigli","stars":4,"priceTier":3},
+    {"name":"Hotel Maison Borella","lat":45.4521,"lng":9.1758,"area":"Navigli","stars":4,"priceTier":3},
+    {"name":"Savona 18 Suites","lat":45.4553,"lng":9.1676,"area":"Navigli","stars":4,"priceTier":3},
+    {"name":"The Westin Palace, Milan","lat":45.4787,"lng":9.1993,"area":"Porta Venezia","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Best Western Hotel City","lat":45.4792,"lng":9.2102,"area":"Porta Venezia","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Château Monfort","lat":45.4682,"lng":9.2074,"area":"Porta Venezia","stars":5,"priceTier":4},
+    {"name":"Hotel Sanpi Milano","lat":45.4778,"lng":9.2031,"area":"Porta Venezia","stars":4,"priceTier":3},
+    {"name":"Hotel Teco","lat":45.4781,"lng":9.2092,"area":"Porta Venezia","stars":3,"priceTier":2}
   ],
   "sights": [
     {
@@ -284,7 +284,6 @@
       "lng": 9.1919,
       "note": "Milan's white-marble Gothic cathedral, six centuries in the making; walk among the spires on the rooftop terraces.",
       "hours": "Cathedral & terraces ~9:00 AM–7:00 PM daily (last entry ~6:10 PM)",
-      "rating": 4.7,
       "ticketUrl": "https://www.duomomilano.it/en/",
       "bookAhead": true
     },
@@ -293,8 +292,7 @@
       "lat": 45.4658,
       "lng": 9.19,
       "note": "A glass-domed 1870s shopping arcade linking Piazza del Duomo and La Scala; spin your heel on the mosaic bull for luck.",
-      "hours": "Open 24 hours (shops ~10:00 AM–8:00 PM)",
-      "rating": 4.5
+      "hours": "Open 24 hours (shops ~10:00 AM–8:00 PM)"
     },
     {
       "name": "Castello Sforzesco",
@@ -302,7 +300,6 @@
       "lng": 9.1794,
       "note": "The Sforza dukes' brick fortress, now home to civic museums including Michelangelo's unfinished Rondanini Pietà.",
       "hours": "Courtyards ~7:00 AM–7:30 PM daily; museums 10:00 AM–5:30 PM, closed Mon",
-      "rating": 4.5,
       "ticketUrl": "https://www.milanocastello.it/en"
     },
     {
@@ -311,7 +308,6 @@
       "lng": 9.1707,
       "note": "Leonardo da Vinci's mural in the refectory beside the church of Santa Maria delle Grazie, seen in strictly timed 15-minute visits.",
       "hours": "8:15 AM–7:00 PM (last entry 6:45 PM), closed Mon",
-      "rating": 4.6,
       "ticketUrl": "https://cenacolovinciano.org/en/",
       "bookAhead": true
     },
@@ -321,7 +317,6 @@
       "lng": 9.188,
       "note": "Italy's great northern art gallery, with Mantegna's Dead Christ, Raphael and Caravaggio in a Baroque palazzo.",
       "hours": "8:30 AM–7:15 PM, closed Mon",
-      "rating": 4.5,
       "ticketUrl": "https://pinacotecabrera.org/en/"
     },
     {
@@ -329,16 +324,14 @@
       "lat": 45.451,
       "lng": 9.174,
       "note": "The last of Milan's canals, lined with bars and trattorias; the city's favourite spot for an evening aperitivo.",
-      "hours": "Open 24 hours; bars busiest ~6:00 PM–2:00 AM",
-      "rating": 4.3
+      "hours": "Open 24 hours; bars busiest ~6:00 PM–2:00 AM"
     },
     {
       "name": "San Maurizio al Monastero Maggiore",
       "lat": 45.4654,
       "lng": 9.1786,
       "note": "A plain-fronted church whose interior is covered wall to ceiling in 16th-century frescoes, often called Milan's Sistine Chapel.",
-      "hours": "~9:30 AM–7:30 PM, closed Mon; free",
-      "rating": 4.8
+      "hours": "~9:30 AM–7:30 PM, closed Mon; free"
     },
     {
       "name": "Teatro alla Scala",
@@ -346,7 +339,6 @@
       "lng": 9.1895,
       "note": "One of the world's great opera houses; the museum includes a peek into the auditorium from a box when there's no rehearsal.",
       "hours": "Museum 9:30 AM–5:30 PM daily (last entry 5:00 PM)",
-      "rating": 4.4,
       "ticketUrl": "https://www.teatroallascala.org/en/"
     },
     {
@@ -355,7 +347,6 @@
       "lng": 9.124,
       "note": "The 75,000-seat home of AC Milan and Inter; stadium tours take in the dressing rooms, pitchside and museum.",
       "hours": "Museum & tours ~9:30 AM–6:00 PM daily; reduced on match and concert days",
-      "rating": 4.2,
       "ticketUrl": "https://www.sansirostadium.com/en"
     },
     {
@@ -364,7 +355,6 @@
       "lng": 9.1858,
       "note": "A 17th-century library and gallery holding Caravaggio's Basket of Fruit and pages of Leonardo's Codex Atlanticus.",
       "hours": "10:00 AM–6:00 PM, closed Mon",
-      "rating": 4.5,
       "ticketUrl": "https://www.ambrosiana.it/en/"
     },
     {
@@ -373,7 +363,6 @@
       "lng": 9.2012,
       "note": "A 1930s industrialist's villa with its garden and swimming pool, kept intact with period furniture and art collections.",
       "hours": "10:00 AM–6:00 PM, closed Mon & Tue",
-      "rating": 4.6,
       "ticketUrl": "https://fondoambiente.it/luoghi/villa-necchi-campiglio"
     },
     {
@@ -381,24 +370,21 @@
       "lat": 45.473,
       "lng": 9.176,
       "note": "The big English-style park behind the Castello, running up to the Arco della Pace; good for picnics and sunset strolls.",
-      "hours": "Daily from ~6:30 AM; closes ~8:00–11:30 PM depending on season",
-      "rating": 4.4
+      "hours": "Daily from ~6:30 AM; closes ~8:00–11:30 PM depending on season"
     },
     {
       "name": "Basilica di Sant'Ambrogio",
       "lat": 45.4623,
       "lng": 9.1754,
       "note": "Milan's oldest major church, founded by Saint Ambrose in the 4th century and rebuilt in austere Lombard Romanesque.",
-      "hours": "~10:00 AM–12:00 PM & 2:30–6:00 PM Mon–Sat, Sun afternoon only",
-      "rating": 4.6
+      "hours": "~10:00 AM–12:00 PM & 2:30–6:00 PM Mon–Sat, Sun afternoon only"
     },
     {
       "name": "Cimitero Monumentale",
       "lat": 45.4855,
       "lng": 9.1798,
       "note": "An open-air museum of grand tombs and sculpture, from Liberty-style chapels to modernist monuments.",
-      "hours": "8:00 AM–6:00 PM, closed Mon; free",
-      "rating": 4.6
+      "hours": "8:00 AM–6:00 PM, closed Mon; free"
     },
     {
       "name": "Museo del Novecento",
@@ -406,7 +392,6 @@
       "lng": 9.1903,
       "note": "20th-century Italian art from Futurism to Arte Povera, with a top-floor window framing Piazza del Duomo.",
       "hours": "10:00 AM–7:30 PM (Thu till 10:30 PM), closed Mon",
-      "rating": 4.3,
       "ticketUrl": "https://www.museodelnovecento.org/en"
     },
     {
@@ -414,16 +399,14 @@
       "lat": 45.4628,
       "lng": 9.1878,
       "note": "A small Renaissance church where Bramante faked a deep apse with a trompe-l'oeil only 1 m deep.",
-      "hours": "~9:30 AM–5:30 PM, Sun afternoon only; closed Mon",
-      "rating": 4.7
+      "hours": "~9:30 AM–5:30 PM, Sun afternoon only; closed Mon"
     },
     {
       "name": "Piazza Gae Aulenti & Bosco Verticale",
       "lat": 45.484,
       "lng": 9.19,
       "note": "The raised plaza of the Porta Nuova skyscraper district, a short walk from the tree-covered Bosco Verticale towers.",
-      "hours": "Open 24 hours; free",
-      "rating": 4.5
+      "hours": "Open 24 hours; free"
     }
   ],
   "railStations": [

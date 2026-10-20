@@ -264,36 +264,36 @@
     }
   ],
   "hotels": [
-    {"name":"The Quarter Hualamphong by UHG","lat":13.7374,"lng":100.5152,"area":"Hua Lamphong Railway Station","rating":4.8,"ratingCount":1136,"stars":4,"priceTier":3},
-    {"name":"Loy La Long Hotel","lat":13.7356,"lng":100.5104,"area":"Hua Lamphong Railway Station","rating":4.7,"ratingCount":453,"stars":3,"priceTier":3},
-    {"name":"La Locanda Bangkok","lat":13.7418,"lng":100.5144,"area":"Hua Lamphong Railway Station","rating":4.5,"ratingCount":117,"stars":3,"priceTier":2},
-    {"name":"Loftel 22 Hostel","lat":13.7332,"lng":100.5143,"area":"Hua Lamphong Railway Station","rating":4.3,"ratingCount":220,"stars":1,"priceTier":1},
-    {"name":"Hyatt Regency Bangkok Suvarnabhumi Airport","lat":13.6961,"lng":100.7518,"area":"Suvarnabhumi Airport","rating":4.1,"ratingCount":8208,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Amari Don Muang Airport Bangkok","lat":13.9209,"lng":100.6001,"area":"Don Mueang International Airport","rating":4.1,"ratingCount":4732,"stars":4,"priceTier":3},
-    {"name":"Siam Kempinski Hotel Bangkok","lat":13.7485,"lng":100.5353,"area":"Siam","rating":4.7,"ratingCount":5075,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Novotel Bangkok on Siam Square","lat":13.7446,"lng":100.5348,"area":"Siam","rating":4.2,"ratingCount":6962,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Pathumwan Princess Hotel","lat":13.7435,"lng":100.5299,"area":"Siam","rating":4.6,"ratingCount":9260,"stars":4,"priceTier":3},
-    {"name":"ibis Bangkok Siam","lat":13.747,"lng":100.529,"area":"Siam","rating":4.1,"ratingCount":2190,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"Lub d Bangkok Siam","lat":13.7469,"lng":100.5286,"area":"Siam","rating":4.4,"ratingCount":1221,"stars":1,"priceTier":1},
-    {"name":"Sheraton Grande Sukhumvit, a Luxury Collection Hotel","lat":13.7374,"lng":100.5591,"area":"Sukhumvit (Asok)","rating":4.7,"ratingCount":5330,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Hilton Bangkok Grande Asoke","lat":13.739,"lng":100.5621,"area":"Sukhumvit (Asok)","rating":4.6,"ratingCount":5697,"stars":5,"priceTier":3,"brandAnchor":true},
-    {"name":"Grande Centre Point Terminal 21","lat":13.7382,"lng":100.5607,"area":"Sukhumvit (Asok)","rating":4.3,"ratingCount":3051,"stars":5,"priceTier":3},
-    {"name":"Easy Planet Bangkok Asoke","lat":13.7355,"lng":100.5601,"area":"Sukhumvit (Asok)","rating":4.1,"ratingCount":1581,"stars":2,"priceTier":2},
-    {"name":"The Blocks Hostel","lat":13.7384,"lng":100.5577,"area":"Sukhumvit (Asok)","rating":4.3,"ratingCount":269,"stars":1,"priceTier":1},
-    {"name":"Crowne Plaza Bangkok Lumpini Park","lat":13.7296,"lng":100.5349,"area":"Silom","rating":4.5,"ratingCount":1458,"stars":5,"priceTier":3,"brandAnchor":true},
-    {"name":"Le Méridien Bangkok","lat":13.73,"lng":100.5303,"area":"Silom","rating":4.7,"ratingCount":5867,"stars":5,"priceTier":3,"brandAnchor":true},
-    {"name":"Dusit Thani Bangkok","lat":13.7282,"lng":100.5383,"area":"Silom","rating":4.9,"ratingCount":1404,"stars":5,"priceTier":4},
-    {"name":"ibis Styles Bangkok Silom","lat":13.7269,"lng":100.532,"area":"Silom","rating":4.4,"ratingCount":149,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"The Cube Hostel","lat":13.7279,"lng":100.5365,"area":"Silom","rating":4.5,"ratingCount":217,"stars":1,"priceTier":1},
-    {"name":"Shangri-La Bangkok","lat":13.7208,"lng":100.5138,"area":"Riverside (Saphan Taksin)","rating":4.6,"ratingCount":13118,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Mandarin Oriental, Bangkok","lat":13.7237,"lng":100.5146,"area":"Riverside (Saphan Taksin)","rating":4.8,"ratingCount":6534,"stars":5,"priceTier":4},
-    {"name":"Centre Point Plus Hotel Silom","lat":13.72,"lng":100.515,"area":"Riverside (Saphan Taksin)","rating":4.4,"ratingCount":2858,"stars":4,"priceTier":3},
-    {"name":"Holiday Inn Bangkok Silom","lat":13.7226,"lng":100.5197,"area":"Riverside (Saphan Taksin)","rating":4.3,"ratingCount":3519,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"ASAI Bangkok Chinatown","lat":13.7416,"lng":100.5114,"area":"Chinatown","rating":4.9,"ratingCount":1767,"stars":3,"priceTier":2},
-    {"name":"Shanghai Mansion Bangkok","lat":13.7397,"lng":100.5112,"area":"Chinatown","rating":4.5,"ratingCount":4116,"stars":4,"priceTier":3},
-    {"name":"W22 by Burasari","lat":13.7417,"lng":100.5129,"area":"Chinatown","rating":4.6,"ratingCount":448,"stars":4,"priceTier":3},
-    {"name":"Hotel Royal Bangkok @ Chinatown","lat":13.7406,"lng":100.51,"area":"Chinatown","rating":4.2,"ratingCount":1199,"stars":3,"priceTier":2},
-    {"name":"Norn Yaowarat Hostel","lat":13.7409,"lng":100.511,"area":"Chinatown","rating":4.7,"ratingCount":109,"stars":1,"priceTier":1}
+    {"name":"The Quarter Hualamphong by UHG","lat":13.7374,"lng":100.5152,"area":"Hua Lamphong Railway Station","stars":4,"priceTier":3},
+    {"name":"Loy La Long Hotel","lat":13.7356,"lng":100.5104,"area":"Hua Lamphong Railway Station","stars":3,"priceTier":3},
+    {"name":"La Locanda Bangkok","lat":13.7418,"lng":100.5144,"area":"Hua Lamphong Railway Station","stars":3,"priceTier":2},
+    {"name":"Loftel 22 Hostel","lat":13.7332,"lng":100.5143,"area":"Hua Lamphong Railway Station","stars":1,"priceTier":1},
+    {"name":"Hyatt Regency Bangkok Suvarnabhumi Airport","lat":13.6961,"lng":100.7518,"area":"Suvarnabhumi Airport","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Amari Don Muang Airport Bangkok","lat":13.9209,"lng":100.6001,"area":"Don Mueang International Airport","stars":4,"priceTier":3},
+    {"name":"Siam Kempinski Hotel Bangkok","lat":13.7485,"lng":100.5353,"area":"Siam","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Novotel Bangkok on Siam Square","lat":13.7446,"lng":100.5348,"area":"Siam","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Pathumwan Princess Hotel","lat":13.7435,"lng":100.5299,"area":"Siam","stars":4,"priceTier":3},
+    {"name":"ibis Bangkok Siam","lat":13.747,"lng":100.529,"area":"Siam","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Lub d Bangkok Siam","lat":13.7469,"lng":100.5286,"area":"Siam","stars":1,"priceTier":1},
+    {"name":"Sheraton Grande Sukhumvit, a Luxury Collection Hotel","lat":13.7374,"lng":100.5591,"area":"Sukhumvit (Asok)","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Hilton Bangkok Grande Asoke","lat":13.739,"lng":100.5621,"area":"Sukhumvit (Asok)","stars":5,"priceTier":3,"brandAnchor":true},
+    {"name":"Grande Centre Point Terminal 21","lat":13.7382,"lng":100.5607,"area":"Sukhumvit (Asok)","stars":5,"priceTier":3},
+    {"name":"Easy Planet Bangkok Asoke","lat":13.7355,"lng":100.5601,"area":"Sukhumvit (Asok)","stars":2,"priceTier":2},
+    {"name":"The Blocks Hostel","lat":13.7384,"lng":100.5577,"area":"Sukhumvit (Asok)","stars":1,"priceTier":1},
+    {"name":"Crowne Plaza Bangkok Lumpini Park","lat":13.7296,"lng":100.5349,"area":"Silom","stars":5,"priceTier":3,"brandAnchor":true},
+    {"name":"Le Méridien Bangkok","lat":13.73,"lng":100.5303,"area":"Silom","stars":5,"priceTier":3,"brandAnchor":true},
+    {"name":"Dusit Thani Bangkok","lat":13.7282,"lng":100.5383,"area":"Silom","stars":5,"priceTier":4},
+    {"name":"ibis Styles Bangkok Silom","lat":13.7269,"lng":100.532,"area":"Silom","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"The Cube Hostel","lat":13.7279,"lng":100.5365,"area":"Silom","stars":1,"priceTier":1},
+    {"name":"Shangri-La Bangkok","lat":13.7208,"lng":100.5138,"area":"Riverside (Saphan Taksin)","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Mandarin Oriental, Bangkok","lat":13.7237,"lng":100.5146,"area":"Riverside (Saphan Taksin)","stars":5,"priceTier":4},
+    {"name":"Centre Point Plus Hotel Silom","lat":13.72,"lng":100.515,"area":"Riverside (Saphan Taksin)","stars":4,"priceTier":3},
+    {"name":"Holiday Inn Bangkok Silom","lat":13.7226,"lng":100.5197,"area":"Riverside (Saphan Taksin)","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"ASAI Bangkok Chinatown","lat":13.7416,"lng":100.5114,"area":"Chinatown","stars":3,"priceTier":2},
+    {"name":"Shanghai Mansion Bangkok","lat":13.7397,"lng":100.5112,"area":"Chinatown","stars":4,"priceTier":3},
+    {"name":"W22 by Burasari","lat":13.7417,"lng":100.5129,"area":"Chinatown","stars":4,"priceTier":3},
+    {"name":"Hotel Royal Bangkok @ Chinatown","lat":13.7406,"lng":100.51,"area":"Chinatown","stars":3,"priceTier":2},
+    {"name":"Norn Yaowarat Hostel","lat":13.7409,"lng":100.511,"area":"Chinatown","stars":1,"priceTier":1}
   ],
   "sights": [
     {
@@ -302,7 +302,6 @@
       "lng": 100.493,
       "note": "Bangkok's oldest and largest temple complex, home to a 46-metre gilded reclining Buddha and the traditional Thai massage school.",
       "hours": "8:00 AM–6:30 PM daily",
-      "rating": 4.6,
       "ticketUrl": "https://www.watpho.com"
     },
     {
@@ -311,7 +310,6 @@
       "lng": 100.4914,
       "note": "The former royal residence, a walled compound of gilded halls that also holds Wat Phra Kaew and its revered Emerald Buddha; strict dress code (covered shoulders and knees).",
       "hours": "8:30 AM–3:30 PM daily (last tickets 3:30 PM); closes for royal ceremonies",
-      "rating": 4.2,
       "ticketUrl": "https://www.royalgrandpalace.th/en/home"
     },
     {
@@ -319,16 +317,14 @@
       "lat": 13.7437,
       "lng": 100.4889,
       "note": "Riverside temple whose porcelain-studded central prang glows at sunset; a 5-minute cross-river ferry from Tha Tien pier near Wat Pho.",
-      "hours": "8:00 AM–6:00 PM daily",
-      "rating": 4.4
+      "hours": "8:00 AM–6:00 PM daily"
     },
     {
       "name": "Chatuchak Weekend Market",
       "lat": 13.7998,
       "lng": 100.5501,
       "note": "One of the world's largest markets, with 15,000 stalls selling everything from clothes and ceramics to plants and street food; next to MRT Chatuchak Park and BTS Mo Chit.",
-      "hours": "Sat–Sun ~9:00 AM–6:00 PM (some stalls open Fri evening)",
-      "rating": 4.3
+      "hours": "Sat–Sun ~9:00 AM–6:00 PM (some stalls open Fri evening)"
     },
     {
       "name": "Jim Thompson House",
@@ -336,7 +332,6 @@
       "lng": 100.5283,
       "note": "A cluster of teak houses on a canal, assembled by the American silk entrepreneur who vanished in 1967, filled with his Southeast Asian art; seen by guided tour.",
       "hours": "10:00 AM–6:00 PM daily (guided tours only)",
-      "rating": 4.3,
       "ticketUrl": "https://www.jimthompsonhouse.org"
     },
     {
@@ -344,24 +339,21 @@
       "lat": 13.7314,
       "lng": 100.5414,
       "note": "Downtown's big green lung, with a lake for pedal boats, morning tai chi, joggers and wild monitor lizards; free entry.",
-      "hours": "~4:30 AM–10:00 PM daily",
-      "rating": 4.3
+      "hours": "~4:30 AM–10:00 PM daily"
     },
     {
       "name": "Rajadamnern Muay Thai Stadium",
       "lat": 13.7591,
       "lng": 100.5087,
       "note": "Thailand's oldest purpose-built Muay Thai stadium (1945), staging live professional bouts every night of the week.",
-      "hours": "Fights nightly, starting ~6:00–7:00 PM (card varies by night)",
-      "rating": 4.9
+      "hours": "Fights nightly, starting ~6:00–7:00 PM (card varies by night)"
     },
     {
       "name": "Wat Traimit (Temple of the Golden Buddha)",
       "lat": 13.7377,
       "lng": 100.5136,
       "note": "Temple at the gateway to Chinatown housing a 5.5-tonne solid gold Buddha, rediscovered under a plaster shell in 1955.",
-      "hours": "8:00 AM–5:00 PM daily",
-      "rating": 4.4
+      "hours": "8:00 AM–5:00 PM daily"
     },
     {
       "name": "King Power Mahanakhon SkyWalk",
@@ -369,7 +361,6 @@
       "lng": 100.528,
       "note": "Observation deck atop the pixelated Mahanakhon tower, with a glass-floor tray hanging over the edge 310 metres up; next to BTS Chong Nonsi.",
       "hours": "10:00 AM–midnight daily (last entry ~11:00 PM)",
-      "rating": 4.5,
       "ticketUrl": "https://kingpowermahanakhon.co.th"
     },
     {
@@ -377,8 +368,7 @@
       "lat": 13.7538,
       "lng": 100.5067,
       "note": "A hilltop golden chedi reached by 344 steps spiralling past bells and waterfalls, with a 360-degree view over the old city.",
-      "hours": "7:00 AM–7:00 PM daily",
-      "rating": 4.4
+      "hours": "7:00 AM–7:00 PM daily"
     },
     {
       "name": "SEA LIFE Bangkok Ocean World",
@@ -386,7 +376,6 @@
       "lng": 100.5348,
       "note": "Large aquarium in the basement of Siam Paragon with a walk-through shark tunnel, penguins and a glass-bottom boat ride.",
       "hours": "10:00 AM–8:00 PM daily (last entry 7:00 PM)",
-      "rating": 4.2,
       "ticketUrl": "https://www.visitsealife.com/bangkok/"
     },
     {
@@ -394,56 +383,49 @@
       "lat": 13.7324,
       "lng": 100.5365,
       "note": "Red Cross research institute that milks venomous snakes for antivenom, with live handling shows and a snake museum.",
-      "hours": "Mon–Fri 9:30 AM–3:30 PM, Sat–Sun 9:30 AM–1:00 PM; shows ~11:00 AM (and ~2:30 PM weekdays)",
-      "rating": 4.4
+      "hours": "Mon–Fri 9:30 AM–3:30 PM, Sat–Sun 9:30 AM–1:00 PM; shows ~11:00 AM (and ~2:30 PM weekdays)"
     },
     {
       "name": "Wat Paknam Phasi Charoen",
       "lat": 13.7218,
       "lng": 100.4703,
       "note": "Thonburi temple famed for its giant seated bronze Buddha and a white stupa whose top floor has a glass stupa under a swirling green ceiling mural.",
-      "hours": "8:00 AM–6:00 PM daily",
-      "rating": 4.6
+      "hours": "8:00 AM–6:00 PM daily"
     },
     {
       "name": "Khaosan Road",
       "lat": 13.7588,
       "lng": 100.4973,
       "note": "The original backpacker strip: a pedestrianised evening of street bars, pad thai carts, massage chairs and loud music.",
-      "hours": "Open 24 hours; busiest ~7:00 PM–2:00 AM",
-      "rating": 3.8
+      "hours": "Open 24 hours; busiest ~7:00 PM–2:00 AM"
     },
     {
       "name": "Yaowarat Road (Chinatown)",
       "lat": 13.7406,
       "lng": 100.51,
       "note": "Chinatown's neon-lit main street, which turns into one of Asia's great street-food strips after dark (seafood, noodles, mango sticky rice).",
-      "hours": "Street food ~6:00 PM–midnight; many stalls off on Mondays",
-      "rating": 4
+      "hours": "Street food ~6:00 PM–midnight; many stalls off on Mondays"
     },
     {
       "name": "Erawan Shrine",
       "lat": 13.7443,
       "lng": 100.5404,
       "note": "Busy Hindu shrine to Brahma at the Ratchaprasong intersection, where worshippers leave garlands and hire classical dancers to give thanks.",
-      "hours": "6:00 AM–11:00 PM daily",
-      "rating": 4.2
+      "hours": "6:00 AM–11:00 PM daily"
     },
     {
       "name": "Benjakitti Forest Park",
       "lat": 13.7298,
       "lng": 100.559,
       "note": "A former tobacco factory turned wetland park, with elevated skywalks over marshes and a lake loop beside MRT Queen Sirikit Centre.",
-      "hours": "~5:00 AM–9:00 PM daily (lake area to ~10:00 PM)",
-      "rating": 4.3
+      "hours": "~5:00 AM–9:00 PM daily (lake area to ~10:00 PM)"
     },
     {
       "name": "Pak Khlong Talat (Flower Market)",
       "lat": 13.7427,
       "lng": 100.4966,
       "note": "Bangkok's round-the-clock wholesale flower market, piled with marigold garlands, orchids and lotus buds; most vivid late at night.",
-      "hours": "Open 24 hours; liveliest ~10:00 PM–4:00 AM",
-      "rating": 4.2
+      "hours": "Open 24 hours; liveliest ~10:00 PM–4:00 AM"
     }
   ],
   "railStations": [

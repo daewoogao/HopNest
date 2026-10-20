@@ -379,10 +379,15 @@ Batches (proposed 2026-10-15, Audrey can swap any):
 3. Berlin, Amsterdam, Vienna, Prague, Istanbul
 4. Lisbon, Milan, Washington DC, Chicago, Mexico City
 
-Open before scaling: stored Google/TripAdvisor ratings break those
-services' terms (§8 "Check terms"), and 20 more cities multiply that.
-Recommendation: use ratings to *choose* hotels, but stop storing them in
-the data. Not decided yet.
+Ratings (decided by Audrey, 2026-10-20): review-site ratings (TripAdvisor,
+Trip.com, Google) are used only to *choose* picks, by the rules above. They
+are not shown or stored in site/data. A pick's popup says it meets our bar
+("HopNest pick: rated 4+ by 100+ travelers"; China: "4.5+ by 200+ Trip.com
+guests"; airport exception: "3.8+ by 500+ travelers"), and the booking link
+is where travelers see the live rating. Curators keep the numbers they
+checked in their own working files; a private archive of the numbers that
+were in the data until 2026-10-20 is in the project's shared folder
+(hopnest/ratings-archive), not in the public repo.
 
 ## 5. Known limitations (honest, not hidden)
 
@@ -562,8 +567,8 @@ they're done.
   of relying on user reports.
 - [ ] **About / Privacy page**: what's stored (pins in the browser only),
   where the data comes from, and "verify details before booking."
-- [ ] **Check terms for displaying ratings.** We show TripAdvisor/Google
-  ratings; confirm what their terms allow on a public site.
+- [x] **Check terms for displaying ratings.** Done 2026-10-20: we no longer
+  show or store third-party rating numbers (see §4 "Ratings").
 - [ ] **More cities**: target 25 (decided 2026-10-15). Plan and batches
   in §4 "Adding a city".
 
@@ -582,6 +587,16 @@ they're done.
 - Audrey: added the Chinese versions of the Background (项目背景) and of the
   core values and main features (核心价值与主要功能) right after the English
   Background at the top of this document.
+
+### 2026-10-20 — Rating numbers removed from the site
+- Audrey agreed: review sites' terms don't allow republishing their ratings,
+  free or paid, so the site no longer shows or stores them. Hotel popups say
+  "✓ HopNest pick: rated 4+ by 100+ travelers" (China: 4.5+ by 200+ Trip.com
+  guests; airport exception: 3.8+ by 500+ travelers) instead of a number;
+  the hotel list, the nearest-picks card and sight popups drop the ★ number.
+- rating and ratingCount were removed from every hotel and sight in
+  site/data (2,128 hotels, 1,654 sights). The selection rules don't change.
+  The removed numbers are archived privately in the project folder.
 
 ### 2026-10-20 — batch 10: more China cities (100 total)
 - Audrey asked for Chongqing, Hangzhou, Suzhou, Xiamen, Qingdao and

@@ -111,24 +111,14 @@
     }
   ],
   "hotels": [
-    {"name":"Hilton San Jose","lat":37.3292,"lng":-121.8905,"area":"Downtown San Jose","rating":4,"ratingCount":1865,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"San Jose Marriott","lat":37.3303,"lng":-121.8883,"area":"Downtown San Jose","rating":4,"ratingCount":1158,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"AC Hotel San Jose Downtown","lat":37.3332,"lng":-121.8961,"area":"Downtown San Jose","rating":4.1,"ratingCount":268,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Hyatt Place San Jose Airport","lat":37.3735,"lng":-121.9213,"area":"San José Mineta International Airport","rating":4,"ratingCount":352,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"Hyatt House San Jose Airport","lat":37.3739,"lng":-121.9196,"area":"San José Mineta International Airport","rating":4.1,"ratingCount":209,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"Sonesta Select San Jose Airport","lat":37.3655,"lng":-121.9184,"area":"San José Mineta International Airport","rating":4,"ratingCount":460,"stars":3,"priceTier":3},
-    {
-      "name": "Residence Inn by Marriott San Jose Airport",
-      "lat": 37.3662,
-      "lng": -121.9135,
-      "area": "San José Mineta International Airport",
-      "rating": 4.3,
-      "ratingCount": 155,
-      "stars": 3,
-      "priceTier": 3,
-      "brandAnchor": true
-    },
-    {"name":"Hilton Santa Clara","lat":37.4026,"lng":-121.9768,"area":"Levi's Stadium","rating":4.1,"ratingCount":1796,"stars":4,"priceTier":3,"brandAnchor":true}
+    {"name":"Hilton San Jose","lat":37.3292,"lng":-121.8905,"area":"Downtown San Jose","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"San Jose Marriott","lat":37.3303,"lng":-121.8883,"area":"Downtown San Jose","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"AC Hotel San Jose Downtown","lat":37.3332,"lng":-121.8961,"area":"Downtown San Jose","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hyatt Place San Jose Airport","lat":37.3735,"lng":-121.9213,"area":"San José Mineta International Airport","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Hyatt House San Jose Airport","lat":37.3739,"lng":-121.9196,"area":"San José Mineta International Airport","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Sonesta Select San Jose Airport","lat":37.3655,"lng":-121.9184,"area":"San José Mineta International Airport","stars":3,"priceTier":3},
+    {"name":"Residence Inn by Marriott San Jose Airport","lat":37.3662,"lng":-121.9135,"area":"San José Mineta International Airport","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Hilton Santa Clara","lat":37.4026,"lng":-121.9768,"area":"Levi's Stadium","stars":4,"priceTier":3,"brandAnchor":true}
   ],
   "sights": [
     {
@@ -137,7 +127,6 @@
       "lng": -121.951,
       "note": "Sarah Winchester's sprawling Victorian mansion, built nonstop for decades, full of staircases to nowhere and doors that open onto walls; seen on a guided tour.",
       "hours": "10:00 AM–5:00 PM daily (some days to 4:00 PM); timed guided tours",
-      "rating": 4,
       "ticketUrl": "https://winchestermysteryhouse.com",
       "bookAhead": true
     },
@@ -146,8 +135,7 @@
       "lat": 37.3317,
       "lng": -121.9285,
       "note": "A free five-acre garden in the Rose Garden neighbourhood with thousands of roses around a central fountain, at its best from April to June.",
-      "hours": "8:00 AM–1 hour after sunset daily; free",
-      "rating": 4.6
+      "hours": "8:00 AM–1 hour after sunset daily; free"
     },
     {
       "name": "Rosicrucian Egyptian Museum",
@@ -155,7 +143,6 @@
       "lng": -121.9236,
       "note": "The largest collection of Egyptian artefacts on display in western North America, with mummies and a walk-through replica tomb, set in a temple-style park.",
       "hours": "Fri 10:00 AM–5:00 PM, Sat–Sun 11:00 AM–6:00 PM; closed Mon–Thu",
-      "rating": 4.4,
       "ticketUrl": "https://egyptianmuseum.org"
     },
     {
@@ -164,7 +151,6 @@
       "lng": -121.8902,
       "note": "A hands-on science and technology centre on Plaza de César Chávez where you can design, test and tinker, plus an IMAX dome theatre.",
       "hours": "School year: Wed–Fri 10:00 AM–3:00 PM, Sat 10:00 AM–5:00 PM, Sun 11:00 AM–5:00 PM; closed Mon–Tue",
-      "rating": 4.2,
       "ticketUrl": "https://www.thetech.org"
     },
     {
@@ -172,8 +158,7 @@
       "lat": 37.3338,
       "lng": -121.8892,
       "note": "A domed 1870s cathedral on Market Street with stained glass and painted murals, an unexpectedly ornate interior in the downtown core.",
-      "hours": "Open daily ~7:00 AM–5:00 PM, around Mass times",
-      "rating": 4.6
+      "hours": "Open daily ~7:00 AM–5:00 PM, around Mass times"
     },
     {
       "name": "SAP Center",
@@ -181,7 +166,6 @@
       "lng": -121.901,
       "note": "Home arena of the NHL's San Jose Sharks and the city's main venue for big concerts, a short walk from Diridon station.",
       "hours": "Event days only",
-      "rating": 4.2,
       "ticketUrl": "https://www.sapcenter.com"
     },
     {
@@ -190,7 +174,6 @@
       "lng": -121.8924,
       "note": "A bright purple building packed with play-based exhibits for young kids, from a water lab to a pretend fire truck.",
       "hours": "School year: Tue–Fri 9:30 AM–1:00 PM, Sat–Sun 9:30 AM–4:30 PM; closed Mon",
-      "rating": 4.5,
       "ticketUrl": "https://www.cdm.org"
     },
     {
@@ -199,7 +182,6 @@
       "lng": -121.861,
       "note": "A small zoo and amusement park aimed at children under ten, with gentle rides, a puppet theatre and red pandas and lemurs.",
       "hours": "Thu–Sat 10:00 AM–4:00 PM (reduced schedule; check before visiting)",
-      "rating": 4.3,
       "ticketUrl": "https://happyhollow.org"
     },
     {
@@ -207,24 +189,21 @@
       "lat": 37.3233,
       "lng": -121.8619,
       "note": "A koi-pond garden in Kelley Park modelled on Okayama's Korakuen, San Jose's sister city, with bridges, a waterfall and lanterns.",
-      "hours": "10:00 AM–sunset daily; free",
-      "rating": 4.1
+      "hours": "10:00 AM–sunset daily; free"
     },
     {
       "name": "History Park",
       "lat": 37.3195,
       "lng": -121.8576,
       "note": "An open-air collection of restored and replica buildings from old San Jose, including a trolley barn, print shop and a half-scale electric light tower.",
-      "hours": "Grounds open daily; historic buildings open ~Sat–Sun 11:00 AM–4:00 PM",
-      "rating": 4.2
+      "hours": "Grounds open daily; historic buildings open ~Sat–Sun 11:00 AM–4:00 PM"
     },
     {
       "name": "San Pedro Square Market",
       "lat": 37.3363,
       "lng": -121.8944,
       "note": "An indoor-outdoor food hall in a historic block downtown, with dozens of vendors, bars and a lively courtyard in the evenings.",
-      "hours": "Daily ~7:00 AM–late; vendor hours vary",
-      "rating": 4.2
+      "hours": "Daily ~7:00 AM–late; vendor hours vary"
     },
     {
       "name": "San José Museum of Art",
@@ -232,7 +211,6 @@
       "lng": -121.8897,
       "note": "A modern and contemporary art museum in a former 1890s post office next to the cathedral, with rotating exhibitions focused on West Coast artists.",
       "hours": "Tue–Thu and Sat–Sun 11:00 AM–6:00 PM, Fri 11:00 AM–9:00 PM; closed Mon",
-      "rating": 4,
       "ticketUrl": "https://sjmusart.org"
     },
     {
@@ -240,32 +218,28 @@
       "lat": 37.332,
       "lng": -121.8894,
       "note": "The palm-lined central square of downtown, with a fountain children play in and the city's winter holiday market and rink.",
-      "hours": "Open 24 hours",
-      "rating": 4.2
+      "hours": "Open 24 hours"
     },
     {
       "name": "Japantown",
       "lat": 37.3487,
       "lng": -121.8947,
       "note": "One of only three historic Japantowns left in the US, a few walkable blocks of family-run shops, sushi bars, temples and a Sunday farmers' market.",
-      "hours": "Open street; most shops ~11:00 AM–6:00 PM; farmers' market Sun ~8:30 AM–noon",
-      "rating": 3.8
+      "hours": "Open street; most shops ~11:00 AM–6:00 PM; farmers' market Sun ~8:30 AM–noon"
     },
     {
       "name": "Willow Glen",
       "lat": 37.3043,
       "lng": -121.8979,
       "note": "A leafy residential neighbourhood whose Lincoln Avenue main street is lined with independent boutiques, cafés and restaurants.",
-      "hours": "Open street; shops ~10:00 AM–8:00 PM, restaurants later",
-      "rating": 4.4
+      "hours": "Open street; shops ~10:00 AM–8:00 PM, restaurants later"
     },
     {
       "name": "Alum Rock Park",
       "lat": 37.3966,
       "lng": -121.8001,
       "note": "California's oldest municipal park, a wooded canyon in the eastern foothills with creekside trails and old mineral springs.",
-      "hours": "8:00 AM–sunset daily; vehicle entry fee",
-      "rating": 4.4
+      "hours": "8:00 AM–sunset daily; vehicle entry fee"
     }
   ],
   "railStations": [

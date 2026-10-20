@@ -511,8 +511,6 @@
       "lat": 30.2368,
       "lng": 120.4285,
       "area": "Hangzhou Xiaoshan International Airport",
-      "rating": 4.8,
-      "ratingCount": 2504,
       "stars": 5,
       "priceTier": 4,
       "brandAnchor": true,
@@ -525,8 +523,6 @@
       "lat": 30.2361,
       "lng": 120.4291,
       "area": "Hangzhou Xiaoshan International Airport",
-      "rating": 4.8,
-      "ratingCount": 11747,
       "stars": 4,
       "priceTier": 3,
       "brandAnchor": true,
@@ -539,8 +535,6 @@
       "lat": 30.2477,
       "lng": 120.1775,
       "area": "Hangzhou Railway Station",
-      "rating": 4.7,
-      "ratingCount": 8070,
       "stars": 4,
       "priceTier": 2,
       "brandAnchor": true,
@@ -552,35 +546,29 @@
       "lat": 30.257,
       "lng": 120.1569,
       "area": "West Lake (Hubin)",
-      "rating": 4.7,
-      "ratingCount": 5797,
       "stars": 5,
       "priceTier": 4,
       "brandAnchor": true,
       "ratingSource": "Trip.com",
       "tripUrl": "https://www.trip.com/hotels/detail/?hotelId=369769"
     },
-    {"name":"Midtown Shangri-La, Hangzhou","lat":30.2623,"lng":120.1569,"area":"West Lake (Hubin)","rating":4.8,"ratingCount":8031,"stars":5,"priceTier":4,"brandAnchor":true,"ratingSource":"Trip.com"},
+    {"name":"Midtown Shangri-La, Hangzhou","lat":30.2623,"lng":120.1569,"area":"West Lake (Hubin)","stars":5,"priceTier":4,"brandAnchor":true,"ratingSource":"Trip.com"},
     {
       "name": "Friendship Hotel Hangzhou (West Lake)",
       "lat": 30.2561,
       "lng": 120.1618,
       "area": "West Lake (Hubin)",
-      "rating": 4.8,
-      "ratingCount": 8389,
       "stars": 4,
       "priceTier": 3,
       "ratingSource": "Trip.com",
       "tripUrl": "https://www.trip.com/hotels/detail/?hotelId=346313"
     },
-    {"name":"Merchant Marco Hotel","lat":30.2567,"lng":120.1635,"area":"West Lake (Hubin)","rating":4.8,"ratingCount":23578,"stars":3,"priceTier":2,"ratingSource":"Trip.com"},
+    {"name":"Merchant Marco Hotel","lat":30.2567,"lng":120.1635,"area":"West Lake (Hubin)","stars":3,"priceTier":2,"ratingSource":"Trip.com"},
     {
       "name": "Zprime Hotel (Hangzhou West Lake Yan'an Road Hubin)",
       "lat": 30.2639,
       "lng": 120.1595,
       "area": "West Lake (Hubin)",
-      "rating": 4.7,
-      "ratingCount": 4366,
       "stars": 3,
       "priceTier": 2,
       "ratingSource": "Trip.com",
@@ -591,8 +579,6 @@
       "lat": 30.2719,
       "lng": 120.1593,
       "area": "Wulin Square",
-      "rating": 4.5,
-      "ratingCount": 3181,
       "stars": 4,
       "priceTier": 3,
       "ratingSource": "Trip.com",
@@ -603,8 +589,6 @@
       "lat": 30.2448,
       "lng": 120.2091,
       "area": "Qianjiang New Town",
-      "rating": 4.7,
-      "ratingCount": 7889,
       "stars": 5,
       "priceTier": 4,
       "brandAnchor": true,
@@ -616,8 +600,6 @@
       "lat": 30.2511,
       "lng": 120.2092,
       "area": "Qianjiang New Town",
-      "rating": 4.6,
-      "ratingCount": 5938,
       "stars": 5,
       "priceTier": 4,
       "brandAnchor": true,
@@ -629,8 +611,6 @@
       "lat": 30.2483,
       "lng": 120.2132,
       "area": "Qianjiang New Town",
-      "rating": 4.7,
-      "ratingCount": 3384,
       "stars": 5,
       "priceTier": 4,
       "brandAnchor": true,
@@ -642,8 +622,6 @@
       "lat": 30.2441,
       "lng": 120.2056,
       "area": "Qianjiang New Town",
-      "rating": 4.8,
-      "ratingCount": 4993,
       "stars": 4,
       "priceTier": 3,
       "brandAnchor": true,
@@ -655,8 +633,6 @@
       "lat": 30.2428,
       "lng": 120.2019,
       "area": "Qianjiang New Town",
-      "rating": 4.7,
-      "ratingCount": 1275,
       "stars": 4,
       "priceTier": 3,
       "brandAnchor": true,
@@ -668,8 +644,6 @@
       "lat": 30.2932,
       "lng": 120.2131,
       "area": "Hangzhou East Railway Station",
-      "rating": 4.6,
-      "ratingCount": 7114,
       "stars": 4,
       "priceTier": 2,
       "ratingSource": "Trip.com",
@@ -680,8 +654,6 @@
       "lat": 30.2915,
       "lng": 120.2016,
       "area": "Hangzhou East Railway Station",
-      "rating": 4.9,
-      "ratingCount": 5429,
       "stars": 4,
       "priceTier": 3,
       "ratingSource": "Trip.com",
@@ -694,112 +666,98 @@
       "lat": 30.2469,
       "lng": 120.1442,
       "note": "Hangzhou's UNESCO-listed lake ringed by willow-lined causeways, temples and pagoda-topped hills; walk the Bai Causeway from Broken Bridge to Gushan, stroll the Su Causeway, or take a boat out to the Three Pools Mirroring the Moon.",
-      "hours": "Lakeside open 24 h, free; boats ~8:00 AM–5:00 PM",
-      "rating": 4.5
+      "hours": "Lakeside open 24 h, free; boats ~8:00 AM–5:00 PM"
     },
     {
       "name": "Lingyin Temple & Feilai Feng",
       "lat": 30.2424,
       "lng": 120.0976,
       "note": "One of China's largest and most active Buddhist temples, reached through the Feilai Feng grottoes, a limestone hillside carved with hundreds of Buddhist figures; separate tickets for the scenic area and the temple.",
-      "hours": "~7:00 AM–6:15 PM daily; last entry ~5:30 PM",
-      "rating": 4.5
+      "hours": "~7:00 AM–6:15 PM daily; last entry ~5:30 PM"
     },
     {
       "name": "Xixi National Wetland Park",
       "lat": 30.2706,
       "lng": 120.0625,
       "note": "A large protected wetland of fish ponds, reed-lined channels and old villages on the western edge of the city, best explored by electric boat; quieter than West Lake and good for a half day.",
-      "hours": "~8:30 AM–5:30 PM (to ~6:00 PM in summer)",
-      "rating": 4.2
+      "hours": "~8:30 AM–5:30 PM (to ~6:00 PM in summer)"
     },
     {
       "name": "Hefang Street & Qinghefang",
       "lat": 30.2425,
       "lng": 120.1696,
       "note": "A restored late-imperial shopping street below Wushan hill with tea houses, snack stalls and old pharmacies, including the Hu Qing Yu Tang herbal medicine museum; busiest and most atmospheric in the evening.",
-      "hours": "Street open all day; shops ~9:00 AM–10:00 PM",
-      "rating": 4
+      "hours": "Street open all day; shops ~9:00 AM–10:00 PM"
     },
     {
       "name": "Longjing Village Tea Fields",
       "lat": 30.2222,
       "lng": 120.098,
       "note": "The hillside village that gives Dragon Well (Longjing) green tea its name, with terraced plantations, family tea houses and walking paths; spring picking season in late March and April is the best time to visit.",
-      "hours": "Village open all day; tea houses ~9:00 AM–6:00 PM",
-      "rating": 4.2
+      "hours": "Village open all day; tea houses ~9:00 AM–6:00 PM"
     },
     {
       "name": "China National Tea Museum",
       "lat": 30.2347,
       "lng": 120.1156,
       "note": "A free museum set among tea gardens on Longjing Road covering the history, varieties and ceremony of Chinese tea, with tasting rooms on site.",
-      "hours": "~9:00 AM–4:30 PM, closed Mon",
-      "rating": 4.3
+      "hours": "~9:00 AM–4:30 PM, closed Mon"
     },
     {
       "name": "Former Residence of Hu Xueyan",
       "lat": 30.2397,
       "lng": 120.1681,
       "note": "The lavish 19th-century mansion of a Qing-dynasty merchant banker, with carved halls, rockery gardens and ponds packed into a city block near Hefang Street.",
-      "hours": "~8:00 AM–5:30 PM daily",
-      "rating": 4.5
+      "hours": "~8:00 AM–5:30 PM daily"
     },
     {
       "name": "Hangzhou Botanical Garden",
       "lat": 30.2552,
       "lng": 120.1231,
       "note": "A large hillside garden north-west of the lake with bamboo groves, plum and magnolia collections and shady trails, popular for spring blossoms.",
-      "hours": "~6:30 AM–6:00 PM daily",
-      "rating": 4.4
+      "hours": "~6:30 AM–6:00 PM daily"
     },
     {
       "name": "Leifeng Pagoda",
       "lat": 30.2339,
       "lng": 120.1451,
       "note": "A rebuilt pagoda on the southern shore standing over the ruins of the 10th-century original; ride the escalator up for one of the best views across West Lake, especially at sunset.",
-      "hours": "~8:00 AM–8:00 PM May–Oct, to ~5:30 PM Nov–mid-Mar; last ticket 30 min before",
-      "rating": 4
+      "hours": "~8:00 AM–8:00 PM May–Oct, to ~5:30 PM Nov–mid-Mar; last ticket 30 min before"
     },
     {
       "name": "Jingci Temple",
       "lat": 30.2295,
       "lng": 120.149,
       "note": "A 10th-century Chan Buddhist temple at the foot of Nanping Hill, facing Leifeng Pagoda across Nanshan Road, whose great bell rings out the 'Evening Bell at Nanping Hill', one of the Ten Scenes of West Lake.",
-      "hours": "~6:00 AM–5:30 PM daily",
-      "rating": 4.2
+      "hours": "~6:00 AM–5:30 PM daily"
     },
     {
       "name": "Gushan (Solitary Hill)",
       "lat": 30.2535,
       "lng": 120.139,
       "note": "The largest island in West Lake, linked by the Bai Causeway, with the Xiling Seal Engravers' Society gardens, Zhongshan Park and the free Zhejiang Museum Gushan branch.",
-      "hours": "Island open all day; museum ~9:00 AM–5:00 PM, closed Mon",
-      "rating": 4.5
+      "hours": "Island open all day; museum ~9:00 AM–5:00 PM, closed Mon"
     },
     {
       "name": "China National Silk Museum",
       "lat": 30.225,
       "lng": 120.1472,
       "note": "China's largest silk museum, south of the lake near Yuhuang Hill, tracing silk from cocoon to loom to five thousand years of costume; free entry.",
-      "hours": "~9:00 AM–5:00 PM, closed Mon",
-      "rating": 4.4
+      "hours": "~9:00 AM–5:00 PM, closed Mon"
     },
     {
       "name": "Grand Canal & Gongchen Bridge",
       "lat": 30.3205,
       "lng": 120.1347,
       "note": "The southern end of the 1,800 km Beijing–Hangzhou Grand Canal, crossed by a triple-arched Ming stone bridge and lined with restored lanes and free canal museums; the water bus from Wulin Gate is a pleasant way to arrive.",
-      "hours": "Waterfront open all day; museums ~9:00 AM–5:00 PM, closed Mon",
-      "rating": 4.4
+      "hours": "Waterfront open all day; museums ~9:00 AM–5:00 PM, closed Mon"
     },
     {
       "name": "Six Harmonies Pagoda",
       "lat": 30.1983,
       "lng": 120.1266,
       "note": "A 60 m Song-dynasty wooden-eaved pagoda on Yuelun Hill overlooking the Qiantang River, built to calm its famous tidal bore; climb the inner stairs for river views.",
-      "hours": "~6:00 AM–5:30 PM daily",
-      "rating": 4.1
+      "hours": "~6:00 AM–5:30 PM daily"
     }
   ],
   "railStations": [

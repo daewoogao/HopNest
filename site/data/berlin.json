@@ -278,38 +278,38 @@
     }
   ],
   "hotels": [
-    {"name":"ibis Berlin Hauptbahnhof","lat":52.5271,"lng":13.3701,"area":"Berlin Hauptbahnhof","rating":4.3,"ratingCount":1051,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"Motel One Berlin-Hauptbahnhof","lat":52.5258,"lng":13.3657,"area":"Berlin Hauptbahnhof","rating":4.2,"ratingCount":1066,"stars":3,"priceTier":2},
-    {"name":"InterCityHotel Berlin Hauptbahnhof","lat":52.5236,"lng":13.3667,"area":"Berlin Hauptbahnhof","rating":4.1,"ratingCount":2622,"stars":4,"priceTier":3},
-    {"name":"Steigenberger Hotel Am Kanzleramt","lat":52.5236,"lng":13.3677,"area":"Berlin Hauptbahnhof","rating":4.5,"ratingCount":5548,"stars":4,"priceTier":3},
-    {"name":"Hotel AMANO Grand Central","lat":52.5272,"lng":13.3704,"area":"Berlin Hauptbahnhof","rating":4.1,"ratingCount":2923,"stars":4,"priceTier":3},
-    {"name":"Steigenberger Airport Hotel Berlin","lat":52.3639,"lng":13.5117,"area":"Berlin Brandenburg Airport","rating":4,"ratingCount":511,"stars":4,"priceTier":3},
-    {"name":"IntercityHotel Berlin Airport BER Terminal 1+2","lat":52.3642,"lng":13.5129,"area":"Berlin Brandenburg Airport","rating":4.2,"ratingCount":159,"stars":4,"priceTier":3},
-    {"name":"Radisson Collection Hotel, Berlin","lat":52.5195,"lng":13.4028,"area":"Alexanderplatz","rating":4.4,"ratingCount":7217,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Hampton by Hilton Berlin City Centre Alexanderplatz","lat":52.5248,"lng":13.4188,"area":"Alexanderplatz","rating":4.1,"ratingCount":1767,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"Holiday Inn Express Berlin - Alexanderplatz","lat":52.5157,"lng":13.4119,"area":"Alexanderplatz","rating":4.3,"ratingCount":683,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"Motel One Berlin-Alexanderplatz","lat":52.5198,"lng":13.4125,"area":"Alexanderplatz","rating":4.3,"ratingCount":461,"stars":3,"priceTier":2},
-    {"name":"St Christopher's Inn Berlin - Alexanderplatz","lat":52.5268,"lng":13.4107,"area":"Alexanderplatz","rating":4.2,"ratingCount":1114,"stars":1,"priceTier":1},
-    {"name":"Hotel Adlon Kempinski Berlin","lat":52.5156,"lng":13.3803,"area":"Mitte","rating":4.6,"ratingCount":5208,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"The Westin Grand Berlin","lat":52.5159,"lng":13.3886,"area":"Mitte","rating":4.2,"ratingCount":3825,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Meliá Berlin","lat":52.5213,"lng":13.3885,"area":"Mitte","rating":4.5,"ratingCount":7292,"stars":4,"priceTier":3},
-    {"name":"NH Collection Berlin Mitte Friedrichstrasse","lat":52.5196,"lng":13.3889,"area":"Mitte","rating":4.6,"ratingCount":3045,"stars":4,"priceTier":3},
-    {"name":"Generator Berlin Mitte","lat":52.5251,"lng":13.3914,"area":"Mitte","rating":4.1,"ratingCount":2947,"stars":1,"priceTier":1},
-    {"name":"Grand Hyatt Berlin","lat":52.5082,"lng":13.3725,"area":"Potsdamer Platz","rating":4.6,"ratingCount":4900,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Berlin Marriott Hotel","lat":52.5111,"lng":13.3761,"area":"Potsdamer Platz","rating":4.4,"ratingCount":2784,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Scandic Berlin Potsdamer Platz","lat":52.5047,"lng":13.3752,"area":"Potsdamer Platz","rating":4.3,"ratingCount":5477,"stars":4,"priceTier":3},
-    {"name":"Motel One Berlin-Potsdamer Platz","lat":52.51,"lng":13.3809,"area":"Potsdamer Platz","rating":4.4,"ratingCount":499,"stars":3,"priceTier":2},
-    {"name":"ibis budget Berlin City Potsdamer Platz","lat":52.5048,"lng":13.3846,"area":"Potsdamer Platz","rating":4,"ratingCount":1992,"stars":2,"priceTier":1,"brandAnchor":true},
-    {"name":"Waldorf Astoria Berlin","lat":52.5056,"lng":13.3329,"area":"Kurfürstendamm","rating":4.5,"ratingCount":2419,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Hampton by Hilton Berlin City West","lat":52.505,"lng":13.3262,"area":"Kurfürstendamm","rating":4.4,"ratingCount":3490,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"Dorint Kurfürstendamm Berlin","lat":52.5025,"lng":13.3318,"area":"Kurfürstendamm","rating":4.5,"ratingCount":3685,"stars":4,"priceTier":3},
-    {"name":"H10 Berlin Ku'damm","lat":52.502,"lng":13.3314,"area":"Kurfürstendamm","rating":4.4,"ratingCount":2497,"stars":4,"priceTier":3},
-    {"name":"Motel One Berlin-Ku'damm","lat":52.5056,"lng":13.3296,"area":"Kurfürstendamm","rating":4.2,"ratingCount":486,"stars":3,"priceTier":2},
-    {"name":"Hotel Indigo Berlin - East Side Gallery","lat":52.5049,"lng":13.4412,"area":"Friedrichshain","rating":4.5,"ratingCount":120,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Hampton by Hilton Berlin City East Side Gallery","lat":52.5051,"lng":13.4413,"area":"Friedrichshain","rating":4.3,"ratingCount":416,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"nhow Berlin","lat":52.5011,"lng":13.4508,"area":"Friedrichshain","rating":4.4,"ratingCount":4995,"stars":4,"priceTier":3},
-    {"name":"Michelberger Hotel","lat":52.5046,"lng":13.448,"area":"Friedrichshain","rating":4.3,"ratingCount":1221,"stars":3,"priceTier":2},
-    {"name":"Sunflower Hostel Berlin","lat":52.5096,"lng":13.4463,"area":"Friedrichshain","rating":4.2,"ratingCount":946,"stars":1,"priceTier":1}
+    {"name":"ibis Berlin Hauptbahnhof","lat":52.5271,"lng":13.3701,"area":"Berlin Hauptbahnhof","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Motel One Berlin-Hauptbahnhof","lat":52.5258,"lng":13.3657,"area":"Berlin Hauptbahnhof","stars":3,"priceTier":2},
+    {"name":"InterCityHotel Berlin Hauptbahnhof","lat":52.5236,"lng":13.3667,"area":"Berlin Hauptbahnhof","stars":4,"priceTier":3},
+    {"name":"Steigenberger Hotel Am Kanzleramt","lat":52.5236,"lng":13.3677,"area":"Berlin Hauptbahnhof","stars":4,"priceTier":3},
+    {"name":"Hotel AMANO Grand Central","lat":52.5272,"lng":13.3704,"area":"Berlin Hauptbahnhof","stars":4,"priceTier":3},
+    {"name":"Steigenberger Airport Hotel Berlin","lat":52.3639,"lng":13.5117,"area":"Berlin Brandenburg Airport","stars":4,"priceTier":3},
+    {"name":"IntercityHotel Berlin Airport BER Terminal 1+2","lat":52.3642,"lng":13.5129,"area":"Berlin Brandenburg Airport","stars":4,"priceTier":3},
+    {"name":"Radisson Collection Hotel, Berlin","lat":52.5195,"lng":13.4028,"area":"Alexanderplatz","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Hampton by Hilton Berlin City Centre Alexanderplatz","lat":52.5248,"lng":13.4188,"area":"Alexanderplatz","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Holiday Inn Express Berlin - Alexanderplatz","lat":52.5157,"lng":13.4119,"area":"Alexanderplatz","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Motel One Berlin-Alexanderplatz","lat":52.5198,"lng":13.4125,"area":"Alexanderplatz","stars":3,"priceTier":2},
+    {"name":"St Christopher's Inn Berlin - Alexanderplatz","lat":52.5268,"lng":13.4107,"area":"Alexanderplatz","stars":1,"priceTier":1},
+    {"name":"Hotel Adlon Kempinski Berlin","lat":52.5156,"lng":13.3803,"area":"Mitte","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"The Westin Grand Berlin","lat":52.5159,"lng":13.3886,"area":"Mitte","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Meliá Berlin","lat":52.5213,"lng":13.3885,"area":"Mitte","stars":4,"priceTier":3},
+    {"name":"NH Collection Berlin Mitte Friedrichstrasse","lat":52.5196,"lng":13.3889,"area":"Mitte","stars":4,"priceTier":3},
+    {"name":"Generator Berlin Mitte","lat":52.5251,"lng":13.3914,"area":"Mitte","stars":1,"priceTier":1},
+    {"name":"Grand Hyatt Berlin","lat":52.5082,"lng":13.3725,"area":"Potsdamer Platz","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Berlin Marriott Hotel","lat":52.5111,"lng":13.3761,"area":"Potsdamer Platz","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Scandic Berlin Potsdamer Platz","lat":52.5047,"lng":13.3752,"area":"Potsdamer Platz","stars":4,"priceTier":3},
+    {"name":"Motel One Berlin-Potsdamer Platz","lat":52.51,"lng":13.3809,"area":"Potsdamer Platz","stars":3,"priceTier":2},
+    {"name":"ibis budget Berlin City Potsdamer Platz","lat":52.5048,"lng":13.3846,"area":"Potsdamer Platz","stars":2,"priceTier":1,"brandAnchor":true},
+    {"name":"Waldorf Astoria Berlin","lat":52.5056,"lng":13.3329,"area":"Kurfürstendamm","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Hampton by Hilton Berlin City West","lat":52.505,"lng":13.3262,"area":"Kurfürstendamm","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Dorint Kurfürstendamm Berlin","lat":52.5025,"lng":13.3318,"area":"Kurfürstendamm","stars":4,"priceTier":3},
+    {"name":"H10 Berlin Ku'damm","lat":52.502,"lng":13.3314,"area":"Kurfürstendamm","stars":4,"priceTier":3},
+    {"name":"Motel One Berlin-Ku'damm","lat":52.5056,"lng":13.3296,"area":"Kurfürstendamm","stars":3,"priceTier":2},
+    {"name":"Hotel Indigo Berlin - East Side Gallery","lat":52.5049,"lng":13.4412,"area":"Friedrichshain","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hampton by Hilton Berlin City East Side Gallery","lat":52.5051,"lng":13.4413,"area":"Friedrichshain","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"nhow Berlin","lat":52.5011,"lng":13.4508,"area":"Friedrichshain","stars":4,"priceTier":3},
+    {"name":"Michelberger Hotel","lat":52.5046,"lng":13.448,"area":"Friedrichshain","stars":3,"priceTier":2},
+    {"name":"Sunflower Hostel Berlin","lat":52.5096,"lng":13.4463,"area":"Friedrichshain","stars":1,"priceTier":1}
   ],
   "sights": [
     {
@@ -317,8 +317,7 @@
       "lat": 52.5163,
       "lng": 13.3777,
       "note": "Berlin's 1791 neoclassical gateway on Pariser Platz, once stranded in the Wall's death strip and now the city's symbol of reunification.",
-      "hours": "Open 24 hours (outdoor square)",
-      "rating": 4.5
+      "hours": "Open 24 hours (outdoor square)"
     },
     {
       "name": "Reichstag Building",
@@ -326,7 +325,6 @@
       "lng": 13.3762,
       "note": "Germany's parliament, topped by Norman Foster's glass dome with a spiral ramp and views over the government quarter. Entry is free but needs advance online registration with ID; the dome is closed 19–30 Oct 2026 for maintenance (roof terrace stays open).",
       "hours": "Dome 8:00 AM–midnight, last entry 9:45 PM; closed 19–30 Oct 2026",
-      "rating": 4.6,
       "ticketUrl": "https://www.bundestag.de/en/visittheBundestag/dome-245686",
       "bookAhead": true
     },
@@ -335,24 +333,21 @@
       "lat": 52.5066,
       "lng": 13.3837,
       "note": "Free documentation centre on the site of the former Gestapo and SS headquarters, beside a surviving stretch of the Wall.",
-      "hours": "10:00 AM–8:00 PM daily",
-      "rating": 4.5
+      "hours": "10:00 AM–8:00 PM daily"
     },
     {
       "name": "Memorial to the Murdered Jews of Europe",
       "lat": 52.5139,
       "lng": 13.3787,
       "note": "Peter Eisenman's field of 2,711 concrete stelae on uneven ground, with an underground information centre on the victims of the Holocaust. Free.",
-      "hours": "Stelae field open 24 hours; information centre Tue–Sun ~10:00 AM–6:00 PM",
-      "rating": 4.4
+      "hours": "Stelae field open 24 hours; information centre Tue–Sun ~10:00 AM–6:00 PM"
     },
     {
       "name": "Berlin Wall Memorial",
       "lat": 52.5352,
       "lng": 13.3903,
       "note": "The best-preserved stretch of the border strip along Bernauer Straße, with a watchtower, viewing platform and open-air exhibition. Free.",
-      "hours": "Outdoor grounds 8:00 AM–10:00 PM daily; visitor centre Tue–Sun 10:00 AM–6:00 PM",
-      "rating": 4.5
+      "hours": "Outdoor grounds 8:00 AM–10:00 PM daily; visitor centre Tue–Sun 10:00 AM–6:00 PM"
     },
     {
       "name": "Museum Island",
@@ -360,7 +355,6 @@
       "lng": 13.3989,
       "note": "UNESCO-listed island of five museums, including the Neues Museum's bust of Nefertiti, the Altes Museum and the Alte Nationalgalerie. The Pergamonmuseum itself is fully closed for construction (partial reopening planned 2027).",
       "hours": "Tue–Sun ~10:00 AM–6:00 PM, closed Mon; Pergamonmuseum closed",
-      "rating": 4.6,
       "ticketUrl": "https://www.smb.museum/en/",
       "bookAhead": true
     },
@@ -370,7 +364,6 @@
       "lng": 13.3884,
       "note": "Europe's largest revue theatre, staging lavish large-cast shows with a famous kickline on one of the world's biggest stages.",
       "hours": "Shows most evenings Tue–Sun ~7:30 PM, plus weekend matinees",
-      "rating": 4.6,
       "ticketUrl": "https://www.palast.berlin/en/",
       "bookAhead": true
     },
@@ -379,8 +372,7 @@
       "lat": 52.505,
       "lng": 13.4397,
       "note": "A 1.3 km surviving stretch of the Wall along the Spree, painted by artists from around the world in 1990. Free.",
-      "hours": "Open 24 hours (outdoor)",
-      "rating": 4.4
+      "hours": "Open 24 hours (outdoor)"
     },
     {
       "name": "Berliner Dom",
@@ -388,7 +380,6 @@
       "lng": 13.401,
       "note": "Berlin's ornate Protestant cathedral on Museum Island, with a Hohenzollern crypt and a climb to the dome's outer walkway for city views.",
       "hours": "Mon–Sat 9:00 AM–6:00 PM, Sun 12:00–6:00 PM; last entry 5:00 PM",
-      "rating": 4.4,
       "ticketUrl": "https://www.berlinerdom.de/en/"
     },
     {
@@ -396,8 +387,7 @@
       "lat": 52.5145,
       "lng": 13.3501,
       "note": "Berlin's huge central park of woods, lakes and beer gardens, centred on the Victory Column at the Großer Stern roundabout.",
-      "hours": "Open 24 hours",
-      "rating": 4.5
+      "hours": "Open 24 hours"
     },
     {
       "name": "DDR Museum",
@@ -405,7 +395,6 @@
       "lng": 13.4027,
       "note": "Hands-on museum of everyday life in East Germany, from a Trabant you can sit in to a reconstructed prefab flat.",
       "hours": "9:00 AM–9:00 PM daily",
-      "rating": 4,
       "ticketUrl": "https://www.ddr-museum.de/en"
     },
     {
@@ -414,7 +403,6 @@
       "lng": 13.3377,
       "note": "Germany's oldest zoo, beside Zoologischer Garten station, with giant pandas and one of the world's largest collections of species.",
       "hours": "9:00 AM–6:00 PM until 25 Oct, then 9:00 AM–4:30 PM in winter; last entry 1 h before",
-      "rating": 4.3,
       "ticketUrl": "https://www.zoo-berlin.de/en"
     },
     {
@@ -423,7 +411,6 @@
       "lng": 13.3953,
       "note": "Two millennia of Jewish life in Germany, housed partly in Daniel Libeskind's zigzag zinc building with its stark voids.",
       "hours": "Tue–Sun 10:00 AM–6:00 PM, closed Mon (since Mar 2026)",
-      "rating": 4.1,
       "ticketUrl": "https://www.jmberlin.de/en"
     },
     {
@@ -432,7 +419,6 @@
       "lng": 13.4094,
       "note": "The 368 m Fernsehturm at Alexanderplatz, with an observation deck at 203 m and a slowly revolving restaurant above it.",
       "hours": "~9:00 AM–11:00 PM daily (shorter in winter)",
-      "rating": 4,
       "ticketUrl": "https://tv-turm.de/en/",
       "bookAhead": true
     },
@@ -441,32 +427,28 @@
       "lat": 52.5137,
       "lng": 13.3926,
       "note": "Often called Berlin's finest square, framed by the twin French and German churches and Schinkel's Konzerthaus.",
-      "hours": "Open 24 hours (square)",
-      "rating": 4.5
+      "hours": "Open 24 hours (square)"
     },
     {
       "name": "Charlottenburg Palace",
       "lat": 52.5208,
       "lng": 13.2958,
       "note": "The largest Hohenzollern palace in Berlin, with baroque state rooms, the New Wing and formal gardens along the Spree.",
-      "hours": "Tue–Sun 10:00 AM–5:30 PM (to 4:30 PM Nov–Mar), closed Mon; gardens free daily",
-      "rating": 4.2
+      "hours": "Tue–Sun 10:00 AM–5:30 PM (to 4:30 PM Nov–Mar), closed Mon; gardens free daily"
     },
     {
       "name": "Markthalle Neun",
       "lat": 52.5022,
       "lng": 13.4316,
       "note": "A restored 1891 market hall in Kreuzberg with local producers, craft food stalls and the weekly Street Food Thursday.",
-      "hours": "Market stalls Mon–Sat (hours vary by stall); Street Food Thursday 5:00–10:00 PM",
-      "rating": 4.3
+      "hours": "Market stalls Mon–Sat (hours vary by stall); Street Food Thursday 5:00–10:00 PM"
     },
     {
       "name": "Tempelhofer Feld",
       "lat": 52.473,
       "lng": 13.403,
       "note": "The former Tempelhof Airport, now a vast open park where Berliners cycle, skate and kite-surf down the old runways. Free.",
-      "hours": "Dawn to dusk: Oct 7:00 AM–7:00 PM, Nov 7:00 AM–6:00 PM, summer until 10–11 PM",
-      "rating": 4.3
+      "hours": "Dawn to dusk: Oct 7:00 AM–7:00 PM, Nov 7:00 AM–6:00 PM, summer until 10–11 PM"
     }
   ],
   "railStations": [

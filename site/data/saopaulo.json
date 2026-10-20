@@ -137,32 +137,22 @@
     }
   ],
   "hotels": [
-    {"name":"B&B Hotels São Paulo Luz - Centro","lat":-23.5374,"lng":-46.6329,"area":"Luz Station","rating":4.2,"ratingCount":165,"stars":3,"priceTier":2},
-    {"name":"Pullman São Paulo Guarulhos Airport","lat":-23.4504,"lng":-46.4885,"area":"Guarulhos International Airport","rating":4.5,"ratingCount":2450,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Hampton by Hilton Guarulhos Airport","lat":-23.438,"lng":-46.4966,"area":"Guarulhos International Airport","rating":4,"ratingCount":451,"stars":3,"priceTier":3,"brandAnchor":true},
-    {
-      "name": "Tryp by Wyndham São Paulo Guarulhos Airport",
-      "lat": -23.4245,
-      "lng": -46.4757,
-      "area": "Guarulhos International Airport",
-      "rating": 4,
-      "ratingCount": 452,
-      "stars": 4,
-      "priceTier": 3,
-      "brandAnchor": true
-    },
-    {"name":"InterContinental São Paulo","lat":-23.5661,"lng":-46.6544,"area":"Avenida Paulista","rating":4.6,"ratingCount":2181,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Tivoli Mofarrej São Paulo","lat":-23.5639,"lng":-46.6558,"area":"Avenida Paulista","rating":4.6,"ratingCount":3899,"stars":5,"priceTier":4},
-    {"name":"Blue Tree Premium Paulista","lat":-23.5603,"lng":-46.656,"area":"Avenida Paulista","rating":4.2,"ratingCount":2618,"stars":4,"priceTier":3},
-    {"name":"Estanplaza Paulista","lat":-23.5667,"lng":-46.6546,"area":"Avenida Paulista","rating":4.1,"ratingCount":1176,"stars":4,"priceTier":3},
-    {"name":"Soul Hostel","lat":-23.5638,"lng":-46.6518,"area":"Avenida Paulista","rating":4.1,"ratingCount":105,"stars":1,"priceTier":1},
-    {"name":"Radisson Hotel Oscar Freire","lat":-23.5629,"lng":-46.6701,"area":"Jardins","rating":4,"ratingCount":1393,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Hotel Fasano São Paulo","lat":-23.5645,"lng":-46.6695,"area":"Jardins","rating":4.7,"ratingCount":799,"stars":5,"priceTier":4},
-    {"name":"Golden Tower São Paulo Hotel","lat":-23.5634,"lng":-46.69,"area":"Faria Lima","rating":4,"ratingCount":389,"stars":3,"priceTier":2},
-    {"name":"Garoa Hostel","lat":-23.566,"lng":-46.6962,"area":"Faria Lima","rating":4.3,"ratingCount":183,"stars":1,"priceTier":1},
-    {"name":"Wyndham São Paulo Ibirapuera","lat":-23.6064,"lng":-46.6643,"area":"Moema","rating":4.4,"ratingCount":6092,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Meliá Ibirapuera","lat":-23.6056,"lng":-46.6647,"area":"Moema","rating":4,"ratingCount":1927,"stars":4,"priceTier":3},
-    {"name":"Estanplaza Ibirapuera","lat":-23.6085,"lng":-46.6602,"area":"Moema","rating":4,"ratingCount":920,"stars":4,"priceTier":3}
+    {"name":"B&B Hotels São Paulo Luz - Centro","lat":-23.5374,"lng":-46.6329,"area":"Luz Station","stars":3,"priceTier":2},
+    {"name":"Pullman São Paulo Guarulhos Airport","lat":-23.4504,"lng":-46.4885,"area":"Guarulhos International Airport","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Hampton by Hilton Guarulhos Airport","lat":-23.438,"lng":-46.4966,"area":"Guarulhos International Airport","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Tryp by Wyndham São Paulo Guarulhos Airport","lat":-23.4245,"lng":-46.4757,"area":"Guarulhos International Airport","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"InterContinental São Paulo","lat":-23.5661,"lng":-46.6544,"area":"Avenida Paulista","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Tivoli Mofarrej São Paulo","lat":-23.5639,"lng":-46.6558,"area":"Avenida Paulista","stars":5,"priceTier":4},
+    {"name":"Blue Tree Premium Paulista","lat":-23.5603,"lng":-46.656,"area":"Avenida Paulista","stars":4,"priceTier":3},
+    {"name":"Estanplaza Paulista","lat":-23.5667,"lng":-46.6546,"area":"Avenida Paulista","stars":4,"priceTier":3},
+    {"name":"Soul Hostel","lat":-23.5638,"lng":-46.6518,"area":"Avenida Paulista","stars":1,"priceTier":1},
+    {"name":"Radisson Hotel Oscar Freire","lat":-23.5629,"lng":-46.6701,"area":"Jardins","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hotel Fasano São Paulo","lat":-23.5645,"lng":-46.6695,"area":"Jardins","stars":5,"priceTier":4},
+    {"name":"Golden Tower São Paulo Hotel","lat":-23.5634,"lng":-46.69,"area":"Faria Lima","stars":3,"priceTier":2},
+    {"name":"Garoa Hostel","lat":-23.566,"lng":-46.6962,"area":"Faria Lima","stars":1,"priceTier":1},
+    {"name":"Wyndham São Paulo Ibirapuera","lat":-23.6064,"lng":-46.6643,"area":"Moema","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Meliá Ibirapuera","lat":-23.6056,"lng":-46.6647,"area":"Moema","stars":4,"priceTier":3},
+    {"name":"Estanplaza Ibirapuera","lat":-23.6085,"lng":-46.6602,"area":"Moema","stars":4,"priceTier":3}
   ],
   "sights": [
     {
@@ -170,16 +160,14 @@
       "lat": -23.5874,
       "lng": -46.6576,
       "note": "The city's great urban park, with lakes, jogging tracks, Niemeyer-designed pavilions and several museums among the trees.",
-      "hours": "5:00 AM–midnight daily",
-      "rating": 4.6
+      "hours": "5:00 AM–midnight daily"
     },
     {
       "name": "Avenida Paulista",
       "lat": -23.5635,
       "lng": -46.6536,
       "note": "São Paulo's financial and cultural spine, lined with towers, museums and cafés and closed to cars on Sundays for a street party.",
-      "hours": "Open 24 hours; car-free Sundays ~10:00 AM–6:00 PM",
-      "rating": 4.5
+      "hours": "Open 24 hours; car-free Sundays ~10:00 AM–6:00 PM"
     },
     {
       "name": "Pinacoteca do Estado de São Paulo",
@@ -187,7 +175,6 @@
       "lng": -46.6337,
       "note": "Brazilian art from the 19th century to today in a restored brick-and-skylight building beside Luz Park.",
       "hours": "Wed–Mon 10:00 AM–6:00 PM, closed Tue (free first Sat of the month)",
-      "rating": 4.7,
       "ticketUrl": "https://pinacoteca.org.br"
     },
     {
@@ -195,8 +182,7 @@
       "lat": -23.5588,
       "lng": -46.6352,
       "note": "The world's largest Japanese community outside Japan, with red lanterns, ramen counters, shrines and a weekend street fair.",
-      "hours": "Streets open daily; fair Sat–Sun ~9:00 AM–7:00 PM",
-      "rating": 4.3
+      "hours": "Streets open daily; fair Sat–Sun ~9:00 AM–7:00 PM"
     },
     {
       "name": "MASP (São Paulo Museum of Art)",
@@ -204,7 +190,6 @@
       "lng": -46.6558,
       "note": "European and Brazilian masterpieces displayed on glass easels in a landmark concrete-and-glass box lifted on red pillars.",
       "hours": "Tue 10:00 AM–8:00 PM (free), Wed–Sun 10:00 AM–6:00 PM (Thu to 8:00 PM), closed Mon",
-      "rating": 4.5,
       "ticketUrl": "https://masp.org.br/en"
     },
     {
@@ -212,8 +197,7 @@
       "lat": -23.5415,
       "lng": -46.629,
       "note": "A 1930s market hall with stained-glass windows, famous for the towering mortadella sandwich and the pastel de bacalhau.",
-      "hours": "Mon–Sat 6:00 AM–6:00 PM, Sun 6:00 AM–4:00 PM",
-      "rating": 4.4
+      "hours": "Mon–Sat 6:00 AM–6:00 PM, Sun 6:00 AM–4:00 PM"
     },
     {
       "name": "Museu Catavento",
@@ -221,7 +205,6 @@
       "lng": -46.6272,
       "note": "A hands-on science museum for all ages, set in the grand former Palácio das Indústrias.",
       "hours": "Tue–Sun 9:00 AM–4:00 PM (last entry), closed Mon",
-      "rating": 4.7,
       "ticketUrl": "https://www.museucatavento.org.br"
     },
     {
@@ -230,7 +213,6 @@
       "lng": -46.6645,
       "note": "An interactive museum of Brazilian football inside Pacaembu Stadium, with exhibits on Pelé and the World Cups.",
       "hours": "Tue–Sun 9:00 AM–5:00 PM (last entry), closed Mon",
-      "rating": 4.5,
       "ticketUrl": "https://museudofutebol.org.br"
     },
     {
@@ -238,24 +220,21 @@
       "lat": -23.5438,
       "lng": -46.6339,
       "note": "A working Benedictine monastery and basilica downtown, known for its calm interior and Gregorian chant at Sunday Mass.",
-      "hours": "Daily ~6:00 AM–6:00 PM; chant Mass Sun ~10:00 AM",
-      "rating": 4.6
+      "hours": "Daily ~6:00 AM–6:00 PM; chant Mass Sun ~10:00 AM"
     },
     {
       "name": "Catedral da Sé",
       "lat": -23.5502,
       "lng": -46.6336,
       "note": "A neo-Gothic cathedral with a large dome that anchors the city's zero-kilometre square.",
-      "hours": "Daily ~8:00 AM–5:00 PM; times vary",
-      "rating": 4.3
+      "hours": "Daily ~8:00 AM–5:00 PM; times vary"
     },
     {
       "name": "Beco do Batman",
       "lat": -23.5564,
       "lng": -46.6865,
       "note": "A lane of constantly changing street art in Vila Madalena, ringed by galleries, bars and craft shops.",
-      "hours": "Open daily; best by day, ~24 hours outdoors",
-      "rating": 4.3
+      "hours": "Open daily; best by day, ~24 hours outdoors"
     },
     {
       "name": "Theatro Municipal de São Paulo",
@@ -263,7 +242,6 @@
       "lng": -46.6385,
       "note": "A 1911 opera house in an ornate Beaux-Arts style, visited by guided tour or a concert.",
       "hours": "Guided tours ~Tue–Sat, check the schedule; performances vary",
-      "rating": 4.6,
       "ticketUrl": "https://theatromunicipal.org.br"
     },
     {
@@ -272,7 +250,6 @@
       "lng": -46.6343,
       "note": "A 1930s skyscraper turned cultural centre whose top-floor terrace gives a free-flowing 360-degree view of downtown.",
       "hours": "Tue–Sun ~10:00 AM–6:00 PM (check before going)",
-      "rating": 4.3,
       "ticketUrl": "https://www.farolsantander.com.br"
     },
     {
@@ -280,8 +257,7 @@
       "lat": -23.5343,
       "lng": -46.636,
       "note": "The 1901 British-built railway station with a cast-iron roof and clock tower, still one of the city's busiest transport hubs.",
-      "hours": "Station open ~4:00 AM–midnight; free to enter",
-      "rating": 4.5
+      "hours": "Station open ~4:00 AM–midnight; free to enter"
     },
     {
       "name": "Museu da Língua Portuguesa",
@@ -289,7 +265,6 @@
       "lng": -46.6356,
       "note": "A museum celebrating the Portuguese language through sound, film and installations, housed inside Luz Station.",
       "hours": "Tue–Sun ~9:00 AM–4:30 PM, closed Mon",
-      "rating": 4.6,
       "ticketUrl": "https://museudalinguaportuguesa.org.br"
     }
   ],

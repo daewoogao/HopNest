@@ -102,98 +102,37 @@
     }
   ],
   "hotels": [
-    {"name":"The Ivy Hotel","lat":39.3034,"lng":-76.6129,"area":"Baltimore Penn Station","rating":4.9,"ratingCount":514,"stars":5,"priceTier":4},
-    {
-      "name": "Hilton Baltimore BWI Airport",
-      "lat": 39.1959,
-      "lng": -76.6807,
-      "area": "Baltimore/Washington International Thurgood Marshall Airport",
-      "rating": 4.4,
-      "ratingCount": 2936,
-      "stars": 4,
-      "priceTier": 3,
-      "brandAnchor": true
-    },
-    {
-      "name": "Holiday Inn Baltimore BWI Airport by IHG",
-      "lat": 39.196,
-      "lng": -76.6853,
-      "area": "Baltimore/Washington International Thurgood Marshall Airport",
-      "rating": 4.3,
-      "ratingCount": 618,
-      "stars": 3,
-      "priceTier": 2,
-      "brandAnchor": true
-    },
+    {"name":"The Ivy Hotel","lat":39.3034,"lng":-76.6129,"area":"Baltimore Penn Station","stars":5,"priceTier":4},
+    {"name":"Hilton Baltimore BWI Airport","lat":39.1959,"lng":-76.6807,"area":"Baltimore/Washington International Thurgood Marshall Airport","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Holiday Inn Baltimore BWI Airport by IHG","lat":39.196,"lng":-76.6853,"area":"Baltimore/Washington International Thurgood Marshall Airport","stars":3,"priceTier":2,"brandAnchor":true},
     {
       "name": "Fairfield by Marriott Inn & Suites Baltimore BWI Airport",
       "lat": 39.2006,
       "lng": -76.6797,
       "area": "Baltimore/Washington International Thurgood Marshall Airport",
-      "rating": 4.2,
-      "ratingCount": 498,
       "stars": 3,
       "priceTier": 2,
       "brandAnchor": true
     },
-    {
-      "name": "Courtyard by Marriott Baltimore BWI Airport",
-      "lat": 39.2009,
-      "lng": -76.6811,
-      "area": "Baltimore/Washington International Thurgood Marshall Airport",
-      "rating": 4.1,
-      "ratingCount": 424,
-      "stars": 3,
-      "priceTier": 3,
-      "brandAnchor": true
-    },
-    {
-      "name": "Red Roof PLUS+ Baltimore-Washington DC/BWI Airport",
-      "lat": 39.197,
-      "lng": -76.6861,
-      "area": "Baltimore/Washington International Thurgood Marshall Airport",
-      "rating": 4.1,
-      "ratingCount": 908,
-      "stars": 2,
-      "priceTier": 2
-    },
-    {"name":"Hampton Inn Baltimore-Downtown-Convention Center","lat":39.2855,"lng":-76.6232,"area":"Inner Harbor","rating":4.4,"ratingCount":1998,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"Days Inn by Wyndham Baltimore Inner Harbor","lat":39.2872,"lng":-76.618,"area":"Inner Harbor","rating":4,"ratingCount":3435,"stars":2,"priceTier":2,"brandAnchor":true},
-    {"name":"The Royal Sonesta Harbor Court Baltimore","lat":39.2827,"lng":-76.6139,"area":"Inner Harbor","rating":4.4,"ratingCount":2166,"stars":4,"priceTier":4},
-    {"name":"Kimpton Hotel Monaco Baltimore Inner Harbor","lat":39.2898,"lng":-76.6156,"area":"Downtown","rating":4.2,"ratingCount":2228,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Hampton Inn & Suites Baltimore Inner Harbor","lat":39.2887,"lng":-76.6124,"area":"Downtown","rating":4.4,"ratingCount":2141,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"Residence Inn by Marriott Baltimore Downtown/Inner Harbor","lat":39.2886,"lng":-76.6132,"area":"Downtown","rating":4.4,"ratingCount":1174,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"Lord Baltimore Hotel","lat":39.2898,"lng":-76.6161,"area":"Downtown","rating":4.2,"ratingCount":2240,"stars":3,"priceTier":3},
-    {
-      "name": "SpringHill Suites by Marriott Baltimore Downtown Convention Center Area",
-      "lat": 39.2906,
-      "lng": -76.6212,
-      "area": "Downtown",
-      "rating": 4.5,
-      "ratingCount": 117,
-      "stars": 3,
-      "priceTier": 3,
-      "brandAnchor": true
-    },
-    {"name":"Baltimore Marriott Waterfront","lat":39.2836,"lng":-76.603,"area":"Harbor East","rating":4.1,"ratingCount":2357,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Staybridge Suites Baltimore - Inner Harbor by IHG","lat":39.2889,"lng":-76.6099,"area":"Harbor East","rating":4.6,"ratingCount":585,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"The Oaks Inn Baltimore at 1840s Plaza","lat":39.2887,"lng":-76.6041,"area":"Harbor East","rating":4.7,"ratingCount":1243,"stars":3,"priceTier":3},
-    {
-      "name": "Fairfield by Marriott Inn & Suites Baltimore Downtown/Inner Harbor",
-      "lat": 39.2881,
-      "lng": -76.6044,
-      "area": "Harbor East",
-      "rating": 4.1,
-      "ratingCount": 650,
-      "stars": 3,
-      "priceTier": 2,
-      "brandAnchor": true
-    },
-    {"name":"Sleep Inn & Suites Downtown Inner Harbor","lat":39.2925,"lng":-76.6073,"area":"Harbor East","rating":4.3,"ratingCount":973,"stars":2,"priceTier":2},
-    {"name":"Hotel Indigo Baltimore Downtown by IHG","lat":39.2952,"lng":-76.6167,"area":"Mount Vernon","rating":4.5,"ratingCount":1423,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"Hotel Revival","lat":39.2973,"lng":-76.6172,"area":"Mount Vernon","rating":4.4,"ratingCount":1052,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Ulysses","lat":39.2998,"lng":-76.6155,"area":"Mount Vernon","rating":4.5,"ratingCount":325,"stars":4,"priceTier":3},
-    {"name":"Hotel Brexton","lat":39.3012,"lng":-76.6188,"area":"Mount Vernon","rating":4.2,"ratingCount":505,"stars":3,"priceTier":2}
+    {"name":"Courtyard by Marriott Baltimore BWI Airport","lat":39.2009,"lng":-76.6811,"area":"Baltimore/Washington International Thurgood Marshall Airport","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Red Roof PLUS+ Baltimore-Washington DC/BWI Airport","lat":39.197,"lng":-76.6861,"area":"Baltimore/Washington International Thurgood Marshall Airport","stars":2,"priceTier":2},
+    {"name":"Hampton Inn Baltimore-Downtown-Convention Center","lat":39.2855,"lng":-76.6232,"area":"Inner Harbor","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Days Inn by Wyndham Baltimore Inner Harbor","lat":39.2872,"lng":-76.618,"area":"Inner Harbor","stars":2,"priceTier":2,"brandAnchor":true},
+    {"name":"The Royal Sonesta Harbor Court Baltimore","lat":39.2827,"lng":-76.6139,"area":"Inner Harbor","stars":4,"priceTier":4},
+    {"name":"Kimpton Hotel Monaco Baltimore Inner Harbor","lat":39.2898,"lng":-76.6156,"area":"Downtown","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hampton Inn & Suites Baltimore Inner Harbor","lat":39.2887,"lng":-76.6124,"area":"Downtown","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Residence Inn by Marriott Baltimore Downtown/Inner Harbor","lat":39.2886,"lng":-76.6132,"area":"Downtown","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Lord Baltimore Hotel","lat":39.2898,"lng":-76.6161,"area":"Downtown","stars":3,"priceTier":3},
+    {"name":"SpringHill Suites by Marriott Baltimore Downtown Convention Center Area","lat":39.2906,"lng":-76.6212,"area":"Downtown","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Baltimore Marriott Waterfront","lat":39.2836,"lng":-76.603,"area":"Harbor East","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Staybridge Suites Baltimore - Inner Harbor by IHG","lat":39.2889,"lng":-76.6099,"area":"Harbor East","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"The Oaks Inn Baltimore at 1840s Plaza","lat":39.2887,"lng":-76.6041,"area":"Harbor East","stars":3,"priceTier":3},
+    {"name":"Fairfield by Marriott Inn & Suites Baltimore Downtown/Inner Harbor","lat":39.2881,"lng":-76.6044,"area":"Harbor East","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Sleep Inn & Suites Downtown Inner Harbor","lat":39.2925,"lng":-76.6073,"area":"Harbor East","stars":2,"priceTier":2},
+    {"name":"Hotel Indigo Baltimore Downtown by IHG","lat":39.2952,"lng":-76.6167,"area":"Mount Vernon","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Hotel Revival","lat":39.2973,"lng":-76.6172,"area":"Mount Vernon","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Ulysses","lat":39.2998,"lng":-76.6155,"area":"Mount Vernon","stars":4,"priceTier":3},
+    {"name":"Hotel Brexton","lat":39.3012,"lng":-76.6188,"area":"Mount Vernon","stars":3,"priceTier":2}
   ],
   "sights": [
     {
@@ -202,7 +141,6 @@
       "lng": -76.6083,
       "note": "A glass-pyramid aquarium on Pier 3 with a walk-through Amazon rainforest, a shark-ringed coral reef and an Australian river gorge.",
       "hours": "~9:00 AM–5:00 PM daily, later on some days in summer and on Fridays; timed entry",
-      "rating": 4.3,
       "ticketUrl": "https://aqua.org",
       "bookAhead": true
     },
@@ -211,8 +149,7 @@
       "lat": 39.2865,
       "lng": -76.611,
       "note": "The city's waterfront basin, ringed by a brick promenade linking the aquarium, historic warships, paddle boats and harbor views.",
-      "hours": "Open-air promenade, always open",
-      "rating": 4.3
+      "hours": "Open-air promenade, always open"
     },
     {
       "name": "Fort McHenry National Monument and Historic Shrine",
@@ -220,7 +157,6 @@
       "lng": -76.5799,
       "note": "The star-shaped fort whose 1814 defense against the British fleet inspired the words of the national anthem.",
       "hours": "Daily, last entry 4:45 PM (fort and visitor center close shortly after); closed Thanksgiving, Dec 25, Jan 1",
-      "rating": 4.7,
       "ticketUrl": "https://www.nps.gov/fomc/planyourvisit/fees.htm"
     },
     {
@@ -229,7 +165,6 @@
       "lng": -76.6216,
       "note": "The retro-style home of the Orioles that set the template for modern ballparks, built against the old B&O warehouse.",
       "hours": "Game days per MLB schedule; guided tours on selected days",
-      "rating": 4.8,
       "ticketUrl": "https://www.mlb.com/orioles/ballpark/tours"
     },
     {
@@ -237,8 +172,7 @@
       "lat": 39.2965,
       "lng": -76.6161,
       "note": "A free museum spanning 5,000 years, from Egyptian mummies and medieval armour to a jewel-box cabinet of curiosities.",
-      "hours": "Wed, Fri–Sun 10:00 AM–5:00 PM; Thu 1:00–8:00 PM; closed Mon–Tue",
-      "rating": 4.8
+      "hours": "Wed, Fri–Sun 10:00 AM–5:00 PM; Thu 1:00–8:00 PM; closed Mon–Tue"
     },
     {
       "name": "American Visionary Art Museum",
@@ -246,7 +180,6 @@
       "lng": -76.6066,
       "note": "A joyful museum of self-taught 'outsider' artists, its mosaic-covered buildings full of whirligigs, giant sculptures and oddities.",
       "hours": "Wed–Sun 10:00 AM–5:00 PM; closed Mon–Tue",
-      "rating": 4.6,
       "ticketUrl": "https://www.avam.org/tickets"
     },
     {
@@ -254,8 +187,7 @@
       "lat": 39.2823,
       "lng": -76.5928,
       "note": "An 18th-century maritime village of cobbled streets, Belgian-block squares and waterfront pubs, a short water-taxi hop from the Inner Harbor.",
-      "hours": "Neighbourhood, always open; bars and shops keep their own hours",
-      "rating": 4.5
+      "hours": "Neighbourhood, always open; bars and shops keep their own hours"
     },
     {
       "name": "Baltimore Museum of Art",
@@ -263,7 +195,6 @@
       "lng": -76.6194,
       "note": "A free art museum next to Johns Hopkins with the world's largest public Matisse collection and two sculpture gardens.",
       "hours": "Wed, Fri–Sun 10:00 AM–5:00 PM; Thu 10:00 AM–9:00 PM; closed Mon–Tue (reserve a free ticket)",
-      "rating": 4.7,
       "ticketUrl": "https://artbma.org"
     },
     {
@@ -272,7 +203,6 @@
       "lng": -76.6323,
       "note": "The former B&O Railroad Museum, renamed in 2026, where a vast 1884 roundhouse shelters historic locomotives at the birthplace of American railroading.",
       "hours": "Daily 10:00 AM–4:00 PM; campus renovation under way in phases",
-      "rating": 4.5,
       "ticketUrl": "https://nationalrailroad.org"
     },
     {
@@ -280,8 +210,7 @@
       "lat": 39.2973,
       "lng": -76.6152,
       "note": "A soaring 19th-century reading room of five cast-iron balconies stacked with antique books, now run by Johns Hopkins.",
-      "hours": "Mon–Thu 10:00 AM–5:00 PM, Sun 11:00 AM–5:00 PM, closed Fri–Sat; check ahead, as Special Collections plans a Nov–Jan closure",
-      "rating": 4.7
+      "hours": "Mon–Thu 10:00 AM–5:00 PM, Sun 11:00 AM–5:00 PM, closed Fri–Sat; check ahead, as Special Collections plans a Nov–Jan closure"
     },
     {
       "name": "Maryland Science Center",
@@ -289,7 +218,6 @@
       "lng": -76.6122,
       "note": "A hands-on science museum on the harbor with dinosaur halls, a planetarium and an IMAX dome.",
       "hours": "Tue–Fri 10:00 AM–4:00 PM; Sat–Sun 10:00 AM–5:00 PM; closed Mon",
-      "rating": 4.3,
       "ticketUrl": "https://www.mdsci.org/plan-a-visit/tickets-hours/"
     },
     {
@@ -297,32 +225,28 @@
       "lat": 39.2865,
       "lng": -76.6097,
       "note": "A 27th-floor deck in the pentagonal World Trade Center with 360-degree views over the harbor and skyline.",
-      "hours": "Wed–Thu 10:00 AM–6:00 PM; Fri–Sat 10:00 AM–7:00 PM; Sun 11:00 AM–6:00 PM; closed Mon–Tue (lease renewal pending, check ahead)",
-      "rating": 4.5
+      "hours": "Wed–Thu 10:00 AM–6:00 PM; Fri–Sat 10:00 AM–7:00 PM; Sun 11:00 AM–6:00 PM; closed Mon–Tue (lease renewal pending, check ahead)"
     },
     {
       "name": "Little Italy",
       "lat": 39.2857,
       "lng": -76.6013,
       "note": "A compact enclave of rowhouse red-sauce restaurants and bakeries between the harbor and Harbor East, with outdoor films in summer.",
-      "hours": "Neighbourhood, always open; restaurants keep their own hours",
-      "rating": 4.3
+      "hours": "Neighbourhood, always open; restaurants keep their own hours"
     },
     {
       "name": "Edgar Allan Poe's Grave Site and Memorial",
       "lat": 39.29,
       "lng": -76.6232,
       "note": "The Westminster burying ground where Poe lies beneath a marble monument, surrounded by catacombs and 18th-century tombs.",
-      "hours": "Burying ground open daily ~8:00 AM–dusk",
-      "rating": 4.3
+      "hours": "Burying ground open daily ~8:00 AM–dusk"
     },
     {
       "name": "Federal Hill Park",
       "lat": 39.2795,
       "lng": -76.609,
       "note": "A grassy hilltop on the harbor's south shore offering the classic free panorama of the downtown skyline.",
-      "hours": "Open daily, dawn to dusk",
-      "rating": 4.5
+      "hours": "Open daily, dawn to dusk"
     },
     {
       "name": "Lexington Market",

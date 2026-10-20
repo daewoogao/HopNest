@@ -137,60 +137,30 @@
     }
   ],
   "hotels": [
-    {"name":"citizenM Miami Worldcenter","lat":25.7815,"lng":-80.1908,"area":"MiamiCentral","rating":4.1,"ratingCount":489,"stars":3,"priceTier":2},
-    {"name":"InterContinental Miami","lat":25.7724,"lng":-80.1855,"area":"Downtown","rating":4.5,"ratingCount":9955,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Kimpton EPIC Hotel","lat":25.7706,"lng":-80.1891,"area":"Downtown","rating":4.4,"ratingCount":5246,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"JW Marriott Marquis Miami","lat":25.7713,"lng":-80.1892,"area":"Downtown","rating":4.4,"ratingCount":2408,"stars":4,"priceTier":4,"brandAnchor":true},
-    {"name":"The Elser Hotel Miami","lat":25.7787,"lng":-80.1892,"area":"Downtown","rating":4.6,"ratingCount":1635,"stars":4,"priceTier":3},
-    {"name":"Hampton Inn & Suites by Hilton Miami Brickell Downtown","lat":25.7622,"lng":-80.1942,"area":"Brickell","rating":4.7,"ratingCount":5274,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"Novotel Miami Brickell","lat":25.7599,"lng":-80.1971,"area":"Brickell","rating":4.5,"ratingCount":3814,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Hyatt Centric Brickell Miami","lat":25.7629,"lng":-80.1905,"area":"Brickell","rating":4.1,"ratingCount":1010,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Brickell Arch, a Luxury Collection Hotel, Miami","lat":25.7604,"lng":-80.1913,"area":"Brickell","rating":4.4,"ratingCount":4299,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Four Seasons Hotel Miami","lat":25.759,"lng":-80.192,"area":"Brickell","rating":4.6,"ratingCount":2438,"stars":5,"priceTier":4},
-    {"name":"Dream South Beach, by Hyatt","lat":25.7822,"lng":-80.131,"area":"South Beach","rating":4.3,"ratingCount":3946,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Moxy Miami South Beach","lat":25.7798,"lng":-80.1327,"area":"South Beach","rating":4.4,"ratingCount":943,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"Hotel Victor South Beach","lat":25.7823,"lng":-80.1305,"area":"South Beach","rating":4.4,"ratingCount":2755,"stars":4,"priceTier":4},
-    {"name":"The Marlin Hotel","lat":25.783,"lng":-80.1315,"area":"South Beach","rating":4.5,"ratingCount":997,"stars":4,"priceTier":3},
-    {"name":"The Kent Hotel","lat":25.7824,"lng":-80.131,"area":"South Beach","rating":4.2,"ratingCount":2332,"stars":3,"priceTier":2},
-    {"name":"Hotel Arya, BW Premier Collection","lat":25.7272,"lng":-80.2407,"area":"Coconut Grove","rating":4,"ratingCount":1792,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"The Ritz-Carlton Coconut Grove, Miami","lat":25.7303,"lng":-80.2382,"area":"Coconut Grove","rating":4.2,"ratingCount":1020,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Mayfair House Hotel & Garden","lat":25.7286,"lng":-80.241,"area":"Coconut Grove","rating":4.6,"ratingCount":748,"stars":5,"priceTier":4},
-    {"name":"Mr. C Miami - Coconut Grove","lat":25.7273,"lng":-80.2422,"area":"Coconut Grove","rating":4.4,"ratingCount":631,"stars":4,"priceTier":3},
-    {"name":"The Mutiny Hotel","lat":25.7273,"lng":-80.2399,"area":"Coconut Grove","rating":4.2,"ratingCount":1107,"stars":4,"priceTier":3},
-    {
-      "name": "Hampton Inn & Suites by Hilton Miami Airport South - Blue Lagoon",
-      "lat": 25.779,
-      "lng": -80.2879,
-      "area": "Miami International Airport",
-      "rating": 4.3,
-      "ratingCount": 3998,
-      "stars": 3,
-      "priceTier": 2,
-      "brandAnchor": true
-    },
-    {
-      "name": "Best Western Plus Miami Airport North Hotel & Suites",
-      "lat": 25.8087,
-      "lng": -80.2856,
-      "area": "Miami International Airport",
-      "rating": 4.3,
-      "ratingCount": 1661,
-      "stars": 3,
-      "priceTier": 2,
-      "brandAnchor": true
-    },
-    {"name":"Hyatt House Miami Airport","lat":25.7812,"lng":-80.2896,"area":"Miami International Airport","rating":4.2,"ratingCount":1957,"stars":3,"priceTier":3,"brandAnchor":true},
-    {
-      "name": "Homewood Suites by Hilton Miami-Airport/Blue Lagoon",
-      "lat": 25.7817,
-      "lng": -80.2845,
-      "area": "Miami International Airport",
-      "rating": 4.1,
-      "ratingCount": 2717,
-      "stars": 3,
-      "priceTier": 3,
-      "brandAnchor": true
-    }
+    {"name":"citizenM Miami Worldcenter","lat":25.7815,"lng":-80.1908,"area":"MiamiCentral","stars":3,"priceTier":2},
+    {"name":"InterContinental Miami","lat":25.7724,"lng":-80.1855,"area":"Downtown","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Kimpton EPIC Hotel","lat":25.7706,"lng":-80.1891,"area":"Downtown","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"JW Marriott Marquis Miami","lat":25.7713,"lng":-80.1892,"area":"Downtown","stars":4,"priceTier":4,"brandAnchor":true},
+    {"name":"The Elser Hotel Miami","lat":25.7787,"lng":-80.1892,"area":"Downtown","stars":4,"priceTier":3},
+    {"name":"Hampton Inn & Suites by Hilton Miami Brickell Downtown","lat":25.7622,"lng":-80.1942,"area":"Brickell","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Novotel Miami Brickell","lat":25.7599,"lng":-80.1971,"area":"Brickell","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hyatt Centric Brickell Miami","lat":25.7629,"lng":-80.1905,"area":"Brickell","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Brickell Arch, a Luxury Collection Hotel, Miami","lat":25.7604,"lng":-80.1913,"area":"Brickell","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Four Seasons Hotel Miami","lat":25.759,"lng":-80.192,"area":"Brickell","stars":5,"priceTier":4},
+    {"name":"Dream South Beach, by Hyatt","lat":25.7822,"lng":-80.131,"area":"South Beach","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Moxy Miami South Beach","lat":25.7798,"lng":-80.1327,"area":"South Beach","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Hotel Victor South Beach","lat":25.7823,"lng":-80.1305,"area":"South Beach","stars":4,"priceTier":4},
+    {"name":"The Marlin Hotel","lat":25.783,"lng":-80.1315,"area":"South Beach","stars":4,"priceTier":3},
+    {"name":"The Kent Hotel","lat":25.7824,"lng":-80.131,"area":"South Beach","stars":3,"priceTier":2},
+    {"name":"Hotel Arya, BW Premier Collection","lat":25.7272,"lng":-80.2407,"area":"Coconut Grove","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"The Ritz-Carlton Coconut Grove, Miami","lat":25.7303,"lng":-80.2382,"area":"Coconut Grove","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Mayfair House Hotel & Garden","lat":25.7286,"lng":-80.241,"area":"Coconut Grove","stars":5,"priceTier":4},
+    {"name":"Mr. C Miami - Coconut Grove","lat":25.7273,"lng":-80.2422,"area":"Coconut Grove","stars":4,"priceTier":3},
+    {"name":"The Mutiny Hotel","lat":25.7273,"lng":-80.2399,"area":"Coconut Grove","stars":4,"priceTier":3},
+    {"name":"Hampton Inn & Suites by Hilton Miami Airport South - Blue Lagoon","lat":25.779,"lng":-80.2879,"area":"Miami International Airport","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Best Western Plus Miami Airport North Hotel & Suites","lat":25.8087,"lng":-80.2856,"area":"Miami International Airport","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Hyatt House Miami Airport","lat":25.7812,"lng":-80.2896,"area":"Miami International Airport","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Homewood Suites by Hilton Miami-Airport/Blue Lagoon","lat":25.7817,"lng":-80.2845,"area":"Miami International Airport","stars":3,"priceTier":3,"brandAnchor":true}
   ],
   "sights": [
     {
@@ -199,7 +169,6 @@
       "lng": -80.1994,
       "note": "An outdoor gallery of huge murals by international street artists, set among converted warehouses in the heart of Wynwood's galleries and breweries.",
       "hours": "~11:00 AM–7:00 PM daily (to ~8:00 PM Fri–Sat); timed tickets",
-      "rating": 4.6,
       "ticketUrl": "https://thewynwoodwalls.com",
       "bookAhead": true
     },
@@ -209,7 +178,6 @@
       "lng": -80.2105,
       "note": "A 1916 Italian Renaissance-style winter villa on Biscayne Bay, with furnished rooms, formal gardens and a stone barge in the water.",
       "hours": "Wed–Mon 9:30 AM–4:30 PM; closed Tue",
-      "rating": 4.6,
       "ticketUrl": "https://vizcaya.org",
       "bookAhead": true
     },
@@ -218,32 +186,28 @@
       "lat": 25.7655,
       "lng": -80.2194,
       "note": "The heart of Cuban Miami along SW 8th Street, with Domino Park, cigar rollers, cafecito windows and live salsa at night.",
-      "hours": "Neighbourhood, always open; Domino Park ~9:00 AM–6:00 PM",
-      "rating": 3.9
+      "hours": "Neighbourhood, always open; Domino Park ~9:00 AM–6:00 PM"
     },
     {
       "name": "Miami Design District",
       "lat": 25.813,
       "lng": -80.193,
       "note": "A few blocks of designer flagships, public art and architecture, including the Buckminster Fuller dome and the free Institute of Contemporary Art.",
-      "hours": "Streets always open; shops ~11:00 AM–7:00 PM",
-      "rating": 4.3
+      "hours": "Streets always open; shops ~11:00 AM–7:00 PM"
     },
     {
       "name": "Bayfront Park",
       "lat": 25.7752,
       "lng": -80.1862,
       "note": "A downtown waterfront park on Biscayne Bay with Isamu Noguchi landscaping, a concert amphitheatre and views of the cruise port.",
-      "hours": "Daily ~6:00 AM–11:00 PM",
-      "rating": 4.2
+      "hours": "Daily ~6:00 AM–11:00 PM"
     },
     {
       "name": "Coconut Grove",
       "lat": 25.728,
       "lng": -80.2425,
       "note": "Miami's oldest neighbourhood, a leafy bayside village of sidewalk cafes, marinas and the CocoWalk plaza.",
-      "hours": "Neighbourhood, always open",
-      "rating": 4.2
+      "hours": "Neighbourhood, always open"
     },
     {
       "name": "Phillip and Patricia Frost Museum of Science",
@@ -251,7 +215,6 @@
       "lng": -80.1899,
       "note": "A science museum in Museum Park with a three-level aquarium, a planetarium and hands-on exhibits.",
       "hours": "~10:00 AM–6:00 PM daily",
-      "rating": 4,
       "ticketUrl": "https://www.frostscience.org"
     },
     {
@@ -260,7 +223,6 @@
       "lng": -80.1868,
       "note": "Modern and contemporary art in a Herzog & de Meuron building with hanging gardens and a shaded bayfront terrace.",
       "hours": "Thu–Mon 11:00 AM–6:00 PM (Thu to 9:00 PM); closed Tue–Wed",
-      "rating": 4.2,
       "ticketUrl": "https://www.pamm.org"
     },
     {
@@ -268,56 +230,49 @@
       "lat": 25.78,
       "lng": -80.131,
       "note": "South Beach's oceanfront strip of pastel 1930s Art Deco hotels, neon signs and sidewalk cafes, busiest after dark.",
-      "hours": "Street, always open",
-      "rating": 4.3
+      "hours": "Street, always open"
     },
     {
       "name": "Lummus Park Beach",
       "lat": 25.779,
       "lng": -80.13,
       "note": "The classic stretch of South Beach sand in front of Ocean Drive, with the colourful lifeguard towers and a beachfront path.",
-      "hours": "Beach open daily; lifeguards ~9:00 AM–6:00 PM",
-      "rating": 4.6
+      "hours": "Beach open daily; lifeguards ~9:00 AM–6:00 PM"
     },
     {
       "name": "South Pointe Park",
       "lat": 25.768,
       "lng": -80.134,
       "note": "A grassy park and pier at the southern tip of Miami Beach, where cruise ships pass through Government Cut at sunset.",
-      "hours": "Daily sunrise–10:00 PM",
-      "rating": 4.7
+      "hours": "Daily sunrise–10:00 PM"
     },
     {
       "name": "Lincoln Road",
       "lat": 25.7906,
       "lng": -80.1395,
       "note": "A pedestrian mall designed by Morris Lapidus, lined with shops, outdoor restaurants and the New World Symphony's concert hall.",
-      "hours": "Street always open; shops ~10:00 AM–10:00 PM",
-      "rating": 4.4
+      "hours": "Street always open; shops ~10:00 AM–10:00 PM"
     },
     {
       "name": "Española Way",
       "lat": 25.7866,
       "lng": -80.1325,
       "note": "A short Mediterranean Revival lane of 1920s arcades and outdoor restaurants just off Washington Avenue.",
-      "hours": "Restaurants ~11:00 AM–12:00 AM",
-      "rating": 4.3
+      "hours": "Restaurants ~11:00 AM–12:00 AM"
     },
     {
       "name": "Holocaust Memorial Miami Beach",
       "lat": 25.796,
       "lng": -80.1366,
       "note": "A free open-air memorial centred on a vast bronze arm reaching skyward, with a reflecting pool and a wall of names.",
-      "hours": "Daily 9:30 AM–sunset; free",
-      "rating": 4.6
+      "hours": "Daily 9:30 AM–sunset; free"
     },
     {
       "name": "Miami Beach Boardwalk",
       "lat": 25.81,
       "lng": -80.1225,
       "note": "A boardwalk running behind the dunes from 21st Street north for about 3 km, good for an ocean-side walk or jog away from the crowds.",
-      "hours": "Open 24 hours",
-      "rating": 4.6
+      "hours": "Open 24 hours"
     }
   ],
   "railStations": [

@@ -325,8 +325,8 @@
 
    { name, country, flag, center:[lat,lng], zoom, operatingHours?, fareInfo?,
      lines:   [{ id, name, jp(optional native name), color, code, stations:[[name,lat,lng], ...] }],
-     hotels:  [{ name, lat, lng, area, rating, ratingCount?, stars, priceTier(1-4), phone?, curated?, brandAnchor? }],
-     sights:  [{ name, lat, lng, note, hours?, rating?, phone?, ticketUrl?, bookAhead?, img? }],
+     hotels:  [{ name, lat, lng, area, ratingSource?, airportException?, stars, priceTier(1-4), phone?, curated?, brandAnchor? }],
+     sights:  [{ name, lat, lng, note, hours?, phone?, ticketUrl?, bookAhead?, img? }],
      railStations: [{ name, lat, lng, note, hours? }],
      airports:[{ name, code, lat, lng, transitNote }] }
 
@@ -519,7 +519,7 @@ function collectPinItems(){
     if(!found) return;
     if(found.isLive){
       const d = found.data;
-      items.push({id, k:'hotel', c:found.cityId, d:{name:d.name, lat:d.lat, lng:d.lng, area:d.area, rating:d.rating, stars:d.stars, priceTier:d.priceTier, phone:d.phone}});
+      items.push({id, k:'hotel', c:found.cityId, d:{name:d.name, lat:d.lat, lng:d.lng, area:d.area, stars:d.stars, priceTier:d.priceTier, phone:d.phone}});
     } else {
       items.push({id, k:found.kind, c:found.cityId});
     }
@@ -667,6 +667,15 @@ function clearCityLayers(){
   stationCircles.forEach(c=>map.removeLayer(c)); stationCircles.clear();
 }
 
+// We use review sites' ratings only to choose our picks; their numbers are
+// never shown or stored here (their terms don't allow republishing them).
+// The booking link is where travelers see the live rating and reviews.
+function pickBarText(h){
+  if(h.airportException) return '✓ HopNest pick: well-reviewed terminal hotel (rated 3.8+ by 500+ travelers)';
+  if(h.ratingSource==='Trip.com') return '✓ HopNest pick: rated 4.5+ by 200+ Trip.com guests';
+  return '✓ HopNest pick: rated 4+ by 100+ travelers';
+}
+
 function buildHotelPopupHTML(h){
   const {station,dist} = nearestStation(h.lat,h.lng,activeStations());
   const mins = station ? Math.round(dist/WALK_SPEED_M_PER_MIN) : null;
@@ -674,7 +683,7 @@ function buildHotelPopupHTML(h){
   return `
     <div class="popup-title">${h.name}</div>
     <div class="popup-sub">${h.area}${h.stars? ' · '+starString(h.stars)+' ('+h.stars+'-star)':''} · <span class="price-tag" style="color:#b8860b;">${PRICE_SYMBOLS[h.priceTier-1]||''}</span></div>
-    <div class="popup-sub">Guest rating: ★ ${h.rating}${h.ratingSource? ' / 5 on '+h.ratingSource : ''}</div>
+    ${h.live? '' : `<div class="popup-sub">${pickBarText(h)}</div>`}
     <div class="popup-sub">${station? mins+' min walk to '+station.name+' ('+station.line+')' : 'No active subway line nearby'}</div>
     ${h.phone? `<div class="popup-row">📞 ${h.phone}</div>`:''}
     ${h.live? `<div class="popup-sub" style="color:#1f8f4e;">🔍 Found via live search</div>`:''}
@@ -1163,7 +1172,7 @@ async function showOsmHotelsNear(placeName, lat, lng, opts={}){
   }
   within.forEach(x=> osmHotelMarker(x.o, data.name));
   const rows = [
-    ...picks.map(x=>({kind:'pick', x, html:`<div class="fb-name">★ ${x.h.name}</div><div class="fb-meta">Our pick${x.h.rating?' · '+x.h.rating+'★ rated':''}${x.h.stars?' · '+'★'.repeat(x.h.stars):''} · ${Math.max(1,Math.round(x.d/WALK_SPEED_M_PER_MIN))} min walk</div>`})),
+    ...picks.map(x=>({kind:'pick', x, html:`<div class="fb-name">★ ${x.h.name}</div><div class="fb-meta">Our pick${x.h.stars?' · '+'★'.repeat(x.h.stars):''} · ${Math.max(1,Math.round(x.d/WALK_SPEED_M_PER_MIN))} min walk</div>`})),
     ...within.map(x=>({kind:'osm', x, html:`<div class="fb-name">${x.o[2]}</div><div class="fb-meta">${x.o[4]?'Hostel':'Hotel'}${x.o[3]?' · '+'★'.repeat(x.o[3]):''} · not rated · ${Math.max(1,Math.round(x.d/WALK_SPEED_M_PER_MIN))} min walk</div>`}))];
   const place = opts.sight || /station|airport|terminal/i.test(placeName) ? placeName : `${placeName} Station`;
   const el = document.getElementById('search-banner');
@@ -1367,7 +1376,6 @@ function buildSightPopupHTML(s){
   if(s.img) bits.push(`<img src="${s.img}" alt="${s.name}" class="sight-thumb" loading="lazy">`);
   if(s.note) bits.push(`<div class="popup-sub">${s.note}</div>`);
   if(s.hours) bits.push(`<div class="popup-row">🕒 ${s.hours}</div>`);
-  if(s.rating) bits.push(`<div class="popup-row">★ ${s.rating}</div>`);
   if(s.phone) bits.push(`<div class="popup-row">📞 ${s.phone}</div>`);
   if(s.ticketUrl) bits.push(`<div class="popup-row">🎟️ <a href="${s.ticketUrl}" target="_blank" rel="noopener">Official tickets</a></div>`);
   if(s.bookAhead) bits.push(`<div class="popup-sub" style="color:#b8860b;">⚠️ Books up — reserve ahead, especially in peak season</div>`);
@@ -1504,7 +1512,7 @@ function hotelCardHTML(h, subLabel, badgeColor){
     </div>
     <div class="meta">
       <span class="badge" style="background:${badgeColor}"></span>
-      ${subLabel} · ${h.stars? starString(h.stars)+' ':''}★${h.rating} · <span class="price-tag">${PRICE_SYMBOLS[h.priceTier-1]||''}</span>
+      ${subLabel} · ${h.stars? starString(h.stars)+' · ':''}<span class="price-tag">${PRICE_SYMBOLS[h.priceTier-1]||''}</span>
     </div>
   </div>`;
 }
@@ -1980,7 +1988,7 @@ miniInput.addEventListener('keydown', e=>{ if(e.key==='Enter') document.getEleme
 map.on('zoomend', render);
 
 document.getElementById('footer-note').textContent =
-  'Subway paths are simplified for planning purposes, not schedule-grade. Hotel price tiers are static estimates, not live rates. Hotels in Shinjuku/Asakusa/Ginza/Shibuya/Ueno show by default; other neighborhoods reveal their hotels when you tap a nearby station. Pins are saved in this browser. Real venue names, ratings & hours via Google Places.';
+  'Subway paths are simplified for planning purposes, not schedule-grade. Hotel price tiers are static estimates, not live rates. Hotels in Shinjuku/Asakusa/Ginza/Shibuya/Ueno show by default; other neighborhoods reveal their hotels when you tap a nearby station. Pins are saved in this browser. Hotel picks meet our rating bar on the major review sites; check live ratings on the booking site.';
 
 try { setPanel(isNarrow() ? false : localStorage.getItem(PANEL_HIDDEN_STORAGE_KEY) !== '1'); } catch(e){ setPanel(!isNarrow()); }
 loadAllCities().then(()=>{

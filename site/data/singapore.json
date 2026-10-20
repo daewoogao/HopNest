@@ -273,29 +273,29 @@
     }
   ],
   "hotels": [
-    {"name":"Crowne Plaza Changi Airport","lat":1.3587,"lng":103.9879,"area":"Singapore Changi Airport","rating":4.4,"ratingCount":7529,"stars":5,"priceTier":3,"brandAnchor":true},
-    {"name":"The Ritz-Carlton, Millenia Singapore","lat":1.2905,"lng":103.8601,"area":"Marina Bay","rating":4.6,"ratingCount":7099,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Marina Bay Sands","lat":1.2837,"lng":103.8607,"area":"Marina Bay","rating":4.8,"ratingCount":2701,"stars":5,"priceTier":4},
-    {"name":"Hilton Singapore Orchard","lat":1.3019,"lng":103.8359,"area":"Orchard","rating":4.5,"ratingCount":658,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Grand Hyatt Singapore","lat":1.3063,"lng":103.8333,"area":"Orchard","rating":4.4,"ratingCount":6160,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Royal Plaza on Scotts","lat":1.3068,"lng":103.8324,"area":"Orchard","rating":4.3,"ratingCount":6417,"stars":4,"priceTier":3},
-    {"name":"Holiday Inn Express Singapore Orchard Road","lat":1.3032,"lng":103.8367,"area":"Orchard","rating":4.4,"ratingCount":1664,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"YOTEL Singapore Orchard Road","lat":1.3063,"lng":103.8314,"area":"Orchard","rating":4.2,"ratingCount":4922,"stars":4,"priceTier":2},
-    {"name":"Frasers House, a Luxury Collection Hotel, Singapore","lat":1.2984,"lng":103.8549,"area":"Bugis","rating":4.7,"ratingCount":5348,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Andaz Singapore","lat":1.2992,"lng":103.8578,"area":"Bugis","rating":4.5,"ratingCount":4157,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Village Hotel Bugis","lat":1.3022,"lng":103.8578,"area":"Bugis","rating":4.1,"ratingCount":6770,"stars":4,"priceTier":3},
-    {"name":"ibis Singapore on Bencoolen","lat":1.301,"lng":103.8524,"area":"Bugis","rating":4.1,"ratingCount":7486,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"The POD Boutique Capsule Hotel","lat":1.301,"lng":103.8606,"area":"Bugis","rating":4.4,"ratingCount":1451,"stars":2,"priceTier":1},
-    {"name":"Mercure ICON Singapore City Centre","lat":1.283,"lng":103.8466,"area":"Chinatown","rating":4.3,"ratingCount":775,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"PARKROYAL COLLECTION Pickering, Singapore","lat":1.2857,"lng":103.8463,"area":"Chinatown","rating":4.5,"ratingCount":7377,"stars":5,"priceTier":4},
-    {"name":"Amoy Hotel","lat":1.283,"lng":103.8486,"area":"Chinatown","rating":4.8,"ratingCount":3630,"stars":4,"priceTier":3},
-    {"name":"The Clan Hotel Singapore","lat":1.2826,"lng":103.8482,"area":"Chinatown","rating":4.8,"ratingCount":3226,"stars":5,"priceTier":4},
-    {"name":"Beary Best! Hostel Chinatown","lat":1.2838,"lng":103.8454,"area":"Chinatown","rating":4.3,"ratingCount":948,"stars":1,"priceTier":1},
-    {"name":"Holiday Inn Express Singapore Clarke Quay","lat":1.2891,"lng":103.842,"area":"Clarke Quay","rating":4.3,"ratingCount":3785,"stars":4,"priceTier":2,"brandAnchor":true},
-    {"name":"Paradox Singapore Merchant Court at Clarke Quay","lat":1.2884,"lng":103.8457,"area":"Clarke Quay","rating":4.3,"ratingCount":8178,"stars":4,"priceTier":3},
-    {"name":"Park Regis Singapore","lat":1.2881,"lng":103.8445,"area":"Clarke Quay","rating":4.2,"ratingCount":6846,"stars":4,"priceTier":3},
-    {"name":"The Fullerton Hotel Singapore","lat":1.2862,"lng":103.8531,"area":"Clarke Quay","rating":4.7,"ratingCount":11437,"stars":5,"priceTier":4},
-    {"name":"Quarters Hostel","lat":1.2877,"lng":103.849,"area":"Clarke Quay","rating":4.2,"ratingCount":335,"stars":1,"priceTier":1}
+    {"name":"Crowne Plaza Changi Airport","lat":1.3587,"lng":103.9879,"area":"Singapore Changi Airport","stars":5,"priceTier":3,"brandAnchor":true},
+    {"name":"The Ritz-Carlton, Millenia Singapore","lat":1.2905,"lng":103.8601,"area":"Marina Bay","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Marina Bay Sands","lat":1.2837,"lng":103.8607,"area":"Marina Bay","stars":5,"priceTier":4},
+    {"name":"Hilton Singapore Orchard","lat":1.3019,"lng":103.8359,"area":"Orchard","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Grand Hyatt Singapore","lat":1.3063,"lng":103.8333,"area":"Orchard","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Royal Plaza on Scotts","lat":1.3068,"lng":103.8324,"area":"Orchard","stars":4,"priceTier":3},
+    {"name":"Holiday Inn Express Singapore Orchard Road","lat":1.3032,"lng":103.8367,"area":"Orchard","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"YOTEL Singapore Orchard Road","lat":1.3063,"lng":103.8314,"area":"Orchard","stars":4,"priceTier":2},
+    {"name":"Frasers House, a Luxury Collection Hotel, Singapore","lat":1.2984,"lng":103.8549,"area":"Bugis","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Andaz Singapore","lat":1.2992,"lng":103.8578,"area":"Bugis","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Village Hotel Bugis","lat":1.3022,"lng":103.8578,"area":"Bugis","stars":4,"priceTier":3},
+    {"name":"ibis Singapore on Bencoolen","lat":1.301,"lng":103.8524,"area":"Bugis","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"The POD Boutique Capsule Hotel","lat":1.301,"lng":103.8606,"area":"Bugis","stars":2,"priceTier":1},
+    {"name":"Mercure ICON Singapore City Centre","lat":1.283,"lng":103.8466,"area":"Chinatown","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"PARKROYAL COLLECTION Pickering, Singapore","lat":1.2857,"lng":103.8463,"area":"Chinatown","stars":5,"priceTier":4},
+    {"name":"Amoy Hotel","lat":1.283,"lng":103.8486,"area":"Chinatown","stars":4,"priceTier":3},
+    {"name":"The Clan Hotel Singapore","lat":1.2826,"lng":103.8482,"area":"Chinatown","stars":5,"priceTier":4},
+    {"name":"Beary Best! Hostel Chinatown","lat":1.2838,"lng":103.8454,"area":"Chinatown","stars":1,"priceTier":1},
+    {"name":"Holiday Inn Express Singapore Clarke Quay","lat":1.2891,"lng":103.842,"area":"Clarke Quay","stars":4,"priceTier":2,"brandAnchor":true},
+    {"name":"Paradox Singapore Merchant Court at Clarke Quay","lat":1.2884,"lng":103.8457,"area":"Clarke Quay","stars":4,"priceTier":3},
+    {"name":"Park Regis Singapore","lat":1.2881,"lng":103.8445,"area":"Clarke Quay","stars":4,"priceTier":3},
+    {"name":"The Fullerton Hotel Singapore","lat":1.2862,"lng":103.8531,"area":"Clarke Quay","stars":5,"priceTier":4},
+    {"name":"Quarters Hostel","lat":1.2877,"lng":103.849,"area":"Clarke Quay","stars":1,"priceTier":1}
   ],
   "sights": [
     {
@@ -304,7 +304,6 @@
       "lng": 103.8636,
       "note": "Futuristic bayside gardens with the Supertree Grove, the misty Cloud Forest dome and the Flower Dome; free outdoor areas and a nightly Supertree light show.",
       "hours": "Outdoor gardens 5:00 AM–2:00 AM; Cloud Forest & Flower Dome 9:00 AM–9:00 PM; light show 7:45 & 8:45 PM",
-      "rating": 4.7,
       "ticketUrl": "https://www.gardensbythebay.com.sg"
     },
     {
@@ -313,7 +312,6 @@
       "lng": 103.8159,
       "note": "UNESCO-listed 160-year-old tropical gardens; the ticketed National Orchid Garden inside holds the world's largest orchid display.",
       "hours": "Gardens 5:00 AM–midnight; National Orchid Garden 8:30 AM–7:00 PM",
-      "rating": 4.7,
       "ticketUrl": "https://www.nparks.gov.sg/sbg"
     },
     {
@@ -322,7 +320,6 @@
       "lng": 103.8238,
       "note": "Movie-themed park on Sentosa with roller coasters and zones for Transformers, Jurassic Park and Minions; reach it via HarbourFront MRT and the Sentosa Express.",
       "hours": "Usually 10:00 AM–6:00 PM (varies by date)",
-      "rating": 4.2,
       "ticketUrl": "https://www.rwsentosa.com/en/play/universal-studios-singapore",
       "bookAhead": true
     },
@@ -332,7 +329,6 @@
       "lng": 103.793,
       "note": "Open-concept rainforest zoo in Mandai where animals roam behind moats rather than bars; the separate Night Safari is next door. Best reached by bus or shuttle from Khatib MRT.",
       "hours": "8:30 AM–6:00 PM daily",
-      "rating": 4.5,
       "ticketUrl": "https://www.mandai.com/en/singapore-zoo.html"
     },
     {
@@ -341,7 +337,6 @@
       "lng": 103.8609,
       "note": "Level-56 deck atop Marina Bay Sands' Tower 3 with sweeping views over the bay, the Gardens and the city skyline.",
       "hours": "9:30 AM–4:30 PM and 5:00–10:00 PM (last entry 9:30 PM)",
-      "rating": 4.4,
       "ticketUrl": "https://www.marinabaysands.com/attractions/sands-skypark.html",
       "bookAhead": true
     },
@@ -350,8 +345,7 @@
       "lat": 1.2852,
       "lng": 103.8594,
       "note": "A free 3.5 km loop around the bay linking the Helix Bridge, the Merlion and Marina Bay Sands, with the Spectra light-and-water show at the Event Plaza.",
-      "hours": "Open 24 hours; Spectra show 8:00 & 9:00 PM (also 10:00 PM Fri–Sat)",
-      "rating": 4.6
+      "hours": "Open 24 hours; Spectra show 8:00 & 9:00 PM (also 10:00 PM Fri–Sat)"
     },
     {
       "name": "Singapore Flyer",
@@ -359,7 +353,6 @@
       "lng": 103.8631,
       "note": "165 m observation wheel whose 30-minute rotation shows Marina Bay, the Strait and, on clear days, Malaysia and Indonesia.",
       "hours": "Daily 10:00 AM–10:00 PM (last admission 9:30 PM)",
-      "rating": 4.4,
       "ticketUrl": "https://www.singaporeflyer.com"
     },
     {
@@ -367,8 +360,7 @@
       "lat": 1.2906,
       "lng": 103.8465,
       "note": "Restored riverside warehouses turned into the city's busiest strip of bars, restaurants and clubs, also the main boarding point for river cruises.",
-      "hours": "Open 24 hours; bars and clubs mostly 5:00 PM–3:00 AM",
-      "rating": 4.3
+      "hours": "Open 24 hours; bars and clubs mostly 5:00 PM–3:00 AM"
     },
     {
       "name": "Singapore Oceanarium",
@@ -376,7 +368,6 @@
       "lng": 103.8192,
       "note": "Large new aquarium at Resorts World Sentosa (successor to S.E.A. Aquarium) with a giant ocean-habitat tank and marine conservation exhibits.",
       "hours": "Daily from 10:00 AM; closing time varies by date",
-      "rating": 4.3,
       "bookAhead": true
     },
     {
@@ -384,24 +375,21 @@
       "lat": 1.3602,
       "lng": 103.9898,
       "note": "Glass dome linked to the airport terminals, built around the HSBC Rain Vortex, the world's tallest indoor waterfall, inside a terraced forest valley.",
-      "hours": "Open 24 hours; Rain Vortex ~11:00 AM–10:00 PM (from 10:00 AM Fri–Sun), nightly light shows",
-      "rating": 4.5
+      "hours": "Open 24 hours; Rain Vortex ~11:00 AM–10:00 PM (from 10:00 AM Fri–Sun), nightly light shows"
     },
     {
       "name": "Merlion Park",
       "lat": 1.2868,
       "lng": 103.8545,
       "note": "Waterfront plaza with the 8.6 m water-spouting Merlion statue, the city's emblem, facing Marina Bay Sands across the water.",
-      "hours": "Open 24 hours",
-      "rating": 4.2
+      "hours": "Open 24 hours"
     },
     {
       "name": "Buddha Tooth Relic Temple and Museum",
       "lat": 1.2814,
       "lng": 103.8443,
       "note": "Tang-style Buddhist temple in Chinatown housing a revered tooth relic in a gold stupa, with a rooftop orchid garden; modest dress required.",
-      "hours": "Temple 7:00 AM–5:00 PM daily; museum 9:00 AM–5:00 PM",
-      "rating": 4.5
+      "hours": "Temple 7:00 AM–5:00 PM daily; museum 9:00 AM–5:00 PM"
     },
     {
       "name": "Singapore Cable Car",
@@ -409,7 +397,6 @@
       "lng": 103.8188,
       "note": "Gondolas swing from Mount Faber over the harbour to Sentosa, with a second line running across the island.",
       "hours": "Daily ~8:45 AM–10:00 PM (last boarding 9:30 PM)",
-      "rating": 4.3,
       "ticketUrl": "https://www.mountfaberleisure.com"
     },
     {
@@ -418,7 +405,6 @@
       "lng": 103.8445,
       "note": "Three restored Pagoda Street shophouses recreating the cramped living quarters and trades of Chinatown's early immigrants.",
       "hours": "10:00 AM–8:00 PM daily (last entry 7:15 PM)",
-      "rating": 4.7,
       "ticketUrl": "https://www.chinatownheritagecentre.com.sg"
     },
     {
@@ -426,16 +412,14 @@
       "lat": 1.3009,
       "lng": 103.859,
       "note": "Narrow mural-covered lane in Kampong Glam packed with indie boutiques, cafés and small bars, steps from the Sultan Mosque.",
-      "hours": "Shops ~11:00 AM–9:00 PM; bars until late",
-      "rating": 4.2
+      "hours": "Shops ~11:00 AM–9:00 PM; bars until late"
     },
     {
       "name": "Maxwell Food Centre",
       "lat": 1.2803,
       "lng": 103.8448,
       "note": "Classic Chinatown hawker centre, famous for Tian Tian Hainanese chicken rice and cheap local plates under one roof.",
-      "hours": "Centre 8:00 AM–2:00 AM; most stalls lunch–evening, many close one day a week",
-      "rating": 4.2
+      "hours": "Centre 8:00 AM–2:00 AM; most stalls lunch–evening, many close one day a week"
     }
   ],
   "railStations": [

@@ -98,30 +98,20 @@
     }
   ],
   "hotels": [
-    {"name":"Hotel Borobudur Jakarta","lat":-6.1724,"lng":106.8344,"area":"Gambir","rating":4.4,"ratingCount":2398,"stars":5,"priceTier":3},
-    {"name":"Aryaduta Menteng","lat":-6.1816,"lng":106.8353,"area":"Gambir","rating":4.5,"ratingCount":1905,"stars":5,"priceTier":3},
-    {"name":"Lumire Hotel & Convention Center","lat":-6.176,"lng":106.8404,"area":"Pasar Senen","rating":4.3,"ratingCount":321,"stars":4,"priceTier":2},
-    {"name":"Anara Airport International Hotel","lat":-6.1197,"lng":106.6624,"area":"Soekarno–Hatta International Airport","rating":4.6,"ratingCount":332,"stars":4,"priceTier":3},
-    {
-      "name": "Sheraton Jakarta Soekarno Hatta Airport",
-      "lat": -6.1208,
-      "lng": 106.6791,
-      "area": "Soekarno–Hatta International Airport",
-      "rating": 4.8,
-      "ratingCount": 375,
-      "stars": 5,
-      "priceTier": 3,
-      "brandAnchor": true
-    },
-    {"name":"Grand Hyatt Jakarta","lat":-6.1938,"lng":106.8224,"area":"Thamrin","rating":4.5,"ratingCount":2320,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Hotel Indonesia Kempinski Jakarta","lat":-6.1952,"lng":106.8222,"area":"Thamrin","rating":4.6,"ratingCount":2040,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Pullman Jakarta Indonesia","lat":-6.1933,"lng":106.8238,"area":"Thamrin","rating":4.6,"ratingCount":4874,"stars":5,"priceTier":3,"brandAnchor":true},
-    {"name":"Holiday Inn Express Jakarta Thamrin","lat":-6.1873,"lng":106.822,"area":"Thamrin","rating":4.1,"ratingCount":454,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"Hotel Akmani","lat":-6.1875,"lng":106.8257,"area":"Thamrin","rating":4.1,"ratingCount":680,"stars":3,"priceTier":2},
-    {"name":"Fairmont Jakarta","lat":-6.2221,"lng":106.7989,"area":"Senayan","rating":4.8,"ratingCount":4173,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Artotel Gelora Senayan","lat":-6.2233,"lng":106.8028,"area":"Senayan","rating":4.5,"ratingCount":3091,"stars":4,"priceTier":3},
-    {"name":"Harris Suites fX Sudirman","lat":-6.2253,"lng":106.8039,"area":"Senayan","rating":4.1,"ratingCount":1203,"stars":4,"priceTier":2},
-    {"name":"Mercure Jakarta Batavia","lat":-6.1324,"lng":106.81,"area":"Kota Tua","rating":4.5,"ratingCount":729,"stars":4,"priceTier":3,"brandAnchor":true}
+    {"name":"Hotel Borobudur Jakarta","lat":-6.1724,"lng":106.8344,"area":"Gambir","stars":5,"priceTier":3},
+    {"name":"Aryaduta Menteng","lat":-6.1816,"lng":106.8353,"area":"Gambir","stars":5,"priceTier":3},
+    {"name":"Lumire Hotel & Convention Center","lat":-6.176,"lng":106.8404,"area":"Pasar Senen","stars":4,"priceTier":2},
+    {"name":"Anara Airport International Hotel","lat":-6.1197,"lng":106.6624,"area":"Soekarno–Hatta International Airport","stars":4,"priceTier":3},
+    {"name":"Sheraton Jakarta Soekarno Hatta Airport","lat":-6.1208,"lng":106.6791,"area":"Soekarno–Hatta International Airport","stars":5,"priceTier":3,"brandAnchor":true},
+    {"name":"Grand Hyatt Jakarta","lat":-6.1938,"lng":106.8224,"area":"Thamrin","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Hotel Indonesia Kempinski Jakarta","lat":-6.1952,"lng":106.8222,"area":"Thamrin","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Pullman Jakarta Indonesia","lat":-6.1933,"lng":106.8238,"area":"Thamrin","stars":5,"priceTier":3,"brandAnchor":true},
+    {"name":"Holiday Inn Express Jakarta Thamrin","lat":-6.1873,"lng":106.822,"area":"Thamrin","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Hotel Akmani","lat":-6.1875,"lng":106.8257,"area":"Thamrin","stars":3,"priceTier":2},
+    {"name":"Fairmont Jakarta","lat":-6.2221,"lng":106.7989,"area":"Senayan","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Artotel Gelora Senayan","lat":-6.2233,"lng":106.8028,"area":"Senayan","stars":4,"priceTier":3},
+    {"name":"Harris Suites fX Sudirman","lat":-6.2253,"lng":106.8039,"area":"Senayan","stars":4,"priceTier":2},
+    {"name":"Mercure Jakarta Batavia","lat":-6.1324,"lng":106.81,"area":"Kota Tua","stars":4,"priceTier":3,"brandAnchor":true}
   ],
   "sights": [
     {
@@ -129,48 +119,42 @@
       "lat": -6.1757,
       "lng": 106.7898,
       "note": "A large indoor aquarium in the Neo Soho mall at West Jakarta, mixing marine tanks and walk-through tunnels with small animal exhibits and feeding shows.",
-      "hours": "~10:00 AM–8:00 PM daily",
-      "rating": 4.6
+      "hours": "~10:00 AM–8:00 PM daily"
     },
     {
       "name": "Istiqlal Mosque",
       "lat": -6.1702,
       "lng": 106.8312,
       "note": "Southeast Asia's largest mosque, a vast modernist hall for over 100,000 worshippers facing the Catholic cathedral; free guided tours for visitors outside prayer times.",
-      "hours": "Visitor tours ~8:00 AM–5:00 PM outside prayer times; modest dress required",
-      "rating": 4.3
+      "hours": "Visitor tours ~8:00 AM–5:00 PM outside prayer times; modest dress required"
     },
     {
       "name": "Kota Tua (Fatahillah Square)",
       "lat": -6.1352,
       "lng": 106.8133,
       "note": "The cobbled square at the heart of old Dutch Batavia, ringed by colonial buildings turned museums, with rental bikes and the historic Café Batavia.",
-      "hours": "Open 24 hours; museums ~9:00 AM–3:00 PM, closed Mon",
-      "rating": 3.8
+      "hours": "Open 24 hours; museums ~9:00 AM–3:00 PM, closed Mon"
     },
     {
       "name": "National Monument (Monas)",
       "lat": -6.1754,
       "lng": 106.8272,
       "note": "A 132 m obelisk topped by a gilded flame in the middle of Merdeka Square, with a history diorama hall underground and a lift to the top deck.",
-      "hours": "Tue–Sun ~8:00 AM–4:00 PM plus evening session ~7:00–10:00 PM; closed Mon",
-      "rating": 3.9
+      "hours": "Tue–Sun ~8:00 AM–4:00 PM plus evening session ~7:00–10:00 PM; closed Mon"
     },
     {
       "name": "National Museum of Indonesia",
       "lat": -6.1763,
       "lng": 106.8222,
       "note": "The country's main museum, known for its elephant statue, with Hindu-Buddhist stone sculpture, ethnographic collections and gold treasures; reopened in 2024 after a fire.",
-      "hours": "~8:00 AM–4:00 PM, Tue–Sun (later on some weekends); closed Mon",
-      "rating": 4.1
+      "hours": "~8:00 AM–4:00 PM, Tue–Sun (later on some weekends); closed Mon"
     },
     {
       "name": "Taman Mini Indonesia Indah",
       "lat": -6.3024,
       "lng": 106.8951,
       "note": "A sprawling culture park in East Jakarta with traditional houses from every province, museums and a cable car over a lake shaped like the archipelago.",
-      "hours": "~7:00 AM–10:00 PM daily (pavilions and museums shorter)",
-      "rating": 4
+      "hours": "~7:00 AM–10:00 PM daily (pavilions and museums shorter)"
     },
     {
       "name": "Ancol Dreamland",
@@ -178,7 +162,6 @@
       "lng": 106.835,
       "note": "A seafront leisure district on Jakarta Bay with beaches, the Dufan amusement park, Sea World and Ocean Dream; each attraction is ticketed separately.",
       "hours": "Gates open 24 hours; Dufan ~10:00 AM–6:00 PM",
-      "rating": 4,
       "ticketUrl": "https://www.ancol.com"
     },
     {
@@ -186,56 +169,49 @@
       "lat": -6.1694,
       "lng": 106.8331,
       "note": "A neo-Gothic Catholic church from 1901 with spiky steeples and a small museum upstairs, directly across from Istiqlal Mosque.",
-      "hours": "~8:00 AM–5:00 PM outside Mass; museum shorter hours",
-      "rating": 4.3
+      "hours": "~8:00 AM–5:00 PM outside Mass; museum shorter hours"
     },
     {
       "name": "Museum Bank Indonesia",
       "lat": -6.1372,
       "lng": 106.8131,
       "note": "A well-presented free museum in the former Javasche Bank building, covering Indonesian money and economic history with Art Deco interiors and stained glass.",
-      "hours": "~8:00 AM–3:30 PM, Tue–Sun; closed Mon",
-      "rating": 4.4
+      "hours": "~8:00 AM–3:30 PM, Tue–Sun; closed Mon"
     },
     {
       "name": "Wayang Museum",
       "lat": -6.1347,
       "lng": 106.8124,
       "note": "Shadow puppets, wooden golek puppets and masks from across Indonesia and beyond, in a colonial building on Fatahillah Square.",
-      "hours": "~9:00 AM–3:00 PM, Tue–Sun; closed Mon",
-      "rating": 3.8
+      "hours": "~9:00 AM–3:00 PM, Tue–Sun; closed Mon"
     },
     {
       "name": "Glodok Chinatown",
       "lat": -6.144,
       "lng": 106.813,
       "note": "Jakarta's Chinatown, where Petak Sembilan's lanes of herbalists and snack stalls lead to the smoky 17th-century Dharma Bhakti temple.",
-      "hours": "Best in the morning; temples ~6:00 AM–6:00 PM",
-      "rating": 3.7
+      "hours": "Best in the morning; temples ~6:00 AM–6:00 PM"
     },
     {
       "name": "Sunda Kelapa Harbour",
       "lat": -6.124,
       "lng": 106.8093,
       "note": "The old port where wooden pinisi schooners still load cargo by hand, near the Maritime Museum and the leaning Syahbandar tower.",
-      "hours": "Daylight hours; best early morning",
-      "rating": 3.7
+      "hours": "Daylight hours; best early morning"
     },
     {
       "name": "Jalan Surabaya Flea Market",
       "lat": -6.201,
       "lng": 106.8335,
       "note": "A street of small stalls in leafy Menteng selling vintage vinyl, old cameras, brassware and curios; bargain hard.",
-      "hours": "~9:00 AM–6:00 PM daily",
-      "rating": 3.8
+      "hours": "~9:00 AM–6:00 PM daily"
     },
     {
       "name": "Ragunan Zoo",
       "lat": -6.3122,
       "lng": 106.8203,
       "note": "A large, shady zoo in South Jakarta known for its primate centre and Indonesian species such as Komodo dragons and orangutans; popular with families at weekends.",
-      "hours": "~7:00 AM–4:00 PM, Tue–Sun; closed Mon",
-      "rating": 3.5
+      "hours": "~7:00 AM–4:00 PM, Tue–Sun; closed Mon"
     }
   ],
   "railStations": [

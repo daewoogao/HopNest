@@ -292,31 +292,31 @@
     {"id":"lr_xinbeitou","name":"Xinbeitou branch","jp":"新北投支線","color":"#F890A5","code":"R","stations":[["Beitou",25.1319,121.4986],["Xinbeitou",25.137,121.5032]]}
   ],
   "hotels": [
-    {"name":"Sheraton Grand Taipei Hotel","lat":25.0447,"lng":121.5222,"area":"Taipei Main Station","rating":4.2,"ratingCount":2045,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Palais de Chine Hotel","lat":25.0491,"lng":121.5169,"area":"Taipei Main Station","rating":4.6,"ratingCount":3438,"stars":5,"priceTier":4},
-    {"name":"Cosmos Hotel Taipei","lat":25.0464,"lng":121.5183,"area":"Taipei Main Station","rating":4.5,"ratingCount":4467,"stars":4,"priceTier":3},
-    {"name":"Hotel Relax 1","lat":25.0458,"lng":121.5146,"area":"Taipei Main Station","rating":4.7,"ratingCount":1755,"stars":3,"priceTier":2},
-    {"name":"Star Hostel - Taipei Main Station","lat":25.0502,"lng":121.5154,"area":"Taipei Main Station","rating":4.7,"ratingCount":445,"stars":1,"priceTier":1},
-    {"name":"Hyatt Regency Taoyuan International Airport","lat":25.0687,"lng":121.2216,"area":"Taoyuan International Airport","rating":4.2,"ratingCount":216,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"amba Taipei Ximending","lat":25.0451,"lng":121.5059,"area":"Ximending","rating":4.3,"ratingCount":1144,"stars":4,"priceTier":3},
-    {"name":"Just Sleep Ximending","lat":25.045,"lng":121.5096,"area":"Ximending","rating":4.6,"ratingCount":1877,"stars":3,"priceTier":3},
-    {"name":"Muzik Hotel - Ximen Station Branch","lat":25.0448,"lng":121.5084,"area":"Ximending","rating":4.6,"ratingCount":1210,"stars":3,"priceTier":2},
-    {"name":"CityInn Hotel Plus - Ximending Branch","lat":25.0419,"lng":121.5092,"area":"Ximending","rating":4.8,"ratingCount":2267,"stars":3,"priceTier":2},
-    {"name":"TW Hostel","lat":25.0457,"lng":121.5072,"area":"Ximending","rating":4.7,"ratingCount":256,"stars":1,"priceTier":1},
-    {"name":"Regent Taipei","lat":25.0542,"lng":121.5243,"area":"Zhongshan","rating":4.6,"ratingCount":3632,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Hotel Royal-Nikko Taipei","lat":25.0537,"lng":121.523,"area":"Zhongshan","rating":4.5,"ratingCount":1374,"stars":5,"priceTier":3},
-    {"name":"amba Taipei Zhongshan","lat":25.0557,"lng":121.523,"area":"Zhongshan","rating":4.3,"ratingCount":493,"stars":4,"priceTier":3},
-    {"name":"YOMI Hotel","lat":25.0578,"lng":121.524,"area":"Zhongshan","rating":4.4,"ratingCount":2302,"stars":3,"priceTier":2},
-    {"name":"Via Hotel Loft","lat":25.0578,"lng":121.5245,"area":"Zhongshan","rating":4.5,"ratingCount":891,"stars":3,"priceTier":2},
-    {"name":"Grand Hyatt Taipei","lat":25.0353,"lng":121.5626,"area":"Xinyi","rating":4.4,"ratingCount":5622,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"W Taipei","lat":25.0405,"lng":121.5657,"area":"Xinyi","rating":4.6,"ratingCount":3857,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Humble House Taipei, Curio Collection by Hilton","lat":25.0386,"lng":121.5674,"area":"Xinyi","rating":4.3,"ratingCount":759,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"eslite hotel","lat":25.0446,"lng":121.5619,"area":"Xinyi","rating":4.6,"ratingCount":546,"stars":4,"priceTier":3},
-    {"name":"Home Hotel - Xinyi Taipei","lat":25.0351,"lng":121.5679,"area":"Xinyi","rating":4.2,"ratingCount":483,"stars":4,"priceTier":3},
-    {"name":"Episode Daan Taipei - JdV by Hyatt","lat":25.0389,"lng":121.5441,"area":"East District","rating":4.8,"ratingCount":342,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Hotel Proverbs Taipei","lat":25.0429,"lng":121.546,"area":"East District","rating":4.7,"ratingCount":949,"stars":5,"priceTier":4},
-    {"name":"The Howard Plaza Hotel Taipei","lat":25.0375,"lng":121.5431,"area":"East District","rating":4,"ratingCount":1321,"stars":5,"priceTier":3},
-    {"name":"Swiio Hotel Daan","lat":25.0362,"lng":121.5462,"area":"East District","rating":4.8,"ratingCount":612,"stars":3,"priceTier":2}
+    {"name":"Sheraton Grand Taipei Hotel","lat":25.0447,"lng":121.5222,"area":"Taipei Main Station","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Palais de Chine Hotel","lat":25.0491,"lng":121.5169,"area":"Taipei Main Station","stars":5,"priceTier":4},
+    {"name":"Cosmos Hotel Taipei","lat":25.0464,"lng":121.5183,"area":"Taipei Main Station","stars":4,"priceTier":3},
+    {"name":"Hotel Relax 1","lat":25.0458,"lng":121.5146,"area":"Taipei Main Station","stars":3,"priceTier":2},
+    {"name":"Star Hostel - Taipei Main Station","lat":25.0502,"lng":121.5154,"area":"Taipei Main Station","stars":1,"priceTier":1},
+    {"name":"Hyatt Regency Taoyuan International Airport","lat":25.0687,"lng":121.2216,"area":"Taoyuan International Airport","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"amba Taipei Ximending","lat":25.0451,"lng":121.5059,"area":"Ximending","stars":4,"priceTier":3},
+    {"name":"Just Sleep Ximending","lat":25.045,"lng":121.5096,"area":"Ximending","stars":3,"priceTier":3},
+    {"name":"Muzik Hotel - Ximen Station Branch","lat":25.0448,"lng":121.5084,"area":"Ximending","stars":3,"priceTier":2},
+    {"name":"CityInn Hotel Plus - Ximending Branch","lat":25.0419,"lng":121.5092,"area":"Ximending","stars":3,"priceTier":2},
+    {"name":"TW Hostel","lat":25.0457,"lng":121.5072,"area":"Ximending","stars":1,"priceTier":1},
+    {"name":"Regent Taipei","lat":25.0542,"lng":121.5243,"area":"Zhongshan","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Hotel Royal-Nikko Taipei","lat":25.0537,"lng":121.523,"area":"Zhongshan","stars":5,"priceTier":3},
+    {"name":"amba Taipei Zhongshan","lat":25.0557,"lng":121.523,"area":"Zhongshan","stars":4,"priceTier":3},
+    {"name":"YOMI Hotel","lat":25.0578,"lng":121.524,"area":"Zhongshan","stars":3,"priceTier":2},
+    {"name":"Via Hotel Loft","lat":25.0578,"lng":121.5245,"area":"Zhongshan","stars":3,"priceTier":2},
+    {"name":"Grand Hyatt Taipei","lat":25.0353,"lng":121.5626,"area":"Xinyi","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"W Taipei","lat":25.0405,"lng":121.5657,"area":"Xinyi","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Humble House Taipei, Curio Collection by Hilton","lat":25.0386,"lng":121.5674,"area":"Xinyi","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"eslite hotel","lat":25.0446,"lng":121.5619,"area":"Xinyi","stars":4,"priceTier":3},
+    {"name":"Home Hotel - Xinyi Taipei","lat":25.0351,"lng":121.5679,"area":"Xinyi","stars":4,"priceTier":3},
+    {"name":"Episode Daan Taipei - JdV by Hyatt","lat":25.0389,"lng":121.5441,"area":"East District","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hotel Proverbs Taipei","lat":25.0429,"lng":121.546,"area":"East District","stars":5,"priceTier":4},
+    {"name":"The Howard Plaza Hotel Taipei","lat":25.0375,"lng":121.5431,"area":"East District","stars":5,"priceTier":3},
+    {"name":"Swiio Hotel Daan","lat":25.0362,"lng":121.5462,"area":"East District","stars":3,"priceTier":2}
   ],
   "sights": [
     {
@@ -325,7 +325,6 @@
       "lng": 121.5645,
       "note": "The bamboo-shaped 508 m tower; ride one of the world's fastest lifts to the 89th-floor deck and see the giant wind-damper ball that steadies it in typhoons.",
       "hours": "Observatory 10:00 AM–9:00 PM daily (last entry 8:15 PM)",
-      "rating": 4.3,
       "ticketUrl": "https://www.taipei-101.com.tw/en/"
     },
     {
@@ -334,7 +333,6 @@
       "lng": 121.5485,
       "note": "Home to one of the world's largest collections of imperial Chinese art, including the famous Jadeite Cabbage; displays rotate, so not every star piece is always out.",
       "hours": "9:00 AM–5:00 PM, till 9:00 PM Fri & Sat, closed Mon",
-      "rating": 4.2,
       "ticketUrl": "https://www.npm.gov.tw/en/"
     },
     {
@@ -342,32 +340,28 @@
       "lat": 25.0272,
       "lng": 121.5707,
       "note": "A short, steep stair trail (20–30 min up) to rocky lookouts with the classic postcard view of Taipei 101; best at sunset.",
-      "hours": "Trail open 24 hours",
-      "rating": 4.5
+      "hours": "Trail open 24 hours"
     },
     {
       "name": "Chiang Kai-shek Memorial Hall",
       "lat": 25.0346,
       "lng": 121.5218,
       "note": "A vast white-and-blue memorial set in Liberty Square between the National Theater and Concert Hall; the honor-guard change happens on the hour.",
-      "hours": "Main hall 9:00 AM–6:00 PM daily; grounds ~5:00 AM–midnight",
-      "rating": 4.3
+      "hours": "Main hall 9:00 AM–6:00 PM daily; grounds ~5:00 AM–midnight"
     },
     {
       "name": "Maokong Gondola",
       "lat": 24.9961,
       "lng": 121.5768,
       "note": "A 4 km cable car from Taipei Zoo up to the tea-growing hills of Maokong, with teahouses and city views at the top; crystal-floor cabins available.",
-      "hours": "Tue–Thu 9:00 AM–9:00 PM, Fri 9:00 AM–10:00 PM, Sat 8:30 AM–10:00 PM, Sun 8:30 AM–9:00 PM; closed most Mondays and in high wind",
-      "rating": 4.3
+      "hours": "Tue–Thu 9:00 AM–9:00 PM, Fri 9:00 AM–10:00 PM, Sat 8:30 AM–10:00 PM, Sun 8:30 AM–9:00 PM; closed most Mondays and in high wind"
     },
     {
       "name": "Longshan Temple",
       "lat": 25.0372,
       "lng": 121.4999,
       "note": "Taipei's best-loved folk temple, founded in 1738 and still busy with worshippers burning incense under ornate dragon-topped roofs.",
-      "hours": "6:00 AM–10:00 PM daily",
-      "rating": 4.2
+      "hours": "6:00 AM–10:00 PM daily"
     },
     {
       "name": "Taipei Zoo",
@@ -375,7 +369,6 @@
       "lng": 121.5808,
       "note": "A large, hilly zoo at the end of the Brown Line with giant pandas, a koala house and a big tropical rainforest section.",
       "hours": "9:00 AM–5:00 PM daily (last entry 4:00 PM)",
-      "rating": 4.3,
       "ticketUrl": "https://www.zoo.gov.taipei/"
     },
     {
@@ -383,72 +376,63 @@
       "lat": 25.0507,
       "lng": 121.5772,
       "note": "A single 600 m lane of food stalls beside Ciyou Temple, famous for black-pepper pork buns baked in clay ovens.",
-      "hours": "~5:00 PM–midnight daily",
-      "rating": 4.2
+      "hours": "~5:00 PM–midnight daily"
     },
     {
       "name": "Ximending",
       "lat": 25.0422,
       "lng": 121.507,
       "note": "Taipei's pedestrianised youth and pop-culture district of street food, sneaker shops and buskers, anchored by the 1908 Red House.",
-      "hours": "Streets always open; shops ~11:00 AM–10:00 PM",
-      "rating": 4.2
+      "hours": "Streets always open; shops ~11:00 AM–10:00 PM"
     },
     {
       "name": "Beitou Hot Springs",
       "lat": 25.1367,
       "lng": 121.5069,
       "note": "A leafy hot-spring valley with public baths, the timber Hot Spring Museum, the steaming green Thermal Valley lake and an eco-friendly wooden library.",
-      "hours": "Hot Spring Museum 10:00 AM–6:00 PM, Thermal Valley 9:00 AM–5:00 PM; both closed Mon",
-      "rating": 4.1
+      "hours": "Hot Spring Museum 10:00 AM–6:00 PM, Thermal Valley 9:00 AM–5:00 PM; both closed Mon"
     },
     {
       "name": "Yangmingshan National Park",
       "lat": 25.1555,
       "lng": 121.5479,
       "note": "Volcanic mountains on the city's northern edge with fumaroles, flower gardens, grassland ridges and hiking trails; pin is the main visitor center.",
-      "hours": "Park open 24 hours; visitor center 9:00 AM–4:30 PM",
-      "rating": 4.3
+      "hours": "Park open 24 hours; visitor center 9:00 AM–4:30 PM"
     },
     {
       "name": "Shilin Night Market",
       "lat": 25.0878,
       "lng": 121.5241,
       "note": "Taipei's biggest and busiest night market, with a basement food court plus lanes of games, fried chicken cutlets and stinky tofu.",
-      "hours": "~4:00 PM–midnight daily",
-      "rating": 3.9
+      "hours": "~4:00 PM–midnight daily"
     },
     {
       "name": "Dihua Street",
       "lat": 25.0557,
       "lng": 121.51,
       "note": "The old merchant street of Dadaocheng, lined with restored baroque shophouses selling dried goods, tea and fabric, plus the Xiahai City God Temple.",
-      "hours": "Shops ~9:00 AM–7:00 PM",
-      "rating": 4.1
+      "hours": "Shops ~9:00 AM–7:00 PM"
     },
     {
       "name": "Huashan 1914 Creative Park",
       "lat": 25.0441,
       "lng": 121.5294,
       "note": "A former winery turned arts hub, with brick warehouses hosting exhibitions, design shops, cafés and weekend markets.",
-      "hours": "Grounds open 24 hours; shops and galleries ~11:00 AM–9:00 PM",
-      "rating": 4.2
+      "hours": "Grounds open 24 hours; shops and galleries ~11:00 AM–9:00 PM"
     },
     {
       "name": "Dalongdong Baoan Temple",
       "lat": 25.0731,
       "lng": 121.5155,
       "note": "A UNESCO-award-winning restoration of an 18th-century temple, rich in carved stone pillars and painted beams, next to the Confucius Temple.",
-      "hours": "6:30 AM–10:00 PM daily",
-      "rating": 4.4
+      "hours": "6:30 AM–10:00 PM daily"
     },
     {
       "name": "National Revolutionary Martyrs' Shrine",
       "lat": 25.0782,
       "lng": 121.5329,
       "note": "A palace-style shrine to the Republic's war dead, best known for the precise changing of the guard that marches from the gate on the hour.",
-      "hours": "9:00 AM–5:00 PM daily",
-      "rating": 4.2
+      "hours": "9:00 AM–5:00 PM daily"
     },
     {
       "name": "Ningxia Night Market",

@@ -208,81 +208,41 @@
     }
   ],
   "hotels": [
-    {"name":"Phoenix Park Hotel","lat":38.8971,"lng":-77.0095,"area":"Washington Union Station","rating":4.7,"ratingCount":1451,"stars":4,"priceTier":3},
-    {"name":"Kimpton The George","lat":38.8964,"lng":-77.0099,"area":"Washington Union Station","rating":4.6,"ratingCount":3221,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Hilton Washington DC Capitol Hill","lat":38.8969,"lng":-77.0108,"area":"Washington Union Station","rating":4.1,"ratingCount":2009,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Washington Marriott Capitol Hill","lat":38.9037,"lng":-77.0045,"area":"Washington Union Station","rating":4.8,"ratingCount":895,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"The Royal Sonesta Washington DC Capitol Hill","lat":38.8978,"lng":-77.0106,"area":"Washington Union Station","rating":4.5,"ratingCount":250,"stars":4,"priceTier":3},
-    {
-      "name": "Hilton Arlington National Landing",
-      "lat": 38.8523,
-      "lng": -77.052,
-      "area": "Ronald Reagan Washington National Airport",
-      "rating": 4.7,
-      "ratingCount": 1635,
-      "stars": 4,
-      "priceTier": 3,
-      "brandAnchor": true
-    },
-    {
-      "name": "Hyatt Regency Crystal City at Reagan National Airport",
-      "lat": 38.8487,
-      "lng": -77.0517,
-      "area": "Ronald Reagan Washington National Airport",
-      "rating": 4.1,
-      "ratingCount": 3639,
-      "stars": 4,
-      "priceTier": 3,
-      "brandAnchor": true
-    },
-    {
-      "name": "Renaissance Arlington Capital View Hotel",
-      "lat": 38.8477,
-      "lng": -77.0513,
-      "area": "Ronald Reagan Washington National Airport",
-      "rating": 4.4,
-      "ratingCount": 1065,
-      "stars": 4,
-      "priceTier": 3,
-      "brandAnchor": true
-    },
-    {"name":"Residence Inn by Marriott Arlington Capital View","lat":38.8472,"lng":-77.0515,"area":"Ronald Reagan Washington National Airport","rating":4.5,"ratingCount":945,"stars":3,"priceTier":3},
-    {"name":"Hampton Inn & Suites Arlington Crystal City DCA","lat":38.8555,"lng":-77.0528,"area":"Ronald Reagan Washington National Airport","rating":4.3,"ratingCount":2057,"stars":3,"priceTier":2},
-    {"name":"Hyatt Regency Dulles","lat":38.9602,"lng":-77.4227,"area":"Washington Dulles International Airport","rating":4.6,"ratingCount":1363,"stars":4,"priceTier":3,"brandAnchor":true},
-    {
-      "name": "The Westin Washington Dulles Airport",
-      "lat": 38.9551,
-      "lng": -77.4276,
-      "area": "Washington Dulles International Airport",
-      "rating": 4,
-      "ratingCount": 967,
-      "stars": 4,
-      "priceTier": 3,
-      "brandAnchor": true
-    },
-    {"name":"Hyatt House Sterling/Dulles Airport-North","lat":38.9778,"lng":-77.4256,"area":"Washington Dulles International Airport","rating":4.2,"ratingCount":1032,"stars":3,"priceTier":2},
-    {"name":"Spark By Hilton Sterling Dulles Airport","lat":38.9776,"lng":-77.4249,"area":"Washington Dulles International Airport","rating":4.2,"ratingCount":668,"stars":2,"priceTier":2},
-    {"name":"Best Western Dulles Airport Inn","lat":38.9854,"lng":-77.4287,"area":"Washington Dulles International Airport","rating":4.1,"ratingCount":985,"stars":2,"priceTier":2},
-    {"name":"InterContinental The Willard Washington D.C.","lat":38.897,"lng":-77.0324,"area":"Downtown","rating":4.6,"ratingCount":5832,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Grand Hyatt Washington","lat":38.8993,"lng":-77.0265,"area":"Downtown","rating":4.1,"ratingCount":8424,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Washington Marriott at Metro Center","lat":38.8994,"lng":-77.0276,"area":"Downtown","rating":4.3,"ratingCount":1602,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Hilton Garden Inn Washington DC Downtown","lat":38.9007,"lng":-77.0316,"area":"Downtown","rating":4.2,"ratingCount":3968,"stars":3,"priceTier":3},
-    {"name":"Moxy Washington, DC Downtown","lat":38.9029,"lng":-77.0265,"area":"Downtown","rating":4.2,"ratingCount":480,"stars":3,"priceTier":2},
-    {"name":"Canopy by Hilton Washington DC Embassy Row","lat":38.9067,"lng":-77.037,"area":"Dupont Circle","rating":4.6,"ratingCount":559,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"The Ven at Embassy Row, a Tribute Portfolio Hotel","lat":38.9108,"lng":-77.0457,"area":"Dupont Circle","rating":4.5,"ratingCount":326,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"The Dupont Circle","lat":38.9107,"lng":-77.043,"area":"Dupont Circle","rating":4.5,"ratingCount":5005,"stars":4,"priceTier":3},
-    {"name":"The Royal Sonesta Washington DC Dupont Circle","lat":38.9098,"lng":-77.0474,"area":"Dupont Circle","rating":4.5,"ratingCount":5591,"stars":4,"priceTier":3},
-    {"name":"Hotel Rendale Washington DC","lat":38.916,"lng":-77.0468,"area":"Dupont Circle","rating":4,"ratingCount":762,"stars":3,"priceTier":2},
-    {"name":"Fairmont Washington D.C. Georgetown","lat":38.9058,"lng":-77.0519,"area":"Foggy Bottom","rating":4.5,"ratingCount":4084,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Yours Truly DC - Vignette Collection by IHG","lat":38.9048,"lng":-77.0476,"area":"Foggy Bottom","rating":4.6,"ratingCount":2293,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Hotel Lombardy","lat":38.9016,"lng":-77.0459,"area":"Foggy Bottom","rating":4.4,"ratingCount":2638,"stars":3,"priceTier":3},
-    {"name":"State Plaza Hotel","lat":38.8967,"lng":-77.0475,"area":"Foggy Bottom","rating":4.3,"ratingCount":2547,"stars":3,"priceTier":3},
-    {"name":"Hotel Hive","lat":38.8971,"lng":-77.0497,"area":"Foggy Bottom","rating":4.9,"ratingCount":3124,"stars":2,"priceTier":2},
-    {"name":"Thompson Washington D.C., by Hyatt","lat":38.8747,"lng":-77.0025,"area":"Navy Yard","rating":4.4,"ratingCount":984,"stars":4,"priceTier":4,"brandAnchor":true},
-    {"name":"Residence Inn by Marriott Washington Capitol Hill/Navy Yard","lat":38.8758,"lng":-77.0064,"area":"Navy Yard","rating":4.5,"ratingCount":350,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"Homewood Suites by Hilton Washington DC Capitol-Navy Yard","lat":38.8767,"lng":-77.007,"area":"Navy Yard","rating":4.3,"ratingCount":840,"stars":3,"priceTier":3},
-    {"name":"Courtyard by Marriott Washington Capitol Hill/Navy Yard","lat":38.878,"lng":-77.0041,"area":"Navy Yard","rating":4.2,"ratingCount":903,"stars":3,"priceTier":3},
-    {"name":"Hampton Inn & Suites Washington DC-Navy Yard","lat":38.8749,"lng":-77.0063,"area":"Navy Yard","rating":4,"ratingCount":980,"stars":3,"priceTier":2}
+    {"name":"Phoenix Park Hotel","lat":38.8971,"lng":-77.0095,"area":"Washington Union Station","stars":4,"priceTier":3},
+    {"name":"Kimpton The George","lat":38.8964,"lng":-77.0099,"area":"Washington Union Station","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hilton Washington DC Capitol Hill","lat":38.8969,"lng":-77.0108,"area":"Washington Union Station","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Washington Marriott Capitol Hill","lat":38.9037,"lng":-77.0045,"area":"Washington Union Station","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"The Royal Sonesta Washington DC Capitol Hill","lat":38.8978,"lng":-77.0106,"area":"Washington Union Station","stars":4,"priceTier":3},
+    {"name":"Hilton Arlington National Landing","lat":38.8523,"lng":-77.052,"area":"Ronald Reagan Washington National Airport","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hyatt Regency Crystal City at Reagan National Airport","lat":38.8487,"lng":-77.0517,"area":"Ronald Reagan Washington National Airport","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Renaissance Arlington Capital View Hotel","lat":38.8477,"lng":-77.0513,"area":"Ronald Reagan Washington National Airport","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Residence Inn by Marriott Arlington Capital View","lat":38.8472,"lng":-77.0515,"area":"Ronald Reagan Washington National Airport","stars":3,"priceTier":3},
+    {"name":"Hampton Inn & Suites Arlington Crystal City DCA","lat":38.8555,"lng":-77.0528,"area":"Ronald Reagan Washington National Airport","stars":3,"priceTier":2},
+    {"name":"Hyatt Regency Dulles","lat":38.9602,"lng":-77.4227,"area":"Washington Dulles International Airport","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"The Westin Washington Dulles Airport","lat":38.9551,"lng":-77.4276,"area":"Washington Dulles International Airport","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hyatt House Sterling/Dulles Airport-North","lat":38.9778,"lng":-77.4256,"area":"Washington Dulles International Airport","stars":3,"priceTier":2},
+    {"name":"Spark By Hilton Sterling Dulles Airport","lat":38.9776,"lng":-77.4249,"area":"Washington Dulles International Airport","stars":2,"priceTier":2},
+    {"name":"Best Western Dulles Airport Inn","lat":38.9854,"lng":-77.4287,"area":"Washington Dulles International Airport","stars":2,"priceTier":2},
+    {"name":"InterContinental The Willard Washington D.C.","lat":38.897,"lng":-77.0324,"area":"Downtown","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Grand Hyatt Washington","lat":38.8993,"lng":-77.0265,"area":"Downtown","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Washington Marriott at Metro Center","lat":38.8994,"lng":-77.0276,"area":"Downtown","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hilton Garden Inn Washington DC Downtown","lat":38.9007,"lng":-77.0316,"area":"Downtown","stars":3,"priceTier":3},
+    {"name":"Moxy Washington, DC Downtown","lat":38.9029,"lng":-77.0265,"area":"Downtown","stars":3,"priceTier":2},
+    {"name":"Canopy by Hilton Washington DC Embassy Row","lat":38.9067,"lng":-77.037,"area":"Dupont Circle","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"The Ven at Embassy Row, a Tribute Portfolio Hotel","lat":38.9108,"lng":-77.0457,"area":"Dupont Circle","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"The Dupont Circle","lat":38.9107,"lng":-77.043,"area":"Dupont Circle","stars":4,"priceTier":3},
+    {"name":"The Royal Sonesta Washington DC Dupont Circle","lat":38.9098,"lng":-77.0474,"area":"Dupont Circle","stars":4,"priceTier":3},
+    {"name":"Hotel Rendale Washington DC","lat":38.916,"lng":-77.0468,"area":"Dupont Circle","stars":3,"priceTier":2},
+    {"name":"Fairmont Washington D.C. Georgetown","lat":38.9058,"lng":-77.0519,"area":"Foggy Bottom","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Yours Truly DC - Vignette Collection by IHG","lat":38.9048,"lng":-77.0476,"area":"Foggy Bottom","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hotel Lombardy","lat":38.9016,"lng":-77.0459,"area":"Foggy Bottom","stars":3,"priceTier":3},
+    {"name":"State Plaza Hotel","lat":38.8967,"lng":-77.0475,"area":"Foggy Bottom","stars":3,"priceTier":3},
+    {"name":"Hotel Hive","lat":38.8971,"lng":-77.0497,"area":"Foggy Bottom","stars":2,"priceTier":2},
+    {"name":"Thompson Washington D.C., by Hyatt","lat":38.8747,"lng":-77.0025,"area":"Navy Yard","stars":4,"priceTier":4,"brandAnchor":true},
+    {"name":"Residence Inn by Marriott Washington Capitol Hill/Navy Yard","lat":38.8758,"lng":-77.0064,"area":"Navy Yard","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Homewood Suites by Hilton Washington DC Capitol-Navy Yard","lat":38.8767,"lng":-77.007,"area":"Navy Yard","stars":3,"priceTier":3},
+    {"name":"Courtyard by Marriott Washington Capitol Hill/Navy Yard","lat":38.878,"lng":-77.0041,"area":"Navy Yard","stars":3,"priceTier":3},
+    {"name":"Hampton Inn & Suites Washington DC-Navy Yard","lat":38.8749,"lng":-77.0063,"area":"Navy Yard","stars":3,"priceTier":2}
   ],
   "sights": [
     {
@@ -291,7 +251,6 @@
       "lng": -77.0199,
       "note": "The Smithsonian's flagship of flight, from the Wright Flyer and Spirit of St. Louis to Apollo 11's command module; the building is mid-renovation, with the last galleries due to reopen in late 2026.",
       "hours": "10:00 AM–5:30 PM daily (last entry 5:15 PM); free timed-entry pass required",
-      "rating": 4.6,
       "ticketUrl": "https://airandspace.si.edu/visit/museum-dc",
       "bookAhead": true
     },
@@ -300,8 +259,7 @@
       "lat": 38.8893,
       "lng": -77.0502,
       "note": "The marble temple with the seated Lincoln at the west end of the Mall, overlooking the Reflecting Pool; especially atmospheric after dark.",
-      "hours": "Open 24 hours; rangers on site ~9:30 AM–10:00 PM",
-      "rating": 4.7
+      "hours": "Open 24 hours; rangers on site ~9:30 AM–10:00 PM"
     },
     {
       "name": "Smithsonian National Museum of Natural History",
@@ -309,7 +267,6 @@
       "lng": -77.0261,
       "note": "Dinosaur hall, the Hope Diamond and a huge African elephant in the rotunda; free and one of the busiest museums in the world.",
       "hours": "10:00 AM–5:30 PM daily",
-      "rating": 4.6,
       "ticketUrl": "https://naturalhistory.si.edu/visit"
     },
     {
@@ -318,7 +275,6 @@
       "lng": -77.0326,
       "note": "A sober, powerful chronological exhibition on the Holocaust built around survivors' artifacts and testimony; recommended for ages 11 and up.",
       "hours": "10:00 AM–5:30 PM daily; free timed pass needed for the Permanent Exhibition",
-      "rating": 4.7,
       "ticketUrl": "https://www.ushmm.org/visit",
       "bookAhead": true
     },
@@ -328,7 +284,6 @@
       "lng": -77.02,
       "note": "Free national art collection in two buildings linked by a light tunnel: old masters (the only Leonardo in the Americas) in the West Building, modern art in the East.",
       "hours": "10:00 AM–5:00 PM daily",
-      "rating": 4.8,
       "ticketUrl": "https://www.nga.gov/visit"
     },
     {
@@ -337,7 +292,6 @@
       "lng": -77.0047,
       "note": "The Thomas Jefferson Building's gilded Great Hall and Main Reading Room overlook, plus Jefferson's reconstructed library; linked to the Capitol by tunnel.",
       "hours": "10:00 AM–5:00 PM Tue, Wed, Fri & Sat; till 8:00 PM Thu; closed Sun & Mon; free timed-entry ticket required",
-      "rating": 4.7,
       "ticketUrl": "https://www.loc.gov/visit/",
       "bookAhead": true
     },
@@ -347,7 +301,6 @@
       "lng": -77.0353,
       "note": "The 555-ft marble obelisk at the heart of the Mall; an elevator runs to a 500-ft observation level with views in every direction.",
       "hours": "9:00 AM–5:00 PM daily (closed one day a month for maintenance); timed tickets via Recreation.gov, a few same-day passes at 8:45 AM",
-      "rating": 4.5,
       "ticketUrl": "https://www.nps.gov/wamo/",
       "bookAhead": true
     },
@@ -356,8 +309,7 @@
       "lat": 38.8899,
       "lng": -77.0291,
       "note": "Two miles of lawn and paths from the Capitol to the Lincoln Memorial, lined with free Smithsonian museums and the major memorials.",
-      "hours": "Open 24 hours",
-      "rating": 4.6
+      "hours": "Open 24 hours"
     },
     {
       "name": "International Spy Museum",
@@ -365,7 +317,6 @@
       "lng": -77.0257,
       "note": "A hands-on museum of espionage gadgets, real cases and spy tradecraft, where you take on a cover identity as you go.",
       "hours": "~10:00 AM–6:00 PM daily (later on some weekends)",
-      "rating": 4,
       "ticketUrl": "https://www.spymuseum.org/",
       "bookAhead": true
     },
@@ -375,7 +326,6 @@
       "lng": -77.0091,
       "note": "Seat of Congress under its cast-iron dome; free guided tours of the Rotunda and Crypt start at the underground Visitor Center on the east side.",
       "hours": "Visitor Center 8:30 AM–4:30 PM Mon–Sat; closed Sun",
-      "rating": 4.5,
       "ticketUrl": "https://www.visitthecapitol.gov/",
       "bookAhead": true
     },
@@ -385,7 +335,6 @@
       "lng": -77.0326,
       "note": "The bronze-latticed Smithsonian museum tracing African American history from slavery through civil rights to music, sport and culture; plan several hours.",
       "hours": "10:00 AM–5:30 PM Tue–Sun, noon–5:30 PM Mon (last entry 4:00 PM); free timed-entry pass required",
-      "rating": 4.8,
       "ticketUrl": "https://nmaahc.si.edu/visit",
       "bookAhead": true
     },
@@ -395,7 +344,6 @@
       "lng": -77.0257,
       "note": "The working theatre where Lincoln was shot in 1865, with a museum below and the Petersen House, where he died, across the street.",
       "hours": "Usually ~9:00 AM–4:30 PM; schedule varies around performances; timed tickets every half hour",
-      "rating": 4.6,
       "ticketUrl": "https://fords.org/plan-your-visit/",
       "bookAhead": true
     },
@@ -405,7 +353,6 @@
       "lng": -77.017,
       "note": "Six floors on the Bible's history and influence, with ancient manuscripts, immersive galleries and a rooftop garden view; free on Tuesdays.",
       "hours": "9:00 AM–5:00 PM Mon–Sat, 1:00–7:00 PM Sun",
-      "rating": 4.6,
       "ticketUrl": "https://www.museumofthebible.org/"
     },
     {
@@ -413,8 +360,7 @@
       "lat": 38.8881,
       "lng": -77.0129,
       "note": "A free glasshouse conservatory at the foot of the Capitol with a jungle room, orchids and desert plants, plus an outdoor garden.",
-      "hours": "10:00 AM–5:00 PM daily",
-      "rating": 4.6
+      "hours": "10:00 AM–5:00 PM daily"
     },
     {
       "name": "Washington National Cathedral",
@@ -422,7 +368,6 @@
       "lng": -77.0707,
       "note": "A Gothic cathedral built over 83 years, with soaring stained glass, a Darth Vader gargoyle and city views from its hilltop; tower restoration has closed some garden areas.",
       "hours": "Sightseeing ~10:00 AM–5:00 PM Mon–Fri, to ~4:00 PM Sat, limited Sun; paid sightseeing ticket",
-      "rating": 4.7,
       "ticketUrl": "https://cathedral.org/visit/"
     },
     {
@@ -430,8 +375,7 @@
       "lat": 38.8913,
       "lng": -77.0477,
       "note": "Maya Lin's black granite wall engraved with more than 58,000 names, cut into the ground near the Lincoln Memorial.",
-      "hours": "Open 24 hours",
-      "rating": 4.7
+      "hours": "Open 24 hours"
     },
     {
       "name": "Eastern Market",

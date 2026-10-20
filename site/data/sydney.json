@@ -591,33 +591,33 @@
     }
   ],
   "hotels": [
-    {"name":"Mercure Sydney","lat":-33.8843,"lng":151.203,"area":"Central Station","rating":4,"ratingCount":5891,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"The Ultimo","lat":-33.8807,"lng":151.2034,"area":"Central Station","rating":4.3,"ratingCount":1115,"stars":4,"priceTier":3},
-    {"name":"57 Hotel","lat":-33.8844,"lng":151.2103,"area":"Central Station","rating":4.2,"ratingCount":3098,"stars":3,"priceTier":2},
-    {"name":"Wake Up! Sydney Central","lat":-33.8824,"lng":151.2047,"area":"Central Station","rating":4.4,"ratingCount":2167,"stars":1,"priceTier":1},
-    {"name":"Crystalbrook Albion","lat":-33.8828,"lng":151.2117,"area":"Central Station","rating":4.7,"ratingCount":185,"stars":5,"priceTier":4},
-    {"name":"Rydges Sydney Airport Hotel","lat":-33.9343,"lng":151.1656,"area":"Sydney Kingsford Smith Airport","rating":4.2,"ratingCount":6315,"stars":4,"priceTier":3},
-    {"name":"Stamford Plaza Sydney Airport","lat":-33.9312,"lng":151.1856,"area":"Sydney Kingsford Smith Airport","rating":4,"ratingCount":3937,"stars":4,"priceTier":3},
-    {"name":"Citadines Connect Sydney Airport","lat":-33.9313,"lng":151.1875,"area":"Sydney Kingsford Smith Airport","rating":4.5,"ratingCount":773,"stars":3,"priceTier":2},
-    {"name":"Travelodge Hotel Sydney Airport","lat":-33.928,"lng":151.1857,"area":"Sydney Kingsford Smith Airport","rating":4.3,"ratingCount":1804,"stars":3,"priceTier":2},
-    {"name":"Crowne Plaza Sydney Airport","lat":-33.9261,"lng":151.1879,"area":"Sydney Kingsford Smith Airport","rating":4,"ratingCount":1610,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Sydney Harbour Marriott Hotel at Circular Quay","lat":-33.8629,"lng":151.2094,"area":"Circular Quay","rating":4.2,"ratingCount":2933,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"InterContinental Sydney","lat":-33.8629,"lng":151.2124,"area":"Circular Quay","rating":4.3,"ratingCount":6341,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Harbour Rocks Hotel","lat":-33.8596,"lng":151.2081,"area":"Circular Quay","rating":4.2,"ratingCount":1765,"stars":4,"priceTier":3},
-    {"name":"The Russell Boutique Hotel","lat":-33.8605,"lng":151.2083,"area":"Circular Quay","rating":4.2,"ratingCount":1333,"stars":3,"priceTier":2},
-    {"name":"YHA Sydney Harbour","lat":-33.8601,"lng":151.2071,"area":"Circular Quay","rating":4.6,"ratingCount":1314,"stars":1,"priceTier":1},
-    {"name":"Hilton Sydney","lat":-33.8718,"lng":151.2076,"area":"CBD","rating":4.2,"ratingCount":6004,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Kimpton Margot Sydney","lat":-33.8752,"lng":151.2077,"area":"CBD","rating":4.6,"ratingCount":1721,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Meriton Suites Pitt Street","lat":-33.8742,"lng":151.2077,"area":"CBD","rating":4.2,"ratingCount":2160,"stars":4,"priceTier":3},
-    {"name":"Hyde Park Inn","lat":-33.8761,"lng":151.2093,"area":"CBD","rating":4.1,"ratingCount":1282,"stars":3,"priceTier":2},
-    {"name":"YEHS Hotel Sydney QVB","lat":-33.8724,"lng":151.2063,"area":"CBD","rating":4.1,"ratingCount":158,"stars":3,"priceTier":2},
-    {"name":"Sofitel Sydney Darling Harbour","lat":-33.8727,"lng":151.1986,"area":"Darling Harbour","rating":4.4,"ratingCount":3138,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Aiden by Best Western Darling Harbour","lat":-33.8703,"lng":151.1976,"area":"Darling Harbour","rating":4.5,"ratingCount":93,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"The Darling","lat":-33.8693,"lng":151.1955,"area":"Darling Harbour","rating":4.7,"ratingCount":2173,"stars":5,"priceTier":4},
-    {"name":"West Hotel Sydney, Curio Collection by Hilton","lat":-33.8676,"lng":151.2032,"area":"Darling Harbour","rating":4.2,"ratingCount":611,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Holiday Inn Sydney - Potts Point","lat":-33.8743,"lng":151.2219,"area":"Kings Cross","rating":4,"ratingCount":1495,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Spicers Potts Point","lat":-33.8716,"lng":151.223,"area":"Kings Cross","rating":4.7,"ratingCount":331,"stars":5,"priceTier":4},
-    {"name":"Hotel Challis","lat":-33.869,"lng":151.2247,"area":"Kings Cross","rating":4.1,"ratingCount":1047,"stars":3,"priceTier":2}
+    {"name":"Mercure Sydney","lat":-33.8843,"lng":151.203,"area":"Central Station","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"The Ultimo","lat":-33.8807,"lng":151.2034,"area":"Central Station","stars":4,"priceTier":3},
+    {"name":"57 Hotel","lat":-33.8844,"lng":151.2103,"area":"Central Station","stars":3,"priceTier":2},
+    {"name":"Wake Up! Sydney Central","lat":-33.8824,"lng":151.2047,"area":"Central Station","stars":1,"priceTier":1},
+    {"name":"Crystalbrook Albion","lat":-33.8828,"lng":151.2117,"area":"Central Station","stars":5,"priceTier":4},
+    {"name":"Rydges Sydney Airport Hotel","lat":-33.9343,"lng":151.1656,"area":"Sydney Kingsford Smith Airport","stars":4,"priceTier":3},
+    {"name":"Stamford Plaza Sydney Airport","lat":-33.9312,"lng":151.1856,"area":"Sydney Kingsford Smith Airport","stars":4,"priceTier":3},
+    {"name":"Citadines Connect Sydney Airport","lat":-33.9313,"lng":151.1875,"area":"Sydney Kingsford Smith Airport","stars":3,"priceTier":2},
+    {"name":"Travelodge Hotel Sydney Airport","lat":-33.928,"lng":151.1857,"area":"Sydney Kingsford Smith Airport","stars":3,"priceTier":2},
+    {"name":"Crowne Plaza Sydney Airport","lat":-33.9261,"lng":151.1879,"area":"Sydney Kingsford Smith Airport","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Sydney Harbour Marriott Hotel at Circular Quay","lat":-33.8629,"lng":151.2094,"area":"Circular Quay","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"InterContinental Sydney","lat":-33.8629,"lng":151.2124,"area":"Circular Quay","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Harbour Rocks Hotel","lat":-33.8596,"lng":151.2081,"area":"Circular Quay","stars":4,"priceTier":3},
+    {"name":"The Russell Boutique Hotel","lat":-33.8605,"lng":151.2083,"area":"Circular Quay","stars":3,"priceTier":2},
+    {"name":"YHA Sydney Harbour","lat":-33.8601,"lng":151.2071,"area":"Circular Quay","stars":1,"priceTier":1},
+    {"name":"Hilton Sydney","lat":-33.8718,"lng":151.2076,"area":"CBD","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Kimpton Margot Sydney","lat":-33.8752,"lng":151.2077,"area":"CBD","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Meriton Suites Pitt Street","lat":-33.8742,"lng":151.2077,"area":"CBD","stars":4,"priceTier":3},
+    {"name":"Hyde Park Inn","lat":-33.8761,"lng":151.2093,"area":"CBD","stars":3,"priceTier":2},
+    {"name":"YEHS Hotel Sydney QVB","lat":-33.8724,"lng":151.2063,"area":"CBD","stars":3,"priceTier":2},
+    {"name":"Sofitel Sydney Darling Harbour","lat":-33.8727,"lng":151.1986,"area":"Darling Harbour","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Aiden by Best Western Darling Harbour","lat":-33.8703,"lng":151.1976,"area":"Darling Harbour","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"The Darling","lat":-33.8693,"lng":151.1955,"area":"Darling Harbour","stars":5,"priceTier":4},
+    {"name":"West Hotel Sydney, Curio Collection by Hilton","lat":-33.8676,"lng":151.2032,"area":"Darling Harbour","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Holiday Inn Sydney - Potts Point","lat":-33.8743,"lng":151.2219,"area":"Kings Cross","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Spicers Potts Point","lat":-33.8716,"lng":151.223,"area":"Kings Cross","stars":5,"priceTier":4},
+    {"name":"Hotel Challis","lat":-33.869,"lng":151.2247,"area":"Kings Cross","stars":3,"priceTier":2}
   ],
   "sights": [
     {
@@ -626,7 +626,6 @@
       "lng": 151.2153,
       "note": "Jørn Utzon's sail-roofed performing-arts centre on Bennelong Point; take a guided tour or see a show.",
       "hours": "Tours daily ~9:00 AM–5:00 PM; performances most evenings",
-      "rating": 4.7,
       "ticketUrl": "https://www.sydneyoperahouse.com",
       "bookAhead": true
     },
@@ -635,16 +634,14 @@
       "lat": -33.797,
       "lng": 151.288,
       "note": "A surf beach and laid-back seaside suburb a 20-minute ferry ride across the harbour from Circular Quay.",
-      "hours": "Open 24 hours; ferries from Circular Quay ~6:00 AM–midnight",
-      "rating": 4.5
+      "hours": "Open 24 hours; ferries from Circular Quay ~6:00 AM–midnight"
     },
     {
       "name": "Bondi Beach",
       "lat": -33.8915,
       "lng": 151.2767,
       "note": "Australia's best-known beach, with surf, an ocean pool at Bondi Icebergs and the start of the coastal walk to Coogee.",
-      "hours": "Open 24 hours; swim between the flags",
-      "rating": 4.3
+      "hours": "Open 24 hours; swim between the flags"
     },
     {
       "name": "Royal Botanic Garden Sydney",
@@ -652,7 +649,6 @@
       "lng": 151.2166,
       "note": "Harbourside gardens wrapping Farm Cove from the Opera House to Mrs Macquarie's Point, free to wander.",
       "hours": "Daily from 7:00 AM; closes ~5:00 PM in winter to ~8:00 PM in summer",
-      "rating": 4.7,
       "ticketUrl": "https://www.botanicgardens.org.au"
     },
     {
@@ -661,7 +657,6 @@
       "lng": 151.2108,
       "note": "The 1932 steel arch you can walk across for free, view from the Pylon Lookout, or climb with a guided BridgeClimb.",
       "hours": "Walkway open 24 hours; Pylon Lookout ~10:00 AM–6:00 PM",
-      "rating": 4.7,
       "ticketUrl": "https://www.bridgeclimb.com",
       "bookAhead": true
     },
@@ -670,8 +665,7 @@
       "lat": -33.8592,
       "lng": 151.2087,
       "note": "The colonial-era quarter of sandstone lanes, pubs and galleries under the bridge, with markets every weekend.",
-      "hours": "Streets 24 hours; Rocks Markets Sat–Sun 10:00 AM–5:00 PM",
-      "rating": 4.5
+      "hours": "Streets 24 hours; Rocks Markets Sat–Sun 10:00 AM–5:00 PM"
     },
     {
       "name": "Sydney Tower Eye",
@@ -679,7 +673,6 @@
       "lng": 151.2089,
       "note": "The observation deck 250 m up the CBD's needle-topped tower, with views to the Blue Mountains on clear days.",
       "hours": "Daily ~10:00 AM–7:00 PM",
-      "rating": 4.1,
       "ticketUrl": "https://www.sydneytowereye.com.au"
     },
     {
@@ -688,7 +681,6 @@
       "lng": 151.2128,
       "note": "A UNESCO-listed 1819 convict barracks telling the story of the people transported to the colony.",
       "hours": "Daily 10:00 AM–5:00 PM",
-      "rating": 4.5,
       "ticketUrl": "https://mhnsw.au"
     },
     {
@@ -696,8 +688,7 @@
       "lat": -33.843,
       "lng": 151.281,
       "note": "A harbour-mouth fishing village reached by ferry, with fish and chips and clifftop views at The Gap.",
-      "hours": "Open 24 hours; ferries from Circular Quay",
-      "rating": 4.6
+      "hours": "Open 24 hours; ferries from Circular Quay"
     },
     {
       "name": "Art Gallery of New South Wales",
@@ -705,7 +696,6 @@
       "lng": 151.2174,
       "note": "The state gallery's two buildings, joined by a garden walk, holding Australian, Aboriginal and international art.",
       "hours": "Daily 10:00 AM–5:00 PM, Wed to 10:00 PM; free",
-      "rating": 4.6,
       "ticketUrl": "https://www.artgallery.nsw.gov.au"
     },
     {
@@ -713,8 +703,7 @@
       "lat": -33.8763,
       "lng": 151.2026,
       "note": "A walled Cantonese-style garden of waterfalls, pavilions and koi ponds at the south end of Darling Harbour.",
-      "hours": "Daily 10:00 AM–5:00 PM",
-      "rating": 4.5
+      "hours": "Daily 10:00 AM–5:00 PM"
     },
     {
       "name": "SEA LIFE Sydney Aquarium",
@@ -722,7 +711,6 @@
       "lng": 151.202,
       "note": "A Darling Harbour aquarium with dugongs, a Great Barrier Reef tank and underwater shark tunnels.",
       "hours": "Daily ~10:00 AM–5:00 PM",
-      "rating": 3.9,
       "ticketUrl": "https://www.visitsealife.com/sydney"
     },
     {
@@ -731,32 +719,16 @@
       "lng": 151.1987,
       "note": "Ships, submarines and the HMB Endeavour replica moored at Darling Harbour, plus galleries on Australia's seafaring history.",
       "hours": "Daily 10:00 AM–4:00 PM",
-      "rating": 4.5,
       "ticketUrl": "https://www.sea.museum"
     },
-    {
-      "name": "Coogee Beach",
-      "lat": -33.9205,
-      "lng": 151.258,
-      "note": "A sheltered family beach with ocean pools, at the southern end of the Bondi-to-Coogee clifftop walk.",
-      "hours": "Open 24 hours",
-      "rating": 4.5
-    },
-    {
-      "name": "St Mary's Cathedral",
-      "lat": -33.8712,
-      "lng": 151.2133,
-      "note": "A Gothic Revival sandstone cathedral facing Hyde Park, with a crypt mosaic floor.",
-      "hours": "Daily ~6:30 AM–6:30 PM",
-      "rating": 4.5
-    },
+    {"name":"Coogee Beach","lat":-33.9205,"lng":151.258,"note":"A sheltered family beach with ocean pools, at the southern end of the Bondi-to-Coogee clifftop walk.","hours":"Open 24 hours"},
+    {"name":"St Mary's Cathedral","lat":-33.8712,"lng":151.2133,"note":"A Gothic Revival sandstone cathedral facing Hyde Park, with a crypt mosaic floor.","hours":"Daily ~6:30 AM–6:30 PM"},
     {
       "name": "Sydney Observatory",
       "lat": -33.8597,
       "lng": 151.2046,
       "note": "An 1858 observatory on the hill above The Rocks with telescopes, night sessions and harbour views from free grounds.",
       "hours": "Grounds 24 hours; building ~10:00 AM–5:00 PM, night tours by booking",
-      "rating": 4.5,
       "ticketUrl": "https://powerhouse.com.au/visit/sydney-observatory"
     },
     {
@@ -765,7 +737,6 @@
       "lng": 151.2411,
       "note": "A hillside zoo of Australian wildlife facing the Opera House across the harbour, a 12-minute ferry from Circular Quay.",
       "hours": "Daily 9:30 AM–4:30 PM (to 5:00 PM in summer)",
-      "rating": 4.2,
       "ticketUrl": "https://taronga.org.au"
     },
     {
@@ -773,8 +744,7 @@
       "lat": -33.8597,
       "lng": 151.2223,
       "note": "A sandstone bench carved by convicts in 1810, at the free headland lookout framing the Opera House and bridge together.",
-      "hours": "Open 24 hours",
-      "rating": 4.3
+      "hours": "Open 24 hours"
     }
   ],
   "railStations": [

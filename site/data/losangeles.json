@@ -183,53 +183,23 @@
     }
   ],
   "hotels": [
-    {"name":"InterContinental Los Angeles Downtown","lat":34.05,"lng":-118.26,"area":"Downtown Los Angeles","rating":4.2,"ratingCount":1480,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Sheraton Grand Los Angeles","lat":34.0477,"lng":-118.2583,"area":"Downtown Los Angeles","rating":4.5,"ratingCount":1689,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Hotel Indigo Los Angeles Downtown","lat":34.0473,"lng":-118.2645,"area":"Downtown Los Angeles","rating":4.4,"ratingCount":1391,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Hotel Figueroa, Unbound Collection by Hyatt","lat":34.0455,"lng":-118.2641,"area":"Downtown Los Angeles","rating":4.6,"ratingCount":2830,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"STILE Downtown Los Angeles","lat":34.0418,"lng":-118.257,"area":"Downtown Los Angeles","rating":4.1,"ratingCount":892,"stars":3,"priceTier":2},
-    {"name":"Loews Hollywood Hotel","lat":34.1033,"lng":-118.3396,"area":"Hollywood","rating":4.3,"ratingCount":5522,"stars":4,"priceTier":4},
-    {"name":"The Hollywood Roosevelt","lat":34.1009,"lng":-118.3422,"area":"Hollywood","rating":4.4,"ratingCount":4167,"stars":4,"priceTier":3},
-    {"name":"Holiday Inn Express & Suites Hollywood Walk of Fame","lat":34.1059,"lng":-118.3381,"area":"Hollywood","rating":4.4,"ratingCount":3759,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"Magic Castle Hotel","lat":34.1045,"lng":-118.3425,"area":"Hollywood","rating":4.7,"ratingCount":3874,"stars":3,"priceTier":3},
-    {"name":"Samesun Hollywood","lat":34.1014,"lng":-118.3393,"area":"Hollywood","rating":4.1,"ratingCount":344,"stars":1,"priceTier":1},
-    {"name":"The LINE LA","lat":34.0622,"lng":-118.301,"area":"Koreatown","rating":4.1,"ratingCount":1650,"stars":4,"priceTier":3},
-    {"name":"Hotel Normandie","lat":34.0633,"lng":-118.3007,"area":"Koreatown","rating":4.3,"ratingCount":1603,"stars":3,"priceTier":2},
-    {
-      "name": "Hyatt Regency Los Angeles International Airport",
-      "lat": 33.9461,
-      "lng": -118.3952,
-      "area": "Los Angeles International Airport",
-      "rating": 4.1,
-      "ratingCount": 3201,
-      "stars": 4,
-      "priceTier": 3,
-      "brandAnchor": true
-    },
-    {"name":"Sheraton Gateway Los Angeles Hotel","lat":33.9466,"lng":-118.3908,"area":"Los Angeles International Airport","rating":4,"ratingCount":2275,"stars":4,"priceTier":3,"brandAnchor":true},
-    {
-      "name": "Courtyard Los Angeles LAX/Century Boulevard",
-      "lat": 33.9468,
-      "lng": -118.3937,
-      "area": "Los Angeles International Airport",
-      "rating": 4.3,
-      "ratingCount": 268,
-      "stars": 3,
-      "priceTier": 2,
-      "brandAnchor": true
-    },
-    {
-      "name": "Residence Inn Los Angeles LAX/Century Boulevard",
-      "lat": 33.9461,
-      "lng": -118.3874,
-      "area": "Los Angeles International Airport",
-      "rating": 4.4,
-      "ratingCount": 1500,
-      "stars": 3,
-      "priceTier": 3,
-      "brandAnchor": true
-    },
-    {"name":"Hampton Inn & Suites LAX El Segundo","lat":33.9282,"lng":-118.3956,"area":"Los Angeles International Airport","rating":4.5,"ratingCount":1259,"stars":3,"priceTier":2,"brandAnchor":true}
+    {"name":"InterContinental Los Angeles Downtown","lat":34.05,"lng":-118.26,"area":"Downtown Los Angeles","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Sheraton Grand Los Angeles","lat":34.0477,"lng":-118.2583,"area":"Downtown Los Angeles","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hotel Indigo Los Angeles Downtown","lat":34.0473,"lng":-118.2645,"area":"Downtown Los Angeles","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hotel Figueroa, Unbound Collection by Hyatt","lat":34.0455,"lng":-118.2641,"area":"Downtown Los Angeles","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"STILE Downtown Los Angeles","lat":34.0418,"lng":-118.257,"area":"Downtown Los Angeles","stars":3,"priceTier":2},
+    {"name":"Loews Hollywood Hotel","lat":34.1033,"lng":-118.3396,"area":"Hollywood","stars":4,"priceTier":4},
+    {"name":"The Hollywood Roosevelt","lat":34.1009,"lng":-118.3422,"area":"Hollywood","stars":4,"priceTier":3},
+    {"name":"Holiday Inn Express & Suites Hollywood Walk of Fame","lat":34.1059,"lng":-118.3381,"area":"Hollywood","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Magic Castle Hotel","lat":34.1045,"lng":-118.3425,"area":"Hollywood","stars":3,"priceTier":3},
+    {"name":"Samesun Hollywood","lat":34.1014,"lng":-118.3393,"area":"Hollywood","stars":1,"priceTier":1},
+    {"name":"The LINE LA","lat":34.0622,"lng":-118.301,"area":"Koreatown","stars":4,"priceTier":3},
+    {"name":"Hotel Normandie","lat":34.0633,"lng":-118.3007,"area":"Koreatown","stars":3,"priceTier":2},
+    {"name":"Hyatt Regency Los Angeles International Airport","lat":33.9461,"lng":-118.3952,"area":"Los Angeles International Airport","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Sheraton Gateway Los Angeles Hotel","lat":33.9466,"lng":-118.3908,"area":"Los Angeles International Airport","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Courtyard Los Angeles LAX/Century Boulevard","lat":33.9468,"lng":-118.3937,"area":"Los Angeles International Airport","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Residence Inn Los Angeles LAX/Century Boulevard","lat":33.9461,"lng":-118.3874,"area":"Los Angeles International Airport","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Hampton Inn & Suites LAX El Segundo","lat":33.9282,"lng":-118.3956,"area":"Los Angeles International Airport","stars":3,"priceTier":2,"brandAnchor":true}
   ],
   "sights": [
     {
@@ -238,7 +208,6 @@
       "lng": -118.3004,
       "note": "Art-deco observatory on Mount Hollywood with free exhibits, telescopes and a close view of the Hollywood Sign and city.",
       "hours": "12:00–10:00 PM Tue–Fri, 10:00 AM–10:00 PM Sat–Sun, closed Mon",
-      "rating": 4.6,
       "ticketUrl": "https://griffithobservatory.org"
     },
     {
@@ -247,7 +216,6 @@
       "lng": -118.3534,
       "note": "Film-studio theme park with a backlot tram tour and rides; reachable by Metro B Line to Universal City/Studio City and a short shuttle.",
       "hours": "Hours vary by season, typically ~9:00 AM–6:00 PM or later",
-      "rating": 4.4,
       "ticketUrl": "https://www.universalstudioshollywood.com",
       "bookAhead": true
     },
@@ -257,7 +225,6 @@
       "lng": -118.4741,
       "note": "Hilltop art museum with gardens and views, reached by a free tram from the parking base; admission is free.",
       "hours": "10:00 AM–5:30 PM Tue–Fri & Sun, till 9:00 PM Sat, closed Mon",
-      "rating": 4.8,
       "ticketUrl": "https://www.getty.edu/visit/center"
     },
     {
@@ -266,7 +233,6 @@
       "lng": -118.3614,
       "note": "Four floors of rare and famous cars and motorcycles on Museum Row, in a striking steel-ribboned building.",
       "hours": "10:00 AM–5:00 PM daily",
-      "rating": 4.6,
       "ticketUrl": "https://www.petersen.org"
     },
     {
@@ -274,8 +240,7 @@
       "lat": 33.985,
       "lng": -118.4695,
       "note": "The wide beach and Ocean Front Walk boardwalk with street performers, Muscle Beach and skate park.",
-      "hours": "Beach open ~5:00 AM–10:30 PM",
-      "rating": 3.8
+      "hours": "Beach open ~5:00 AM–10:30 PM"
     },
     {
       "name": "California Science Center",
@@ -283,7 +248,6 @@
       "lng": -118.2866,
       "note": "Free science museum in Exposition Park, home of the Space Shuttle Endeavour (timed passes) and large IMAX screen; confirm shuttle exhibit status before visiting.",
       "hours": "10:00 AM–5:00 PM daily",
-      "rating": 4.6,
       "ticketUrl": "https://californiasciencecenter.org",
       "bookAhead": true
     },
@@ -293,7 +257,6 @@
       "lng": -118.3556,
       "note": "Active Ice Age fossil site beside LACMA, with a museum of mammoth and saber-tooth finds and bubbling asphalt pits.",
       "hours": "9:30 AM–5:00 PM daily",
-      "rating": 4.4,
       "ticketUrl": "https://tarpits.org"
     },
     {
@@ -301,8 +264,7 @@
       "lat": 34.1341,
       "lng": -118.3215,
       "note": "The famous hillside letters; best seen from Griffith Observatory or Lake Hollywood Park rather than up close.",
-      "hours": "Viewpoints open 24 hours; hiking access limited",
-      "rating": 4
+      "hours": "Viewpoints open 24 hours; hiking access limited"
     },
     {
       "name": "The Broad",
@@ -310,7 +272,6 @@
       "lng": -118.2506,
       "note": "Free contemporary art museum with Kusama's Infinity Mirror Room, Koons and Warhol; downtown on Grand Avenue.",
       "hours": "11:00 AM–5:00 PM Tue–Fri, 10:00 AM–6:00 PM Sat–Sun, closed Mon",
-      "rating": 4.6,
       "ticketUrl": "https://www.thebroad.org",
       "bookAhead": true
     },
@@ -319,8 +280,7 @@
       "lat": 34.0495,
       "lng": -118.2395,
       "note": "Historic Japanese-American district with ramen, mochi shops, the Japanese American National Museum and the Metro stop at its edge.",
-      "hours": "Streets open 24 hours; shops ~10:00 AM–9:00 PM",
-      "rating": 4
+      "hours": "Streets open 24 hours; shops ~10:00 AM–9:00 PM"
     },
     {
       "name": "The Original Farmers Market",
@@ -328,7 +288,6 @@
       "lng": -118.3597,
       "note": "Since 1934, stalls of food counters and produce beside The Grove, a casual lunch stop.",
       "hours": "Mon–Fri 9:00 AM–9:00 PM, Sat 9:00 AM–8:00 PM, Sun 10:00 AM–7:00 PM",
-      "rating": 4.4,
       "ticketUrl": "https://www.farmersmarketla.com"
     },
     {
@@ -337,7 +296,6 @@
       "lng": -118.3592,
       "note": "The largest art museum in the western US, with Urban Light lamp-post installation at its entrance.",
       "hours": "~11:00 AM–5:00 PM Mon, Tue, Thu; till 8:00 PM Fri; 10:00 AM–7:00 PM Sat–Sun; closed Wed",
-      "rating": 4.5,
       "ticketUrl": "https://www.lacma.org"
     },
     {
@@ -346,7 +304,6 @@
       "lng": -118.2884,
       "note": "Dinosaurs, gems and a butterfly pavilion in a 1913 building in Exposition Park.",
       "hours": "9:30 AM–5:00 PM daily",
-      "rating": 4.6,
       "ticketUrl": "https://nhm.org"
     },
     {
@@ -355,7 +312,6 @@
       "lng": -118.2498,
       "note": "Frank Gehry's stainless-steel concert hall; walk the garden and take a self-guided audio tour on non-rehearsal days.",
       "hours": "Exterior and garden daily; tours vary with rehearsal schedule",
-      "rating": 4.6,
       "ticketUrl": "https://www.laphil.com"
     },
     {
@@ -364,7 +320,6 @@
       "lng": -118.249,
       "note": "1917 downtown food hall with tacos, pupusas, coffee and the neon Eggslut line; a local-flavor lunch stop.",
       "hours": "~8:00 AM–9:00 PM daily",
-      "rating": 4.2,
       "ticketUrl": "https://www.grandcentralmarket.com"
     },
     {
@@ -372,16 +327,14 @@
       "lat": 34.1016,
       "lng": -118.3267,
       "note": "Brass stars along Hollywood Boulevard, beside the TCL Chinese Theatre handprints; gritty but iconic.",
-      "hours": "Open 24 hours",
-      "rating": 3.4
+      "hours": "Open 24 hours"
     },
     {
       "name": "Union Station",
       "lat": 34.056,
       "lng": -118.2365,
       "note": "The 1939 Mission-revival and art-deco rail terminal with a grand waiting hall; also the city's transit hub.",
-      "hours": "Station open ~4:00 AM–midnight daily",
-      "rating": 4.3
+      "hours": "Station open ~4:00 AM–midnight daily"
     }
   ],
   "railStations": [

@@ -36,39 +36,20 @@
     }
   ],
   "hotels": [
-    {
-      "name": "Marriott Cincinnati Airport",
-      "lat": 39.0761,
-      "lng": -84.6563,
-      "area": "Cincinnati/Northern Kentucky International Airport",
-      "rating": 4.1,
-      "ratingCount": 616,
-      "stars": 3,
-      "priceTier": 3,
-      "brandAnchor": true
-    },
-    {"name":"Hampton Inn Cincinnati Airport-North","lat":39.0761,"lng":-84.6581,"area":"Cincinnati/Northern Kentucky International Airport","rating":4.1,"ratingCount":674,"stars":2,"priceTier":2},
-    {
-      "name": "Residence Inn by Marriott Cincinnati Airport",
-      "lat": 39.0528,
-      "lng": -84.6317,
-      "area": "Cincinnati/Northern Kentucky International Airport",
-      "rating": 4,
-      "ratingCount": 326,
-      "stars": 3,
-      "priceTier": 3
-    },
-    {"name":"Hilton Cincinnati Netherland Plaza","lat":39.1007,"lng":-84.514,"area":"Downtown","rating":4,"ratingCount":3607,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Hampton Inn & Suites Cincinnati-Downtown","lat":39.1029,"lng":-84.5136,"area":"Downtown","rating":4.2,"ratingCount":1014,"stars":3,"priceTier":2},
-    {"name":"Hyatt Regency Cincinnati","lat":39.1004,"lng":-84.5156,"area":"Downtown","rating":4.1,"ratingCount":3411,"stars":4,"priceTier":3},
-    {"name":"Kinley Cincinnati Downtown, a Tribute Portfolio Hotel","lat":39.1033,"lng":-84.515,"area":"Downtown","rating":4.5,"ratingCount":201,"stars":4,"priceTier":3},
-    {"name":"21c Museum Hotel Cincinnati","lat":39.1031,"lng":-84.5122,"area":"Downtown","rating":4.6,"ratingCount":1874,"stars":4,"priceTier":4},
-    {"name":"The Westin Cincinnati","lat":39.1007,"lng":-84.5123,"area":"The Banks","rating":4.1,"ratingCount":1852,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"AC Hotel Cincinnati At The Banks","lat":39.0969,"lng":-84.509,"area":"The Banks","rating":4.7,"ratingCount":741,"stars":3,"priceTier":3},
-    {"name":"Courtyard by Marriott Cincinnati Downtown","lat":39.1001,"lng":-84.5126,"area":"The Banks","rating":4.7,"ratingCount":262,"stars":3,"priceTier":3},
-    {"name":"Residence Inn by Marriott Cincinnati Downtown/The Phelps","lat":39.1017,"lng":-84.5046,"area":"The Banks","rating":4.7,"ratingCount":1523,"stars":3,"priceTier":3},
-    {"name":"The Lytle Park Hotel, Autograph Collection","lat":39.1012,"lng":-84.5032,"area":"The Banks","rating":4.8,"ratingCount":256,"stars":4,"priceTier":4},
-    {"name":"Symphony Hotel","lat":39.1102,"lng":-84.5192,"area":"Over-the-Rhine","rating":4.4,"ratingCount":190,"stars":3,"priceTier":3}
+    {"name":"Marriott Cincinnati Airport","lat":39.0761,"lng":-84.6563,"area":"Cincinnati/Northern Kentucky International Airport","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Hampton Inn Cincinnati Airport-North","lat":39.0761,"lng":-84.6581,"area":"Cincinnati/Northern Kentucky International Airport","stars":2,"priceTier":2},
+    {"name":"Residence Inn by Marriott Cincinnati Airport","lat":39.0528,"lng":-84.6317,"area":"Cincinnati/Northern Kentucky International Airport","stars":3,"priceTier":3},
+    {"name":"Hilton Cincinnati Netherland Plaza","lat":39.1007,"lng":-84.514,"area":"Downtown","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hampton Inn & Suites Cincinnati-Downtown","lat":39.1029,"lng":-84.5136,"area":"Downtown","stars":3,"priceTier":2},
+    {"name":"Hyatt Regency Cincinnati","lat":39.1004,"lng":-84.5156,"area":"Downtown","stars":4,"priceTier":3},
+    {"name":"Kinley Cincinnati Downtown, a Tribute Portfolio Hotel","lat":39.1033,"lng":-84.515,"area":"Downtown","stars":4,"priceTier":3},
+    {"name":"21c Museum Hotel Cincinnati","lat":39.1031,"lng":-84.5122,"area":"Downtown","stars":4,"priceTier":4},
+    {"name":"The Westin Cincinnati","lat":39.1007,"lng":-84.5123,"area":"The Banks","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"AC Hotel Cincinnati At The Banks","lat":39.0969,"lng":-84.509,"area":"The Banks","stars":3,"priceTier":3},
+    {"name":"Courtyard by Marriott Cincinnati Downtown","lat":39.1001,"lng":-84.5126,"area":"The Banks","stars":3,"priceTier":3},
+    {"name":"Residence Inn by Marriott Cincinnati Downtown/The Phelps","lat":39.1017,"lng":-84.5046,"area":"The Banks","stars":3,"priceTier":3},
+    {"name":"The Lytle Park Hotel, Autograph Collection","lat":39.1012,"lng":-84.5032,"area":"The Banks","stars":4,"priceTier":4},
+    {"name":"Symphony Hotel","lat":39.1102,"lng":-84.5192,"area":"Over-the-Rhine","stars":3,"priceTier":3}
   ],
   "sights": [
     {
@@ -77,7 +58,6 @@
       "lng": -84.5088,
       "note": "One of America's oldest zoos (1875), known for its hippo Fiona, the Africa savanna and lush botanical gardens; seasonal evening light shows.",
       "hours": "~10:00 AM–5:00 PM daily (evening events in Oct and Nov–Dec)",
-      "rating": 4.6,
       "ticketUrl": "https://cincinnatizoo.org"
     },
     {
@@ -86,7 +66,6 @@
       "lng": -84.5376,
       "note": "Art Deco Union Terminal (1933) with a famous half-dome rotunda, housing natural history, Cincinnati history and children's museums; Amtrak still stops here.",
       "hours": "10:00 AM–5:00 PM daily; to 8:00 PM select Fridays",
-      "rating": 4.5,
       "ticketUrl": "https://www.cincymuseum.org"
     },
     {
@@ -95,7 +74,6 @@
       "lng": -84.5066,
       "note": "Riverfront home of the Cincinnati Reds, baseball's oldest pro franchise; offseason behind-the-scenes tours.",
       "hours": "MLB season late Mar–Sep (game times vary); offseason ballpark tours on select dates",
-      "rating": 4.6,
       "ticketUrl": "https://www.mlb.com/reds"
     },
     {
@@ -104,7 +82,6 @@
       "lng": -84.541,
       "note": "A warehouse full of glowing neon and hand-painted signs from a century of American storefronts, with a recreated 'Main Street'.",
       "hours": "Wed–Sun 10:00 AM–4:00 PM, closed Mon–Tue",
-      "rating": 4.6,
       "ticketUrl": "https://www.americansignmuseum.org"
     },
     {
@@ -112,16 +89,14 @@
       "lat": 39.1159,
       "lng": -84.4917,
       "note": "Art Deco glasshouse in Eden Park with rainforest, desert and orchid rooms plus seasonal flower and butterfly shows.",
-      "hours": "Tue–Sun 10:00 AM–5:00 PM, closed Mon (timed tickets for the butterfly show)",
-      "rating": 4.5
+      "hours": "Tue–Sun 10:00 AM–5:00 PM, closed Mon (timed tickets for the butterfly show)"
     },
     {
       "name": "Findlay Market",
       "lat": 39.1155,
       "lng": -84.5191,
       "note": "Ohio's oldest continuously operated public market (1855): butchers, bakeries, goetta, and a weekend farmers market in Over-the-Rhine.",
-      "hours": "Tue–Fri 9:00 AM–6:00 PM, Sat 8:00 AM–6:00 PM, Sun 10:00 AM–4:00 PM, closed Mon",
-      "rating": 4.3
+      "hours": "Tue–Fri 9:00 AM–6:00 PM, Sat 8:00 AM–6:00 PM, Sun 10:00 AM–4:00 PM, closed Mon"
     },
     {
       "name": "National Underground Railroad Freedom Center",
@@ -129,7 +104,6 @@
       "lng": -84.5115,
       "note": "Riverfront museum on the Underground Railroad and the fight against slavery, including a 19th-century slave pen moved from Kentucky.",
       "hours": "Wed–Sun 10:00 AM–5:00 PM, closed Mon–Tue",
-      "rating": 4.4,
       "ticketUrl": "https://freedomcenter.org"
     },
     {
@@ -137,48 +111,42 @@
       "lat": 39.0921,
       "lng": -84.5101,
       "note": "John Roebling's 1866 blue suspension bridge to Covington, Kentucky, a forerunner of his Brooklyn Bridge; walk it for skyline views.",
-      "hours": "Open 24 hours (pedestrian walkway)",
-      "rating": 4.6
+      "hours": "Open 24 hours (pedestrian walkway)"
     },
     {
       "name": "Smale Riverfront Park",
       "lat": 39.0958,
       "lng": -84.5125,
       "note": "Riverfront park between the stadiums with fountains, a carousel, swings, gardens and the Ohio River walk.",
-      "hours": "~6:00 AM–11:00 PM daily",
-      "rating": 4.8
+      "hours": "~6:00 AM–11:00 PM daily"
     },
     {
       "name": "Spring Grove Cemetery & Arboretum",
       "lat": 39.1631,
       "lng": -84.5226,
       "note": "A vast 19th-century garden cemetery and national historic landmark, with lakes, champion trees and grand monuments.",
-      "hours": "Grounds ~8:00 AM–6:00 PM daily (longer in summer)",
-      "rating": 4.8
+      "hours": "Grounds ~8:00 AM–6:00 PM daily (longer in summer)"
     },
     {
       "name": "Fountain Square",
       "lat": 39.1015,
       "lng": -84.5125,
       "note": "Downtown's central plaza around the 1871 Tyler Davidson Fountain, with concerts in summer and an ice rink in winter.",
-      "hours": "Open 24 hours",
-      "rating": 4.3
+      "hours": "Open 24 hours"
     },
     {
       "name": "Cathedral Basilica of the Assumption",
       "lat": 39.0786,
       "lng": -84.5091,
       "note": "Gothic Revival basilica in Covington, Kentucky, modelled on Notre-Dame and Saint-Denis, with one of the world's largest stained-glass windows.",
-      "hours": "Open daily, roughly 9:00 AM–4:00 PM outside Mass times",
-      "rating": 4.8
+      "hours": "Open daily, roughly 9:00 AM–4:00 PM outside Mass times"
     },
     {
       "name": "Eden Park",
       "lat": 39.1145,
       "lng": -84.4925,
       "note": "Hilltop park above the Ohio River with Mirror Lake, overlooks and the Cincinnati Art Museum and Krohn Conservatory.",
-      "hours": "~6:00 AM–10:00 PM daily",
-      "rating": 4.6
+      "hours": "~6:00 AM–10:00 PM daily"
     },
     {
       "name": "Cincinnati Reds Hall of Fame & Museum",
@@ -186,7 +154,6 @@
       "lng": -84.5082,
       "note": "Interactive museum of Reds history next to the ballpark, from the 1869 Red Stockings to the Big Red Machine and Pete Rose's hit wall.",
       "hours": "Oct–Mar: Tue–Sun 10:00 AM–5:00 PM (closed Mon and Bengals home Sundays); season: daily 10:00 AM–5:00 PM, later on game days",
-      "rating": 4.7,
       "ticketUrl": "https://www.mlb.com/reds/hall-of-fame"
     },
     {
@@ -194,8 +161,7 @@
       "lat": 39.1196,
       "lng": -84.5084,
       "note": "Birthplace and boyhood home of the 27th president and later chief justice, restored to the 1850s, in Mount Auburn.",
-      "hours": "Grounds 9:00 AM–4:00 PM daily; house tours when the education center is open",
-      "rating": 4.3
+      "hours": "Grounds 9:00 AM–4:00 PM daily; house tours when the education center is open"
     },
     {
       "name": "Cincinnati Music Hall",
@@ -203,7 +169,6 @@
       "lng": -84.5193,
       "note": "An 1878 Victorian Gothic concert hall facing Washington Park, home to the symphony, pops, opera and ballet.",
       "hours": "Open for performances; guided tours on select days",
-      "rating": 4.7,
       "ticketUrl": "https://www.cincinnatiarts.org"
     },
     {
@@ -211,8 +176,7 @@
       "lat": 39.1086,
       "lng": -84.518,
       "note": "Over-the-Rhine's lively green, with a splash pad, dog park, bandstand and free events, surrounded by bars and restaurants.",
-      "hours": "~6:00 AM–11:00 PM daily",
-      "rating": 4.6
+      "hours": "~6:00 AM–11:00 PM daily"
     },
     {
       "name": "Cincinnati Art Museum",
@@ -220,7 +184,6 @@
       "lng": -84.4964,
       "note": "Free museum in Eden Park with 67,000 works, from Egyptian antiquities to Rookwood pottery and a Van Gogh.",
       "hours": "Tue–Sun 11:00 AM–5:00 PM, Thu to 8:00 PM, closed Mon; general admission free",
-      "rating": 4.7,
       "ticketUrl": "https://www.cincinnatiartmuseum.org"
     }
   ],

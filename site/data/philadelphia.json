@@ -356,40 +356,30 @@
     }
   ],
   "hotels": [
-    {"name":"AKA University City","lat":39.9519,"lng":-75.1836,"area":"William H. Gray III 30th Street Station","rating":4.7,"ratingCount":414,"stars":4,"priceTier":4},
-    {"name":"The Study at University City","lat":39.9548,"lng":-75.1895,"area":"William H. Gray III 30th Street Station","rating":4.4,"ratingCount":451,"stars":4,"priceTier":3},
-    {"name":"Delta Hotels Philadelphia Airport","lat":39.8731,"lng":-75.2748,"area":"Philadelphia International Airport","rating":4.5,"ratingCount":917,"stars":4,"priceTier":3,"brandAnchor":true},
-    {
-      "name": "Residence Inn by Marriott Philadelphia Airport",
-      "lat": 39.8958,
-      "lng": -75.2363,
-      "area": "Philadelphia International Airport",
-      "rating": 4.2,
-      "ratingCount": 156,
-      "stars": 3,
-      "priceTier": 3,
-      "brandAnchor": true
-    },
-    {"name":"Motto by Hilton Philadelphia Rittenhouse Square","lat":39.9525,"lng":-75.1716,"area":"Rittenhouse Square","rating":4.6,"ratingCount":906,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"Sofitel Philadelphia at Rittenhouse Square","lat":39.9509,"lng":-75.1696,"area":"Rittenhouse Square","rating":4.4,"ratingCount":4800,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Sonesta Philadelphia Rittenhouse Square","lat":39.9528,"lng":-75.1703,"area":"Rittenhouse Square","rating":4.2,"ratingCount":2191,"stars":4,"priceTier":3},
-    {"name":"The Logan Philadelphia, Curio Collection by Hilton","lat":39.9567,"lng":-75.1701,"area":"Rittenhouse Square","rating":4.2,"ratingCount":2461,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"The Rittenhouse Hotel","lat":39.9499,"lng":-75.1734,"area":"Rittenhouse Square","rating":4.7,"ratingCount":1315,"stars":5,"priceTier":4},
-    {"name":"Kimpton Hotel Palomar Philadelphia","lat":39.9508,"lng":-75.1686,"area":"Center City","rating":4.6,"ratingCount":3369,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Hyatt Centric Rittenhouse Square Philadelphia","lat":39.9492,"lng":-75.1687,"area":"Center City","rating":4.4,"ratingCount":930,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"The Windsor Suites","lat":39.9557,"lng":-75.1682,"area":"Center City","rating":4.5,"ratingCount":2953,"stars":3,"priceTier":3},
-    {"name":"Club Quarters Hotel Rittenhouse Square","lat":39.9513,"lng":-75.1685,"area":"Center City","rating":4.2,"ratingCount":5391,"stars":3,"priceTier":2},
-    {"name":"Aloft Philadelphia Downtown","lat":39.9546,"lng":-75.1629,"area":"Center City","rating":4.2,"ratingCount":704,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"Canopy by Hilton Philadelphia Center City","lat":39.9511,"lng":-75.1598,"area":"Market East","rating":4.5,"ratingCount":437,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Hampton Inn Philadelphia Center City-Convention Center","lat":39.9563,"lng":-75.1608,"area":"Market East","rating":4.1,"ratingCount":2947,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"Loews Philadelphia Hotel","lat":39.9514,"lng":-75.1603,"area":"Market East","rating":4.3,"ratingCount":7116,"stars":4,"priceTier":3},
-    {"name":"ROOST East Market","lat":39.9515,"lng":-75.1596,"area":"Market East","rating":4.8,"ratingCount":233,"stars":3,"priceTier":3},
-    {"name":"Alexander Inn","lat":39.9463,"lng":-75.161,"area":"Market East","rating":4.4,"ratingCount":1832,"stars":2,"priceTier":2},
-    {"name":"Apple Hostels Philadelphia","lat":39.9488,"lng":-75.1452,"area":"Old City","rating":4.3,"ratingCount":703,"stars":1,"priceTier":1},
-    {"name":"Independence Park Hotel, BW Premier Collection","lat":39.9488,"lng":-75.1456,"area":"Old City","rating":4.6,"ratingCount":1897,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"Kimpton Hotel Monaco Philadelphia","lat":39.9493,"lng":-75.1488,"area":"Old City","rating":4.6,"ratingCount":4610,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Penn's View Hotel","lat":39.9502,"lng":-75.1423,"area":"Old City","rating":4.4,"ratingCount":1081,"stars":3,"priceTier":3},
-    {"name":"Hilton Philadelphia at Penn's Landing","lat":39.9455,"lng":-75.1414,"area":"Old City","rating":4.1,"ratingCount":3896,"stars":4,"priceTier":3,"brandAnchor":true}
+    {"name":"AKA University City","lat":39.9519,"lng":-75.1836,"area":"William H. Gray III 30th Street Station","stars":4,"priceTier":4},
+    {"name":"The Study at University City","lat":39.9548,"lng":-75.1895,"area":"William H. Gray III 30th Street Station","stars":4,"priceTier":3},
+    {"name":"Delta Hotels Philadelphia Airport","lat":39.8731,"lng":-75.2748,"area":"Philadelphia International Airport","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Residence Inn by Marriott Philadelphia Airport","lat":39.8958,"lng":-75.2363,"area":"Philadelphia International Airport","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Motto by Hilton Philadelphia Rittenhouse Square","lat":39.9525,"lng":-75.1716,"area":"Rittenhouse Square","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Sofitel Philadelphia at Rittenhouse Square","lat":39.9509,"lng":-75.1696,"area":"Rittenhouse Square","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Sonesta Philadelphia Rittenhouse Square","lat":39.9528,"lng":-75.1703,"area":"Rittenhouse Square","stars":4,"priceTier":3},
+    {"name":"The Logan Philadelphia, Curio Collection by Hilton","lat":39.9567,"lng":-75.1701,"area":"Rittenhouse Square","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"The Rittenhouse Hotel","lat":39.9499,"lng":-75.1734,"area":"Rittenhouse Square","stars":5,"priceTier":4},
+    {"name":"Kimpton Hotel Palomar Philadelphia","lat":39.9508,"lng":-75.1686,"area":"Center City","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hyatt Centric Rittenhouse Square Philadelphia","lat":39.9492,"lng":-75.1687,"area":"Center City","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"The Windsor Suites","lat":39.9557,"lng":-75.1682,"area":"Center City","stars":3,"priceTier":3},
+    {"name":"Club Quarters Hotel Rittenhouse Square","lat":39.9513,"lng":-75.1685,"area":"Center City","stars":3,"priceTier":2},
+    {"name":"Aloft Philadelphia Downtown","lat":39.9546,"lng":-75.1629,"area":"Center City","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Canopy by Hilton Philadelphia Center City","lat":39.9511,"lng":-75.1598,"area":"Market East","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hampton Inn Philadelphia Center City-Convention Center","lat":39.9563,"lng":-75.1608,"area":"Market East","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Loews Philadelphia Hotel","lat":39.9514,"lng":-75.1603,"area":"Market East","stars":4,"priceTier":3},
+    {"name":"ROOST East Market","lat":39.9515,"lng":-75.1596,"area":"Market East","stars":3,"priceTier":3},
+    {"name":"Alexander Inn","lat":39.9463,"lng":-75.161,"area":"Market East","stars":2,"priceTier":2},
+    {"name":"Apple Hostels Philadelphia","lat":39.9488,"lng":-75.1452,"area":"Old City","stars":1,"priceTier":1},
+    {"name":"Independence Park Hotel, BW Premier Collection","lat":39.9488,"lng":-75.1456,"area":"Old City","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Kimpton Hotel Monaco Philadelphia","lat":39.9493,"lng":-75.1488,"area":"Old City","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Penn's View Hotel","lat":39.9502,"lng":-75.1423,"area":"Old City","stars":3,"priceTier":3},
+    {"name":"Hilton Philadelphia at Penn's Landing","lat":39.9455,"lng":-75.1414,"area":"Old City","stars":4,"priceTier":3,"brandAnchor":true}
   ],
   "sights": [
     {
@@ -398,7 +388,6 @@
       "lng": -75.1727,
       "note": "A vast 1829 prison with crumbling cellblocks, Al Capone's furnished cell and an audio tour narrated partly by former inmates and guards.",
       "hours": "10:00 AM–5:00 PM daily",
-      "rating": 4.6,
       "ticketUrl": "https://www.easternstate.org",
       "bookAhead": true
     },
@@ -408,7 +397,6 @@
       "lng": -75.15,
       "note": "The brick statehouse where the Declaration of Independence and the Constitution were debated and signed; ranger-led tours only.",
       "hours": "9:00 AM–5:00 PM daily; timed tour tickets needed most of the year",
-      "rating": 4.5,
       "ticketUrl": "https://www.nps.gov/inde/planyourvisit/independence-hall.htm",
       "bookAhead": true
     },
@@ -417,8 +405,7 @@
       "lat": 39.9533,
       "lng": -75.159,
       "note": "A bustling 1893 food hall under the old train shed, packed with Amish bakers, cheesesteak and roast-pork stands and produce stalls.",
-      "hours": "8:00 AM–6:00 PM daily (some Amish vendors closed Sun–Mon)",
-      "rating": 4.6
+      "hours": "8:00 AM–6:00 PM daily (some Amish vendors closed Sun–Mon)"
     },
     {
       "name": "Philadelphia Museum of Art",
@@ -426,7 +413,6 @@
       "lng": -75.181,
       "note": "A temple-like hilltop museum (renamed Philadelphia Art Museum in 2025) with European masters, arms and armor and period rooms, above the famous Rocky Steps.",
       "hours": "Mon, Thu, Sat, Sun 10:00 AM–5:00 PM; Fri 10:00 AM–8:45 PM; closed Tue–Wed",
-      "rating": 4.7,
       "ticketUrl": "https://philamuseum.org"
     },
     {
@@ -435,7 +421,6 @@
       "lng": -75.1725,
       "note": "Albert Barnes's idiosyncratic collection of Renoirs, Cézannes and Matisses, hung salon-style alongside ironwork and folk art.",
       "hours": "Thu–Mon 11:00 AM–5:00 PM; closed Tue–Wed",
-      "rating": 4.7,
       "ticketUrl": "https://www.barnesfoundation.org",
       "bookAhead": true
     },
@@ -444,8 +429,7 @@
       "lat": 39.9496,
       "lng": -75.1503,
       "note": "A free glass pavilion housing the cracked bell that became a symbol for abolitionists and the civil-rights movement.",
-      "hours": "9:00 AM–5:00 PM daily; free, no ticket",
-      "rating": 4.3
+      "hours": "9:00 AM–5:00 PM daily; free, no ticket"
     },
     {
       "name": "Philadelphia's Magic Gardens",
@@ -453,7 +437,6 @@
       "lng": -75.1593,
       "note": "Isaiah Zagar's maze of mosaic courtyards and grottoes built from broken tiles, bottles and bike wheels on South Street.",
       "hours": "Wed–Mon 11:00 AM–6:00 PM; closed Tue",
-      "rating": 4.5,
       "ticketUrl": "https://www.phillymagicgardens.org"
     },
     {
@@ -461,8 +444,7 @@
       "lat": 39.9648,
       "lng": -75.1793,
       "note": "The bronze boxer from the film, set at the foot of the art museum steps that visitors still race up for the view.",
-      "hours": "Always accessible",
-      "rating": 4.2
+      "hours": "Always accessible"
     },
     {
       "name": "Museum of the American Revolution",
@@ -470,7 +452,6 @@
       "lng": -75.1456,
       "note": "Immersive galleries on the War of Independence, centred on George Washington's original field-headquarters tent.",
       "hours": "10:00 AM–5:00 PM daily",
-      "rating": 4.6,
       "ticketUrl": "https://www.amrevmuseum.org"
     },
     {
@@ -479,7 +460,6 @@
       "lng": -75.1731,
       "note": "A hands-on science museum famous for its walk-through giant heart, planetarium and Benjamin Franklin memorial.",
       "hours": "9:30 AM–5:00 PM daily",
-      "rating": 4.3,
       "ticketUrl": "https://www.fi.edu"
     },
     {
@@ -488,7 +468,6 @@
       "lng": -75.1764,
       "note": "The College of Physicians' cabinet of medical curiosities: skeletons, preserved specimens and slices of Einstein's brain.",
       "hours": "10:00 AM–5:00 PM daily",
-      "rating": 4.3,
       "ticketUrl": "https://muttermuseum.org"
     },
     {
@@ -497,7 +476,6 @@
       "lng": -75.1665,
       "note": "The Phillies' ballpark in the South Philly sports complex, at the southern end of the Broad Street Line (NRG station).",
       "hours": "Game days per schedule; ballpark tours on selected days",
-      "rating": 4.6,
       "ticketUrl": "https://www.mlb.com/phillies"
     },
     {
@@ -506,7 +484,6 @@
       "lng": -75.1425,
       "note": "A narrow cobbled lane of Georgian rowhouses, often called the oldest continuously lived-in residential street in the country.",
       "hours": "Street always open (homes are private); small museum open ~Fri–Sun",
-      "rating": 4.3,
       "ticketUrl": "https://www.elfrethsalley.org"
     },
     {
@@ -515,7 +492,6 @@
       "lng": -75.1955,
       "note": "America's first zoo, known for its overhead 'Zoo360' trails that let big cats and primates roam above visitors.",
       "hours": "9:30 AM–5:00 PM daily (closes ~4:00 PM in winter)",
-      "rating": 4.3,
       "ticketUrl": "https://philadelphiazoo.org"
     },
     {
@@ -524,7 +500,6 @@
       "lng": -75.1491,
       "note": "An interactive museum on the US Constitution, with a theatre-in-the-round show and life-size bronzes of the signers.",
       "hours": "Wed–Sun 10:00 AM–5:00 PM; closed Mon–Tue",
-      "rating": 4.4,
       "ticketUrl": "https://constitutioncenter.org"
     },
     {
@@ -532,24 +507,21 @@
       "lat": 39.9495,
       "lng": -75.1718,
       "note": "Center City's elegant leafy square, ringed by cafés and townhouses and busy with picnickers and dog-walkers.",
-      "hours": "~6:00 AM–midnight",
-      "rating": 4.4
+      "hours": "~6:00 AM–midnight"
     },
     {
       "name": "Italian Market",
       "lat": 39.9387,
       "lng": -75.158,
       "note": "Blocks of open-air stalls, butchers, cheese shops and bakeries along South 9th Street, one of the oldest outdoor markets in the US.",
-      "hours": "Most shops Tue–Sun ~9:00 AM–5:00 PM; fewer stalls Mon",
-      "rating": 4.1
+      "hours": "Most shops Tue–Sun ~9:00 AM–5:00 PM; fewer stalls Mon"
     },
     {
       "name": "Boathouse Row",
       "lat": 39.9693,
       "lng": -75.1866,
       "note": "A line of Victorian rowing clubhouses on the Schuylkill, outlined in lights at night; best seen free from Kelly Drive or the art museum.",
-      "hours": "Always viewable; lights after dusk",
-      "rating": 4.4
+      "hours": "Always viewable; lights after dusk"
     }
   ],
   "railStations": [

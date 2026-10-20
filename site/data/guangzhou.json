@@ -605,22 +605,20 @@
     }
   ],
   "hotels": [
-    {"name":"The Westin Guangzhou","lat":23.1458,"lng":113.3208,"area":"Guangzhou East Station","rating":4.4,"ratingCount":1856,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Ramada Plaza Guangzhou","lat":23.1538,"lng":113.3234,"area":"Guangzhou East Station","rating":4.1,"ratingCount":356,"stars":5,"priceTier":3,"brandAnchor":true},
-    {"name":"Pullman Guangzhou Baiyun Airport","lat":23.3915,"lng":113.2982,"area":"Guangzhou Baiyun International Airport","rating":4.7,"ratingCount":5931,"stars":5,"priceTier":3,"brandAnchor":true},
-    {"name":"Novotel Guangzhou Baiyun Airport","lat":23.3912,"lng":113.2981,"area":"Guangzhou Baiyun International Airport","rating":5,"ratingCount":1372,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Four Seasons Hotel Guangzhou","lat":23.1204,"lng":113.318,"area":"Tianhe/Zhujiang New Town","rating":4.9,"ratingCount":4605,"stars":5,"priceTier":4},
-    {"name":"Grand Hyatt Guangzhou","lat":23.1248,"lng":113.318,"area":"Tianhe/Zhujiang New Town","rating":4.4,"ratingCount":1268,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"The Ritz-Carlton, Guangzhou","lat":23.119,"lng":113.3218,"area":"Tianhe/Zhujiang New Town","rating":4.9,"ratingCount":7363,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"White Swan Hotel","lat":23.1084,"lng":113.2374,"area":"Shamian","rating":4.6,"ratingCount":322,"stars":5,"priceTier":4},
-    {"name":"Guangdong Victory Hotel","lat":23.1105,"lng":113.2401,"area":"Shamian","rating":4,"ratingCount":652,"stars":3,"priceTier":2},
+    {"name":"The Westin Guangzhou","lat":23.1458,"lng":113.3208,"area":"Guangzhou East Station","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Ramada Plaza Guangzhou","lat":23.1538,"lng":113.3234,"area":"Guangzhou East Station","stars":5,"priceTier":3,"brandAnchor":true},
+    {"name":"Pullman Guangzhou Baiyun Airport","lat":23.3915,"lng":113.2982,"area":"Guangzhou Baiyun International Airport","stars":5,"priceTier":3,"brandAnchor":true},
+    {"name":"Novotel Guangzhou Baiyun Airport","lat":23.3912,"lng":113.2981,"area":"Guangzhou Baiyun International Airport","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Four Seasons Hotel Guangzhou","lat":23.1204,"lng":113.318,"area":"Tianhe/Zhujiang New Town","stars":5,"priceTier":4},
+    {"name":"Grand Hyatt Guangzhou","lat":23.1248,"lng":113.318,"area":"Tianhe/Zhujiang New Town","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"The Ritz-Carlton, Guangzhou","lat":23.119,"lng":113.3218,"area":"Tianhe/Zhujiang New Town","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"White Swan Hotel","lat":23.1084,"lng":113.2374,"area":"Shamian","stars":5,"priceTier":4},
+    {"name":"Guangdong Victory Hotel","lat":23.1105,"lng":113.2401,"area":"Shamian","stars":3,"priceTier":2},
     {
       "name": "Radisson RED Guang Zhou South Railway Station",
       "lat": 22.9903,
       "lng": 113.2702,
       "area": "Guangzhou South Station",
-      "rating": 4.7,
-      "ratingCount": 5787,
       "stars": 4,
       "priceTier": 3,
       "brandAnchor": true,
@@ -632,8 +630,6 @@
       "lat": 22.9908,
       "lng": 113.2735,
       "area": "Guangzhou South Station",
-      "rating": 4.9,
-      "ratingCount": 3424,
       "stars": 4,
       "priceTier": 3,
       "ratingSource": "Trip.com",
@@ -644,8 +640,6 @@
       "lat": 22.9912,
       "lng": 113.272,
       "area": "Guangzhou South Station",
-      "rating": 4.5,
-      "ratingCount": 1947,
       "stars": 3,
       "priceTier": 2,
       "ratingSource": "Trip.com",
@@ -656,33 +650,18 @@
       "lat": 23.1536,
       "lng": 113.2568,
       "area": "Guangzhou Station",
-      "rating": 4.7,
-      "ratingCount": 2753,
       "stars": 4,
       "priceTier": 3,
       "brandAnchor": true,
       "ratingSource": "Trip.com",
       "tripUrl": "https://www.trip.com/hotels/detail/?hotelId=105450288"
     },
-    {
-      "name": "Liuhua Hotel",
-      "lat": 23.1491,
-      "lng": 113.251,
-      "area": "Guangzhou Station",
-      "rating": 4.5,
-      "ratingCount": 1226,
-      "stars": 4,
-      "priceTier": 3,
-      "ratingSource": "Trip.com",
-      "tripUrl": "https://www.trip.com/hotels/detail/?hotelId=441499"
-    },
+    {"name":"Liuhua Hotel","lat":23.1491,"lng":113.251,"area":"Guangzhou Station","stars":4,"priceTier":3,"ratingSource":"Trip.com","tripUrl":"https://www.trip.com/hotels/detail/?hotelId=441499"},
     {
       "name": "Ibis Hotel (Guangzhou Yuexiu Park Metro Station)",
       "lat": 23.1451,
       "lng": 113.2533,
       "area": "Guangzhou Station",
-      "rating": 4.6,
-      "ratingCount": 1329,
       "stars": 3,
       "priceTier": 2,
       "brandAnchor": true,
@@ -694,8 +673,6 @@
       "lat": 23.1512,
       "lng": 113.3205,
       "area": "Guangzhou East Station",
-      "rating": 4.7,
-      "ratingCount": 8815,
       "stars": 4,
       "priceTier": 2,
       "ratingSource": "Trip.com",
@@ -706,8 +683,6 @@
       "lat": 23.1504,
       "lng": 113.3208,
       "area": "Guangzhou East Station",
-      "rating": 4.6,
-      "ratingCount": 8317,
       "stars": 5,
       "priceTier": 3,
       "ratingSource": "Trip.com",
@@ -718,8 +693,6 @@
       "lat": 23.3716,
       "lng": 113.2882,
       "area": "Guangzhou Baiyun International Airport",
-      "rating": 4.7,
-      "ratingCount": 2456,
       "stars": 4,
       "priceTier": 3,
       "brandAnchor": true,
@@ -731,24 +704,12 @@
       "lat": 23.372,
       "lng": 113.2876,
       "area": "Guangzhou Baiyun International Airport",
-      "rating": 4.8,
-      "ratingCount": 3004,
       "stars": 3,
       "priceTier": 2,
       "ratingSource": "Trip.com",
       "tripUrl": "https://www.trip.com/hotels/detail/?hotelId=120193618"
     },
-    {
-      "name": "Manhaosi Hotel (Guangzhou Shangxiajiu Pedestrian Street Shamian Scenic Area)",
-      "lat": 23.1104,
-      "lng": 113.2407,
-      "area": "Shamian",
-      "rating": 4.6,
-      "ratingCount": 885,
-      "stars": 3,
-      "priceTier": 2,
-      "ratingSource": "Trip.com"
-    }
+    {"name":"Manhaosi Hotel (Guangzhou Shangxiajiu Pedestrian Street Shamian Scenic Area)","lat":23.1104,"lng":113.2407,"area":"Shamian","stars":3,"priceTier":2,"ratingSource":"Trip.com"}
   ],
   "sights": [
     {
@@ -757,7 +718,6 @@
       "lng": 113.3245,
       "note": "A 600 m twisted lattice tower on the Pearl River with observation decks, a glass skywalk and the world's highest rooftop Ferris wheel.",
       "hours": "~9:30 AM-10:30 PM daily",
-      "rating": 4.4,
       "ticketUrl": "https://www.cantontower.com",
       "bookAhead": true
     },
@@ -766,64 +726,50 @@
       "lat": 23.109,
       "lng": 113.243,
       "note": "A leafy former foreign concession of colonial-era buildings, a church and riverside cafes; best strolled on foot.",
-      "hours": "Open daily; free",
-      "rating": 4.3
+      "hours": "Open daily; free"
     },
     {
       "name": "Chen Clan Ancestral Hall",
       "lat": 23.1257,
       "lng": 113.2433,
       "note": "An elaborate 19th-century Lingnan clan academy known for its carved brick, wood and ceramic roof friezes; also a folk-art museum.",
-      "hours": "~8:30 AM-5:30 PM daily",
-      "rating": 4.3
+      "hours": "~8:30 AM-5:30 PM daily"
     },
     {
       "name": "Baiyun Mountain",
       "lat": 23.179,
       "lng": 113.308,
       "note": "A forested hill park on the northern edge of the city with hiking paths, a cable car and views over the city.",
-      "hours": "~6:00 AM-9:00 PM; free entrance fee on foot, cable car extra",
-      "rating": 4.2
+      "hours": "~6:00 AM-9:00 PM; free entrance fee on foot, cable car extra"
     },
     {
       "name": "Huacheng Square",
       "lat": 23.1186,
       "lng": 113.3214,
       "note": "The open plaza at the heart of Zhujiang New Town, framed by the Guangzhou Opera House, the library and Canton Tower; lit up at night.",
-      "hours": "Open 24 hours; free",
-      "rating": 4.4
+      "hours": "Open 24 hours; free"
     },
     {
       "name": "Guangdong Museum",
       "lat": 23.1165,
       "lng": 113.323,
       "note": "A modern museum on Huacheng Square covering Guangdong's nature, history and arts, including carved ivory and ceramics.",
-      "hours": "9:00 AM-5:00 PM, closed Mon (free, booking required)",
-      "rating": 4.2
+      "hours": "9:00 AM-5:00 PM, closed Mon (free, booking required)"
     },
-    {
-      "name": "Temple of the Six Banyan Trees",
-      "lat": 23.1296,
-      "lng": 113.2543,
-      "note": "A Buddhist temple whose 57 m Flower Pagoda is one of the city's oldest landmarks.",
-      "hours": "~8:00 AM-5:00 PM daily",
-      "rating": 4.2
-    },
+    {"name":"Temple of the Six Banyan Trees","lat":23.1296,"lng":113.2543,"note":"A Buddhist temple whose 57 m Flower Pagoda is one of the city's oldest landmarks.","hours":"~8:00 AM-5:00 PM daily"},
     {
       "name": "Museum of the Nanyue King Mausoleum",
       "lat": 23.1348,
       "lng": 113.263,
       "note": "A museum built over the 2nd-century BC tomb of the Nanyue king, with jade burial suits and rich grave goods.",
-      "hours": "9:00 AM-5:30 PM, closed Mon",
-      "rating": 4.4
+      "hours": "9:00 AM-5:30 PM, closed Mon"
     },
     {
       "name": "Sacred Heart Cathedral",
       "lat": 23.1117,
       "lng": 113.2661,
       "note": "A 19th-century twin-spired granite Gothic cathedral, a rare European-style landmark in old Guangzhou.",
-      "hours": "~8:00 AM-5:00 PM daily; free",
-      "rating": 4.2
+      "hours": "~8:00 AM-5:00 PM daily; free"
     },
     {
       "name": "Chimelong Safari Park",
@@ -831,7 +777,6 @@
       "lng": 113.3267,
       "note": "A large safari and zoo park in Panyu with pandas, white tigers and drive-through areas; reachable by metro to Hanxi Changlong.",
       "hours": "~9:30 AM-6:00 PM daily",
-      "rating": 4.5,
       "ticketUrl": "https://www.chimelong.com",
       "bookAhead": true
     },
@@ -840,32 +785,28 @@
       "lat": 23.1366,
       "lng": 113.2665,
       "note": "The city's largest central park, home to the Five Rams statue, the Zhenhai Tower and an old city wall section.",
-      "hours": "~6:00 AM-9:00 PM; free",
-      "rating": 4.2
+      "hours": "~6:00 AM-9:00 PM; free"
     },
     {
       "name": "Sun Yat-sen Memorial Hall",
       "lat": 23.1372,
       "lng": 113.2685,
       "note": "An octagonal Chinese-style memorial hall with a blue-tiled roof, set in a garden, honouring Sun Yat-sen.",
-      "hours": "~8:00 AM-6:00 PM daily",
-      "rating": 4.2
+      "hours": "~8:00 AM-6:00 PM daily"
     },
     {
       "name": "Shangxiajiu Pedestrian Street",
       "lat": 23.1128,
       "lng": 113.2452,
       "note": "A historic arcaded shopping street of old Xiguan, lined with snack stalls and dim sum parlours.",
-      "hours": "Open daily; shops to ~10:00 PM",
-      "rating": 4
+      "hours": "Open daily; shops to ~10:00 PM"
     },
     {
       "name": "Yongqing Fang and Enning Road",
       "lat": 23.1138,
       "lng": 113.2425,
       "note": "Restored Lingnan arcade streets with the Cantonese Opera Museum, traditional snack shops and cafes.",
-      "hours": "Open daily; shops ~10:00 AM-10:00 PM",
-      "rating": 4.2
+      "hours": "Open daily; shops ~10:00 AM-10:00 PM"
     }
   ],
   "railStations": [

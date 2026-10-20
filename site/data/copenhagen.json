@@ -104,24 +104,24 @@
     }
   ],
   "hotels": [
-    {"name":"Radisson Collection Royal Hotel, Copenhagen","lat":55.6751,"lng":12.5634,"area":"Copenhagen Central Station","rating":4.3,"ratingCount":1421,"stars":4,"priceTier":4,"brandAnchor":true},
-    {"name":"Villa Copenhagen","lat":55.6714,"lng":12.5677,"area":"Copenhagen Central Station","rating":4.4,"ratingCount":982,"stars":5,"priceTier":4},
-    {"name":"Andersen Hotel","lat":55.6719,"lng":12.5611,"area":"Copenhagen Central Station","rating":4.5,"ratingCount":4393,"stars":3,"priceTier":3},
-    {"name":"Absalon Hotel","lat":55.6717,"lng":12.5616,"area":"Copenhagen Central Station","rating":4.4,"ratingCount":5099,"stars":3,"priceTier":2},
-    {"name":"MEININGER Hotel Copenhagen","lat":55.6722,"lng":12.5623,"area":"Copenhagen Central Station","rating":4.2,"ratingCount":4630,"stars":2,"priceTier":1},
-    {"name":"Clarion Hotel Copenhagen Airport","lat":55.6305,"lng":12.6509,"area":"Copenhagen Airport","rating":4.3,"ratingCount":4490,"stars":4,"priceTier":3},
-    {"name":"25hours Hotel Indre By","lat":55.6817,"lng":12.5771,"area":"Nørreport","rating":4.2,"ratingCount":398,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Ibsens Hotel","lat":55.6847,"lng":12.5663,"area":"Nørreport","rating":4.2,"ratingCount":2441,"stars":3,"priceTier":2},
-    {"name":"Hotel Kong Arthur","lat":55.6848,"lng":12.565,"area":"Nørreport","rating":4.4,"ratingCount":4565,"stars":4,"priceTier":3},
-    {"name":"1 Hotel Copenhagen","lat":55.6808,"lng":12.5721,"area":"Nørreport","rating":4.8,"ratingCount":241,"stars":5,"priceTier":4},
-    {"name":"Hotel SP34","lat":55.6787,"lng":12.5665,"area":"Nørreport","rating":4,"ratingCount":2024,"stars":3,"priceTier":2},
-    {"name":"Hotel d'Angleterre","lat":55.6806,"lng":12.5841,"area":"Nyhavn","rating":4.7,"ratingCount":1347,"stars":5,"priceTier":4},
-    {"name":"71 Nyhavn Hotel","lat":55.6794,"lng":12.5937,"area":"Nyhavn","rating":4.6,"ratingCount":2199,"stars":4,"priceTier":3},
-    {"name":"Copenhagen Strand","lat":55.6772,"lng":12.5902,"area":"Nyhavn","rating":4.1,"ratingCount":2810,"stars":4,"priceTier":3},
-    {"name":"Hotel Bethel Sømandshjem","lat":55.6794,"lng":12.591,"area":"Nyhavn","rating":4.4,"ratingCount":1088,"stars":3,"priceTier":2},
-    {"name":"Generator Copenhagen","lat":55.6829,"lng":12.5826,"area":"Nyhavn","rating":4,"ratingCount":4088,"stars":1,"priceTier":1},
-    {"name":"NH Collection Copenhagen","lat":55.6738,"lng":12.588,"area":"Christianshavn","rating":4.7,"ratingCount":1236,"stars":5,"priceTier":4},
-    {"name":"Hotel CPH Living","lat":55.6702,"lng":12.5801,"area":"Christianshavn","rating":4.3,"ratingCount":327,"stars":3,"priceTier":2}
+    {"name":"Radisson Collection Royal Hotel, Copenhagen","lat":55.6751,"lng":12.5634,"area":"Copenhagen Central Station","stars":4,"priceTier":4,"brandAnchor":true},
+    {"name":"Villa Copenhagen","lat":55.6714,"lng":12.5677,"area":"Copenhagen Central Station","stars":5,"priceTier":4},
+    {"name":"Andersen Hotel","lat":55.6719,"lng":12.5611,"area":"Copenhagen Central Station","stars":3,"priceTier":3},
+    {"name":"Absalon Hotel","lat":55.6717,"lng":12.5616,"area":"Copenhagen Central Station","stars":3,"priceTier":2},
+    {"name":"MEININGER Hotel Copenhagen","lat":55.6722,"lng":12.5623,"area":"Copenhagen Central Station","stars":2,"priceTier":1},
+    {"name":"Clarion Hotel Copenhagen Airport","lat":55.6305,"lng":12.6509,"area":"Copenhagen Airport","stars":4,"priceTier":3},
+    {"name":"25hours Hotel Indre By","lat":55.6817,"lng":12.5771,"area":"Nørreport","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Ibsens Hotel","lat":55.6847,"lng":12.5663,"area":"Nørreport","stars":3,"priceTier":2},
+    {"name":"Hotel Kong Arthur","lat":55.6848,"lng":12.565,"area":"Nørreport","stars":4,"priceTier":3},
+    {"name":"1 Hotel Copenhagen","lat":55.6808,"lng":12.5721,"area":"Nørreport","stars":5,"priceTier":4},
+    {"name":"Hotel SP34","lat":55.6787,"lng":12.5665,"area":"Nørreport","stars":3,"priceTier":2},
+    {"name":"Hotel d'Angleterre","lat":55.6806,"lng":12.5841,"area":"Nyhavn","stars":5,"priceTier":4},
+    {"name":"71 Nyhavn Hotel","lat":55.6794,"lng":12.5937,"area":"Nyhavn","stars":4,"priceTier":3},
+    {"name":"Copenhagen Strand","lat":55.6772,"lng":12.5902,"area":"Nyhavn","stars":4,"priceTier":3},
+    {"name":"Hotel Bethel Sømandshjem","lat":55.6794,"lng":12.591,"area":"Nyhavn","stars":3,"priceTier":2},
+    {"name":"Generator Copenhagen","lat":55.6829,"lng":12.5826,"area":"Nyhavn","stars":1,"priceTier":1},
+    {"name":"NH Collection Copenhagen","lat":55.6738,"lng":12.588,"area":"Christianshavn","stars":5,"priceTier":4},
+    {"name":"Hotel CPH Living","lat":55.6702,"lng":12.5801,"area":"Christianshavn","stars":3,"priceTier":2}
   ],
   "sights": [
     {
@@ -129,8 +129,7 @@
       "lat": 55.6798,
       "lng": 12.591,
       "note": "The 17th-century canal harbour lined with colourful townhouses, wooden ships and cafés; the classic Copenhagen postcard.",
-      "hours": "Open 24 hours (outdoor area)",
-      "rating": 4.5
+      "hours": "Open 24 hours (outdoor area)"
     },
     {
       "name": "Tivoli Gardens",
@@ -138,7 +137,6 @@
       "lng": 12.5681,
       "note": "Historic amusement park and garden in the city centre, with rides, concerts and lights after dark. Seasonal: summer, Halloween and Christmas openings only.",
       "hours": "Seasonal: ~11:00 AM–10 or 11 PM in open periods; closed between seasons (check dates)",
-      "rating": 4.3,
       "ticketUrl": "https://www.tivoli.dk/en"
     },
     {
@@ -147,7 +145,6 @@
       "lng": 12.5724,
       "note": "Art museum with a large antiquities collection and French Impressionists, built around a glass-domed winter garden.",
       "hours": "11:00 AM–6:00 PM, till 10:00 PM Thu, closed Mon",
-      "rating": 4.5,
       "ticketUrl": "https://www.glyptoteket.com/"
     },
     {
@@ -156,7 +153,6 @@
       "lng": 12.5773,
       "note": "Renaissance royal castle of Christian IV housing the crown jewels and royal regalia, set in the King's Garden.",
       "hours": "~10:00 AM–4:00 PM daily in autumn (longer in summer, shorter in winter; check)",
-      "rating": 4.4,
       "ticketUrl": "https://www.kongernessamling.dk/en/rosenborg/"
     },
     {
@@ -164,8 +160,7 @@
       "lat": 55.6838,
       "lng": 12.5693,
       "note": "Two glass halls of food stalls: smørrebrød, seafood, pastries, coffee and Danish produce next to Nørreport.",
-      "hours": "Mon–Thu ~10:00 AM–7:00 PM, Fri till 8:00 PM, Sat till 6:00 PM, Sun till 5:00 PM",
-      "rating": 4.5
+      "hours": "Mon–Thu ~10:00 AM–7:00 PM, Fri till 8:00 PM, Sat till 6:00 PM, Sun till 5:00 PM"
     },
     {
       "name": "Christiansborg Palace",
@@ -173,7 +168,6 @@
       "lng": 12.58,
       "note": "Seat of the Danish parliament, with royal reception rooms, ruins beneath the palace and a tower with a free city view.",
       "hours": "Royal rooms and ruins ~10:00 AM–5:00 PM, Tue–Sun in winter; tower Tue–Sun",
-      "rating": 4.4,
       "ticketUrl": "https://kongeligeslotte.dk/en/palaces-and-gardens/christiansborg-palace.html"
     },
     {
@@ -182,7 +176,6 @@
       "lng": 12.5779,
       "note": "Danish history from the Stone Age and Vikings to modern times, plus a lively children's museum.",
       "hours": "10:00 AM–5:00 PM, closed Mon",
-      "rating": 4.4,
       "ticketUrl": "https://en.natmus.dk/"
     },
     {
@@ -191,7 +184,6 @@
       "lng": 12.5755,
       "note": "Seventeenth-century observatory tower reached by a spiral ramp, with a rooftop view over the old town.",
       "hours": "~10:00 AM–6:00 PM daily (till 8:00 PM in summer)",
-      "rating": 4.3,
       "ticketUrl": "https://www.rundetaarn.dk/en/"
     },
     {
@@ -200,7 +192,6 @@
       "lng": 12.5944,
       "note": "Baroque church whose corkscrew spire has an external staircase to the top, with a view over Christianshavn.",
       "hours": "~10:00 AM–6:00 PM daily; tower closed in ice or high wind",
-      "rating": 4.5,
       "ticketUrl": "https://www.vorfrelserskirke.dk/en/"
     },
     {
@@ -208,8 +199,7 @@
       "lat": 55.6866,
       "lng": 12.5738,
       "note": "University botanical garden with a Victorian palm house, rock garden and lake; the garden itself is free.",
-      "hours": "Garden from ~8:30 AM to ~4:00 PM in autumn/winter (later in summer); glasshouses ~10:00 AM–4:00 PM",
-      "rating": 4.3
+      "hours": "Garden from ~8:30 AM to ~4:00 PM in autumn/winter (later in summer); glasshouses ~10:00 AM–4:00 PM"
     },
     {
       "name": "Amalienborg Palace",
@@ -217,7 +207,6 @@
       "lng": 12.5934,
       "note": "Residence of the royal family around an octagonal square, with a museum of royal rooms and a daily changing of the guard at noon.",
       "hours": "Museum ~10:00 AM–4:00 PM (closed Mon in winter); guard change 12:00 noon",
-      "rating": 4.1,
       "ticketUrl": "https://www.kongernessamling.dk/en/amalienborg/"
     },
     {
@@ -225,8 +214,7 @@
       "lat": 55.6784,
       "lng": 12.575,
       "note": "One of Europe's longest pedestrian shopping streets, running from the City Hall Square toward Kongens Nytorv.",
-      "hours": "Open 24 hours; shops ~10:00 AM–6:00 PM",
-      "rating": 4
+      "hours": "Open 24 hours; shops ~10:00 AM–6:00 PM"
     },
     {
       "name": "Home of Carlsberg",
@@ -234,7 +222,6 @@
       "lng": 12.5412,
       "note": "Visitor centre at the original Carlsberg brewery, with the history of beer-making, the stables and tastings.",
       "hours": "~10:00 AM–5:00 PM, closed Mon",
-      "rating": 4.6,
       "ticketUrl": "https://visitcarlsberg.dk/en/"
     },
     {
@@ -243,7 +230,6 @@
       "lng": 12.6004,
       "note": "Waterfront opera house by Henning Larsen on Holmen island; best seen by attending a performance or a guided tour.",
       "hours": "Performance and tour times vary (check); not open for free walk-in visits",
-      "rating": 4.4,
       "ticketUrl": "https://www.kglteater.dk/en/"
     },
     {
@@ -251,16 +237,14 @@
       "lat": 55.6738,
       "lng": 12.6055,
       "note": "Self-governing alternative community in former military barracks, with murals, workshops and cafés. Photography is not allowed on Pusher Street; be respectful.",
-      "hours": "Open daily (shops and cafés ~noon–late)",
-      "rating": 3.5
+      "hours": "Open daily (shops and cafés ~noon–late)"
     },
     {
       "name": "Frederik's Church (Marble Church)",
       "lat": 55.685,
       "lng": 12.5896,
       "note": "Baroque-style marble church with Northern Europe's largest dome, next to Amalienborg.",
-      "hours": "Mon–Thu 10:00 AM–5:00 PM, Fri–Sun noon–5:00 PM",
-      "rating": 4.3
+      "hours": "Mon–Thu 10:00 AM–5:00 PM, Fri–Sun noon–5:00 PM"
     },
     {
       "name": "The David Collection",
@@ -268,7 +252,6 @@
       "lng": 12.5806,
       "note": "Free museum of Islamic art, European 18th-century decorative art and early Danish silver in a townhouse overlooking the King's Garden.",
       "hours": "~10:00 AM–5:00 PM, closed Mon; free entry",
-      "rating": 4.7,
       "ticketUrl": "https://www.davidmus.dk/en"
     },
     {
@@ -276,8 +259,7 @@
       "lat": 55.6853,
       "lng": 12.5762,
       "note": "Copenhagen's oldest royal park, with lawns, rose garden and summer picnics around Rosenborg Castle. A local-flavour addition.",
-      "hours": "Opens ~7:00 AM, closes at dusk",
-      "rating": 4.4
+      "hours": "Opens ~7:00 AM, closes at dusk"
     }
   ],
   "railStations": [

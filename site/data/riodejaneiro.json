@@ -190,28 +190,28 @@
     }
   ],
   "hotels": [
-    {"name":"Prodigy Santos Dumont","lat":-22.9143,"lng":-43.1666,"area":"Santos Dumont Airport","rating":4.5,"ratingCount":2960,"stars":4,"priceTier":3},
-    {"name":"Novotel RJ Santos Dumont","lat":-22.9088,"lng":-43.1693,"area":"Santos Dumont Airport","rating":4.3,"ratingCount":2257,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Copacabana Palace, A Belmond Hotel","lat":-22.967,"lng":-43.1792,"area":"Leme","rating":4.7,"ratingCount":5136,"stars":5,"priceTier":4},
-    {"name":"PortoBay Rio de Janeiro Hotel","lat":-22.9664,"lng":-43.1771,"area":"Leme","rating":4.4,"ratingCount":3779,"stars":4,"priceTier":3},
-    {"name":"Windsor Excelsior Copacabana","lat":-22.9679,"lng":-43.1799,"area":"Leme","rating":4.2,"ratingCount":2015,"stars":4,"priceTier":3},
-    {"name":"Arena Copacabana Hotel","lat":-22.969,"lng":-43.1817,"area":"Leme","rating":4.4,"ratingCount":3195,"stars":4,"priceTier":3},
-    {"name":"ibis Copacabana Posto 2","lat":-22.9648,"lng":-43.1788,"area":"Leme","rating":4.1,"ratingCount":2422,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"JW Marriott Hotel Rio de Janeiro","lat":-22.9723,"lng":-43.1858,"area":"Copacabana","rating":4.2,"ratingCount":2958,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Mercure Rio Boutique Copacabana","lat":-22.9721,"lng":-43.1854,"area":"Copacabana","rating":4.6,"ratingCount":686,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Windsor California Copacabana","lat":-22.9724,"lng":-43.1859,"area":"Copacabana","rating":4.4,"ratingCount":692,"stars":4,"priceTier":3},
-    {"name":"Hotel Mar Palace Copacabana","lat":-22.9689,"lng":-43.1845,"area":"Copacabana","rating":4.1,"ratingCount":1259,"stars":3,"priceTier":2},
-    {"name":"Brazuca's Hostel","lat":-22.9701,"lng":-43.1886,"area":"Copacabana","rating":4.2,"ratingCount":110,"stars":1,"priceTier":1},
-    {"name":"Hotel Fasano Rio de Janeiro","lat":-22.987,"lng":-43.1962,"area":"Arpoador","rating":4.5,"ratingCount":2048,"stars":5,"priceTier":4},
-    {"name":"Miramar by Windsor Copacabana","lat":-22.981,"lng":-43.1901,"area":"Arpoador","rating":4.7,"ratingCount":3704,"stars":5,"priceTier":4},
-    {"name":"Grand Mercure Rio de Janeiro Copacabana","lat":-22.9814,"lng":-43.1901,"area":"Arpoador","rating":4.1,"ratingCount":4846,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Windsor Martinique Copacabana","lat":-22.9807,"lng":-43.1907,"area":"Arpoador","rating":4.2,"ratingCount":1463,"stars":3,"priceTier":2},
-    {"name":"ibis Copacabana Posto 5","lat":-22.9765,"lng":-43.1918,"area":"Arpoador","rating":4.3,"ratingCount":1591,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"Sofitel Rio de Janeiro Ipanema","lat":-22.986,"lng":-43.2074,"area":"Ipanema","rating":4.2,"ratingCount":2297,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Ipanema Inn","lat":-22.9854,"lng":-43.2074,"area":"Ipanema","rating":4.5,"ratingCount":2648,"stars":3,"priceTier":2},
-    {"name":"Margarida's Pousada","lat":-22.9827,"lng":-43.2116,"area":"Ipanema","rating":4.2,"ratingCount":172,"stars":2,"priceTier":2},
-    {"name":"Mango Tree Hostel Ipanema","lat":-22.9852,"lng":-43.2024,"area":"Ipanema","rating":4.3,"ratingCount":1646,"stars":1,"priceTier":1},
-    {"name":"Gamboa Rio Hotel","lat":-22.8994,"lng":-43.1887,"area":"Central do Brasil","rating":4,"ratingCount":222,"stars":3,"priceTier":2}
+    {"name":"Prodigy Santos Dumont","lat":-22.9143,"lng":-43.1666,"area":"Santos Dumont Airport","stars":4,"priceTier":3},
+    {"name":"Novotel RJ Santos Dumont","lat":-22.9088,"lng":-43.1693,"area":"Santos Dumont Airport","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Copacabana Palace, A Belmond Hotel","lat":-22.967,"lng":-43.1792,"area":"Leme","stars":5,"priceTier":4},
+    {"name":"PortoBay Rio de Janeiro Hotel","lat":-22.9664,"lng":-43.1771,"area":"Leme","stars":4,"priceTier":3},
+    {"name":"Windsor Excelsior Copacabana","lat":-22.9679,"lng":-43.1799,"area":"Leme","stars":4,"priceTier":3},
+    {"name":"Arena Copacabana Hotel","lat":-22.969,"lng":-43.1817,"area":"Leme","stars":4,"priceTier":3},
+    {"name":"ibis Copacabana Posto 2","lat":-22.9648,"lng":-43.1788,"area":"Leme","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"JW Marriott Hotel Rio de Janeiro","lat":-22.9723,"lng":-43.1858,"area":"Copacabana","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Mercure Rio Boutique Copacabana","lat":-22.9721,"lng":-43.1854,"area":"Copacabana","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Windsor California Copacabana","lat":-22.9724,"lng":-43.1859,"area":"Copacabana","stars":4,"priceTier":3},
+    {"name":"Hotel Mar Palace Copacabana","lat":-22.9689,"lng":-43.1845,"area":"Copacabana","stars":3,"priceTier":2},
+    {"name":"Brazuca's Hostel","lat":-22.9701,"lng":-43.1886,"area":"Copacabana","stars":1,"priceTier":1},
+    {"name":"Hotel Fasano Rio de Janeiro","lat":-22.987,"lng":-43.1962,"area":"Arpoador","stars":5,"priceTier":4},
+    {"name":"Miramar by Windsor Copacabana","lat":-22.981,"lng":-43.1901,"area":"Arpoador","stars":5,"priceTier":4},
+    {"name":"Grand Mercure Rio de Janeiro Copacabana","lat":-22.9814,"lng":-43.1901,"area":"Arpoador","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Windsor Martinique Copacabana","lat":-22.9807,"lng":-43.1907,"area":"Arpoador","stars":3,"priceTier":2},
+    {"name":"ibis Copacabana Posto 5","lat":-22.9765,"lng":-43.1918,"area":"Arpoador","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Sofitel Rio de Janeiro Ipanema","lat":-22.986,"lng":-43.2074,"area":"Ipanema","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Ipanema Inn","lat":-22.9854,"lng":-43.2074,"area":"Ipanema","stars":3,"priceTier":2},
+    {"name":"Margarida's Pousada","lat":-22.9827,"lng":-43.2116,"area":"Ipanema","stars":2,"priceTier":2},
+    {"name":"Mango Tree Hostel Ipanema","lat":-22.9852,"lng":-43.2024,"area":"Ipanema","stars":1,"priceTier":1},
+    {"name":"Gamboa Rio Hotel","lat":-22.8994,"lng":-43.1887,"area":"Central do Brasil","stars":3,"priceTier":2}
   ],
   "sights": [
     {
@@ -220,7 +220,6 @@
       "lng": -43.2105,
       "note": "The 30 m Art Deco statue on Corcovado's summit, with the whole city, bay and beaches spread out below.",
       "hours": "Daily ~8:00 AM–7:00 PM (rack train every 20–30 min)",
-      "rating": 4.6,
       "ticketUrl": "https://www.tremdocorcovado.rio",
       "bookAhead": true
     },
@@ -230,7 +229,6 @@
       "lng": -43.1663,
       "note": "Two glass cable cars from Praia Vermelha via Morro da Urca to the granite summit of Sugarloaf, best at sunset.",
       "hours": "Daily ~8:00 AM–9:00 PM",
-      "rating": 4.7,
       "ticketUrl": "https://bondinho.com.br",
       "bookAhead": true
     },
@@ -239,16 +237,14 @@
       "lat": -22.9868,
       "lng": -43.205,
       "note": "Rio's most famous stretch of sand, with numbered lifeguard posts marking its social tribes and the Dois Irmãos peaks at the end.",
-      "hours": "Open 24 hours; keep valuables minimal",
-      "rating": 4.5
+      "hours": "Open 24 hours; keep valuables minimal"
     },
     {
       "name": "Copacabana Beach",
       "lat": -22.9711,
       "lng": -43.1822,
       "note": "A 4 km crescent of sand behind the wave-patterned promenade, lined with kiosks and beach football.",
-      "hours": "Open 24 hours; promenade busy until late",
-      "rating": 4.3
+      "hours": "Open 24 hours; promenade busy until late"
     },
     {
       "name": "Rio de Janeiro Botanical Garden",
@@ -256,7 +252,6 @@
       "lng": -43.2241,
       "note": "A 19th-century garden famous for its avenue of royal palms, orchid house and toucans under Corcovado.",
       "hours": "Daily 8:00 AM–5:00 PM",
-      "rating": 4.6,
       "ticketUrl": "https://jbrj.gov.br"
     },
     {
@@ -264,8 +259,7 @@
       "lat": -22.9895,
       "lng": -43.1915,
       "note": "A rocky point between Ipanema and Copacabana where crowds applaud the sunset over the ocean.",
-      "hours": "Open 24 hours; sunset is the main event",
-      "rating": 4.6
+      "hours": "Open 24 hours; sunset is the main event"
     },
     {
       "name": "Maracanã Stadium",
@@ -273,7 +267,6 @@
       "lng": -43.2302,
       "note": "The legendary football stadium; take a tour of the pitch and dressing rooms or catch a Flamengo or Fluminense match.",
       "hours": "Tours daily ~9:00 AM–5:00 PM (not on match days)",
-      "rating": 4.5,
       "ticketUrl": "https://www.maracana.com"
     },
     {
@@ -282,7 +275,6 @@
       "lng": -43.1793,
       "note": "Santiago Calatrava's skeletal museum on the revived port waterfront, exploring science and the planet's future.",
       "hours": "Tue–Sun 10:00 AM–6:00 PM",
-      "rating": 4.5,
       "ticketUrl": "https://museudoamanha.org.br"
     },
     {
@@ -290,8 +282,7 @@
       "lat": -22.9153,
       "lng": -43.1791,
       "note": "A staircase between Lapa and Santa Teresa covered in thousands of tiles from around the world by artist Jorge Selarón.",
-      "hours": "Outdoors, 24 hours; go by day",
-      "rating": 4.3
+      "hours": "Outdoors, 24 hours; go by day"
     },
     {
       "name": "Centro Cultural Banco do Brasil",
@@ -299,7 +290,6 @@
       "lng": -43.1765,
       "note": "A grand former bank under a domed rotunda, now one of Brazil's busiest free art and exhibition centres.",
       "hours": "Wed–Mon 9:00 AM–8:00 PM, closed Tue",
-      "rating": 4.7,
       "ticketUrl": "https://ccbb.com.br"
     },
     {
@@ -307,24 +297,15 @@
       "lat": -22.9614,
       "lng": -43.2786,
       "note": "One of the world's largest urban forests, with waterfalls, trails and viewpoints in the mountains above the city.",
-      "hours": "Daily ~8:00 AM–5:00 PM (to 6:00 PM in summer)",
-      "rating": 4.6
+      "hours": "Daily ~8:00 AM–5:00 PM (to 6:00 PM in summer)"
     },
-    {
-      "name": "Parque Lage",
-      "lat": -22.9606,
-      "lng": -43.2117,
-      "note": "An Italianate mansion with a courtyard café under Corcovado, set in a forested park with grottoes.",
-      "hours": "Daily 8:00 AM–5:00 PM",
-      "rating": 4.4
-    },
+    {"name":"Parque Lage","lat":-22.9606,"lng":-43.2117,"note":"An Italianate mansion with a courtyard café under Corcovado, set in a forested park with grottoes.","hours":"Daily 8:00 AM–5:00 PM"},
     {
       "name": "Theatro Municipal",
       "lat": -22.909,
       "lng": -43.1765,
       "note": "Rio's 1909 opera house modelled on the Paris Opéra, with gilded halls open on guided tours.",
       "hours": "Guided tours Tue–Sat; performances most weeks",
-      "rating": 4.7,
       "ticketUrl": "https://theatromunicipal.rj.gov.br"
     },
     {
@@ -332,16 +313,14 @@
       "lat": -22.9055,
       "lng": -43.1823,
       "note": "A neo-Manueline reading room stacked floor to ceiling with Portuguese books under a stained-glass skylight.",
-      "hours": "Mon–Fri ~10:00 AM–5:00 PM",
-      "rating": 4.6
+      "hours": "Mon–Fri ~10:00 AM–5:00 PM"
     },
     {
       "name": "Mosteiro de São Bento",
       "lat": -22.897,
       "lng": -43.178,
       "note": "A hilltop Benedictine monastery whose plain façade hides a church interior dripping with gilded baroque carving.",
-      "hours": "Daily ~7:00 AM–6:00 PM; Sunday 10:00 AM mass with Gregorian chant",
-      "rating": 4.7
+      "hours": "Daily ~7:00 AM–6:00 PM; Sunday 10:00 AM mass with Gregorian chant"
     },
     {
       "name": "AquaRio",
@@ -349,7 +328,6 @@
       "lng": -43.1925,
       "note": "South America's largest marine aquarium, in the port district, with a walk-through shark tunnel.",
       "hours": "Daily 9:00 AM–5:00 PM",
-      "rating": 4.2,
       "ticketUrl": "https://aquariomarinhodorio.com.br"
     },
     {
@@ -357,16 +335,14 @@
       "lat": -22.9863,
       "lng": -43.1871,
       "note": "A 1914 army fort at the tip of Copacabana with an army history museum, old guns and a café facing the beach.",
-      "hours": "Tue–Sun ~10:00 AM–6:00 PM",
-      "rating": 4.4
+      "hours": "Tue–Sun ~10:00 AM–6:00 PM"
     },
     {
       "name": "Arcos da Lapa",
       "lat": -22.9129,
       "lng": -43.18,
       "note": "The white 18th-century aqueduct at the heart of Lapa, Rio's samba and nightlife district, carrying the Santa Teresa tram.",
-      "hours": "Outdoors, 24 hours; busiest Thu–Sat nights",
-      "rating": 3.8
+      "hours": "Outdoors, 24 hours; busiest Thu–Sat nights"
     }
   ],
   "railStations": [

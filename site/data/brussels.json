@@ -135,35 +135,35 @@
     }
   ],
   "hotels": [
-    {"name":"Pullman Brussels Centre Midi","lat":50.8372,"lng":4.3359,"area":"Brussels-Midi","rating":4.3,"ratingCount":2505,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Radisson Hotel Brussels Centre Midi","lat":50.8353,"lng":4.3383,"area":"Brussels-Midi","rating":4,"ratingCount":2121,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"Hotel Mercure Brussels Centre Midi","lat":50.8394,"lng":4.3385,"area":"Brussels-Midi","rating":4,"ratingCount":1037,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"MEININGER Hotel Bruxelles Gare du Midi","lat":50.8357,"lng":4.3311,"area":"Brussels-Midi","rating":4,"ratingCount":297,"stars":2,"priceTier":2},
-    {"name":"Yooma Urban Lodge Brussels","lat":50.841,"lng":4.3387,"area":"Brussels-Midi","rating":4.4,"ratingCount":1030,"stars":3,"priceTier":2},
-    {"name":"Hotel Indigo Brussels - City","lat":50.8557,"lng":4.3599,"area":"Brussels-Nord","rating":4.2,"ratingCount":343,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"DoubleTree by Hilton Brussels City","lat":50.8553,"lng":4.36,"area":"Brussels-Nord","rating":4.3,"ratingCount":176,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"The Hoxton, Brussels","lat":50.8557,"lng":4.3633,"area":"Brussels-Nord","rating":4.5,"ratingCount":520,"stars":4,"priceTier":3},
-    {"name":"Thon Hotel Brussels City Centre","lat":50.856,"lng":4.3573,"area":"Brussels-Nord","rating":4,"ratingCount":1995,"stars":4,"priceTier":3},
-    {"name":"nhow Brussels Bloom","lat":50.8551,"lng":4.3663,"area":"Brussels-Nord","rating":4.1,"ratingCount":4964,"stars":4,"priceTier":3},
-    {"name":"Hilton Brussels Grand Place","lat":50.8458,"lng":4.3559,"area":"Grand-Place","rating":4.1,"ratingCount":2807,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Novotel Brussels Off Grand Place","lat":50.8461,"lng":4.3552,"area":"Grand-Place","rating":4.2,"ratingCount":3591,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Hotel Amigo","lat":50.8462,"lng":4.3512,"area":"Grand-Place","rating":4.6,"ratingCount":3325,"stars":5,"priceTier":4},
-    {"name":"Motel One Brussels","lat":50.8487,"lng":4.3631,"area":"Grand-Place","rating":4.2,"ratingCount":2617,"stars":3,"priceTier":2},
-    {"name":"9Hotel Central","lat":50.8466,"lng":4.3592,"area":"Grand-Place","rating":4.4,"ratingCount":2255,"stars":3,"priceTier":3},
-    {"name":"Novotel Brussels City Centre","lat":50.8506,"lng":4.3498,"area":"Sainte-Catherine","rating":4.2,"ratingCount":3859,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Brussels Marriott Hotel Grand Place","lat":50.8489,"lng":4.3491,"area":"Sainte-Catherine","rating":4.1,"ratingCount":2926,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Made in Catherine","lat":50.8519,"lng":4.3487,"area":"Sainte-Catherine","rating":4.9,"ratingCount":148,"stars":3,"priceTier":3},
-    {"name":"Hotel Saint-Gery","lat":50.8479,"lng":4.3479,"area":"Sainte-Catherine","rating":4.1,"ratingCount":523,"stars":3,"priceTier":2},
-    {"name":"Sofitel Brussels Europe","lat":50.8378,"lng":4.3812,"area":"EU Quarter","rating":4.5,"ratingCount":315,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Thon Hotel EU","lat":50.844,"lng":4.3755,"area":"EU Quarter","rating":4.4,"ratingCount":2152,"stars":4,"priceTier":3},
-    {"name":"Martin's Brussels EU","lat":50.8456,"lng":4.3823,"area":"EU Quarter","rating":4,"ratingCount":996,"stars":4,"priceTier":3},
-    {"name":"Le Louise Hotel Brussels - MGallery","lat":50.8361,"lng":4.3573,"area":"Avenue Louise","rating":4.4,"ratingCount":258,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"The Hotel Brussels","lat":50.8374,"lng":4.3573,"area":"Avenue Louise","rating":4.3,"ratingCount":6323,"stars":4,"priceTier":3},
-    {"name":"Steigenberger Icon Wiltcher's","lat":50.8323,"lng":4.3576,"area":"Avenue Louise","rating":4.2,"ratingCount":2803,"stars":5,"priceTier":4},
-    {"name":"Vintage Hotel Brussels","lat":50.8335,"lng":4.3555,"area":"Avenue Louise","rating":4.3,"ratingCount":1246,"stars":3,"priceTier":3},
-    {"name":"Hygge Hotel","lat":50.8349,"lng":4.3594,"area":"Avenue Louise","rating":4,"ratingCount":409,"stars":3,"priceTier":2},
-    {"name":"Crowne Plaza Brussels Airport","lat":50.8908,"lng":4.4599,"area":"Brussels Airport","rating":4.1,"ratingCount":1269,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Sheraton Brussels Airport Hotel","lat":50.8971,"lng":4.4827,"area":"Brussels Airport","rating":3.8,"ratingCount":1898,"stars":4,"priceTier":3,"brandAnchor":true,"airportException":true}
+    {"name":"Pullman Brussels Centre Midi","lat":50.8372,"lng":4.3359,"area":"Brussels-Midi","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Radisson Hotel Brussels Centre Midi","lat":50.8353,"lng":4.3383,"area":"Brussels-Midi","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Hotel Mercure Brussels Centre Midi","lat":50.8394,"lng":4.3385,"area":"Brussels-Midi","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"MEININGER Hotel Bruxelles Gare du Midi","lat":50.8357,"lng":4.3311,"area":"Brussels-Midi","stars":2,"priceTier":2},
+    {"name":"Yooma Urban Lodge Brussels","lat":50.841,"lng":4.3387,"area":"Brussels-Midi","stars":3,"priceTier":2},
+    {"name":"Hotel Indigo Brussels - City","lat":50.8557,"lng":4.3599,"area":"Brussels-Nord","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"DoubleTree by Hilton Brussels City","lat":50.8553,"lng":4.36,"area":"Brussels-Nord","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"The Hoxton, Brussels","lat":50.8557,"lng":4.3633,"area":"Brussels-Nord","stars":4,"priceTier":3},
+    {"name":"Thon Hotel Brussels City Centre","lat":50.856,"lng":4.3573,"area":"Brussels-Nord","stars":4,"priceTier":3},
+    {"name":"nhow Brussels Bloom","lat":50.8551,"lng":4.3663,"area":"Brussels-Nord","stars":4,"priceTier":3},
+    {"name":"Hilton Brussels Grand Place","lat":50.8458,"lng":4.3559,"area":"Grand-Place","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Novotel Brussels Off Grand Place","lat":50.8461,"lng":4.3552,"area":"Grand-Place","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hotel Amigo","lat":50.8462,"lng":4.3512,"area":"Grand-Place","stars":5,"priceTier":4},
+    {"name":"Motel One Brussels","lat":50.8487,"lng":4.3631,"area":"Grand-Place","stars":3,"priceTier":2},
+    {"name":"9Hotel Central","lat":50.8466,"lng":4.3592,"area":"Grand-Place","stars":3,"priceTier":3},
+    {"name":"Novotel Brussels City Centre","lat":50.8506,"lng":4.3498,"area":"Sainte-Catherine","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Brussels Marriott Hotel Grand Place","lat":50.8489,"lng":4.3491,"area":"Sainte-Catherine","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Made in Catherine","lat":50.8519,"lng":4.3487,"area":"Sainte-Catherine","stars":3,"priceTier":3},
+    {"name":"Hotel Saint-Gery","lat":50.8479,"lng":4.3479,"area":"Sainte-Catherine","stars":3,"priceTier":2},
+    {"name":"Sofitel Brussels Europe","lat":50.8378,"lng":4.3812,"area":"EU Quarter","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Thon Hotel EU","lat":50.844,"lng":4.3755,"area":"EU Quarter","stars":4,"priceTier":3},
+    {"name":"Martin's Brussels EU","lat":50.8456,"lng":4.3823,"area":"EU Quarter","stars":4,"priceTier":3},
+    {"name":"Le Louise Hotel Brussels - MGallery","lat":50.8361,"lng":4.3573,"area":"Avenue Louise","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"The Hotel Brussels","lat":50.8374,"lng":4.3573,"area":"Avenue Louise","stars":4,"priceTier":3},
+    {"name":"Steigenberger Icon Wiltcher's","lat":50.8323,"lng":4.3576,"area":"Avenue Louise","stars":5,"priceTier":4},
+    {"name":"Vintage Hotel Brussels","lat":50.8335,"lng":4.3555,"area":"Avenue Louise","stars":3,"priceTier":3},
+    {"name":"Hygge Hotel","lat":50.8349,"lng":4.3594,"area":"Avenue Louise","stars":3,"priceTier":2},
+    {"name":"Crowne Plaza Brussels Airport","lat":50.8908,"lng":4.4599,"area":"Brussels Airport","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Sheraton Brussels Airport Hotel","lat":50.8971,"lng":4.4827,"area":"Brussels Airport","stars":4,"priceTier":3,"brandAnchor":true,"airportException":true}
   ],
   "sights": [
     {
@@ -171,16 +171,14 @@
       "lat": 50.8467,
       "lng": 4.3525,
       "note": "Brussels' guild-house square, ringed by gilded facades and the Gothic town hall; most atmospheric when lit at night.",
-      "hours": "Open 24 hours (public square)",
-      "rating": 4.7
+      "hours": "Open 24 hours (public square)"
     },
     {
       "name": "Royal Galleries of Saint-Hubert",
       "lat": 50.848,
       "lng": 4.3566,
       "note": "One of Europe's first glass-roofed arcades (1847), lined with chocolatiers, cafes and a cinema.",
-      "hours": "Arcade open 24 hours; shops ~10:00 AM-7:00 PM",
-      "rating": 4.3
+      "hours": "Arcade open 24 hours; shops ~10:00 AM-7:00 PM"
     },
     {
       "name": "Atomium",
@@ -188,7 +186,6 @@
       "lng": 4.3416,
       "note": "The 1958 World's Fair icon: nine linked steel spheres with exhibitions and a panoramic sphere at the top.",
       "hours": "10:00 AM-6:00 PM daily",
-      "rating": 3.9,
       "ticketUrl": "https://atomium.be/",
       "bookAhead": true
     },
@@ -197,8 +194,7 @@
       "lat": 50.8478,
       "lng": 4.3601,
       "note": "Brussels' Gothic cathedral with twin towers, stained glass and a free nave; the treasury and crypt charge a small fee.",
-      "hours": "~7:00 AM-6:00 PM weekdays, shorter hours weekends",
-      "rating": 4.5
+      "hours": "~7:00 AM-6:00 PM weekdays, shorter hours weekends"
     },
     {
       "name": "Mini-Europe",
@@ -206,7 +202,6 @@
       "lng": 4.3406,
       "note": "A park of 1:25 scale models of EU landmarks beside the Atomium; best with children.",
       "hours": "Seasonal: ~10:00 AM-5:00/6:00 PM, closed some winter weeks",
-      "rating": 4.1,
       "ticketUrl": "https://www.minieurope.com/en/"
     },
     {
@@ -215,7 +210,6 @@
       "lng": 4.3925,
       "note": "A large vintage-car museum under the Cinquantenaire's glass hall, from early motoring to classics.",
       "hours": "10:00 AM-5:00/6:00 PM daily (hours shift by season)",
-      "rating": 4.3,
       "ticketUrl": "https://www.autoworld.be/en/"
     },
     {
@@ -223,8 +217,7 @@
       "lat": 50.8413,
       "lng": 4.3935,
       "note": "Big landscaped park around a triumphal arch, with museums, lawns and a view to the Basilica from the arch.",
-      "hours": "Park open daily, sunrise to sunset",
-      "rating": 4.3
+      "hours": "Park open daily, sunrise to sunset"
     },
     {
       "name": "Royal Museums of Fine Arts of Belgium",
@@ -232,7 +225,6 @@
       "lng": 4.3585,
       "note": "Old Masters and Flemish painting (Bruegel, Rubens) plus the Magritte Museum in one complex.",
       "hours": "Tue-Fri 10:00 AM-5:00 PM, Sat-Sun 11:00 AM-6:00 PM, closed Mon",
-      "rating": 4.3,
       "ticketUrl": "https://www.fine-arts-museum.be/en"
     },
     {
@@ -240,8 +232,7 @@
       "lat": 50.8466,
       "lng": 4.3521,
       "note": "Gothic civic palace on the Grand Place with a 96 m spire, visited on guided tours.",
-      "hours": "Guided visits on set days; check the tourism site",
-      "rating": 4.6
+      "hours": "Guided visits on set days; check the tourism site"
     },
     {
       "name": "Musical Instruments Museum (MIM)",
@@ -249,7 +240,6 @@
       "lng": 4.3611,
       "note": "Thousands of instruments in a landmark Art Nouveau department store, with headphones that play the sounds.",
       "hours": "Tue-Fri 9:30 AM-5:00 PM, Sat-Sun 10:00 AM-5:00 PM, closed Mon",
-      "rating": 4.4,
       "ticketUrl": "https://www.mim.be/en"
     },
     {
@@ -257,8 +247,7 @@
       "lat": 50.8409,
       "lng": 4.3552,
       "note": "Flamboyant Gothic church in the antiques quarter, noted for its stained glass.",
-      "hours": "~9:00 AM-6:00 PM daily (free)",
-      "rating": 4.4
+      "hours": "~9:00 AM-6:00 PM daily (free)"
     },
     {
       "name": "Museum of Natural Sciences",
@@ -266,24 +255,15 @@
       "lng": 4.3815,
       "note": "Europe's biggest dinosaur gallery, with Iguanodon skeletons found in Belgium.",
       "hours": "Tue-Fri 9:30 AM-5:00 PM, Sat-Sun 10:00 AM-6:00 PM, closed Mon",
-      "rating": 4.4,
       "ticketUrl": "https://www.naturalsciences.be/en"
     },
-    {
-      "name": "Mont des Arts",
-      "lat": 50.8444,
-      "lng": 4.3575,
-      "note": "Terraced gardens between Central Station and the museum district with a good free city view.",
-      "hours": "Open 24 hours (public garden)",
-      "rating": 4.4
-    },
+    {"name":"Mont des Arts","lat":50.8444,"lng":4.3575,"note":"Terraced gardens between Central Station and the museum district with a good free city view.","hours":"Open 24 hours (public garden)"},
     {
       "name": "Cantillon Brewery",
       "lat": 50.8417,
       "lng": 4.3345,
       "note": "A working lambic brewery and museum where you taste spontaneously fermented gueuze.",
       "hours": "~10:00 AM-5:00 PM, closed Sun and some other days; check site",
-      "rating": 4.4,
       "ticketUrl": "https://cantillon.be/"
     },
     {
@@ -291,25 +271,22 @@
       "lat": 50.8418,
       "lng": 4.3622,
       "note": "The monarchy's official palace facing Brussels Park; open to visitors only in summer, free.",
-      "hours": "Open to visitors ~late July to early Sept, Tue-Sun 10:30 AM-4:30 PM; closed rest of year",
-      "rating": 4.2
+      "hours": "Open to visitors ~late July to early Sept, Tue-Sun 10:30 AM-4:30 PM; closed rest of year"
     },
-    {"name":"Manneken Pis","lat":50.845,"lng":4.3499,"note":"The tiny bronze fountain boy, famous for his many costumes; a quick photo stop.","hours":"Open 24 hours (street fountain)","rating":3.3},
+    {"name":"Manneken Pis","lat":50.845,"lng":4.3499,"note":"The tiny bronze fountain boy, famous for his many costumes; a quick photo stop.","hours":"Open 24 hours (street fountain)"},
     {
       "name": "Place du Jeu de Balle flea market",
       "lat": 50.8368,
       "lng": 4.3473,
       "note": "Daily flea market in the Marolles, local-flavor browsing among antiques and bric-a-brac.",
-      "hours": "Daily ~6:00 AM-2:00 PM",
-      "rating": 4.2
+      "hours": "Daily ~6:00 AM-2:00 PM"
     },
     {
       "name": "Place Poelaert viewpoint",
       "lat": 50.8366,
       "lng": 4.3518,
       "note": "Free terrace in front of the Law Courts with a broad view across the lower town to the Atomium.",
-      "hours": "Open 24 hours (public terrace)",
-      "rating": 4.4
+      "hours": "Open 24 hours (public terrace)"
     }
   ],
   "railStations": [

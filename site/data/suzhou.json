@@ -393,8 +393,6 @@
       "lat": 31.3352,
       "lng": 120.6073,
       "area": "Suzhou Railway Station",
-      "rating": 4.6,
-      "ratingCount": 1464,
       "stars": 4,
       "priceTier": 2,
       "ratingSource": "Trip.com",
@@ -405,79 +403,41 @@
       "lat": 31.3107,
       "lng": 120.6312,
       "area": "Guanqian Street & Pingjiang Road",
-      "rating": 4.8,
-      "ratingCount": 7842,
       "stars": 4,
       "priceTier": 3,
       "brandAnchor": true,
       "ratingSource": "Trip.com",
       "tripUrl": "https://www.trip.com/hotels/detail/?hotelId=64962190"
     },
-    {"name":"ARULA Youngor Central Hotel","lat":31.3115,"lng":120.6222,"area":"Guanqian Street & Pingjiang Road","rating":4.8,"ratingCount":3389,"stars":4,"priceTier":3,"ratingSource":"Trip.com"},
-    {
-      "name": "JI Hotel (Suzhou Guanqian Pedestrian Street)",
-      "lat": 31.3124,
-      "lng": 120.6253,
-      "area": "Guanqian Street & Pingjiang Road",
-      "rating": 4.7,
-      "ratingCount": 5783,
-      "stars": 3,
-      "priceTier": 2,
-      "ratingSource": "Trip.com"
-    },
-    {
-      "name": "Pan Pacific Suzhou",
-      "lat": 31.2926,
-      "lng": 120.6127,
-      "area": "Pan Gate",
-      "rating": 4.7,
-      "ratingCount": 12193,
-      "stars": 5,
-      "priceTier": 3,
-      "ratingSource": "Trip.com",
-      "tripUrl": "https://www.trip.com/hotels/detail/?hotelId=346290"
-    },
-    {
-      "name": "The Ritz-Carlton, Suzhou",
-      "lat": 31.3136,
-      "lng": 120.5932,
-      "area": "Shantang Street & Shilu",
-      "rating": 4.6,
-      "ratingCount": 686,
-      "stars": 5,
-      "priceTier": 4,
-      "brandAnchor": true,
-      "ratingSource": "Trip.com"
-    },
-    {"name":"W Suzhou","lat":31.3157,"lng":120.6752,"area":"Jinji Lake West","rating":4.7,"ratingCount":7187,"stars":5,"priceTier":4,"brandAnchor":true,"ratingSource":"Trip.com"},
+    {"name":"ARULA Youngor Central Hotel","lat":31.3115,"lng":120.6222,"area":"Guanqian Street & Pingjiang Road","stars":4,"priceTier":3,"ratingSource":"Trip.com"},
+    {"name":"JI Hotel (Suzhou Guanqian Pedestrian Street)","lat":31.3124,"lng":120.6253,"area":"Guanqian Street & Pingjiang Road","stars":3,"priceTier":2,"ratingSource":"Trip.com"},
+    {"name":"Pan Pacific Suzhou","lat":31.2926,"lng":120.6127,"area":"Pan Gate","stars":5,"priceTier":3,"ratingSource":"Trip.com","tripUrl":"https://www.trip.com/hotels/detail/?hotelId=346290"},
+    {"name":"The Ritz-Carlton, Suzhou","lat":31.3136,"lng":120.5932,"area":"Shantang Street & Shilu","stars":5,"priceTier":4,"brandAnchor":true,"ratingSource":"Trip.com"},
+    {"name":"W Suzhou","lat":31.3157,"lng":120.6752,"area":"Jinji Lake West","stars":5,"priceTier":4,"brandAnchor":true,"ratingSource":"Trip.com"},
     {
       "name": "Crowne Plaza Suzhou",
       "lat": 31.3242,
       "lng": 120.6783,
       "area": "Jinji Lake West",
-      "rating": 4.8,
-      "ratingCount": 12966,
       "stars": 5,
       "priceTier": 3,
       "brandAnchor": true,
       "ratingSource": "Trip.com",
       "tripUrl": "https://www.trip.com/hotels/detail/?hotelId=369735"
     },
-    {"name":"Hyatt Regency Suzhou","lat":31.326,"lng":120.7094,"area":"Jinji Lake East","rating":4.8,"ratingCount":8496,"stars":5,"priceTier":3,"brandAnchor":true,"ratingSource":"Trip.com"},
+    {"name":"Hyatt Regency Suzhou","lat":31.326,"lng":120.7094,"area":"Jinji Lake East","stars":5,"priceTier":3,"brandAnchor":true,"ratingSource":"Trip.com"},
     {
       "name": "InterContinental Suzhou",
       "lat": 31.3213,
       "lng": 120.7058,
       "area": "Jinji Lake East",
-      "rating": 4.8,
-      "ratingCount": 12470,
       "stars": 5,
       "priceTier": 4,
       "brandAnchor": true,
       "ratingSource": "Trip.com",
       "tripUrl": "https://www.trip.com/hotels/detail/?hotelId=345041"
     },
-    {"name":"Niccolo Suzhou","lat":31.3243,"lng":120.7125,"area":"Jinji Lake East","rating":4.7,"ratingCount":9039,"stars":5,"priceTier":4,"ratingSource":"Trip.com"}
+    {"name":"Niccolo Suzhou","lat":31.3243,"lng":120.7125,"area":"Jinji Lake East","stars":5,"priceTier":4,"ratingSource":"Trip.com"}
   ],
   "sights": [
     {
@@ -486,7 +446,6 @@
       "lng": 120.626,
       "note": "The largest and most celebrated of Suzhou's UNESCO-listed classical gardens: Ming-era pavilions, lotus ponds and winding corridors spread across about 5 hectares; arrive at opening to beat the tour groups.",
       "hours": "~7:30 AM–5:30 PM (Mar–Oct); closes ~1 h earlier in winter",
-      "rating": 4.3,
       "bookAhead": true
     },
     {
@@ -495,7 +454,6 @@
       "lng": 120.6235,
       "note": "I. M. Pei's white-walled, grey-roofed museum next to the Humble Administrator's Garden, as much a modern take on a Suzhou garden as a home for Wu-region ceramics, jade and paintings; entry is free but must be reserved with your passport.",
       "hours": "9:00 AM–5:00 PM, closed Mondays",
-      "rating": 4.4,
       "ticketUrl": "https://www.szmuseum.com/",
       "bookAhead": true
     },
@@ -504,120 +462,105 @@
       "lat": 31.3228,
       "lng": 120.625,
       "note": "A Yuan-dynasty garden famous for its labyrinth of contorted Taihu rocks, said to look like lions, which you clamber through on twisting paths.",
-      "hours": "~7:30 AM–5:30 PM (Mar–Oct); closes earlier in winter",
-      "rating": 4.3
+      "hours": "~7:30 AM–5:30 PM (Mar–Oct); closes earlier in winter"
     },
     {
       "name": "Pingjiang Road",
       "lat": 31.317,
       "lng": 120.6315,
       "note": "A car-free canal-side lane in the old town lined with whitewashed houses, teahouses, pingtan storytelling halls and snack shops; lovely at dusk when the lanterns come on.",
-      "hours": "Street open 24 h; shops ~9:00 AM–10:00 PM",
-      "rating": 4.3
+      "hours": "Street open 24 h; shops ~9:00 AM–10:00 PM"
     },
     {
       "name": "Lingering Garden",
       "lat": 31.3177,
       "lng": 120.5884,
       "note": "A UNESCO-listed garden west of the old town known for its long painted corridors, framed windows and the towering Guanyun Peak rock.",
-      "hours": "~7:30 AM–5:30 PM (Mar–Oct); closes earlier in winter",
-      "rating": 4.4
+      "hours": "~7:30 AM–5:30 PM (Mar–Oct); closes earlier in winter"
     },
     {
       "name": "Master-of-Nets Garden",
       "lat": 31.3005,
       "lng": 120.63,
       "note": "The smallest of the great gardens and arguably the most perfect, a scholar's home arranged around one pond; in season an evening programme stages music and opera in its halls.",
-      "hours": "~7:30 AM–5:30 PM (Mar–Oct), earlier close in winter; night tours on some evenings in season",
-      "rating": 4.4
+      "hours": "~7:30 AM–5:30 PM (Mar–Oct), earlier close in winter; night tours on some evenings in season"
     },
     {
       "name": "Tiger Hill (Yunyan Pagoda)",
       "lat": 31.3374,
       "lng": 120.5746,
       "note": "A wooded hill north-west of the centre crowned by the 10th-century Yunyan Pagoda, which leans noticeably; the Sword Pool and legends of King Helü's tomb add to the climb.",
-      "hours": "~7:30 AM–5:30 PM (closes ~5:00 PM in winter)",
-      "rating": 4.3
+      "hours": "~7:30 AM–5:30 PM (closes ~5:00 PM in winter)"
     },
     {
       "name": "Shantang Street",
       "lat": 31.3205,
       "lng": 120.6015,
       "note": "A Tang-dynasty canal street running from Changmen gate towards Tiger Hill; the restored eastern stretch is packed with snack stalls, shops and boat rides, and is busiest after dark.",
-      "hours": "Street open 24 h; shops and boats ~9:00 AM–10:00 PM",
-      "rating": 4.2
+      "hours": "Street open 24 h; shops and boats ~9:00 AM–10:00 PM"
     },
     {
       "name": "Jinji Lake",
       "lat": 31.312,
       "lng": 120.683,
       "note": "The big lake at the heart of Suzhou Industrial Park, ringed by skyscrapers such as the Gate of the Orient, with free lakeside promenades, a Ferris wheel and an evening music fountain.",
-      "hours": "Promenades open 24 h",
-      "rating": 4.3
+      "hours": "Promenades open 24 h"
     },
     {
       "name": "Panmen Gate",
       "lat": 31.2894,
       "lng": 120.6115,
       "note": "The only surviving water-and-land gate of the old city wall, in the south-west corner of the moat, with the arched Wumen Bridge and Ruiguang Pagoda beside it.",
-      "hours": "~7:30 AM–5:30 PM (closes ~5:00 PM in winter)",
-      "rating": 4.3
+      "hours": "~7:30 AM–5:30 PM (closes ~5:00 PM in winter)"
     },
     {
       "name": "Hanshan Temple",
       "lat": 31.3124,
       "lng": 120.5648,
       "note": "A Buddhist temple by the Grand Canal made famous by a Tang poem about its midnight bell; the yellow walls, bell tower and canal-side Fengqiao bridge are the draws.",
-      "hours": "~7:30 AM–5:00 PM",
-      "rating": 4
+      "hours": "~7:30 AM–5:00 PM"
     },
     {
       "name": "Canglang Pavilion",
       "lat": 31.297,
       "lng": 120.6211,
       "note": "Suzhou's oldest surviving garden, from the Song dynasty, quieter than the famous ones and unusual for borrowing views of the canal outside its walls.",
-      "hours": "~7:30 AM–5:30 PM (Mar–Oct); closes earlier in winter",
-      "rating": 4.3
+      "hours": "~7:30 AM–5:30 PM (Mar–Oct); closes earlier in winter"
     },
     {
       "name": "Couple's Retreat Garden (Ouyuan)",
       "lat": 31.3183,
       "lng": 120.6345,
       "note": "A compact garden built around twin halves for a husband and wife, tucked down a canal lane just east of Pingjiang Road and easy to combine with it.",
-      "hours": "~7:30 AM–5:30 PM (Mar–Oct); closes earlier in winter",
-      "rating": 4.2
+      "hours": "~7:30 AM–5:30 PM (Mar–Oct); closes earlier in winter"
     },
     {
       "name": "West Garden Temple (Xiyuan)",
       "lat": 31.317,
       "lng": 120.5843,
       "note": "A working Buddhist monastery a short walk west of the Lingering Garden, known for its hall of 500 arhat statues and a pond of giant turtles.",
-      "hours": "~8:00 AM–5:00 PM",
-      "rating": 4.5
+      "hours": "~8:00 AM–5:00 PM"
     },
     {
       "name": "Suzhou Silk Museum",
       "lat": 31.3238,
       "lng": 120.6158,
       "note": "A small museum on Renmin Road tracing Suzhou's silk-making from silkworms to looms, with working weavers on some days; free entry.",
-      "hours": "9:00 AM–5:00 PM, closed Mondays",
-      "rating": 3.9
+      "hours": "9:00 AM–5:00 PM, closed Mondays"
     },
     {
       "name": "Tongli Ancient Town",
       "lat": 31.161,
       "lng": 120.717,
       "note": "A canal water town about 20 km south-east of the centre with stone bridges, boat rides and the UNESCO-listed Tuisi (Retreat and Reflection) Garden; reachable on Metro Line 4 to Tongli then a short taxi or walk.",
-      "hours": "Town ~8:00 AM–5:30 PM for the ticketed sights; lanes open later",
-      "rating": 4.3
+      "hours": "Town ~8:00 AM–5:30 PM for the ticketed sights; lanes open later"
     },
     {
       "name": "Xuanmiao Taoist Temple and Guanqian Street",
       "lat": 31.312,
       "lng": 120.6235,
       "note": "A large Song-era Taoist temple set right on Guanqian Street, the old town's pedestrian shopping and snack street, a good place to try Suzhou noodles and sweet treats.",
-      "hours": "Temple ~7:30 AM–4:45 PM; street open late",
-      "rating": 3.9
+      "hours": "Temple ~7:30 AM–4:45 PM; street open late"
     }
   ],
   "railStations": [

@@ -311,34 +311,24 @@
     }
   ],
   "hotels": [
-    {
-      "name": "Courtyard by Marriott Mexico City Airport",
-      "lat": 19.4369,
-      "lng": -99.0822,
-      "area": "Mexico City International Airport",
-      "rating": 4.7,
-      "ratingCount": 2613,
-      "stars": 4,
-      "priceTier": 3,
-      "brandAnchor": true
-    },
-    {"name":"NH Collection Mexico City Airport T2","lat":19.4219,"lng":-99.0771,"area":"Mexico City International Airport","rating":4,"ratingCount":2659,"stars":4,"priceTier":3},
-    {"name":"Hampton Inn & Suites Mexico City - Centro Historico","lat":19.43,"lng":-99.1346,"area":"Centro Histórico","rating":4.4,"ratingCount":2947,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"Gran Hotel Ciudad de México","lat":19.4323,"lng":-99.1347,"area":"Centro Histórico","rating":4.9,"ratingCount":8310,"stars":5,"priceTier":4},
-    {"name":"Hotel Zócalo Central","lat":19.4338,"lng":-99.1343,"area":"Centro Histórico","rating":4.7,"ratingCount":3590,"stars":4,"priceTier":3},
-    {"name":"Hotel Catedral","lat":19.4358,"lng":-99.1331,"area":"Centro Histórico","rating":4.6,"ratingCount":2751,"stars":3,"priceTier":2},
-    {"name":"Mexico City Hostel","lat":19.4356,"lng":-99.1336,"area":"Centro Histórico","rating":4,"ratingCount":468,"stars":1,"priceTier":1},
-    {"name":"Sofitel Mexico City Reforma","lat":19.4287,"lng":-99.166,"area":"Zona Rosa","rating":4.9,"ratingCount":3151,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Hotel Geneve Mexico City","lat":19.4249,"lng":-99.1641,"area":"Zona Rosa","rating":4.2,"ratingCount":1526,"stars":4,"priceTier":3},
-    {"name":"NH Collection Mexico City Reforma","lat":19.4243,"lng":-99.165,"area":"Zona Rosa","rating":4.2,"ratingCount":1808,"stars":4,"priceTier":3},
-    {"name":"Holiday Inn Express Mexico Reforma by IHG","lat":19.4292,"lng":-99.1615,"area":"Zona Rosa","rating":4,"ratingCount":589,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"Hotel del Principado","lat":19.4272,"lng":-99.1597,"area":"Zona Rosa","rating":4.1,"ratingCount":543,"stars":3,"priceTier":2},
-    {"name":"Hyatt Regency Mexico City","lat":19.4272,"lng":-99.1928,"area":"Polanco","rating":4.5,"ratingCount":3781,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"InterContinental Presidente Mexico City by IHG","lat":19.4273,"lng":-99.1936,"area":"Polanco","rating":4.2,"ratingCount":2128,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Las Alcobas, a Luxury Collection Hotel, Mexico City","lat":19.4316,"lng":-99.1978,"area":"Polanco","rating":4.8,"ratingCount":853,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Dominion Polanco","lat":19.4288,"lng":-99.1938,"area":"Polanco","rating":4.5,"ratingCount":130,"stars":5,"priceTier":4},
-    {"name":"Hotel Villa Condesa","lat":19.4169,"lng":-99.1726,"area":"Condesa","rating":4.7,"ratingCount":519,"stars":3,"priceTier":3},
-    {"name":"María Condesa Boutique Hotel","lat":19.4104,"lng":-99.1756,"area":"Condesa","rating":4.3,"ratingCount":529,"stars":4,"priceTier":3}
+    {"name":"Courtyard by Marriott Mexico City Airport","lat":19.4369,"lng":-99.0822,"area":"Mexico City International Airport","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"NH Collection Mexico City Airport T2","lat":19.4219,"lng":-99.0771,"area":"Mexico City International Airport","stars":4,"priceTier":3},
+    {"name":"Hampton Inn & Suites Mexico City - Centro Historico","lat":19.43,"lng":-99.1346,"area":"Centro Histórico","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Gran Hotel Ciudad de México","lat":19.4323,"lng":-99.1347,"area":"Centro Histórico","stars":5,"priceTier":4},
+    {"name":"Hotel Zócalo Central","lat":19.4338,"lng":-99.1343,"area":"Centro Histórico","stars":4,"priceTier":3},
+    {"name":"Hotel Catedral","lat":19.4358,"lng":-99.1331,"area":"Centro Histórico","stars":3,"priceTier":2},
+    {"name":"Mexico City Hostel","lat":19.4356,"lng":-99.1336,"area":"Centro Histórico","stars":1,"priceTier":1},
+    {"name":"Sofitel Mexico City Reforma","lat":19.4287,"lng":-99.166,"area":"Zona Rosa","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Hotel Geneve Mexico City","lat":19.4249,"lng":-99.1641,"area":"Zona Rosa","stars":4,"priceTier":3},
+    {"name":"NH Collection Mexico City Reforma","lat":19.4243,"lng":-99.165,"area":"Zona Rosa","stars":4,"priceTier":3},
+    {"name":"Holiday Inn Express Mexico Reforma by IHG","lat":19.4292,"lng":-99.1615,"area":"Zona Rosa","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Hotel del Principado","lat":19.4272,"lng":-99.1597,"area":"Zona Rosa","stars":3,"priceTier":2},
+    {"name":"Hyatt Regency Mexico City","lat":19.4272,"lng":-99.1928,"area":"Polanco","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"InterContinental Presidente Mexico City by IHG","lat":19.4273,"lng":-99.1936,"area":"Polanco","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Las Alcobas, a Luxury Collection Hotel, Mexico City","lat":19.4316,"lng":-99.1978,"area":"Polanco","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Dominion Polanco","lat":19.4288,"lng":-99.1938,"area":"Polanco","stars":5,"priceTier":4},
+    {"name":"Hotel Villa Condesa","lat":19.4169,"lng":-99.1726,"area":"Condesa","stars":3,"priceTier":3},
+    {"name":"María Condesa Boutique Hotel","lat":19.4104,"lng":-99.1756,"area":"Condesa","stars":4,"priceTier":3}
   ],
   "sights": [
     {
@@ -347,7 +337,6 @@
       "lng": -99.1863,
       "note": "Mexico's great archaeology museum, home to the Aztec Sun Stone and halls on every major pre-Hispanic culture; allow at least half a day.",
       "hours": "9:00 AM–6:00 PM, closed Mon",
-      "rating": 4.8,
       "ticketUrl": "https://www.mna.inah.gob.mx"
     },
     {
@@ -356,7 +345,6 @@
       "lng": -99.1815,
       "note": "Hilltop 18th-century castle, once home to Emperor Maximilian, now the National History Museum with murals and city views; a 15-minute uphill walk through Chapultepec Park.",
       "hours": "9:00 AM–5:00 PM, closed Mon",
-      "rating": 4.7,
       "ticketUrl": "https://mnh.inah.gob.mx"
     },
     {
@@ -365,7 +353,6 @@
       "lng": -99.1413,
       "note": "Art Nouveau and Art Deco palace with murals by Rivera, Orozco and Siqueiros; the Ballet Folklórico de México performs here on Wednesday and Sunday.",
       "hours": "Museum 10:00 AM–6:00 PM, closed Mon; Ballet Folklórico Wed 8:30 PM, Sun 9:30 AM & 8:30 PM",
-      "rating": 4.7,
       "ticketUrl": "https://museopalaciodebellasartes.gob.mx"
     },
     {
@@ -373,8 +360,7 @@
       "lat": 19.4848,
       "lng": -99.1176,
       "note": "The world's most-visited Catholic shrine, holding the image of the Virgin of Guadalupe, with the leaning old basilica beside the modern round one. Free.",
-      "hours": "~6:00 AM–9:00 PM daily",
-      "rating": 4.6
+      "hours": "~6:00 AM–9:00 PM daily"
     },
     {
       "name": "Frida Kahlo Museum",
@@ -382,7 +368,6 @@
       "lng": -99.1624,
       "note": "The Casa Azul in Coyoacán where Frida Kahlo was born and lived, with her studio, garden and personal belongings. Tickets are sold online only and sell out days ahead.",
       "hours": "10:00 AM–6:00 PM (Wed from 11:00 AM), closed Mon",
-      "rating": 4.5,
       "ticketUrl": "https://www.museofridakahlo.org.mx",
       "bookAhead": true
     },
@@ -391,16 +376,14 @@
       "lat": 19.3497,
       "lng": -99.1625,
       "note": "Colonial-era village turned neighbourhood, centred on the Jardín Centenario and Coyote fountain, with cafés, churros and weekend crowds.",
-      "hours": "Open 24 hours; liveliest on weekend afternoons",
-      "rating": 4.6
+      "hours": "Open 24 hours; liveliest on weekend afternoons"
     },
     {
       "name": "Zócalo",
       "lat": 19.4326,
       "lng": -99.1332,
       "note": "One of the world's largest public squares, framed by the cathedral and the National Palace; the giant flag is raised each morning and lowered each evening.",
-      "hours": "Open 24 hours; often partly closed for concerts, protests and events",
-      "rating": 4.5
+      "hours": "Open 24 hours; often partly closed for concerts, protests and events"
     },
     {
       "name": "Templo Mayor Museum",
@@ -408,7 +391,6 @@
       "lng": -99.1317,
       "note": "Excavated ruins of the Aztec capital's main temple right off the Zócalo, plus a museum of the offerings and sculpture found on site.",
       "hours": "9:00 AM–5:00 PM, closed Mon",
-      "rating": 4.6,
       "ticketUrl": "https://www.templomayor.inah.gob.mx"
     },
     {
@@ -416,8 +398,7 @@
       "lat": 19.4296,
       "lng": -99.148,
       "note": "A large covered market of handicrafts from across Mexico, from textiles and ceramics to alebrijes and silver, at fair prices.",
-      "hours": "~10:00 AM–7:00 PM daily (Sun to ~6:00 PM)",
-      "rating": 4.4
+      "hours": "~10:00 AM–7:00 PM daily (Sun to ~6:00 PM)"
     },
     {
       "name": "Museo Soumaya",
@@ -425,7 +406,6 @@
       "lng": -99.2046,
       "note": "Carlos Slim's free art museum in a shimmering hexagon-tiled building, best known for its large Rodin collection.",
       "hours": "10:30 AM–6:30 PM daily",
-      "rating": 4.5,
       "ticketUrl": "https://www.museosoumaya.org"
     },
     {
@@ -433,40 +413,35 @@
       "lat": 19.427,
       "lng": -99.1677,
       "note": "The city's grand tree-lined boulevard of monuments, best seen at the golden Angel of Independence; on Sunday mornings it closes to cars for cyclists and walkers.",
-      "hours": "Open 24 hours; car-free cycling Sun ~8:00 AM–2:00 PM",
-      "rating": 4.6
+      "hours": "Open 24 hours; car-free cycling Sun ~8:00 AM–2:00 PM"
     },
     {
       "name": "Metropolitan Cathedral",
       "lat": 19.4345,
       "lng": -99.1332,
       "note": "The largest cathedral in the Americas, built over nearly 250 years on the Zócalo's north side, with ornate gilded altarpieces. Free.",
-      "hours": "~8:00 AM–8:00 PM daily (visits limited during Mass)",
-      "rating": 4.6
+      "hours": "~8:00 AM–8:00 PM daily (visits limited during Mass)"
     },
     {
       "name": "Biblioteca Vasconcelos",
       "lat": 19.4474,
       "lng": -99.1527,
       "note": "A striking modern library of suspended steel bookshelves and a whale skeleton sculpture, beside Buenavista station. Free.",
-      "hours": "8:30 AM–7:30 PM daily",
-      "rating": 4.6
+      "hours": "8:30 AM–7:30 PM daily"
     },
     {
       "name": "National Palace",
       "lat": 19.4325,
       "lng": -99.1312,
       "note": "The seat of government on the Zócalo's east side, famous for Diego Rivera's sweeping murals of Mexican history. Free; bring photo ID.",
-      "hours": "~9:00 AM–5:00 PM, closed Mon; access is often restricted or closed at short notice for state events",
-      "rating": 4.6
+      "hours": "~9:00 AM–5:00 PM, closed Mon; access is often restricted or closed at short notice for state events"
     },
     {
       "name": "Diego Rivera Murals at the Ministry of Education",
       "lat": 19.4362,
       "lng": -99.1323,
       "note": "More than 200 Diego Rivera mural panels covering the courtyards of the Public Education ministry, a few blocks north of the Zócalo. Free; photo ID needed.",
-      "hours": "~9:00 AM–5:00 PM weekdays; check before going",
-      "rating": 4.8
+      "hours": "~9:00 AM–5:00 PM weekdays; check before going"
     },
     {
       "name": "Arena México",
@@ -474,7 +449,6 @@
       "lng": -99.1519,
       "note": "The 'cathedral of lucha libre', where masked wrestlers fight before a loud, family-friendly crowd several nights a week.",
       "hours": "Shows usually Tue 7:30 PM, Fri 8:30 PM, Sun 5:00 PM",
-      "rating": 4.5,
       "ticketUrl": "https://cmll.com"
     },
     {
@@ -482,16 +456,14 @@
       "lat": 19.3528,
       "lng": -99.1617,
       "note": "A busy neighbourhood food market near the Frida Kahlo Museum, known for its tostadas stalls, fresh juices and crafts.",
-      "hours": "~8:00 AM–6:00 PM daily",
-      "rating": 4.4
+      "hours": "~8:00 AM–6:00 PM daily"
     },
     {
       "name": "Torre Latinoamericana Viewpoint",
       "lat": 19.4339,
       "lng": -99.1406,
       "note": "Observation deck on the 44th floor of the 1956 skyscraper beside Bellas Artes, with a 360° view over the city; go at sunset.",
-      "hours": "~9:00 AM–10:00 PM daily",
-      "rating": 4.2
+      "hours": "~9:00 AM–10:00 PM daily"
     }
   ],
   "railStations": [],

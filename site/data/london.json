@@ -131,34 +131,25 @@
     }
   ],
   "hotels": [
-    {"name":"The Waldorf Hilton, London","lat":51.5125,"lng":-0.119,"area":"Covent Garden","rating":4.4,"stars":4,"priceTier":4,"phone":"+44 20 7836 2400"},
-    {"name":"Covent Garden Hotel","lat":51.5146,"lng":-0.1271,"area":"Covent Garden","rating":4.6,"stars":5,"priceTier":4,"phone":"+44 20 7806 1000"},
-    {"name":"Zedwell Piccadilly Circus","lat":51.5105,"lng":-0.1335,"area":"Covent Garden","rating":4,"stars":3,"priceTier":2,"phone":"+44 20 7096 5414"},
-    {"name":"The Z Hotel Covent Garden","lat":51.511,"lng":-0.1245,"area":"Covent Garden","rating":4.3,"stars":2,"priceTier":2,"phone":"+44 20 3837 6304"},
-    {"name":"The Kensington Hotel","lat":51.4925,"lng":-0.178,"area":"South Kensington","rating":4.6,"stars":5,"priceTier":4,"phone":"+44 20 7589 6300"},
-    {
-      "name": "100 Queen's Gate Hotel London Kensington, Curio Collection by Hilton",
-      "lat": 51.4924,
-      "lng": -0.1786,
-      "area": "South Kensington",
-      "rating": 4.2,
-      "stars": 4,
-      "priceTier": 3,
-      "phone": "+44 20 7373 7878"
-    },
-    {"name":"Radisson Blu Hotel, London South Kensington","lat":51.4954,"lng":-0.1819,"area":"South Kensington","rating":4,"stars":3,"priceTier":3,"phone":"+44 20 7761 9000"},
-    {"name":"St. Pancras London, Autograph Collection","lat":51.5297,"lng":-0.1259,"area":"King's Cross St Pancras","rating":4.4,"stars":5,"priceTier":4,"phone":"+44 20 7841 3540"},
-    {"name":"The Megaro Hotel","lat":51.5298,"lng":-0.1238,"area":"King's Cross St Pancras","rating":4.3,"stars":4,"priceTier":3,"phone":"+44 20 7843 2222"},
-    {"name":"Premier Inn London Kings Cross hotel","lat":51.5319,"lng":-0.1222,"area":"King's Cross St Pancras","rating":4.2,"stars":3,"priceTier":2,"phone":"+44 333 321 1272"},
-    {"name":"Hilton London Paddington","lat":51.5157,"lng":-0.1759,"area":"Paddington","rating":4,"stars":4,"priceTier":3,"phone":"+44 20 7850 0500"},
-    {"name":"hub by Premier Inn London Paddington hotel","lat":51.5158,"lng":-0.1778,"area":"Paddington","rating":4.4,"stars":2,"priceTier":2,"phone":"+44 20 3297 8925"},
-    {"name":"Premier Inn London Heathrow Airport Terminal 4 hotel","lat":51.4597,"lng":-0.4397,"area":"Heathrow Airport","rating":4.3,"stars":3,"priceTier":2,"phone":null},
-    {"name":"Courtyard by Marriott London Heathrow Airport","lat":51.4811,"lng":-0.4328,"area":"Heathrow Airport","rating":4.2,"stars":4,"priceTier":3,"phone":"+44 20 3988 5000"},
-    {"name":"Premier Inn London Heathrow Airport T2 & T3 (Bath Road) hotel","lat":51.4802,"lng":-0.4246,"area":"Heathrow Airport","rating":4.2,"stars":3,"priceTier":2,"phone":"+44 871 527 8508"},
-    {"name":"Holiday Inn Express, London Heathrow T5","lat":51.4891,"lng":-0.5363,"area":"Heathrow Airport","rating":4,"stars":3,"priceTier":2,"phone":"+44 1753 684001"},
-    {"name":"Sofitel London Gatwick","lat":51.1609,"lng":-0.174,"area":"Gatwick Airport","rating":4.4,"stars":5,"priceTier":4,"phone":"+44 1293 567070"},
-    {"name":"Holiday Inn London - Gatwick Airport","lat":51.1684,"lng":-0.1808,"area":"Gatwick Airport","rating":4.3,"stars":3,"priceTier":3,"phone":"+44 1293 907900"},
-    {"name":"Crowne Plaza London - Gatwick Airport","lat":51.1257,"lng":-0.1896,"area":"Gatwick Airport","rating":4,"stars":4,"priceTier":3,"phone":"+44 1293 608608"}
+    {"name":"The Waldorf Hilton, London","lat":51.5125,"lng":-0.119,"area":"Covent Garden","stars":4,"priceTier":4,"phone":"+44 20 7836 2400"},
+    {"name":"Covent Garden Hotel","lat":51.5146,"lng":-0.1271,"area":"Covent Garden","stars":5,"priceTier":4,"phone":"+44 20 7806 1000"},
+    {"name":"Zedwell Piccadilly Circus","lat":51.5105,"lng":-0.1335,"area":"Covent Garden","stars":3,"priceTier":2,"phone":"+44 20 7096 5414"},
+    {"name":"The Z Hotel Covent Garden","lat":51.511,"lng":-0.1245,"area":"Covent Garden","stars":2,"priceTier":2,"phone":"+44 20 3837 6304"},
+    {"name":"The Kensington Hotel","lat":51.4925,"lng":-0.178,"area":"South Kensington","stars":5,"priceTier":4,"phone":"+44 20 7589 6300"},
+    {"name":"100 Queen's Gate Hotel London Kensington, Curio Collection by Hilton","lat":51.4924,"lng":-0.1786,"area":"South Kensington","stars":4,"priceTier":3,"phone":"+44 20 7373 7878"},
+    {"name":"Radisson Blu Hotel, London South Kensington","lat":51.4954,"lng":-0.1819,"area":"South Kensington","stars":3,"priceTier":3,"phone":"+44 20 7761 9000"},
+    {"name":"St. Pancras London, Autograph Collection","lat":51.5297,"lng":-0.1259,"area":"King's Cross St Pancras","stars":5,"priceTier":4,"phone":"+44 20 7841 3540"},
+    {"name":"The Megaro Hotel","lat":51.5298,"lng":-0.1238,"area":"King's Cross St Pancras","stars":4,"priceTier":3,"phone":"+44 20 7843 2222"},
+    {"name":"Premier Inn London Kings Cross hotel","lat":51.5319,"lng":-0.1222,"area":"King's Cross St Pancras","stars":3,"priceTier":2,"phone":"+44 333 321 1272"},
+    {"name":"Hilton London Paddington","lat":51.5157,"lng":-0.1759,"area":"Paddington","stars":4,"priceTier":3,"phone":"+44 20 7850 0500"},
+    {"name":"hub by Premier Inn London Paddington hotel","lat":51.5158,"lng":-0.1778,"area":"Paddington","stars":2,"priceTier":2,"phone":"+44 20 3297 8925"},
+    {"name":"Premier Inn London Heathrow Airport Terminal 4 hotel","lat":51.4597,"lng":-0.4397,"area":"Heathrow Airport","stars":3,"priceTier":2,"phone":null},
+    {"name":"Courtyard by Marriott London Heathrow Airport","lat":51.4811,"lng":-0.4328,"area":"Heathrow Airport","stars":4,"priceTier":3,"phone":"+44 20 3988 5000"},
+    {"name":"Premier Inn London Heathrow Airport T2 & T3 (Bath Road) hotel","lat":51.4802,"lng":-0.4246,"area":"Heathrow Airport","stars":3,"priceTier":2,"phone":"+44 871 527 8508"},
+    {"name":"Holiday Inn Express, London Heathrow T5","lat":51.4891,"lng":-0.5363,"area":"Heathrow Airport","stars":3,"priceTier":2,"phone":"+44 1753 684001"},
+    {"name":"Sofitel London Gatwick","lat":51.1609,"lng":-0.174,"area":"Gatwick Airport","stars":5,"priceTier":4,"phone":"+44 1293 567070"},
+    {"name":"Holiday Inn London - Gatwick Airport","lat":51.1684,"lng":-0.1808,"area":"Gatwick Airport","stars":3,"priceTier":3,"phone":"+44 1293 907900"},
+    {"name":"Crowne Plaza London - Gatwick Airport","lat":51.1257,"lng":-0.1896,"area":"Gatwick Airport","stars":4,"priceTier":3,"phone":"+44 1293 608608"}
   ],
   "sights": [
     {
@@ -167,7 +158,6 @@
       "lng": -0.0759,
       "note": "1,000-year-old castle guarding the Crown Jewels.",
       "hours": "9:00 AM–5:30 PM (from 10 AM Sun/Mon)",
-      "rating": 4.7,
       "phone": "+44 333 320 6000",
       "ticketUrl": "https://www.hrp.org.uk/tower-of-london/visit/tickets-and-prices/",
       "bookAhead": true
@@ -178,7 +168,6 @@
       "lng": -0.127,
       "note": "Free entry. Vast collection spanning world history, including the Rosetta Stone.",
       "hours": "10:00 AM–5:00 PM daily, till 8:30 PM Fri",
-      "rating": 4.6,
       "phone": "+44 20 7323 8000"
     },
     {
@@ -187,7 +176,6 @@
       "lng": -0.0835,
       "note": "Free public garden and observation deck atop the 'Walkie-Talkie' tower — book a free slot online in advance.",
       "hours": "8:00 AM–12:00 AM (1 AM Fri, 9 AM Sat/Sun)",
-      "rating": 4.6,
       "phone": "+44 333 772 0020"
     },
     {
@@ -196,7 +184,6 @@
       "lng": -0.1764,
       "note": "Free entry. Dinosaur skeletons, the blue whale in Hintze Hall, gemstones.",
       "hours": "10:00 AM–5:50 PM daily",
-      "rating": 4.6,
       "phone": "+44 20 7942 5000"
     },
     {
@@ -205,7 +192,6 @@
       "lng": -0.1722,
       "note": "Free entry. The world's largest museum of decorative arts and design.",
       "hours": "10:00 AM–5:45 PM daily, till 10 PM Fri",
-      "rating": 4.8,
       "phone": "+44 20 7942 2000"
     },
     {
@@ -214,7 +200,6 @@
       "lng": -0.1273,
       "note": "Gothic abbey church, site of British coronations for nearly 1,000 years.",
       "hours": "Check official site — varies by day",
-      "rating": 4.6,
       "phone": "+44 20 7222 5152",
       "ticketUrl": "https://tickets.westminster-abbey.org/home/index",
       "bookAhead": true
@@ -225,7 +210,6 @@
       "lng": -0.0754,
       "note": "Iconic Victorian bascule bridge with a glass-floor walkway.",
       "hours": "9:30 AM–6:00 PM daily",
-      "rating": 4.8,
       "phone": "+44 20 7407 9191",
       "ticketUrl": "https://www.towerbridge.org.uk/",
       "bookAhead": true
@@ -236,7 +220,6 @@
       "lng": -0.1195,
       "note": "Europe's tallest cantilevered observation wheel, views across the Thames.",
       "hours": "10:00 AM–8:30 PM daily",
-      "rating": 4.5,
       "phone": "+44 20 7967 8021",
       "ticketUrl": "https://www.londoneye.com/",
       "bookAhead": true
@@ -247,7 +230,6 @@
       "lng": -0.0984,
       "note": "Wren's masterpiece — climb to the Whispering Gallery and dome.",
       "hours": "8:30 AM–4:30 PM (10 AM Wed), 8 AM–6 PM Sun",
-      "rating": 4.7,
       "phone": "+44 20 7246 8350",
       "ticketUrl": "https://www.stpauls.co.uk/",
       "bookAhead": true
@@ -258,7 +240,6 @@
       "lng": -0.1419,
       "note": "Working royal palace — check for Changing of the Guard times.",
       "hours": "9:30 AM–7:30 PM daily",
-      "rating": 4.5,
       "phone": "+44 303 123 7300",
       "ticketUrl": "https://www.rct.uk/visit/buckingham-palace",
       "bookAhead": true
@@ -269,27 +250,17 @@
       "lng": -0.1248,
       "note": "Palace of Westminster and its iconic Elizabeth Tower clock.",
       "hours": "Tours vary — check official site",
-      "rating": 4.7,
       "phone": "+44 20 7219 3000",
       "ticketUrl": "https://tickets.parliament.uk/content/ticket-options",
       "bookAhead": true
     },
-    {
-      "name": "Camden Market",
-      "lat": 51.5414,
-      "lng": -0.1465,
-      "note": "Sprawling market — alternative fashion, street food from around the world.",
-      "hours": "10:00 AM–7:00 PM daily",
-      "rating": 4.6,
-      "phone": "+44 20 3763 9900"
-    },
+    {"name":"Camden Market","lat":51.5414,"lng":-0.1465,"note":"Sprawling market — alternative fashion, street food from around the world.","hours":"10:00 AM–7:00 PM daily","phone":"+44 20 3763 9900"},
     {
       "name": "Borough Market",
       "lat": 51.5056,
       "lng": -0.0905,
       "note": "One of London's oldest food markets — artisan produce, cheese, meat.",
       "hours": "10:00 AM–5:00 PM Tue–Sun, closed Mon",
-      "rating": 4.6,
       "phone": "+44 20 7407 1002"
     }
   ],

@@ -111,8 +111,6 @@
       "lat": 24.4744,
       "lng": 118.1051,
       "area": "Xiamen Railway Station",
-      "rating": 4.8,
-      "ratingCount": 5019,
       "stars": 5,
       "priceTier": 4,
       "brandAnchor": true,
@@ -124,21 +122,17 @@
       "lat": 24.4743,
       "lng": 118.1043,
       "area": "Xiamen Railway Station",
-      "rating": 4.7,
-      "ratingCount": 1729,
       "stars": 4,
       "priceTier": 3,
       "ratingSource": "Trip.com",
       "tripUrl": "https://www.trip.com/hotels/detail/?hotelId=428302"
     },
-    {"name":"HanTing Hotel (Xiamen Railway Station)","lat":24.4735,"lng":118.1046,"area":"Xiamen Railway Station","rating":4.8,"ratingCount":946,"stars":2,"priceTier":2,"ratingSource":"Trip.com"},
+    {"name":"HanTing Hotel (Xiamen Railway Station)","lat":24.4735,"lng":118.1046,"area":"Xiamen Railway Station","stars":2,"priceTier":2,"ratingSource":"Trip.com"},
     {
       "name": "New East Asia Hotel (Xiamen International Airport)",
       "lat": 24.5304,
       "lng": 118.1241,
       "area": "Xiamen Gaoqi International Airport",
-      "rating": 4.6,
-      "ratingCount": 5803,
       "stars": 3,
       "priceTier": 2,
       "ratingSource": "Trip.com",
@@ -150,8 +144,6 @@
       "lat": 24.454,
       "lng": 118.0723,
       "area": "Zhongshan Road",
-      "rating": 4.7,
-      "ratingCount": 9775,
       "stars": 5,
       "priceTier": 3,
       "brandAnchor": true,
@@ -163,32 +155,17 @@
       "lat": 24.4538,
       "lng": 118.0776,
       "area": "Zhongshan Road",
-      "rating": 4.6,
-      "ratingCount": 2357,
       "stars": 5,
       "priceTier": 3,
       "ratingSource": "Trip.com",
       "tripUrl": "https://www.trip.com/hotels/detail/?hotelId=346257"
     },
-    {
-      "name": "Swiss Grand Xiamen",
-      "lat": 24.4526,
-      "lng": 118.074,
-      "area": "Zhongshan Road",
-      "rating": 4.6,
-      "ratingCount": 9753,
-      "stars": 5,
-      "priceTier": 3,
-      "ratingSource": "Trip.com",
-      "tripUrl": "https://www.trip.com/hotels/detail/?hotelId=346260"
-    },
+    {"name":"Swiss Grand Xiamen","lat":24.4526,"lng":118.074,"area":"Zhongshan Road","stars":5,"priceTier":3,"ratingSource":"Trip.com","tripUrl":"https://www.trip.com/hotels/detail/?hotelId=346260"},
     {
       "name": "Tegoo Hotel (Zhongshan Road Zhenhai Road Metro)",
       "lat": 24.4519,
       "lng": 118.0754,
       "area": "Zhongshan Road",
-      "rating": 4.7,
-      "ratingCount": 5877,
       "stars": 4,
       "priceTier": 3,
       "ratingSource": "Trip.com",
@@ -199,37 +176,13 @@
       "lat": 24.4553,
       "lng": 118.0766,
       "area": "Zhongshan Road",
-      "rating": 4.7,
-      "ratingCount": 1231,
       "stars": 3,
       "priceTier": 2,
       "ratingSource": "Trip.com",
       "tripUrl": "https://www.trip.com/hotels/detail/?hotelId=2297831"
     },
-    {
-      "name": "Pan Pacific Xiamen",
-      "lat": 24.4813,
-      "lng": 118.0772,
-      "area": "Yundang Lake",
-      "rating": 4.6,
-      "ratingCount": 2679,
-      "stars": 5,
-      "priceTier": 3,
-      "ratingSource": "Trip.com",
-      "tripUrl": "https://www.trip.com/hotels/detail/?hotelId=369750"
-    },
-    {
-      "name": "Marco Polo Xiamen",
-      "lat": 24.4778,
-      "lng": 118.0796,
-      "area": "Yundang Lake",
-      "rating": 4.7,
-      "ratingCount": 2928,
-      "stars": 5,
-      "priceTier": 3,
-      "ratingSource": "Trip.com",
-      "tripUrl": "https://www.trip.com/hotels/detail/?hotelId=375297"
-    }
+    {"name":"Pan Pacific Xiamen","lat":24.4813,"lng":118.0772,"area":"Yundang Lake","stars":5,"priceTier":3,"ratingSource":"Trip.com","tripUrl":"https://www.trip.com/hotels/detail/?hotelId=369750"},
+    {"name":"Marco Polo Xiamen","lat":24.4778,"lng":118.0796,"area":"Yundang Lake","stars":5,"priceTier":3,"ratingSource":"Trip.com","tripUrl":"https://www.trip.com/hotels/detail/?hotelId=375297"}
   ],
   "sights": [
     {
@@ -238,7 +191,6 @@
       "lng": 118.0636,
       "note": "A car-free, UNESCO-listed island of colonial villas, piano houses and banyan-shaded lanes a short ferry ride from downtown; visitors sail from the Xiamen International Cruise Center (Dongdu), not the residents' ferry by Zhongshan Road.",
       "hours": "Island open all day; visitor ferries ~7:00 AM–~6:00 PM, returns until late evening",
-      "rating": 4.4,
       "bookAhead": true
     },
     {
@@ -246,24 +198,21 @@
       "lat": 24.4556,
       "lng": 118.0765,
       "note": "Xiamen's arcaded old shopping street running down to the waterfront, lined with qilou shophouses and stalls selling peanut soup, oyster omelettes and pia pia cakes; busiest and prettiest after dark.",
-      "hours": "Open all day; shops ~10:00 AM–10:00 PM",
-      "rating": 4
+      "hours": "Open all day; shops ~10:00 AM–10:00 PM"
     },
     {
       "name": "Nanputuo Temple",
       "lat": 24.4435,
       "lng": 118.0919,
       "note": "A large working Buddhist temple at the foot of Wulao Peak beside Xiamen University, with incense-filled halls and hillside paths up to rock carvings and city views; entry is free.",
-      "hours": "~7:00 AM–6:00 PM daily",
-      "rating": 4.2
+      "hours": "~7:00 AM–6:00 PM daily"
     },
     {
       "name": "Xiamen Botanical Garden (Wanshi Mountain)",
       "lat": 24.452,
       "lng": 118.105,
       "note": "A hilly garden in the middle of the island with a rainforest valley, cactus and succulent houses and misty bamboo groves; paths link down towards Nanputuo Temple.",
-      "hours": "~6:30 AM–6:00 PM daily",
-      "rating": 4.4
+      "hours": "~6:30 AM–6:00 PM daily"
     },
     {
       "name": "Xiamen University",
@@ -271,7 +220,6 @@
       "lng": 118.0884,
       "note": "One of China's most attractive campuses, with red-roofed 'Jiageng-style' buildings around a lotus lake by the sea; visitor entry needs a free advance reservation (passport accepted) and daily quotas fill up.",
       "hours": "Visitor slots usually ~12:00–2:00 PM on weekdays and longer at weekends/holidays; closed to visitors at some times",
-      "rating": 4.3,
       "bookAhead": true
     },
     {
@@ -279,88 +227,77 @@
       "lat": 24.442,
       "lng": 118.0652,
       "note": "A seaside garden on Gulangyu's south shore with a zig-zag bridge over the water and the Piano Museum inside, built by a Taiwanese gentry family in the 1910s.",
-      "hours": "~6:30 AM–6:30 PM daily",
-      "rating": 4.3
+      "hours": "~6:30 AM–6:30 PM daily"
     },
     {
       "name": "Sunlight Rock (Riguang Yan)",
       "lat": 24.4458,
       "lng": 118.064,
       "note": "The granite summit in the middle of Gulangyu and the island's highest point, reached by stone steps for a panorama over the red roofs and across to Xiamen's skyline.",
-      "hours": "~8:00 AM–6:00 PM daily",
-      "rating": 4.1
+      "hours": "~8:00 AM–6:00 PM daily"
     },
     {
       "name": "Jimei School Village",
       "lat": 24.5745,
       "lng": 118.1035,
       "note": "The waterfront campus built by overseas-Chinese philanthropist Tan Kah Kee, with swallow-tail roofed school buildings, his memorial museum and the carved stone Turtle Garden (Aoyuan); on the mainland, reached by Metro Line 1 to Jimei School Village station and a 20-min walk.",
-      "hours": "Campus grounds open all day; Turtle Garden and museum ~8:30 AM–5:30 PM (museum closed Mon)",
-      "rating": 4.1
+      "hours": "Campus grounds open all day; Turtle Garden and museum ~8:30 AM–5:30 PM (museum closed Mon)"
     },
     {
       "name": "Baicheng Beach",
       "lat": 24.4342,
       "lng": 118.0979,
       "note": "A public sandy beach just south of Xiamen University with views across to the Taiwanese-held Kinmen islands, the start of the Huandao Road seaside cycle path.",
-      "hours": "Open all day",
-      "rating": 4
+      "hours": "Open all day"
     },
     {
       "name": "Hulishan Fortress",
       "lat": 24.43,
       "lng": 118.109,
       "note": "A late-Qing coastal battery on a headland east of Baicheng Beach, home to a 19th-century Krupp cannon and a small museum, with sea views towards Kinmen.",
-      "hours": "~7:30 AM–6:00 PM daily",
-      "rating": 3.9
+      "hours": "~7:30 AM–6:00 PM daily"
     },
     {
       "name": "Zengcuo'an Village",
       "lat": 24.4335,
       "lng": 118.1355,
       "note": "A former fishing village off Huandao Road turned into a maze of narrow alleys full of snack stalls, cafés and guesthouses; crowded but fun for street food in the evening.",
-      "hours": "Open all day; stalls ~10:00 AM–10:00 PM",
-      "rating": 3.8
+      "hours": "Open all day; stalls ~10:00 AM–10:00 PM"
     },
     {
       "name": "Overseas Chinese Museum",
       "lat": 24.4448,
       "lng": 118.0852,
       "note": "A free museum founded by Tan Kah Kee telling the story of Fujianese emigrants to Southeast Asia and beyond, with photos, objects and recreated streets.",
-      "hours": "Tue–Sun ~9:30 AM–4:30 PM; closed Mon",
-      "rating": 4
+      "hours": "Tue–Sun ~9:30 AM–4:30 PM; closed Mon"
     },
     {
       "name": "Haiwan Park",
       "lat": 24.4735,
       "lng": 118.0735,
       "note": "A seaside lawn and promenade on the west shore of the island, good for a sunset walk looking across the harbour to Gulangyu and Haicang.",
-      "hours": "Open all day",
-      "rating": 4.2
+      "hours": "Open all day"
     },
     {
       "name": "Bailuzhou Park",
       "lat": 24.48,
       "lng": 118.088,
       "note": "A park on an island in Yundang Lake with egret sculptures, lawns and evening fountain shows, surrounded by the city's business district.",
-      "hours": "Open all day",
-      "rating": 4.2
+      "hours": "Open all day"
     },
     {
       "name": "Wuyuanwan Wetland Park",
       "lat": 24.52,
       "lng": 118.176,
       "note": "Xiamen's largest wetland park, with boardwalks and bridges over tidal lagoons on the island's north-east shore; next to Metro Line 2 Wetland Park station.",
-      "hours": "Open all day",
-      "rating": 4.2
+      "hours": "Open all day"
     },
     {
       "name": "Eighth Market (Badashi)",
       "lat": 24.461,
       "lng": 118.0778,
       "note": "A crowded old wet market near the north end of Zhongshan Road where locals buy live seafood and dried fish, with snack stalls cooking up oyster omelettes and fish balls; come in the morning.",
-      "hours": "~6:00 AM–~1:00 PM best; some stalls into the afternoon",
-      "rating": 4.3
+      "hours": "~6:00 AM–~1:00 PM best; some stalls into the afternoon"
     }
   ],
   "railStations": [

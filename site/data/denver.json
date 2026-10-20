@@ -197,23 +197,23 @@
     }
   ],
   "hotels": [
-    {"name":"The Crawford Hotel","lat":39.7534,"lng":-105,"area":"Denver Union Station","rating":4.7,"ratingCount":2304,"stars":4,"priceTier":4},
-    {"name":"The Oxford Hotel","lat":39.7522,"lng":-104.9993,"area":"Denver Union Station","rating":4.6,"ratingCount":2019,"stars":4,"priceTier":3},
-    {"name":"Hotel Indigo Denver Downtown-Union Station by IHG","lat":39.7556,"lng":-104.9999,"area":"Denver Union Station","rating":4.3,"ratingCount":551,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"Hilton Garden Inn Denver Union Station","lat":39.7577,"lng":-104.9994,"area":"Denver Union Station","rating":4.1,"ratingCount":353,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"Hostel Fish","lat":39.7526,"lng":-104.9919,"area":"Denver Union Station","rating":4.3,"ratingCount":168,"stars":1,"priceTier":1},
-    {"name":"The Westin Denver International Airport","lat":39.8476,"lng":-104.6739,"area":"Denver International Airport","rating":4.3,"ratingCount":1634,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Hyatt Regency Denver at Colorado Convention Center","lat":39.7434,"lng":-104.9936,"area":"Downtown","rating":4.5,"ratingCount":7674,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Embassy Suites by Hilton Denver Downtown Convention Center","lat":39.7441,"lng":-104.9948,"area":"Downtown","rating":4.4,"ratingCount":4176,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"Homewood Suites by Hilton Denver Downtown-Convention Center","lat":39.7431,"lng":-104.9926,"area":"Downtown","rating":4.5,"ratingCount":1978,"stars":3,"priceTier":3},
-    {"name":"Hyatt Place Denver/Downtown","lat":39.7416,"lng":-104.9929,"area":"Downtown","rating":4.3,"ratingCount":1717,"stars":3,"priceTier":3},
-    {"name":"Hotel Teatro","lat":39.7461,"lng":-104.9985,"area":"Downtown","rating":4.4,"ratingCount":1963,"stars":4,"priceTier":4},
-    {"name":"Catbird Hotel","lat":39.7696,"lng":-104.9724,"area":"RiNo","rating":4.3,"ratingCount":598,"stars":4,"priceTier":3},
-    {"name":"Vīb Hotel by Best Western Denver RiNo","lat":39.7708,"lng":-104.9777,"area":"RiNo","rating":4.1,"ratingCount":102,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"Kimpton Claret Hotel by IHG","lat":39.6261,"lng":-104.9058,"area":"Denver Tech Center","rating":4.3,"ratingCount":30,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Hilton Garden Inn Denver Tech Center","lat":39.629,"lng":-104.901,"area":"Denver Tech Center","rating":4,"ratingCount":975,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"Hyatt Regency Denver Tech Center","lat":39.6304,"lng":-104.8989,"area":"Denver Tech Center","rating":4,"ratingCount":2112,"stars":4,"priceTier":3},
-    {"name":"Hampton Inn & Suites Denver Tech Center","lat":39.6266,"lng":-104.8961,"area":"Denver Tech Center","rating":4.2,"ratingCount":926,"stars":3,"priceTier":2}
+    {"name":"The Crawford Hotel","lat":39.7534,"lng":-105,"area":"Denver Union Station","stars":4,"priceTier":4},
+    {"name":"The Oxford Hotel","lat":39.7522,"lng":-104.9993,"area":"Denver Union Station","stars":4,"priceTier":3},
+    {"name":"Hotel Indigo Denver Downtown-Union Station by IHG","lat":39.7556,"lng":-104.9999,"area":"Denver Union Station","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Hilton Garden Inn Denver Union Station","lat":39.7577,"lng":-104.9994,"area":"Denver Union Station","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Hostel Fish","lat":39.7526,"lng":-104.9919,"area":"Denver Union Station","stars":1,"priceTier":1},
+    {"name":"The Westin Denver International Airport","lat":39.8476,"lng":-104.6739,"area":"Denver International Airport","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hyatt Regency Denver at Colorado Convention Center","lat":39.7434,"lng":-104.9936,"area":"Downtown","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Embassy Suites by Hilton Denver Downtown Convention Center","lat":39.7441,"lng":-104.9948,"area":"Downtown","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Homewood Suites by Hilton Denver Downtown-Convention Center","lat":39.7431,"lng":-104.9926,"area":"Downtown","stars":3,"priceTier":3},
+    {"name":"Hyatt Place Denver/Downtown","lat":39.7416,"lng":-104.9929,"area":"Downtown","stars":3,"priceTier":3},
+    {"name":"Hotel Teatro","lat":39.7461,"lng":-104.9985,"area":"Downtown","stars":4,"priceTier":4},
+    {"name":"Catbird Hotel","lat":39.7696,"lng":-104.9724,"area":"RiNo","stars":4,"priceTier":3},
+    {"name":"Vīb Hotel by Best Western Denver RiNo","lat":39.7708,"lng":-104.9777,"area":"RiNo","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Kimpton Claret Hotel by IHG","lat":39.6261,"lng":-104.9058,"area":"Denver Tech Center","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hilton Garden Inn Denver Tech Center","lat":39.629,"lng":-104.901,"area":"Denver Tech Center","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Hyatt Regency Denver Tech Center","lat":39.6304,"lng":-104.8989,"area":"Denver Tech Center","stars":4,"priceTier":3},
+    {"name":"Hampton Inn & Suites Denver Tech Center","lat":39.6266,"lng":-104.8961,"area":"Denver Tech Center","stars":3,"priceTier":2}
   ],
   "sights": [
     {
@@ -222,7 +222,6 @@
       "lng": -104.9597,
       "note": "Twenty-four acres of themed gardens beside Cheesman Park, from a Japanese garden to high-plains and alpine plantings and a domed tropical conservatory.",
       "hours": "9:00 AM–4:00 PM to Nov 18; 9:00 AM–2:30 PM Nov 19–Dec 31 (holiday lights in the evening are separately ticketed); 9:00 AM–8:00 PM in summer",
-      "rating": 4.7,
       "ticketUrl": "https://www.botanicgardens.org",
       "bookAhead": true
     },
@@ -231,8 +230,7 @@
       "lat": 39.753,
       "lng": -105.0002,
       "note": "The restored 1914 Beaux-Arts rail terminal, now a hotel, bar and food hall around a grand waiting room and the hub for the A Line and light rail.",
-      "hours": "Great Hall open daily from early morning to late night; shops and bars keep their own hours",
-      "rating": 4.5
+      "hours": "Great Hall open daily from early morning to late night; shops and bars keep their own hours"
     },
     {
       "name": "Denver Museum of Nature & Science",
@@ -240,7 +238,6 @@
       "lng": -104.943,
       "note": "Dinosaurs, gems, Egyptian mummies, a planetarium and an IMAX screen in City Park, with a classic skyline-and-mountain view from the back steps.",
       "hours": "9:00 AM–5:00 PM daily (closed Dec 25)",
-      "rating": 4.6,
       "ticketUrl": "https://www.dmns.org"
     },
     {
@@ -249,7 +246,6 @@
       "lng": -104.9942,
       "note": "Home of the Colorado Rockies in LoDo, with a row of purple seats marking exactly one mile above sea level.",
       "hours": "Rockies home games ~Apr–Sep; guided ballpark tours run most days year-round",
-      "rating": 4.6,
       "ticketUrl": "https://www.mlb.com/rockies"
     },
     {
@@ -258,7 +254,6 @@
       "lng": -104.9807,
       "note": "The Victorian home of Titanic survivor Margaret 'Molly' Brown, seen on a 45-minute guided tour of period rooms.",
       "hours": "Wed–Sun 10:00 AM–5:00 PM (Thu to 7:00 PM), last entry 1 hour before close; closed Mon–Tue",
-      "rating": 4.4,
       "ticketUrl": "https://mollybrown.org/plan-your-visit/",
       "bookAhead": true
     },
@@ -268,7 +263,6 @@
       "lng": -104.9893,
       "note": "Two striking buildings, one a titanium-clad Libeskind design, holding major Indigenous American, Western and modern collections.",
       "hours": "10:00 AM–5:00 PM, Tue to 8:00 PM; closed Wed",
-      "rating": 4.5,
       "ticketUrl": "https://www.denverartmuseum.org/en/plan-your-visit"
     },
     {
@@ -277,7 +271,6 @@
       "lng": -104.951,
       "note": "An 80-acre zoo in City Park known for its Asian Tropics elephant habitat and big-cat, primate and bear areas.",
       "hours": "Open daily, ~9:00 AM–5:00 PM in the warm months and ~10:00 AM–4:00 PM in winter",
-      "rating": 4.4,
       "ticketUrl": "https://denverzoo.org"
     },
     {
@@ -285,8 +278,7 @@
       "lat": 39.752,
       "lng": -105.0134,
       "note": "A riverside aquarium with tiger and shark exhibits and a restaurant built around a huge tank.",
-      "hours": "Mon–Thu & Sun 10:00 AM–8:00 PM, Fri–Sat 10:00 AM–9:00 PM",
-      "rating": 3.9
+      "hours": "Mon–Thu & Sun 10:00 AM–8:00 PM, Fri–Sat 10:00 AM–9:00 PM"
     },
     {
       "name": "Wings Over the Rockies Air & Space Museum",
@@ -294,7 +286,6 @@
       "lng": -104.8955,
       "note": "Historic military jets, a B-52 and space exhibits inside a 1930s hangar at the former Lowry Air Force Base.",
       "hours": "10:00 AM–5:00 PM daily",
-      "rating": 4.3,
       "ticketUrl": "https://wingsmuseum.org"
     },
     {
@@ -302,8 +293,7 @@
       "lat": 39.7439,
       "lng": -105.0201,
       "note": "The Denver Broncos' stadium beside the light rail, with a team hall of fame and behind-the-scenes stadium tours.",
-      "hours": "Broncos home games ~Sep–Jan; stadium tours on most non-event days",
-      "rating": 4.5
+      "hours": "Broncos home games ~Sep–Jan; stadium tours on most non-event days"
     },
     {
       "name": "United States Mint at Denver",
@@ -311,7 +301,6 @@
       "lng": -104.9923,
       "note": "A free hour-long tour of the 1906 mint, where most U.S. circulating coins carrying a 'D' mark are struck.",
       "hours": "Free tours Mon–Thu at 7:15, 8:30, 9:45, 11:30 AM, 12:45 & 2:00 PM; online reservation required (up to 30 days ahead); ages 7+",
-      "rating": 4.1,
       "ticketUrl": "https://www.usmint.gov/about/tours-and-locations/denver/tour-denver-mint",
       "bookAhead": true
     },
@@ -320,8 +309,7 @@
       "lat": 39.7766,
       "lng": -104.9705,
       "note": "A sprawling hall of vintage cars, carriages and locomotives, including the giant Union Pacific 'Big Boy' steam engine.",
-      "hours": "Thu–Mon 10:00 AM–5:00 PM; closed Tue–Wed",
-      "rating": 4.5
+      "hours": "Thu–Mon 10:00 AM–5:00 PM; closed Tue–Wed"
     },
     {
       "name": "Meow Wolf's Convergence Station",
@@ -329,7 +317,6 @@
       "lng": -105.0158,
       "note": "A four-storey walk-through immersive art installation of neon worlds, hidden passages and a puzzle-like storyline.",
       "hours": "Hours vary by day; entry only at your ticketed time",
-      "rating": 4,
       "ticketUrl": "https://meowwolf.com/visit/denver",
       "bookAhead": true
     },
@@ -338,24 +325,21 @@
       "lat": 39.7478,
       "lng": -104.9989,
       "note": "Denver's oldest block, a strip of Victorian storefronts with restaurants and bars under strings of overhead lights.",
-      "hours": "Open-air street, always open; shops and restaurants keep their own hours",
-      "rating": 4.2
+      "hours": "Open-air street, always open; shops and restaurants keep their own hours"
     },
     {
       "name": "Colorado State Capitol",
       "lat": 39.7393,
       "lng": -104.9848,
       "note": "The gold-domed statehouse, with a step marked one mile high and a free guided tour that climbs to the dome.",
-      "hours": "Mon–Fri 7:30 AM–5:00 PM; free tours on the hour 10:00 AM–3:00 PM (dome on tours only); closed weekends",
-      "rating": 4.4
+      "hours": "Mon–Fri 7:30 AM–5:00 PM; free tours on the hour 10:00 AM–3:00 PM (dome on tours only); closed weekends"
     },
     {
       "name": "Washington Park",
       "lat": 39.699,
       "lng": -104.9715,
       "note": "A favourite local park with two lakes, flower gardens and a loop path popular with runners and cyclists.",
-      "hours": "Open daily ~5:00 AM–11:00 PM",
-      "rating": 4.5
+      "hours": "Open daily ~5:00 AM–11:00 PM"
     },
     {
       "name": "Denver Central Market",

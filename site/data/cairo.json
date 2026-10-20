@@ -156,18 +156,18 @@
     }
   ],
   "hotels": [
-    {"name":"Le Méridien Cairo Airport","lat":30.1137,"lng":31.3953,"area":"Cairo International Airport","rating":4.4,"ratingCount":1997,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Le Passage Cairo Hotel & Casino","lat":30.1215,"lng":31.4005,"area":"Cairo International Airport","rating":4.5,"ratingCount":4977,"stars":5,"priceTier":3},
-    {"name":"InterContinental Cairo Semiramis by IHG","lat":30.0428,"lng":31.2323,"area":"Downtown","rating":4.4,"ratingCount":4607,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"The Nile Ritz-Carlton, Cairo","lat":30.0459,"lng":31.2326,"area":"Downtown","rating":4.3,"ratingCount":1402,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Kempinski Nile Hotel Cairo","lat":30.0387,"lng":31.2307,"area":"Downtown","rating":4.8,"ratingCount":7084,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Ramses Hilton","lat":30.0505,"lng":31.232,"area":"Downtown","rating":4.3,"ratingCount":7060,"stars":5,"priceTier":3,"brandAnchor":true},
-    {"name":"Dahab Hostel","lat":30.0481,"lng":31.2374,"area":"Downtown","rating":4.5,"ratingCount":674,"stars":1,"priceTier":1},
-    {"name":"Cairo Marriott Hotel","lat":30.0571,"lng":31.2246,"area":"Zamalek","rating":4.5,"ratingCount":5413,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Hilton Cairo Zamalek Residences","lat":30.0676,"lng":31.2226,"area":"Zamalek","rating":4.6,"ratingCount":3195,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Flamenco Hotel Cairo","lat":30.0659,"lng":31.216,"area":"Zamalek","rating":4.1,"ratingCount":853,"stars":4,"priceTier":3},
-    {"name":"Best View Pyramids Hotel","lat":29.9735,"lng":31.1421,"area":"Giza Pyramids","rating":4.7,"ratingCount":2452,"stars":3,"priceTier":2},
-    {"name":"Horus Guest House Pyramids View","lat":29.9742,"lng":31.1422,"area":"Giza Pyramids","rating":4.4,"ratingCount":119,"stars":2,"priceTier":2}
+    {"name":"Le Méridien Cairo Airport","lat":30.1137,"lng":31.3953,"area":"Cairo International Airport","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Le Passage Cairo Hotel & Casino","lat":30.1215,"lng":31.4005,"area":"Cairo International Airport","stars":5,"priceTier":3},
+    {"name":"InterContinental Cairo Semiramis by IHG","lat":30.0428,"lng":31.2323,"area":"Downtown","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"The Nile Ritz-Carlton, Cairo","lat":30.0459,"lng":31.2326,"area":"Downtown","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Kempinski Nile Hotel Cairo","lat":30.0387,"lng":31.2307,"area":"Downtown","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Ramses Hilton","lat":30.0505,"lng":31.232,"area":"Downtown","stars":5,"priceTier":3,"brandAnchor":true},
+    {"name":"Dahab Hostel","lat":30.0481,"lng":31.2374,"area":"Downtown","stars":1,"priceTier":1},
+    {"name":"Cairo Marriott Hotel","lat":30.0571,"lng":31.2246,"area":"Zamalek","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Hilton Cairo Zamalek Residences","lat":30.0676,"lng":31.2226,"area":"Zamalek","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Flamenco Hotel Cairo","lat":30.0659,"lng":31.216,"area":"Zamalek","stars":4,"priceTier":3},
+    {"name":"Best View Pyramids Hotel","lat":29.9735,"lng":31.1421,"area":"Giza Pyramids","stars":3,"priceTier":2},
+    {"name":"Horus Guest House Pyramids View","lat":29.9742,"lng":31.1422,"area":"Giza Pyramids","stars":2,"priceTier":2}
   ],
   "sights": [
     {
@@ -175,40 +175,35 @@
       "lat": 30.0478,
       "lng": 31.2336,
       "note": "The pink neoclassical museum on Tahrir Square holding the world's largest collection of pharaonic antiquities; many Tutankhamun pieces have moved to the Grand Egyptian Museum, but the halls remain packed with statues, coffins and papyri.",
-      "hours": "~9:00 AM–5:00 PM daily",
-      "rating": 4.5
+      "hours": "~9:00 AM–5:00 PM daily"
     },
     {
       "name": "Khan el-Khalili",
       "lat": 30.0477,
       "lng": 31.2623,
       "note": "The medieval bazaar of Islamic Cairo, a warren of lanes selling brass lamps, spices, perfume and silver, with the historic El Fishawy café at its edge.",
-      "hours": "Most shops ~10:00 AM–~11:00 PM; quieter Sunday mornings",
-      "rating": 4.1
+      "hours": "Most shops ~10:00 AM–~11:00 PM; quieter Sunday mornings"
     },
     {
       "name": "Sharia al-Muizz",
       "lat": 30.05,
       "lng": 31.2613,
       "note": "The main street of Fatimid Cairo, a pedestrianised stretch of mosques, madrasas and Mamluk mansions such as the Qalawun complex, especially atmospheric when lit at night.",
-      "hours": "Open street; individual monuments ~9:00 AM–5:00 PM",
-      "rating": 4.6
+      "hours": "Open street; individual monuments ~9:00 AM–5:00 PM"
     },
     {
       "name": "Al-Azhar Mosque",
       "lat": 30.0457,
       "lng": 31.2627,
       "note": "Founded in 970, one of the oldest mosques in Cairo and the seat of Al-Azhar University, with a broad marble courtyard and five minarets from different eras.",
-      "hours": "Visits ~9:00 AM–~9:00 PM outside prayer times; modest dress, headscarves for women",
-      "rating": 4.5
+      "hours": "Visits ~9:00 AM–~9:00 PM outside prayer times; modest dress, headscarves for women"
     },
     {
       "name": "Al-Azhar Park",
       "lat": 30.0405,
       "lng": 31.2646,
       "note": "A landscaped hilltop park built on a former rubbish mound, with fountains, gardens, a lakeside café and views over the minarets of Islamic Cairo to the Citadel.",
-      "hours": "~9:00 AM–~10:00 PM daily",
-      "rating": 4.5
+      "hours": "~9:00 AM–~10:00 PM daily"
     },
     {
       "name": "Citadel of Saladin & Mosque of Muhammad Ali",
@@ -216,7 +211,6 @@
       "lng": 31.2599,
       "note": "Saladin's 12th-century hilltop fortress, crowned by the Ottoman-style Alabaster Mosque of Muhammad Ali, with terraces looking over the whole city.",
       "hours": "~8:00 AM–5:00 PM daily",
-      "rating": 4.5,
       "ticketUrl": "https://egymonuments.gov.eg"
     },
     {
@@ -224,40 +218,35 @@
       "lat": 30.0319,
       "lng": 31.2567,
       "note": "A huge 14th-century Mamluk mosque and school below the Citadel, with soaring iwans around a central courtyard; the Al-Rifai Mosque stands directly opposite.",
-      "hours": "~8:00 AM–5:00 PM daily",
-      "rating": 4.6
+      "hours": "~8:00 AM–5:00 PM daily"
     },
     {
       "name": "Mosque of Ibn Tulun",
       "lat": 30.0289,
       "lng": 31.2494,
       "note": "Cairo's oldest intact mosque (879), a vast arcaded courtyard with an unusual spiral-staired minaret; the Gayer-Anderson Museum adjoins it.",
-      "hours": "~8:00 AM–5:00 PM daily",
-      "rating": 4.6
+      "hours": "~8:00 AM–5:00 PM daily"
     },
     {
       "name": "Museum of Islamic Art",
       "lat": 30.0447,
       "lng": 31.2528,
       "note": "One of the largest Islamic art collections anywhere, with ceramics, woodwork, metalwork and manuscripts from across the Islamic world.",
-      "hours": "~9:00 AM–5:00 PM daily",
-      "rating": 4.6
+      "hours": "~9:00 AM–5:00 PM daily"
     },
     {
       "name": "The Hanging Church",
       "lat": 30.0053,
       "lng": 31.2302,
       "note": "Cairo's best-known Coptic church, built above the gatehouse of the Roman Babylon Fortress and reached by a stair from the street, in the Coptic quarter of Old Cairo.",
-      "hours": "~9:00 AM–4:00 PM daily",
-      "rating": 4.5
+      "hours": "~9:00 AM–4:00 PM daily"
     },
     {
       "name": "Coptic Museum",
       "lat": 30.006,
       "lng": 31.2306,
       "note": "The world's largest collection of Coptic Christian art, from textiles and icons to carved wood and early manuscripts, inside the old Roman fortress walls.",
-      "hours": "~9:00 AM–5:00 PM daily",
-      "rating": 4.4
+      "hours": "~9:00 AM–5:00 PM daily"
     },
     {
       "name": "National Museum of Egyptian Civilization",
@@ -265,7 +254,6 @@
       "lng": 31.248,
       "note": "A modern museum in Fustat tracing Egypt from prehistory to today; its underground Royal Mummies Hall displays the pharaohs moved here in 2021.",
       "hours": "~9:00 AM–6:00 PM daily",
-      "rating": 4.6,
       "ticketUrl": "https://nmec.gov.eg"
     },
     {
@@ -273,24 +261,21 @@
       "lat": 30.0335,
       "lng": 31.278,
       "note": "A cluster of churches carved into the Mokattam cliffs above Manshiyat Naser, including an amphitheatre-like main church seating thousands.",
-      "hours": "~8:00 AM–5:00 PM daily; services Sunday",
-      "rating": 4.6
+      "hours": "~8:00 AM–5:00 PM daily; services Sunday"
     },
     {
       "name": "Manial Palace",
       "lat": 30.0274,
       "lng": 31.2298,
       "note": "The early-20th-century palace of Prince Mohamed Ali Tewfik on Roda Island, mixing Ottoman, Moorish and Persian styles amid banyan-shaded gardens.",
-      "hours": "~9:00 AM–5:00 PM daily",
-      "rating": 4.5
+      "hours": "~9:00 AM–5:00 PM daily"
     },
     {
       "name": "Cairo Tower",
       "lat": 30.0459,
       "lng": 31.2243,
       "note": "A 187 m lattice-patterned tower on Gezira Island from 1961, with an open-air observation deck over the Nile and, on clear days, the Pyramids.",
-      "hours": "~9:00 AM–midnight daily",
-      "rating": 3.9
+      "hours": "~9:00 AM–midnight daily"
     },
     {
       "name": "Pyramids of Giza",
@@ -298,7 +283,6 @@
       "lng": 31.1342,
       "note": "The last surviving wonder of the ancient world: the pyramids of Khufu, Khafre and Menkaure and the Great Sphinx on the desert plateau, ~18 km southwest of Tahrir (listed under Giza on TripAdvisor).",
       "hours": "~7:00 AM–5:00 PM daily (later in summer)",
-      "rating": 4.6,
       "ticketUrl": "https://egymonuments.gov.eg"
     },
     {
@@ -307,7 +291,6 @@
       "lng": 31.1193,
       "note": "The vast new museum near the Pyramids, fully opened in November 2025, showing the complete Tutankhamun collection and a colossal statue of Ramesses II in the atrium.",
       "hours": "~9:00 AM–6:00 PM daily, later on some evenings",
-      "rating": 4.6,
       "ticketUrl": "https://gem.eg",
       "bookAhead": true
     }

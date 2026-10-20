@@ -273,78 +273,28 @@
     }
   ],
   "hotels": [
-    {"name":"Canopy by Hilton Portland Pearl District","lat":45.5263,"lng":-122.6805,"area":"Portland Union Station","rating":4.5,"ratingCount":580,"stars":4,"priceTier":3,"brandAnchor":true},
-    {
-      "name": "Residence Inn by Marriott Portland Downtown/Pearl District",
-      "lat": 45.5312,
-      "lng": -122.6797,
-      "area": "Portland Union Station",
-      "rating": 4.6,
-      "ratingCount": 964,
-      "stars": 3,
-      "priceTier": 3,
-      "brandAnchor": true
-    },
-    {"name":"Hampton Inn & Suites Portland-Pearl District","lat":45.5255,"lng":-122.6797,"area":"Portland Union Station","rating":4.7,"ratingCount":890,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"The Society Hotel","lat":45.5247,"lng":-122.6737,"area":"Portland Union Station","rating":4.5,"ratingCount":335,"stars":2,"priceTier":2},
-    {"name":"Radisson Hotel Portland Airport","lat":45.5689,"lng":-122.5828,"area":"Portland International Airport","rating":4.4,"ratingCount":2942,"stars":3,"priceTier":3,"brandAnchor":true},
-    {
-      "name": "Country Inn & Suites by Radisson, Portland International Airport",
-      "lat": 45.5744,
-      "lng": -122.5831,
-      "area": "Portland International Airport",
-      "rating": 4.2,
-      "ratingCount": 1803,
-      "stars": 2,
-      "priceTier": 2,
-      "brandAnchor": true
-    },
-    {"name":"Hampton Inn Portland-Airport","lat":45.5825,"lng":-122.5736,"area":"Portland International Airport","rating":4.1,"ratingCount":1106,"stars":3,"priceTier":2,"brandAnchor":true},
-    {
-      "name": "Hyatt Place Portland Airport/Cascade Station",
-      "lat": 45.574,
-      "lng": -122.5628,
-      "area": "Portland International Airport",
-      "rating": 4.2,
-      "ratingCount": 1760,
-      "stars": 3,
-      "priceTier": 3,
-      "brandAnchor": true
-    },
-    {
-      "name": "Residence Inn by Marriott Portland Airport at Cascade Station",
-      "lat": 45.578,
-      "lng": -122.5667,
-      "area": "Portland International Airport",
-      "rating": 4.3,
-      "ratingCount": 645,
-      "stars": 3,
-      "priceTier": 3,
-      "brandAnchor": true
-    },
-    {"name":"The Nines, A Luxury Collection Hotel, Portland","lat":45.519,"lng":-122.678,"area":"Downtown","rating":4.4,"ratingCount":4236,"stars":4,"priceTier":4,"brandAnchor":true},
-    {"name":"The Duniway Portland, a Hilton Hotel","lat":45.5178,"lng":-122.6787,"area":"Downtown","rating":4.5,"ratingCount":1356,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"The Royal Sonesta Portland Downtown","lat":45.5199,"lng":-122.6774,"area":"Downtown","rating":4.7,"ratingCount":3820,"stars":4,"priceTier":3},
-    {"name":"Mark Spencer Hotel","lat":45.5222,"lng":-122.6825,"area":"Downtown","rating":4.5,"ratingCount":4116,"stars":3,"priceTier":3},
-    {"name":"McMenamins Crystal Hotel","lat":45.5228,"lng":-122.6834,"area":"Downtown","rating":4.2,"ratingCount":365,"stars":3,"priceTier":2},
-    {"name":"Hyatt Regency Portland at the Oregon Convention Center","lat":45.5305,"lng":-122.6627,"area":"Lloyd District","rating":4.3,"ratingCount":1183,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Hotel Eastlund, BW Premier Collection","lat":45.5305,"lng":-122.6612,"area":"Lloyd District","rating":4.5,"ratingCount":1259,"stars":4,"priceTier":3,"brandAnchor":true},
-    {
-      "name": "Courtyard by Marriott Portland Downtown/Convention Center",
-      "lat": 45.5326,
-      "lng": -122.6612,
-      "area": "Lloyd District",
-      "rating": 4.3,
-      "ratingCount": 1021,
-      "stars": 3,
-      "priceTier": 3,
-      "brandAnchor": true
-    },
-    {"name":"DoubleTree by Hilton Hotel Portland","lat":45.5308,"lng":-122.6556,"area":"Lloyd District","rating":4,"ratingCount":2596,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"Crowne Plaza Portland-Downtown Convention Center","lat":45.5336,"lng":-122.6644,"area":"Lloyd District","rating":4,"ratingCount":837,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"Holiday Inn Express & Suites Portland-NW Downtown","lat":45.5373,"lng":-122.6996,"area":"Nob Hill","rating":4.2,"ratingCount":454,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"Inn at Northrup Station","lat":45.5315,"lng":-122.6935,"area":"Nob Hill","rating":4.7,"ratingCount":2017,"stars":3,"priceTier":3},
-    {"name":"Northwest Portland Hostel","lat":45.5261,"lng":-122.6898,"area":"Nob Hill","rating":4.2,"ratingCount":307,"stars":1,"priceTier":1}
+    {"name":"Canopy by Hilton Portland Pearl District","lat":45.5263,"lng":-122.6805,"area":"Portland Union Station","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Residence Inn by Marriott Portland Downtown/Pearl District","lat":45.5312,"lng":-122.6797,"area":"Portland Union Station","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Hampton Inn & Suites Portland-Pearl District","lat":45.5255,"lng":-122.6797,"area":"Portland Union Station","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"The Society Hotel","lat":45.5247,"lng":-122.6737,"area":"Portland Union Station","stars":2,"priceTier":2},
+    {"name":"Radisson Hotel Portland Airport","lat":45.5689,"lng":-122.5828,"area":"Portland International Airport","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Country Inn & Suites by Radisson, Portland International Airport","lat":45.5744,"lng":-122.5831,"area":"Portland International Airport","stars":2,"priceTier":2,"brandAnchor":true},
+    {"name":"Hampton Inn Portland-Airport","lat":45.5825,"lng":-122.5736,"area":"Portland International Airport","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Hyatt Place Portland Airport/Cascade Station","lat":45.574,"lng":-122.5628,"area":"Portland International Airport","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Residence Inn by Marriott Portland Airport at Cascade Station","lat":45.578,"lng":-122.5667,"area":"Portland International Airport","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"The Nines, A Luxury Collection Hotel, Portland","lat":45.519,"lng":-122.678,"area":"Downtown","stars":4,"priceTier":4,"brandAnchor":true},
+    {"name":"The Duniway Portland, a Hilton Hotel","lat":45.5178,"lng":-122.6787,"area":"Downtown","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"The Royal Sonesta Portland Downtown","lat":45.5199,"lng":-122.6774,"area":"Downtown","stars":4,"priceTier":3},
+    {"name":"Mark Spencer Hotel","lat":45.5222,"lng":-122.6825,"area":"Downtown","stars":3,"priceTier":3},
+    {"name":"McMenamins Crystal Hotel","lat":45.5228,"lng":-122.6834,"area":"Downtown","stars":3,"priceTier":2},
+    {"name":"Hyatt Regency Portland at the Oregon Convention Center","lat":45.5305,"lng":-122.6627,"area":"Lloyd District","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hotel Eastlund, BW Premier Collection","lat":45.5305,"lng":-122.6612,"area":"Lloyd District","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Courtyard by Marriott Portland Downtown/Convention Center","lat":45.5326,"lng":-122.6612,"area":"Lloyd District","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"DoubleTree by Hilton Hotel Portland","lat":45.5308,"lng":-122.6556,"area":"Lloyd District","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Crowne Plaza Portland-Downtown Convention Center","lat":45.5336,"lng":-122.6644,"area":"Lloyd District","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Holiday Inn Express & Suites Portland-NW Downtown","lat":45.5373,"lng":-122.6996,"area":"Nob Hill","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Inn at Northrup Station","lat":45.5315,"lng":-122.6935,"area":"Nob Hill","stars":3,"priceTier":3},
+    {"name":"Northwest Portland Hostel","lat":45.5261,"lng":-122.6898,"area":"Nob Hill","stars":1,"priceTier":1}
   ],
   "sights": [
     {
@@ -353,7 +303,6 @@
       "lng": -122.7066,
       "note": "Twelve acres of stroll, tea and sand-and-stone gardens on a Washington Park hillside, with a Kengo Kuma-designed cultural village and Mount Hood views.",
       "hours": "Wed–Mon 10 AM–5:30 PM (grounds to 6:30 PM; longer in summer); closed Tue",
-      "rating": 4.5,
       "ticketUrl": "https://japanesegarden.org",
       "bookAhead": true
     },
@@ -362,8 +311,7 @@
       "lat": 45.519,
       "lng": -122.7053,
       "note": "Terraced beds of more than 10,000 rose bushes testing new varieties, peaking from late May through September, with free entry and city views.",
-      "hours": "Daily ~7:30 AM–9 PM; free",
-      "rating": 4.6
+      "hours": "Daily ~7:30 AM–9 PM; free"
     },
     {
       "name": "Lan Su Chinese Garden",
@@ -371,7 +319,6 @@
       "lng": -122.6735,
       "note": "A walled Ming-dynasty-style scholar's garden in Chinatown built by Suzhou artisans, with a lake, pavilions and a teahouse.",
       "hours": "Daily 10 AM–4:30 PM in fall/winter, 10 AM–6:30 PM spring/summer; last entry 30 min before close",
-      "rating": 4.6,
       "ticketUrl": "https://lansugarden.org"
     },
     {
@@ -380,7 +327,6 @@
       "lng": -122.5733,
       "note": "A Catholic sanctuary with a rock-cave altar at the foot of a cliff and an elevator up to forested upper gardens with Columbia River views.",
       "hours": "Daily ~9 AM–5 PM (shorter in winter; extended for the Christmas Festival of Lights)",
-      "rating": 4.6,
       "ticketUrl": "https://thegrotto.org"
     },
     {
@@ -389,7 +335,6 @@
       "lng": -122.7163,
       "note": "A 1914 French Renaissance-style house museum high in the West Hills, with period rooms and a lawn overlooking the city and the Cascade volcanoes.",
       "hours": "Daily 10 AM–5 PM Apr–Oct, 9:30 AM–4:30 PM Nov–Jan, 10 AM–4 PM Feb–Mar; opens noon Tue",
-      "rating": 4.5,
       "ticketUrl": "https://pittockmansion.org"
     },
     {
@@ -397,8 +342,7 @@
       "lat": 45.5355,
       "lng": -122.7118,
       "note": "One of the largest urban forests in the US, with 80+ miles of trails; the Lower Macleay trailhead leads up a creek canyon toward the Stone House and Pittock Mansion.",
-      "hours": "Daily 5 AM–10 PM; free",
-      "rating": 4.7
+      "hours": "Daily 5 AM–10 PM; free"
     },
     {
       "name": "Portland Art Museum",
@@ -406,7 +350,6 @@
       "lng": -122.6833,
       "note": "The Pacific Northwest's oldest art museum, reopened in late 2025 with the glass Rothko Pavilion linking its two buildings and Native American, Asian and modern collections.",
       "hours": "Tue–Sun 10 AM–5 PM; closed Mon",
-      "rating": 4.4,
       "ticketUrl": "https://portlandartmuseum.org"
     },
     {
@@ -415,7 +358,6 @@
       "lng": -122.716,
       "note": "A hillside zoo in Washington Park known for its elephant habitat, Pacific Northwest species and the seasonal ZooLights; it has its own MAX station.",
       "hours": "Daily from ~9:30 AM (9 AM spring/summer) to ~4–6 PM by season",
-      "rating": 4.3,
       "ticketUrl": "https://www.oregonzoo.org",
       "bookAhead": true
     },
@@ -424,8 +366,7 @@
       "lat": 45.5155,
       "lng": -122.7155,
       "note": "A free 190-acre tree museum of about 2,300 species from around the world, laced with short trails a few minutes from the Washington Park MAX station.",
-      "hours": "Grounds daily 5 AM–10 PM; visitor center shorter hours",
-      "rating": 4.7
+      "hours": "Grounds daily 5 AM–10 PM; visitor center shorter hours"
     },
     {
       "name": "Oregon Museum of Science and Industry (OMSI)",
@@ -433,7 +374,6 @@
       "lng": -122.6655,
       "note": "A hands-on science museum on the east bank of the Willamette with a planetarium, a giant-screen theater and a decommissioned Navy submarine you can tour.",
       "hours": "Sun–Fri 9:30 AM–5:30 PM, Sat 9:30 AM–7 PM",
-      "rating": 4.3,
       "ticketUrl": "https://omsi.edu"
     },
     {
@@ -441,24 +381,21 @@
       "lat": 45.5853,
       "lng": -122.7646,
       "note": "A 1931 Gothic-towered green suspension bridge over the Willamette, best seen from Cathedral Park below it.",
-      "hours": "Open 24 hours",
-      "rating": 4.6
+      "hours": "Open 24 hours"
     },
     {
       "name": "Portland Saturday Market",
       "lat": 45.5226,
       "lng": -122.6703,
       "note": "A long-running open-air arts and crafts market with handmade goods and food carts by the river near the Burnside Bridge.",
-      "hours": "Saturdays 10 AM–5 PM, March to Dec 24",
-      "rating": 4.3
+      "hours": "Saturdays 10 AM–5 PM, March to Dec 24"
     },
     {
       "name": "Crystal Springs Rhododendron Garden",
       "lat": 45.4796,
       "lng": -122.6355,
       "note": "A lakeside garden in southeast Portland with thousands of rhododendrons and azaleas that bloom brightest in April and May, plus resident waterfowl.",
-      "hours": "Daily ~6 AM–10 PM; small fee Mar–Sep",
-      "rating": 4.7
+      "hours": "Daily ~6 AM–10 PM; small fee Mar–Sep"
     },
     {
       "name": "Portland Aerial Tram",
@@ -466,7 +403,6 @@
       "lng": -122.6714,
       "note": "A commuter cable car rising from South Waterfront to OHSU on Marquam Hill, with a quick ride and big views of Mount Hood and the city.",
       "hours": "Mon–Fri 5:30 AM–9:30 PM, Sat 9 AM–5 PM; closed Sun and holidays",
-      "rating": 4.2,
       "ticketUrl": "https://www.portland.gov/transportation/aerial-tram"
     },
     {
@@ -475,7 +411,6 @@
       "lng": -122.6826,
       "note": "A museum on the South Park Blocks telling Oregon's story from Indigenous nations and the Oregon Trail to modern Portland.",
       "hours": "Mon–Sat 10 AM–5 PM, Sun noon–5 PM",
-      "rating": 4.4,
       "ticketUrl": "https://www.ohs.org"
     },
     {
@@ -483,16 +418,14 @@
       "lat": 45.511,
       "lng": -122.6847,
       "note": "The city's flagship farmers market under the trees of the South Park Blocks, full of Oregon produce, baked goods and breakfast stalls.",
-      "hours": "Saturdays ~8:30 AM–2 PM (9 AM start in winter)",
-      "rating": 4.7
+      "hours": "Saturdays ~8:30 AM–2 PM (9 AM start in winter)"
     },
     {
       "name": "Tom McCall Waterfront Park",
       "lat": 45.515,
       "lng": -122.6733,
       "note": "A free riverfront promenade along the Willamette, with the Salmon Street Springs fountain, cherry trees and views of the bridges.",
-      "hours": "Daily 5 AM–midnight; free",
-      "rating": 4.1
+      "hours": "Daily 5 AM–midnight; free"
     }
   ],
   "railStations": [

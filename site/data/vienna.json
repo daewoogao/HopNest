@@ -159,36 +159,36 @@
     }
   ],
   "hotels": [
-    {"name":"Novotel Wien Hauptbahnhof","lat":48.1857,"lng":16.3792,"area":"Wien Hauptbahnhof","rating":4.3,"ratingCount":1071,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Hyatt Regency Vienna (formerly Andaz Am Belvedere)","lat":48.1849,"lng":16.383,"area":"Wien Hauptbahnhof","rating":4.6,"ratingCount":1386,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"ibis Wien Hauptbahnhof","lat":48.1857,"lng":16.3787,"area":"Wien Hauptbahnhof","rating":4.3,"ratingCount":1024,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"Motel One Wien-Hauptbahnhof","lat":48.1837,"lng":16.3783,"area":"Wien Hauptbahnhof","rating":4.3,"ratingCount":1165,"stars":3,"priceTier":2},
-    {"name":"Zeitgeist Vienna Hotel + Lokal","lat":48.1824,"lng":16.3781,"area":"Wien Hauptbahnhof","rating":4.5,"ratingCount":3492,"stars":4,"priceTier":3},
-    {"name":"Park Hyatt Vienna","lat":48.2105,"lng":16.3684,"area":"Innere Stadt","rating":4.8,"ratingCount":2289,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Hotel Mercure Vienna First","lat":48.2114,"lng":16.374,"area":"Innere Stadt","rating":4.4,"ratingCount":918,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Boutique Hotel Am Stephansplatz","lat":48.2088,"lng":16.372,"area":"Innere Stadt","rating":4.8,"ratingCount":4325,"stars":4,"priceTier":3},
-    {"name":"Hotel Austria","lat":48.2102,"lng":16.3773,"area":"Innere Stadt","rating":4.6,"ratingCount":1991,"stars":3,"priceTier":2},
-    {"name":"Pension City","lat":48.2099,"lng":16.3727,"area":"Innere Stadt","rating":4.4,"ratingCount":305,"stars":3,"priceTier":2},
-    {"name":"Hotel Imperial, a Luxury Collection Hotel, Vienna","lat":48.2011,"lng":16.3731,"area":"Opera","rating":4.7,"ratingCount":2053,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Hotel Kaiserhof Wien","lat":48.1976,"lng":16.3686,"area":"Opera","rating":4.8,"ratingCount":3850,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Hotel Sacher Wien","lat":48.2041,"lng":16.3698,"area":"Opera","rating":4.7,"ratingCount":2670,"stars":5,"priceTier":4},
-    {"name":"The Cloud One Hotel Wien-Staatsoper","lat":48.2016,"lng":16.3681,"area":"Opera","rating":4.3,"ratingCount":1670,"stars":3,"priceTier":2},
-    {"name":"Wombat's City Hostel Vienna Naschmarkt","lat":48.1969,"lng":16.3608,"area":"Opera","rating":4.3,"ratingCount":2693,"stars":1,"priceTier":1},
-    {"name":"25hours Hotel at MuseumsQuartier","lat":48.2065,"lng":16.3545,"area":"Neubau","rating":4.4,"ratingCount":3177,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Hotel Sans Souci Wien","lat":48.2046,"lng":16.3565,"area":"Neubau","rating":4.9,"ratingCount":3131,"stars":5,"priceTier":4},
-    {"name":"Hotel Altstadt Vienna","lat":48.2048,"lng":16.3513,"area":"Neubau","rating":4.8,"ratingCount":4369,"stars":4,"priceTier":3},
-    {"name":"Boutiquehotel Das Tyrol","lat":48.2009,"lng":16.3593,"area":"Neubau","rating":4.8,"ratingCount":2059,"stars":4,"priceTier":3},
-    {"name":"Hotel-Pension Wild","lat":48.2074,"lng":16.3529,"area":"Neubau","rating":4.3,"ratingCount":404,"stars":2,"priceTier":2},
-    {"name":"ibis Styles Wien Messe Prater","lat":48.2143,"lng":16.3911,"area":"Leopoldstadt","rating":4.1,"ratingCount":276,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"Austria Classic Hotel Wien","lat":48.2171,"lng":16.3895,"area":"Leopoldstadt","rating":4.6,"ratingCount":2438,"stars":4,"priceTier":3},
-    {"name":"Der Wilhelmshof","lat":48.2186,"lng":16.3882,"area":"Leopoldstadt","rating":4.6,"ratingCount":2488,"stars":4,"priceTier":3},
-    {"name":"Henriette Stadthotel Vienna","lat":48.2154,"lng":16.3862,"area":"Leopoldstadt","rating":4.7,"ratingCount":2792,"stars":4,"priceTier":3},
-    {"name":"The Social Hub Vienna","lat":48.223,"lng":16.3901,"area":"Leopoldstadt","rating":4.3,"ratingCount":960,"stars":3,"priceTier":2},
-    {"name":"Hilton Vienna Park","lat":48.206,"lng":16.3833,"area":"Landstraße","rating":4.3,"ratingCount":1004,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"InterContinental Vienna by IHG","lat":48.2018,"lng":16.379,"area":"Landstraße","rating":4.2,"ratingCount":2748,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Grand Mercure Hotel Biedermeier","lat":48.2034,"lng":16.3878,"area":"Landstraße","rating":4.1,"ratingCount":1843,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Ruby Sofie Hotel Vienna by IHG","lat":48.2067,"lng":16.3913,"area":"Landstraße","rating":4.3,"ratingCount":1443,"stars":4,"priceTier":2,"brandAnchor":true},
-    {"name":"MOXY Vienna Airport","lat":48.1234,"lng":16.5659,"area":"Vienna International Airport","rating":3.8,"ratingCount":1110,"stars":3,"priceTier":2,"brandAnchor":true,"airportException":true}
+    {"name":"Novotel Wien Hauptbahnhof","lat":48.1857,"lng":16.3792,"area":"Wien Hauptbahnhof","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hyatt Regency Vienna (formerly Andaz Am Belvedere)","lat":48.1849,"lng":16.383,"area":"Wien Hauptbahnhof","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"ibis Wien Hauptbahnhof","lat":48.1857,"lng":16.3787,"area":"Wien Hauptbahnhof","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Motel One Wien-Hauptbahnhof","lat":48.1837,"lng":16.3783,"area":"Wien Hauptbahnhof","stars":3,"priceTier":2},
+    {"name":"Zeitgeist Vienna Hotel + Lokal","lat":48.1824,"lng":16.3781,"area":"Wien Hauptbahnhof","stars":4,"priceTier":3},
+    {"name":"Park Hyatt Vienna","lat":48.2105,"lng":16.3684,"area":"Innere Stadt","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Hotel Mercure Vienna First","lat":48.2114,"lng":16.374,"area":"Innere Stadt","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Boutique Hotel Am Stephansplatz","lat":48.2088,"lng":16.372,"area":"Innere Stadt","stars":4,"priceTier":3},
+    {"name":"Hotel Austria","lat":48.2102,"lng":16.3773,"area":"Innere Stadt","stars":3,"priceTier":2},
+    {"name":"Pension City","lat":48.2099,"lng":16.3727,"area":"Innere Stadt","stars":3,"priceTier":2},
+    {"name":"Hotel Imperial, a Luxury Collection Hotel, Vienna","lat":48.2011,"lng":16.3731,"area":"Opera","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Hotel Kaiserhof Wien","lat":48.1976,"lng":16.3686,"area":"Opera","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hotel Sacher Wien","lat":48.2041,"lng":16.3698,"area":"Opera","stars":5,"priceTier":4},
+    {"name":"The Cloud One Hotel Wien-Staatsoper","lat":48.2016,"lng":16.3681,"area":"Opera","stars":3,"priceTier":2},
+    {"name":"Wombat's City Hostel Vienna Naschmarkt","lat":48.1969,"lng":16.3608,"area":"Opera","stars":1,"priceTier":1},
+    {"name":"25hours Hotel at MuseumsQuartier","lat":48.2065,"lng":16.3545,"area":"Neubau","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hotel Sans Souci Wien","lat":48.2046,"lng":16.3565,"area":"Neubau","stars":5,"priceTier":4},
+    {"name":"Hotel Altstadt Vienna","lat":48.2048,"lng":16.3513,"area":"Neubau","stars":4,"priceTier":3},
+    {"name":"Boutiquehotel Das Tyrol","lat":48.2009,"lng":16.3593,"area":"Neubau","stars":4,"priceTier":3},
+    {"name":"Hotel-Pension Wild","lat":48.2074,"lng":16.3529,"area":"Neubau","stars":2,"priceTier":2},
+    {"name":"ibis Styles Wien Messe Prater","lat":48.2143,"lng":16.3911,"area":"Leopoldstadt","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Austria Classic Hotel Wien","lat":48.2171,"lng":16.3895,"area":"Leopoldstadt","stars":4,"priceTier":3},
+    {"name":"Der Wilhelmshof","lat":48.2186,"lng":16.3882,"area":"Leopoldstadt","stars":4,"priceTier":3},
+    {"name":"Henriette Stadthotel Vienna","lat":48.2154,"lng":16.3862,"area":"Leopoldstadt","stars":4,"priceTier":3},
+    {"name":"The Social Hub Vienna","lat":48.223,"lng":16.3901,"area":"Leopoldstadt","stars":3,"priceTier":2},
+    {"name":"Hilton Vienna Park","lat":48.206,"lng":16.3833,"area":"Landstraße","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"InterContinental Vienna by IHG","lat":48.2018,"lng":16.379,"area":"Landstraße","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Grand Mercure Hotel Biedermeier","lat":48.2034,"lng":16.3878,"area":"Landstraße","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Ruby Sofie Hotel Vienna by IHG","lat":48.2067,"lng":16.3913,"area":"Landstraße","stars":4,"priceTier":2,"brandAnchor":true},
+    {"name":"MOXY Vienna Airport","lat":48.1234,"lng":16.5659,"area":"Vienna International Airport","stars":3,"priceTier":2,"brandAnchor":true,"airportException":true}
   ],
   "sights": [
     {
@@ -197,7 +197,6 @@
       "lng": 16.3122,
       "note": "The Habsburgs' Baroque summer palace with 40 state rooms open to visitors and vast formal gardens climbing to the Gloriette.",
       "hours": "State rooms ~8:30 AM–5:30 PM daily (to 5:00 PM Nov–Mar, 6:30 PM Jul–Aug); gardens from 6:30 AM, free",
-      "rating": 4.6,
       "ticketUrl": "https://www.schoenbrunn.at/en/",
       "bookAhead": true
     },
@@ -207,7 +206,6 @@
       "lng": 16.3617,
       "note": "The imperial art collection under a grand cupola: Bruegel, Vermeer, Raphael, Titian and an Egyptian wing. Time-slot tickets only from September 2026.",
       "hours": "10:00 AM–6:00 PM daily, till 9:00 PM Thu",
-      "rating": 4.7,
       "ticketUrl": "https://www.khm.at/en/",
       "bookAhead": true
     },
@@ -217,7 +215,6 @@
       "lng": 16.3809,
       "note": "Two Baroque palaces linked by terraced gardens; the Upper Belvedere holds Klimt's The Kiss and other Austrian masterpieces.",
       "hours": "Upper Belvedere 9:00 AM–6:00 PM daily; Lower Belvedere 10:00 AM–6:00 PM",
-      "rating": 4.5,
       "ticketUrl": "https://www.belvedere.at/en"
     },
     {
@@ -226,7 +223,6 @@
       "lng": 16.3731,
       "note": "Vienna's Gothic landmark with a patterned tile roof; climb the 343-step south tower or tour the catacombs.",
       "hours": "~6:00 AM–10:00 PM (Sun from 7:00 AM); tourist visits limited during services",
-      "rating": 4.4,
       "ticketUrl": "https://www.stephanskirche.at/"
     },
     {
@@ -235,7 +231,6 @@
       "lng": 16.3655,
       "note": "The sprawling imperial palace: the Imperial Apartments, Silver Collection and Sisi Museum, which reopens redesigned on 19 November 2026.",
       "hours": "10:00 AM–4:30 PM daily until 18 Nov 2026 (Sisi Museum closed); longer hours after reopening",
-      "rating": 4.5,
       "ticketUrl": "https://www.sisimuseum-hofburg.at/en/"
     },
     {
@@ -244,7 +239,6 @@
       "lng": 16.3672,
       "note": "A soaring Baroque library hall of frescoes, marble and 200,000 old volumes off Josefsplatz.",
       "hours": "9:00 AM–6:00 PM, till 9:00 PM Thu; closed Mon Oct–May",
-      "rating": 4.6,
       "ticketUrl": "https://www.onb.ac.at/en/"
     },
     {
@@ -253,7 +247,6 @@
       "lng": 16.3029,
       "note": "The world's oldest zoo, founded in 1752 in the Schönbrunn grounds, now home to giant pandas and a rainforest house.",
       "hours": "9:00 AM–4:30 PM Nov–Jan, to 6:30 PM Apr–Sep (varies by month)",
-      "rating": 4.6,
       "ticketUrl": "https://www.zoovienna.at/en/"
     },
     {
@@ -262,7 +255,6 @@
       "lng": 16.3681,
       "note": "A Habsburg palace on the old city bastion with lavish state rooms and a modern collection from Monet to Picasso.",
       "hours": "10:00 AM–6:00 PM daily, till 9:00 PM Wed & Fri",
-      "rating": 4.5,
       "ticketUrl": "https://www.albertina.at/en/"
     },
     {
@@ -271,7 +263,6 @@
       "lng": 16.369,
       "note": "The Vienna State Opera on the Ring: book a performance, grab a cheap standing ticket, or take a backstage guided tour.",
       "hours": "Guided tours most days; performances evenings Sep–Jun",
-      "rating": 4.5,
       "ticketUrl": "https://www.wiener-staatsoper.at/en/",
       "bookAhead": true
     },
@@ -281,7 +272,6 @@
       "lng": 16.3958,
       "note": "A huge public park with an old-school funfair at its edge, crowned by the 1897 Riesenrad Ferris wheel.",
       "hours": "Park always open; Ferris wheel ~10:00 AM–9:45 PM (shorter in winter)",
-      "rating": 4,
       "ticketUrl": "https://wienerriesenrad.com/en/"
     },
     {
@@ -290,7 +280,6 @@
       "lng": 16.36,
       "note": "The natural history twin of the art museum across the square: dinosaurs, meteorites and the 29,500-year-old Venus of Willendorf.",
       "hours": "9:00 AM–6:00 PM, till 8:00 PM Wed, closed Tue",
-      "rating": 4.6,
       "ticketUrl": "https://www.nhm.at/en"
     },
     {
@@ -299,7 +288,6 @@
       "lng": 16.3593,
       "note": "The world's largest Egon Schiele collection plus Klimt and Viennese Secession design, inside the MuseumsQuartier.",
       "hours": "10:00 AM–6:00 PM, closed Tue",
-      "rating": 4.5,
       "ticketUrl": "https://www.leopoldmuseum.org/en"
     },
     {
@@ -307,24 +295,21 @@
       "lat": 48.2094,
       "lng": 16.3701,
       "note": "A jewel-box Baroque church just off the Graben with a green oval dome and frequent free organ recitals.",
-      "hours": "Mon–Fri 7:00 AM–8:00 PM, Sat–Sun 9:00 AM–9:00 PM",
-      "rating": 4.6
+      "hours": "Mon–Fri 7:00 AM–8:00 PM, Sat–Sun 9:00 AM–9:00 PM"
     },
     {
       "name": "Hundertwasserhaus",
       "lat": 48.2071,
       "lng": 16.3942,
       "note": "A wavy, multicoloured council housing block with trees on its roofs, designed by artist Friedensreich Hundertwasser.",
-      "hours": "Exterior viewable any time (residential, no entry)",
-      "rating": 4.2
+      "hours": "Exterior viewable any time (residential, no entry)"
     },
     {
       "name": "Vienna City Hall (Rathaus)",
       "lat": 48.2108,
       "lng": 16.3573,
       "note": "A neo-Gothic city hall whose square hosts the Christmas market, an ice rink and summer film festivals.",
-      "hours": "Free guided tours Mon, Wed & Fri at 1:00 PM (except during sessions); square always open",
-      "rating": 4.6
+      "hours": "Free guided tours Mon, Wed & Fri at 1:00 PM (except during sessions); square always open"
     },
     {
       "name": "Imperial Crypt (Kapuzinergruft)",
@@ -332,7 +317,6 @@
       "lng": 16.3698,
       "note": "The burial vault of the Habsburgs beneath the Capuchin church, with ornate tombs of Maria Theresa, Franz Joseph and Sisi.",
       "hours": "10:00 AM–6:00 PM daily (Thu from 9:00 AM)",
-      "rating": 4.3,
       "ticketUrl": "https://www.kapuzinergruft.com/"
     },
     {
@@ -340,16 +324,14 @@
       "lat": 48.1985,
       "lng": 16.3632,
       "note": "Vienna's long open-air food market along the Wienzeile, with produce stalls, deli counters and cafés; a flea market joins on Saturdays.",
-      "hours": "Mon–Fri 6:00 AM–7:30 PM, Sat 6:00 AM–5:00 PM, closed Sun",
-      "rating": 3.7
+      "hours": "Mon–Fri 6:00 AM–7:30 PM, Sat 6:00 AM–5:00 PM, closed Sun"
     },
     {
       "name": "Kahlenberg",
       "lat": 48.2763,
       "lng": 16.3367,
       "note": "A wooded hilltop in the Vienna Woods with a free terrace view over the city, the Danube and the vineyards below; bus 38A from Grinzing.",
-      "hours": "Viewpoint always open",
-      "rating": 4.5
+      "hours": "Viewpoint always open"
     }
   ],
   "railStations": [

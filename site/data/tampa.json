@@ -28,45 +28,25 @@
     }
   ],
   "hotels": [
-    {"name":"Hampton Inn Tampa Downtown Channel District","lat":27.9501,"lng":-82.4485,"area":"Tampa Union Station","rating":4.3,"ratingCount":220,"stars":3,"priceTier":2,"brandAnchor":true},
-    {
-      "name": "Home2 Suites by Hilton Tampa Downtown Channel District",
-      "lat": 27.9501,
-      "lng": -82.4485,
-      "area": "Tampa Union Station",
-      "rating": 4.3,
-      "ratingCount": 148,
-      "stars": 3,
-      "priceTier": 2,
-      "brandAnchor": true
-    },
-    {"name":"Tampa Airport Marriott","lat":27.9816,"lng":-82.5346,"area":"Tampa International Airport","rating":4.4,"ratingCount":1605,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Grand Hyatt Tampa Bay","lat":27.9652,"lng":-82.5501,"area":"Tampa International Airport","rating":4.3,"ratingCount":477,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Hilton Garden Inn Tampa Airport Westshore","lat":27.9578,"lng":-82.5334,"area":"Tampa International Airport","rating":4.6,"ratingCount":2394,"stars":3,"priceTier":3,"brandAnchor":true},
-    {
-      "name": "Hampton Inn & Suites Tampa Airport Avion Park Westshore",
-      "lat": 27.9593,
-      "lng": -82.5338,
-      "area": "Tampa International Airport",
-      "rating": 4.5,
-      "ratingCount": 735,
-      "stars": 3,
-      "priceTier": 2,
-      "brandAnchor": true
-    },
-    {"name":"Hilton Tampa Downtown","lat":27.9462,"lng":-82.4577,"area":"Downtown Tampa","rating":4.3,"ratingCount":2675,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Hyatt Place Tampa Downtown","lat":27.9478,"lng":-82.4565,"area":"Downtown Tampa","rating":4.6,"ratingCount":1303,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"Hotel Flor Tampa Downtown, Tapestry Collection by Hilton","lat":27.952,"lng":-82.4586,"area":"Downtown Tampa","rating":4.7,"ratingCount":401,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Le Méridien Tampa, The Courthouse","lat":27.95,"lng":-82.4574,"area":"Downtown Tampa","rating":4.2,"ratingCount":747,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Courtyard by Marriott Tampa Downtown","lat":27.9512,"lng":-82.4609,"area":"Downtown Tampa","rating":4.1,"ratingCount":714,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"Tampa Marriott Water Street","lat":27.9409,"lng":-82.4539,"area":"Water Street","rating":4.2,"ratingCount":3689,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"JW Marriott Tampa Water Street","lat":27.9419,"lng":-82.4537,"area":"Water Street","rating":4.2,"ratingCount":212,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"The Westin Tampa Waterside","lat":27.9385,"lng":-82.4546,"area":"Water Street","rating":4.3,"ratingCount":4703,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Embassy Suites by Hilton Tampa Downtown Convention Center","lat":27.9423,"lng":-82.4551,"area":"Water Street","rating":4.5,"ratingCount":1101,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"ROOST Tampa","lat":27.9447,"lng":-82.4507,"area":"Water Street","rating":4.8,"ratingCount":385,"stars":4,"priceTier":3},
-    {"name":"Hilton Garden Inn Tampa Ybor Historic District","lat":27.9621,"lng":-82.4398,"area":"Ybor City","rating":4.1,"ratingCount":1019,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"Hotel Haya","lat":27.9606,"lng":-82.4436,"area":"Ybor City","rating":4.6,"ratingCount":2042,"stars":4,"priceTier":3},
-    {"name":"Hampton Inn & Suites Tampa/Ybor City/Downtown","lat":27.9599,"lng":-82.445,"area":"Ybor City","rating":4.2,"ratingCount":1854,"stars":3,"priceTier":2,"brandAnchor":true}
+    {"name":"Hampton Inn Tampa Downtown Channel District","lat":27.9501,"lng":-82.4485,"area":"Tampa Union Station","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Home2 Suites by Hilton Tampa Downtown Channel District","lat":27.9501,"lng":-82.4485,"area":"Tampa Union Station","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Tampa Airport Marriott","lat":27.9816,"lng":-82.5346,"area":"Tampa International Airport","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Grand Hyatt Tampa Bay","lat":27.9652,"lng":-82.5501,"area":"Tampa International Airport","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hilton Garden Inn Tampa Airport Westshore","lat":27.9578,"lng":-82.5334,"area":"Tampa International Airport","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Hampton Inn & Suites Tampa Airport Avion Park Westshore","lat":27.9593,"lng":-82.5338,"area":"Tampa International Airport","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Hilton Tampa Downtown","lat":27.9462,"lng":-82.4577,"area":"Downtown Tampa","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hyatt Place Tampa Downtown","lat":27.9478,"lng":-82.4565,"area":"Downtown Tampa","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Hotel Flor Tampa Downtown, Tapestry Collection by Hilton","lat":27.952,"lng":-82.4586,"area":"Downtown Tampa","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Le Méridien Tampa, The Courthouse","lat":27.95,"lng":-82.4574,"area":"Downtown Tampa","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Courtyard by Marriott Tampa Downtown","lat":27.9512,"lng":-82.4609,"area":"Downtown Tampa","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Tampa Marriott Water Street","lat":27.9409,"lng":-82.4539,"area":"Water Street","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"JW Marriott Tampa Water Street","lat":27.9419,"lng":-82.4537,"area":"Water Street","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"The Westin Tampa Waterside","lat":27.9385,"lng":-82.4546,"area":"Water Street","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Embassy Suites by Hilton Tampa Downtown Convention Center","lat":27.9423,"lng":-82.4551,"area":"Water Street","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"ROOST Tampa","lat":27.9447,"lng":-82.4507,"area":"Water Street","stars":4,"priceTier":3},
+    {"name":"Hilton Garden Inn Tampa Ybor Historic District","lat":27.9621,"lng":-82.4398,"area":"Ybor City","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Hotel Haya","lat":27.9606,"lng":-82.4436,"area":"Ybor City","stars":4,"priceTier":3},
+    {"name":"Hampton Inn & Suites Tampa/Ybor City/Downtown","lat":27.9599,"lng":-82.445,"area":"Ybor City","stars":3,"priceTier":2,"brandAnchor":true}
   ],
   "sights": [
     {
@@ -75,7 +55,6 @@
       "lng": -82.4194,
       "note": "Big Africa-themed theme park and zoo with some of Florida's tallest roller coasters; ~12 km north of downtown, no streetcar link (car or rideshare ~20 min).",
       "hours": "Opens 10:00 AM; closes 5:00–10:00 PM depending on date (later on weekends and in late November)",
-      "rating": 4.1,
       "ticketUrl": "https://buschgardens.com/tampa/"
     },
     {
@@ -84,7 +63,6 @@
       "lng": -82.4451,
       "note": "Large aquarium on the Channelside waterfront with a coral-reef gallery, a wetlands trail and a shark tank, steps from the Florida Aquarium streetcar stop.",
       "hours": "Mon–Thu 10:00 AM–4:00 PM, Fri–Sun 9:00 AM–5:00 PM; closed Thanksgiving & Christmas",
-      "rating": 4.2,
       "ticketUrl": "https://www.flaquarium.org/"
     },
     {
@@ -93,7 +71,6 @@
       "lng": -82.4697,
       "note": "Leafy zoo north of downtown known for its manatee rescue center, Florida wildlife and African and Asian habitats.",
       "hours": "9:30 AM–5:00 PM daily; closed Thanksgiving & Christmas",
-      "rating": 4.3,
       "ticketUrl": "https://zootampa.org/"
     },
     {
@@ -101,16 +78,14 @@
       "lat": 27.948,
       "lng": -82.4613,
       "note": "A 4 km waterfront path along the Hillsborough River linking downtown parks, museums, bars and the Straz Center.",
-      "hours": "Open 24 hours",
-      "rating": 4.5
+      "hours": "Open 24 hours"
     },
     {
       "name": "Ybor City",
       "lat": 27.9603,
       "lng": -82.442,
       "note": "Tampa's historic Cuban, Spanish and Italian cigar-making quarter: brick streets, cigar shops, free-roaming chickens and the city's liveliest nightlife on 7th Avenue.",
-      "hours": "Streets always open; 7th Avenue busiest Thu–Sat nights",
-      "rating": 4
+      "hours": "Streets always open; 7th Avenue busiest Thu–Sat nights"
     },
     {
       "name": "Henry B. Plant Museum",
@@ -118,7 +93,6 @@
       "lng": -82.4649,
       "note": "Gilded Age interiors inside the Moorish-revival Tampa Bay Hotel of 1891, now the University of Tampa's landmark with silver minarets.",
       "hours": "Tue–Sat 10:00 AM–5:00 PM, Sun noon–5:00 PM, closed Mon",
-      "rating": 4.5,
       "ticketUrl": "https://www.plantmuseum.com/"
     },
     {
@@ -126,16 +100,14 @@
       "lat": 27.9322,
       "lng": -82.4727,
       "note": "Some 7 km of continuous waterfront sidewalk along Hillsborough Bay, popular for sunset walks, runs and bike rides.",
-      "hours": "Open 24 hours",
-      "rating": 4.5
+      "hours": "Open 24 hours"
     },
     {
       "name": "Lettuce Lake Park",
       "lat": 28.073,
       "lng": -82.3745,
       "note": "Cypress-swamp boardwalk park on the Hillsborough River where alligators, wading birds and turtles are easy to spot; ~17 km northeast, car needed. Parts of the boardwalk, the observation tower and the canoe launch are closed for repairs.",
-      "hours": "8:00 AM–6:00 PM fall/winter, to 7:00 PM spring/summer; $2 per car (cash)",
-      "rating": 4.6
+      "hours": "8:00 AM–6:00 PM fall/winter, to 7:00 PM spring/summer; $2 per car (cash)"
     },
     {
       "name": "Tampa Bay History Center",
@@ -143,7 +115,6 @@
       "lng": -82.4493,
       "note": "Three floors on Tampa Bay's story, from Native peoples to Cuban cigar workers and a walk-through pirate ship exhibit.",
       "hours": "10:00 AM–5:00 PM daily",
-      "rating": 4.4,
       "ticketUrl": "https://tampabayhistorycenter.org/"
     },
     {
@@ -151,24 +122,21 @@
       "lat": 27.951,
       "lng": -82.4583,
       "note": "Ornate 1926 movie palace with a twinkling-star ceiling, just reopened after a restoration for its 100th birthday; films, concerts and guided tours.",
-      "hours": "Showtimes vary; box office opens before each screening",
-      "rating": 4.8
+      "hours": "Showtimes vary; box office opens before each screening"
     },
     {
       "name": "Wat Mongkolratanaram",
       "lat": 27.9439,
       "lng": -82.395,
       "note": "Thai Buddhist temple by the Palm River famous for its Sunday morning Thai food market run by volunteers.",
-      "hours": "Sunday market ~9:00 AM–1:00 PM (cash only); temple grounds open most days",
-      "rating": 4.6
+      "hours": "Sunday market ~9:00 AM–1:00 PM (cash only); temple grounds open most days"
     },
     {
       "name": "Straz Center for the Performing Arts",
       "lat": 27.9535,
       "lng": -82.4623,
       "note": "Riverfront arts complex staging Broadway tours, opera, ballet and concerts across five theaters.",
-      "hours": "Performance times vary; box office open daily",
-      "rating": 4.5
+      "hours": "Performance times vary; box office open daily"
     },
     {
       "name": "American Victory Ship and Museum",
@@ -176,7 +144,6 @@
       "lng": -82.4463,
       "note": "A restored 1945 cargo ship you can explore from bridge to engine room, moored next to the Florida Aquarium.",
       "hours": "Mon noon–5:00 PM, Tue–Sun 10:00 AM–5:00 PM",
-      "rating": 4.1,
       "ticketUrl": "https://www.americanvictory.org/"
     },
     {
@@ -184,8 +151,7 @@
       "lat": 27.9447,
       "lng": -82.448,
       "note": "Waterfront food-and-drink spot built from shipping containers, with a lawn, a beer garden and live music beside the Channelside streetcar stops.",
-      "hours": "~11:00 AM–10:00 PM, later on Fri & Sat",
-      "rating": 4.3
+      "hours": "~11:00 AM–10:00 PM, later on Fri & Sat"
     },
     {
       "name": "Armature Works",

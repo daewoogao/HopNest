@@ -114,74 +114,34 @@
     }
   ],
   "hotels": [
-    {"name":"InterContinental San Diego","lat":32.7163,"lng":-117.1719,"area":"Santa Fe Depot","rating":4.5,"ratingCount":1179,"stars":4,"priceTier":4,"brandAnchor":true},
-    {"name":"The Westin San Diego Bayview","lat":32.7161,"lng":-117.1669,"area":"Santa Fe Depot","rating":4.4,"ratingCount":3086,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Embassy Suites by Hilton San Diego Bay Downtown","lat":32.712,"lng":-117.1705,"area":"Santa Fe Depot","rating":4.4,"ratingCount":3988,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"The Guild Hotel, a Tribute Portfolio Hotel","lat":32.716,"lng":-117.1679,"area":"Santa Fe Depot","rating":4.5,"ratingCount":534,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"The Bristol Hotel","lat":32.7164,"lng":-117.1636,"area":"Santa Fe Depot","rating":4.2,"ratingCount":1695,"stars":3,"priceTier":2},
-    {"name":"Hilton San Diego Airport/Harbor Island","lat":32.7252,"lng":-117.209,"area":"San Diego International Airport","rating":4.2,"ratingCount":1808,"stars":4,"priceTier":3,"brandAnchor":true},
-    {
-      "name": "Courtyard San Diego Airport/Liberty Station",
-      "lat": 32.7308,
-      "lng": -117.2157,
-      "area": "San Diego International Airport",
-      "rating": 4.6,
-      "ratingCount": 1825,
-      "stars": 3,
-      "priceTier": 3,
-      "brandAnchor": true
-    },
-    {
-      "name": "Homewood Suites by Hilton San Diego Airport-Liberty Station",
-      "lat": 32.7295,
-      "lng": -117.2158,
-      "area": "San Diego International Airport",
-      "rating": 4.6,
-      "ratingCount": 2161,
-      "stars": 3,
-      "priceTier": 3,
-      "brandAnchor": true
-    },
-    {
-      "name": "Hampton Inn & Suites San Diego Airport Liberty Station",
-      "lat": 32.7297,
-      "lng": -117.2109,
-      "area": "San Diego International Airport",
-      "rating": 4.3,
-      "ratingCount": 349,
-      "stars": 3,
-      "priceTier": 2,
-      "brandAnchor": true
-    },
-    {
-      "name": "TownePlace Suites San Diego Airport/Liberty Station",
-      "lat": 32.7305,
-      "lng": -117.2109,
-      "area": "San Diego International Airport",
-      "rating": 4.1,
-      "ratingCount": 123,
-      "stars": 2,
-      "priceTier": 2,
-      "brandAnchor": true
-    },
-    {"name":"Hilton San Diego Gaslamp Quarter","lat":32.708,"lng":-117.1607,"area":"Gaslamp Quarter","rating":4.7,"ratingCount":457,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Hotel Indigo San Diego Gaslamp Quarter","lat":32.7108,"lng":-117.1562,"area":"Gaslamp Quarter","rating":4.5,"ratingCount":2656,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Pendry San Diego","lat":32.7098,"lng":-117.1597,"area":"Gaslamp Quarter","rating":4.6,"ratingCount":2375,"stars":5,"priceTier":4},
-    {"name":"Hotel Z, Gaslamp","lat":32.7108,"lng":-117.1589,"area":"Gaslamp Quarter","rating":4.6,"ratingCount":2016,"stars":3,"priceTier":3},
-    {"name":"HI San Diego Downtown Hostel","lat":32.7113,"lng":-117.1598,"area":"Gaslamp Quarter","rating":4.1,"ratingCount":401,"stars":1,"priceTier":1},
-    {"name":"Carté Hotel San Diego Downtown, Curio Collection by Hilton","lat":32.7195,"lng":-117.1668,"area":"Little Italy","rating":4.5,"ratingCount":790,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Courtyard by Marriott San Diego Downtown Little Italy","lat":32.7224,"lng":-117.1652,"area":"Little Italy","rating":4.4,"ratingCount":49,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"Best Western Plus Bayside Inn","lat":32.7196,"lng":-117.1677,"area":"Little Italy","rating":4.2,"ratingCount":1995,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"Urban Boutique Hotel","lat":32.7227,"lng":-117.1677,"area":"Little Italy","rating":4.4,"ratingCount":1537,"stars":2,"priceTier":2},
-    {"name":"ITH San Diego Adventure Hostel","lat":32.7227,"lng":-117.165,"area":"Little Italy","rating":4.4,"ratingCount":262,"stars":1,"priceTier":1},
-    {"name":"Hilton Garden Inn San Diego Old Town/SeaWorld Area","lat":32.7585,"lng":-117.1981,"area":"Old Town","rating":4.2,"ratingCount":1263,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"Courtyard San Diego Old Town","lat":32.75,"lng":-117.1953,"area":"Old Town","rating":4.1,"ratingCount":309,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"Cosmopolitan Hotel & Restaurant","lat":32.7546,"lng":-117.1963,"area":"Old Town","rating":4.4,"ratingCount":312,"stars":3,"priceTier":3},
-    {"name":"Best Western Plus Hacienda Hotel Old Town","lat":32.7531,"lng":-117.1934,"area":"Old Town","rating":4,"ratingCount":2949,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"Old Town Inn","lat":32.7519,"lng":-117.2008,"area":"Old Town","rating":4.5,"ratingCount":2668,"stars":2,"priceTier":2},
-    {"name":"Town and Country San Diego","lat":32.7633,"lng":-117.1679,"area":"Mission Valley","rating":4.4,"ratingCount":811,"stars":3,"priceTier":3},
-    {"name":"Legacy Resort Hotel & Spa","lat":32.7593,"lng":-117.1707,"area":"Mission Valley","rating":4.6,"ratingCount":416,"stars":3,"priceTier":3},
-    {"name":"Holiday Inn Express & Suites San Diego - Mission Valley","lat":32.7593,"lng":-117.1692,"area":"Mission Valley","rating":4.4,"ratingCount":439,"stars":2,"priceTier":2,"brandAnchor":true}
+    {"name":"InterContinental San Diego","lat":32.7163,"lng":-117.1719,"area":"Santa Fe Depot","stars":4,"priceTier":4,"brandAnchor":true},
+    {"name":"The Westin San Diego Bayview","lat":32.7161,"lng":-117.1669,"area":"Santa Fe Depot","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Embassy Suites by Hilton San Diego Bay Downtown","lat":32.712,"lng":-117.1705,"area":"Santa Fe Depot","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"The Guild Hotel, a Tribute Portfolio Hotel","lat":32.716,"lng":-117.1679,"area":"Santa Fe Depot","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"The Bristol Hotel","lat":32.7164,"lng":-117.1636,"area":"Santa Fe Depot","stars":3,"priceTier":2},
+    {"name":"Hilton San Diego Airport/Harbor Island","lat":32.7252,"lng":-117.209,"area":"San Diego International Airport","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Courtyard San Diego Airport/Liberty Station","lat":32.7308,"lng":-117.2157,"area":"San Diego International Airport","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Homewood Suites by Hilton San Diego Airport-Liberty Station","lat":32.7295,"lng":-117.2158,"area":"San Diego International Airport","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Hampton Inn & Suites San Diego Airport Liberty Station","lat":32.7297,"lng":-117.2109,"area":"San Diego International Airport","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"TownePlace Suites San Diego Airport/Liberty Station","lat":32.7305,"lng":-117.2109,"area":"San Diego International Airport","stars":2,"priceTier":2,"brandAnchor":true},
+    {"name":"Hilton San Diego Gaslamp Quarter","lat":32.708,"lng":-117.1607,"area":"Gaslamp Quarter","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hotel Indigo San Diego Gaslamp Quarter","lat":32.7108,"lng":-117.1562,"area":"Gaslamp Quarter","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Pendry San Diego","lat":32.7098,"lng":-117.1597,"area":"Gaslamp Quarter","stars":5,"priceTier":4},
+    {"name":"Hotel Z, Gaslamp","lat":32.7108,"lng":-117.1589,"area":"Gaslamp Quarter","stars":3,"priceTier":3},
+    {"name":"HI San Diego Downtown Hostel","lat":32.7113,"lng":-117.1598,"area":"Gaslamp Quarter","stars":1,"priceTier":1},
+    {"name":"Carté Hotel San Diego Downtown, Curio Collection by Hilton","lat":32.7195,"lng":-117.1668,"area":"Little Italy","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Courtyard by Marriott San Diego Downtown Little Italy","lat":32.7224,"lng":-117.1652,"area":"Little Italy","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Best Western Plus Bayside Inn","lat":32.7196,"lng":-117.1677,"area":"Little Italy","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Urban Boutique Hotel","lat":32.7227,"lng":-117.1677,"area":"Little Italy","stars":2,"priceTier":2},
+    {"name":"ITH San Diego Adventure Hostel","lat":32.7227,"lng":-117.165,"area":"Little Italy","stars":1,"priceTier":1},
+    {"name":"Hilton Garden Inn San Diego Old Town/SeaWorld Area","lat":32.7585,"lng":-117.1981,"area":"Old Town","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Courtyard San Diego Old Town","lat":32.75,"lng":-117.1953,"area":"Old Town","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Cosmopolitan Hotel & Restaurant","lat":32.7546,"lng":-117.1963,"area":"Old Town","stars":3,"priceTier":3},
+    {"name":"Best Western Plus Hacienda Hotel Old Town","lat":32.7531,"lng":-117.1934,"area":"Old Town","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Old Town Inn","lat":32.7519,"lng":-117.2008,"area":"Old Town","stars":2,"priceTier":2},
+    {"name":"Town and Country San Diego","lat":32.7633,"lng":-117.1679,"area":"Mission Valley","stars":3,"priceTier":3},
+    {"name":"Legacy Resort Hotel & Spa","lat":32.7593,"lng":-117.1707,"area":"Mission Valley","stars":3,"priceTier":3},
+    {"name":"Holiday Inn Express & Suites San Diego - Mission Valley","lat":32.7593,"lng":-117.1692,"area":"Mission Valley","stars":2,"priceTier":2,"brandAnchor":true}
   ],
   "sights": [
     {
@@ -190,7 +150,6 @@
       "lng": -117.149,
       "note": "A huge hillside zoo in Balboa Park, known for its pandas, gorillas and koalas; the Skyfari aerial tram and guided bus tour help cover the ground.",
       "hours": "9:00 AM–5:00 PM daily (later in summer and holidays)",
-      "rating": 4.6,
       "ticketUrl": "https://zoo.sandiegozoo.org"
     },
     {
@@ -199,7 +158,6 @@
       "lng": -117.1751,
       "note": "A decommissioned aircraft carrier moored on the downtown waterfront, with restored jets on the flight deck and veteran docents below.",
       "hours": "10:00 AM–5:00 PM daily (last entry 4:00 PM)",
-      "rating": 4.8,
       "ticketUrl": "https://www.midway.org"
     },
     {
@@ -207,32 +165,28 @@
       "lat": 32.8504,
       "lng": -117.2713,
       "note": "A small sheltered cove below sandstone cliffs where sea lions and seals haul out and snorkelers find garibaldi fish in clear water.",
-      "hours": "Open 24 hours; lifeguards by day",
-      "rating": 4.6
+      "hours": "Open 24 hours; lifeguards by day"
     },
     {
       "name": "Balboa Park",
       "lat": 32.7316,
       "lng": -117.1505,
       "note": "A 1,200-acre park of Spanish Revival pavilions, gardens and 17 museums strung along the pedestrian El Prado.",
-      "hours": "Grounds open 24 hours; most museums ~10:00 AM–5:00 PM (varies, some closed Mon)",
-      "rating": 4.7
+      "hours": "Grounds open 24 hours; most museums ~10:00 AM–5:00 PM (varies, some closed Mon)"
     },
     {
       "name": "Torrey Pines State Natural Reserve",
       "lat": 32.9253,
       "lng": -117.2541,
       "note": "Clifftop trails through rare Torrey pines with long views over the Pacific and down to the beach.",
-      "hours": "7:15 AM–sunset daily; parking fee",
-      "rating": 4.7
+      "hours": "7:15 AM–sunset daily; parking fee"
     },
     {
       "name": "Sunset Cliffs Natural Park",
       "lat": 32.7172,
       "lng": -117.2557,
       "note": "Eroded sandstone bluffs and sea arches along Point Loma's west edge, the classic spot to watch the sun go down.",
-      "hours": "Open daily; best at sunset (stay back from crumbling edges)",
-      "rating": 4.7
+      "hours": "Open daily; best at sunset (stay back from crumbling edges)"
     },
     {
       "name": "Petco Park",
@@ -240,7 +194,6 @@
       "lng": -117.1566,
       "note": "The Padres' ballpark in the East Village, with a grassy park beyond the outfield and the Western Metal building built into the stands.",
       "hours": "Game and event days; ballpark tours most non-game days",
-      "rating": 4.6,
       "ticketUrl": "https://www.mlb.com/padres/ballpark"
     },
     {
@@ -248,8 +201,7 @@
       "lat": 32.8578,
       "lng": -117.2565,
       "note": "A wide, gentle sandy beach and lawn, popular for families, beginner surfers and kayak trips to the sea caves.",
-      "hours": "Open 24 hours; lifeguards by day",
-      "rating": 4.6
+      "hours": "Open 24 hours; lifeguards by day"
     },
     {
       "name": "Cabrillo National Monument",
@@ -257,7 +209,6 @@
       "lng": -117.2413,
       "note": "The tip of Point Loma, with a 19th-century lighthouse, sweeping bay views and tide pools at low tide.",
       "hours": "9:00 AM–5:00 PM daily; entry fee per vehicle or walker",
-      "rating": 4.6,
       "ticketUrl": "https://www.nps.gov/cabr"
     },
     {
@@ -266,7 +217,6 @@
       "lng": -117.2506,
       "note": "Scripps Institution of Oceanography's public aquarium, with a kelp-forest tank, seahorses and an ocean-view tide-pool plaza.",
       "hours": "9:00 AM–5:00 PM daily",
-      "rating": 4.3,
       "ticketUrl": "https://aquarium.ucsd.edu"
     },
     {
@@ -274,48 +224,42 @@
       "lat": 32.7963,
       "lng": -117.256,
       "note": "A lively surf beach centred on Crystal Pier, with a busy boardwalk of taco shops, bars and bike rentals.",
-      "hours": "Open 24 hours; lifeguards by day",
-      "rating": 4.5
+      "hours": "Open 24 hours; lifeguards by day"
     },
     {
       "name": "Old Town San Diego State Historic Park",
       "lat": 32.7546,
       "lng": -117.1972,
       "note": "Restored adobes and 1800s buildings around a grassy plaza marking where California's first European settlement grew, with free museums and Mexican restaurants nearby.",
-      "hours": "Grounds open daily; museums ~10:00 AM–5:00 PM",
-      "rating": 4.3
+      "hours": "Grounds open daily; museums ~10:00 AM–5:00 PM"
     },
     {
       "name": "Mission Beach Boardwalk",
       "lat": 32.771,
       "lng": -117.2525,
       "note": "A three-mile beachfront promenade for walking, skating and cycling, passing the vintage Giant Dipper roller coaster at Belmont Park.",
-      "hours": "Open 24 hours; Belmont Park rides from ~11:00 AM",
-      "rating": 4.4
+      "hours": "Open 24 hours; Belmont Park rides from ~11:00 AM"
     },
     {
       "name": "Mt. Soledad National Veterans Memorial",
       "lat": 32.8398,
       "lng": -117.2447,
       "note": "A hilltop memorial cross ringed by plaques, with one of the best free 360-degree views over La Jolla and the coast.",
-      "hours": "~7:00 AM–10:00 PM daily",
-      "rating": 4.7
+      "hours": "~7:00 AM–10:00 PM daily"
     },
     {
       "name": "Coronado Beach",
       "lat": 32.6808,
       "lng": -117.181,
       "note": "A broad, glittering beach in front of the turreted Hotel del Coronado, reached by the bay ferry from downtown's Broadway Pier.",
-      "hours": "Open 24 hours; lifeguards by day",
-      "rating": 4.7
+      "hours": "Open 24 hours; lifeguards by day"
     },
     {
       "name": "Liberty Public Market",
       "lat": 32.7397,
       "lng": -117.2115,
       "note": "A food hall in a former Navy training-center building at Liberty Station, with dozens of stalls from tacos to fresh pasta.",
-      "hours": "9:00 AM–8:00 PM daily",
-      "rating": 4.5
+      "hours": "9:00 AM–8:00 PM daily"
     }
   ],
   "railStations": [

@@ -112,51 +112,31 @@
     {"id":"lmonorail","name":"Seattle Center Monorail","color":"#054B88","code":"M","stations":[["Seattle Center",47.6213,-122.3496],["Westlake Center",47.612,-122.3369]]}
   ],
   "hotels": [
-    {
-      "name": "Embassy Suites by Hilton Seattle Downtown Pioneer Square",
-      "lat": 47.5979,
-      "lng": -122.3309,
-      "area": "King Street Station",
-      "rating": 4.7,
-      "ratingCount": 2189,
-      "stars": 3,
-      "priceTier": 3,
-      "brandAnchor": true
-    },
-    {"name":"Best Western Plus Pioneer Square Hotel Downtown","lat":47.6016,"lng":-122.3353,"area":"King Street Station","rating":4.3,"ratingCount":2101,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"Silver Cloud Hotel - Seattle Stadium","lat":47.5927,"lng":-122.3337,"area":"King Street Station","rating":4.5,"ratingCount":2266,"stars":3,"priceTier":3},
-    {"name":"Arctic Club Hotel","lat":47.6038,"lng":-122.332,"area":"King Street Station","rating":4.5,"ratingCount":2930,"stars":4,"priceTier":3},
-    {"name":"Lotte Hotel Seattle","lat":47.6053,"lng":-122.3308,"area":"King Street Station","rating":4.8,"ratingCount":1479,"stars":5,"priceTier":4},
-    {"name":"Radisson Hotel Seattle Airport","lat":47.4404,"lng":-122.295,"area":"Seattle-Tacoma International Airport","rating":4,"ratingCount":1944,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"Skybridge Seattle Airport Hotel","lat":47.4469,"lng":-122.2954,"area":"Seattle-Tacoma International Airport","rating":4.2,"ratingCount":856,"stars":2,"priceTier":2},
-    {"name":"Grand Hyatt Seattle","lat":47.6125,"lng":-122.3334,"area":"Downtown","rating":4.5,"ratingCount":5051,"stars":4,"priceTier":4,"brandAnchor":true},
-    {"name":"Mayflower Park Hotel","lat":47.6122,"lng":-122.338,"area":"Downtown","rating":4.5,"ratingCount":3256,"stars":4,"priceTier":3},
-    {"name":"The Paramount Hotel","lat":47.6132,"lng":-122.3336,"area":"Downtown","rating":4.6,"ratingCount":2507,"stars":3,"priceTier":3},
-    {"name":"Inn at the Market","lat":47.61,"lng":-122.3415,"area":"Downtown","rating":4.8,"ratingCount":3912,"stars":4,"priceTier":4},
-    {"name":"The Green Tortoise Hostel Seattle","lat":47.6088,"lng":-122.3396,"area":"Downtown","rating":4.2,"ratingCount":657,"stars":1,"priceTier":1},
-    {"name":"Hyatt House Seattle/Downtown","lat":47.6201,"lng":-122.348,"area":"Seattle Center","rating":4.3,"ratingCount":2689,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"Staypineapple, The Maxwell Hotel, Seattle Center","lat":47.6257,"lng":-122.3508,"area":"Seattle Center","rating":4.6,"ratingCount":4729,"stars":3,"priceTier":3},
-    {"name":"Hampton Inn & Suites Seattle-Downtown","lat":47.6258,"lng":-122.3469,"area":"Seattle Center","rating":4.3,"ratingCount":2501,"stars":3,"priceTier":2},
-    {"name":"Mediterranean Inn","lat":47.623,"lng":-122.3571,"area":"Seattle Center","rating":4.3,"ratingCount":3140,"stars":3,"priceTier":2},
-    {"name":"Hyatt Place Seattle/Downtown","lat":47.6188,"lng":-122.3446,"area":"Seattle Center","rating":4.2,"ratingCount":2701,"stars":3,"priceTier":3},
-    {
-      "name": "Residence Inn by Marriott Seattle University District",
-      "lat": 47.6617,
-      "lng": -122.3158,
-      "area": "University District",
-      "rating": 4.4,
-      "ratingCount": 216,
-      "stars": 3,
-      "priceTier": 3,
-      "brandAnchor": true
-    },
-    {"name":"Staypineapple, Watertown, University District","lat":47.6596,"lng":-122.3174,"area":"University District","rating":4.5,"ratingCount":2052,"stars":3,"priceTier":3},
-    {"name":"Staypineapple, University Inn, University District","lat":47.6578,"lng":-122.3175,"area":"University District","rating":4.3,"ratingCount":1574,"stars":2,"priceTier":2},
-    {"name":"Hyatt Regency Bellevue on Seattle's Eastside","lat":47.6183,"lng":-122.2012,"area":"Bellevue","rating":4.5,"ratingCount":4268,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"The Westin Bellevue","lat":47.6159,"lng":-122.2009,"area":"Bellevue","rating":4.2,"ratingCount":1393,"stars":4,"priceTier":4,"brandAnchor":true},
-    {"name":"Courtyard by Marriott Seattle Bellevue/Downtown","lat":47.6179,"lng":-122.1931,"area":"Bellevue","rating":4.2,"ratingCount":509,"stars":3,"priceTier":3},
-    {"name":"Hampton Inn & Suites Bellevue Downtown-Seattle","lat":47.6118,"lng":-122.1865,"area":"Bellevue","rating":4.4,"ratingCount":704,"stars":3,"priceTier":2},
-    {"name":"Hilton Garden Inn Seattle Bellevue Downtown","lat":47.6189,"lng":-122.1969,"area":"Bellevue","rating":4.2,"ratingCount":339,"stars":3,"priceTier":3}
+    {"name":"Embassy Suites by Hilton Seattle Downtown Pioneer Square","lat":47.5979,"lng":-122.3309,"area":"King Street Station","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Best Western Plus Pioneer Square Hotel Downtown","lat":47.6016,"lng":-122.3353,"area":"King Street Station","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Silver Cloud Hotel - Seattle Stadium","lat":47.5927,"lng":-122.3337,"area":"King Street Station","stars":3,"priceTier":3},
+    {"name":"Arctic Club Hotel","lat":47.6038,"lng":-122.332,"area":"King Street Station","stars":4,"priceTier":3},
+    {"name":"Lotte Hotel Seattle","lat":47.6053,"lng":-122.3308,"area":"King Street Station","stars":5,"priceTier":4},
+    {"name":"Radisson Hotel Seattle Airport","lat":47.4404,"lng":-122.295,"area":"Seattle-Tacoma International Airport","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Skybridge Seattle Airport Hotel","lat":47.4469,"lng":-122.2954,"area":"Seattle-Tacoma International Airport","stars":2,"priceTier":2},
+    {"name":"Grand Hyatt Seattle","lat":47.6125,"lng":-122.3334,"area":"Downtown","stars":4,"priceTier":4,"brandAnchor":true},
+    {"name":"Mayflower Park Hotel","lat":47.6122,"lng":-122.338,"area":"Downtown","stars":4,"priceTier":3},
+    {"name":"The Paramount Hotel","lat":47.6132,"lng":-122.3336,"area":"Downtown","stars":3,"priceTier":3},
+    {"name":"Inn at the Market","lat":47.61,"lng":-122.3415,"area":"Downtown","stars":4,"priceTier":4},
+    {"name":"The Green Tortoise Hostel Seattle","lat":47.6088,"lng":-122.3396,"area":"Downtown","stars":1,"priceTier":1},
+    {"name":"Hyatt House Seattle/Downtown","lat":47.6201,"lng":-122.348,"area":"Seattle Center","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Staypineapple, The Maxwell Hotel, Seattle Center","lat":47.6257,"lng":-122.3508,"area":"Seattle Center","stars":3,"priceTier":3},
+    {"name":"Hampton Inn & Suites Seattle-Downtown","lat":47.6258,"lng":-122.3469,"area":"Seattle Center","stars":3,"priceTier":2},
+    {"name":"Mediterranean Inn","lat":47.623,"lng":-122.3571,"area":"Seattle Center","stars":3,"priceTier":2},
+    {"name":"Hyatt Place Seattle/Downtown","lat":47.6188,"lng":-122.3446,"area":"Seattle Center","stars":3,"priceTier":3},
+    {"name":"Residence Inn by Marriott Seattle University District","lat":47.6617,"lng":-122.3158,"area":"University District","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Staypineapple, Watertown, University District","lat":47.6596,"lng":-122.3174,"area":"University District","stars":3,"priceTier":3},
+    {"name":"Staypineapple, University Inn, University District","lat":47.6578,"lng":-122.3175,"area":"University District","stars":2,"priceTier":2},
+    {"name":"Hyatt Regency Bellevue on Seattle's Eastside","lat":47.6183,"lng":-122.2012,"area":"Bellevue","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"The Westin Bellevue","lat":47.6159,"lng":-122.2009,"area":"Bellevue","stars":4,"priceTier":4,"brandAnchor":true},
+    {"name":"Courtyard by Marriott Seattle Bellevue/Downtown","lat":47.6179,"lng":-122.1931,"area":"Bellevue","stars":3,"priceTier":3},
+    {"name":"Hampton Inn & Suites Bellevue Downtown-Seattle","lat":47.6118,"lng":-122.1865,"area":"Bellevue","stars":3,"priceTier":2},
+    {"name":"Hilton Garden Inn Seattle Bellevue Downtown","lat":47.6189,"lng":-122.1969,"area":"Bellevue","stars":3,"priceTier":3}
   ],
   "sights": [
     {
@@ -165,7 +145,6 @@
       "lng": -122.3505,
       "note": "Dale Chihuly's blown-glass installations fill galleries, a glasshouse and a garden at the foot of the Space Needle.",
       "hours": "Daily from ~10 AM (earlier in summer) to ~7 PM; hours vary by season",
-      "rating": 4.8,
       "ticketUrl": "https://www.chihulygardenandglass.com",
       "bookAhead": true
     },
@@ -175,7 +154,6 @@
       "lng": -122.3493,
       "note": "The 1962 World's Fair tower, with an outdoor deck and a rotating glass floor 500 ft up.",
       "hours": "Daily ~9:30 AM–9 PM; hours vary by season",
-      "rating": 4.3,
       "ticketUrl": "https://www.spaceneedle.com",
       "bookAhead": true
     },
@@ -184,8 +162,7 @@
       "lat": 47.6097,
       "lng": -122.3422,
       "note": "Seattle's century-old public market above the waterfront: fish throwers, produce stalls, crafts and the original Starbucks.",
-      "hours": "Market shops ~9 AM–6 PM daily; some restaurants open later",
-      "rating": 4.5
+      "hours": "Market shops ~9 AM–6 PM daily; some restaurants open later"
     },
     {
       "name": "The Museum of Flight",
@@ -193,7 +170,6 @@
       "lng": -122.2964,
       "note": "A vast air and space museum at Boeing Field, with a Concorde, Air Force One and the original Boeing factory.",
       "hours": "10 AM–5 PM daily",
-      "rating": 4.7,
       "ticketUrl": "https://www.museumofflight.org"
     },
     {
@@ -201,16 +177,14 @@
       "lat": 47.6025,
       "lng": -122.3384,
       "note": "Ferries from Colman Dock to Bainbridge Island and Bremerton give cheap skyline and Olympic Mountains views; walk-on fares are paid only westbound.",
-      "hours": "Seattle–Bainbridge sailings ~4:45 AM–~1:30 AM daily",
-      "rating": 4.6
+      "hours": "Seattle–Bainbridge sailings ~4:45 AM–~1:30 AM daily"
     },
     {
       "name": "Kerry Park",
       "lat": 47.6295,
       "lng": -122.3599,
       "note": "A small Queen Anne hillside lookout with the classic postcard view of the Space Needle, downtown and Mount Rainier.",
-      "hours": "Open daily, ~6 AM–10 PM",
-      "rating": 4.6
+      "hours": "Open daily, ~6 AM–10 PM"
     },
     {
       "name": "Museum of Pop Culture",
@@ -218,7 +192,6 @@
       "lng": -122.3481,
       "note": "Frank Gehry's crumpled-metal building houses exhibits on music, sci-fi, horror and games, including Nirvana and Jimi Hendrix.",
       "hours": "10 AM–5 PM daily",
-      "rating": 4.2,
       "ticketUrl": "https://www.mopop.org"
     },
     {
@@ -227,7 +200,6 @@
       "lng": -122.3306,
       "note": "A 73rd-floor observation deck in the Columbia Center, higher than the Space Needle and with the Needle in the view.",
       "hours": "Daily ~10 AM–8 PM (later in summer)",
-      "rating": 4.6,
       "ticketUrl": "https://skyviewobservatory.com"
     },
     {
@@ -235,40 +207,35 @@
       "lat": 47.581,
       "lng": -122.409,
       "note": "A long sandy West Seattle beach with a promenade and skyline views, best reached on the King County Water Taxi from Pier 50.",
-      "hours": "Beach park open ~4 AM–11:30 PM daily",
-      "rating": 4.4
+      "hours": "Beach park open ~4 AM–11:30 PM daily"
     },
     {
       "name": "T-Mobile Park",
       "lat": 47.5914,
       "lng": -122.3325,
       "note": "The Seattle Mariners' retractable-roof ballpark, a short walk from Stadium and King Street stations.",
-      "hours": "Game days, plus guided ballpark tours on select days",
-      "rating": 4.6
+      "hours": "Game days, plus guided ballpark tours on select days"
     },
     {
       "name": "Hiram M. Chittenden Locks",
       "lat": 47.6655,
       "lng": -122.3972,
       "note": "The Ballard Locks lift boats between the lake and Puget Sound; a fish ladder shows salmon running in summer.",
-      "hours": "Grounds 7 AM–9 PM daily; visitor center shorter hours; free",
-      "rating": 4.6
+      "hours": "Grounds 7 AM–9 PM daily; visitor center shorter hours; free"
     },
     {
       "name": "Klondike Gold Rush National Historical Park",
       "lat": 47.5996,
       "lng": -122.3323,
       "note": "A free Pioneer Square museum on Seattle's role as outfitter for the 1897 Yukon gold rush.",
-      "hours": "~10 AM–5 PM; fewer days in winter; free",
-      "rating": 4.5
+      "hours": "~10 AM–5 PM; fewer days in winter; free"
     },
     {
       "name": "Seattle Central Library",
       "lat": 47.6067,
       "lng": -122.3325,
       "note": "Rem Koolhaas's glass-and-steel library, free to explore, with a spiral book ramp and a 10th-floor reading room.",
-      "hours": "Mon–Thu 10 AM–8 PM, Fri–Sat 10 AM–6 PM, Sun noon–6 PM",
-      "rating": 4.5
+      "hours": "Mon–Thu 10 AM–8 PM, Fri–Sat 10 AM–6 PM, Sun noon–6 PM"
     },
     {
       "name": "Seattle Aquarium",
@@ -276,7 +243,6 @@
       "lng": -122.343,
       "note": "Pier 59's aquarium of Puget Sound sea life, with sea otters, and a newer Ocean Pavilion of tropical reef fish across the street.",
       "hours": "9:30 AM–6 PM daily",
-      "rating": 4,
       "ticketUrl": "https://www.seattleaquarium.org"
     },
     {
@@ -284,8 +250,7 @@
       "lat": 47.6398,
       "lng": -122.2945,
       "note": "230 acres of trails and trees along Lake Washington, with the separately ticketed Seattle Japanese Garden at its south end.",
-      "hours": "Grounds open dawn to dusk daily; free",
-      "rating": 4.5
+      "hours": "Grounds open dawn to dusk daily; free"
     },
     {
       "name": "Seattle Art Museum",
@@ -293,7 +258,6 @@
       "lng": -122.3381,
       "note": "Downtown's main art museum, with Northwest Coast Native art and global collections behind the Hammering Man sculpture.",
       "hours": "10 AM–5 PM Wed–Sun, closed Mon–Tue",
-      "rating": 4.3,
       "ticketUrl": "https://www.seattleartmuseum.org"
     },
     {
@@ -301,16 +265,14 @@
       "lat": 47.6553,
       "lng": -122.3035,
       "note": "A Gothic-revival campus with Suzzallo Library's reading room and the Quad, famous for its cherry blossoms in late March.",
-      "hours": "Campus open daily; buildings keep their own hours",
-      "rating": 4.6
+      "hours": "Campus open daily; buildings keep their own hours"
     },
     {
       "name": "Gas Works Park",
       "lat": 47.6456,
       "lng": -122.3344,
       "note": "An old gas plant turned lakeside park, with rusting towers and a kite hill looking across Lake Union to downtown.",
-      "hours": "6 AM–10 PM daily; free",
-      "rating": 4.3
+      "hours": "6 AM–10 PM daily; free"
     }
   ],
   "railStations": [

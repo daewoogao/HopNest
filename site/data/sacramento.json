@@ -92,36 +92,16 @@
     }
   ],
   "hotels": [
-    {
-      "name": "The Exchange Sacramento, Curio Collection by Hilton",
-      "lat": 38.5822,
-      "lng": -121.5017,
-      "area": "Sacramento Valley Station",
-      "rating": 4.7,
-      "ratingCount": 479,
-      "stars": 4,
-      "priceTier": 4,
-      "brandAnchor": true
-    },
-    {"name":"Kimpton Sawyer Hotel","lat":38.5815,"lng":-121.4994,"area":"Sacramento Valley Station","rating":4.4,"ratingCount":631,"stars":4,"priceTier":4,"brandAnchor":true},
-    {"name":"AC Hotel Sacramento","lat":38.5822,"lng":-121.4969,"area":"Sacramento Valley Station","rating":4.9,"ratingCount":200,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Holiday Inn Sacramento Downtown - Arena","lat":38.5819,"lng":-121.5024,"area":"Sacramento Valley Station","rating":4,"ratingCount":831,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"Hyatt Regency Sacramento","lat":38.5777,"lng":-121.4907,"area":"Downtown & Capitol","rating":4.2,"ratingCount":3809,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"The Citizen Hotel, Autograph Collection","lat":38.5801,"lng":-121.4939,"area":"Downtown & Capitol","rating":4.2,"ratingCount":1232,"stars":4,"priceTier":4,"brandAnchor":true},
-    {
-      "name": "Residence Inn by Marriott Sacramento Downtown at Capitol Park",
-      "lat": 38.5765,
-      "lng": -121.487,
-      "area": "Downtown & Capitol",
-      "rating": 4.5,
-      "ratingCount": 1249,
-      "stars": 3,
-      "priceTier": 3,
-      "brandAnchor": true
-    },
-    {"name":"Inn Off Capitol Park, an Ascend Collection Hotel","lat":38.5735,"lng":-121.4875,"area":"Downtown & Capitol","rating":4.4,"ratingCount":164,"stars":3,"priceTier":2},
-    {"name":"HI Sacramento Hostel","lat":38.5829,"lng":-121.4928,"area":"Downtown & Capitol","rating":4.2,"ratingCount":138,"stars":1,"priceTier":1},
-    {"name":"The Fort Sutter Hotel Sacramento, Tapestry Collection by Hilton","lat":38.5703,"lng":-121.4711,"area":"Midtown","rating":4.7,"ratingCount":190,"stars":4,"priceTier":3,"brandAnchor":true}
+    {"name":"The Exchange Sacramento, Curio Collection by Hilton","lat":38.5822,"lng":-121.5017,"area":"Sacramento Valley Station","stars":4,"priceTier":4,"brandAnchor":true},
+    {"name":"Kimpton Sawyer Hotel","lat":38.5815,"lng":-121.4994,"area":"Sacramento Valley Station","stars":4,"priceTier":4,"brandAnchor":true},
+    {"name":"AC Hotel Sacramento","lat":38.5822,"lng":-121.4969,"area":"Sacramento Valley Station","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Holiday Inn Sacramento Downtown - Arena","lat":38.5819,"lng":-121.5024,"area":"Sacramento Valley Station","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Hyatt Regency Sacramento","lat":38.5777,"lng":-121.4907,"area":"Downtown & Capitol","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"The Citizen Hotel, Autograph Collection","lat":38.5801,"lng":-121.4939,"area":"Downtown & Capitol","stars":4,"priceTier":4,"brandAnchor":true},
+    {"name":"Residence Inn by Marriott Sacramento Downtown at Capitol Park","lat":38.5765,"lng":-121.487,"area":"Downtown & Capitol","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Inn Off Capitol Park, an Ascend Collection Hotel","lat":38.5735,"lng":-121.4875,"area":"Downtown & Capitol","stars":3,"priceTier":2},
+    {"name":"HI Sacramento Hostel","lat":38.5829,"lng":-121.4928,"area":"Downtown & Capitol","stars":1,"priceTier":1},
+    {"name":"The Fort Sutter Hotel Sacramento, Tapestry Collection by Hilton","lat":38.5703,"lng":-121.4711,"area":"Midtown","stars":4,"priceTier":3,"brandAnchor":true}
   ],
   "sights": [
     {
@@ -130,7 +110,6 @@
       "lng": -121.504,
       "note": "Restored locomotives and Pullman cars fill a vast hall at the old Central Pacific terminus, including a sleeping car that gently rocks as if under way.",
       "hours": "10:00 AM–5:00 PM daily, last entry 4:30 PM (closed Thanksgiving, Dec 25, Jan 1)",
-      "rating": 4.8,
       "ticketUrl": "https://www.californiarailroad.museum"
     },
     {
@@ -138,8 +117,7 @@
       "lat": 38.5826,
       "lng": -121.5048,
       "note": "Gold Rush–era riverfront blocks of wooden boardwalks, brick saloons and candy shops, with the Delta King paddle-steamer moored alongside.",
-      "hours": "Streets open 24 hours; most shops ~10:00 AM–6:00 PM",
-      "rating": 4.1
+      "hours": "Streets open 24 hours; most shops ~10:00 AM–6:00 PM"
     },
     {
       "name": "Crocker Art Museum",
@@ -147,7 +125,6 @@
       "lng": -121.5058,
       "note": "California's oldest public art museum, joining an ornate Victorian gallery to a modern wing of Californian painting, ceramics and global art.",
       "hours": "Wed–Sun 10:00 AM–5:00 PM, Thu to 9:00 PM; closed Mon–Tue",
-      "rating": 4.7,
       "ticketUrl": "https://www.crockerart.org"
     },
     {
@@ -156,7 +133,6 @@
       "lng": -121.4934,
       "note": "The domed 1874 Capitol, where restored historic offices and a rotunda sit alongside the working legislature; free hourly guided tours.",
       "hours": "Mon–Fri 9:00 AM–5:00 PM; closed weekends and most holidays (the annex next door is under reconstruction)",
-      "rating": 4.6,
       "ticketUrl": "https://capitolmuseum.ca.gov"
     },
     {
@@ -164,8 +140,7 @@
       "lat": 38.5762,
       "lng": -121.4979,
       "note": "The opulent Italianate home of railroad baron and governor Leland Stanford, seen only on guided tours and still used for state receptions.",
-      "hours": "10:00 AM–5:00 PM; guided tours hourly 10:00 AM–4:00 PM, may be cancelled for official events (call ahead)",
-      "rating": 4.6
+      "hours": "10:00 AM–5:00 PM; guided tours hourly 10:00 AM–4:00 PM, may be cancelled for official events (call ahead)"
     },
     {
       "name": "California Automobile Museum",
@@ -173,7 +148,6 @@
       "lng": -121.5117,
       "note": "Some 150 cars span the Model T to modern muscle and electric vehicles in a riverside warehouse south of Old Sacramento.",
       "hours": "Wed–Mon 10:00 AM–5:00 PM, last entry 4:00 PM; closed Tue",
-      "rating": 4.5,
       "ticketUrl": "https://www.calautomuseum.org"
     },
     {
@@ -181,24 +155,21 @@
       "lat": 38.5725,
       "lng": -121.4712,
       "note": "A reconstructed 1840s adobe trading fort, the settlement that grew into Sacramento, with period workshops and living-history days.",
-      "hours": "10:00 AM–5:00 PM daily (closed Thanksgiving, Dec 25, Jan 1)",
-      "rating": 4.2
+      "hours": "10:00 AM–5:00 PM daily (closed Thanksgiving, Dec 25, Jan 1)"
     },
     {
       "name": "Capitol Park",
       "lat": 38.5759,
       "lng": -121.4895,
       "note": "Forty acres of trees from around the world behind the Capitol, with a rose garden, a cactus garden and the California Vietnam Veterans Memorial.",
-      "hours": "Open daily, dawn to dusk",
-      "rating": 4.5
+      "hours": "Open daily, dawn to dusk"
     },
     {
       "name": "Cathedral of the Blessed Sacrament",
       "lat": 38.5785,
       "lng": -121.4927,
       "note": "An 1889 Italian Renaissance–style cathedral on K Street whose restored dome and painted interior are among the grandest in the West.",
-      "hours": "Open daily ~7:00 AM–6:00 PM; closed to sightseeing during services",
-      "rating": 4.7
+      "hours": "Open daily ~7:00 AM–6:00 PM; closed to sightseeing during services"
     },
     {
       "name": "Sacramento Zoo",
@@ -206,7 +177,6 @@
       "lng": -121.5038,
       "note": "A compact 14-acre zoo in William Land Park with giraffes, red pandas, lemurs and big cats along shaded paths.",
       "hours": "9:00 AM–4:00 PM daily",
-      "rating": 4,
       "ticketUrl": "https://www.saczoo.org"
     },
     {
@@ -215,7 +185,6 @@
       "lng": -121.5013,
       "note": "A storybook playland across from the zoo where children climb through nursery-rhyme sets and meet farm animals.",
       "hours": "Mar–Oct daily 9:00 AM–4:00 PM; Nov–Feb Thu–Sun 10:00 AM–4:00 PM",
-      "rating": 4.3,
       "ticketUrl": "https://www.fairytaletown.org"
     },
     {
@@ -223,24 +192,21 @@
       "lat": 38.5768,
       "lng": -121.4628,
       "note": "A leafy East Sacramento park centred on a rose garden of over a thousand bushes, with a pond, a pool and shaded lawns.",
-      "hours": "Open daily, dawn to dusk; roses peak Apr–May",
-      "rating": 4.5
+      "hours": "Open daily, dawn to dusk; roses peak Apr–May"
     },
     {
       "name": "William Land Park",
       "lat": 38.538,
       "lng": -121.4985,
       "note": "The city's big green park, with ponds, a rock garden, a golf course and the zoo and Fairytale Town tucked inside.",
-      "hours": "Open daily ~5:00 AM–10:30 PM",
-      "rating": 4.6
+      "hours": "Open daily ~5:00 AM–10:30 PM"
     },
     {
       "name": "Tower Bridge",
       "lat": 38.5803,
       "lng": -121.5083,
       "note": "A gold-painted 1935 vertical-lift bridge over the Sacramento River, best seen at dusk from the Old Sacramento riverfront.",
-      "hours": "Open 24 hours to walkers and cyclists",
-      "rating": 4.1
+      "hours": "Open 24 hours to walkers and cyclists"
     },
     {
       "name": "Sacramento History Museum",
@@ -248,7 +214,6 @@
       "lng": -121.5051,
       "note": "Gold-panning displays and printing-press demonstrations in a replica 1854 city hall, and the starting point for tours under Old Sacramento's raised streets.",
       "hours": "Museum open daily ~10:00 AM–5:00 PM; Underground tours daily from ~10:30 AM",
-      "rating": 4.3,
       "ticketUrl": "https://www.historicoldsac.org",
       "bookAhead": true
     },
@@ -257,8 +222,7 @@
       "lat": 38.5756,
       "lng": -121.4813,
       "note": "A Saturday street market along 20th Street in Midtown's Lavender Heights, mixing farm stalls with food vendors and buskers.",
-      "hours": "Saturdays 8:00 AM–1:00 PM, year-round",
-      "rating": 4.9
+      "hours": "Saturdays 8:00 AM–1:00 PM, year-round"
     }
   ],
   "railStations": [

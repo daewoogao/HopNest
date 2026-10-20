@@ -40,52 +40,30 @@
     }
   ],
   "hotels": [
-    {"name":"Hilton Edinburgh Carlton","lat":55.9507,"lng":-3.1875,"area":"Edinburgh Waverley","rating":4.1,"ratingCount":3040,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Hotel Indigo Edinburgh - Princes Street","lat":55.9532,"lng":-3.1908,"area":"Edinburgh Waverley","rating":4.2,"ratingCount":741,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"The Balmoral Hotel","lat":55.9528,"lng":-3.1895,"area":"Edinburgh Waverley","rating":4.6,"ratingCount":5849,"stars":5,"priceTier":4},
-    {"name":"Motel One Edinburgh-Princes","lat":55.9535,"lng":-3.19,"area":"Edinburgh Waverley","rating":4.4,"ratingCount":1822,"stars":3,"priceTier":2},
-    {"name":"Travelodge Edinburgh Central Waterloo Place","lat":55.9537,"lng":-3.1876,"area":"Edinburgh Waverley","rating":4,"ratingCount":3078,"stars":2,"priceTier":2},
-    {"name":"Radisson Collection Hotel, Royal Mile Edinburgh","lat":55.9491,"lng":-3.1928,"area":"Old Town","rating":4.4,"ratingCount":3653,"stars":4,"priceTier":4,"brandAnchor":true},
-    {"name":"Apex City of Edinburgh Hotel","lat":55.9474,"lng":-3.1954,"area":"Old Town","rating":4.3,"ratingCount":4303,"stars":4,"priceTier":3},
-    {"name":"Apex Grassmarket Hotel","lat":55.9469,"lng":-3.1965,"area":"Old Town","rating":4.1,"ratingCount":2282,"stars":4,"priceTier":3},
-    {"name":"Wilde Aparthotels Edinburgh Grassmarket","lat":55.947,"lng":-3.2,"area":"Old Town","rating":4.7,"ratingCount":1890,"stars":4,"priceTier":3},
-    {"name":"Castle Rock Hostel","lat":55.9482,"lng":-3.1959,"area":"Old Town","rating":4.5,"ratingCount":2105,"stars":1,"priceTier":1},
-    {"name":"InterContinental Edinburgh The George","lat":55.9541,"lng":-3.1965,"area":"New Town","rating":4.4,"ratingCount":3054,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Kimpton Charlotte Square","lat":55.9516,"lng":-3.2058,"area":"New Town","rating":4.5,"ratingCount":1527,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"The Caledonian Edinburgh, Curio Collection by Hilton","lat":55.9496,"lng":-3.2075,"area":"New Town","rating":4.4,"ratingCount":6756,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"ibis Styles Edinburgh St Andrew Square","lat":55.9546,"lng":-3.1948,"area":"New Town","rating":4.5,"ratingCount":3314,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"hub by Premier Inn Edinburgh City Centre (Rose Street)","lat":55.9526,"lng":-3.1977,"area":"New Town","rating":4.5,"ratingCount":2533,"stars":3,"priceTier":2},
-    {"name":"voco Edinburgh - Haymarket","lat":55.9468,"lng":-3.2116,"area":"Haymarket","rating":4.4,"ratingCount":471,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Sheraton Grand Hotel & Spa, Edinburgh","lat":55.947,"lng":-3.2077,"area":"Haymarket","rating":4.4,"ratingCount":4180,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"The Hoxton, Edinburgh","lat":55.947,"lng":-3.2171,"area":"Haymarket","rating":4.5,"ratingCount":232,"stars":4,"priceTier":3},
-    {"name":"Point A Hotel Edinburgh Haymarket","lat":55.9462,"lng":-3.2107,"area":"Haymarket","rating":4.4,"ratingCount":1167,"stars":2,"priceTier":2},
-    {"name":"Holiday Inn Express Edinburgh - Leith Waterfront","lat":55.9788,"lng":-3.1795,"area":"Leith","rating":4.1,"ratingCount":2003,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"Ocean Mist Leith","lat":55.9768,"lng":-3.1697,"area":"Leith","rating":4.9,"ratingCount":877,"stars":4,"priceTier":3},
-    {"name":"Fingal","lat":55.9792,"lng":-3.1691,"area":"Leith","rating":4.9,"ratingCount":1392,"stars":5,"priceTier":4},
-    {
-      "name": "DoubleTree by Hilton Edinburgh Airport",
-      "lat": 55.9438,
-      "lng": -3.3592,
-      "area": "Edinburgh Airport",
-      "rating": 3.9,
-      "ratingCount": 1579,
-      "stars": 4,
-      "priceTier": 3,
-      "brandAnchor": true,
-      "airportException": true
-    },
-    {
-      "name": "Hampton by Hilton Edinburgh Airport",
-      "lat": 55.9447,
-      "lng": -3.3627,
-      "area": "Edinburgh Airport",
-      "rating": 3.8,
-      "ratingCount": 733,
-      "stars": 3,
-      "priceTier": 2,
-      "brandAnchor": true,
-      "airportException": true
-    }
+    {"name":"Hilton Edinburgh Carlton","lat":55.9507,"lng":-3.1875,"area":"Edinburgh Waverley","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hotel Indigo Edinburgh - Princes Street","lat":55.9532,"lng":-3.1908,"area":"Edinburgh Waverley","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"The Balmoral Hotel","lat":55.9528,"lng":-3.1895,"area":"Edinburgh Waverley","stars":5,"priceTier":4},
+    {"name":"Motel One Edinburgh-Princes","lat":55.9535,"lng":-3.19,"area":"Edinburgh Waverley","stars":3,"priceTier":2},
+    {"name":"Travelodge Edinburgh Central Waterloo Place","lat":55.9537,"lng":-3.1876,"area":"Edinburgh Waverley","stars":2,"priceTier":2},
+    {"name":"Radisson Collection Hotel, Royal Mile Edinburgh","lat":55.9491,"lng":-3.1928,"area":"Old Town","stars":4,"priceTier":4,"brandAnchor":true},
+    {"name":"Apex City of Edinburgh Hotel","lat":55.9474,"lng":-3.1954,"area":"Old Town","stars":4,"priceTier":3},
+    {"name":"Apex Grassmarket Hotel","lat":55.9469,"lng":-3.1965,"area":"Old Town","stars":4,"priceTier":3},
+    {"name":"Wilde Aparthotels Edinburgh Grassmarket","lat":55.947,"lng":-3.2,"area":"Old Town","stars":4,"priceTier":3},
+    {"name":"Castle Rock Hostel","lat":55.9482,"lng":-3.1959,"area":"Old Town","stars":1,"priceTier":1},
+    {"name":"InterContinental Edinburgh The George","lat":55.9541,"lng":-3.1965,"area":"New Town","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Kimpton Charlotte Square","lat":55.9516,"lng":-3.2058,"area":"New Town","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"The Caledonian Edinburgh, Curio Collection by Hilton","lat":55.9496,"lng":-3.2075,"area":"New Town","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"ibis Styles Edinburgh St Andrew Square","lat":55.9546,"lng":-3.1948,"area":"New Town","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"hub by Premier Inn Edinburgh City Centre (Rose Street)","lat":55.9526,"lng":-3.1977,"area":"New Town","stars":3,"priceTier":2},
+    {"name":"voco Edinburgh - Haymarket","lat":55.9468,"lng":-3.2116,"area":"Haymarket","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Sheraton Grand Hotel & Spa, Edinburgh","lat":55.947,"lng":-3.2077,"area":"Haymarket","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"The Hoxton, Edinburgh","lat":55.947,"lng":-3.2171,"area":"Haymarket","stars":4,"priceTier":3},
+    {"name":"Point A Hotel Edinburgh Haymarket","lat":55.9462,"lng":-3.2107,"area":"Haymarket","stars":2,"priceTier":2},
+    {"name":"Holiday Inn Express Edinburgh - Leith Waterfront","lat":55.9788,"lng":-3.1795,"area":"Leith","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Ocean Mist Leith","lat":55.9768,"lng":-3.1697,"area":"Leith","stars":4,"priceTier":3},
+    {"name":"Fingal","lat":55.9792,"lng":-3.1691,"area":"Leith","stars":5,"priceTier":4},
+    {"name":"DoubleTree by Hilton Edinburgh Airport","lat":55.9438,"lng":-3.3592,"area":"Edinburgh Airport","stars":4,"priceTier":3,"brandAnchor":true,"airportException":true},
+    {"name":"Hampton by Hilton Edinburgh Airport","lat":55.9447,"lng":-3.3627,"area":"Edinburgh Airport","stars":3,"priceTier":2,"brandAnchor":true,"airportException":true}
   ],
   "sights": [
     {
@@ -94,7 +72,6 @@
       "lng": -3.1904,
       "note": "Guided tours led by costumed characters through a warren of 17th-century streets sealed beneath the City Chambers on the Royal Mile.",
       "hours": "Tours ~9:30 AM–9:00 PM daily (shorter in winter)",
-      "rating": 4.5,
       "ticketUrl": "https://www.realmarykingsclose.com",
       "bookAhead": true
     },
@@ -104,7 +81,6 @@
       "lng": -3.1999,
       "note": "The fortress on an extinct volcano above the city, home to the Scottish Crown Jewels, the Stone of Destiny and the one o'clock gun.",
       "hours": "9:30 AM–6:00 PM Apr–Sep, 9:30 AM–5:00 PM Oct–Mar; last entry 1 h before close",
-      "rating": 4.4,
       "ticketUrl": "https://www.edinburghcastle.scot",
       "bookAhead": true
     },
@@ -113,8 +89,7 @@
       "lat": 55.9441,
       "lng": -3.1618,
       "note": "The 251 m summit of an ancient volcano in Holyrood Park, a steep 45-minute hike from the Palace for a sweeping view over the city and the Firth of Forth.",
-      "hours": "Open 24 hours",
-      "rating": 4.7
+      "hours": "Open 24 hours"
     },
     {
       "name": "Royal Yacht Britannia",
@@ -122,7 +97,6 @@
       "lng": -3.177,
       "note": "The Queen's former floating residence, moored at Ocean Terminal in Leith, where you walk from the royal apartments to the engine room and crew quarters.",
       "hours": "~9:30 AM–4:30 PM daily (to ~5:00 PM in summer)",
-      "rating": 4.7,
       "ticketUrl": "https://www.royalyachtbritannia.co.uk"
     },
     {
@@ -131,7 +105,6 @@
       "lng": -3.1893,
       "note": "A free museum covering Scottish history, world cultures, natural history and science, with Dolly the sheep and a rooftop terrace view of the castle.",
       "hours": "10:00 AM–5:00 PM daily; free",
-      "rating": 4.7,
       "ticketUrl": "https://www.nms.ac.uk"
     },
     {
@@ -140,7 +113,6 @@
       "lng": -3.2062,
       "note": "An eight-floor whisky experience in a former department store at the west end of Princes Street, with tasting tours and a rooftop bar facing the castle.",
       "hours": "Tours ~10:00 AM–8:00 PM daily; rooftop bar later",
-      "rating": 4.9,
       "bookAhead": true
     },
     {
@@ -149,7 +121,6 @@
       "lng": -3.1957,
       "note": "A Victorian rooftop camera obscura that projects live views of the city, above five floors of hands-on optical illusions just below the castle.",
       "hours": "~9:00 AM–8:00 PM daily (later in summer)",
-      "rating": 4.6,
       "ticketUrl": "https://www.camera-obscura.co.uk"
     },
     {
@@ -158,7 +129,6 @@
       "lng": -3.1722,
       "note": "The King's official residence in Scotland at the foot of the Royal Mile, with Mary Queen of Scots' chambers and the ruined Holyrood Abbey.",
       "hours": "9:30 AM–6:00 PM Apr–Oct, 9:30 AM–4:30 PM Nov–Mar (closed Tue–Wed in winter and during royal visits)",
-      "rating": 4.5,
       "ticketUrl": "https://www.rct.uk/visit/palace-of-holyroodhouse"
     },
     {
@@ -166,16 +136,14 @@
       "lat": 55.9503,
       "lng": -3.1866,
       "note": "The Old Town's spine, running downhill from the castle to Holyrood past closes, churches, pubs and street performers.",
-      "hours": "Street, always open; shops ~10:00 AM–6:00 PM",
-      "rating": 4.5
+      "hours": "Street, always open; shops ~10:00 AM–6:00 PM"
     },
     {
       "name": "Calton Hill",
       "lat": 55.9551,
       "lng": -3.1822,
       "note": "A short climb from Princes Street to the unfinished National Monument and Nelson Monument, the classic free sunset view over the city.",
-      "hours": "Open 24 hours",
-      "rating": 4.6
+      "hours": "Open 24 hours"
     },
     {
       "name": "The Scotch Whisky Experience",
@@ -183,7 +151,6 @@
       "lng": -3.1964,
       "note": "A barrel-ride introduction to whisky-making next to the castle esplanade, ending in a tasting beside a vast collection of bottles.",
       "hours": "~10:00 AM–6:00 PM daily",
-      "rating": 4.5,
       "ticketUrl": "https://www.scotchwhiskyexperience.co.uk"
     },
     {
@@ -191,8 +158,7 @@
       "lat": 55.9524,
       "lng": -3.2178,
       "note": "A former mill village of stone houses tucked in the Water of Leith gorge, a ten-minute walk from the West End.",
-      "hours": "Neighbourhood, always open",
-      "rating": 4.5
+      "hours": "Neighbourhood, always open"
     },
     {
       "name": "Royal Botanic Garden Edinburgh",
@@ -200,7 +166,6 @@
       "lng": -3.209,
       "note": "Seventy acres of gardens north of Stockbridge with a rock garden, Chinese hillside and skyline views; entry to the gardens is free.",
       "hours": "10:00 AM–6:00 PM Mar–Sep, to 5:00 PM Feb/Oct, to 4:00 PM Nov–Jan; glasshouses closed for restoration",
-      "rating": 4.6,
       "ticketUrl": "https://www.rbge.org.uk"
     },
     {
@@ -208,16 +173,14 @@
       "lat": 55.9507,
       "lng": -3.2005,
       "note": "Gardens in the old loch valley beneath the castle, with the Ross Fountain and the Christmas market in winter.",
-      "hours": "Daily ~7:00 AM–dusk (to 10:00 PM in summer)",
-      "rating": 4.5
+      "hours": "Daily ~7:00 AM–dusk (to 10:00 PM in summer)"
     },
     {
       "name": "St Giles' Cathedral",
       "lat": 55.9495,
       "lng": -3.1909,
       "note": "The High Kirk of Edinburgh on the Royal Mile, with a crown-shaped spire and the carved Thistle Chapel; entry is free.",
-      "hours": "Mon–Sat 10:00 AM–6:00 PM (to 5:00 PM in winter), Sun 1:00–5:00 PM",
-      "rating": 4.5
+      "hours": "Mon–Sat 10:00 AM–6:00 PM (to 5:00 PM in winter), Sun 1:00–5:00 PM"
     },
     {
       "name": "Scottish National Gallery",
@@ -225,7 +188,6 @@
       "lng": -3.1959,
       "note": "A free gallery on the Mound holding Scottish and European masters from Raphael and Titian to Raeburn and Monet.",
       "hours": "10:00 AM–5:00 PM daily; free",
-      "rating": 4.5,
       "ticketUrl": "https://www.nationalgalleries.org"
     },
     {
@@ -233,16 +195,14 @@
       "lat": 55.9475,
       "lng": -3.196,
       "note": "An old cattle-market square under the castle crag, lined with pubs and a Saturday street-food market, and the bottom of colourful Victoria Street.",
-      "hours": "Square, always open; pubs to ~1:00 AM",
-      "rating": 4.4
+      "hours": "Square, always open; pubs to ~1:00 AM"
     },
     {
       "name": "Scott Monument",
       "lat": 55.9524,
       "lng": -3.1933,
       "note": "A 61 m Gothic spire on Princes Street honouring Sir Walter Scott; 287 narrow steps lead to galleries looking over Waverley and the Old Town.",
-      "hours": "~10:00 AM–7:00 PM Apr–Sep, ~10:00 AM–4:00 PM Oct–Mar",
-      "rating": 4.4
+      "hours": "~10:00 AM–7:00 PM Apr–Sep, ~10:00 AM–4:00 PM Oct–Mar"
     }
   ],
   "railStations": [

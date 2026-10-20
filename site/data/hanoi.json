@@ -47,26 +47,26 @@
     }
   ],
   "hotels": [
-    {"name":"Mercure Hanoi La Gare","lat":21.0262,"lng":105.8417,"area":"Hanoi Railway Station","rating":4.3,"ratingCount":1474,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Mövenpick Hotel Hanoi Centre","lat":21.0248,"lng":105.8441,"area":"Hanoi Railway Station","rating":4.4,"ratingCount":1837,"stars":5,"priceTier":3,"brandAnchor":true},
-    {"name":"Tru by Hilton Hanoi Station","lat":21.0239,"lng":105.8417,"area":"Hanoi Railway Station","rating":4,"ratingCount":39,"stars":4,"priceTier":2,"brandAnchor":true},
-    {"name":"Hanoi Aria Central Hotel & Spa","lat":21.0268,"lng":105.8416,"area":"Hanoi Railway Station","rating":4.8,"ratingCount":446,"stars":4,"priceTier":2},
-    {"name":"Acoustic Hotel & Spa","lat":21.0277,"lng":105.8446,"area":"Hanoi Railway Station","rating":4.9,"ratingCount":791,"stars":4,"priceTier":3},
-    {"name":"La Siesta Classic Ma May","lat":21.0343,"lng":105.8533,"area":"Old Quarter","rating":5,"ratingCount":7856,"stars":4,"priceTier":3},
-    {"name":"MK Premier Boutique Hotel","lat":21.036,"lng":105.8511,"area":"Old Quarter","rating":4.8,"ratingCount":2671,"stars":4,"priceTier":3},
-    {"name":"Golden Sail Hotel","lat":21.0358,"lng":105.8516,"area":"Old Quarter","rating":4.3,"ratingCount":110,"stars":3,"priceTier":2},
-    {"name":"Old Quarter View Hanoi Hostel","lat":21.0346,"lng":105.851,"area":"Old Quarter","rating":4.9,"ratingCount":917,"stars":1,"priceTier":1},
-    {"name":"Little Charm Hanoi Hostel","lat":21.034,"lng":105.8492,"area":"Old Quarter","rating":4.9,"ratingCount":565,"stars":1,"priceTier":1},
-    {"name":"Sofitel Legend Metropole Hanoi","lat":21.0256,"lng":105.856,"area":"French Quarter","rating":4.8,"ratingCount":8985,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Hotel de l'Opera Hanoi - MGallery","lat":21.0245,"lng":105.8556,"area":"French Quarter","rating":4.4,"ratingCount":2165,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Hilton Garden Inn Hanoi","lat":21.0196,"lng":105.8551,"area":"French Quarter","rating":4.4,"ratingCount":838,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Conifer Boutique Hotel","lat":21.0252,"lng":105.8572,"area":"French Quarter","rating":4.5,"ratingCount":827,"stars":4,"priceTier":3},
-    {"name":"Golden Time Hostel","lat":21.0283,"lng":105.8558,"area":"French Quarter","rating":4.6,"ratingCount":264,"stars":1,"priceTier":1},
-    {"name":"InterContinental Hanoi Westlake","lat":21.0585,"lng":105.8316,"area":"West Lake","rating":4.4,"ratingCount":3250,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Sheraton Hanoi Hotel","lat":21.0597,"lng":105.8316,"area":"West Lake","rating":4.4,"ratingCount":2304,"stars":5,"priceTier":3,"brandAnchor":true},
-    {"name":"Fraser Suites Hanoi","lat":21.064,"lng":105.8278,"area":"West Lake","rating":4.9,"ratingCount":705,"stars":5,"priceTier":3},
-    {"name":"Elegant Suites Westlake","lat":21.062,"lng":105.8248,"area":"West Lake","rating":4.5,"ratingCount":275,"stars":4,"priceTier":3},
-    {"name":"Viet Village Hotel & Travel","lat":21.2044,"lng":105.8302,"area":"Noi Bai International Airport","rating":4.4,"ratingCount":145,"stars":2,"priceTier":2}
+    {"name":"Mercure Hanoi La Gare","lat":21.0262,"lng":105.8417,"area":"Hanoi Railway Station","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Mövenpick Hotel Hanoi Centre","lat":21.0248,"lng":105.8441,"area":"Hanoi Railway Station","stars":5,"priceTier":3,"brandAnchor":true},
+    {"name":"Tru by Hilton Hanoi Station","lat":21.0239,"lng":105.8417,"area":"Hanoi Railway Station","stars":4,"priceTier":2,"brandAnchor":true},
+    {"name":"Hanoi Aria Central Hotel & Spa","lat":21.0268,"lng":105.8416,"area":"Hanoi Railway Station","stars":4,"priceTier":2},
+    {"name":"Acoustic Hotel & Spa","lat":21.0277,"lng":105.8446,"area":"Hanoi Railway Station","stars":4,"priceTier":3},
+    {"name":"La Siesta Classic Ma May","lat":21.0343,"lng":105.8533,"area":"Old Quarter","stars":4,"priceTier":3},
+    {"name":"MK Premier Boutique Hotel","lat":21.036,"lng":105.8511,"area":"Old Quarter","stars":4,"priceTier":3},
+    {"name":"Golden Sail Hotel","lat":21.0358,"lng":105.8516,"area":"Old Quarter","stars":3,"priceTier":2},
+    {"name":"Old Quarter View Hanoi Hostel","lat":21.0346,"lng":105.851,"area":"Old Quarter","stars":1,"priceTier":1},
+    {"name":"Little Charm Hanoi Hostel","lat":21.034,"lng":105.8492,"area":"Old Quarter","stars":1,"priceTier":1},
+    {"name":"Sofitel Legend Metropole Hanoi","lat":21.0256,"lng":105.856,"area":"French Quarter","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Hotel de l'Opera Hanoi - MGallery","lat":21.0245,"lng":105.8556,"area":"French Quarter","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Hilton Garden Inn Hanoi","lat":21.0196,"lng":105.8551,"area":"French Quarter","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Conifer Boutique Hotel","lat":21.0252,"lng":105.8572,"area":"French Quarter","stars":4,"priceTier":3},
+    {"name":"Golden Time Hostel","lat":21.0283,"lng":105.8558,"area":"French Quarter","stars":1,"priceTier":1},
+    {"name":"InterContinental Hanoi Westlake","lat":21.0585,"lng":105.8316,"area":"West Lake","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Sheraton Hanoi Hotel","lat":21.0597,"lng":105.8316,"area":"West Lake","stars":5,"priceTier":3,"brandAnchor":true},
+    {"name":"Fraser Suites Hanoi","lat":21.064,"lng":105.8278,"area":"West Lake","stars":5,"priceTier":3},
+    {"name":"Elegant Suites Westlake","lat":21.062,"lng":105.8248,"area":"West Lake","stars":4,"priceTier":3},
+    {"name":"Viet Village Hotel & Travel","lat":21.2044,"lng":105.8302,"area":"Noi Bai International Airport","stars":2,"priceTier":2}
   ],
   "sights": [
     {
@@ -74,144 +74,126 @@
       "lat": 21.034,
       "lng": 105.851,
       "note": "A dense grid of narrow 'tube houses' and guild streets north of Hoàn Kiếm Lake, best explored on foot for street food, temples and scooter-choked lanes.",
-      "hours": "Open 24 hours; liveliest early morning and evening",
-      "rating": 4.5
+      "hours": "Open 24 hours; liveliest early morning and evening"
     },
     {
       "name": "Hoa Lo Prison",
       "lat": 21.0253,
       "lng": 105.8466,
       "note": "The surviving gatehouse and cell blocks of the French colonial jail later nicknamed the 'Hanoi Hilton', telling the story of Vietnamese political prisoners and captured US pilots.",
-      "hours": "~8:00 AM–5:00 PM daily; night tours on selected evenings",
-      "rating": 4.2
+      "hours": "~8:00 AM–5:00 PM daily; night tours on selected evenings"
     },
     {
       "name": "Temple of Literature",
       "lat": 21.0286,
       "lng": 105.8355,
       "note": "An 11th-century Confucian temple and Vietnam's first university, a sequence of walled courtyards with stone stelae on tortoises honouring old exam laureates.",
-      "hours": "~8:00 AM–5:00 PM daily",
-      "rating": 4.3
+      "hours": "~8:00 AM–5:00 PM daily"
     },
     {
       "name": "Vietnam Museum of Ethnology",
       "lat": 21.0405,
       "lng": 105.7985,
       "note": "A thorough look at Vietnam's 54 ethnic groups, with a garden of full-size traditional houses, a Bahnar communal hall and a tomb hut to walk through.",
-      "hours": "8:30 AM–5:30 PM, closed Mon",
-      "rating": 4.4
+      "hours": "8:30 AM–5:30 PM, closed Mon"
     },
     {
       "name": "Vietnamese Women's Museum",
       "lat": 21.023,
       "lng": 105.8536,
       "note": "Four well-curated floors on women's roles in Vietnamese family life, the wars and the economy, with textiles and costumes from ethnic minorities.",
-      "hours": "8:00 AM–5:00 PM daily",
-      "rating": 4.5
+      "hours": "8:00 AM–5:00 PM daily"
     },
     {
       "name": "Ho Chi Minh Mausoleum",
       "lat": 21.0368,
       "lng": 105.8346,
       "note": "The granite mausoleum on Ba Đình Square where Ho Chi Minh's embalmed body lies in state; strict dress code, silence, and bags and cameras checked in first.",
-      "hours": "Mornings only ~7:30–10:30 AM (to ~11:00 AM weekends), Tue–Thu, Sat–Sun; closed Mon & Fri and for an annual maintenance period (usually mid-June to mid-August)",
-      "rating": 3.9
+      "hours": "Mornings only ~7:30–10:30 AM (to ~11:00 AM weekends), Tue–Thu, Sat–Sun; closed Mon & Fri and for an annual maintenance period (usually mid-June to mid-August)"
     },
     {
       "name": "Hoan Kiem Lake",
       "lat": 21.0287,
       "lng": 105.8524,
       "note": "The tree-lined lake at the heart of the city, with the little Turtle Tower on its islet; locals jog and do tai chi along its shore at dawn.",
-      "hours": "Open 24 hours; lakeside streets car-free Fri–Sun evenings",
-      "rating": 4.3
+      "hours": "Open 24 hours; lakeside streets car-free Fri–Sun evenings"
     },
     {
       "name": "Ngoc Son Temple",
       "lat": 21.0307,
       "lng": 105.8524,
       "note": "A small temple on an islet in Hoàn Kiếm Lake, reached by the red-painted Thê Húc bridge, housing a preserved giant turtle.",
-      "hours": "~7:00 AM–6:00 PM daily",
-      "rating": 3.8
+      "hours": "~7:00 AM–6:00 PM daily"
     },
     {
       "name": "Hanoi Train Street",
       "lat": 21.0296,
       "lng": 105.8446,
       "note": "A narrow lane where the Hanoi–Lào Cai line squeezes between houses and cafés a metre from the rails; police periodically restrict access, so check before going.",
-      "hours": "Trains pass a few times a day, mostly afternoon and evening; café access varies",
-      "rating": 4.4
+      "hours": "Trains pass a few times a day, mostly afternoon and evening; café access varies"
     },
     {
       "name": "St. Joseph's Cathedral",
       "lat": 21.0287,
       "lng": 105.8489,
       "note": "A soot-darkened neo-Gothic cathedral from 1886, its twin towers fronting a small square full of lemon-tea stalls.",
-      "hours": "Interior usually open ~8:00–11:00 AM and ~2:00–6:00 PM; Masses daily",
-      "rating": 4
+      "hours": "Interior usually open ~8:00–11:00 AM and ~2:00–6:00 PM; Masses daily"
     },
     {
       "name": "Imperial Citadel of Thang Long",
       "lat": 21.0353,
       "lng": 105.8403,
       "note": "A UNESCO-listed site of the old royal citadel, with the Đoan Môn gate, Kính Thiên palace terrace, wartime command bunkers and excavated foundations.",
-      "hours": "8:00 AM–5:00 PM, closed Mon; night tours on selected evenings",
-      "rating": 4
+      "hours": "8:00 AM–5:00 PM, closed Mon; night tours on selected evenings"
     },
     {
       "name": "Ho Chi Minh's Stilt House",
       "lat": 21.0395,
       "lng": 105.8337,
       "note": "The simple wooden house beside a carp pond in the Presidential Palace grounds where Ho Chi Minh lived and worked from 1958 to 1969.",
-      "hours": "~7:30–11:00 AM & ~2:00–4:00 PM; closed Mon & Fri afternoons",
-      "rating": 4
+      "hours": "~7:30–11:00 AM & ~2:00–4:00 PM; closed Mon & Fri afternoons"
     },
     {
       "name": "One Pillar Pagoda",
       "lat": 21.0359,
       "lng": 105.8336,
       "note": "A tiny wooden shrine perched on a single stone pillar in a lotus pond, a symbol of the city rebuilt after it was destroyed in 1954.",
-      "hours": "~7:00 AM–6:00 PM daily",
-      "rating": 3.6
+      "hours": "~7:00 AM–6:00 PM daily"
     },
     {
       "name": "Tran Quoc Pagoda",
       "lat": 21.048,
       "lng": 105.8368,
       "note": "Hanoi's oldest Buddhist pagoda, with a slender red stupa on a spit of land in West Lake that glows at sunset.",
-      "hours": "~7:30 AM–6:00 PM daily",
-      "rating": 4.2
+      "hours": "~7:30 AM–6:00 PM daily"
     },
     {
       "name": "Hanoi Opera House",
       "lat": 21.0243,
       "lng": 105.8576,
       "note": "A grand 1911 French opera house modelled on the Palais Garnier, still hosting concerts, ballet and the Lune Production shows.",
-      "hours": "Exterior anytime; open inside for performances and scheduled guided tours",
-      "rating": 4.1
+      "hours": "Exterior anytime; open inside for performances and scheduled guided tours"
     },
     {
       "name": "Lotte Observation Deck",
       "lat": 21.0318,
       "lng": 105.8126,
       "note": "A 65th-floor deck in Lotte Center with 360° views over the city, West Lake and the Red River, plus a glass-floor skywalk.",
-      "hours": "~9:00 AM–10:00 PM daily",
-      "rating": 4.4
+      "hours": "~9:00 AM–10:00 PM daily"
     },
     {
       "name": "Long Bien Bridge",
       "lat": 21.0426,
       "lng": 105.8579,
       "note": "A rusting 1903 cantilever bridge across the Red River, now carrying only trains, scooters and pedestrians; walk out for river views and sunset.",
-      "hours": "Open 24 hours",
-      "rating": 4.1
+      "hours": "Open 24 hours"
     },
     {
       "name": "Ta Hien Beer Street",
       "lat": 21.0365,
       "lng": 105.8524,
       "note": "The Old Quarter's nightlife alley, where locals and travellers crowd onto plastic stools for cheap bia hơi and snacks.",
-      "hours": "Busiest ~6:00 PM–midnight",
-      "rating": 4.1
+      "hours": "Busiest ~6:00 PM–midnight"
     }
   ],
   "railStations": [

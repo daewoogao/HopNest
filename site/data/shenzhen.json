@@ -622,26 +622,24 @@
     }
   ],
   "hotels": [
-    {"name":"Pullman Shenzhen North","lat":22.6151,"lng":114.0257,"area":"Shenzhen North Station","rating":5,"ratingCount":1887,"stars":5,"priceTier":3,"brandAnchor":true},
-    {"name":"Sheraton Shenzhen Futian Hotel","lat":22.5382,"lng":114.0569,"area":"Futian Station","rating":4.7,"ratingCount":3490,"stars":5,"priceTier":3,"brandAnchor":true},
-    {"name":"Four Seasons Hotel Shenzhen","lat":22.536,"lng":114.0529,"area":"Futian Station","rating":4.9,"ratingCount":3146,"stars":5,"priceTier":4},
-    {"name":"Futian Shangri-La, Shenzhen","lat":22.5389,"lng":114.0524,"area":"Futian Station","rating":5,"ratingCount":19523,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Wyndham Grand Shenzhen","lat":22.5362,"lng":114.0624,"area":"Futian Station","rating":4.8,"ratingCount":1396,"stars":5,"priceTier":3,"brandAnchor":true},
-    {"name":"Shangri-La Hotel Shenzhen","lat":22.5363,"lng":114.1131,"area":"Shenzhen Station","rating":4.8,"ratingCount":9001,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Hyatt Regency Shenzhen Airport","lat":22.625,"lng":113.8073,"area":"Shenzhen Bao'an International Airport","rating":4.6,"ratingCount":156,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Hyatt Place Shenzhen Airport","lat":22.6264,"lng":113.8109,"area":"Shenzhen Bao'an International Airport","rating":4.3,"ratingCount":239,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Hyatt House Shenzhen Airport","lat":22.6264,"lng":113.8105,"area":"Shenzhen Bao'an International Airport","rating":4.7,"ratingCount":156,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Huaqiang Plaza Hotel","lat":22.5466,"lng":114.0809,"area":"Huaqiang North","rating":4.1,"ratingCount":301,"stars":4,"priceTier":3},
-    {"name":"Hui Hotel Shenzhen","lat":22.5512,"lng":114.0769,"area":"Huaqiang North","rating":4.7,"ratingCount":134,"stars":3,"priceTier":2},
-    {"name":"Shanghai Hotel","lat":22.5439,"lng":114.0768,"area":"Huaqiang North","rating":4,"ratingCount":346,"stars":3,"priceTier":2},
-    {"name":"Grand Skylight Hotel Shenzhen","lat":22.5439,"lng":114.0775,"area":"Huaqiang North","rating":4,"ratingCount":377,"stars":4,"priceTier":3},
+    {"name":"Pullman Shenzhen North","lat":22.6151,"lng":114.0257,"area":"Shenzhen North Station","stars":5,"priceTier":3,"brandAnchor":true},
+    {"name":"Sheraton Shenzhen Futian Hotel","lat":22.5382,"lng":114.0569,"area":"Futian Station","stars":5,"priceTier":3,"brandAnchor":true},
+    {"name":"Four Seasons Hotel Shenzhen","lat":22.536,"lng":114.0529,"area":"Futian Station","stars":5,"priceTier":4},
+    {"name":"Futian Shangri-La, Shenzhen","lat":22.5389,"lng":114.0524,"area":"Futian Station","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Wyndham Grand Shenzhen","lat":22.5362,"lng":114.0624,"area":"Futian Station","stars":5,"priceTier":3,"brandAnchor":true},
+    {"name":"Shangri-La Hotel Shenzhen","lat":22.5363,"lng":114.1131,"area":"Shenzhen Station","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Hyatt Regency Shenzhen Airport","lat":22.625,"lng":113.8073,"area":"Shenzhen Bao'an International Airport","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Hyatt Place Shenzhen Airport","lat":22.6264,"lng":113.8109,"area":"Shenzhen Bao'an International Airport","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hyatt House Shenzhen Airport","lat":22.6264,"lng":113.8105,"area":"Shenzhen Bao'an International Airport","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Huaqiang Plaza Hotel","lat":22.5466,"lng":114.0809,"area":"Huaqiang North","stars":4,"priceTier":3},
+    {"name":"Hui Hotel Shenzhen","lat":22.5512,"lng":114.0769,"area":"Huaqiang North","stars":3,"priceTier":2},
+    {"name":"Shanghai Hotel","lat":22.5439,"lng":114.0768,"area":"Huaqiang North","stars":3,"priceTier":2},
+    {"name":"Grand Skylight Hotel Shenzhen","lat":22.5439,"lng":114.0775,"area":"Huaqiang North","stars":4,"priceTier":3},
     {
       "name": "Davis International Apartment (Shenzhen North Station Branch)",
       "lat": 22.6124,
       "lng": 114.0281,
       "area": "Shenzhen North Station",
-      "rating": 4.7,
-      "ratingCount": 3041,
       "stars": 3,
       "priceTier": 2,
       "ratingSource": "Trip.com",
@@ -652,8 +650,6 @@
       "lat": 22.6161,
       "lng": 114.0262,
       "area": "Shenzhen North Station",
-      "rating": 4.5,
-      "ratingCount": 3031,
       "stars": 3,
       "priceTier": 2,
       "ratingSource": "Trip.com",
@@ -664,8 +660,6 @@
       "lat": 22.5368,
       "lng": 114.1127,
       "area": "Shenzhen Station",
-      "rating": 4.7,
-      "ratingCount": 9559,
       "stars": 4,
       "priceTier": 3,
       "ratingSource": "Trip.com",
@@ -676,8 +670,6 @@
       "lat": 22.5369,
       "lng": 114.1134,
       "area": "Shenzhen Station",
-      "rating": 4.7,
-      "ratingCount": 4975,
       "stars": 4,
       "priceTier": 3,
       "ratingSource": "Trip.com",
@@ -688,8 +680,6 @@
       "lat": 22.5386,
       "lng": 114.1125,
       "area": "Shenzhen Station",
-      "rating": 4.6,
-      "ratingCount": 1413,
       "stars": 4,
       "priceTier": 2,
       "ratingSource": "Trip.com",
@@ -702,96 +692,78 @@
       "lat": 22.5365,
       "lng": 113.9737,
       "note": "A theme park of scaled-down world landmarks, from a mini Eiffel Tower to the Pyramids, with evening shows.",
-      "hours": "~9:00 AM-10:30 PM daily (check seasonal changes)",
-      "rating": 4
+      "hours": "~9:00 AM-10:30 PM daily (check seasonal changes)"
     },
     {
       "name": "Splendid China Folk Village",
       "lat": 22.5328,
       "lng": 113.986,
       "note": "Miniature replicas of China's famous sites beside a living folk-culture village with costumed performances.",
-      "hours": "~9:00 AM-9:30 PM daily",
-      "rating": 4.2
+      "hours": "~9:00 AM-9:30 PM daily"
     },
     {
       "name": "Lianhuashan Park",
       "lat": 22.5557,
       "lng": 114.0583,
       "note": "A hilltop park behind the Civic Center with a Deng Xiaoping statue and a skyline view of Futian and the Hong Kong border hills.",
-      "hours": "6:30 AM-6:00 PM daily; free",
-      "rating": 4.4
+      "hours": "6:30 AM-6:00 PM daily; free"
     },
     {
       "name": "Dafen Oil Painting Village",
       "lat": 22.599,
       "lng": 114.142,
       "note": "A working art village where hundreds of studios paint reproductions and original canvases to order.",
-      "hours": "~9:00 AM-6:00 PM daily; free",
-      "rating": 4.2
+      "hours": "~9:00 AM-6:00 PM daily; free"
     },
     {
       "name": "OCT Harbour",
       "lat": 22.531,
       "lng": 113.994,
       "note": "A waterfront leisure district with a lagoon, restaurants and evening lights beside the Splendid China area.",
-      "hours": "Open daily; shops and restaurants ~10:00 AM-10:00 PM",
-      "rating": 4.4
+      "hours": "Open daily; shops and restaurants ~10:00 AM-10:00 PM"
     },
-    {
-      "name": "Shenzhen Bay Park",
-      "lat": 22.517,
-      "lng": 113.9515,
-      "note": "A long seafront promenade and cycling path on Shenzhen Bay facing Hong Kong's Deep Bay, good at sunset.",
-      "hours": "Open daily; free",
-      "rating": 4.4
-    },
+    {"name":"Shenzhen Bay Park","lat":22.517,"lng":113.9515,"note":"A long seafront promenade and cycling path on Shenzhen Bay facing Hong Kong's Deep Bay, good at sunset.","hours":"Open daily; free"},
     {
       "name": "OCT Loft Creative Culture Park",
       "lat": 22.5435,
       "lng": 113.988,
       "note": "Converted factory buildings now holding galleries, design studios, cafes and independent shops.",
-      "hours": "~10:00 AM-6:00 PM for galleries; cafes later",
-      "rating": 4.3
+      "hours": "~10:00 AM-6:00 PM for galleries; cafes later"
     },
     {
       "name": "Wutong Mountain",
       "lat": 22.597,
       "lng": 114.215,
       "note": "Shenzhen's highest peak area, with forest trails and a long ridge hike; the climb takes a half day.",
-      "hours": "Open daily, daylight hours",
-      "rating": 4.5
+      "hours": "Open daily, daylight hours"
     },
     {
       "name": "Shenzhen Civic Center",
       "lat": 22.5453,
       "lng": 114.0578,
       "note": "The wave-roofed government complex on the central axis, with an open plaza and a view of Lianhuashan.",
-      "hours": "Plaza open daily; free",
-      "rating": 4.4
+      "hours": "Plaza open daily; free"
     },
     {
       "name": "Shenzhen Museum (Historical Exhibition)",
       "lat": 22.544,
       "lng": 114.0575,
       "note": "The city's main history museum, tracing Shenzhen's rise from fishing villages to a tech metropolis.",
-      "hours": "9:00 AM-5:00 PM, closed Mon (free, ID/passport booking may be required)",
-      "rating": 4.1
+      "hours": "9:00 AM-5:00 PM, closed Mon (free, ID/passport booking may be required)"
     },
     {
       "name": "Xianhu Botanical Garden",
       "lat": 22.578,
       "lng": 114.173,
       "note": "A large botanical garden with a fossil-plant garden, a palm area and lakes, set against the Wutong hills.",
-      "hours": "~6:30 AM-6:00 PM daily",
-      "rating": 4.4
+      "hours": "~6:30 AM-6:00 PM daily"
     },
     {
       "name": "Dongmen Pedestrian Street",
       "lat": 22.545,
       "lng": 114.118,
       "note": "The old commercial pedestrian zone of Luohu, with street snacks, cheap fashion and a lively evening crowd.",
-      "hours": "Open daily; shops ~10:00 AM-10:00 PM",
-      "rating": 4
+      "hours": "Open daily; shops ~10:00 AM-10:00 PM"
     },
     {
       "name": "Ping An Finance Centre Observation Deck",
@@ -799,18 +771,10 @@
       "lng": 114.0517,
       "note": "The 600 m supertall tower's top-level observation deck gives a 360-degree view of the Pearl River Delta.",
       "hours": "~10:00 AM-10:00 PM daily",
-      "rating": 4.5,
       "bookAhead": true
     },
-    {
-      "name": "Nantou Ancient City",
-      "lat": 22.547,
-      "lng": 113.9215,
-      "note": "A walled old town from the Ming era, now a quiet pocket of lanes and shops among Nanshan's towers.",
-      "hours": "Open daily; free",
-      "rating": 4
-    },
-    {"name":"Shenzhen Talent Park","lat":22.516,"lng":113.946,"note":"A seafront park by Houhai with views of the skyline and a popular evening promenade.","hours":"Open daily; free","rating":4.3}
+    {"name":"Nantou Ancient City","lat":22.547,"lng":113.9215,"note":"A walled old town from the Ming era, now a quiet pocket of lanes and shops among Nanshan's towers.","hours":"Open daily; free"},
+    {"name":"Shenzhen Talent Park","lat":22.516,"lng":113.946,"note":"A seafront park by Houhai with views of the skyline and a popular evening promenade.","hours":"Open daily; free"}
   ],
   "railStations": [
     {

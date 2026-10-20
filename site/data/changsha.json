@@ -279,32 +279,17 @@
       "lat": 28.2001,
       "lng": 112.9702,
       "area": "Wuyi Square",
-      "rating": 4.7,
-      "ratingCount": 10595,
       "stars": 4,
       "priceTier": 3,
       "ratingSource": "Trip.com",
       "tripUrl": "https://www.trip.com/hotels/detail/?hotelId=469562"
     },
-    {
-      "name": "Niccolo Changsha",
-      "lat": 28.1958,
-      "lng": 112.9738,
-      "area": "Wuyi Square",
-      "rating": 4.8,
-      "ratingCount": 9202,
-      "stars": 5,
-      "priceTier": 4,
-      "ratingSource": "Trip.com",
-      "tripUrl": "https://www.trip.com/hotels/detail/?hotelId=24773780"
-    },
+    {"name":"Niccolo Changsha","lat":28.1958,"lng":112.9738,"area":"Wuyi Square","stars":5,"priceTier":4,"ratingSource":"Trip.com","tripUrl":"https://www.trip.com/hotels/detail/?hotelId=24773780"},
     {
       "name": "Park Hyatt Changsha",
       "lat": 28.1959,
       "lng": 112.9746,
       "area": "Wuyi Square",
-      "rating": 4.7,
-      "ratingCount": 7180,
       "stars": 5,
       "priceTier": 4,
       "brandAnchor": true,
@@ -316,8 +301,6 @@
       "lat": 28.1954,
       "lng": 112.9704,
       "area": "Huangxing Road & Pozi Street",
-      "rating": 4.9,
-      "ratingCount": 2042,
       "stars": 4,
       "priceTier": 3,
       "ratingSource": "Trip.com",
@@ -328,22 +311,18 @@
       "lat": 28.1924,
       "lng": 112.9652,
       "area": "Huangxing Road & Pozi Street",
-      "rating": 4.8,
-      "ratingCount": 11529,
       "stars": 5,
       "priceTier": 4,
       "brandAnchor": true,
       "ratingSource": "Trip.com",
       "tripUrl": "https://www.trip.com/hotels/detail/?hotelId=9194401"
     },
-    {"name":"Hunan Civil Aviation Hotel","lat":28.197,"lng":113.0022,"area":"Changsha Railway Station","rating":4.8,"ratingCount":1445,"stars":4,"priceTier":2,"ratingSource":"Trip.com"},
+    {"name":"Hunan Civil Aviation Hotel","lat":28.197,"lng":113.0022,"area":"Changsha Railway Station","stars":4,"priceTier":2,"ratingSource":"Trip.com"},
     {
       "name": "Days Hotel & Suites by Wyndham China Town Changsha",
       "lat": 28.1936,
       "lng": 112.9956,
       "area": "Changsha Railway Station",
-      "rating": 4.7,
-      "ratingCount": 3567,
       "stars": 4,
       "priceTier": 2,
       "brandAnchor": true,
@@ -358,7 +337,6 @@
       "lng": 112.9878,
       "note": "The province's flagship museum, best known for the Mawangdui Han tombs: the 2,100-year-old preserved body of Lady Xin Zhui, lacquerware and silk paintings.",
       "hours": "Tue–Sun ~9:00 AM–5:00 PM (last entry ~4:00 PM; longer hours in summer); closed Mondays. Free, but a real-name booking (passport) is required.",
-      "rating": 4.4,
       "ticketUrl": "https://www.hnmuseum.com/",
       "bookAhead": true
     },
@@ -367,104 +345,91 @@
       "lat": 28.1841,
       "lng": 112.9613,
       "note": "A long, leafy island in the Xiang River with gardens, river views of the skyline and the huge Youth Mao Zedong head sculpture at its southern tip; Juzizhou metro station is on the island.",
-      "hours": "Open daily ~7:00 AM–10:00 PM; free (island tram extra). Fireworks on some holiday evenings.",
-      "rating": 4.2
+      "hours": "Open daily ~7:00 AM–10:00 PM; free (island tram extra). Fireworks on some holiday evenings."
     },
     {
       "name": "Mount Yuelu and Aiwan Pavilion",
       "lat": 28.1852,
       "lng": 112.9323,
       "note": "A forested hill on the west bank with temple-dotted paths to the summit; the red Aiwan (Autumn-Admiring) Pavilion in the valley above Yuelu Academy is the classic spot for autumn leaves.",
-      "hours": "Scenic area open daily, roughly 6:00 AM–11:00 PM; free (cable car and shuttle bus extra).",
-      "rating": 4.3
+      "hours": "Scenic area open daily, roughly 6:00 AM–11:00 PM; free (cable car and shuttle bus extra)."
     },
     {
       "name": "Yuelu Academy",
       "lat": 28.1838,
       "lng": 112.9353,
       "note": "One of China's four great classical academies, founded in 976 and still part of Hunan University: quiet courtyards, lecture halls and a Confucian temple at the foot of Mount Yuelu.",
-      "hours": "Daily ~8:00 AM–5:30 PM (to ~6:00 PM in summer); ticket ~¥40.",
-      "rating": 4.3
+      "hours": "Daily ~8:00 AM–5:30 PM (to ~6:00 PM in summer); ticket ~¥40."
     },
     {
       "name": "Changsha Museum",
       "lat": 28.2487,
       "lng": 112.9864,
       "note": "The city museum in the riverside cultural complex on the north side, tracing Changsha from Neolithic finds and Chu bronzes to its revolutionary era.",
-      "hours": "Tue–Sun 9:00 AM–5:00 PM; closed Mondays; free (bring your passport).",
-      "rating": 4.5
+      "hours": "Tue–Sun 9:00 AM–5:00 PM; closed Mondays; free (bring your passport)."
     },
     {
       "name": "Hunan Martyrs' Park",
       "lat": 28.213,
       "lng": 112.993,
       "note": "A large free park beside the Hunan Museum built around a lake, with a hilltop memorial tower, shady walks and locals dancing and exercising in the evenings.",
-      "hours": "Open daily ~6:00 AM–10:00 PM; free.",
-      "rating": 4.1
+      "hours": "Open daily ~6:00 AM–10:00 PM; free."
     },
     {
       "name": "Kaifu Temple",
       "lat": 28.2239,
       "lng": 112.9769,
       "note": "A working Buddhist temple founded over a thousand years ago, with incense-filled courtyards and a vegetarian restaurant, a few minutes' walk from Kaifu Temple metro station.",
-      "hours": "Daily ~8:00 AM–5:30 PM; small entry fee.",
-      "rating": 4.2
+      "hours": "Daily ~8:00 AM–5:30 PM; small entry fee."
     },
     {
       "name": "Tianxin Pavilion",
       "lat": 28.1894,
       "lng": 112.988,
       "note": "A three-storey pavilion on the last surviving stretch of Changsha's Ming-dynasty city wall, set in a hillside park with views over the old town.",
-      "hours": "Park open daily; pavilion ~8:00 AM–5:30 PM, small ticket fee.",
-      "rating": 4
+      "hours": "Park open daily; pavilion ~8:00 AM–5:30 PM, small ticket fee."
     },
     {
       "name": "Changsha Bamboo Slips Museum",
       "lat": 28.1862,
       "lng": 112.9877,
       "note": "A compact, free museum built around the vast hoard of Three Kingdoms-era bamboo and wooden administrative slips found in wells under the city centre.",
-      "hours": "Tue–Sun 9:00 AM–5:00 PM; closed Mondays; free with passport.",
-      "rating": 4.2
+      "hours": "Tue–Sun 9:00 AM–5:00 PM; closed Mondays; free with passport."
     },
     {
       "name": "Huangxing Road Pedestrian Street",
       "lat": 28.19,
       "lng": 112.9712,
       "note": "Changsha's main car-free shopping street running south from the IFS towers, lined with chain stores, snack stands and bubble-tea queues; liveliest after dark.",
-      "hours": "Open all day; shops ~10:00 AM–10:00 PM.",
-      "rating": 4.2
+      "hours": "Open all day; shops ~10:00 AM–10:00 PM."
     },
     {
       "name": "Taiping Street",
       "lat": 28.1965,
       "lng": 112.9668,
       "note": "A restored lane of grey-brick shopfronts in the old quarter selling local snacks and crafts, with the former residence of Han-dynasty scholar Jia Yi along the way.",
-      "hours": "Open all day; shops ~10:00 AM–10:00 PM.",
-      "rating": 3.8
+      "hours": "Open all day; shops ~10:00 AM–10:00 PM."
     },
     {
       "name": "Pozi Street and Huogongdian",
       "lat": 28.1928,
       "lng": 112.9675,
       "note": "The city's classic snack street, home to the century-old Huogongdian (Fire Palace) restaurant: the place to try stinky tofu, sugar-oil cakes and spicy Hunan small plates.",
-      "hours": "Stalls and restaurants open from late morning to late night.",
-      "rating": 4
+      "hours": "Stalls and restaurants open from late morning to late night."
     },
     {
       "name": "Du Fu River Pavilion",
       "lat": 28.1895,
       "lng": 112.9625,
       "note": "A tall riverside pavilion commemorating the Tang poet Du Fu, who spent his last years in Changsha; the river promenade around it faces Orange Isle and Mount Yuelu and is lit up at night.",
-      "hours": "Riverside open all day; pavilion interior roughly daytime hours, free.",
-      "rating": 4
+      "hours": "Riverside open all day; pavilion interior roughly daytime hours, free."
     },
     {
       "name": "Hunan First Normal University (Old Campus)",
       "lat": 28.18,
       "lng": 112.968,
       "note": "The rebuilt teacher-training school where the young Mao Zedong studied and later taught, with classrooms and dormitories laid out as they were in the 1910s.",
-      "hours": "Roughly 9:00 AM–5:00 PM; free (passport may be checked).",
-      "rating": 4.3
+      "hours": "Roughly 9:00 AM–5:00 PM; free (passport may be checked)."
     }
   ],
   "railStations": [

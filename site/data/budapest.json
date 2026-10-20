@@ -94,31 +94,31 @@
     }
   ],
   "hotels": [
-    {"name":"IntercityHotel Budapest","lat":47.4992,"lng":19.0815,"area":"Budapest Keleti","rating":4,"ratingCount":321,"stars":4,"priceTier":3},
-    {"name":"Hotel Bristol Budapest","lat":47.4985,"lng":19.0774,"area":"Budapest Keleti","rating":4.2,"ratingCount":1126,"stars":3,"priceTier":2},
-    {"name":"Bo33 Hotel Family & Suites","lat":47.5016,"lng":19.0732,"area":"Budapest Keleti","rating":4.8,"ratingCount":1887,"stars":4,"priceTier":3},
-    {"name":"Lion's Garden Hotel Budapest","lat":47.5058,"lng":19.0903,"area":"Budapest Keleti","rating":4.1,"ratingCount":948,"stars":4,"priceTier":3},
-    {"name":"Crowne Plaza Budapest","lat":47.513,"lng":19.0582,"area":"Budapest Nyugati","rating":4.9,"ratingCount":394,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"NH Budapest City","lat":47.513,"lng":19.0521,"area":"Budapest Nyugati","rating":4.2,"ratingCount":2386,"stars":4,"priceTier":3},
-    {"name":"T62 Hotel","lat":47.5096,"lng":19.0569,"area":"Budapest Nyugati","rating":4.7,"ratingCount":1177,"stars":3,"priceTier":2},
-    {"name":"Carpe Noctem Original Hostel","lat":47.5089,"lng":19.0595,"area":"Budapest Nyugati","rating":4.9,"ratingCount":565,"stars":1,"priceTier":1},
-    {"name":"TRIBE Budapest Airport Hotel","lat":47.4307,"lng":19.2626,"area":"Budapest Liszt Ferenc Airport","rating":4.1,"ratingCount":38,"stars":4,"priceTier":2,"brandAnchor":true},
-    {"name":"ibis Styles Budapest Airport Hotel","lat":47.4302,"lng":19.2624,"area":"Budapest Liszt Ferenc Airport","rating":4.2,"ratingCount":542,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"Kempinski Hotel Corvinus Budapest","lat":47.497,"lng":19.0523,"area":"Deák Ferenc tér","rating":4.6,"ratingCount":3362,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Carat Boutique Hotel","lat":47.4983,"lng":19.0563,"area":"Deák Ferenc tér","rating":4.4,"ratingCount":2015,"stars":4,"priceTier":3},
-    {"name":"Gerlóczy Boutique Hotel","lat":47.495,"lng":19.0561,"area":"Deák Ferenc tér","rating":4.7,"ratingCount":962,"stars":4,"priceTier":3},
-    {"name":"Pal's Hostel & Apartments","lat":47.5002,"lng":19.053,"area":"Deák Ferenc tér","rating":4.5,"ratingCount":432,"stars":1,"priceTier":1},
-    {"name":"Wombat's City Hostel Budapest","lat":47.4991,"lng":19.058,"area":"Deák Ferenc tér","rating":4.2,"ratingCount":1136,"stars":1,"priceTier":1},
-    {"name":"ibis Budapest Centrum","lat":47.4887,"lng":19.0624,"area":"Kálvin tér","rating":4.2,"ratingCount":2188,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"Hotel Rum","lat":47.4904,"lng":19.0591,"area":"Kálvin tér","rating":4.5,"ratingCount":844,"stars":4,"priceTier":3},
-    {"name":"Three Corners Hotel Art","lat":47.4898,"lng":19.0596,"area":"Kálvin tér","rating":4.5,"ratingCount":1647,"stars":3,"priceTier":3},
-    {"name":"Hotel Memories Oldtown","lat":47.4896,"lng":19.0606,"area":"Kálvin tér","rating":4.9,"ratingCount":766,"stars":3,"priceTier":2},
-    {"name":"Lavender Circus Hostel","lat":47.4907,"lng":19.0613,"area":"Kálvin tér","rating":4.6,"ratingCount":331,"stars":1,"priceTier":1},
-    {"name":"Pullman Budapest","lat":47.5044,"lng":19.0583,"area":"Oktogon","rating":4.5,"ratingCount":538,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Corinthia Grand Hotel Royal","lat":47.5027,"lng":19.0668,"area":"Oktogon","rating":4.6,"ratingCount":9938,"stars":5,"priceTier":4},
-    {"name":"Hotel Oktogon Haggenmacher","lat":47.506,"lng":19.0639,"area":"Oktogon","rating":4.9,"ratingCount":1774,"stars":3,"priceTier":2},
-    {"name":"Medosz Hotel","lat":47.5054,"lng":19.0612,"area":"Oktogon","rating":4,"ratingCount":988,"stars":3,"priceTier":2},
-    {"name":"Avenue Hostel","lat":47.5057,"lng":19.0635,"area":"Oktogon","rating":4.1,"ratingCount":478,"stars":1,"priceTier":1}
+    {"name":"IntercityHotel Budapest","lat":47.4992,"lng":19.0815,"area":"Budapest Keleti","stars":4,"priceTier":3},
+    {"name":"Hotel Bristol Budapest","lat":47.4985,"lng":19.0774,"area":"Budapest Keleti","stars":3,"priceTier":2},
+    {"name":"Bo33 Hotel Family & Suites","lat":47.5016,"lng":19.0732,"area":"Budapest Keleti","stars":4,"priceTier":3},
+    {"name":"Lion's Garden Hotel Budapest","lat":47.5058,"lng":19.0903,"area":"Budapest Keleti","stars":4,"priceTier":3},
+    {"name":"Crowne Plaza Budapest","lat":47.513,"lng":19.0582,"area":"Budapest Nyugati","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"NH Budapest City","lat":47.513,"lng":19.0521,"area":"Budapest Nyugati","stars":4,"priceTier":3},
+    {"name":"T62 Hotel","lat":47.5096,"lng":19.0569,"area":"Budapest Nyugati","stars":3,"priceTier":2},
+    {"name":"Carpe Noctem Original Hostel","lat":47.5089,"lng":19.0595,"area":"Budapest Nyugati","stars":1,"priceTier":1},
+    {"name":"TRIBE Budapest Airport Hotel","lat":47.4307,"lng":19.2626,"area":"Budapest Liszt Ferenc Airport","stars":4,"priceTier":2,"brandAnchor":true},
+    {"name":"ibis Styles Budapest Airport Hotel","lat":47.4302,"lng":19.2624,"area":"Budapest Liszt Ferenc Airport","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Kempinski Hotel Corvinus Budapest","lat":47.497,"lng":19.0523,"area":"Deák Ferenc tér","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Carat Boutique Hotel","lat":47.4983,"lng":19.0563,"area":"Deák Ferenc tér","stars":4,"priceTier":3},
+    {"name":"Gerlóczy Boutique Hotel","lat":47.495,"lng":19.0561,"area":"Deák Ferenc tér","stars":4,"priceTier":3},
+    {"name":"Pal's Hostel & Apartments","lat":47.5002,"lng":19.053,"area":"Deák Ferenc tér","stars":1,"priceTier":1},
+    {"name":"Wombat's City Hostel Budapest","lat":47.4991,"lng":19.058,"area":"Deák Ferenc tér","stars":1,"priceTier":1},
+    {"name":"ibis Budapest Centrum","lat":47.4887,"lng":19.0624,"area":"Kálvin tér","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Hotel Rum","lat":47.4904,"lng":19.0591,"area":"Kálvin tér","stars":4,"priceTier":3},
+    {"name":"Three Corners Hotel Art","lat":47.4898,"lng":19.0596,"area":"Kálvin tér","stars":3,"priceTier":3},
+    {"name":"Hotel Memories Oldtown","lat":47.4896,"lng":19.0606,"area":"Kálvin tér","stars":3,"priceTier":2},
+    {"name":"Lavender Circus Hostel","lat":47.4907,"lng":19.0613,"area":"Kálvin tér","stars":1,"priceTier":1},
+    {"name":"Pullman Budapest","lat":47.5044,"lng":19.0583,"area":"Oktogon","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Corinthia Grand Hotel Royal","lat":47.5027,"lng":19.0668,"area":"Oktogon","stars":5,"priceTier":4},
+    {"name":"Hotel Oktogon Haggenmacher","lat":47.506,"lng":19.0639,"area":"Oktogon","stars":3,"priceTier":2},
+    {"name":"Medosz Hotel","lat":47.5054,"lng":19.0612,"area":"Oktogon","stars":3,"priceTier":2},
+    {"name":"Avenue Hostel","lat":47.5057,"lng":19.0635,"area":"Oktogon","stars":1,"priceTier":1}
   ],
   "sights": [
     {
@@ -127,7 +127,6 @@
       "lng": 19.0458,
       "note": "The neo-Gothic riverside parliament, visited on timed guided tours that include the Holy Crown of Hungary and the grand staircase.",
       "hours": "Guided tours daily ~8 AM-4 PM (hours vary on session days)",
-      "rating": 4.6,
       "ticketUrl": "https://www.parlament.hu/en",
       "bookAhead": true
     },
@@ -136,24 +135,15 @@
       "lat": 47.5022,
       "lng": 19.0348,
       "note": "Fairytale neo-Romanesque terraces and turrets on Castle Hill with the best sweeping view of the Danube and Pest.",
-      "hours": "Terraces open 24 h; upper towers ticketed ~9 AM-7 PM (to 8 PM in summer)",
-      "rating": 4.6
+      "hours": "Terraces open 24 h; upper towers ticketed ~9 AM-7 PM (to 8 PM in summer)"
     },
-    {
-      "name": "Shoes on the Danube Bank",
-      "lat": 47.5069,
-      "lng": 19.0436,
-      "note": "A moving memorial of 60 iron shoes on the embankment, remembering Jews shot into the river in 1944-45.",
-      "hours": "Open 24 h",
-      "rating": 4.6
-    },
+    {"name":"Shoes on the Danube Bank","lat":47.5069,"lng":19.0436,"note":"A moving memorial of 60 iron shoes on the embankment, remembering Jews shot into the river in 1944-45.","hours":"Open 24 h"},
     {
       "name": "St. Stephen's Basilica",
       "lat": 47.5009,
       "lng": 19.0535,
       "note": "Hungary's largest church, with an interior of gold and marble and a panoramic dome walkway.",
       "hours": "Mon-Fri ~9 AM-5 PM, Sat ~9 AM-1 PM, Sun afternoon; dome ~10 AM-5 PM",
-      "rating": 4.5,
       "ticketUrl": "https://www.bazilika.biz/en"
     },
     {
@@ -161,8 +151,7 @@
       "lat": 47.496,
       "lng": 19.0396,
       "note": "The royal palace crowning Castle Hill, now home to the National Gallery and Budapest History Museum; the courtyards and terraces are free.",
-      "hours": "Grounds open 24 h; museums Tue-Sun 10 AM-6 PM, closed Mon",
-      "rating": 4.4
+      "hours": "Grounds open 24 h; museums Tue-Sun 10 AM-6 PM, closed Mon"
     },
     {
       "name": "Hospital in the Rock Nuclear Bunker Museum",
@@ -170,7 +159,6 @@
       "lng": 19.0332,
       "note": "A Cold War hospital and fallout shelter dug into Castle Hill, visited by guided tour with waxwork wards.",
       "hours": "Daily ~10 AM-7 PM, tours on the hour",
-      "rating": 4.5,
       "bookAhead": true
     },
     {
@@ -179,24 +167,15 @@
       "lng": 19.0343,
       "note": "The Gothic coronation church with colourful Zsolnay roof tiles and a richly painted interior.",
       "hours": "Mon-Fri ~9 AM-5 PM, Sat ~9 AM-1 PM, Sun ~1-5 PM",
-      "rating": 4.6,
       "ticketUrl": "https://matyas-templom.hu/en"
     },
-    {
-      "name": "Széchenyi Chain Bridge",
-      "lat": 47.499,
-      "lng": 19.0435,
-      "note": "The first permanent bridge across the Danube, guarded by stone lions; at its best at night when lit.",
-      "hours": "Open 24 h",
-      "rating": 4.5
-    },
+    {"name":"Széchenyi Chain Bridge","lat":47.499,"lng":19.0435,"note":"The first permanent bridge across the Danube, guarded by stone lions; at its best at night when lit.","hours":"Open 24 h"},
     {
       "name": "Hungarian State Opera House",
       "lat": 47.5025,
       "lng": 19.0585,
       "note": "A neo-Renaissance opera house with a gilded auditorium, seen on guided tours or an evening performance.",
       "hours": "Guided tours daily (times vary); box office ~11 AM-evening",
-      "rating": 4.5,
       "ticketUrl": "https://www.opera.hu/en/"
     },
     {
@@ -205,50 +184,44 @@
       "lng": 19.0645,
       "note": "The former secret-police headquarters on Andrássy út, documenting fascist and communist rule through eerie exhibits.",
       "hours": "Tue-Sun 10 AM-6 PM, closed Mon",
-      "rating": 3.9,
       "ticketUrl": "https://www.terrorhaza.hu/en"
     },
-    {"name":"Margaret Island","lat":47.526,"lng":19.048,"note":"A car-free park island with rose gardens, a musical fountain, running track and thermal spa.","hours":"Open 24 h","rating":4.4},
-    {"name":"Heroes' Square","lat":47.5149,"lng":19.0773,"note":"The monumental plaza with statues of Hungary's founding chieftains and kings, gateway to City Park.","hours":"Open 24 h","rating":4.3},
+    {"name":"Margaret Island","lat":47.526,"lng":19.048,"note":"A car-free park island with rose gardens, a musical fountain, running track and thermal spa.","hours":"Open 24 h"},
+    {"name":"Heroes' Square","lat":47.5149,"lng":19.0773,"note":"The monumental plaza with statues of Hungary's founding chieftains and kings, gateway to City Park.","hours":"Open 24 h"},
     {
       "name": "Vajdahunyad Castle",
       "lat": 47.5156,
       "lng": 19.0827,
       "note": "A park folly that copies famous Hungarian buildings across the centuries, set around a boating lake.",
-      "hours": "Grounds open 24 h; Agricultural Museum Tue-Sun ~10 AM-5 PM",
-      "rating": 4.4
+      "hours": "Grounds open 24 h; Agricultural Museum Tue-Sun ~10 AM-5 PM"
     },
     {
       "name": "Gellért Hill & Citadella",
       "lat": 47.4864,
       "lng": 19.0457,
       "note": "A steep hill south of the castle with the Liberty Statue and the best free panorama of the whole city.",
-      "hours": "Hill open 24 h",
-      "rating": 4.4
+      "hours": "Hill open 24 h"
     },
     {
       "name": "Central Market Hall",
       "lat": 47.4875,
       "lng": 19.0589,
       "note": "The grand iron-and-glass market hall for paprika, sausages, produce and lángos snacks on the upper floor.",
-      "hours": "Mon 6 AM-5 PM, Tue-Fri 6 AM-6 PM, Sat 6 AM-3 PM, closed Sun",
-      "rating": 3.9
+      "hours": "Mon 6 AM-5 PM, Tue-Fri 6 AM-6 PM, Sat 6 AM-3 PM, closed Sun"
     },
     {
       "name": "Great Synagogue (Dohány Street)",
       "lat": 47.496,
       "lng": 19.06,
       "note": "Europe's largest synagogue, in Moorish style, with a museum, memorial garden and Holocaust memorial.",
-      "hours": "Sun-Thu ~10 AM-5:30 PM, Fri ~10 AM-3 PM (Oct), closed Sat",
-      "rating": 4.1
+      "hours": "Sun-Thu ~10 AM-5:30 PM, Fri ~10 AM-3 PM (Oct), closed Sat"
     },
     {
       "name": "Gozsdu Udvar",
       "lat": 47.4982,
       "lng": 19.062,
       "note": "A chain of seven connected courtyards in the old Jewish Quarter, now a lively strip of ruin bars and restaurants.",
-      "hours": "Open 24 h (bars ~noon-late)",
-      "rating": 4.4
+      "hours": "Open 24 h (bars ~noon-late)"
     }
   ],
   "railStations": [

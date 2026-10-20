@@ -402,29 +402,29 @@
     }
   ],
   "hotels": [
-    {"name":"Hagia Sofia Mansions Istanbul, Curio Collection by Hilton","lat":41.0066,"lng":28.9791,"area":"Sultanahmet","rating":4.8,"ratingCount":1603,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Sura Hagia Sophia Hotel","lat":41.0087,"lng":28.9762,"area":"Sultanahmet","rating":4.4,"ratingCount":1850,"stars":5,"priceTier":3},
-    {"name":"Adamar Hotel","lat":41.0097,"lng":28.9764,"area":"Sultanahmet","rating":4.7,"ratingCount":1864,"stars":4,"priceTier":3},
-    {"name":"Rast Hotel Sultanahmet","lat":41.008,"lng":28.9734,"area":"Sultanahmet","rating":4.4,"ratingCount":893,"stars":3,"priceTier":2},
-    {"name":"Sultan Hostel & Guesthouse","lat":41.0059,"lng":28.9808,"area":"Sultanahmet","rating":4.3,"ratingCount":598,"stars":1,"priceTier":1},
-    {"name":"Sofitel Istanbul Taksim","lat":41.036,"lng":28.985,"area":"Taksim","rating":4.5,"ratingCount":1121,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Grand Hyatt Istanbul","lat":41.041,"lng":28.9883,"area":"Taksim","rating":4.6,"ratingCount":3989,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"The Marmara Taksim","lat":41.0364,"lng":28.9863,"area":"Taksim","rating":4.5,"ratingCount":3087,"stars":5,"priceTier":3},
-    {"name":"Midtown Hotel","lat":41.0389,"lng":28.985,"area":"Taksim","rating":4.7,"ratingCount":2095,"stars":4,"priceTier":3},
-    {"name":"Senator Hotel Taksim","lat":41.0383,"lng":28.9838,"area":"Taksim","rating":4.2,"ratingCount":192,"stars":3,"priceTier":2},
-    {"name":"The Galata Istanbul Hotel MGallery","lat":41.0242,"lng":28.9726,"area":"Karaköy","rating":4.5,"ratingCount":730,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"JW Marriott Istanbul Bosphorus","lat":41.0241,"lng":28.9792,"area":"Karaköy","rating":4.5,"ratingCount":492,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Novotel Istanbul Bosphorus","lat":41.0247,"lng":28.98,"area":"Karaköy","rating":4.3,"ratingCount":1086,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Golden City Hotel Istanbul","lat":41.0238,"lng":28.9701,"area":"Karaköy","rating":4.5,"ratingCount":1136,"stars":4,"priceTier":3},
-    {"name":"Cheers Porthouse","lat":41.0243,"lng":28.9784,"area":"Karaköy","rating":4.7,"ratingCount":446,"stars":1,"priceTier":1},
-    {"name":"DoubleTree by Hilton Istanbul - Moda","lat":40.9885,"lng":29.0213,"area":"Kadıköy","rating":4.3,"ratingCount":2284,"stars":5,"priceTier":3,"brandAnchor":true},
-    {"name":"Emirtimes Hotel Kadıköy","lat":40.9927,"lng":29.0269,"area":"Kadıköy","rating":4.2,"ratingCount":275,"stars":4,"priceTier":3},
-    {"name":"Parkhouse Hotel & Spa","lat":40.9918,"lng":29.0263,"area":"Kadıköy","rating":4.1,"ratingCount":115,"stars":4,"priceTier":3},
-    {"name":"Khalkedon Hotel Istanbul","lat":40.9894,"lng":29.0252,"area":"Kadıköy","rating":4.5,"ratingCount":146,"stars":3,"priceTier":2},
-    {"name":"Hush Hostel Lounge","lat":40.996,"lng":29.0268,"area":"Kadıköy","rating":4.6,"ratingCount":454,"stars":1,"priceTier":1},
-    {"name":"Holiday Inn Istanbul - Kadikoy by IHG","lat":40.9928,"lng":29.0431,"area":"Söğütlüçeşme","rating":4.2,"ratingCount":206,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"YOTEL Istanbul Airport Landside","lat":41.2561,"lng":28.7425,"area":"Istanbul Airport","rating":4,"ratingCount":1166,"stars":3,"priceTier":2},
-    {"name":"Kepler Club Istanbul Sabiha Gokcen Airport","lat":40.9067,"lng":29.3119,"area":"Sabiha Gökçen Airport","rating":4.6,"ratingCount":301,"stars":3,"priceTier":3}
+    {"name":"Hagia Sofia Mansions Istanbul, Curio Collection by Hilton","lat":41.0066,"lng":28.9791,"area":"Sultanahmet","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Sura Hagia Sophia Hotel","lat":41.0087,"lng":28.9762,"area":"Sultanahmet","stars":5,"priceTier":3},
+    {"name":"Adamar Hotel","lat":41.0097,"lng":28.9764,"area":"Sultanahmet","stars":4,"priceTier":3},
+    {"name":"Rast Hotel Sultanahmet","lat":41.008,"lng":28.9734,"area":"Sultanahmet","stars":3,"priceTier":2},
+    {"name":"Sultan Hostel & Guesthouse","lat":41.0059,"lng":28.9808,"area":"Sultanahmet","stars":1,"priceTier":1},
+    {"name":"Sofitel Istanbul Taksim","lat":41.036,"lng":28.985,"area":"Taksim","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Grand Hyatt Istanbul","lat":41.041,"lng":28.9883,"area":"Taksim","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"The Marmara Taksim","lat":41.0364,"lng":28.9863,"area":"Taksim","stars":5,"priceTier":3},
+    {"name":"Midtown Hotel","lat":41.0389,"lng":28.985,"area":"Taksim","stars":4,"priceTier":3},
+    {"name":"Senator Hotel Taksim","lat":41.0383,"lng":28.9838,"area":"Taksim","stars":3,"priceTier":2},
+    {"name":"The Galata Istanbul Hotel MGallery","lat":41.0242,"lng":28.9726,"area":"Karaköy","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"JW Marriott Istanbul Bosphorus","lat":41.0241,"lng":28.9792,"area":"Karaköy","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Novotel Istanbul Bosphorus","lat":41.0247,"lng":28.98,"area":"Karaköy","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Golden City Hotel Istanbul","lat":41.0238,"lng":28.9701,"area":"Karaköy","stars":4,"priceTier":3},
+    {"name":"Cheers Porthouse","lat":41.0243,"lng":28.9784,"area":"Karaköy","stars":1,"priceTier":1},
+    {"name":"DoubleTree by Hilton Istanbul - Moda","lat":40.9885,"lng":29.0213,"area":"Kadıköy","stars":5,"priceTier":3,"brandAnchor":true},
+    {"name":"Emirtimes Hotel Kadıköy","lat":40.9927,"lng":29.0269,"area":"Kadıköy","stars":4,"priceTier":3},
+    {"name":"Parkhouse Hotel & Spa","lat":40.9918,"lng":29.0263,"area":"Kadıköy","stars":4,"priceTier":3},
+    {"name":"Khalkedon Hotel Istanbul","lat":40.9894,"lng":29.0252,"area":"Kadıköy","stars":3,"priceTier":2},
+    {"name":"Hush Hostel Lounge","lat":40.996,"lng":29.0268,"area":"Kadıköy","stars":1,"priceTier":1},
+    {"name":"Holiday Inn Istanbul - Kadikoy by IHG","lat":40.9928,"lng":29.0431,"area":"Söğütlüçeşme","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"YOTEL Istanbul Airport Landside","lat":41.2561,"lng":28.7425,"area":"Istanbul Airport","stars":3,"priceTier":2},
+    {"name":"Kepler Club Istanbul Sabiha Gokcen Airport","lat":40.9067,"lng":29.3119,"area":"Sabiha Gökçen Airport","stars":3,"priceTier":3}
   ],
   "sights": [
     {
@@ -433,7 +433,6 @@
       "lng": 28.9779,
       "note": "A 6th-century underground reservoir held up by 336 marble columns, including two carved Medusa heads, now lit with art installations.",
       "hours": "9:00 AM–10:00 PM daily",
-      "rating": 4.5,
       "ticketUrl": "https://yerebatan.com/en/"
     },
     {
@@ -441,16 +440,14 @@
       "lat": 41.0086,
       "lng": 28.9802,
       "note": "Justinian's 537 AD domed basilica, later a mosque; foreign visitors pay to view it from the upper galleries.",
-      "hours": "~9:00 AM–7:30 PM daily; tourist entry pauses for prayers and Friday midday prayer",
-      "rating": 4.6
+      "hours": "~9:00 AM–7:30 PM daily; tourist entry pauses for prayers and Friday midday prayer"
     },
     {
       "name": "Blue Mosque",
       "lat": 41.0054,
       "lng": 28.9768,
       "note": "Sultan Ahmed's 17th-century mosque, named for the blue İznik tiles inside; free entry, dress modestly.",
-      "hours": "Open to visitors outside prayer times (~8:30 AM–6:30 PM); closed to tourists Friday until ~2:30 PM",
-      "rating": 4.5
+      "hours": "Open to visitors outside prayer times (~8:30 AM–6:30 PM); closed to tourists Friday until ~2:30 PM"
     },
     {
       "name": "Topkapı Palace",
@@ -458,7 +455,6 @@
       "lng": 28.9833,
       "note": "The Ottoman sultans' palace for four centuries: courtyards, the Harem, the Treasury and Bosphorus terraces.",
       "hours": "9:00 AM–6:00 PM (to ~4:45 PM in winter), closed Tue",
-      "rating": 4.5,
       "ticketUrl": "https://muze.gov.tr"
     },
     {
@@ -467,7 +463,6 @@
       "lng": 29.0005,
       "note": "The lavish 19th-century European-style palace on the Bosphorus where the last sultans lived and Atatürk died; guided route through the halls.",
       "hours": "9:00 AM–5:30 PM, closed Mon",
-      "rating": 4.5,
       "ticketUrl": "https://www.millisaraylar.gov.tr/Bilet/BiletAl"
     },
     {
@@ -475,16 +470,14 @@
       "lat": 41.0162,
       "lng": 28.964,
       "note": "Architect Sinan's 1550s masterpiece crowning the third hill, with sweeping Golden Horn views from its gardens; free entry.",
-      "hours": "Open outside prayer times, roughly 9:00 AM–6:00 PM",
-      "rating": 4.7
+      "hours": "Open outside prayer times, roughly 9:00 AM–6:00 PM"
     },
     {
       "name": "Grand Bazaar",
       "lat": 41.0107,
       "lng": 28.9681,
       "note": "One of the world's oldest covered markets: some 60 vaulted lanes of carpets, lamps, jewellery and leather.",
-      "hours": "~9:00 AM–7:00 PM Mon–Sat, closed Sun",
-      "rating": 4
+      "hours": "~9:00 AM–7:00 PM Mon–Sat, closed Sun"
     },
     {
       "name": "Galata Tower",
@@ -492,7 +485,6 @@
       "lng": 28.9742,
       "note": "A medieval Genoese stone tower above Karaköy with a 360° viewing balcony over the Golden Horn and old city.",
       "hours": "8:30 AM–11:00 PM daily",
-      "rating": 4.3,
       "ticketUrl": "https://muze.gov.tr"
     },
     {
@@ -500,25 +492,22 @@
       "lat": 41.034,
       "lng": 28.978,
       "note": "Beyoğlu's pedestrian boulevard from Taksim to Tünel, with its red heritage tram, arcades, churches and side-street bars.",
-      "hours": "Open 24 hours",
-      "rating": 4.2
+      "hours": "Open 24 hours"
     },
     {
       "name": "Kariye Mosque (Chora)",
       "lat": 41.0312,
       "lng": 28.9391,
       "note": "A small Byzantine church whose 14th-century gold mosaics and frescoes are among the finest anywhere; now a mosque with a fee for foreign visitors.",
-      "hours": "~9:00 AM–6:00 PM, closed to visitors during prayers",
-      "rating": 4.6
+      "hours": "~9:00 AM–6:00 PM, closed to visitors during prayers"
     },
-    {"name":"Balat","lat":41.0305,"lng":28.9475,"note":"A hilly old Golden Horn quarter of colourful row houses, churches, synagogues and third-wave cafés.","hours":"Open 24 hours","rating":4.3},
+    {"name":"Balat","lat":41.0305,"lng":28.9475,"note":"A hilly old Golden Horn quarter of colourful row houses, churches, synagogues and third-wave cafés.","hours":"Open 24 hours"},
     {
       "name": "Ortaköy",
       "lat": 41.0469,
       "lng": 29.0269,
       "note": "A Bosphorus waterfront village where the baroque Ortaköy Mosque sits beneath the Bosphorus Bridge; known for its kumpir stalls.",
-      "hours": "Open 24 hours; mosque open outside prayer times",
-      "rating": 4.4
+      "hours": "Open 24 hours; mosque open outside prayer times"
     },
     {
       "name": "Istanbul Archaeological Museums",
@@ -526,7 +515,6 @@
       "lng": 28.9813,
       "note": "Three museums by Topkapı's walls holding the Alexander Sarcophagus, ancient Near Eastern finds and Iznik tiles.",
       "hours": "~9:00 AM–7:00 PM daily (earlier closing in winter)",
-      "rating": 4.4,
       "ticketUrl": "https://muze.gov.tr"
     },
     {
@@ -534,8 +522,7 @@
       "lat": 41.0132,
       "lng": 28.981,
       "note": "The former outer garden of Topkapı Palace: shady paths, tulip beds in April and a tea garden at the Bosphorus end.",
-      "hours": "~7:00 AM–10:00 PM daily, free",
-      "rating": 4.5
+      "hours": "~7:00 AM–10:00 PM daily, free"
     },
     {
       "name": "Rahmi M. Koç Museum",
@@ -543,7 +530,6 @@
       "lng": 28.9493,
       "note": "A hands-on industrial museum on the Golden Horn with a submarine, vintage cars, trains, planes and ships.",
       "hours": "~9:30 AM–5:00 PM Tue–Fri, to ~6:00 PM weekends, closed Mon",
-      "rating": 4.7,
       "ticketUrl": "https://www.rmk-museum.org.tr"
     },
     {
@@ -551,24 +537,21 @@
       "lat": 40.9906,
       "lng": 29.0262,
       "note": "The Asian side's lively market lanes behind the ferry pier: fishmongers, pickle shops, delis and meyhane taverns.",
-      "hours": "Shops ~8:00 AM–8:00 PM daily; restaurants until late",
-      "rating": 4.5
+      "hours": "Shops ~8:00 AM–8:00 PM daily; restaurants until late"
     },
     {
       "name": "Galata Bridge",
       "lat": 41.02,
       "lng": 28.9733,
       "note": "The bridge across the Golden Horn lined with fishermen, with fish restaurants below and views of the old city's mosques.",
-      "hours": "Open 24 hours",
-      "rating": 4.2
+      "hours": "Open 24 hours"
     },
     {
       "name": "Pierre Loti Hill",
       "lat": 41.0537,
       "lng": 28.9337,
       "note": "A hilltop tea garden above Eyüp with a free panoramic view down the Golden Horn; reached by cable car from the waterfront.",
-      "hours": "Viewpoint open 24 hours; cable car ~8:00 AM–11:00 PM",
-      "rating": 4.3
+      "hours": "Viewpoint open 24 hours; cable car ~8:00 AM–11:00 PM"
     }
   ],
   "railStations": [

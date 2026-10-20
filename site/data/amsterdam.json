@@ -125,42 +125,32 @@
     }
   ],
   "hotels": [
-    {"name":"DoubleTree by Hilton Amsterdam Centraal Station","lat":52.3768,"lng":4.905,"area":"Amsterdam Centraal","rating":4.2,"ratingCount":9503,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Kimpton de Witt Amsterdam","lat":52.3772,"lng":4.8955,"area":"Amsterdam Centraal","rating":4.6,"ratingCount":2194,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Grand Hotel Amrâth Amsterdam","lat":52.3745,"lng":4.9039,"area":"Amsterdam Centraal","rating":4.1,"ratingCount":5150,"stars":5,"priceTier":4},
-    {"name":"Hotel Sint Nicolaas","lat":52.3775,"lng":4.8952,"area":"Amsterdam Centraal","rating":4.3,"ratingCount":1878,"stars":2,"priceTier":2},
-    {"name":"Flying Pig Downtown (hostel)","lat":52.3767,"lng":4.8963,"area":"Amsterdam Centraal","rating":4.1,"ratingCount":1526,"stars":1,"priceTier":1},
-    {"name":"Hilton Amsterdam Airport Schiphol","lat":52.307,"lng":4.7552,"area":"Amsterdam Airport Schiphol","rating":4.4,"ratingCount":2690,"stars":4,"priceTier":3,"brandAnchor":true},
-    {
-      "name": "Sheraton Amsterdam Airport Hotel and Conference Center",
-      "lat": 52.3087,
-      "lng": 4.7603,
-      "area": "Amsterdam Airport Schiphol",
-      "rating": 4.2,
-      "ratingCount": 3004,
-      "stars": 4,
-      "priceTier": 3,
-      "brandAnchor": true
-    },
-    {"name":"citizenM Amsterdam Airport Schiphol","lat":52.3094,"lng":4.7558,"area":"Amsterdam Airport Schiphol","rating":4.4,"ratingCount":8955,"stars":4,"priceTier":3},
-    {"name":"Swissôtel Amsterdam","lat":52.3736,"lng":4.8933,"area":"Old Centre","rating":4.2,"ratingCount":1785,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Sofitel Legend The Grand Amsterdam","lat":52.3711,"lng":4.8954,"area":"Old Centre","rating":4.7,"ratingCount":3969,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Hotel V Nesplein","lat":52.3709,"lng":4.8936,"area":"Old Centre","rating":4.6,"ratingCount":1241,"stars":4,"priceTier":3},
-    {"name":"The Bulldog Hotel Amsterdam","lat":52.3725,"lng":4.8962,"area":"Old Centre","rating":4.2,"ratingCount":1246,"stars":2,"priceTier":2},
-    {"name":"St Christopher's Inn Amsterdam - The Winston (hostel)","lat":52.374,"lng":4.8964,"area":"Old Centre","rating":4.1,"ratingCount":1539,"stars":1,"priceTier":1},
-    {"name":"Apollo Hotel Amsterdam, a Tribute Portfolio Hotel","lat":52.3489,"lng":4.8851,"area":"De Pijp","rating":4,"ratingCount":2471,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Sir Albert Hotel","lat":52.3545,"lng":4.8874,"area":"De Pijp","rating":4.4,"ratingCount":2038,"stars":4,"priceTier":3},
-    {"name":"Hotel Okura Amsterdam","lat":52.3486,"lng":4.8932,"area":"De Pijp","rating":4.6,"ratingCount":3791,"stars":5,"priceTier":4},
-    {"name":"Hotel Asterisk","lat":52.3587,"lng":4.8942,"area":"De Pijp","rating":4.2,"ratingCount":957,"stars":2,"priceTier":2},
-    {"name":"ClinkCoco (hostel)","lat":52.3588,"lng":4.8986,"area":"De Pijp","rating":4.4,"ratingCount":636,"stars":1,"priceTier":1},
-    {"name":"ibis Amsterdam Centre Stopera","lat":52.3703,"lng":4.9076,"area":"Jewish Quarter","rating":4,"ratingCount":3845,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"Waldorf Astoria Amsterdam","lat":52.3647,"lng":4.8969,"area":"Jewish Quarter","rating":4.9,"ratingCount":2333,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Zoku Amsterdam","lat":52.3639,"lng":4.9068,"area":"Jewish Quarter","rating":4.7,"ratingCount":1175,"stars":4,"priceTier":3},
-    {"name":"Motel One Amsterdam-Waterlooplein","lat":52.3698,"lng":4.907,"area":"Jewish Quarter","rating":4.4,"ratingCount":410,"stars":3,"priceTier":2},
-    {"name":"ClinkMama (hostel)","lat":52.3697,"lng":4.9067,"area":"Jewish Quarter","rating":4.3,"ratingCount":465,"stars":1,"priceTier":1},
-    {"name":"Crowne Plaza Amsterdam - South","lat":52.3359,"lng":4.8746,"area":"Zuidas","rating":4.6,"ratingCount":1682,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"citizenM Amsterdam South","lat":52.3419,"lng":4.876,"area":"Zuidas","rating":4.4,"ratingCount":6409,"stars":4,"priceTier":3},
-    {"name":"INNSiDE by Meliá Amsterdam","lat":52.3399,"lng":4.871,"area":"Zuidas","rating":4.2,"ratingCount":225,"stars":4,"priceTier":3}
+    {"name":"DoubleTree by Hilton Amsterdam Centraal Station","lat":52.3768,"lng":4.905,"area":"Amsterdam Centraal","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Kimpton de Witt Amsterdam","lat":52.3772,"lng":4.8955,"area":"Amsterdam Centraal","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Grand Hotel Amrâth Amsterdam","lat":52.3745,"lng":4.9039,"area":"Amsterdam Centraal","stars":5,"priceTier":4},
+    {"name":"Hotel Sint Nicolaas","lat":52.3775,"lng":4.8952,"area":"Amsterdam Centraal","stars":2,"priceTier":2},
+    {"name":"Flying Pig Downtown (hostel)","lat":52.3767,"lng":4.8963,"area":"Amsterdam Centraal","stars":1,"priceTier":1},
+    {"name":"Hilton Amsterdam Airport Schiphol","lat":52.307,"lng":4.7552,"area":"Amsterdam Airport Schiphol","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Sheraton Amsterdam Airport Hotel and Conference Center","lat":52.3087,"lng":4.7603,"area":"Amsterdam Airport Schiphol","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"citizenM Amsterdam Airport Schiphol","lat":52.3094,"lng":4.7558,"area":"Amsterdam Airport Schiphol","stars":4,"priceTier":3},
+    {"name":"Swissôtel Amsterdam","lat":52.3736,"lng":4.8933,"area":"Old Centre","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Sofitel Legend The Grand Amsterdam","lat":52.3711,"lng":4.8954,"area":"Old Centre","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Hotel V Nesplein","lat":52.3709,"lng":4.8936,"area":"Old Centre","stars":4,"priceTier":3},
+    {"name":"The Bulldog Hotel Amsterdam","lat":52.3725,"lng":4.8962,"area":"Old Centre","stars":2,"priceTier":2},
+    {"name":"St Christopher's Inn Amsterdam - The Winston (hostel)","lat":52.374,"lng":4.8964,"area":"Old Centre","stars":1,"priceTier":1},
+    {"name":"Apollo Hotel Amsterdam, a Tribute Portfolio Hotel","lat":52.3489,"lng":4.8851,"area":"De Pijp","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Sir Albert Hotel","lat":52.3545,"lng":4.8874,"area":"De Pijp","stars":4,"priceTier":3},
+    {"name":"Hotel Okura Amsterdam","lat":52.3486,"lng":4.8932,"area":"De Pijp","stars":5,"priceTier":4},
+    {"name":"Hotel Asterisk","lat":52.3587,"lng":4.8942,"area":"De Pijp","stars":2,"priceTier":2},
+    {"name":"ClinkCoco (hostel)","lat":52.3588,"lng":4.8986,"area":"De Pijp","stars":1,"priceTier":1},
+    {"name":"ibis Amsterdam Centre Stopera","lat":52.3703,"lng":4.9076,"area":"Jewish Quarter","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Waldorf Astoria Amsterdam","lat":52.3647,"lng":4.8969,"area":"Jewish Quarter","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Zoku Amsterdam","lat":52.3639,"lng":4.9068,"area":"Jewish Quarter","stars":4,"priceTier":3},
+    {"name":"Motel One Amsterdam-Waterlooplein","lat":52.3698,"lng":4.907,"area":"Jewish Quarter","stars":3,"priceTier":2},
+    {"name":"ClinkMama (hostel)","lat":52.3697,"lng":4.9067,"area":"Jewish Quarter","stars":1,"priceTier":1},
+    {"name":"Crowne Plaza Amsterdam - South","lat":52.3359,"lng":4.8746,"area":"Zuidas","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"citizenM Amsterdam South","lat":52.3419,"lng":4.876,"area":"Zuidas","stars":4,"priceTier":3},
+    {"name":"INNSiDE by Meliá Amsterdam","lat":52.3399,"lng":4.871,"area":"Zuidas","stars":4,"priceTier":3}
   ],
   "sights": [
     {
@@ -169,7 +159,6 @@
       "lng": 4.884,
       "note": "The canal-side house and secret annex where Anne Frank hid and wrote her diary during the Nazi occupation.",
       "hours": "9:00 AM–10:00 PM daily (hours vary by season)",
-      "rating": 4.5,
       "ticketUrl": "https://www.annefrank.org/en/museum/tickets/",
       "bookAhead": true
     },
@@ -179,7 +168,6 @@
       "lng": 4.8811,
       "note": "The world's largest Van Gogh collection, from the Potato Eaters to the Sunflowers, on Museumplein.",
       "hours": "9:00 AM–6:00 PM daily, till 9:00 PM Fri",
-      "rating": 4.5,
       "ticketUrl": "https://www.vangoghmuseum.nl/en/tickets",
       "bookAhead": true
     },
@@ -189,18 +177,16 @@
       "lng": 4.8852,
       "note": "The Dutch national museum, with Rembrandt's Night Watch, Vermeer's Milkmaid and eight centuries of Dutch art and history.",
       "hours": "9:00 AM–5:00 PM daily",
-      "rating": 4.6,
       "ticketUrl": "https://www.rijksmuseum.nl/en/tickets",
       "bookAhead": true
     },
-    {"name":"Vondelpark","lat":52.358,"lng":4.8686,"note":"Amsterdam's big 19th-century landscape park, full of cyclists, picnickers and summer open-air theatre.","hours":"Open 24 hours","rating":4.5},
+    {"name":"Vondelpark","lat":52.358,"lng":4.8686,"note":"Amsterdam's big 19th-century landscape park, full of cyclists, picnickers and summer open-air theatre.","hours":"Open 24 hours"},
     {
       "name": "The Jordaan",
       "lat": 52.3786,
       "lng": 4.8836,
       "note": "A former working-class quarter of narrow canals, hidden courtyards, brown cafés and the Saturday Noordermarkt.",
-      "hours": "Neighbourhood; shops ~10:00 AM–6:00 PM",
-      "rating": 4.6
+      "hours": "Neighbourhood; shops ~10:00 AM–6:00 PM"
     },
     {
       "name": "Heineken Experience",
@@ -208,7 +194,6 @@
       "lng": 4.8918,
       "note": "Self-guided tour through Heineken's 1867 brewery building, ending with a tasting at the rooftop bar.",
       "hours": "10:30 AM–7:30 PM Sun–Thu, till 9:00 PM Fri & Sat (last entry 2 h before close)",
-      "rating": 4.2,
       "ticketUrl": "https://www.heinekenexperience.com/en/",
       "bookAhead": true
     },
@@ -218,7 +203,6 @@
       "lng": 4.8996,
       "note": "A 17th-century canal house hiding a complete Catholic church in its attic, built when Catholic worship was banned.",
       "hours": "10:00 AM–6:00 PM daily",
-      "rating": 4.7,
       "ticketUrl": "https://opsolder.nl/en/"
     },
     {
@@ -227,7 +211,6 @@
       "lng": 4.9012,
       "note": "Rembrandt's restored home and studio, with his etchings and live demonstrations of 17th-century printmaking.",
       "hours": "10:00 AM–6:00 PM daily",
-      "rating": 4.4,
       "ticketUrl": "https://www.rembrandthuis.nl/en/"
     },
     {
@@ -236,7 +219,6 @@
       "lng": 4.8946,
       "note": "Gunther von Hagens' plastinated human bodies, arranged around the theme of health and happiness, on Damrak.",
       "hours": "10:00 AM–10:00 PM daily (last entry 9:00 PM)",
-      "rating": 4.5,
       "ticketUrl": "https://bodyworlds.nl/en/"
     },
     {
@@ -245,7 +227,6 @@
       "lng": 4.9019,
       "note": "Observation deck atop the A'DAM Tower across the IJ, with a 360° view and a swing over the edge; free ferry from Centraal.",
       "hours": "10:00 AM–10:00 PM daily",
-      "rating": 4.4,
       "ticketUrl": "https://www.adamlookout.com/"
     },
     {
@@ -254,7 +235,6 @@
       "lng": 4.9126,
       "note": "The Dutch Resistance Museum, telling everyday stories of collaboration, adaptation and resistance under German occupation.",
       "hours": "10:00 AM–5:00 PM daily",
-      "rating": 4.5,
       "ticketUrl": "https://www.verzetsmuseum.org/en"
     },
     {
@@ -262,17 +242,15 @@
       "lat": 52.3557,
       "lng": 4.8945,
       "note": "The city's biggest street market in De Pijp; come for fresh stroopwafels, herring and Dutch cheese.",
-      "hours": "9:00 AM–5:00 PM Mon–Sat, closed Sun",
-      "rating": 4
+      "hours": "9:00 AM–5:00 PM Mon–Sat, closed Sun"
     },
-    {"name":"Dam Square","lat":52.3731,"lng":4.8926,"note":"The historic heart of the city, framed by the Royal Palace, the Nieuwe Kerk and the National Monument.","hours":"Open 24 hours","rating":4},
+    {"name":"Dam Square","lat":52.3731,"lng":4.8926,"note":"The historic heart of the city, framed by the Royal Palace, the Nieuwe Kerk and the National Monument.","hours":"Open 24 hours"},
     {
       "name": "ARTIS Amsterdam Royal Zoo",
       "lat": 52.366,
       "lng": 4.9165,
       "note": "One of Europe's oldest zoos, set among 19th-century buildings in the Plantage, with an aquarium and planetarium.",
       "hours": "9:00 AM–6:00 PM Mar–Oct, 9:00 AM–5:00 PM Nov–Feb",
-      "rating": 4.3,
       "ticketUrl": "https://www.artis.nl/en"
     },
     {
@@ -281,17 +259,9 @@
       "lng": 4.8913,
       "note": "The 17th-century city hall turned royal palace on Dam Square, with a marble Citizens' Hall; still used for state occasions.",
       "hours": "10:00 AM–5:00 PM most days; closed during royal events",
-      "rating": 4.2,
       "ticketUrl": "https://www.paleisamsterdam.nl/en/"
     },
-    {
-      "name": "Begijnhof",
-      "lat": 52.3693,
-      "lng": 4.8899,
-      "note": "A quiet medieval courtyard of almshouses around a green, entered through a small door off Spui; free.",
-      "hours": "9:00 AM–5:00 PM daily",
-      "rating": 4.3
-    },
+    {"name":"Begijnhof","lat":52.3693,"lng":4.8899,"note":"A quiet medieval courtyard of almshouses around a green, entered through a small door off Spui; free.","hours":"9:00 AM–5:00 PM daily"},
     {
       "name": "Foodhallen",
       "lat": 52.3667,

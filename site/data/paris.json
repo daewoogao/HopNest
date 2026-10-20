@@ -597,40 +597,40 @@
     }
   ],
   "hotels": [
-    {"name":"25hours Hotel Terminus Nord","lat":48.8796,"lng":2.355,"area":"Gare du Nord","rating":4.5,"ratingCount":1158,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Hotel Whistler Paris 10e","lat":48.8793,"lng":2.356,"area":"Gare du Nord","rating":4.7,"ratingCount":758,"stars":4,"priceTier":3},
-    {"name":"Hôtel Hor Europe","lat":48.8793,"lng":2.3577,"area":"Gare du Nord","rating":4.6,"ratingCount":1072,"stars":4,"priceTier":3},
-    {"name":"Libertel Gare du Nord Suède","lat":48.878,"lng":2.3548,"area":"Gare du Nord","rating":4,"ratingCount":1002,"stars":2,"priceTier":2},
-    {"name":"OKKO Hotels Paris Gare de l'Est","lat":48.8791,"lng":2.3591,"area":"Gare de l'Est","rating":4.2,"ratingCount":669,"stars":4,"priceTier":3},
-    {"name":"Le Marcel Paris Gare de l'Est","lat":48.8761,"lng":2.3573,"area":"Gare de l'Est","rating":4.2,"ratingCount":743,"stars":4,"priceTier":3},
-    {"name":"Staycity Aparthotels Paris Gare de l'Est","lat":48.8737,"lng":2.359,"area":"Gare de l'Est","rating":4.3,"ratingCount":1414,"stars":3,"priceTier":2},
-    {"name":"Libertel Gare de l'Est Français","lat":48.8762,"lng":2.3571,"area":"Gare de l'Est","rating":4,"ratingCount":1133,"stars":3,"priceTier":2},
-    {"name":"Courtyard by Marriott Paris Gare de Lyon","lat":48.8451,"lng":2.3712,"area":"Gare de Lyon","rating":4.4,"ratingCount":851,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Holiday Inn Paris - Gare de Lyon Bastille","lat":48.8467,"lng":2.3717,"area":"Gare de Lyon","rating":4.1,"ratingCount":1521,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"citizenM Paris Gare de Lyon","lat":48.8437,"lng":2.3718,"area":"Gare de Lyon","rating":4.2,"ratingCount":3283,"stars":4,"priceTier":3},
-    {"name":"Hotel Terminus Lyon","lat":48.8458,"lng":2.3718,"area":"Gare de Lyon","rating":4.3,"ratingCount":3476,"stars":3,"priceTier":2},
-    {"name":"Hôtel Palym","lat":48.8462,"lng":2.3734,"area":"Gare de Lyon","rating":4.2,"ratingCount":1316,"stars":2,"priceTier":2},
-    {"name":"Pullman Paris Montparnasse","lat":48.8384,"lng":2.3209,"area":"Gare Montparnasse","rating":4.2,"ratingCount":821,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Niepce Paris Hotel, Curio Collection by Hilton","lat":48.8349,"lng":2.3181,"area":"Gare Montparnasse","rating":4.7,"ratingCount":395,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Hôtel de Paris Montparnasse","lat":48.8402,"lng":2.3222,"area":"Gare Montparnasse","rating":4.3,"ratingCount":661,"stars":3,"priceTier":2},
-    {"name":"Hôtel Arcadie Montparnasse","lat":48.839,"lng":2.3226,"area":"Gare Montparnasse","rating":4.1,"ratingCount":756,"stars":3,"priceTier":2},
-    {"name":"Hôtel Odessa Montparnasse","lat":48.8415,"lng":2.3246,"area":"Gare Montparnasse","rating":4.1,"ratingCount":586,"stars":2,"priceTier":2},
-    {"name":"citizenM Paris Charles de Gaulle Airport","lat":49.0095,"lng":2.5563,"area":"Paris Charles de Gaulle Airport","rating":4.4,"ratingCount":6191,"stars":4,"priceTier":3},
-    {"name":"Novotel Paris Coeur d'Orly Airport","lat":48.7318,"lng":2.3704,"area":"Paris Orly Airport","rating":4,"ratingCount":995,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"InterContinental Paris Le Grand","lat":48.8707,"lng":2.3303,"area":"Opéra","rating":4.3,"ratingCount":3808,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Hotel Indigo Paris - Opéra","lat":48.8705,"lng":2.3293,"area":"Opéra","rating":4.5,"ratingCount":664,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Hôtel Saint-Pétersbourg Opéra & Spa","lat":48.8721,"lng":2.328,"area":"Opéra","rating":4.4,"ratingCount":2376,"stars":4,"priceTier":3},
-    {"name":"Hôtel Caumartin Opéra - Astotel","lat":48.8717,"lng":2.3279,"area":"Opéra","rating":4.3,"ratingCount":1258,"stars":3,"priceTier":3},
-    {"name":"Hôtel Hélios Opéra","lat":48.8751,"lng":2.3328,"area":"Opéra","rating":4.2,"ratingCount":610,"stars":3,"priceTier":2},
-    {"name":"Hôtel Bel Ami","lat":48.8549,"lng":2.3332,"area":"Saint-Germain-des-Prés","rating":4.6,"ratingCount":2375,"stars":5,"priceTier":4,"brandAnchor":false},
-    {"name":"Hôtel Madison","lat":48.8532,"lng":2.3344,"area":"Saint-Germain-des-Prés","rating":4.7,"ratingCount":1694,"stars":4,"priceTier":3},
-    {"name":"Hôtel Left Bank Saint-Germain","lat":48.8532,"lng":2.3387,"area":"Saint-Germain-des-Prés","rating":4.4,"ratingCount":1085,"stars":3,"priceTier":3},
-    {"name":"Welcome Hotel","lat":48.8531,"lng":2.3369,"area":"Saint-Germain-des-Prés","rating":4.2,"ratingCount":967,"stars":2,"priceTier":2},
-    {"name":"Le Pavillon de la Reine","lat":48.8564,"lng":2.3661,"area":"Le Marais","rating":4.7,"ratingCount":1213,"stars":5,"priceTier":4,"brandAnchor":false},
-    {"name":"Hôtel Jeanne d'Arc Le Marais","lat":48.8555,"lng":2.3632,"area":"Le Marais","rating":4.3,"ratingCount":1051,"stars":3,"priceTier":2},
-    {"name":"Hôtel Turenne Le Marais","lat":48.8551,"lng":2.3635,"area":"Le Marais","rating":4.3,"ratingCount":1381,"stars":3,"priceTier":2},
-    {"name":"Citadines Bastille Marais Paris","lat":48.8581,"lng":2.3708,"area":"Le Marais","rating":4,"ratingCount":1209,"stars":3,"priceTier":2},
-    {"name":"MIJE Fourcy (hostel)","lat":48.8548,"lng":2.3592,"area":"Le Marais","rating":4.1,"ratingCount":1233,"stars":1,"priceTier":1}
+    {"name":"25hours Hotel Terminus Nord","lat":48.8796,"lng":2.355,"area":"Gare du Nord","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hotel Whistler Paris 10e","lat":48.8793,"lng":2.356,"area":"Gare du Nord","stars":4,"priceTier":3},
+    {"name":"Hôtel Hor Europe","lat":48.8793,"lng":2.3577,"area":"Gare du Nord","stars":4,"priceTier":3},
+    {"name":"Libertel Gare du Nord Suède","lat":48.878,"lng":2.3548,"area":"Gare du Nord","stars":2,"priceTier":2},
+    {"name":"OKKO Hotels Paris Gare de l'Est","lat":48.8791,"lng":2.3591,"area":"Gare de l'Est","stars":4,"priceTier":3},
+    {"name":"Le Marcel Paris Gare de l'Est","lat":48.8761,"lng":2.3573,"area":"Gare de l'Est","stars":4,"priceTier":3},
+    {"name":"Staycity Aparthotels Paris Gare de l'Est","lat":48.8737,"lng":2.359,"area":"Gare de l'Est","stars":3,"priceTier":2},
+    {"name":"Libertel Gare de l'Est Français","lat":48.8762,"lng":2.3571,"area":"Gare de l'Est","stars":3,"priceTier":2},
+    {"name":"Courtyard by Marriott Paris Gare de Lyon","lat":48.8451,"lng":2.3712,"area":"Gare de Lyon","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Holiday Inn Paris - Gare de Lyon Bastille","lat":48.8467,"lng":2.3717,"area":"Gare de Lyon","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"citizenM Paris Gare de Lyon","lat":48.8437,"lng":2.3718,"area":"Gare de Lyon","stars":4,"priceTier":3},
+    {"name":"Hotel Terminus Lyon","lat":48.8458,"lng":2.3718,"area":"Gare de Lyon","stars":3,"priceTier":2},
+    {"name":"Hôtel Palym","lat":48.8462,"lng":2.3734,"area":"Gare de Lyon","stars":2,"priceTier":2},
+    {"name":"Pullman Paris Montparnasse","lat":48.8384,"lng":2.3209,"area":"Gare Montparnasse","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Niepce Paris Hotel, Curio Collection by Hilton","lat":48.8349,"lng":2.3181,"area":"Gare Montparnasse","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hôtel de Paris Montparnasse","lat":48.8402,"lng":2.3222,"area":"Gare Montparnasse","stars":3,"priceTier":2},
+    {"name":"Hôtel Arcadie Montparnasse","lat":48.839,"lng":2.3226,"area":"Gare Montparnasse","stars":3,"priceTier":2},
+    {"name":"Hôtel Odessa Montparnasse","lat":48.8415,"lng":2.3246,"area":"Gare Montparnasse","stars":2,"priceTier":2},
+    {"name":"citizenM Paris Charles de Gaulle Airport","lat":49.0095,"lng":2.5563,"area":"Paris Charles de Gaulle Airport","stars":4,"priceTier":3},
+    {"name":"Novotel Paris Coeur d'Orly Airport","lat":48.7318,"lng":2.3704,"area":"Paris Orly Airport","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"InterContinental Paris Le Grand","lat":48.8707,"lng":2.3303,"area":"Opéra","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Hotel Indigo Paris - Opéra","lat":48.8705,"lng":2.3293,"area":"Opéra","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hôtel Saint-Pétersbourg Opéra & Spa","lat":48.8721,"lng":2.328,"area":"Opéra","stars":4,"priceTier":3},
+    {"name":"Hôtel Caumartin Opéra - Astotel","lat":48.8717,"lng":2.3279,"area":"Opéra","stars":3,"priceTier":3},
+    {"name":"Hôtel Hélios Opéra","lat":48.8751,"lng":2.3328,"area":"Opéra","stars":3,"priceTier":2},
+    {"name":"Hôtel Bel Ami","lat":48.8549,"lng":2.3332,"area":"Saint-Germain-des-Prés","stars":5,"priceTier":4,"brandAnchor":false},
+    {"name":"Hôtel Madison","lat":48.8532,"lng":2.3344,"area":"Saint-Germain-des-Prés","stars":4,"priceTier":3},
+    {"name":"Hôtel Left Bank Saint-Germain","lat":48.8532,"lng":2.3387,"area":"Saint-Germain-des-Prés","stars":3,"priceTier":3},
+    {"name":"Welcome Hotel","lat":48.8531,"lng":2.3369,"area":"Saint-Germain-des-Prés","stars":2,"priceTier":2},
+    {"name":"Le Pavillon de la Reine","lat":48.8564,"lng":2.3661,"area":"Le Marais","stars":5,"priceTier":4,"brandAnchor":false},
+    {"name":"Hôtel Jeanne d'Arc Le Marais","lat":48.8555,"lng":2.3632,"area":"Le Marais","stars":3,"priceTier":2},
+    {"name":"Hôtel Turenne Le Marais","lat":48.8551,"lng":2.3635,"area":"Le Marais","stars":3,"priceTier":2},
+    {"name":"Citadines Bastille Marais Paris","lat":48.8581,"lng":2.3708,"area":"Le Marais","stars":3,"priceTier":2},
+    {"name":"MIJE Fourcy (hostel)","lat":48.8548,"lng":2.3592,"area":"Le Marais","stars":1,"priceTier":1}
   ],
   "sights": [
     {
@@ -639,7 +639,6 @@
       "lng": 2.2945,
       "note": "Gustave Eiffel's 1889 iron tower, with views from the 2nd floor and the summit.",
       "hours": "9:30 AM–10:45 PM daily (to 11:45 PM in summer)",
-      "rating": 4.6,
       "ticketUrl": "https://www.toureiffel.paris/en",
       "bookAhead": true
     },
@@ -649,7 +648,6 @@
       "lng": 2.3376,
       "note": "The world's most-visited museum: the Mona Lisa, the Venus de Milo and 35,000 works across a former royal palace.",
       "hours": "9:00 AM–6:00 PM, till 9:00 PM Wed & Fri, closed Tue",
-      "rating": 4.6,
       "ticketUrl": "https://www.louvre.fr/en/visit",
       "bookAhead": true
     },
@@ -659,7 +657,6 @@
       "lng": 2.3266,
       "note": "Impressionist masterpieces (Monet, Renoir, Van Gogh) inside a converted Beaux-Arts railway station.",
       "hours": "9:30 AM–6:00 PM, till 9:45 PM Thu, closed Mon",
-      "rating": 4.7,
       "ticketUrl": "https://www.musee-orsay.fr/en",
       "bookAhead": true
     },
@@ -668,8 +665,7 @@
       "lat": 48.853,
       "lng": 2.3499,
       "note": "The Gothic cathedral, reopened in December 2024 after the 2019 fire. Free entry; a free time-slot booking shortens the queue.",
-      "hours": "7:45 AM–7:00 PM, till 10:00 PM Thu",
-      "rating": 4.6
+      "hours": "7:45 AM–7:00 PM, till 10:00 PM Thu"
     },
     {
       "name": "Arc de Triomphe",
@@ -677,7 +673,6 @@
       "lng": 2.295,
       "note": "Napoleon's triumphal arch at the top of the Champs-Élysées; climb 284 steps to the rooftop terrace.",
       "hours": "10:00 AM–11:00 PM daily (to 10:30 PM Oct–Mar)",
-      "rating": 4.5,
       "ticketUrl": "https://www.paris-arc-de-triomphe.fr/en",
       "bookAhead": true
     },
@@ -686,24 +681,15 @@
       "lat": 48.8462,
       "lng": 2.3372,
       "note": "Formal French gardens around the Luxembourg Palace, with the Medici Fountain and toy sailboats on the pond.",
-      "hours": "Opens 7:30–8:15 AM, closes 4:30–9:30 PM by season",
-      "rating": 4.6
+      "hours": "Opens 7:30–8:15 AM, closes 4:30–9:30 PM by season"
     },
-    {
-      "name": "Sacré-Cœur Basilica",
-      "lat": 48.8867,
-      "lng": 2.3431,
-      "note": "White-domed basilica on the hill of Montmartre, with one of the best free views over Paris.",
-      "hours": "6:30 AM–10:30 PM daily",
-      "rating": 4.5
-    },
+    {"name":"Sacré-Cœur Basilica","lat":48.8867,"lng":2.3431,"note":"White-domed basilica on the hill of Montmartre, with one of the best free views over Paris.","hours":"6:30 AM–10:30 PM daily"},
     {
       "name": "Palais Garnier",
       "lat": 48.872,
       "lng": 2.3316,
       "note": "The opulent 1875 opera house, with its grand staircase and Chagall ceiling; self-guided visits most days.",
       "hours": "10:00 AM–5:00 PM, varies with rehearsals",
-      "rating": 4.7,
       "ticketUrl": "https://www.operadeparis.fr/en/visits/palais-garnier",
       "bookAhead": true
     },
@@ -713,7 +699,6 @@
       "lng": 2.345,
       "note": "13th-century royal chapel with 1,113 stained-glass panels; best on a sunny morning.",
       "hours": "9:00 AM–7:00 PM Apr–Sep, 9:00 AM–5:00 PM Oct–Mar",
-      "rating": 4.6,
       "ticketUrl": "https://www.sainte-chapelle.fr/en",
       "bookAhead": true
     },
@@ -723,7 +708,6 @@
       "lng": 2.3227,
       "note": "Monet's eight giant Water Lilies panels in two oval rooms at the edge of the Tuileries.",
       "hours": "9:00 AM–6:00 PM, closed Tue",
-      "rating": 4.6,
       "ticketUrl": "https://www.musee-orangerie.fr/en",
       "bookAhead": true
     },
@@ -733,17 +717,15 @@
       "lng": 2.3159,
       "note": "Rodin's sculptures, including The Thinker, in a mansion and rose garden.",
       "hours": "10:00 AM–6:30 PM, closed Mon",
-      "rating": 4.6,
       "ticketUrl": "https://www.musee-rodin.fr/en"
     },
-    {"name":"Pont Alexandre III","lat":48.8638,"lng":2.3135,"note":"Paris's most ornate bridge, all gilded statues and Art Nouveau lamps, facing Les Invalides.","hours":"Open 24 hours","rating":4.6},
+    {"name":"Pont Alexandre III","lat":48.8638,"lng":2.3135,"note":"Paris's most ornate bridge, all gilded statues and Art Nouveau lamps, facing Les Invalides.","hours":"Open 24 hours"},
     {
       "name": "Jardin des Tuileries",
       "lat": 48.8634,
       "lng": 2.3275,
       "note": "Formal garden between the Louvre and Place de la Concorde, with chairs around the fountains.",
-      "hours": "7:00 AM–9:00 PM (to 11:00 PM in summer)",
-      "rating": 4.4
+      "hours": "7:00 AM–9:00 PM (to 11:00 PM in summer)"
     },
     {
       "name": "Les Invalides & Musée de l'Armée",
@@ -751,7 +733,6 @@
       "lng": 2.3125,
       "note": "Gilded-dome military complex holding Napoleon's tomb and the army museum.",
       "hours": "10:00 AM–6:00 PM daily",
-      "rating": 4.5,
       "ticketUrl": "https://www.musee-armee.fr/en"
     },
     {
@@ -760,18 +741,10 @@
       "lng": 2.3324,
       "note": "Tunnels lined with the bones of six million Parisians, 20 m underground. Timed tickets sell out days ahead.",
       "hours": "9:45 AM–8:30 PM, closed Mon",
-      "rating": 4.1,
       "ticketUrl": "https://www.catacombes.paris.fr/en",
       "bookAhead": true
     },
-    {
-      "name": "Place des Vosges",
-      "lat": 48.8556,
-      "lng": 2.3655,
-      "note": "Paris's oldest planned square (1612), arcaded red-brick houses in the heart of the Marais.",
-      "hours": "Open 24 hours (garden daytime)",
-      "rating": 4.5
-    },
+    {"name":"Place des Vosges","lat":48.8556,"lng":2.3655,"note":"Paris's oldest planned square (1612), arcaded red-brick houses in the heart of the Marais.","hours":"Open 24 hours (garden daytime)"},
     {
       "name": "Marché des Enfants Rouges",
       "lat": 48.8629,

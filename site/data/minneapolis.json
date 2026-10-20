@@ -67,55 +67,27 @@
     }
   ],
   "hotels": [
-    {
-      "name": "Hyatt Regency Bloomington - Minneapolis",
-      "lat": 44.8576,
-      "lng": -93.2262,
-      "area": "Minneapolis-Saint Paul International Airport",
-      "rating": 4.4,
-      "ratingCount": 1479,
-      "stars": 4,
-      "priceTier": 3,
-      "brandAnchor": true
-    },
-    {
-      "name": "Hampton Inn & Suites Minneapolis/St. Paul Airport-Mall of America",
-      "lat": 44.8606,
-      "lng": -93.2304,
-      "area": "Minneapolis-Saint Paul International Airport",
-      "rating": 4.2,
-      "ratingCount": 1178,
-      "stars": 3,
-      "priceTier": 2
-    },
-    {
-      "name": "SpringHill Suites by Marriott Minneapolis-St. Paul Airport/Mall of America",
-      "lat": 44.8612,
-      "lng": -93.232,
-      "area": "Minneapolis-Saint Paul International Airport",
-      "rating": 4.2,
-      "ratingCount": 635,
-      "stars": 3,
-      "priceTier": 2
-    },
-    {"name":"Hyatt Place St Paul / Downtown","lat":44.9466,"lng":-93.0874,"area":"Saint Paul Union Depot","rating":4.4,"ratingCount":1069,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"SpringHill Suites by Marriott St. Paul Downtown","lat":44.9511,"lng":-93.0916,"area":"Downtown Saint Paul","rating":4.9,"ratingCount":43,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"The Saint Paul Hotel","lat":44.9448,"lng":-93.0958,"area":"Downtown Saint Paul","rating":4.6,"ratingCount":2080,"stars":4,"priceTier":4},
-    {"name":"Celeste of St Paul Hotel + Bar","lat":44.9494,"lng":-93.0966,"area":"Downtown Saint Paul","rating":4.5,"ratingCount":637,"stars":4,"priceTier":3},
-    {"name":"Drury Plaza Hotel St. Paul Downtown","lat":44.9526,"lng":-93.0929,"area":"Downtown Saint Paul","rating":4.5,"ratingCount":165,"stars":3,"priceTier":2},
-    {"name":"Courtyard by Marriott St. Paul Downtown","lat":44.946,"lng":-93.1025,"area":"Downtown Saint Paul","rating":4.4,"ratingCount":31,"stars":3,"priceTier":3},
-    {"name":"Hyatt Centric Downtown Minneapolis","lat":44.976,"lng":-93.2688,"area":"Downtown Minneapolis","rating":4.4,"ratingCount":1585,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Hampton Inn & Suites Minneapolis/Downtown","lat":44.9775,"lng":-93.2769,"area":"Downtown Minneapolis","rating":4.5,"ratingCount":1256,"stars":3,"priceTier":2},
-    {"name":"The Lofton Hotel Minneapolis, Tapestry Collection by Hilton","lat":44.9789,"lng":-93.2751,"area":"Downtown Minneapolis","rating":4.4,"ratingCount":2075,"stars":4,"priceTier":3},
-    {"name":"The Royal Sonesta Minneapolis Downtown","lat":44.977,"lng":-93.2736,"area":"Downtown Minneapolis","rating":4.4,"ratingCount":2473,"stars":4,"priceTier":3},
-    {"name":"Four Seasons Hotel Minneapolis","lat":44.9816,"lng":-93.2694,"area":"Downtown Minneapolis","rating":4.3,"ratingCount":105,"stars":5,"priceTier":4},
-    {"name":"Canopy by Hilton Minneapolis Mill District","lat":44.9768,"lng":-93.2589,"area":"Mill District","rating":4.5,"ratingCount":424,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Radisson RED Minneapolis Downtown","lat":44.9768,"lng":-93.2603,"area":"Mill District","rating":4.1,"ratingCount":541,"stars":3,"priceTier":3},
-    {"name":"Hyatt Place Minneapolis/Downtown","lat":44.9741,"lng":-93.266,"area":"Mill District","rating":4.1,"ratingCount":1717,"stars":3,"priceTier":3},
-    {"name":"Best Western Plus The Normandy Inn & Suites","lat":44.973,"lng":-93.2672,"area":"Mill District","rating":4.3,"ratingCount":1903,"stars":3,"priceTier":2},
-    {"name":"Elliot Park Hotel, Autograph Collection","lat":44.9721,"lng":-93.2665,"area":"Mill District","rating":4.6,"ratingCount":174,"stars":4,"priceTier":3},
-    {"name":"Graduate by Hilton Minneapolis","lat":44.9742,"lng":-93.2295,"area":"University of Minnesota","rating":4.3,"ratingCount":1571,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"Hampton Inn & Suites Minneapolis University Area","lat":44.9712,"lng":-93.2167,"area":"University of Minnesota","rating":4.6,"ratingCount":654,"stars":3,"priceTier":2}
+    {"name":"Hyatt Regency Bloomington - Minneapolis","lat":44.8576,"lng":-93.2262,"area":"Minneapolis-Saint Paul International Airport","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hampton Inn & Suites Minneapolis/St. Paul Airport-Mall of America","lat":44.8606,"lng":-93.2304,"area":"Minneapolis-Saint Paul International Airport","stars":3,"priceTier":2},
+    {"name":"SpringHill Suites by Marriott Minneapolis-St. Paul Airport/Mall of America","lat":44.8612,"lng":-93.232,"area":"Minneapolis-Saint Paul International Airport","stars":3,"priceTier":2},
+    {"name":"Hyatt Place St Paul / Downtown","lat":44.9466,"lng":-93.0874,"area":"Saint Paul Union Depot","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"SpringHill Suites by Marriott St. Paul Downtown","lat":44.9511,"lng":-93.0916,"area":"Downtown Saint Paul","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"The Saint Paul Hotel","lat":44.9448,"lng":-93.0958,"area":"Downtown Saint Paul","stars":4,"priceTier":4},
+    {"name":"Celeste of St Paul Hotel + Bar","lat":44.9494,"lng":-93.0966,"area":"Downtown Saint Paul","stars":4,"priceTier":3},
+    {"name":"Drury Plaza Hotel St. Paul Downtown","lat":44.9526,"lng":-93.0929,"area":"Downtown Saint Paul","stars":3,"priceTier":2},
+    {"name":"Courtyard by Marriott St. Paul Downtown","lat":44.946,"lng":-93.1025,"area":"Downtown Saint Paul","stars":3,"priceTier":3},
+    {"name":"Hyatt Centric Downtown Minneapolis","lat":44.976,"lng":-93.2688,"area":"Downtown Minneapolis","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hampton Inn & Suites Minneapolis/Downtown","lat":44.9775,"lng":-93.2769,"area":"Downtown Minneapolis","stars":3,"priceTier":2},
+    {"name":"The Lofton Hotel Minneapolis, Tapestry Collection by Hilton","lat":44.9789,"lng":-93.2751,"area":"Downtown Minneapolis","stars":4,"priceTier":3},
+    {"name":"The Royal Sonesta Minneapolis Downtown","lat":44.977,"lng":-93.2736,"area":"Downtown Minneapolis","stars":4,"priceTier":3},
+    {"name":"Four Seasons Hotel Minneapolis","lat":44.9816,"lng":-93.2694,"area":"Downtown Minneapolis","stars":5,"priceTier":4},
+    {"name":"Canopy by Hilton Minneapolis Mill District","lat":44.9768,"lng":-93.2589,"area":"Mill District","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Radisson RED Minneapolis Downtown","lat":44.9768,"lng":-93.2603,"area":"Mill District","stars":3,"priceTier":3},
+    {"name":"Hyatt Place Minneapolis/Downtown","lat":44.9741,"lng":-93.266,"area":"Mill District","stars":3,"priceTier":3},
+    {"name":"Best Western Plus The Normandy Inn & Suites","lat":44.973,"lng":-93.2672,"area":"Mill District","stars":3,"priceTier":2},
+    {"name":"Elliot Park Hotel, Autograph Collection","lat":44.9721,"lng":-93.2665,"area":"Mill District","stars":4,"priceTier":3},
+    {"name":"Graduate by Hilton Minneapolis","lat":44.9742,"lng":-93.2295,"area":"University of Minnesota","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Hampton Inn & Suites Minneapolis University Area","lat":44.9712,"lng":-93.2167,"area":"University of Minnesota","stars":3,"priceTier":2}
   ],
   "sights": [
     {
@@ -123,8 +95,7 @@
       "lat": 44.9154,
       "lng": -93.2111,
       "note": "A leafy riverside park where Minnehaha Creek plunges 16 m over a limestone ledge into a glen, with trails down to the Mississippi; a short walk from 50th Street/Minnehaha Park on the Blue Line. Free.",
-      "hours": "6:00 AM–10:00 PM daily",
-      "rating": 4.6
+      "hours": "6:00 AM–10:00 PM daily"
     },
     {
       "name": "Minneapolis Institute of Art",
@@ -132,7 +103,6 @@
       "lng": -93.2738,
       "note": "A vast, free encyclopedic museum spanning Rembrandt, Van Gogh, Chinese jades, period rooms and a strong Prairie School collection.",
       "hours": "10:00 AM–5:00 PM, till 9:00 PM Thu, closed Mon",
-      "rating": 4.8,
       "ticketUrl": "https://new.artsmia.org/visit"
     },
     {
@@ -140,8 +110,7 @@
       "lat": 44.9787,
       "lng": -93.2572,
       "note": "Built into the burned-out ruins of what was once the world's largest flour mill, with an elevator ride through the mill's history and a rooftop view over St. Anthony Falls. Tickets sold on site only.",
-      "hours": "~10:00 AM–5:00 PM, closed some weekdays (check mnhs.org/millcity)",
-      "rating": 4.6
+      "hours": "~10:00 AM–5:00 PM, closed some weekdays (check mnhs.org/millcity)"
     },
     {
       "name": "Target Field",
@@ -149,7 +118,6 @@
       "lng": -93.2775,
       "note": "The Minnesota Twins' downtown ballpark, with skyline views from the upper deck; behind-the-scenes tours run on non-game days.",
       "hours": "Twins home games Apr–Sep; ballpark tours on select days year-round",
-      "rating": 4.7,
       "ticketUrl": "https://www.mlb.com/twins/tickets"
     },
     {
@@ -157,8 +125,7 @@
       "lat": 44.9695,
       "lng": -93.289,
       "note": "The Walker Art Center's free outdoor garden of some 60 works, home of Oldenburg and van Bruggen's giant Spoonbridge and Cherry.",
-      "hours": "6:00 AM–midnight daily",
-      "rating": 4.3
+      "hours": "6:00 AM–midnight daily"
     },
     {
       "name": "Guthrie Theater",
@@ -166,7 +133,6 @@
       "lng": -93.2552,
       "note": "Jean Nouvel's dark-blue riverside theatre; even without a show ticket you can walk out onto its cantilevered Endless Bridge for a free view of the river and Stone Arch Bridge.",
       "hours": "Lobbies and Endless Bridge open ~8:00 AM–8:00 PM (later on show nights)",
-      "rating": 4.7,
       "ticketUrl": "https://www.guthrietheater.org"
     },
     {
@@ -175,7 +141,6 @@
       "lng": -93.2656,
       "note": "A turreted 1908 limestone mansion with carved woodwork and tile stoves, joined to a modern wing for Nordic exhibitions and a well-loved Swedish café.",
       "hours": "10:00 AM–4:00 PM, closed Mon",
-      "rating": 4.6,
       "ticketUrl": "https://www.asimn.org"
     },
     {
@@ -183,24 +148,21 @@
       "lat": 44.9747,
       "lng": -93.2719,
       "note": "The 1929 Art Deco obelisk modelled on the Washington Monument, now the W hotel; a small museum leads to an open-air deck on the 30th floor with downtown views. $20, tickets at the hotel's welcome desk.",
-      "hours": "9:00 AM–9:00 PM daily",
-      "rating": 4.3
+      "hours": "9:00 AM–9:00 PM daily"
     },
     {
       "name": "Chain of Lakes (Bde Maka Ska & Lake Harriet)",
       "lat": 44.948,
       "lng": -93.3058,
       "note": "A string of city lakes joined by shoreline paths for walking, cycling and summer paddling; the pin marks the Bde Maka Ska pavilion, with Lake Harriet's bandshell and Lake of the Isles' mansions a stroll away.",
-      "hours": "Shoreline paths open 6:00 AM–10:00 PM daily; free",
-      "rating": 4.8
+      "hours": "Shoreline paths open 6:00 AM–10:00 PM daily; free"
     },
     {
       "name": "The Basilica of Saint Mary",
       "lat": 44.973,
       "lng": -93.2858,
       "note": "America's first basilica, a Beaux-Arts landmark with a soaring copper dome and stained glass, next to Loring Park at the edge of downtown.",
-      "hours": "Open daily for visits outside Mass, ~7:00 AM–5:00 PM",
-      "rating": 4.7
+      "hours": "Open daily for visits outside Mass, ~7:00 AM–5:00 PM"
     },
     {
       "name": "The Museum of Russian Art",
@@ -208,7 +170,6 @@
       "lng": -93.2758,
       "note": "A small museum in a converted Spanish-revival church in south Minneapolis, showing Soviet-era and earlier Russian painting, icons and decorative arts.",
       "hours": "10:00 AM–5:00 PM Mon–Sat, 1:00–5:00 PM Sun",
-      "rating": 4.7,
       "ticketUrl": "https://www.tmora.org"
     },
     {
@@ -216,24 +177,21 @@
       "lat": 44.981,
       "lng": -93.253,
       "note": "A curving 1883 granite railway bridge, now for walkers and cyclists only, with the best views of St. Anthony Falls and the downtown skyline; reopened in 2025 after restoration.",
-      "hours": "Open 24 hours; free",
-      "rating": 4.6
+      "hours": "Open 24 hours; free"
     },
     {
       "name": "Cathedral of Saint Paul",
       "lat": 44.9468,
       "lng": -93.1088,
       "note": "A colossal domed cathedral on the hilltop above downtown Saint Paul, modelled on St. Peter's in Rome and lined with marble and glowing rose windows.",
-      "hours": "Open daily, ~7:00 AM–6:00 PM (shorter around weekend Masses)",
-      "rating": 4.7
+      "hours": "Open daily, ~7:00 AM–6:00 PM (shorter around weekend Masses)"
     },
     {
       "name": "Como Park Zoo & Conservatory",
       "lat": 44.9817,
       "lng": -93.152,
       "note": "A free zoo with polar bears, gorillas and big cats beside a glass Victorian conservatory and Japanese garden in Saint Paul's Como Park.",
-      "hours": "Zoo 10:00 AM–4:00 PM daily (to 6:00 PM May–Labor Day); conservatory Tue–Sun",
-      "rating": 4.6
+      "hours": "Zoo 10:00 AM–4:00 PM daily (to 6:00 PM May–Labor Day); conservatory Tue–Sun"
     },
     {
       "name": "Science Museum of Minnesota",
@@ -241,7 +199,6 @@
       "lng": -93.099,
       "note": "A hands-on science museum on the Mississippi bluff in Saint Paul, with dinosaur skeletons, a human-body gallery and a domed Omnitheater.",
       "hours": "10:00 AM–5:00 PM, till 8:00 PM Fri–Sat, closed Mon",
-      "rating": 4.6,
       "ticketUrl": "https://www.smm.org"
     },
     {
@@ -250,7 +207,6 @@
       "lng": -93.1078,
       "note": "The red-sandstone 1891 mansion of the 'Empire Builder' railroad baron, seen on guided tours; it anchors a walk along Summit Avenue's Victorian mansions.",
       "hours": "Guided tours Thu–Sun 10:00 AM–4:00 PM (Jan–Nov); holiday tours from 28 Nov",
-      "rating": 4.6,
       "ticketUrl": "https://www.mnhs.org/hillhouse"
     },
     {
@@ -258,16 +214,14 @@
       "lat": 44.9553,
       "lng": -93.1022,
       "note": "Cass Gilbert's white-marble capitol with a gilded quadriga and one of the world's largest unsupported marble domes; free guided tours.",
-      "hours": "~8:30 AM–5:00 PM Mon–Fri, 10:00 AM–3:00 PM Sat, 1:00–5:00 PM Sun",
-      "rating": 4.5
+      "hours": "~8:30 AM–5:00 PM Mon–Fri, 10:00 AM–3:00 PM Sat, 1:00–5:00 PM Sun"
     },
     {
       "name": "Midtown Global Market",
       "lat": 44.9485,
       "lng": -93.2603,
       "note": "A food hall in a restored Sears building on Lake Street, packed with Somali, Mexican, Vietnamese and Scandinavian stalls; local-flavor pick.",
-      "hours": "~8:00 AM–8:00 PM daily (stalls vary)",
-      "rating": 4.1
+      "hours": "~8:00 AM–8:00 PM daily (stalls vary)"
     }
   ],
   "railStations": [

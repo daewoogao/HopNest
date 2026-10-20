@@ -116,32 +116,32 @@
     }
   ],
   "hotels": [
-    {"name":"Ashling Hotel Dublin","lat":53.3481,"lng":-6.2909,"area":"Heuston Station","rating":4.4,"ratingCount":6147,"stars":4,"priceTier":3},
-    {"name":"The Hendrick Dublin Smithfield","lat":53.348,"lng":-6.2809,"area":"Heuston Station","rating":4.4,"ratingCount":864,"stars":3,"priceTier":3},
-    {"name":"easyHotel Dublin City Centre","lat":53.3477,"lng":-6.2831,"area":"Heuston Station","rating":4.3,"ratingCount":286,"stars":2,"priceTier":2},
-    {"name":"Hilton Garden Inn Dublin City Centre","lat":53.3482,"lng":-6.2468,"area":"Connolly Station","rating":4.3,"ratingCount":2559,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"The Address Connolly","lat":53.352,"lng":-6.2503,"area":"Connolly Station","rating":4,"ratingCount":4863,"stars":4,"priceTier":3},
-    {"name":"The Spencer Hotel","lat":53.3481,"lng":-6.2433,"area":"Connolly Station","rating":4.5,"ratingCount":4275,"stars":4,"priceTier":3},
-    {"name":"Premier Inn Dublin City Centre (Gloucester Street South)","lat":53.3462,"lng":-6.2501,"area":"Connolly Station","rating":4.2,"ratingCount":462,"stars":3,"priceTier":2},
-    {"name":"Latroupe Jacobs Inn","lat":53.3507,"lng":-6.2517,"area":"Connolly Station","rating":4.2,"ratingCount":2990,"stars":2,"priceTier":1},
-    {"name":"Holiday Inn Express Dublin City Centre by IHG","lat":53.3522,"lng":-6.2609,"area":"O'Connell Street","rating":4.4,"ratingCount":2374,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"Moxy Dublin City","lat":53.3492,"lng":-6.2583,"area":"O'Connell Street","rating":4.3,"ratingCount":883,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"Hotel Riu Plaza The Gresham Dublin","lat":53.3516,"lng":-6.2603,"area":"O'Connell Street","rating":4.3,"ratingCount":4960,"stars":4,"priceTier":3},
-    {"name":"Wynn's Hotel","lat":53.3484,"lng":-6.2588,"area":"O'Connell Street","rating":4.3,"ratingCount":1854,"stars":3,"priceTier":3},
-    {"name":"Spire Hostel","lat":53.3499,"lng":-6.2583,"area":"O'Connell Street","rating":4,"ratingCount":222,"stars":1,"priceTier":1},
-    {"name":"The Shelbourne, Autograph Collection","lat":53.3391,"lng":-6.2557,"area":"St Stephen's Green","rating":4.5,"ratingCount":5435,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"The Fitzwilliam Hotel Dublin","lat":53.3394,"lng":-6.2615,"area":"St Stephen's Green","rating":4.5,"ratingCount":4513,"stars":5,"priceTier":4},
-    {"name":"The Green Hotel","lat":53.3374,"lng":-6.2633,"area":"St Stephen's Green","rating":4.8,"ratingCount":1843,"stars":4,"priceTier":3},
-    {"name":"Marlin Hotel Stephens Green","lat":53.34,"lng":-6.2648,"area":"St Stephen's Green","rating":4.5,"ratingCount":2805,"stars":4,"priceTier":3},
-    {"name":"Drury Court Hotel","lat":53.3412,"lng":-6.2645,"area":"St Stephen's Green","rating":4.4,"ratingCount":2374,"stars":3,"priceTier":2},
-    {"name":"Anantara The Marker Dublin Hotel","lat":53.3445,"lng":-6.2391,"area":"Grand Canal Dock","rating":4.7,"ratingCount":5527,"stars":5,"priceTier":4},
-    {"name":"Grand Canal Hotel","lat":53.338,"lng":-6.2378,"area":"Grand Canal Dock","rating":4.2,"ratingCount":2327,"stars":4,"priceTier":3},
-    {"name":"Schoolhouse Hotel & Gastrobar","lat":53.3374,"lng":-6.2394,"area":"Grand Canal Dock","rating":4.4,"ratingCount":1768,"stars":4,"priceTier":3},
-    {"name":"Clayton Hotel Cardiff Lane","lat":53.3454,"lng":-6.2412,"area":"Grand Canal Dock","rating":4.2,"ratingCount":6468,"stars":4,"priceTier":3},
-    {"name":"The Ferryman","lat":53.346,"lng":-6.2407,"area":"Grand Canal Dock","rating":4,"ratingCount":251,"stars":3,"priceTier":2},
-    {"name":"Crowne Plaza Dublin Airport by IHG","lat":53.4045,"lng":-6.2456,"area":"Dublin Airport","rating":4.5,"ratingCount":3380,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Carlton Hotel Dublin Airport","lat":53.4153,"lng":-6.2406,"area":"Dublin Airport","rating":4.1,"ratingCount":3578,"stars":4,"priceTier":3},
-    {"name":"Maldron Hotel Dublin Airport","lat":53.4275,"lng":-6.2342,"area":"Dublin Airport","rating":3.8,"ratingCount":2249,"stars":4,"priceTier":3,"airportException":true}
+    {"name":"Ashling Hotel Dublin","lat":53.3481,"lng":-6.2909,"area":"Heuston Station","stars":4,"priceTier":3},
+    {"name":"The Hendrick Dublin Smithfield","lat":53.348,"lng":-6.2809,"area":"Heuston Station","stars":3,"priceTier":3},
+    {"name":"easyHotel Dublin City Centre","lat":53.3477,"lng":-6.2831,"area":"Heuston Station","stars":2,"priceTier":2},
+    {"name":"Hilton Garden Inn Dublin City Centre","lat":53.3482,"lng":-6.2468,"area":"Connolly Station","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"The Address Connolly","lat":53.352,"lng":-6.2503,"area":"Connolly Station","stars":4,"priceTier":3},
+    {"name":"The Spencer Hotel","lat":53.3481,"lng":-6.2433,"area":"Connolly Station","stars":4,"priceTier":3},
+    {"name":"Premier Inn Dublin City Centre (Gloucester Street South)","lat":53.3462,"lng":-6.2501,"area":"Connolly Station","stars":3,"priceTier":2},
+    {"name":"Latroupe Jacobs Inn","lat":53.3507,"lng":-6.2517,"area":"Connolly Station","stars":2,"priceTier":1},
+    {"name":"Holiday Inn Express Dublin City Centre by IHG","lat":53.3522,"lng":-6.2609,"area":"O'Connell Street","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Moxy Dublin City","lat":53.3492,"lng":-6.2583,"area":"O'Connell Street","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Hotel Riu Plaza The Gresham Dublin","lat":53.3516,"lng":-6.2603,"area":"O'Connell Street","stars":4,"priceTier":3},
+    {"name":"Wynn's Hotel","lat":53.3484,"lng":-6.2588,"area":"O'Connell Street","stars":3,"priceTier":3},
+    {"name":"Spire Hostel","lat":53.3499,"lng":-6.2583,"area":"O'Connell Street","stars":1,"priceTier":1},
+    {"name":"The Shelbourne, Autograph Collection","lat":53.3391,"lng":-6.2557,"area":"St Stephen's Green","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"The Fitzwilliam Hotel Dublin","lat":53.3394,"lng":-6.2615,"area":"St Stephen's Green","stars":5,"priceTier":4},
+    {"name":"The Green Hotel","lat":53.3374,"lng":-6.2633,"area":"St Stephen's Green","stars":4,"priceTier":3},
+    {"name":"Marlin Hotel Stephens Green","lat":53.34,"lng":-6.2648,"area":"St Stephen's Green","stars":4,"priceTier":3},
+    {"name":"Drury Court Hotel","lat":53.3412,"lng":-6.2645,"area":"St Stephen's Green","stars":3,"priceTier":2},
+    {"name":"Anantara The Marker Dublin Hotel","lat":53.3445,"lng":-6.2391,"area":"Grand Canal Dock","stars":5,"priceTier":4},
+    {"name":"Grand Canal Hotel","lat":53.338,"lng":-6.2378,"area":"Grand Canal Dock","stars":4,"priceTier":3},
+    {"name":"Schoolhouse Hotel & Gastrobar","lat":53.3374,"lng":-6.2394,"area":"Grand Canal Dock","stars":4,"priceTier":3},
+    {"name":"Clayton Hotel Cardiff Lane","lat":53.3454,"lng":-6.2412,"area":"Grand Canal Dock","stars":4,"priceTier":3},
+    {"name":"The Ferryman","lat":53.346,"lng":-6.2407,"area":"Grand Canal Dock","stars":3,"priceTier":2},
+    {"name":"Crowne Plaza Dublin Airport by IHG","lat":53.4045,"lng":-6.2456,"area":"Dublin Airport","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Carlton Hotel Dublin Airport","lat":53.4153,"lng":-6.2406,"area":"Dublin Airport","stars":4,"priceTier":3},
+    {"name":"Maldron Hotel Dublin Airport","lat":53.4275,"lng":-6.2342,"area":"Dublin Airport","stars":4,"priceTier":3,"airportException":true}
   ],
   "sights": [
     {
@@ -150,7 +150,6 @@
       "lng": -6.3097,
       "note": "The 1796 prison where leaders of the 1916 Easter Rising were held and executed, seen on a guided tour through its cells and the vaulted Victorian east wing.",
       "hours": "~9:30 AM–5:30 PM daily, guided tours only",
-      "rating": 4.6,
       "ticketUrl": "https://kilmainhamgaolmuseum.ie",
       "bookAhead": true
     },
@@ -160,7 +159,6 @@
       "lng": -6.2867,
       "note": "A seven-floor visitor experience in a former fermentation building at St James's Gate brewery, ending with a pint in the rooftop Gravity Bar.",
       "hours": "~9:30 AM–7:00 PM daily, later in summer",
-      "rating": 4.3,
       "ticketUrl": "https://www.guinness-storehouse.com",
       "bookAhead": true
     },
@@ -170,7 +168,6 @@
       "lng": -6.2567,
       "note": "The 9th-century illuminated gospel book on display at Trinity College, with an exhibition on its making; the Long Room library is part-emptied during a multi-year conservation project.",
       "hours": "~8:30 AM–5:00 PM Mon–Sat, ~9:30 AM–5:00 PM Sun",
-      "rating": 4.3,
       "ticketUrl": "https://www.tcd.ie/visitors/book-of-kells/",
       "bookAhead": true
     },
@@ -180,7 +177,6 @@
       "lng": -6.2588,
       "note": "A Georgian townhouse on St Stephen's Green filled with donated objects telling Dublin's 20th-century story, seen on lively guided tours.",
       "hours": "~9:30 AM–5:00 PM daily",
-      "rating": 4.8,
       "ticketUrl": "https://littlemuseum.ie",
       "bookAhead": true
     },
@@ -189,8 +185,7 @@
       "lat": 53.3382,
       "lng": -6.2591,
       "note": "A Victorian park at the top of Grafton Street with a lake, bridges, flower beds and memorials, much loved for lunchtime breaks.",
-      "hours": "~7:30 AM–dusk (from 9:30 AM Sun)",
-      "rating": 4.5
+      "hours": "~7:30 AM–dusk (from 9:30 AM Sun)"
     },
     {
       "name": "National Museum of Ireland – Archaeology",
@@ -198,7 +193,6 @@
       "lng": -6.2547,
       "note": "Free museum on Kildare Street showing prehistoric Irish gold, the Ardagh Chalice and Tara Brooch, Viking finds and preserved bog bodies.",
       "hours": "10:00 AM–5:00 PM Tue–Sat, 1:00–5:00 PM Sun–Mon",
-      "rating": 4.6,
       "ticketUrl": "https://www.museum.ie"
     },
     {
@@ -207,7 +201,6 @@
       "lng": -6.2649,
       "note": "A guided tour of working recording studios and memorabilia from Irish musicians such as U2, Thin Lizzy and Phil Lynott in Temple Bar.",
       "hours": "~10:30 AM–5:30 PM daily, tours on the hour",
-      "rating": 4.9,
       "ticketUrl": "https://irishrocknrollmuseum.com",
       "bookAhead": true
     },
@@ -224,7 +217,6 @@
       "lng": -6.2674,
       "note": "The former seat of British rule in Ireland, with lavish State Apartments, a medieval undercroft and the Chapel Royal; the gardens are free.",
       "hours": "~9:45 AM–5:15 PM daily",
-      "rating": 4,
       "ticketUrl": "https://www.dublincastle.ie"
     },
     {
@@ -233,7 +225,6 @@
       "lng": -6.2672,
       "note": "A free museum in the Dublin Castle grounds holding a collector's world-class hoard of manuscripts, Qur'ans, early Bibles and Asian prints.",
       "hours": "~10:00 AM–5:30 PM Mon–Sat (closed Mon Nov–Feb), from noon Sun",
-      "rating": 4.7,
       "ticketUrl": "https://chesterbeatty.ie"
     },
     {
@@ -242,7 +233,6 @@
       "lng": -6.2711,
       "note": "Dublin's medieval cathedral, founded by the Vikings, with a huge 12th-century crypt; it connects by bridge to the Dublinia Viking museum.",
       "hours": "~9:30 AM–5:00 PM Mon–Sat, afternoons Sun",
-      "rating": 4.4,
       "ticketUrl": "https://christchurchcathedral.ie"
     },
     {
@@ -251,7 +241,6 @@
       "lng": -6.2715,
       "note": "Ireland's largest church, founded in 1191, where Jonathan Swift was dean; stained glass, monuments and a small park beside it.",
       "hours": "~9:30 AM–5:00 PM Mon–Sat, restricted hours Sun between services",
-      "rating": 4.4,
       "ticketUrl": "https://www.stpatrickscathedral.ie"
     },
     {
@@ -260,7 +249,6 @@
       "lng": -6.2775,
       "note": "The former Jameson distillery in Smithfield, now a guided tour and tasting on how Irish whiskey is made.",
       "hours": "~10:00 AM–6:00 PM daily",
-      "rating": 4.6,
       "ticketUrl": "https://www.jamesonwhiskey.com/en-ie/visit-our-distilleries/jameson-distillery-bow-st/",
       "bookAhead": true
     },
@@ -270,7 +258,6 @@
       "lng": -6.2715,
       "note": "A Georgian townhouse that became a crowded tenement, showing 300 years of Dublin home life on small-group tours.",
       "hours": "Guided tours ~10:00 AM–4:00 PM Wed–Sun",
-      "rating": 4.9,
       "ticketUrl": "https://14henriettastreet.ie",
       "bookAhead": true
     },
@@ -280,7 +267,6 @@
       "lng": -6.2483,
       "note": "An interactive museum in the vaults of CHQ on the docks about the 10 million people who left Ireland and their influence worldwide.",
       "hours": "~10:00 AM–6:45 PM daily (last entry ~5:00 PM)",
-      "rating": 4.8,
       "ticketUrl": "https://epicchq.com"
     },
     {
@@ -289,7 +275,6 @@
       "lng": -6.2778,
       "note": "Ireland's national cemetery, resting place of Daniel O'Connell and Michael Collins, with a museum and well-regarded guided tours.",
       "hours": "Museum ~10:00 AM–5:00 PM daily; cemetery grounds longer",
-      "rating": 4.8,
       "ticketUrl": "https://www.glasnevintrust.ie"
     },
     {
@@ -297,8 +282,7 @@
       "lat": 53.3559,
       "lng": -6.3298,
       "note": "One of Europe's largest enclosed city parks, with roaming fallow deer, the Wellington Monument, Áras an Uachtaráin and Dublin Zoo.",
-      "hours": "Open 24 hours; visitor centre ~9:30 AM–5:30 PM",
-      "rating": 4.6
+      "hours": "Open 24 hours; visitor centre ~9:30 AM–5:30 PM"
     }
   ],
   "railStations": [

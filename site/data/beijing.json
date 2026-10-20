@@ -729,39 +729,27 @@
     }
   ],
   "hotels": [
-    {"name":"Beijing Pudi Hotel","lat":39.903,"lng":116.428,"area":"Beijing Railway Station","rating":4.4,"ratingCount":2198,"stars":4,"priceTier":3},
-    {
-      "name": "Cordis, Beijing Capital Airport by Langham Hospitality Group",
-      "lat": 40.0474,
-      "lng": 116.6072,
-      "area": "Beijing Capital International Airport",
-      "rating": 4.4,
-      "ratingCount": 1247,
-      "stars": 5,
-      "priceTier": 4,
-      "brandAnchor": true
-    },
-    {"name":"Hilton Beijing Capital Airport","lat":40.048,"lng":116.6135,"area":"Beijing Capital International Airport","rating":4.6,"ratingCount":2374,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Mumian Beijing Daxing International Airport","lat":39.5133,"lng":116.4088,"area":"Beijing Daxing International Airport","rating":5,"ratingCount":112,"stars":5,"priceTier":4},
-    {"name":"Grand Hyatt Beijing","lat":39.9085,"lng":116.4084,"area":"Wangfujing","rating":4.4,"ratingCount":3857,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Hilton Beijing Wangfujing","lat":39.9134,"lng":116.4072,"area":"Wangfujing","rating":4.7,"ratingCount":4348,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Beijing Hotel","lat":39.9077,"lng":116.4041,"area":"Wangfujing","rating":4,"ratingCount":1213,"stars":5,"priceTier":3},
-    {"name":"East Sacred Hotel","lat":39.9097,"lng":116.4068,"area":"Wangfujing","rating":4.7,"ratingCount":252,"stars":4,"priceTier":3},
-    {"name":"Ji Hotel Beijing Dongdan","lat":39.9085,"lng":116.4134,"area":"Wangfujing","rating":4,"ratingCount":172,"stars":3,"priceTier":2},
-    {"name":"InterContinental Beijing Sanlitun","lat":39.9312,"lng":116.4488,"area":"Sanlitun","rating":4.9,"ratingCount":2053,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Conrad Beijing","lat":39.9258,"lng":116.4542,"area":"Sanlitun","rating":4.5,"ratingCount":985,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Bei Zhaolong Hotel, JdV by Hyatt","lat":39.9318,"lng":116.4544,"area":"Sanlitun","rating":4.6,"ratingCount":272,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Hanting Express Beijing Tuanjiehu Metro Station","lat":39.9327,"lng":116.4571,"area":"Sanlitun","rating":4,"ratingCount":100,"stars":2,"priceTier":2},
-    {"name":"Beijing Downtown Travelotel","lat":39.9361,"lng":116.3968,"area":"Nanluoguxiang","rating":4.5,"ratingCount":404,"stars":2,"priceTier":1},
-    {"name":"Peking International Youth Hostel","lat":39.9345,"lng":116.3968,"area":"Nanluoguxiang","rating":4.2,"ratingCount":230,"stars":1,"priceTier":1},
-    {"name":"Sitting on the City Walls Courtyard House","lat":39.9279,"lng":116.3924,"area":"Nanluoguxiang","rating":4.5,"ratingCount":275,"stars":3,"priceTier":3},
+    {"name":"Beijing Pudi Hotel","lat":39.903,"lng":116.428,"area":"Beijing Railway Station","stars":4,"priceTier":3},
+    {"name":"Cordis, Beijing Capital Airport by Langham Hospitality Group","lat":40.0474,"lng":116.6072,"area":"Beijing Capital International Airport","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Hilton Beijing Capital Airport","lat":40.048,"lng":116.6135,"area":"Beijing Capital International Airport","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Mumian Beijing Daxing International Airport","lat":39.5133,"lng":116.4088,"area":"Beijing Daxing International Airport","stars":5,"priceTier":4},
+    {"name":"Grand Hyatt Beijing","lat":39.9085,"lng":116.4084,"area":"Wangfujing","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Hilton Beijing Wangfujing","lat":39.9134,"lng":116.4072,"area":"Wangfujing","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Beijing Hotel","lat":39.9077,"lng":116.4041,"area":"Wangfujing","stars":5,"priceTier":3},
+    {"name":"East Sacred Hotel","lat":39.9097,"lng":116.4068,"area":"Wangfujing","stars":4,"priceTier":3},
+    {"name":"Ji Hotel Beijing Dongdan","lat":39.9085,"lng":116.4134,"area":"Wangfujing","stars":3,"priceTier":2},
+    {"name":"InterContinental Beijing Sanlitun","lat":39.9312,"lng":116.4488,"area":"Sanlitun","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Conrad Beijing","lat":39.9258,"lng":116.4542,"area":"Sanlitun","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Bei Zhaolong Hotel, JdV by Hyatt","lat":39.9318,"lng":116.4544,"area":"Sanlitun","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hanting Express Beijing Tuanjiehu Metro Station","lat":39.9327,"lng":116.4571,"area":"Sanlitun","stars":2,"priceTier":2},
+    {"name":"Beijing Downtown Travelotel","lat":39.9361,"lng":116.3968,"area":"Nanluoguxiang","stars":2,"priceTier":1},
+    {"name":"Peking International Youth Hostel","lat":39.9345,"lng":116.3968,"area":"Nanluoguxiang","stars":1,"priceTier":1},
+    {"name":"Sitting on the City Walls Courtyard House","lat":39.9279,"lng":116.3924,"area":"Nanluoguxiang","stars":3,"priceTier":3},
     {
       "name": "JI Hotel (Beijing West Railway Station South Square)",
       "lat": 39.8925,
       "lng": 116.3201,
       "area": "Beijing West Railway Station",
-      "rating": 4.7,
-      "ratingCount": 3017,
       "stars": 3,
       "priceTier": 2,
       "ratingSource": "Trip.com",
@@ -772,8 +760,6 @@
       "lat": 39.8946,
       "lng": 116.3179,
       "area": "Beijing West Railway Station",
-      "rating": 4.6,
-      "ratingCount": 1454,
       "stars": 3,
       "priceTier": 2,
       "ratingSource": "Trip.com",
@@ -784,8 +770,6 @@
       "lat": 39.8903,
       "lng": 116.3168,
       "area": "Beijing West Railway Station",
-      "rating": 4.7,
-      "ratingCount": 3309,
       "stars": 4,
       "priceTier": 3,
       "ratingSource": "Trip.com",
@@ -796,8 +780,6 @@
       "lat": 39.8952,
       "lng": 116.3114,
       "area": "Beijing West Railway Station",
-      "rating": 4.7,
-      "ratingCount": 2288,
       "stars": 3,
       "priceTier": 2,
       "brandAnchor": true,
@@ -809,8 +791,6 @@
       "lat": 39.8688,
       "lng": 116.3804,
       "area": "Beijing South Railway Station",
-      "rating": 4.6,
-      "ratingCount": 1814,
       "stars": 3,
       "priceTier": 2,
       "ratingSource": "Trip.com",
@@ -821,8 +801,6 @@
       "lat": 39.904,
       "lng": 116.4193,
       "area": "Beijing Railway Station",
-      "rating": 4.6,
-      "ratingCount": 1196,
       "stars": 3,
       "priceTier": 2,
       "brandAnchor": true,
@@ -834,8 +812,6 @@
       "lat": 39.9046,
       "lng": 116.4225,
       "area": "Beijing Railway Station",
-      "rating": 4.7,
-      "ratingCount": 2550,
       "stars": 4,
       "priceTier": 3,
       "brandAnchor": true,
@@ -847,8 +823,6 @@
       "lat": 39.9026,
       "lng": 116.4254,
       "area": "Beijing Railway Station",
-      "rating": 4.7,
-      "ratingCount": 2754,
       "stars": 2,
       "priceTier": 2,
       "ratingSource": "Trip.com",
@@ -859,8 +833,6 @@
       "lat": 39.525,
       "lng": 116.407,
       "area": "Beijing Daxing International Airport",
-      "rating": 4.8,
-      "ratingCount": 3079,
       "stars": 4,
       "priceTier": 3,
       "brandAnchor": true,
@@ -872,8 +844,6 @@
       "lat": 39.5245,
       "lng": 116.4046,
       "area": "Beijing Daxing International Airport",
-      "rating": 4.7,
-      "ratingCount": 1950,
       "stars": 3,
       "priceTier": 2,
       "brandAnchor": true,
@@ -885,8 +855,6 @@
       "lat": 39.5243,
       "lng": 116.4068,
       "area": "Beijing Daxing International Airport",
-      "rating": 4.8,
-      "ratingCount": 6268,
       "stars": 5,
       "priceTier": 3,
       "brandAnchor": true,
@@ -898,8 +866,6 @@
       "lat": 39.5195,
       "lng": 116.4047,
       "area": "Beijing Daxing International Airport",
-      "rating": 4.7,
-      "ratingCount": 9626,
       "stars": 4,
       "priceTier": 2,
       "ratingSource": "Trip.com",
@@ -910,8 +876,6 @@
       "lat": 40.0785,
       "lng": 116.5877,
       "area": "Beijing Capital International Airport",
-      "rating": 4.8,
-      "ratingCount": 2871,
       "stars": 2,
       "priceTier": 2,
       "ratingSource": "Trip.com",
@@ -922,8 +886,6 @@
       "lat": 40.0612,
       "lng": 116.5802,
       "area": "Beijing Capital International Airport",
-      "rating": 4.9,
-      "ratingCount": 25633,
       "stars": 4,
       "priceTier": 2,
       "ratingSource": "Trip.com",
@@ -937,7 +899,6 @@
       "lng": 116.5619,
       "note": "A restored, forested stretch of the Great Wall with 23 watchtowers, a cable car up and a toboggan down; about 70 km north of the city, reached by tour bus, private car or the seasonal bus from Dongzhimen.",
       "hours": "~7:30 AM–5:30 PM Apr–Oct, ~8:00 AM–5:00 PM Nov–Mar",
-      "rating": 4.8,
       "bookAhead": true
     },
     {
@@ -946,7 +907,6 @@
       "lng": 116.2689,
       "note": "The Qing emperors' lakeside retreat: Longevity Hill, the painted Long Corridor and boat rides on Kunming Lake.",
       "hours": "6:30 AM–6:00 PM Apr–Oct, 7:00 AM–5:00 PM Nov–Mar (inner halls close earlier)",
-      "rating": 4.5,
       "ticketUrl": "https://www.summerpalace-china.com",
       "bookAhead": true
     },
@@ -956,7 +916,6 @@
       "lng": 116.3908,
       "note": "The vast walled palace of the Ming and Qing emperors, with 980 buildings; enter from Tiananmen in the south and exit north by Jingshan Park.",
       "hours": "8:30 AM–5:00 PM Apr–Oct, 8:30 AM–4:30 PM Nov–Mar; closed Mon (except holidays)",
-      "rating": 4.4,
       "ticketUrl": "https://en.dpm.org.cn",
       "bookAhead": true
     },
@@ -966,7 +925,6 @@
       "lng": 116.4066,
       "note": "Ming-era altar complex where emperors prayed for good harvests, centred on the triple-roofed Hall of Prayer; locals dance, sing and play cards in the surrounding park each morning.",
       "hours": "Park 6:00 AM–9:00 PM; halls 8:00 AM–5:30 PM (to 5:00 PM Nov–Mar)",
-      "rating": 4.5,
       "bookAhead": true
     },
     {
@@ -975,7 +933,6 @@
       "lng": 116.0069,
       "note": "The most visited and most heavily restored Great Wall section, easiest to reach by public transport: high-speed train from Beijing North or Qinghe to Badaling Great Wall station, or suburban line S2.",
       "hours": "~6:30 AM–4:30 PM last entry Apr–Oct, ~7:30 AM–4:00 PM Nov–Mar",
-      "rating": 4.5,
       "bookAhead": true
     },
     {
@@ -983,8 +940,7 @@
       "lat": 39.9236,
       "lng": 116.3906,
       "note": "A man-made hill opposite the Forbidden City's north gate whose summit pavilion gives the classic view over the palace's golden roofs.",
-      "hours": "6:00 AM–9:00 PM Apr–Oct, 6:30 AM–8:00 PM Nov–Mar",
-      "rating": 4.5
+      "hours": "6:00 AM–9:00 PM Apr–Oct, 6:30 AM–8:00 PM Nov–Mar"
     },
     {
       "name": "Lama Temple (Yonghegong)",
@@ -992,7 +948,6 @@
       "lng": 116.4111,
       "note": "Beijing's largest Tibetan Buddhist temple, a former prince's palace thick with incense, ending at an 18 m Maitreya Buddha carved from a single sandalwood trunk.",
       "hours": "9:00 AM–4:30 PM Apr–Oct, 9:00 AM–4:00 PM Nov–Mar",
-      "rating": 4.5,
       "bookAhead": true
     },
     {
@@ -1000,8 +955,7 @@
       "lat": 39.9842,
       "lng": 116.495,
       "note": "Bauhaus-style 1950s factory halls in Dashanzi turned into galleries, studios, cafés and street art; most galleries are free.",
-      "hours": "Area open daily; most galleries ~10:00 AM–6:00 PM, many closed Mon",
-      "rating": 4.3
+      "hours": "Area open daily; most galleries ~10:00 AM–6:00 PM, many closed Mon"
     },
     {
       "name": "Tiananmen Square",
@@ -1009,7 +963,6 @@
       "lng": 116.3914,
       "note": "The huge ceremonial square in front of Tiananmen Gate, with the Monument to the People's Heroes and Mao's Mausoleum; entry is free but needs a real-name booking with your passport and a security check.",
       "hours": "Daily from the dawn flag-raising to ~10:00 PM; book a free entry slot in advance",
-      "rating": 4,
       "bookAhead": true
     },
     {
@@ -1017,8 +970,7 @@
       "lat": 39.9244,
       "lng": 116.3831,
       "note": "A former imperial garden around a lake, crowned by the White Dagoba on Jade Flower Island; rent a pedal boat in summer.",
-      "hours": "6:30 AM–9:00 PM Apr–Oct, 6:30 AM–8:00 PM Nov–Mar",
-      "rating": 4.5
+      "hours": "6:30 AM–9:00 PM Apr–Oct, 6:30 AM–8:00 PM Nov–Mar"
     },
     {
       "name": "National Museum of China",
@@ -1026,7 +978,6 @@
       "lng": 116.3955,
       "note": "One of the world's largest museums, on the east side of Tiananmen Square, covering Chinese history from Neolithic jades to bronzes and porcelain; free with a passport booking.",
       "hours": "9:00 AM–5:00 PM, closed Mon",
-      "rating": 4.2,
       "ticketUrl": "https://en.chnmuseum.cn",
       "bookAhead": true
     },
@@ -1035,56 +986,49 @@
       "lat": 39.9917,
       "lng": 116.3906,
       "note": "The 2008 Olympic Green with the steel-lattice Bird's Nest stadium and the Water Cube; best seen lit up at night.",
-      "hours": "Park open 24 hours; stadium tours ~9:00 AM–6:00 PM",
-      "rating": 4.1
+      "hours": "Park open 24 hours; stadium tours ~9:00 AM–6:00 PM"
     },
     {
       "name": "Panjiayuan Antique Market",
       "lat": 39.872,
       "lng": 116.452,
       "note": "A sprawling flea market of curios, jade, calligraphy, Mao memorabilia and porcelain (mostly reproductions); haggling expected.",
-      "hours": "Mon–Fri 8:30 AM–6:00 PM, Sat–Sun 6:00 AM–6:00 PM (weekend mornings busiest)",
-      "rating": 4.1
+      "hours": "Mon–Fri 8:30 AM–6:00 PM, Sat–Sun 6:00 AM–6:00 PM (weekend mornings busiest)"
     },
     {
       "name": "Chaoyang Theatre (acrobatics)",
       "lat": 39.9226,
       "lng": 116.456,
       "note": "Long-running Chinese acrobatics show of plate spinning, contortion and the motorbike globe, a short walk from Hujialou station.",
-      "hours": "Nightly shows, usually ~5:30 PM and ~7:15 PM",
-      "rating": 4.5
+      "hours": "Nightly shows, usually ~5:30 PM and ~7:15 PM"
     },
     {
       "name": "Bell and Drum Towers",
       "lat": 39.9404,
       "lng": 116.3882,
       "note": "A pair of Ming-era towers that once kept the city's time; climb the steep stairs of the Drum Tower for a drumming show and views over the hutongs.",
-      "hours": "~9:30 AM–5:00 PM, last entry ~4:30 PM",
-      "rating": 4
+      "hours": "~9:30 AM–5:00 PM, last entry ~4:30 PM"
     },
     {
       "name": "Houhai (Back Lakes)",
       "lat": 39.938,
       "lng": 116.3871,
       "note": "Three linked lakes ringed by willows, courtyard bars and hutong lanes; walk or cycle the shore by day and see the lakeside bars light up at night.",
-      "hours": "Open 24 hours; bars busiest after 8:00 PM",
-      "rating": 4.3
+      "hours": "Open 24 hours; bars busiest after 8:00 PM"
     },
     {
       "name": "Dashilan",
       "lat": 39.8962,
       "lng": 116.3905,
       "note": "A centuries-old commercial lane just west of Qianmen Street, home to old-name shops for silk, tea, cloth shoes and Chinese medicine, with hutongs branching off.",
-      "hours": "Open 24 hours; shops ~9:00 AM–9:00 PM",
-      "rating": 4.2
+      "hours": "Open 24 hours; shops ~9:00 AM–9:00 PM"
     },
     {
       "name": "Gui Jie (Ghost Street)",
       "lat": 39.9405,
       "lng": 116.4195,
       "note": "A 1.4 km strip of red-lantern restaurants on Dongzhimennei Dajie, famous for spicy crayfish and hotpot late into the night.",
-      "hours": "Restaurants ~11:00 AM to late, many until 2:00 AM or later",
-      "rating": 3.8
+      "hours": "Restaurants ~11:00 AM to late, many until 2:00 AM or later"
     }
   ],
   "railStations": [

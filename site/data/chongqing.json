@@ -476,8 +476,6 @@
       "lat": 29.6094,
       "lng": 106.5446,
       "area": "Chongqing North Railway Station",
-      "rating": 4.5,
-      "ratingCount": 1786,
       "stars": 3,
       "priceTier": 2,
       "ratingSource": "Trip.com",
@@ -488,8 +486,6 @@
       "lat": 29.5107,
       "lng": 106.4332,
       "area": "Chongqing West Railway Station",
-      "rating": 4.9,
-      "ratingCount": 2229,
       "stars": 4,
       "priceTier": 3,
       "ratingSource": "Trip.com",
@@ -501,8 +497,6 @@
       "lat": 29.5585,
       "lng": 106.4561,
       "area": "Shapingba Railway Station",
-      "rating": 4.7,
-      "ratingCount": 4922,
       "stars": 4,
       "priceTier": 2,
       "ratingSource": "Trip.com",
@@ -513,8 +507,6 @@
       "lat": 29.5584,
       "lng": 106.5708,
       "area": "Jiefangbei",
-      "rating": 4.8,
-      "ratingCount": 1467,
       "stars": 5,
       "priceTier": 4,
       "brandAnchor": true,
@@ -526,8 +518,6 @@
       "lat": 29.5584,
       "lng": 106.5708,
       "area": "Jiefangbei",
-      "rating": 4.7,
-      "ratingCount": 4258,
       "stars": 4,
       "priceTier": 3,
       "brandAnchor": true,
@@ -539,8 +529,6 @@
       "lat": 29.5591,
       "lng": 106.57,
       "area": "Jiefangbei",
-      "rating": 4.7,
-      "ratingCount": 5051,
       "stars": 5,
       "priceTier": 3,
       "ratingSource": "Trip.com",
@@ -551,8 +539,6 @@
       "lat": 29.5525,
       "lng": 106.5723,
       "area": "Jiefangbei",
-      "rating": 4.8,
-      "ratingCount": 2328,
       "stars": 4,
       "priceTier": 3,
       "ratingSource": "Trip.com",
@@ -563,8 +549,6 @@
       "lat": 29.5611,
       "lng": 106.573,
       "area": "Jiefangbei",
-      "rating": 4.8,
-      "ratingCount": 1548,
       "stars": 2,
       "priceTier": 2,
       "ratingSource": "Trip.com",
@@ -575,8 +559,6 @@
       "lat": 29.5598,
       "lng": 106.5764,
       "area": "Hongyadong & Chaotianmen",
-      "rating": 4.8,
-      "ratingCount": 4651,
       "stars": 5,
       "priceTier": 4,
       "brandAnchor": true,
@@ -588,8 +570,6 @@
       "lat": 29.5637,
       "lng": 106.5808,
       "area": "Hongyadong & Chaotianmen",
-      "rating": 4.8,
-      "ratingCount": 6530,
       "stars": 4,
       "priceTier": 3,
       "ratingSource": "Trip.com",
@@ -600,8 +580,6 @@
       "lat": 29.5601,
       "lng": 106.5784,
       "area": "Hongyadong & Chaotianmen",
-      "rating": 4.8,
-      "ratingCount": 6202,
       "stars": 4,
       "priceTier": 3,
       "ratingSource": "Trip.com",
@@ -612,8 +590,6 @@
       "lat": 29.5679,
       "lng": 106.5839,
       "area": "Hongyadong & Chaotianmen",
-      "rating": 4.8,
-      "ratingCount": 3986,
       "stars": 5,
       "priceTier": 4,
       "ratingSource": "Trip.com",
@@ -624,8 +600,6 @@
       "lat": 29.5641,
       "lng": 106.5784,
       "area": "Hongyadong & Chaotianmen",
-      "rating": 4.9,
-      "ratingCount": 3178,
       "stars": 2,
       "priceTier": 1,
       "ratingSource": "Trip.com",
@@ -638,40 +612,35 @@
       "lat": 29.5637,
       "lng": 106.5778,
       "note": "An eleven-storey stack of stilt-house-style halls clinging to the cliff above the Jialing River, packed with snack stalls and shops; come after dark, when the whole facade is lit up gold.",
-      "hours": "Open all day; shops ~11:00 AM–11:00 PM; lights on from dusk to ~11:00 PM; free",
-      "rating": 4.1
+      "hours": "Open all day; shops ~11:00 AM–11:00 PM; lights on from dusk to ~11:00 PM; free"
     },
     {
       "name": "Jiefangbei (Liberation Monument) Square",
       "lat": 29.559,
       "lng": 106.5736,
       "note": "The clock-tower monument at the heart of Chongqing's downtown peninsula, ringed by pedestrian shopping streets and skyscrapers; the natural starting point for exploring Yuzhong on foot.",
-      "hours": "Open 24 hours; free",
-      "rating": 4
+      "hours": "Open 24 hours; free"
     },
     {
       "name": "Ciqikou Ancient Town",
       "lat": 29.5793,
       "lng": 106.45,
       "note": "A former porcelain-trading port on the Jialing River whose stone-paved lanes are lined with old wooden houses, teahouses and snack sellers; very crowded on weekends, quieter early in the morning.",
-      "hours": "Lanes open 24 hours; shops ~9:00 AM–9:00 PM; free",
-      "rating": 3.9
+      "hours": "Lanes open 24 hours; shops ~9:00 AM–9:00 PM; free"
     },
     {
       "name": "Yangtze River Cableway",
       "lat": 29.5622,
       "lng": 106.5807,
       "note": "A 1980s commuter cable car that swings across the Yangtze from Xinhua Road to the south bank, giving the classic view of the river and the downtown towers; buy one way and return by metro.",
-      "hours": "8:00 AM–10:00 PM (Dec–Feb to 9:00 PM); one-way ¥30, return ¥50; take a queue number on arrival, waits of an hour or more at weekends",
-      "rating": 4
+      "hours": "8:00 AM–10:00 PM (Dec–Feb to 9:00 PM); one-way ¥30, return ¥50; take a queue number on arrival, waits of an hour or more at weekends"
     },
     {
       "name": "Chongqing Zoo",
       "lat": 29.504,
       "lng": 106.5065,
       "note": "A large, leafy city zoo best known for its giant and red pandas; the panda house is near the main gate, a short walk from the metro.",
-      "hours": "8:00 AM–5:30 PM daily (last entry ~4:30 PM); ¥25",
-      "rating": 3.9
+      "hours": "8:00 AM–5:30 PM daily (last entry ~4:30 PM); ¥25"
     },
     {
       "name": "Three Gorges Museum",
@@ -679,7 +648,6 @@
       "lng": 106.5508,
       "note": "Chongqing's main museum, facing People's Square, telling the story of the Three Gorges, the Ba people and wartime Chongqing, with a panoramic painting of the gorges before the dam.",
       "hours": "9:00 AM–5:00 PM, closed Mondays; free with a real-name reservation (bring your passport)",
-      "rating": 4.2,
       "bookAhead": true
     },
     {
@@ -687,72 +655,63 @@
       "lat": 29.563,
       "lng": 106.5475,
       "note": "A 1950s auditorium modelled on Beijing's Temple of Heaven, its green-tiled domes rising above a broad square where locals dance in the evenings; directly opposite the Three Gorges Museum.",
-      "hours": "Square open all day; hall ~9:00 AM–5:00 PM when no event is on, small fee",
-      "rating": 3.9
+      "hours": "Square open all day; hall ~9:00 AM–5:00 PM when no event is on, small fee"
     },
     {
       "name": "Luohan Temple",
       "lat": 29.5627,
       "lng": 106.5817,
       "note": "A small, incense-filled Buddhist temple hidden among downtown towers, famous for its hall of 500 painted clay arhat statues.",
-      "hours": "~8:00 AM–5:00 PM daily; ¥10",
-      "rating": 4
+      "hours": "~8:00 AM–5:00 PM daily; ¥10"
     },
     {
       "name": "Chaotianmen Square",
       "lat": 29.568,
       "lng": 106.5885,
       "note": "A plaza at the tip of the Yuzhong peninsula where the muddy Jialing meets the Yangtze, watched over by the sail-like Raffles City towers and their skybridge.",
-      "hours": "Open 24 hours; free",
-      "rating": 4.2
+      "hours": "Open 24 hours; free"
     },
     {
       "name": "Eling Park",
       "lat": 29.5525,
       "lng": 106.533,
       "note": "A hilltop park on the narrow ridge of the peninsula with gardens, a former mansion and the Liangjiang Pavilion, whose top floor looks over both rivers at once.",
-      "hours": "~6:00 AM–10:00 PM daily; park free, pavilion small fee",
-      "rating": 4.3
+      "hours": "~6:00 AM–10:00 PM daily; park free, pavilion small fee"
     },
     {
       "name": "Liziba Station",
       "lat": 29.5508,
       "lng": 106.5353,
       "note": "The famous stop where Line 2 monorail trains glide straight through a residential tower; watch from the free viewing platform beside the road below the station.",
-      "hours": "Viewing area open all day; trains ~6:30 AM–~11:00 PM",
-      "rating": 3.8
+      "hours": "Viewing area open all day; trains ~6:30 AM–~11:00 PM"
     },
     {
       "name": "Guanyinqiao Pedestrian Street",
       "lat": 29.5765,
       "lng": 106.533,
       "note": "Jiangbei's lively shopping hub north of the Jialing River, a big pedestrian plaza of malls, food courts and the Jiu Jie bar street.",
-      "hours": "Open 24 hours; shops ~10:00 AM–10:00 PM",
-      "rating": 4.1
+      "hours": "Open 24 hours; shops ~10:00 AM–10:00 PM"
     },
     {
       "name": "Testbed 2 (Eling Two Factory)",
       "lat": 29.5545,
       "lng": 106.5375,
       "note": "A wartime banknote-printing factory turned into a creative park of cafés, galleries and rooftop terraces with views over the Yangtze.",
-      "hours": "~10:00 AM–10:00 PM; some exhibitions ticketed",
-      "rating": 4.4
+      "hours": "~10:00 AM–10:00 PM; some exhibitions ticketed"
     },
     {
       "name": "Kuixing Tower",
       "lat": 29.5622,
       "lng": 106.5713,
       "note": "A high-rise whose 22nd-floor terrace opens straight onto a street at ground level, a neat illustration of the city's vertical layout.",
-      "hours": "Plaza open all day; free",
-      "rating": 3.9
+      "hours": "Plaza open all day; free"
     },
     {
       "name": "Stilwell Museum",
       "lat": 29.554,
       "lng": 106.5395,
       "note": "The hillside villa where US General Joseph Stilwell lived while commanding the China-Burma-India theatre in World War II, now a small museum on the wartime alliance.",
-      "hours": "9:00 AM–5:00 PM, closed Mondays; free",
-      "rating": 3.9
+      "hours": "9:00 AM–5:00 PM, closed Mondays; free"
     },
     {
       "name": "Shibati Traditional Neighbourhood",

@@ -40,19 +40,19 @@
     }
   ],
   "hotels": [
-    {"name":"JW Marriott Hotel Macau","lat":22.1467,"lng":113.5555,"area":"Cotai","rating":4.7,"ratingCount":2672,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"The Venetian Macao","lat":22.1482,"lng":113.5609,"area":"Cotai","rating":4.7,"ratingCount":21423,"stars":5,"priceTier":3},
-    {"name":"The Parisian Macao","lat":22.1437,"lng":113.5607,"area":"Cotai","rating":4.8,"ratingCount":9803,"stars":5,"priceTier":3},
-    {"name":"The Ritz-Carlton, Macau","lat":22.1464,"lng":113.5544,"area":"Cotai","rating":5,"ratingCount":2213,"stars":5,"priceTier":4},
-    {"name":"Broadway Hotel","lat":22.1455,"lng":113.5517,"area":"Cotai","rating":4.5,"ratingCount":850,"stars":4,"priceTier":2},
-    {"name":"Sofitel Macau At Ponte 16","lat":22.1976,"lng":113.5361,"area":"Historic Centre","rating":4.6,"ratingCount":7136,"stars":5,"priceTier":3,"brandAnchor":true},
-    {"name":"Grand Lisboa Hotel","lat":22.191,"lng":113.5434,"area":"Historic Centre","rating":4.8,"ratingCount":1632,"stars":5,"priceTier":4},
-    {"name":"Grand Emperor Hotel","lat":22.1906,"lng":113.5409,"area":"Historic Centre","rating":4.4,"ratingCount":983,"stars":5,"priceTier":3},
-    {"name":"Hotel Lisboa","lat":22.1898,"lng":113.5441,"area":"Historic Centre","rating":4.2,"ratingCount":1309,"stars":4,"priceTier":3},
-    {"name":"Hotel Sintra","lat":22.1911,"lng":113.5414,"area":"Historic Centre","rating":4,"ratingCount":811,"stars":4,"priceTier":2},
-    {"name":"Galaxy Hotel","lat":22.1504,"lng":113.5536,"area":"Taipa Village","rating":4.7,"ratingCount":4934,"stars":5,"priceTier":3},
-    {"name":"Hotel Okura Macau","lat":22.1493,"lng":113.5523,"area":"Taipa Village","rating":4.7,"ratingCount":2819,"stars":5,"priceTier":3},
-    {"name":"Banyan Tree Macau","lat":22.1484,"lng":113.5528,"area":"Taipa Village","rating":4.6,"ratingCount":1590,"stars":5,"priceTier":4}
+    {"name":"JW Marriott Hotel Macau","lat":22.1467,"lng":113.5555,"area":"Cotai","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"The Venetian Macao","lat":22.1482,"lng":113.5609,"area":"Cotai","stars":5,"priceTier":3},
+    {"name":"The Parisian Macao","lat":22.1437,"lng":113.5607,"area":"Cotai","stars":5,"priceTier":3},
+    {"name":"The Ritz-Carlton, Macau","lat":22.1464,"lng":113.5544,"area":"Cotai","stars":5,"priceTier":4},
+    {"name":"Broadway Hotel","lat":22.1455,"lng":113.5517,"area":"Cotai","stars":4,"priceTier":2},
+    {"name":"Sofitel Macau At Ponte 16","lat":22.1976,"lng":113.5361,"area":"Historic Centre","stars":5,"priceTier":3,"brandAnchor":true},
+    {"name":"Grand Lisboa Hotel","lat":22.191,"lng":113.5434,"area":"Historic Centre","stars":5,"priceTier":4},
+    {"name":"Grand Emperor Hotel","lat":22.1906,"lng":113.5409,"area":"Historic Centre","stars":5,"priceTier":3},
+    {"name":"Hotel Lisboa","lat":22.1898,"lng":113.5441,"area":"Historic Centre","stars":4,"priceTier":3},
+    {"name":"Hotel Sintra","lat":22.1911,"lng":113.5414,"area":"Historic Centre","stars":4,"priceTier":2},
+    {"name":"Galaxy Hotel","lat":22.1504,"lng":113.5536,"area":"Taipa Village","stars":5,"priceTier":3},
+    {"name":"Hotel Okura Macau","lat":22.1493,"lng":113.5523,"area":"Taipa Village","stars":5,"priceTier":3},
+    {"name":"Banyan Tree Macau","lat":22.1484,"lng":113.5528,"area":"Taipa Village","stars":5,"priceTier":4}
   ],
   "sights": [
     {
@@ -60,56 +60,49 @@
       "lat": 22.1975,
       "lng": 113.5409,
       "note": "The carved stone façade of a 17th-century Jesuit church, all that survived an 1835 fire, reached by a broad staircase from a lane of almond-cookie shops; a small crypt museum sits behind it.",
-      "hours": "Façade open 24 hours; crypt museum 9:00 AM–6:00 PM (closed Tue afternoon); free",
-      "rating": 4.1
+      "hours": "Façade open 24 hours; crypt museum 9:00 AM–6:00 PM (closed Tue afternoon); free"
     },
     {
       "name": "Largo do Senado (Senado Square)",
       "lat": 22.1935,
       "lng": 113.5393,
       "note": "The wave-patterned Portuguese cobblestone square at the heart of the UNESCO-listed historic centre, ringed by pastel colonial buildings and the start of the walk up to St. Paul's.",
-      "hours": "Open 24 hours",
-      "rating": 4
+      "hours": "Open 24 hours"
     },
     {
       "name": "Monte Fort & Macao Museum",
       "lat": 22.1972,
       "lng": 113.5426,
       "note": "A 17th-century Jesuit fortress beside the Ruins of St. Paul's with cannons and city views; the Macao Museum inside its walls tells the city's East-meets-West story.",
-      "hours": "Fort 7:00 AM–7:00 PM; museum 10:00 AM–6:00 PM, closed Mon",
-      "rating": 4.1
+      "hours": "Fort 7:00 AM–7:00 PM; museum 10:00 AM–6:00 PM, closed Mon"
     },
     {
       "name": "St. Dominic's Church",
       "lat": 22.1946,
       "lng": 113.5403,
       "note": "A yellow-and-white baroque church just off Senado Square, founded by Dominicans in 1587, with a small sacred-art museum in its bell tower.",
-      "hours": "10:00 AM–6:00 PM daily",
-      "rating": 4
+      "hours": "10:00 AM–6:00 PM daily"
     },
     {
       "name": "A-Ma Temple (Ma Kok Miu)",
       "lat": 22.1863,
       "lng": 113.5313,
       "note": "Macau's oldest temple, built into the hillside in honour of the sea goddess Mazu and believed to have given the city its name; Barra LRT station is across the square.",
-      "hours": "7:00 AM–6:00 PM daily; free",
-      "rating": 4
+      "hours": "7:00 AM–6:00 PM daily; free"
     },
     {
       "name": "Mandarin's House",
       "lat": 22.1877,
       "lng": 113.534,
       "note": "A sprawling restored courtyard mansion from the 1860s, once home of the reformist thinker Zheng Guanying, mixing Chinese and Western design.",
-      "hours": "10:00 AM–6:00 PM, closed Wed; free",
-      "rating": 4.3
+      "hours": "10:00 AM–6:00 PM, closed Wed; free"
     },
     {
       "name": "Chapel of Our Lady of Penha",
       "lat": 22.1859,
       "lng": 113.5357,
       "note": "A hilltop chapel on Penha Hill with one of the best free viewpoints over the Inner Harbour, the bridges and Taipa.",
-      "hours": "9:00 AM–5:30 PM daily",
-      "rating": 4.3
+      "hours": "9:00 AM–5:30 PM daily"
     },
     {
       "name": "Macau Tower",
@@ -117,7 +110,6 @@
       "lng": 113.5369,
       "note": "A 338 m tower with an indoor observation deck and glass floor at 223 m; thrill-seekers can do the outer SkyWalk or one of the world's highest bungy jumps.",
       "hours": "Observation deck ~10:00 AM–9:00 PM (weekends from ~9:00 AM)",
-      "rating": 4.2,
       "ticketUrl": "https://www.macautower.com.mo/"
     },
     {
@@ -125,40 +117,35 @@
       "lat": 22.1966,
       "lng": 113.5496,
       "note": "Hilltop fort with China's oldest Western-style lighthouse and a small chapel with restored frescoes; reach it on the short Guia cable car from Flora Garden.",
-      "hours": "Fort 9:00 AM–6:00 PM; chapel 10:00 AM–5:30 PM; free",
-      "rating": 4.2
+      "hours": "Fort 9:00 AM–6:00 PM; chapel 10:00 AM–5:30 PM; free"
     },
     {
       "name": "Lou Lim Ieoc Garden",
       "lat": 22.2004,
       "lng": 113.547,
       "note": "A tranquil Suzhou-style garden of rockeries, lotus ponds and zigzag bridges built by a wealthy merchant family, popular with locals for morning tai chi.",
-      "hours": "6:00 AM–9:00 PM daily; free",
-      "rating": 4.3
+      "hours": "6:00 AM–9:00 PM daily; free"
     },
     {
       "name": "Macau Grand Prix Museum",
       "lat": 22.1967,
       "lng": 113.5578,
       "note": "Racing cars, motorcycles and simulators celebrating the street circuit that has hosted the Macau Grand Prix since 1954.",
-      "hours": "10:00 AM–6:00 PM, closed Tue",
-      "rating": 4
+      "hours": "10:00 AM–6:00 PM, closed Tue"
     },
     {
       "name": "Taipa Village",
       "lat": 22.1563,
       "lng": 113.5573,
       "note": "Old Taipa's narrow lanes of colonial houses, temples and snack shops, centred on Rua do Cunha for pork-chop buns, egg tarts and almond cookies.",
-      "hours": "Lanes open 24 hours; shops ~10:00 AM–10:00 PM",
-      "rating": 4.1
+      "hours": "Lanes open 24 hours; shops ~10:00 AM–10:00 PM"
     },
     {
       "name": "The Venetian Macao",
       "lat": 22.1477,
       "lng": 113.5602,
       "note": "The giant Cotai resort with indoor canals, gondola rides under a painted sky and a vast shopping arcade beside one of the world's biggest casino floors (casino 21+).",
-      "hours": "Resort open 24 hours; shops ~10:00 AM–11:00 PM",
-      "rating": 4.2
+      "hours": "Resort open 24 hours; shops ~10:00 AM–11:00 PM"
     },
     {
       "name": "Eiffel Tower at The Parisian Macao",
@@ -166,7 +153,6 @@
       "lng": 113.5626,
       "note": "A half-scale Eiffel Tower replica at The Parisian resort with an observation deck on the 37th level overlooking the Cotai Strip; lit up nightly.",
       "hours": "Observation deck ~11:00 AM–10:00 PM",
-      "rating": 4.1,
       "ticketUrl": "https://www.parisianmacao.com/"
     },
     {
@@ -174,24 +160,21 @@
       "lat": 22.1458,
       "lng": 113.5722,
       "note": "A free fountain show set to music on the lake in front of Wynn Palace, best seen from the free SkyCab gondolas that glide around it.",
-      "hours": "Shows every ~20 min, ~noon–midnight; SkyCab ~11:00 AM–midnight",
-      "rating": 4.3
+      "hours": "Shows every ~20 min, ~noon–midnight; SkyCab ~11:00 AM–midnight"
     },
     {
       "name": "Macau Giant Panda Pavilion",
       "lat": 22.1197,
       "lng": 113.553,
       "note": "A hillside enclosure in Seac Pai Van Park on Coloane where giant pandas, including Macau-born twins, can be watched indoors and out; pandas are most active in the morning.",
-      "hours": "10:00 AM–1:00 PM and 2:00–5:00 PM, closed Mon",
-      "rating": 4.2
+      "hours": "10:00 AM–1:00 PM and 2:00–5:00 PM, closed Mon"
     },
     {
       "name": "Coloane Village",
       "lat": 22.1166,
       "lng": 113.5511,
       "note": "A sleepy former fishing village with the cream-and-white Chapel of St. Francis Xavier, seafront cafés and the original Lord Stow's egg-tart bakery.",
-      "hours": "Open 24 hours; shops ~10:00 AM–7:00 PM",
-      "rating": 4.2
+      "hours": "Open 24 hours; shops ~10:00 AM–7:00 PM"
     }
   ],
   "railStations": [],

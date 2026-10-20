@@ -625,23 +625,21 @@
     }
   ],
   "hotels": [
-    {"name":"Chengdu Airport Hotel","lat":30.5778,"lng":103.958,"area":"Chengdu Shuangliu International Airport","rating":4,"ratingCount":166,"stars":4,"priceTier":2},
-    {"name":"Grand Hyatt Chengdu","lat":30.6562,"lng":104.0741,"area":"Chunxi Road","rating":4.8,"ratingCount":1191,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Crowne Plaza Chengdu City Center","lat":30.6621,"lng":104.0752,"area":"Chunxi Road","rating":4.8,"ratingCount":4546,"stars":5,"priceTier":3},
-    {"name":"Upper House Chengdu (The Temple House)","lat":30.654,"lng":104.0819,"area":"Chunxi Road","rating":5,"ratingCount":3932,"stars":5,"priceTier":4},
-    {"name":"Rhombus Park Aura Chengdu Hotel","lat":30.6526,"lng":104.0796,"area":"Chunxi Road","rating":4.9,"ratingCount":1531,"stars":5,"priceTier":3},
-    {"name":"Xin Liang Hotel","lat":30.6564,"lng":104.0718,"area":"Chunxi Road","rating":4.6,"ratingCount":556,"stars":4,"priceTier":3},
-    {"name":"JW Marriott Hotel Chengdu","lat":30.6593,"lng":104.0675,"area":"Tianfu Square","rating":4.9,"ratingCount":3147,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Canopy by Hilton Chengdu City Centre","lat":30.6583,"lng":104.0622,"area":"Tianfu Square","rating":4.9,"ratingCount":645,"stars":5,"priceTier":3},
-    {"name":"Celebrity City Hotel","lat":30.6565,"lng":104.063,"area":"Tianfu Square","rating":4.2,"ratingCount":330,"stars":4,"priceTier":2},
-    {"name":"The Loft Design Hostel","lat":30.6703,"lng":104.0511,"area":"Kuanzhai Alley","rating":4.2,"ratingCount":191,"stars":1,"priceTier":1},
+    {"name":"Chengdu Airport Hotel","lat":30.5778,"lng":103.958,"area":"Chengdu Shuangliu International Airport","stars":4,"priceTier":2},
+    {"name":"Grand Hyatt Chengdu","lat":30.6562,"lng":104.0741,"area":"Chunxi Road","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Crowne Plaza Chengdu City Center","lat":30.6621,"lng":104.0752,"area":"Chunxi Road","stars":5,"priceTier":3},
+    {"name":"Upper House Chengdu (The Temple House)","lat":30.654,"lng":104.0819,"area":"Chunxi Road","stars":5,"priceTier":4},
+    {"name":"Rhombus Park Aura Chengdu Hotel","lat":30.6526,"lng":104.0796,"area":"Chunxi Road","stars":5,"priceTier":3},
+    {"name":"Xin Liang Hotel","lat":30.6564,"lng":104.0718,"area":"Chunxi Road","stars":4,"priceTier":3},
+    {"name":"JW Marriott Hotel Chengdu","lat":30.6593,"lng":104.0675,"area":"Tianfu Square","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Canopy by Hilton Chengdu City Centre","lat":30.6583,"lng":104.0622,"area":"Tianfu Square","stars":5,"priceTier":3},
+    {"name":"Celebrity City Hotel","lat":30.6565,"lng":104.063,"area":"Tianfu Square","stars":4,"priceTier":2},
+    {"name":"The Loft Design Hostel","lat":30.6703,"lng":104.0511,"area":"Kuanzhai Alley","stars":1,"priceTier":1},
     {
       "name": "Vienna International Hotel (West square of Chengdu East Railway Station)",
       "lat": 30.6369,
       "lng": 104.137,
       "area": "Chengdu East Railway Station",
-      "rating": 4.7,
-      "ratingCount": 7088,
       "stars": 4,
       "priceTier": 2,
       "brandAnchor": true,
@@ -653,8 +651,6 @@
       "lat": 30.6321,
       "lng": 104.1422,
       "area": "Chengdu East Railway Station",
-      "rating": 4.6,
-      "ratingCount": 5029,
       "stars": 5,
       "priceTier": 3,
       "ratingSource": "Trip.com",
@@ -665,8 +661,6 @@
       "lat": 30.6338,
       "lng": 104.1425,
       "area": "Chengdu East Railway Station",
-      "rating": 4.5,
-      "ratingCount": 3301,
       "stars": 5,
       "priceTier": 3,
       "ratingSource": "Trip.com",
@@ -677,8 +671,6 @@
       "lat": 30.6966,
       "lng": 104.0719,
       "area": "Chengdu Railway Station",
-      "rating": 4.7,
-      "ratingCount": 1780,
       "stars": 3,
       "priceTier": 2,
       "brandAnchor": true,
@@ -690,8 +682,6 @@
       "lat": 30.6052,
       "lng": 104.0616,
       "area": "Chengdu South Railway Station",
-      "rating": 4.9,
-      "ratingCount": 2054,
       "stars": 4,
       "priceTier": 3,
       "brandAnchor": true,
@@ -703,8 +693,6 @@
       "lat": 30.6075,
       "lng": 104.0671,
       "area": "Chengdu South Railway Station",
-      "rating": 4.6,
-      "ratingCount": 2353,
       "stars": 4,
       "priceTier": 2,
       "ratingSource": "Trip.com",
@@ -715,8 +703,6 @@
       "lat": 30.6106,
       "lng": 104.0609,
       "area": "Chengdu South Railway Station",
-      "rating": 4.8,
-      "ratingCount": 982,
       "stars": 4,
       "priceTier": 3,
       "ratingSource": "Trip.com",
@@ -727,8 +713,6 @@
       "lat": 30.313,
       "lng": 104.4408,
       "area": "Chengdu Tianfu International Airport",
-      "rating": 4.7,
-      "ratingCount": 6370,
       "stars": 5,
       "priceTier": 3,
       "ratingSource": "Trip.com",
@@ -739,8 +723,6 @@
       "lat": 30.3128,
       "lng": 104.4416,
       "area": "Chengdu Tianfu International Airport",
-      "rating": 4.7,
-      "ratingCount": 13076,
       "stars": 5,
       "priceTier": 3,
       "ratingSource": "Trip.com",
@@ -751,8 +733,6 @@
       "lat": 30.5704,
       "lng": 103.9652,
       "area": "Chengdu Shuangliu International Airport",
-      "rating": 4.8,
-      "ratingCount": 1735,
       "stars": 4,
       "priceTier": 3,
       "brandAnchor": true,
@@ -764,8 +744,6 @@
       "lat": 30.5747,
       "lng": 103.96,
       "area": "Chengdu Shuangliu International Airport",
-      "rating": 4.6,
-      "ratingCount": 2708,
       "stars": 4,
       "priceTier": 2,
       "ratingSource": "Trip.com",
@@ -776,8 +754,6 @@
       "lat": 30.6672,
       "lng": 104.0637,
       "area": "Kuanzhai Alley",
-      "rating": 4.7,
-      "ratingCount": 4018,
       "stars": 5,
       "priceTier": 4,
       "brandAnchor": true,
@@ -789,8 +765,6 @@
       "lat": 30.6702,
       "lng": 104.0539,
       "area": "Kuanzhai Alley",
-      "rating": 4.8,
-      "ratingCount": 2491,
       "stars": 4,
       "priceTier": 3,
       "ratingSource": "Trip.com",
@@ -801,8 +775,6 @@
       "lat": 30.6741,
       "lng": 104.0568,
       "area": "Kuanzhai Alley",
-      "rating": 4.7,
-      "ratingCount": 2398,
       "stars": 4,
       "priceTier": 3,
       "ratingSource": "Trip.com",
@@ -816,7 +788,6 @@
       "lng": 104.1463,
       "note": "Wooded hillside enclosures in the north of the city where dozens of giant and red pandas live; arrive at opening, as the pandas are most active at morning feeding and nap through the afternoon heat.",
       "hours": "7:30 AM–6:00 PM (winter 8:00 AM–5:30 PM); real-name tickets, booking ahead advised",
-      "rating": 4.6,
       "ticketUrl": "https://www.panda.org.cn/",
       "bookAhead": true
     },
@@ -825,48 +796,42 @@
       "lat": 30.6745,
       "lng": 104.0725,
       "note": "Chengdu's best-preserved Buddhist temple, a working monastery of courtyards, halls and a peaceful teahouse, with a lively vegetarian restaurant.",
-      "hours": "8:00 AM–5:00 PM daily; free",
-      "rating": 4.3
+      "hours": "8:00 AM–5:00 PM daily; free"
     },
     {
       "name": "Kuanzhai Alley",
       "lat": 30.6695,
       "lng": 104.054,
       "note": "Three restored Qing-era lanes of grey-brick courtyard houses turned into teahouses, snack stalls and bars; busy by day, atmospheric when lit at night.",
-      "hours": "Lanes open 24 hours; shops ~9:00 AM–10:00 PM",
-      "rating": 4.1
+      "hours": "Lanes open 24 hours; shops ~9:00 AM–10:00 PM"
     },
     {
       "name": "People's Park (Renmin Park)",
       "lat": 30.658,
       "lng": 104.056,
       "note": "A central park where locals sip tea at the open-air Heming Teahouse, dance, sing and run a famous weekend marriage market; try an ear-cleaning while you wait for your tea.",
-      "hours": "~6:00 AM–10:00 PM daily; free",
-      "rating": 4.2
+      "hours": "~6:00 AM–10:00 PM daily; free"
     },
     {
       "name": "Wuhou Shrine",
       "lat": 30.6458,
       "lng": 104.0466,
       "note": "A temple complex honouring the Three Kingdoms strategist Zhuge Liang and his emperor Liu Bei, with statues of heroes from the period in red-walled halls.",
-      "hours": "~8:00 AM–6:00 PM daily",
-      "rating": 4.1
+      "hours": "~8:00 AM–6:00 PM daily"
     },
     {
       "name": "Jinli Pedestrian Street",
       "lat": 30.6449,
       "lng": 104.049,
       "note": "A recreated old-town street next to Wuhou Shrine packed with Sichuan snacks, crafts and lanterns; crowded but fun after dark.",
-      "hours": "Open 24 hours; shops ~9:00 AM–10:30 PM",
-      "rating": 4.1
+      "hours": "Open 24 hours; shops ~9:00 AM–10:30 PM"
     },
     {
       "name": "Du Fu Thatched Cottage",
       "lat": 30.6603,
       "lng": 104.0284,
       "note": "A landscaped park of bamboo, ponds and pavilions built where the Tang poet Du Fu lived in exile, with a reconstruction of his cottage.",
-      "hours": "8:00 AM–6:00 PM (winter to 5:30 PM)",
-      "rating": 4.2
+      "hours": "8:00 AM–6:00 PM (winter to 5:30 PM)"
     },
     {
       "name": "Sichuan Museum",
@@ -874,7 +839,6 @@
       "lng": 104.031,
       "note": "The province's main museum near Du Fu's Cottage, strong on Han-dynasty tomb figures, bronzes, Buddhist sculpture and Tibetan art.",
       "hours": "9:00 AM–5:00 PM, closed Mon; free with a real-name reservation",
-      "rating": 4.2,
       "bookAhead": true
     },
     {
@@ -882,8 +846,7 @@
       "lat": 30.6633,
       "lng": 104.0388,
       "note": "One of China's oldest Taoist temples, with the Eight Trigrams Pavilion and a pair of bronze goats said to cure ailments if you rub them.",
-      "hours": "~8:00 AM–6:00 PM daily",
-      "rating": 4.1
+      "hours": "~8:00 AM–6:00 PM daily"
     },
     {
       "name": "Chengdu Museum",
@@ -891,7 +854,6 @@
       "lng": 104.0614,
       "note": "A large modern museum on the west side of Tianfu Square covering the city's history, with a standout gallery of Chinese shadow puppets.",
       "hours": "9:00 AM–5:00 PM, closed Mon; free with a real-name reservation",
-      "rating": 4.5,
       "bookAhead": true
     },
     {
@@ -899,48 +861,42 @@
       "lat": 30.682,
       "lng": 104.0118,
       "note": "The excavated 3,000-year-old Shu kingdom site, displayed in a vast hall over the dig, plus a gallery whose gold Sun Bird disc became Chengdu's emblem.",
-      "hours": "~8:00 AM–6:00 PM daily",
-      "rating": 4.3
+      "hours": "~8:00 AM–6:00 PM daily"
     },
     {
       "name": "Anshun Bridge",
       "lat": 30.6468,
       "lng": 104.0855,
       "note": "A covered bridge-pavilion over the Jin River in the Dongmen area, most photogenic at night when it and the riverbanks are lit up.",
-      "hours": "Open 24 hours; lights on after dusk",
-      "rating": 4.5
+      "hours": "Open 24 hours; lights on after dusk"
     },
     {
       "name": "Daci Temple",
       "lat": 30.6556,
       "lng": 104.0848,
       "note": "A small, calm Buddhist temple founded in the Tang dynasty, now an oasis in the middle of the Taikoo Li shopping district off Chunxi Road.",
-      "hours": "~8:00 AM–5:00 PM daily",
-      "rating": 4.1
+      "hours": "~8:00 AM–5:00 PM daily"
     },
     {
       "name": "Wangjianglou Park",
       "lat": 30.631,
       "lng": 104.0906,
       "note": "A riverside park beside Sichuan University with more than 150 varieties of bamboo and a Qing-dynasty tower honouring the Tang poet Xue Tao.",
-      "hours": "~6:00 AM–9:00 PM daily",
-      "rating": 4.3
+      "hours": "~6:00 AM–9:00 PM daily"
     },
     {
       "name": "Chengdu Eastern Memory",
       "lat": 30.6718,
       "lng": 104.1225,
       "note": "A former electronics factory complex turned into a creative park of brick buildings, murals, galleries and cafés, popular for photos.",
-      "hours": "Grounds open 24 hours; venues ~10:00 AM–10:00 PM",
-      "rating": 4.2
+      "hours": "Grounds open 24 hours; venues ~10:00 AM–10:00 PM"
     },
     {
       "name": "Mount Qingcheng",
       "lat": 30.9007,
       "lng": 103.571,
       "note": "A forested Taoist mountain about 65 km northwest of the city with temples along stone stairways; a day trip by high-speed train from Chengdu Railway Station to Qingchengshan (~1 h), combinable with the Dujiangyan irrigation works.",
-      "hours": "~8:00 AM–6:00 PM daily",
-      "rating": 4.4
+      "hours": "~8:00 AM–6:00 PM daily"
     }
   ],
   "railStations": [

@@ -133,44 +133,24 @@
     }
   ],
   "hotels": [
-    {"name":"Fairmont Vancouver Airport","lat":49.1947,"lng":-123.176,"area":"Vancouver International Airport","rating":4.6,"ratingCount":5101,"stars":4,"priceTier":4,"brandAnchor":true},
-    {
-      "name": "The Westin Wall Centre, Vancouver Airport",
-      "lat": 49.1908,
-      "lng": -123.1333,
-      "area": "Vancouver International Airport",
-      "rating": 4.3,
-      "ratingCount": 1244,
-      "stars": 4,
-      "priceTier": 3,
-      "brandAnchor": true
-    },
-    {
-      "name": "Holiday Inn Express Vancouver Airport - Richmond",
-      "lat": 49.1925,
-      "lng": -123.1198,
-      "area": "Vancouver International Airport",
-      "rating": 4.3,
-      "ratingCount": 1076,
-      "stars": 3,
-      "priceTier": 2,
-      "brandAnchor": true
-    },
-    {"name":"Fairmont Waterfront","lat":49.2873,"lng":-123.1136,"area":"Gastown & Waterfront","rating":4.5,"ratingCount":4808,"stars":4,"priceTier":4,"brandAnchor":true},
-    {"name":"Delta Hotels Vancouver Downtown Suites","lat":49.2841,"lng":-123.1127,"area":"Gastown & Waterfront","rating":4.4,"ratingCount":1909,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Exchange Hotel Vancouver","lat":49.2856,"lng":-123.1157,"area":"Gastown & Waterfront","rating":4.7,"ratingCount":2968,"stars":4,"priceTier":4},
-    {"name":"Skwachàys Lodge","lat":49.281,"lng":-123.1061,"area":"Gastown & Waterfront","rating":4.5,"ratingCount":574,"stars":3,"priceTier":3},
-    {"name":"Victorian Hotel","lat":49.2824,"lng":-123.1121,"area":"Gastown & Waterfront","rating":4.3,"ratingCount":1558,"stars":2,"priceTier":2},
-    {"name":"Hyatt Regency Vancouver","lat":49.2852,"lng":-123.1206,"area":"Downtown","rating":4.4,"ratingCount":6888,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Fairmont Hotel Vancouver","lat":49.2838,"lng":-123.1211,"area":"Downtown","rating":4.2,"ratingCount":5247,"stars":4,"priceTier":4},
-    {"name":"Wedgewood Hotel & Spa","lat":49.2824,"lng":-123.1228,"area":"Downtown","rating":4.8,"ratingCount":4126,"stars":5,"priceTier":4},
-    {"name":"Executive Hotel Le Soleil","lat":49.2853,"lng":-123.1183,"area":"Downtown","rating":4.6,"ratingCount":3523,"stars":4,"priceTier":3},
-    {"name":"Blue Horizon Hotel","lat":49.2865,"lng":-123.1273,"area":"Downtown","rating":4.5,"ratingCount":3974,"stars":3,"priceTier":3},
-    {"name":"OPUS Vancouver","lat":49.2746,"lng":-123.1225,"area":"Yaletown","rating":4.7,"ratingCount":4321,"stars":4,"priceTier":4},
-    {"name":"Best Western Premier Chateau Granville Hotel & Suites","lat":49.2777,"lng":-123.1247,"area":"Yaletown","rating":4.2,"ratingCount":2227,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"Residence Inn by Marriott Vancouver Downtown","lat":49.2778,"lng":-123.1285,"area":"Yaletown","rating":4.5,"ratingCount":1624,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"Hampton Inn and Suites by Hilton, Downtown Vancouver","lat":49.2779,"lng":-123.114,"area":"Yaletown","rating":4.5,"ratingCount":2596,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"Hotel Willo","lat":49.2784,"lng":-123.1131,"area":"Yaletown","rating":4.6,"ratingCount":3658,"stars":2,"priceTier":2}
+    {"name":"Fairmont Vancouver Airport","lat":49.1947,"lng":-123.176,"area":"Vancouver International Airport","stars":4,"priceTier":4,"brandAnchor":true},
+    {"name":"The Westin Wall Centre, Vancouver Airport","lat":49.1908,"lng":-123.1333,"area":"Vancouver International Airport","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Holiday Inn Express Vancouver Airport - Richmond","lat":49.1925,"lng":-123.1198,"area":"Vancouver International Airport","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Fairmont Waterfront","lat":49.2873,"lng":-123.1136,"area":"Gastown & Waterfront","stars":4,"priceTier":4,"brandAnchor":true},
+    {"name":"Delta Hotels Vancouver Downtown Suites","lat":49.2841,"lng":-123.1127,"area":"Gastown & Waterfront","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Exchange Hotel Vancouver","lat":49.2856,"lng":-123.1157,"area":"Gastown & Waterfront","stars":4,"priceTier":4},
+    {"name":"Skwachàys Lodge","lat":49.281,"lng":-123.1061,"area":"Gastown & Waterfront","stars":3,"priceTier":3},
+    {"name":"Victorian Hotel","lat":49.2824,"lng":-123.1121,"area":"Gastown & Waterfront","stars":2,"priceTier":2},
+    {"name":"Hyatt Regency Vancouver","lat":49.2852,"lng":-123.1206,"area":"Downtown","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Fairmont Hotel Vancouver","lat":49.2838,"lng":-123.1211,"area":"Downtown","stars":4,"priceTier":4},
+    {"name":"Wedgewood Hotel & Spa","lat":49.2824,"lng":-123.1228,"area":"Downtown","stars":5,"priceTier":4},
+    {"name":"Executive Hotel Le Soleil","lat":49.2853,"lng":-123.1183,"area":"Downtown","stars":4,"priceTier":3},
+    {"name":"Blue Horizon Hotel","lat":49.2865,"lng":-123.1273,"area":"Downtown","stars":3,"priceTier":3},
+    {"name":"OPUS Vancouver","lat":49.2746,"lng":-123.1225,"area":"Yaletown","stars":4,"priceTier":4},
+    {"name":"Best Western Premier Chateau Granville Hotel & Suites","lat":49.2777,"lng":-123.1247,"area":"Yaletown","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Residence Inn by Marriott Vancouver Downtown","lat":49.2778,"lng":-123.1285,"area":"Yaletown","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Hampton Inn and Suites by Hilton, Downtown Vancouver","lat":49.2779,"lng":-123.114,"area":"Yaletown","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Hotel Willo","lat":49.2784,"lng":-123.1131,"area":"Yaletown","stars":2,"priceTier":2}
   ],
   "sights": [
     {
@@ -178,8 +158,7 @@
       "lat": 49.3017,
       "lng": -123.1417,
       "note": "A 400-hectare rainforest peninsula beside downtown, ringed by the seawall and dotted with beaches, lagoons and old-growth cedars.",
-      "hours": "Open 24 hours; best by daylight",
-      "rating": 4.7
+      "hours": "Open 24 hours; best by daylight"
     },
     {
       "name": "Granville Island Public Market",
@@ -187,7 +166,6 @@
       "lng": -123.135,
       "note": "The covered food hall at the heart of Granville Island's artist studios and docks, reached by tiny Aquabus ferries from downtown.",
       "hours": "Daily 9:00 AM–6:00 PM",
-      "rating": 4.5,
       "ticketUrl": "https://granvilleisland.com"
     },
     {
@@ -196,7 +174,6 @@
       "lng": -123.1309,
       "note": "Canada's largest aquarium, inside Stanley Park, with sea otters, Pacific coast habitats and a rescued-marine-mammal focus.",
       "hours": "Daily ~9:30 AM–5:00 PM (later in summer)",
-      "rating": 4.4,
       "ticketUrl": "https://www.vanaqua.org"
     },
     {
@@ -204,8 +181,7 @@
       "lat": 49.2844,
       "lng": -123.1089,
       "note": "A steam-powered clock that whistles every quarter-hour on the cobbled main street of Gastown, the city's oldest quarter.",
-      "hours": "Outdoors, 24 hours",
-      "rating": 4.1
+      "hours": "Outdoors, 24 hours"
     },
     {
       "name": "Museum of Anthropology at UBC",
@@ -213,7 +189,6 @@
       "lng": -123.2594,
       "note": "A glass-walled Arthur Erickson building holding monumental Northwest Coast totem poles and Bill Reid's carvings, on the UBC campus.",
       "hours": "Daily 10:00 AM–5:00 PM, Thu to 9:00 PM; closed Mon mid-Oct–mid-May",
-      "rating": 4.6,
       "ticketUrl": "https://moa.ubc.ca"
     },
     {
@@ -221,8 +196,7 @@
       "lat": 49.2888,
       "lng": -123.1111,
       "note": "The sail-roofed cruise terminal on the harbour, with a free waterfront promenade looking to the North Shore mountains and FlyOver Canada inside.",
-      "hours": "Promenade open 24 hours; FlyOver Canada ~10:00 AM–9:00 PM",
-      "rating": 4.3
+      "hours": "Promenade open 24 hours; FlyOver Canada ~10:00 AM–9:00 PM"
     },
     {
       "name": "VanDusen Botanical Garden",
@@ -230,7 +204,6 @@
       "lng": -123.13,
       "note": "A 22-hectare garden of lakes, a hedge maze and plants from every continent, with a winter Festival of Lights.",
       "hours": "Daily ~10:00 AM–4:00 PM in winter, to ~7:00 PM in summer",
-      "rating": 4.6,
       "ticketUrl": "https://vandusengarden.org"
     },
     {
@@ -238,8 +211,7 @@
       "lat": 49.295,
       "lng": -123.1355,
       "note": "A 28 km waterfront path for walking and cycling that loops Stanley Park and runs on to English Bay, False Creek and Kitsilano.",
-      "hours": "Open 24 hours (separate bike and foot lanes)",
-      "rating": 4.8
+      "hours": "Open 24 hours (separate bike and foot lanes)"
     },
     {
       "name": "Queen Elizabeth Park & Bloedel Conservatory",
@@ -247,7 +219,6 @@
       "lng": -123.1126,
       "note": "The city's highest point, with quarry gardens, skyline views and a domed tropical conservatory full of free-flying birds.",
       "hours": "Park 24 hours; conservatory daily ~10:00 AM–5:00 PM",
-      "rating": 4.6,
       "ticketUrl": "https://vancouver.ca/parks-recreation-culture/bloedel-conservatory.aspx"
     },
     {
@@ -256,7 +227,6 @@
       "lng": -123.1038,
       "note": "A hands-on science centre inside the geodesic dome at the end of False Creek, steps from Main Street SkyTrain.",
       "hours": "Daily 10:00 AM–5:00 PM (to 6:00 PM in summer)",
-      "rating": 4.2,
       "ticketUrl": "https://www.scienceworld.ca"
     },
     {
@@ -264,40 +234,35 @@
       "lat": 49.2747,
       "lng": -123.154,
       "note": "A lively sandy beach with volleyball courts, a long saltwater pool in summer and views back to downtown.",
-      "hours": "Open 6:00 AM–10:00 PM",
-      "rating": 4.4
+      "hours": "Open 6:00 AM–10:00 PM"
     },
     {
       "name": "English Bay Beach",
       "lat": 49.2865,
       "lng": -123.143,
       "note": "The West End's city beach, known for its sunsets, the laughing-men sculptures and summer fireworks.",
-      "hours": "Open 6:00 AM–10:00 PM",
-      "rating": 4.5
+      "hours": "Open 6:00 AM–10:00 PM"
     },
     {
       "name": "Vancouver Public Library, Central Library",
       "lat": 49.2797,
       "lng": -123.1157,
       "note": "A Colosseum-like library building with a free rooftop garden offering views over downtown.",
-      "hours": "~10:00 AM–8:00 PM Mon–Thu, shorter hours Fri–Sun; rooftop garden seasonal",
-      "rating": 4.5
+      "hours": "~10:00 AM–8:00 PM Mon–Thu, shorter hours Fri–Sun; rooftop garden seasonal"
     },
     {
       "name": "Brockton Point Totem Poles",
       "lat": 49.299,
       "lng": -123.1206,
       "note": "A cluster of carved First Nations totem poles on the Stanley Park seawall, the province's most visited outdoor landmark.",
-      "hours": "Outdoors, 24 hours",
-      "rating": 4.3
+      "hours": "Outdoors, 24 hours"
     },
     {
       "name": "The Marine Building",
       "lat": 49.2875,
       "lng": -123.1173,
       "note": "A 1930 Art Deco tower whose lobby is a riot of brass, sea creatures and stained glass.",
-      "hours": "Lobby open ~business hours Mon–Fri",
-      "rating": 4.6
+      "hours": "Lobby open ~business hours Mon–Fri"
     },
     {
       "name": "Dr. Sun Yat-Sen Classical Chinese Garden",
@@ -305,7 +270,6 @@
       "lng": -123.1037,
       "note": "A Ming-style scholar's garden of pavilions, jade-green ponds and rockery in Chinatown, with a free public park next door.",
       "hours": "~10:00 AM–4:30 PM in winter, longer in summer",
-      "rating": 3.9,
       "ticketUrl": "https://vancouverchinesegarden.com"
     },
     {
@@ -313,8 +277,7 @@
       "lat": 49.2766,
       "lng": -123.216,
       "note": "A long, quiet tidal beach west of Kitsilano with free sunset views across English Bay to downtown and the North Shore mountains.",
-      "hours": "Open 6:00 AM–10:00 PM",
-      "rating": 4.6
+      "hours": "Open 6:00 AM–10:00 PM"
     }
   ],
   "railStations": [

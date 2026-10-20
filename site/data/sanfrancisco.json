@@ -392,28 +392,28 @@
     }
   ],
   "hotels": [
-    {"name":"Hyatt Place San Francisco Downtown","lat":37.7788,"lng":-122.3923,"area":"San Francisco Caltrain Station","rating":4.2,"ratingCount":716,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"LUMA Hotel San Francisco","lat":37.7748,"lng":-122.3902,"area":"San Francisco Caltrain Station","rating":4.8,"ratingCount":1188,"stars":4,"priceTier":3},
-    {"name":"Hotel VIA","lat":37.7793,"lng":-122.3909,"area":"San Francisco Caltrain Station","rating":4.2,"ratingCount":258,"stars":4,"priceTier":3},
-    {"name":"Grand Hyatt at SFO","lat":37.6129,"lng":-122.394,"area":"San Francisco International Airport","rating":4.8,"ratingCount":2048,"stars":4,"priceTier":4,"brandAnchor":true},
-    {"name":"Grand Hyatt San Francisco Union Square","lat":37.7891,"lng":-122.4072,"area":"Union Square","rating":4.2,"ratingCount":7032,"stars":4,"priceTier":4,"brandAnchor":true},
-    {"name":"San Francisco Marriott Marquis","lat":37.7854,"lng":-122.4044,"area":"Union Square","rating":4.2,"ratingCount":8282,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Chancellor Hotel on Union Square","lat":37.7887,"lng":-122.4088,"area":"Union Square","rating":4.5,"ratingCount":6096,"stars":3,"priceTier":3},
-    {"name":"Axiom Hotel","lat":37.7849,"lng":-122.4082,"area":"Union Square","rating":4.4,"ratingCount":1233,"stars":4,"priceTier":3},
-    {"name":"Hotel Abri","lat":37.7852,"lng":-122.4084,"area":"Union Square","rating":4.2,"ratingCount":2589,"stars":3,"priceTier":2},
-    {"name":"Hyatt Regency San Francisco","lat":37.7943,"lng":-122.3957,"area":"Embarcadero","rating":4.1,"ratingCount":7491,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"1 Hotel San Francisco","lat":37.7937,"lng":-122.3933,"area":"Embarcadero","rating":4.8,"ratingCount":970,"stars":5,"priceTier":4},
-    {"name":"Hotel Griffon","lat":37.7929,"lng":-122.3922,"area":"Embarcadero","rating":4.4,"ratingCount":1917,"stars":4,"priceTier":3},
-    {"name":"Harbor Court Hotel","lat":37.7927,"lng":-122.3921,"area":"Embarcadero","rating":4.4,"ratingCount":2597,"stars":4,"priceTier":3},
-    {"name":"Club Quarters Hotel Embarcadero","lat":37.7952,"lng":-122.4007,"area":"Embarcadero","rating":4.4,"ratingCount":6298,"stars":3,"priceTier":2},
-    {"name":"The Fairmont San Francisco","lat":37.7924,"lng":-122.41,"area":"Chinatown","rating":4.2,"ratingCount":5354,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Omni San Francisco Hotel","lat":37.7931,"lng":-122.4032,"area":"Chinatown","rating":4.7,"ratingCount":6681,"stars":4,"priceTier":3},
-    {"name":"Stanford Court San Francisco","lat":37.7915,"lng":-122.4096,"area":"Chinatown","rating":4.5,"ratingCount":1260,"stars":4,"priceTier":3},
-    {"name":"Orchard Garden Hotel","lat":37.7909,"lng":-122.4052,"area":"Chinatown","rating":4.5,"ratingCount":2223,"stars":4,"priceTier":3},
-    {"name":"Green Tortoise Hostel","lat":37.7983,"lng":-122.4053,"area":"Chinatown","rating":4.3,"ratingCount":882,"stars":1,"priceTier":1},
-    {"name":"San Francisco Proper Hotel","lat":37.7809,"lng":-122.4125,"area":"Civic Center","rating":4.2,"ratingCount":972,"stars":4,"priceTier":4},
-    {"name":"Phoenix Hotel","lat":37.7829,"lng":-122.4182,"area":"Civic Center","rating":4.4,"ratingCount":1660,"stars":2,"priceTier":2},
-    {"name":"Inn at the Opera","lat":37.7786,"lng":-122.4222,"area":"Civic Center","rating":4.2,"ratingCount":890,"stars":3,"priceTier":3}
+    {"name":"Hyatt Place San Francisco Downtown","lat":37.7788,"lng":-122.3923,"area":"San Francisco Caltrain Station","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"LUMA Hotel San Francisco","lat":37.7748,"lng":-122.3902,"area":"San Francisco Caltrain Station","stars":4,"priceTier":3},
+    {"name":"Hotel VIA","lat":37.7793,"lng":-122.3909,"area":"San Francisco Caltrain Station","stars":4,"priceTier":3},
+    {"name":"Grand Hyatt at SFO","lat":37.6129,"lng":-122.394,"area":"San Francisco International Airport","stars":4,"priceTier":4,"brandAnchor":true},
+    {"name":"Grand Hyatt San Francisco Union Square","lat":37.7891,"lng":-122.4072,"area":"Union Square","stars":4,"priceTier":4,"brandAnchor":true},
+    {"name":"San Francisco Marriott Marquis","lat":37.7854,"lng":-122.4044,"area":"Union Square","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Chancellor Hotel on Union Square","lat":37.7887,"lng":-122.4088,"area":"Union Square","stars":3,"priceTier":3},
+    {"name":"Axiom Hotel","lat":37.7849,"lng":-122.4082,"area":"Union Square","stars":4,"priceTier":3},
+    {"name":"Hotel Abri","lat":37.7852,"lng":-122.4084,"area":"Union Square","stars":3,"priceTier":2},
+    {"name":"Hyatt Regency San Francisco","lat":37.7943,"lng":-122.3957,"area":"Embarcadero","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"1 Hotel San Francisco","lat":37.7937,"lng":-122.3933,"area":"Embarcadero","stars":5,"priceTier":4},
+    {"name":"Hotel Griffon","lat":37.7929,"lng":-122.3922,"area":"Embarcadero","stars":4,"priceTier":3},
+    {"name":"Harbor Court Hotel","lat":37.7927,"lng":-122.3921,"area":"Embarcadero","stars":4,"priceTier":3},
+    {"name":"Club Quarters Hotel Embarcadero","lat":37.7952,"lng":-122.4007,"area":"Embarcadero","stars":3,"priceTier":2},
+    {"name":"The Fairmont San Francisco","lat":37.7924,"lng":-122.41,"area":"Chinatown","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Omni San Francisco Hotel","lat":37.7931,"lng":-122.4032,"area":"Chinatown","stars":4,"priceTier":3},
+    {"name":"Stanford Court San Francisco","lat":37.7915,"lng":-122.4096,"area":"Chinatown","stars":4,"priceTier":3},
+    {"name":"Orchard Garden Hotel","lat":37.7909,"lng":-122.4052,"area":"Chinatown","stars":4,"priceTier":3},
+    {"name":"Green Tortoise Hostel","lat":37.7983,"lng":-122.4053,"area":"Chinatown","stars":1,"priceTier":1},
+    {"name":"San Francisco Proper Hotel","lat":37.7809,"lng":-122.4125,"area":"Civic Center","stars":4,"priceTier":4},
+    {"name":"Phoenix Hotel","lat":37.7829,"lng":-122.4182,"area":"Civic Center","stars":2,"priceTier":2},
+    {"name":"Inn at the Opera","lat":37.7786,"lng":-122.4222,"area":"Civic Center","stars":3,"priceTier":3}
   ],
   "sights": [
     {
@@ -422,7 +422,6 @@
       "lng": -122.423,
       "note": "The former island federal prison, reached by a short ferry from Pier 33, with an excellent audio tour narrated by ex-inmates and guards.",
       "hours": "Day tours ~8:45 AM–~4:30 PM; evening tours some days",
-      "rating": 4.7,
       "ticketUrl": "https://www.nps.gov/alca",
       "bookAhead": true
     },
@@ -431,8 +430,7 @@
       "lat": 37.8199,
       "lng": -122.4783,
       "note": "The 1937 orange suspension bridge; walk or bike across, or take photos from Battery Spencer or Crissy Field.",
-      "hours": "Open 24 hours; pedestrian walkway ~5:00 AM–6:30 PM (later in summer)",
-      "rating": 4.7
+      "hours": "Open 24 hours; pedestrian walkway ~5:00 AM–6:30 PM (later in summer)"
     },
     {
       "name": "Pier 39",
@@ -440,7 +438,6 @@
       "lng": -122.4098,
       "note": "Waterfront pier with shops, sea-lion viewing at K-Dock, and views toward Alcatraz.",
       "hours": "Shops ~10:00 AM–8:00 PM; sea lions viewable 24 hours",
-      "rating": 4.2,
       "ticketUrl": "https://www.pier39.com"
     },
     {
@@ -449,7 +446,6 @@
       "lng": -122.4078,
       "note": "The world's last manually operated cable-car system; ride from the Powell and Market turnaround up Nob Hill.",
       "hours": "~6:00 AM–~12:30 AM daily; fare ~$8 per ride",
-      "rating": 4.4,
       "ticketUrl": "https://www.sfmta.com/getting-around/muni/cable-cars"
     },
     {
@@ -458,7 +454,6 @@
       "lng": -122.4586,
       "note": "A biography of Walt Disney in the Presidio, from early animation to Disneyland, with original drawings and film.",
       "hours": "10:00 AM–6:00 PM, closed Tue",
-      "rating": 4.6,
       "ticketUrl": "https://www.waltdisney.org"
     },
     {
@@ -467,7 +462,6 @@
       "lng": -122.3978,
       "note": "A hands-on science museum on Pier 15, full of experiments to touch, with bay views from the terraces.",
       "hours": "10:00 AM–5:00 PM Tue–Sun, closed Mon; adults-only evenings Thu",
-      "rating": 4.6,
       "ticketUrl": "https://www.exploratorium.edu"
     },
     {
@@ -475,8 +469,7 @@
       "lat": 37.8021,
       "lng": -122.4187,
       "note": "The famously twisting, flower-lined block of Lombard between Hyde and Leavenworth; best walked down the side stairs.",
-      "hours": "Open 24 hours",
-      "rating": 4.3
+      "hours": "Open 24 hours"
     },
     {
       "name": "California Academy of Sciences",
@@ -484,7 +477,6 @@
       "lng": -122.4661,
       "note": "Aquarium, planetarium, rainforest dome and natural history museum under one living-roof building in Golden Gate Park.",
       "hours": "9:30 AM–5:00 PM Mon–Sat, 11:00 AM–5:00 PM Sun",
-      "rating": 4.5,
       "ticketUrl": "https://www.calacademy.org"
     },
     {
@@ -493,7 +485,6 @@
       "lng": -122.3893,
       "note": "The Giants' waterfront ballpark; catch a game or take a guided tour of the dugout and press box.",
       "hours": "Tours ~10:30 AM–2:00 PM on non-game days; check schedule",
-      "rating": 4.7,
       "ticketUrl": "https://www.mlb.com/giants/ballpark"
     },
     {
@@ -501,16 +492,14 @@
       "lat": 37.7694,
       "lng": -122.4862,
       "note": "A 1,000-acre park of gardens, lakes and museums stretching to Ocean Beach; rent a bike to cover it.",
-      "hours": "Open daily ~6:00 AM–10:00 PM",
-      "rating": 4.6
+      "hours": "Open daily ~6:00 AM–10:00 PM"
     },
     {
       "name": "Palace of Fine Arts",
       "lat": 37.8029,
       "lng": -122.4484,
       "note": "A Roman-style rotunda and lagoon left from the 1915 world's fair; one of the city's prettiest free photo stops.",
-      "hours": "Grounds open ~6:00 AM–9:00 PM daily",
-      "rating": 4.6
+      "hours": "Grounds open ~6:00 AM–9:00 PM daily"
     },
     {
       "name": "Ferry Building Marketplace",
@@ -518,7 +507,6 @@
       "lng": -122.3935,
       "note": "The 1898 clock-tower terminal turned gourmet food hall; the farmers market runs Tue, Thu and Sat.",
       "hours": "Mon–Fri 10:00 AM–6:00 PM, Sat 9:00 AM–6:00 PM, Sun 10:00 AM–5:00 PM",
-      "rating": 4.5,
       "ticketUrl": "https://www.ferrybuildingmarketplace.com"
     },
     {
@@ -526,8 +514,7 @@
       "lat": 37.7544,
       "lng": -122.4477,
       "note": "Two grassy hilltops with a free 360-degree viewpoint over the whole city and bay; windy and often foggy.",
-      "hours": "Open daily ~5:00 AM–midnight",
-      "rating": 4.6
+      "hours": "Open daily ~5:00 AM–midnight"
     },
     {
       "name": "de Young Museum",
@@ -535,7 +522,6 @@
       "lng": -122.4687,
       "note": "Fine-arts museum in Golden Gate Park; its free Hamon Observation Tower gives a skyline view.",
       "hours": "9:30 AM–5:15 PM Tue–Sun, closed Mon",
-      "rating": 4.4,
       "ticketUrl": "https://www.famsf.org/visit/de-young"
     },
     {
@@ -543,24 +529,21 @@
       "lat": 37.7843,
       "lng": -122.5114,
       "note": "A rugged coastal trail with Golden Gate views, shipwreck remains and the Sutro Baths ruins.",
-      "hours": "Trails open dawn to dusk; visitor center ~9:00 AM–4:00 PM",
-      "rating": 4.7
+      "hours": "Trails open dawn to dusk; visitor center ~9:00 AM–4:00 PM"
     },
     {
       "name": "Coit Tower",
       "lat": 37.8024,
       "lng": -122.4058,
       "note": "The 1933 fluted tower on Telegraph Hill; the lobby has free Depression-era murals, and a lift goes to the top.",
-      "hours": "~10:00 AM–6:00 PM daily",
-      "rating": 4.2
+      "hours": "~10:00 AM–6:00 PM daily"
     },
     {
       "name": "Alamo Square Park",
       "lat": 37.7762,
       "lng": -122.4328,
       "note": "Hilltop lawn facing the Painted Ladies Victorian row with the downtown skyline behind; a free local-favorite view.",
-      "hours": "Open daily dawn to dusk",
-      "rating": 4.5
+      "hours": "Open daily dawn to dusk"
     }
   ],
   "railStations": [

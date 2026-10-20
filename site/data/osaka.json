@@ -205,31 +205,31 @@
     }
   ],
   "hotels": [
-    {"name":"Courtyard by Marriott Shin-Osaka Station","lat":34.7343,"lng":135.4992,"area":"Shin-Osaka","rating":4.3,"ratingCount":948,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Remm Shin Osaka","lat":34.7338,"lng":135.4998,"area":"Shin-Osaka","rating":4.2,"ratingCount":925,"stars":3,"priceTier":3},
-    {"name":"Super Hotel JR Shin-Osaka Higashiguchi","lat":34.7325,"lng":135.504,"area":"Shin-Osaka","rating":4,"ratingCount":122,"stars":2,"priceTier":2},
-    {"name":"Hilton Osaka","lat":34.6999,"lng":135.496,"area":"Osaka Station","rating":4.2,"ratingCount":3051,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"InterContinental Osaka","lat":34.7065,"lng":135.4946,"area":"Osaka Station","rating":4.7,"ratingCount":2433,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"The Ritz-Carlton, Osaka","lat":34.6984,"lng":135.4926,"area":"Osaka Station","rating":4.5,"ratingCount":2890,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"ibis Osaka Umeda","lat":34.7023,"lng":135.5011,"area":"Osaka Station","rating":4.2,"ratingCount":238,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"Via Inn Umeda","lat":34.7025,"lng":135.5014,"area":"Osaka Station","rating":4,"ratingCount":118,"stars":2,"priceTier":2},
-    {"name":"Swissôtel Nankai Osaka","lat":34.6642,"lng":135.5013,"area":"Namba","rating":4.4,"ratingCount":4824,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Holiday Inn Osaka Namba","lat":34.6698,"lng":135.5036,"area":"Namba","rating":4,"ratingCount":1123,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Cross Hotel Osaka","lat":34.6697,"lng":135.5008,"area":"Namba","rating":4.4,"ratingCount":2020,"stars":4,"priceTier":3},
-    {"name":"Dotonbori Hotel","lat":34.6684,"lng":135.4987,"area":"Namba","rating":4.4,"ratingCount":847,"stars":3,"priceTier":2},
-    {"name":"Cafe & Hostel Kimi to Ichigo","lat":34.6665,"lng":135.5037,"area":"Namba","rating":4.3,"ratingCount":108,"stars":1,"priceTier":1},
-    {"name":"Osaka Marriott Miyako Hotel","lat":34.6461,"lng":135.5132,"area":"Tennoji","rating":4.6,"ratingCount":2290,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Hotel Trusty Osaka Abeno","lat":34.6461,"lng":135.5122,"area":"Tennoji","rating":4,"ratingCount":345,"stars":3,"priceTier":3},
-    {"name":"Miyako City Osaka Tennoji","lat":34.6456,"lng":135.5157,"area":"Tennoji","rating":4,"ratingCount":531,"stars":3,"priceTier":3},
-    {"name":"Via Inn Abeno Tennoji","lat":34.6472,"lng":135.5117,"area":"Tennoji","rating":4.2,"ratingCount":134,"stars":2,"priceTier":2},
-    {"name":"Hotel Nikko Kansai Airport","lat":34.437,"lng":135.2432,"area":"Kansai International Airport","rating":4.3,"ratingCount":3295,"stars":4,"priceTier":3},
-    {"name":"First Cabin Kansai Airport","lat":34.4373,"lng":135.2435,"area":"Kansai International Airport","rating":4.1,"ratingCount":143,"stars":1,"priceTier":1},
-    {"name":"Osaka Airterminal Hotel","lat":34.7853,"lng":135.4388,"area":"Osaka Itami Airport","rating":4.1,"ratingCount":288,"stars":3,"priceTier":2},
-    {"name":"W Osaka","lat":34.6779,"lng":135.4999,"area":"Shinsaibashi","rating":4.8,"ratingCount":812,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Hotel Nikko Osaka","lat":34.6739,"lng":135.4998,"area":"Shinsaibashi","rating":4.1,"ratingCount":2683,"stars":4,"priceTier":3},
-    {"name":"Hotel The Flag Shinsaibashi","lat":34.6742,"lng":135.503,"area":"Shinsaibashi","rating":4.7,"ratingCount":545,"stars":3,"priceTier":3},
-    {"name":"The Bridge Hotel Shinsaibashi","lat":34.6738,"lng":135.4982,"area":"Shinsaibashi","rating":4.6,"ratingCount":350,"stars":3,"priceTier":3},
-    {"name":"Osaka Hana Hostel","lat":34.6732,"lng":135.4983,"area":"Shinsaibashi","rating":4.7,"ratingCount":305,"stars":1,"priceTier":1}
+    {"name":"Courtyard by Marriott Shin-Osaka Station","lat":34.7343,"lng":135.4992,"area":"Shin-Osaka","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Remm Shin Osaka","lat":34.7338,"lng":135.4998,"area":"Shin-Osaka","stars":3,"priceTier":3},
+    {"name":"Super Hotel JR Shin-Osaka Higashiguchi","lat":34.7325,"lng":135.504,"area":"Shin-Osaka","stars":2,"priceTier":2},
+    {"name":"Hilton Osaka","lat":34.6999,"lng":135.496,"area":"Osaka Station","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"InterContinental Osaka","lat":34.7065,"lng":135.4946,"area":"Osaka Station","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"The Ritz-Carlton, Osaka","lat":34.6984,"lng":135.4926,"area":"Osaka Station","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"ibis Osaka Umeda","lat":34.7023,"lng":135.5011,"area":"Osaka Station","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Via Inn Umeda","lat":34.7025,"lng":135.5014,"area":"Osaka Station","stars":2,"priceTier":2},
+    {"name":"Swissôtel Nankai Osaka","lat":34.6642,"lng":135.5013,"area":"Namba","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Holiday Inn Osaka Namba","lat":34.6698,"lng":135.5036,"area":"Namba","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Cross Hotel Osaka","lat":34.6697,"lng":135.5008,"area":"Namba","stars":4,"priceTier":3},
+    {"name":"Dotonbori Hotel","lat":34.6684,"lng":135.4987,"area":"Namba","stars":3,"priceTier":2},
+    {"name":"Cafe & Hostel Kimi to Ichigo","lat":34.6665,"lng":135.5037,"area":"Namba","stars":1,"priceTier":1},
+    {"name":"Osaka Marriott Miyako Hotel","lat":34.6461,"lng":135.5132,"area":"Tennoji","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Hotel Trusty Osaka Abeno","lat":34.6461,"lng":135.5122,"area":"Tennoji","stars":3,"priceTier":3},
+    {"name":"Miyako City Osaka Tennoji","lat":34.6456,"lng":135.5157,"area":"Tennoji","stars":3,"priceTier":3},
+    {"name":"Via Inn Abeno Tennoji","lat":34.6472,"lng":135.5117,"area":"Tennoji","stars":2,"priceTier":2},
+    {"name":"Hotel Nikko Kansai Airport","lat":34.437,"lng":135.2432,"area":"Kansai International Airport","stars":4,"priceTier":3},
+    {"name":"First Cabin Kansai Airport","lat":34.4373,"lng":135.2435,"area":"Kansai International Airport","stars":1,"priceTier":1},
+    {"name":"Osaka Airterminal Hotel","lat":34.7853,"lng":135.4388,"area":"Osaka Itami Airport","stars":3,"priceTier":2},
+    {"name":"W Osaka","lat":34.6779,"lng":135.4999,"area":"Shinsaibashi","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Hotel Nikko Osaka","lat":34.6739,"lng":135.4998,"area":"Shinsaibashi","stars":4,"priceTier":3},
+    {"name":"Hotel The Flag Shinsaibashi","lat":34.6742,"lng":135.503,"area":"Shinsaibashi","stars":3,"priceTier":3},
+    {"name":"The Bridge Hotel Shinsaibashi","lat":34.6738,"lng":135.4982,"area":"Shinsaibashi","stars":3,"priceTier":3},
+    {"name":"Osaka Hana Hostel","lat":34.6732,"lng":135.4983,"area":"Shinsaibashi","stars":1,"priceTier":1}
   ],
   "sights": [
     {
@@ -238,7 +238,6 @@
       "lng": 135.4323,
       "note": "Osaka's big theme park, home to Super Nintendo World and the Wizarding World of Harry Potter. Not on the metro: take the JR Yumesaki Line to Universal City.",
       "hours": "Hours vary by day, typically 9:00 AM–7:00/9:00 PM; check the park calendar",
-      "rating": 4.1,
       "ticketUrl": "https://www.usj.co.jp/web/en/us",
       "bookAhead": true
     },
@@ -247,8 +246,7 @@
       "lat": 34.6687,
       "lng": 135.5013,
       "note": "A canal-side street of giant neon signs and street-food stalls, best after dark from Ebisu Bridge by the Glico runner sign.",
-      "hours": "Open 24 hours; most food stalls ~11:00 AM–11:00 PM",
-      "rating": 4.3
+      "hours": "Open 24 hours; most food stalls ~11:00 AM–11:00 PM"
     },
     {
       "name": "Osaka Aquarium Kaiyukan",
@@ -256,7 +254,6 @@
       "lng": 135.4289,
       "note": "One of the world's largest aquariums, with whale sharks circling a central tank nine floors deep.",
       "hours": "10:00 AM–8:00 PM daily (last entry 7:00 PM; hours vary by season)",
-      "rating": 4.2,
       "ticketUrl": "https://www.kaiyukan.com/language/eng/",
       "bookAhead": true
     },
@@ -266,7 +263,6 @@
       "lng": 135.5259,
       "note": "A rebuilt 16th-century castle keep housing a museum of Toyotomi Hideyoshi's era, with a rooftop lookout over the moats and park.",
       "hours": "9:00 AM–5:00 PM daily (last entry 4:30 PM)",
-      "rating": 4.1,
       "ticketUrl": "https://www.osakacastle.net/english/"
     },
     {
@@ -274,8 +270,7 @@
       "lat": 34.6655,
       "lng": 135.5066,
       "note": "A covered market lane of seafood, wagyu skewers and fruit stalls where you can eat as you walk.",
-      "hours": "~9:00 AM–6:00 PM; many stalls close early, some shut on Sundays",
-      "rating": 4.1
+      "hours": "~9:00 AM–6:00 PM; many stalls close early, some shut on Sundays"
     },
     {
       "name": "Umeda Sky Building",
@@ -283,7 +278,6 @@
       "lng": 135.4907,
       "note": "Twin towers joined at the top by the open-air Floating Garden Observatory, a favorite spot for sunset over the city.",
       "hours": "Observatory 9:30 AM–10:30 PM daily (last entry 10:00 PM)",
-      "rating": 4.2,
       "ticketUrl": "https://www.skybldg.co.jp/en/"
     },
     {
@@ -291,40 +285,35 @@
       "lat": 34.6126,
       "lng": 135.493,
       "note": "One of Japan's oldest Shinto shrines, known for its arched Sorihashi bridge and distinctive straight-roofed halls.",
-      "hours": "6:00 AM–5:00 PM (opens 6:30 AM Oct–Mar); grounds free",
-      "rating": 4.3
+      "hours": "6:00 AM–5:00 PM (opens 6:30 AM Oct–Mar); grounds free"
     },
     {
       "name": "Osaka Museum of Housing and Living",
       "lat": 34.711,
       "lng": 135.5113,
       "note": "A full-size indoor reconstruction of an 1830s Osaka street that you can walk through, with kimono rental for photos.",
-      "hours": "10:00 AM–5:00 PM, closed Tue",
-      "rating": 4.1
+      "hours": "10:00 AM–5:00 PM, closed Tue"
     },
     {
       "name": "Shinsekai & Tsutenkaku",
       "lat": 34.6525,
       "lng": 135.5063,
       "note": "A retro, slightly gritty district of kushikatsu joints and arcades beneath the Tsutenkaku tower.",
-      "hours": "Streets 24 hours; Tsutenkaku tower 10:00 AM–8:00 PM",
-      "rating": 3.9
+      "hours": "Streets 24 hours; Tsutenkaku tower 10:00 AM–8:00 PM"
     },
     {
       "name": "Tempozan Ferris Wheel",
       "lat": 34.6563,
       "lng": 135.4313,
       "note": "A 112 m Ferris wheel beside Kaiyukan with bay and bridge views; some gondolas have glass floors.",
-      "hours": "10:00 AM–9:00 PM daily",
-      "rating": 4.2
+      "hours": "10:00 AM–9:00 PM daily"
     },
     {
       "name": "Shitennoji",
       "lat": 34.6537,
       "lng": 135.5164,
       "note": "Founded in 593, it is among Japan's oldest Buddhist temples, with a five-story pagoda and a free outer precinct.",
-      "hours": "8:30 AM–4:30 PM (to 4:00 PM Oct–Mar)",
-      "rating": 4
+      "hours": "8:30 AM–4:30 PM (to 4:00 PM Oct–Mar)"
     },
     {
       "name": "Harukas 300 Observation Deck",
@@ -332,7 +321,6 @@
       "lng": 135.5137,
       "note": "The glass-walled top floors of Abeno Harukas, one of Japan's tallest buildings, with 360° views over the Osaka plain.",
       "hours": "9:00 AM–10:00 PM daily (last entry 9:30 PM)",
-      "rating": 4.3,
       "ticketUrl": "https://www.abenoharukas-300.jp/en/"
     },
     {
@@ -340,16 +328,14 @@
       "lat": 34.6614,
       "lng": 135.4972,
       "note": "A small shrine whose stage is a huge lion's head with gaping jaws, said to swallow bad luck.",
-      "hours": "6:00 AM–5:00 PM daily; free",
-      "rating": 4.1
+      "hours": "6:00 AM–5:00 PM daily; free"
     },
     {
       "name": "Hozenji Yokocho",
       "lat": 34.6681,
       "lng": 135.503,
       "note": "A lantern-lit stone alley of tiny restaurants around a moss-covered Fudo statue that visitors splash with water.",
-      "hours": "Alley open 24 hours; eateries mostly evenings",
-      "rating": 4.1
+      "hours": "Alley open 24 hours; eateries mostly evenings"
     },
     {
       "name": "Osaka Museum of History",
@@ -357,7 +343,6 @@
       "lng": 135.5209,
       "note": "A tower museum tracing Osaka from its 7th-century palace onward, with windows looking straight down on the Naniwa Palace ruins and the castle.",
       "hours": "9:30 AM–5:00 PM, closed Tue",
-      "rating": 4.1,
       "ticketUrl": "https://www.osakamushis.jp/english/"
     },
     {
@@ -365,8 +350,7 @@
       "lat": 34.7069,
       "lng": 135.5113,
       "note": "A hands-on children's museum with a multi-story play town, science exhibits and craft corners.",
-      "hours": "9:30 AM–5:00 PM, closed Mon",
-      "rating": 4.3
+      "hours": "9:30 AM–5:00 PM, closed Mon"
     },
     {
       "name": "Nakanoshima Park",

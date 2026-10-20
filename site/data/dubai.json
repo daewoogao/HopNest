@@ -113,28 +113,28 @@
     }
   ],
   "hotels": [
-    {"name":"Hotel DXB","lat":25.2478,"lng":55.3624,"area":"Dubai International Airport","rating":4.6,"ratingCount":11178,"stars":5,"priceTier":4},
-    {"name":"Premier Inn Dubai International Airport","lat":25.2427,"lng":55.359,"area":"Dubai International Airport","rating":4.5,"ratingCount":7511,"stars":3,"priceTier":2},
-    {"name":"Holiday Inn Express Dubai Airport","lat":25.2425,"lng":55.3596,"area":"Dubai International Airport","rating":4,"ratingCount":3430,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"Sofitel Dubai Downtown","lat":25.1998,"lng":55.2687,"area":"Downtown Dubai","rating":4.7,"ratingCount":8178,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Dusit Thani Dubai","lat":25.2062,"lng":55.273,"area":"Downtown Dubai","rating":4.6,"ratingCount":5924,"stars":5,"priceTier":4},
-    {"name":"Swissôtel Al Murooj Dubai","lat":25.203,"lng":55.2767,"area":"Downtown Dubai","rating":4.6,"ratingCount":8261,"stars":5,"priceTier":4},
-    {"name":"Leva Hotel Mazaya Centre","lat":25.1985,"lng":55.2649,"area":"Downtown Dubai","rating":4.9,"ratingCount":2116,"stars":4,"priceTier":3},
-    {"name":"Rove City Walk","lat":25.2054,"lng":55.268,"area":"Downtown Dubai","rating":4.8,"ratingCount":1280,"stars":3,"priceTier":2},
-    {"name":"Hyatt Place Dubai Al Rigga","lat":25.2631,"lng":55.3276,"area":"Deira","rating":4.5,"ratingCount":4869,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"ibis Dubai Al Rigga","lat":25.2653,"lng":55.3213,"area":"Deira","rating":4.5,"ratingCount":3237,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"J5 Rimal Hotel","lat":25.2643,"lng":55.3268,"area":"Deira","rating":4.7,"ratingCount":1672,"stars":3,"priceTier":2},
-    {"name":"Coral Dubai Deira Hotel","lat":25.266,"lng":55.3256,"area":"Deira","rating":4.4,"ratingCount":1489,"stars":4,"priceTier":3},
-    {"name":"Khalidia Palace Hotel Dubai","lat":25.2615,"lng":55.3206,"area":"Deira","rating":4.8,"ratingCount":214,"stars":4,"priceTier":3},
-    {"name":"DoubleTree by Hilton Dubai M Square Hotel & Residences","lat":25.2503,"lng":55.3007,"area":"Bur Dubai","rating":4.7,"ratingCount":1765,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"City Seasons Towers","lat":25.2528,"lng":55.3027,"area":"Bur Dubai","rating":4.7,"ratingCount":2469,"stars":4,"priceTier":3},
-    {"name":"Holiday Inn Bur Dubai - Embassy District","lat":25.2576,"lng":55.3046,"area":"Bur Dubai","rating":4.1,"ratingCount":1141,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Savoy Suites","lat":25.2535,"lng":55.3011,"area":"Bur Dubai","rating":4.5,"ratingCount":1039,"stars":3,"priceTier":2},
-    {"name":"Rose Garden Hotel Apartments Bur Dubai","lat":25.2542,"lng":55.3011,"area":"Bur Dubai","rating":4.3,"ratingCount":388,"stars":3,"priceTier":2},
-    {"name":"JW Marriott Marquis Hotel Dubai","lat":25.1857,"lng":55.2581,"area":"Business Bay","rating":4.8,"ratingCount":16749,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Radisson Blu Hotel, Dubai Waterfront","lat":25.1868,"lng":55.2679,"area":"Business Bay","rating":4.4,"ratingCount":2062,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Park Regis Business Bay","lat":25.1857,"lng":55.2622,"area":"Business Bay","rating":4.8,"ratingCount":1225,"stars":4,"priceTier":3},
-    {"name":"Anantara Downtown Dubai","lat":25.1859,"lng":55.2637,"area":"Business Bay","rating":4.8,"ratingCount":4067,"stars":5,"priceTier":4}
+    {"name":"Hotel DXB","lat":25.2478,"lng":55.3624,"area":"Dubai International Airport","stars":5,"priceTier":4},
+    {"name":"Premier Inn Dubai International Airport","lat":25.2427,"lng":55.359,"area":"Dubai International Airport","stars":3,"priceTier":2},
+    {"name":"Holiday Inn Express Dubai Airport","lat":25.2425,"lng":55.3596,"area":"Dubai International Airport","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Sofitel Dubai Downtown","lat":25.1998,"lng":55.2687,"area":"Downtown Dubai","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Dusit Thani Dubai","lat":25.2062,"lng":55.273,"area":"Downtown Dubai","stars":5,"priceTier":4},
+    {"name":"Swissôtel Al Murooj Dubai","lat":25.203,"lng":55.2767,"area":"Downtown Dubai","stars":5,"priceTier":4},
+    {"name":"Leva Hotel Mazaya Centre","lat":25.1985,"lng":55.2649,"area":"Downtown Dubai","stars":4,"priceTier":3},
+    {"name":"Rove City Walk","lat":25.2054,"lng":55.268,"area":"Downtown Dubai","stars":3,"priceTier":2},
+    {"name":"Hyatt Place Dubai Al Rigga","lat":25.2631,"lng":55.3276,"area":"Deira","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"ibis Dubai Al Rigga","lat":25.2653,"lng":55.3213,"area":"Deira","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"J5 Rimal Hotel","lat":25.2643,"lng":55.3268,"area":"Deira","stars":3,"priceTier":2},
+    {"name":"Coral Dubai Deira Hotel","lat":25.266,"lng":55.3256,"area":"Deira","stars":4,"priceTier":3},
+    {"name":"Khalidia Palace Hotel Dubai","lat":25.2615,"lng":55.3206,"area":"Deira","stars":4,"priceTier":3},
+    {"name":"DoubleTree by Hilton Dubai M Square Hotel & Residences","lat":25.2503,"lng":55.3007,"area":"Bur Dubai","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"City Seasons Towers","lat":25.2528,"lng":55.3027,"area":"Bur Dubai","stars":4,"priceTier":3},
+    {"name":"Holiday Inn Bur Dubai - Embassy District","lat":25.2576,"lng":55.3046,"area":"Bur Dubai","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Savoy Suites","lat":25.2535,"lng":55.3011,"area":"Bur Dubai","stars":3,"priceTier":2},
+    {"name":"Rose Garden Hotel Apartments Bur Dubai","lat":25.2542,"lng":55.3011,"area":"Bur Dubai","stars":3,"priceTier":2},
+    {"name":"JW Marriott Marquis Hotel Dubai","lat":25.1857,"lng":55.2581,"area":"Business Bay","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Radisson Blu Hotel, Dubai Waterfront","lat":25.1868,"lng":55.2679,"area":"Business Bay","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Park Regis Business Bay","lat":25.1857,"lng":55.2622,"area":"Business Bay","stars":4,"priceTier":3},
+    {"name":"Anantara Downtown Dubai","lat":25.1859,"lng":55.2637,"area":"Business Bay","stars":5,"priceTier":4}
   ],
   "sights": [
     {
@@ -143,7 +143,6 @@
       "lng": 55.2744,
       "note": "The world's tallest building at 828 m, with observation decks on levels 124-125 and higher.",
       "hours": "~8:30 AM–11:00 PM daily; timed slots",
-      "rating": 4.5,
       "ticketUrl": "https://www.burjkhalifa.ae/en/",
       "bookAhead": true
     },
@@ -152,8 +151,7 @@
       "lat": 25.1951,
       "lng": 55.2754,
       "note": "A choreographed water-and-light show on Burj Khalifa Lake; free to watch from the Dubai Mall boardwalk.",
-      "hours": "Shows every ~30 min from ~6:00 PM to 11:00 PM; free",
-      "rating": 4.6
+      "hours": "Shows every ~30 min from ~6:00 PM to 11:00 PM; free"
     },
     {
       "name": "Dubai Aquarium & Underwater Zoo",
@@ -161,7 +159,6 @@
       "lng": 55.2796,
       "note": "A vast tank inside Dubai Mall with sharks and rays, viewable through a tunnel, plus an underwater zoo.",
       "hours": "~10:00 AM–10:00 PM daily",
-      "rating": 4.2,
       "ticketUrl": "https://www.thedubaiaquarium.com"
     },
     {
@@ -169,8 +166,7 @@
       "lat": 25.1412,
       "lng": 55.1853,
       "note": "The sail-shaped landmark hotel on its own island; non-guests can only visit with a restaurant reservation, so most people view it from Jumeirah Public Beach.",
-      "hours": "Exterior viewable always; interior by reservation",
-      "rating": 4.5
+      "hours": "Exterior viewable always; interior by reservation"
     },
     {
       "name": "Dubai Frame",
@@ -178,7 +174,6 @@
       "lng": 55.3004,
       "note": "A giant picture-frame-shaped tower in Zabeel Park with a glass-floor sky bridge and views of old and new Dubai.",
       "hours": "~9:00 AM–9:00 PM daily",
-      "rating": 4.6,
       "bookAhead": true
     },
     {
@@ -187,7 +182,6 @@
       "lng": 55.2447,
       "note": "A seasonal garden of flower-covered sculptures and arches; open autumn to spring only, reached by taxi.",
       "hours": "Seasonal: ~Oct–May, ~9:00 AM–11:00 PM",
-      "rating": 4.4,
       "ticketUrl": "https://www.dubaimiraclegarden.com"
     },
     {
@@ -196,7 +190,6 @@
       "lng": 55.3059,
       "note": "A seasonal outdoor fair with pavilions from dozens of countries, street food, rides and shows; reached by bus or taxi.",
       "hours": "Seasonal: ~Oct–Apr, afternoons to ~midnight",
-      "rating": 4.3,
       "ticketUrl": "https://www.globalvillage.ae"
     },
     {
@@ -204,16 +197,14 @@
       "lat": 25.265,
       "lng": 55.3,
       "note": "The historic waterway splitting Bur Dubai from Deira; cross by wooden abra boat for AED 1 between the old souks.",
-      "hours": "Abras run ~5:00 AM–midnight; AED 1",
-      "rating": 4.3
+      "hours": "Abras run ~5:00 AM–midnight; AED 1"
     },
     {
       "name": "Kite Beach",
       "lat": 25.1698,
       "lng": 55.1962,
       "note": "A public beach with a view of the Burj Al Arab, food trucks and a promenade, popular with kitesurfers and walkers.",
-      "hours": "Open daily, free access; busiest at sunset",
-      "rating": 4.5
+      "hours": "Open daily, free access; busiest at sunset"
     },
     {
       "name": "AURA Skypool",
@@ -221,7 +212,6 @@
       "lng": 55.1396,
       "note": "A glass-bottomed infinity pool on the 50th floor of The Palm Tower with views over the Palm Jumeirah; adults-only, ticketed.",
       "hours": "~3:00 PM–midnight daily",
-      "rating": 4.9,
       "bookAhead": true
     },
     {
@@ -229,32 +219,28 @@
       "lat": 25.2336,
       "lng": 55.2656,
       "note": "A white Fatimid-style mosque that offers guided cultural visits for non-Muslims.",
-      "hours": "Guided tours ~10:00 AM, Sat–Thu, no tours Friday",
-      "rating": 4.5
+      "hours": "Guided tours ~10:00 AM, Sat–Thu, no tours Friday"
     },
     {
       "name": "Al Fahidi Historical Neighbourhood",
       "lat": 25.2637,
       "lng": 55.2972,
       "note": "Narrow wind-tower lanes of restored coral-stone houses, galleries and courtyard cafes (local-flavor addition).",
-      "hours": "Open always; museums ~8:00 AM–6:00 PM",
-      "rating": 4.4
+      "hours": "Open always; museums ~8:00 AM–6:00 PM"
     },
     {
       "name": "Gold Souk",
       "lat": 25.287,
       "lng": 55.298,
       "note": "Rows of jewellers selling gold, silver and gems in Deira's covered arcades (local-flavor addition).",
-      "hours": "~10:00 AM–10:00 PM, Fri from ~4:00 PM",
-      "rating": 4.1
+      "hours": "~10:00 AM–10:00 PM, Fri from ~4:00 PM"
     },
     {
       "name": "Spice Souk",
       "lat": 25.268,
       "lng": 55.2985,
       "note": "Narrow lanes with sacks of saffron, frankincense, dried limes and herbs, steps from the Deira abra landing (local-flavor addition).",
-      "hours": "~9:00 AM–10:00 PM, closed Fri morning",
-      "rating": 4.1
+      "hours": "~9:00 AM–10:00 PM, closed Fri morning"
     },
     {
       "name": "Museum of the Future",
@@ -262,7 +248,6 @@
       "lng": 55.282,
       "note": "A torus-shaped museum wrapped in Arabic calligraphy, with immersive exhibits about technology and the future.",
       "hours": "~10:00 AM–6:00 PM daily",
-      "rating": 4.5,
       "ticketUrl": "https://museumofthefuture.ae",
       "bookAhead": true
     },
@@ -271,8 +256,7 @@
       "lat": 25.078,
       "lng": 55.133,
       "note": "A beachfront promenade with cafes, shops and a wide public beach opposite Marina skyscrapers (local-flavor addition).",
-      "hours": "Open daily; shops ~10:00 AM–midnight",
-      "rating": 4.4
+      "hours": "Open daily; shops ~10:00 AM–midnight"
     }
   ],
   "railStations": [],

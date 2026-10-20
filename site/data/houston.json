@@ -77,67 +77,27 @@
     }
   ],
   "hotels": [
-    {"name":"JW Marriott Houston Downtown","lat":29.7584,"lng":-95.3641,"area":"Downtown","rating":4.6,"ratingCount":1383,"stars":4,"priceTier":4,"brandAnchor":true},
-    {"name":"The Lancaster","lat":29.7616,"lng":-95.3648,"area":"Downtown","rating":4.8,"ratingCount":3006,"stars":4,"priceTier":3},
-    {"name":"Hotel ICON, Autograph Collection","lat":29.7626,"lng":-95.3609,"area":"Downtown","rating":4.5,"ratingCount":2035,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Hyatt Place Houston/Downtown","lat":29.7589,"lng":-95.3614,"area":"Downtown","rating":4.2,"ratingCount":390,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"Holiday Inn Houston Downtown","lat":29.7521,"lng":-95.3692,"area":"Downtown","rating":4.7,"ratingCount":1368,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"Hilton Americas-Houston","lat":29.7515,"lng":-95.3606,"area":"Convention District","rating":4.6,"ratingCount":4572,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"The Westin Houston Downtown","lat":29.7567,"lng":-95.3579,"area":"Convention District","rating":4.6,"ratingCount":1404,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Marriott Marquis Houston","lat":29.7545,"lng":-95.3578,"area":"Convention District","rating":4.1,"ratingCount":1332,"stars":4,"priceTier":3,"brandAnchor":true},
-    {
-      "name": "Embassy Suites by Hilton Houston Downtown Convention Center",
-      "lat": 29.753,
-      "lng": -95.3613,
-      "area": "Convention District",
-      "rating": 4.5,
-      "ratingCount": 1755,
-      "stars": 3,
-      "priceTier": 3,
-      "brandAnchor": true
-    },
-    {"name":"Hampton Inn Houston Downtown Convention Center","lat":29.7559,"lng":-95.3586,"area":"Convention District","rating":4.3,"ratingCount":609,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"Hotel ZaZa Houston Museum District","lat":29.7242,"lng":-95.3901,"area":"Museum District","rating":4.6,"ratingCount":2716,"stars":4,"priceTier":4},
-    {"name":"The Westin Houston Medical Center/Museum District","lat":29.7097,"lng":-95.4016,"area":"Texas Medical Center","rating":4.7,"ratingCount":1104,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"InterContinental Houston Medical Center","lat":29.7077,"lng":-95.4045,"area":"Texas Medical Center","rating":4.5,"ratingCount":787,"stars":4,"priceTier":3,"brandAnchor":true},
-    {
-      "name": "DoubleTree by Hilton Houston Medical Center Hotel & Suites",
-      "lat": 29.7073,
-      "lng": -95.405,
-      "area": "Texas Medical Center",
-      "rating": 4.5,
-      "ratingCount": 209,
-      "stars": 3,
-      "priceTier": 3,
-      "brandAnchor": true
-    },
-    {"name":"Blossom Hotel Houston, Curio Collection by Hilton","lat":29.6995,"lng":-95.3994,"area":"Texas Medical Center","rating":4.7,"ratingCount":1117,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Jesse H. Jones Rotary House","lat":29.7058,"lng":-95.396,"area":"Texas Medical Center","rating":4.4,"ratingCount":281,"stars":3,"priceTier":3},
-    {
-      "name": "Houston Airport Marriott at George Bush Intercontinental",
-      "lat": 29.9862,
-      "lng": -95.3422,
-      "area": "George Bush Intercontinental Airport",
-      "rating": 4.3,
-      "ratingCount": 1311,
-      "stars": 4,
-      "priceTier": 3,
-      "brandAnchor": true
-    },
-    {"name":"DoubleTree by Hilton Houston Hobby Airport","lat":29.659,"lng":-95.2685,"area":"William P. Hobby Airport","rating":4.1,"ratingCount":1034,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"Hilton Garden Inn Houston Hobby Airport","lat":29.6532,"lng":-95.2643,"area":"William P. Hobby Airport","rating":4.2,"ratingCount":213,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"Best Western Plus Hobby Airport Inn & Suites","lat":29.653,"lng":-95.2618,"area":"William P. Hobby Airport","rating":4.4,"ratingCount":793,"stars":3,"priceTier":2,"brandAnchor":true},
-    {
-      "name": "Days Inn & Suites by Wyndham Houston Hobby Airport",
-      "lat": 29.6516,
-      "lng": -95.2559,
-      "area": "William P. Hobby Airport",
-      "rating": 4.4,
-      "ratingCount": 939,
-      "stars": 2,
-      "priceTier": 2,
-      "brandAnchor": true
-    }
+    {"name":"JW Marriott Houston Downtown","lat":29.7584,"lng":-95.3641,"area":"Downtown","stars":4,"priceTier":4,"brandAnchor":true},
+    {"name":"The Lancaster","lat":29.7616,"lng":-95.3648,"area":"Downtown","stars":4,"priceTier":3},
+    {"name":"Hotel ICON, Autograph Collection","lat":29.7626,"lng":-95.3609,"area":"Downtown","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hyatt Place Houston/Downtown","lat":29.7589,"lng":-95.3614,"area":"Downtown","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Holiday Inn Houston Downtown","lat":29.7521,"lng":-95.3692,"area":"Downtown","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Hilton Americas-Houston","lat":29.7515,"lng":-95.3606,"area":"Convention District","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"The Westin Houston Downtown","lat":29.7567,"lng":-95.3579,"area":"Convention District","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Marriott Marquis Houston","lat":29.7545,"lng":-95.3578,"area":"Convention District","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Embassy Suites by Hilton Houston Downtown Convention Center","lat":29.753,"lng":-95.3613,"area":"Convention District","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Hampton Inn Houston Downtown Convention Center","lat":29.7559,"lng":-95.3586,"area":"Convention District","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Hotel ZaZa Houston Museum District","lat":29.7242,"lng":-95.3901,"area":"Museum District","stars":4,"priceTier":4},
+    {"name":"The Westin Houston Medical Center/Museum District","lat":29.7097,"lng":-95.4016,"area":"Texas Medical Center","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"InterContinental Houston Medical Center","lat":29.7077,"lng":-95.4045,"area":"Texas Medical Center","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"DoubleTree by Hilton Houston Medical Center Hotel & Suites","lat":29.7073,"lng":-95.405,"area":"Texas Medical Center","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Blossom Hotel Houston, Curio Collection by Hilton","lat":29.6995,"lng":-95.3994,"area":"Texas Medical Center","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Jesse H. Jones Rotary House","lat":29.7058,"lng":-95.396,"area":"Texas Medical Center","stars":3,"priceTier":3},
+    {"name":"Houston Airport Marriott at George Bush Intercontinental","lat":29.9862,"lng":-95.3422,"area":"George Bush Intercontinental Airport","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"DoubleTree by Hilton Houston Hobby Airport","lat":29.659,"lng":-95.2685,"area":"William P. Hobby Airport","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Hilton Garden Inn Houston Hobby Airport","lat":29.6532,"lng":-95.2643,"area":"William P. Hobby Airport","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Best Western Plus Hobby Airport Inn & Suites","lat":29.653,"lng":-95.2618,"area":"William P. Hobby Airport","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Days Inn & Suites by Wyndham Houston Hobby Airport","lat":29.6516,"lng":-95.2559,"area":"William P. Hobby Airport","stars":2,"priceTier":2,"brandAnchor":true}
   ],
   "sights": [
     {
@@ -146,7 +106,6 @@
       "lng": -95.0982,
       "note": "NASA Johnson Space Center's visitor centre: a Saturn V rocket, the shuttle carrier jet and tram tours to Mission Control. About 40 km southeast of downtown, so plan on a car or tour.",
       "hours": "~10:00 AM–5:00 PM daily, later on weekends and in summer",
-      "rating": 4.3,
       "ticketUrl": "https://spacecenter.org",
       "bookAhead": true
     },
@@ -156,7 +115,6 @@
       "lng": -95.3898,
       "note": "Dinosaur halls, a gem and mineral vault, a planetarium and the glass-cone Cockrell Butterfly Center, at the edge of Hermann Park.",
       "hours": "9:00 AM–5:00 PM daily",
-      "rating": 4.6,
       "ticketUrl": "https://www.hmns.org"
     },
     {
@@ -165,7 +123,6 @@
       "lng": -95.3906,
       "note": "One of the largest art museums in the US, spread over three buildings and a sculpture garden linked by tunnels, including James Turrell's light tunnel.",
       "hours": "11:00 AM–6:00 PM Tue–Sat (Thu to 9:00 PM, free general admission), 12:30–6:00 PM Sun, closed Mon",
-      "rating": 4.6,
       "ticketUrl": "https://www.mfah.org"
     },
     {
@@ -173,8 +130,7 @@
       "lat": 29.7572,
       "lng": -95.3555,
       "note": "The Houston Astros' downtown ballpark (formerly Minute Maid Park), with a retractable roof and a full-size train above left field; behind-the-scenes tours on non-game days.",
-      "hours": "Open for games and scheduled ballpark tours",
-      "rating": 4.5
+      "hours": "Open for games and scheduled ballpark tours"
     },
     {
       "name": "Houston Zoo",
@@ -182,7 +138,6 @@
       "lng": -95.3915,
       "note": "A 55-acre zoo inside Hermann Park with elephants, gorillas, a big-cat trail and a sea-lion habitat.",
       "hours": "9:00 AM–5:00 PM daily (last entry 4:00 PM)",
-      "rating": 4.5,
       "ticketUrl": "https://www.houstonzoo.org"
     },
     {
@@ -191,7 +146,6 @@
       "lng": -95.4306,
       "note": "A quirky, surprisingly thoughtful museum of hearses, papal funerals and mourning customs, on the far north side near IAH.",
       "hours": "10:00 AM–4:00 PM Mon–Fri, 10:00 AM–5:00 PM Sat, noon–5:00 PM Sun",
-      "rating": 4.6,
       "ticketUrl": "https://www.nmfh.org"
     },
     {
@@ -200,7 +154,6 @@
       "lng": -95.3853,
       "note": "Hands-on galleries for kids up to about age 12, including a pint-sized city where children run the shops and the bank.",
       "hours": "10:00 AM–6:00 PM Tue–Sat, noon–6:00 PM Sun; closed Mon except summer and holidays",
-      "rating": 4.6,
       "ticketUrl": "https://www.cmhouston.org"
     },
     {
@@ -209,7 +162,6 @@
       "lng": -95.3856,
       "note": "A museum of Holocaust history and human rights, with survivor testimony and a restored WWII-era railcar.",
       "hours": "10:00 AM–5:00 PM Tue–Sat, noon–5:00 PM Sun, closed Mon",
-      "rating": 4.6,
       "ticketUrl": "https://hmh.org"
     },
     {
@@ -218,7 +170,6 @@
       "lng": -95.4206,
       "note": "Ima Hogg's 1920s mansion, now MFAH's collection of early American furniture and art, set in 14 acres of formal gardens beside Buffalo Bayou.",
       "hours": "10:00 AM–5:00 PM Tue–Sat, 1:00–5:00 PM Sun, closed Mon",
-      "rating": 4.5,
       "ticketUrl": "https://www.mfah.org/visit/bayou-bend-collection-and-gardens"
     },
     {
@@ -227,7 +178,6 @@
       "lng": -95.3985,
       "note": "A free museum of surrealist, modern and ancient art in a Renzo Piano building, with a campus of galleries and lawns in leafy Montrose.",
       "hours": "11:00 AM–7:00 PM Wed–Sun, closed Mon–Tue; free",
-      "rating": 4.5,
       "ticketUrl": "https://www.menil.org"
     },
     {
@@ -235,8 +185,7 @@
       "lat": 29.7494,
       "lng": -95.4612,
       "note": "A 64-foot horseshoe fountain behind Williams Tower in Uptown, a short walk from the Galleria.",
-      "hours": "Park open ~8:00 AM–midnight; fountain runs ~9:00 AM–9:00 PM",
-      "rating": 4.3
+      "hours": "Park open ~8:00 AM–midnight; fountain runs ~9:00 AM–9:00 PM"
     },
     {
       "name": "Discovery Green",
@@ -244,7 +193,6 @@
       "lng": -95.3594,
       "note": "A 12-acre downtown park opposite the convention centre with a lake, splash pad, lawn concerts and an ice ribbon in winter.",
       "hours": "6:00 AM–11:00 PM daily",
-      "rating": 4.4,
       "ticketUrl": "https://www.discoverygreen.com"
     },
     {
@@ -253,7 +201,6 @@
       "lng": -95.3783,
       "note": "A vast 1926 underground drinking-water reservoir, its 221 columns now lit for guided tours and art installations.",
       "hours": "Timed tours ~10:00 AM–5:00 PM Wed–Sun (closed Mon–Tue)",
-      "rating": 4.4,
       "ticketUrl": "https://buffalobayou.org",
       "bookAhead": true
     },
@@ -263,7 +210,6 @@
       "lng": -95.3497,
       "note": "Meow Wolf's immersive art maze in a fictional radio station, opened in 2024 in the Fifth Ward next to Saint Arnold.",
       "hours": "Days and times vary; check the calendar",
-      "rating": 4.4,
       "ticketUrl": "https://meowwolf.com/houston",
       "bookAhead": true
     },
@@ -273,7 +219,6 @@
       "lng": -95.385,
       "note": "A 160-acre green corridor along the bayou west of downtown, with trails, skyline views, Lost Lake and kayak rentals.",
       "hours": "Park open ~6:00 AM–11:00 PM daily",
-      "rating": 4.5,
       "ticketUrl": "https://buffalobayou.org"
     },
     {
@@ -282,7 +227,6 @@
       "lng": -95.3513,
       "note": "Texas's oldest craft brewery, with a beer hall, a beer garden and a self-guided tour just north of downtown.",
       "hours": "~11:00 AM–10:00 PM daily (later Fri–Sat)",
-      "rating": 4.5,
       "ticketUrl": "https://www.saintarnold.com"
     },
     {
@@ -290,16 +234,14 @@
       "lat": 29.717,
       "lng": -95.3878,
       "note": "Free themed gardens in Hermann Park with a spiral garden mount for a view over the treetops; a good pairing with the zoo and museums.",
-      "hours": "~7:00 AM–dusk daily",
-      "rating": 4.6
+      "hours": "~7:00 AM–dusk daily"
     },
     {
       "name": "Waugh Drive Bat Colony",
       "lat": 29.7631,
       "lng": -95.3956,
       "note": "About 250,000 Mexican free-tailed bats pour out from under the Waugh Drive bridge at dusk; watch for free from the bayou-side platform.",
-      "hours": "Emergence around sunset, best on warm evenings",
-      "rating": 4.3
+      "hours": "Emergence around sunset, best on warm evenings"
     }
   ],
   "railStations": [

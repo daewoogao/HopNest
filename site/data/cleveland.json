@@ -99,31 +99,21 @@
     }
   ],
   "hotels": [
-    {
-      "name": "Hilton Garden Inn Cleveland Airport",
-      "lat": 41.4249,
-      "lng": -81.8467,
-      "area": "Cleveland Hopkins International Airport",
-      "rating": 4.3,
-      "ratingCount": 1270,
-      "stars": 3,
-      "priceTier": 3,
-      "brandAnchor": true
-    },
-    {"name":"Hilton Cleveland Downtown","lat":41.5027,"lng":-81.6957,"area":"Cleveland Lakefront Station","rating":4.6,"ratingCount":2529,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"The Westin Cleveland Downtown","lat":41.5035,"lng":-81.6915,"area":"Cleveland Lakefront Station","rating":4.2,"ratingCount":1615,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"The Ritz-Carlton, Cleveland","lat":41.4973,"lng":-81.6947,"area":"Downtown","rating":4.4,"ratingCount":1010,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Hotel Cleveland, Autograph Collection","lat":41.4986,"lng":-81.6947,"area":"Downtown","rating":4.4,"ratingCount":121,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Cleveland Marriott Downtown at Key Tower","lat":41.5013,"lng":-81.6944,"area":"Downtown","rating":4.3,"ratingCount":1267,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Drury Plaza Hotel Cleveland Downtown","lat":41.5022,"lng":-81.692,"area":"Downtown","rating":4.6,"ratingCount":1812,"stars":3,"priceTier":3},
-    {"name":"Holiday Inn Express Cleveland Downtown","lat":41.5002,"lng":-81.6887,"area":"Downtown","rating":4.1,"ratingCount":1292,"stars":2,"priceTier":2,"brandAnchor":true},
-    {"name":"Metropolitan at The 9, Autograph Collection","lat":41.4998,"lng":-81.686,"area":"Playhouse Square","rating":4.4,"ratingCount":1008,"stars":4,"priceTier":4,"brandAnchor":true},
-    {"name":"Kimpton Schofield Hotel","lat":41.4999,"lng":-81.6867,"area":"Playhouse Square","rating":4.4,"ratingCount":772,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Crowne Plaza Cleveland at Playhouse Square","lat":41.5004,"lng":-81.6834,"area":"Playhouse Square","rating":4.1,"ratingCount":275,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"Hampton Inn Cleveland-Downtown","lat":41.5024,"lng":-81.689,"area":"Playhouse Square","rating":4.2,"ratingCount":1951,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"Hilton Garden Inn Cleveland Downtown","lat":41.4961,"lng":-81.6813,"area":"Playhouse Square","rating":4,"ratingCount":2082,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"Courtyard Cleveland University Circle","lat":41.508,"lng":-81.6053,"area":"University Circle","rating":4.4,"ratingCount":649,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"Glidden House","lat":41.5111,"lng":-81.6077,"area":"University Circle","rating":4.4,"ratingCount":880,"stars":3,"priceTier":3}
+    {"name":"Hilton Garden Inn Cleveland Airport","lat":41.4249,"lng":-81.8467,"area":"Cleveland Hopkins International Airport","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Hilton Cleveland Downtown","lat":41.5027,"lng":-81.6957,"area":"Cleveland Lakefront Station","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"The Westin Cleveland Downtown","lat":41.5035,"lng":-81.6915,"area":"Cleveland Lakefront Station","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"The Ritz-Carlton, Cleveland","lat":41.4973,"lng":-81.6947,"area":"Downtown","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Hotel Cleveland, Autograph Collection","lat":41.4986,"lng":-81.6947,"area":"Downtown","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Cleveland Marriott Downtown at Key Tower","lat":41.5013,"lng":-81.6944,"area":"Downtown","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Drury Plaza Hotel Cleveland Downtown","lat":41.5022,"lng":-81.692,"area":"Downtown","stars":3,"priceTier":3},
+    {"name":"Holiday Inn Express Cleveland Downtown","lat":41.5002,"lng":-81.6887,"area":"Downtown","stars":2,"priceTier":2,"brandAnchor":true},
+    {"name":"Metropolitan at The 9, Autograph Collection","lat":41.4998,"lng":-81.686,"area":"Playhouse Square","stars":4,"priceTier":4,"brandAnchor":true},
+    {"name":"Kimpton Schofield Hotel","lat":41.4999,"lng":-81.6867,"area":"Playhouse Square","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Crowne Plaza Cleveland at Playhouse Square","lat":41.5004,"lng":-81.6834,"area":"Playhouse Square","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Hampton Inn Cleveland-Downtown","lat":41.5024,"lng":-81.689,"area":"Playhouse Square","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Hilton Garden Inn Cleveland Downtown","lat":41.4961,"lng":-81.6813,"area":"Playhouse Square","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Courtyard Cleveland University Circle","lat":41.508,"lng":-81.6053,"area":"University Circle","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Glidden House","lat":41.5111,"lng":-81.6077,"area":"University Circle","stars":3,"priceTier":3}
   ],
   "sights": [
     {
@@ -132,7 +122,6 @@
       "lng": -81.6954,
       "note": "I. M. Pei's glass pyramid on the lakefront, packed with guitars, stage costumes and handwritten lyrics; a big new wing is due to open around December 2026, and the museum stays open during the work.",
       "hours": "Daily 10:00 AM–5:00 PM, Thu till 9:00 PM (Sep–Jun); adults $45, cashless",
-      "rating": 4.4,
       "ticketUrl": "https://www.rockhall.com"
     },
     {
@@ -140,16 +129,14 @@
       "lat": 41.4847,
       "lng": -81.7028,
       "note": "A 1912 market hall under a vaulted tile ceiling and clock tower in Ohio City, with butchers, bakers and stalls selling pierogi, crepes and gyros.",
-      "hours": "Mon, Wed, Fri, Sat 8:00 AM–5:00 PM; Sun 10:00 AM–4:00 PM; closed Tue, Thu",
-      "rating": 4.6
+      "hours": "Mon, Wed, Fri, Sat 8:00 AM–5:00 PM; Sun 10:00 AM–4:00 PM; closed Tue, Thu"
     },
     {
       "name": "Cleveland Museum of Art",
       "lat": 41.5079,
       "lng": -81.6119,
       "note": "One of the country's great encyclopedic art museums, from armour and Egyptian antiquities to Monet and Picasso, set above the Wade Park lagoon; the permanent collection is free.",
-      "hours": "Tue, Thu, Sat, Sun 10:00 AM–5:00 PM; Wed, Fri till 9:00 PM; closed Mon",
-      "rating": 4.9
+      "hours": "Tue, Thu, Sat, Sun 10:00 AM–5:00 PM; Wed, Fri till 9:00 PM; closed Mon"
     },
     {
       "name": "A Christmas Story House",
@@ -157,7 +144,6 @@
       "lng": -81.6873,
       "note": "The Tremont house where the 1983 holiday film was shot, restored to match the movie (leg lamp included), with a small museum of props across the street.",
       "hours": "Daily 10:00 AM–5:00 PM, longer around Thanksgiving and Christmas; from ~$20",
-      "rating": 4.5,
       "ticketUrl": "https://housefromachristmasstory.com"
     },
     {
@@ -166,7 +152,6 @@
       "lng": -81.7123,
       "note": "A big hillside zoo south of downtown with an African savanna, a rainforest building and the Asian Highlands; take a bus or taxi, it isn't near a rail stop.",
       "hours": "Oct–Mar 10:00 AM–4:00 PM; Apr–Sep 10:00 AM–5:00 PM",
-      "rating": 4.4,
       "ticketUrl": "https://www.clevelandmetroparks.com/zoo"
     },
     {
@@ -174,16 +159,14 @@
       "lat": 41.5113,
       "lng": -81.5912,
       "note": "A hilly Victorian garden cemetery where President Garfield lies in an ornate memorial tower with a balcony view to the lake; Rockefeller and Eliot Ness are buried here too.",
-      "hours": "Gates ~7:30 AM–5:30 PM (later in summer); Garfield Memorial 10:00 AM–4:00 PM daily until 20 Nov 2026",
-      "rating": 4.7
+      "hours": "Gates ~7:30 AM–5:30 PM (later in summer); Garfield Memorial 10:00 AM–4:00 PM daily until 20 Nov 2026"
     },
     {
       "name": "USS Cod Submarine Memorial",
       "lat": 41.5097,
       "lng": -81.6905,
       "note": "A World War II submarine moored on the lakefront that you board the original way, down ladders and through hatches, past torpedoes and bunks.",
-      "hours": "Daily 10:00 AM–5:00 PM, Apr–Nov; winter visits weather permitting",
-      "rating": 4.7
+      "hours": "Daily 10:00 AM–5:00 PM, Apr–Nov; winter visits weather permitting"
     },
     {
       "name": "Progressive Field",
@@ -191,7 +174,6 @@
       "lng": -81.6852,
       "note": "The Guardians' downtown ballpark, with skyline views from the upper deck and a lively district of bars around it on game nights.",
       "hours": "Guardians home games Apr–Sep; ballpark tours on select dates",
-      "rating": 4.6,
       "ticketUrl": "https://www.mlb.com/guardians/ballpark"
     },
     {
@@ -200,7 +182,6 @@
       "lng": -81.6094,
       "note": "Ten acres of themed gardens in University Circle plus a glasshouse with a Madagascar spiny desert and a Costa Rican cloud forest full of butterflies.",
       "hours": "Tue–Sat 10:00 AM–5:00 PM; Sun noon–5:00 PM; closed Mon",
-      "rating": 4.5,
       "ticketUrl": "https://www.cbgarden.org"
     },
     {
@@ -209,7 +190,6 @@
       "lng": -81.6125,
       "note": "Freshly rebuilt galleries of dinosaurs, Ohio wildlife and gems, plus the famous 'Lucy' fossil cast and a live-animal centre.",
       "hours": "Tue–Sun 10:00 AM–5:00 PM; closed Mon",
-      "rating": 4.3,
       "ticketUrl": "https://www.cmnh.org"
     },
     {
@@ -217,16 +197,14 @@
       "lat": 41.5007,
       "lng": -81.6905,
       "note": "An 1890 five-storey shopping arcade with a glass roof and brass railings between Euclid and Superior, now the lobby of a Hyatt with cafés on the ground floor.",
-      "hours": "Concourse open daily, roughly daytime to evening; free",
-      "rating": 4
+      "hours": "Concourse open daily, roughly daytime to evening; free"
     },
     {
       "name": "Little Italy",
       "lat": 41.5096,
       "lng": -81.5967,
       "note": "A few hilly blocks of Mayfield Road with old bakeries, Italian restaurants and art galleries, a short walk up from the Little Italy–University Circle Red Line station.",
-      "hours": "Restaurants lunch to late; Feast of the Assumption mid-August",
-      "rating": 4.4
+      "hours": "Restaurants lunch to late; Feast of the Assumption mid-August"
     },
     {
       "name": "Great Lakes Science Center",
@@ -234,7 +212,6 @@
       "lng": -81.6965,
       "note": "A hands-on science museum beside the Rock Hall with a NASA space gallery and a domed cinema; the moored freighter Steamship William G. Mather is part of the ticket.",
       "hours": "Daily 10:00 AM–5:00 PM, Thu till 8:00 PM; closed on Browns home game days",
-      "rating": 4.1,
       "ticketUrl": "https://greatscience.com"
     },
     {
@@ -242,8 +219,7 @@
       "lat": 41.4893,
       "lng": -81.737,
       "note": "A lakeshore park with a sandy beach, a pier and the best free view of the downtown skyline across the water, especially at sunset.",
-      "hours": "Daily ~6:00 AM–11:00 PM",
-      "rating": 4.6
+      "hours": "Daily ~6:00 AM–11:00 PM"
     },
     {
       "name": "Severance Music Center",
@@ -251,7 +227,6 @@
       "lng": -81.6089,
       "note": "The Art Deco home of the Cleveland Orchestra, one of America's top orchestras, with a gilded concert hall that is worth seeing even on a tour.",
       "hours": "Orchestra season Sep–May; check concert dates",
-      "rating": 4.9,
       "ticketUrl": "https://www.clevelandorchestra.com"
     },
     {
@@ -259,8 +234,7 @@
       "lat": 41.5018,
       "lng": -81.6912,
       "note": "The grand 1925 main library on Superior Avenue, with a reading garden between its two buildings and free exhibits of rare books and maps.",
-      "hours": "Mon–Sat ~9:00 AM–6:00 PM; Sun ~1:00–5:00 PM (Sep–May)",
-      "rating": 4.7
+      "hours": "Mon–Sat ~9:00 AM–6:00 PM; Sun ~1:00–5:00 PM (Sep–May)"
     },
     {
       "name": "Playhouse Square",
@@ -268,7 +242,6 @@
       "lng": -81.6812,
       "note": "The country's largest theatre district outside New York, five restored 1920s halls on Euclid Avenue under a giant outdoor chandelier.",
       "hours": "Chandelier and street always open; show times vary",
-      "rating": 4.7,
       "ticketUrl": "https://www.playhousesquare.org"
     },
     {
@@ -276,8 +249,7 @@
       "lat": 41.4989,
       "lng": -81.6899,
       "note": "A short pedestrian lane of restaurants and bars under strung lights, the easiest dinner-and-drinks stop downtown before a game.",
-      "hours": "Restaurants ~11:00 AM–late daily",
-      "rating": 4.4
+      "hours": "Restaurants ~11:00 AM–late daily"
     }
   ],
   "railStations": [

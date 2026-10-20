@@ -243,27 +243,27 @@
     }
   ],
   "hotels": [
-    {"name":"Radisson Blu Waterfront Hotel, Stockholm","lat":59.3299,"lng":18.0559,"area":"Stockholm Central Station","rating":4.4,"ratingCount":7675,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Sheraton Stockholm Hotel","lat":59.3289,"lng":18.0618,"area":"Stockholm Central Station","rating":4.2,"ratingCount":4531,"stars":4,"priceTier":4,"brandAnchor":true},
-    {"name":"Nordic Light Hotel","lat":59.3326,"lng":18.0571,"area":"Stockholm Central Station","rating":4.6,"ratingCount":1195,"stars":4,"priceTier":3},
-    {"name":"Downtown Camper by Scandic","lat":59.3313,"lng":18.0656,"area":"Stockholm Central Station","rating":4.4,"ratingCount":3728,"stars":4,"priceTier":3},
-    {"name":"City Backpackers Hostel","lat":59.3359,"lng":18.0553,"area":"Stockholm Central Station","rating":4.5,"ratingCount":1292,"stars":1,"priceTier":1},
-    {"name":"Radisson Blu SkyCity Hotel, Arlanda Airport","lat":59.6494,"lng":17.9299,"area":"Stockholm Arlanda Airport","rating":4.1,"ratingCount":2489,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Clarion Hotel Arlanda Airport Terminal","lat":59.649,"lng":17.9314,"area":"Stockholm Arlanda Airport","rating":4.4,"ratingCount":3083,"stars":4,"priceTier":3},
-    {"name":"Comfort Hotel Arlanda Airport Terminal","lat":59.6482,"lng":17.9338,"area":"Stockholm Arlanda Airport","rating":4.3,"ratingCount":423,"stars":3,"priceTier":2},
-    {"name":"Hilton Stockholm Slussen","lat":59.3205,"lng":18.0692,"area":"Gamla Stan","rating":4,"ratingCount":4154,"stars":4,"priceTier":4,"brandAnchor":true},
-    {"name":"Hotel Rival","lat":59.3182,"lng":18.0638,"area":"Gamla Stan","rating":4.7,"ratingCount":3100,"stars":4,"priceTier":3},
-    {"name":"Victory Hotel","lat":59.3244,"lng":18.0679,"area":"Gamla Stan","rating":4.5,"ratingCount":983,"stars":4,"priceTier":3},
-    {"name":"Hotel Sven Vintappare","lat":59.3248,"lng":18.0688,"area":"Gamla Stan","rating":4.6,"ratingCount":377,"stars":3,"priceTier":3},
-    {"name":"Castanea Old Town Hostel","lat":59.3247,"lng":18.0727,"area":"Gamla Stan","rating":4.5,"ratingCount":284,"stars":1,"priceTier":1},
-    {"name":"Radisson Collection Strand Hotel, Stockholm","lat":59.3309,"lng":18.077,"area":"Östermalm","rating":4.2,"ratingCount":808,"stars":4,"priceTier":4,"brandAnchor":true},
-    {"name":"Hotel Villa Dagmar","lat":59.3355,"lng":18.0779,"area":"Östermalm","rating":4.6,"ratingCount":322,"stars":4,"priceTier":4},
-    {"name":"ProfilHotels Riddargatan","lat":59.3344,"lng":18.0766,"area":"Östermalm","rating":4.2,"ratingCount":919,"stars":4,"priceTier":3},
-    {"name":"Home Hotel Wellington","lat":59.3352,"lng":18.0824,"area":"Östermalm","rating":4.4,"ratingCount":1025,"stars":3,"priceTier":3},
-    {"name":"The Sparrow Hotel","lat":59.3369,"lng":18.0716,"area":"Östermalm","rating":4.6,"ratingCount":570,"stars":4,"priceTier":3},
-    {"name":"Nofo Hotel","lat":59.3156,"lng":18.0789,"area":"Södermalm","rating":4.6,"ratingCount":900,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Hotel Frantz","lat":59.3194,"lng":18.0715,"area":"Södermalm","rating":4.8,"ratingCount":870,"stars":4,"priceTier":3},
-    {"name":"Hotel Tre Små Rum","lat":59.3153,"lng":18.0633,"area":"Södermalm","rating":4,"ratingCount":110,"stars":2,"priceTier":1}
+    {"name":"Radisson Blu Waterfront Hotel, Stockholm","lat":59.3299,"lng":18.0559,"area":"Stockholm Central Station","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Sheraton Stockholm Hotel","lat":59.3289,"lng":18.0618,"area":"Stockholm Central Station","stars":4,"priceTier":4,"brandAnchor":true},
+    {"name":"Nordic Light Hotel","lat":59.3326,"lng":18.0571,"area":"Stockholm Central Station","stars":4,"priceTier":3},
+    {"name":"Downtown Camper by Scandic","lat":59.3313,"lng":18.0656,"area":"Stockholm Central Station","stars":4,"priceTier":3},
+    {"name":"City Backpackers Hostel","lat":59.3359,"lng":18.0553,"area":"Stockholm Central Station","stars":1,"priceTier":1},
+    {"name":"Radisson Blu SkyCity Hotel, Arlanda Airport","lat":59.6494,"lng":17.9299,"area":"Stockholm Arlanda Airport","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Clarion Hotel Arlanda Airport Terminal","lat":59.649,"lng":17.9314,"area":"Stockholm Arlanda Airport","stars":4,"priceTier":3},
+    {"name":"Comfort Hotel Arlanda Airport Terminal","lat":59.6482,"lng":17.9338,"area":"Stockholm Arlanda Airport","stars":3,"priceTier":2},
+    {"name":"Hilton Stockholm Slussen","lat":59.3205,"lng":18.0692,"area":"Gamla Stan","stars":4,"priceTier":4,"brandAnchor":true},
+    {"name":"Hotel Rival","lat":59.3182,"lng":18.0638,"area":"Gamla Stan","stars":4,"priceTier":3},
+    {"name":"Victory Hotel","lat":59.3244,"lng":18.0679,"area":"Gamla Stan","stars":4,"priceTier":3},
+    {"name":"Hotel Sven Vintappare","lat":59.3248,"lng":18.0688,"area":"Gamla Stan","stars":3,"priceTier":3},
+    {"name":"Castanea Old Town Hostel","lat":59.3247,"lng":18.0727,"area":"Gamla Stan","stars":1,"priceTier":1},
+    {"name":"Radisson Collection Strand Hotel, Stockholm","lat":59.3309,"lng":18.077,"area":"Östermalm","stars":4,"priceTier":4,"brandAnchor":true},
+    {"name":"Hotel Villa Dagmar","lat":59.3355,"lng":18.0779,"area":"Östermalm","stars":4,"priceTier":4},
+    {"name":"ProfilHotels Riddargatan","lat":59.3344,"lng":18.0766,"area":"Östermalm","stars":4,"priceTier":3},
+    {"name":"Home Hotel Wellington","lat":59.3352,"lng":18.0824,"area":"Östermalm","stars":3,"priceTier":3},
+    {"name":"The Sparrow Hotel","lat":59.3369,"lng":18.0716,"area":"Östermalm","stars":4,"priceTier":3},
+    {"name":"Nofo Hotel","lat":59.3156,"lng":18.0789,"area":"Södermalm","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hotel Frantz","lat":59.3194,"lng":18.0715,"area":"Södermalm","stars":4,"priceTier":3},
+    {"name":"Hotel Tre Små Rum","lat":59.3153,"lng":18.0633,"area":"Södermalm","stars":2,"priceTier":1}
   ],
   "sights": [
     {
@@ -272,7 +272,6 @@
       "lng": 18.0914,
       "note": "A nearly intact 1628 warship that sank on its maiden voyage and was raised in 1961, displayed in a purpose-built hall.",
       "hours": "10:00 AM–5:00 PM daily, till 8:00 PM Wed (check seasonal hours)",
-      "rating": 4.7,
       "ticketUrl": "https://www.vasamuseet.se/en"
     },
     {
@@ -280,8 +279,7 @@
       "lat": 59.325,
       "lng": 18.071,
       "note": "Medieval island centre of cobbled lanes, colourful buildings, the Royal Palace and cafés; best on foot.",
-      "hours": "Open 24 hours (outdoor); shops ~10:00 AM–6:00 PM",
-      "rating": 4.6
+      "hours": "Open 24 hours (outdoor); shops ~10:00 AM–6:00 PM"
     },
     {
       "name": "Skansen",
@@ -289,7 +287,6 @@
       "lng": 18.1033,
       "note": "Open-air museum of Swedish historic buildings with a small zoo of Nordic animals, on Djurgården island.",
       "hours": "~10:00 AM–4:00 PM in autumn; longer in summer (check)",
-      "rating": 4.3,
       "ticketUrl": "https://www.skansen.se/en/"
     },
     {
@@ -298,7 +295,6 @@
       "lng": 18.0963,
       "note": "Interactive pop museum celebrating the Swedish group, with costumes, recording studio and a sing-along stage.",
       "hours": "~10:00 AM–6:00 PM daily (check; later in summer)",
-      "rating": 4.3,
       "ticketUrl": "https://www.abbathemuseum.com/",
       "bookAhead": true
     },
@@ -308,7 +304,6 @@
       "lng": 18.0717,
       "note": "One of Europe's largest palaces: state apartments, treasury, and the changing of the guard in the courtyard.",
       "hours": "~10:00 AM–4:00 PM, closed Mon in winter; guard change ~12:15 PM",
-      "rating": 4.1,
       "ticketUrl": "https://www.kungligaslotten.se/english/"
     },
     {
@@ -317,7 +312,6 @@
       "lng": 18.0543,
       "note": "Brick Nordic-Romantic building on Riddarfjärden, venue of the Nobel banquet, visited on guided tours with a golden-mosaic hall.",
       "hours": "Guided tours only, ~10:00 AM–4:00 PM (check availability)",
-      "rating": 4.5,
       "ticketUrl": "https://international.stockholm.se/the-city-hall/",
       "bookAhead": true
     },
@@ -326,8 +320,7 @@
       "lat": 59.3199,
       "lng": 18.062,
       "note": "Short cliff-top footpath on Södermalm with free panoramic views over Riddarfjärden, Gamla Stan and City Hall; lovely at sunset.",
-      "hours": "Open 24 hours",
-      "rating": 4.7
+      "hours": "Open 24 hours"
     },
     {
       "name": "Fotografiska Stockholm",
@@ -335,7 +328,6 @@
       "lng": 18.0864,
       "note": "Contemporary photography museum in a harbour-side customs house, with a restaurant and bar upstairs and late hours.",
       "hours": "Sun–Wed 9:00 AM–11:00 PM, Thu–Sat 9:00 AM–1:00 AM (check)",
-      "rating": 4.4,
       "ticketUrl": "https://www.fotografiska.com/sto/"
     },
     {
@@ -344,7 +336,6 @@
       "lng": 18.0912,
       "note": "Museum of Swedish prehistory and the Viking Age, with the Gold Room's treasures; free entry to the permanent exhibitions.",
       "hours": "~11:00 AM–5:00 PM, closed Mon (check)",
-      "rating": 4.3,
       "ticketUrl": "https://historiska.se/en/"
     },
     {
@@ -353,7 +344,6 @@
       "lng": 18.0708,
       "note": "Museum in the old Stock Exchange building about the Nobel laureates and their ideas, on Stortorget.",
       "hours": "~11:00 AM–5:00 PM (Thu till later); check closing days",
-      "rating": 3.8,
       "ticketUrl": "https://www.nobelprizemuseum.se/en/"
     },
     {
@@ -362,7 +352,6 @@
       "lng": 18.0953,
       "note": "Grand museum of Nordic cultural history, with everyday objects, clothes and traditions across five centuries.",
       "hours": "~10:00 AM–5:00 PM daily (check)",
-      "rating": 3.9,
       "ticketUrl": "https://www.nordiskamuseet.se/en/"
     },
     {
@@ -371,7 +360,6 @@
       "lng": 18.0787,
       "note": "Sweden's national art museum, with Rembrandt, Renoir and Swedish masters, plus design and decorative arts.",
       "hours": "Tue–Sun ~11:00 AM–7:00 PM (later Thu/Fri), closed Mon",
-      "rating": 4.2,
       "ticketUrl": "https://www.nationalmuseum.se/en"
     },
     {
@@ -380,7 +368,6 @@
       "lng": 18.0841,
       "note": "Modern and contemporary art museum on Skeppsholmen, including works by Picasso, Dalí and Warhol.",
       "hours": "Tue–Sun ~10:00 AM–6:00 PM (till 8:00 PM Tue/Thu), closed Mon (check)",
-      "rating": 4.2,
       "ticketUrl": "https://www.modernamuseet.se/stockholm/en/"
     },
     {
@@ -388,24 +375,15 @@
       "lat": 59.3359,
       "lng": 18.0757,
       "note": "Historic 1888 food hall with cheese, fish, smörgås and Swedish delicacies; a local-flavour addition.",
-      "hours": "Mon–Fri ~9:30 AM–7:00 PM, Sat ~9:30 AM–5:00 PM, closed Sun",
-      "rating": 4.3
+      "hours": "Mon–Fri ~9:30 AM–7:00 PM, Sat ~9:30 AM–5:00 PM, closed Sun"
     },
-    {
-      "name": "Kungsträdgården",
-      "lat": 59.3305,
-      "lng": 18.0712,
-      "note": "Central park of cherry trees, outdoor cafés, skating in winter and events. A local-flavour addition.",
-      "hours": "Open 24 hours",
-      "rating": 4.2
-    },
+    {"name":"Kungsträdgården","lat":59.3305,"lng":18.0712,"note":"Central park of cherry trees, outdoor cafés, skating in winter and events. A local-flavour addition.","hours":"Open 24 hours"},
     {
       "name": "Strandvägen",
       "lat": 59.333,
       "lng": 18.085,
       "note": "Elegant waterfront boulevard of 19th-century apartment buildings, with moored boats and a promenade toward Djurgården.",
-      "hours": "Open 24 hours",
-      "rating": 4.5
+      "hours": "Open 24 hours"
     }
   ],
   "railStations": [

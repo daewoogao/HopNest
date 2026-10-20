@@ -68,61 +68,21 @@
     }
   ],
   "hotels": [
-    {"name":"Grand Bohemian Charlotte, Autograph Collection","lat":35.2281,"lng":-80.8447,"area":"Uptown","rating":4.8,"ratingCount":1133,"stars":4,"priceTier":4,"brandAnchor":true},
-    {"name":"The Ivey's Hotel","lat":35.2284,"lng":-80.8427,"area":"Uptown","rating":4.8,"ratingCount":1540,"stars":4,"priceTier":4},
-    {"name":"Kimpton Tryon Park Hotel","lat":35.2262,"lng":-80.8465,"area":"Uptown","rating":4.7,"ratingCount":914,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Embassy Suites by Hilton Charlotte Uptown","lat":35.222,"lng":-80.8426,"area":"Uptown","rating":4.7,"ratingCount":3423,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"Hyatt Place Charlotte Downtown","lat":35.2226,"lng":-80.8411,"area":"Uptown","rating":4.2,"ratingCount":1740,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"JW Marriott Charlotte","lat":35.2226,"lng":-80.848,"area":"Brooklyn Village","rating":4.8,"ratingCount":711,"stars":4,"priceTier":4,"brandAnchor":true},
-    {"name":"The Westin Charlotte","lat":35.2218,"lng":-80.8473,"area":"Brooklyn Village","rating":4.8,"ratingCount":145,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Hilton Garden Inn Charlotte Uptown","lat":35.2207,"lng":-80.8429,"area":"Brooklyn Village","rating":4.3,"ratingCount":1146,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"Home2 Suites by Hilton Charlotte Uptown","lat":35.2203,"lng":-80.8454,"area":"Brooklyn Village","rating":4.5,"ratingCount":352,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"UNC Charlotte Marriott Hotel & Conference Center","lat":35.3104,"lng":-80.7446,"area":"University City","rating":4.7,"ratingCount":184,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"Hilton Charlotte University Place","lat":35.3089,"lng":-80.7507,"area":"University City","rating":4.2,"ratingCount":2104,"stars":3,"priceTier":3,"brandAnchor":true},
-    {
-      "name": "Hilton Garden Inn Charlotte Airport",
-      "lat": 35.1993,
-      "lng": -80.9166,
-      "area": "Charlotte Douglas International Airport",
-      "rating": 4.5,
-      "ratingCount": 1385,
-      "stars": 3,
-      "priceTier": 3,
-      "brandAnchor": true
-    },
-    {
-      "name": "Holiday Inn Charlotte-Airport Conference Center by IHG",
-      "lat": 35.2396,
-      "lng": -80.9385,
-      "area": "Charlotte Douglas International Airport",
-      "rating": 4.2,
-      "ratingCount": 508,
-      "stars": 3,
-      "priceTier": 3,
-      "brandAnchor": true
-    },
-    {
-      "name": "Hampton Inn & Suites Charlotte Airport",
-      "lat": 35.2384,
-      "lng": -80.9387,
-      "area": "Charlotte Douglas International Airport",
-      "rating": 4.2,
-      "ratingCount": 1412,
-      "stars": 3,
-      "priceTier": 2,
-      "brandAnchor": true
-    },
-    {
-      "name": "Tru by Hilton Charlotte Airport Lake Pointe",
-      "lat": 35.1957,
-      "lng": -80.9155,
-      "area": "Charlotte Douglas International Airport",
-      "rating": 4.5,
-      "ratingCount": 248,
-      "stars": 2,
-      "priceTier": 2,
-      "brandAnchor": true
-    }
+    {"name":"Grand Bohemian Charlotte, Autograph Collection","lat":35.2281,"lng":-80.8447,"area":"Uptown","stars":4,"priceTier":4,"brandAnchor":true},
+    {"name":"The Ivey's Hotel","lat":35.2284,"lng":-80.8427,"area":"Uptown","stars":4,"priceTier":4},
+    {"name":"Kimpton Tryon Park Hotel","lat":35.2262,"lng":-80.8465,"area":"Uptown","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Embassy Suites by Hilton Charlotte Uptown","lat":35.222,"lng":-80.8426,"area":"Uptown","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Hyatt Place Charlotte Downtown","lat":35.2226,"lng":-80.8411,"area":"Uptown","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"JW Marriott Charlotte","lat":35.2226,"lng":-80.848,"area":"Brooklyn Village","stars":4,"priceTier":4,"brandAnchor":true},
+    {"name":"The Westin Charlotte","lat":35.2218,"lng":-80.8473,"area":"Brooklyn Village","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hilton Garden Inn Charlotte Uptown","lat":35.2207,"lng":-80.8429,"area":"Brooklyn Village","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Home2 Suites by Hilton Charlotte Uptown","lat":35.2203,"lng":-80.8454,"area":"Brooklyn Village","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"UNC Charlotte Marriott Hotel & Conference Center","lat":35.3104,"lng":-80.7446,"area":"University City","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Hilton Charlotte University Place","lat":35.3089,"lng":-80.7507,"area":"University City","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Hilton Garden Inn Charlotte Airport","lat":35.1993,"lng":-80.9166,"area":"Charlotte Douglas International Airport","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Holiday Inn Charlotte-Airport Conference Center by IHG","lat":35.2396,"lng":-80.9385,"area":"Charlotte Douglas International Airport","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Hampton Inn & Suites Charlotte Airport","lat":35.2384,"lng":-80.9387,"area":"Charlotte Douglas International Airport","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Tru by Hilton Charlotte Airport Lake Pointe","lat":35.1957,"lng":-80.9155,"area":"Charlotte Douglas International Airport","stars":2,"priceTier":2,"brandAnchor":true}
   ],
   "sights": [
     {
@@ -131,7 +91,6 @@
       "lng": -80.8433,
       "note": "Stock-car racing's shrine beside the convention center: Glory Road's banked track of historic cars, racing simulators and a pit-stop challenge.",
       "hours": "10:00 AM–5:00 PM, closed Tue (private groups only)",
-      "rating": 4.5,
       "ticketUrl": "https://www.nascarhall.com"
     },
     {
@@ -139,8 +98,7 @@
       "lat": 35.1906,
       "lng": -80.9093,
       "note": "Barn-shaped museum on the evangelist's life, with a talking-cow-led tour, his restored boyhood home and the memorial garden where he is buried. Free.",
-      "hours": "9:30 AM–5:00 PM Mon–Sat (last tour 3:30 PM), closed Sun",
-      "rating": 4.8
+      "hours": "9:30 AM–5:00 PM Mon–Sat (last tour 3:30 PM), closed Sun"
     },
     {
       "name": "Discovery Place Science",
@@ -148,7 +106,6 @@
       "lng": -80.8408,
       "note": "Hands-on science museum on North Tryon with a rainforest, aquariums, a maker space and a giant-screen theater; popular with families.",
       "hours": "9:00 AM–4:00 PM Mon–Fri, 10:00 AM–4:30 PM Sat–Sun",
-      "rating": 4.5,
       "ticketUrl": "https://discoveryplace.org"
     },
     {
@@ -156,8 +113,7 @@
       "lat": 35.1913,
       "lng": -80.8442,
       "note": "Dilworth's big green park around a lake, with a loop path, sports fields, a playground and a link onto the Little Sugar Creek Greenway.",
-      "hours": "Daily, ~7:00 AM–dusk",
-      "rating": 4.6
+      "hours": "Daily, ~7:00 AM–dusk"
     },
     {
       "name": "Sullenberger Aviation Museum",
@@ -165,7 +121,6 @@
       "lng": -80.9303,
       "note": "Airport-side aviation museum built around US Airways Flight 1549, the 'Miracle on the Hudson' A320, plus cockpits you can sit in and a historic hangar.",
       "hours": "10:00 AM–4:30 PM Tue–Sat, noon–4:30 PM Sun, closed Mon",
-      "rating": 4.4,
       "ticketUrl": "https://www.sullenbergeraviation.org"
     },
     {
@@ -174,7 +129,6 @@
       "lng": -80.8482,
       "note": "Five-floor glass art museum on South Tryon focused on American and contemporary art, craft and design.",
       "hours": "11:00 AM–6:00 PM Tue–Sat (to 9:00 PM Wed & Fri), 1:00–5:00 PM Sun, closed Mon",
-      "rating": 4.4,
       "ticketUrl": "https://www.mintmuseum.org"
     },
     {
@@ -183,7 +137,6 @@
       "lng": -80.8415,
       "note": "Uptown's 2,100-seat main stage for touring Broadway shows, ballet and concerts, under a glowing crown sculpture.",
       "hours": "Show nights; box office hours vary",
-      "rating": 4.7,
       "ticketUrl": "https://www.blumenthalarts.org",
       "bookAhead": true
     },
@@ -192,16 +145,14 @@
       "lat": 35.2258,
       "lng": -80.8528,
       "note": "The Carolina Panthers' and Charlotte FC's open-air stadium on the edge of Uptown, ringed by bronze panther statues.",
-      "hours": "NFL and MLS game days and events; guided tours on select dates",
-      "rating": 4.4
+      "hours": "NFL and MLS game days and events; guided tours on select dates"
     },
     {
       "name": "Museum of Illusions Charlotte",
       "lat": 35.223,
       "lng": -80.8487,
       "note": "Interactive rooms of optical tricks, tilted spaces and mirror puzzles built for photos, in the Ally Charlotte Center on South Tryon.",
-      "hours": "~10:00 AM–9:00 PM, to 10:00 PM Fri–Sat",
-      "rating": 4.6
+      "hours": "~10:00 AM–9:00 PM, to 10:00 PM Fri–Sat"
     },
     {
       "name": "Truist Field",
@@ -209,7 +160,6 @@
       "lng": -80.849,
       "note": "Downtown ballpark of the Triple-A Charlotte Knights, with skyline views over the outfield beside Romare Bearden Park.",
       "hours": "Knights home games ~Apr–Sep (mostly evenings); no games in the off-season",
-      "rating": 4.6,
       "ticketUrl": "https://www.milb.com/charlotte"
     },
     {
@@ -217,8 +167,7 @@
       "lat": 35.2251,
       "lng": -80.8392,
       "note": "Uptown arena of the NBA's Charlotte Hornets and big-name concerts, right at the CTC/Arena light-rail stop.",
-      "hours": "Event nights only; Hornets season ~Oct–Apr",
-      "rating": 4.2
+      "hours": "Event nights only; Hornets season ~Oct–Apr"
     },
     {
       "name": "Wing Haven",
@@ -226,7 +175,6 @@
       "lng": -80.8409,
       "note": "Walled Myers Park garden and bird sanctuary created by the Clarkson family, with brick paths, fountains and seasonal plant sales.",
       "hours": "10:00 AM–5:00 PM Wed–Sat ($10 adults)",
-      "rating": 4.5,
       "ticketUrl": "https://winghavengardens.org"
     },
     {
@@ -234,48 +182,42 @@
       "lat": 35.2272,
       "lng": -80.8377,
       "note": "Library branch and children's theater in one: a playful public library for kids and teens that also hosts Children's Theatre of Charlotte shows. Free.",
-      "hours": "9:00 AM–8:00 PM Mon–Thu, 9:00 AM–5:00 PM Fri–Sat, 1:00–5:00 PM Sun",
-      "rating": 4.7
+      "hours": "9:00 AM–8:00 PM Mon–Thu, 9:00 AM–5:00 PM Fri–Sat, 1:00–5:00 PM Sun"
     },
     {
       "name": "Fourth Ward",
       "lat": 35.2335,
       "lng": -80.845,
       "note": "Uptown's leafy Victorian residential quarter of restored 19th-century houses, a small park and the Old Settlers' Cemetery, good for a short walk.",
-      "hours": "Neighborhood streets, always open",
-      "rating": 4.4
+      "hours": "Neighborhood streets, always open"
     },
     {
       "name": "Romare Bearden Park",
       "lat": 35.2268,
       "lng": -80.8476,
       "note": "Uptown park named for the Charlotte-born collagist, with gardens, a waterfall wall and lawns facing Truist Field.",
-      "hours": "Daily, ~6:00 AM–11:00 PM",
-      "rating": 4.3
+      "hours": "Daily, ~6:00 AM–11:00 PM"
     },
     {
       "name": "Optimist Hall",
       "lat": 35.2342,
       "lng": -80.8276,
       "note": "Food hall in a restored 1890s gingham mill just north of Uptown, with two dozen local counters and a big communal seating hall.",
-      "hours": "7:00 AM–9:00 PM Mon–Thu, 7:00 AM–10:00 PM Fri, 8:00 AM–10:00 PM Sat, 8:00 AM–9:00 PM Sun (vendors vary)",
-      "rating": 5
+      "hours": "7:00 AM–9:00 PM Mon–Thu, 7:00 AM–10:00 PM Fri, 8:00 AM–10:00 PM Sat, 8:00 AM–9:00 PM Sun (vendors vary)"
     },
     {
       "name": "Little Sugar Creek Greenway",
       "lat": 35.214,
       "lng": -80.83,
       "note": "Paved creekside greenway running from Midtown past Freedom Park toward the south, good for an easy walk or bike ride close to Uptown.",
-      "hours": "Daily, dawn–dusk",
-      "rating": 4.6
+      "hours": "Daily, dawn–dusk"
     },
     {
       "name": "NoDa Brewing Company",
       "lat": 35.2514,
       "lng": -80.8122,
       "note": "Big North Tryon taproom of one of Charlotte's best-known craft breweries, in the old Speas Vinegar plant on the edge of the NoDa arts district.",
-      "hours": "Taproom open daily, ~noon–10:00 PM (shorter hours early in the week)",
-      "rating": 4.4
+      "hours": "Taproom open daily, ~noon–10:00 PM (shorter hours early in the week)"
     }
   ],
   "railStations": [

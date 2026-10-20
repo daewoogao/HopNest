@@ -31,54 +31,24 @@
     }
   ],
   "hotels": [
-    {"name":"Hilton Garden Inn Buffalo Downtown","lat":42.8862,"lng":-78.8738,"area":"Downtown","rating":4.2,"ratingCount":926,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"The Westin Buffalo","lat":42.8912,"lng":-78.877,"area":"Theatre District","rating":4.6,"ratingCount":237,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Hampton Inn & Suites Buffalo Downtown","lat":42.8906,"lng":-78.8775,"area":"Theatre District","rating":4.4,"ratingCount":1613,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"Embassy Suites by Hilton Buffalo","lat":42.8896,"lng":-78.8779,"area":"Theatre District","rating":4.2,"ratingCount":1745,"stars":3,"priceTier":3,"brandAnchor":true},
-    {
-      "name": "Holiday Inn Express & Suites Buffalo Downtown - Medical Ctr",
-      "lat": 42.8903,
-      "lng": -78.8724,
-      "area": "Theatre District",
-      "rating": 4.2,
-      "ratingCount": 827,
-      "stars": 2,
-      "priceTier": 2,
-      "brandAnchor": true
-    },
-    {"name":"Hotel at the Lafayette, Trademark Collection by Wyndham","lat":42.8849,"lng":-78.8729,"area":"Downtown","rating":4,"ratingCount":581,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Hostel Buffalo-Niagara","lat":42.8921,"lng":-78.8717,"area":"Theatre District","rating":4.3,"ratingCount":128,"stars":2,"priceTier":1},
-    {"name":"Courtyard Buffalo Downtown/Canalside","lat":42.8779,"lng":-78.8764,"area":"Buffalo Exchange Street Station","rating":4.4,"ratingCount":388,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"Buffalo Marriott at LECOM Harborcenter","lat":42.8768,"lng":-78.8769,"area":"Buffalo Exchange Street Station","rating":4.5,"ratingCount":480,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"The Mansion on Delaware Avenue","lat":42.8957,"lng":-78.8756,"area":"Allentown","rating":4.4,"ratingCount":638,"stars":4,"priceTier":4},
-    {"name":"Best Western On The Avenue","lat":42.8983,"lng":-78.8749,"area":"Allentown","rating":4.2,"ratingCount":863,"stars":2,"priceTier":2,"brandAnchor":true},
-    {"name":"Wyndham Garden Buffalo Downtown","lat":42.9,"lng":-78.8646,"area":"Allentown","rating":4.4,"ratingCount":1320,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"Residence Inn Buffalo Downtown","lat":42.9011,"lng":-78.8739,"area":"Allentown","rating":4.5,"ratingCount":62,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"Courtyard Buffalo Airport","lat":42.9312,"lng":-78.7291,"area":"Buffalo Niagara International Airport","rating":4.5,"ratingCount":569,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"Hilton Garden Inn Buffalo Airport","lat":42.9308,"lng":-78.7317,"area":"Buffalo Niagara International Airport","rating":4.4,"ratingCount":1092,"stars":3,"priceTier":3,"brandAnchor":true},
-    {
-      "name": "Fairfield Inn & Suites Buffalo Airport",
-      "lat": 42.931,
-      "lng": -78.7277,
-      "area": "Buffalo Niagara International Airport",
-      "rating": 4.4,
-      "ratingCount": 599,
-      "stars": 3,
-      "priceTier": 2,
-      "brandAnchor": true
-    },
-    {"name":"Aloft Buffalo Airport","lat":42.9294,"lng":-78.7304,"area":"Buffalo Niagara International Airport","rating":4.3,"ratingCount":866,"stars":3,"priceTier":3,"brandAnchor":true},
-    {
-      "name": "Hampton Inn & Suites Buffalo Airport",
-      "lat": 42.9286,
-      "lng": -78.7377,
-      "area": "Buffalo Niagara International Airport",
-      "rating": 4.3,
-      "ratingCount": 936,
-      "stars": 3,
-      "priceTier": 2,
-      "brandAnchor": true
-    }
+    {"name":"Hilton Garden Inn Buffalo Downtown","lat":42.8862,"lng":-78.8738,"area":"Downtown","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"The Westin Buffalo","lat":42.8912,"lng":-78.877,"area":"Theatre District","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hampton Inn & Suites Buffalo Downtown","lat":42.8906,"lng":-78.8775,"area":"Theatre District","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Embassy Suites by Hilton Buffalo","lat":42.8896,"lng":-78.8779,"area":"Theatre District","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Holiday Inn Express & Suites Buffalo Downtown - Medical Ctr","lat":42.8903,"lng":-78.8724,"area":"Theatre District","stars":2,"priceTier":2,"brandAnchor":true},
+    {"name":"Hotel at the Lafayette, Trademark Collection by Wyndham","lat":42.8849,"lng":-78.8729,"area":"Downtown","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hostel Buffalo-Niagara","lat":42.8921,"lng":-78.8717,"area":"Theatre District","stars":2,"priceTier":1},
+    {"name":"Courtyard Buffalo Downtown/Canalside","lat":42.8779,"lng":-78.8764,"area":"Buffalo Exchange Street Station","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Buffalo Marriott at LECOM Harborcenter","lat":42.8768,"lng":-78.8769,"area":"Buffalo Exchange Street Station","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"The Mansion on Delaware Avenue","lat":42.8957,"lng":-78.8756,"area":"Allentown","stars":4,"priceTier":4},
+    {"name":"Best Western On The Avenue","lat":42.8983,"lng":-78.8749,"area":"Allentown","stars":2,"priceTier":2,"brandAnchor":true},
+    {"name":"Wyndham Garden Buffalo Downtown","lat":42.9,"lng":-78.8646,"area":"Allentown","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Residence Inn Buffalo Downtown","lat":42.9011,"lng":-78.8739,"area":"Allentown","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Courtyard Buffalo Airport","lat":42.9312,"lng":-78.7291,"area":"Buffalo Niagara International Airport","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Hilton Garden Inn Buffalo Airport","lat":42.9308,"lng":-78.7317,"area":"Buffalo Niagara International Airport","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Fairfield Inn & Suites Buffalo Airport","lat":42.931,"lng":-78.7277,"area":"Buffalo Niagara International Airport","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Aloft Buffalo Airport","lat":42.9294,"lng":-78.7304,"area":"Buffalo Niagara International Airport","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Hampton Inn & Suites Buffalo Airport","lat":42.9286,"lng":-78.7377,"area":"Buffalo Niagara International Airport","stars":3,"priceTier":2,"brandAnchor":true}
   ],
   "sights": [
     {
@@ -87,7 +57,6 @@
       "lng": -78.8481,
       "note": "Wright's sprawling 1905 Prairie-style estate for a soap-company executive, restored with its art-glass windows, pergola and conservatory.",
       "hours": "Guided tours Thu–Mon 9:30 AM–4:30 PM; closed Tue–Wed",
-      "rating": 4.8,
       "ticketUrl": "https://martinhouse.org/tours/",
       "bookAhead": true
     },
@@ -96,8 +65,7 @@
       "lat": 42.8772,
       "lng": -78.8782,
       "note": "The rebuilt western end of the Erie Canal at the harbor, with boardwalks, replica canal channels, summer concerts and boat rentals, and winter skating on the frozen canals.",
-      "hours": "Grounds open daily; events and rentals vary by season",
-      "rating": 4.5
+      "hours": "Grounds open daily; events and rentals vary by season"
     },
     {
       "name": "Buffalo and Erie County Naval & Military Park",
@@ -105,7 +73,6 @@
       "lng": -78.8795,
       "note": "Climb aboard a WWII destroyer, a guided-missile cruiser and a submarine moored at the waterfront, with a museum of military aircraft and vehicles beside them.",
       "hours": "Daily 10:00 AM–4:00 PM in Oct (last ships ticket 3:00 PM); shorter or closed in winter. Below decks on USS The Sullivans are closed for preservation work.",
-      "rating": 4.6,
       "ticketUrl": "https://buffalonavalpark.org/plan-your-visit/hours-admission"
     },
     {
@@ -114,7 +81,6 @@
       "lng": -78.8756,
       "note": "A major modern and contemporary collection, from Pollock to Warhol, in a neoclassical temple joined to a glass Gundlach Building that opened in 2023.",
       "hours": "Thu–Fri 10:00 AM–8:00 PM, Sat–Mon 10:00 AM–5:00 PM; closed Tue–Wed",
-      "rating": 4.5,
       "ticketUrl": "https://buffaloakg.org"
     },
     {
@@ -122,8 +88,7 @@
       "lat": 42.9262,
       "lng": -78.863,
       "note": "A rolling 269-acre garden cemetery with lakes, sculpture, a Wright-designed mausoleum and the grave of President Millard Fillmore.",
-      "hours": "Grounds open daily ~8:00 AM–5:00 PM (later in summer); main gate on Delaware Ave",
-      "rating": 4.8
+      "hours": "Grounds open daily ~8:00 AM–5:00 PM (later in summer); main gate on Delaware Ave"
     },
     {
       "name": "Theodore Roosevelt Inaugural National Historic Site",
@@ -131,7 +96,6 @@
       "lng": -78.8722,
       "note": "The Wilcox Mansion where Roosevelt took the oath in 1901 after McKinley's assassination, told through guided, interactive tours.",
       "hours": "Guided tours only: Mon–Fri hourly 9:30 AM–3:30 PM, Sat–Sun 11:30 AM–3:30 PM",
-      "rating": 4.6,
       "ticketUrl": "https://www.trsite.org",
       "bookAhead": true
     },
@@ -140,8 +104,7 @@
       "lat": 42.8866,
       "lng": -78.8789,
       "note": "A 32-story Art Deco tower from 1931 with a lavish lobby and a free 28th-floor observation deck over Lake Erie and downtown.",
-      "hours": "Observation deck Mon–Fri ~8:30 AM–4:00 PM; free building tour weekdays at noon",
-      "rating": 4.5
+      "hours": "Observation deck Mon–Fri ~8:30 AM–4:00 PM; free building tour weekdays at noon"
     },
     {
       "name": "Buffalo and Erie County Botanical Gardens",
@@ -149,7 +112,6 @@
       "lng": -78.8258,
       "note": "A Victorian glass conservatory beside South Park with palms, cacti and seasonal flower shows.",
       "hours": "Daily 10:00 AM–4:00 PM",
-      "rating": 4.3,
       "ticketUrl": "https://www.buffalogardens.com"
     },
     {
@@ -157,16 +119,14 @@
       "lat": 42.8803,
       "lng": -78.8697,
       "note": "A collection of Buffalo-built Pierce-Arrow luxury cars and other vehicles, plus a full-size Frank Lloyd Wright filling station built from his drawings.",
-      "hours": "Thu–Sat 11:00 AM–4:00 PM",
-      "rating": 4.5
+      "hours": "Thu–Sat 11:00 AM–4:00 PM"
     },
     {
       "name": "Elmwood Village",
       "lat": 42.9178,
       "lng": -78.877,
       "note": "A walkable strip of Victorian homes, indie shops, cafés and bars along Elmwood Avenue between Allentown and Delaware Park.",
-      "hours": "Shops ~10:00 AM–8:00 PM; bars open late",
-      "rating": 4.4
+      "hours": "Shops ~10:00 AM–8:00 PM; bars open late"
     },
     {
       "name": "Buffalo Zoo",
@@ -174,7 +134,6 @@
       "lng": -78.8525,
       "note": "One of the oldest zoos in the US, compact and easy to walk, with polar bears, a rainforest house and an arctic exhibit at the edge of Delaware Park.",
       "hours": "Daily 10:00 AM–5:00 PM (last entry 4:00 PM)",
-      "rating": 4,
       "ticketUrl": "https://buffalozoo.org/tickets/"
     },
     {
@@ -183,7 +142,6 @@
       "lng": -78.8723,
       "note": "A gilded 1926 movie palace on Main Street that now hosts touring Broadway shows; it's worth seeing for the interior alone.",
       "hours": "Performance evenings and matinees; box office weekdays",
-      "rating": 4.6,
       "ticketUrl": "https://www.sheas.org"
     },
     {
@@ -192,7 +150,6 @@
       "lng": -78.8424,
       "note": "A hands-on science museum in a 1929 building with dinosaur, space and human-body galleries and an observatory dome.",
       "hours": "Mon–Fri 10:00 AM–4:00 PM, Sat–Sun 10:00 AM–5:00 PM",
-      "rating": 4.1,
       "ticketUrl": "https://www.sciencebuff.org"
     },
     {
@@ -200,40 +157,35 @@
       "lat": 42.9318,
       "lng": -78.8713,
       "note": "Olmsted's centrepiece park for Buffalo, with Hoyt Lake, a rose garden, the Japanese Garden and loop paths for walking or cycling.",
-      "hours": "Open daily, dawn–dusk",
-      "rating": 4.6
+      "hours": "Open daily, dawn–dusk"
     },
     {
       "name": "Richardson Olmsted Campus",
       "lat": 42.9278,
       "lng": -78.8842,
       "note": "H. H. Richardson's twin-towered 1870s asylum on Olmsted-designed grounds, now home to the Lipsey Buffalo Architecture Center.",
-      "hours": "Grounds open daily; architecture center and tours on set days, check ahead",
-      "rating": 4.7
+      "hours": "Grounds open daily; architecture center and tours on set days, check ahead"
     },
     {
       "name": "Guaranty Building",
       "lat": 42.8831,
       "lng": -78.875,
       "note": "Louis Sullivan's 1896 early skyscraper, covered in ornate terracotta, with a free interpretive center in its restored lobby.",
-      "hours": "Lobby interpretive center open during building hours (~weekday daytime); free",
-      "rating": 4.7
+      "hours": "Lobby interpretive center open during building hours (~weekday daytime); free"
     },
     {
       "name": "Larkin Square",
       "lat": 42.8768,
       "lng": -78.8512,
       "note": "A revived factory-district plaza with weekly summer food-truck nights and live music among old brick warehouses.",
-      "hours": "Plaza open daily; events mainly Tue–Wed evenings May–Sep",
-      "rating": 4.7
+      "hours": "Plaza open daily; events mainly Tue–Wed evenings May–Sep"
     },
     {
       "name": "Niagara Falls State Park",
       "lat": 43.0849,
       "lng": -79.0659,
       "note": "The American side of Niagara Falls, ~30 km north and not on Metro Rail: a car, a bus or a tour is needed. Paths run to Prospect Point, Goat Island and Terrapin Point.",
-      "hours": "Park open 24 h daily; falls are lit at night",
-      "rating": 4.6
+      "hours": "Park open 24 h daily; falls are lit at night"
     }
   ],
   "railStations": [

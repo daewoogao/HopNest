@@ -75,22 +75,22 @@
     }
   ],
   "hotels": [
-    {"name":"Oryx Airport Hotel","lat":25.2626,"lng":51.6139,"area":"Hamad International Airport","rating":4.3,"ratingCount":1722,"stars":4,"priceTier":3},
-    {"name":"Park Hyatt Doha","lat":25.2842,"lng":51.5278,"area":"Msheireb","rating":4.9,"ratingCount":993,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Mandarin Oriental, Doha","lat":25.2862,"lng":51.5259,"area":"Msheireb","rating":4.8,"ratingCount":462,"stars":5,"priceTier":4},
-    {"name":"Alwadi Hotel Doha - MGallery Collection","lat":25.2853,"lng":51.5302,"area":"Msheireb","rating":4.9,"ratingCount":3340,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Four Points by Sheraton Doha","lat":25.2829,"lng":51.5236,"area":"Msheireb","rating":4.4,"ratingCount":792,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Ramada Encore by Wyndham Doha","lat":25.2804,"lng":51.5304,"area":"Msheireb","rating":4.1,"ratingCount":840,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"Embassy Suites by Hilton Doha Old Town","lat":25.2838,"lng":51.5406,"area":"Souq Waqif","rating":4.7,"ratingCount":177,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Shaza Doha","lat":25.2869,"lng":51.5405,"area":"Souq Waqif","rating":4.7,"ratingCount":472,"stars":5,"priceTier":4},
-    {"name":"Ramada by Wyndham Doha Old Town","lat":25.2876,"lng":51.5405,"area":"Souq Waqif","rating":4.1,"ratingCount":117,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Best Western Plus Doha","lat":25.2898,"lng":51.5428,"area":"Souq Waqif","rating":4,"ratingCount":703,"stars":4,"priceTier":2,"brandAnchor":true},
-    {"name":"Central Inn Souq Waqif","lat":25.2841,"lng":51.5373,"area":"Souq Waqif","rating":4.5,"ratingCount":173,"stars":3,"priceTier":2},
-    {"name":"Marriott Marquis City Center Doha Hotel","lat":25.325,"lng":51.5281,"area":"West Bay","rating":4.6,"ratingCount":2375,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"InterContinental Doha - the City by IHG","lat":25.3264,"lng":51.5244,"area":"West Bay","rating":4.7,"ratingCount":3656,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Wyndham Doha West Bay","lat":25.3225,"lng":51.5254,"area":"West Bay","rating":4.8,"ratingCount":1981,"stars":5,"priceTier":3,"brandAnchor":true},
-    {"name":"voco Doha West Bay Suites by IHG","lat":25.3253,"lng":51.5226,"area":"West Bay","rating":4.8,"ratingCount":884,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Ezdan Hotel West Bay Towers","lat":25.3187,"lng":51.5226,"area":"West Bay","rating":4.3,"ratingCount":4727,"stars":4,"priceTier":3}
+    {"name":"Oryx Airport Hotel","lat":25.2626,"lng":51.6139,"area":"Hamad International Airport","stars":4,"priceTier":3},
+    {"name":"Park Hyatt Doha","lat":25.2842,"lng":51.5278,"area":"Msheireb","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Mandarin Oriental, Doha","lat":25.2862,"lng":51.5259,"area":"Msheireb","stars":5,"priceTier":4},
+    {"name":"Alwadi Hotel Doha - MGallery Collection","lat":25.2853,"lng":51.5302,"area":"Msheireb","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Four Points by Sheraton Doha","lat":25.2829,"lng":51.5236,"area":"Msheireb","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Ramada Encore by Wyndham Doha","lat":25.2804,"lng":51.5304,"area":"Msheireb","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Embassy Suites by Hilton Doha Old Town","lat":25.2838,"lng":51.5406,"area":"Souq Waqif","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Shaza Doha","lat":25.2869,"lng":51.5405,"area":"Souq Waqif","stars":5,"priceTier":4},
+    {"name":"Ramada by Wyndham Doha Old Town","lat":25.2876,"lng":51.5405,"area":"Souq Waqif","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Best Western Plus Doha","lat":25.2898,"lng":51.5428,"area":"Souq Waqif","stars":4,"priceTier":2,"brandAnchor":true},
+    {"name":"Central Inn Souq Waqif","lat":25.2841,"lng":51.5373,"area":"Souq Waqif","stars":3,"priceTier":2},
+    {"name":"Marriott Marquis City Center Doha Hotel","lat":25.325,"lng":51.5281,"area":"West Bay","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"InterContinental Doha - the City by IHG","lat":25.3264,"lng":51.5244,"area":"West Bay","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Wyndham Doha West Bay","lat":25.3225,"lng":51.5254,"area":"West Bay","stars":5,"priceTier":3,"brandAnchor":true},
+    {"name":"voco Doha West Bay Suites by IHG","lat":25.3253,"lng":51.5226,"area":"West Bay","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Ezdan Hotel West Bay Towers","lat":25.3187,"lng":51.5226,"area":"West Bay","stars":4,"priceTier":3}
   ],
   "sights": [
     {
@@ -98,8 +98,7 @@
       "lat": 25.2874,
       "lng": 51.5332,
       "note": "A rebuilt traditional market of mud-rendered lanes selling spices, textiles, perfume and falconry gear, with cafés and restaurants that stay busy late into the night.",
-      "hours": "Lanes open all day; most shops ~10:00 AM–noon and ~4:00 PM–11:00 PM, restaurants later",
-      "rating": 4.5
+      "hours": "Lanes open all day; most shops ~10:00 AM–noon and ~4:00 PM–11:00 PM, restaurants later"
     },
     {
       "name": "Museum of Islamic Art",
@@ -107,7 +106,6 @@
       "lng": 51.5393,
       "note": "I. M. Pei's geometric stone museum on its own island off the Corniche, holding 1,400 years of Islamic art from Spain to Central Asia, with skyline views from the atrium.",
       "hours": "9:00 AM–7:00 PM Sat–Tue, to 9:00 PM Thu, 1:30–7:00 PM Fri; closed Wed",
-      "rating": 4.6,
       "ticketUrl": "https://mia.org.qa/en"
     },
     {
@@ -115,16 +113,14 @@
       "lat": 25.2975,
       "lng": 51.5415,
       "note": "A landscaped waterfront park around the Museum of Islamic Art, with lawns, a crescent promenade, Richard Serra's sculpture 7 and views across the bay to West Bay.",
-      "hours": "Open 24 hours",
-      "rating": 4.6
+      "hours": "Open 24 hours"
     },
     {
       "name": "The Corniche",
       "lat": 25.2985,
       "lng": 51.525,
       "note": "A 7 km palm-lined seafront promenade curving around Doha Bay between the Museum of Islamic Art and the West Bay towers, popular for evening walks and dhow rides.",
-      "hours": "Open 24 hours",
-      "rating": 4.4
+      "hours": "Open 24 hours"
     },
     {
       "name": "National Museum of Qatar",
@@ -132,7 +128,6 @@
       "lng": 51.5494,
       "note": "Jean Nouvel's 'desert rose' building of interlocking discs, telling Qatar's story from geology and Bedouin life to oil, wrapped around the restored palace of Sheikh Abdullah bin Jassim.",
       "hours": "~9:00 AM–7:00 PM Sat–Thu, from 1:30 PM Fri",
-      "rating": 4.7,
       "ticketUrl": "https://nmoq.org.qa/en"
     },
     {
@@ -140,8 +135,7 @@
       "lat": 25.2873,
       "lng": 51.5354,
       "note": "The spiral-minaret mosque and cultural centre beside Souq Waqif, offering visitors free introductions to Islam and Qatari customs.",
-      "hours": "~8:00 AM–noon Sun–Thu; visitor tours vary, check ahead",
-      "rating": 4.2
+      "hours": "~8:00 AM–noon Sun–Thu; visitor tours vary, check ahead"
     },
     {
       "name": "Msheireb Museums",
@@ -149,7 +143,6 @@
       "lng": 51.5283,
       "note": "Four restored heritage houses in the Msheireb quarter covering Doha's early urban life, the pearling-era labour migration and the history of the slave trade in the Gulf.",
       "hours": "~10:00 AM–6:00 PM Sat–Thu, from 3:00 PM Fri",
-      "rating": 4.7,
       "ticketUrl": "https://www.msheirebmuseums.com/en"
     },
     {
@@ -164,40 +157,35 @@
       "lat": 25.2945,
       "lng": 51.547,
       "note": "The former port turned waterfront district, with brightly painted shipping-container shops and cafés in the Mina District and a marina for cruise ships.",
-      "hours": "Open streets; shops and cafés ~10:00 AM–late",
-      "rating": 4.7
+      "hours": "Open streets; shops and cafés ~10:00 AM–late"
     },
     {
       "name": "Imam Muhammad bin Abdul Wahhab Mosque",
       "lat": 25.3171,
       "lng": 51.5051,
       "note": "Qatar's national mosque, a vast sandstone building with 90 domes; non-Muslim visitors are welcome outside prayer times in modest dress.",
-      "hours": "Visits outside prayer times; closed to visitors Friday midday",
-      "rating": 4.5
+      "hours": "Visits outside prayer times; closed to visitors Friday midday"
     },
     {
       "name": "Museum of Illusions Doha",
       "lat": 25.3237,
       "lng": 51.5265,
       "note": "A hands-on museum of optical illusions, tilted rooms and mirror installations on the first floor of The Gate Mall in West Bay.",
-      "hours": "9:00 AM–10:00 PM Sat–Thu, 1:00–10:00 PM Fri",
-      "rating": 4.9
+      "hours": "9:00 AM–10:00 PM Sat–Thu, 1:00–10:00 PM Fri"
     },
     {
       "name": "Katara Cultural Village",
       "lat": 25.3595,
       "lng": 51.5255,
       "note": "A seafront arts quarter with a Greek-style amphitheatre, galleries, pigeon towers, ornate mosques, a public beach and many restaurants.",
-      "hours": "Open 24 hours; venues and restaurants ~10:00 AM–midnight",
-      "rating": 4.3
+      "hours": "Open 24 hours; venues and restaurants ~10:00 AM–midnight"
     },
     {
       "name": "The Pearl-Qatar",
       "lat": 25.369,
       "lng": 51.5505,
       "note": "An artificial island of marinas and Mediterranean-style apartment blocks; the Porto Arabia boardwalk and the canal-side Qanat Quartier are the parts to stroll.",
-      "hours": "Open 24 hours; shops and restaurants ~10:00 AM–late",
-      "rating": 4.3
+      "hours": "Open 24 hours; shops and restaurants ~10:00 AM–late"
     },
     {
       "name": "Qatar National Library",
@@ -205,7 +193,6 @@
       "lng": 51.4413,
       "note": "Rem Koolhaas's library in Education City, a single open hall of terraced white bookshelves around a sunken heritage collection of manuscripts and maps.",
       "hours": "~8:00 AM–8:00 PM Sat–Thu, ~4:00–8:00 PM Fri",
-      "rating": 4.9,
       "ticketUrl": "https://www.qnl.qa/en"
     },
     {
@@ -213,16 +200,14 @@
       "lat": 25.2585,
       "lng": 51.4415,
       "note": "Doha's largest park, next to the Aspire Tower and Khalifa International Stadium, with a lake, jogging tracks and shaded lawns that fill up on cooler evenings.",
-      "hours": "Open 24 hours",
-      "rating": 4.4
+      "hours": "Open 24 hours"
     },
     {
       "name": "Khalifa International Stadium",
       "lat": 25.2636,
       "lng": 51.4481,
       "note": "The national stadium of Qatar, rebuilt for the 2022 World Cup with a twin-arch roof; the 3-2-1 Qatar Olympic and Sports Museum sits beside it.",
-      "hours": "Exterior anytime; museum ~9:00 AM–7:00 PM, from 1:30 PM Fri",
-      "rating": 4.3
+      "hours": "Exterior anytime; museum ~9:00 AM–7:00 PM, from 1:30 PM Fri"
     }
   ],
   "railStations": [],

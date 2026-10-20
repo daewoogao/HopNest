@@ -235,24 +235,24 @@
     }
   ],
   "hotels": [
-    {"name":"Sofitel Munich Bayerpost","lat":48.1395,"lng":11.5568,"area":"München Hauptbahnhof","rating":4.3,"ratingCount":5230,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Aloft Munich","lat":48.1389,"lng":11.559,"area":"München Hauptbahnhof","rating":4.3,"ratingCount":1233,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"25hours Hotel The Royal Bavarian","lat":48.1399,"lng":11.5614,"area":"München Hauptbahnhof","rating":4.4,"ratingCount":1073,"stars":4,"priceTier":3},
-    {"name":"Hotel Marc","lat":48.138,"lng":11.5599,"area":"München Hauptbahnhof","rating":4.6,"ratingCount":2639,"stars":3,"priceTier":2},
-    {"name":"Wombat's City Hostel Munich Hauptbahnhof","lat":48.1389,"lng":11.5603,"area":"München Hauptbahnhof","rating":4.3,"ratingCount":1378,"stars":1,"priceTier":1},
-    {"name":"Hilton Munich Airport","lat":48.3556,"lng":11.7887,"area":"Munich Airport","rating":4.3,"ratingCount":4109,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Novotel Munich Airport","lat":48.3547,"lng":11.759,"area":"Munich Airport","rating":4,"ratingCount":2621,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Hotel Vier Jahreszeiten Kempinski München","lat":48.1392,"lng":11.582,"area":"Altstadt","rating":4.3,"ratingCount":2591,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Mercure Hotel München Altstadt","lat":48.1371,"lng":11.571,"area":"Altstadt","rating":4.2,"ratingCount":1941,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"Platzl Hotel","lat":48.138,"lng":11.579,"area":"Altstadt","rating":4.5,"ratingCount":3284,"stars":4,"priceTier":3},
-    {"name":"Hotel Blauer Bock","lat":48.1344,"lng":11.5738,"area":"Altstadt","rating":4.4,"ratingCount":1234,"stars":3,"priceTier":2},
-    {"name":"Motel One München-Sendlinger Tor","lat":48.1347,"lng":11.5668,"area":"Altstadt","rating":4.3,"ratingCount":1913,"stars":3,"priceTier":2},
-    {"name":"Schwabinger Wahrheit by Geisel","lat":48.1594,"lng":11.5841,"area":"Schwabing","rating":4.6,"ratingCount":165,"stars":4,"priceTier":3},
-    {"name":"Hotel Gästehaus Englischer Garten","lat":48.1616,"lng":11.5941,"area":"Schwabing","rating":4,"ratingCount":112,"stars":3,"priceTier":2},
-    {"name":"Residence Inn by Marriott Munich City East","lat":48.131,"lng":11.6076,"area":"Haidhausen","rating":4.3,"ratingCount":619,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"MOMA1890 Boutique Hotel","lat":48.1289,"lng":11.6043,"area":"Haidhausen","rating":4.7,"ratingCount":917,"stars":4,"priceTier":3},
-    {"name":"Adina Apartment Hotel Munich","lat":48.1243,"lng":11.6068,"area":"Haidhausen","rating":4.1,"ratingCount":258,"stars":4,"priceTier":3},
-    {"name":"Motel One München-East Side","lat":48.132,"lng":11.6091,"area":"Haidhausen","rating":4,"ratingCount":503,"stars":3,"priceTier":2}
+    {"name":"Sofitel Munich Bayerpost","lat":48.1395,"lng":11.5568,"area":"München Hauptbahnhof","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Aloft Munich","lat":48.1389,"lng":11.559,"area":"München Hauptbahnhof","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"25hours Hotel The Royal Bavarian","lat":48.1399,"lng":11.5614,"area":"München Hauptbahnhof","stars":4,"priceTier":3},
+    {"name":"Hotel Marc","lat":48.138,"lng":11.5599,"area":"München Hauptbahnhof","stars":3,"priceTier":2},
+    {"name":"Wombat's City Hostel Munich Hauptbahnhof","lat":48.1389,"lng":11.5603,"area":"München Hauptbahnhof","stars":1,"priceTier":1},
+    {"name":"Hilton Munich Airport","lat":48.3556,"lng":11.7887,"area":"Munich Airport","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Novotel Munich Airport","lat":48.3547,"lng":11.759,"area":"Munich Airport","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hotel Vier Jahreszeiten Kempinski München","lat":48.1392,"lng":11.582,"area":"Altstadt","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Mercure Hotel München Altstadt","lat":48.1371,"lng":11.571,"area":"Altstadt","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Platzl Hotel","lat":48.138,"lng":11.579,"area":"Altstadt","stars":4,"priceTier":3},
+    {"name":"Hotel Blauer Bock","lat":48.1344,"lng":11.5738,"area":"Altstadt","stars":3,"priceTier":2},
+    {"name":"Motel One München-Sendlinger Tor","lat":48.1347,"lng":11.5668,"area":"Altstadt","stars":3,"priceTier":2},
+    {"name":"Schwabinger Wahrheit by Geisel","lat":48.1594,"lng":11.5841,"area":"Schwabing","stars":4,"priceTier":3},
+    {"name":"Hotel Gästehaus Englischer Garten","lat":48.1616,"lng":11.5941,"area":"Schwabing","stars":3,"priceTier":2},
+    {"name":"Residence Inn by Marriott Munich City East","lat":48.131,"lng":11.6076,"area":"Haidhausen","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"MOMA1890 Boutique Hotel","lat":48.1289,"lng":11.6043,"area":"Haidhausen","stars":4,"priceTier":3},
+    {"name":"Adina Apartment Hotel Munich","lat":48.1243,"lng":11.6068,"area":"Haidhausen","stars":4,"priceTier":3},
+    {"name":"Motel One München-East Side","lat":48.132,"lng":11.6091,"area":"Haidhausen","stars":3,"priceTier":2}
   ],
   "sights": [
     {
@@ -260,16 +260,14 @@
       "lat": 48.1374,
       "lng": 11.5755,
       "note": "Munich's central square, dominated by the neo-Gothic Neues Rathaus whose Glockenspiel figures dance at set times; a lift climbs the tower for city views.",
-      "hours": "Square open 24 h; Glockenspiel 11 AM, 12 PM (+5 PM Mar-Oct); tower ~10 AM-7 PM",
-      "rating": 4.5
+      "hours": "Square open 24 h; Glockenspiel 11 AM, 12 PM (+5 PM Mar-Oct); tower ~10 AM-7 PM"
     },
     {
       "name": "English Garden",
       "lat": 48.1599,
       "lng": 11.5927,
       "note": "One of the world's largest city parks, with the Chinese Tower beer garden, the Monopteros hilltop and a river surf wave.",
-      "hours": "Open 24 h",
-      "rating": 4.6
+      "hours": "Open 24 h"
     },
     {
       "name": "BMW Museum & BMW Welt",
@@ -277,7 +275,6 @@
       "lng": 11.5565,
       "note": "The carmaker's museum plus the glass Welt showroom next door, a short walk from Olympiazentrum station.",
       "hours": "Museum Tue-Sun 10 AM-6 PM (closed Mon); BMW Welt daily ~9 AM-6 PM",
-      "rating": 4.4,
       "ticketUrl": "https://www.bmw-welt.com/en"
     },
     {
@@ -286,7 +283,6 @@
       "lng": 11.5799,
       "note": "The Wittelsbach kings' former palace, with the richly decorated Antiquarium, treasury and Cuvilliés Theatre.",
       "hours": "Apr-Oct 9 AM-6 PM; from Oct 22 10 AM-5 PM",
-      "rating": 4.5,
       "ticketUrl": "https://www.residenz-muenchen.de/englisch/index.htm"
     },
     {
@@ -294,8 +290,7 @@
       "lat": 48.135,
       "lng": 11.5686,
       "note": "A tiny, jaw-droppingly ornate Baroque church that the Asam brothers built as their private chapel.",
-      "hours": "Daily ~9 AM-6 PM (closed to visitors during services)",
-      "rating": 4.6
+      "hours": "Daily ~9 AM-6 PM (closed to visitors during services)"
     },
     {
       "name": "Nymphenburg Palace",
@@ -303,7 +298,6 @@
       "lng": 11.5033,
       "note": "The Bavarian rulers' summer residence: a Baroque palace with a long canal, park pavilions and a carriage museum; tram 17 from the centre.",
       "hours": "Apr-Oct 9 AM-6 PM; Oct 16-Mar 10 AM-4 PM",
-      "rating": 4.5,
       "ticketUrl": "https://www.schloss-nymphenburg.de/englisch/index.htm"
     },
     {
@@ -311,8 +305,7 @@
       "lat": 48.1352,
       "lng": 11.5765,
       "note": "A daily open-air food market with a central beer garden, good for cheese, sausages and fresh produce.",
-      "hours": "Mon-Sat ~8 AM-8 PM (stalls vary), closed Sun",
-      "rating": 4.5
+      "hours": "Mon-Sat ~8 AM-8 PM (stalls vary), closed Sun"
     },
     {
       "name": "Deutsches Museum",
@@ -320,7 +313,6 @@
       "lng": 11.5835,
       "note": "The world's largest museum of science and technology, on an island in the Isar; some halls are closed for long-running renovation.",
       "hours": "Daily 9 AM-5 PM",
-      "rating": 4.3,
       "ticketUrl": "https://www.deutsches-museum.de/en"
     },
     {
@@ -329,7 +321,6 @@
       "lng": 11.57,
       "note": "One of the great Old Master galleries, with Dürer, Rubens and Rembrandt; check for partial closures during renovation.",
       "hours": "Tue 10 AM-8 PM, Wed-Sun 10 AM-6 PM, closed Mon",
-      "rating": 4.5,
       "ticketUrl": "https://www.pinakothek.de/en"
     },
     {
@@ -338,7 +329,6 @@
       "lng": 11.5517,
       "note": "The 1972 Olympic grounds with tent-roofed stadium, a hill with views and a TV tower observation deck.",
       "hours": "Park open 24 h; tower ~9 AM-midnight",
-      "rating": 4.4,
       "ticketUrl": "https://www.olympiapark.de/en"
     },
     {
@@ -346,8 +336,7 @@
       "lat": 48.1363,
       "lng": 11.576,
       "note": "Munich's oldest parish church, nicknamed Alter Peter; climb 300 steps of its tower for a view of the Alps on clear days.",
-      "hours": "Church ~8:30 AM-6:30 PM; tower ~9 AM-6 PM",
-      "rating": 4.4
+      "hours": "Church ~8:30 AM-6:30 PM; tower ~9 AM-6 PM"
     },
     {
       "name": "Lenbachhaus",
@@ -355,7 +344,6 @@
       "lng": 11.5632,
       "note": "A gallery famous for the Blue Rider (Der Blaue Reiter) collection, including Kandinsky and Marc.",
       "hours": "Tue 10 AM-8 PM, Wed-Sun 10 AM-6 PM, closed Mon",
-      "rating": 4.7,
       "ticketUrl": "https://www.lenbachhaus.de/en"
     },
     {
@@ -363,18 +351,10 @@
       "lat": 48.1438,
       "lng": 11.5871,
       "note": "A standing river wave at the edge of the English Garden where surfers queue for turns year-round; watch from the bridge.",
-      "hours": "Open 24 h",
-      "rating": 4.6
+      "hours": "Open 24 h"
     },
-    {
-      "name": "Frauenkirche",
-      "lat": 48.1386,
-      "lng": 11.5736,
-      "note": "The twin-onion-domed cathedral that defines the skyline; the south tower lift gives a city view.",
-      "hours": "Daily ~8 AM-8:30 PM",
-      "rating": 4.1
-    },
-    {"name":"Odeonsplatz","lat":48.1427,"lng":11.5774,"note":"Grand square framed by the Theatinerkirche and the Feldherrnhalle, the gateway to the Hofgarten.","hours":"Open 24 h","rating":4.1}
+    {"name":"Frauenkirche","lat":48.1386,"lng":11.5736,"note":"The twin-onion-domed cathedral that defines the skyline; the south tower lift gives a city view.","hours":"Daily ~8 AM-8:30 PM"},
+    {"name":"Odeonsplatz","lat":48.1427,"lng":11.5774,"note":"Grand square framed by the Theatinerkirche and the Feldherrnhalle, the gateway to the Hofgarten.","hours":"Open 24 h"}
   ],
   "railStations": [
     {

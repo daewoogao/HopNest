@@ -160,28 +160,28 @@
     }
   ],
   "hotels": [
-    {"name":"Best Western Premier Hotel Royal Santina","lat":41.9031,"lng":12.5016,"area":"Roma Termini","rating":4.3,"ratingCount":1806,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"NH Collection Roma Palazzo Cinquecento","lat":41.9026,"lng":12.5016,"area":"Roma Termini","rating":4.6,"ratingCount":2360,"stars":5,"priceTier":4},
-    {"name":"The Independent Hotel","lat":41.9039,"lng":12.5006,"area":"Roma Termini","rating":4.7,"ratingCount":2133,"stars":4,"priceTier":3},
-    {"name":"Yes Hotel - Boutique Hotel Rome","lat":41.9033,"lng":12.5026,"area":"Roma Termini","rating":4.4,"ratingCount":2369,"stars":3,"priceTier":2},
-    {"name":"The Beehive (hostel)","lat":41.9031,"lng":12.5044,"area":"Roma Termini","rating":4.6,"ratingCount":1076,"stars":1,"priceTier":1},
-    {"name":"Adesso Hotel","lat":41.9102,"lng":12.5293,"area":"Roma Tiburtina","rating":4.5,"ratingCount":133,"stars":3,"priceTier":2},
-    {"name":"Roma Scout Center (hostel)","lat":41.9099,"lng":12.5224,"area":"Roma Tiburtina","rating":4.2,"ratingCount":447,"stars":1,"priceTier":1},
-    {"name":"Sofitel Roma Villa Borghese","lat":41.9076,"lng":12.4866,"area":"Spanish Steps","rating":4.5,"ratingCount":2821,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"The Inn at the Spanish Steps","lat":41.9056,"lng":12.4815,"area":"Spanish Steps","rating":4.6,"ratingCount":1456,"stars":4,"priceTier":4},
-    {"name":"Hotel Modigliani","lat":41.905,"lng":12.4869,"area":"Spanish Steps","rating":4.4,"ratingCount":1659,"stars":4,"priceTier":3},
-    {"name":"Hotel Condotti","lat":41.9062,"lng":12.4807,"area":"Spanish Steps","rating":4.3,"ratingCount":1641,"stars":3,"priceTier":3},
-    {"name":"Hotel Scalinata di Spagna","lat":41.9057,"lng":12.4835,"area":"Spanish Steps","rating":4.5,"ratingCount":995,"stars":3,"priceTier":3},
-    {"name":"Hotel Raffaello - Sure Hotel Collection by Best Western","lat":41.8978,"lng":12.4955,"area":"Monti","rating":4.5,"ratingCount":3152,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"FH55 Grand Hotel Palatino","lat":41.8945,"lng":12.4923,"area":"Monti","rating":4.1,"ratingCount":3203,"stars":4,"priceTier":3},
-    {"name":"Monti Palace Hotel","lat":41.8954,"lng":12.4938,"area":"Monti","rating":4.5,"ratingCount":1149,"stars":4,"priceTier":3},
-    {"name":"Hotel Palazzo Manfredi","lat":41.8901,"lng":12.4956,"area":"Monti","rating":4.5,"ratingCount":775,"stars":5,"priceTier":4},
-    {"name":"Hotel Colosseum","lat":41.8962,"lng":12.4961,"area":"Monti","rating":4.6,"ratingCount":2661,"stars":3,"priceTier":2},
-    {"name":"The Spring House Hotel Rome Vatican, Tapestry Collection by Hilton","lat":41.9073,"lng":12.4516,"area":"Prati","rating":4.3,"ratingCount":1893,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Hotel dei Consoli","lat":41.9064,"lng":12.4601,"area":"Prati","rating":4.1,"ratingCount":949,"stars":4,"priceTier":3},
-    {"name":"Eccelso Hotel","lat":41.9067,"lng":12.4591,"area":"Prati","rating":4.7,"ratingCount":135,"stars":4,"priceTier":3},
-    {"name":"Hotel Sant'Anna","lat":41.9039,"lng":12.4592,"area":"Prati","rating":4.7,"ratingCount":425,"stars":3,"priceTier":2},
-    {"name":"Bed & Best","lat":41.9073,"lng":12.4633,"area":"Prati","rating":4.8,"ratingCount":135,"stars":2,"priceTier":2}
+    {"name":"Best Western Premier Hotel Royal Santina","lat":41.9031,"lng":12.5016,"area":"Roma Termini","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"NH Collection Roma Palazzo Cinquecento","lat":41.9026,"lng":12.5016,"area":"Roma Termini","stars":5,"priceTier":4},
+    {"name":"The Independent Hotel","lat":41.9039,"lng":12.5006,"area":"Roma Termini","stars":4,"priceTier":3},
+    {"name":"Yes Hotel - Boutique Hotel Rome","lat":41.9033,"lng":12.5026,"area":"Roma Termini","stars":3,"priceTier":2},
+    {"name":"The Beehive (hostel)","lat":41.9031,"lng":12.5044,"area":"Roma Termini","stars":1,"priceTier":1},
+    {"name":"Adesso Hotel","lat":41.9102,"lng":12.5293,"area":"Roma Tiburtina","stars":3,"priceTier":2},
+    {"name":"Roma Scout Center (hostel)","lat":41.9099,"lng":12.5224,"area":"Roma Tiburtina","stars":1,"priceTier":1},
+    {"name":"Sofitel Roma Villa Borghese","lat":41.9076,"lng":12.4866,"area":"Spanish Steps","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"The Inn at the Spanish Steps","lat":41.9056,"lng":12.4815,"area":"Spanish Steps","stars":4,"priceTier":4},
+    {"name":"Hotel Modigliani","lat":41.905,"lng":12.4869,"area":"Spanish Steps","stars":4,"priceTier":3},
+    {"name":"Hotel Condotti","lat":41.9062,"lng":12.4807,"area":"Spanish Steps","stars":3,"priceTier":3},
+    {"name":"Hotel Scalinata di Spagna","lat":41.9057,"lng":12.4835,"area":"Spanish Steps","stars":3,"priceTier":3},
+    {"name":"Hotel Raffaello - Sure Hotel Collection by Best Western","lat":41.8978,"lng":12.4955,"area":"Monti","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"FH55 Grand Hotel Palatino","lat":41.8945,"lng":12.4923,"area":"Monti","stars":4,"priceTier":3},
+    {"name":"Monti Palace Hotel","lat":41.8954,"lng":12.4938,"area":"Monti","stars":4,"priceTier":3},
+    {"name":"Hotel Palazzo Manfredi","lat":41.8901,"lng":12.4956,"area":"Monti","stars":5,"priceTier":4},
+    {"name":"Hotel Colosseum","lat":41.8962,"lng":12.4961,"area":"Monti","stars":3,"priceTier":2},
+    {"name":"The Spring House Hotel Rome Vatican, Tapestry Collection by Hilton","lat":41.9073,"lng":12.4516,"area":"Prati","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hotel dei Consoli","lat":41.9064,"lng":12.4601,"area":"Prati","stars":4,"priceTier":3},
+    {"name":"Eccelso Hotel","lat":41.9067,"lng":12.4591,"area":"Prati","stars":4,"priceTier":3},
+    {"name":"Hotel Sant'Anna","lat":41.9039,"lng":12.4592,"area":"Prati","stars":3,"priceTier":2},
+    {"name":"Bed & Best","lat":41.9073,"lng":12.4633,"area":"Prati","stars":2,"priceTier":2}
   ],
   "sights": [
     {
@@ -190,7 +190,6 @@
       "lng": 12.4922,
       "note": "The 1st-century amphitheatre of Flavian Rome, once holding some 50,000 spectators for gladiator games; timed entry, with a separate ticket for the arena floor and underground.",
       "hours": "8:30 AM–6:30 PM until late Oct, 8:30 AM–4:30 PM in winter; last entry 1 h before close",
-      "rating": 4.6,
       "ticketUrl": "https://colosseo.it/en/",
       "bookAhead": true
     },
@@ -200,7 +199,6 @@
       "lng": 12.4769,
       "note": "Hadrian's 2,000-year-old temple, still crowned by the world's largest unreinforced concrete dome and its open oculus; now a church and Raphael's tomb.",
       "hours": "9:00 AM–7:00 PM daily (last entry 6:30 PM); €7 ticket",
-      "rating": 4.7,
       "ticketUrl": "https://www.museiitaliani.it/"
     },
     {
@@ -208,16 +206,14 @@
       "lat": 41.9009,
       "lng": 12.4833,
       "note": "Rome's grandest Baroque fountain, where a coin tossed over the shoulder promises a return trip; since Feb 2026 a €2 ticket is needed to step down to the basin edge.",
-      "hours": "Basin access 9:00 AM–10:00 PM (from 11:30 AM Mon & Fri), last entry 9:00 PM; piazza always open and free",
-      "rating": 4.4
+      "hours": "Basin access 9:00 AM–10:00 PM (from 11:30 AM Mon & Fri), last entry 9:00 PM; piazza always open and free"
     },
     {
       "name": "Trastevere",
       "lat": 41.8894,
       "lng": 12.4703,
       "note": "Cobbled riverside quarter of ivy-draped lanes, trattorias and evening crowds, centred on Piazza di Santa Maria in Trastevere and its mosaic-fronted basilica.",
-      "hours": "Open 24 hours (liveliest evenings)",
-      "rating": 4.6
+      "hours": "Open 24 hours (liveliest evenings)"
     },
     {
       "name": "Vatican Museums",
@@ -225,7 +221,6 @@
       "lng": 12.4536,
       "note": "The papal collections, from classical sculpture to the Raphael Rooms, ending in Michelangelo's Sistine Chapel ceiling and Last Judgment.",
       "hours": "Mon–Sat 8:00 AM–8:00 PM (last entry 6:00 PM); closed Sun except last Sun of month 9:00 AM–2:00 PM (free)",
-      "rating": 4.3,
       "ticketUrl": "https://tickets.museivaticani.va/",
       "bookAhead": true
     },
@@ -235,7 +230,6 @@
       "lng": 12.4921,
       "note": "A cardinal's villa packed with Bernini's marble sculptures and paintings by Caravaggio, Raphael and Titian, visited in strict two-hour slots.",
       "hours": "Tue–Sun 9:00 AM–7:00 PM, entry on the hour; closed Mon; booking required",
-      "rating": 4.6,
       "ticketUrl": "https://galleriaborghese.beniculturali.it/en/",
       "bookAhead": true
     },
@@ -244,24 +238,21 @@
       "lat": 41.8992,
       "lng": 12.4731,
       "note": "Long oval square on the footprint of Domitian's stadium, with Bernini's Fountain of the Four Rivers at its centre and street artists all around.",
-      "hours": "Open 24 hours",
-      "rating": 4.5
+      "hours": "Open 24 hours"
     },
     {
       "name": "Basilica di Santa Maria Maggiore",
       "lat": 41.8976,
       "lng": 12.4984,
       "note": "One of Rome's four major papal basilicas, with 5th-century mosaics, a gilded coffered ceiling and the tomb of Pope Francis; a short walk from Termini.",
-      "hours": "~7:00 AM–7:00 PM daily; free",
-      "rating": 4.7
+      "hours": "~7:00 AM–7:00 PM daily; free"
     },
     {
       "name": "Castel Sant'Angelo",
       "lat": 41.9031,
       "lng": 12.4663,
       "note": "Hadrian's mausoleum turned papal fortress, linked to the Vatican by a walled passage, with a rooftop terrace looking straight down to St Peter's.",
-      "hours": "9:00 AM–7:30 PM daily (last entry 6:30 PM)",
-      "rating": 4.5
+      "hours": "9:00 AM–7:30 PM daily (last entry 6:30 PM)"
     },
     {
       "name": "Palatine Hill",
@@ -269,7 +260,6 @@
       "lng": 12.487,
       "note": "The hill where Rome's emperors built their palaces, now gardens and ruins with views over the Forum and the Circus Maximus; same ticket as the Colosseum.",
       "hours": "9:00 AM–6:30 PM until late Oct, 9:00 AM–4:30 PM in winter; last entry 1 h before close",
-      "rating": 4.6,
       "ticketUrl": "https://colosseo.it/en/",
       "bookAhead": true
     },
@@ -278,8 +268,7 @@
       "lat": 41.9137,
       "lng": 12.4823,
       "note": "Rome's central park of pines, a boating lake and the Pincio terrace overlooking Piazza del Popolo; rent a bike or rowing boat.",
-      "hours": "Park open 24 hours; Pincio and attractions daylight hours",
-      "rating": 4.5
+      "hours": "Park open 24 hours; Pincio and attractions daylight hours"
     },
     {
       "name": "Roman Forum",
@@ -287,7 +276,6 @@
       "lng": 12.4853,
       "note": "The heart of ancient Rome: temples, triumphal arches and the Senate house strung along the Via Sacra between the Capitoline and Palatine hills.",
       "hours": "9:00 AM–6:30 PM until late Oct, 9:00 AM–4:30 PM in winter; last entry 1 h before close",
-      "rating": 4.6,
       "ticketUrl": "https://colosseo.it/en/",
       "bookAhead": true
     },
@@ -296,8 +284,7 @@
       "lat": 41.8946,
       "lng": 12.4831,
       "note": "The vast white marble 'Vittoriano' on Piazza Venezia, honouring Italy's first king; its terraces and paid glass lift give a 360° view of the city.",
-      "hours": "9:30 AM–7:30 PM daily; panoramic lift extra",
-      "rating": 4.5
+      "hours": "9:30 AM–7:30 PM daily; panoramic lift extra"
     },
     {
       "name": "Palazzo Colonna",
@@ -305,7 +292,6 @@
       "lng": 12.4846,
       "note": "A princely family palace still in private hands, whose Great Hall of mirrors and frescoes rivals Versailles; opens to the public only a few mornings a week.",
       "hours": "Sat 9:15 AM–1:15 PM; Fri mornings guided tours only (book); other days private tours",
-      "rating": 4.8,
       "ticketUrl": "https://www.galleriacolonna.it/en/visits",
       "bookAhead": true
     },
@@ -314,32 +300,28 @@
       "lat": 41.906,
       "lng": 12.4828,
       "note": "The 135-step Baroque stairway from Piazza di Spagna up to the Trinità dei Monti church; sitting on the steps is banned and fined.",
-      "hours": "Open 24 hours",
-      "rating": 3.9
+      "hours": "Open 24 hours"
     },
     {
       "name": "Chiesa di Sant'Ignazio di Loyola",
       "lat": 41.899,
       "lng": 12.4797,
       "note": "Jesuit church famous for Andrea Pozzo's illusionist ceiling and painted 'fake dome'; stand on the floor marker to see the trick work.",
-      "hours": "~9:00 AM–8:00 PM daily; free",
-      "rating": 4.7
+      "hours": "~9:00 AM–8:00 PM daily; free"
     },
     {
       "name": "St. Peter's Basilica",
       "lat": 41.9022,
       "lng": 12.4539,
       "note": "The world's largest church, home to Michelangelo's Pietà and Bernini's bronze canopy; climb the dome for the classic view over St Peter's Square.",
-      "hours": "~7:00 AM–8:00 PM daily (dome closes earlier); free with a security queue; may close during papal ceremonies",
-      "rating": 4.8
+      "hours": "~7:00 AM–8:00 PM daily (dome closes earlier); free with a security queue; may close during papal ceremonies"
     },
     {
       "name": "Mercato di Testaccio",
       "lat": 41.8768,
       "lng": 12.4752,
       "note": "A modern covered neighbourhood market with fruit stalls and much-loved street-food counters serving trapizzini and Roman sandwiches.",
-      "hours": "Mon–Sat ~7:00 AM–3:00 PM; closed Sun",
-      "rating": 4.3
+      "hours": "Mon–Sat ~7:00 AM–3:00 PM; closed Sun"
     }
   ],
   "railStations": [

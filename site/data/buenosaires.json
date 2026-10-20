@@ -152,32 +152,32 @@
     }
   ],
   "hotels": [
-    {"name":"Casa Lucía","lat":-34.5915,"lng":-58.379,"area":"Retiro","rating":4.7,"ratingCount":403,"stars":5,"priceTier":4},
-    {"name":"Carles Hotel Buenos Aires","lat":-34.5929,"lng":-58.3784,"area":"Retiro","rating":4.8,"ratingCount":748,"stars":4,"priceTier":3},
-    {"name":"NH Collection Buenos Aires Crillon","lat":-34.5954,"lng":-58.3787,"area":"Retiro","rating":4.2,"ratingCount":1708,"stars":4,"priceTier":3},
-    {"name":"Feir's Park Hotel & Rooftop","lat":-34.5915,"lng":-58.3783,"area":"Retiro","rating":4.1,"ratingCount":702,"stars":4,"priceTier":3},
-    {"name":"El Misti Hotel Buenos Aires Centro","lat":-34.5974,"lng":-58.3727,"area":"Retiro","rating":4.7,"ratingCount":212,"stars":2,"priceTier":2},
-    {"name":"Buenos Aires Marriott Downtown","lat":-34.6022,"lng":-58.3807,"area":"Microcentro","rating":4,"ratingCount":2099,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"474 Buenos Aires Hotel","lat":-34.6025,"lng":-58.374,"area":"Microcentro","rating":4.5,"ratingCount":1306,"stars":4,"priceTier":3},
-    {"name":"725 Continental Hotel","lat":-34.6061,"lng":-58.3767,"area":"Microcentro","rating":4.1,"ratingCount":1465,"stars":3,"priceTier":2},
-    {"name":"Hilton Buenos Aires","lat":-34.6059,"lng":-58.3637,"area":"Puerto Madero","rating":4.4,"ratingCount":4864,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"NH Collection Buenos Aires Jousten","lat":-34.6033,"lng":-58.371,"area":"Puerto Madero","rating":4.4,"ratingCount":1402,"stars":4,"priceTier":3},
-    {"name":"Regal Pacific Hotel","lat":-34.5989,"lng":-58.3715,"area":"Puerto Madero","rating":4.3,"ratingCount":1038,"stars":4,"priceTier":3},
-    {"name":"Holiday Inn Express Puerto Madero","lat":-34.5987,"lng":-58.3713,"area":"Puerto Madero","rating":4.1,"ratingCount":1231,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"Alvear Palace Hotel","lat":-34.5877,"lng":-58.3887,"area":"Recoleta","rating":4.7,"ratingCount":2744,"stars":5,"priceTier":4},
-    {"name":"Urban Suites Recoleta Boutique Hotel","lat":-34.589,"lng":-58.3926,"area":"Recoleta","rating":4.4,"ratingCount":1106,"stars":4,"priceTier":3},
-    {"name":"Loi Suites Recoleta Hotel","lat":-34.5895,"lng":-58.3924,"area":"Recoleta","rating":4.3,"ratingCount":1236,"stars":4,"priceTier":3},
-    {"name":"Sileo Hotel","lat":-34.587,"lng":-58.3947,"area":"Recoleta","rating":4.3,"ratingCount":503,"stars":4,"priceTier":3},
-    {"name":"Cyan Recoleta Hotel","lat":-34.589,"lng":-58.3925,"area":"Recoleta","rating":4,"ratingCount":1137,"stars":3,"priceTier":2},
-    {"name":"Dazzler by Wyndham Buenos Aires Polo","lat":-34.5762,"lng":-58.4239,"area":"Palermo","rating":4.5,"ratingCount":1053,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Vain Boutique Hotel","lat":-34.5836,"lng":-58.4249,"area":"Palermo","rating":4.6,"ratingCount":1169,"stars":4,"priceTier":3},
-    {"name":"Miravida Soho Hotel & Wine Bar","lat":-34.5843,"lng":-58.4277,"area":"Palermo","rating":4.8,"ratingCount":1764,"stars":4,"priceTier":3},
-    {"name":"Pleno Palermo Soho","lat":-34.5862,"lng":-58.4241,"area":"Palermo","rating":4.3,"ratingCount":956,"stars":4,"priceTier":3},
-    {"name":"Circus Hostel & Hotel","lat":-34.6199,"lng":-58.3757,"area":"San Telmo","rating":4.3,"ratingCount":1980,"stars":1,"priceTier":1},
-    {"name":"Puerto Limon Hostel","lat":-34.6202,"lng":-58.3757,"area":"San Telmo","rating":4,"ratingCount":220,"stars":1,"priceTier":1},
-    {"name":"Mansion Dandi Royal Tango Boutique Hotel","lat":-34.6189,"lng":-58.3772,"area":"San Telmo","rating":4.1,"ratingCount":201,"stars":4,"priceTier":3},
-    {"name":"Piedras Suites","lat":-34.6187,"lng":-58.3771,"area":"San Telmo","rating":4.2,"ratingCount":243,"stars":3,"priceTier":2},
-    {"name":"Eze Inn Boutique Hotel","lat":-34.7893,"lng":-58.5251,"area":"Ministro Pistarini International Airport (Ezeiza)","rating":4.4,"ratingCount":108,"stars":3,"priceTier":3}
+    {"name":"Casa Lucía","lat":-34.5915,"lng":-58.379,"area":"Retiro","stars":5,"priceTier":4},
+    {"name":"Carles Hotel Buenos Aires","lat":-34.5929,"lng":-58.3784,"area":"Retiro","stars":4,"priceTier":3},
+    {"name":"NH Collection Buenos Aires Crillon","lat":-34.5954,"lng":-58.3787,"area":"Retiro","stars":4,"priceTier":3},
+    {"name":"Feir's Park Hotel & Rooftop","lat":-34.5915,"lng":-58.3783,"area":"Retiro","stars":4,"priceTier":3},
+    {"name":"El Misti Hotel Buenos Aires Centro","lat":-34.5974,"lng":-58.3727,"area":"Retiro","stars":2,"priceTier":2},
+    {"name":"Buenos Aires Marriott Downtown","lat":-34.6022,"lng":-58.3807,"area":"Microcentro","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"474 Buenos Aires Hotel","lat":-34.6025,"lng":-58.374,"area":"Microcentro","stars":4,"priceTier":3},
+    {"name":"725 Continental Hotel","lat":-34.6061,"lng":-58.3767,"area":"Microcentro","stars":3,"priceTier":2},
+    {"name":"Hilton Buenos Aires","lat":-34.6059,"lng":-58.3637,"area":"Puerto Madero","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"NH Collection Buenos Aires Jousten","lat":-34.6033,"lng":-58.371,"area":"Puerto Madero","stars":4,"priceTier":3},
+    {"name":"Regal Pacific Hotel","lat":-34.5989,"lng":-58.3715,"area":"Puerto Madero","stars":4,"priceTier":3},
+    {"name":"Holiday Inn Express Puerto Madero","lat":-34.5987,"lng":-58.3713,"area":"Puerto Madero","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Alvear Palace Hotel","lat":-34.5877,"lng":-58.3887,"area":"Recoleta","stars":5,"priceTier":4},
+    {"name":"Urban Suites Recoleta Boutique Hotel","lat":-34.589,"lng":-58.3926,"area":"Recoleta","stars":4,"priceTier":3},
+    {"name":"Loi Suites Recoleta Hotel","lat":-34.5895,"lng":-58.3924,"area":"Recoleta","stars":4,"priceTier":3},
+    {"name":"Sileo Hotel","lat":-34.587,"lng":-58.3947,"area":"Recoleta","stars":4,"priceTier":3},
+    {"name":"Cyan Recoleta Hotel","lat":-34.589,"lng":-58.3925,"area":"Recoleta","stars":3,"priceTier":2},
+    {"name":"Dazzler by Wyndham Buenos Aires Polo","lat":-34.5762,"lng":-58.4239,"area":"Palermo","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Vain Boutique Hotel","lat":-34.5836,"lng":-58.4249,"area":"Palermo","stars":4,"priceTier":3},
+    {"name":"Miravida Soho Hotel & Wine Bar","lat":-34.5843,"lng":-58.4277,"area":"Palermo","stars":4,"priceTier":3},
+    {"name":"Pleno Palermo Soho","lat":-34.5862,"lng":-58.4241,"area":"Palermo","stars":4,"priceTier":3},
+    {"name":"Circus Hostel & Hotel","lat":-34.6199,"lng":-58.3757,"area":"San Telmo","stars":1,"priceTier":1},
+    {"name":"Puerto Limon Hostel","lat":-34.6202,"lng":-58.3757,"area":"San Telmo","stars":1,"priceTier":1},
+    {"name":"Mansion Dandi Royal Tango Boutique Hotel","lat":-34.6189,"lng":-58.3772,"area":"San Telmo","stars":4,"priceTier":3},
+    {"name":"Piedras Suites","lat":-34.6187,"lng":-58.3771,"area":"San Telmo","stars":3,"priceTier":2},
+    {"name":"Eze Inn Boutique Hotel","lat":-34.7893,"lng":-58.5251,"area":"Ministro Pistarini International Airport (Ezeiza)","stars":3,"priceTier":3}
   ],
   "sights": [
     {
@@ -186,7 +186,6 @@
       "lng": -58.383,
       "note": "One of the world's great opera houses, with a seven-tier horseshoe hall and renowned acoustics; visit by guided tour or a performance.",
       "hours": "Guided tours daily ~9:00 AM–5:00 PM; performances vary",
-      "rating": 4.8,
       "ticketUrl": "https://www.teatrocolon.org.ar",
       "bookAhead": true
     },
@@ -195,16 +194,14 @@
       "lat": -34.6084,
       "lng": -58.3637,
       "note": "The redeveloped dockside district of brick warehouses, waterfront restaurants and the white Puente de la Mujer footbridge.",
-      "hours": "Open daily; best late afternoon",
-      "rating": 4.5
+      "hours": "Open daily; best late afternoon"
     },
     {
       "name": "La Recoleta Cemetery",
       "lat": -34.5879,
       "lng": -58.3928,
       "note": "A labyrinth of marble mausoleums and statues, including Eva Perón's family tomb, laid out like a miniature city.",
-      "hours": "Daily 7:00 AM–5:30 PM; free",
-      "rating": 4.3
+      "hours": "Daily 7:00 AM–5:30 PM; free"
     },
     {
       "name": "Japanese Garden (Jardín Japonés)",
@@ -212,7 +209,6 @@
       "lng": -58.4087,
       "note": "A tranquil Japanese landscape garden with koi ponds, a tea house and a cultural centre in Palermo.",
       "hours": "Daily ~10:00 AM–6:00 PM",
-      "rating": 4.4,
       "ticketUrl": "https://jardinjapones.org.ar"
     },
     {
@@ -221,7 +217,6 @@
       "lng": -58.3927,
       "note": "Argentina's national fine-arts museum, with a strong run of European masters and Argentine painting, free to enter.",
       "hours": "Tue–Fri 11:00 AM–8:00 PM, Sat–Sun 10:00 AM–8:00 PM, closed Mon; free",
-      "rating": 4.6,
       "ticketUrl": "https://www.bellasartes.gob.ar"
     },
     {
@@ -229,8 +224,7 @@
       "lat": -34.5877,
       "lng": -58.4297,
       "note": "A cobbled neighbourhood of boutiques, design shops, cafés and bars centred on Plaza Serrano.",
-      "hours": "Streets open daily; shops ~11:00 AM–8:00 PM",
-      "rating": 4.4
+      "hours": "Streets open daily; shops ~11:00 AM–8:00 PM"
     },
     {
       "name": "MALBA",
@@ -238,7 +232,6 @@
       "lng": -58.4035,
       "note": "The leading Latin American modern art museum, with Frida Kahlo, Diego Rivera and top Argentine artists in a glass-fronted building.",
       "hours": "Thu–Mon 12:00 PM–8:00 PM (Wed to 9:00 PM), closed Tue",
-      "rating": 4.5,
       "ticketUrl": "https://www.malba.org.ar"
     },
     {
@@ -246,73 +239,52 @@
       "lat": -34.5703,
       "lng": -58.4143,
       "note": "Buenos Aires's main green lung, with rose gardens, lakes and cycle paths crossing a wide park in the north of the city.",
-      "hours": "Daily 6:00 AM–midnight",
-      "rating": 4.6
+      "hours": "Daily 6:00 AM–midnight"
     },
     {
       "name": "Caminito",
       "lat": -34.6393,
       "lng": -58.3626,
       "note": "A short, brightly painted pedestrian street in La Boca, famous for tango dancers and colourful tin houses.",
-      "hours": "Open daily; shops and artists ~10:00 AM–6:00 PM",
-      "rating": 4
+      "hours": "Open daily; shops and artists ~10:00 AM–6:00 PM"
     },
     {
       "name": "San Telmo Sunday Fair (Plaza Dorrego)",
       "lat": -34.6213,
       "lng": -58.3724,
       "note": "A Sunday market of antiques, crafts and street tango around the cobbled plaza in San Telmo.",
-      "hours": "Sun ~10:00 AM–5:00 PM",
-      "rating": 4.2
+      "hours": "Sun ~10:00 AM–5:00 PM"
     },
     {
       "name": "La Bombonera (Boca Juniors Stadium)",
       "lat": -34.6356,
       "lng": -58.3647,
       "note": "Boca Juniors' stadium, a steep, concrete bowl with a museum and a guided stadium tour.",
-      "hours": "Museum and tours daily ~10:00 AM–5:00 PM; closed on match days",
-      "rating": 4.3
+      "hours": "Museum and tours daily ~10:00 AM–5:00 PM; closed on match days"
     },
     {
       "name": "Casa Rosada",
       "lat": -34.608,
       "lng": -58.3702,
       "note": "The pink presidential palace on Plaza de Mayo, open on weekends for free guided visits.",
-      "hours": "Free tours on Sat–Sun ~10:00 AM–6:00 PM (by registration)",
-      "rating": 4.2
+      "hours": "Free tours on Sat–Sun ~10:00 AM–6:00 PM (by registration)"
     },
-    {
-      "name": "Catedral Metropolitana",
-      "lat": -34.6081,
-      "lng": -58.3738,
-      "note": "The neoclassical cathedral on Plaza de Mayo where General San Martín's mausoleum stands.",
-      "hours": "Daily ~8:00 AM–7:00 PM",
-      "rating": 4.5
-    },
+    {"name":"Catedral Metropolitana","lat":-34.6081,"lng":-58.3738,"note":"The neoclassical cathedral on Plaza de Mayo where General San Martín's mausoleum stands.","hours":"Daily ~8:00 AM–7:00 PM"},
     {
       "name": "El Zanjón de Granados",
       "lat": -34.6178,
       "lng": -58.3716,
       "note": "A guided underground tour through restored 18th-century tunnels and cellars beneath a San Telmo townhouse.",
       "hours": "Guided visits ~Mon–Sun, daytime tours; reserve",
-      "rating": 4.6,
       "bookAhead": true
     },
-    {
-      "name": "Mercado de San Telmo",
-      "lat": -34.6199,
-      "lng": -58.3727,
-      "note": "A 1897 iron-and-glass market hall mixing antiques stalls, produce and small food counters.",
-      "hours": "Daily ~10:00 AM–8:00 PM",
-      "rating": 4.2
-    },
+    {"name":"Mercado de San Telmo","lat":-34.6199,"lng":-58.3727,"note":"A 1897 iron-and-glass market hall mixing antiques stalls, produce and small food counters.","hours":"Daily ~10:00 AM–8:00 PM"},
     {
       "name": "Floralis Genérica",
       "lat": -34.5806,
       "lng": -58.3935,
       "note": "A giant stainless-steel and aluminium flower sculpture that once opened and closed its petals with the sun.",
-      "hours": "Open 24 hours outdoors; free",
-      "rating": 4.2
+      "hours": "Open 24 hours outdoors; free"
     }
   ],
   "railStations": [

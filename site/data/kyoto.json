@@ -235,29 +235,29 @@
     }
   ],
   "hotels": [
-    {"name":"ibis Styles Kyoto Station","lat":34.9838,"lng":135.7584,"area":"Kyoto Station","rating":4,"ratingCount":1549,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"Hotel Granvia Kyoto","lat":34.9858,"lng":135.7598,"area":"Kyoto Station","rating":4.4,"ratingCount":3834,"stars":5,"priceTier":4},
-    {"name":"Kyoto Century Hotel","lat":34.9861,"lng":135.7617,"area":"Kyoto Station","rating":4.2,"ratingCount":1260,"stars":4,"priceTier":3},
-    {"name":"Dormy Inn Premium Kyoto Station","lat":34.9875,"lng":135.7618,"area":"Kyoto Station","rating":4.4,"ratingCount":715,"stars":3,"priceTier":3},
-    {"name":"Capsule Ryokan Kyoto","lat":34.989,"lng":135.7537,"area":"Kyoto Station","rating":4.6,"ratingCount":985,"stars":1,"priceTier":1},
-    {"name":"Hotel Nikko Kansai Airport","lat":34.437,"lng":135.2432,"area":"Kansai International Airport","rating":4.3,"ratingCount":3295,"stars":4,"priceTier":3},
-    {"name":"First Cabin Kansai Airport","lat":34.4373,"lng":135.2435,"area":"Kansai International Airport","rating":4.1,"ratingCount":143,"stars":1,"priceTier":1},
-    {"name":"Osaka Airterminal Hotel","lat":34.7853,"lng":135.4388,"area":"Osaka Itami Airport","rating":4.1,"ratingCount":288,"stars":3,"priceTier":2},
-    {"name":"Hilton Garden Inn Kyoto Shijo Karasuma","lat":34.9986,"lng":135.7601,"area":"Shijo-Karasuma","rating":4.5,"ratingCount":151,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Kyoto Itoya Hotel","lat":34.9991,"lng":135.7594,"area":"Shijo-Karasuma","rating":4.4,"ratingCount":429,"stars":3,"priceTier":3},
-    {"name":"MIMARU Suites Kyoto Shijo","lat":34.9998,"lng":135.7601,"area":"Shijo-Karasuma","rating":4.9,"ratingCount":116,"stars":4,"priceTier":3},
-    {"name":"Daiwa Roynet Hotel Kyoto Shijo Karasuma","lat":35.0009,"lng":135.76,"area":"Shijo-Karasuma","rating":4.2,"ratingCount":712,"stars":3,"priceTier":2},
-    {"name":"Mitsui Garden Hotel Kyoto Shijo","lat":35.003,"lng":135.755,"area":"Shijo-Karasuma","rating":4,"ratingCount":976,"stars":3,"priceTier":2},
-    {"name":"Kyoto Granbell Hotel","lat":35.0027,"lng":135.7731,"area":"Gion","rating":4.3,"ratingCount":389,"stars":4,"priceTier":3},
-    {"name":"The Gate Hotel Kyoto Takasegawa by Hulic","lat":35.0059,"lng":135.77,"area":"Gion","rating":4.6,"ratingCount":205,"stars":4,"priceTier":4},
-    {"name":"Hotel Gion Misen","lat":35.0064,"lng":135.7731,"area":"Gion","rating":4.8,"ratingCount":287,"stars":3,"priceTier":3},
-    {"name":"Good Nature Hotel Kyoto","lat":35.0025,"lng":135.7686,"area":"Gion","rating":4.5,"ratingCount":141,"stars":4,"priceTier":3},
-    {"name":"Super Hotel Kyoto Shijokawaramachi","lat":35.0052,"lng":135.7676,"area":"Gion","rating":4.1,"ratingCount":420,"stars":2,"priceTier":2},
-    {"name":"Hilton Kyoto","lat":35.01,"lng":135.7695,"area":"Kawaramachi-Sanjo","rating":4.5,"ratingCount":122,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"The Ritz-Carlton, Kyoto","lat":35.0139,"lng":135.7709,"area":"Kawaramachi-Sanjo","rating":4.5,"ratingCount":1748,"stars":5,"priceTier":4},
-    {"name":"Hotel Okura Kyoto","lat":35.0117,"lng":135.7695,"area":"Kawaramachi-Sanjo","rating":4.4,"ratingCount":2095,"stars":5,"priceTier":3},
-    {"name":"Cross Hotel Kyoto","lat":35.0082,"lng":135.7697,"area":"Kawaramachi-Sanjo","rating":4.7,"ratingCount":732,"stars":4,"priceTier":3},
-    {"name":"Hotel Gran Ms Kyoto","lat":35.0097,"lng":135.7686,"area":"Kawaramachi-Sanjo","rating":4.1,"ratingCount":767,"stars":3,"priceTier":2}
+    {"name":"ibis Styles Kyoto Station","lat":34.9838,"lng":135.7584,"area":"Kyoto Station","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Hotel Granvia Kyoto","lat":34.9858,"lng":135.7598,"area":"Kyoto Station","stars":5,"priceTier":4},
+    {"name":"Kyoto Century Hotel","lat":34.9861,"lng":135.7617,"area":"Kyoto Station","stars":4,"priceTier":3},
+    {"name":"Dormy Inn Premium Kyoto Station","lat":34.9875,"lng":135.7618,"area":"Kyoto Station","stars":3,"priceTier":3},
+    {"name":"Capsule Ryokan Kyoto","lat":34.989,"lng":135.7537,"area":"Kyoto Station","stars":1,"priceTier":1},
+    {"name":"Hotel Nikko Kansai Airport","lat":34.437,"lng":135.2432,"area":"Kansai International Airport","stars":4,"priceTier":3},
+    {"name":"First Cabin Kansai Airport","lat":34.4373,"lng":135.2435,"area":"Kansai International Airport","stars":1,"priceTier":1},
+    {"name":"Osaka Airterminal Hotel","lat":34.7853,"lng":135.4388,"area":"Osaka Itami Airport","stars":3,"priceTier":2},
+    {"name":"Hilton Garden Inn Kyoto Shijo Karasuma","lat":34.9986,"lng":135.7601,"area":"Shijo-Karasuma","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Kyoto Itoya Hotel","lat":34.9991,"lng":135.7594,"area":"Shijo-Karasuma","stars":3,"priceTier":3},
+    {"name":"MIMARU Suites Kyoto Shijo","lat":34.9998,"lng":135.7601,"area":"Shijo-Karasuma","stars":4,"priceTier":3},
+    {"name":"Daiwa Roynet Hotel Kyoto Shijo Karasuma","lat":35.0009,"lng":135.76,"area":"Shijo-Karasuma","stars":3,"priceTier":2},
+    {"name":"Mitsui Garden Hotel Kyoto Shijo","lat":35.003,"lng":135.755,"area":"Shijo-Karasuma","stars":3,"priceTier":2},
+    {"name":"Kyoto Granbell Hotel","lat":35.0027,"lng":135.7731,"area":"Gion","stars":4,"priceTier":3},
+    {"name":"The Gate Hotel Kyoto Takasegawa by Hulic","lat":35.0059,"lng":135.77,"area":"Gion","stars":4,"priceTier":4},
+    {"name":"Hotel Gion Misen","lat":35.0064,"lng":135.7731,"area":"Gion","stars":3,"priceTier":3},
+    {"name":"Good Nature Hotel Kyoto","lat":35.0025,"lng":135.7686,"area":"Gion","stars":4,"priceTier":3},
+    {"name":"Super Hotel Kyoto Shijokawaramachi","lat":35.0052,"lng":135.7676,"area":"Gion","stars":2,"priceTier":2},
+    {"name":"Hilton Kyoto","lat":35.01,"lng":135.7695,"area":"Kawaramachi-Sanjo","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"The Ritz-Carlton, Kyoto","lat":35.0139,"lng":135.7709,"area":"Kawaramachi-Sanjo","stars":5,"priceTier":4},
+    {"name":"Hotel Okura Kyoto","lat":35.0117,"lng":135.7695,"area":"Kawaramachi-Sanjo","stars":5,"priceTier":3},
+    {"name":"Cross Hotel Kyoto","lat":35.0082,"lng":135.7697,"area":"Kawaramachi-Sanjo","stars":4,"priceTier":3},
+    {"name":"Hotel Gran Ms Kyoto","lat":35.0097,"lng":135.7686,"area":"Kawaramachi-Sanjo","stars":3,"priceTier":2}
   ],
   "sights": [
     {
@@ -265,8 +265,7 @@
       "lat": 34.9671,
       "lng": 135.7727,
       "note": "Head shrine of the rice deity Inari, famous for thousands of vermilion torii gates that tunnel up the wooded slopes of Mt. Inari; go early or late to beat the crowds, and allow 2–3 hours for the full loop.",
-      "hours": "Grounds open 24 hours; free",
-      "rating": 4.6
+      "hours": "Grounds open 24 hours; free"
     },
     {
       "name": "Kinkakuji Temple",
@@ -274,7 +273,6 @@
       "lng": 135.7292,
       "note": "The Golden Pavilion, a gold-leafed Zen hall mirrored in its pond; visitors follow a one-way garden path and view it from across the water.",
       "hours": "9:00 AM–5:00 PM daily",
-      "rating": 4.5,
       "ticketUrl": "https://www.shokoku-ji.jp/kinkakuji/"
     },
     {
@@ -283,7 +281,6 @@
       "lng": 135.785,
       "note": "Hillside temple whose great wooden stage, built without nails, juts out over the trees with views across Kyoto; best in cherry-blossom and autumn-leaf seasons.",
       "hours": "6:00 AM–6:00 PM (to ~6:30 PM in summer; later during seasonal night viewings)",
-      "rating": 4.4,
       "ticketUrl": "https://www.kiyomizudera.or.jp/en/"
     },
     {
@@ -291,16 +288,14 @@
       "lat": 35.017,
       "lng": 135.6716,
       "note": "The walking path through towering bamboo at the heart of the Arashiyama district on the city's west edge, close to Tenryu-ji and the Togetsukyo Bridge; arrive near dawn for a quiet visit.",
-      "hours": "Open 24 hours; free",
-      "rating": 4.4
+      "hours": "Open 24 hours; free"
     },
     {
       "name": "Gion (Hanamikoji Street)",
       "lat": 35.0026,
       "lng": 135.7752,
       "note": "Kyoto's best-preserved geisha district, with wooden teahouses and restaurants along stone lanes; photography is banned on Gion's private side alleys, so stick to the main streets.",
-      "hours": "Streets open 24 hours; most atmospheric at dusk",
-      "rating": 4.3
+      "hours": "Streets open 24 hours; most atmospheric at dusk"
     },
     {
       "name": "Nijo Castle",
@@ -308,7 +303,6 @@
       "lng": 135.7481,
       "note": "The shogun's Kyoto residence, whose Ninomaru Palace has painted screens and 'nightingale' floors that chirp underfoot to warn of intruders; surrounded by moats and gardens.",
       "hours": "8:45 AM–5:00 PM (last entry 4:00 PM); closed Tue in Jan, Jul, Aug and Dec, and Dec 29–31",
-      "rating": 4.3,
       "ticketUrl": "https://nijo-jocastle.city.kyoto.lg.jp/"
     },
     {
@@ -317,7 +311,6 @@
       "lng": 135.7716,
       "note": "A 120 m-long wooden hall lined with 1,001 gilded statues of the thousand-armed Kannon, a striking sight in the dim interior.",
       "hours": "8:30 AM–5:00 PM (Nov 16–Mar: 9:00 AM–4:00 PM)",
-      "rating": 4.6,
       "ticketUrl": "https://www.sanjusangendo.jp/"
     },
     {
@@ -325,16 +318,14 @@
       "lat": 35.005,
       "lng": 135.765,
       "note": "A narrow covered street of some 100 stalls selling pickles, tofu, sweets and seafood skewers; known as 'Kyoto's kitchen', and eating while walking is discouraged.",
-      "hours": "~10:00 AM–6:00 PM; many stalls close Wed or Sun",
-      "rating": 4.2
+      "hours": "~10:00 AM–6:00 PM; many stalls close Wed or Sun"
     },
     {
       "name": "Monkey Park Iwatayama",
       "lat": 35.0095,
       "lng": 135.678,
       "note": "A 20-minute uphill hike in Arashiyama leads to a hilltop where some 120 wild Japanese macaques roam freely, with a view across the city.",
-      "hours": "9:00 AM–4:30 PM (to 4:00 PM Oct–Mar); closes in bad weather",
-      "rating": 4.4
+      "hours": "9:00 AM–4:30 PM (to 4:00 PM Oct–Mar); closes in bad weather"
     },
     {
       "name": "Eikando Zenrinji Temple",
@@ -342,7 +333,6 @@
       "lng": 135.7944,
       "note": "Hillside temple linked by covered walkways and a pagoda, among the most celebrated spots in Kyoto for autumn maple colour.",
       "hours": "9:00 AM–5:00 PM (last entry 4:00 PM); evening light-ups in autumn",
-      "rating": 4.6,
       "ticketUrl": "https://www.eikando.or.jp/"
     },
     {
@@ -351,7 +341,6 @@
       "lng": 135.7982,
       "note": "The Silver Pavilion, a restrained Zen villa that was never silvered, set in moss gardens with a raked sand cone; it marks the north end of the Philosopher's Path.",
       "hours": "8:30 AM–5:00 PM (Dec–Feb: 9:00 AM–4:30 PM)",
-      "rating": 4.4,
       "ticketUrl": "https://www.shokoku-ji.jp/ginkakuji/"
     },
     {
@@ -359,8 +348,7 @@
       "lat": 34.9963,
       "lng": 135.7808,
       "note": "Sloping stone-paved lanes of old wooden shops and teahouses that climb from Kodai-ji toward Kiyomizu-dera; busiest late morning.",
-      "hours": "Lanes open 24 hours; shops ~9:00 AM–6:00 PM",
-      "rating": 4.3
+      "hours": "Lanes open 24 hours; shops ~9:00 AM–6:00 PM"
     },
     {
       "name": "Tenryu-ji Temple",
@@ -368,7 +356,6 @@
       "lng": 135.6738,
       "note": "Head temple of a Zen school and a World Heritage site, prized for its 14th-century pond garden that borrows the Arashiyama hills as its backdrop; the north gate leads into the bamboo grove.",
       "hours": "Garden 8:30 AM–5:00 PM daily",
-      "rating": 4.4,
       "ticketUrl": "https://www.tenryuji.com/en/"
     },
     {
@@ -376,16 +363,14 @@
       "lat": 35.0225,
       "lng": 135.7948,
       "note": "A 2 km stone path beside a cherry-lined canal between Ginkakuji and the Nanzen-ji area, with small temples and cafés along the way.",
-      "hours": "Open 24 hours; free",
-      "rating": 4.2
+      "hours": "Open 24 hours; free"
     },
     {
       "name": "Kyoto Imperial Palace",
       "lat": 35.0254,
       "lng": 135.7621,
       "note": "The former emperor's residence inside the vast Kyoto Gyoen park; walk-in visits follow a set route past the ceremonial halls and gardens, no booking needed.",
-      "hours": "9:00 AM–4:30 PM (Oct–Feb to 3:30–4:00 PM); closed Mon; free",
-      "rating": 4.1
+      "hours": "9:00 AM–4:30 PM (Oct–Feb to 3:30–4:00 PM); closed Mon; free"
     },
     {
       "name": "To-ji Temple",
@@ -393,7 +378,6 @@
       "lng": 135.7478,
       "note": "Founded in 796, home to Japan's tallest wooden pagoda (55 m) and a hall of esoteric Buddhist statues; a big flea market fills the grounds on the 21st of each month.",
       "hours": "8:00 AM–5:00 PM daily",
-      "rating": 4.4,
       "ticketUrl": "https://toji.or.jp/en/"
     },
     {
@@ -402,7 +386,6 @@
       "lng": 135.7942,
       "note": "A major Zen temple with a massive Sanmon gate you can climb and a red-brick Meiji aqueduct running through its grounds; the grounds are free.",
       "hours": "8:40 AM–5:00 PM (Dec–Feb to 4:30 PM)",
-      "rating": 4.4,
       "ticketUrl": "https://nanzenji.or.jp/en/"
     },
     {
@@ -410,8 +393,7 @@
       "lat": 35.006,
       "lng": 135.771,
       "note": "A lantern-lit alley of restaurants and bars squeezed between Kiyamachi and the Kamo River; in summer many open riverside dining decks.",
-      "hours": "Best ~5:00 PM–late",
-      "rating": 4.2
+      "hours": "Best ~5:00 PM–late"
     }
   ],
   "railStations": [

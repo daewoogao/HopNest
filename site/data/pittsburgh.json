@@ -119,23 +119,23 @@
     }
   ],
   "hotels": [
-    {"name":"Hampton Inn & Suites Pittsburgh-Downtown","lat":40.4471,"lng":-79.9924,"area":"Pittsburgh Union Station","rating":4.6,"ratingCount":2554,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"Drury Plaza Hotel Pittsburgh Downtown","lat":40.443,"lng":-79.995,"area":"Pittsburgh Union Station","rating":4.7,"ratingCount":1072,"stars":3,"priceTier":3},
-    {"name":"Homewood Suites by Hilton Pittsburgh Downtown","lat":40.448,"lng":-79.9899,"area":"Pittsburgh Union Station","rating":4.6,"ratingCount":1010,"stars":3,"priceTier":3},
-    {"name":"Cambria Hotel Pittsburgh - Downtown","lat":40.4402,"lng":-79.9879,"area":"Pittsburgh Union Station","rating":4.5,"ratingCount":1398,"stars":3,"priceTier":3},
-    {"name":"The Westin Pittsburgh","lat":40.4443,"lng":-79.9947,"area":"Pittsburgh Union Station","rating":4,"ratingCount":1088,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Hilton Garden Inn Pittsburgh Airport","lat":40.5019,"lng":-80.2232,"area":"Pittsburgh International Airport","rating":4.5,"ratingCount":451,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"Sheraton Pittsburgh Airport Hotel","lat":40.5019,"lng":-80.21,"area":"Pittsburgh International Airport","rating":4,"ratingCount":473,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"Pittsburgh Airport Inn & Suites","lat":40.508,"lng":-80.2244,"area":"Pittsburgh International Airport","rating":4.1,"ratingCount":909,"stars":2,"priceTier":2},
-    {"name":"Kimpton Hotel Monaco Pittsburgh by IHG","lat":40.4414,"lng":-79.9963,"area":"Downtown","rating":4.6,"ratingCount":1465,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Fairmont Pittsburgh","lat":40.4415,"lng":-80.0018,"area":"Downtown","rating":4.4,"ratingCount":1246,"stars":4,"priceTier":4,"brandAnchor":true},
-    {"name":"Omni William Penn Hotel","lat":40.4406,"lng":-79.9966,"area":"Downtown","rating":4.5,"ratingCount":5724,"stars":4,"priceTier":3},
-    {"name":"The Atterbury Hotel, Autograph Collection","lat":40.4438,"lng":-80.0023,"area":"Downtown","rating":4.3,"ratingCount":2136,"stars":4,"priceTier":3},
-    {"name":"Hilton Garden Inn Pittsburgh Downtown","lat":40.4402,"lng":-80.0016,"area":"Downtown","rating":4.4,"ratingCount":690,"stars":3,"priceTier":2},
-    {"name":"Hyatt Place Pittsburgh-North Shore","lat":40.4467,"lng":-80.0088,"area":"North Shore","rating":4.1,"ratingCount":2297,"stars":3,"priceTier":3,"brandAnchor":true},
-    {"name":"Residence Inn by Marriott Pittsburgh North Shore","lat":40.448,"lng":-80.0072,"area":"North Shore","rating":4.2,"ratingCount":848,"stars":3,"priceTier":3},
-    {"name":"SpringHill Suites by Marriott Pittsburgh North Shore","lat":40.4486,"lng":-80.0047,"area":"North Shore","rating":4.1,"ratingCount":861,"stars":3,"priceTier":2},
-    {"name":"Holiday Inn Express & Suites Pittsburgh North Shore by IHG","lat":40.4489,"lng":-80.0041,"area":"North Shore","rating":4.1,"ratingCount":315,"stars":2,"priceTier":2}
+    {"name":"Hampton Inn & Suites Pittsburgh-Downtown","lat":40.4471,"lng":-79.9924,"area":"Pittsburgh Union Station","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Drury Plaza Hotel Pittsburgh Downtown","lat":40.443,"lng":-79.995,"area":"Pittsburgh Union Station","stars":3,"priceTier":3},
+    {"name":"Homewood Suites by Hilton Pittsburgh Downtown","lat":40.448,"lng":-79.9899,"area":"Pittsburgh Union Station","stars":3,"priceTier":3},
+    {"name":"Cambria Hotel Pittsburgh - Downtown","lat":40.4402,"lng":-79.9879,"area":"Pittsburgh Union Station","stars":3,"priceTier":3},
+    {"name":"The Westin Pittsburgh","lat":40.4443,"lng":-79.9947,"area":"Pittsburgh Union Station","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hilton Garden Inn Pittsburgh Airport","lat":40.5019,"lng":-80.2232,"area":"Pittsburgh International Airport","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Sheraton Pittsburgh Airport Hotel","lat":40.5019,"lng":-80.21,"area":"Pittsburgh International Airport","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Pittsburgh Airport Inn & Suites","lat":40.508,"lng":-80.2244,"area":"Pittsburgh International Airport","stars":2,"priceTier":2},
+    {"name":"Kimpton Hotel Monaco Pittsburgh by IHG","lat":40.4414,"lng":-79.9963,"area":"Downtown","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Fairmont Pittsburgh","lat":40.4415,"lng":-80.0018,"area":"Downtown","stars":4,"priceTier":4,"brandAnchor":true},
+    {"name":"Omni William Penn Hotel","lat":40.4406,"lng":-79.9966,"area":"Downtown","stars":4,"priceTier":3},
+    {"name":"The Atterbury Hotel, Autograph Collection","lat":40.4438,"lng":-80.0023,"area":"Downtown","stars":4,"priceTier":3},
+    {"name":"Hilton Garden Inn Pittsburgh Downtown","lat":40.4402,"lng":-80.0016,"area":"Downtown","stars":3,"priceTier":2},
+    {"name":"Hyatt Place Pittsburgh-North Shore","lat":40.4467,"lng":-80.0088,"area":"North Shore","stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Residence Inn by Marriott Pittsburgh North Shore","lat":40.448,"lng":-80.0072,"area":"North Shore","stars":3,"priceTier":3},
+    {"name":"SpringHill Suites by Marriott Pittsburgh North Shore","lat":40.4486,"lng":-80.0047,"area":"North Shore","stars":3,"priceTier":2},
+    {"name":"Holiday Inn Express & Suites Pittsburgh North Shore by IHG","lat":40.4489,"lng":-80.0041,"area":"North Shore","stars":2,"priceTier":2}
   ],
   "sights": [
     {
@@ -143,8 +143,7 @@
       "lat": 40.4385,
       "lng": -80.0181,
       "note": "An 1877 cable car that hauls riders up Mount Washington; the upper station's deck has the classic view of the Point and the three rivers.",
-      "hours": "Daily 6:30 AM–12:30 AM; pay the fare in cash or with a ConnectCard",
-      "rating": 4.5
+      "hours": "Daily 6:30 AM–12:30 AM; pay the fare in cash or with a ConnectCard"
     },
     {
       "name": "Phipps Conservatory and Botanical Gardens",
@@ -152,7 +151,6 @@
       "lng": -79.9476,
       "note": "A Victorian glasshouse in Schenley Park with themed rooms, seasonal flower shows and outdoor gardens.",
       "hours": "9:30 AM–5:00 PM daily, till 10:00 PM Fri",
-      "rating": 4.8,
       "ticketUrl": "https://www.phipps.conservatory.org"
     },
     {
@@ -161,7 +159,6 @@
       "lng": -80.0057,
       "note": "The Pirates' riverside ballpark, often rated the best in baseball, with the skyline and the Clemente Bridge beyond the outfield.",
       "hours": "Pirates home games Apr–Sep; 90-minute ballpark tours on select days",
-      "rating": 4.8,
       "ticketUrl": "https://www.mlb.com/pirates/ballpark/tours",
       "bookAhead": true
     },
@@ -170,8 +167,7 @@
       "lat": 40.4515,
       "lng": -79.984,
       "note": "A half-mile of produce stalls, fish mongers, ethnic grocers and sports-merch stands along Penn Avenue; busiest and best on Saturday mornings.",
-      "hours": "Most shops ~8:00 AM–5:00 PM, some closed Sun",
-      "rating": 4.5
+      "hours": "Most shops ~8:00 AM–5:00 PM, some closed Sun"
     },
     {
       "name": "Carnegie Museum of Natural History",
@@ -179,7 +175,6 @@
       "lng": -79.9497,
       "note": "Famous for its Dinosaur Hall of real skeletons, plus gems and Egyptian galleries; it shares a building with the Carnegie Museum of Art.",
       "hours": "10:00 AM–5:00 PM, till 8:00 PM Thu, closed Tue",
-      "rating": 4.7,
       "ticketUrl": "https://carnegiemnh.org"
     },
     {
@@ -188,7 +183,6 @@
       "lng": -79.9921,
       "note": "Six floors of western Pennsylvania history in a former ice warehouse, including Mister Rogers' set and the Western PA Sports Museum.",
       "hours": "10:00 AM–5:00 PM daily",
-      "rating": 4.6,
       "ticketUrl": "https://www.heinzhistorycenter.org"
     },
     {
@@ -197,7 +191,6 @@
       "lng": -80.0154,
       "note": "America's national bird zoo, with walk-through habitats, penguins and flight shows on the edge of Allegheny Commons park.",
       "hours": "10:00 AM–5:00 PM, closed Tue",
-      "rating": 4.5,
       "ticketUrl": "https://www.aviary.org"
     },
     {
@@ -205,8 +198,7 @@
       "lat": 40.437,
       "lng": -80.011,
       "note": "Free overlooks along Grandview Avenue give the best view of downtown, especially at dusk; reach them by either incline.",
-      "hours": "Overlooks open 24 hours",
-      "rating": 4.7
+      "hours": "Overlooks open 24 hours"
     },
     {
       "name": "Bicycle Heaven",
@@ -214,7 +206,6 @@
       "lng": -80.0295,
       "note": "A sprawling, free-spirited bicycle museum and shop with thousands of vintage bikes, from Pee-wee Herman's to rare Schwinns.",
       "hours": "10:00 AM–7:00 PM daily",
-      "rating": 4.9,
       "ticketUrl": "https://www.bicycleheaven.org"
     },
     {
@@ -222,8 +213,7 @@
       "lat": 40.4572,
       "lng": -80.0088,
       "note": "Artist Randy Gilson's riot-of-colour house and courtyard in the Mexican War Streets, painted with murals and found objects.",
-      "hours": "Daily, ~10:00 AM–6:00 PM; free (donations welcome)",
-      "rating": 4.6
+      "hours": "Daily, ~10:00 AM–6:00 PM; free (donations welcome)"
     },
     {
       "name": "Pittsburgh Zoo & Aquarium",
@@ -231,7 +221,6 @@
       "lng": -79.921,
       "note": "A hillside zoo in Highland Park with elephants, big cats and a large aquarium wing.",
       "hours": "~9:30 AM–5:30 PM (last entry 4:30 PM); shorter winter hours",
-      "rating": 4.2,
       "ticketUrl": "https://www.pittsburghzoo.org"
     },
     {
@@ -240,7 +229,6 @@
       "lng": -80.0025,
       "note": "Seven floors devoted to Pittsburgh-born Andy Warhol, the largest single-artist museum in North America.",
       "hours": "10:00 AM–5:00 PM, till 8:00 PM Fri, closed Tue",
-      "rating": 4.3,
       "ticketUrl": "https://www.warhol.org"
     },
     {
@@ -248,8 +236,7 @@
       "lat": 40.4443,
       "lng": -79.9532,
       "note": "The University of Pittsburgh's 42-storey Gothic tower, with a vaulted ground-floor hall and 31 Nationality Rooms decorated by local ethnic communities.",
-      "hours": "Building open daily; Nationality Rooms visitable when not in use for classes, ~9:00 AM–4:00 PM",
-      "rating": 4.6
+      "hours": "Building open daily; Nationality Rooms visitable when not in use for classes, ~9:00 AM–4:00 PM"
     },
     {
       "name": "Kamin Science Center",
@@ -257,7 +244,6 @@
       "lng": -80.0181,
       "note": "A hands-on science museum by the Ohio River with a planetarium, a giant model railroad and a WWII submarine moored outside.",
       "hours": "10:00 AM–5:00 PM daily",
-      "rating": 4.4,
       "ticketUrl": "https://kaminsciencecenter.org"
     },
     {
@@ -265,32 +251,28 @@
       "lat": 40.4318,
       "lng": -80.0054,
       "note": "The oldest working funicular in the US (1870), climbing from across the street from Station Square T stop to Grandview Avenue.",
-      "hours": "~5:30 AM–12:45 AM Mon–Sat, ~8:45 AM–midnight Sun; standard PRT fare",
-      "rating": 4.4
+      "hours": "~5:30 AM–12:45 AM Mon–Sat, ~8:45 AM–midnight Sun; standard PRT fare"
     },
     {
       "name": "Point State Park",
       "lat": 40.4417,
       "lng": -80.0122,
       "note": "The green tip of downtown where the rivers meet, with a big fountain, riverside lawns and the Fort Pitt Museum.",
-      "hours": "Park open sunrise–11:00 PM",
-      "rating": 4.5
+      "hours": "Park open sunrise–11:00 PM"
     },
     {
       "name": "Market Square",
       "lat": 40.4409,
       "lng": -80.0024,
       "note": "Downtown's lively central plaza, ringed by restaurants and bars, with seasonal farmers' markets and a winter ice rink nearby.",
-      "hours": "Open 24 hours",
-      "rating": 4.2
+      "hours": "Open 24 hours"
     },
     {
       "name": "Roberto Clemente Bridge",
       "lat": 40.4453,
       "lng": -80.0026,
       "note": "A golden 1928 suspension bridge between downtown and PNC Park, closed to cars and packed with fans on game days.",
-      "hours": "Open 24 hours",
-      "rating": 4.5
+      "hours": "Open 24 hours"
     }
   ],
   "railStations": [

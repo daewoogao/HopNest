@@ -708,39 +708,39 @@
     }
   ],
   "hotels": [
-    {"name":"Four Points by Sheraton Josun, Seoul Station","lat":37.5511,"lng":126.9723,"area":"Seoul Station","rating":4.2,"ratingCount":1062,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Ramada Hotel & Suites by Wyndham Seoul Namdaemun","lat":37.5605,"lng":126.9719,"area":"Seoul Station","rating":4,"ratingCount":1568,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Hotel Manu","lat":37.5571,"lng":126.9748,"area":"Seoul Station","rating":4.2,"ratingCount":992,"stars":3,"priceTier":2},
-    {"name":"K-POP Hotel Seoul Station","lat":37.5548,"lng":126.9741,"area":"Seoul Station","rating":4.1,"ratingCount":105,"stars":2,"priceTier":2},
-    {"name":"Grand Mercure Ambassador Seoul Yongsan","lat":37.5318,"lng":126.9631,"area":"Yongsan","rating":4.8,"ratingCount":825,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Novotel Ambassador Seoul Yongsan","lat":37.5318,"lng":126.9631,"area":"Yongsan","rating":4.2,"ratingCount":384,"stars":5,"priceTier":3,"brandAnchor":true},
-    {"name":"ibis Styles Ambassador Seoul Yongsan","lat":37.5318,"lng":126.9631,"area":"Yongsan","rating":4.7,"ratingCount":382,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"Grand Hyatt Incheon","lat":37.4406,"lng":126.4576,"area":"Incheon International Airport","rating":4.3,"ratingCount":5144,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Paradise City","lat":37.4373,"lng":126.4557,"area":"Incheon International Airport","rating":4.5,"ratingCount":345,"stars":5,"priceTier":4},
-    {"name":"ibis Styles Ambassador Incheon Airport T2","lat":37.4812,"lng":126.4202,"area":"Incheon International Airport","rating":4.6,"ratingCount":334,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Darakhyu Capsule Hotel by Walkerhill (Terminal 1)","lat":37.4476,"lng":126.4525,"area":"Incheon International Airport","rating":4.8,"ratingCount":407,"stars":2,"priceTier":1},
-    {"name":"Lotte City Hotel Gimpo Airport","lat":37.5638,"lng":126.8027,"area":"Gimpo International Airport","rating":4.5,"ratingCount":1043,"stars":4,"priceTier":3},
-    {"name":"ibis Styles Ambassador Seoul Myeongdong","lat":37.5617,"lng":126.9893,"area":"Myeongdong","rating":4.6,"ratingCount":2557,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"L'Escape, a Luxury Collection Hotel, Seoul Myeongdong","lat":37.5597,"lng":126.9794,"area":"Myeongdong","rating":4.8,"ratingCount":1141,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Hotel28 Myeongdong","lat":37.5643,"lng":126.984,"area":"Myeongdong","rating":4.8,"ratingCount":1434,"stars":3,"priceTier":3},
-    {"name":"Nine Tree by Parnas Seoul Myeongdong II","lat":37.5644,"lng":126.9909,"area":"Myeongdong","rating":4.5,"ratingCount":1201,"stars":4,"priceTier":3},
-    {"name":"Hotel Skypark Central Myeongdong","lat":37.5646,"lng":126.9852,"area":"Myeongdong","rating":4.4,"ratingCount":1976,"stars":3,"priceTier":2},
-    {"name":"Holiday Inn Express Seoul Hongdae","lat":37.5577,"lng":126.9267,"area":"Hongdae","rating":4.7,"ratingCount":781,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"Mercure Ambassador Seoul Hongdae","lat":37.5553,"lng":126.9224,"area":"Hongdae","rating":4.9,"ratingCount":716,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"L7 Hongdae","lat":37.5557,"lng":126.9216,"area":"Hongdae","rating":4.4,"ratingCount":387,"stars":4,"priceTier":3},
-    {"name":"RYSE, Autograph Collection","lat":37.5543,"lng":126.9212,"area":"Hongdae","rating":4.6,"ratingCount":267,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Ocloud Hotel","lat":37.503,"lng":127.0238,"area":"Gangnam","rating":4.3,"ratingCount":434,"stars":4,"priceTier":3},
-    {"name":"Gangnam Artnouveau City II","lat":37.4934,"lng":127.0282,"area":"Gangnam","rating":4.1,"ratingCount":215,"stars":4,"priceTier":3},
-    {"name":"ibis Ambassador Seoul Insadong","lat":37.5742,"lng":126.9885,"area":"Insadong","rating":4.7,"ratingCount":152,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"Amid Hotel Seoul","lat":37.5725,"lng":126.9842,"area":"Insadong","rating":4.4,"ratingCount":1453,"stars":3,"priceTier":3},
-    {"name":"Hotel Sunbee","lat":37.573,"lng":126.9847,"area":"Insadong","rating":4.4,"ratingCount":510,"stars":3,"priceTier":2},
-    {"name":"Shilla Stay Gwanghwamun","lat":37.5726,"lng":126.9811,"area":"Insadong","rating":4.5,"ratingCount":1259,"stars":4,"priceTier":3},
-    {"name":"Somerset Palace Seoul","lat":37.575,"lng":126.9812,"area":"Insadong","rating":4.3,"ratingCount":938,"stars":4,"priceTier":3},
-    {"name":"JW Marriott Dongdaemun Square Seoul","lat":37.5704,"lng":127.0088,"area":"Dongdaemun","rating":4.5,"ratingCount":1458,"stars":5,"priceTier":4,"brandAnchor":true},
-    {"name":"Novotel Ambassador Seoul Dongdaemun","lat":37.5663,"lng":127.0044,"area":"Dongdaemun","rating":4.5,"ratingCount":711,"stars":4,"priceTier":3,"brandAnchor":true},
-    {"name":"Hotel Skypark Kingstown Dongdaemun","lat":37.5688,"lng":127.0078,"area":"Dongdaemun","rating":4.6,"ratingCount":1582,"stars":4,"priceTier":3},
-    {"name":"Travelodge Dongdaemun Seoul","lat":37.5662,"lng":127.0022,"area":"Dongdaemun","rating":4.6,"ratingCount":1850,"stars":3,"priceTier":2},
-    {"name":"Toyoko Inn Seoul Dongdaemun No.1","lat":37.5647,"lng":127.009,"area":"Dongdaemun","rating":4.1,"ratingCount":458,"stars":2,"priceTier":2}
+    {"name":"Four Points by Sheraton Josun, Seoul Station","lat":37.5511,"lng":126.9723,"area":"Seoul Station","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Ramada Hotel & Suites by Wyndham Seoul Namdaemun","lat":37.5605,"lng":126.9719,"area":"Seoul Station","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hotel Manu","lat":37.5571,"lng":126.9748,"area":"Seoul Station","stars":3,"priceTier":2},
+    {"name":"K-POP Hotel Seoul Station","lat":37.5548,"lng":126.9741,"area":"Seoul Station","stars":2,"priceTier":2},
+    {"name":"Grand Mercure Ambassador Seoul Yongsan","lat":37.5318,"lng":126.9631,"area":"Yongsan","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Novotel Ambassador Seoul Yongsan","lat":37.5318,"lng":126.9631,"area":"Yongsan","stars":5,"priceTier":3,"brandAnchor":true},
+    {"name":"ibis Styles Ambassador Seoul Yongsan","lat":37.5318,"lng":126.9631,"area":"Yongsan","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Grand Hyatt Incheon","lat":37.4406,"lng":126.4576,"area":"Incheon International Airport","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Paradise City","lat":37.4373,"lng":126.4557,"area":"Incheon International Airport","stars":5,"priceTier":4},
+    {"name":"ibis Styles Ambassador Incheon Airport T2","lat":37.4812,"lng":126.4202,"area":"Incheon International Airport","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Darakhyu Capsule Hotel by Walkerhill (Terminal 1)","lat":37.4476,"lng":126.4525,"area":"Incheon International Airport","stars":2,"priceTier":1},
+    {"name":"Lotte City Hotel Gimpo Airport","lat":37.5638,"lng":126.8027,"area":"Gimpo International Airport","stars":4,"priceTier":3},
+    {"name":"ibis Styles Ambassador Seoul Myeongdong","lat":37.5617,"lng":126.9893,"area":"Myeongdong","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"L'Escape, a Luxury Collection Hotel, Seoul Myeongdong","lat":37.5597,"lng":126.9794,"area":"Myeongdong","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Hotel28 Myeongdong","lat":37.5643,"lng":126.984,"area":"Myeongdong","stars":3,"priceTier":3},
+    {"name":"Nine Tree by Parnas Seoul Myeongdong II","lat":37.5644,"lng":126.9909,"area":"Myeongdong","stars":4,"priceTier":3},
+    {"name":"Hotel Skypark Central Myeongdong","lat":37.5646,"lng":126.9852,"area":"Myeongdong","stars":3,"priceTier":2},
+    {"name":"Holiday Inn Express Seoul Hongdae","lat":37.5577,"lng":126.9267,"area":"Hongdae","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Mercure Ambassador Seoul Hongdae","lat":37.5553,"lng":126.9224,"area":"Hongdae","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"L7 Hongdae","lat":37.5557,"lng":126.9216,"area":"Hongdae","stars":4,"priceTier":3},
+    {"name":"RYSE, Autograph Collection","lat":37.5543,"lng":126.9212,"area":"Hongdae","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Ocloud Hotel","lat":37.503,"lng":127.0238,"area":"Gangnam","stars":4,"priceTier":3},
+    {"name":"Gangnam Artnouveau City II","lat":37.4934,"lng":127.0282,"area":"Gangnam","stars":4,"priceTier":3},
+    {"name":"ibis Ambassador Seoul Insadong","lat":37.5742,"lng":126.9885,"area":"Insadong","stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Amid Hotel Seoul","lat":37.5725,"lng":126.9842,"area":"Insadong","stars":3,"priceTier":3},
+    {"name":"Hotel Sunbee","lat":37.573,"lng":126.9847,"area":"Insadong","stars":3,"priceTier":2},
+    {"name":"Shilla Stay Gwanghwamun","lat":37.5726,"lng":126.9811,"area":"Insadong","stars":4,"priceTier":3},
+    {"name":"Somerset Palace Seoul","lat":37.575,"lng":126.9812,"area":"Insadong","stars":4,"priceTier":3},
+    {"name":"JW Marriott Dongdaemun Square Seoul","lat":37.5704,"lng":127.0088,"area":"Dongdaemun","stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"Novotel Ambassador Seoul Dongdaemun","lat":37.5663,"lng":127.0044,"area":"Dongdaemun","stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hotel Skypark Kingstown Dongdaemun","lat":37.5688,"lng":127.0078,"area":"Dongdaemun","stars":4,"priceTier":3},
+    {"name":"Travelodge Dongdaemun Seoul","lat":37.5662,"lng":127.0022,"area":"Dongdaemun","stars":3,"priceTier":2},
+    {"name":"Toyoko Inn Seoul Dongdaemun No.1","lat":37.5647,"lng":127.009,"area":"Dongdaemun","stars":2,"priceTier":2}
   ],
   "sights": [
     {
@@ -748,16 +748,14 @@
       "lat": 37.5796,
       "lng": 126.977,
       "note": "The largest of Seoul's Joseon-dynasty palaces, with a changing-of-the-guard ceremony at the main gate. Entry is free if you wear hanbok.",
-      "hours": "9:00 AM–6:00 PM (to 6:30 PM Jun–Aug, 5:00 PM Nov–Feb), closed Tue; last entry 1 hr before",
-      "rating": 4.4
+      "hours": "9:00 AM–6:00 PM (to 6:30 PM Jun–Aug, 5:00 PM Nov–Feb), closed Tue; last entry 1 hr before"
     },
     {
       "name": "Myeongdong Shopping Street",
       "lat": 37.5636,
       "lng": 126.985,
       "note": "Busy pedestrian lanes packed with Korean skincare shops, fashion stores and evening street-food stalls.",
-      "hours": "Shops ~10:00 AM–10:00 PM; food stalls from ~4:00 PM",
-      "rating": 4.3
+      "hours": "Shops ~10:00 AM–10:00 PM; food stalls from ~4:00 PM"
     },
     {
       "name": "N Seoul Tower",
@@ -765,7 +763,6 @@
       "lng": 126.9882,
       "note": "Communications tower on top of Namsan with a 360° observation deck over the whole city. Reach it by cable car or a 30-minute uphill walk.",
       "hours": "Observatory ~10:00 AM–11:00 PM daily (last entry 30 min before)",
-      "rating": 4.2,
       "ticketUrl": "https://www.seoultower.co.kr"
     },
     {
@@ -773,40 +770,35 @@
       "lat": 37.574,
       "lng": 126.9855,
       "note": "A traditional arts street of tea houses, galleries, calligraphy and craft shops, centred on the Ssamziegil spiral arcade.",
-      "hours": "Shops ~10:00 AM–8:30 PM",
-      "rating": 4.2
+      "hours": "Shops ~10:00 AM–8:30 PM"
     },
     {
       "name": "National Museum of Korea",
       "lat": 37.5239,
       "lng": 126.9803,
       "note": "Korea's flagship museum: gold crowns from Silla, celadon ceramics and Buddhist art, with free entry to the permanent galleries.",
-      "hours": "10:00 AM–6:00 PM, till 9:00 PM Wed & Sat; closed Jan 1, Seollal & Chuseok",
-      "rating": 4.5
+      "hours": "10:00 AM–6:00 PM, till 9:00 PM Wed & Sat; closed Jan 1, Seollal & Chuseok"
     },
     {
       "name": "The War Memorial of Korea",
       "lat": 37.5365,
       "lng": 126.9772,
       "note": "A large museum on Korea's military history, especially the Korean War, with tanks and aircraft displayed outdoors. Free.",
-      "hours": "9:30 AM–6:00 PM, closed Mon",
-      "rating": 4.6
+      "hours": "9:30 AM–6:00 PM, closed Mon"
     },
     {
       "name": "Cheonggyecheon Stream",
       "lat": 37.569,
       "lng": 126.9784,
       "note": "An 11 km restored stream running below street level through downtown, with walking paths, stepping stones and evening lights.",
-      "hours": "Open 24 hours",
-      "rating": 4.3
+      "hours": "Open 24 hours"
     },
     {
       "name": "Bukhansan National Park",
       "lat": 37.6588,
       "lng": 126.978,
       "note": "Granite peaks on the city's northern edge. The climb to Baegundae summit (836 m) is a steep half-day hike with views over Seoul.",
-      "hours": "Trails open from about sunrise; climbing cut-off times apply in the afternoon",
-      "rating": 4.7
+      "hours": "Trails open from about sunrise; climbing cut-off times apply in the afternoon"
     },
     {
       "name": "Changdeokgung Palace",
@@ -814,7 +806,6 @@
       "lng": 126.991,
       "note": "A UNESCO-listed palace laid out to follow the hillside. Its Secret Garden (Huwon) can only be seen on a guided tour with limited places.",
       "hours": "9:00 AM–6:00 PM (to 6:30 PM Jun–Aug, 5:30 PM Nov–Jan), closed Mon",
-      "rating": 4.4,
       "bookAhead": true
     },
     {
@@ -822,16 +813,14 @@
       "lat": 37.5826,
       "lng": 126.9836,
       "note": "Hillside lanes of tile-roofed traditional houses between two palaces. People still live here, so visitor hours apply and you should keep your voice down.",
-      "hours": "Lanes in the core zone are open to tourists 10:00 AM–5:00 PM only",
-      "rating": 4.2
+      "hours": "Lanes in the core zone are open to tourists 10:00 AM–5:00 PM only"
     },
     {
       "name": "Namdaemun Market",
       "lat": 37.5592,
       "lng": 126.9776,
       "note": "Seoul's oldest and biggest traditional market: clothing, kitchenware, ginseng, and alleys of cheap knife-cut noodles and hotteok.",
-      "hours": "Most shops ~9:00 AM–6:00 PM; many close on Sundays",
-      "rating": 3.9
+      "hours": "Most shops ~9:00 AM–6:00 PM; many close on Sundays"
     },
     {
       "name": "Lotte World Tower",
@@ -839,7 +828,6 @@
       "lng": 127.1025,
       "note": "Korea's tallest building (555 m). The Seoul Sky deck on floors 117–123 includes a glass-floored skywalk.",
       "hours": "Seoul Sky ~10:30 AM–10:00 PM (later on Fri & Sat)",
-      "rating": 4.4,
       "ticketUrl": "https://seoulsky.lotteworld.com"
     },
     {
@@ -847,48 +835,42 @@
       "lat": 37.5665,
       "lng": 127.0092,
       "note": "Zaha Hadid's curving aluminium landmark, used for design exhibitions. After dark its LED rose garden and the night markets nearby come alive.",
-      "hours": "Building ~10:00 AM–8:00 PM; outdoor areas open 24 hours",
-      "rating": 4.2
+      "hours": "Building ~10:00 AM–8:00 PM; outdoor areas open 24 hours"
     },
     {
       "name": "Starfield Library",
       "lat": 37.5103,
       "lng": 127.0596,
       "note": "A two-storey atrium inside COEX Mall lined with 13 m bookshelves. Free to browse and very popular for photos.",
-      "hours": "10:00 AM–10:00 PM daily",
-      "rating": 4.4
+      "hours": "10:00 AM–10:00 PM daily"
     },
     {
       "name": "Bongeunsa Temple",
       "lat": 37.5148,
       "lng": 127.0577,
       "note": "A Buddhist temple founded over 1,200 years ago, with a 23 m Maitreya statue, set against the skyscrapers of Gangnam.",
-      "hours": "Grounds open daily from early morning to ~10:00 PM",
-      "rating": 4.4
+      "hours": "Grounds open daily from early morning to ~10:00 PM"
     },
     {
       "name": "Gwangjang Market",
       "lat": 37.5701,
       "lng": 126.9996,
       "note": "A century-old covered market famous for its food alleys: bindaetteok mung-bean pancakes, yukhoe beef tartare and mayak gimbap.",
-      "hours": "Food stalls ~9:00 AM–11:00 PM; fabric shops close earlier and many shut on Sundays",
-      "rating": 4.2
+      "hours": "Food stalls ~9:00 AM–11:00 PM; fabric shops close earlier and many shut on Sundays"
     },
     {
       "name": "Yeouido Hangang Park",
       "lat": 37.5284,
       "lng": 126.933,
       "note": "Locals' favourite riverside park for picnics, bike rental and convenience-store ramyeon, with cherry blossoms in April and fireworks in autumn.",
-      "hours": "Open 24 hours",
-      "rating": 4.5
+      "hours": "Open 24 hours"
     },
     {
       "name": "Ikseon-dong Hanok Street",
       "lat": 37.5743,
       "lng": 126.9898,
       "note": "A tight cluster of 1920s hanok converted into cafés, bakeries and small restaurants, five minutes from Insadong.",
-      "hours": "Shops ~11:00 AM–10:00 PM",
-      "rating": 4.5
+      "hours": "Shops ~11:00 AM–10:00 PM"
     }
   ],
   "railStations": [
