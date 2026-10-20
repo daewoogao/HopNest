@@ -188,7 +188,7 @@ station/airport/railway stop you tap.
   Seattle, Philadelphia, San Diego, New Orleans, Atlanta. Batch 8 (US, 2026-10-18):
   Portland, Honolulu, Denver, Dallas, Baltimore, Minneapolis–Saint Paul, Salt Lake City, Houston, Phoenix, St. Louis, Pittsburgh, Charlotte. Batch 9 (US, 2026-10-18):
   Detroit, Buffalo, Cincinnati, Milwaukee, Cleveland, Norfolk, Sacramento, Tucson, Kansas City, San Jose, Austin, Tampa (94 cities). Batch 10 (China, 2026-10-20):
-  Hangzhou, Suzhou, Xiamen, Chongqing, Qingdao (99 cities).
+  Hangzhou, Suzhou, Xiamen, Chongqing, Qingdao, Changsha (100 cities).
   City-list groups: Asia, Europe, Americas, Africa, Oceania.
 - **City picker** (search redesigned 2026-10-16): a search box that
   matches city name, country, other names (`aliases` in `cities.json`:
@@ -583,7 +583,7 @@ they're done.
   core values and main features (核心价值与主要功能) right after the English
   Background at the top of this document.
 
-### 2026-10-20 — batch 10: more China cities (99 total)
+### 2026-10-20 — batch 10: more China cities (100 total)
 - Audrey asked for Chongqing, Hangzhou, Suzhou, Xiamen, Qingdao and
   Changsha (Taipei was already in). Added one city at a time. China rules:
   Trip.com ratings (4.5/5, 200+ reviews, foreign passports accepted),
@@ -615,6 +615,11 @@ they're done.
   Valley Line and the West Coast Line, 18 picks, 17 sights. Gaps: North
   Station has 2 picks about 1 km out (with walk notes); Zhongshan Road 2
   (hostels only); Taidong 1; no brand hotel at the stations or airport
+- Changsha: 9 lines including the airport Maglev Express and the
+  Dawangshan SkyShuttle, 7 picks, 14 sights. Gaps: Changsha South
+  Station and Huanghua airport have no pick, and the Yuelu Mountain area
+  was left out (qualifying hotels there have no trustworthy pin);
+  Changsha Station 2 (one about 1.2 km out, with a walk note)
 
 ### 2026-10-20 — Background section added
 - Audrey: added a Background section at the start of this document (the

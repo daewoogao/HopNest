@@ -97,5 +97,6 @@
   "suzhou": {"name":"Suzhou","country":"China","flag":"🇨🇳","region":"Asia","aliases":["苏州","Soochow","Suchow","Suzhou Jiangsu"]},
   "xiamen": {"name":"Xiamen","country":"China","flag":"🇨🇳","region":"Asia","aliases":["厦门","廈門","Amoy","XMN","Gulangyu"]},
   "chongqing": {"name":"Chongqing","country":"China","flag":"🇨🇳","region":"Asia","aliases":["重庆","重慶","Chungking","CKG"]},
-  "qingdao": {"name":"Qingdao","country":"China","flag":"🇨🇳","region":"Asia","aliases":["青岛","青島","Tsingtao","Tsingtau","TAO"]}
+  "qingdao": {"name":"Qingdao","country":"China","flag":"🇨🇳","region":"Asia","aliases":["青岛","青島","Tsingtao","Tsingtau","TAO"]},
+  "changsha": {"name":"Changsha","country":"China","flag":"🇨🇳","region":"Asia","aliases":["长沙","長沙","CSX"]}
 }
