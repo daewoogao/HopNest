@@ -9,6 +9,34 @@ left stale.
 
 ---
 
+## Background
+
+**The problem.** Choosing where to stay in an unfamiliar city is a spatial
+decision. A traveler needs to know how a hotel relates to the transit
+network, to the sights they plan to visit, and to the airport or rail
+station where they arrive. Today that information is scattered across
+separate tools: transit apps show subway lines but not hotels, booking
+sites show hotels but not the subway network, travel guides list sights
+without either, and airport and intercity rail connections live somewhere
+else again. No single map brings these layers together.
+
+**Why it matters.** Because the layers are never shown together, travelers
+switch between apps and tabs and try to judge distances by eye. Questions
+that should be simple ("Is this hotel a short walk from a station on the
+line I need?", "How far is it from the sights I care about?", "Can I get
+here easily from the airport?") become slow, error-prone research, and
+many travelers only discover a poor location after they arrive.
+
+**Our approach.** HopNest is a single, integrated map that layers subway
+and metro lines, curated hotels, sightseeing spots, airports and major
+train stations on one screen. Selecting a station, airport, rail hub or
+sight draws a walking-distance radius and shows the hotels inside it, so
+proximity is visible at a glance rather than estimated. The traveler sees
+where to stay, how to get around, and what is nearby in one place, and
+can go straight from there to booking.
+
+---
+
 ## How HopNest actually helps someone plan a trip
 
 Normally, "where should I stay" means juggling four separate tools — a
@@ -522,6 +550,11 @@ they're done.
 ---
 
 ## Changelog
+
+### 2026-10-20 — Background section added
+- Audrey: added a Background section at the start of this document (the
+  problem, why it matters, our approach), written from her description of
+  the pain point HopNest solves.
 
 ### 2026-10-20 — Clicking the map clears a sight's hotels
 - Audrey: after clicking a sight, a click anywhere on the map should hide its
