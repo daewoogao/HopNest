@@ -1,0 +1,262 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	1668233954	如家派柏·云酒店	Home Inn Pebble Hotel	36.0581208	120.3001215	hotel		如家酒店		
+node	1860117043	爱尊客台湾路店		36.0609580	120.4058007	hotel				
+node	3013600743	锦江之星	Jinjiang Inn	36.1143229	120.3485283	hotel	2	锦江之星		
+node	4018046298	CHINA公社文化酒店	China Community Art and Culture Hotel	36.0725311	120.3898847	hotel				
+node	4018046299			36.0707360	120.3911936	hotel				
+node	4018280875	宜必思酒店	Ibis Hotel	36.0606108	120.4159075	hotel		宜必思酒店		
+node	4279375389	25度四季青年旅舍	25 Degrees Four Seasons Youth Hostel	36.0609224	120.2987908	hostel				
+node	4280241792	Meet You		36.0732442	120.3134671	hostel				
+node	4368932664	青岛麒麟皇冠大酒店	Best Wetern Premier Kilin Crown Hotel	36.0959416	120.4647940	hotel				
+node	4368932667	青年都市迷你酒店	Dushi Mini Hotel	36.1020039	120.4746305	hotel				
+node	4420366091		Ocean University of China Academic Exchange Center	36.0667175	120.3323671	hotel				
+node	4450046189		Xilaiju Antu Hostel	36.0680258	120.3925144	hostel				
+node	4826745929	青岛鲁商凯悦酒店	Hyatt Regency Qingdao	36.0880740	120.4573169	hotel		Grand Hyatt		https://qingdao.regency.hyatt.com/
+node	5185506327	如家酒店	Home Inn	36.0703568	120.3126510	hotel		如家酒店		
+node	5188729330	汐美宿	Tide Inn	36.0604822	120.3732464	hotel				
+node	5190908594	龙港海景酒店		36.0533882	120.3245550	hotel				
+node	5224409487	7天连锁酒店		36.0606598	120.2927386	hotel				
+node	5239752456	劈柴院商务宾馆		36.0710059	120.3123754	hotel				
+node	5239816052	生活林酒店		36.0694071	120.3126200	hotel				
+node	5244361600	青岛盈客佳驿商务宾馆		36.0606317	120.2956329	hotel				
+node	5244497519	汉庭怡莱酒店		36.0683615	120.3162174	hotel				
+node	5244497636	青岛中山旅馆		36.0644306	120.3140841	hotel				
+node	5244497639	旧时光青年旅社		36.0690538	120.3138455	hostel				
+node	5245259949	美仑酒店	Madison Hotel	36.0649029	120.3099157	hotel		Madison		
+node	5245259952	好世界商务宾馆		36.0654450	120.3101663	hotel				
+node	5245259953	汉庭酒店	Hanting Hotel	36.0652643	120.3103980	hotel		汉庭酒店		
+node	5245291105	东泰宾馆		36.0637712	120.3108999	hotel				
+node	5245292141	爱尊客		36.0637477	120.3115643	hotel				
+node	5245317797		GreenTree Inn	36.0675900	120.3089469	hotel				
+node	5246629735	汉庭酒店		36.0689304	120.3089092	hotel				
+node	5246654298	青岛自由行青年旅社		36.0677778	120.3101654	hostel				
+node	5273862950	布丁酒店		36.0649391	120.2996384	hotel				
+node	5273996964	如家商旅酒店	Home Inn Style	36.0686670	120.3114954	hotel		如家酒店		
+node	5277965249	里院客栈		36.0688212	120.3127212	hostel				http://hotels.ctrip.com/hotel/1434596.html
+node	5277965251	风之驿		36.0689414	120.3129431	hostel				
+node	5277965252	盛锡福宾馆		36.0696534	120.3125963	hotel				
+node	5277965257	麦朴旅社		36.0698138	120.3110425	hostel				
+node	5277965262	筑海小栈青年旅舍		36.0710370	120.3117035	hostel				
+node	5314402012	海清大酒店		36.0579698	120.4021217	hotel				
+node	5314462807	恰蕾苑旅馆		36.0892194	120.3488333	hostel				
+node	5329028346	龙嘉宾馆		36.0586714	120.3359561	hostel				
+node	5332537321	文怡苑商务宾馆		36.0684835	120.3063117	hotel				
+node	5334393523	锦江之星		36.0741662	120.3141559	hotel				
+node	5348971452	手拉手海港酒店		36.0822367	120.3382849	hotel				
+node	5349042196	鱼水情大酒店		36.0785599	120.3425232	hotel				
+node	5354788808	1910旅社		36.0807009	120.3180998	hostel				
+node	5372376335	速8酒店	Super 8	36.0576455	120.2953848	hotel		速8酒店		
+node	5372376416		GreenTree Inn	36.0544841	120.2984552	hotel				
+node	5398578421	青岛玖加壹商务宾馆		36.1008909	120.3509131	hotel				
+node	5445716324	海起酒店		36.0575324	120.3958422	hotel				
+node	5501160866	亚朵海景酒店		36.0540820	120.2999122	hotel				
+node	5540637792	民国酒店	MG Hotel	36.0654184	120.3139753	hotel	4			
+node	5679959656	聚乐坊旅馆		36.0603654	120.2938760	hotel				
+node	5679959668	东莱福宾馆		36.0612795	120.2949271	hotel				
+node	5734300851	青岛邂逅国际青年旅舍		36.0668591	120.3042834	hostel				
+node	5734300852	青岛港湾印象连锁酒店		36.0674338	120.3019598	hotel				
+node	5877942577	遇見		36.0638505	120.3152908	hostel				
+node	5877943485	海友酒店	Hi Inn	36.0662829	120.3137687	hostel				
+node	5877943501	新龍源商務大酒店		36.0670277	120.3162559	hotel				
+node	5923397986	体育之家大酒店	Tiyuzhijia hotel	36.0710476	120.3407437	hotel				http://www.qdtyzj.cn
+node	6807880886		Qingdao Folk Customs Inn	36.0709441	120.3131021	hotel				
+node	6839158085			36.1049571	120.3483167	hotel				
+node	7648699961		Youth Hotel and Cafe	36.0681802	120.3165431	hotel				
+node	7648705990	欧陆良舍酒店		36.0680552	120.3166072	hotel				
+node	7649876467	汉廷酒店		36.0679604	120.3647407	hotel		汉廷酒店		
+node	7652812076	怡堡酒店	Castle Boutique Hotel	36.0654601	120.3281748	hotel				
+node	7663531094			36.0739591	120.3589824	hotel				
+node	7682999591	青岛万达艾美酒店	Le Méridien Qingdao	36.0873661	120.3732289	hotel		Le Méridien		
+node	9012904287	海星机场酒店		36.3588092	120.0871954	hotel				
+node	9012923612	青岛国际机场君廷酒店		36.3596989	120.0936070	hotel				
+node	9012923613	青岛国际机场邦臣酒店		36.3598446	120.0936047	hotel		Barony		
+node	9203729788	如家酒店	Home Inn	36.0765193	120.3151508	hotel		如家酒店		
+node	9711316997	海天大酒店	Hai Tian Hotel	36.0561045	120.3637280	hotel				https://qdhthotel.com/
+node	10740198948	汉庭酒店	Hanting Hotel	36.0634426	120.3119243	hotel		汉庭酒店		
+node	10740198949			36.0633602	120.3124286	hotel				
+node	10740198950			36.0632583	120.3124259	hotel				
+node	10740198951			36.0629309	120.3123642	hotel				
+node	10740198952			36.0631585	120.3115032	hotel				
+node	10740198954			36.0634686	120.3111143	hotel				
+node	10740198955			36.0632843	120.3112297	hotel				
+node	10740198960			36.0647110	120.3119136	hotel				
+node	10740198961			36.0647153	120.3115569	hotel				
+node	10740198962			36.0647153	120.3112940	hotel				
+node	10740198963			36.0647088	120.3110151	hotel				
+node	10740198964			36.0649972	120.3117768	hotel				
+node	10740198965			36.0652075	120.3093441	hotel				
+node	10740198966			36.0653462	120.3097330	hotel				
+node	10740198967	如家酒店	Home Inn	36.0665387	120.3089283	hotel		如家酒店		
+node	10740198968			36.0663718	120.3089256	hotel				
+node	10740198969			36.0661853	120.3094540	hotel				
+node	10740198972			36.0622956	120.3108595	hotel				
+node	10740198973			36.0627813	120.3113611	hostel				
+node	10740198974			36.0627249	120.3118144	hostel				
+node	10740198975			36.0626316	120.3124152	hostel				
+node	10740198976			36.0630870	120.3154434	hotel				
+node	10740204741	全季酒店	Ji Hotel	36.0650420	120.3092407	hotel		全季酒店		
+node	11449476986	台东大酒店		36.0831243	120.3473887	hotel				
+node	11452091701	远洋大酒店		36.1025075	120.4644390	hotel				
+node	11472466514	青岛蔷薇花开酒店		36.1044406	120.4644243	hotel				
+node	11482607344	星澜酒店		36.0798330	120.3541621	hotel				
+node	12491910701	青岛胶东国际机场秋临悦享酒店	Joy Fall Hotel	36.3388304	120.0902662	hotel				
+node	13006147102		Cristal	36.0828130	120.3558300	hotel				
+node	13070715899		Yuanjili International Youth Hostel	36.0789253	120.3169146	hostel				
+node	13310162818	全季酒店	Ji Hotel	36.0650298	120.3831066	hotel		全季酒店		
+node	13342665528	亚朵酒店	Atour Hotel	36.1725577	120.3845180	hotel		亚朵酒店		
+node	13342696156	如家酒店	Home Inn	36.1671680	120.3860313	hotel		如家酒店		
+node	13342696157	你好酒店		36.1671926	120.3859236	hotel				
+node	13344678097	汉庭酒店	Hanting Hotel	36.0911369	120.3697049	hotel		汉庭酒店		
+node	13344678098	亚朵酒店	Atour Hotel	36.0912401	120.3698964	hotel		亚朵酒店		
+node	13344678099	雷神电竞酒店		36.0914814	120.3698904	hotel				
+node	13357552713	凯莱悦享酒店	GtEL Qingdao	36.0878347	120.3806654	hotel		Gloria Hotels		
+node	13383732249	锦江之星	Jinjiang Inn	36.1136696	120.3749722	hotel		锦江之星		
+node	13383732250	汉庭酒店	Hanting Hotel	36.1132839	120.3744733	hotel		汉庭酒店		
+node	13438934915	青岛瑞吉酒店	The St. Regis Qingdao	36.0564223	120.3645928	hotel		The St. Regis		https://www.marriott.com.cn/hotels/taoxr-the-st-regis-qingdao/overview/
+node	13441651640	李子酒店		36.1422312	120.3703744	hotel				
+node	13441769984	亚朵S酒店	Atour S Hotel	36.0595804	120.3670063	hotel		亚朵		
+node	13451697501		Atour	36.0828637	120.3556873	hotel				
+node	13528723593	崂山区逸衡酒店	EVEN Hotels	36.1171779	120.4434681	hotel		EVEN Hotels		
+node	13579717967	如家酒店	Home Inn	36.1596372	120.4020196	hotel		如家酒店		
+node	13579718002	汉庭酒店	Hanting Hotel	36.1554799	120.4019140	hotel		汉庭酒店		
+node	13580717352	亚朵酒店	Atour Hotel	36.1737488	120.3823738	hotel		亚朵酒店		
+node	13580717353	汉庭酒店	Hanting Hotel	36.1732551	120.3832490	hotel		汉庭酒店		
+node	13580717366	汉庭酒店	Hanting Hotel	36.1729997	120.3803665	hotel		汉庭酒店		
+node	13587001893	汉庭酒店	Hanting Hotel	36.0807872	120.3664008	hotel		汉庭酒店		
+node	13587005594	汉庭酒店	Hanting Hotel	36.0725105	120.3662826	hotel		汉庭酒店		
+node	13598340459	智选假日酒店	Holiday Inn Express	36.1135061	120.3471114	hotel		Holiday Inn Express		https://www.ihg.com/holidayinnexpress/hotels/cn/zh/qingdao/taosb/hoteldetail
+node	13604623628	如家酒店	Home Inn	36.1757513	120.4026973	hotel		如家酒店		
+node	13609432641	金铭记旅馆		36.1755179	120.3827585	hotel				
+node	13625386107	上之合商务酒店		36.0765280	120.3246445	hotel				
+node	13630011991	王姐商务宾馆	Sister Wang Business Hotel	36.0793866	120.3385717	hotel				
+node	13657476371	汉庭酒店	Hanting Hotel	36.1098785	120.3729925	hotel		汉庭酒店		
+node	13670732380	和颐至尚酒店		36.0633445	120.3104071	hotel				
+node	13670757492	汉庭酒店	Hanting Hotel	36.0721945	120.3166199	hotel		汉庭酒店		
+node	13704843432	桔子酒店		36.0663548	120.3130470	hotel				
+node	13727100462	如家酒店	Home Inn	36.0684160	120.3006617	hotel		如家酒店		
+node	13764135370	亚朵酒店	Atour Hotel	36.0558062	120.3042261	hotel		亚朵酒店		
+node	13900919647	维也纳酒店	Vienna Hotels	36.0648601	120.3098056	hotel		维也纳酒店		
+node	13904452307	汉庭酒店	Hanting Hotel	36.0871075	120.3710526	hotel		汉庭酒店		
+node	13915809243	青岛建银大酒店		36.0581428	120.3066085	hotel				
+node	13960497443	泊居精栈	Boju Hotel	36.0665494	120.3874621	hotel				
+node	13960497447	如家酒店	Home Inn	36.0682067	120.3879077	hotel		如家酒店		
+node	13969892865	青岛机场富华酒店	Qingdao Airport Fuhua Hotel	36.0649937	120.3836058	hotel				
+node	14040551625	汉庭酒店	Hanting Hotel	36.0742240	120.3722291	hotel		汉庭酒店		
+node	14040551626	水晶酒店		36.0738297	120.3722128	hotel				
+node	14069296202	汉庭酒店	Hanting Hotel	36.0721900	120.3959311	hotel		汉庭酒店		
+node	14099320365	如家酒店	Home Inn	36.0629493	120.3101029	hotel		如家酒店		
+node	14099350944	雅海阁大酒店		36.0573989	120.3057765	hotel				
+node	14099350948	荣军驿站		36.0577598	120.3056694	hotel				
+node	14118625155	汉庭酒店	Hanting Hotel	36.0611963	120.3943198	hotel		汉庭酒店		
+node	14118625156	亚朵酒店	Atour Hotel	36.0618424	120.3915288	hotel		亚朵酒店		
+node	14131543945	新世界旅社	New World Hotel	36.0938722	120.3435543	hostel				
+node	14131543948	军海情商务宾馆		36.0962136	120.3472844	hotel				
+node	14139670032	东方航空大酒店	Eastern Air Hotel	36.0664409	120.3960433	hotel				
+node	14148315171	新氧酒店		36.0796157	120.3561799	hotel				
+node	14162042913	青岛世茂凡象酒店		36.0813644	120.3538182	hotel				
+node	14175511806	格兰云天大酒店	Grand Skylight Hotel	36.1070574	120.3759399	hotel		Grand Skylight		
+node	14177267365	龙凤苑酒店		36.0582327	120.3010023	hotel				
+node	14222495061	明泽酒店		36.1146867	120.3711795	hotel				
+way	154258905	青岛奥博维特国际青年旅舍	Old Observatory Youth Hostel	36.0701474	120.3211284	hostel				http://www.hostelqingdao.com/
+way	154259487	青岛自由港湾海景度假公寓		36.0827343	120.3158623	hotel				
+way	241627575	汇泉王朝大饭店	Huiquan Dynasty Hotel	36.0561762	120.3396349	hotel	5			
+way	354128528	府新大厦	Fuxin Hotel Qingdao	36.0678866	120.3770504	hotel	4			
+way	403798125	西岭大酒店		36.0622175	120.2992782	hotel				
+way	413017541	汉庭酒店	Hanting Hotel	36.0542535	120.3564084	hotel		汉庭酒店		
+way	413017545	丽天大酒店	Litian Hotel Qingdao	36.0608438	120.3681170	hotel	4		青岛丽天大酒店有限公司	
+way	413017547	香格里拉大酒店	Shangri-La	36.0645903	120.3733233	hotel				
+way	413618103	颐海苑		36.1171332	120.4693975	hotel				
+way	439263576	索菲亚国际大酒店	Sophia International Hotel	36.0982493	120.4723110	hotel				
+way	439267624			36.1053306	120.4685468	hotel				
+way	531980954	威斯汀酒店	The Westin Qingdao	36.0633647	120.3747435	hotel		Westin		https://www.marriott.com.cn/hotels/taowi-the-westin-qingdao/overview/
+way	531980974	桔子水晶酒店	Crystal Orange Hotel	36.0610129	120.3737330	hotel				
+way	532692705	汉庭酒店	Hanting Hotel	36.0607370	120.3716907	hotel		汉庭酒店		
+way	533633322	顺兴楼海景大酒店		36.0647580	120.3142914	hotel				
+way	533647369	锦江之星	Jinjiang Inn	36.0687985	120.3118806	hotel		锦江之星		
+way	533720538	黄海饭店		36.0608490	120.3372256	hotel				
+way	533935696	维也纳大酒店	Vienna Hotel	36.0596677	120.3753784	hotel				
+way	534392321	青岛中心假日酒店	Holiday Inn Qingdao City Centre	36.0671984	120.3834387	hotel		Holiday Inn		https://www.ihg.com/holidayinn/hotels/us/en/qingdao/daoxr/hoteldetail
+way	534636723	泛海名人酒店	Oceanwide Elite Hotel	36.0621100	120.3182472	hotel				
+way	534636724	栈桥王子饭店	Zhanqiao Prince Hotel	36.0622442	120.3176012	hotel				
+way	534786552	东海饭店		36.0485636	120.3398230	hotel				
+way	535137574	开治酒店旧址		36.0634803	120.3187628	hotel				
+way	535186696	佳信商务酒店	Jiaxin Hotel	36.0640653	120.3157876	hotel				
+way	535591052			36.0533633	120.3244502	hotel				
+way	535992729	德爱花园大酒店	De'ai Garden Hotel	36.0801778	120.3224126	hotel				
+way	540119024	东海家人酒店		36.0701841	120.3075202	hotel				
+way	540126723	金海大酒店	Jin Hai Hotel Qingdao	36.0659132	120.3084268	hotel	4		山东济铁酒店管理有限责任公司	
+way	542442210	如家酒店	Home Inn	36.0630149	120.3059375	hotel		如家酒店		
+way	543916345	协和华天大酒店		36.0587351	120.3072249	hotel				
+way	545711937	友实大酒店		36.0677595	120.3030473	hotel				
+way	549951883	汉庭酒店	Hanting Hotel	36.0693716	120.3658252	hotel		汉庭酒店		
+way	549966880	青岛颐中皇冠假日酒店	Crowne Plaza Qingdao	36.0639118	120.3944549	hotel		Crowne Plaza		
+way	549966916	青岛海尔洲际酒店	Intercontinental Qingdao	36.0565061	120.3926919	hotel		InterContinental		
+way	549966918	海预宾馆		36.0586932	120.4062460	hotel				
+way	550048322	华侨国际饭店		36.0655949	120.3896839	hotel				
+way	550197967	丽晶大酒店		36.0649095	120.4042137	hotel				
+way	550197979	德宝花园大酒店		36.0647349	120.4077328	hotel				
+way	550197992	海景花园大酒店		36.0598435	120.4106972	hotel				
+way	550198261	青岛花园大酒店		36.0622585	120.4102814	hotel				
+way	550205329	蓝海·颐海花园酒店		36.0681986	120.3984511	hotel				
+way	550213088	如家酒店	Home Inn	36.0889080	120.3477125	hotel		如家酒店		
+way	551855247	汇园宾馆		36.0599525	120.3369637	hotel				
+way	552323451	米兰风尚酒店		36.0849574	120.4029418	hotel				
+way	552418024	青岛太平洋海景别墅度假酒店		36.0634479	120.3805225	hotel				
+way	552651550	青岛颐海花园酒店	Yihai Garden Hotel	36.0635269	120.3709144	hotel				
+way	552651558	北海宾馆	Beihai Hotel	36.0655095	120.3704785	hotel	4			
+way	553675288	雅悦酒店		36.0842933	120.3456326	hotel				
+way	553679646	台东大酒店		36.0833174	120.3475675	hotel				
+way	553679656	紫丁香饭店	Lilac Hotel	36.1136101	120.3471671	hotel				
+way	554240681	永日香		36.0962434	120.3449890	hotel				
+way	554240739	如家酒店	Home Inn	36.0865060	120.3392841	hotel		如家酒店		
+way	554268345	东海大酒店	Donghai Grand Hotel	36.0476865	120.3401443	hotel				
+way	555336941	桔子酒店		36.0626976	120.3854855	hotel				
+way	555336985	青岛我行我宿青年旅舍		36.0607922	120.3891184	hostel				
+way	556181638	世纪之星商务酒店		36.0612742	120.3438297	hotel				
+way	556207278	世纪文华酒店		36.0725503	120.4377912	hotel				
+way	556390269	Kaiyue International Youth Hostel		36.0703168	120.3186968	hostel				
+way	556437936	如家酒店	Home Inn	36.0568088	120.3033030	hotel		如家酒店		
+way	556703663	八大关宾馆		36.0503602	120.3415754	hotel				
+way	556703669	海芳苑度假酒店		36.0479457	120.3393362	hotel				
+way	556703713	东海饭店		36.0486271	120.3396123	hotel				
+way	556703749	八大关宾馆		36.0514636	120.3442539	hotel				
+way	556940618	花开朵朵宾馆		36.0614067	120.3347308	hostel				
+way	556957591	东晖国际大酒店		36.0852378	120.3697978	hotel				
+way	557002976	八大峡宾馆（废弃）		36.0560829	120.2997939	hotel				
+way	557559052	如家酒店	Home Inn	36.1763345	120.3776524	hotel		如家酒店		
+way	558249652	如家酒店	Home Inn	36.0637280	120.3241429	hotel		如家酒店		
+way	558970542	岸琴御公馆		36.0845683	120.4524758	hotel				
+way	558970553	精品·海福特商务酒店		36.0892874	120.4538892	hotel				
+way	558970562	中国气象局青岛度假村		36.0853039	120.4534755	hotel				
+way	559007745	四机宾馆		36.1040003	120.3464426	hotel				
+way	559007748	如家酒店	Home Inn	36.1036962	120.3465852	hotel		如家酒店		
+way	559795729	青岛民联凯旋酒店		36.1730586	120.3819068	hotel				
+way	563546541	新龙源皇家酒店		36.0690921	120.3247985	hotel				
+way	570326548	新龙源皇家酒店		36.0689875	120.3247799	hotel				
+way	582130638	青岛人家商务酒店		36.0736187	120.3836612	hotel				
+way	1044426174	钓鱼台美高梅酒店	Diaoyutai MGM Hospitality	36.0981218	120.4605903	hotel		美高梅		https://www.dytmgm.com/cn/mgmqingdao/index
+way	1187148264	良机商务酒店		36.1017816	120.3565742	hotel				
+way	1234025316			36.1069047	120.4686337	hotel				
+way	1454694029	锦江之星	Jinjiang Inn	36.1854062	120.3851509	hotel		锦江之星		
+way	1454925823	沃德Smart酒店		36.1689019	120.3997972	hotel				
+way	1455162122	多维空间精选酒店		36.0980477	120.3746800	hotel				
+way	1465251255	青岛景福宫宾馆		36.0583504	120.3620438	hotel				
+way	1465251257	海韵楼酒店		36.0577948	120.3626638	hotel				
+way	1465522760	德馨居宾馆		36.1400699	120.3691987	hotel				
+way	1471858156	桔子酒店		36.1743327	120.3843433	hotel		桔子酒店		
+way	1475259005	如家酒店	Home Inn	36.0928210	120.3627016	hotel		如家酒店		
+way	1475295633	天路智家酒店		36.1808483	120.3777636	hotel				
+way	1476891135	青岛金海花园假日酒店		36.0511068	120.3581595	hotel			济南铁路局集团有限公司	
+way	1481402042	五矿招待所		36.0795537	120.3455533	hotel				
+way	1490966028	汉庭酒店	Hanting Hotel	36.1134923	120.3926017	hotel		汉庭酒店		
+way	1494111406	全季酒店	Ji Hotel	36.0816175	120.3510802	hotel		全季酒店		
+way	1494127322	青岛中央商务区假日酒店	Holiday Inn Qingdao CBD	36.0853149	120.3608054	hotel		Holiday Inn		https://www.ihg.com/holidayinn/hotels/cn/zh/qingdao/taoqd/hoteldetail
+way	1509524781	山孚大酒店	Sanfod Hotel	36.0646299	120.4005213	hotel	4			
+way	1510225652	亚朵酒店	Atour Hotel	36.0929343	120.3960179	hotel		亚朵酒店		
+way	1518564876	青岛地矿宾馆		36.0765483	120.3759491	hotel				
+way	1518564894	青岛鸿安大酒店		36.0772998	120.3731806	hotel				
+way	1518564903	海明威大酒店	Hemingway Hotel	36.0818188	120.3725997	hotel				
+way	1525425228	都市118		36.0799862	120.3805266	hotel				
+way	1533168243	宏宇大酒店	Hongyu Hotel	36.0825534	120.3195018	hotel				
+way	1568891821			36.0780489	120.3289657	hotel				
+relation	7928027	青岛金海红宇宾馆	Jinhai Hongyu Hotel	36.0658039	120.3066375	hotel				

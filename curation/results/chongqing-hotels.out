@@ -1,0 +1,93 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	850366236	希尔顿酒店	Hilton Hotel	29.5578542	106.5458608	hotel			Hilton Hotels	
+node	1727314573			29.5356353	106.6004158	hotel				
+node	1981097203	重庆东方花苑饭店	East Garden Hotel	29.5620708	106.5474219	hotel				
+node	2302381605		Glenview Hotel	29.5591540	106.5704500	hotel				
+node	2822140372	恺瑞酒店	Carol Hotel	29.5528752	106.5760223	hotel				
+node	3070408460	7天		29.5555893	106.5665861	hostel				
+node	3070408461	7天		29.5655415	106.4506006	hostel				
+node	4127001894	重庆凯宾斯基酒店	Kempinski	29.5374670	106.5577005	hotel	5	Kempinski	Kempinski	
+node	4139796990	重庆JW万豪酒店	JW Marriott Chongqing	29.5600176	106.5673455	hotel		JW Marriott		
+node	4140410013	喜百年酒店		29.5138867	106.5705694	hotel				
+node	4140410242	Nantong Hotel		29.5296665	106.5603411	hostel				
+node	4140850933	他她时尚酒店		29.5376959	106.5559653	hotel				
+node	4140851090	新湾宾馆	Xinwan Hotel	29.5470655	106.5885945	hotel				
+node	4142084744	南滨1908江景酒店		29.5619371	106.5910679	hotel				
+node	4143800227		Holiday Inn	29.5227500	106.5017572	hotel		Holiday Inn		
+node	4143800236	长润宾馆		29.5246415	106.5007799	hotel				
+node	4143800237	奥星宾馆		29.5236402	106.5012549	hotel				
+node	4143800238	重庆怡然酒店		29.5232030	106.5014558	hotel				
+node	4143800390	7天酒店	7 Days Inn	29.5298062	106.4856777	hotel		7天酒店		
+node	4143850818	速8酒店	Super 8	29.5636914	106.5471123	hotel		速8酒店		
+node	4143850866	7天酒店	7 Days Inn	29.5615623	106.5435598	hotel		7天酒店		
+node	4167015589			29.7228143	106.6296742	hotel				
+node	4167015689			29.7235691	106.6299244	hotel				
+node	4456707893	重庆丽笙世嘉酒店	Radisson Blu Chongqing Sha Ping Ba	29.5451205	106.4370970	hotel		Radisson Blu		
+node	4457407490		Zheyu International Hotel	29.5616184	106.5791200	hotel				
+node	5469305717	7天酒店	7 Days Inn	29.5685100	106.5331916	hotel		7天酒店		
+node	5706998845		Elite Polink Hotel	29.5524905	106.5723265	hotel				
+node	6066432647		somerset Yangtze River	29.5532784	106.5765954	hotel				
+node	6485288385			29.5414163	106.5790972	hotel				
+node	6580833885	重庆雅顾，尚舍荟艺术酒店	Harcourt Shangshehui Art Hotel	29.5729614	106.5575977	hotel				
+node	6874569385	宜必思酒店(重庆解放碑洪崖洞店)	Ibis	29.5617797	106.5758599	hotel		宜必思酒店		
+node	7678020718	万豪酒店	Marriott	29.5400304	106.5825857	hotel		Marriott		
+node	7682889452	重庆富力艾美酒店	"Le Méridien Chongqing, Nan'an"	29.5273346	106.5665429	hotel		Le Méridien		
+node	8121513999		Chongqing Lisheng Shijia Hotel	29.5424763	106.5628971	hotel				
+node	8121514000		Youyi Hotel	29.5419777	106.5613716	hotel				
+node	8574699852	重庆桔子6公寓		29.5607931	106.5443241	hotel				
+node	8575296571	欣起宾馆		29.5617114	106.5441287	hotel				
+node	9170031289	智选假日酒店	Holiday Inn Express Chongqing Guanyinqiao	29.5952561	106.5104182	hotel		Holiday Inn Express		https://www.ihg.com/holidayinnexpress/hotels/us/en/chongqing/ckgjc/hoteldetail
+node	10775851305	珀玉酒店（重庆江北机场店）		29.7020102	106.6182541	hotel				
+node	10904502254	十舍		29.5645461	106.4627905	hostel				
+node	11355850669	魯班青年旅社		29.5795361	106.5314287	hostel				
+node	11374588169	重慶玖零年代青年旅舍		29.5786836	106.5293408	hostel				
+node	11374588269	咚吧啦青年旅舍		29.5748046	106.5275473	hostel				
+node	11401036634	落脚城市青年酒店		29.5622087	106.5440510	hostel				
+node	11502847755	曼尼花园酒店		29.4971127	106.4398116	hotel				
+node	11914580469			29.5610833	106.5655791	hotel				
+node	12006502482			29.5506795	106.4698553	hotel				
+node	12020469651	重庆康莱德酒店		29.5316636	106.5592734	hotel		Conrad		
+node	12043699369	斯普兰酒店(重庆两路口轻轨站店)	Sipulan Express Hotel	29.5567953	106.5450256	hotel				
+node	12200059001	你好酒店(重庆解放碑步行街店)	"Hello Hotel (Monument to the people's Liberation Pedestrian Street, Chongqing)"	29.5573696	106.5758171	hotel				
+node	12250862675	达兰国际酒店		29.5568743	106.5745148	hotel				
+node	12294008832	三和住宿		29.5518481	106.5704648	hostel				
+node	12771561501			29.4907625	106.4334154	hotel				
+node	13031017145	你好酒店		29.5118576	106.4546210	hotel		华住会		https://hotels.ctrip.com/hotels/121199893.html
+node	13044083218		Only Cafe Hostel	29.5580438	106.5701929	hostel				
+node	13074759620	全季酒店	Ji Hotel	29.6166373	106.5257120	hotel		全季酒店		
+node	13108810301			29.5922440	106.5292951	hotel				
+node	13147605522	千荷日山江景酒店	Quianhe Rishan River View	29.5600908	106.5784471	hotel				
+node	13149763096	亚朵酒店	Atour Hotel	29.5461924	106.5816606	hotel		亚朵酒店		
+node	13200614967	美亚国际酒店		29.6341545	106.5279376	hotel				
+node	13234580739	天友大酒店		29.5563980	106.5455511	hotel				
+node	13245697949	阅江老院青年旅舍	Riverside International Youth Hostel	29.5538104	106.5760742	hostel				
+node	13273850863		XYA Xinya	29.5601141	106.5771614	hotel				
+node	13374501919	麦克人家酒店		29.6149060	106.5263258	hotel				
+node	13376582987	维也纳酒店	Vienna Hotels	29.5992613	106.4917795	hotel		维也纳酒店		
+node	13446342353	吃山文化青年旅店	YummyHill Youth Hostel	29.5641271	106.5783806	hostel				
+node	13525799731	重慶解放碑來福士廣場江景亞朵酒店	"Atour Hotel (Chongqing Jiefangbei, Raffles Plaza)"	29.5637351	106.5807524	hotel		亚朵酒店		
+node	13594241035	十八尊	18 ZUN	29.5521314	106.5674794	hotel				
+node	13645081701		ISEYA Panoramic Hotel (Chongqing Jiefangbei flagship)	29.5587393	106.5716560	hotel				
+node	13995963474	Ascott Raffles City Chongqing		29.5678907	106.5839396	hotel		Ascott		
+node	14016134801	QingYou Hotel / Hostel		29.5580341	106.5684315	hotel				
+way	312014342	汉庭酒店（重庆火车北站店）	Hanting Hotel	29.6094462	106.5445954	hotel		汉庭酒店		
+way	412488897	丽华酒店	Lihua Hotel	29.5325872	106.5641474	hotel				
+way	412612151	解放碑威斯汀酒店	The Westin Chongqing Liberation Square	29.5598467	106.5763791	hotel				
+way	412742035	喜来登大酒店(重庆)	Sheraton Chongqing Hotel	29.5463137	106.5827410	hotel		喜来登		
+way	486221581	重庆观音桥假日酒店	Holiday Inn Chongqing Guanyinqiao	29.5882348	106.5435038	hotel		Holiday Inn		https://www.ihg.com/holidayinn/hotels/cn/zh/chongqing/ckgcn/hoteldetail
+way	535341861	重庆丽苑酒店		29.5584870	106.4561426	hotel				
+way	583427228	88号鹅岭公园酒店		29.5510610	106.5311133	hotel				
+way	583628690	隐居鹅岭		29.5536861	106.5348934	hotel				
+way	704024913	重庆万豪行政公寓	Marriott Executive Apartments Chongqing	29.5584135	106.5707707	hotel		Marriott	Marriott	https://www.marriott.com.cn/hotels/ckger-marriott-executive-apartments-chongqing/overview/
+way	705956169	重庆丽晶酒店	Regent Chongqing	29.5740074	106.5668725	hotel				
+way	708023018		Songzao Hotel	29.5299226	106.5573987	hotel				
+way	810335121	somerset Yangtze River		29.5532917	106.5766079	hotel		Ascott	Ascott	
+way	813765964	格瑞特酒店		29.5408631	106.5699970	hotel				
+way	884521592	巾帼陶然酒店		29.6036703	106.4798360	hotel				
+way	1013951948	重庆两江新区高科希尔顿酒店		29.6132710	106.5134709	hotel		Hilton		
+way	1089870874	扬子江饭店		29.5374677	106.5628028	hotel				
+way	1323603395	重庆西站亚朵酒店	Atour Hotel	29.5106992	106.4332100	hotel		亚朵酒店		
+way	1369621831	汉庭酒店	Hanting Hotel	29.5651121	106.4579050	hotel		汉庭酒店		
+way	1380818576	重庆南滨路智选假日酒店	Holiday Inn Express	29.5850763	106.5810098	hotel		Holiday Inn Express		
+way	1498230819	重庆九龙坡福朋喜来登	Four Points by Sheraton Chongqing Jiulongpo	29.5295488	106.4800713	hotel		Four Points by Sheraton		
+way	1533227078	重庆彩云湖智选假日酒店	Holiday Inn Express Chongqing Caiyun Lake	29.5131577	106.4612022	hotel		Holiday Inn Express		

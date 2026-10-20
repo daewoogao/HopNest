@@ -1,0 +1,3 @@
+12 lines, 335 stations
+  check: Suzhou Rail Transit Line 4: added branch to Muli as its own line; check it isn't a short-working or depot run
+  check: 苏州轨道交通6号线: added branch to Sangtian Dao as its own line; check it isn't a short-working or depot run

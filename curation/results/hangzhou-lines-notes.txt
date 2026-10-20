@@ -1,0 +1,4 @@
+17 lines, 410 stations
+  check: Shaoxing Rail Transit Line 1: added branch to Convention & Exhibition Center as its own line; check it isn't a short-working or depot run
+  check: 杭州地铁6号线: added branch to Shuangpu as its own line; check it isn't a short-working or depot run
+  check: 杭州地铁3号线: added branch to Shima as its own line; check it isn't a short-working or depot run

@@ -1,0 +1,82 @@
+@type	@id	name	name:en	@lat	@lon	tourism	stars	brand	operator	website
+node	1423186235	InterContinental Suzhou		31.3212836	120.7058196	hotel	5	InterContinental	InterContinental	http://www.ichotelsgroup.com/intercontinental/en/gb/new-hotels/suzhou
+node	1705650131	如家酒店	Home Inn	31.3051201	120.6031466	hotel		如家酒店		
+node	1809472937	茉莉花假日酒店	Holiday Inn Jasmine Suzhou	31.3117680	120.5994480	hotel				
+node	2145114770		Hotel Soul	31.3140404	120.6192622	hotel				https://www.hotelsoul.com.cn/
+node	4109457900	苏州市明雅青年旅舍	Mingya Hostel	31.3120851	120.6219066	hostel				
+node	4187225689	全季酒店	JI Hotel	31.2660357	120.7195408	hotel		全季酒店		
+node	4188375572		World Hotel Grand Dushulake Suzhou	31.2683340	120.7170325	hotel		World Hotel Grand		
+node	4295750189	星天宇快捷宾馆	Xingtianyu Quick Hotel	31.3092807	120.6198389	hotel				
+node	4380828272	Nr. 5		31.3009733	120.6392129	hotel				
+node	4412331491			31.3132702	120.5583038	hotel				
+node	4761201923		FLOFT HOTEL	31.2676780	120.7310242	hotel				
+node	4959587721	逅海主题酒店（观前步行街店）	Overhere Theme Hotel	31.3127785	120.6211468	hotel				
+node	4959602121		Overhere Theme Hotel	31.3115095	120.6195625	hotel				
+node	5004985525		Suzhou Industrial Park Xinghai Scholars Hotel	31.3033409	120.6666824	hotel				
+node	5162419322		blue gate hostel	31.3082571	120.6278572	hotel				
+node	5279593165	西交利物浦国际会议中心		31.2767444	120.7366573	hotel				
+node	5333033623	Shangri-La		31.2944733	120.5543852	hotel				https://www.shangri-la.com/
+node	6054635893	智选假日酒店	Holiday Inn Express Suzhou Industrial Park	31.3101560	120.7429620	hotel		Holiday Inn Express	IHG	https://www.ihg.com/holidayinnexpress/hotels/us/en/suzhou/szvip/hoteldetail
+node	6417882901	Ibis Styles		31.2911396	120.6204894	hotel		Ibis Styles		
+node	6417882927		Pace Hotel	31.2913474	120.6204535	hotel				
+node	6419194160		Mingtown Youth Hostel	31.3129575	120.6304123	hostel				
+node	6573683679	喜来登酒店	Four Points Sheraton	31.2623776	120.7180027	hotel		Four Points by Sheraton		
+node	6779006146		Berning Hotel	31.3171406	120.6162613	hotel				
+node	6779014648		Suzhou Wuer Boutique Hotel	31.3002005	120.6322382	hotel				
+node	6779416863		Flower Hotel	31.3067439	120.6282976	hotel				
+node	6806037485		Somerset Baitang Suzhou	31.3272867	120.7307624	hotel				
+node	6882840030	Little Days	Little Days	31.3237526	120.6275883	hotel				
+node	6933311085	美居酒店	Mercure	31.3420151	120.6092613	hotel		美居酒店		
+node	7090332686	苏州希尔顿酒店	Hilton Suzhou	31.3262807	120.7310085	hotel		Hilton		
+node	7624796083		Stairway Regan International Hotel	31.4783543	120.4411288	hotel				
+node	7678554179	万豪酒店	Suzhou Marriott Hotel	31.3056819	120.5792436	hotel				
+node	8021053292			31.4777658	120.4407978	hotel				
+node	8066924412	苏州不约而同青年旅舍	Buyue Ertong Youth Hostel	31.3241590	120.6256340	hostel				
+node	9105495764	亚朵酒店	Atour Hotel	31.3153557	120.6219333	hotel		亚朵酒店		
+node	9105532121		Jinjiang Inn Styles	31.3146320	120.6181277	hotel				
+node	9107483330		Glance Back Garden Hotel	31.3146726	120.6248655	hotel				
+node	9107487462	探花府		31.3155414	120.6281619	hotel				
+node	9149477720		Greentree Inn Suzhou Xinghu Street Business Hotel	31.2911542	120.7213186	hotel	2	GreenTree		
+node	9559995027	绿地商务酒店		31.2711212	120.7442544	hotel				
+node	10223169246	一起一起·湿地小鹿青年旅舍		31.3226531	120.6160028	hostel				
+node	11891176869	苏州火车站美仑酒店	Suzhou Railway Station Madison Hotel	31.3352126	120.6073029	hotel				
+node	12507254654	苏州新区假日快捷酒店		31.2968442	120.5509716	hotel		Holiday Inn Express		
+node	12971340402		Cendre hotel	31.3246468	120.5767701	hotel				
+node	13186722226	苏州南园宾馆	Garden Hotel Suzhou	31.2991798	120.6282118	hotel				
+node	13186722227	雅辰悦居酒店	Artyzen Habitat Suzhou	31.2958818	120.6314519	hotel				
+node	13282424001		Atour hotel Suzhou Hanlin	31.2775646	120.7414273	hotel				
+node	13352646698	如家酒店	Home Inn	31.2953383	120.6248761	hotel		如家酒店		
+node	13383846801	Niccolo Suzhou		31.3242742	120.7124528	hotel				https://niccolohotels.com/en/niccolo-suzhou
+node	14004960218	Rezen  Changmen Hotel (Building 4)		31.3200457	120.6021562	hotel				
+node	14086972401	Home Inn		31.3234998	120.6271443	hotel				
+node	14092203143	亚朵酒店	Atour Hotel	31.2625646	120.7226854	hotel		亚朵酒店		
+node	14185137802	苏州丽思卡尔顿酒店	"The Ritz-Carlton, Suzhou"	31.3135949	120.5932495	hotel				https://www.ritzcarlton.com/en/hotels/wuxsz-the-ritz-carlton-suzhou/overview/
+way	445284796		Wealthy Hotel	31.2963498	120.5609307	hotel				
+way	461664713	万怡酒店		31.3190004	120.6671401	hotel				
+way	462717389		W Hotels	31.3157488	120.6751740	hotel		W Hotels		
+way	462717419	尼盛万丽酒店	Renaissance Suzhou Hotel	31.3162186	120.6605249	hotel				
+way	494356355	富驿时尚酒店（苏州观前店）	FX Hotel Guan Qian Suzhou	31.3094110	120.6190287	hotel				
+way	502015336	Crowne Plaza		31.3242498	120.6782773	hotel		Crowne Plaza		
+way	510511601	书香世家会所酒店		31.2894011	120.6719070	hotel				
+way	510511640	苏州建屋豪生酒店		31.2971790	120.6747283	hotel				
+way	510511656	苏州礼顿酒店		31.2897266	120.6626648	hotel				
+way	510511667	宜邦御湖酒店		31.3028867	120.6805041	hotel				
+way	510640664	苏州凯悦酒店		31.3260499	120.7094064	hotel				
+way	522477898	苏州柏悦酒店	Park Hyatt Suzhou	31.3154988	120.7148418	hotel		Park Hyatt		
+way	526710289	苏州吴宫泛太平洋酒店	Pan Pacific Suzhou	31.2925607	120.6126923	hotel				
+way	526710356	全季苏州观前街乐桥地铁站酒店	Ji Hotel	31.3078678	120.6188428	hotel		全季酒店		
+way	526728811	四季商旅酒店		31.3026657	120.6147578	hotel				
+way	526782593	苏州观前平江美居酒店	Mercure	31.3107209	120.6312143	hotel		美居酒店		
+way	527047619	苏哥利酒店		31.3141313	120.6194858	hotel				
+way	527047626	雅戈尔富宫大酒店		31.3114716	120.6221619	hotel				
+way	555649188	江南四季酒店		31.3476416	120.6119695	hotel				
+way	560425580	南园宾馆		31.2995520	120.6270584	hotel				
+way	560425586	南林饭店		31.3020145	120.6264269	hotel				
+way	614231205	苏州温德姆花园酒店	Wyndham Garden Suzhou	31.3098459	120.6219235	hotel				
+way	1036586802			31.2768923	120.7366467	hotel				
+way	1413075133	苏州四季酒店		31.3053781	120.6972787	hotel				
+way	1557502163	客堂		31.3169798	120.5838461	hostel				
+relation	6646079			31.3298520	120.6172768	hotel				
+relation	6667667	竹辉宾馆	Bamboo Grove Hotel	31.2966756	120.6332031	hotel	4			
+relation	7265105	Gloria Plaza Hotel SuZhou		31.3100522	120.6281734	hotel				
+relation	8506027	Ji Hotel	Ji Hotel	31.3123649	120.6252588	hotel		全季酒店		

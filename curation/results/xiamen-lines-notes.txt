@@ -1,0 +1,18 @@
+  attempt 1 failed (https://maps.mail.ru/osm/tools/overpass/api/interpreter answered 504: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+), retrying
+  attempt 2 failed (https://maps.mail.ru/osm/tools/overpass/api/interpreter answered 504: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+), retrying
+3 lines, 70 stations
+  check: 厦门轨道交通3号线（厦门火车站→蔡厝）: fewer than 2 named stops (under construction?), skipped; OSM relation r12888045
