@@ -188,7 +188,7 @@ station/airport/railway stop you tap.
   Seattle, Philadelphia, San Diego, New Orleans, Atlanta. Batch 8 (US, 2026-10-18):
   Portland, Honolulu, Denver, Dallas, Baltimore, Minneapolis–Saint Paul, Salt Lake City, Houston, Phoenix, St. Louis, Pittsburgh, Charlotte. Batch 9 (US, 2026-10-18):
   Detroit, Buffalo, Cincinnati, Milwaukee, Cleveland, Norfolk, Sacramento, Tucson, Kansas City, San Jose, Austin, Tampa (94 cities). Batch 10 (China, 2026-10-20):
-  Hangzhou, Suzhou (96 cities).
+  Hangzhou, Suzhou, Xiamen (97 cities).
   City-list groups: Asia, Europe, Americas, Africa, Oceania.
 - **City picker** (search redesigned 2026-10-16): a search box that
   matches city name, country, other names (`aliases` in `cities.json`:
@@ -583,7 +583,7 @@ they're done.
   core values and main features (核心价值与主要功能) right after the English
   Background at the top of this document.
 
-### 2026-10-20 — batch 10: more China cities (96 total)
+### 2026-10-20 — batch 10: more China cities (97 total)
 - Audrey asked for Chongqing, Hangzhou, Suzhou, Xiamen, Qingdao and
   Changsha (Taipei was already in). Added one city at a time. China rules:
   Trip.com ratings (4.5/5, 200+ reviews, foreign passports accepted),
@@ -600,6 +600,12 @@ they're done.
   Industrial Park and Sunan Shuofang airport have no pick (qualifying
   hotels there have no trustworthy pin); Suzhou Station 1, Pan Gate 1,
   Shantang Street 1
+- Xiamen: 3 lines (Lines 4 and 6 only in trial service, not drawn yet),
+  11 picks, 16 sights; Gulangyu is a sight (no metro on the island).
+  Gaps: Xiamen North has no pick (no trustworthy pins near it); airport
+  1 (New East Asia, free shuttle); Yundang Lake 2. Gaoqi airport is due
+  to be replaced by Xiang'an airport around late 2026, which will need
+  adding then
 
 ### 2026-10-20 — Background section added
 - Audrey: added a Background section at the start of this document (the
