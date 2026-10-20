@@ -523,6 +523,11 @@ they're done.
 
 ## Changelog
 
+### 2026-10-20 — Clicking the map clears a sight's hotels
+- Audrey: after clicking a sight, a click anywhere on the map should hide its
+  hotels, hotel card and walk circle, the same as for a station. Before, only
+  a second click on the sight icon did that. Now both work.
+
 ### 2026-10-20 — Airport and station icons always on top
 - Audrey (checking Chengdu): a hotel icon must never cover an airport icon.
 - Airport and train-station icons and their labels now sit in their own map

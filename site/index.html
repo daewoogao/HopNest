@@ -1942,6 +1942,12 @@ addBtn.addEventListener('click', ()=>{
 map.on('click', (e)=>{
   if(!addMode){
     hideSearchBanner();
+    // Clicking empty map also clears a sight's hotels, card and walk circle,
+    // the same as for a station (Audrey).
+    if(lastHotelQuery && lastHotelQuery.sight){
+      map.closePopup();
+      clearHotelLookupFor(lastHotelQuery.name, true);
+    }
     if(stationCircles.size>0){
       // Clicking empty map turns station circles off: hide their hotels too.
       if(lastHotelQuery && !lastHotelQuery.sight) clearHotelLookupFor(lastHotelQuery.name);
