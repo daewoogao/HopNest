@@ -176,7 +176,8 @@
     {"name":"Circus Hostel & Hotel","lat":-34.6199,"lng":-58.3757,"area":"San Telmo","rating":4.3,"ratingCount":1980,"stars":1,"priceTier":1},
     {"name":"Puerto Limon Hostel","lat":-34.6202,"lng":-58.3757,"area":"San Telmo","rating":4,"ratingCount":220,"stars":1,"priceTier":1},
     {"name":"Mansion Dandi Royal Tango Boutique Hotel","lat":-34.6189,"lng":-58.3772,"area":"San Telmo","rating":4.1,"ratingCount":201,"stars":4,"priceTier":3},
-    {"name":"Piedras Suites","lat":-34.6187,"lng":-58.3771,"area":"San Telmo","rating":4.2,"ratingCount":243,"stars":3,"priceTier":2}
+    {"name":"Piedras Suites","lat":-34.6187,"lng":-58.3771,"area":"San Telmo","rating":4.2,"ratingCount":243,"stars":3,"priceTier":2},
+    {"name":"Eze Inn Boutique Hotel","lat":-34.7893,"lng":-58.5251,"area":"Ministro Pistarini International Airport (Ezeiza)","rating":4.4,"ratingCount":108,"stars":3,"priceTier":3}
   ],
   "sights": [
     {

@@ -132,7 +132,8 @@ station/airport/railway stop you tap.
   Riyadh, Doha, Jerusalem, Cairo, Dublin, Edinburgh, Florence, Miami,
   Las Vegas, Vancouver, Rio de Janeiro, Sydney, Melbourne. Batch 7 (US, 2026-10-18):
   Seattle, Philadelphia, San Diego, New Orleans, Atlanta. Batch 8 (US, 2026-10-18):
-  Portland, Honolulu, Denver, Dallas, Baltimore, Minneapolis–Saint Paul, Salt Lake City, Houston, Phoenix, St. Louis, Pittsburgh, Charlotte (82 cities).
+  Portland, Honolulu, Denver, Dallas, Baltimore, Minneapolis–Saint Paul, Salt Lake City, Houston, Phoenix, St. Louis, Pittsburgh, Charlotte. Batch 9 (US, 2026-10-18):
+  Detroit, Buffalo, Cincinnati, Milwaukee, Cleveland, Norfolk, Sacramento, Tucson, Kansas City, San Jose, Austin, Tampa (94 cities).
   City-list groups: Asia, Europe, Americas, Africa, Oceania.
 - **City picker** (search redesigned 2026-10-16): a search box that
   matches city name, country, other names (`aliases` in `cities.json`:
@@ -235,6 +236,21 @@ one hotel per area, since brand recognition reduces booking anxiety for
 Western travelers; ≥100-review volume floor; price-tier spread required;
 capped at 3–5 hotels per area.
 
+Two more rules (Audrey, 2026-10-18):
+- **Red flags drop a hotel.** Before a hotel is picked, skim its recent
+  reviews. Repeated complaints (3 or more) about a wrong map location,
+  discrimination, mould or hygiene, or closure rule it out, whatever
+  its rating.
+- **Monthly refresh.** Every city's picks are re-checked once a month:
+  current rating and review count, recent red flags, permanent
+  closures. A hotel that falls below the floor, closes, or shows red
+  flags is taken off the map (marked hidden, not deleted, so hotel
+  numbers and shared pins stay stable), and the area's gap is recorded.
+- **Airport exception (Audrey, 2026-10-19).** At airports only, a hotel
+  on the airport grounds or walkable to a terminal may be picked from
+  3.8 (instead of 4.0) if it has 500+ reviews and no red flags. Such
+  picks carry `airportException: true` in the data. Nothing under 3.8.
+
 ### Sightseeing selection
 
 Sights have no separate spec file; these are the rules, gathered from the
@@ -331,6 +347,14 @@ the data. Not decided yet.
 
 ## 6. Roadmap (not yet built)
 
+- **Later: line-colour audit (Audrey, 2026-10-19).** Line colours come
+  from each line's OpenStreetMap colour tag (grey #888888 if missing, then
+  set by hand). A spot-check found them right at a glance but not always
+  the exact official shade: London and Seoul exact; New York exact except
+  A/C/E (#2850AD vs MTA #0039A6); Tokyo exact except Chiyoda (#00A650 vs
+  #00BB85); Paris Line 1 #FFBE00 vs RATP #FFCD00; Beijing Line 1 #A12830
+  vs #C23A30. To do: check every line in all cities against the
+  operator's official colour and fix off shades, one city at a time.
 - Real backend (Node/Python) + Google Places API, replacing "live search
   on click" with cheap, reliable, always-available curated data.
   **Cost estimate, corrected and scaled to 150 cities** (superseding the
@@ -498,6 +522,190 @@ they're done.
 ---
 
 ## Changelog
+
+### 2026-10-20 — Clicking the map clears a sight's hotels
+- Audrey: after clicking a sight, a click anywhere on the map should hide its
+  hotels, hotel card and walk circle, the same as for a station. Before, only
+  a second click on the sight icon did that. Now both work.
+
+### 2026-10-20 — Airport and station icons always on top
+- Audrey (checking Chengdu): a hotel icon must never cover an airport icon.
+- Airport and train-station icons and their labels now sit in their own map
+  layer above every hotel icon, hotel name tag and sight pin, in every city.
+  Hover cards and popups still open above them.
+- Checked all 94 cities: at every airport and station, the hub icon is the
+  topmost thing under its centre.
+
+### 2026-10-19 — Airport exception: terminal hotels from 3.8
+- New §4 rule: airport hotels next to the terminal count from 3.8 with
+  500+ reviews and no red flags.
+- Added: Vienna MOXY (3.8), Dublin Maldron (3.8), Brussels Sheraton (3.8),
+  Edinburgh DoubleTree (3.9) and Hampton (3.8).
+- Ruled out by red flags: Vienna NH (3 recent sewage-smell reviews), Rio
+  Linx Galeão (3 recent hygiene reviews). Rome and Honolulu airport
+  hotels score 3.5–3.7, so those stay empty.
+
+### 2026-10-19 — Picks at empty airports and stations (outside China)
+- 37 hubs in 28 cities had no picks. Filling them one city at a time with
+  the usual TripAdvisor rules (4.0+ with 100+ reviews). Airports: on-grounds
+  or terminal-connected first, else hotels with a FREE shuttle within ~3 km.
+- Dublin Airport 0→2 (Crowne Plaza, Carlton; free shuttles). The two
+  on-grounds hotels score under 4.0.
+- LAX 0→5 (Century Blvd / El Segundo, all free 24-hour shuttles). LA Union
+  Station: nothing within 800 m reaches 4.0, so no pick.
+- Brussels Airport 0→1 (Crowne Plaza, free shuttle); the rest score under
+  4.0, have too few reviews, or charge for the shuttle.
+- Rio Central do Brasil 0→1 (Gamboa Rio Hotel, 490 m); nothing else
+  within 800 m reaches 4.0 with 100+ reviews.
+- Hanoi Noi Bai 0→1 (Viet Village Hotel, free airport transfer, 3 km).
+- Miami airport 0→4 (Hampton, Best Western Plus, Hyatt House, Homewood;
+  free shuttles, 1.4–1.9 km). The in-terminal hotel scores 3.0.
+- Buenos Aires Ezeiza 0→1 (Eze Inn Boutique, free shuttle, ~2.6 km from
+  the terminals).
+- Kansas City airport 0→5 (Hilton, Holiday Inn, Fairfield, Best Western
+  Plus, Orangewood; free shuttles, ~2.7 km).
+- No pick passes yet: Rome Fiumicino and Ciampino, Vienna airport (the
+  terminal hotels score 3.5–3.9). Asked Audrey about an airport exception.
+- No hotel at all, or none that passes, within 800 m: Seoul Suseo,
+  Singapore Woodlands checkpoint, Bangkok Krung Thep Aphiwat, Vancouver
+  Pacific Central, Cairo Ramses, Buenos Aires Constitución, Atlanta
+  Peachtree (Amtrak; nearest hotel 805 m), Charlotte Amtrak (industrial
+  area, nearest hotel 1.8 km), Jakarta Halim station and airport, Detroit
+  Amtrak (only hotel nearby rated 2.9), Cincinnati Union Terminal, both Riyadh
+  stations and King Khalid airport, Norfolk Amtrak, Busan Gimhae airport,
+  Edinburgh airport (on-grounds hotels score 3.0–3.9), Ben Gurion airport
+  (no airport hotels), Honolulu airport (free-shuttle hotels score 3.5–3.7),
+  Florence airport (good hotels 1.9–2.7 km away but no free shuttle; T2
+  tram), Sacramento airport (nearest hotels 11 km away), Rio Galeão airport
+  (Linx Galeão on the grounds scores 3.9). The card's 15/20 min walk buttons cover
+  these.
+
+### 2026-10-19 — Line colours: audit noted for later
+- Spot-checked line colours against official ones; most match, a few are
+  an older or slightly different shade. Full audit added to §6 Roadmap.
+
+### 2026-10-19 — Removed the "add a city" box
+- Audrey asked to remove the "Don't see it? Type a city…" box and its Add
+  button under the city list. It only added a placeholder for the current
+  visit, never a real city. New cities are still added by us.
+
+### 2026-10-19 — Shenzhen picks via Trip.com; station pins fixed
+- Same Trip.com method. Shenzhen goes from 13 to 18 picks: North Station
+  1→3, Shenzhen Station (Luohu) 1→4.
+- Found while doing it: some train-station pins in China were stored in
+  China's offset map coordinates (GCJ-02), ~400–700 m from the real spot.
+  Fixed: Shenzhen North, Shenzhen Station, Futian, all three Guangzhou
+  stations, and Beijing West. Also moved the Pullman Shenzhen North pin.
+  Xi'an, Shanghai, Chengdu and the other Beijing stations checked fine.
+- Rule for China data: every coordinate from a Chinese map source is
+  converted with cur/gcj2wgs.py and checked against OpenStreetMap.
+
+### 2026-10-19 — Guangzhou: station and airport picks via Trip.com
+- Same Trip.com method. Guangzhou goes from 9 to 20 picks: South Station
+  0→3, Guangzhou Station 0→3, East Station 2→4, Baiyun Airport 2→4
+  (airport business area, free terminal shuttles), Shamian 2→3.
+- Gap: Tianhe/Zhujiang New Town has only upscale picks.
+
+### 2026-10-19 — Chengdu: station and airport picks via Trip.com
+- Same Trip.com method. Chengdu goes from 10 to 24 picks: East Station
+  0→3, South Station 0→3, Chengdu Station 0→1, Tianfu Airport 0→2 (on the
+  airport grounds), Shuangliu Airport 1→3, Kuanzhai Alley 1→4.
+- Gaps: Chengdu Station and Tianfu Airport are under 3 (other qualifying
+  hotels had no trustworthy pin; one was ruled out for mould reviews).
+
+### 2026-10-19 — Shanghai: station and airport picks via Trip.com
+- Same Trip.com method as Xi'an and Beijing. Shanghai goes from 24 to 33
+  picks: South Station 1→4, Shanghai Station 2→4, Pudong Airport 2→3,
+  Hongqiao Airport 0→3 (all three inside Terminal 2, terminal-connected).
+- Fixed the Holiday Inn Shanghai Pudong Airport pin: it was ~450 m off
+  (an unconverted GCJ-02 coordinate). Moved, not re-added, so its ID holds.
+- Gaps: no budget pick at either airport (the near-terminal budget hotels
+  score under 4.5 or have no trustworthy pin).
+
+### 2026-10-19 — Beijing: station and airport picks via Trip.com
+- Same Trip.com method as Xi'an (floor 4.5/5 with 200+ reviews, foreign
+  passports accepted, no red flags), applied to Beijing's hubs. Trip.com
+  scores out of 10 are halved. Pins come from OpenStreetMap or from
+  Skyscanner's map pin converted from GCJ-02; no trustworthy pin, no pick.
+- Beijing goes from 16 to 30 picks: West Station 0→4, Beijing Station 1→4,
+  Daxing Airport 1→5 (airport hotel cluster, free shuttles), Capital
+  Airport 2→4. Every new pick links to its exact Trip.com page.
+- Gap: Beijing South Station has only 1 (Golden Oasis, 600 m). The
+  station's own HanTing/JI hotels qualify but have no trustworthy pin yet.
+- Other China cities follow one at a time: Shanghai, Chengdu, Guangzhou,
+  Shenzhen.
+
+### 2026-10-19 — Hotel card can be dragged
+- The hotel card that opens after clicking a station or sight can be moved
+  by dragging its title bar (mouse or finger). It stays where it was
+  dropped for later stations; double-clicking the title bar puts it back
+  in the top-right corner. It is kept inside the map.
+
+### 2026-10-19 — Xi'an: more picks via Trip.com
+- Audrey noticed Xi'an North station had no hotels. Cause: OpenStreetMap
+  and TripAdvisor both cover China thinly, so few hotels qualified.
+- Trial for China: ratings from Trip.com (score out of 5, floor 4.5 with
+  200+ reviews; only hotels that accept foreign passports). Pins still
+  come from OpenStreetMap; no hotel without a trustworthy pin. The popup
+  says "★ 4.8 / 5 on Trip.com" for these, and hotels with a known Trip.com
+  page link there instead of Booking.com.
+- Same day: every pick in a China city now books on Trip.com (its exact
+  page when known, otherwise a Trip.com search for the hotel), so the
+  booking site matches the rating site. Elsewhere it stays Booking.com.
+- Xi'an goes from 5 to 12 picks: North Station 2 (Fairfield by Marriott,
+  Atour; ~1.4-1.6 km south, beside Beiyuan station, one Line 2 stop away,
+  since nothing nearer qualifies), airport 2, Railway Station 2, Bell Tower
+  4, Giant Wild Goose Pagoda 2 (+ Westin).
+
+### 2026-10-18 — booking link on our picks; two more curation rules
+- Every hand-picked (sunflower) hotel's popup now has a "Check prices on
+  Booking.com" button: a Booking.com search for the hotel's name and
+  city, the same kind of link the map-data hotels already had. No price
+  is shown, since we have no live rates. An affiliate ID can be added to
+  this one link later.
+- Audrey added two curation rules to §4: red-flag reviews rule a hotel
+  out, and every city's picks are re-checked monthly.
+
+### 2026-10-18 — batch 9: more US cities (94 total)
+- Audrey asked for more US cities with rail or streetcars.
+- Detroit: QLINE streetcar and People Mover loop (both free). Gaps:
+  Amtrak station 0 hotels; Cultural Center 1; Midtown 2; most DTW hotels
+  are shuttle hotels 3-4 km out.
+- Buffalo: NFTA Metro Rail. Gaps: Exchange Street station 2; Downtown 2;
+  airport hotels are shuttle hotels about 1 km out; Niagara Falls listed
+  as a far sight (car or bus).
+- Cincinnati: Connector streetcar (free). Gaps: Union Terminal 0 hotels;
+  Over-the-Rhine 1; CVG hotels are shuttle hotels about 3 km out; The
+  Banks has no budget pick.
+- Milwaukee: The Hop M-Line and L-Line streetcars (free). Gaps: Third
+  Ward 2; Yankee Hill has no brand pick; airport hotels are shuttle
+  hotels 0.9-2 km out.
+- Cleveland: RTA Red Line (airport) and Blue/Green light rail. Gaps:
+  airport 1 shuttle hotel; Lakefront Station 2; University Circle 2;
+  Playhouse Square is a theatre-district area about 1 km from rail;
+  Waterfront stops only run on Browns game days.
+- Norfolk: The Tide light rail. Gaps: Amtrak station 0 hotels; Freemason
+  & Ghent 1; airport hotels 1.9-2.7 km out; Downtown has no budget pick;
+  Virginia Beach listed as a far sight.
+- Sacramento: SacRT Blue/Gold/Green light rail. Gaps: airport 0 picks
+  (the nearest shuttle hotels are ~7 km out, too far to list); Midtown
+  1; Valley Station has no budget pick; new Dos Rios station missing
+  from OSM.
+- Tucson: Sun Link streetcar (fare-free). Gaps: Amtrak station 2;
+  University 2; airport hotels are shuttle hotels 1.2-2.4 km out; many
+  top sights (Saguaro, Desert Museum, Mt. Lemmon) need a car.
+- Kansas City: KC Streetcar (free, Riverfront to UMKC). Gaps: airport 0
+  hotels (only on-site hotel rated 3.5); Country Club Plaza has no
+  budget pick.
+- San Jose: VTA Blue/Green/Orange light rail. Gaps: only 8 picks pass
+  the 4.0 floor: Diridon 0, Levi's Stadium 1, Downtown 3 (no budget);
+  airport hotels 0.8-1.2 km out.
+- Austin: CapMetro Rail Red Line (no Sunday service); South Congress and
+  UT/Capitol are off-rail areas. Gaps: airport 1 (Hyatt Place); Amtrak
+  station has no budget pick; East Austin and South Congress have no
+  brand pick.
+- Tampa: TECO Line Streetcar (free). Gaps: Union Station 2; Water Street
+  has no budget pick; Busch Gardens is ~12 km out with no rail link.
 
 ### 2026-10-18 — batch 8: more US cities overnight (82 total)
 - Audrey asked for as many more US cities as possible overnight. Added so

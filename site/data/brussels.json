@@ -161,7 +161,9 @@
     {"name":"The Hotel Brussels","lat":50.8374,"lng":4.3573,"area":"Avenue Louise","rating":4.3,"ratingCount":6323,"stars":4,"priceTier":3},
     {"name":"Steigenberger Icon Wiltcher's","lat":50.8323,"lng":4.3576,"area":"Avenue Louise","rating":4.2,"ratingCount":2803,"stars":5,"priceTier":4},
     {"name":"Vintage Hotel Brussels","lat":50.8335,"lng":4.3555,"area":"Avenue Louise","rating":4.3,"ratingCount":1246,"stars":3,"priceTier":3},
-    {"name":"Hygge Hotel","lat":50.8349,"lng":4.3594,"area":"Avenue Louise","rating":4,"ratingCount":409,"stars":3,"priceTier":2}
+    {"name":"Hygge Hotel","lat":50.8349,"lng":4.3594,"area":"Avenue Louise","rating":4,"ratingCount":409,"stars":3,"priceTier":2},
+    {"name":"Crowne Plaza Brussels Airport","lat":50.8908,"lng":4.4599,"area":"Brussels Airport","rating":4.1,"ratingCount":1269,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Sheraton Brussels Airport Hotel","lat":50.8971,"lng":4.4827,"area":"Brussels Airport","rating":3.8,"ratingCount":1898,"stars":4,"priceTier":3,"brandAnchor":true,"airportException":true}
   ],
   "sights": [
     {

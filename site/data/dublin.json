@@ -138,7 +138,10 @@
     {"name":"Grand Canal Hotel","lat":53.338,"lng":-6.2378,"area":"Grand Canal Dock","rating":4.2,"ratingCount":2327,"stars":4,"priceTier":3},
     {"name":"Schoolhouse Hotel & Gastrobar","lat":53.3374,"lng":-6.2394,"area":"Grand Canal Dock","rating":4.4,"ratingCount":1768,"stars":4,"priceTier":3},
     {"name":"Clayton Hotel Cardiff Lane","lat":53.3454,"lng":-6.2412,"area":"Grand Canal Dock","rating":4.2,"ratingCount":6468,"stars":4,"priceTier":3},
-    {"name":"The Ferryman","lat":53.346,"lng":-6.2407,"area":"Grand Canal Dock","rating":4,"ratingCount":251,"stars":3,"priceTier":2}
+    {"name":"The Ferryman","lat":53.346,"lng":-6.2407,"area":"Grand Canal Dock","rating":4,"ratingCount":251,"stars":3,"priceTier":2},
+    {"name":"Crowne Plaza Dublin Airport by IHG","lat":53.4045,"lng":-6.2456,"area":"Dublin Airport","rating":4.5,"ratingCount":3380,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Carlton Hotel Dublin Airport","lat":53.4153,"lng":-6.2406,"area":"Dublin Airport","rating":4.1,"ratingCount":3578,"stars":4,"priceTier":3},
+    {"name":"Maldron Hotel Dublin Airport","lat":53.4275,"lng":-6.2342,"area":"Dublin Airport","rating":3.8,"ratingCount":2249,"stars":4,"priceTier":3,"airportException":true}
   ],
   "sights": [
     {

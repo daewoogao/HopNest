@@ -65,7 +65,8 @@
     {"name":"InterContinental Hanoi Westlake","lat":21.0585,"lng":105.8316,"area":"West Lake","rating":4.4,"ratingCount":3250,"stars":5,"priceTier":4,"brandAnchor":true},
     {"name":"Sheraton Hanoi Hotel","lat":21.0597,"lng":105.8316,"area":"West Lake","rating":4.4,"ratingCount":2304,"stars":5,"priceTier":3,"brandAnchor":true},
     {"name":"Fraser Suites Hanoi","lat":21.064,"lng":105.8278,"area":"West Lake","rating":4.9,"ratingCount":705,"stars":5,"priceTier":3},
-    {"name":"Elegant Suites Westlake","lat":21.062,"lng":105.8248,"area":"West Lake","rating":4.5,"ratingCount":275,"stars":4,"priceTier":3}
+    {"name":"Elegant Suites Westlake","lat":21.062,"lng":105.8248,"area":"West Lake","rating":4.5,"ratingCount":275,"stars":4,"priceTier":3},
+    {"name":"Viet Village Hotel & Travel","lat":21.2044,"lng":105.8302,"area":"Noi Bai International Airport","rating":4.4,"ratingCount":145,"stars":2,"priceTier":2}
   ],
   "sights": [
     {

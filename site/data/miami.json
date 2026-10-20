@@ -156,7 +156,41 @@
     {"name":"The Ritz-Carlton Coconut Grove, Miami","lat":25.7303,"lng":-80.2382,"area":"Coconut Grove","rating":4.2,"ratingCount":1020,"stars":5,"priceTier":4,"brandAnchor":true},
     {"name":"Mayfair House Hotel & Garden","lat":25.7286,"lng":-80.241,"area":"Coconut Grove","rating":4.6,"ratingCount":748,"stars":5,"priceTier":4},
     {"name":"Mr. C Miami - Coconut Grove","lat":25.7273,"lng":-80.2422,"area":"Coconut Grove","rating":4.4,"ratingCount":631,"stars":4,"priceTier":3},
-    {"name":"The Mutiny Hotel","lat":25.7273,"lng":-80.2399,"area":"Coconut Grove","rating":4.2,"ratingCount":1107,"stars":4,"priceTier":3}
+    {"name":"The Mutiny Hotel","lat":25.7273,"lng":-80.2399,"area":"Coconut Grove","rating":4.2,"ratingCount":1107,"stars":4,"priceTier":3},
+    {
+      "name": "Hampton Inn & Suites by Hilton Miami Airport South - Blue Lagoon",
+      "lat": 25.779,
+      "lng": -80.2879,
+      "area": "Miami International Airport",
+      "rating": 4.3,
+      "ratingCount": 3998,
+      "stars": 3,
+      "priceTier": 2,
+      "brandAnchor": true
+    },
+    {
+      "name": "Best Western Plus Miami Airport North Hotel & Suites",
+      "lat": 25.8087,
+      "lng": -80.2856,
+      "area": "Miami International Airport",
+      "rating": 4.3,
+      "ratingCount": 1661,
+      "stars": 3,
+      "priceTier": 2,
+      "brandAnchor": true
+    },
+    {"name":"Hyatt House Miami Airport","lat":25.7812,"lng":-80.2896,"area":"Miami International Airport","rating":4.2,"ratingCount":1957,"stars":3,"priceTier":3,"brandAnchor":true},
+    {
+      "name": "Homewood Suites by Hilton Miami-Airport/Blue Lagoon",
+      "lat": 25.7817,
+      "lng": -80.2845,
+      "area": "Miami International Airport",
+      "rating": 4.1,
+      "ratingCount": 2717,
+      "stars": 3,
+      "priceTier": 3,
+      "brandAnchor": true
+    }
   ],
   "sights": [
     {

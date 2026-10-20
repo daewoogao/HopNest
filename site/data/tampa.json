@@ -1,0 +1,217 @@
+{
+  "name": "Tampa",
+  "country": "USA",
+  "flag": "🇺🇸",
+  "center": [27.958,-82.49],
+  "zoom": 12,
+  "operatingHours": "TECO Line Streetcar (Downtown/Whiting ↔ Centennial Park, Ybor City) runs every ~15 min: Mon–Thu 7:00 AM–11:00 PM, Fri 7:00 AM–2:00 AM, Sat 9:00 AM–2:00 AM, Sun 8:30 AM–11:00 PM. End to end takes ~25 min. Extra cars for big events such as Gasparilla.",
+  "fareInfo": "The TECO Line Streetcar is free: just board, no ticket needed. HART buses (including Route 30 to the airport) cost $2.00 a ride, payable with the Flamingo Fares app or card, or exact cash on board.",
+  "lines": [
+    {
+      "id": "lteco",
+      "name": "TECO Line Streetcar",
+      "color": "#A6192E",
+      "code": "S",
+      "stations": [
+        ["Downtown Tampa",27.9453,-82.4568],
+        ["Dick Greco Plaza",27.9415,-82.4547],
+        ["HSBC",27.9419,-82.4518],
+        ["Benchmark International Arena",27.9435,-82.4484],
+        ["Cumberland Avenue",27.9459,-82.4456],
+        ["York Street",27.9483,-82.4455],
+        ["Port Tampa Trolley Stop",27.9517,-82.4454],
+        ["Cadrecha Plaza",27.9608,-82.4455],
+        ["Streetcar Society",27.961,-82.4431],
+        ["Centro Ybor",27.961,-82.4411],
+        ["Centennial Park",27.961,-82.4372]
+      ]
+    }
+  ],
+  "hotels": [
+    {"name":"Hampton Inn Tampa Downtown Channel District","lat":27.9501,"lng":-82.4485,"area":"Tampa Union Station","rating":4.3,"ratingCount":220,"stars":3,"priceTier":2,"brandAnchor":true},
+    {
+      "name": "Home2 Suites by Hilton Tampa Downtown Channel District",
+      "lat": 27.9501,
+      "lng": -82.4485,
+      "area": "Tampa Union Station",
+      "rating": 4.3,
+      "ratingCount": 148,
+      "stars": 3,
+      "priceTier": 2,
+      "brandAnchor": true
+    },
+    {"name":"Tampa Airport Marriott","lat":27.9816,"lng":-82.5346,"area":"Tampa International Airport","rating":4.4,"ratingCount":1605,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Grand Hyatt Tampa Bay","lat":27.9652,"lng":-82.5501,"area":"Tampa International Airport","rating":4.3,"ratingCount":477,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hilton Garden Inn Tampa Airport Westshore","lat":27.9578,"lng":-82.5334,"area":"Tampa International Airport","rating":4.6,"ratingCount":2394,"stars":3,"priceTier":3,"brandAnchor":true},
+    {
+      "name": "Hampton Inn & Suites Tampa Airport Avion Park Westshore",
+      "lat": 27.9593,
+      "lng": -82.5338,
+      "area": "Tampa International Airport",
+      "rating": 4.5,
+      "ratingCount": 735,
+      "stars": 3,
+      "priceTier": 2,
+      "brandAnchor": true
+    },
+    {"name":"Hilton Tampa Downtown","lat":27.9462,"lng":-82.4577,"area":"Downtown Tampa","rating":4.3,"ratingCount":2675,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Hyatt Place Tampa Downtown","lat":27.9478,"lng":-82.4565,"area":"Downtown Tampa","rating":4.6,"ratingCount":1303,"stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Hotel Flor Tampa Downtown, Tapestry Collection by Hilton","lat":27.952,"lng":-82.4586,"area":"Downtown Tampa","rating":4.7,"ratingCount":401,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Le Méridien Tampa, The Courthouse","lat":27.95,"lng":-82.4574,"area":"Downtown Tampa","rating":4.2,"ratingCount":747,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Courtyard by Marriott Tampa Downtown","lat":27.9512,"lng":-82.4609,"area":"Downtown Tampa","rating":4.1,"ratingCount":714,"stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Tampa Marriott Water Street","lat":27.9409,"lng":-82.4539,"area":"Water Street","rating":4.2,"ratingCount":3689,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"JW Marriott Tampa Water Street","lat":27.9419,"lng":-82.4537,"area":"Water Street","rating":4.2,"ratingCount":212,"stars":5,"priceTier":4,"brandAnchor":true},
+    {"name":"The Westin Tampa Waterside","lat":27.9385,"lng":-82.4546,"area":"Water Street","rating":4.3,"ratingCount":4703,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Embassy Suites by Hilton Tampa Downtown Convention Center","lat":27.9423,"lng":-82.4551,"area":"Water Street","rating":4.5,"ratingCount":1101,"stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"ROOST Tampa","lat":27.9447,"lng":-82.4507,"area":"Water Street","rating":4.8,"ratingCount":385,"stars":4,"priceTier":3},
+    {"name":"Hilton Garden Inn Tampa Ybor Historic District","lat":27.9621,"lng":-82.4398,"area":"Ybor City","rating":4.1,"ratingCount":1019,"stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Hotel Haya","lat":27.9606,"lng":-82.4436,"area":"Ybor City","rating":4.6,"ratingCount":2042,"stars":4,"priceTier":3},
+    {"name":"Hampton Inn & Suites Tampa/Ybor City/Downtown","lat":27.9599,"lng":-82.445,"area":"Ybor City","rating":4.2,"ratingCount":1854,"stars":3,"priceTier":2,"brandAnchor":true}
+  ],
+  "sights": [
+    {
+      "name": "Busch Gardens Tampa Bay",
+      "lat": 28.0372,
+      "lng": -82.4194,
+      "note": "Big Africa-themed theme park and zoo with some of Florida's tallest roller coasters; ~12 km north of downtown, no streetcar link (car or rideshare ~20 min).",
+      "hours": "Opens 10:00 AM; closes 5:00–10:00 PM depending on date (later on weekends and in late November)",
+      "rating": 4.1,
+      "ticketUrl": "https://buschgardens.com/tampa/"
+    },
+    {
+      "name": "The Florida Aquarium",
+      "lat": 27.9441,
+      "lng": -82.4451,
+      "note": "Large aquarium on the Channelside waterfront with a coral-reef gallery, a wetlands trail and a shark tank, steps from the Florida Aquarium streetcar stop.",
+      "hours": "Mon–Thu 10:00 AM–4:00 PM, Fri–Sun 9:00 AM–5:00 PM; closed Thanksgiving & Christmas",
+      "rating": 4.2,
+      "ticketUrl": "https://www.flaquarium.org/"
+    },
+    {
+      "name": "ZooTampa at Lowry Park",
+      "lat": 28.0129,
+      "lng": -82.4697,
+      "note": "Leafy zoo north of downtown known for its manatee rescue center, Florida wildlife and African and Asian habitats.",
+      "hours": "9:30 AM–5:00 PM daily; closed Thanksgiving & Christmas",
+      "rating": 4.3,
+      "ticketUrl": "https://zootampa.org/"
+    },
+    {
+      "name": "Tampa Riverwalk",
+      "lat": 27.948,
+      "lng": -82.4613,
+      "note": "A 4 km waterfront path along the Hillsborough River linking downtown parks, museums, bars and the Straz Center.",
+      "hours": "Open 24 hours",
+      "rating": 4.5
+    },
+    {
+      "name": "Ybor City",
+      "lat": 27.9603,
+      "lng": -82.442,
+      "note": "Tampa's historic Cuban, Spanish and Italian cigar-making quarter: brick streets, cigar shops, free-roaming chickens and the city's liveliest nightlife on 7th Avenue.",
+      "hours": "Streets always open; 7th Avenue busiest Thu–Sat nights",
+      "rating": 4
+    },
+    {
+      "name": "Henry B. Plant Museum",
+      "lat": 27.9461,
+      "lng": -82.4649,
+      "note": "Gilded Age interiors inside the Moorish-revival Tampa Bay Hotel of 1891, now the University of Tampa's landmark with silver minarets.",
+      "hours": "Tue–Sat 10:00 AM–5:00 PM, Sun noon–5:00 PM, closed Mon",
+      "rating": 4.5,
+      "ticketUrl": "https://www.plantmuseum.com/"
+    },
+    {
+      "name": "Bayshore Boulevard",
+      "lat": 27.9322,
+      "lng": -82.4727,
+      "note": "Some 7 km of continuous waterfront sidewalk along Hillsborough Bay, popular for sunset walks, runs and bike rides.",
+      "hours": "Open 24 hours",
+      "rating": 4.5
+    },
+    {
+      "name": "Lettuce Lake Park",
+      "lat": 28.073,
+      "lng": -82.3745,
+      "note": "Cypress-swamp boardwalk park on the Hillsborough River where alligators, wading birds and turtles are easy to spot; ~17 km northeast, car needed. Parts of the boardwalk, the observation tower and the canoe launch are closed for repairs.",
+      "hours": "8:00 AM–6:00 PM fall/winter, to 7:00 PM spring/summer; $2 per car (cash)",
+      "rating": 4.6
+    },
+    {
+      "name": "Tampa Bay History Center",
+      "lat": 27.942,
+      "lng": -82.4493,
+      "note": "Three floors on Tampa Bay's story, from Native peoples to Cuban cigar workers and a walk-through pirate ship exhibit.",
+      "hours": "10:00 AM–5:00 PM daily",
+      "rating": 4.4,
+      "ticketUrl": "https://tampabayhistorycenter.org/"
+    },
+    {
+      "name": "Tampa Theatre",
+      "lat": 27.951,
+      "lng": -82.4583,
+      "note": "Ornate 1926 movie palace with a twinkling-star ceiling, just reopened after a restoration for its 100th birthday; films, concerts and guided tours.",
+      "hours": "Showtimes vary; box office opens before each screening",
+      "rating": 4.8
+    },
+    {
+      "name": "Wat Mongkolratanaram",
+      "lat": 27.9439,
+      "lng": -82.395,
+      "note": "Thai Buddhist temple by the Palm River famous for its Sunday morning Thai food market run by volunteers.",
+      "hours": "Sunday market ~9:00 AM–1:00 PM (cash only); temple grounds open most days",
+      "rating": 4.6
+    },
+    {
+      "name": "Straz Center for the Performing Arts",
+      "lat": 27.9535,
+      "lng": -82.4623,
+      "note": "Riverfront arts complex staging Broadway tours, opera, ballet and concerts across five theaters.",
+      "hours": "Performance times vary; box office open daily",
+      "rating": 4.5
+    },
+    {
+      "name": "American Victory Ship and Museum",
+      "lat": 27.9427,
+      "lng": -82.4463,
+      "note": "A restored 1945 cargo ship you can explore from bridge to engine room, moored next to the Florida Aquarium.",
+      "hours": "Mon noon–5:00 PM, Tue–Sun 10:00 AM–5:00 PM",
+      "rating": 4.1,
+      "ticketUrl": "https://www.americanvictory.org/"
+    },
+    {
+      "name": "Sparkman Wharf",
+      "lat": 27.9447,
+      "lng": -82.448,
+      "note": "Waterfront food-and-drink spot built from shipping containers, with a lawn, a beer garden and live music beside the Channelside streetcar stops.",
+      "hours": "~11:00 AM–10:00 PM, later on Fri & Sat",
+      "rating": 4.3
+    },
+    {
+      "name": "Armature Works",
+      "lat": 27.96,
+      "lng": -82.4632,
+      "note": "Restored 1910 streetcar barn on the river now hosting the Heights Public Market food hall and a lawn on the Riverwalk's northern end.",
+      "hours": "~7:00 AM–10:00 PM, to 11:00 PM Fri & Sat"
+    }
+  ],
+  "railStations": [
+    {
+      "name": "Tampa Union Station",
+      "lat": 27.9531,
+      "lng": -82.4506,
+      "note": "Tampa's restored 1912 Amtrak station on the edge of downtown and the Channel District. The Floridian runs once a day each way, to Orlando and Miami and north to Washington, DC and Chicago, and Thruway buses connect to other Florida cities. It isn't on the streetcar, but the York Street and Port Tampa stops are ~550–750 m away on foot.",
+      "hours": "Station opens around train times; Amtrak trains run on their own timetable"
+    }
+  ],
+  "airports": [
+    {
+      "name": "Tampa International Airport",
+      "code": "TPA",
+      "lat": 27.9806,
+      "lng": -82.5343,
+      "transitNote": "No rail link to downtown. The SkyConnect people mover runs only inside the airport, linking the main terminal, airsides, parking and the rental car center. HART Route 30 bus ($2.00) goes downtown in ~35–45 min and isn't on the map. A taxi or rideshare takes ~15 min to downtown and ~20 min to Ybor City.",
+      "hours": "Route 30 runs ~5:30 AM–~10:00 PM, every ~30 min; taxis and rideshare at all hours"
+    }
+  ]
+}

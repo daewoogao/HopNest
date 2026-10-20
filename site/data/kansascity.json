@@ -1,0 +1,274 @@
+{
+  "name": "Kansas City",
+  "country": "USA",
+  "flag": "🇺🇸",
+  "center": [39.088,-94.585],
+  "zoom": 12,
+  "operatingHours": "The KC Streetcar runs from Berkley Riverfront through the River Market, downtown and Union Station down Main Street to the Plaza and UMKC, 5:00 AM–midnight Sun–Thu and 5:00 AM–1:00 AM Fri–Sat, every ~10–15 min (less often early, late and on weekends).",
+  "fareInfo": "The KC Streetcar is free to ride (no ticket needed). RideKC buses resumed fares on 1 June 2026: $2 a ride, $4 day pass, $20 weekly, paid by contactless card tap (no Amex) or the RideKCGO app.",
+  "lines": [
+    {
+      "id": "l601",
+      "name": "KC Streetcar",
+      "color": "#1C75BC",
+      "code": "S",
+      "stations": [
+        ["Riverfront",39.1171,-94.5721],
+        ["River Market",39.1102,-94.5816],
+        ["Delaware",39.1088,-94.5844],
+        ["North Loop",39.1051,-94.5831],
+        ["Library",39.1029,-94.5831],
+        ["Metro Center",39.0996,-94.5833],
+        ["Power and Light",39.0967,-94.5834],
+        ["Kauffman Center",39.0942,-94.5835],
+        ["Crossroads",39.0901,-94.5837],
+        ["Union Station",39.0849,-94.5842],
+        ["WWI Museum & Memorial",39.0785,-94.5846],
+        ["Union Hill",39.0708,-94.5854],
+        ["Armour",39.0634,-94.5858],
+        ["Westport",39.056,-94.5862],
+        ["Southmoreland",39.0491,-94.5866],
+        ["Art Museums",39.0459,-94.5868],
+        ["Plaza",39.0411,-94.5862],
+        ["UMKC",39.0355,-94.5842]
+      ]
+    }
+  ],
+  "hotels": [
+    {"name":"The Westin Kansas City at Crown Center","lat":39.083,"lng":-94.5831,"area":"Kansas City Union Station","rating":4.2,"ratingCount":2821,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Sheraton Kansas City Hotel at Crown Center","lat":39.0853,"lng":-94.5798,"area":"Kansas City Union Station","rating":4.2,"ratingCount":2074,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Crossroads Hotel","lat":39.088,"lng":-94.5872,"area":"Kansas City Union Station","rating":4.7,"ratingCount":1437,"stars":4,"priceTier":3},
+    {"name":"Home2 Suites by Hilton Kansas City Downtown","lat":39.0887,"lng":-94.5832,"area":"Kansas City Union Station","rating":4.3,"ratingCount":322,"stars":2,"priceTier":2,"brandAnchor":true},
+    {
+      "name": "Hotel Kansas City, The Unbound Collection by Hyatt",
+      "lat": 39.0989,
+      "lng": -94.5846,
+      "area": "Downtown / Power & Light",
+      "rating": 4.5,
+      "ratingCount": 684,
+      "stars": 4,
+      "priceTier": 4,
+      "brandAnchor": true
+    },
+    {
+      "name": "Ambassador Hotel Kansas City, Autograph Collection",
+      "lat": 39.1006,
+      "lng": -94.5806,
+      "area": "Downtown / Power & Light",
+      "rating": 4.6,
+      "ratingCount": 631,
+      "stars": 4,
+      "priceTier": 3,
+      "brandAnchor": true
+    },
+    {"name":"AC Hotel Kansas City Downtown","lat":39.1033,"lng":-94.5811,"area":"Downtown / Power & Light","rating":4.9,"ratingCount":134,"stars":3,"priceTier":3,"brandAnchor":true},
+    {
+      "name": "Residence Inn by Marriott Kansas City Downtown/Convention Center",
+      "lat": 39.0949,
+      "lng": -94.5844,
+      "area": "Downtown / Power & Light",
+      "rating": 4.6,
+      "ratingCount": 235,
+      "stars": 3,
+      "priceTier": 3,
+      "brandAnchor": true
+    },
+    {"name":"Holiday Inn Express Kansas City Downtown by IHG","lat":39.0983,"lng":-94.5778,"area":"Downtown / Power & Light","rating":4.7,"ratingCount":405,"stars":2,"priceTier":2,"brandAnchor":true},
+    {"name":"The Raphael Hotel, Autograph Collection","lat":39.0396,"lng":-94.5912,"area":"Country Club Plaza","rating":4.7,"ratingCount":1205,"stars":4,"priceTier":4,"brandAnchor":true},
+    {"name":"InterContinental Kansas City at the Plaza by IHG","lat":39.0392,"lng":-94.5929,"area":"Country Club Plaza","rating":4.1,"ratingCount":2322,"stars":4,"priceTier":4,"brandAnchor":true},
+    {"name":"Kansas City Marriott Country Club Plaza","lat":39.0459,"lng":-94.586,"area":"Country Club Plaza","rating":4.2,"ratingCount":1100,"stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Courtyard Kansas City Country Club Plaza","lat":39.0438,"lng":-94.5889,"area":"Country Club Plaza","rating":4.2,"ratingCount":673,"stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Hilton Kansas City Airport","lat":39.295,"lng":-94.6829,"area":"Kansas City International Airport","rating":4,"ratingCount":1210,"stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Holiday Inn Kansas City Airport by IHG","lat":39.3063,"lng":-94.6836,"area":"Kansas City International Airport","rating":4.2,"ratingCount":488,"stars":2,"priceTier":2,"brandAnchor":true},
+    {
+      "name": "Fairfield by Marriott Inn & Suites Kansas City Airport",
+      "lat": 39.3086,
+      "lng": -94.6851,
+      "area": "Kansas City International Airport",
+      "rating": 4.1,
+      "ratingCount": 364,
+      "stars": 3,
+      "priceTier": 3,
+      "brandAnchor": true
+    },
+    {
+      "name": "Best Western Plus Kansas City Airport-KCI East",
+      "lat": 39.2939,
+      "lng": -94.6828,
+      "area": "Kansas City International Airport",
+      "rating": 4.1,
+      "ratingCount": 859,
+      "stars": 3,
+      "priceTier": 2,
+      "brandAnchor": true
+    },
+    {"name":"Orangewood Inn & Suites Kansas City Airport","lat":39.309,"lng":-94.6848,"area":"Kansas City International Airport","rating":4.6,"ratingCount":218,"stars":3,"priceTier":3}
+  ],
+  "sights": [
+    {
+      "name": "National WWI Museum and Memorial",
+      "lat": 39.0806,
+      "lng": -94.5861,
+      "note": "America's official World War I museum, entered over a glass bridge above a field of poppies; the Liberty Memorial tower's deck (small fee) gives a top skyline view.",
+      "hours": "10:00 AM–5:00 PM, closed Tue (open daily Memorial Day–Labor Day)",
+      "rating": 4.8,
+      "ticketUrl": "https://www.theworldwar.org"
+    },
+    {
+      "name": "The Nelson-Atkins Museum of Art",
+      "lat": 39.045,
+      "lng": -94.5808,
+      "note": "Encyclopedic art museum with standout Asian galleries and the Bloch Building's glass lenses; the lawn sculpture park is famous for its giant shuttlecocks. Free entry.",
+      "hours": "10:00 AM–5:00 PM Sat–Mon, 10:00 AM–9:00 PM Thu–Fri, closed Tue–Wed; sculpture park sunrise–sunset",
+      "rating": 4.8,
+      "ticketUrl": "https://nelson-atkins.org"
+    },
+    {
+      "name": "Arabia Steamboat Museum",
+      "lat": 39.1098,
+      "lng": -94.5815,
+      "note": "Cargo of a steamboat that sank in the Missouri River in 1856, dug out of a Kansas cornfield in 1988 and shown in astonishing condition, from pickles to boots.",
+      "hours": "10:00 AM–5:00 PM Mon–Sat, 12:00–5:00 PM Sun",
+      "rating": 4.7,
+      "ticketUrl": "https://www.1856.com"
+    },
+    {
+      "name": "Union Station",
+      "lat": 39.0848,
+      "lng": -94.5857,
+      "note": "Restored 1914 Beaux-Arts station with a vast Grand Hall, still served by Amtrak and home to Science City, a planetarium, exhibits and restaurants.",
+      "hours": "Building ~6:00 AM–midnight daily; attractions have their own hours",
+      "rating": 4.4
+    },
+    {
+      "name": "Country Club Plaza",
+      "lat": 39.0417,
+      "lng": -94.5928,
+      "note": "1920s Spanish-style shopping district laid out around fountains and tiled towers, lit up with holiday lights from Thanksgiving to mid-January.",
+      "hours": "Shops ~10:00 AM–8:00 PM Mon–Sat, ~12:00–6:00 PM Sun; restaurants later",
+      "rating": 4.5
+    },
+    {
+      "name": "Kansas City Zoo & Aquarium",
+      "lat": 39.0075,
+      "lng": -94.5294,
+      "note": "Large zoo in Swope Park with African savanna and Australia zones, a penguin house and a newer aquarium; well off the streetcar, so drive or ride-share.",
+      "hours": "9:30 AM–4:00 PM daily Nov–Feb; Mar–Oct 9:30 AM–4:00 PM Mon–Fri, to 5:00 PM Sat–Sun",
+      "rating": 4.3,
+      "ticketUrl": "https://www.kansascityzoo.org"
+    },
+    {
+      "name": "Kauffman Stadium",
+      "lat": 39.0514,
+      "lng": -94.4803,
+      "note": "The Royals' 1973 ballpark, known for the crown scoreboard and the water-spectacular fountains beyond the outfield; 13 km east of downtown at the Truman Sports Complex.",
+      "hours": "Game days (Apr–Sep); stadium tours on select dates",
+      "rating": 4.6,
+      "ticketUrl": "https://www.mlb.com/royals"
+    },
+    {
+      "name": "Negro Leagues Baseball Museum",
+      "lat": 39.0914,
+      "lng": -94.5627,
+      "note": "Moving history of Black professional baseball in the 18th & Vine Jazz District, ending on a 'Field of Legends' of bronze players; shares a building with the American Jazz Museum.",
+      "hours": "10:00 AM–5:00 PM Tue–Sat, 12:00–5:00 PM Sun, closed Mon",
+      "rating": 4.6,
+      "ticketUrl": "https://nlbm.com"
+    },
+    {
+      "name": "The National Museum of Toys and Miniatures",
+      "lat": 39.032,
+      "lng": -94.5822,
+      "note": "Huge collection of antique toys and museum-grade fine-scale miniatures on the UMKC campus, a short walk from the streetcar's UMKC terminus.",
+      "hours": "10:00 AM–4:00 PM, closed Tue",
+      "rating": 4.7,
+      "ticketUrl": "https://toyandminiaturemuseum.org"
+    },
+    {
+      "name": "GEHA Field at Arrowhead Stadium",
+      "lat": 39.0489,
+      "lng": -94.4839,
+      "note": "Home of the Chiefs and one of the NFL's loudest stadiums; tailgating in the lots is part of the ritual. Next to Kauffman Stadium, far east of the centre.",
+      "hours": "NFL game days (Sep–Jan); stadium tours on select dates",
+      "rating": 4.5
+    },
+    {
+      "name": "Hallmark Visitors Center",
+      "lat": 39.0818,
+      "lng": -94.5808,
+      "note": "Free exhibits at Hallmark's Crown Center headquarters on the card company's history and printing, next door to the free Kaleidoscope kids' art studio.",
+      "hours": "~10:00 AM–4:00 PM Tue–Sat (call ahead)",
+      "rating": 4.3
+    },
+    {
+      "name": "City Market",
+      "lat": 39.1095,
+      "lng": -94.583,
+      "note": "River Market's open-air market square with a year-round weekend farmers market, plus delis, spice shops and global eateries open daily.",
+      "hours": "Farmers market Sat–Sun 8:00 AM–3:00 PM (Apr–Oct), 9:00 AM–3:00 PM in winter (Sat only Jan–Feb); shops daily",
+      "rating": 4.4
+    },
+    {
+      "name": "The Money Museum",
+      "lat": 39.0828,
+      "lng": -94.5872,
+      "note": "Free museum at the Federal Reserve Bank with a window onto the cash-processing vault, a 27-pound gold bar and a bag of shredded money to take home. Photo ID required.",
+      "hours": "9:30 AM–4:00 PM Mon–Fri (last entry 3:30 PM), closed weekends and bank holidays",
+      "rating": 4.2
+    },
+    {
+      "name": "Boulevard Brewing Company",
+      "lat": 39.0821,
+      "lng": -94.5967,
+      "note": "Kansas City's flagship craft brewery on Southwest Boulevard, with hour-long tours ending in a tasting and a rooftop-view beer hall.",
+      "hours": "Beer hall 12:00–9:00 PM Mon–Thu, 11:00 AM–10:00 PM Fri–Sat, 10:00 AM–7:00 PM Sun; tours daily",
+      "rating": 4.6,
+      "ticketUrl": "https://www.boulevard.com/tours/",
+      "bookAhead": true
+    },
+    {
+      "name": "Kauffman Center for the Performing Arts",
+      "lat": 39.0937,
+      "lng": -94.5868,
+      "note": "Shell-shaped glass-and-steel concert hall by Moshe Safdie, home to the symphony, opera and ballet, overlooking the Crossroads.",
+      "hours": "Performance times; free public tours on select days",
+      "rating": 4.8,
+      "ticketUrl": "https://www.kauffmancenter.org"
+    },
+    {
+      "name": "Westport",
+      "lat": 39.0531,
+      "lng": -94.5925,
+      "note": "Kansas City's oldest neighbourhood turned bar-and-music strip around Westport Road and Pennsylvania Avenue; busiest late on weekends.",
+      "hours": "Bars and restaurants mostly to ~1:30–3:00 AM",
+      "rating": 4.2
+    },
+    {
+      "name": "Loose Park",
+      "lat": 39.0331,
+      "lng": -94.595,
+      "note": "Leafy Civil War battlefield turned park with a pond, walking loop and the Laura Conyers Smith rose garden, at its best in late spring.",
+      "hours": "Daily, early morning to late evening",
+      "rating": 4.6
+    }
+  ],
+  "railStations": [
+    {
+      "name": "Kansas City Union Station",
+      "lat": 39.0849,
+      "lng": -94.5859,
+      "note": "Restored 1914 station at 30 W Pershing Road with Amtrak's daily Southwest Chief (Chicago–Los Angeles) and Missouri River Runner trains to St. Louis. The Union Station streetcar stop at Pershing & Main is a short walk, about 10 min by streetcar to downtown.",
+      "hours": "Station building open daily; trains from early morning to late evening (Southwest Chief also in the late evening/early morning)."
+    }
+  ],
+  "airports": [
+    {
+      "name": "Kansas City International Airport",
+      "code": "MCI",
+      "lat": 39.2976,
+      "lng": -94.7139,
+      "transitNote": "No rail link and not on the map; the airport is ~25 km north of downtown. RideKC Route 229 (Boardwalk–KCI) runs about hourly between the terminal and downtown via the Boardwalk Square transit centre, ~1 hour for the regular $2 bus fare. A taxi or rideshare takes ~25–30 min.",
+      "hours": "Route 229 runs 7 days a week, roughly hourly from early morning to late evening; check ridekc.org."
+    }
+  ]
+}

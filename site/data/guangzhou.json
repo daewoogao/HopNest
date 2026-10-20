@@ -613,7 +613,142 @@
     {"name":"Grand Hyatt Guangzhou","lat":23.1248,"lng":113.318,"area":"Tianhe/Zhujiang New Town","rating":4.4,"ratingCount":1268,"stars":5,"priceTier":4,"brandAnchor":true},
     {"name":"The Ritz-Carlton, Guangzhou","lat":23.119,"lng":113.3218,"area":"Tianhe/Zhujiang New Town","rating":4.9,"ratingCount":7363,"stars":5,"priceTier":4,"brandAnchor":true},
     {"name":"White Swan Hotel","lat":23.1084,"lng":113.2374,"area":"Shamian","rating":4.6,"ratingCount":322,"stars":5,"priceTier":4},
-    {"name":"Guangdong Victory Hotel","lat":23.1105,"lng":113.2401,"area":"Shamian","rating":4,"ratingCount":652,"stars":3,"priceTier":2}
+    {"name":"Guangdong Victory Hotel","lat":23.1105,"lng":113.2401,"area":"Shamian","rating":4,"ratingCount":652,"stars":3,"priceTier":2},
+    {
+      "name": "Radisson RED Guang Zhou South Railway Station",
+      "lat": 22.9903,
+      "lng": 113.2702,
+      "area": "Guangzhou South Station",
+      "rating": 4.7,
+      "ratingCount": 5787,
+      "stars": 4,
+      "priceTier": 3,
+      "brandAnchor": true,
+      "ratingSource": "Trip.com",
+      "tripUrl": "https://www.trip.com/hotels/detail/?hotelId=101185598"
+    },
+    {
+      "name": "IntercityHotel Guangzhou South Railway Station",
+      "lat": 22.9908,
+      "lng": 113.2735,
+      "area": "Guangzhou South Station",
+      "rating": 4.9,
+      "ratingCount": 3424,
+      "stars": 4,
+      "priceTier": 3,
+      "ratingSource": "Trip.com",
+      "tripUrl": "https://www.trip.com/hotels/detail/?hotelId=121199821"
+    },
+    {
+      "name": "Vienna Hotel (Guangzhou South Railway Station)",
+      "lat": 22.9912,
+      "lng": 113.272,
+      "area": "Guangzhou South Station",
+      "rating": 4.5,
+      "ratingCount": 1947,
+      "stars": 3,
+      "priceTier": 2,
+      "ratingSource": "Trip.com",
+      "tripUrl": "https://www.trip.com/hotels/detail/?hotelId=6691181"
+    },
+    {
+      "name": "Hampton by Hilton Guangzhou Railway Station",
+      "lat": 23.1536,
+      "lng": 113.2568,
+      "area": "Guangzhou Station",
+      "rating": 4.7,
+      "ratingCount": 2753,
+      "stars": 4,
+      "priceTier": 3,
+      "brandAnchor": true,
+      "ratingSource": "Trip.com",
+      "tripUrl": "https://www.trip.com/hotels/detail/?hotelId=105450288"
+    },
+    {
+      "name": "Liuhua Hotel",
+      "lat": 23.1491,
+      "lng": 113.251,
+      "area": "Guangzhou Station",
+      "rating": 4.5,
+      "ratingCount": 1226,
+      "stars": 4,
+      "priceTier": 3,
+      "ratingSource": "Trip.com",
+      "tripUrl": "https://www.trip.com/hotels/detail/?hotelId=441499"
+    },
+    {
+      "name": "Ibis Hotel (Guangzhou Yuexiu Park Metro Station)",
+      "lat": 23.1451,
+      "lng": 113.2533,
+      "area": "Guangzhou Station",
+      "rating": 4.6,
+      "ratingCount": 1329,
+      "stars": 3,
+      "priceTier": 2,
+      "brandAnchor": true,
+      "ratingSource": "Trip.com",
+      "tripUrl": "https://www.trip.com/hotels/detail/?hotelId=8197047"
+    },
+    {
+      "name": "JI Hotel (Guangzhou Tianhe East Railway Station)",
+      "lat": 23.1512,
+      "lng": 113.3205,
+      "area": "Guangzhou East Station",
+      "rating": 4.7,
+      "ratingCount": 8815,
+      "stars": 4,
+      "priceTier": 2,
+      "ratingSource": "Trip.com",
+      "tripUrl": "https://www.trip.com/hotels/detail/?hotelId=3327288"
+    },
+    {
+      "name": "Jianguo Hotel, Guangzhou",
+      "lat": 23.1504,
+      "lng": 113.3208,
+      "area": "Guangzhou East Station",
+      "rating": 4.6,
+      "ratingCount": 8317,
+      "stars": 5,
+      "priceTier": 3,
+      "ratingSource": "Trip.com",
+      "tripUrl": "https://www.trip.com/hotels/detail/?hotelId=428361"
+    },
+    {
+      "name": "Fairfield by Marriott Guangzhou Konggang",
+      "lat": 23.3716,
+      "lng": 113.2882,
+      "area": "Guangzhou Baiyun International Airport",
+      "rating": 4.7,
+      "ratingCount": 2456,
+      "stars": 4,
+      "priceTier": 3,
+      "brandAnchor": true,
+      "ratingSource": "Trip.com",
+      "tripUrl": "https://www.trip.com/hotels/detail/?hotelId=116940787"
+    },
+    {
+      "name": "JI Hotel (Guangzhou Baiyun Airport T2T3 Terminal)",
+      "lat": 23.372,
+      "lng": 113.2876,
+      "area": "Guangzhou Baiyun International Airport",
+      "rating": 4.8,
+      "ratingCount": 3004,
+      "stars": 3,
+      "priceTier": 2,
+      "ratingSource": "Trip.com",
+      "tripUrl": "https://www.trip.com/hotels/detail/?hotelId=120193618"
+    },
+    {
+      "name": "Manhaosi Hotel (Guangzhou Shangxiajiu Pedestrian Street Shamian Scenic Area)",
+      "lat": 23.1104,
+      "lng": 113.2407,
+      "area": "Shamian",
+      "rating": 4.6,
+      "ratingCount": 885,
+      "stars": 3,
+      "priceTier": 2,
+      "ratingSource": "Trip.com"
+    }
   ],
   "sights": [
     {
@@ -736,22 +871,22 @@
   "railStations": [
     {
       "name": "Guangzhou South Station",
-      "lat": 22.9885,
-      "lng": 113.2692,
+      "lat": 22.9912,
+      "lng": 113.2639,
       "note": "The largest high-speed rail station (Guangzhou Nan): trains to Shenzhen North (~30 min), Hong Kong West Kowloon (~50 min), Beijing, Shanghai and beyond. Metro Lines 2, 7 and the Guangfo line stop here; ~40 min to the centre by Line 2.",
       "hours": "HSR ~6:30 AM-~11:00 PM; metro ~6:00 AM-~11:00 PM."
     },
     {
       "name": "Guangzhou East Station",
-      "lat": 23.1498,
-      "lng": 113.3238,
+      "lat": 23.1524,
+      "lng": 113.3184,
       "note": "Intercity hub in Tianhe (Guangzhou Dong): trains to Hong Kong Hung Hom, Shenzhen and Guangdong cities; on Metro Lines 1 and 3 and the Tianhe Sports Center area.",
       "hours": "Trains to individual timetables; metro ~6:00 AM-~11:00 PM."
     },
     {
       "name": "Guangzhou Station",
-      "lat": 23.15,
-      "lng": 113.257,
+      "lat": 23.1527,
+      "lng": 113.2517,
       "note": "The old central railway station (Guangzhou Zhan) in Yuexiu, busy with conventional trains; on Metro Lines 2 and 5.",
       "hours": "Trains to individual timetables; metro ~6:00 AM-~11:00 PM."
     }

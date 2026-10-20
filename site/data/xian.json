@@ -406,9 +406,106 @@
   "hotels": [
     {"name":"Grand Soluxe International Hotel","lat":34.2758,"lng":108.9587,"area":"Xi'an Railway Station","rating":4.1,"ratingCount":503,"stars":5,"priceTier":3},
     {"name":"Holiday Inn Express Xi'an Bell Tower by IHG","lat":34.2588,"lng":108.9419,"area":"Bell Tower","rating":4.5,"ratingCount":142,"stars":3,"priceTier":2,"brandAnchor":true},
-    {"name":"Novotel Xi'an The Bell Tower","lat":34.2623,"lng":108.9452,"area":"Bell Tower","rating":4.5,"ratingCount":29,"stars":4,"priceTier":3,"brandAnchor":true},
+    {
+      "name": "Novotel Xi'an The Bell Tower",
+      "lat": 34.2623,
+      "lng": 108.9452,
+      "area": "Bell Tower",
+      "rating": 4.5,
+      "ratingCount": 29,
+      "stars": 4,
+      "priceTier": 3,
+      "brandAnchor": true,
+      "tripUrl": "https://www.trip.com/hotels/xi-an-hotel-detail-54597222/"
+    },
     {"name":"Campanile Xi'an Bell Tower Huimin Street","lat":34.2594,"lng":108.9375,"area":"Bell Tower","rating":4.5,"ratingCount":37,"stars":3,"priceTier":2},
-    {"name":"Tang Dynasty Art Garden Hotel","lat":34.2204,"lng":108.961,"area":"Giant Wild Goose Pagoda","rating":4.2,"ratingCount":171,"stars":4,"priceTier":3}
+    {"name":"Tang Dynasty Art Garden Hotel","lat":34.2204,"lng":108.961,"area":"Giant Wild Goose Pagoda","rating":4.2,"ratingCount":171,"stars":4,"priceTier":3},
+    {
+      "name": "Western Airport Aviation Hotel (Xi'an Airport)",
+      "lat": 34.4436,
+      "lng": 108.7623,
+      "area": "Xi'an Xianyang International Airport",
+      "rating": 4.6,
+      "ratingCount": 4506,
+      "stars": 3,
+      "priceTier": 2,
+      "ratingSource": "Trip.com",
+      "tripUrl": "https://www.trip.com/hotels/xianyang-hotel-detail-1294320/"
+    },
+    {
+      "name": "Xi'an Airport Hotel",
+      "lat": 34.4369,
+      "lng": 108.7537,
+      "area": "Xi'an Xianyang International Airport",
+      "rating": 4.6,
+      "ratingCount": 4429,
+      "stars": 5,
+      "priceTier": 3,
+      "ratingSource": "Trip.com",
+      "tripUrl": "https://www.trip.com/hotels/xi-an-hotel-detail-1704270/"
+    },
+    {
+      "name": "Jiefang Hotel",
+      "lat": 34.2767,
+      "lng": 108.9587,
+      "area": "Xi'an Railway Station",
+      "rating": 4.7,
+      "ratingCount": 1654,
+      "stars": 3,
+      "priceTier": 2,
+      "ratingSource": "Trip.com",
+      "tripUrl": "https://www.trip.com/hotels/xi-an-hotel-detail-841600/"
+    },
+    {
+      "name": "Xi'an Desti Youth Hostel - Xi'an Bell Tower",
+      "lat": 34.263,
+      "lng": 108.9429,
+      "area": "Bell Tower",
+      "rating": 4.6,
+      "ratingCount": 4372,
+      "stars": 2,
+      "priceTier": 1,
+      "ratingSource": "Trip.com",
+      "tripUrl": "https://www.trip.com/hotels/xi-an-hotel-detail-62233200/"
+    },
+    {
+      "name": "The Westin Xi'an",
+      "lat": 34.2163,
+      "lng": 108.9577,
+      "area": "Giant Wild Goose Pagoda",
+      "rating": 4.7,
+      "ratingCount": 12546,
+      "stars": 5,
+      "priceTier": 4,
+      "brandAnchor": true,
+      "ratingSource": "Trip.com",
+      "tripUrl": "https://www.trip.com/hotels/xi-an-hotel-detail-420032/"
+    },
+    {
+      "name": "Fairfield by Marriott Xi'an North Railway Station",
+      "lat": 34.3649,
+      "lng": 108.9335,
+      "area": "Xi'an North Station",
+      "rating": 4.5,
+      "ratingCount": 1767,
+      "stars": 3,
+      "priceTier": 2,
+      "brandAnchor": true,
+      "ratingSource": "Trip.com",
+      "note": "About an 18-minute walk south of the station (no hotel meets our bar closer in)."
+    },
+    {
+      "name": "Atour Hotel Xi'an North Railway Station",
+      "lat": 34.3636,
+      "lng": 108.9334,
+      "area": "Xi'an North Station",
+      "rating": 4.8,
+      "ratingCount": 2950,
+      "stars": 4,
+      "priceTier": 3,
+      "ratingSource": "Trip.com",
+      "note": "About a 20-minute walk south of the station (no hotel meets our bar closer in)."
+    }
   ],
   "sights": [
     {

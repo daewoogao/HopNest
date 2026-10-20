@@ -1,0 +1,190 @@
+{
+  "name": "Norfolk",
+  "country": "USA",
+  "flag": "🇺🇸",
+  "center": [36.8508,-76.2859],
+  "zoom": 12,
+  "operatingHours": "The Tide light rail runs ~6:00 AM–10:00 PM Mon–Thu, ~6:00 AM–12:00 AM Fri–Sat and ~7:00 AM–9:00 PM Sun (holidays ~9:00 AM–9:00 PM), every ~15 min (~10 min at peak, ~30 min early and late). No overnight service.",
+  "fareInfo": "$2.00 per ride on The Tide, HRT buses and the Elizabeth River Ferry (2026). Tap a contactless bank card, phone or GoMobile card (or use the GoMobile app) before boarding: fares cap at $4.50 a day (third ride $0.50, then free) and $70 a month. Ticket machines on Tide platforms also sell fares; cash paid on board does not count toward the cap.",
+  "lines": [
+    {
+      "id": "ltide",
+      "name": "The Tide",
+      "color": "#004D9F",
+      "code": "T",
+      "stations": [
+        ["Newtown Road",36.841,-76.1901],
+        ["Military Highway",36.8415,-76.2132],
+        ["Ingleside Road",36.8428,-76.2352],
+        ["Ballentine/Broad Creek",36.8462,-76.2533],
+        ["NSU",36.8459,-76.2697],
+        ["Harbor Park",36.844,-76.2782],
+        ["Civic Plaza",36.8458,-76.2856],
+        ["MacArthur Square",36.8473,-76.2898],
+        ["Monticello",36.8513,-76.2887],
+        ["York Street/Freemason",36.8536,-76.294],
+        ["EVMC/Fort Norfolk",36.8588,-76.3036]
+      ]
+    }
+  ],
+  "hotels": [
+    {"name":"Hilton Norfolk The Main","lat":36.8467,"lng":-76.2917,"area":"Downtown Norfolk","rating":4.3,"ratingCount":1310,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Norfolk Waterside Marriott","lat":36.8455,"lng":-76.2907,"area":"Downtown Norfolk","rating":4.1,"ratingCount":1991,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Courtyard by Marriott Norfolk Downtown","lat":36.8468,"lng":-76.2872,"area":"Downtown Norfolk","rating":4.3,"ratingCount":1043,"stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Glass Light Hotel & Gallery, Autograph Collection","lat":36.8481,"lng":-76.2917,"area":"Downtown Norfolk","rating":4.3,"ratingCount":148,"stars":4,"priceTier":4,"brandAnchor":true},
+    {"name":"Residence Inn by Marriott Norfolk Downtown","lat":36.8539,"lng":-76.2914,"area":"Freemason & Ghent","rating":4.2,"ratingCount":669,"stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Residence Inn by Marriott Norfolk Airport","lat":36.8789,"lng":-76.2104,"area":"Norfolk International Airport","rating":4.2,"ratingCount":433,"stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Hampton Inn & Suites Norfolk-Airport","lat":36.8748,"lng":-76.2079,"area":"Norfolk International Airport","rating":4.1,"ratingCount":700,"stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Home2 Suites by Hilton Norfolk Airport","lat":36.8759,"lng":-76.2118,"area":"Norfolk International Airport","rating":4.1,"ratingCount":151,"stars":2,"priceTier":2,"brandAnchor":true},
+    {"name":"La Quinta Inn & Suites by Wyndham Norfolk","lat":36.8717,"lng":-76.2116,"area":"Norfolk International Airport","rating":4,"ratingCount":1037,"stars":2,"priceTier":2,"brandAnchor":true}
+  ],
+  "sights": [
+    {
+      "name": "Battleship Wisconsin at Nauticus",
+      "lat": 36.8483,
+      "lng": -76.2953,
+      "note": "One of the last and largest battleships the US Navy built, moored beside Nauticus with open decks, turrets and below-deck spaces to explore.",
+      "hours": "Tue–Sun 10:00 AM–5:00 PM (with Nauticus admission); closed Mon",
+      "rating": 4.7,
+      "ticketUrl": "https://www.nauticus.org"
+    },
+    {
+      "name": "Chrysler Museum of Art",
+      "lat": 36.8564,
+      "lng": -76.2931,
+      "note": "A wide-ranging free art museum on the edge of Ghent, best known for its glass collection and the Perry Glass Studio's daily noon glassblowing demos.",
+      "hours": "Tue–Sat 10:00 AM–5:00 PM, Sun 12:00–5:00 PM; closed Mon; free",
+      "rating": 4.8,
+      "ticketUrl": "https://chrysler.org"
+    },
+    {
+      "name": "Nauticus",
+      "lat": 36.8477,
+      "lng": -76.2951,
+      "note": "A waterfront maritime science center with hands-on exhibits on ships, the sea and the Navy, plus the free Hampton Roads Naval Museum upstairs.",
+      "hours": "Tue–Sun 10:00 AM–5:00 PM; closed Mon",
+      "rating": 4.5,
+      "ticketUrl": "https://www.nauticus.org"
+    },
+    {
+      "name": "Norfolk Botanical Garden",
+      "lat": 36.9014,
+      "lng": -76.2,
+      "note": "A 175-acre garden beside the airport with themed plantings, azalea woods, a conservatory and boat or tram tours along the canals.",
+      "hours": "Daily 9:00 AM–5:00 PM (conservatory 10:00 AM–5:00 PM, closed Tue)",
+      "rating": 4.7,
+      "ticketUrl": "https://norfolkbotanicalgarden.org"
+    },
+    {
+      "name": "Virginia Zoo",
+      "lat": 36.8764,
+      "lng": -76.2773,
+      "note": "A mid-sized zoo next to Lafayette Park with an African savanna, Asian forest and an orangutan habitat, easy for a half-day with kids.",
+      "hours": "Daily 9:30 AM–4:00 PM",
+      "rating": 4.3,
+      "ticketUrl": "https://virginiazoo.org"
+    },
+    {
+      "name": "MacArthur Memorial",
+      "lat": 36.8477,
+      "lng": -76.2886,
+      "note": "General Douglas MacArthur's tomb and museum in Norfolk's 1850 domed former city hall, tracing his career from West Point to Korea.",
+      "hours": "Tue–Sat 10:00 AM–5:00 PM; free",
+      "rating": 4.6,
+      "ticketUrl": "https://www.macarthurmemorial.org"
+    },
+    {
+      "name": "Hermitage Museum and Gardens",
+      "lat": 36.9103,
+      "lng": -76.3132,
+      "note": "An Arts and Crafts mansion on the Lafayette River holding an eclectic art collection, set in waterside gardens and woodland.",
+      "hours": "Tue–Sun 10:00 AM–5:00 PM (from mid-Oct ~4:30 PM Fri–Sun); free",
+      "rating": 4.4,
+      "ticketUrl": "https://www.thehermitagemuseum.org"
+    },
+    {
+      "name": "Wells Theatre",
+      "lat": 36.8489,
+      "lng": -76.2906,
+      "note": "A lavishly restored 1913 Beaux-Arts playhouse that is now home to the Virginia Stage Company.",
+      "hours": "Open for performances; see the season schedule",
+      "rating": 4.6,
+      "ticketUrl": "https://www.vastage.org"
+    },
+    {
+      "name": "Slover Library",
+      "lat": 36.8466,
+      "lng": -76.2904,
+      "note": "Norfolk's striking main library, joining a restored 1900s customs building to a glass-walled modern wing with history exhibits and maker spaces.",
+      "hours": "Mon 10:00 AM–6:00 PM, Tue–Thu 9:00 AM–7:00 PM, Fri–Sat 9:00 AM–5:00 PM; closed Sun",
+      "rating": 4.9
+    },
+    {
+      "name": "Pagoda & Oriental Garden",
+      "lat": 36.8498,
+      "lng": -76.2947,
+      "note": "A small free harborside garden with koi ponds and a pagoda gifted by Taiwan, a quiet spot for sunset over the Elizabeth River.",
+      "hours": "Garden paths open daily; free",
+      "rating": 4.1
+    },
+    {
+      "name": "Harbor Park",
+      "lat": 36.8428,
+      "lng": -76.2789,
+      "note": "The riverside home of the Norfolk Tides, the Orioles' Triple-A team, with skyline views and a Tide stop at the gate.",
+      "hours": "Game days April–September; see schedule",
+      "rating": 4.4
+    },
+    {
+      "name": "Town Point Park",
+      "lat": 36.8456,
+      "lng": -76.2944,
+      "note": "A downtown riverfront lawn and promenade that hosts Norfolk's festivals and gives open views of shipping on the Elizabeth River.",
+      "hours": "Open daily, dawn to late evening",
+      "rating": 4.4
+    },
+    {
+      "name": "Moses Myers House",
+      "lat": 36.8503,
+      "lng": -76.2875,
+      "note": "A Federal-style townhouse from 1792 kept with much of its original furniture, showing the life of one of Norfolk's first Jewish families.",
+      "hours": "Sat–Sun 12:00–5:00 PM, or by appointment; free",
+      "rating": 4.4,
+      "ticketUrl": "https://chrysler.org"
+    },
+    {
+      "name": "Elizabeth River Ferry",
+      "lat": 36.8444,
+      "lng": -76.2888,
+      "note": "A paddle-wheel-style passenger ferry from Waterside to Old Town Portsmouth, the cheapest harbor cruise in town at the regular bus fare.",
+      "hours": "Winter: Mon–Thu ~5:30 AM–9:45 PM, Fri to ~11:45 PM, Sat ~10:00 AM–11:45 PM, Sun ~10:00 AM–9:45 PM; every 30 min"
+    },
+    {
+      "name": "Virginia Beach Boardwalk",
+      "lat": 36.8609,
+      "lng": -75.9767,
+      "note": "A 3-mile oceanfront promenade about 30 km east with a wide sand beach and the giant King Neptune statue; not on the Tide, reached by car or HRT bus.",
+      "hours": "Open 24 hours",
+      "rating": 4.5
+    }
+  ],
+  "railStations": [
+    {
+      "name": "Norfolk Amtrak Station",
+      "lat": 36.8433,
+      "lng": -76.2759,
+      "note": "Terminus of an Amtrak Northeast Regional branch to Richmond, Washington, New York and Boston (~3 round trips weekdays, ~2 on weekends). The Harbor Park Tide stop is a short walk west.",
+      "hours": "Waiting room opens around train times (~5:00 AM–~10:30 PM); trains run to timetable."
+    }
+  ],
+  "airports": [
+    {
+      "name": "Norfolk International Airport",
+      "code": "ORF",
+      "lat": 36.8947,
+      "lng": -76.2011,
+      "transitNote": "Not on the Tide and no direct HRT bus (nearest is Route 15, ~2.4 km away). Take a taxi or Uber/Lyft to downtown, ~13 km and ~20 min. Virginia Beach's oceanfront is ~25 min by car.",
+      "hours": "No rail link; taxis and rideshare serve all flights."
+    }
+  ]
+}

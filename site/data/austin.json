@@ -1,0 +1,209 @@
+{
+  "name": "Austin",
+  "country": "USA",
+  "flag": "🇺🇸",
+  "center": [30.29,-97.74],
+  "zoom": 12,
+  "operatingHours": "CapMetro Rail Red Line (Downtown–Leander) runs Mon–Thu ~5:00 AM–~8:00 PM and Fri ~5:00 AM–midnight, every ~15–30 min at peaks and less often off-peak; Sat ~10:00 AM–midnight; no Sunday service. Buses and MetroRapid fill the gaps, and late-night Night Owl buses run after midnight.",
+  "fareInfo": "Red Line rides use the Commuter fare: $3.50 a ride, capped at $7.00 per day (2026). Local buses, including Route 20 to the airport, are $1.25, capped at $2.50 per day. Pay in the Umo app, with a CapMetro Reloadable Fare Card, or by tapping a contactless card or phone (daily capping only); at least one ticket machine stays at each rail station. Under-18s ride free. Fares rise on 10 Jan 2027 (Commuter $4.00, Local $1.50).",
+  "lines": [
+    {
+      "id": "l550",
+      "name": "CapMetro Rail Red Line",
+      "color": "#D22630",
+      "code": "Red",
+      "stations": [
+        ["Downtown",30.2646,-97.7381],
+        ["Plaza Saltillo",30.2622,-97.7275],
+        ["MLK Jr.",30.28,-97.709],
+        ["Highland",30.3288,-97.7162],
+        ["Crestview",30.3384,-97.7197],
+        ["McKalla",30.388,-97.7176],
+        ["Kramer",30.3928,-97.7164],
+        ["Howard",30.4402,-97.7018],
+        ["Lakeline",30.4812,-97.7867],
+        ["Leander",30.5866,-97.8557]
+      ]
+    }
+  ],
+  "hotels": [
+    {"name":"Canopy by Hilton Austin Downtown","lat":30.2701,"lng":-97.7489,"area":"Austin Amtrak Station","rating":4.6,"ratingCount":530,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Austin Proper Hotel","lat":30.2661,"lng":-97.7501,"area":"Austin Amtrak Station","rating":4.6,"ratingCount":1025,"stars":5,"priceTier":4},
+    {"name":"The Loren Hotel Austin","lat":30.264,"lng":-97.7567,"area":"Austin Amtrak Station","rating":4.2,"ratingCount":309,"stars":4,"priceTier":4},
+    {"name":"Hyatt Place Austin Airport","lat":30.2106,"lng":-97.665,"area":"Austin-Bergstrom International Airport","rating":4.3,"ratingCount":668,"stars":3,"priceTier":2,"brandAnchor":true},
+    {"name":"Hilton Austin","lat":30.2653,"lng":-97.7381,"area":"Downtown","rating":4.4,"ratingCount":3711,"stars":4,"priceTier":3,"brandAnchor":true},
+    {"name":"Fairmont Austin","lat":30.2621,"lng":-97.7382,"area":"Downtown","rating":4.7,"ratingCount":6944,"stars":4,"priceTier":4},
+    {"name":"Hyatt Place Austin Downtown","lat":30.2644,"lng":-97.7419,"area":"Downtown","rating":4.5,"ratingCount":3138,"stars":3,"priceTier":3},
+    {"name":"Hampton Inn & Suites Austin Downtown","lat":30.264,"lng":-97.7421,"area":"Downtown","rating":4.2,"ratingCount":1486,"stars":3,"priceTier":2},
+    {"name":"Firehouse Hostel","lat":30.2682,"lng":-97.7411,"area":"Downtown","rating":4.2,"ratingCount":294,"stars":1,"priceTier":1},
+    {"name":"ARRIVE Austin","lat":30.2615,"lng":-97.7229,"area":"East Austin","rating":4.6,"ratingCount":1013,"stars":4,"priceTier":3},
+    {"name":"The Frances Modern Inn","lat":30.2687,"lng":-97.7284,"area":"East Austin","rating":4.9,"ratingCount":244,"stars":3,"priceTier":3},
+    {"name":"East Austin Hotel","lat":30.2648,"lng":-97.7308,"area":"East Austin","rating":4,"ratingCount":253,"stars":3,"priceTier":3},
+    {"name":"Hotel Saint Cecilia","lat":30.252,"lng":-97.7467,"area":"South Congress","rating":4.4,"ratingCount":181,"stars":4,"priceTier":4},
+    {"name":"Frame Hotel - Treehouse (formerly Kimber Modern)","lat":30.2501,"lng":-97.7484,"area":"South Congress","rating":4.9,"ratingCount":660,"stars":4,"priceTier":4},
+    {"name":"Hotel San José","lat":30.2499,"lng":-97.7496,"area":"South Congress","rating":4.4,"ratingCount":625,"stars":4,"priceTier":3},
+    {"name":"Austin Motel","lat":30.2516,"lng":-97.7494,"area":"South Congress","rating":4.2,"ratingCount":672,"stars":3,"priceTier":2},
+    {"name":"DoubleTree Suites by Hilton Austin Downtown Capitol","lat":30.2774,"lng":-97.7425,"area":"UT / Capitol","rating":4.3,"ratingCount":1586,"stars":3,"priceTier":3,"brandAnchor":true},
+    {"name":"Hampton Inn & Suites Austin at The University/Capitol","lat":30.2796,"lng":-97.7408,"area":"UT / Capitol","rating":4.7,"ratingCount":2092,"stars":3,"priceTier":2},
+    {"name":"Hilton Garden Inn Austin University Capitol District","lat":30.2793,"lng":-97.7416,"area":"UT / Capitol","rating":4.5,"ratingCount":232,"stars":3,"priceTier":3},
+    {"name":"AT&T Hotel and Conference Center","lat":30.282,"lng":-97.7404,"area":"UT / Capitol","rating":4.3,"ratingCount":1247,"stars":4,"priceTier":3},
+    {"name":"Hotel Ella","lat":30.2831,"lng":-97.7456,"area":"UT / Capitol","rating":4.4,"ratingCount":1162,"stars":4,"priceTier":4}
+  ],
+  "sights": [
+    {
+      "name": "Texas State Capitol",
+      "lat": 30.2747,
+      "lng": -97.7404,
+      "note": "The pink-granite 1888 capitol, taller than the U.S. Capitol, with a soaring rotunda dome and free guided tours.",
+      "hours": "Mon–Fri 7:00 AM–8:00 PM, Sat–Sun 9:00 AM–8:00 PM; free tours every 15–30 min until 4:15 PM",
+      "rating": 4.6
+    },
+    {
+      "name": "Barton Springs Pool",
+      "lat": 30.264,
+      "lng": -97.7713,
+      "note": "A spring-fed natural pool in Zilker Park that stays around 68°F (20°C) all year.",
+      "hours": "5:00 AM–10:00 PM daily; closed Thu 9:00 AM–7:00 PM for cleaning",
+      "rating": 4.5,
+      "ticketUrl": "https://www.austintexas.gov/services/visit-barton-springs"
+    },
+    {
+      "name": "LBJ Presidential Library",
+      "lat": 30.2858,
+      "lng": -97.7292,
+      "note": "Lyndon B. Johnson's presidential library on the UT campus, covering civil rights, Vietnam and a replica Oval Office.",
+      "hours": "9:00 AM–5:00 PM daily (last entry 4:00 PM); half price on Tuesdays",
+      "rating": 4.7,
+      "ticketUrl": "https://www.lbjlibrary.org/visit"
+    },
+    {
+      "name": "Lady Bird Lake Hike-and-Bike Trail",
+      "lat": 30.262,
+      "lng": -97.751,
+      "note": "A 10-mile loop path around the downtown reservoir, with skyline views, kayak rentals and the Pfluger pedestrian bridge.",
+      "hours": "5:00 AM–midnight daily",
+      "rating": 4.7
+    },
+    {
+      "name": "Mount Bonnell",
+      "lat": 30.3207,
+      "lng": -97.7734,
+      "note": "A short stair climb to one of the city's highest points, looking over the Colorado River and Pennybacker Bridge; popular at sunset.",
+      "hours": "5:00 AM–10:00 PM daily; free",
+      "rating": 4.4
+    },
+    {
+      "name": "Lady Bird Johnson Wildflower Center",
+      "lat": 30.1858,
+      "lng": -97.8733,
+      "note": "The University of Texas botanic garden of native plants and wildflowers, about 16 km southwest of downtown (car or rideshare).",
+      "hours": "9:00 AM–5:00 PM daily, last entry 4:00 PM (Jun–Aug 7:00 AM–3:00 PM)",
+      "rating": 4.4,
+      "ticketUrl": "https://www.wildflower.org/visit"
+    },
+    {
+      "name": "Bullock Texas State History Museum",
+      "lat": 30.2803,
+      "lng": -97.7391,
+      "note": "Three floors telling the story of Texas, from early peoples and the 17th-century La Belle shipwreck to the oil age, plus an IMAX theatre.",
+      "hours": "10:00 AM–5:00 PM daily",
+      "rating": 4.6,
+      "ticketUrl": "https://www.thestoryoftexas.com/visit"
+    },
+    {
+      "name": "Congress Avenue Bridge Bats",
+      "lat": 30.2617,
+      "lng": -97.7451,
+      "note": "About 1.5 million Mexican free-tailed bats fly out from under the bridge at dusk, the largest urban bat colony in North America.",
+      "hours": "Around sunset, roughly March–October (peak August); few bats after early November",
+      "rating": 4.2
+    },
+    {
+      "name": "Zilker Metropolitan Park",
+      "lat": 30.2669,
+      "lng": -97.7705,
+      "note": "Austin's 350-acre central park, with a great lawn, canoe rentals, a miniature train and the Barton Springs pool.",
+      "hours": "5:00 AM–10:00 PM daily",
+      "rating": 4.6
+    },
+    {
+      "name": "South Congress Avenue",
+      "lat": 30.2495,
+      "lng": -97.7495,
+      "note": "SoCo, a strip of vintage shops, boot stores, food trucks and live-music bars with a view up Congress to the Capitol.",
+      "hours": "Street always open; shops ~10:00 AM–7:00 PM, bars later",
+      "rating": 4.4
+    },
+    {
+      "name": "McKinney Falls State Park",
+      "lat": 30.1836,
+      "lng": -97.7222,
+      "note": "Limestone ledges and waterfalls on Onion Creek, with swimming holes and trails, about 13 km southeast of downtown (car needed).",
+      "hours": "8:00 AM–10:00 PM daily; reserve a $6 day pass, the park often fills",
+      "rating": 4.2,
+      "ticketUrl": "https://tpwd.texas.gov/state-parks/mckinney-falls",
+      "bookAhead": true
+    },
+    {
+      "name": "Blanton Museum of Art",
+      "lat": 30.2808,
+      "lng": -97.7375,
+      "note": "UT's art museum, with European and Latin American collections and Ellsworth Kelly's chapel-like building 'Austin'.",
+      "hours": "Tue–Fri & Sun 10:00 AM–5:00 PM, Sat to 8:00 PM, closed Mon; free on Tuesdays",
+      "rating": 4.3,
+      "ticketUrl": "https://blantonmuseum.org/visit/"
+    },
+    {
+      "name": "Zilker Botanical Garden",
+      "lat": 30.2703,
+      "lng": -97.7717,
+      "note": "Themed gardens beside Zilker Park, including a Japanese garden, a rose garden and a dinosaur-footprint trail.",
+      "hours": "9:00 AM–5:00 PM daily, last entry 4:30 PM (Jun–Aug 8:00 AM–4:00 PM); closed on ACL Festival weekends",
+      "rating": 4.2,
+      "ticketUrl": "https://zilkergarden.org/hours-admissions/"
+    },
+    {
+      "name": "I Love You So Much Mural",
+      "lat": 30.2508,
+      "lng": -97.7494,
+      "note": "A hand-painted love note on the wall of Jo's Coffee on South Congress, one of the city's most photographed spots.",
+      "hours": "Outdoors, always visible; queues at weekends",
+      "rating": 4.3
+    },
+    {
+      "name": "Rainey Street",
+      "lat": 30.259,
+      "lng": -97.7387,
+      "note": "Old bungalows turned into bars with big porches and food trucks, a busy nightlife strip a short walk from the convention center.",
+      "hours": "Bars ~4:00 PM–2:00 AM, busiest Thu–Sat nights",
+      "rating": 4.4
+    },
+    {
+      "name": "Harry Ransom Center",
+      "lat": 30.2843,
+      "lng": -97.7411,
+      "note": "UT's free rare-books museum, which shows a Gutenberg Bible and the world's first photograph, plus changing literary and film exhibitions.",
+      "hours": "Tue–Fri 10:00 AM–5:00 PM, Sat–Sun noon–5:00 PM, closed Mon; free",
+      "rating": 4.6
+    }
+  ],
+  "railStations": [
+    {
+      "name": "Austin Amtrak Station",
+      "lat": 30.2697,
+      "lng": -97.7569,
+      "note": "Amtrak's Texas Eagle stops here once a day each way: north to Dallas, St. Louis and Chicago, south to San Antonio, with through cars to Los Angeles three times a week. It is on North Lamar west of downtown, not on the Red Line; downtown is a ~15-min walk or a short bus ride.",
+      "hours": "One train each way daily (~9 AM northbound, ~5 PM southbound); the waiting room opens around train times."
+    }
+  ],
+  "airports": [
+    {
+      "name": "Austin-Bergstrom International Airport",
+      "code": "AUS",
+      "lat": 30.2025,
+      "lng": -97.667,
+      "transitNote": "CapMetro bus Route 20 (not on this map) runs from the Barbara Jordan Terminal arrivals level every ~15 min to downtown (~30 min) and UT for the $1.25 local fare. Taxi or rideshare to downtown is ~20 min. The Project Connect Blue Line light rail to the airport is still years away.",
+      "hours": "Route 20: ~5:00 AM–~midnight; Night Owl Route 483 runs after midnight, six nights a week."
+    }
+  ]
+}

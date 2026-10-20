@@ -61,7 +61,31 @@
     {"name":"Point A Hotel Edinburgh Haymarket","lat":55.9462,"lng":-3.2107,"area":"Haymarket","rating":4.4,"ratingCount":1167,"stars":2,"priceTier":2},
     {"name":"Holiday Inn Express Edinburgh - Leith Waterfront","lat":55.9788,"lng":-3.1795,"area":"Leith","rating":4.1,"ratingCount":2003,"stars":3,"priceTier":2,"brandAnchor":true},
     {"name":"Ocean Mist Leith","lat":55.9768,"lng":-3.1697,"area":"Leith","rating":4.9,"ratingCount":877,"stars":4,"priceTier":3},
-    {"name":"Fingal","lat":55.9792,"lng":-3.1691,"area":"Leith","rating":4.9,"ratingCount":1392,"stars":5,"priceTier":4}
+    {"name":"Fingal","lat":55.9792,"lng":-3.1691,"area":"Leith","rating":4.9,"ratingCount":1392,"stars":5,"priceTier":4},
+    {
+      "name": "DoubleTree by Hilton Edinburgh Airport",
+      "lat": 55.9438,
+      "lng": -3.3592,
+      "area": "Edinburgh Airport",
+      "rating": 3.9,
+      "ratingCount": 1579,
+      "stars": 4,
+      "priceTier": 3,
+      "brandAnchor": true,
+      "airportException": true
+    },
+    {
+      "name": "Hampton by Hilton Edinburgh Airport",
+      "lat": 55.9447,
+      "lng": -3.3627,
+      "area": "Edinburgh Airport",
+      "rating": 3.8,
+      "ratingCount": 733,
+      "stars": 3,
+      "priceTier": 2,
+      "brandAnchor": true,
+      "airportException": true
+    }
   ],
   "sights": [
     {
