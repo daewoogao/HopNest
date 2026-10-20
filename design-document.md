@@ -523,6 +523,14 @@ they're done.
 
 ## Changelog
 
+### 2026-10-20 — Airport and station icons always on top
+- Audrey (checking Chengdu): a hotel icon must never cover an airport icon.
+- Airport and train-station icons and their labels now sit in their own map
+  layer above every hotel icon, hotel name tag and sight pin, in every city.
+  Hover cards and popups still open above them.
+- Checked all 94 cities: at every airport and station, the hub icon is the
+  topmost thing under its centre.
+
 ### 2026-10-19 — Airport exception: terminal hotels from 3.8
 - New §4 rule: airport hotels next to the terminal count from 3.8 with
   500+ reviews and no red flags.

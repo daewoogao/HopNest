@@ -1386,27 +1386,33 @@ function addSightMarker(s){
   sightMarkers.push({marker,label,def:s});
 }
 
+// Airport and train-station icons live in their own pane above the marker
+// pane, so no hotel icon or name tag can ever cover a hub (Leaflet's per-marker
+// z-index grows with screen position, so offsets alone can't guarantee this).
+// Tooltips (650) and popups (700) still open above them.
+map.createPane('hubPane').style.zIndex = 620;
+const AIRPORT_Z = 1000, RAIL_Z = 0;
 function addAirportMarker(a){
-  const marker = L.marker([a.lat,a.lng], {icon:airportIcon()}).addTo(map);
+  const marker = L.marker([a.lat,a.lng], {icon:airportIcon(), zIndexOffset:AIRPORT_Z, pane:'hubPane'}).addTo(map);
   const tooltipHTML = a.hours
     ? buildInfoHTML('✈️', `${a.name} (${a.code})`, null, a.hours)
     : buildInfoHTML('✈️', `${a.name} (${a.code})`, a.transitNote, null);
   marker.bindTooltip(tooltipHTML, {direction:'top', offset:[0,-16], className:'rail-hover-tooltip hover-airport', maxWidth:270});
   marker.bindPopup(popupHTML(`<div class="popup-title">${a.name} (${a.code})</div><div class="popup-sub">${a.transitNote}</div>${a.hours?`<div class="popup-sub" style="color:#1f6fb2;">🕐 ${a.hours}</div>`:''}<div class="popup-sub">Tap the icon again to clear the walk radius.</div>`), NO_CLOSE_BTN);
   marker.on('click', (e)=>{ L.DomEvent.stopPropagation(e); toggleAmenityCircle(marker, a.lat, a.lng, a.name, 'airport', '#0b4f6c'); });
-  const label = L.marker([a.lat,a.lng], {icon:L.divIcon({className:'airport-label', html:a.code, iconAnchor:[-16,4]}), interactive:false}).addTo(map);
+  const label = L.marker([a.lat,a.lng], {icon:L.divIcon({className:'airport-label', html:a.code, iconAnchor:[-16,4]}), interactive:false, zIndexOffset:AIRPORT_Z, pane:'hubPane'}).addTo(map);
   airportMarkers.push({marker,label,def:a});
 }
 
 function addRailStationMarker(r){
-  const marker = L.marker([r.lat,r.lng], {icon:railStationIcon()}).addTo(map);
+  const marker = L.marker([r.lat,r.lng], {icon:railStationIcon(), zIndexOffset:RAIL_Z, pane:'hubPane'}).addTo(map);
   marker.bindPopup(popupHTML(`<div class="popup-title">🚄 ${r.name}</div><div class="popup-sub">${r.note}</div>${r.hours?`<div class="popup-sub" style="color:#1f6fb2;">🕐 ${r.hours}</div>`:''}<div class="popup-sub">Tap the icon again to clear the walk radius.</div>`), NO_CLOSE_BTN);
   const tooltipHTML = r.hours
     ? buildInfoHTML('🚄', r.name, null, r.hours)
     : buildInfoHTML('🚄', r.name, r.note, null);
   marker.bindTooltip(tooltipHTML, {direction:'top', offset:[0,-16], className:'rail-hover-tooltip hover-rail', maxWidth:270});
   marker.on('click', (e)=>{ L.DomEvent.stopPropagation(e); toggleAmenityCircle(marker, r.lat, r.lng, r.name, 'rail', '#8a3b12'); });
-  const label = L.marker([r.lat,r.lng], {icon:L.divIcon({className:'airport-label', html:r.name, iconAnchor:[-16,4]}), interactive:false}).addTo(map);
+  const label = L.marker([r.lat,r.lng], {icon:L.divIcon({className:'airport-label', html:r.name, iconAnchor:[-16,4]}), interactive:false, zIndexOffset:RAIL_Z, pane:'hubPane'}).addTo(map);
   railStationMarkers.push({marker,label,def:r});
 }
 
