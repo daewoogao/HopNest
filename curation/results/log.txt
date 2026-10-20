@@ -552,3 +552,6 @@
 16:38:42 qingdao lines ok
 16:39:04 suzhou lines ok
 16:42:07 xiamen lines ok
+19:52:50 qingdao-osmall try 0 https://maps.mail.ru/osm/tools/overpass/api/interpreter -> 504 160 bytes
+19:53:43 qingdao-osmall try 1 https://overpass-api.de/api/interpreter -> 200 17131 bytes
+19:54:03 chongqing lines ok
